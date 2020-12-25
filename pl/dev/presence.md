@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-12-04T23:19:52.876Z
+date: 2020-12-25T00:40:46.262Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -18,32 +18,38 @@ Wersja `2.x` wprowadza [sklep z statusami](https://premid.app/store). Użytkowni
 > 
 > {.is-warning}
 
-- [Wytyczne](https://docs.premid.app/en/dev/presence/guidelines)
+- [Wytyczne](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Struktura
+
 Wszystkie statusy są kodowane w [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) ma kilka dodatkowych definicji nad JavaScriptem, więc naprawianie i identyfikowanie błędów jest o wiele prostsze.
 
 ## Instalacja
+
 1. Zainstaluj program [Git](https://git-scm.com/).
 2. Zainstaluj program [Node.js](https://nodejs.org/en/) (instaluje się z [npm](https://www.npmjs.com/)).
 3. Zainstaluj [TypeScript](https://www.typescriptlang.org/index.html#download-links) (otwórz konsole i wpisz `npm install -g typescript`).
 
 ## Klonowanie projektu
+
 1. Otwórz terminal i wpisz `git clone https://github.com/PreMiD/Presences`.
 2. Wybierz folder.
 3. Otwórz go w twoim edytorze kodu.
 
 ## Tworzenie katalogów i plików
 
-1. Utwórz folder o **nazwie** (nie URL) usługi, którą chcesz obsługiwać.
-2. Stwórz wewnątrz plik `presence.ts` i `tsconfig.json`.
-3. Utwórz wewnątrz katalog o nazwie `dist`.
-4. Utwórz plik `metadata.json` wewnątrz folderu `dist`.
+1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+2. Utwórz folder o **nazwie** (nie URL) usługi, którą chcesz obsługiwać.
+3. Stwórz wewnątrz plik `presence.ts` i `tsconfig.json`.
+4. Utwórz wewnątrz katalog o nazwie `dist`.
+5. Utwórz plik `metadata.json` wewnątrz folderu `dist`.
 
 ## Wypełnianie w pliku tsconfig.json
+
 Umieść następujący kod w pliku `tsconfig.json`.
-```javascript
+
+```typescript
 {
   "extends": "../../../tsconfig.json",
   "compilerOptions": {
@@ -51,22 +57,26 @@ Umieść następujący kod w pliku `tsconfig.json`.
   }
 }
 ```
+
 Aby uzyskać więcej informacji na temat konfiguracji TypeScript, kliknij [tutaj](/dev/presence/tsconfig).
 
 ## Wypełnianie w pliku metadata.json
+
 Stworzyliśmy dla leniwych kreator plików `metadata.json` [tutaj](https://eggsy.xyz/projects/premid/mdcreator). Nadal zaleca się przeczytanie tego, abyś wiedział, jak to działa.
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.2",
   "author": {
     "name": "USER",
     "id": "ID"
   },
-  "contributors": [{
-    "name": "USER",
-    "id": "ID"
-  }],
+  "contributors": [
+    {
+      "name": "USER",
+      "id": "ID"
+    }
+  ],
   "service": "SERVICE",
   "altnames": ["SERVICE"],
   "description": {
@@ -82,42 +92,51 @@ Stworzyliśmy dla leniwych kreator plików `metadata.json` [tutaj](https://eggsy
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
+  "readLogs": false,
   "settings": [
-        { 
-            "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": true
-        },
-        {
-            "id": "ID",
-            "if": {
-                "ID": true
-            },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
-        },
-        {
-            "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0,
-            "values": ["1", "2", "etc."]
-        }
-    ]
+    {
+      "id": "ID",
+      "multiLanguage": true
+    },
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": true
+    },
+    {
+      "id": "ID",
+      "if": {
+        "ID": true
+      },
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
+    },
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": 0,
+      "values": ["1", "2", "etc."]
+    }
+  ]
 }
 ```
 
 Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytować wartości właściwości. Pamiętaj, że następujące właściwości są opcjonalne w pliku `metadata.json`, jeśli nie planujesz ich używać, powinieneś je usunąć.
+
 - `współtwórcy`
+- `alternatywne nazwy`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
+- `readLogs`
 - `ustawienia`
 
 **Wyjaśnienie niektórych ustawień wartości:**
+
 <table>
   <thead>
     <tr>
@@ -129,170 +148,126 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b>
-      </td>
-      <td style="text-align:left">Powinno zawierać obiekt o nazwie <code></code> i <code>id</code> dewelopera obecności. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
+      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
         i kliknięcie prawym przyciskiem myszy na Twoim profilu.</td>
-      <td style="text-align:left"><code>Obiekt</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Obiekt</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>współtwórcy</b>
-      </td>
-      <td style="text-align:left">Powinno zawierać obiekt o nazwie <code></code> i <code>id</code> dewelopera obecności. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
+      <td style="text-align:left"><b>współtwórcy</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
         i kliknięcie prawym przyciskiem myszy na Twoim profilu.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
-      </td>
-      <td style="text-align:left">Tytuł usługi wspieranej przez tę obecność. <br>(Musi mieć taką samą nazwę jak folder, w którym wszystko się znajduje)</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><b>service</b></td>
+      <td style="text-align:left">The title of the service that this presence supports.<br>
+      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>alternatywne nazwy</b>
-      </td>
-      <td style="text-align:left">Bądź w stanie wyszukać obecność za pomocą innej nazwy. <br>Służą do wykorzystania w statusach, które mają inne nazwy w róźnych językach (np. Pokémon and 포켓몬스터).<br>Możesz też użyć tego do statusów, które mają specjalne litery więc nie musisz ich pisać (np. Pokémon i Pokemon).
-      </td>
-      <td style="text-align:left"><code>Array&lt;String&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><b>alternatywne nazwy</b></td>
+      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
+      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>opis</b>
-      </td>
-      <td style="text-align:left">Mały opis obecności, możesz użyć opisu usługi
-        jeśli nie masz pomysłów. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych.</td>
-      <td style="text-align:left"><code>Obiekt</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><b>opis</b></td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych.</td>
+      <td style="text-align:left"><code>Obiekt</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
-      </td>
-      <td style="text-align:left">Adres URL usługi. <br><b>Przykład:</b><code>vk.com</code><br>
-        <b>Ten adres URL musi pasować do adresu URL witryny, ponieważ wykryje czy jest to strona do wprowadzenia skryptu.</b><br><b>NIE DODAWAJ</b> <code>https://</code> lub <code>http://</code> wewnątrz adresu URL ani ukośnika na końcu adresu:
-<code>https://premid. pp/</code> -> <code>premid.app</code><br>
-<b>Uwaga</b>: Niektóre adresy URL mogą mieć <code>www.</code> lub coś innego przed ich domeną. <b>NIE</b> zapomnij go dodać!<br>
-Możesz dodać wiele adresów URL w ten sposób:<br>
-<code>["URL1", "URL2", "ITD."]</code><br>
-Możesz także użyć wyrażeń regularnych (Regex), wytłumaczonych niżej.
-      </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><b>url</b></td>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <code>https://premid.app/</code> -> <code>premid.app</code><br>
+      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+      You can add multiple URLs by doing the following:<br>
+      <code>["URL1", "URL2", "ETC."]</code><br>
+      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>regExp</b>
-      </td>
-      <td style="text-align:left">Ciąg wyrażenia regularnego używany do dopasowania adresów URL.<br>
-      RegExp lub znany również jako Regex, może być użyty, jeśli strona ma wiele subdomen.<br>
-Możesz użyć następującego regExp:<br>
-<code>([a-z0-9]+)[.]domena[.]TLD"</code><br>
-Nazwa TLD dla domeny najwyższego poziomu, na przykład: .com .net<br> 
-<code>([a-z0-9]+)</code> oznacza cokolwiek od 0 do 9.<br>
-        Możesz uzyskać szybki start, oglądając to <a href="https://youtu.be/sXQxhojSdZM">wideo</a><br>
-        Możesz przetestować swój regExp na <a href="https://regex101.com/">Regex101</a>
-      </td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><b>regExp</b></td>
+      <td style="text-align:left">A regular expression string used to match urls.<br>
+      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
+      You could use the following regExp for that:<br>
+      <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
+      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
+      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
+      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
+      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>wersja</b>
-      </td>
+      <td style="text-align:left"><b>wersja</b></td>
       <td style="text-align:left">Wersja twojej obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
-      </td>
+      <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link do serwisu&apos;s logotype.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b>
-      </td>
+      <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Link do Twojej miniatury obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
-      </td>
+      <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code>. Zalecamy użycie podstawowego koloru usługi
         , którą obsługuje Twoja obecność.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tagi</b>
-      </td>
+      <td style="text-align:left"><b>tagi</b></td>
       <td style="text-align:left">Tablica z tagami, pomoże użytkownikom wyszukać Twoją obecność na stronie.</td>
-      <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
-        </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
-      </td>
+      <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Ciąg używany do reprezentowania kategorii, pod którą znajduje się obecność. Zobacz prawidłowe kategorie <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">tutaj</a>.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>iframe</b>
-      </td>
-      <td style="text-align:left">Określa, czy użyto <code>iFrames</code></td>
-      <td style="text-align:left"><code>Boolean</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><b>iframe</b></td>
+      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left"><code>Boolean</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>iFrameRegExp</b>
-      </td>
+      <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Selektor wyrażenia regularnego, który wybiera iframes do wstrzyknięcia. Zobacz regExp po więcej informacji.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ustawienia</b>
-      </td>
+      <td style="text-align:left"><b>readLogs</b></td>
+      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>ustawienia</b></td>
       <td style="text-align:left">Zestaw ustawień, które użytkownik może zmienić. <br>
       Przeczytaj więcej o ustawieniach Presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">tutaj</a>.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
   </tbody>
 </table>
@@ -301,16 +276,15 @@ Stworzyliśmy dla leniwych kreator plików `metadata.json` [tutaj](https://eggsy
 
 ## Wprowadzenie
 
-```javascript
-var presence = new Presence({
+```typescript
+const presence = new Presence({
     clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
-}),
-
-strings = presence.getStrings({
+  }),
+  strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings
-});
+    //You can use this to get translated strings in their browser language
+  });
 
 /*
 
@@ -322,42 +296,44 @@ function myOutsideHeavyLiftingFunction(){
     // variable sets //
 }
 
-setInterval(myOutsideHeavyLiftingFunction, 10000); 
+setInterval(myOutsideHeavyLiftingFunction, 10000);
 //Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
-
 presence.on("UpdateData", async () => {
-    /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Wywołuje się ona co parę sekund, gdzie to możliwe.
+  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Wywołuje się ona co parę sekund, gdzie to możliwe.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
-    var presenceData: presenceData = {
-        largeImageKey: "key", /*The key (file name) of the Large Image on the presence. Są one przesyłane i nazywane w sekcji Rich Presence aplikacji o nazwie Art Assets*/
-        smallImageKey: "key", /*Klucz (nazwa pliku) dużego obrazu Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/
-        smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-        details: "Browsing Page Name", //The upper section of the presence text
-        state: "Reading section A", //The lower section of the presence text
-        startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-        endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-    }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+  const presenceData: PresenceData = {
+    largeImageKey:
+      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+    smallImageKey:
+      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
+    details: "Browsing Page Name", //The upper section of the presence text
+    state: "Reading section A", //The lower section of the presence text
+    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
+    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
+  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
 
-    if (presenceData.details == null) {
-        //This will fire if you do not set presence details
-        presence.setTrayTitle(); //Clears the tray title for mac users
-        presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-    } else {
-        //This will fire if you set presence details
-        presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
-    }
+  if (presenceData.details == null) {
+    //This will fire if you do not set presence details
+    presence.setTrayTitle(); //Clears the tray title for mac users
+    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+  } else {
+    //This will fire if you set presence details
+    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+  }
 });
 ```
+
 Możesz skopiować to do pliku `presence.ts` i edytować wartości. Ustawienie wszystkich wartości jest wykonywane wewnątrz zdarzenia updataData.
 
-Dla przykładów sugerujemy przyjrzeć się kodom Presence, takim jak: 1337x lub 9GAG.
+Dla przykładów sugerujemy przyjrzeć się kodom Presence, takim jak: 1337x lub 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
-Aby uzyskać więcej informacji o klasie Presence, kliknij [tutaj](/dev/presence/class).
+Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
 ## Nie można uzyskać określonych danych?!
 
@@ -368,50 +344,63 @@ Wiele stron używa [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/E
 3. Wykonaj `document.querySelectorAll("iframe")`.
 
 Jeśli okaże się, że Twoje dane znajdują się w ramce iFrame, wykonaj następujące czynności:
+
 1. Stwórz plik `iframe.ts`.
 2. Ustaw iFrame na `true` w twoim pliku metadanych.
 3. Wypełnianie w twoim pliku iFrame.
-```javascript
-var iframe = new iFrame();
+
+```typescript
+const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Pobierz wszystkie potrzebne dane z iFrame, zapisz je w zmiennych, 
-  a następnie wyślij za pomocą iframe.send
+  Get all the data you need out of the iFrame save them in variables
+  and then sent them using iframe.send
   */
-  iframe.send({ //wysyłanie danych
+  iframe.send({
+    //sending data
     video: video,
     time: video.duration
-  }); 
+  });
 });
 ```
+
 4. Zrobienie, by plik Statusu odbierał dane z pliku iFrame.
-```javascript
-presence.on("iFrameData", data => {
+
+```typescript
+presence.on("iFrameData", (data) => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
+
 **Uwaga:** Należy to umieścić poza zdarzeniem updateData.
+
 ## Kompilacja
+
 Otwórz konsolę w swoim folderze i wpisz `tsc -w` aby skompilować `presence.ts` w folderze `/dist`.
 
 # Ładowanie statusu
+
 1. Otwórz okienko i przytrzymaj klawisz <kbd>Shift</kbd> na twojej klawiaturze.
 2. **Load Presence** pojawi się w sekcji Presences.
 3. Kliknij na to, kiedy nadal przytrzymujesz przycisk <kbd>Shift</kbd>.
 4. Wybierz folder /dist twojego statusu.
 
 # Kilka pomocnych rzeczy
+
 ## Przeładowanie
+
 Witryna, którą rozwijasz, automatycznie ładuje się ponownie za każdym razem, gdy zapisujesz plik w folderze.
 
 ## Debugowanie
+
 - Możesz umieścić `console.log („Test”);` między kodem i sprawdzić, czy konsola przeglądarki daje ci taki wynik. Jeśli tak, kontynuuj i spróbuj ponownie po następnej funkcji. Jeśli nie, oznacza to błąd powyżej.
-- Jeśli to nie pomoże, poproś o pomoc programistę Presence na naszym [serwerze Discord](https://discord.premid.app/).
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Wyjaśnienie plików
+
 - [Klasa Presence](/dev/presence/class)
+- [Slideshow Class](/dev/presence/slideshow)
 - [Klasa iFrame](/dev/presence/iframe)
 - [Plik Metadata](/dev/presence/metadata)
-- [Konfiguracja TypeScript](/dev/presence/tsconfig)
-{.links-list}
+- [Konfiguracja TypeScript](/dev/presence/tsconfig ""){.links-list}

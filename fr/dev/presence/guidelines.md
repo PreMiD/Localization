@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Lignes directrices
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Pour certains, ces règles strictes peuvent paraître sévères. However, the implementation of these rule sets will keep us and our users from running into issues.
+Lors de la publication de Presences sur [notre dépôt GitHub](https://github.com/PreMiD/Presences), nous vous demandons de suivre un ensemble de règles. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles nous empêchera, ainsi que les utilisateurs, de faire face à n'importe quel problème.
 
 # Création
 

@@ -2,17 +2,19 @@
 title: Metadata.json
 description: Zawiera podstawowe dane o Prezentacji
 published: tak
-date: 2020-05-21T16:01:05.836Z
+date: 2020-12-25T00:41:36.917Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:52.965Z
 ---
 
 # Metadata.json
 
 Jeśli chcesz opublikować swój status Presence w sklepie i załadować ją przez rozszerzenie, powinieneś utworzyć plik `metadata.json` w folderze `dist`.
 
-Przykład tego pliku można znaleźć poniżej.
+An example of that file can be found below.
 
-```javascript
+```typescript
 {
   "author": {
     "name": "USER",
@@ -38,30 +40,30 @@ Przykład tego pliku można znaleźć poniżej.
   "category": "CATEGORY",
   "iframe": false,
   "settings": [
-        { 
-            "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": true
-        },
-        {
-            "id": "ID",
-            "if": {
-                "ID": true
-            },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
-        },
-        {
-            "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0,
-            "values": ["1", "2", "etc."]
-        }
-    ]
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": true
+    },
+    {
+      "id": "ID",
+      "if": {
+        "ID": true
+      },
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
+    },
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": 0,
+      "values": ["1", "2", "etc."]
+    }
+  ]
 }
 ```
 
@@ -80,156 +82,113 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b>
-      </td>
-      <td style="text-align:left">Powinno zawierać obiekt o nazwie <code></code> i <code>id</code> dewelopera obecności. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
+      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
         i kliknięcie prawym przyciskiem myszy na Twoim profilu.</td>
-      <td style="text-align:left"><code>Obiekt</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Obiekt</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>współtwórcy</b>
-      </td>
-      <td style="text-align:left">Powinien zawierać obiekt o <code>nazwie</code> i <code>id</code> współautora. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
+      <td style="text-align:left"><b>współtwórcy</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
         i kliknięcie prawym przyciskiem myszy na Twoim profilu.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b>
-      </td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Tytuł usługi wspieranej przez tę obecność.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>alternatywne nazwy</b>
-      </td>
-      <td style="text-align:left">Bądź w stanie wyszukać obecność za pomocą innej nazwy. <br>Służą do wykorzystania w statusach, które mają inne nazwy w róźnych językach (np. Pokémon and 포켓몬스터).<br>Możesz też użyć tego do statusów, które mają specjalne litery więc nie musisz ich pisać (np. Pokémon i Pokemon).
-      </td>
-      <td style="text-align:left"><code>Array&lt;String&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><b>alternatywne nazwy</b></td>
+      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
+      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>opis</b>
-      </td>
-      <td style="text-align:left">Mały opis obecności, możesz użyć opisu usługi
-        jeśli nie masz pomysłów. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych. Wyświetl kategorię języków Presence dla listy. </td>
-      <td style="text-align:left"><code>Obiekt</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><b>opis</b></td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych. Wyświetl kategorię języków Presence dla listy. </td>
+      <td style="text-align:left"><code>Obiekt</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b>
-      </td>
-      <td style="text-align:left">URL usługi.<br><b>Przykład: </b><code>vk.com</code><br>
-        <b>Ten adres URL musi być zgodny z adresem URL witryny, ponieważ będzie on używany do wykrywania strony internetowej, do której należy zainicjować skrypt. Może to być użyte jako tablica tylko wtedy, gdy istnieje więcej niż jeden adres URL.</b>
-      </td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><b>url</b></td>
+      <td style="text-align:left">URL of the service.<br>
+      <b>Example:</b><code>vk.com</code><br>
+      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Może to być użyte jako tablica tylko wtedy, gdy istnieje więcej niż jeden adres URL.</b></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>regExp</b>
-      </td>
+      <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Ciąg wyrażenia regularnego używany do dopasowywania adresów URL.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>wersja</b>
-      </td>
+      <td style="text-align:left"><b>wersja</b></td>
       <td style="text-align:left">Wersja twojej obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b>
-      </td>
+      <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link do serwisu&apos;s logotype.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b>
-      </td>
+      <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Link do Twojej miniatury obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b>
-      </td>
+      <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code>. Zalecamy użycie podstawowego koloru usługi
         , którą obsługuje Twoja obecność.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tagi</b>
-      </td>
+      <td style="text-align:left"><b>tagi</b></td>
       <td style="text-align:left">Tablica z tagami, pomoże użytkownikom wyszukać Twoją obecność na stronie.</td>
-      <td
-      style="text-align:left"><code>String, Array&lt;String&gt;</code>
-        </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b>
-      </td>
+      <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Ciąg używany do reprezentowania kategorii, pod którą znajduje się obecność.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Nie</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>iframe</b>
-      </td>
+      <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Określa, czy użyto <code>iFrames</code></td>
-      <td style="text-align:left"><code>Boolean</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><code>Boolean</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>iFrameRegExp</b>
-      </td>
+      <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Selektor wyrażenia regularnego, który wybiera iframes do wstrzyknięcia.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ustawienia</b>
-      </td>
+      <td style="text-align:left"><b>readLogs</b></td>
+      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left"><code>Ciąg znaków</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>ustawienia</b></td>
       <td style="text-align:left">Szereg ustawień, które użytkownik może zmienić</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
-      </td>
-      <td style="text-align:left"><code>Tak</code>
-      </td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
   </tbody>
 </table>
@@ -240,7 +199,7 @@ Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych
 
 #### Nauka
 
-• [Szybki start wideo](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Informacje o regularnych wyrażeniach](https://www.regular-expressions.info/tutorial.html)
+• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
 #### Testowanie
 
@@ -248,53 +207,119 @@ Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych
 
 ## Języki - Presence
 
-PreMiD to usługa poligraficzna, co oznacza, że istnieje wiele języków, które łączą użytkowników na całym świecie. Pełna lista języków znajduje się w tym [punkcie końcowym API](https://api.premid.app/v2/langFile/list).
+PreMiD to usługa poligraficzna, co oznacza, że istnieje wiele języków, które łączą użytkowników na całym świecie. Pełna lista języków znajduje się w tym [punkcie końcowym API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
 
 ## Ustawienia - Presence
 Skonfiguruj ustawienia interaktywne, aby użytkownicy mogli dostosować swój status Presence!
-```javascript
+```typescript
 "settings": [
-        { 
-            "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON", //Przykładowo "fas fa-info"
-            "value": true //Boolean sprawi, że będzie to przełącznik włącz/wyłącz z wartością jako wartością domyślną
-        },
-        {
-            "id": "ID",
-            "if": {
-                "ID": true //Jeśli inne ustawienie jest równe tej wartości (prawda/fałsz/0/1/itd.), pokaż ten przycisk
-            },
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": "\"%song%\" by %artist%", //Wprowadzenie łańcucha "string" spowoduje, że ustawienie będzie wejściowe, w którym można użyć niestandardowego wejścia.
-            "placeholder": "use %song% or %artist%" //Gdy dane wejściowe są puste, będzie zaznaczone na szaro
-        },
-        {
-            "id": "ID",
-            "title": "DISPLAY TITLE",
-            "icon": "FONTAWESOME FREE ICON",
-            "value": 0, //Wartość domyślna selektora
-            "values": ["1", "2", "etc."] //Sprawi, że ustawienie będzie selektorem, w którym wybierzesz ten, który chcesz
-        }
-    ]
+  {
+    "id": "ID",
+    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
+  },
+  {
+    "id": "ID",
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+    "value": true //Boolean value will make it an on/off switch with the value as the default value
+  },
+  {
+    "id": "ID",
+    "if": {
+      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+    },
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME FREE ICON",
+    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+  },
+  {
+    "id": "ID",
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME FREE ICON",
+    "value": 0, //Default value of the selector
+    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+  }
+]
 ```
+
+### `multiLanguage`
+
+#### Wprowadzanie
+
+The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+
+#### Setup
+
+The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+
+The `multiLanguage` key can be set to the following:
+
+`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+
+#### Adding new strings
+
+##### Klonowanie projektu
+
+1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
+2. Wybierz folder.
+3. Otwórz go w twoim edytorze kodu.
+
+##### Creating the file
+
+1. Go into the `src` folder.
+2. Go into the `Presence` folder.
+3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+
+##### Adding the strings
+
+Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+
+The stringName is a 1 word identifier of the message.
+
+The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+
+**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+
+Visualization of the the file:
+
+```typescript
+{
+  "<service>.<stringName>": {
+    "message": "Text that needs to be translated.",
+    "description": "This explains what the message above is."
+  },
+  "<service>.<stringName>": {
+    "message": "Text that needs to be translated.",
+    "description": "This explains what the message above is."
+  }
+}
+```
+
+After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+
+#### Default keys
+The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+
+**Note:** These are in no way changeable.
+
+### Metody
 
 Użyj następujących metod, aby uzyskać informacje o ustawieniach w swoich plikach Presence:
-### `getSetting(String)`
+#### `getSetting(String)`
 Zwraca wartość ustawienia.
 ```typescript
-var setting = await presence.getSetting("pdexID"); // Zamień pdexID na id ustawienia
-console.log(setting); // Spowoduje to zapisanie wartości ustawienia
+const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
 ```
 
-### `hideSetting(String)`
+#### `hideSetting(String)`
 Ukrywa podane ustawienie.
 ```typescript
 presence.hideSetting("pdexID"); //Zamień pdexID na id ustawienia
 ```
 
-### `showSetting(String)`
+#### `showSetting(String)`
 Pokazuje podane ustawienie (działa tylko, jeśli ustawienie było już ukryte).
 ```typescript
 presence.showSetting("pdexID"); //Zamień pdexID na id ustawienia
@@ -317,37 +342,31 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
       <td style="text-align:left">Wszystko związane z animem, od forów po platformy streamingu wideo.</td>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>gry</b></td>
-    <td style="text-align:left"><b>Gry</b></td>
+      <td style="text-align:left"><b>Gry</b></td>
       <td style="text-align:left">Każda strona internetowa, która ma treści związane z grą, takie jak <code>Kahoot</code> lub <code>Skribbl.io</code></td>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>muzyka</b></td>
-    <td style="text-align:left"><b>Muzyka</b></td>
+      <td style="text-align:left"><b>Muzyka</b></td>
       <td style="text-align:left">Są to strony internetowe oferujące treści związane z muzyką, czy to strumieniowe, czy pobierane.</td>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>media społecznościowe</b></td>
         <td style="text-align:left"><b>Media Społecznościowe</b></td>
       <td style="text-align:left">Strony internetowe wykorzystywane do tworzenia i udostępniania treści lub do udziału w innych formach sieci społecznościowych.</td>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>filmy</b></td>
         <td style="text-align:left"><b>Filmy i transmisje</b></td>
       <td style="text-align:left">Strony internetowe służące do dostarczania filmów i strumieni.</td>
-      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>inne</b></td>
-    <td style="text-align:left"><b>Inne</b></td>
+      <td style="text-align:left"><b>Inne</b></td>
       <td style="text-align:left">Każda z tych kategorii, które nie wchodzą w zakres określonej wyżej kategorii.</td>
-      </td>
     </tr>
   </tbody>
 </table>

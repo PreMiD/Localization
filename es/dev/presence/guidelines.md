@@ -153,7 +153,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 - **Solo** uses esto en el caso de que el sitio web aparezca bajo distintos nombres (e.j. Pokémon ó 포켓몬스터) para buscar mas fácil la presence sin usar caracteres especiales (e.j. Pokémon ó Pokemon). Versiones *acortadas* del servicio aparecerán como `etiquetas`.
 
-### **`descripción`**
+### **`description`**
 
 - **Todas** las presences **requieren** una descripción en Inglés sin importar el idioma preferido del sitio web.
 - **No** intentes traducir la descripción por tu cuenta a menos que conozcas el idioma, traductores modificaran tu `metadata.json.` y cambiaran la descripción de ser necesario.
@@ -163,12 +163,12 @@ Una lista de los campos y sus reglas están listadas abajo:
 - La url **debe** ser un "string" si el sitio web solo usa un dominio. Si el sitio web usa múltiples, usa un array y especifica cada una.
 - **No** incluyas protocolos en la url (por ej.`http` o `https`, y no incluyas parámetros "query" en la url (por ej.,`www.google.com/search?gws_rd=ssl` debería ser `www.google.com`)
 
-### **`versión`**
+### **`version`**
 
 - Asegúrate de que el número de versión sigue [los estándares semánticos de versionado](https://semver.org/lang/es/), que se traducen al siguiente esquema: `<NUEVA-CARACTERISTICA>.<SOLUCION-DE-MULTIPLES-BUGS>.<SOLUCION-DE-PEQUEÑOS-BUGS-O-CAMBIOS-EN-METADATA>`. Cualquier cosa como `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` o cambiando `1.0.0` a `2.0.0` en una corrección de errores/cambio pequeño **no** está permitido.
 - La versión **debe** empezar siempre con `1.0.0` a menos que se diga lo contrario, otras versiones **no** serán permitidas.
 
-### **`logotipo`**
+### **`logo`**
 
 - El logo **debe** ser una imagen cuadrada con una relación de aspecto `1:1`.
 - La imagen **requiere** una resolución mínima de `512x512` píxeles. Puedes aumentar el tamaño de la imagen usando una herramienta como [waifu2x](http://waifu2x.udp.jp/).
@@ -182,14 +182,14 @@ Una lista de los campos y sus reglas están listadas abajo:
 - El color **debe** ser un valor hexadecimal entre `#000000` y `#FFFFFF`.
 - La cadena de color **debe** estar precedida por una almohadilla (#).
 
-### **`etiquetas`**
+### **`tags`**
 
 - **Todas** las presences requieren por lo menos _una_ etiqueta.
 - Las etiquetas **no** deben tener espacios, slashes, comillas simples o dobles, caracteres Unicode y siempre deberían ser en minúscula.
 - Las etiquetas **deberían** incluir preferiblemente nombres de servicio alternativos para hacer su búsqueda mas fácil ( por ejemplo, si una presencia Amazon hubiese incluido soporte para AWS, debería tener sus etiquetas como `amazon-web-services` y `aws`)
 - Estás **obligado** a añadir una etiqueta `NSFW` si la presence es para un sitio web con contenido para adultos.
 
-### **`categoría`**
+### **`category`**
 
 - La categoría **debe** ser una de las siguientes listadas en la [documentación](https://docs.premid.app/es/dev/presence/metadata#categorias-de-una-presencia).
 - La presence debe utilizar una categoría que coincida con el contenido del sitio web. (por ejemplo, no utilices `anime` cuando el sitio web no esté relacionado con anime).
