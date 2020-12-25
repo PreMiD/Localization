@@ -12,14 +12,14 @@ editor: markdown
 > {.is-warning}
 
 # حول PreMiD
-- :mag:[ماهو PreMiD ؟](/about) ولماذا عليك استخدامه.
-- [ماهي واجهة الدسكورد](https://discordapp.com/rich-presence) جميع ماتود معرفته عنها.
+- :mag: [ماهو PreMiD ؟](/about) ولماذا عليك استخدامه.
+- :link: [ما هو RPC](https://discordapp.com/rich-presence) كل شيء عن Rich Presence و وظائفه.
 
 # ابدء
 
-مع PreMiD وسهولة استخدامة وتحميلة وتثبيته. يحب ان تكون مواكب وعصري.
+PreMid سريع وسهل التثبيت. يجب أن تكون جاهز وتعمل في أسرع وقت.
 
-- يجب ان تتأكد من مطابقة [موصفات النظام](/install/requirements).
+- تأكد من أنك قرأت [متطلبات النظام](/install/requirements).
 - اتبع التعليمات والارشادات البسيطة والسهله في [دليل الارشادات](/install).
 - [حل المشاكل](/troubleshooting) دليلك لطرق حل المشاكل والاسئله الشائعه وحلها.
 
