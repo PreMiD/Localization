@@ -193,38 +193,38 @@ Devuelve los logs de la consola del sitio web.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Obtienes los últimos 100 logs (en un array).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Nota:** Requiere establecer la propiedad `readLogs` a `true` en el archivo `metadata.json`.
 
 ### `info(String)`
 
-Console logs the given message in a format based of the presence in the `info` style.
+Muestra un log en la consola del mensaje dado en un formato basado en el estilo `info` de la presence.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Esto logeará "test" con un estilo predeterminado.
 ```
 
 ### `success(String)`
 
-Console logs the given message in a format based of the presence in the `success` style.
+Muestra un log en la consola del mensaje dado en un formato basado en el estilo `success` de la presence.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Test") // Esto logeará "test" con un estilo predeterminado.
 ```
 
 ### `error(String)`
 
-Console logs the given message in a format based of the presence in the `error` style.
+Muestra un log en la consola del mensaje dado en un formato basado en el estilo `error` de la presence.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Test") // Esto logeará "test" con un estilo predeterminado.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Devuelve 2 marcas de tiempo (timestamps) en un `array` que puede ser usado para `startTimestamp` y `endTimestamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** El `String` dado en querySelector es un ejemplo.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Devuelve 2 marcas de tiempo (timestamps) en un `array` que puede ser usado para `startTimestamp` y `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** El `String` dado en querySelector es un ejemplo.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Convierte una cadena con formato `HH:MM:SS` o `MM:SS` o `SS` en un entero (no devuelve un timestamp).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -258,11 +258,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** El `String` dado en querySelector es un ejemplo.
 
-## `PresenceData` Interfaz
+## Interfaz `PresenceData`
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+Se recomienda utilizar la interfaz `PresenceData` cuando se está utilizando el método `setActivity()`.
 
 Esta interfaz tiene siguientes variables, todas son opcionales.
 
