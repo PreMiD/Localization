@@ -2,7 +2,7 @@
 title: Разработчик присутствия
 description:
 published: true
-date: 2020-12-25T00:40:46.262Z
+date: 2020-12-25T14:49:28.771Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -66,7 +66,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
     "name": "USER",
     "id": "ID"
@@ -92,7 +92,12 @@ dateCreated: 2020-06-11T18:04:02.843Z
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
+  "readLogs": false,
   "settings": [
+    {
+      "id": "ID",
+      "multiLanguage": true
+    },
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
@@ -115,6 +120,9 @@ dateCreated: 2020-06-11T18:04:02.843Z
       "icon": "FONTAWESOME FREE ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
+    }
+  ]
+}
 ```
 
 Пожалуйста, скопируйте код выше и поместите его в файл `metadata.json`. Теперь нужно изменить значения свойств. Пожалуйста, обратите внимание, что следующие свойства необязательны для использования в метаданных `. son` файл, если вы не планируете его использовать.
@@ -162,9 +170,9 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Уметь искать присутствие, используя альтернативное имя.<br>
+      Предназначен для использования для присутствий с разными названиями на разных языках. (e.g. Pokémon and 포켓몬스터).<br>
+      Вы также можете использовать его для присутствий со специальными символами, поэтому вам не нужно их вводить (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
@@ -270,12 +278,12 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "0000000000000000" //ID клиента приложения, созданного на https://discordapp. om/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
+    пауза: "presence.playback. выключено"
+    //Вы можете использовать это для перевода строк на их языке браузера
   });
 
 /*
@@ -285,37 +293,37 @@ function myOutsideHeavyLiftingFunction(){
 
     // element grabs //
     // api calls //
-    // variable sets //
+    // переменные наборы
 }
 
-setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(myOutsideHeavyLiftingFunction, США);
+//Запуск функции отделяется от события UpdateData каждые 10 секунд, чтобы получить и установить переменные, которые UpdateData берет
 
 */
 
-presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Это вызывается несколько раз в секунду, когда это возможно.
+. n("UpdateData", async () => {
+  /*UpdateData всегда стреляет, и поэтому следует использовать как ваш цикл обновления, или `tick`. Это вызывается несколько раз в секунду, когда это возможно.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Рекомендуется настроить другую функцию вне этой функции события, которая изменит значения переменных и выполнит тяжелый подъем при вызове данных с API. /
 
-  const presenceData: PresenceData = {
+  Const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. Они загружаются и называются в разделе Rich Presence вашего приложения, который называется Art Assets.*/
-        smallImageKey: "key", /*Ключ (имя файла) большого изображения о наличии. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+      "key" /*Ключ (имя файла) Большого изображения на наличии. Они загружаются и называются в разделе Rich Presence вашего приложения, который называется Art Assets.*/
+        smallImageKey: "key", /*Ключ (имя файла) большого изображения о наличии. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, под названием Art Assets*/,
+    smallImageText: "Некоторого наведении текста", //Текст, который отображается при наведении курсора на маленькое изображение
+    подробности: "Имя страницы просмотра", //Верхняя часть текста присутствия
+    состояния: "Чтение секции А", //Нижняя часть текста о присутствии
+    startTimestamp: 1577232000, //Отметка времени эпохи unix для начала подсчета времени с
+    на время окончания времени: 1577151472000 //Если вы хотите отобразить время осталось вместо устаревших, это метка времени unix эпохи, в которой таймер заканчивается
+  }; /*При необходимости вы можете установить здесь largeImageKey и изменить остальные в качестве субсвойств переменной, например presenceSata. Type = "blahblah"; тип примеров: подробности, состояние и т.д.*/
 
-  if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+  если (presenceData. etails == null) {
+    //Это вызовет вызов, если вы не указали детали присутствия
+    присутствия. etTrayTitle(); //Очищает заголовок для mac пользователей
+    etActivity(); /*Обновите присутствие без данных, поэтому очистите его и сделайте большое изображение значком приложения Discord, и текст названия приложения Discord*/
   } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    //Это вызовет выстрел, если вы установите детали присутствия
+    присутствия. etActivity(presenceData); //Обновление присутствия всеми значениями из объекта присутствияData
   }
 });
 ```
@@ -324,7 +332,7 @@ presence.on("UpdateData", async () => {
 
 Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG. Для получения дополнительной информации о `Presence` class click [here](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Начиная с версии 2.2. есть слайд-шоу, это позволяет показать несколько интерфейсов `PresenceData` на интервале, для получения дополнительной информации нажмите на `Слайд-шоу` класс [здесь](/dev/presence/slideshow).
 
 ## Не удается получить определенные данные?!
 
@@ -391,7 +399,7 @@ presence.on("iFrameData", (данные) => {
 # Больше информации
 
 - [Класс присутствия](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [Класс слайд-шоу](/dev/presence/slideshow)
 - [Класс iFrame](/dev/presence/iframe)
 - [Файл Метаданных](/dev/presence/metadata)
 - [Настройка TypeScript](/dev/presence/tsconfig ""){.links-list}
