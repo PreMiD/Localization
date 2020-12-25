@@ -12,22 +12,22 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 Si quieres publicar una presence en la tienda y cargarla a través de la extensión deberás crear el archivo `metadata.json` en tu carpeta `dist`.
 
-An example of that file can be found below.
+A continuación se muestra un ejemplo de este archivo.
 
 ```typescript
 {
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVICIO",
+  "altnames": ["SERVICIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCCIÓN  (en inglés)"
   },
   "url": "URL",
   "regExp": "REGEXP",
@@ -36,14 +36,14 @@ An example of that file can be found below.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORIA",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "title": "TITULO A MOSTRAR",
+      "icon": "ICONO DE FONTAWESOME",
       "value": true
     },
     {
@@ -51,17 +51,17 @@ An example of that file can be found below.
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
+      "title": "TITULO A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
+      "value": "\"%song%\" por %artist%",
+      "placeholder": "usa %song% o %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "title": "TITULO A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
       "value": 0,
-      "values": ["1", "2", "etc."]
+      "values": ["VALOR 1", "OTRO VALOR", "etc."]
     }
   ]
 }
