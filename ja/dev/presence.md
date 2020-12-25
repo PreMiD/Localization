@@ -12,18 +12,18 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+バージョン`2.x`で[プレゼンスストア](https://premid.app/store)が追加されました。 [サイトから](https://premid.app/)好きなプレゼンスを入れたり、お気に入りのプレゼンスを追加できます。
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> 始める前に、プレゼンスガイドラインを見ることをおすすめします。 
 > 
 > {.is-warning}
 
 - [ガイドライン](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# 構造
 
-すべてのプレゼンスは[TypeScript](https://www.typescriptlang.org/)で書かれています。 [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+すべてのプレゼンスは[TypeScript](https://www.typescriptlang.org/)で書かれています。 [TypeScript](https://www.typescriptlang.org/) はJavascriptよりちょっといい感じの定義を使用しているので、バグを見つけたり修正したりするのが簡単です。
 
 ## インストール
 
