@@ -12,58 +12,57 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 Если вы хотите опубликовать присутствие в магазине и загрузить его через расширение, вы должны создать файла `metadata.json` в папке `dist`.
 
-An example of that file can be found below.
+Пример этого файла можно найти ниже.
 
 ```typescript
 {
   "author": {
-    "name": "USER",
+    "name": "ПОЛЬЗОВАТЕЛЬ",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "ПОЛЬЗОВАТЕЛЬ",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "СЕРВИС",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "ОПИСАНИЕ"
   },
-  "url": "URL",
+  "url": "ССЫЛКА",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
+  "version": "ВЕРСИЯ",
+  "logo": "ССЫЛКА",
+  "thumbnail": "ССЫЛКА",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "КАТЕГОРИИ",
   "iframe": false,
   "settings": [
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
-      "value": true
-    },
-    {
-      "id": "ID",
-      "if": {
-        "ID": true
-      },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
-    },
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
-      "value": 0,
-      "values": ["1", "2", "etc."]
-    }
-  ]
+        { 
+            "id": "ID",
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
+        },
+        {
+            "id": "ID",
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -117,9 +116,8 @@ An example of that file can be found below.
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Это может быть использовано в качестве массива только при наличии более URL's.</b></td>
+      <td style="text-align:left">URL сервиса.<br><b>Пример:</b><code>vk.com</code><br>
+        <b>Этот URL должен совпадать с URL сайта, так как он будет использоваться для определения сайта для вставки скрипта. Это может быть использовано в качестве массива только при наличии более URL's.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
@@ -199,7 +197,7 @@ An example of that file can be found below.
 
 #### Обучение
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Быстрый Стартер Видео](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Информация о регулярных выражениях](https://www.regular-expressions.info/tutorial.html)
 
 #### Проверка
 
@@ -247,41 +245,41 @@ PreMiD - это полиусиленный сервис, что означает
 
 #### Введение
 
-The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+Параметр `мультиЯзык` используется для того, чтобы позволить пользователям вручную выбрать язык, на котором они хотят присутствовать. Это требует использования строк из нашего [API](https://api.premid.app/v2/langFile/presence/en), для информации о том, как добавлять строки нажмите [здесь](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Настройки
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+Параметр `многоязычность` является особым случаем, не требует заголовка `` и `иконки` и не `значения` или `значения` как и другие параметры, но это требует дополнительных настроек!
 
-The `multiLanguage` key can be set to the following:
+Клавиша `многоязычность` может быть изменена на следующее:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: используйте это, если вы собираетесь использовать только строки `общего характера. son` файл и файл `<service>.json` в [Репозиторий локализации](https://github.com/PreMiD/Localization/tree/master/src/Presence). `строка`: имя файла, исключая расширение (. son) внутри [Репозитория локализации](https://github.com/PreMiD/Localization/tree/master/src/Presence) (за исключением `общего файла`, так как он всегда загружается). Будут показаны только общие языки `общего` и введенного файла. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Будут показаны только общие языки всех файлов.
 
-#### Adding new strings
+#### Добавление новых строк
 
 ##### Клонирование проекта
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
+1. Откройте терминал и введите `git clone https://github.com/PreMiD/Localization`.
 2. Выберите папку по вашему выбору.
 3. Откройте это в вашем редакторе кода.
 
-##### Creating the file
+##### Создание файла DjVu
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Перейдите в папку `src`.
+2. Перейдите в папку `src`.
+3. Создайте файл с именем `<service>.json`. (Создайте папку с **именем** (не URL) сервиса, который вы хотите поддерживать.)
 
-##### Adding the strings
+##### Добавление строк
 
 Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
 
-The stringName is a 1 word identifier of the message.
+Имя строки является идентификатором 1 слова сообщения.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+`Объект` имеет 2 свойства; `сообщение` и `описание`. `сообщение` - это текст, который необходимо перевести. `описание` это описание сообщения, чтобы помочь нашим переводчикам понять, что они переводят.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Note:** Не добавляйте повторяющиеся строки. (Это включает строки из файла `general.json`, но не из других файлов.)
 
-Visualization of the the file:
+Визуализация файла:
 
 ```typescript
 {
@@ -296,12 +294,12 @@ Visualization of the the file:
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+После того, как вы полностью сделали файл со строками, вы можете создать Pull Request в [Репозиторий локализации](https://github.com/PreMiD/Localization), в описании, которое вы **должны** включить ссылку на ваш Pull Request of the presence updated using these new strings from [Presence Repository](https://github.com/PreMiD/Presences).
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Ключи по умолчанию
+Ключи, которые вы не должны были установить, автоматически устанавливаются на следующее: `заголовок`: "Язык" **Примечание:** Это переведено на язык по умолчанию (язык браузера). `значок`: "fas fa-language" ([Предварительный просмотр](https://fontawesome.com/icons/language)) `значение`: **Установите на их язык браузера, если он доступен (100% переведен), иными словами, английский язык.** `значения`: **Установка на доступные языки (языки, на которых переводятся на 100%).**
 
-**Note:** These are in no way changeable.
+**Примечание:** Они ни в коей мере не изменяются.
 
 ### Методы
 

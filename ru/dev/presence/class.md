@@ -66,22 +66,22 @@ const presence = new Presence({
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Создает новый класс `слайд-шоу`.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-This is suggested to do right when you make the `Presence` class.
+Это рекомендуется сделать правильно, когда вы делаете класс `Presence`.
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Пример clientId
   }),
-  slideshow = presence.createSlideshow();
+  слайдшоу = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Вы можете найти документацию по `Slideshow` class [here](/dev/presence/slideshow).
 
 ### `getStrings(Object)`
 
@@ -145,8 +145,8 @@ const pauseString = strings.pause; // result: Paused
 Возвращает переменную с сайта, если она существует.
 
 ```typescript
-const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+var pageVar = getPageletiable('.pageVar');
+console.log(pageVar); // Это войдёт в "Переменный контент"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -156,10 +156,10 @@ console.log(pageVar); // This will log the "Variable content"
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
-const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
-const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+var numeric = presence.getExtensionVersion();
+console.log(numeric); // Сообщается номера "210" в логи
+var version = presence.getExtensionVersion(false);
+console.log(version); // Сообщается версии "2.1.0" в логи
 ```
 
 ### `getSetting(String)`
@@ -176,7 +176,7 @@ console.log(setting); // This will log the value of the setting
 Скрывает указанные настройки.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Заменить pdexID идентификатором настройки
 ```
 
 ### `showSetting(String)`
@@ -184,47 +184,47 @@ presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 Показывают данные настройки (работает только если настройка была скрыта).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Заменить pdexID идентификатором настройки
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Возвращает журналы консоли веб-сайтов.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Журнал последних 100 логов (в массиве).
 ```
 
 **Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
 
 ### `info(String)`
 
-Console logs the given message in a format based of the presence in the `info` style.
+Консоль записывает данное сообщение в формате, основанном на присутствии в стиле `ошибки`.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Это протоколирует "test" в правильном стиле.
 ```
 
 ### `success(String)`
 
-Console logs the given message in a format based of the presence in the `success` style.
+Консоль записывает данное сообщение в формате, основанном на присутствии в стиле `ошибки`.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Test") // Это протоколирует "test" в правильном стиле.
 ```
 
 ### `error(String)`
 
-Console logs the given message in a format based of the presence in the `error` style.
+Консоль записывает данное сообщение в формате, основанном на присутствии в стиле `ошибки`.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Test") // Это протоколирует "test" в правильном стиле.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Возвращает 2 `снежинку` метки времени в массиве `` , которые могут быть использованы для `startTimestamp` и `endTimamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Заметка:** Данный `String` в querySelector является примером.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Возвращает 2 `снежинку` метки времени в массиве `` , которые могут быть использованы для `startTimestamp` и `endTimamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Заметка:** Данный `String` в querySelector является примером.
 
 ### `timestampFromFormat(String)`
 
@@ -258,7 +258,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Заметка:** Данный `String` в querySelector является примером.
 
 ## `PresenceData` Интерфейс
 
