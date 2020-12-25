@@ -39,7 +39,7 @@ Toda Presence está programada en [TypeScript](https://www.typescriptlang.org/).
 
 ## Creando carpetas y archivos
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Ve a la carpeta `websites` y luego a la carpeta con la primera letra del **nombre** (no una URL) del servicio que deseas dar soporte.
 2. Cree una carpeta con el **nombre** (no una URL) del servicio que desea soportar.
 3. Crea un archivo de `presence.ts` y `tsconfig.json` dentro.
 4. Cree una carpeta llamada `dist` en su interior.
@@ -68,27 +68,27 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USER",
+      "name": "USUARIO",
       "id": "ID"
     }
   ],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVICIO",
+  "altnames": ["SERVICIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCCION (en ingles)"
   },
   "url": "URL",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORIA",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "title": "TITULO A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
       "value": true
     },
     {
@@ -109,17 +109,17 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
+      "title": "TITULO A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
+      "value": "\"%song%\" por %artist%",
+      "placeholder": "usa %song% o %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "title": "TITULO A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
       "value": 0,
-      "values": ["1", "2", "etc."]
+      "values": ["Valor 1", "Otro valor 2", "etc."]
     }
   ]
 }
@@ -149,43 +149,41 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">El título del servicio que soporta esta presence.<br>
+      (Debe ser el mismo nombre que la carpeta donde está todo)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left"><br>Destinado a ser utilizado para presences que tienen nombres distintos en idiomas diferentes (ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presences con caracteres especiales y así no tendrás que escribirlos (ej., Pokémon y Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
+      <td style="text-align:left">Una pequeña descripción de la presence, puedes usar la descripción del servicio si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-      <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+      <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>
+        <b>Esta URL debe coincidir con la URL del sitio web ya que se detectará si es o no el sitio web al que se inyecta el script.</b><br><b>NO</b> agregues <code>https://</code> o <code>http://</code> dentro de la URL ni un slash al final:
+<code>https://premid.app/</code> -> <code>premid.app</code><br>
+<b>Nota</b>: Algunas URLs pueden tener <code>www.</code> o algo parecido delante de su dominio. Do <b>NOT</b> forget to add it!<br>
       You can add multiple URLs by doing the following:<br>
       <code>["URL1", "URL2", "ETC."]</code><br>
       You could also use regExp also known as Regex for this task, explained further below.</td>

@@ -83,7 +83,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -102,9 +102,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left"><br>Destinado a ser utilizado para presences que tienen nombres distintos en idiomas diferentes (ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presences con caracteres especiales y así no tendrás que escribirlos (ej., Pokémon y Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Sí</code></td>
     </tr>
