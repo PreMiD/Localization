@@ -2,9 +2,10 @@
 title: Kelas Presensi
 description: Kelas utama untuk setiap presence PreMiD
 published: true
-date: 2020-07-29T15:12:55.925Z
+date: 2020-12-25T00:42:46.948Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
 # Kelas Presence
@@ -13,35 +14,43 @@ editor: markdown
 
 Kelas `Presence` sangat berguna karena memiliki metode dasar yang kita perlukan untuk membuat presence.
 
- Saat Anda membuat kelas, Anda harus menentukan properti `clientId`.
+Saat Anda membuat kelas, Anda harus menentukan properti `clientId`.
 
 ```typescript
-let presence = new Presence({
-    clientId: "514271496134389561" // Contoh clientId
+const presence = new Presence({
+  clientId: "514271496134389561" // Example clientId
 });
 ```
 
-Ada dua properti yang tersedia untuk kelas `Presence`.
+### Properties
+
+There are three properties available for `Presence` class.
 
 #### `clientId`
 
-Properti `clientId` harus disediakan untuk membuat presence Anda berfungsi, karena properti menggunakan id aplikasi Anda untuk menampilkan logo dan asetnya.
+This property is required to make your presence work, because it uses your application id to display its logo and assets. Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/developers/applications).
 
-Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/developers/applications).
+#### `injectOnComplete`
+
+When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+
+#### `appMode`
+
+When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
 ## Metode
 
 ### `getActivity()`
 
-Mengembalikan `presenceData` objek yang ditampilkan presence.
+Returns a `PresenceData` object of what the presence is displaying.
 
-### `setActivity(presenceData, Boolean)`
+### `setActivity(PresenceData | Slideshow, Boolean)`
 
 Tetapkan aktivitas profil Anda sesuai dengan data yang disediakan.
 
-Parameter pertama memerlukan antarmuka `presenceData` untuk mendapatkan semua informasi yang ingin Anda tampilkan di profil Anda.
+First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-Parameter kedua menentukan kapan presence memainkan sesuatu atau tidak. Selalu gunakan `true` jika Anda memberikan cap waktu di `presenceData`.
+Parameter kedua menentukan kapan presence memainkan sesuatu atau tidak. Always use `true` if you provide timestamps in `PresenceData`.
 
 ### `clearActivity()`
 
@@ -55,20 +64,80 @@ Menghapus aktivitas Anda saat ini, pengikat tombol dan judul baki.
 
 Setel judul baki pada bilah Menu.
 
+### `createSlideshow()`
+
+Creates a new `Slideshow` class.
+
+```typescript
+const slideshow = presence.createSlideshow();
+```
+
+This is suggested to do right when you make the `Presence` class.
+
+```typescript
+const presence = new Presence({
+    clientId: "514271496134389561" // Example clientId
+  }),
+  slideshow = presence.createSlideshow();
+```
+
+You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+
 ### `getStrings(Object)`
 
-Metode asinkron yang memungkinkan kamu untuk mendapatkan string terjemahan dari extension. Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. Kompilasi string terjemahan bisa ditemukan dengan menggunakan titik akhir ini: `https://api.premid.app/v2/langFIle/extension/en`
+Metode asinkron yang memungkinkan kamu untuk mendapatkan string terjemahan dari extension.
+
+Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Mengembalikan string `Playing` dan` Paused`
 // dari ekstensi.
-strings = await presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
+const strings = await presence.getStrings({
+  play: "general.playing",
+  pause: "general.paused"
 });
 
-const playString = strings.play // result: Playing back
-const pauseString = strings.pause // result: Playback paused
+const playString = strings.play; // result: Playing
+const pauseString = strings.pause; // result: Paused
+```
+
+Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+
+We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+
+```typescript
+// An interface of the strings you are getting (good for code quality and autocomplete).
+interface LangStrings {
+  play: string;
+  pause: string;
+}
+
+async function getStrings(): Promise<LangStrings> {
+  return presence.getStrings(
+    {
+      // The strings you are getting, make sure this fits with your LangStrings interface.
+      play: "general.playing",
+      pause: "general.paused"
+    },
+    // The ID is the ID of the multiLanguage setting.
+    await presence.getSetting("ID")
+  );
+}
+
+let strings: Promise<LangStrings> = getStrings(),
+  // The ID is the ID of the multiLanguage setting.
+  oldLang: string = await presence.getSetting("ID");
+
+//! The following code must be inside the updateData event!
+// The ID is the ID of the multiLanguage setting.
+const newLang = await presence.getSetting("ID");
+if (oldLang !== newLang) {
+  oldLang = newLang;
+  strings = getStrings();
+}
+
+const playString = strings.play; // result: Playing
+const pauseString = strings.pause; // result: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -76,43 +145,124 @@ const pauseString = strings.pause // result: Playback paused
 Mengembalikan variabel dari situs web jika ada.
 
 ```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // Ini akan mencatat "Variable content"
+const pageVar = getPageletiable(".pageVar");
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
+
 Mengembalikan versi dari ekstensi yang digunakan pengguna.
+
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
-var numeric = presence.getExtensionVersion();
+const numeric = presence.getExtensionVersion();
 console.log(numeric); // Will log 210
-var version = presence.getExtensionVersion(false);
+const version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
+
 Mengembalikan value dari pengaturan.
+
 ```typescript
-var setting = await presence.getSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
-console.log(setting); // Ini akan mencatat value dari pengaturan
+const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
 ```
 
 ### `hideSetting(String)`
+
 Sembunyikan pengaturan yang diberikan.
+
 ```typescript
-presence.hideSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
+presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 ```
 
 ### `showSetting(String)`
+
 Menampilkan setting yang diberikan (Hanya bekerja jika pengaturan telah disembunyikan).
+
 ```typescript
-presence.showSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
+presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
 ```
 
-## `presenceData` Antarmuka
+### `getLogs()`
 
-Antarmuka `presenceData` disarankan untuk digunakan saat Anda menggunakan metode `setActivity()`.
+Returns the logs of the websites console.
+
+```typescript
+const logs = await presence.getLogs();
+console.log(logs); // This will log the latest 100 logs (in an array).
+```
+
+**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+
+### `info(String)`
+
+Console logs the given message in a format based of the presence in the `info` style.
+
+```typescript
+presence.info("Test") // This will log "test" in the correct styling.
+```
+
+### `success(String)`
+
+Console logs the given message in a format based of the presence in the `success` style.
+
+```typescript
+presence.success("Test") // This will log "test" in the correct styling.
+```
+
+### `error(String)`
+
+Console logs the given message in a format based of the presence in the `error` style.
+
+```typescript
+presence.error("Test") // This will log "test" in the correct styling.
+```
+
+### `getTimestampsfromMedia(HTMLMediaElement)`
+
+Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+
+```typescript
+const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
+
+### `getTimestamps(Number, Number)`
+
+Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+
+```typescript
+const video = document.querySelector(".video"),
+  timestamps = getTimestamps(video.currentTime, video.duration);
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
+
+### `timestampFromFormat(String)`
+
+Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+
+```typescript
+const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
+  duration = timestampFromFormat(document.querySelector(".video-end").textContent);
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
+
+## `PresenceData` Antarmuka
+
+The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
 
 Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 
@@ -180,14 +330,14 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 </table>
 
 ```typescript
-var presenceData: presenceData = {
-    details: "Judul saya",
-    state: "Deskripsi saya",
-    largeImageKey: "service_logo",
-    smallImageKey: "small_service_icon",
-    smallImageText: "Anda membawa saya, dan bagaimana sekarang?",
-    startTimestamp: 1564444631188,
-    endTimestamp: 1564444634734
+const presenceData: PresenceData = {
+  details: "My title",
+  state: "My description",
+  largeImageKey: "service_logo",
+  smallImageKey: "small_service_icon",
+  smallImageText: "You hovered me, and what now?",
+  startTimestamp: 1564444631188,
+  endTimestamp: 1564444634734
 };
 ```
 
@@ -197,7 +347,7 @@ Acara memungkinkan Anda untuk mendeteksi dan menangani beberapa perubahan atau p
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Lakukan sesuatu saat data diperbarui.
+  // Do something when data gets updated.
 });
 ```
 

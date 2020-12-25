@@ -2,9 +2,10 @@
 title: Presence Sınıfı
 description: Tüm PreMiD servisleri için geçerli ana sınıf
 published: true
-date: 2020-07-29T15:12:55.925Z
+date: 2020-12-25T00:42:46.948Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
 # Presence Sınıfı
@@ -13,35 +14,43 @@ editor: markdown
 
 `Presence` sınıfı, servisimizi oluştururken bize gerekli bir çok metod ve yöntem ile yardımcı olacaktır.
 
- Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
+Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
 
 ```typescript
-let presence = new Presence({
-    clientId: "514271496134389561" // Örnek bir clientId alanı
+const presence = new Presence({
+  clientId: "514271496134389561" // Example clientId
 });
 ```
 
-`Presence` sınıfı için şimdilik geçerli iki adet alan vardır.
+### Properties
+
+There are three properties available for `Presence` class.
 
 #### `clientId`
 
-`clientId` alanı, servis kodunun çalışabilmesi için gereklidir çünkü bu sayede uygulamanıza eklediğiniz resimleri ve diğer bilgileri çekiyoruz.
+This property is required to make your presence work, because it uses your application id to display its logo and assets. Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
 
-Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
+#### `injectOnComplete`
+
+When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+
+#### `appMode`
+
+When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
 ## Metodlar
 
 ### `getActivity()`
 
-Geçerli durumun bilgisini içeren `presenceData` verisi döner.
+Returns a `PresenceData` object of what the presence is displaying.
 
-### `setActivity(presenceData, Boolean)`
+### `setActivity(PresenceData | Slideshow, Boolean)`
 
 Verilen verilerle profilinizi ayarlar.
 
-Bu metodun ilk parametresi profilde göstermek istediğiniz `presenceData` verisini içeren bir obje olmalıdır.
+First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Eğer `presenceData` içerisinde zaman verisi belirttiyseniz, her zaman `true` değerini kullanın.
+İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Always use `true` if you provide timestamps in `PresenceData`.
 
 ### `clearActivity()`
 
@@ -55,20 +64,80 @@ Gözüken verileri temizler, tuşları yakalamayı bırakır ve menü çubuğu y
 
 Menüdeki durum yazısını ayarlar.
 
+### `createSlideshow()`
+
+Creates a new `Slideshow` class.
+
+```typescript
+const slideshow = presence.createSlideshow();
+```
+
+This is suggested to do right when you make the `Presence` class.
+
+```typescript
+const presence = new Presence({
+    clientId: "514271496134389561" // Example clientId
+  }),
+  slideshow = presence.createSlideshow();
+```
+
+You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+
 ### `getStrings(Object)`
 
-Eklentiden belli çevirilere ulaşabileceğiniz asenkron yöntem. Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Çevrilen yazıların birleşimine buradan ulaşabilirsiniz: `https://api.premid.app/v2/langFIle/extension/en`
+Eklentiden belli çevirilere ulaşabileceğiniz asenkron yöntem.
+
+Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // `Oynatılıyor` ve `Durduruldu` çevirilerini
 // gösterir.
-yazilar = await presence.getStrings({
-    oynatiliyor: "presence.playback.playing",
-    durduruldu: "presence.playback.paused"
+const strings = await presence.getStrings({
+  play: "general.playing",
+  pause: "general.paused"
 });
 
-const oynatiliyorYazi = yazilar.oynatiliyor // sonuç: Oynatılıyor
-const durdurulduYazi = yazilar.durduruldu // result: Duraklatıldı
+const playString = strings.play; // result: Playing
+const pauseString = strings.pause; // result: Paused
+```
+
+Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+
+We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+
+```typescript
+// An interface of the strings you are getting (good for code quality and autocomplete).
+interface LangStrings {
+  play: string;
+  pause: string;
+}
+
+async function getStrings(): Promise<LangStrings> {
+  return presence.getStrings(
+    {
+      // The strings you are getting, make sure this fits with your LangStrings interface.
+      play: "general.playing",
+      pause: "general.paused"
+    },
+    // The ID is the ID of the multiLanguage setting.
+    await presence.getSetting("ID")
+  );
+}
+
+let strings: Promise<LangStrings> = getStrings(),
+  // The ID is the ID of the multiLanguage setting.
+  oldLang: string = await presence.getSetting("ID");
+
+//! The following code must be inside the updateData event!
+// The ID is the ID of the multiLanguage setting.
+const newLang = await presence.getSetting("ID");
+if (oldLang !== newLang) {
+  oldLang = newLang;
+  strings = getStrings();
+}
+
+const playString = strings.play; // result: Playing
+const pauseString = strings.pause; // result: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -76,43 +145,124 @@ const durdurulduYazi = yazilar.durduruldu // result: Duraklatıldı
 Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // Değişkenin içeriğini gösterecektir
+const pageVar = getPageletiable(".pageVar");
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
-Kullanıcının kullandığı eklentinin sürümünü verir.
-```typescript
-getExtensionVersion(sadeceNumerik?: boolean): string | number;
 
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // konsola 210 çıktısı verecektir
-var version = presence.getExtensionVersion(false);
-console.log(version); // konsola 2.1.0 çıktısı verecektir
+Kullanıcının kullandığı eklentinin sürümünü verir.
+
+```typescript
+getExtensionVersion(onlyNumeric?: boolean): string | number;
+
+const numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+const version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
+
 Bir ayarın versini döner.
+
 ```typescript
-var setting = await presence.getSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
-console.log(setting); // Konsola o ayarın verisinin çıktısını verecektir
+const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
 ```
 
 ### `hideSetting(String)`
+
 Belirtilen ayarı gizler.
+
 ```typescript
-presence.hideSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
+presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 ```
 
 ### `showSetting(String)`
+
 Belirtilen ayarı gösterir (sadece önceden gizlenmişse çalışacaktır).
+
 ```typescript
-presence.showSetting("pdexID"); // pdexID'yi verisini almak istediğiniz ayar ile değiştirin
+presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
 ```
 
-## `presenceData` Arayüzü
+### `getLogs()`
 
-`presenceData` arayüzü, `setActivity()` metodunu kullandığınızda tavsiye edilmektedir.
+Returns the logs of the websites console.
+
+```typescript
+const logs = await presence.getLogs();
+console.log(logs); // This will log the latest 100 logs (in an array).
+```
+
+**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+
+### `info(String)`
+
+Console logs the given message in a format based of the presence in the `info` style.
+
+```typescript
+presence.info("Test") // This will log "test" in the correct styling.
+```
+
+### `success(String)`
+
+Console logs the given message in a format based of the presence in the `success` style.
+
+```typescript
+presence.success("Test") // This will log "test" in the correct styling.
+```
+
+### `error(String)`
+
+Console logs the given message in a format based of the presence in the `error` style.
+
+```typescript
+presence.error("Test") // This will log "test" in the correct styling.
+```
+
+### `getTimestampsfromMedia(HTMLMediaElement)`
+
+Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+
+```typescript
+const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
+
+### `getTimestamps(Number, Number)`
+
+Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+
+```typescript
+const video = document.querySelector(".video"),
+  timestamps = getTimestamps(video.currentTime, video.duration);
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
+
+### `timestampFromFormat(String)`
+
+Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+
+```typescript
+const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
+  duration = timestampFromFormat(document.querySelector(".video-end").textContent);
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
+
+## `PresenceData` Arayüzü
+
+The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
 
 Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani zorunlu değildir.
 
@@ -177,14 +327,14 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
 </table>
 
 ```typescript
-let presenceData: presenceData = {
-    details: "Başlık",
-    state: "Açıklama",
-    largeImageKey: "buyuk_resim",
-    smallImageKey: "kucuk_resim",
-    smallImageText: "Küçük resimin üzerine neden tutuyorsun?",
-    startTimestamp: 1564444631188,
-    endTimestamp: 1564444634734
+const presenceData: PresenceData = {
+  details: "My title",
+  state: "My description",
+  largeImageKey: "service_logo",
+  smallImageKey: "small_service_icon",
+  smallImageText: "You hovered me, and what now?",
+  startTimestamp: 1564444631188,
+  endTimestamp: 1564444634734
 };
 ```
 
@@ -194,7 +344,7 @@ Eventler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmeniz
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Veri geldiğinde bir şeyler yap.
+  // Do something when data gets updated.
 });
 ```
 
