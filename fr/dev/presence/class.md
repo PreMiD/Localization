@@ -18,17 +18,17 @@ Lorsque vous créez une classe, vous devez spécifier la propriété `clientId`.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "5141496134389561" // Exemple clientId
 });
 ```
 
-### Properties
+### Propriétés
 
-There are three properties available for `Presence` class.
+Il y a trois propriétés disponibles pour la classe de `Presence`.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/developers/applications).
+Cette propriété est nécessaire pour que votre Presence fonctionne car elle utilise l'identifiant de votre application pour afficher son logo et ses images. Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
