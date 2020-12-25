@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contiene datos básicos sobre la presencia
+description: Contiene datos básicos sobre la Presence
 published: true
 date: 2020-05-21T16:01:05.836Z
 tags:
@@ -82,8 +82,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>author</b>
       </td>
-      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presencia. Name es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
-        desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -92,7 +91,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>contributors</b>
       </td>
-      <td style="text-align:left">Debería contener un Object con <code>name</code> e <code>id</code> del colaborador. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Debería contener un objeto con <code>name</code> e <code>id</code> del colaborador. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
         desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
@@ -122,7 +121,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>descripción</b>
       </td>
       <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma, y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata. Mira la categoría para una lista para los lenguajes de una presencia. </td>
+        si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata. Mira la categoría para una lista para los lenguajes de una presencia. </td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -131,7 +130,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>url</b>
       </td>
-      <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>        <b>This URL debe coincidir con la URL del sitio web ya que se utilizará para detectar donde y donde no este sitio web inyecta scripts. Esto solo puede utilizarse como un arreglo cuando hay más de una URrl</b>
+      <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>        <b>Esta URL debe coincidir con la URL del sitio web ya que se utilizará para detectar donde se inyecta el script. Esto solo puede utilizarse como un arreglo cuando hay más de una URrl</b>
       </td>
       <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code>
       </td>
@@ -224,7 +223,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>ajustes</b>
       </td>
-      <td style="text-align:left">Una variedad de configuraciones que el usuario puede cambiar</td>
+      <td style="text-align:left">Un array de configuraciones que el usuario puede cambiar</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
       <td style="text-align:left"><code>Sí</code>
@@ -245,12 +244,12 @@ Si quieres aprender expresiones regulares, aquí tienes algunos sitios web.
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Idiomas de la presencia
+## Idioma de una Presence
 
-PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de idiomas involucrados para conectar usuarios en todo el mundo. La lista de idiomas completa puede encontrarse en este [endpoint del API](https://api.premid.app/v2/langFile/list).
+PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de idiomas involucrados para conectar usuarios en todo el mundo. La lista de idiomas completa puede encontrarse en esta [entrada de la API](https://api.premid.app/v2/langFile/list).
 
-## Configuraciones de una presencia
-¡Configura ajustes interactivos para que los usuarios puedan personalizar la presencia!
+## Configuraciones de una Presence
+¡Configura ajustes interactivos para que los usuarios puedan personalizar la Presence!
 ```javascript
 "settings": [
         { 
@@ -279,9 +278,9 @@ PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de 
     ]
 ```
 
-Usando los siguientes métodos para conseguir la información de tus ajustes en tus archivos de la presencia:
+Usando los siguientes métodos para conseguir la información de tus ajustes en tus archivos de Presence:
 ### `getSetting(String)`
-Regresa el valor del ajuste.
+Obtén el valor del ajuste.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Cambia pdexID con la ID de la configuración
 console.log(setting); // Esto mostrará el valor de la configuración
@@ -290,18 +289,18 @@ console.log(setting); // Esto mostrará el valor de la configuración
 ### `hideSetting(String)`
 Oculta la configuración dada.
 ```typescript
-presence.hideSetting("pdexID"); //Reemplaza pdexID con el ID de la configuración
+presence.hideSetting("pdexID"); //Reemplaza pdexID con el Id del ajuste
 ```
 
 ### `showSetting(String)`
 Muestra la configuración dada (Solo funciona si el ajuste estaba ya oculto).
 ```typescript
-presence.showSetting("pdexID"); //Reemplaza pdexID con el ID de la configuración
+presence.showSetting("pdexID"); //Reemplaza pdexID con el Id del ajuste
 ```
 
-## Categorias de una presencia
+## Categorías de una presence
 
-Cuando haces tu presencia, debes especificar de que categoría es tu presencia. Esta es una lista de las categorias que puedes usar.
+Cuando haces tu Presence, debes especificar de que categoría es. Esta es una lista de las categorías que puedes usar.
 
 <table>
   <thead>
