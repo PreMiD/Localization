@@ -176,7 +176,7 @@ console.log(setting); // This will log the value of the setting
 Belirtilen ayarı gizler.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
 ```
 
 ### `showSetting(String)`
@@ -344,7 +344,7 @@ Eventler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmeniz
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Veri güncellenince bir şeyler yap.
 });
 ```
 
