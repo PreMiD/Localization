@@ -1,6 +1,6 @@
 ---
-title: Clase de presencia
-description: La clase principal para cada presencia PreMiD
+title: Clase Presence
+description: La clase principal para cada presence de PreMiD
 published: true
 date: 2020-12-25T00:42:46.948Z
 tags:
@@ -8,31 +8,31 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Clase de presencia
+# Clase Presence
 
 ## Introducción
 
-La clase `Presence` es útil dado que contiene métodos básicos para construir una presencia.
+La clase `Presence` es útil dado que contiene métodos básicos para construir una presence.
 
 Cuando creas una clase has de especificar apropiadamente el campo `clientId`.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // clientId de ejemplo
 });
 ```
 
-### Properties
+### Propiedades
 
-There are three properties available for `Presence` class.
+Hay tres propiedades disponibles para la clase `Presence`.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. Puedes obtenerlo en tu [página de aplicaciones](https://discordapp.com/developers/applications).
+Esta propiedad es necesaria para que funcione, ya que utiliza el id de aplicación para mostrar su logotipo entre otras imágenes. Puedes obtenerlo en tu [página de aplicaciones](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+Al configurar `injectOnComplete` a `true` el primer evento `UpdateData` se lanzará, en ambos archivos `presence.ts` y `iframe.ts`, una vez haya terminado de cargar completamente la página.
 
 #### `appMode`
 
