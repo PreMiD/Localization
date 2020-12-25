@@ -244,27 +244,27 @@ La configuración `multiLanguage` se utiliza para permitir a los usuarios selecc
 
 #### Configuración
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+La opción `multiLanguage` es especial, no requiere `title` ni `icon` ni `value` o `values` como otras. ¡Es distinta!
 
-The `multiLanguage` key can be set to the following:
+La opción `multiLanguage` puede establecerse a lo siguiente:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: usa esto si solo vas a usar cadenas de `general.json` y `<service>.json` del [repositorio de localización](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: nombre del archivo excluyendo la extensión (.json) dentro del repositorio de localización [](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluyendo el archivo `general` ya que siempre se carga). Solo se mostrarán idiomas comunes tanto del archivo `general` como del archivo indicado. `Array<String>`: si estás usando mas de un archivo del [repositorio de localización](https://github.com/PreMiD/Localization/tree/master/src/Presence) puedes especificar todos los valores en un array (excluyendo el archivo `general`, dado que siempre se carga). Sólo se mostrarán los idiomas comunes de todos los archivos.
 
-#### Adding new strings
+#### Añadir nuevos strings
 
 ##### Clonando el proyecto
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
+1. Abre una consola y escribe `git clone https://github.com/PreMiD/Localization`.
 2. Elija una carpeta de su elección.
 3. Ábrelo en tu editor de código.
 
-##### Creating the file
+##### Creando el archivo
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Entra en la carpeta `src`.
+2. Entra en la carpeta `Presence`.
+3. Crea un archivo llamado `<service>.json`. (Service es el **nombre** (no una URL) en minúscula del servicio del que quieres dar soporte.)
 
-##### Adding the strings
+##### Añadiendo los strings
 
 Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
 
