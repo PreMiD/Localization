@@ -266,39 +266,39 @@ La opción `multiLanguage` puede establecerse a lo siguiente:
 
 ##### Añadiendo los strings
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Cada `string` es un `Object` donde el valor es el nombre del servicio seguido de un punto y el nombre de la cadena.
 
-The stringName is a 1 word identifier of the message.
+El nombre de la cadena es una palabra que identifica el mensaje.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+El `Object` tienes dos propiedades: `message` y `description`. `message` es el texto que tiene que ser traducido. `description` es una descripción del mensaje para dar a entender a nuestros traductores lo que están traduciendo.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Nota:** No añadir ninguna cadena duplicada. (Esto incluye cadenas fuera del archivo `general.json` pero no de otros archivos.)
 
-Visualization of the the file:
+Visualización del archivo:
 
 ```typescript
 {
-  "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+  "<servicio>.<nombreString>": {
+    "message": "Texto que tiene que ser traducido.",
+    "description": "Esto da un contexto del texto superior."
   },
-  "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+  "<servicio>.<otroString>": {
+    "message": "Texto que tiene que ser traducido.",
+    "description": "Esto da un contexto del texto superior."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Después de haber creado completamente el archivo, puedes crear un Pull Request en el [repositorio de localización](https://github.com/PreMiD/Localization), en la descripción **debes** incluir un enlace al Pull Request de la presence actualizada usando estas nuevas strings del [repositorio de Presence](https://github.com/PreMiD/Presences).
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Claves por defecto
+Las claves que no tenías que indicar se establecen automáticamente a lo siguiente: `title`: "Idioma" **Nota:** Esto se traduce a su idioma predeterminado (idioma del navegador). `icon`: "fas fa-language" ([Vista previa](https://fontawesome.com/icons/language)) `value`: **Establecido al idioma del navegador si está disponible (100% traducido), de lo contrario Inglés.** `values`: **Establecido a los idiomas disponibles (idiomas que lo tienen 100% traducido).**
 
-**Note:** These are in no way changeable.
+**Nota:** Estos no pueden ser cambiados de ningún modo.
 
 ### Métodos
 
-Usando los siguientes métodos para conseguir la información de tus ajustes en tus archivos de Presence:
+Usa los siguientes métodos para obtener la información de los ajustes en tus archivos presence:
 #### `getSetting(String)`
 Obtén el valor del ajuste.
 ```typescript
