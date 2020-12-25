@@ -18,21 +18,21 @@ Apabila anda mencipta kelas, anda mesti nyatakan sifat `clientId`.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // Contoh clientId
 });
 ```
 
-### Properties
+### Sifat-sifat
 
-There are three properties available for `Presence` class.
+Terdapat tiga sifat yang wujud untuk kelas `Presence`.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. Anda boleh dapatkannya di [halaman aplikasi](https://discordapp.com/developers/applications) anda.
+Sifat ini diperlukan untuk membolehkan Presence anda berfungsi, kerana ia menggunakan id aplikasi anda untuk memaparkan logo dan asetnya. Anda boleh dapatkannya di [halaman aplikasi](https://discordapp.com/developers/applications) anda.
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+Apabila tetapkan nilai `injectOnComplete` kepada `true`, acara `UpdateData` yang pertama untuk kedua-dua fail `presence.ts` dan `iframe.ts` hanya akan dijalankan apabila halaman telah dimuatkan sepenuhnya.
 
 #### `appMode`
 
