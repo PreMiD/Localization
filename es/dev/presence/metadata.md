@@ -89,7 +89,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador del contribuidor. El nombre es tu nombre de usuario de Discord sin el identificador (#0000). La <code>id</code> de usuario puede copiarse de Discord habilitando el modo
         desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sí</code></td>
@@ -110,15 +110,13 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata. Mira la categoría para una lista para los lenguajes de una presencia. </td>
+      <td style="text-align:left">Descripción del servicio <b>NO</b> de la presence. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata. Mira la categoría para una lista para los lenguajes de una presencia. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Esto solo puede utilizarse como un arreglo cuando hay más de una URrl</b></td>
+      <td style="text-align:left">URL del servicio. <br><b>Ejemplo:</b><code>vk.com</code><br>        <b>Esta URL debe coincidir con la URL del sitio web ya que se utilizará para detectar donde se inyecta el script. Esto solo puede utilizarse como un arreglo cuando hay más de una URrl</b></td>
       <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -198,7 +196,7 @@ Si quieres aprender expresiones regulares, aquí tienes algunos sitios web.
 
 #### Aprendiendo
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Video rápido para empezar](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Información de expresiones regulares](https://www.regular-expressions.info/tutorial.html)
 
 #### Probando
 
@@ -206,38 +204,34 @@ Si quieres aprender expresiones regulares, aquí tienes algunos sitios web.
 
 ## Idioma de una Presence
 
-PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de idiomas involucrados para conectar usuarios en todo el mundo. La lista de idiomas completa puede encontrarse en esta [entrada de la API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de idiomas involucrados para conectar usuarios en todo el mundo. La lista de idiomas completa puede encontrarse en esta [entrada de la API](https://api.premid.app/v2/langFile/list). Para personalizar tu presence aún más puedes permitir a los usuarios seleccionar su idioma de visualización de la presence, ver [`multiLanguage`](#multilanguage) para más información.
 
 ## Configuraciones de una Presence
 ¡Configura ajustes interactivos para que los usuarios puedan personalizar la Presence!
 ```typescript
 "settings": [
-  {
-    "id": "ID",
-    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
+        { 
+            "id": "ID",
+            "title": "TÍTULO A MOSTRAR",
+            "icon": "ICONO DE FONTAWESOME", //Ejemplo "fas fa-info"
+            "value": true //Un valor booleano hará que esté activo/inactivo por defecto
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true //Si otra configuración equivale a este valor (true/false/0/1/etc.) entonces mostrará este botón
+            },
+            "title": "TÍTULO A MOSTRAR",
+            "icon": "ICONO DE FONTAWESOME",
+            "value": "\"%song%\" por %artist%", //Indicando un string hace que la configuración sea un input de tipo texto.
+    "placeholder": "usa %song% o %artist%" //Cuando el campo está vacio se mostrará este texto de fondo
   },
   {
     "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
-    "value": true //Boolean value will make it an on/off switch with the value as the default value
-  },
-  {
-    "id": "ID",
-    "if": {
-      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
-    },
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
-    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
-  },
-  {
-    "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
-    "value": 0, //Default value of the selector
-    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+    "title": "TITULO A MOSTRAR",
+    "icon": "ICONO FONTAWESOME",
+    "value": 0, //Índice por defecto para el selector
+    "values": ["Valor 1", "Otro valor", "etc."] //Hace que esta propiedad sea un selector con las opciones prestablecidas
   }
 ]
 ```
@@ -246,9 +240,9 @@ PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de 
 
 #### Introducción
 
-The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+La configuración `multiLanguage` se utiliza para permitir a los usuarios seleccionar manualmente el idioma en el que quieren mostrar la presence. Esto requiere que utilices las cadenas de nuestra [API](https://api.premid.app/v2/langFile/presence/en), para obtener información sobre cómo añadir cadenas haz clic [aquí](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Configuración
 
 The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
 
