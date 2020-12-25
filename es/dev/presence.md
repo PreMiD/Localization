@@ -397,7 +397,7 @@ El sitio web en el que estás desarrollando se recarga automáticamente cada vez
 
 # Explicación de archivos
 
-- [Clase de presencia](/dev/presence/class)
+- [Clase Presence](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
 - [Clase de iFrame](/dev/presence/iframe)
 - [Archivo de Metadata](/dev/presence/metadata)
