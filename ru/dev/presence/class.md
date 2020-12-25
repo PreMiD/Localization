@@ -97,8 +97,8 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // result: Играет
+const pauseString = strings.pause; // result: Остановлен
 ```
 
 Начиная с версии 2.2.0 расширения вы можете получить строки для определенного языка. Это хорошо работает с недавно добавленными `multiLanguage` вариант настройки.
@@ -106,7 +106,7 @@ const pauseString = strings.pause; // result: Paused
 Мы предлагаем вам использовать следующий код, чтобы он автоматически обновлял PresenceData, если пользователь меняет выбранный язык;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Интерфейс получаемых строк (хорош для качества кода и автозавершения).
 interface LangStrings {
   play: string;
   pause: string;
@@ -115,7 +115,7 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // Убедитесь, что строки, которые вы получаете, соответствуют вашему интерфейсу LangStrings.
       play: "general.playing",
       pause: "general.paused"
     },
@@ -128,16 +128,16 @@ let strings: Promise<LangStrings> = getStrings(),
   // The ID is the ID of the multiLanguage setting.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+//! Следующий код должен быть внутри события updateData!
+// ID — это идентификатор многоязычных параметров.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // result: Играет
+const pauseString = strings.pause; // result: Остановлен
 ```
 
 ### `getPageletiable(Строка)`
@@ -249,7 +249,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Преобразует строку в формат `HH:MM:SS` или `MM:SS` или `SS` в целое (не возвращает snowflake timestamp).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
