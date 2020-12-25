@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Класс слайд-шоу
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Класс слайд-шоу
 
 ## Введение
 
-The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
+Класс `слайдшоу` используется для установки нескольких `PresenceData` и "slide" через их каждые x миллисекунд (минимум: 5000).
 
-See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
+Смотрите метод [`createSlideshow`](/dev/presence/class#createslideshow) в классе [`Presence`](/dev/presence/class) о том, как создать `слайдшоу`.
 
 ## Свойства
 
@@ -31,13 +31,13 @@ console.log(currentSlide.details) // Will console log the details of the Presenc
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Добавить новый слайд в `Slideshow` согласно предоставленным данным.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+Первый параметр требует `String` которая будет использоваться в качестве уникального идентификатора для слайда.
 
 Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
 
 ### `getSlides()`
 
@@ -51,7 +51,7 @@ First parameter requires a `String` that is the unique identifier of the slide y
 
 Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
 
 ### `hasSlide(String)`
 
