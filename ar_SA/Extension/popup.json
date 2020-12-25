@@ -95,6 +95,14 @@
 		"message": "يبدو أنه ليس لديك اتصال بالإنترنت! لن يتمكن PreMiD من إظهار في presences الوقت الحالي.",
 		"description": "Shown when the user has no internet connection"
 	},
+	"popup.info.notConnectedDiscord": {
+		"message": "أنت غير متصل بديسكورد!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "لم يتمكن PreMiD من الإتصال بديسكورد! هل هو مثبت و مشتغل *استكشاف الأخطاء وإصلاحها*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "الكل",
 		"description": "Category name shown when you open tags"
