@@ -41,13 +41,14 @@ Second parameter requires a [`PresenceData` interface](/dev/presence/class#prese
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Возвращает все слайды, сохраненные в `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
 
-### `updateSlide(String, PresenceData, Number)`
+### `updateSlide(String, PresenceData, Number)
+`
 
-Updates the slide of the given `id` according to provided data.
+Обновляет слайд данного `id` в соответствии с предоставленными данными.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+Первый параметр требует `String` которая является уникальным идентификатором слайда, который вы хотите обновить.
 
 Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
 
@@ -55,29 +56,29 @@ Second parameter requires a [`PresenceData` interface](/dev/presence/class#prese
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Возвращает `Boolean` о добавлении слайда в `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Удаляет слайд с заданным `id` из `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+Первый параметр требует `String` которая является уникальным идентификатором слайда, который вы хотите обновить.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Удаляет все слайды из `Slideshow`.
 
 # SlideshowSlide Class
 
 ## Введение
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+`SlideshowSlide` — это внутреннее представление каждого слайда в `Slideshow`.
 
 ## Свойства
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Возвращает `String` для идентификатора слайда.
 
 ### `data`
 
