@@ -8,7 +8,7 @@ tags:
 
 # Metadata.json
 
-Si quieres publicar una presencia en la tienda y cargarla a través de la extensión deberías crear el archivo `metadata.json` en tu carpeta `dist`.
+Si quieres publicar una presence en la tienda y cargarla a través de la extensión deberás crear el archivo `metadata.json` en tu carpeta `dist`.
 
 El ejemplo de ese archivo se puede encontrar a continuación.
 
@@ -65,7 +65,7 @@ El ejemplo de ese archivo se puede encontrar a continuación.
 }
 ```
 
-## Comprendiendo el metadata.json
+## Entendiendo el metadata.json
 
 Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil entender para qué sirve cada variable.
 

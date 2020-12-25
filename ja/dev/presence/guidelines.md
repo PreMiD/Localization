@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # ガイドライン
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. 厳しいように見えるかもしれませんが、 However, the implementation of these rule sets will keep us and our users from running into issues.
+[GitHub Repository](https://github.com/PreMiD/Presences)へプレゼンスを公開する際は、一連のガイドラインに従う必要があります。 厳しいように見えるかもしれませんが、 このガイドラインは、問題を回避するために作られています。
 
 # 作成
 
@@ -21,7 +21,7 @@ When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/P
 - ファイル構造はきれいに管理されている必要があります。指定されていないファイルは含めないでください。 (vscodeやgit folder、画像・テキストなど)
 - 確実なファイル構造が必要です。下書きやテストは公開するには適していません。
 - .onionで終わるドメインや無料で取得できるドメイン/ホストを持つウェブサイトのためのプレゼンスは原則許可されていませんが、そのドメインのために料金を支払ったことが証明された場合は例外として認められます。
-- The domain of the presence must be at least 2 months old.
+- ドメインが取得されてから、2ヶ月以上立っていないwebサイトのプレゼンスは許可されていません。
 - ブラウザの内部を指定するプレゼンスは許可されていません。（Chrome Web Store、`chrome://`、`about:` など。） これらを実装するには、試験中の機能(chrome://frags)を有効にする必要があり、ブラウザーやデータに大きなダメージを与える可能性があるからです。
 - 一つのサブドメインのみをサポートするプレゼンスは許可されていません。（ホームページなどで正常に表示されないことがあるため） 利用規約、連絡フォームなどのあまり使われないページや、他のコンテンツがメインのコンテンツに関連していないものは例外です。 (例えば、Wikiaなど)
 - オンラインラジオのプレゼンスは、週に100人のリスナーと、15人以上の同時接続数が必要です。
