@@ -2,7 +2,7 @@
 title: Razvoj presence
 description:
 published: true
-date: 2020-12-25T00:40:46.262Z
+date: 2020-12-25T14:49:28.771Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -68,7 +68,7 @@ Napravili smo `metadata.json` kreator datoteka za lijene ljude [ovdje](https://e
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.2",
+  "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
     "name": "USER",
     "id": "ID"
