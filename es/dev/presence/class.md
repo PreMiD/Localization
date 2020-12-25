@@ -101,12 +101,12 @@ const playString = strings.reproduciendo; // resultato: Playing
 const pauseString = strings.pausado; // resultado: Paused
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Desde la versión 2.2.0 de la extensión ahora puedes obtener strings dado un idioma. Esto funciona bien en conjunto de la configuración `multiLanguage` recientemente añadida.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Sugerimos que utilices el siguiente código para que se actualice automáticamente PresenceData si el usuario cambia el idioma;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Una interfaz de strings que estás obteniendo obtienes (buena para calidad del código y autocompletado).
 interface LangStrings {
   play: string;
   pause: string;
@@ -115,21 +115,21 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // Las strings que estás obteniendo, asegurate de que concuerdan con la interfaz LangStrings.
       play: "general.playing",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // El ID es el ID del campo multiLanguage establecido en los ajustes.
     await presence.getSetting("ID")
   );
 }
 
 let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+  // El ID es el ID del campo multiLanguage establecido en los ajustes.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+//! ¡El siguiente código debe estar dentro del evento updateData!
+// El ID es el ID del campo multiLanguage establecido en los ajustes.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
