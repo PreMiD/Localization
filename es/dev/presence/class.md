@@ -277,13 +277,13 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">La primera línea en la presencia, generalmente usada como cabecera.</td>
+      <td style="text-align:left">La primera línea en la presence, generalmente usada como cabecera.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Segunda línea en la presencia.</td>
+      <td style="text-align:left">Segunda línea en la presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -291,7 +291,7 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Define la hora actual.<br>
         Utilizado si quieres mostrar cuántas <code>horas:minutos:segundos</code> quedan.
-          <br>Debes convertir tu tiempo a <code>marcas de tiempo</code> o obtendrás una cuenta atras
+          <br>Debes convertir tu tiempo a <code>timestamps</code> u obtendrás una cuenta atrás
           incorrecta.
       </td>
       <td style="text-align:left"><code>Número</code>
@@ -300,8 +300,8 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
     <tr>
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Define la duración completa.
-        <br>Utilizado si deseas mostar cuantas <code>horas:minutos:segundos</code> quedan.
-          <br>Debes convertir tu tiempo a <code>marcas de tiempo</code> o obtendrás una cuenta atras
+        <br>Utilizado si deseas mostrar cuantas <code>horas:minutos:segundos</code> quedan.
+          <br>Debes convertir tu tiempo a <code>timestamps</code> u obtendrás una cuenta atrás
           incorrecta.
       </td>
       <td style="text-align:left"><code>Número</code>
@@ -309,13 +309,13 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Define el logotipo de la presencia.</td>
+      <td style="text-align:left">Define el logotipo de la presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Define el icono pequeño junto al logo de la presencia.</td>
+      <td style="text-align:left">Define el icono pequeño junto al logo de la presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -331,11 +331,11 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
-  largeImageKey: "service_logo",
-  smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  details: "Mi título",
+  state: "Mi descripcción",
+  largeImageKey: "logo_del_servicio",
+  smallImageKey: "logo_pequeño_del_servicio",
+  smallImageText: "Me has puesto el cursor encima, ¿qué hacemos?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -347,7 +347,7 @@ Los eventos permiten detectar y manejar algunos cambios o llamadas realizadas. P
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Haz algo cuando se actualicen los datos.
 });
 ```
 
@@ -355,7 +355,7 @@ Hay algunos eventos disponibles:
 
 #### `UpdateData`
 
-Este evento es lanzado cada vez que la presencia es actualizada.
+Este evento es lanzado cada vez que la presence es actualizada.
 
 #### `iFrameData`
 
