@@ -151,7 +151,7 @@ A list of fields and their rules are listed below:
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- 公式で複数の名前がある場合(例:"Pokémon"と"포켓몬스터")や、 特殊な文字が入っている(例:Pokémon and Pokemon)場合にのみ参照してください。 複数の名前を指定して、探すのを簡単にすることができます。 *Shortened* versions of service names go under `tags`.
 
 ### **`description`**
 
