@@ -92,7 +92,7 @@ console.log(version); // Registrará 2.1.0
 ```
 
 ### `getSetting(String)`
-Regresa el valor del ajuste.
+Obtén el valor del ajuste.
 ```typescript
 var setting = await presence.getSetting("pdexID"); //Reemplaza pdexID con el id del ajuste
 console.log(setting); // Esto registrará el valor del ajuste
