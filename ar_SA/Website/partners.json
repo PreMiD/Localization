@@ -111,6 +111,14 @@
 		"message": "منصة كسب اللاعبين.",
 		"description": "Description for iLoot."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio هو أنجح راديو معلوماتي ترفيهي لألعاب المحاكاة في ألمانيا، النمسا وسويسرا!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.taigaBot": {
+		"message": "تايغا هو بوت ديسكورد يحاول تقديم جميع الميزات التي قد تحتاجها في وقت واحد!",
+		"description": "Description for taigabot."
+	},
 	"partners.partner.bitRock": {
 		"message": "أداة إنشاء تثبيت منصة قوية وسهلة الاستخدام.",
 		"description": "Description for BitRock."
