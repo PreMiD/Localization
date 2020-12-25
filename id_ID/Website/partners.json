@@ -155,6 +155,10 @@
 		"message": "Dibalik yang terbaik di web.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit adalah stasiun radio musik online yang memainkan hits terbaik 24/7 dan membantumu menemukan musik hits yang akan datang.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "Melamar mitra",
 		"description": "Partnership application modal title."

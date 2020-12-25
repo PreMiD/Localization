@@ -87,6 +87,22 @@
 		"message": "PreMiD programmet är gammalt. Uppdatera för att fortsätta kunna använda PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Ingen Internetanslutning!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Det verkar som om du inte har någon Internetansultning! PreMiD kommer inte att kunna visa din närvaro tills att du har åtgärdat det.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Ingen anslutning till Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD kunde inte ansluta till din Discord-applikation! Är den installerad och kör? *Felsökning*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Alla",
 		"description": "Category name shown when you open tags"

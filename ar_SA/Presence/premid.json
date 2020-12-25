@@ -44,7 +44,7 @@
         "description": "A page name"
     },
     "premid.pageAbout": {
-        "message": "نبذة عنا",
+        "message": "حول",
         "description": "A page name"
     },
     "premid.pageSysReq": {
@@ -60,7 +60,7 @@
         "description": "A page name"
     },
     "premid.pageStart": {
-        "message": "ابدء",
+        "message": "الإبتداء",
         "description": "A page name"
     },
     "premid.pageApi": {

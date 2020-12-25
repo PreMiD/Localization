@@ -87,6 +87,22 @@
 		"message": "PreMiD ของคุณล้าสมัยแล้ว โปรดอัปเดตโดยกดที่ PreMiD",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "ไม่พบการเชื่อมต่ออินเตอร์เน๊ต!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "ดูเหมือนว่าคุณยังไม่ได้เชื่อมต่ออินเตอร์เน๊ต! ฉะนั้น PreMiD จะไม่โชว์ Presences ในขณะนี้",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "ไม่พบการเชื่อมต่อจาก Discord",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD ไม่สามารถเชื่อต่อกับแอพพลิเคชั่นได้! ตรวจสอบดูว่าแอพพลิเคชั่นได้ทำงานอยู่ตอนนี้ หรือคุณยังไม่ได้ติดตั้งโปรแกรม? *Troubleshooting*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "ทั้งหมด",
 		"description": "Category name shown when you open tags"

@@ -16,7 +16,7 @@
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
-		"message": "{0} còn lại",
+		"message": "Còn lại {0}",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.timestamp2": {
@@ -24,7 +24,11 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "Phát lại",
+		"message": "Đang phát",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Trực tiếp",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
@@ -40,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Chúng tôi đã tạo ra một Extension để các bạn có thể thêm và sử dụng các Presence do người khác tạo ra và quản lý chúng trong Extension của chúng tôi!",
+		"message": "Chúng tôi đã tạo ra một extension để bạn có thể thêm và sử dụng các Presence do người khác tạo ra và quản lý chúng trong extension của chúng tôi!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -48,11 +52,11 @@
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
-		"message": "Giao diện dễ dùng, đơn giản",
+		"message": "Giao diện đơn giản",
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Đã quả mệt mỏi vì giao diện người dùng phức tạp? Đó là lý do tại sao chúng tôi tạo ra và cố gắng gữi cho UI của chúng tôi đơn giản và hữu ích nhất có thể với các tính năng quan trọng như:",
+		"message": "Đã quả mệt mỏi vì giao diện người dùng phức tạp? Đó là lý do tại sao chúng tôi tạo ra và cố gắng giữ cho UI của chúng tôi đơn giản và hữu ích nhất với các tính năng quan trọng như:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -60,7 +64,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Quản lý trạng thái",
+		"message": "Quản lý presence",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
@@ -72,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Có gì đó trục trặc, gửi cho bạn hàng đống lỗi hoặc đơn giản là không hoạt động? Chúng tôi sẽ giúp bạn loại bỏ những vấn đề đó trên máy chủ Discord của chúng tôi, chúng tôi cũng tạo ra hệ thống hỗ trợ rất riêng để đảm bảo vấn đề của bạn được giải quyết càng sớm càng tốt.",
+		"message": "Có gì đó trục trặc, gửi cho bạn hàng đống lỗi hoặc đơn giản là không hoạt động? Chúng tôi sẽ giúp bạn loại bỏ những vấn đề đó trên máy chủ Discord của chúng tôi, chúng tôi cũng tạo ra hệ thống để đảm bảo vấn đề của bạn được giải quyết một cách nhanh nhất.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {

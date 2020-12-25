@@ -3,6 +3,10 @@
 		"message": "**PreMiD** är ett enkelt, konfigurerbart verktyg som låter dig visa vad du gör på webben i din Discords spelstatus.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Funktioner",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Nedladdningar",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -23,6 +27,10 @@
 		"message": "Spelar upp",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Bläddrar...",
 		"description": "Discord Rich Presence -> small image text;"
@@ -35,9 +43,21 @@
 		"message": "Hitta **din** presence",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Vi skapade vårat tillägg på ett sätt som låter dig lägga till och använda Presencer skapade av andra och hantera de i vårat tillägg!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Besök butiken",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Enkelt gränssnitt",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Trött på komplicerade användargränssnitt? Det är därför vi skapade och försöker hålla våran UI så enkel som möjligt med viktiga funktioner som:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Program och tilläggs inställningar",
@@ -47,8 +67,24 @@
 		"message": "Presence hantering",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortera av kategori",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Support",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Något är buggat, skickar dig massor av fel eller helt enkelt inte fungerar? Vi hjälper dig att bli av med dessa problem på vår Discord-server, vi skapade också vårt eget supportsystem som ser till att ditt problem blir löst så snart som möjligt.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Gå med i vår Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Webbplatsspråk",
+		"description": "Tippy content of the language selector."
 	}
 }

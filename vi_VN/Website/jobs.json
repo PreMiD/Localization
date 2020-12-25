@@ -20,11 +20,11 @@
 		"description": "Cancel, button in the modal."
 	},
 	"jobs.modal.error": {
-		"message": "Hãy hoàn thành các mẫu điền",
+		"message": "Vui lòng điền tất cả các trường",
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một nhóm phi lợi nhuận mọi khoản đóng góp hoặc tiền trợ cấp đều được chi cho dự án. Bằng cách ứng tuyển vào một vị trí làm việc tại PreMiD, bạn phải biết rằng bạn đang tình nguyện tham gia đội ngũ, bạn sẽ không được trả tiền cho công việc của mình.",
+		"message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một nhóm phi lợi nhuận, mọi khoản đóng góp hoặc tiền trợ cấp đều được chi cho dự án. Bằng cách ứng tuyển vào một vị trí làm việc tại PreMiD, bạn phải biết rằng bạn đang tình nguyện tham gia đội ngũ, bạn sẽ không được trả tiền cho công việc của mình.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
@@ -48,7 +48,7 @@
 		"description": "Text before the available job positions cards."
 	},
 	"jobs.benefits.title": {
-		"message": "Lợi ích cấp cao",
+		"message": "Nhiều lợi ích",
 		"description": "Text before the benefits cards."
 	},
 	"jobs.benefit1.title": {
@@ -60,11 +60,11 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit2.title": {
-		"message": "Nhìn trước",
+		"message": "Sneak Peeks",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
-		"message": "Có một cái nhìn về phần phát triển và quảng cáo của chúng tôi.",
+		"message": "Có cái nhìn về sự phát triển và Marketing của chúng tôi.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
@@ -72,7 +72,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Quyền Discord mạnh mẽ và một role sặc sỡ.",
+		"message": "Quyền trong Discord và role màu sặc sỡ.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
@@ -88,7 +88,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
-		"message": "Cứ từ từ. Đây là công việc tình nguyện.",
+		"message": "Không cần vội, đây là việc tình nguyện.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {

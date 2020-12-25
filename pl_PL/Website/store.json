@@ -8,7 +8,7 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "Ten status Presence jest bardzo popularna wśród użytkowników.",
+		"message": "Ten status Presence jest bardzo popularny wśród użytkowników.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
@@ -32,7 +32,7 @@
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
-		"message": "Ten status Presence jest automatycznie włączona podczas odwiedzania witryny.",
+		"message": "Ten status Presence jest automatycznie włączony podczas odwiedzania witryny.",
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {

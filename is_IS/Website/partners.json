@@ -59,6 +59,10 @@
 		"message": "Hvað erum við að leita að?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.apply.select.other": {
+		"message": "Annað",
+		"description": "Select 'Other' category."
+	},
 	"partners.apply.success": {
 		"message": "Takk fyrir að sækja um!",
 		"description": "Success message when applying."

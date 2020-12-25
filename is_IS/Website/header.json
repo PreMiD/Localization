@@ -19,6 +19,10 @@
     "message": "Skipta um tungumál",
     "description": "Button that switches language after click."
   },
+  "header.loader.phrases": {
+    "message": "Baka pönnukökur..;Setur gáma...;Parar IP-tölu þína...;UwU;Brýtur reglur...;Þurrkar harða diskinn þinn...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
   "header.store": {
     "message": "Verslun",
     "description": "Store tab"
@@ -30,5 +34,21 @@
   "header.contributors": {
     "message": "Þátttakendur",
     "description": "Contributors tab"
+  },
+  "header.lia": {
+    "message": "Skráður inn sem",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Tilkynna galla",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Stjórnborð",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Útskráning",
+    "description": "Logout button"
   }
 }

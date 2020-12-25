@@ -36,7 +36,7 @@
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "Trạng thái",
+		"message": "Presences",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Không có trạng thái đã được thêm",
+		"message": "Không có Presences được thêm",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -52,11 +52,11 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Tải hiện diện",
+		"message": "Thêm Presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Cửa hàng trạng thái",
+		"message": "Cửa hàng Presence",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -76,16 +76,32 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD không thể kết nối với ứng dụng của nó! Nó đã được tải và cho chạy chưa? *Đang xử lý*",
+		"message": "PreMiD không thể kết nối với ứng dụng! Ứng dụng đã được tải và cho chạy chưa? *Đang xử lý*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Ứng dụng chưa được cập nhật",
+		"message": "Ứng dụng đã cũ",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Ứng dụng PreMiD của bạn đã cũ. Vui lòng cập nhật nó để tiếp tục sử dụng PreMiD.",
+		"message": "Ứng dụng PreMiD của bạn đã cũ. Vui lòng cập nhật để tiếp tục sử dụng PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.noInternet": {
+		"message": "Không có kết nối mạng!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Có vẻ như bạn không được kết nối mạng! PreMiD sẽ không hiện presences vào lúc này.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Không kết nối được tới Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD không thể kết nối được với Discord của bạn! Nó được cài và chạy chưa? *Đang xử lý*",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "Tất cả",
@@ -108,7 +124,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Video & Luồng",
+		"message": "Video & Streams",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

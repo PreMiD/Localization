@@ -8,7 +8,7 @@
 		"description": "Section description"
 	},
 	"beta.description.2": {
-		"message": "Bạn sẽ được gì khi bạn đăng ký?",
+		"message": "Bạn sẽ được gì nếu đăng ký?",
 		"description": "Section description"
 	},
 	"beta.features.1": {
@@ -16,11 +16,11 @@
 		"description": "Features list"
 	},
 	"beta.features.2": {
-		"message": "Truy cập vào những kênh chat riêng tư của PreMiD",
+		"message": "Tham gia kênh chat kín của PreMiD",
 		"description": "Features list"
 	},
 	"beta.features.3": {
-		"message": "Một role đặc biệt trong server Discord của chúng tôi",
+		"message": "Role đặc biệt trong server Discord của chúng tôi",
 		"description": "Features list"
 	},
 	"beta.register.text": {
@@ -36,7 +36,7 @@
 		"description": "Thank You page title"
 	},
 	"thankyou.description": {
-		"message": "Lũ khỉ của công ty chúng tôi đang cố gắng đưa bạn vào chương trình thử nghiệm trước nhanh nhất có thể. Cảm ơn bạn vì đã đăng ký!",
+		"message": "Đàn khỉ này đang cố gắng mang bản beta tới cho các bạn sớm nhất có thể. Cảm ơn vì đã đăng ký!",
 		"description": "Thank You page description"
 	},
 	"error.noslots": {

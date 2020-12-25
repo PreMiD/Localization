@@ -1,6 +1,6 @@
 {
 	"store.search.notFound": {
-		"message": "Tento Presence jsme nenašli...",
+		"message": "Tuto Presenci jsme nenašli...",
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
@@ -8,7 +8,7 @@
 		"description": "Error (404) message"
 	},
 	"error.code.4": {
-		"message": "Hledáš neexistující nebo smazanou presence.",
+		"message": "Hledáš neexistující nebo smazanou Presenci.",
 		"description": "Error (4) message"
 	},
 	"error.code.500": {
@@ -16,7 +16,7 @@
 		"description": "Error (500) message"
 	},
 	"error.page.details": {
-		"message": "Detaily",
+		"message": "Podrobnosti",
 		"description": "'Details' text on error page container"
 	},
 	"error.page.button": {
@@ -28,11 +28,11 @@
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
-		"message": "ID uživatele, kterého hledáte, je správné.",
+		"message": "ID uživatele, kterého hledáš, je správné.",
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "uživatel vytvořil dostatek Presence a má roli \"Presence Developer\" na našem Discord serveru.",
+		"message": "uživatel vytvořil dostatek Presencí a má roli \"Presence Developer\" na našem Discord serveru.",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
@@ -40,7 +40,7 @@
 		"description": "Check if the error is also happening to others message."
 	},
 	"user.notFound.message4": {
-		"message": "Pokud věříte, že se jedná o chybu, prosím kontaktujte nás na našem [Discord serveru].",
+		"message": "Pokud věříš, že se jedná o chybu, prosím kontaktuj nás na [našem Discord serveru].",
 		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }

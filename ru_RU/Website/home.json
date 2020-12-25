@@ -27,6 +27,10 @@
 		"message": "Воспроизводится",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Прямой эфир",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Смотрит...",
 		"description": "Discord Rich Presence -> small image text;"

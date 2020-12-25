@@ -11,17 +11,9 @@
 		"message": "Prekladatelia",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Tvorca",
-		"description": "'Creator' title for contributors and user pages."
-	},
 	"contributors.roles.moderator": {
 		"message": "Moderátor",
 		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Overovateľ prítomností",
-		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
 		"message": "Darca",

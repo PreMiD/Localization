@@ -1,6 +1,6 @@
 {
   "extension.2.0.new1": {
-    "message": "Người dùng hiện có thể tự thêm trạng thái * Thêm một số ngay bây giờ! *",
+    "message": "Người dùng hiện có thể tự thêm presences * Thêm ngay bây giờ *",
     "description": ""
   },
   "extension.2.0.new2": {
@@ -12,11 +12,11 @@
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "Người dùng có thể tạo trạng thái ngay bây giờ",
+    "message": "Người dùng có thể tạo presences ngay bây giờ",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "* Tài liệu * cho các nhà phát triển sáng tạo ngoài kia",
+    "message": "* Tài liệu * cho các nhà phát triển ở đây",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -28,7 +28,7 @@
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "API mới của chúng tôi là một con quái vật",
+    "message": "API mới của chúng tôi chạy như quái vật",
     "description": ""
   },
   "extension.2.0.change1": {
@@ -36,11 +36,11 @@
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "Rất nhiều (chưa) biết lỗi đã bỏ chạy",
+    "message": "Rất nhiều lỗi(chưa biết) đã được sửa",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "Bây giờ mọi thứ nhanh hơn rất nhiều",
+    "message": "Mọi thứ đã được chạy nhanh hơn",
     "description": ""
   },
   "extension.2.0.1.fix1": {

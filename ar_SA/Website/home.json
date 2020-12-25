@@ -27,6 +27,10 @@
 		"message": "اعادة التشغيل",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "مباشر",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "تصفح",
 		"description": "Discord Rich Presence -> small image text;"
@@ -76,7 +80,7 @@
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "انضم إلى الديسكورد الخاص بنا",
+		"message": "انضم إلى الديسكورد الخاص بنا ",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {

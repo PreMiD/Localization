@@ -15,6 +15,10 @@
 		"message": "Ijro etilmoqda",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Jonli",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Vositaching...",
 		"description": "Discord Rich Presence -> small image text;"

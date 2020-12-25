@@ -11,73 +11,17 @@
 		"message": "Prevajalci",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Avtor",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.projectManager": {
-		"message": "Vodja Projekta",
-		"description": "'Project Manager' title for contributors and user pages."
-	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "Nadzornik Operacij",
-		"description": "'Operations Supervisor' title for contributors and user pages."
-	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Globalni Predstavnik Skupnosti",
-		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.storeManager": {
-		"message": "Vodja Trgovine",
-		"description": "'Store Manager' title for contributors and user pages."
-	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Sistemski Administrator",
-		"description": "'System Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.webDeveloper": {
-		"message": "Spletni Razvijalec",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Linux Vzdrževalec",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Inženir",
-		"description": "'Engineer' title for contributors and user pages."
-	},
 	"contributors.roles.designer": {
 		"message": "Oblikovalec",
 		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Glavni Moderator",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Glavni nadzornik za Dodatke",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "Predstavnik Skupnosti",
-		"description": "'Community Representative' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "Manjši Moderator",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "Podporni Agent",
 		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Nadzornik za Dodatke",
-		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Pregled prevodov",

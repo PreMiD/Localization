@@ -27,6 +27,10 @@
 		"message": "正在播放",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "直播",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "浏览中...",
 		"description": "Discord Rich Presence -> small image text;"

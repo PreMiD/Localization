@@ -1,0 +1,58 @@
+{
+	"spotify.featured": {
+		"message": "Lagu pilihan",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Audio siar terbaik",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Melihat carta",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Melayari genre",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Melihat terbitan terbaru",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Menerokai lagu baharu",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Melayari",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "audio siar yang disukainya",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artis yang disukainya",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "album yang disukainya",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "lagu yang disukainya",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Dicipta untuk anda\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "senarai mainnya",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Memuat Turun Spotify",
+		"description": ""
+	}
+}

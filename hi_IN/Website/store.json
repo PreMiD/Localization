@@ -1,0 +1,26 @@
+{
+	"store.category.all": {
+		"message": "सभी",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "खेल",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "संगीत",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "सामाजिक",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "वीडियो और स्ट्रीम",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "अन्य",
+		"description": "Category at the top"
+	}
+}

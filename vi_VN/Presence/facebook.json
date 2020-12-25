@@ -1,14 +1,14 @@
 {
     "facebook.call": {
-        "message": "Đang trong một cuộc gọi thoại với:",
+        "message": "Đang trong cuộc gọi với:",
         "description": ""
     },
     "facebook.vcall": {
-        "message": "Đang trong một cuộc gọi video với:",
+        "message": "Đang trong gọi video với:",
         "description": ""
     },
     "facebook.userHidden": {
-        "message": "ai đó... (Tên tài khoản đã ẩn)",
+        "message": "ai đó... (Tên đã ẩn)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
     "facebook.writing": {
@@ -16,31 +16,31 @@
         "description": ""
     },
     "facebook.userAbout": {
-        "message": "Đang đọc về người dùng:",
+        "message": "Đang đọc về:",
         "description": ""
     },
     "facebook.userCommunity": {
-        "message": "Đang xem cộng đồng của người dùng:",
+        "message": "Đang xem cộng đồng của:",
         "description": ""
     },
     "facebook.userPics": {
-        "message": "Đang xem ảnh của người dùng:",
+        "message": "Đang xem ảnh của:",
         "description": ""
     },
     "facebook.userPosts": {
-        "message": "Đang xem bài viết của người dùng:",
+        "message": "Đang xem bài viết của:",
         "description": ""
     },
     "facebook.userShop": {
-        "message": "Đang xem cửa hàng của người dùng:",
+        "message": "Đang xem cửa hàng của:",
         "description": ""
     },
     "facebook.userFriends": {
-        "message": "Đang xem bạn bè của người dùng:",
+        "message": "Đang xem danh sách bạn bè của:",
         "description": ""
     },
     "facebook.userVids": {
-        "message": "Đang xem video của người dùng:",
+        "message": "Đang xem video của:",
         "description": ""
     },
     "facebook.browse": {
@@ -48,7 +48,7 @@
         "description": ""
     },
     "facebook.savedVids": {
-        "message": "Videos đã lưu",
+        "message": "Video đã lưu",
         "description": ""
     },
     "facebook.added": {

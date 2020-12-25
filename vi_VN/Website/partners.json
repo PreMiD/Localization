@@ -44,7 +44,7 @@
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
-		"message": "Một nơi riêng biệt dành cho các đối tác.",
+		"message": "Một dành riêng cho các đối tác.",
 		"description": "Description for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
@@ -60,7 +60,7 @@
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
-		"message": "Chúng tôi đang tìm kiếm đều gì?",
+		"message": "Chúng tôi đang tìm kiếm điều gì?",
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.second.title": {
@@ -68,11 +68,11 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Chúng tôi hiện tại đang chấp nhận đa dạng những cách để vào chương trình đối tác của chúng tôi. Mọi người nên có cơ hội được để ý. Streamer Twitch nên có ít nhất 500 người theo dõi và ít nhất 10 lượt xem đồng thời. Bạn phải stream ít nhất 1 lần trên tuần.",
+		"message": "Có nhiều cách để làm đối tác với chúng tôi. Twitch streamer cần tối thiểu 500 người theo dõi và tối thiểu 10 người xem đồng thời. Bạn cần stream ít nhất 1 lần trong tuần.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "Áp dụng ngay!",
+		"message": "Đăng ký ngay!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
@@ -100,11 +100,11 @@
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
-		"message": "UpBeat là một radio phi lợi nhuận với mục tiêu phấn đấu để cung cấp radio chất lượng, không ngừng nghỉ và tin tức giải trí.",
+		"message": "UpBeat là một đài phát thanh quốc tế phi lợi nhuận luôn cố gắng cung cấp chương trình giải trí chất lượng nhất.",
 		"description": "Description for UpBeatRadio."
 	},
 	"partners.partner.iLoot": {
-		"message": "Nền tảng lợi nhuận cho game thủ.",
+		"message": "Nền tảng kiếm tiền cho game thủ.",
 		"description": "Description for iLoot."
 	},
 	"partners.partner.simLiveRadio": {
@@ -120,27 +120,27 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga là một Discord Bot đang cố gắng cung cấp tất cả các tính năng mà bạn có thể cần cùng một lúc!",
+		"message": "taiga là một Discord Bot sẽ cung cấp tất cả các tính năng mà bạn có thể cần!",
 		"description": "Description for taigabot."
 	},
 	"partners.partner.bitRock": {
-		"message": "Một nền tảng mạnh mẽ và dễ dùng trong việc tạo những gói cài đặt đa nền tảng.",
+		"message": "Một công cụ đa nền tảng mạnh mẽ giúp bạn dễ dàng tạo ra trình cài đặt.",
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "Dễ dàng giao tiếp trạng thái thời gian thực với người dùng của bạn.",
+		"message": "Dễ dàng báo trạng thái trang web của bạn đến người dùng theo giời gian thực.",
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.crowdin": {
-		"message": "Dịch vụ dịch thuật hóa nhanh nhẹn cho các công ty công nghệ.",
+		"message": "Dịch thuật nhanh chóng cho công ty công nghệ.",
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
-		"message": "Phần mềm Wiki mã nguồn mở mạnh và mở rộng rất.",
+		"message": "Phần mềm Wiki mã nguồn mở và có thể dễ dàng mở rộng.",
 		"description": "Description for WikiJS."
 	},
 	"partners.partner.fastly": {
-		"message": "Đằng sau những điều tốt nhất của trang web.",
+		"message": "Đằng sau những tinh túy của trang web.",
 		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
@@ -156,7 +156,7 @@
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
-		"message": "Hãy chọn một",
+		"message": "Xin chọn một",
 		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
@@ -184,7 +184,7 @@
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
-		"message": "Mô tả cho người được giới thiệu",
+		"message": "Mô tả các tính chất",
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
@@ -200,7 +200,7 @@
 		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
-		"message": "Áp dụng",
+		"message": "Đăng ký",
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
@@ -208,19 +208,19 @@
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
-		"message": "Hãy hoàn thành các mẫu điền.",
+		"message": "Xin hãy điền vào các trường trống.",
 		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
-		"message": "Tối đa 150 ký tự cho phần miêu tả.",
+		"message": "Phần miêu tả tối đa 150 ký tự.",
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "Hãy thêm một link (phải bắt đầu bằng https:// và kết thúc với .png)",
+		"message": "Hãy thêm link (phải bắt đầu bằng https:// và kết thúc với .png)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Bạn đã ứng cử trở thành đối tác.",
+		"message": "Bạn đã ứng tuyển rồi.",
 		"description": "Error when already applied."
 	}
 }

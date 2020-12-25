@@ -1,0 +1,50 @@
+{
+  "extension.2.0.new1": {
+    "message": "Kini pengguna boleh menambah Presence dengan sendirinya. *Tambahlah sekarang!*",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "Cari *Presence baharu* di habitat semula jadi mereka",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "Kemas kini auto kini tersedia",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "Kini pengguna boleh mencipta Presence",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "*Pendokumenan* untuk para pembangun yang kreatif di luar sana",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "Reka cipta laman sesawang serba baharu",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "Lebih banyak ciri untuk bot Discord kami",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "API baharu kami berjalan sepantas kilat",
+    "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "Tata letak dan gaya kotak timbul dan tab yang diperbaharui",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "Banyak pepijat yang (tidak) diketahui telah melarikan diri",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "Kini segalanya berjalan dengan lebih pantas",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Ralat aplikasi lama dibaiki walaupun anda menggunakan aplikasi terbaru",
+    "description": ""
+  }
+}

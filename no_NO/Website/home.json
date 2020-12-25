@@ -27,6 +27,10 @@
 		"message": "Spiller tilbake",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Direkte",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Søker...",
 		"description": "Discord Rich Presence -> small image text;"

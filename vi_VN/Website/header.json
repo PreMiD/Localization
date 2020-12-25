@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Chúng tôi có hỗ trợ ngôn ngữ của bạn, có muốn đổi không?",
+    "message": "Chúng tôi hỗ trợ ngôn ngữ của bạn, có muốn đổi không?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -40,7 +40,7 @@
     "description": "Login Button"
   },
   "header.lia": {
-    "message": "Đăng nhập bằng",
+    "message": "Đăng nhập với",
     "description": "Indicates which user is logged in"
   },
   "header.rab": {

@@ -8,7 +8,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "Đang duỵet qua playlist",
+        "message": "Đang duyệt qua playlist",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
@@ -35,6 +35,10 @@
         "message": "Đang duyệt qua",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.subscriptions": {
+        "message": "dịch vụ đã đăng ký",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.library": {
         "message": "thư viện của họ",
         "description": "Part two of \"Browsing through\""
@@ -43,20 +47,28 @@
         "message": "lịch sử của họ",
         "description": "Part two of \"Browsing through\""
     },
+    "youtube.purchases": {
+        "message": "đã mua",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.reportHistory": {
-        "message": "Đang xem lịch sử báo cáo",
+        "message": "Đang xem lịch sử report",
         "description": ""
     },
     "youtube.upload": {
-        "message": "Đang tải lên cái gì đấy...",
+        "message": "Đang tải lên...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Đang xem tất cả playlist của họ",
+        "message": "Đang xem playlists của họ",
         "description": ""
     },
     "youtube.viewLiveEvents": {
         "message": "Đang xem sự kiện trực tiếp của họ",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Đang xem bảng điều khiển live stream",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
@@ -75,9 +87,17 @@
         "message": "Đang xem thống kê của video:",
         "description": ""
     },
+    "youtube.studio.videoComments": {
+        "message": "Đang đọc comments của:",
+        "description": ""
+    },
     "youtube.studio.videoTranslations": {
         "message": "Đang xem bản dịch của video:",
         "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Đang xem",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "thống kê kênh",
@@ -96,7 +116,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Đang xem bảng tin",
+        "message": "Đang xem bảng điều khiển",
         "description": ""
     }
 }

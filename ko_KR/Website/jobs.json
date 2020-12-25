@@ -1,10 +1,26 @@
 {
+	"jobs.modal.buttons.next": {
+		"message": "다음",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "취소",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.benefit3.title": {
+		"message": "명예",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.title": {
+		"message": "PreMiD를 지원하다.",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit5.description": {
 		"message": "공을 들이세요. 이건 당신의 자발적인 일 입니다.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
-		"message": "베타 버전",
+		"message": "얼리 엑세스",
 		"description": "Benefit card title."
 	},
 	"jobs.success.applied": {

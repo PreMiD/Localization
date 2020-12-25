@@ -32,7 +32,7 @@
 		"description": "Button to send the information inputed."
 	},
 	"report.toomany": {
-		"message": "Tu tens muitos reportes ativos. Espera que os teus reportes enviados sejam analisados. Reportes são verificados semanalmente, sê paciente.",
+		"message": "Você tem muitos reportes ativos. Espere que os seus reportes enviados sejam revisados. Reportes são verificados semanalmente, seja paciente.",
 		"description": "User has too many active reports"
 	},
 	"report.toomany.alert": {

@@ -8,8 +8,12 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "Presence này rất phổ biến với mọi người dùng.",
+		"message": "Presence này rất phổ biến với người dùng.",
 		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Partnered Presence",
+		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
 		"message": "Presence yêu cầu các bước bổ sung, vui lòng kiểm tra trang của nó để biết thêm thông tin.",
@@ -36,7 +40,7 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Được sử dụng nhiều nhất trước",
+		"message": "Được dùng nhiều trước",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
@@ -60,7 +64,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.games": {
-		"message": "Trò chơi",
+		"message": "Game",
 		"description": "Category at the top"
 	},
 	"store.category.music": {
@@ -82,6 +86,10 @@
 	"store.search": {
 		"message": "Tìm kiếm",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Nhập",
+		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
 		"message": "Ấn để gỡ bộ lọc",

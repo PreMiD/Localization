@@ -87,6 +87,22 @@
 		"message": "Seu PreMiD está desatualizado. Por favor atualize-o para continuar usando o PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Sem conexão com a internet!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Parece que você não tem uma conexão com a Internet! O PreMiD não poderá mostrar as presenças no momento.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Sem conexão com o Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD não conseguiu se conectar ao seu aplicativo Discord! Ele está instalado e em execução? *Solução de problemas*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Todas",
 		"description": "Category name shown when you open tags"

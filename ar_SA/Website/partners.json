@@ -192,7 +192,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "شكرًا لك على تقديم الطلب!",
+		"message": "شكرًا لك على تقديم الطلب!    ",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

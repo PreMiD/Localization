@@ -12,7 +12,7 @@
         "description": ""
     },
     "twitter.viewTweetsWithReplies": {
-        "message": "Vendo tweet (com respostas) de:",
+        "message": "Vendo tweets (com respostas) de:",
         "description": ""
     },
     "twitter.viewMedia": {
@@ -28,7 +28,7 @@
         "description": ""
     },
     "twitter.bookmarks": {
-        "message": "Favoritas",
+        "message": "Favoritos",
         "description": ""
     },
     "twitter.notifs": {

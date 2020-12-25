@@ -48,7 +48,7 @@
         "description": "A page name"
     },
     "premid.pageSysReq": {
-        "message": "Exigences du système",
+        "message": "Configuration requise",
         "description": "A page name"
     },
     "premid.pageInstall": {

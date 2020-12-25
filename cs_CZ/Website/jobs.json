@@ -32,7 +32,7 @@
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Abyste se mohli ucházet o toto místo, musíte být členem našeho Discord serveru. Jinak vás nebudeme moci kontaktovat pokud vás vybereme!",
+		"message": "Abyste se mohli ucházet o toto místo, musíte být členem našeho Discord serveru. Jinak vás nebudeme moci kontaktovat, pokud vás vybereme!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {

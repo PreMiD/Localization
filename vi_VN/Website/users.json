@@ -1,38 +1,38 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Nhà phát triển trạng thái",
+		"message": "Nhà phát triển Presence",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Người xác nhận trạng thái",
+		"message": "Presence Verifier",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Nhà phát triển trạng thái quan trọng",
+		"message": "Lập trình viên Presence quan trọng",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
-		"message": "Tạo {0} trạng thái.",
+		"message": "Đã viết {0} presences.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Những nhà phát triển trạng thái tài năng",
+		"message": "Lập trình viên Presence tài năng",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Tạo hơn 100 trạng thái!",
+		"message": "Đã viết hơn 100 Presences!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "Người dùng [Presences/đóng góp]",
+		"message": "[Presences/Đóng góp] của họ",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Ấn vào đây để hiển thị Presence mà người dùng này đã tạo.",
+		"message": "Ấn vào đây để hiển thị Presence mà người này đã tạo.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Bấm vào đây để hiện trạng thái người dùng này đã đóng góp.",
+		"message": "Bấm vào đây để hiện presences mà người này đã đóng góp.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

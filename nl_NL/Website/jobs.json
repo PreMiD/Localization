@@ -12,11 +12,11 @@
 		"description": "Next button in the modal."
 	},
 	"jobs.modal.buttons.join": {
-		"message": "Join",
+		"message": "Word lid",
 		"description": "Join Discord button in the modal."
 	},
 	"jobs.modal.buttons.cancel": {
-		"message": "Annuleren",
+		"message": "Annuleer",
 		"description": "Cancel, button in the modal."
 	},
 	"jobs.modal.error": {
@@ -28,7 +28,7 @@
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
-		"message": "Join onze Discord",
+		"message": "Word lid van onze Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
@@ -40,7 +40,7 @@
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
-		"message": "Ben je klaar om de grootste Rich-Presence programma te helpen?",
+		"message": "Ben je klaar om het grootste Rich-Presence-programma te helpen?",
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {

@@ -27,6 +27,10 @@
 		"message": "מופעל מחדש",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "שידור חי",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "גולש...",
 		"description": "Discord Rich Presence -> small image text;"

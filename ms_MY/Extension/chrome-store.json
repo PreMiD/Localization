@@ -1,0 +1,10 @@
+{
+  "extension.description.short": {
+    "message": "Rich Presence anda untuk perkhidmatan sesawang!",
+    "description": "Short description in extension store"
+  },
+  "extension.description.full": {
+    "message": "ANDA PERLU PASANGKAN APLIKASI RASMI KAMI UNTUK MEMBOLEHKANNYA BERFUNGSI\n   {0} {1}\n\nAnda boleh gunakan kekunci media anda untuk mengawal main semula perkhidmatan-perkhidmatan ini. Apabila anda menonton/mendengar sesuatu menggunakan salah satu perkhidmatan yang kami sokong, sambungan pelayar akan menghantar metadata video/lagu ke klien komputer kami dan PreMiD akan memprosesnya. PreMiD kemudiannya menghantar maklumat ke Discord dalam bentuk yang diperlukan lalu menetapkan statusnya secara automatik.\nPerkhidmatan yang disokong\n   {2} Cubalah lihat {3}\n\nPerlukan bantuan?\n   {4} {5}\n\nPelayan Discord kami\n   {6} Cakap dengan insan di sebalik PreMiD {7}\n\nKami ber-Sumber Terbuka!\n   {9} Benda yang hebat mestilah dibuka kepada umum {10}",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
+  }
+}

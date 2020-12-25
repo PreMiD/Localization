@@ -1,4 +1,20 @@
 {
+    "premid.viewPage": {
+        "message": "Visar sida:",
+        "description": ""
+    },
+    "premid.docs": {
+        "message": "Dokumentation",
+        "description": "as in documents"
+    },
+    "premid.viewPresence": {
+        "message": "Visar närvaro:",
+        "description": ""
+    },
+    "premid.pageHome": {
+        "message": "Hemsida",
+        "description": "A page name"
+    },
     "premid.pageContributors": {
         "message": "Medverkande",
         "description": "A page name"
@@ -11,8 +27,24 @@
         "message": "Butik",
         "description": "A page name"
     },
+    "premid.pageCookies": {
+        "message": "Cookie Policy",
+        "description": "A page name"
+    },
+    "premid.pagePrivacy": {
+        "message": "Sekretesspolicy",
+        "description": "A page name"
+    },
+    "premid.pageTerms": {
+        "message": "Användarvillkor",
+        "description": "A page name"
+    },
     "premid.pageWiki": {
         "message": "Wiki",
+        "description": "A page name"
+    },
+    "premid.pageAbout": {
+        "message": "Om",
         "description": "A page name"
     },
     "premid.pageSysReq": {

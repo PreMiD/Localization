@@ -4,7 +4,7 @@
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
-		"message": "Připravený používat PreMiD?",
+		"message": "Jsi připraven používat PreMiD?",
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
@@ -108,7 +108,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
-		"message": "Klikněte sem pro zobrazení zbytku partnerů a sponzorů.",
+		"message": "Pro zobrazení zbytku partnerů a sponzorů, klikněte sem.",
 		"description": "Button next to all listed partners on the footer."
 	}
 }

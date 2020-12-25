@@ -27,6 +27,10 @@
 		"message": "Възпроизвеждане назад",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Live\n",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Сърфирането ...",
 		"description": "Discord Rich Presence -> small image text;"

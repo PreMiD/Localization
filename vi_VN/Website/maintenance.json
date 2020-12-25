@@ -4,7 +4,7 @@
 		"description": "The big text on maintenance page"
 	},
 	"maintenance.heading": {
-		"message": "Thật đáng tiếc, chúng tôi đang gặp một số khó khăn kỹ thuật. Chúng tôi sẽ trở lại trong thời gian ngắn. Xin lỗi vì sự bất tiện.",
+		"message": "Thật đáng tiếc, chúng tôi đang gặp một số trục trặc kỹ thuật. Chúng tôi sẽ trở lại trong thời gian ngắn. Xin lỗi vì sự bất tiện này.",
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.heading2": {
@@ -12,7 +12,7 @@
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.message": {
-		"message": "Cho đến khi những lập trình viên của chúng tôi sửa những lỗi này, đừng ngại và tham quan nơi này!",
+		"message": "Trong lúc đợi lập trình viên của chúng tôi sửa lỗi, đừng ngại và tham quan nơi này!",
 		"description": "Message on maintenance page"
 	},
 	"maintenance.statuspage": {

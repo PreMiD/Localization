@@ -27,6 +27,10 @@
 		"message": "Toistetaan",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Suora",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Selaa...",
 		"description": "Discord Rich Presence -> small image text;"

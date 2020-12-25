@@ -28,19 +28,19 @@
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "Đang xem Tài Liệu Torrents",
+        "message": "Đang xem Torrents Tài Liệu",
         "description": ""
     },
     "1337x.gamesTorrents": {
-        "message": "Đang xem Games Torrents",
+        "message": "Đang xem Torrents Games",
         "description": ""
     },
     "1337x.moviesTorrents": {
-        "message": "Đang xem Phim Torrents",
+        "message": "Đang xem Torrents Phim",
         "description": ""
     },
     "1337x.musicTorrents": {
-        "message": "Đang xem Nhạc Torrents",
+        "message": "Đang xem Torrents Nhạc",
         "description": ""
     },
     "1337x.otherTorrents": {
@@ -56,11 +56,11 @@
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
-        "message": "Đang tải lên cái gì đấy...",
+        "message": "Đang tải lên...",
         "description": ""
     },
     "1337x.rules": {
-        "message": "Đang đọc luật lệ",
+        "message": "Đang đọc luật",
         "description": ""
     },
     "1337x.writing": {

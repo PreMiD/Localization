@@ -12,7 +12,7 @@
 		"description": "Tells the user about submitting a bug"
 	},
 	"report.overview": {
-		"message": "Cung cấp một mô tả rõ ràng và súc tích về lỗi là gì.",
+		"message": "Cung cấp một mô tả rõ ràng và súc tích về lỗi.",
 		"description": "Text for the user to write a brief of the bug information."
 	},
 	"report.os": {
@@ -23,16 +23,20 @@
 		"message": "Chọn trình duyệt và phiên bản của bạn - Bạn có thể tìm thấy phiên bản bằng cách truy cập about:support ở Firefox hoặc chrome://help",
 		"description": "Select Box for the user to select their browser"
 	},
+	"report.description": {
+		"message": "Hãy cung cấp link hoặc video hoặc mô tả rõ ràng các bước để tạo ra lỗi.",
+		"description": "Text for the user to write information about the bug."
+	},
 	"report.button": {
 		"message": "Báo cáo",
 		"description": "Button to send the information inputed."
 	},
 	"report.toomany": {
-		"message": "Bạn có quá nhiều báo cáo đang được xử lý. Hãy chờ các báo cáo của bạn được xem xét. Những báo cáo sẽ được kiểm tra hàng tuần, hãy kiên nhẫn.",
+		"message": "Bạn có quá nhiều báo cáo đang được xử lý. Vui lòng kiên nhẫn vì chúng tôi xem xét báo cáo của bạn hàng tuần.",
 		"description": "User has too many active reports"
 	},
 	"report.toomany.alert": {
-		"message": "Bạn có quá nhiều báo cáo đang chờ.",
+		"message": "Bạn có quá nhiều báo cáo đang chờ được xử lý.",
 		"description": "User has too many active reports"
 	},
 	"report.success": {
