@@ -20,12 +20,12 @@ editor: markdown
 PreMid سريع وسهل التثبيت. يجب أن تكون جاهز وتعمل في أسرع وقت.
 
 - تأكد من أنك قرأت [متطلبات النظام](/install/requirements).
-- اتبع التعليمات والارشادات البسيطة والسهله في [دليل الارشادات](/install).
+- إتبع [إرشادات التثبيت](/install) السريعة والسهلة.
 - [حل المشاكل](/troubleshooting) دليلك لطرق حل المشاكل والاسئله الشائعه وحلها.
 
 # المطورون
 
-[تجهيزات المطورين](/dev) اول خطوة لمطورين PreMiD.
+[التجهز](/dev) لتطوير PreMiD هو خطوتك الأولى قبل برمجة بعض الأشياء.
 
 - :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
