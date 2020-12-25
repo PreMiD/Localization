@@ -262,7 +262,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ## `PresenceData` インターフェース
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+`setActivity()`メゾットを使用している場合は、`PresenceData`インターフェースを使用することをおすすめします。
 
 このインターフェースには以下の変数があり、これらすべては指定しなくても構いません。
 
@@ -332,7 +332,7 @@ const presenceData: PresenceData = {
   state: "説明",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "カーソルを合わせましたね。で、何？",
+  smallImageText: "カーソルを合わせましたね。で、何か？",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
