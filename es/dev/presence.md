@@ -22,7 +22,7 @@ La versión `2.x` introduce la [tienda de presences](https://premid.app/store). 
 {.links-list}
 
 # Estructura
-Toda Presence está codificada en [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tiene algunos tipos definiciones más que JavaScript, así que corregir e identificar errores es mucho más fácil.
+Toda Presence está programada en [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tiene algunos tipos definiciones más que JavaScript, así que corregir e identificar errores es mucho más fácil.
 
 ## Instalación
 1. Instala [Git](https://git-scm.com/).
@@ -41,7 +41,7 @@ Toda Presence está codificada en [TypeScript](https://www.typescriptlang.org/).
 3. Cree una carpeta llamada `dist` en su interior.
 4. Cree un archivo `metadata.json` dentro de la carpeta `dist`.
 
-## Llenando un archivo tsconfig.json
+## Completando el archivo tsconfig.json
 Por favor, introduzca el siguiente código dentro del archivo `tsconfig.json`.
 ```javascript
 {
@@ -53,7 +53,7 @@ Por favor, introduzca el siguiente código dentro del archivo `tsconfig.json`.
 ```
 Para obtener más información sobre la configuración de TypeScript haga clic [aquí](/dev/presence/tsconfig).
 
-## Llenando un archivo metadata.json
+## Completando el archivo metadata.json
 Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/projects/premid/mdcreator) para la gente perezosa. Aún así se sugiere leerlo para que sepas cómo funciona.
 
 ```json
@@ -156,7 +156,7 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>nombres alternativos</b>
+      <td style="text-align:left"><b>altnames</b>
       </td>
       <td style="text-align:left">Poder ser capaz de buscar la presence usando un nombre alternativo. <br>Destinado a ser utilizado para presences que tienen nombres diferentes en diferentes idiomas (p. ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presences con caracteres especiales y así no tendrás que escribirlos (p. ej., Pokémon y Pokemon).
       </td>
@@ -166,10 +166,9 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>descripción</b>
+      <td style="text-align:left"><b>description</b>
       </td>
-      <td style="text-align:left">Una pequeña descripción de la presencia, puedes usar la descripción del servicio
-        si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
+      <td style="text-align:left">Una pequeña descripción de la presence, puedes usar la descripción del servicio si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
       <td style="text-align:left"><code>Object</code>
       </td>
       <td style="text-align:left"><code>No</code>
@@ -209,7 +208,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versión</b>
+      <td style="text-align:left"><b>version</b>
       </td>
       <td style="text-align:left">Versión de su presence.</td>
       <td style="text-align:left"><code>String</code>
@@ -218,7 +217,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logotipo</b>
+      <td style="text-align:left"><b>logo</b>
       </td>
       <td style="text-align:left">Enlace al logotipo del servicio.</td>
       <td style="text-align:left"><code>String</code>
@@ -246,7 +245,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etiquetas</b>
+      <td style="text-align:left"><b>tags</b>
       </td>
       <td style="text-align:left">Array con etiquetas, ayudarán a los usuarios a buscar su presence en el sitio web.</td>
       <td
@@ -256,7 +255,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>categoría</b>
+      <td style="text-align:left"><b>category</b>
       </td>
       <td style="text-align:left">Una string utilizada para representar la categoría bajo la que cae la presence. Mira las categorías válidas <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aquí</a>.</td>
       <td style="text-align:left"><code>String</code>
@@ -285,7 +284,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
     <tr>
       <td style="text-align:left"><b>ajustes</b>
       </td>
-      <td style="text-align:left">Unas configuraciones que el usuario puede cambiar.<br>
+      <td style="text-align:left">Un aray con configuraciones que el usuario puede cambiar.<br>
       Lea más sobre configuración de presences <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aquí</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
