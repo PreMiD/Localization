@@ -22,35 +22,35 @@ const presence = new Presence({
 });
 ```
 
-### Properties
+### Свойства
 
-There are three properties available for `Presence` class.
+Доступны три свойства для класса `Presence`.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. You can get it on your [applications page](https://discordapp.com/developers/applications).
+Это свойство необходимо для того, чтобы ваше присутствие работало, поскольку оно использует идентификатор вашего приложения для отображения своего логотипа и ресурсов. Вы можете получить это на свой [страница приложений](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+При установке на `injectOnComplete` в `true` первое событие `UpdateData` для обоих `присутствия. ,` и `iframe.ts` файлы будут запущены только при полной загрузке страницы.
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+При установке `appMode` на `true` и наличии для отправки пустой `PresenceData`, приложение будет показывать приложение (изображение и имя) в профиле пользователя, а не ничего.
 
 ## Методы
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Возвращает объект `PresenceData` о том, что отображает присутствие.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
 Устанавливает активностью профиля с соответствии с предоставленными данными.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+Первый параметр требует интерфейс [`PresenceData`](#presencedata-interface) или класс [`Slideshow`](/dev/presence/slideshow) , чтобы получить всю информацию, которую вы хотите отобразить в вашем профиле.
 
-Второй параметр определяет, что-нибудь presence играет или нет. Always use `true` if you provide timestamps in `PresenceData`.
+Второй параметр определяет, что-нибудь presence играет или нет. Всегда используйте `true` , если вы предоставляете временные метки в `PresenceData`.
 
 ### `clearActivity()`
 
@@ -101,9 +101,9 @@ const playString = strings.play; // result: Playing
 const pauseString = strings.pause; // result: Paused
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Начиная с версии 2.2.0 расширения вы можете получить строки для определенного языка. Это хорошо работает с недавно добавленными `multiLanguage` вариант настройки.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Мы предлагаем вам использовать следующий код, чтобы он автоматически обновлял PresenceData, если пользователь меняет выбранный язык;
 
 ```typescript
 // An interface of the strings you are getting (good for code quality and autocomplete).
@@ -260,9 +260,9 @@ presenceData.endTimestamp = timestamps[1];
 
 **Note:** The given `String` in querySelector is an example.
 
-## `PresenceData` Interface
+## `PresenceData` Интерфейс
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+При использовании метода `setActivity()` рекомендуется использовать интерфейса `presenceData`.
 
 Этот интерфейс содержит переменные, все они необязательными.
 
