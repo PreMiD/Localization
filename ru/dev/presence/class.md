@@ -18,7 +18,7 @@ dateCreated: 2020-06-11T18:04:42.004Z
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // Пример clientId
 });
 ```
 
@@ -87,7 +87,7 @@ const presence = new Presence({
 
 Асинхронный метод, который позволяет извлекать переведенные строки из расширения.
 
-Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. С помощью этой конечной точки можно найти сборку переведенных строк: `https://api.premid.app/v2/langFile/presence/en`
 
 ```typescript
 // Возвращает `Playing` и `Paused` строки
@@ -167,8 +167,8 @@ console.log(version); // Сообщается версии "2.1.0" в логи
 Возвращает значение настройки.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // Заменить pdexID идентификатором параметра
+console.log(setting); // Сообщается установка в логи
 ```
 
 ### `hideSetting(String)`
@@ -328,14 +328,14 @@ presenceData.endTimestamp = timestamps[1];
 </table>
 
 ```typescript
-const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
-  largeImageKey: "service_logo",
-  smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
-  startTimestamp: 1564444631188,
-  endTimestamp: 1564444634734
+var presenceData: presenceData = {
+    details: "Мой заголовок",
+    state: "Мои описание",
+    largeImageKey: "service_logo",
+    smallImageKey: "small_service_icon",
+    smallImageText: "Вы меня подошли, а сейчас?",
+    startTimestamp: 1564444631188,
+    endTimestamp: 1564444634734
 };
 ```
 
@@ -344,8 +344,8 @@ const presenceData: PresenceData = {
 События позволяют вам обнаруживать и обрабатывать некоторые изменения или вызовы. Вы можете подписаться на события с помощью метода `on`.
 
 ```typescript
-presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+presence.on("Данные обновить", асинхронный () => {
+    // Выполняйте что-то, когда данные обновляются.
 });
 ```
 
