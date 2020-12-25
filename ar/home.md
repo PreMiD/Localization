@@ -1,18 +1,18 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: الصفحة الرئيسية
+description: دليل الاستخدام الرسمي للنسخة 2
 published: صحيح
 date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Some pages may be incomplete or missing. 
+> لا تزال الوثائق قيد التعديل! قد تكون بعض الصفحات غير مكتملة أو مفقودة. 
 > 
 > {.is-warning}
 
 # حول PreMiD
-- ماهو PreMiD ؟ ولماذا يجب عليك استخدامه.
+- :mag:[ماهو PreMiD ؟](/about) ولماذا عليك استخدامه.
 - [ماهي واجهة الدسكورد](https://discordapp.com/rich-presence) جميع ماتود معرفته عنها.
 
 # ابدء
