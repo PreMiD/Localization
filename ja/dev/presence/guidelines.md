@@ -151,7 +151,7 @@ A list of fields and their rules are listed below:
 
 ### **`altnames`**
 
-- 公式で複数の名前がある場合(例:"Pokémon"と"포켓몬스터")や、 特殊な文字が入っている(例:Pokémon and Pokemon)場合にのみ参照してください。 複数の名前を指定して、探すのを簡単にすることができます。 *Shortened* versions of service names go under `tags`.
+- 公式で複数の名前がある場合(例:"Pokémon"と"포켓몬스터")や、 特殊な文字が入っている(例:Pokémon and Pokemon)場合にのみ参照してください。 複数の名前を指定して、探すのを簡単にすることができます。 短縮されたサービス名は、`tags`に置いてください。
 
 ### **`description`**
 
@@ -165,8 +165,8 @@ A list of fields and their rules are listed below:
 
 ### **`version`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- バージョン番号は[semantic versioning standards](https://semver.org)に従うようにしてください。 `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. （<新機能>.<大きなバグの修正>.<小さなバグや細かな修正>） `1.0.0.1`や`1.0`、`1`の他、 `1.0.0-BETA`と表記することや、バグの修正や小さい変更だけで`1.0.0`から `2.0.0`に変更することは許可されていません。
+- バージョンは、指定されていない限り`1.0.0`から始めるようにしてください。
 
 ### **`logo`**
 
