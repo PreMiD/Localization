@@ -22,9 +22,9 @@ const presence = new Presence({
 });
 ```
 
-### Properties
+### Özellikler
 
-There are three properties available for `Presence` class.
+`Presence` sınıfı için kullanılabilen üç özellik vardır.
 
 #### `clientId`
 
@@ -97,8 +97,8 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // sonuç: Oynuyor
+const pauseString = strings.pause; // sonuç: Duraklatıldı
 ```
 
 Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
@@ -328,11 +328,11 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "Benim başlığım",
+  state: "Benim açıklamam",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "Benim üzerime geldin, ne oldu şimdi?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
