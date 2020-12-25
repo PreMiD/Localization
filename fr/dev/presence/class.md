@@ -2,9 +2,10 @@
 title: Classe de presence
 description: La classe principale pour chaque presence PreMiD
 published: oui
-date: 2020-07-29T15:12:55.925Z
+date: 2020-12-25T00:42:46.948Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
 # Classe de presence
@@ -13,35 +14,43 @@ editor: markdown
 
 La classe `Presence` est très utile car elle possède des méthodes de base dont nous avons besoin pour créer une presence.
 
- Lorsque vous créez une classe, vous devez spécifier la propriété `clientId`.
+Lorsque vous créez une classe, vous devez spécifier la propriété `clientId`.
 
 ```typescript
-let presence = new Presence({
-    clientId: "514271496134389561" // Exemple clientId
+const presence = new Presence({
+  clientId: "514271496134389561" // Example clientId
 });
 ```
 
-Il y a deux propriétés disponibles pour la classe `Presence`.
+### Properties
+
+There are three properties available for `Presence` class.
 
 #### `clientId`
 
-La propriété `clientId` doit être fournie pour que votre presence fonctionne, car elle utilise votre identifiant d'application pour afficher son logo et ses actifs.
+This property is required to make your presence work, because it uses your application id to display its logo and assets. Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/developers/applications).
 
-Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/developers/applications).
+#### `injectOnComplete`
+
+When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+
+#### `appMode`
+
+When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
 ## Méthodes
 
 ### `getActivity()`
 
-Retourne un objet `presenceData` de ce que la présence affiche.
+Returns a `PresenceData` object of what the presence is displaying.
 
-### `setActivity(presenceData, Boolean)`
+### `setActivity(PresenceData | Slideshow, Boolean)`
 
 Définit l'activité de votre profil en fonction des données fournies.
 
-Le premier paramètre nécessite une interface `presenceData` pour obtenir toutes les informations que vous souhaitez afficher dans votre profil.
+First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-Le deuxième paramètre définit quand la presence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `presenceData`.
+Le deuxième paramètre définit quand la présence joue quelque chose ou non. Always use `true` if you provide timestamps in `PresenceData`.
 
 ### `clearActivity()`
 
@@ -55,20 +64,80 @@ Efface votre activité actuelle, les raccourcis clavier et le titre de la zone d
 
 Définit le titre de la barre de menus.
 
+### `createSlideshow()`
+
+Creates a new `Slideshow` class.
+
+```typescript
+const slideshow = presence.createSlideshow();
+```
+
+This is suggested to do right when you make the `Presence` class.
+
+```typescript
+const presence = new Presence({
+    clientId: "514271496134389561" // Example clientId
+  }),
+  slideshow = presence.createSlideshow();
+```
+
+You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+
 ### `getStrings(Object)`
 
-Méthode asynchrone qui vous permet d'obtenir des chaînes traduites depuis l'extension. Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une compilation de chaînes traduites peut être trouvée depuis ici : `https://api.premid.app/v2/langFIle/extension/fr`
+Méthode asynchrone qui vous permet d'obtenir des chaînes traduites depuis l'extension.
+
+Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Retourne `Playing` et `Paused` chaînes
 // depuis l'extension.
-strings = await presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
+const strings = await presence.getStrings({
+  play: "general.playing",
+  pause: "general.paused"
 });
 
-const playString = strings.play // Retourne : Lecture
-const pauseString = strings.pause // Retourne : Lecture en pause
+const playString = strings.play; // result: Playing
+const pauseString = strings.pause; // result: Paused
+```
+
+Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+
+We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+
+```typescript
+// An interface of the strings you are getting (good for code quality and autocomplete).
+interface LangStrings {
+  play: string;
+  pause: string;
+}
+
+async function getStrings(): Promise<LangStrings> {
+  return presence.getStrings(
+    {
+      // The strings you are getting, make sure this fits with your LangStrings interface.
+      play: "general.playing",
+      pause: "general.paused"
+    },
+    // The ID is the ID of the multiLanguage setting.
+    await presence.getSetting("ID")
+  );
+}
+
+let strings: Promise<LangStrings> = getStrings(),
+  // The ID is the ID of the multiLanguage setting.
+  oldLang: string = await presence.getSetting("ID");
+
+//! The following code must be inside the updateData event!
+// The ID is the ID of the multiLanguage setting.
+const newLang = await presence.getSetting("ID");
+if (oldLang !== newLang) {
+  oldLang = newLang;
+  strings = getStrings();
+}
+
+const playString = strings.play; // result: Playing
+const pauseString = strings.pause; // result: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -76,43 +145,124 @@ const pauseString = strings.pause // Retourne : Lecture en pause
 Retourne une variable du site web si elle existe.
 
 ```typescript
-var pageVar = getPageletiable('.pageVar');
-console.log(pageVar); // Cela enregistrera le « contenu variable »
+const pageVar = getPageletiable(".pageVar");
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
+
 Renvoie la version de l'extension que l'utilisateur utilise.
+
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
-var numeric = presence.getExtensionVersion();
-console.log(numeric); // Retourne 210
-var version = presence.getExtensionVersion(false);
-console.log(version); // Retourne 2.1.0
+const numeric = presence.getExtensionVersion();
+console.log(numeric); // Will log 210
+const version = presence.getExtensionVersion(false);
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
+
 Renvoie la valeur du paramètre.
+
 ```typescript
-var setting = wait presence.getSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
-console.log(setting); // Cela va enregistrer la valeur du paramètre
+const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
 ```
 
 ### `masquer (chaîne de caractères)`
+
 Masque le paramètre donné.
+
 ```typescript
-presence.hideSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
+presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 ```
 
 ### `montreParamètres(chaîne de caractères)`
+
 Affiche le paramètre spécifié (ne fonctionne que si le paramètre est déjà masqué).
+
 ```typescript
-presence.showSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
+presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
 ```
+
+### `getLogs()`
+
+Returns the logs of the websites console.
+
+```typescript
+const logs = await presence.getLogs();
+console.log(logs); // This will log the latest 100 logs (in an array).
+```
+
+**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+
+### `info(String)`
+
+Console logs the given message in a format based of the presence in the `info` style.
+
+```typescript
+presence.info("Test") // This will log "test" in the correct styling.
+```
+
+### `success(String)`
+
+Console logs the given message in a format based of the presence in the `success` style.
+
+```typescript
+presence.success("Test") // This will log "test" in the correct styling.
+```
+
+### `error(String)`
+
+Console logs the given message in a format based of the presence in the `error` style.
+
+```typescript
+presence.error("Test") // This will log "test" in the correct styling.
+```
+
+### `getTimestampsfromMedia(HTMLMediaElement)`
+
+Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+
+```typescript
+const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
+
+### `getTimestamps(Number, Number)`
+
+Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+
+```typescript
+const video = document.querySelector(".video"),
+  timestamps = getTimestamps(video.currentTime, video.duration);
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
+
+### `timestampFromFormat(String)`
+
+Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+
+```typescript
+const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
+  duration = timestampFromFormat(document.querySelector(".video-end").textContent);
+presenceData.startTimestamp = timestamps[0];
+presenceData.endTimestamp = timestamps[1];
+```
+
+**Note:** The given `String` in querySelector is an example.
 
 ## `Interface de données de présence`
 
-L'interface `presenceData` est recommandée à utiliser lorsque vous utilisez la méthode `setActivity()`.
+The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
 
 Cette interface a des variables suivantes, toutes sont optionnelles.
 
@@ -180,14 +330,14 @@ Cette interface a des variables suivantes, toutes sont optionnelles.
 </table>
 
 ```typescript
-var presenceData: presenceData = {
-    details: "Mon titre",
-    state: "Ma description",
-    largeImageKey: "service_logo",
-    smallImageKey: "small_service_icon",
-    smallImageText: "Vous m'avez survolé, et que maintenant? ,
-    startTimestamp: 1564444631188,
-    endTimestamp: 1564444634734
+const presenceData: PresenceData = {
+  details: "My title",
+  state: "My description",
+  largeImageKey: "service_logo",
+  smallImageKey: "small_service_icon",
+  smallImageText: "You hovered me, and what now?",
+  startTimestamp: 1564444631188,
+  endTimestamp: 1564444634734
 };
 ```
 
@@ -197,7 +347,7 @@ Les événements vous permettent de détecter et de gérer certains changements 
 
 ```typescript
 presence.on("UpdateData", async () => {
-    // Faire quelque chose quand les données sont mises à jour.
+  // Do something when data gets updated.
 });
 ```
 
