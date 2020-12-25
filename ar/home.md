@@ -27,13 +27,13 @@ PreMid سريع وسهل التثبيت. يجب أن تكون جاهز وتعم�
 
 [التجهز](/dev) لتطوير PreMiD هو خطوتك الأولى قبل برمجة بعض الأشياء.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): توصل إلى المصادر ونفذ الإجراءات باستخدام الAPI الخاص بPreMiD.
+- :wrench: [تطوير الpresence](/dev/presence): تعلم كيفية استخدام نظام الpresence الخاص بنا.
 
 # ساهم
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :bug: [أبلغ عن خطأ](https://github.com/PreMiD): ساعدنا على سحق تلك الأخطاء.
+- :bulb: [اقترح ميزة جديدة](https://discord.premid.app/): نحن بحاجة إلى أفكارك!
+- :heart: [تبرع](https://www.patreon.com/Timeraa): قدم تبرع صغير أو كن راعيا لهذا المشروع الرائع!
+- :globe_with_meridians: [اللغات](https://translate.premid.app): ساعد مستخدمين آخرين في استخدام PreMiD بلغتهم الأم.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}

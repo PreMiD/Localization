@@ -110,7 +110,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. Можно посмотреть список категорию для языков присутствия. </td>
+      <td style="text-align:left">Описание сервиса <b>НЕ</b> присутствия. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. Можно посмотреть список категорию для языков присутствия. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
@@ -205,7 +205,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 ## Языки присутствия
 
-PreMiD - это полиусиленный сервис, что означает наличие множества языков, способных подключить пользователей по всему миру. Полный список языков можно найти на [конечной точке API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD - это полиусиленный сервис, что означает наличие множества языков, способных подключить пользователей по всему миру. Полный список языков можно найти на [конечной точке API](https://api.premid.app/v2/langFile/list). Чтобы настроить свое присутствие еще больше, вы можете позволить пользователям выбрать язык отображения присутствия см. [`multiLanguage`](#multilanguage) для больше.
 
 ## Настройки присутствия
 Настройте интерактивные настройки, чтобы пользователи могли настраивать присутствие!
@@ -237,8 +237,6 @@ PreMiD - это полиусиленный сервис, что означает
     "icon": "FONTAWESOME FREE ICON",
     "value": 0, //Default value of the selector
     "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
-  }
-]
 ```
 
 ### `multiLanguage`
@@ -253,7 +251,7 @@ PreMiD - это полиусиленный сервис, что означает
 
 Клавиша `многоязычность` может быть изменена на следующее:
 
-`true`: используйте это, если вы собираетесь использовать только строки `общего характера. son` файл и файл `<service>.json` в [Репозиторий локализации](https://github.com/PreMiD/Localization/tree/master/src/Presence). `строка`: имя файла, исключая расширение (. son) внутри [Репозитория локализации](https://github.com/PreMiD/Localization/tree/master/src/Presence) (за исключением `общего файла`, так как он всегда загружается). Будут показаны только общие языки `общего` и введенного файла. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Будут показаны только общие языки всех файлов.
+`true`: используйте это, если вы собираетесь использовать только строки `общего характера. son` файл и файл `<service>.json` в [Репозиторий локализации](https://github.com/PreMiD/Localization/tree/master/src/Presence). `строка`: имя файла, исключая расширение (. son) внутри [Репозитория локализации](https://github.com/PreMiD/Localization/tree/master/src/Presence) (за исключением `общего файла`, так как он всегда загружается). Будут показаны только общие языки `общего` и введенного файла. `Array<String>`: если вы используете более одного файла внутри [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) вы можете указать все значения в массиве (за исключением `general` файл, так как он всегда загружен). Будут показаны только общие языки всех файлов.
 
 #### Добавление новых строк
 
@@ -271,7 +269,7 @@ PreMiD - это полиусиленный сервис, что означает
 
 ##### Добавление строк
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Каждая `строка` — это объект ``, где от имени начинается с названия службы, а затем так называемое stringName с точкой между ними.
 
 Имя строки является идентификатором 1 слова сообщения.
 
@@ -284,14 +282,13 @@ Each `string` is an `Object` where from the name starts with the service name an
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Текст, который нужно перевести.",
+    "description": "Это объясняет, что сообщение выше."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Текст, который нужно перевести.",
+    "description": "Это объясняет, что сообщение выше."
   }
-}
 ```
 
 После того, как вы полностью сделали файл со строками, вы можете создать Pull Request в [Репозиторий локализации](https://github.com/PreMiD/Localization), в описании, которое вы **должны** включить ссылку на ваш Pull Request of the presence updated using these new strings from [Presence Repository](https://github.com/PreMiD/Presences).
