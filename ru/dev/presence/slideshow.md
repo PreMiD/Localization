@@ -87,12 +87,12 @@ Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Устанавливает данные слайдов в соответствии с предоставленными данными.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Вы должны предоставить `PresenceData` интерфейс, чтобы получить всю информацию, которую вы хотите отображать в своем профиле.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Устанавливает интервал слайда в соответствии с предоставленными данными.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.

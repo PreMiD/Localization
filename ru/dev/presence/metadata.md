@@ -82,14 +82,14 @@ dateCreated: 2020-06-11T18:04:52.965Z
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Да</code></td>
@@ -178,7 +178,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
       <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
@@ -307,8 +307,8 @@ Each `string` is an `Object` where from the name starts with the service name an
 #### `getSetting(String)`
 Возвращает значение настройки.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // Заменить pdexID идентификатором параметра
+console.log(setting); // Сообщается установка в логи
 ```
 
 #### `hideSetting(String)`
