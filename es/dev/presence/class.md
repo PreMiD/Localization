@@ -133,11 +133,11 @@ let strings: Promise<LangStrings> = getStrings(),
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
-  strings = getStrings();
+  strings = await getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // resultado: Playing
+const pauseString = strings.pause; // resultado: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -146,20 +146,20 @@ Devuelve una variable desde el sitio web si existe.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Esto mostará en la consola "Contenido de la variable"
 ```
 
 ### `getExtensionVersion(Boolean)`
 
-Regresa a la versión de la extensión que el usuario está usando.
+Devuelve la versión de la extensión que está usando el usuario.
 
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Mostrará 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Mostrará 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -176,7 +176,7 @@ console.log(setting); // This will log the value of the setting
 Oculta la configuración dada.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Reemplaza pdexID con el ID de la configuración
 ```
 
 ### `showSetting(String)`
@@ -184,12 +184,12 @@ presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 Muestra la configuración dada (Solo funciona si el ajuste estaba ya oculto).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Reemplaza pdexID con el ID de la configuración
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Devuelve los logs de la consola del sitio web.
 
 ```typescript
 const logs = await presence.getLogs();
