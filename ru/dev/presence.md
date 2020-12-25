@@ -39,7 +39,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ## Создание папок и файлов
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Идите в `websites` папку, а затем перейдите в папку с первой буквой **name** (не URL-адрес) службы, которую вы хотите поддерживать.
 2. Создайте папку с **именем** (не URL) сервиса, который вы хотите поддерживать.
 3. Создайте `presence.ts` и файл `tsconfig.json` внутри.
 4. Создайте папку с именем `dist` внутри.
@@ -66,7 +66,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.2",
+  "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
     "name": "USER",
     "id": "ID"
@@ -92,12 +92,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
-  "readLogs": false,
   "settings": [
-    {
-      "id": "ID",
-      "multiLanguage": true
-    },
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
@@ -120,9 +115,6 @@ dateCreated: 2020-06-11T18:04:02.843Z
       "icon": "FONTAWESOME FREE ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
-    }
-  ]
-}
 ```
 
 Пожалуйста, скопируйте код выше и поместите его в файл `metadata.json`. Теперь нужно изменить значения свойств. Пожалуйста, обратите внимание, что следующие свойства необязательны для использования в метаданных `. son` файл, если вы не планируете его использовать.
@@ -149,22 +141,22 @@ dateCreated: 2020-06-11T18:04:02.843Z
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Название службы, поддерживаемой этим присутствием.<br>
+      (Должно быть таким же именем, как папка, в которой находится все)</td>
       <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
@@ -178,19 +170,19 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
+      <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание услуги, если у вас нет идей. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-      <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <td style="text-align:left">URL службы.<br><b>Пример:</b><code>vk. om</code><br>
+        <b>Этот URL должен соответствовать URL сайта, так как он определит, является ли это сайт инъекцией скрипта.</b><br> Do <b>NOT</b> add <code>https://</code> или <code>http://</code> внутри URL или слэш в конце:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Примечание</b>: Некоторые URL могут иметь <code>www.</code> или что-то еще перед их доменом. Делать <b>не</b> забудьте добавить!<br>
+Вы можете добавить несколько URL-адресов, выполнив следующие действия:<br>
+<code>["URL1", "URL2", "ETC."]</code><br>
+Вы также можете использовать regExp, также известное как Regex, для этой задачи, более подробно объясненное ниже.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
@@ -246,7 +238,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Определяет, используются ли <code>iFrames</code>.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
@@ -258,7 +250,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
       <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
@@ -308,9 +300,8 @@ presence.on("UpdateData", async () => {
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*The key (file name) of the Large Image on the presence. Они загружаются и называются в разделе Rich Presence вашего приложения, который называется Art Assets.*/
+        smallImageKey: "key", /*Ключ (имя файла) большого изображения о наличии. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
     details: "Browsing Page Name", //The upper section of the presence text
     state: "Reading section A", //The lower section of the presence text
@@ -331,7 +322,7 @@ presence.on("UpdateData", async () => {
 
 Вы можете скопировать это в `присутствие.` файл и изменить значения. Установка всех значений производится внутри события updataData.
 
-Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG. Для получения дополнительной информации о `Presence` class click [here](/dev/presence/class).
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
@@ -367,7 +358,7 @@ iframe.on("UpdateData", async () => {
 4. Создание файла присутствия позволяет получать данные из файла iFrame .
 
 ```typescript
-presence.on("iFrameData", (data) => {
+presence.on("iFrameData", (данные) => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
@@ -395,7 +386,7 @@ presence.on("iFrameData", (data) => {
 ## Отладка
 
 - Вы можете поместить `console.log("Тест");` между вашим кодом и посмотреть, выводит ли консоль вашего браузера. Если да, то войдите и повторите попытку после следующей функции. Если нет, то произошла ошибка выше.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Если это тоже не поможет вам, то наш [Сервер Discord](https://discord.premid.app/) Для помощи.
 
 # Больше информации
 
