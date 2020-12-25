@@ -306,30 +306,30 @@ presence.on("UpdateData", async () => {
     largeImageKey:
       "key" /*La clave (nombre del archivo) de la imagen grande de la presence. Estos se suben y se nombran en la sección Rich Presence de tu aplicación, llamada Art Assets*/
     smallImageKey:
-      "key" /*La clave (nombre del archivo) de la imagen pequeña de la presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+      "key" /*La clave (nombre del archivo) de la imagen pequeña de la presence. Estos son cargados y nombrados en la sección Rich Presence de tu aplicación llamados Art Assets*/,
+    smallImageText: "Un texto", //Este texto será mostrado al pasar el cursor sobre la imagen pequeña
+    details: "Viendo Nombre Página", //La sección superior del texto de la presence
+    state: "Leyendo sección A", //La sección inferior del texto de la presence
+    startTimestamp: 1577232000, //Un timestamp unix desde el que empezar a contar
+    endTimestamp: 1577151472000 //Si quieres mostrar el tiempo restante en vez de el activo, esto es el timestamp en el que va a terminar el evento
+  }; /*Opcionalmente puedes establecer aquí el valor a largeImageKey y cambiar los valores de las otras propiedades, por ejemplo presenceData.type = "lorem ipsum"; types examples: details, state, etc.*/
 
   if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    //Esto es si no has establecido nada en la propiedad details
+    presence.setTrayTitle(); //Elimina el titulo de la barra de tareas a usuarios mac
+    presence.setActivity(); /*Actualiza la presence sin datos, eliminando los datos actuales y mostrando el icono de la aplicación y nombre de la aplicación configurada en Discord*/
   } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    //Esto es si hay details
+    presence.setActivity(presenceData); //Actualiza la presence con todos los datos del objeto presenceData
   }
 });
 ```
 
 Puedes copiar esto dentro de tu archivo `presence.ts` y editar los valores. La configuración de los valores se hace dentro del evento updateData.
 
-Para ejemplos sugerimos mirar el código de presences como: 1337x o 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Para ejemplos sugerimos mirar el código de presences como: 1337x o 9GAG. Para más información sobre la clase `Presence` haz clic [aquí](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Desde la v2.2.0 ahora hay Slideshows, esto le permite mostrar múltiples interfaces de `PresenceData` en un intervalo, para más información sobre la clase `Slideshow` haz clic [aquí](/dev/presence/slideshow).
 
 ## ¡¿No puedes obtener cierta información?!
 
@@ -349,11 +349,11 @@ Si encuentras que los datos están en un iFrame, debes hacer lo siguiente:
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Obtén todos los datos que requieras de iFrame y guardalos en
+  variables, luego envialos usando iframe.send
   */
   iframe.send({
-    //sending data
+    //enviando los datos
     video: video,
     time: video.duration
   });
@@ -363,7 +363,7 @@ iframe.on("UpdateData", async () => {
 4. Configurando que el archivo de la presence reciba datos del archivo de iFrame.
 
 ```typescript
-presence.on("iFrameData", (data) => {
+presence.on("iFrameData", data => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
@@ -391,12 +391,12 @@ El sitio web en el que estás desarrollando se recarga automáticamente cada vez
 ## Depurando
 
 - Puedes poner `console.log("Prueba");` entre tu código y ver si la consola de tu navegador te muestra "Prueba". Si es así entonces sigue y vuelve a intentarlo después de la siguiente función. Si no es así, hay un error arriba.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Si eso no te ayuda entonces pide ayuda a un desarrollador de presences en nuestro [servidor de Discord](https://discord.premid.app/).
 
 # Explicación de archivos
 
 - [Clase Presence](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [Clase SlideshowSlide](/dev/presence/slideshow)
 - [Clase de iFrame](/dev/presence/iframe)
 - [Archivo de Metadata](/dev/presence/metadata)
 - [Configuración de TypeScript](/dev/presence/tsconfig ""){.links-list}
