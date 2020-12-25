@@ -185,7 +185,7 @@ A list of fields and their rules are listed below:
 ### **`tags`**
 
 - すべてのプレゼンスは_一つ以上_のタグを持つ必要があります。
-- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+- Tagには空白やスラッシュ、引用符やUnicode文字を使用しないでください。また、すべて小文字にしてください。
 - Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
 - You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
 
