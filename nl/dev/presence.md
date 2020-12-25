@@ -353,8 +353,8 @@ Als je vindt dat je gegevens zich in iFrame bevinden, moet je het volgende doen:
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Krijg all het data dat je nodig hebt en sla het op in variables
+  and verstuur ze met iframe.send
   */
   iframe.send({
     //sending data
@@ -395,12 +395,12 @@ De website waar je mee bezig bent wordt automatisch herladen wanneer je een best
 ## Foutopsporing
 
 - Je kunt `console.log("Test");` tussen je code zetten en kijken of je browserconsole je die uitvoer geeft. Zo ja, ga dan verder en probeer het opnieuw na de volgende functie. Zo niet, dan is er een fout hierboven.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Als dat je ook niet helpt, vraag dan een presence-ontwikkelaar op onze [Discord-server](https://discord.premid.app/) voor hulp.
 
 # Uitleg van bestanden
 
 - [Presence Klasse](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [Slideshow Klasse](/dev/presence/slideshow)
 - [iFrame Klasse](/dev/presence/iframe)
 - [Metadata bestand](/dev/presence/metadata)
 - [TypeScript configuratie](/dev/presence/tsconfig ""){.links-list}
