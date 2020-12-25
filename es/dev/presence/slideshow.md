@@ -12,30 +12,30 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 ## Introducción
 
-The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
+La clase `Slideshow` se utiliza para establecer múltiples `PresenceData` y "deslizar" a través de cada uno dad x milisegundos (mínimo: 5000).
 
-See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
+Consulta el método [`crearSlideshow`](/dev/presence/class#createslideshow) en la clase [`Presence`](/dev/presence/class) sobre cómo crear una `Slideshow`.
 
 ## Propiedades
 
 ### `currentSlide`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of what the presence/current slide is displaying.
+Devuelve un objeto [`PresenceData`](/dev/presence/class#presencedata-interface) de lo que se está mostrando actualmente.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+console.log(currentSlide.details) // Mostrará los detallas de PresenceData
 ```
 
 ## Métodos
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Añade una nueva diapositiva a la `Slideshow` de acuerdo a los datos proporcionados.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+El primer parámetro requiere un `String` que se utilizará como un identificador único para la diapositiva.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+El segundo parámetro requiere una interfaz [`PresenceData`](/dev/presence/class#presencedata-interface) para obtener toda la información que se desea mostrar en la diapositiva.
 
 Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
 
@@ -49,7 +49,7 @@ Updates the slide of the given `id` according to provided data.
 
 First parameter requires a `String` that is the unique identifier of the slide you want to update.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+El segundo parámetro requiere una interfaz [`PresenceData`](/dev/presence/class#presencedata-interface) para obtener toda la información que se desea mostrar en la diapositiva.
 
 Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
 
