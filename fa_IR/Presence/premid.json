@@ -1,62 +1,58 @@
 {
-    "premid.viewPage": {
-        "message": "مشاهده صفحه:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "مستندات",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "دیدن presence:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "صفحه اصلی",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "مشارکت‌کنندگان",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "دانلود ها",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "فروشگاه",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "سیاست کوکی‌ ها",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "سیاست حفظ حریم خصوصی",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "شرایط خدمات",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "ویکی",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "درباره",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "بیش نیاز های سیستم",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "نصب کردن",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "ایرادیابی",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "مشاهده صفحه:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "مستندات",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "دیدن presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "صفحه اصلی",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "مشارکت‌کنندگان",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "دانلود ها",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "فروشگاه",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "همکاران",
+		"description": "A page name"
+	},
+	"premid.pageCookies": {
+		"message": "سیاست کوکی‌ ها",
+		"description": "A page name"
+	},
+	"premid.pagePrivacy": {
+		"message": "سیاست حفظ حریم خصوصی",
+		"description": "A page name"
+	},
+	"premid.pageTerms": {
+		"message": "شرایط خدمات",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "بیش نیاز های سیستم",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "نصب کردن",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "ایرادیابی",
+		"description": "A page name"
+	}
 }
