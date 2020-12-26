@@ -1,38 +1,46 @@
 {
-    "premid.pageContributors": {
-        "message": "Prispievatelia",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Stiahnuť ",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Obchod",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Systémové Požiadavky",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Inštalácia",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Riešenie problémov",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Začíname",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    }
+	"premid.pageContributors": {
+		"message": "Prispievatelia",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Stiahnuť ",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Obchod",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partneri",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "O PreMiDe",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Systémové Požiadavky",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Inštalácia",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Riešenie problémov",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Začíname",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Trieda Prítomnosti",
+		"description": "A page name"
+	}
 }
