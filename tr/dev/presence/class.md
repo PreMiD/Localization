@@ -72,7 +72,7 @@ Yeni bir `Slideshow` sınıfı oluşturur.
 const slideshow = presence.createSlideshow();
 ```
 
-This is suggested to do right when you make the `Presence` class.
+Bunu tam olarak `Presence` sınıfını yaparken yapmanız önerilir.
 
 ```typescript
 const presence = new Presence({
@@ -81,7 +81,7 @@ const presence = new Presence({
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+`Slideshow` sınıfı için belgeleri [burada](/dev/presence/slideshow) bulabilirsiniz.
 
 ### `getStrings(Object)`
 
@@ -157,9 +157,9 @@ Kullanıcının kullandığı eklentinin sürümünü verir.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // 210 kaydeder
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // 2.1.0 kaydeder
 ```
 
 ### `getSetting(String)`
@@ -189,7 +189,7 @@ presence.showSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Web sitesinin konsol kayıtlarını getirir.
 
 ```typescript
 const logs = await presence.getLogs();
