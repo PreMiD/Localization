@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> 先に、**[拡張機能とアプリ](https://premid.app/downloads)**をダウンロードした状態にしてください！ 
+> 先に、[拡張機能とアプリ](https://premid.app/downloads)をダウンロードした状態にしてください！ 
 > 
 > {.is-warning}
 
