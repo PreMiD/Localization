@@ -14,7 +14,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 الإصدار `2.x` يقدم [متجر الpresence](https://premid.app/store). الأن لدى المستخدمين القدرة لاضافة وحذف الpresences المفضلين لهم يدويا من خلال واجهة المستخدم في [الموقع](https://premid.app/).
 
-> قبل البدء، يوصى بشدة أن تنظروا إلى المبادئ التوجيهية presence الخاصة بنا. 
+> قبل البدء، يوصى بشدة أن تنظروا إلى المبادئ التوجيهية للpresence الخاصة بنا. 
 > 
 > {.is-warning}
 
@@ -23,7 +23,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 # الهيكل
 
-كل البرزنس مبرمجة علي [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) لديه بعض التعاريف الإضافية الساخنة علي تايب جافا سكريبت، لذلك فإن إصلاح وتحديد الأخطاء أسهل بكثير.
+كل الpresences مبرمجة علي [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) لديها بعض التعاريف الإضافية على جافا سكريبت، لذلك فإن إصلاح وتحديد الأخطاء أسهل بكثير.
 
 ## تثبيت
 
