@@ -1,62 +1,66 @@
 {
-    "premid.viewPage": {
-        "message": "Katsoo sivua:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Dokumentaatio",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Katsoo presenceä:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Kotisivu",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Osallistujat",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Lataukset",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Kauppa",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Evästekäytäntö",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Yksityisyyskäytäntö",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Käyttöehdot",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Tietokirja",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "Tietoja",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Apua",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Alkuun Pääseminen",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Katsoo sivua:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumentaatio",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Katsoo presenceä:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Kotisivu",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Osallistujat",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Lataukset",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Kauppa",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Yhteistyökumppanit",
+		"description": "A page name"
+	},
+	"premid.pageCookies": {
+		"message": "Evästekäytäntö",
+		"description": "A page name"
+	},
+	"premid.pagePrivacy": {
+		"message": "Yksityisyyskäytäntö",
+		"description": "A page name"
+	},
+	"premid.pageTerms": {
+		"message": "Käyttöehdot",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Tietoja PreMiD:istä",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Apua",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Alkuun Pääseminen",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Precence-luokka",
+		"description": "A page name"
+	}
 }

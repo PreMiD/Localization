@@ -1,22 +1,26 @@
 {
-    "premid.pageContributors": {
-        "message": "Bidragere",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Installationer",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Butik",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Fejlfinding",
-        "description": "A page name"
-    }
+	"premid.pageContributors": {
+		"message": "Bidragere",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Installationer",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Butik",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnere",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Fejlfinding",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Tilstedeværelse Klasse",
+		"description": "A page name"
+	}
 }

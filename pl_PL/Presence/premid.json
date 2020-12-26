@@ -1,74 +1,78 @@
 {
-    "premid.viewPage": {
-        "message": "Przegląda stronę:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Dokumentacja",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Wyświetla aktywności:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Strona główna",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Współtwórcy",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Pobieranie",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Sklep",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Polityka cookies",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Polityka Prywatności",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Zasady użytkowania",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "O programie",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Wymagania systemowe",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Instalacja",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Rozwiązywanie problemów",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Wprowadzenie",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    },
-    "premid.pagePresenceDev": {
-        "message": "Rozwój statusów",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Przegląda stronę:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumentacja",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Wyświetla aktywności:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Strona główna",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Współtwórcy",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Pobieranie",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Sklep",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnerzy",
+		"description": "A page name"
+	},
+	"premid.pageCookies": {
+		"message": "Polityka cookies",
+		"description": "A page name"
+	},
+	"premid.pagePrivacy": {
+		"message": "Polityka Prywatności",
+		"description": "A page name"
+	},
+	"premid.pageTerms": {
+		"message": "Zasady użytkowania",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "O PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Wymagania systemowe",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instalacja",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Rozwiązywanie problemów",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Wprowadzenie",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Rozwój statusów",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Klasa Presence",
+		"description": "A page name"
+	}
 }
