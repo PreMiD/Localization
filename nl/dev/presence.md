@@ -39,7 +39,7 @@ Alle presences zijn gecodeerd in [TypeScript](https://www.typescriptlang.org/). 
 
 ## Mappen en bestanden maken
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Ga in de map `websites` en ga vervolgens in de map met de eerste letter van de **naam** (niet de URL) van de service die u wilt ondersteunen.
 2. Maak een map met de **naam** (niet een URL) van de service die je wilt ondersteunen.
 3. Maak een `presence.ts` en een `tsconfig.json` bestand in de map.
 4. Maak een map met de naam `dist` in de map.
@@ -68,27 +68,27 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USER",
+    "name": "GEBRUIKER",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USER",
+      "name": "GEBRUIKER",
       "id": "ID"
     }
   ],
   "service": "SERVICE",
   "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "BESCHRIJVING"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSIE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIE",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITEL",
+      "icon": "FONTAWESOME ICOON",
       "value": true
     },
     {
@@ -109,15 +109,15 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITEL",
+      "icon": "FONTAWESOME ICOON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITEL",
+      "icon": "FONTAWESOME ICOON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -163,8 +163,8 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">De titel van de dienst die door deze presence wordt ondersteund.<br>
+      (Moet dezelfde naam hebben als de map waar alles in staat)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
@@ -178,32 +178,32 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Je beschrijving moet key waarden bevatten die de taal en de beschrijving in die specifieke taal aangeven. Maak beschrijvingen met de talen <i>die u kent</i>, onze vertalers zullen wijzigingen aanbrengen in uw metadata bestand.</td>
+      <td style="text-align:left">Kleine beschrijving van de presence, je kunt een beschrijving van de service gebruiken als je geen ideeën hebt. Je beschrijving moet key waarden bevatten die de taal en de beschrijving in die specifieke taal aangeven. Maak beschrijvingen met de talen <i>die u kent</i>, onze vertalers zullen wijzigingen aanbrengen in uw metadata bestand.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <td style="text-align:left">URL van de service.<br><b>Bijvoorbeeld:</b><code>vk.com</code><br>
+        <b>Deze URL moet de URL van de website zijn, aangezien dit er voor zorgt of de script word ingeladen of niet.</b><br> Voeg <b>NIET</b> <code>https://</code> of <code>http://</code> toe in de URL, ook niet een slash aan het einde:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <b>Opmerking</b>: Sommige URLs hebben <code>www.</code> of iets anders voor hun domain naam. Vergeet <b>NIET</b> dat toe te voegen!<br>
+      U kunt meerdere URL's toevoegen door het volgende te doen:<br>
+      <code>["URL1", "URL2", "ETC.]</code><br>
+      U kunt ook regExp ook bekend als Regex voor deze taak gebruiken. verder hieronder uitgelegd.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
+      <td style="text-align:left">Een reguliere expressie die word gebruikt om URLs te vergelijken.<br>
+      regExp ook bekend als Regex, kan worden gebruikt als een website meerdere subdomeinen heeft.<br>
+      U kunt de volgende regExp daarvoor gebruiken:<br>
       <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      TLD staat voor Top Level Domain bijvoorbeeld: .com .net (maar zonder de dot)<br> 
+      <code>([a-z0-9]+)</code> betekent alles van a tot z en van 0 tot 9.<br>
+      Je kunt een handleiding video kijken <a href="https://youtu.be/sXQxhojSdZM">hier</a><br>
+      Je kunt uw regExp testen bij <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
@@ -246,7 +246,7 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Definieert of <code>iFrames</code> worden gebruikt.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
@@ -277,19 +277,19 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 ## Aan de slag
 
 ```typescript
-const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+cosnt presence = new Presence({
+    clientId: "000000000000000000" //De client ID van de Applicatie gemaakt op https://discordapp.com/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
-  });
+    //Je kan dit gebruiken om vertaalde teksten te krijgen
+});
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Pak en verwerk alle informatie hier
 
     // element grabs //
     // api calls //
@@ -297,43 +297,44 @@ function myOutsideHeavyLiftingFunction(){
 }
 
 setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Laat de functie elke 10 seconden apart lopen van de UpdateData-event om de variabelen te krijgen en te zetten die UpdateData verkrijgt.
 
 */
 
-presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+presence.on("UpdateData", async () => {
+    /*UpdateData is altijd aan het lopen, en moet daarom jouw refresh-cyclus zijn, of `tick`. Dit wordt waar mogelijk meerdere keren per seconden opgeroepen.
+
+    Het is aanbevolen om een andere functie buiten deze event-functie te maken die de variabelen zult veranderen en al het zware werk zal doen als je informatie roept vanuit een API*/
 
   const presenceData: PresenceData = {
-    largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+    largeImageKey: 
+      "key", /*De sleutel (bestandsnaam) van de Grote Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
+    smallImageKey: 
+      "key", /*De sleutel (bestandsnaam) van de Kleine Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
+    smallImageText: "Some hover text", //De tekst die wordt weergeven wanneer je eroverheen wijst
+    details: "Browsing Page Name", //Het bovenste gedeelte van je presence
+    state: "Reading section A", //Het onderste gedeelte van je presence
+    startTimestamp: 1577232000, //De unix epoch-tijdstempel vanaf wanneer geteld moet worden
+    endTimestamp: 1577151472000 //Als je Tijd Over wilt laten zien in plaats van Voorbij, dit is de unix epoch-tijdstempel wanneer de timer stopt
+  }; /*Optioneel, je kan hier ook een largeImageKey zetten en de rest als variabele sub-eigenschappen veranderen, bijvoorbeeld presenceData.type = "blahblah"; type voorbeelden: details, state, etc.*/
 
   if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    //Dit wordt gestart als je geen presence-details instelt.
+    presence.setTrayTitle(); // Wist de tray-titel voor mac-gebruikers.
+    presence.setActivity(); /*Werk de presence bij zonder data, het wordt dus gewist en de grote afbeelding wordt de Discord Applicatie icoon, en de tekst wordt de Discord Applicatie naam*/
   } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    //Dit wordt gestart als je wel presence-details hebt ingesteld.
+    presence.setActivity(presenceData); //Werk de presence bij met alle waardes van het presenceData-object.
   }
 });
 ```
 
 Je kan dit kopiëren naar je `presence.ts` bestand en de waardes bewerken. Het instellen van alle waardes wordt gedaan binnen het updateData-event.
 
-Voor voorbeelden raden we aan om naar de code van de presences van bijvoorbeeld 1337x of 9GAG te kijken. For more information about the `Presence` class click [here](/dev/presence/class).
+Voor voorbeelden raden we aan om naar de code van de presences van bijvoorbeeld 1337x of 9GAG te kijken. Klik [hier](/dev/presence/class) voor meer informatie over de `Presence` klasse.
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Sinds v2.2.0 zijn er nu Slideshows, dit stelt je in staat om meerdere `PresenceData` interfaces op een interval weer te geven, voor meer informatie over de `Slideshow` klasse klik [hier](/dev/presence/slideshow).
 
 ## Kan bepaalde data niet krijgen?!
 
