@@ -12,14 +12,14 @@ dateCreated: 2020-06-11T18:03:51.119Z
 > 
 > {.is-info}
 
-> PreMiDを動かすためには、**アプリケーション**と**拡張機能**を**同時に****追加する必要が**あります！ 
+> PreMiDを動かすためには、**アプリケーション**と**拡張機能**を**同時に追加する必要が**あります！ 
 > 
 > {.is-warning}
 
 **OSを選ぶ:**
 - [Windows * 7かそれ以上 *](/install/windows)
-- [macOS * 10.11 かそれ以上 *](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [macOS *10.11 かそれ以上*](/install/macos)
+- [Linux *v2.x以上のカーネル*](/install/linux)
 {.links-list}
 
 **ブラウザを選ぶ:**
