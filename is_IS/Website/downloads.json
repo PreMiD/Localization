@@ -1,10 +1,10 @@
 {
-  "downloads.button.cancel": {
-    "message": "Hætta",
-    "description": "Button on the modal of Opera/Edge browsers."
-  },
-  "downloads.adsbox.thankyou.title": {
-    "message": "Takk fyrir!",
-    "description": "Title of the advertisement section box."
-  }
+	"downloads.button.cancel": {
+		"message": "Hætta",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "Takk fyrir!",
+		"description": "Title of the advertisement section box."
+	}
 }
