@@ -210,30 +210,30 @@ PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de 
 "settings": [
   {
     "id": "ID",
-    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
+    "multiLanguage": true //Ver https://docs.premid.app/dev/presence/metadata#multilanguage
   },
   {
     "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
-    "value": true //Boolean value will make it an on/off switch with the value as the default value
+    "title": "NOMBRE A MOSTRAR",
+    "icon": "ICONO FONTAWESOME", //Ejemplo "fas fa-info"
+    "value": true //Valor booleano para cambiar el estado por defecto del switch
   },
   {
     "id": "ID",
     "if": {
-      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+      "ID": true //Este botón será mostrado si otro ajuste equivale a uno de los siguientes valores: true, false, 0, 1, etc.
     },
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
-    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+    "title": "NOMBRE A MOSTRAR",
+    "icon": "ICONO FONTAWESOME",
+    "value": "\"%song%\" por %artist%", //Pon un string para indicar que este campo es de tipo texto, donde puedes indicar el texto que quieras.
+    "placeholder": "usa %song% o %artist%" //Cuando el campo esté vacío se mostrará este texto de fondo
   },
   {
     "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
-    "value": 0, //Default value of the selector
-    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+    "title": "NOMBRE A MOSTRAR",
+    "icon": "ICONO FONTAWESOME",
+    "value": 0, //Valor por defecto del selector
+    "values": ["Valor 1", "Valor 2", "etc."] //Convertirá este ajuste en un selector con las siguientes opciones disponibles entre las que elegir
   }
 ]
 ```
