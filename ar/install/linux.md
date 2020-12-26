@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-وتركيب التطبيق مهم جدا لأن التمديد لا يمكن أن يفعل أي شيء في حد ذاته.
+تركيب الملحق شيء مهم جدا لأن لا يمكن للتطبيق أن يفعل أي شيء بنفسه.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> يجب أن يكن مستخدمين Aur الذين يستخدم حزمة DoomLerd آمنين كما يقول. نحن لا نوصي باستخدامها، ولكن إذا أردت لا يزال بإمكانك استخدامها. شكرا ل DoomLerd على التعامل مع مستودع aur للأن. 
 > 
 > {.is-warning}
 
