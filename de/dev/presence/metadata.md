@@ -267,7 +267,7 @@ The `multiLanguage` key can be set to the following:
 
 1. Go into the `src` folder.
 2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+3. Make a file named `<service>.json`. (Service ist der **Name** (keine URL) in Kleinbuchstaben des Dienstes, den Du unterstützen möchtest.)
 
 ##### Adding the strings
 
@@ -296,7 +296,7 @@ Visualization of the the file:
 
 After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
 
-#### Default keys
+#### Standard-Tasten
 The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
 
 **Note:** These are in no way changeable.
