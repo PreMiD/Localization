@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contiene datos básicos sobre la Presence
 published: true
-date: 2020-12-25T00:41:36.917Z
+date: 2020-12-26T15:03:41.542Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -17,17 +17,17 @@ A continuación se muestra un ejemplo de este archivo.
 ```typescript
 {
   "author": {
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVICIO",
-  "altnames": ["SERVICIO"],
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIPCCIÓN  (en inglés)"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
   "regExp": "REGEXP",
@@ -36,14 +36,14 @@ A continuación se muestra un ejemplo de este archivo.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["ETIQUETA1", "ETIQUETA2"],
-  "category": "CATEGORIA",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "TITULO A MOSTRAR",
-      "icon": "ICONO DE FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -51,17 +51,17 @@ A continuación se muestra un ejemplo de este archivo.
       "if": {
         "ID": true
       },
-      "title": "TITULO A MOSTRAR",
-      "icon": "ICONO FONTAWESOME",
-      "value": "\"%song%\" por %artist%",
-      "placeholder": "usa %song% o %artist%"
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "TITULO A MOSTRAR",
-      "icon": "ICONO FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
-      "values": ["VALOR 1", "OTRO VALOR", "etc."]
+      "values": ["1", "2", "etc."]
     }
   ]
 }
@@ -208,28 +208,32 @@ PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de 
 ¡Configura ajustes interactivos para que los usuarios puedan personalizar la Presence!
 ```typescript
 "settings": [
-        { 
-            "id": "ID",
-            "title": "TÍTULO A MOSTRAR",
-            "icon": "ICONO DE FONTAWESOME", //Ejemplo "fas fa-info"
-            "value": true //Un valor booleano hará que esté activo/inactivo por defecto
-        },
-        {
-            "id": "ID",
-            "if": {
-                "ID": true //Si otra configuración equivale a este valor (true/false/0/1/etc.) entonces mostrará este botón
-            },
-            "title": "TÍTULO A MOSTRAR",
-            "icon": "ICONO DE FONTAWESOME",
-            "value": "\"%song%\" por %artist%", //Indicando un string hace que la configuración sea un input de tipo texto.
-    "placeholder": "usa %song% o %artist%" //Cuando el campo está vacio se mostrará este texto de fondo
+  {
+    "id": "ID",
+    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
   },
   {
     "id": "ID",
-    "title": "TITULO A MOSTRAR",
-    "icon": "ICONO FONTAWESOME",
-    "value": 0, //Índice por defecto para el selector
-    "values": ["Valor 1", "Otro valor", "etc."] //Hace que esta propiedad sea un selector con las opciones prestablecidas
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
+    "value": true //Boolean value will make it an on/off switch with the value as the default value
+  },
+  {
+    "id": "ID",
+    "if": {
+      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+    },
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON",
+    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+  },
+  {
+    "id": "ID",
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON",
+    "value": 0, //Default value of the selector
+    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
   }
 ]
 ```

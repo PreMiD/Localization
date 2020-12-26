@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Bevat basisgegevens over de Presence
 published: true
-date: 2020-12-25T00:41:36.917Z
+date: 2020-12-26T15:03:41.542Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -16,34 +16,34 @@ Een voorbeeld van dat bestand kan hieronder worden gevonden.
 
 ```typescript
 {
-"author": {
-    "name": "GEBRUIKER",
+  "author": {
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "GEBRUIKER",
+    "name": "USER",
     "id": "ID"
   }],
   "service": "SERVICE",
   "altnames": ["SERVICE"],
   "description": {
-    "en": "BESCHRIJVING"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSIE",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORIE",
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "TITEL",
-      "icon": "FONTAWESOME ICOON",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -52,14 +52,14 @@ Een voorbeeld van dat bestand kan hieronder worden gevonden.
         "ID": true
       },
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICOON",
+      "icon": "FONTAWESOME ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "TITEL",
-      "icon": "FONTAWESOME FREE ICON",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -207,7 +207,7 @@ Als je reguliere expressies wilt leren, zijn hier enkele websites.
 
 ## Presence talen
 
-PreMiD is een polygot service, wat betekent dat er een groot aantal talen bij betrokken zijn om gebruikers over de hele wereld te verbinden. Een volledige lijst met talen kan worden gevonden met dit [API endpoint](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD is een polygot service, wat betekent dat er een groot aantal talen bij betrokken zijn om gebruikers over de hele wereld te verbinden. Een volledige lijst met talen kan worden gevonden met dit [API endpoint](https://api.premid.app/v2/langFile/list). Om je presence aanpasbaar te maken voor je gebruikers dan kan je instellen dat ze hun taal veranderen die word weergegeven, zie [`multiLanguage`](#multilanguage) voor meer.
 
 ## Presence instellingen
 Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpassen!
@@ -220,7 +220,7 @@ Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpasse
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
     "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
@@ -229,14 +229,14 @@ Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpasse
       "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
     "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": 0, //Default value of the selector
     "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
   }
@@ -247,56 +247,56 @@ Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpasse
 
 #### Introductie
 
-The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+De `multiLanguage` instelling wordt gebruikt om gebruikers in staat te stellen handmatig de taal te selecteren waarin de presence word weergegeven. Hiervoor moet u strings van onze [API](https://api.premid.app/v2/langFile/presence/en) gebruiken, voor informatie over hoe je strings kunt toevoegen klik [hier](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Set-up
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+De `multiLanguage` instelling is een speciaal geval, het heeft geen `title` en `icon` en `value` en `values` nodig zoals andere instellingen, maar er zijn nog wat andere dingen nodig om in te stellen!
 
-The `multiLanguage` key can be set to the following:
+De `multiLanguage` key kan als volgt worden ingesteld:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: gebruik dit als je alleen strings van de `general.json` bestand en het `<service>.json` bestand gaat gebruiken van de [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: naam van het bestand exclusief de extensie (.json) in [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (exclusief het `general` bestand, omdat het altijd geladen is). Alleen gemeenschappelijke talen van zowel het `general` en het ingevoerde bestand worden weergegeven. `Array<String>`: als u meer dan één bestand in de [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) gebruikt, kunt u alle waarden in een array opgeven (exclusief het `general` bestand, omdat het altijd geladen is). Alleen gemeenschappelijke talen van alle bestanden worden weergegeven.
 
-#### Adding new strings
+#### Nieuwe strings toevoegen
 
 ##### Het project klonen
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
+1. Open een terminal en typ `git clone https://github.com/PreMiD/Localization`.
 2. Kies een map van je keuze.
 3. Open het in uw code editor.
 
-##### Creating the file
+##### Bestand aanmaken
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Ga in de map `src`.
+2. Ga in de map `Presence`.
+3. Maak een bestand genaamd `<service>.json`. (Service is de **naam** (geen URL) in kleine letters van de service die u wilt ondersteunen.)
 
-##### Adding the strings
+##### De strings toevoegen
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Elke `string` is een `object` waar van de naam begint met de servicenaam en de zogenaamde stringName met een punt ertussen.
 
-The stringName is a 1 word identifier of the message.
+De stringName is een 1 woord identifier van het bericht.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+Het `object` heeft 2 eigenschappen: `message` en `description`. `message` is de tekst die vertaald moet worden. `description` is een beschrijving van het bericht om onze vertalers te helpen begrijpen wat ze vertalen.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Opmerking:** Voeg geen dubbele strings toe. (Dit bevat strings van het `general.json` bestand, maar niet de andere bestanden.)
 
-Visualization of the the file:
+Visualisatie van het bestand:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Tekst die moet worden vertaald. ,
+    "description": "Dit verklaart wat het bericht hierboven is."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Tekst die moet worden vertaald. ,
+    "description": "Dit verklaart wat het bericht hierboven is."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Nadat u het bestand met strings volledig hebt gemaakt, kunt u een pull-aanvraag maken op de [Localization Repository](https://github.com/PreMiD/Localization), in de beschrijving **moet** u een link naar uw pull-aanvraag van de bijgewerkte presence uit de [Presence Repository](https://github.com/PreMiD/Presences) toevoegen die met behulp van deze nieuwe strings is gemaakt.
 
 #### Standaard keys
 De keys die je niet hebt hoeven instellen zijn automatisch ingesteld op het volgende: `title`: "Language" **Opmerking:** Dit wordt vertaald naar hun standaard taal (browsertaal). `icon`: "fas fa-language" ([Voorbeeld](https://fontawesome.com/icons/language)) `value`: **Word ingesteld naar de taal van de browser in als deze beschikbaar is (100% vertaald), anders Engels.** `values`: **Word ingesteld op de beschikbare talen (talen die het 100% vertaald hebben).**

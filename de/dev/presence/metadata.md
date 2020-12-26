@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Enthält grundlegende Daten zur Presence
 published: true
-date: 2020-12-25T00:41:36.917Z
+date: 2020-12-26T15:03:41.542Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -43,7 +43,7 @@ An example of that file can be found below.
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -52,14 +52,14 @@ An example of that file can be found below.
         "ID": true
       },
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -218,7 +218,7 @@ Richte interaktive Einstellungen ein, sodass die Presence benutzerdefiniert eing
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
     "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
@@ -227,14 +227,14 @@ Richte interaktive Einstellungen ein, sodass die Presence benutzerdefiniert eing
       "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
     "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": 0, //Default value of the selector
     "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
   }
@@ -259,7 +259,7 @@ The `multiLanguage` key can be set to the following:
 
 ##### Projekt klonen
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
+1. Öffne ein Terminal und gib `git clone https://github.com/PreMiD/Localization` ein.
 2. Wähle einen Ordner Deiner Wahl.
 3. Öffne es in deinem Code-Editor.
 

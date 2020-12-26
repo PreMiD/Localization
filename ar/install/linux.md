@@ -17,7 +17,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 ## جدول المحتويات
 
 - **[حول](#about)**
-  - [الحالة](#stats)
+  - [إحصائيات](#stats)
   - [المتطلبات](#requirements)
   - أمثلة (قريبا)
   - الأسئلة الشائعة (قريبا)
@@ -26,33 +26,33 @@ dateCreated: 2020-06-11T18:04:14.124Z
   - [المساهمون](#credits)
   - [الترخيص](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
+- **[Portable AppImage](#appimage)** (_موصى به_)
   - [إرشادات التثبيت](#appimageinstall)
   - [ملاحظات إضافية](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
-- [**Arch Linux based distributions**](#arch)
+- [**التوزيعات القائمة على ريد هات إنتربرايس لينكس (RHEL)**](#packagecloud)
+- [**التوزيعات القائمة على Debian و Ubuntu**](#packagecloud)
+- [**التوزيع القائمة على أرش لينكس**](#arch)
 
 <a name="about"></a>
 
 ## حول
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** بسيط، خدمة قابلة للتعديل تستخدم مكتبة RP الخاصة بديسكرد ( Rich Presence ) التي تسمح لك بإظهار ما تفعله على الويب ( وبعض البرامج ) على بروفايلك الشخصي في ديسكورد ك**حالة اللعب**.
 
 <a name="stats"></a>
 
-### الحالة
+### إحصائيات
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>النشر</th>
+    <th>إجمالي التحميلات</th>
+    <th>أحدث إصدار</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="كل الاصدارات"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="اصدارات Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="أحدث إصدار"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="اصدارات Github"></a></td>
   </tr>
 </table>
 
@@ -146,7 +146,7 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## التوزيع القائمة على أرش لينكس
 
 Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
