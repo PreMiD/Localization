@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Richtlinien
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Für manche mögen diese strengen Regeln hart erscheinen. However, the implementation of these rule sets will keep us and our users from running into issues.
+Wenn du Presences in unserer [GitHub Repository](https://github.com/PreMiD/Presences) veröffentlichst, musst du eine Reihe von Richtlinien befolgen. Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regeln verhindert jedoch, dass wir und die Nutzer auf Probleme stößen.
 
 # Erstellung
 
