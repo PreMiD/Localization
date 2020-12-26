@@ -1,74 +1,78 @@
 {
-    "premid.viewPage": {
-        "message": "Peržiūri puslapį:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Dokumentacija",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Peržiūri presence:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Pagrindinis puslapis",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Pagalbininkai",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Siuntiniai",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Parduotuvė",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Slapukų Naudojimo Politika",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Privatumo politika",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Naudojimosi sąlygos",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wikipedija",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "Apie",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Sistemos reikalavimai",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Instaliacija",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Nesklandumų sprendimas",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Pradžia",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    },
-    "premid.pagePresenceDev": {
-        "message": "Statusų kūrimas",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Peržiūri puslapį:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumentacija",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Peržiūri presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Pagrindinis puslapis",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Pagalbininkai",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Siuntiniai",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Parduotuvė",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partneriai",
+		"description": "A page name"
+	},
+	"premid.pageCookies": {
+		"message": "Slapukų Naudojimo Politika",
+		"description": "A page name"
+	},
+	"premid.pagePrivacy": {
+		"message": "Privatumo politika",
+		"description": "A page name"
+	},
+	"premid.pageTerms": {
+		"message": "Naudojimosi sąlygos",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Apie PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Sistemos reikalavimai",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instaliacija",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Nesklandumų sprendimas",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Pradžia",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Statusų kūrimas",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence klasė",
+		"description": "A page name"
+	}
 }
