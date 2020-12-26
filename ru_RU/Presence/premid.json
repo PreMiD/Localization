@@ -1,74 +1,82 @@
 {
-    "premid.viewPage": {
-        "message": "Смотрит страницу:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Документация",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Просматривает статус:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Главная страница",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Участники",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Загрузки ",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Магазин",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Политика cookies",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Политика конфиденциальности",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Пользовательское соглашение",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Вики",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "О программе",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Системные требования",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Установка",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Поиск проблемы",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Начало работы",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    },
-    "premid.pagePresenceDev": {
-        "message": "Разработчик присутствия",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Смотрит страницу:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Документация",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Просматривает статус:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Главная страница",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Участники",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Загрузки ",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Магазин",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Партнеры",
+		"description": "A page name"
+	},
+	"premid.pageCookies": {
+		"message": "Политика cookies",
+		"description": "A page name"
+	},
+	"premid.pagePrivacy": {
+		"message": "Политика конфиденциальности",
+		"description": "A page name"
+	},
+	"premid.pageTerms": {
+		"message": "Пользовательское соглашение",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "О PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Системные требования",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Установка",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Поиск проблемы",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Начало работы",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Разработчик присутствия",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Класс присутствия",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Класс слайд-шоу",
+		"description": "A page name"
+	}
 }
