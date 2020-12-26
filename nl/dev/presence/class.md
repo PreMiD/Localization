@@ -18,31 +18,31 @@ Wanneer u een klasse aanmaakt, dient u de eigenschap `clientId` te specificeren.
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Voorbeeld clientId
+  clientId: "514271496134389561" // Voorbeeld clientId
 });
 ```
 
-### Properties
+### Eigenschappen
 
-There are three properties available for `Presence` class.
+Er zijn drie eigenschappen beschikbaar voor de `Presence` klasse.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applications) krijgen.
+Deze eigenschap is vereist om uw presence te laten werken, omdat uw client-id gebruikt word om het logo en de assets te weergeven. Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applications) krijgen.
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+Wanneer je `injectOnComplete` op `true` zet dan wordt de eerste `UpdateData` evenement voor de `presence.ts` en `iframe.ts` bestanden pas afgevuurd als de pagina volledig geladen is.
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+Wanneer je `appMode` op `true` zet en de presence zou een lege `PresenceData` versturen, dan toont de app de applicatie (afbeelding en naam) op het profiel van de gebruiker in plaats van niets.
 
 ## Methodes
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Geeft als resultaat een `PresenceData` object van wat de presence die wordt weergegeven.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
@@ -258,11 +258,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Opmerking:** De gegeven `String` in querySelector is een voorbeeld.
 
 ## `PresenceData` Interface
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+De `PresenceData` interface wordt aanbevolen om te gebruiken wanneer u de `setActivity()` methode gebruikt.
 
 Dit scherm volgt variabelen, ze zijn allemaal optioneel.
 
@@ -331,11 +331,11 @@ Dit scherm volgt variabelen, ze zijn allemaal optioneel.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "Mijn titel",
+  state: "Mijn beschrijving",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "Je hebt me bekeken, en wat nu?" ,
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -347,7 +347,7 @@ Events stellen je in staat om wijzigingen of oproepen die zijn gemaakt te detect
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Doe iets wanneer data wordt bijgewerkt.
 });
 ```
 
