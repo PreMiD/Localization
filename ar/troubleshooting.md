@@ -21,7 +21,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 لحل هذه المشكلة ، كل ما عليك فعله هو تبديل الإعدادات الموجودة في الاعلى: ![presencesettings.gif](/presencesettings.gif)
 
 ### أعد تحميل الصفحة
-يمكنك الضغط على <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) في لوحة المفاتيح أيضا بدلا من البحث على زر التحديث.
+يمكنك الضغط على <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أيضا بدلا من البحث على زر التحديث.
 
 ### أعد تشغيل المتصفح
 <kbd>Alt</kbd>+<kbd>F4</kbd> (ويندوز) أو <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) تقوم بعمل جيد أيضا. (يجب عليك أن تشغل المتصفح مرة أخرى بطبيعة الحال.)
@@ -32,23 +32,23 @@ dateCreated: 2020-06-11T18:03:54.865Z
 ### أعد تشغيل PreMiD (التطبيق)
 ![quit.png](/quit.png) يجب عليك إعادة تشغيل PreMiD بعد ذلك.
 
-### Reload/restart Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### أعد تشغيل Discord
+إضغط على <kbd>CTRL+R</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أو أعد تشغيل دسكورد يدويا.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### تأكد من أن ديسكورد لا يعمل كمسؤول
+مهم جدا. لن يعمل ديسكورد RPC إذا قمت بتشغيل ديسكورد كمسؤول.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### تحقق مما إذا كان برنامج مكافحة الفيروسات أو جدار الحماية مشتغل في الجهاز
+في بعض الأحيان تمنع برامج مكافحة الفيروسات وجدران الحماية التطبيقات التي تصنع خوادم أو تستضيفها أو تتصل فقط بالإنترنت. نحن نستخدم خادم محلي لتلقي البيانات ونقلها بين تطبيقنا وملحقنا، لذلك إذا كنت ستمنع قدرة التطبيق على نقل البيانات فلن تتمكن على الأرجح من استخدام PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### قم تعطيل الإضافات الخاصة بك
+قم بتعطيل جميع الإضافات الخاصة بك وانظر إذا كان سيعمل. إذا كان الجواب نعم، حاول تشغيل الإضافات الخاصة بك خطوة بعد خطوة وأخبرنا عن أي إضافة كسرت PreMiD.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### إعادة تشغيل جهاز الكمبيوتر
+آمل أنك تعرف كيفية إعادة تشغيل الكمبيوتر.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### إعادة تثبيت PreMiD
+في بعض الأحيان يكون شيء خاطئ في الملفات... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
 Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
