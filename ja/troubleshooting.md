@@ -18,7 +18,7 @@ PreMiDはブラウザ版のDiscordでは動作**しません。** [アプリ版�
 ### 追加設定がついているプレゼンスの場合
 多くのプレゼンス（`Twitch`や`SoundCloud`など。横に歯車のマークがついているもの）は、拡張機能の問題の影響を受ける場合があります。 問題が発生すると、拡張機能が設定の既定値を取得できない状態になります。
 
-解消するためには、一番上の設定を切り替えてください。![presencesettings.gif](/presencesettings.gif)
+これを解消するためには、一番上の設定を切り替えてください。 ![presencesettings.gif](/presencesettings.gif)
 
 ### ページを再読み込みする
 <kbd>Ctrl+R</kbd>/<kbd>F5</kbd>(Windows) か、<kbd>CMD+R</kbd>(MacOS) を押してみてください。もしくはリロード（再読み込み）ボタンを押してみてください。
