@@ -1,15 +1,15 @@
 ---
-title: Chromium
-description: Getting started with a PreMiD installation on Chromium-based browsers
+title: كروميوم
+description: البدء مع تثبيت PreMiD على المتصفحات المبنية على كروميوم
 published: صحيح
 date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+تركيب الملحق شيء مهم جدا لأن لا يمكن للتطبيق أن يفعل أي شيء بنفسه.
 
 # تحميل
-### Chrome, Edge, etc.
+### كروم، إيدج، الخ.
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Chromium**.
 3. Click on **Add to Chrome**.

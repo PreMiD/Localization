@@ -48,9 +48,9 @@ Geeft als resultaat een `PresenceData` object van wat de presence die wordt weer
 
 Stelt uw profielactiviteit in volgens de verstrekte gegevens.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+De eerste parameter vereist een [`PresenceData`](#presencedata-interface) interface of een [`Slideshow`](/dev/presence/slideshow) klasse om alle informatie te krijgen die je wilt weergeven in je profiel.
 
-Tweede parameter definieert wanneer presence iets afspeelt of niet. Always use `true` if you provide timestamps in `PresenceData`.
+Tweede parameter definieert wanneer presence iets afspeelt of niet. Gebruik altijd `true` als u timestamps verstrekt in `PresenceData`.
 
 ### `clearActivity()`
 
@@ -66,28 +66,28 @@ Stelt de systeemtitel in op de menubalk.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Maakt een nieuwe `Slideshow` klasse aan.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-This is suggested to do right when you make the `Presence` class.
+Dit wordt aanbevolen om gelijk te doen wanneer je de `Presence` klasse maakt.
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Voorbeeld clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Je kunt de documentatie voor de `Slideshow` klasse [hier](/dev/presence/slideshow) vinden.
 
 ### `getStrings(object)`
 
 Een asynrone methode waarmee u vertaalde strings uit de extensie kunt krijgen.
 
-U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. Een compilatie van vertaalde strings kan worden gevonden met dit eindpunt: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Retourneert `Playing` en `Paused` strings
@@ -97,16 +97,16 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // Retourneert: Playing
+const pauseString = strings.pause; // Retourneert: Paused
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Sinds v2.2.0 van de extensie kunt u nu de strings van een bepaalde taal krijgen. Dit werkt goed met de nieuw toegevoegde `multiLanguage` instelling optie.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+We raden je aan om de volgende code te gebruiken, zodat de PresenceData automatisch wordt bijgewerkt als als de gebruiker de geselecteerde taal verandert;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Een interface van de strings die u krijgt (goed voor code kwaliteit en autocomplete).
 interface LangStrings {
   play: string;
   pause: string;
@@ -115,29 +115,29 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // De strings die je krijgt, zorg ervoor dat dit past bij uw LangStrings interface.
       play: "general.playing",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // De ID is de ID van de multiLanguage instelling.
     await presence.getSetting("ID")
   );
 }
 
 let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+  // De ID is de ID van de multiLanguage instelling.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+//! De volgende code moet binnen het updateData evenement!
+// De ID is de ID van de multiLanguage instelling.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // Retourneert: Playing
+const pauseString = strings.pause; // Retourneert: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Retourneert een variabele van de website als deze bestaat.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Dit zal de "Variabele content" loggen
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -157,9 +157,9 @@ Geeft als resultaat de extensie versie die de gebruiker gebruikt.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Geeft terug: 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Geeft terug: 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -167,8 +167,8 @@ console.log(version); // Will log 2.1.0
 Retourneert de waarde van de instelling.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); // Vervang pdexID met de id van de instelling
+console.log(setting); // Dit zal de waarde van de instelling loggen
 ```
 
 ### `hideSetting(String)`
@@ -176,7 +176,7 @@ console.log(setting); // This will log the value of the setting
 Verbergt de gegeven instelling.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // vervang pdexID met het id van de instelling
 ```
 
 ### `showSetting(String)`
@@ -184,23 +184,23 @@ presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 Toont gegeven instelling (werkt alleen als de instelling al verborgen was).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // vervang pdexID met het id van de instelling
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Geeft de logs van de websites console.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Dit zal de laatste 100 logs loggen (in een array).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Opmerking:** Vereist `readLogs` op `true` te zijn in het `metadata.json` bestand.
 
 ### `info(String)`
 
-Console logs the given message in a format based of the presence in the `info` style.
+Console logt het gegeven bericht in een formaat gebaseerd op de `info` stijl.
 
 ```typescript
 presence.info("Test") // Dit zal "test" in de juiste stijl loggen.

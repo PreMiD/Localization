@@ -55,25 +55,25 @@ dateCreated: 2020-06-11T18:03:54.865Z
 MacOS: `~/users/USER/~Library/Application Support/` وإحذف الملف `PreMiD``.
 
 ### على توزيعات Ubuntu/Debian
-إذا قمت بتنزيل ديسكورد من خلال Snapcraft، لن يعمل RPC. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+إذا قمت بتنزيل ديسكورد من خلال Snapcraft، لن يعمل RPC. يجب عليك حذف نسخة Snapcraft عن طريق كتابة `sudo snap remove discord` في وحدة التحكم، قم بتنزيل [نسخة ديسكورد للينكس](https://discordapp.com/api/download?platform=linux) ([أو ديسكورد كناري](https://discordapp.com/api/canary/download?platform=linux))، ثم إنتقل إلى المكان الذي قمت بتنزيل ديسكورد فيه (عادة `$HOME/Downloads`)، ثم ثبت الحزمة باستخدام `sudo dpkg -i discord-*.deb`.
 
-### McAfee detected PreMiD as virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+### McAfee اكتشف PreMiD كفيروس (ويندوز)
+هذا إبلاغ كذب من McAfee ونحن قمنا بتبليغهم بهذه المسألة، في الوقت الحالي يمكنك استبعاد PreMiD من الفحص عن طريق الخطوات التالية:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
+> وإذا لم تكن واثق من اتخاذ هذه الخطوات، لا تتردد في فتح تذكرة في [#support](https://discord.premid.app/) وسيكون أحد عملاء الدعم لدينا قادرا على مساعدتك! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+1. افتح تطبيق acAfee وانقر على أيقونة الإعدادات في أعلى اليمين. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. انقر فوق "العناصر المعزولة" (الثانية من الأعلى).
+3. قم بتوسيعها، وانقر على أيقونة `>` قبل عنصر باسم "settings.dat".
+4. تأكد من أن المسار يحتوي على "AppData\Local\Temp\PreMiD"، إذا كان يفعل قم بتحديده واضغط على استعادة. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. بعد استعادته يمكنك إغلاق نافذة "العناصر المعزولة"، ثم اضغط على أيقونة الإعدادات مرة أخرى في أعلى اليمين.
+6. انقر فوق "الفحص في الوقت الحقيقي" (الثالثة من الأعلى).
+7. قم بتوسيعها وانقر على "إضافة ملف".
+8. اكتب "%appdata%" في مكان الرابط في مدير الملفات واضغط على زر إنتر. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. افتح مجلد "PreMiD" وحدد ملف "PreMiD.exe" وانقر على فتح. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. يجب أن يتجاهل McAfee ملفنا، فقط ابدأ تطبيقنا وينبغي أن تكون جيداً للذهاب.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.premid.app/).
+### هذا لم يحل مشكلتي
+الرجاء فتح تذكرة في [#support](https://discord.premid.app/).

@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Richtlijnen
 
-Bij het publiceren van Presences naar [onze GitHub Repository](https://github.com/PreMiD/Presences), vereisen we dat je een aantal richtlijnen volgt. Voor sommigen lijken deze strenge regels misschien zwaar. However, the implementation of these rule sets will keep us and our users from running into issues.
+Bij het publiceren van Presences naar [onze GitHub Repository](https://github.com/PreMiD/Presences), vereisen we dat je een aantal richtlijnen volgt. Voor sommigen lijken deze strenge regels misschien zwaar. De tenuitvoerlegging van deze regels zal er echter voor zorgen dat wij en onze gebruikers zich niet met problemen bezighouden.
 
 # Aanmaak
 

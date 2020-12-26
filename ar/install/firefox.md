@@ -6,7 +6,7 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+تركيب الملحق شيء مهم جدا لأن لا يمكن للتطبيق أن يفعل أي شيء بنفسه.
 
 # تحميل
 1. انتقل إلى صفحة التنزيلات الخاصة بنا عن طريق [النقر هنا](https://premid.app/downloads).
