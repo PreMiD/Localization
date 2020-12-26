@@ -2,7 +2,7 @@
 title: இருப்பு வகுப்பு
 description: ஒவ்வொரு PreMiD இருப்புக்கும் முக்கிய வகுப்பு
 published: இயக்கப்பட்டது
-date: 2020-12-25T00:42:46.948Z
+date: 2020-12-26T13:53:09.952Z
 tags:
 editor: மார்க் டவுன்
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -253,7 +253,8 @@ Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Doe
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
-  duration = timestampFromFormat(document.querySelector(".video-end").textContent);
+  duration = timestampFromFormat(document.querySelector(".video-end").textContent),
+  timestamps = getTimestamps(currentTime, duration);
 presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
