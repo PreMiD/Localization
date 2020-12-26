@@ -20,7 +20,7 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 ### `currentSlide`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of what the presence/current slide is displaying.
+Возвращает объект [`PresenceData`](/dev/presence/class#presencedata-interface) из того, что сейчас показывают.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
@@ -35,7 +35,7 @@ console.log(currentSlide.details) // Will console log the details of the Presenc
 
 Первый параметр требует `String` которая будет использоваться в качестве уникального идентификатора для слайда.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Второй параметр требует интерфейса [`PresenceData`](/dev/presence/class#presencedata-interface) чтобы получить всю информацию, которую вы хотите показать на слайде.
 
 Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
 
@@ -50,7 +50,7 @@ Second parameter requires a [`PresenceData` interface](/dev/presence/class#prese
 
 Первый параметр требует `String` которая является уникальным идентификатором слайда, который вы хотите обновить.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Второй параметр требует интерфейса [`PresenceData`](/dev/presence/class#presencedata-interface) чтобы получить всю информацию, которую вы хотите показать на слайде.
 
 Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
 
@@ -68,7 +68,7 @@ Second parameter requires a [`PresenceData` interface](/dev/presence/class#prese
 
 Удаляет все слайды из `Slideshow`.
 
-# SlideshowSlide Class
+# SlideshowSlide Класс
 
 ## Введение
 
@@ -82,7 +82,7 @@ Second parameter requires a [`PresenceData` interface](/dev/presence/class#prese
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Возвращает объект [`PresenceData`](/dev/presence/class#presencedata-interface) `PresenceData`, сохраненный в слайде.
 
 ## Методы
 
