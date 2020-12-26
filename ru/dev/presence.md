@@ -196,14 +196,14 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
+      <td style="text-align:left">Строка регулярного выражения, используемая для сопоставления URL-адресов.<br>
+      regExp или также известный как Regex, можно использовать, если веб-сайт имеет несколько поддоменов.<br>
+      Для этого вы можете использовать следующий regExp:<br>
       <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      TLD standing for Top Level Domain для примера: .com .net (но не вводите точку).<br>
+      <code>([a-z0-9]+)</code> означает что угодно от a до z и от 0 до 9.<br>
+      Вы можете быстро начать, посмотрев это <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
+      Вы можете проверить свой regExp на <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
