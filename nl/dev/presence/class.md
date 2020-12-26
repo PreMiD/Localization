@@ -2,7 +2,7 @@
 title: Presence Klasse
 description: De belangrijkste klasse voor elke PreMiD presence
 published: true
-date: 2020-12-25T00:42:46.948Z
+date: 2020-12-26T13:53:09.952Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -203,28 +203,28 @@ console.log(logs); // This will log the latest 100 logs (in an array).
 Console logs the given message in a format based of the presence in the `info` style.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Dit zal "test" in de juiste stijl loggen.
 ```
 
 ### `success(String)`
 
-Console logs the given message in a format based of the presence in the `success` style.
+Console logt het gegeven bericht in een formaat gebaseerd op de `success` stijl.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Test") // Dit zal "test" in de juiste styling loggen.
 ```
 
 ### `error(String)`
 
-Console logs the given message in a format based of the presence in the `error` style.
+Console logt het gegeven bericht in een formaat gebaseerd op de `error` stijl.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Test") // Dit zal "test" in de juiste stijl loggen.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Retourneert 2 `snowflake` timestamps in een `Array` die gebruikt kan worden voor `startTimestamp` en `endTimestamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Opmerking:** De gegeven `String` in querySelector is een voorbeeld.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Retourneert 2 `snowflake` timestamps in een `Array` die gebruikt kan worden voor `startTimestamp` en `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,15 +245,16 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Opmerking:** De gegeven `String` in querySelector is een voorbeeld.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Zet een string met formaat `HH:MM:SS` of `MM:SS` of `SS` om in een getal (Geeft geen snowflake timestamp).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
-  duration = timestampFromFormat(document.querySelector(".video-end").textContent);
+  duration = timestampFromFormat(document.querySelector(".video-end").textContent),
+  timestamps = getTimestamps(currentTime, duration);
 presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
