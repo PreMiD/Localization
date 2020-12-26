@@ -94,7 +94,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ### الترخيص
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
+[![حالة FOSSA](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
