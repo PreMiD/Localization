@@ -299,7 +299,7 @@ Visualization of the the file:
 After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
 
 #### Standaard keys
-De keys die je niet hebt hoeven instellen zijn automatisch ingesteld op het volgende: `title`: "Language" **Opmerking:** Dit wordt vertaald naar hun standaard taal (browsertaal). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+De keys die je niet hebt hoeven instellen zijn automatisch ingesteld op het volgende: `title`: "Language" **Opmerking:** Dit wordt vertaald naar hun standaard taal (browsertaal). `icon`: "fas fa-language" ([Voorbeeld](https://fontawesome.com/icons/language)) `value`: **Word ingesteld naar de taal van de browser in als deze beschikbaar is (100% vertaald), anders Engels.** `values`: **Word ingesteld op de beschikbare talen (talen die het 100% vertaald hebben).**
 
 **Opmerking:** Deze zijn op geen enkele manier te wijzigen.
 
