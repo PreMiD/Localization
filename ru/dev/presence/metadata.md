@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Содержит основные данные о присутствии
 published: true
-date: 2020-12-25T00:41:36.917Z
+date: 2020-12-26T15:03:41.542Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -17,52 +17,53 @@ dateCreated: 2020-06-11T18:04:52.965Z
 ```typescript
 {
   "author": {
-    "name": "ПОЛЬЗОВАТЕЛЬ",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "ПОЛЬЗОВАТЕЛЬ",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "СЕРВИС",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "ОПИСАНИЕ"
+    "en": "DESCRIPTION"
   },
-  "url": "ССЫЛКА",
+  "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "ВЕРСИЯ",
-  "logo": "ССЫЛКА",
-  "thumbnail": "ССЫЛКА",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "КАТЕГОРИИ",
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
-        { 
-            "id": "ID",
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
-            "value": true
-        },
-        {
-            "id": "ID",
-            "if": {
-                "ID": true
-            },
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
-        },
-        {
-            "id": "ID",
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
-            "value": 0,
-            "values": ["1", "2", "etc."]
-        }
-    ]
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": true
+    },
+    {
+      "id": "ID",
+      "if": {
+        "ID": true
+      },
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
+    },
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": 0,
+      "values": ["1", "2", "etc."]
+    }
+  ]
 }
 ```
 
@@ -218,7 +219,7 @@ PreMiD - это полиусиленный сервис, что означает
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
     "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
@@ -227,16 +228,18 @@ PreMiD - это полиусиленный сервис, что означает
       "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
     "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": 0, //Default value of the selector
     "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+  }
+]
 ```
 
 ### `multiLanguage`
