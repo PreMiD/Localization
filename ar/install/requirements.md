@@ -12,18 +12,18 @@ tags:
 > 
 > {.is-info}
 
-يعمل PreMiD على أي نظام تقريبًا. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+يعمل PreMiD على أي نظام تقريبًا. هذا يعني أنه يعمل على **لينكس**، **macOS**، **ويندوز** وكذلك بعض **تعديلات لينكس**.
 
 ### وحدة المعالجة المركزية CPU
 يعمل بريميد بشكل جيد تماما في نواة واحدة لوحدة المعالجة المركزية.
 
-### الذاكرة العشوائية
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+### الذاكرة العشوائية (RAM)
+يجب أن تحتوي أنظمة لينكس **على 20 ميغابايت من الرام على الأقل** لتشغيل PreMiD. وعادة ما تتطلب أنظمة ويندوز وmacOS المزيد من الرام.
 
 ### التخزين
-بريميد يأخذ حوالي **150 ميغابايت** من التخزين الفيزيائي. However at least **200MB** of storage dedicated to PreMiD is recommended.
+بريميد يأخذ حوالي **150 ميغابايت** من التخزين الفيزيائي. ومع ذلك، يوصى على الأقل ب **200 ميغابايت** من التخزين المخصص ل PreMiD.
 
 ### الدخول إلى الإنترنت
-A internet connection is requiered to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+مطلوب اتصال بالإنترنت لتشغيل PreMiD. سيتحقق PreMiD تلقائيا من التحديثات الجديدة، اللغات، تحديثات الpresence، إلخ. من وقت لآخر.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
