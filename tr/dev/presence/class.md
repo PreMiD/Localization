@@ -196,7 +196,7 @@ const logs = await presence.getLogs();
 console.log(logs); // This will log the latest 100 logs (in an array).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Not:** `metadata.json` dosyasında `readLogs` un `true` olmasını gerektirir.
 
 ### `info(String)`
 
@@ -232,7 +232,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Not:** querySelector da verilen `String` bir örnektir.
 
 ### `getTimestamps(Number, Number)`
 
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Not:** querySelector da verilen `String` bir örnektir.
 
 ### `timestampFromFormat(String)`
 
@@ -259,7 +259,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Not:** querySelector da verilen `String` bir örnektir.
 
 ## `PresenceData` Arayüzü
 
