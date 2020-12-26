@@ -101,7 +101,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "icon": "FONTAWESOME FREE ICON",
       "value": true
     },
     {
@@ -110,14 +110,14 @@ dateCreated: 2020-06-11T18:04:02.843Z
         "ID": true
       },
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "icon": "FONTAWESOME FREE ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "icon": "FONTAWESOME FREE ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
