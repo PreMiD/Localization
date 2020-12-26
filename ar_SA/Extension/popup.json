@@ -68,7 +68,7 @@
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "خطأ أثناء تحميل الثناء",
+		"message": "خطأ أثناء تحميل المساهمون",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
@@ -92,7 +92,7 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "يبدو أنه ليس لديك اتصال بالإنترنت! لن يتمكن PreMiD من إظهار في presences الوقت الحالي.",
+		"message": "يبدو أنه ليس لديك اتصال بالإنترنت! لن يتمكن PreMiD من إظهار presences في الوقت الحالي.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
@@ -100,7 +100,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "لم يتمكن PreMiD من الإتصال بديسكورد! هل هو مثبت و مشتغل *استكشاف الأخطاء وإصلاحها*",
+		"message": "لم يتمكن PreMiD من الإتصال بديسكورد! هل هو مثبت و مشتغل؟ *استكشاف الأخطاء وإصلاحها*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
@@ -124,7 +124,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "فيديوات",
+		"message": "مقاطع الفيديو والبثوث",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
