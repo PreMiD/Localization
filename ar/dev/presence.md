@@ -1,5 +1,5 @@
 ---
-title: تطوير البرزنس
+title: تطوير الpresence
 description:
 published: صحيح
 date: 2020-12-26T15:02:54.817Z
@@ -66,66 +66,66 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.3",
-  "author": {
-    "name": "USER",
-    "id": "ID"
-  },
-  "contributors": [
-    {
-      "name": "USER",
-      "id": "ID"
-    }
-  ],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
-  "description": {
-    "en": "DESCRIPTION"
-  },
-  "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
-  "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
-  "regExp": "REGEXP",
-  "iFrameRegExp": "REGEXP",
-  "iframe": false,
-  "readLogs": false,
-  "settings": [
-    {
-      "id": "ID",
-      "multiLanguage": true
+    "$schema": "https://schemas.premid.app/metadata/1.3",
+    "author": {
+      "name": "المستخدم",
+      "id": "أيدي"
     },
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": true
+    "contributors": [
+      {
+        "name": "المستخدم",
+        "id": "الأيدي"
+      }
+    ],
+    "service": "الخدمة",
+    "altnames": ["الخدمة"],
+    "description": {
+      "en": "الوصف"
     },
-    {
-      "id": "ID",
-      "if": {
-        "ID": true
+    "url": "الرابط",
+    "version": "النسخة",
+    "logo": "الرابط",
+    "thumbnail": "الرابط",
+    "color": "#HEX000",
+    "tags": ["شعار 1", "شعار 2"],
+    "category": "الفئة",
+    "regExp": "REGEXP",
+    "iFrameRegExp": "REGEXP",
+    "iframe": false,
+    "readLogs": false,
+    "settings": [
+      {
+        "id": "الأيدي",
+        "multiLanguage": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
-    },
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": 0,
-      "values": ["1", "2", "etc."]
-    }
-  ]
-}
+      {
+        "id": "الأيدي",
+        "title": "عنوان العرض",
+        "icon": "أيقونة FONTAWESOME",
+        "value": true
+      },
+      {
+        "id": "الأيدي",
+        "if": {
+          "ID": true
+        },
+        "title": "عنوان العرض",
+        "icon": "أيقونة FONTAWESOME",
+        "value": "\"%song%\" من %artist%",
+        "placeholder": "إستخدم %song% أو %artist%"
+      },
+      {
+        "id": "الأيدي",
+        "title": "عنوان العرض",
+        "icon": "أيقونة FONTAWESOME",
+        "value": 0,
+        "values": ["1", "2", "إلخ."]
+      }
+    ]
+  }
 ```
 
-الرجاء نسخ الرمز أعلاه ووضعه في ملف `metadata.json`. تحتاج الآن إلى تعديل قيم الخواص. يرجى ملاحظة أن الخصائص التالية اختيارية للحصول عليها في `بيانات التعريف الخاصة بك. ابن` ملف، إذا كنت لا تخطط لاستخدامهم، تحتاج إلى إزالتهم.
+الرجاء نسخ الكود أعلاه ووضعه في ملف `metadata.json`. تحتاج الآن إلى تعديل قيم الخصائص. يرجى ملاحظة أن الخصائص التالية اختيارية للحصول عليها في ملف `metadata.json` الخاص بك، إذا كنت لا تخطط لاستخدامهم تحتاج إلى إزالتهم.
 
 - `المساهمون`
 - `أسماء`
@@ -135,7 +135,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 - `readLogs`
 - `الإعدادات`
 
-**توضيح بعض المضبوطات المسبقة للقيم:**
+**توضيح بعض قيم الخصائص:**
 
 <table>
   <thead>
@@ -149,22 +149,22 @@ dateCreated: 2020-06-11T18:04:02.843Z
   <tbody>
     <tr>
       <td style="text-align:left"><b>المطور</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>المساهمون</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>خدمة</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">إسم الخدمة التي يدعمها هذا الpresence.<br>
+      (يجب أن يكون نفس اسم المجلد حيث يوجد كل شيء)</td>
       <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
