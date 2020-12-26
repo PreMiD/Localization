@@ -60,13 +60,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ### المتطلبات
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+من الناحية التقنية كل توزيعة يمكنها تشغيل **التطبيق** [الرسمي](https://discordapp.com/download) لديسكورد ( ليس نسخة الويب أو snap ) يمكنها تشغيل PreMiD أيضا؛</br> كما يمكن أن تكن لاحظت في السنوات الأخيرة، بعض توزيعات لينكس بدأت في إسقاط الدعم ل 32 بت المعمارية (ia32/i686/i386/x86)، ونتيجة لذلك، قمنا بذلك أيضا. ومع ذلك، يمكنك محاولة بناء التطبيق بنفسك إذا كنت بحاجة ماسة إلى استخدامه على توزيعة 32 بت.</br> بما أننا نستخدم إلكترون حاليا كمحرك (ديسكورد يفعل أيضا!)، فإن متطلباته تنطبق أيضا على هذا التطبيق:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+ومن غير المعروف ما إذا كانت النسخ الأقدم من التوزيعات الأخرى تدعمها، لذلك فقط حافظ على تحديث التوزيعة الخاص بك واستخدم إصدارات **LTS (دعم طويل الأجل)** إذا كانت التوزيعة الخاصة بك توفرها، كما أنها أكثر إستقرارا (تجنب إصدارات ألفا).
 
 <a name="support"></a>
 
@@ -82,13 +82,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### المساهمون
 
-Thanks to :
+شكرا ل :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (وقليل من الأشخاص الآخرين الذين نسيت أسماءهم) لتقديمهم تعليقات على الإصدارات الليلية.
+- @apriluwu للمحافضة على ابنية Gentoo
+- @SlimShadyIAm و naka لصيانة حزم مستودع مستخدمي أرش سابقاً
+- مجتمع إلكترون لحزم مختلفة
+- أي شخص آخر ساهم في المشروع بأي شكل من الأشكال.
 
 <a name="license"></a>
 
@@ -101,7 +101,7 @@ Thanks to :
 
 ## Portable AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+حزمة AppImage هي الحزمة الموصى بها إذا كان ديسكورد يعمل لك ولكن حزم PreMiD الأخرى (.deb, .rpm, الخ) لا تعمل.
 
 <a name="appimageinstall"></a>
 
@@ -112,7 +112,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# فقط إنقر عليها مرتين أو قم بتشغيل
 ./PreMiD*.AppImage
 ```
 
@@ -120,7 +120,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### ملاحظات إضافية
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+إما إذا كنت ترغب في تجربة PreMiD أو فقط لا تريد تثبيته، هذا هو الأفضل، إنه دائما حديث ولكن لا يشتغل تلقائيا مع النظام!</br>إذا تعبت من الاضطرار إلى فتحه في كل مرة، استخدم الحزم الأخرى (وفقا للتوزيعة الخاصة بك).
 
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
 <a name="packagecloud"></a>

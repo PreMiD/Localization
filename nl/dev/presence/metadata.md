@@ -17,33 +17,33 @@ Een voorbeeld van dat bestand kan hieronder worden gevonden.
 ```typescript
 {
   "author": {
-    "name": "USER",
+    "name": "GEBRUIKER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "GEBRUIKER",
     "id": "ID"
   }],
   "service": "SERVICE",
   "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "BESCHRIJVING"
   },
   "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
+  "version": "VERSIE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIE",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITEL",
+      "icon": "FONTAWESOME ICOON",
       "value": true
     },
     {
@@ -51,15 +51,15 @@ Een voorbeeld van dat bestand kan hieronder worden gevonden.
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITEL",
+      "icon": "FONTAWESOME ICOON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITEL",
+      "icon": "FONTAWESOME ICOON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -215,31 +215,31 @@ Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpasse
 "settings": [
   {
     "id": "ID",
-    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
+    "multiLanguage": true //Zie https://docs.premid.app/dev/presence/metadata#multilanguage
   },
   {
     "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
-    "value": true //Boolean value will make it an on/off switch with the value as the default value
+    "title": "TITEL",
+    "icon": "FONTAWESOME ICOON", //Voorbeeld "fas fa-info"
+    "value": true //Een Boolean waarde zorgt ervoor dat dit een switch word.
   },
   {
     "id": "ID",
     "if": {
-      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+      "ID": true //Als de andere setting deze waarde heeft (true/false/0/1/etc.) dan wordt deze button getoond
     },
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
-    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
-  },
-  {
-    "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
-    "value": 0, //Default value of the selector
-    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
-  }
+    "title": "TITEL",
+    "icon": "FONTAWESOME ICOON",
+    "value": "\"%song%\" by %artist%", //Met een string word het een input veld.
+    "placeholder": "use %song% or %artist%" //Als de string leeg is word dit getoont als informatie.
+        },
+        {
+            "id": "ID",
+            "title": "TITEL",
+            "icon": "FONTAWESOME ICOON",
+            "value": 0, //De default waarde van de selector
+            "values": ["1", "2", "etc."] //Zorgt er voor dat het een selector word met de waarden.
+        }
 ]
 ```
 
