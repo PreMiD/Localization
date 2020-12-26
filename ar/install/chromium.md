@@ -10,15 +10,15 @@ tags:
 
 # تحميل
 ### كروم، إيدج، الخ.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+1. إذهب إلى صفحة التحميلات عن طريق [النقر هنا](https://premid.app/downloads).
+2. اختر **كروميوم**.
+3. انقر على **اضافة إلى كروم**.
 
-### Opera
-1. إضافة **[تثبيت ملحقات كروم](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. إضافة [ملحقنا](https://premid.app/downloads).
+### أوبرا
+1. ضف **[تثبيت ملحقات كروم](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. ضف [ملحقنا](https://premid.app/downloads).
 
-> لا تنسى [إضافة تطبيق ****](/install). 
+> لا تنسى [اضافه **التطبيق**](/install). 
 > 
 > {.is-warning}
 
