@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-12-25T00:41:36.917Z
+date: 2020-12-26T15:03:41.542Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -43,7 +43,7 @@ An example of that file can be found below.
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -52,14 +52,14 @@ An example of that file can be found below.
         "ID": true
       },
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -220,7 +220,7 @@ Setup interactive settings so users can customize the presence!
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
     "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
@@ -229,14 +229,14 @@ Setup interactive settings so users can customize the presence!
       "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
     "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": 0, //Default value of the selector
     "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
   }
@@ -261,13 +261,15 @@ The `multiLanguage` key can be set to the following:
 
 ##### Kloniranje projekta
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
-2. Izaberite folder po vašem izboru.
-3. Otvorite ga u uređivaču koda.
+1. Otvorite terminal i upišite ` git clone https://github.com/PreMiD/Localization </code.</li>
+<li>Izaberite folder po vašem izboru.</li>
+<li>Otvorite ga u uređivaču koda.</li>
+</ol>
 
-##### Creating the file
+<h5 spaces-before="0">Creating the file</h5>
 
-1. Go into the `src` folder.
+<ol start="1">
+<li>Go into the <code>src` folder.
 2. Go into the `Presence` folder.
 3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
 
