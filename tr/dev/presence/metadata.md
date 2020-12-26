@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 Servisinizi mağazaya eklemek ve test edebilmek için `dist` klasörünün içine bir `metadata.json` dosyası oluşturmalısınız.
 
-An example of that file can be found below.
+Bu dosyanın bir örneği aşağıda bulunabilir.
 
 ```typescript
 {
