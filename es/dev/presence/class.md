@@ -2,7 +2,7 @@
 title: Clase Presence
 description: La clase principal para cada presence de PreMiD
 published: true
-date: 2020-12-25T00:42:46.948Z
+date: 2020-12-26T13:53:09.952Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -253,7 +253,8 @@ Convierte una cadena con formato `HH:MM:SS` o `MM:SS` o `SS` en un entero (no de
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
-  duration = timestampFromFormat(document.querySelector(".video-end").textContent);
+  duration = timestampFromFormat(document.querySelector(".video-end").textContent),
+  timestamps = getTimestamps(currentTime, duration);
 presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
