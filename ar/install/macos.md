@@ -1,6 +1,6 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: البدء مع تثبيت PreMiD على macOS
 published: صحيح
 date: 2020-02-12T22:08:37.439Z
 tags:
