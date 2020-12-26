@@ -148,43 +148,43 @@ curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh 
 
 ## التوزيع القائمة على أرش لينكس
 
-Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+تستخدم [مستودع مستخدمي أرش](https://aur.archlinux.org/packages/premid)؛</br>التوزيعات المدعومة هي _نفسها_، Manjaro، Anarchy، Artix، Arco، ArchLabs، Endeavour، Archman، BlackArch، Liri OS و [كل واحدة تدعم التثبيت من AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
 ### إرشادات التثبيت
 
 ```bash
-# Using yay (recommended)
+# باستخدام yay (موصى به)
 yay -S premid
 ```
 
 ```bash
-# Using pakku
+# باستخدام pakku
 pakku -S premid
 ```
 
 ```bash
-# Using trizen
+# باستخدام trizen
 trizen -S premid
 ```
 
 ```bash
-# Using pacaur
+# باستخدام pacaur
 pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... أنت تحصل على المعنى
 ```
 
-or manually from the [Arch User Repository](https://aur.archlinux.org/packages/premid) if you know what you're doing.
+أو يدوياً من [مستودع مستخدمي أرش](https://aur.archlinux.org/packages/premid) إذا كنت تعرف ما تفعله.
 
 <a name="archnotes"></a>
 
 ### ملاحظات إضافية
 
-If your distro uses pacman, then you have to install one of the helpers first. إذا لم يكن لديك أي شيء، يُنصح بتشغيل Yay:
+إذا كانت التوزيعة الخاصة بك تستخدم pacman، فيجب عليك أولاً تثبيت أحد المساعدين. إذا لم يكن لديك أي شيء، يُنصح بتشغيل Yay:
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -194,4 +194,4 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+يعمل مساعدو AUR/Pacman الآخرون أيضًا، على الرغم من اختلاف وظائف كل منهم، لذلك قد تواجه مشكلات أثناء استخدامها.
