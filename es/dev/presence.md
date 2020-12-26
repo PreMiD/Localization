@@ -2,7 +2,7 @@
 title: Desarrollo de Presences
 description:
 published: true
-date: 2020-12-25T14:49:28.771Z
+date: 2020-12-26T15:02:54.817Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -68,27 +68,27 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USUARIO",
+      "name": "USER",
       "id": "ID"
     }
   ],
-  "service": "SERVICIO",
-  "altnames": ["SERVICIO"],
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIPCCION (en ingles)"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["ETIQUETA1", "ETIQUETA2"],
-  "category": "CATEGORIA",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
     },
     {
       "id": "ID",
-      "title": "TITULO A MOSTRAR",
-      "icon": "ICONO FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -109,17 +109,17 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
       "if": {
         "ID": true
       },
-      "title": "TITULO A MOSTRAR",
-      "icon": "ICONO FONTAWESOME",
-      "value": "\"%song%\" por %artist%",
-      "placeholder": "usa %song% o %artist%"
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "TITULO A MOSTRAR",
-      "icon": "ICONO FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
-      "values": ["Valor 1", "Otro valor 2", "etc."]
+      "values": ["1", "2", "etc."]
     }
   ]
 }
