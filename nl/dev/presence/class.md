@@ -18,7 +18,7 @@ Wanneer u een klasse aanmaakt, dient u de eigenschap `clientId` te specificeren.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Voorbeeld clientId
 });
 ```
 
