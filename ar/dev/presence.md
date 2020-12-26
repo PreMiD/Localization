@@ -8,11 +8,11 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> كل البرزنس الان تخزن هنا: https://github.com/PreMiD/Presences 
+> كل الpresences الان تخزن هنا: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). الآن لدى المستخدمين القدرة على إضافة وحذف البرزنس المفضل لهم يدوياً من خلال واجهة المستخدم للموقع [](https://premid.app/).
+الإصدار `2.x` يقدم [متجر الpresence](https://premid.app/store). الآن لدى المستخدمين القدرة على إضافة وحذف البرزنس المفضل لهم يدوياً من خلال واجهة المستخدم للموقع [](https://premid.app/).
 
 > قبل البدء، يوصى بشدة بأن تنظروا إلى المبادئ التوجيهية للبرزنس الخاص بنا. 
 > 
