@@ -17,53 +17,52 @@ dateCreated: 2020-06-11T18:04:52.965Z
 ```typescript
 {
   "author": {
-    "name": "USER",
+    "name": "ПОЛЬЗОВАТЕЛЬ",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "ПОЛЬЗОВАТЕЛЬ",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "СЕРВИС",
   "description": {
-    "en": "DESCRIPTION"
+    "en": "ОПИСАНИЕ"
   },
-  "url": "URL",
+  "url": "ССЫЛКА",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
+  "version": "ВЕРСИЯ",
+  "logo": "ССЫЛКА",
+  "thumbnail": "ССЫЛКА",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "КАТЕГОРИИ",
   "iframe": false,
   "settings": [
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": true
-    },
-    {
-      "id": "ID",
-      "if": {
-        "ID": true
-      },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
-    },
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": 0,
-      "values": ["1", "2", "etc."]
-    }
-  ]
+        { 
+            "id": "ID",
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
+            "value": "\"%song%\" by %artist%",
+            "placeholder": "use %song% or %artist%"
+        },
+        {
+            "id": "ID",
+            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
+            "icon": "ИКОНКА",
+            "value": 0,
+            "values": ["1", "2", "etc."]
+        }
+    ]
 }
 ```
 
@@ -219,7 +218,7 @@ PreMiD - это полиусиленный сервис, что означает
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
+    "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
     "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
@@ -228,18 +227,16 @@ PreMiD - это полиусиленный сервис, что означает
       "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
+    "icon": "FONTAWESOME FREE ICON",
     "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
     "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
+    "icon": "FONTAWESOME FREE ICON",
     "value": 0, //Default value of the selector
     "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
-  }
-]
 ```
 
 ### `multiLanguage`
