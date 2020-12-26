@@ -17,17 +17,17 @@ A continuación se muestra un ejemplo de este archivo.
 ```typescript
 {
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   }],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVICIO",
+  "altnames": ["SERVICIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCCION (en ingles)"
   },
   "url": "URL",
   "regExp": "REGEXP",
@@ -36,14 +36,14 @@ A continuación se muestra un ejemplo de este archivo.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORIA",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "NOMBRE A MOSTRAR",
+      "icon": "ETIQUETA FONTAWESOME ICON",
       "value": true
     },
     {
@@ -51,17 +51,17 @@ A continuación se muestra un ejemplo de este archivo.
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
+      "title": "NOMBRE A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
+      "value": "\"%song%\" por %artist%",
+      "placeholder": "usa %song% o %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "NOMBRE A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
       "value": 0,
-      "values": ["1", "2", "etc."]
+      "values": ["Opción 1", "Opción 2", "etc."]
     }
   ]
 }
