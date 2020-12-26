@@ -184,13 +184,13 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>رابط</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-      <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <td style="text-align:left">عنوان URL الخاص بالموقع.<br><b>مثال:</b><code>vk.com</code><br>
+      <b>يجب أن يتطابق عنوان URL هذا مع عنوان URL الخاص بالموقع حيث سيكتشف ما إذا كان هذا هو موقع الويب الذي سيتم حقن السكريبت فيه أم لا.</b><br><b>لا</b> تضف <code>https://</code> أو <code>http://</code> داخل عنوان URL ولا سلاش في النهاية:
+      <code>https://premid.app/</code> -> <code>premid.com</code><br>
+      <b>ملاحظة</b>: قد يكون لبعض العناوين <code>www.</code> أو شيء أخر أمام الدومين. <b>لا</b> تنسى أن تضيفها!<br>
+      يمكنك إضافة عناوين URL متعددة بالقيام بالتالي:<br>
+      <code>["URL1", "URL2", "إلخ."]</code><br>
+      يمكنك أيضا إستخدام regExp معروف أيضا بRegex لهذه المهمة، مع المزيد من التوضيح أدناه.</td>
       <td style="text-align:left"><code>السلسلة، الأصطفاف&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
