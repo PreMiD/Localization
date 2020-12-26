@@ -68,27 +68,27 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USER",
+    "name": "USUARIO",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USER",
+      "name": "USUARIO",
       "id": "ID"
     }
   ],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVICIO",
+  "altnames": ["SERVICIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIPCCION (en ingles)"
   },
   "url": "URL",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETIQUETA1", "ETIQUETA2"],
+  "category": "CATEGORIA",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "NOMBRE A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
       "value": true
     },
     {
@@ -109,17 +109,17 @@ Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/p
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
+      "title": "NOMBRE A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
+      "value": "\"%song%\" por %artist%",
+      "placeholder": "usa %song% o %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "NOMBRE A MOSTRAR",
+      "icon": "ICONO FONTAWESOME",
       "value": 0,
-      "values": ["1", "2", "etc."]
+      "values": ["Valor 1", "Valor 2", "etc."]
     }
   ]
 }
