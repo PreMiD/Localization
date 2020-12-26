@@ -33,13 +33,13 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ## استنساخ المشروع
 
-1. قم بفتح التيرمنال و اكتب `git clone https://github.com/PreMiD/Presences`.
+1. قم بفتح لوحة التحكم و اكتب `git clone https://github.com/PreMiD/Presences`.
 2. اختيار مجلد من اختيارك.
 3. افتح علي محرر الكود الخاص بك.
 
 ## إنشاء المجلدات والملفات
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. إنتقل إلى مجلد `websites` ثم إنتقل إلى المجلد الذي يحتوي على الحرف الأول من **إسم** (ليس الرابط) الخدمة التي تريد دعمها.
 2. إنشاء مجلد باسم **** (ليس عنوان URL) للخدمة التي تريد دعمها.
 3. قم بإنشاء ملف `presence.ts` و `tsconfig.json` داخله.
 4. إنشاء مجلد اسمه `dist` في الداخل.
@@ -47,7 +47,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ## ملء ملف tsconfig.json
 
-الرجاء وضع التعليمات البرمجية التالية داخل ملف `tsconfig.json`.
+الرجاء وضع الكود التالي داخل ملف `tsconfig.json`.
 
 ```typescript
 {
@@ -58,11 +58,11 @@ dateCreated: 2020-06-11T18:04:02.843Z
 }
 ```
 
-لمعرفة المزيد حول تكوين TypeScript انقر [هنا](/dev/presence/tsconfig).
+لمعرفة المزيد حول تعديل TypeScript انقر [هنا](/dev/presence/tsconfig).
 
 ## ملء ملف metadata.json
 
-لقد صنعنا `metadata.json` منشئ ملف للكسلة [هنا](https://eggsy.xyz/projects/premid/mdcreator). لا يزال من المقترح قراءة هذا من خلال معرفة كيف يعمل.
+لقد صنعنا منشئ ملف `metadata.json` للكسلة [هنا](https://eggsy.xyz/projects/premid/mdcreator). لا يزال من المقترح قراءة هذا من أجل معرفة كيف يعمل.
 
 ```json
 {
@@ -272,7 +272,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
   </tbody>
 </table>
 
-لقد صنعنا `metadata.json` منشئ ملف للكسلة [هنا](https://eggsy.xyz/projects/premid/mdcreator).
+لقد صنعنا منشئ ملف `metadata.json` للكسلة [هنا](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## ابدء
 

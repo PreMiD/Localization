@@ -28,7 +28,7 @@ Il y a trois propriétés disponibles pour la classe de `Presence`.
 
 #### `clientId`
 
-Cette propriété est nécessaire pour que votre Presence fonctionne car elle utilise l'identifiant de votre application pour afficher son logo et ses images. Vous pouvez l'obtenir sur votre page [applications](https://discordapp.com/developers/applications).
+Cette propriété est nécessaire pour que votre Presence fonctionne car elle utilise l'identifiant de votre application pour afficher son logo et ses images. Vous pouvez l'obtenir sur votre page d'[applications](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
