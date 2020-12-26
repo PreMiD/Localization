@@ -2,7 +2,7 @@
 title: Rozwój statusów
 description:
 published: tak
-date: 2020-12-25T14:49:28.771Z
+date: 2020-12-26T15:02:54.817Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -101,7 +101,7 @@ Stworzyliśmy dla leniwych kreator plików `metadata.json` [tutaj](https://eggsy
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -110,14 +110,14 @@ Stworzyliśmy dla leniwych kreator plików `metadata.json` [tutaj](https://eggsy
         "ID": true
       },
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME FREE ICON",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
