@@ -21,16 +21,16 @@ dateCreated: 2020-06-11T18:03:54.865Z
 لحل هذه المشكلة ، كل ما عليك فعله هو تبديل الإعدادات الموجودة في الاعلى: ![presencesettings.gif](/presencesettings.gif)
 
 ### أعد تحميل الصفحة
-يمكنك الضغط على <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أيضا بدلا من البحث عن زر التحديث.
+يمكنك الضغط على <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) في لوحة المفاتيح أيضا بدلا من البحث على زر التحديث.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### أعد تشغيل المتصفح
+<kbd>Alt</kbd>+<kbd>F4</kbd> (ويندوز) أو <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) تقوم بعمل جيد أيضا. (يجب عليك أن تشغل المتصفح مرة أخرى بطبيعة الحال.)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### تأكد من أنك قمت بتفعيل نشاط لعبة في الإعدادات الديسكورد
+**إعدادات المستخدم** > **نشاط العبة** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### أعد تشغيل PreMiD (التطبيق)
+![quit.png](/quit.png) يجب عليك إعادة تشغيل PreMiD بعد ذلك.
 
 ### Reload/restart Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
