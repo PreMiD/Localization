@@ -1,26 +1,30 @@
 {
-    "premid.pageContributors": {
-        "message": "Contribuitori",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Descărcări",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Magazin",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Instalare",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Depanare",
-        "description": "A page name"
-    }
+	"premid.pageContributors": {
+		"message": "Contribuitori",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Descărcări",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Magazin",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Parteneri",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instalare",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Depanare",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Clasă Presence",
+		"description": "A page name"
+	}
 }
