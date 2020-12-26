@@ -24,75 +24,75 @@ Geeft als resultaat een [`PresenceData`](/dev/presence/class#presencedata-interf
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+console.log(currentSlide.details) // Zal de details van de PresenceData loggen
 ```
 
 ## Methodes
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Voeg een nieuwe slide toe aan de `Slideshow` volgens de verstrekte gegevens.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+De eerste parameter vereist een `String` die zal worden gebruikt als unieke id voor de slide.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+De tweede parameter vereist een [`PresenceData` interface](/dev/presence/class#presencedata-interface) om alle informatie te krijgen die je wilt weergeven in de slide.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+De derde parameter vereist een `Number` die de tijd in milliseconden is (minimaal 5000) voor hoe lang de slide te zien zal zijn.
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Retourneert alle slides die zijn opgeslagen in de `Slideshow` als `Array` van [`SlideshowSlide`](#slideshowslide-class).
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Updates the slide of the given `id` according to provided data.
+Werkt de slide met de gegeven `id` bij volgens de verstrekte gegevens.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+De eerste parameter vereist een `String` die de unieke identifier is van de slide die u wilt bijwerken.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+De tweede parameter vereist een [`PresenceData` interface](/dev/presence/class#presencedata-interface) om alle informatie te krijgen die je wilt weergeven in de slide.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+De derde parameter vereist een `Number` die de tijd in milliseconden is (minimaal 5000) voor hoe lang de slide te zien zal zijn.
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Retourneert een `Boolean` die aangeeft of de slide toegevoegd is aan de `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Verwijdert de slide met de gegeven `id` van de `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+De eerste parameter vereist een `String` die de unieke identifier is van de slide die u wilt verwijderen.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Verwijdert alle slide's van de `Slideshow`.
 
-# SlideshowSlide Class
+# SlideshowSlide Klasse
 
 ## Introductie
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+Een `SlideshowSlide` is de interne weergave van elke slide in een `Slideshow`.
 
 ## Eigenschappen
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Retourneert een `String` van het id van de slide.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Retourneert een [`PresenceData`](/dev/presence/class#presencedata-interface) object van de `PresenceData` die is opgeslagen in de slide.
 
 ## Methodes
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Stelt de slides data in volgens de verstrekte gegevens.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Het is vereist om een `presenceData` interface te geven om alle informatie te krijgen die je wilt weergeven in je profiel.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Stelt het interval van de slide in volgens de verstrekte gegevens.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Je moet een `Number` opgeven, wat de hoeveelheid tijd is in milliseconden (minimaal 5000) dat deze slide wordt weergegeven.
