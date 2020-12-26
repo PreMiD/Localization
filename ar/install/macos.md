@@ -13,7 +13,7 @@ tags:
 وتركيب التطبيق مهم جدا لأن التمديد لا يمكن أن يفعل أي شيء في حد ذاته.
 
 # تحميل
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. إذهب إلى صفحة التحميلات عن طريق [النقر هنا](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. افتح المثبت.
