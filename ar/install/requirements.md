@@ -1,6 +1,6 @@
 ---
 title: المتطلبات
-description: Prerequisites to install PreMiD
+description: المتطلبات الأساسية لتثبيت PreMiD
 published: صحيح
 date: 2020-02-12T22:08:39.314Z
 tags:
@@ -8,11 +8,11 @@ tags:
 
 # متطلبات النظام
 
-> وتتعلق هذه البيانات بالتطبيق فقط. 
+> تتعلق هذه البيانات بالتطبيق فقط. 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+يعمل PreMiD على أي نظام تقريبًا. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
 ### وحدة المعالجة المركزية CPU
 يعمل بريميد بشكل جيد تماما في نواة واحدة لوحدة المعالجة المركزية.

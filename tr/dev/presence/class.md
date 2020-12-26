@@ -18,7 +18,7 @@ Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Örnek bir clientId alanı
 });
 ```
 
@@ -66,7 +66,7 @@ Menüdeki durum yazısını ayarlar.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Yeni bir `Slideshow` sınıfı oluşturur.
 
 ```typescript
 const slideshow = presence.createSlideshow();
@@ -76,7 +76,7 @@ This is suggested to do right when you make the `Presence` class.
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Örnek bir clientId
   }),
   slideshow = presence.createSlideshow();
 ```
@@ -136,8 +136,8 @@ if (oldLang !== newLang) {
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // sonuç: Oynuyor
+const pauseString = strings.pause; // sonuç: Duraklatıldı
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Değişkenin içeriğini gösterecektir
 ```
 
 ### `getExtensionVersion(Boolean)`
