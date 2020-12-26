@@ -48,14 +48,14 @@ dateCreated: 2020-06-11T18:03:54.865Z
 آمل أنك تعرف كيفية إعادة تشغيل الكمبيوتر.
 
 ### إعادة تثبيت PreMiD
-في بعض الأحيان يكون شيء خاطئ في الملفات... Tutorials for the installation can be found [here](/install).
+في بعض الأحيان يكون شيء خاطئ في الملفات... يمكنك العثور على طريقة التثبيت [هنا](/install).
 
-### Manual removal
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### إزالة يدوياً
+ويندوز: `C:\Users\USER\AppData\Roaming\`` وإحذف الملف `PreMiD`.
+MacOS: `~/users/USER/~Library/Application Support/` وإحذف الملف `PreMiD``.
 
-### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### على توزيعات Ubuntu/Debian
+إذا قمت بتنزيل ديسكورد من خلال Snapcraft، لن يعمل RPC. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
