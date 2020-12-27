@@ -1,6 +1,6 @@
 {
 	"downloads.header.title": {
-		"message": "وقت الايقاف.",
+		"message": "حان الوقت الإظهار.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
@@ -16,11 +16,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "حمل برنامجنا",
+		"message": "قم بتثبيت تطبيقنا",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "أضف الأضافة إلى متصفح الخاص بك",
+		"message": "أضف ملحقنا إلى متصفحك",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
