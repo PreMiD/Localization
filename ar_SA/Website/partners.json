@@ -100,7 +100,7 @@
 		"description": "Description for AniFlix."
 	},
 	"partners.partner.arenaOfKings": {
-		"message": "ساحة الملوك هي لعبة ساحة سريعة الوتيرة من الجيل القادم التي تلعبت في المتصفح.",
+		"message": "ساحة الملوك هي لعبة ساحة سريعة الوتيرة من الجيل القادم التي تلعب في المتصفح.",
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
@@ -124,7 +124,7 @@
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "التواصل بسهولة مع المستخدمين في الوقت الحقيقي.",
+		"message": "قم بإيصال الحالة في الوقت الحالي بسهولة إلى مستخدميك.",
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.crowdin": {
@@ -132,11 +132,11 @@
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
-		"message": "برنامج ويكي المفتوح المصدر الأقوى والأكثر قابلية للتوسيع.",
+		"message": "برنامج ويكي مفتوح المصدر الأقوى والأكثر قابلية للتوسيع.",
 		"description": "Description for WikiJS."
 	},
 	"partners.partner.fastly": {
-		"message": "خلف أفضل شبكة الويب.",
+		"message": "وراء أفضل في الويب.",
 		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
@@ -180,7 +180,7 @@
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
-		"message": "وصف للميز",
+		"message": "وصف المميز",
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
@@ -192,7 +192,7 @@
 		"description": "Image link field's placeholder. Do not change the image URL."
 	},
 	"partners.apply.form.button.close": {
-		"message": "إغلاق",
+		"message": "غلق",
 		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
@@ -208,7 +208,7 @@
 		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
-		"message": "الحد الأقصى للوصف 150 حرفا.",
+		"message": "الحد الأقصى للوصف 150 رمزا.",
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
