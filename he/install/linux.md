@@ -19,8 +19,8 @@ The installation of the application is very important as the extension can not d
 - **[About](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
+  - דוגמאות (בקרוב)
+  - שאלות נפוצות (בקרוב)
   - Building (soon)
   - [Support](#support)
   - [תודות](#credits)
@@ -46,7 +46,7 @@ The installation of the application is very important as the extension can not d
 <table>
   <tr>
     <th>Deployment</th>
-    <th>Total downloads</th>
+    <th>סה"כ הורדות</th>
     <th>Latest release</th>
   </tr>
   <tr>
@@ -82,7 +82,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### תודות
 
-Thanks to :
+תודה ל :
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
 - @apriluwu for maintaining the Gentoo builds
