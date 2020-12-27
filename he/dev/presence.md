@@ -34,8 +34,8 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## שכפל את הפרויקט
 
 1. פתח מהסוף והקלד ` git clone https://github.com/PreMiD/Presences `.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. בחר תיקיה לפי בחירתך.
+3. פתח אותו בעורך הקוד שלך.
 
 ## יצירת תיקיות וקבצים
 
