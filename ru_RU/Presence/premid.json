@@ -55,6 +55,10 @@
 		"message": "Установка",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "Установка для {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Поиск проблемы",
 		"description": "A page name"
