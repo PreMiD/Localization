@@ -261,8 +261,8 @@ The `multiLanguage` key can be set to the following:
 ##### שכפל את הפרויקט
 
 1. פתח מהסוף והקלד ` git clone https://github.com/PreMiD/Localization `.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. בחר תיקיה לפי בחירתך.
+3. פתח אותו בעורך הקוד שלך.
 
 ##### Creating the file
 
