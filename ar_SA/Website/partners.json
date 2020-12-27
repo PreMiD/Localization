@@ -212,7 +212,7 @@
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "الرجاء إضافة رابط (يجب أن يبدأ ب https:// والانتهاء ب .png)",
+		"message": "الرجاء إضافة رابط (يجب أن يبدأ ب https:// و ينتهي ب .png)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
