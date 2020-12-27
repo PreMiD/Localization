@@ -124,11 +124,11 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "نحن نستخدم الإعلانات لدعم فريقنا والحفاظ على خوادمنا لتوفر لك أفضل تجربة للمستخدم!",
+		"message": "نحن نستخدم الإعلانات لدعم فريقنا والحفاظ على خوادمنا لتوفر لك أفضل تجربة مستخدم!",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "الرجاء تعطيل مربع الإعلانات الخاص بك.",
+		"message": "الرجاء تعطيل مانع الإعلانات الخاص بك.",
 		"description": "Message next to pepe."
 	},
 	"downloads.skipanyway.message1": {
@@ -148,7 +148,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
-		"message": "نحتاجك",
+		"message": "أحتاج إليك :<",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {
