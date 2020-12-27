@@ -42,7 +42,7 @@ Quand le paramètre `appMode` est défini sur `true` et que la presence était c
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Retourne un objet `PresenceData` de ce que la présence affiche.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 

@@ -257,7 +257,7 @@ De `multiLanguage` key kan als volgt worden ingesteld:
 
 `true`: gebruik dit als je alleen strings van de `general.json` bestand en het `<service>.json` bestand gaat gebruiken van de [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: naam van het bestand exclusief de extensie (.json) in [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (exclusief het `general` bestand, omdat het altijd geladen is). Alleen gemeenschappelijke talen van zowel het `general` en het ingevoerde bestand worden weergegeven. `Array<String>`: als u meer dan één bestand in de [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) gebruikt, kunt u alle waarden in een array opgeven (exclusief het `general` bestand, omdat het altijd geladen is). Alleen gemeenschappelijke talen van alle bestanden worden weergegeven.
 
-#### Nieuwe strings toevoegen
+#### Nieuwe tekenreeksen toevoegen
 
 ##### Het project klonen
 
@@ -271,7 +271,7 @@ De `multiLanguage` key kan als volgt worden ingesteld:
 2. Ga in de map `Presence`.
 3. Maak een bestand genaamd `<service>.json`. (Service is de **naam** (geen URL) in kleine letters van de service die u wilt ondersteunen.)
 
-##### De strings toevoegen
+##### De tekenreeksen toevoegen
 
 Elke `string` is een `object` waar van de naam begint met de servicenaam en de zogenaamde stringName met een punt ertussen.
 
