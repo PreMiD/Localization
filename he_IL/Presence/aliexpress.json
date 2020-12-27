@@ -1,4 +1,8 @@
 {
+    "aliexpress.feedback": {
+        "message": "משוב AliExpress",
+        "description": ""
+    },
     "aliexpress.coupons": {
         "message": "צופה קופונים שלהם",
         "description": ""

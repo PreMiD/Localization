@@ -7,8 +7,24 @@
 		"message": "גולש...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "פרק",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "תקליטן",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "פרק",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "פורומים",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "ז'אנר",
 		"description": ""
 	},
 	"general.language": {
@@ -93,6 +109,10 @@
 	},
 	"general.store": {
 		"message": "חנות",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "מקליד הודעה ישירה ל:",
 		"description": ""
 	},
 	"general.typeChannel": {
