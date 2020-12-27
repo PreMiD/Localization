@@ -1,0 +1,34 @@
+{
+    "juniperbot.mainpage": {
+      "message": "Main page",
+      "description": ""
+    },
+    "juniperbot.serverdash": {
+      "message": "In dashboard",
+      "description": "Guild: {name}"
+    },
+    "juniperbot.donate":{
+      "message": "Reads information about the donation",
+      "description": ""
+    },
+    "juniperbot.servers": {
+      "message": "Selects the server",
+      "description": ""
+    },
+    "juniperbot.commands": {
+      "message": "Looks at the list of commands",
+      "description": ""
+    },
+    "juniperbot.stats": {
+      "message": "Looks at the bot's statistics",
+      "description": ""
+    },
+    "juniperbot.usercard": {
+      "message": "Changes the rank card",
+      "description": ""
+    },
+    "juniperbot.feedback": {
+      "message": "Читает:",
+      "description": ""
+    }
+  }
