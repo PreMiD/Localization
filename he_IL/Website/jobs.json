@@ -34,5 +34,9 @@
 	"jobs.header.description": {
 		"message": "האם אתה מוכן לעזור לנו עם תוכנית ה Rich-Presence?",
 		"description": "The second part of the jobs page."
+	},
+	"jobs.benefit6.title": {
+		"message": "גישה מוקדמת",
+		"description": "Benefit card title."
 	}
 }
