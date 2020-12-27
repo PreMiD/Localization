@@ -1,1 +1,18 @@
-{}
+{
+	"report.title": {
+		"message": "דווח על באג",
+		"description": "Text to indicate the page."
+	},
+	"report.os": {
+		"message": "בחר את מערכת ההפעלה והגרסה שלך",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.error": {
+		"message": "נדרש מידע נוסף",
+		"description": "User needs to input more notification"
+	},
+	"report.activebugs": {
+		"message": "באגים פעילים",
+		"description": "Lists users active bugs"
+	}
+}
