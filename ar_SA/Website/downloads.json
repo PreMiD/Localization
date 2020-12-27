@@ -24,7 +24,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "أعد تحميل هذا الموقع وتحقق مما إذا كانت الإضافة متصلة",
+		"message": "أعد تحميل هذا الموقع وتحقق مما إذا كان الملحق متصل",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
@@ -44,7 +44,7 @@
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
-		"message": "تحذير هام:",
+		"message": "تحذير:",
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
@@ -56,7 +56,7 @@
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
-		"message": "عرض التنزيلات",
+		"message": "إظهار التنزيلات",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
@@ -64,11 +64,11 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "الإصدار الحالي من هذا النظام الأساسي هو {0} (هذا الإصدار خاص بنظام Linux ولا ينطبق على الأنظمة الأساسية الأخرى).",
+		"message": "الإصدار الحالي من هذا النظام هو {0} (هذا الإصدار خاص بنظام لينكس ولا ينطبق على الأنظمة الأخرى).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
-		"message": "هذا الإصدار خاص بـ Linux، ولا ينطبق على أنظمة أخرى. الإصدار الرئيسي للتطبيق هو {0}",
+		"message": "هذا الإصدار خاص بـلينكس، ولا ينطبق على أنظمة أخرى. الإصدار الرئيسي للتطبيق هو {0}",
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
@@ -76,15 +76,15 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "عذرًا ، يبدو أنه ليس لديك إمكانية لوصول لخاصية ألفا / بيتا :(",
+		"message": "عذرًا ، يبدو أنه ليس لديك إمكانية الوصول لخاصية ألفا / بيتا :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "يمكنك الانضمام إلى برنامجنا التجريبي ** هنا ** مجانًا. عجلوا! لدينا فقط {0} فتحات متاحة",
+		"message": "يمكنك الانضمام إلى برنامجنا التجريبي **هنا** مجانًا. إستعجل! لدينا فقط {0} أماكن متاحة",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "احصل على إصدارات مبكرة",
+		"message": "الإصدارات المبكرة",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
@@ -92,7 +92,7 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
 	"downloads.warning.message.opera": {
-		"message": "يجب تثبيت ** هذا ** من أجل تثبيت PreMiD من Chrome Webstore.",
+		"message": "يجب تثبيت **هذا** الملحق من أجل تحميل PreMiD من متجر كروم.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
@@ -116,7 +116,7 @@
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
-		"message": "تسجيل دخول",
+		"message": "تسجيل الدخول",
 		"description": "Login button on the downloads page."
 	},
 	"downloads.adsbox.thankyou.title": {
