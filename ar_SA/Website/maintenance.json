@@ -4,7 +4,7 @@
 		"description": "The big text on maintenance page"
 	},
 	"maintenance.heading": {
-		"message": "للأسف نحن نواجه بعض الصعوبات الفنية. سنعود قريبا. آسف للإزعاج.",
+		"message": "للأسف نحن نواجه بعض الصعوبات التقنية. سنعود قريبا. نعتذر للإزعاج.",
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.heading2": {
@@ -12,7 +12,7 @@
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.message": {
-		"message": "!حتى يقوم مطورونا الخاصون بإصلاح ذلك ، لا تتردد في إلقاء نظرة هنا",
+		"message": "حتى يقوم المطورون الخاصون بإصلاح هذا الأمر، لا تتردد في إلقاء نظرة هنا!",
 		"description": "Message on maintenance page"
 	},
 	"maintenance.statuspage": {
