@@ -8,11 +8,11 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> וודא שיש לך את התוסף ** ו ** את היישום מותקנים! 
 > 
 > {.is-warning}
 
-### Are you using the Discord app?
+### האם אתה משתמש באפליקציית Discord?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
 ### Are you using a presence with settings?
@@ -20,19 +20,19 @@ Many presences (including `Twitch` and `SoundCloud`) are affected by an extensio
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### Reload the page
+### טען מחדש את הדף
 You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### Restart your browser
+### הפעל מחדש את הדפדפן שלך
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
 ### Make sure that you have enabled Discord Game Activity in settings
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### הפעל מחדש את PreMiD (יישום)
+![quit.png](/quit.png) עליך להפעיל מחדש את PreMiD לאחר מכן.
 
-### Reload/restart Discord
+### טען/הפעל מחדש את Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Be sure Discord is running NOT as administrator
@@ -41,8 +41,8 @@ Really important. Discord RPC will not work if you run Discord as an administrat
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### השבת את התוספים שלך
+השבת את כל התוספים שלך ובדוק אם זה עובד. אם כן, נסה להפעיל את התוספים שלך שלב אחר שלב וספר לנו איזה תוסף שבר את PreMiD.
 
 ### Restarting your computer
 I hope you know how to restart a computer.
@@ -50,7 +50,7 @@ I hope you know how to restart a computer.
 ### Reinstalling PreMiD
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
-### Manual removal
+### הסדרה ידנית
 Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
@@ -75,5 +75,5 @@ This is a false positive from McAfee and we have reported the issue to them, for
 9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
-### That has not solved my problem
+### זה לא פתר את הבעיה שלי
 Please open a ticket in [#support](https://discord.premid.app/).
