@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** ، عبارة عن اداة بسيطة قابلة لإعادة التطوير تسمح لك بإظهار ما تشاهده وتسمعه على ديسكورد.",
+		"message": "**PreMiD** ، عبارة عن اداة بسيطة قابلة للتعديل تسمح لك بإظهار ما تفعله على الويب على ديسكورد.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -8,7 +8,7 @@
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
-		"message": "تنزيل",
+		"message": "التنزيلات",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
@@ -40,11 +40,11 @@
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "العثور على **وجودك**",
+		"message": "اعثر على الpresence **الخاص بك**",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "لقد أنشأنا امتدادنا بطريقة تسمح لك بإضافة واستخدام التواجد الذي أنشأه الآخرون وإدارته في امتدادنا!",
+		"message": "لقد أنشأنا ملحقنا بطريقة تسمح لك بإضافة واستخدام الpresences التي انشأها الآخرون وإدارتها في ملحقنا!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,27 +52,27 @@
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
-		"message": ". واجهة مستخدم بسيطة",
+		"message": "واجهة مستخدم بسيطة",
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "تعبت من واجهات المستخدم المعقدة؟ لهذا السبب قمنا بإنشاء ومحاولة الحفاظ على واجهة المستخدم الخاصة بنا بأكبر قدر ممكن من البساطة والمفيدة مع ميزات هامة مثل:",
+		"message": "تعبت من واجهات المستخدم المعقدة؟ لهذا السبب قمنا بإنشاء ونحاول الحفاظ على واجهة المستخدم الخاصة بنا بأكبر قدر ممكن من البساطة والإفادة مع ميزات هامة مثل:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": ". إعدادات التطبيق والأضافة",
+		"message": "إعدادات التطبيق والملحق",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": ". إدارة الإضافات",
+		"message": "إدارة الpresences",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": ". الترتيب حسب الفئة",
+		"message": "الترتيب حسب الفئة",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
-		"message": ". دعم سريع",
+		"message": "دعم سريع",
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
