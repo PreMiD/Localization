@@ -30,9 +30,5 @@
     "juniperbot.usercard": {
       "message": "Changes the rank card",
       "description": "Rating card editing page"
-    },
-    "juniperbot.feedback": {
-      "message": "Reading:",
-      "description": "Reads the page"
     }
   }
