@@ -1,7 +1,7 @@
 {
     "juniperbot.mainpage": {
       "message": "Main page",
-      "description": ""
+      "description": "Home page of the site"
     },
     "juniperbot.serverdash": {
       "message": "In dashboard",
@@ -9,26 +9,26 @@
     },
     "juniperbot.donate":{
       "message": "Reads information about the donation",
-      "description": ""
+      "description": "Page with information about donate"
     },
     "juniperbot.servers": {
       "message": "Selects the server",
-      "description": ""
+      "description": "Server selection page for configuration"
     },
     "juniperbot.commands": {
       "message": "Looks at the list of commands",
-      "description": ""
+      "description": "Page with a list of bot commands"
     },
     "juniperbot.stats": {
       "message": "Looks at the bot's statistics",
-      "description": ""
+      "description": "Page with bot statistics"
     },
     "juniperbot.usercard": {
       "message": "Changes the rank card",
-      "description": ""
+      "description": "Rating card editing page"
     },
     "juniperbot.feedback": {
       "message": "Reading:",
-      "description": ""
+      "description": "Reads the page"
     }
   }
