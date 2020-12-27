@@ -1,6 +1,6 @@
 ---
 title: פתרון תקלות
-description: Everything to solve your problem
+description: הכל כדי לפתור את הבעיה שלך
 published: true
 date: 2020-12-15T20:00:08.631Z
 tags:
