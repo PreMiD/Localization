@@ -1,6 +1,6 @@
 {
 	"store.search.notFound": {
-		"message": "لا نستطيع العثور على هذا الوجود...",
+		"message": "لم نتمكن من العثور على هذا الpresence...",
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
@@ -8,11 +8,11 @@
 		"description": "Error (404) message"
 	},
 	"error.code.4": {
-		"message": "انت تبحث على الوجود غير موجود او محذوف.",
+		"message": "انت تبحث على presence غير موجود او محذوف.",
 		"description": "Error (4) message"
 	},
 	"error.code.500": {
-		"message": "هوناك خطاء في الخادم.",
+		"message": "حدث خطأ داخلي في الخادم.",
 		"description": "Error (500) message"
 	},
 	"error.page.details": {
@@ -28,7 +28,7 @@
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
-		"message": "أن ID المطور الذي تبحث عنه صحيح.",
+		"message": "أن أيدي المطور الذي تبحث عنه صحيح.",
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
