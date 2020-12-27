@@ -1,6 +1,6 @@
 {
 	"store.message.error": {
-		"message": "الأضافة غير متصله.",
+		"message": "الملحق غير متصل.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
@@ -8,51 +8,51 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "هذه الأضافة مشهوره جدا بين المستخدمين.",
+		"message": "هذا الpresence مشهور جدا بين المستخدمين.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
-		"message": "شريك في الأضافة",
+		"message": "Presence شريك",
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
-		"message": "تطلب هذا الأضافة خطوات إضافية للعمل، يرجى التحقق من صفحته للحصول على مزيد من المعلومات.",
+		"message": "يتطلب هذا الpresence خطوات إضافية للعمل، يرجى التحقق من صفحته للحصول على مزيد من المعلومات.",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
-		"message": "البحث على اضافة",
+		"message": "البحث على presence",
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
-		"message": "اضافة واجهه",
+		"message": "اضافة presence",
 		"description": "Button that will appear on hover after extension is installed."
 	},
 	"store.card.presence.remove": {
-		"message": "إزالة الإضافة",
+		"message": "إزالة presence",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
-		"message": "ويتم تمكين هذا الحضور تلقائياً عند زيارة موقعه.",
+		"message": "يتم تشغيل هذا الpresence تلقائياً عند زيارة موقعه.",
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
-		"message": "ترشيح/تصفيه",
+		"message": "تصفيه",
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "أظهار الأكثر استخداما",
+		"message": "الأكثر استخداما أولا",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "عرض NSFW",
+		"message": "عرض المحتوى الغير لائق",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "فقط الوجوه المعجبة",
+		"message": "فقط الpresences المعجبة",
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
-		"message": "اظهار الأضافات المضافة",
+		"message": "اظهار الpresences المضافة",
 		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
@@ -92,7 +92,7 @@
 		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
-		"message": "اضغط لازالة الفلتر",
+		"message": "اضغط لازالة التصفيه",
 		"description": "Remove message for active search filters."
 	}
 }
