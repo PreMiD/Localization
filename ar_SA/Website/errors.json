@@ -24,7 +24,7 @@
 		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
-		"message": "لم يتم العثور على هذا المطور، تأكد من",
+		"message": "لم يتم العثور على هذا المستخدم، تأكد من",
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
@@ -32,15 +32,15 @@
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "أن المستخدم قد أنشأ ما يكفي من وجود ولديه دور المطور الموجود في خادم Discord لدينا.",
+		"message": "أن المستخدم قد أنشأ ما يكفي من الpresences ولديه رول Presence Developer في سيرفر ديسكورد لدينا.",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
-		"message": "تفضل لي الديسكورد الخاص بنا الي كي ترا من يوجه المشكلة معك",
+		"message": "إذا كان الآخرون يواجهون نفس المشكلة على سيرفر ديسكورد الخاص بنا.",
 		"description": "Check if the error is also happening to others message."
 	},
 	"user.notFound.message4": {
-		"message": "اذا كنت تتوقع ان هذا خطاء الرجاء التوجه الي الدسكورد",
+		"message": "إذا كنت تعتقد أن هذا خطأ، يرجى التواصل معنا على [سيرفر الديسكورد].",
 		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
