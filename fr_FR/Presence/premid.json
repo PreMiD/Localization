@@ -79,8 +79,32 @@
 		"message": "Développement de la presence",
 		"description": "A page name"
 	},
+	"premid.pagePresenceGuide": {
+		"message": "Règlement de Presence",
+		"description": "A page name"
+	},
 	"premid.pagePresenceClass": {
 		"message": "Classe de presence",
 		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Comprendre l'iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Configurer metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Configurer TypeScript",
+		"description": "A page name"
+	},
+	"premid.incidentHistory": {
+		"message": "Historique d'incidents",
+		"description": "A page name of our statuspage"
+	},
+	"premid.uptimeHistory": {
+		"message": "Historique de la disponibilité",
+		"description": "A page name of our statuspage"
 	}
 }
