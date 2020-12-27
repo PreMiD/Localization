@@ -4,7 +4,7 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "انضم إلى المشاهدة واحصل على بعض الفوائد فقط للشريك لإظهار كم من المساحة لديك.",
+		"message": "إنضم إلى العائلة واحصل على بعض الفوائد الخاصة بالشركاء لإظهار كم من المقدار لديك.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
@@ -16,7 +16,7 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "تواجد مجاني خاص بك",
+		"message": "الpresence المجاني الخاص بك",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "يستخدم Presence الخاص بك تلقائيًا عندما يقوم شخص ما بزيارة موقع الويب الخاص بك.",
+		"message": "يستخدم الpresence الخاص بك تلقائيًا عندما يقوم شخص ما بزيارة موقع الويب الخاص بك.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -44,15 +44,15 @@
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
-		"message": "مكان رديء على صفحة شركائنا.",
+		"message": "مكان في صفحة شركائنا.",
 		"description": "Description for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
-		"message": "كن مشهوراً",
+		"message": "كن مشهور",
 		"description": "Heading for the fifth benefit."
 	},
 	"partners.why.benefit5.description": {
-		"message": "مميز على وسائل التواصل الاجتماعي الخاص بنا.",
+		"message": "مميز على وسائل التواصل الاجتماعي الخاصة بنا.",
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
@@ -64,7 +64,7 @@
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "نحن نضع في أنظارنا على المجتمعات المتنامية والأشياء المثيرة حول الإنترنت. TL;DR يجب أن تستخدم PreMiD بالفعل وأن تكون مستعدا لنشره على المزيد من الحزم عبر الإنترنت. والقبول في البرنامج هو أمر نوعي للغاية وسيتفاوت من مرشح إلى آخر.",
+		"message": "نحن نضع في أنظارنا المجتمعات النامية والأشياء المثيرة حول الإنترنت. TL;DR يجب أن تستخدم PreMiD بالفعل وأن تكون مستعدا لنشره على المزيد من الحزم عبر الإنترنت. والقبول في البرنامج هو أمر نوعي للغاية وسيتفاوت من مرشح إلى آخر.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
@@ -76,19 +76,19 @@
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "قدّم الآن!",
+		"message": "قدم الآن!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
-		"message": "دعونا نذهب إلى السماء معاً!",
+		"message": "دعنا نذهب إلى السماء معاً!",
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "إذا كنت ترغب في الحصول على وظيفة مباشرة في PreMiD ، فقم بإلقاء نظرة على **إعلانات الوظائف الخاصة بنا**.",
+		"message": "إذا كنت ترغب في الحصول على وظيفة مباشرة في PreMiD، فقم بإلقاء نظرة على **إعلانات الوظائف الخاصة بنا**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
-		"message": "داعمين",
+		"message": "الرعاة",
 		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
