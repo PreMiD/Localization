@@ -1,6 +1,6 @@
 {
 	"report.title": {
-		"message": "الابلاغ عن الاخطاء",
+		"message": "الإبلاغ عن خطأ",
 		"description": "Text to indicate the page."
 	},
 	"report.bugcount": {
@@ -8,11 +8,11 @@
 		"description": "Amount of bug reports user can send"
 	},
 	"report.info": {
-		"message": "الإبلاغ عن الأخطاء هو للأخطاء الموجودة داخل موقع PreMiD وسيرفر ديسكورد PreMiD. يجب الإبلاغ عن الأخطاء الخاصة بالوجود لمنشئ الحضور. إبلاغ الأخطاء باللغة الإنجليزية فقط.",
+		"message": "الإبلاغ عن الأخطاء هو للأخطاء الموجودة داخل موقع PreMiD وسيرفر ديسكورد PreMiD. يجب الإبلاغ عن الأخطاء الخاصة بالpresence لصانع الpresence. إبلاغ الأخطاء باللغة الإنجليزية فقط.",
 		"description": "Tells the user about submitting a bug"
 	},
 	"report.overview": {
-		"message": "فدم وصف واضح و موجز لماهو الخطأ.",
+		"message": "قدم وصف واضح و موجز لما هو الخطأ.",
 		"description": "Text for the user to write a brief of the bug information."
 	},
 	"report.os": {
@@ -32,7 +32,7 @@
 		"description": "Button to send the information inputed."
 	},
 	"report.toomany": {
-		"message": "لديك الكثير من الأخطاء النشطة. انتظر مراجعة الأحطاء التي أرسلتها. يتمم التحقق من الأخطاء إسبوعياً، كن صبورًا.",
+		"message": "لديك الكثير من الأخطاء النشطة. انتظر مراجعة الأخطاء التي أرسلتها. يتم التحقق من الأخطاء إسبوعياً، كن صبورًا.",
 		"description": "User has too many active reports"
 	},
 	"report.toomany.alert": {
@@ -44,11 +44,11 @@
 		"description": "Success notification"
 	},
 	"report.error": {
-		"message": "معلومات جانبية",
+		"message": "مطلوب المزيد من المعلومات",
 		"description": "User needs to input more notification"
 	},
 	"report.error.unauth": {
-		"message": "الرجاء التحقق من حسابك في الدسكورد",
+		"message": "الرجاء تحقيق حسابك في الديسكورد",
 		"description": "Users Discord not verified"
 	},
 	"report.activebugs": {
