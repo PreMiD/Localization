@@ -72,7 +72,7 @@
 		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
-		"message": "Probeert de v{0} API te begrijpen",
+		"message": "v{0} API begrijpen",
 		"description": "A page name // {0} will be replaced with the version number."
 	},
 	"premid.pagePresenceDev": {
@@ -80,7 +80,7 @@
 		"description": "A page name"
 	},
 	"premid.pagePresenceGuide": {
-		"message": "Presence Richtlijnen",
+		"message": "Presence-richtlijnen",
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
@@ -92,7 +92,7 @@
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
-		"message": "Probeert iframes te begrijpen",
+		"message": "Iframes begrijpen",
 		"description": "A page name"
 	},
 	"premid.pageMetadata": {
@@ -104,11 +104,11 @@
 		"description": "A page name"
 	},
 	"premid.incidentHistory": {
-		"message": "Incident geschiedenis",
+		"message": "Incidentengeschiedenis",
 		"description": "A page name of our statuspage"
 	},
 	"premid.uptimeHistory": {
-		"message": "Uptime geschiedenis",
+		"message": "Beschikbaarheidsgeschiedenis",
 		"description": "A page name of our statuspage"
 	}
 }
