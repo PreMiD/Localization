@@ -60,7 +60,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "معزز",
+		"message": "داعم",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
