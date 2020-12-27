@@ -7,12 +7,12 @@ tags:
 editor: markdown
 ---
 
-PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status. היא תומכת בפלטפורמות רבות ושונות ותומכת במספר משתמשים הצופים באותו תוכן בו זמנית בעדכון הקרוב.
+PreMiD הוא כלי פשוט וניתן להגדרה המאפשר לך להראות מה אתה עושה באינטרנט דרך סטטוס ה- Discord שלך. היא תומכת בפלטפורמות רבות ושונות ותומכת במספר משתמשים הצופים באותו תוכן בו זמנית בעדכון הקרוב.
 
 # למה אתה בחרת להוריד PreMiD
 - כל הפרויקט שלנו הוא קוד פתוח! אנו רוצים לעבוד עם המשתמשים שלנו - לא נגדם.
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. מופעל על ידי [ Discord](https://discordapp.com/).
+- תכונה גדולה, הנקראת WatchParties, מגיעה ל- PreMiD. עם הזמנות למשחק וצפייה והאזנה בו זמנית. מופעל על ידי [ Discord](https://discordapp.com/).
 
-# Core features
+# תכונות עיקריות
 - Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+- מעניק שליטה מלאה על Presences.
