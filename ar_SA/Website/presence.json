@@ -24,7 +24,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
 	"presence.sections.information.likes": {
-		"message": "الروابط",
+		"message": "الإعجابات",
 		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
@@ -36,7 +36,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
 	},
 	"presence.sections.information.supportedurls": {
-		"message": "المواقع المدعمة",
+		"message": "المواقع المدعومة",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
 	"presence.sections.information.contributors": {
