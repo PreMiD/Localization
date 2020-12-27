@@ -9,13 +9,13 @@ tags:
 The installation of the extension is very important as the application can not do anything by itself.
 
 # התקן
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. עבור לדף ההורדות שלנו על ידי [לחיצה כאן](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
 5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+6. בחר את הקובץ שהורדת לאחרונה.
+7. קבל את ההתקנה על ידי לחיצה על **הוסף**.
 
 > Do not forget to [add the **application**](/install). 
 > 
