@@ -5,8 +5,12 @@
     },
     "juniperbot.serverdash": {
       "message": "In dashboard",
-      "description": "Guild: {name}"
+      "description": "Server configuration page"
     },
+    "juniperbot.serverdashname": {
+      "message": "Guild: {name}",
+      "description": "Guild name"
+    },    
     "juniperbot.donate":{
       "message": "Reads information about the donation",
       "description": "Page with information about donate"
