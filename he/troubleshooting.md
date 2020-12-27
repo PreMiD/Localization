@@ -35,11 +35,11 @@ You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (Mac
 ### טען/הפעל מחדש את Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### ודא כי דיסקורד לא פועל כמנהל מערכת
+מאוד חשוב. דיסקורד RPC לא יעבוד אם אתה מפעיל את דיסקורד כמנהל מערכת.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### בדוק אם במחשב שלך פועל אנטי-וירוס או חומת אש
+לפעמים יישומי אנטי-וירוס וחומות אש חוסמות יישומים שיוצרים/מאחרים שרתים או מתחברים לאינטרנט. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
 ### השבת את התוספים שלך
 השבת את כל התוספים שלך ובדוק אם זה עובד. אם כן, נסה להפעיל את התוספים שלך שלב אחר שלב וספר לנו איזה תוסף שבר את PreMiD.
@@ -57,7 +57,7 @@ MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``
 ### On Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
-### McAfee detected PreMiD as virus (Windows)
+### McAfee זיהה את PreMiD כוירוס (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
 > If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
@@ -65,7 +65,7 @@ This is a false positive from McAfee and we have reported the issue to them, for
 > {.is-warning}
 
 1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
+2. לחץ על "פריטים בהסגר" (שני מלמעלה).
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
