@@ -15,7 +15,7 @@
       "message": "Guild: {0}",
       "description": "Guild name"
     },    
-    "juniperbot.donate":{
+    "juniperbot.donate": {
       "message": "Reading information about the donation plans",
       "description": "Page with information about donation plans"
     },
