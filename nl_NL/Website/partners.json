@@ -139,6 +139,10 @@
 		"message": "Een godin die als een leuke Discord bot speelt!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM laat je gratis naar 15+ muziek streams luisteren - non-stop. Met de beste en nieuwste muziek alleen voor jou!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Agile lokalisatie voor technologiebedrijven.",
 		"description": "Description for Crowdin."
