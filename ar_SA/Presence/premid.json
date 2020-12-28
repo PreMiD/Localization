@@ -20,7 +20,7 @@
 		"description": "A page name"
 	},
 	"premid.pageDownloads": {
-		"message": "تحميل",
+		"message": "التنزيلات",
 		"description": "A page name"
 	},
 	"premid.pageStore": {
@@ -64,11 +64,11 @@
 		"description": "A page name"
 	},
 	"premid.pageApi": {
-		"message": "API",
+		"message": "واجهة برمجة التطبيقات (API)",
 		"description": "A page name"
 	},
 	"premid.pagePresenceDev": {
-		"message": "تطوير البرزنس",
+		"message": "تطوير الpresence",
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
