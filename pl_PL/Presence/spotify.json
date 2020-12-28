@@ -44,7 +44,7 @@
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.madeForYou": {
-		"message": "\"Zrobione dla Ciebie\"",
+		"message": "\"Wykonane dla Ciebie\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
 	},
 	"spotify.playlists": {
