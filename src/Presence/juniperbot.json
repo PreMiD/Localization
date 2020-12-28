@@ -12,11 +12,11 @@
       "description": "Server configuration page"
     },
     "juniperbot.serverdashname": {
-      "message": "Guild: {name}",
+      "message": "Guild: {0}",
       "description": "Guild name"
     },    
     "juniperbot.donate":{
-      "message": "Reading information about donation plans",
+      "message": "Reading information about the donation plans",
       "description": "Page with information about donation plans"
     },
     "juniperbot.servers": {
@@ -36,7 +36,7 @@
       "description": "Rating card customization page"
     },
     "juniperbot.cookies": {
-      "message": "Reads about the site's cookies",
-      "description": "Reads about the site's cookies"
+      "message": "Reading about the site's cookies",
+      "description": "Reading about the site's cookies"
     }
   }
