@@ -20,7 +20,7 @@
         "description": ""
     },
     "amazon.pets": {
-        "message": "Przegląda swoje zamówienia",
+        "message": "Przegląda swoje zwierzęta",
         "description": ""
     },
     "amazon.catergoriesAll": {
@@ -64,7 +64,7 @@
         "description": ""
     },
     "amazon.store": {
-        "message": "Wyświetla sklep:",
+        "message": "Przegląda sklep:",
         "description": ""
     },
     "amazon.primeVid": {

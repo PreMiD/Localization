@@ -24,11 +24,11 @@
         "description": "Server selection page"
     },
     "juniperbot.commands": {
-        "message": "Bekijkt de lijst van commando's",
+        "message": "Bekijkt de commandolijst",
         "description": "Page with the list of bot's commands"
     },
     "juniperbot.stats": {
-        "message": "Bekijkt de bot's statistieken",
+        "message": "Bekijkt botstatistieken",
         "description": "Page with bot's statistics"
     },
     "juniperbot.usercard": {

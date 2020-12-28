@@ -1,1 +1,22 @@
-{}
+{
+    "juniperbot.mainpage": {
+        "message": "Página principal",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Viendo la lista de servers:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "En el panel de control",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Servidor: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Leyendo información acerca de los planes de donación",
+        "description": "Page with information about donation plans"
+    }
+}

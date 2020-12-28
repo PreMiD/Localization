@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "Czyta PW od:",
+		"message": "Czyta wiadomości prywatne od:",
 		"description": ""
 	},
 	"general.readingAbout": {
@@ -180,7 +180,7 @@
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "Ogląda serie:",
+		"message": "Oglądanie programu:",
 		"description": ""
 	},
 	"general.viewAccount": {

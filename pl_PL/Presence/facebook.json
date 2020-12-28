@@ -4,7 +4,7 @@
         "description": ""
     },
     "facebook.vcall": {
-        "message": "W wideorozmowię z:",
+        "message": "W rozmowie wideo z:",
         "description": ""
     },
     "facebook.userHidden": {
@@ -12,7 +12,7 @@
         "description": "Shows when you dont want to show who you are calling/texting."
     },
     "facebook.writing": {
-        "message": "Tworzy wiadomość",
+        "message": "Pisze wiadomość",
         "description": ""
     },
     "facebook.userAbout": {
@@ -40,7 +40,7 @@
         "description": ""
     },
     "facebook.userVids": {
-        "message": "Wyświetla filmy użytkownika:",
+        "message": "Wyświetla filmy stworzone przez:",
         "description": ""
     },
     "facebook.browse": {
