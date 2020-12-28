@@ -52,7 +52,7 @@
 		"description": ""
 	},
 	"general.merch": {
-		"message": "Skelp",
+		"message": "Sklep",
 		"description": ""
 	},
 	"general.page": {
@@ -60,7 +60,7 @@
 		"description": ""
 	},
 	"general.paused": {
-		"message": "Wstrzymano",
+		"message": "Zatrzymano",
 		"description": ""
 	},
 	"general.playing": {
@@ -100,7 +100,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "Wyszukiwanie czegoś...",
+		"message": "Wyszukiwanie...",
 		"description": ""
 	},
 	"general.search": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Pisze PW do:",
+		"message": "Pisze wiadomość prywatną do:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -144,7 +144,7 @@
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Przygląda stronę główną",
+		"message": "Przegląda stronę główną",
 		"description": ""
 	},
 	"general.viewList": {
@@ -184,7 +184,7 @@
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "Ogląda swoje konto",
+		"message": "Przegląda swoje konto",
 		"description": ""
 	},
 	"general.viewThread": {
@@ -204,7 +204,7 @@
 		"description": ""
 	},
 	"general.watchingLive": {
-		"message": "Ogląda transmisję",
+		"message": "Ogląda transmisję na żywo",
 		"description": ""
 	},
 	"general.watching": {
@@ -220,7 +220,15 @@
 		"description": "A page name"
 	},
 	"general.terms": {
-		"message": "Zasady użytkowania",
+		"message": "Warunki korzystania z usług",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Zapętlanie wszystkich piosenek",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Pętla włączona",
+		"description": ""
 	}
 }
