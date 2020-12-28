@@ -4,8 +4,8 @@
       "description": "Home page of the site"
     },
     "juniperbot.leaderboard": {
-      "message": "Main page",
-      "description": "Home page of the site"
+      "message": "Watching server's leaderboard:",
+      "description": "Guild leaderboard page"
     }, 
     "juniperbot.serverdash": {
       "message": "In dashboard",
@@ -16,35 +16,27 @@
       "description": "Guild name"
     },    
     "juniperbot.donate":{
-      "message": "Reads information about the donation",
-      "description": "Page with information about donate"
+      "message": "Reading information about donation plans",
+      "description": "Page with information about donation plans"
     },
     "juniperbot.servers": {
-      "message": "Selects the server",
-      "description": "Server selection page for configuration"
+      "message": "Selecting server",
+      "description": "Server selection page"
     },
     "juniperbot.commands": {
-      "message": "Looks at the list of commands",
-      "description": "Page with a list of bot commands"
+      "message": "Looking at the list of commands",
+      "description": "Page with the list of bot's commands"
     },
     "juniperbot.stats": {
-      "message": "Looks at the bot's statistics",
-      "description": "Page with bot statistics"
+      "message": "Looking at bot's statistics",
+      "description": "Page with bot's statistics"
     },
     "juniperbot.usercard": {
-      "message": "Changes the rank card",
-      "description": "Rating card editing page"
-    },
-    "juniperbot.terms": {
-      "message": "Reads the Terms of use",
-      "description": "Reads the Terms of use"
-    },
-    "juniperbot.privacy": {
-      "message": "Reads the privacy Policy",
-      "description": "Reads the privacy Policy"
+      "message": "Customizing rank card",
+      "description": "Rating card customization page"
     },
     "juniperbot.cookies": {
-      "message": "Reads the privacy Policy",
-      "description": "Reads the privacy Policy"
+      "message": "Reads about the site's cookies",
+      "description": "Reads about the site's cookies"
     }
   }
