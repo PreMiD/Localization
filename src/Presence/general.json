@@ -222,5 +222,13 @@
 	"general.terms": {
 		"message": "Terms of Services",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Looping all songs",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "On loop",
+		"description": ""
 	}
 }
