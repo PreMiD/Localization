@@ -4,7 +4,7 @@
         "description": "Home page of the site"
     },
     "juniperbot.leaderboard": {
-        "message": "Viendo la lista de servers:",
+        "message": "Viendo la lista de servidores:",
         "description": "Guild leaderboard page"
     },
     "juniperbot.serverdash": {
@@ -30,6 +30,10 @@
     "juniperbot.stats": {
         "message": "Mirando las estadísticas del bot",
         "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Personalizando tarjeta de rango",
+        "description": "Rating card customization page"
     },
     "juniperbot.cookies": {
         "message": "Leyendo acerca de las cookies del sitio",
