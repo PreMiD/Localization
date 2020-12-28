@@ -48,7 +48,7 @@
         "description": ""
     },
     "1337x.tvTorrents": {
-        "message": "Przegląda torrenty z telewizji",
+        "message": "Przegląda telewizyjne torrenty",
         "description": ""
     },
     "1337x.xxxTorrents": {
@@ -56,7 +56,7 @@
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
-        "message": "Przesyła coś...",
+        "message": "Coś przesyła...",
         "description": ""
     },
     "1337x.rules": {
