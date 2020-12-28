@@ -3,6 +3,10 @@
       "message": "Main page",
       "description": "Home page of the site"
     },
+    "juniperbot.leaderboard": {
+      "message": "Main page",
+      "description": "Home page of the site"
+    }, 
     "juniperbot.serverdash": {
       "message": "In dashboard",
       "description": "Server configuration page"
@@ -30,5 +34,17 @@
     "juniperbot.usercard": {
       "message": "Changes the rank card",
       "description": "Rating card editing page"
+    },
+    "juniperbot.terms": {
+      "message": "Reads the Terms of use",
+      "description": "Reads the Terms of use"
+    },
+    "juniperbot.privacy": {
+      "message": "Reads the privacy Policy",
+      "description": "Reads the privacy Policy"
+    },
+    "juniperbot.cookies": {
+      "message": "Reads the privacy Policy",
+      "description": "Reads the privacy Policy"
     }
   }
