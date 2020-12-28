@@ -139,6 +139,10 @@
 		"message": "A goddess who plays as a fun Discord Bot!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM let's you listen to 15+ music streams for free - nonstop. With the best and latest music only for you!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Agile localization for tech companies.",
 		"description": "Description for Crowdin."
