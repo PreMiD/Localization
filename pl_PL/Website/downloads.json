@@ -76,7 +76,7 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "O nie, wygląda na to, że nie masz dostępu do alfa/beta :(",
+		"message": "O nie, wygląda na to, że nie masz dostępu do alpha/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
@@ -124,11 +124,11 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "Używamy reklam, aby wspierać nasz zespół i utrzymywać nasze serwery, ponadto w celu zapewnienia najlepszej jakości obsługi!",
+		"message": "Używamy reklam, aby wspierać nasz zespół i utrzymywać nasze serwery oraz aby zaoferować najlepszą jakość obsługi!",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Wyłącz proszę blokadę reklam. (AdBlock)",
+		"message": "Wyłącz adblocka, bardzo prosimy.",
 		"description": "Message next to pepe."
 	},
 	"downloads.skipanyway.message1": {

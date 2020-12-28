@@ -1,1 +1,18 @@
-{}
+{
+    "juniperbot.mainpage": {
+        "message": "Startseite",
+        "description": "Home page of the site"
+    },
+    "juniperbot.serverdash": {
+        "message": "Im Dashboard",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Gilde: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.servers": {
+        "message": "Server auswählen",
+        "description": "Server selection page"
+    }
+}
