@@ -31,18 +31,6 @@
 		"message": "همکاران",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "سیاست کوکی‌ ها",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "سیاست حفظ حریم خصوصی",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "شرایط خدمات",
-		"description": "A page name"
-	},
 	"premid.pageSysReq": {
 		"message": "بیش نیاز های سیستم",
 		"description": "A page name"
