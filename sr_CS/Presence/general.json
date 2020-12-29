@@ -195,6 +195,10 @@
 		"message": "Gleda:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Gleda stranu:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Gleda video",
 		"description": ""
@@ -217,6 +221,10 @@
 	},
 	"general.terms": {
 		"message": "Uslovi korišćenja",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Politika kolačića",
 		"description": "A page name"
 	}
 }
