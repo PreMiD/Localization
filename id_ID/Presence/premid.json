@@ -31,18 +31,6 @@
 		"message": "Mitra",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Kebijakan Cookie",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Kebijakan pribadi",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Ketentuan Layanan",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "Tentang PreMiD",
 		"description": "A page name"
