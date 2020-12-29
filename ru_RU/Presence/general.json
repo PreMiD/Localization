@@ -199,6 +199,10 @@
 		"message": "Смотрит:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Смотрит страницу:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Просмотр видео",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Пользовательское соглашение",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика cookies",
 		"description": "A page name"
 	}
 }
