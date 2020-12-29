@@ -52,7 +52,7 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Iniciar Presença",
+		"message": "Carregar Presença",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
