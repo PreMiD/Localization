@@ -199,6 +199,10 @@
 		"message": "Visar:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Visar sida:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Tittar på en video",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Användarvillkor",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie Policy",
 		"description": "A page name"
 	}
 }
