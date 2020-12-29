@@ -199,6 +199,10 @@
 		"message": "يشاهد:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "يشاهد الصفحة:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "يشاهد فيديو",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "شروط الخدمة",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "سياسة ملفات تعريف الإرتباط",
 		"description": "A page name"
 	}
 }

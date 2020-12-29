@@ -31,18 +31,6 @@
 		"message": "Partners",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Cookiebeleid",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Privacybeleid",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Algemene voorwaarden",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "Over PreMiD",
 		"description": "A page name"

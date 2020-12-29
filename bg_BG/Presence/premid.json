@@ -31,18 +31,6 @@
 		"message": "Партньори",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Политика на бисквитките",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Политика за защита на личните данни",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Условия за Ползване",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "За PreMiD",
 		"description": "A page name"

@@ -147,6 +147,10 @@
 		"message": "보는 중:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "페이지 보는중:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "동영상 시청",
 		"description": ""
@@ -169,6 +173,10 @@
 	},
 	"general.terms": {
 		"message": "이용 약관",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "쿠키 정책",
 		"description": "A page name"
 	}
 }

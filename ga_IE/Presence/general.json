@@ -82,5 +82,13 @@
 	"general.store": {
 		"message": "Stór",
 		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Leathanach féachana:",
+		"description": ""
+	},
+	"general.cookie": {
+		"message": "Beartas Fianán",
+		"description": "A page name"
 	}
 }

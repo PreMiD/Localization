@@ -31,18 +31,6 @@
 		"message": "Partnerler",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Çerez Politikası",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Gizlilik Politikası",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Kullanım Koşulları",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "PreMiD Hakkında",
 		"description": "A page name"

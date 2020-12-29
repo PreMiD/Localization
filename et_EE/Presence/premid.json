@@ -31,10 +31,6 @@
 		"message": "Partnerid",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Küpsise kasutamise põhimõtte",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "PreMiD'i kohta",
 		"description": "A page name"

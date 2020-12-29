@@ -31,18 +31,6 @@
 		"message": "파트너",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "쿠키 정책",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "개인정보 보호 정책",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "이용 약관",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "PreMiD에 대하여",
 		"description": "A page name"

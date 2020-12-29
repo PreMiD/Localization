@@ -15,14 +15,6 @@
 		"message": "שותפים",
 		"description": "A page name"
 	},
-	"premid.pagePrivacy": {
-		"message": "מדיניות פרטיות",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "תנאי השירות",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "קצת מידע על PreMiD",
 		"description": "A page name"

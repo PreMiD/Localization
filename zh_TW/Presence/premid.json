@@ -31,18 +31,6 @@
 		"message": "合作夥伴",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Cookie 政策",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "隱私權政策",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "服務條款",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "關於 PreMiD",
 		"description": "A page name"

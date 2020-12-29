@@ -22,5 +22,13 @@
 	"general.store": {
 		"message": "Verslun",
 		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Skoðar síðu:",
+		"description": ""
+	},
+	"general.cookie": {
+		"message": "Vafraköku Upplýsingar",
+		"description": "A page name"
 	}
 }

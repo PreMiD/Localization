@@ -31,18 +31,6 @@
 		"message": "ผู้ร่วมมือ",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "นโยบายเกี่ยวกับคุกกี้",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "นโยบายความเป็นส่วนตัว",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "เงื่อนไขการใช้บริการ",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "เกี่ยวกับ PreMiD",
 		"description": "A page name"

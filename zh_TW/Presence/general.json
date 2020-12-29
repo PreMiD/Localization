@@ -135,6 +135,10 @@
 		"message": "正在檢視:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "正在檢視頁面:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "正在觀看影片",
 		"description": ""
@@ -157,6 +161,10 @@
 	},
 	"general.terms": {
 		"message": "服務條款",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie 政策",
 		"description": "A page name"
 	}
 }

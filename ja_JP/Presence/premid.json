@@ -31,18 +31,6 @@
 		"message": "パートナー",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Cookie のポリシー",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "プライバシーポリシー",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "利用規約",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "PreMiDについて",
 		"description": "A page name"

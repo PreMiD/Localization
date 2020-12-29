@@ -31,18 +31,6 @@
 		"message": "الشركاء",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "سياسة ملفات تعريف الإرتباط",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "سياسة الخصوصية",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "شروط الخدمة",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "حول PreMiD",
 		"description": "A page name"

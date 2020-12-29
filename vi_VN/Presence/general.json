@@ -199,6 +199,10 @@
 		"message": "Đang xem:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Đang xem trang:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Đang xem video",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Điều khoản sử dụng",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Chính sách về Cookie",
 		"description": "A page name"
 	}
 }

@@ -199,6 +199,10 @@
 		"message": "Regarde:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Regarde la page :",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Regarde une vidéo",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Conditions d'utilisation",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Politique de Cookies",
 		"description": "A page name"
 	}
 }

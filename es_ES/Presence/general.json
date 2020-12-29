@@ -199,6 +199,10 @@
 		"message": "Viendo:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Viendo página:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Viendo un video",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Términos de Servicio",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Política de cookies",
 		"description": "A page name"
 	},
 	"general.repeatAll": {

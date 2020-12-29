@@ -199,6 +199,10 @@
 		"message": "Гледа:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Гледа страница:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Гледа видео",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Условия за Ползване",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика на бисквитките",
 		"description": "A page name"
 	}
 }
