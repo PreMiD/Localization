@@ -199,6 +199,10 @@
 		"message": "Melihat:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Melihat halaman:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Menonton video",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Terma Perkhidmatan",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Polisi Kuki",
 		"description": "A page name"
 	}
 }
