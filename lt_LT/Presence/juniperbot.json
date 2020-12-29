@@ -19,6 +19,14 @@
         "message": "Skaitoma informacija apie donacijų planus",
         "description": "Page with information about donation plans"
     },
+    "juniperbot.servers": {
+        "message": "Pasirenkamas serveris",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Peržiūrimas komandų sąrašas",
+        "description": "Page with the list of bot's commands"
+    },
     "juniperbot.stats": {
         "message": "Stebimos bot'o statistikos",
         "description": "Page with bot's statistics"
@@ -26,5 +34,9 @@
     "juniperbot.usercard": {
         "message": "Tinkinama rango kortelė",
         "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Skaitoma apie svetainės slapukus",
+        "description": "Reading about the site's cookies"
     }
 }
