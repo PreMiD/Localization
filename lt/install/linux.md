@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padaryti.
 
-> Aur users that use DoomLerd's package should be safe as he says. Mes nerekomenduojame jį naudoti, bet jeigu jūs norite, vistiek galite juo naudotis. Ačiū DoomLerd už už palaikymą aur repo. 
+> Aur naudotojai kurie naudoja DoomLerd'o packetą turėtų būti saugūs, pagal jį. Mes nerekomenduojame jį naudoti, bet jeigu jūs norite, vistiek galite juo naudotis. Ačiū DoomLerd už už palaikymą aur repo. 
 > 
 > {.is-warning}
 
@@ -30,7 +30,7 @@ Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padar
   - [Diegimo instrukcija](#appimageinstall)
   - [Papildomos pastabos](#appimagenotes)
 - [**Red Hat Enterprise Linux (RHEL) distribucijos**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Debian ir Ubuntu distribucijos**](#packagecloud)
 - [**Arch Linux distribucijos**](#arch)
 
 <a name="about"></a>
@@ -127,7 +127,7 @@ Jeigu jūs norite išbandyti PreMiD ar jūs nenorite jos instaliuoti, ši yra ge
 
 # PackageCloud
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Mes išleidome deb/ppm packetus mūsų packagecloud repositorijoje. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
 
 For **Ubuntu/Debian**:
 
