@@ -133,7 +133,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `einstellungen`
 
 **Klarstellung einiger Wertvoreinstellungen:**
 
@@ -261,7 +261,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>einstellungen</b></td>
       <td style="text-align:left">Ein Array von Einstellungen, die der Benutzer ändern kann.<br>
       Lese mehr über Presenceeinstellungen <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">hier</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
