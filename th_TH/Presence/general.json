@@ -199,6 +199,10 @@
 		"message": "กำลังดู:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "กำลังดูเพจในส่วน:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "กำลังดูวีดีโอ",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "เงื่อนไขการใช้บริการ",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "นโยบายเกี่ยวกับคุกกี้",
 		"description": "A page name"
 	}
 }
