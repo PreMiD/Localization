@@ -31,18 +31,6 @@
 		"message": "Đối tác",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Chính sách về Cookie",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Chính sách bảo mật",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Điều khoản sử dụng",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "Về PreMiD",
 		"description": "A page name"
