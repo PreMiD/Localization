@@ -159,6 +159,10 @@
 		"message": "Terméket néz:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Oldal megtekintése:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Videót néz",
 		"description": ""
@@ -177,6 +181,10 @@
 	},
 	"general.terms": {
 		"message": "Felhasználási feltételek",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie irányelvek",
 		"description": "A page name"
 	}
 }
