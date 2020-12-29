@@ -87,6 +87,22 @@
 		"message": "Jūsų PreMiD programa yra pasenusi. Atnaujinkite ją, kad galėtumėte toliau naudotis PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Nėra interneto ryšio!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Atrodo, kad neturite interneto ryšio! PreMiD nesugebės rodyti jūsų presence šiuo metu.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Nėra ryšio su Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD nepavyko prisijungti prie jūsų Discord programos! Ar ji įdiegta ir paleista? *Problemų sprendimas*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Visi",
 		"description": "Category name shown when you open tags"

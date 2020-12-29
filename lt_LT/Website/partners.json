@@ -139,6 +139,10 @@
 		"message": "Dievaitė kuri žaidžia kaip smagus Discord botas!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM leidžia jums klausyti 15+ muzikos transliacijų nemokamai - be sustojimo. Su geriausia ir naujausia muzika tik jums!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Greitas lokalizavimas technologijų įmonėms.",
 		"description": "Description for Crowdin."
@@ -208,7 +212,7 @@
 		"description": "Do not change the sizes."
 	},
 	"partners.apply.form.imageLink.placeholder": {
-		"message": "Ex: https://i.imgur.com/clun1ID.png",
+		"message": "Pvz: https://i.imgur.com/clun1ID.png",
 		"description": "Image link field's placeholder. Do not change the image URL."
 	},
 	"partners.apply.form.button.close": {
