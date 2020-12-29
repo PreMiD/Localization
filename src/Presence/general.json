@@ -199,6 +199,10 @@
 		"message": "Viewing:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Viewing page:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Watching a video",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Terms of Services",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie Policy",
 		"description": "A page name"
 	}
 }
