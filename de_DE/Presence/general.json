@@ -199,6 +199,10 @@
 		"message": "Betrachtet:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Betrachtet Seite:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Schaut ein Video",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Nutzungsbedingungen",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Datenschutzerklärung",
 		"description": "A page name"
 	},
 	"general.repeatAll": {
