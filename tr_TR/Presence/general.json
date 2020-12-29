@@ -199,6 +199,10 @@
 		"message": "Bakıyor:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Bir sayfayı görüntülüyor:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Bir video izliyor",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Kullanım Koşulları",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Çerez Politikası",
 		"description": "A page name"
 	}
 }
