@@ -199,6 +199,10 @@
 		"message": "Bekijkt:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Bekijkt pagina:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Kijkt naar een video",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Algemene voorwaarden",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookiebeleid",
 		"description": "A page name"
 	},
 	"general.repeatAll": {
