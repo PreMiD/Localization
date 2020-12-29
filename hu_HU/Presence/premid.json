@@ -31,18 +31,6 @@
 		"message": "Partnerek",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Cookie irányelvek",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Adatvédelmi irányelvek",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Felhasználási feltételek",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "PreMiD névjegye",
 		"description": "A page name"
