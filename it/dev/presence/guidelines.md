@@ -2,7 +2,7 @@
 title: Linee guida
 description: Regole che tutti gli sviluppatori di presenze devono seguire per aggiungere la loro presenza.
 published: vero
-date: 2020-12-24T22:54:31.786Z
+date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -202,6 +202,7 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 - Se decidi di creare una stringa di formato (per es., `%song% da %artist%`), devi avere le variabili circondate da un segno percentuale su entrambi i lati. Variabili come `%var`, `var%`, o `%%var%%` e qualsiasi cosa in mezzo sono **non** consentite per motivi di standardizzazione.
 - Il nome delle impostazioni **non** devono essere in tutte le lettere maiuscole. Ad esempio, nomi come `MOSTRA STATO DI NAVIGAZIONE` **non** saranno permessi; tuttavia, nomi come `Mostra stato di navigazione` o `Mostra stato di navigazione` sono permessi.
+- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
