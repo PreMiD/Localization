@@ -2,7 +2,7 @@
 title: Руководство
 description: Правила, которым должны следовать все разработчики presence, чтобы добавить свое presence.
 published: true
-date: 2020-12-24T22:54:31.786Z
+date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -202,6 +202,7 @@ presence
 
 - Если вы решите сделать строку формата (например: `%song% от %artist%`), вы должны иметь переменные окружённый знаком процента с любой стороны. Переменные, такие как `% var `, ` var% ` или ` %%var%% ` и всё что между ними, являются ** не ** допускаемым в целях стандартизации.
 - Название настроек **не** будьте со всеми заглавными буквами. Например, такие имена как `ПОКАЗАТЬ СТАТУС ПРОСМОТРА` будем **не** быть разрешенным; однако такие имена, как `Показать статус просмотра` или `Показать статус просмотра` разрешены.
+- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
