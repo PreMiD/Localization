@@ -199,6 +199,10 @@
 		"message": "Przegląda:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Przegląda stronę:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Ogląda film",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Warunki korzystania z usług",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Polityka ciasteczek",
 		"description": "A page name"
 	},
 	"general.repeatAll": {
