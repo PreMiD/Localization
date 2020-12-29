@@ -199,6 +199,10 @@
 		"message": "A ver:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "A ver página: ",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "A assistir a um vídeo",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Termos de Serviço",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Politica de cookies",
 		"description": "A page name"
 	}
 }
