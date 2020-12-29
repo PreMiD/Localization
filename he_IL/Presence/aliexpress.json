@@ -1,1 +1,18 @@
-{}
+{
+    "aliexpress.feedback": {
+        "message": "משוב AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "צופה קופונים שלהם",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "צופה בכתובת שלהם",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "מרכז העזרה של AliExpress",
+        "description": ""
+    }
+}

@@ -222,5 +222,13 @@
 	"general.terms": {
 		"message": "Términos de Servicio",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Repitiendo todas las músicas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "En bucle",
+		"description": ""
 	}
 }

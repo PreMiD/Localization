@@ -222,5 +222,13 @@
 	"general.terms": {
 		"message": "Nutzungsbedingungen",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Alle Lieder wiederholen",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Auf Schleife",
+		"description": ""
 	}
 }

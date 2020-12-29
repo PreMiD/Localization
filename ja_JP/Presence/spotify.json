@@ -19,6 +19,10 @@
 		"message": "閲覧中",
 		"description": "First section of the next 6 strings"
 	},
+	"spotify.madeForYou": {
+		"message": "あなたへのおすすめ",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
 	"spotify.download": {
 		"message": "Spotifyをダウンロード中",
 		"description": ""

@@ -1,58 +1,58 @@
 {
-    "premid.viewPage": {
-        "message": "Oldal megtekintése:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Docs",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Állapotüzenet megtekintése:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Főoldal",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Közreműködők",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Letöltések",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Áruház",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Cookie irányelvek",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Adatvédelmi irányelvek",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Felhasználási feltételek",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "Névjegy",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Rendszerkövetelmények",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Hibaelhárítás",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Oldal megtekintése:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Docs",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Állapotüzenet megtekintése:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Főoldal",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Közreműködők",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Letöltések",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Áruház",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnerek",
+		"description": "A page name"
+	},
+	"premid.pageCookies": {
+		"message": "Cookie irányelvek",
+		"description": "A page name"
+	},
+	"premid.pagePrivacy": {
+		"message": "Adatvédelmi irányelvek",
+		"description": "A page name"
+	},
+	"premid.pageTerms": {
+		"message": "Felhasználási feltételek",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "PreMiD névjegye",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Rendszerkövetelmények",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Hibaelhárítás",
+		"description": "A page name"
+	}
 }

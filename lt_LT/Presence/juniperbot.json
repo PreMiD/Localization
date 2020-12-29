@@ -1,0 +1,42 @@
+{
+    "juniperbot.mainpage": {
+        "message": "Pagrindinis puslapis",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Stebimas serverio pirmaujančiųjų sąrašas:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Prietaisų skydelyje",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Gildija: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Skaitoma informacija apie donacijų planus",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Pasirenkamas serveris",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Peržiūrimas komandų sąrašas",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Stebimos bot'o statistikos",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Tinkinama rango kortelė",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Skaitoma apie svetainės slapukus",
+        "description": "Reading about the site's cookies"
+    }
+}

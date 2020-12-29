@@ -28,7 +28,7 @@
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "تحميل",
+    "message": "التنزيلات",
     "description": "Downloads tab"
   },
   "header.contributors": {
@@ -36,7 +36,7 @@
     "description": "Contributors tab"
   },
   "header.login": {
-    "message": "تسجيل دخول",
+    "message": "تسجيل الدخول",
     "description": "Login Button"
   },
   "header.lia": {
@@ -52,7 +52,7 @@
     "description": "Dashboard button"
   },
   "header.logout": {
-    "message": "تسجيل خروج",
+    "message": "تسجيل الخروج",
     "description": "Logout button"
   }
 }

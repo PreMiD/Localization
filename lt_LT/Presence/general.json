@@ -222,5 +222,13 @@
 	"general.terms": {
 		"message": "Naudojimosi sąlygos",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Visų dainų ciklas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Cikle",
+		"description": ""
 	}
 }

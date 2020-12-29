@@ -16,15 +16,15 @@
         "description": ""
     },
     "twitter.viewMedia": {
-        "message": "Przegląda multimedia:",
+        "message": "Przegląda multimediów:",
         "description": ""
     },
     "twitter.viewLiked": {
-        "message": "Przegląda polubienia:",
+        "message": "Przegląda polubionych przez:",
         "description": ""
     },
     "twitter.viewList": {
-        "message": "Przegląda listę:",
+        "message": "Przeglądanie list:",
         "description": ""
     },
     "twitter.bookmarks": {

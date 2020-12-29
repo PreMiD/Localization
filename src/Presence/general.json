@@ -230,5 +230,13 @@
 	"general.cookie": {
 		"message": "Cookie Policy",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Looping all songs",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "On loop",
+		"description": ""
 	}
 }

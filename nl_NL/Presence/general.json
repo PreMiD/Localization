@@ -222,5 +222,13 @@
 	"general.terms": {
 		"message": "Algemene voorwaarden",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Speelt alle nummers af in herhaalmodus",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Op herhaalmodus",
+		"description": ""
 	}
 }

@@ -40,7 +40,7 @@
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "وسيط",
+		"message": "مشرف",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
@@ -56,11 +56,11 @@
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "المتبرع",
+		"message": "متبرع",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "معزز",
+		"message": "داعم",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
@@ -68,11 +68,11 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "انقر لنسخ ID المستخدم.",
+		"message": "انقر لنسخ أيدي المستخدم.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "تم نسخ معرف المستخدم!",
+		"message": "تم نسخ أيدي المستخدم!",
 		"description": "Notification after user ID was copied."
 	}
 }

@@ -1,18 +1,18 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "مطور ملحقات",
+		"message": "مطور presence",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "مدقق ملحقات",
+		"message": "مدقق presence",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "مطور ملحقات متميز",
+		"message": "مطور presence متميز",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
-		"message": ".طور {0} ملحقات",
+		"message": "طور {0} presences.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
@@ -20,19 +20,19 @@
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "أنشئ أكثر من 100 Presence!",
+		"message": "أنشئ أكثر من 100 precenses!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "المستخدم [الوجودات / المساهمين]",
+		"message": "[presences/مساهمات] المستخدم",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "اضغط هنا لاظهار الوجودات التي انشائها هذا المستخدم.",
+		"message": "اضغط هنا لاظهار الpresences التي انشائها هذا المستخدم.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "انقر هنا لإظهار الpresence الذي ساهم به هذا المستخدم.",
+		"message": "انقر هنا لإظهار الpresence التي ساهم بها هذا المستخدم.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

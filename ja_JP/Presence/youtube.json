@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "トレンドを見る",
+        "message": "話題のトレンドを閲覧中",
         "description": ""
     },
     "youtube.browsingThrough": {
@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.channelAnalytics": {
-        "message": "チャンネルのアナリティクス",
+        "message": "チャンネルアナリティクス",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
