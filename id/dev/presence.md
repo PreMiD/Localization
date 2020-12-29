@@ -184,13 +184,12 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-      <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
+      <td style="text-align:left">URL dari layanan.<br><b>Contoh:</b><code>vk.com</code><br>
+      <b>URL ini harus sama dengan URL pada website karena akan mendeteksi apakah ini adalah website yang akan di injeksikan skrip atau tidak. </b><br> <b>JANGAN</b> menambahkan <code>https://</code> atau <code>http://</code> didalam URL atau garis miring diakhir:      <code>https://premid.app/</code>-> <code>premid.app</code><br>
+      <b>Catatan</b>:Beberapa URL mungkin memiliki <code>www.</code> atau lainnya didepan domainnya. <b>JANGAN</b> lupa menambahkannya<br>
+      Kamu dapat menambahkan beberapa URL dengan melakukan hal berikut:<br>
       <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      Kamu juga dapat menggunakan regExp juga dikenal sebagai Regex untuk hal ini, dijelaskan dibawah ini.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
