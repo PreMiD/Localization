@@ -2,7 +2,7 @@
 title: Pokyny
 description: Pravidla, která musí všichni vývojáři dodržovat, aby byla jejich presence přidána.
 published: true
-date: 2020-12-24T22:54:31.786Z
+date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -202,6 +202,7 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 
 - Pokud se rozhodnete vytvořit formátovaný řetězec (například `%song% od %artist%`), musíte proměnné obalit s značkou procenta na obou stranách. Proměnné jako `%var`, `var%` nebo `%%var%%` a podobné **nejsou** povoleny z důvodu standardizace.
 - Jména nastavení **nesmí** být napsána velkými písmeny. Například, jména jako `SHOW BROWSING STATUS` **nejsou** povolena, ale jména jako `Show Browsing Status` nebo `Show browsing status` povolena jsou.
+- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
