@@ -39,7 +39,7 @@ Semua presence ditulis dalam [TypeScript](https://www.typescriptlang.org/). [Typ
 
 ## Membuat folder dan file
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Pergi ke folder `website` kemudian pergi ke folder dengan huruf pertama dari **nama** (bukan URL) dari layanan yang ingin didukung.
 2. Buat folder dengan **nama** (bukan URL) dari layanan yang diinginkan.
 3. Buatlah file `presence.ts` dan `tsconfig.json`.
 4. Buatlah folder dinamakan `dist` didalamnya.
