@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padaryti.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Aur users that use DoomLerd's package should be safe as he says. Mes nerekomenduojame jį naudoti, bet jeigu jūs norite, vistiek galite juo naudotis. Ačiū DoomLerd už už palaikymą aur repo. 
 > 
 > {.is-warning}
 
@@ -29,7 +29,7 @@ Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padar
 - **[Portable AppImage](#appimage)** (_SIŪLOMA_)
   - [Diegimo instrukcija](#appimageinstall)
   - [Papildomos pastabos](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
+- [**Red Hat Enterprise Linux (RHEL) distribucijos**](#packagecloud)
 - [**Debian and Ubuntu based distributions**](#packagecloud)
 - [**Arch Linux distribucijos**](#arch)
 
