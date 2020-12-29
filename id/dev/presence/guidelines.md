@@ -2,7 +2,7 @@
 title: Aturan
 description: Peraturan yang harus ditaati oleh developer presence agar presencenya ditambahkan.
 published: true
-date: 2020-12-24T22:54:31.786Z
+date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -202,6 +202,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 
 - Jika anda memutuskan untuk membuat string format ( misal, `%song% by %artist%`), anda harus membuat variabel dengan tanda persen diawal dan diakhir. Variabel seperti `%var`, `var%`, atau `%%var%%` dan apapun diantaranya **tidak** diperbolehkan demi standardisasi.
 - Nama pengaturan harus **tidak** menggunakan huruf kapital semuanya. Untuk contoh, nama seperti `PERLIHATKAN STATUS BROWSING` **tidak** diperbolehkan; namun, nama seperti `Perlihatkan Status Browsing` atau `Perlihatkan status browsing` diperbolehkan.
+- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
