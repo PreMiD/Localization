@@ -199,6 +199,10 @@
 		"message": "閲覧中:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "ページを閲覧中:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "動画を視聴中",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "利用規約",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie のポリシー",
 		"description": "A page name"
 	}
 }
