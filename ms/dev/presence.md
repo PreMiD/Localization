@@ -133,7 +133,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `tetapan`
 
 **Clarifying some value presets:**
 
@@ -263,7 +263,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>tetapan</b></td>
       <td style="text-align:left">Tatasusunan tetapan yang pengguna boleh ubah.<br>
       Baca lanjut mengenai tetapan Presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">di sini</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

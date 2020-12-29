@@ -2,7 +2,7 @@
 title: Yönergeler
 description: Her geliştiricinin, servisinin eklenebilmesi için takip etmeleri gereken kurallar.
 published: true
-date: 2020-12-24T22:54:31.786Z
+date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -204,6 +204,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 - Eğer bir değişken belirlerseniz (örneğin, `%sarki% -%sanatci%`), bu değişkenleri yüzde işaretleri arasına almalısınız. `%var`, `var%`, ya da `%%var%%` şeklinde yazılan değişkenlerin hiçbiri, standartlar gereği kabul edilmeyecektir.
 - Ayarların adlarının hepsi büyük harfle **olmamalıdır**. Örneğin, `GÖZ ATMA DURUMUNU GÖSTER` kabul **edilmeyecektir**; fakat, `Göz Atma Durumunu Göster` ya da `Göz atma durumunu göster` kabul edilecektir.
+- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 

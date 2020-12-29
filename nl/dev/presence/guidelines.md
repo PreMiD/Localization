@@ -2,7 +2,7 @@
 title: Richtlijnen
 description: Regels die alle presence-ontwikkelaars moeten volgen om hun presence te laten toevoegen.
 published: true
-date: 2020-12-24T22:54:31.786Z
+date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -202,6 +202,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 - Als u besluit om een opgemaakte string te maken (bijvoorbeeld `%song% by %artist%`), moet je de variabelen omgeven door een procentteken aan beide zijden. Variabelen zoals `%var`, `var%`, of `%%var%%` en alles ertussenin, zijn **niet** toegestaan omwille van normalisatie.
 - De namen van de instellingen mogen **niet** in alle hoofdletters staan. Namen zoals `LAAT BROWSING STATUS ZIEN` zullen **niet** toegestaan zijn; Namen zoals `Laat Browsing Status Zien` of `Laat browsing status zien` zijn echter toegestaan.
+- Toevoegen van nieuwe tekenreeksen aan de [Localization Repository](https://github.com/PreMiD/Localization) om later gebruikt te worden in de `multiLanguage` instelling is alleen toegestaan als de presence al eerder is toegevoegd en ten minste 1000 gebruikers heeft gekregen.
 
 ## [**presence.ts**](https://docs.premid.app/nl/dev/presence/class)
 
