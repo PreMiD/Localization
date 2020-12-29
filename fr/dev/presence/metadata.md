@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 Si vous souhaitez publier une présence dans la boutique et la charger via l'extension, vous devez créer le fichier ` metadata.json ` dans votre dossier ` dist `.
 
-An example of that file can be found below.
+Un exemple de ce fichier se situe ci-dessous.
 
 ```typescript
 {
@@ -207,7 +207,7 @@ Si vous voulez apprendre des expressions régulières, voici quelques sites web.
 
 ## Langues de présence
 
-PreMiD est un service polygoutte, ce qui signifie qu'il y a une multitude de langues impliquées pour connecter les utilisateurs du monde entier. Une liste complète des langues peut être trouvée avec ce [point de terminaison de l'API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD est un service polyglotte, ce qui signifie qu'il y a une multitude de langues impliquées pour connecter les utilisateurs du monde entier. Une liste complète des langues peut être trouvée avec ce [point de terminaison de l'API](https://api.premid.app/v2/langFile/list). Pour personnaliser encore plus votre présence, vous pouvez autoriser les utilisateurs à sélectionner la langue d'affichage de leur présence, voir [`langue multilingue`](#multilanguage) pour plus d'informations.
 
 ## Paramètres de présence
 Configurer les paramètres interactifs pour que les utilisateurs puissent personnaliser la présence!
@@ -251,7 +251,7 @@ The `multiLanguage` setting is used to allow users to manually select the langua
 
 #### Setup
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+Le paramètre `multiLangue` est un cas spécial, il ne nécessite ni de `titre` ni d' `icône` ni de `valeur` ou `valeurs` comme d'autres paramètres, mais, il demande encore plus de choses à configurer !
 
 The `multiLanguage` key can be set to the following:
 

@@ -17,18 +17,18 @@ dateCreated: 2020-06-11T18:04:42.004Z
 Kurdami klasę turite nurodyti ` klientoID ` ypatybę.
 
 ```typescript
-const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+let presence = new Presence({
+    clientId: "514271496134389561" // Pavyzdinis clientId
 });
 ```
 
-### Properties
+### Savybės
 
-There are three properties available for `Presence` class.
+`Presence` klasė turi tris savybės.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. Galite jį gauti [ programų puslapyje ](https://discordapp.com/developers/applications).
+Ši savybė reikalinga kad jūsų presence veiktų, nes ji naudoja jūsų aplikacijos id kad rodyti savo logotipą ir ištelkius. Galite jį gauti [ programų puslapyje ](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
