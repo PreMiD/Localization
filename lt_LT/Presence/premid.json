@@ -31,18 +31,6 @@
 		"message": "Partneriai",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Slapukų Naudojimo Politika",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Privatumo politika",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Naudojimosi sąlygos",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "Apie PreMiD",
 		"description": "A page name"
