@@ -199,6 +199,10 @@
 		"message": "Ogledovanje:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Ogledovanje strani:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Gledanje videoposnetek",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Pogoji uporabe",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Pravilnik o Cookie-jih",
 		"description": "A page name"
 	}
 }
