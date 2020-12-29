@@ -31,18 +31,6 @@
 		"message": "Partneři",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Zásady používání souborů cookie",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Zásady ochrany osobních údajů",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Podmínky služby",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "O PreMiD",
 		"description": "A page name"
