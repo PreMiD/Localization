@@ -2,7 +2,7 @@
 title: Diretrizes
 description: Regras que todos os presence developers devem seguir para ter sua presence adicionada.
 published: true
-date: 2020-12-24T22:54:31.786Z
+date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
@@ -202,6 +202,7 @@ Uma lista de campos e de suas regras está listada abaixo:
 
 - Se você decidir fazer uma string de formato (por exemplo, `%song% por %artist%`), você tem que ter as variáveis cercadas por um simbolo de porcentagem em cada lado. Variáveis como `%var`, `var%`, ou `%%var%%` e qualquer coisa parecida, **não** são permitidas, para fins de padronização.
 - O nome das configurações **não** devem ser em letras maiúsculas. Por exemplo, nomes como `MOSTRAR STATUS DE NAVEGAÇÃO` **não** serão permitidas; mas, nomes como `Mostrar Status de Navegação` ou `Mostrar status de navegação` serão permitidas.
+- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
