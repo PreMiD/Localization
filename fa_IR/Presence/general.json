@@ -199,6 +199,10 @@
 		"message": "دیدن:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "مشاهده صفحه:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "نگاه کردن ویدیو",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "شرایط خدمات",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "سیاست کوکی‌ ها",
 		"description": "A page name"
 	}
 }
