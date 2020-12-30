@@ -1,6 +1,6 @@
 ---
 title: 설치하기
-description: PreMiDWowApp 설치 방법
+description: PreMiD 설치 방법
 published: true
 date: 2020-11-10T17:54:28.896Z
 tags:
@@ -16,7 +16,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 > 
 > {.is-warning}
 
-**Choose your operating system:**
+**운영체제를 선택해주세요:**
 - [Windows *7 또는 그 이상*](/install/windows)
 - [macOS *10.11 또는 그 이상*](/install/macos)
 - [리눅스 *커널 v2.x 또는 그 이상*](/install/linux)
