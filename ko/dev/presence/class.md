@@ -18,13 +18,13 @@ Presence를 만들 때, `clientId`가 명시되어야 합니다.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // 클라이언트 ID 예시
 });
 ```
 
-### Properties
+### 속성
 
-There are three properties available for `Presence` class.
+`Presence` 클래스를 위한 세 가지 속성이 있습니다.
 
 #### `clientId`
 
@@ -66,7 +66,7 @@ First parameter requires a [`PresenceData`](#presencedata-interface) interface o
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+새로운 `Slideshow` 클래스를 만듭니다.
 
 ```typescript
 const slideshow = presence.createSlideshow();
