@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMid가 데스크톱 클라이언트에 연결하지 못하였습니다! 데스크톱 클라이언트가 설치 후 실행되고 있나요?",
+		"message": "PreMid가 데스크톱 클라이언트에 연결하지 못하였습니다! 데스크톱 클라이언트가 설치 후 실행되고 있나요? *문제 해결*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -100,7 +100,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "Premid 가 디스코드에 연결이 되지 않았습니다! 디스코드가 설치되었고, 실행중인가요?",
+		"message": "Premid 가 디스코드에 연결이 되지 않았습니다! 디스코드가 설치되었고, 실행중인가요? *문제 해결*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
