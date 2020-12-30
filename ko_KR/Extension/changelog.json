@@ -1,10 +1,10 @@
 {
   "extension.2.0.new1": {
-    "message": "사용자가 직접 Presences를 추가할 수 있습니다. 한번 추가해보세요!",
+    "message": "사용자가 직접 Presences를 추가할 수 있습니다. *한번 추가해보세요!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "새로운 presences를 찾아보십시오",
+    "message": "*새로운 presences를* 찾아보십시오",
     "description": ""
   },
   "extension.2.0.new3": {
