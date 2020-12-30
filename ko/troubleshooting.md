@@ -24,15 +24,15 @@ To solve this, all you have to do is toggle the topmost setting: ![presencesetti
 새로고침 버튼을 누르는 대신 <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) 나 <kbd>CMD+R</kbd> (macOS) 를 눌러보십시오.
 
 ### 브라우저 재시작
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) 나 <kbd>CMD</kbd>+<kbd>Q</kbd> (macOS) 는 일을 잘 합니다. (You have to start your browser again obviously.)
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) 나 <kbd>CMD</kbd>+<kbd>Q</kbd> (macOS) 는 일을 잘 합니다. (브라우저를 완벽하게 다시 시작해야 합니다.)
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### 설정에서 Discord 게임 활동을 활성화했는지 확인하십시오.
+**사용자 설정** > **게임 활동** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### PreMid 프로그램 재시작
+![quit.png](/quit.png) 나중에 PreMid를 재시작 해야 합니다.
 
-### Reload/restart Discord
+### Discord 재시작
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Be sure Discord is running NOT as administrator
@@ -75,5 +75,5 @@ This is a false positive from McAfee and we have reported the issue to them, for
 9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.premid.app/).
+### 이것들로는 제 문제가 해결되지 않았습니다
+[#support](https://discord.premid.app/)에서 티켓을 열어 주세요.
