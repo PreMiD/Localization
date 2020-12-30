@@ -1,1 +1,6 @@
-{}
+{
+    "juniperbot.mainpage": {
+        "message": "صفحه اصلی",
+        "description": "Home page of the site"
+    }
+}
