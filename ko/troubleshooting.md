@@ -20,11 +20,11 @@ Many presences (including `Twitch` and `SoundCloud`) are affected by an extensio
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### 패이지 새로고침
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+### 페이지 새로고침
+새로고침 버튼을 누르는 대신 <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) 나 <kbd>CMD+R</kbd> (macOS) 를 눌러보십시오.
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### 브라우저 재시작
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) 나 <kbd>CMD</kbd>+<kbd>Q</kbd> (macOS) 는 일을 잘 합니다. (You have to start your browser again obviously.)
 
 ### Make sure that you have enabled Discord Game Activity in settings
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
