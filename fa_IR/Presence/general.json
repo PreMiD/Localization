@@ -230,5 +230,13 @@
 	"general.cookie": {
 		"message": "سیاست کوکی‌ ها",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "تکرار کردن همه آهنگ‌ها",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "در تکرار",
+		"description": ""
 	}
 }
