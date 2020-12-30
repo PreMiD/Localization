@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Garis Panduan
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Bagi sesetengah orang, peraturan ketat ini nampak agak kejam. However, the implementation of these rule sets will keep us and our users from running into issues.
+Ketika menerbitkan Presence ke [Github Repository kami](https://github.com/PreMiD/Presences), anda dikehendaki mengikuti beberapa peraturan yang ditetapkan. Bagi sesetengah orang, peraturan ketat ini nampak agak kejam. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # Penciptaan
 
