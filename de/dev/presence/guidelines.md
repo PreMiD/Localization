@@ -202,7 +202,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 - Wenn du dich dafür entscheidest, ein String-Format (zum Beispiel `%song%` von `%artist%`), müssen die Variablen von einem Prozentzeichen auf beiden Seiten umgeben sein. Variablen wie `%var`,`var%` oder `%%var%%` und alles dazwischen sind **nicht** erlaubt wegen der Standardisierung.
 - Der Name der Einstellungen muss **nicht** ausschließlich in Großbuchstaben sein. Zum Beispiel Namen wie `SHOW BROWSING STATUS` sind **nicht** erlaubt; jedenfalls sind Namen wie `Show Browsing Status` oder `Show browing status` erlaubt.
-- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
+- Das Hinzufügen von benutzerdefinierten Strings zum [Localization Repository](https://github.com/PreMiD/Localization), um später innerhalb der `multiLanguage`-Einstellung verwendet zu werden, ist nur erlaubt, wenn die Presence bereits zuvor freigegeben wurde und mindestens 1000 Benutzer erreicht hat.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
