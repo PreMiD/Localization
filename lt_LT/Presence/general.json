@@ -238,5 +238,13 @@
 	"general.repeat": {
 		"message": "Cikle",
 		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Incidentų istorija",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Veikimo laiko istorija",
+		"description": "A page name of statuspages"
 	}
 }
