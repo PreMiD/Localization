@@ -3,8 +3,16 @@
 		"message": "下載",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "職位",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "合作夥伴",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "新聞中心",
 		"description": "Page name"
 	},
 	"twitch.home": {
