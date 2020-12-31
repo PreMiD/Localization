@@ -230,5 +230,21 @@
 	"general.cookie": {
 		"message": "Polisi Kuki",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Gelungkan semua lagu",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Dalam gelungan",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Sejarah kejadian",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Sejarah masa hidup",
+		"description": "A page name of statuspages"
 	}
 }
