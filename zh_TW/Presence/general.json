@@ -115,12 +115,48 @@
 		"message": "商店",
 		"description": ""
 	},
+	"general.typeDM": {
+		"message": "正在私訊:",
+		"description": ""
+	},
 	"general.typeChannel": {
 		"message": "在頻道輸入中:",
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "正在檢視動畫:",
+		"message": "正在看動畫:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "查看類別:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "查看頻道:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "正在觀看集數:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "查看類別:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "正在檢視主面",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "正在檢視列表:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "正在閱讀漫畫:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "正在檢視使用者:",
 		"description": ""
 	},
 	"general.viewMovie": {
@@ -194,5 +230,21 @@
 	"general.cookie": {
 		"message": "Cookie 政策",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "循環所有歌曲",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "循環中",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "事件記錄",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "運行時間記錄",
+		"description": "A page name of statuspages"
 	}
 }
