@@ -174,32 +174,32 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
+      <td style="text-align:left">Servis hakkında kısa bir açıklama, eğer aklınıza bir fikir gelmiyorsa servisin kendi açıklamasını kullanabilirsiniz. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Hayır</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <td style="text-align:left">Servisin adresi.<br><b>Example:</b><code>youtube.com.tr</code><br>
+      <b>Buraya girdiğiniz adres servisin adres ile uyuşmalıdır, bu sayede yazdığınız kod sayfaya enjete edilecek ve çalıştırılacaktır..</b><br> <b>Hiçbir</b> durumda adreslerin başına <code>https://</code> veya <code>http://</code>, sonuna ise <code>/</code> eklemeyin:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <b>Not</b>: Bazı servisler resmi olarak adreslerinin başında <code>www.</code> kullanabilir. Onu eklemeyi de unutmamalısınız!<br>
+      Şu yöntemi kullanarak servisinizin birden fazla adreste çalışmasını sağlayabilirsiniz:<br>
+      <code>["URL1", "URL2", "VS."]</code><br>
+      Gerekirse regExp (Regex) yöntemini de kullanabilirsiniz. Bunun hakkında daha fazla bilgiye aşağıdan erişebilirsiniz.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Hayır</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
-      <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      <td style="text-align:left">Adresleri tanımlamak için kullanılacak olan regex biçimindeki sözcük dizimi.<br>
+      regExp veya Regex, birden çok alt alanadı bulunduran servisler için kullanılabilir.<br>
+      Bu durumda şu regex dizimini kullanabilirsiniz:<br>
+      <code>([a-z0-9]+)[.]alanadı[.]TLD"</code><br>
+      TLD burada Top Level Domain kısaltması olarak kullanılamkta ve şunları ifade etmektedir: .com .net<br>
+      <code>([a-z0-9]+)</code> a'dan z'ye ve 0'dan 9'a olan tüm karakterlerin bu dizime yakalanacağı anlamına gelmektedir.<br>
+      Kullanımını daha iyi anlamak için <a href="https://youtu.be/sXQxhojSdZM">bu videoyu</a> izleyebilirsiniz.<br>
+      Kullanacağınız regExp'i <a href="https://regex101.com/">Regex101</a> sitesinde test edebilirsiniz.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Evet</code></td>
     </tr>
@@ -241,7 +241,7 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left"><code>iframe</code>'lerin kullanılıp kullanılmayacağını belirler.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Evet</code></td>
     </tr>
@@ -253,7 +253,7 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Servisinizin konsol kayıtlarını okuyup okumayacağını belirler.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Evet</code></td>
     </tr>
@@ -272,37 +272,36 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
-  }),
-  strings = presence.getStrings({
-    play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
-  });
+    clientId: "000000000000000000" // Discord'dan aldığınız uygulama ID'si:  https://discordapp.com/developers/applications
+}),
+  await presence.getStrings({
+    oynatiliyor: "presence.playback.playing",
+    durduruldu: "presence.playback.paused"
+    // Tarayıcının diline göre çevirileri almak için kullanılan fonksiyon
+});
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+function disaridaOlmasiDahaIyiOlacakFonksiyonum(){
+    // Tüm verilerinizi toplayıp bu gibi fonksiyonlarda işleyebilirsiniz
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // ekstra işlemler //
+    // API işlemleri //
+    // değişken ayarlamaları //
 }
 
-setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, disaridaOlmasiDahaIyiOlacakFonksiyonum); 
+// Oluşturduğunuz fonksiyonu UpdateData eventinden ayrıyeten her 10 saniyede bir çalıştırarak içindeki işlemleri tekrar ettirin.
 
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Bu olay, mümkün olduğunca bir saniye içerisinde birkaç kez çağrılacaktır.
+    /* UpdateData kullanıcı serviste gezdiği süre boyunca sürekli olarak gönderilecektir, bu yüzden büyük işlemler kullanıcıları etkilememesi için buranın dışında tutulmalıdır. Bu olay, mümkün olduğunca bir saniye içerisinde birkaç kez çağrılacaktır.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak önerilir. */
 
-  const presenceData: PresenceData = {
-    largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+  const presenceData: PresenceData  = {
+    largeImageKey: "anahtar", /* Servisin kullanıcının profilinde gözükeceği büyük resmin Discord'dan oluşturduğunuz uygulamanın içerisindeki resim dosyasının adı. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageKey:
       "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
