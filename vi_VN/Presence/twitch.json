@@ -1,0 +1,18 @@
+{
+	"twitch.downloads": {
+		"message": "Tải về",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Đối tác",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Trang chủ",
+		"description": "Page name"
+	},
+	"twitch.viewTheir": {
+		"message": "Đang xem",
+		"description": "Part 1 of the next 10 strings"
+	}
+}
