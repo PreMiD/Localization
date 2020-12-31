@@ -47,6 +47,10 @@
 		"message": "E-Spor'a bakıyor...",
 		"description": ""
 	},
+	"twitch.redeem": {
+		"message": "Kod kullanıyor...",
+		"description": ""
+	},
 	"twitch.campLevel": {
 		"message": "Seviye Atlandı",
 		"description": "Page name"
@@ -74,5 +78,33 @@
 	"twitch.blogs": {
 		"message": "Twitch Blogları",
 		"description": ""
+	},
+	"twitch.help": {
+		"message": "Yardım Merkezi",
+		"description": "Page name"
+	},
+	"twitch.affiliate": {
+		"message": "Twitch Ortaklık Programı",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "Twitch Geliştiricileri",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Twitch Geliştirici Belgeleri",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Twitch Geliştirici Ürünleri",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Topluluktan başarı hikayeleri",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Yararlı Kaynaklar",
+		"description": "Page name"
 	}
 }
