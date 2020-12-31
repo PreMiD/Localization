@@ -16,7 +16,7 @@ Installationen af applikationen er meget vigtig, da udvidelsen ikke kan gøre no
 3. Åbn installatøren.
 4. **Windows SmartScreen** vises, hvis du installerer PreMiD for første gang. Klik på **Mere Info** og vælg derefter **Kør alligevel**. > Dette er fordi vi ikke har et kodesigneringscertifikat (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-Applikationen vil starte automatisk. Check for the symbol in your system tray.
+Applikationen vil starte automatisk. Tjek for symbolet i dit statusfelt.
 
 > Do not forget to [add the **extension**](/install).{.is-warning}
 
