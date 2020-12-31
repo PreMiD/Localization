@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Getting started with a PreMiD installation on Windows
+description: Kom i gang med en PreMiD-installation på Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
