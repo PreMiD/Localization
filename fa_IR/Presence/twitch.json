@@ -3,13 +3,77 @@
 		"message": "دانلود ها",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "کارها",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "توربو",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "همکاران",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "مرکز اطلاع رسانی",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "امینت",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "قابلیت دسترسی",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "تبلیغ های منتخب",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "قوانین و ضوابط انجمن",
 		"description": "Page name"
 	},
 	"twitch.home": {
 		"message": "صفحه اصلی",
 		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "مشاهده کیف پول...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "مشاهده ورزش های الکترونیکی...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "مشاهده افرادی که دنبال می‌کنم...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "مشاهده تیم:",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "مشاهده تنظیمات‌...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "مشاهده دوستان...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "مشاهده اشتراک‌ها...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "نگاه کردن گروه...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "نظارت برای استریمر:",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "در حال تماشای آنجا",
