@@ -67,6 +67,50 @@
 		"message": "Revisando sus amigos...",
 		"description": ""
 	},
+	"twitch.subs": {
+		"message": "Revisando sus suscripciones...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Mirando un escuadrón...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderando un streamer:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Reclamando un código...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Escuela de Creadores",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Aprende los conceptos básicos",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Configurando tu stream",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Subir de nivel",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Conectar y activar",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Sé recompensado",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "La música en Twitch",
+		"description": "Page name"
+	},
 	"twitch.viewTheir": {
 		"message": "Viendo sus",
 		"description": "Part 1 of the next 10 strings"
