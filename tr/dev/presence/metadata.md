@@ -175,7 +175,7 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Servisinizin konsol kayıtlarını okuyup okumayacağını belirler.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Evet</code></td>
     </tr>
