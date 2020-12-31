@@ -66,13 +66,5 @@
 	"premid.pageTs": {
 		"message": "تنظیم TypeScript",
 		"description": "A page name"
-	},
-	"premid.incidentHistory": {
-		"message": "تاریخچه وقایع",
-		"description": "A page name of our statuspage"
-	},
-	"premid.uptimeHistory": {
-		"message": "تاریخچه Uptime",
-		"description": "A page name of our statuspage"
 	}
 }
