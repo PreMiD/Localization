@@ -6,17 +6,17 @@ date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Før du går videre, skal du sørge for at dit system opfylder alle [kravene](/install/requirements){.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Installationen af applikationen er meget vigtig, da udvidelsen ikke kan gøre noget af sig selv.
 
 # Installér
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+1. Gå til vores download-side ved at [klikke her](https://premid.app/downloads).
+2. Vælg **Windows**.
+3. Åbn installatøren.
+4. **Windows SmartScreen** vises, hvis du installerer PreMiD for første gang. Klik på **Mere Info** og vælg derefter **Kør alligevel**. > Dette er fordi vi ikke har et kodesigneringscertifikat (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+Applikationen vil starte automatisk. Check for the symbol in your system tray.
 
 > Do not forget to [add the **extension**](/install).{.is-warning}
 
