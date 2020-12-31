@@ -3,13 +3,81 @@
 		"message": "Muat Turun",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Pekerjaan",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Rakan Kongsi",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Pusat Akhbar",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Keselamatan",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Kebolehcapaian",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Pilihan Iklan",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Garis Panduan Komuniti",
 		"description": "Page name"
 	},
 	"twitch.home": {
 		"message": "Laman Utama",
 		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Melihat dompet...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Melihat E-Sukan...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Melihat senarai Orang Saya Ikuti...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Melihat pasukan:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Melihat inventori Jatuhan mereka...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Melihat kempen Jatuhan yang aktif...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Melihat tetapannya...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Melihat senarai rakannya...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Melihat langganannya...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Menonton strim Squad...",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "Melihat",
