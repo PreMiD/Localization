@@ -1,0 +1,18 @@
+{
+	"twitch.downloads": {
+		"message": "Завантаження",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Партнери",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Домашня сторінка",
+		"description": "Page name"
+	},
+	"twitch.viewTheir": {
+		"message": "Переглядає своє",
+		"description": "Part 1 of the next 10 strings"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"twitch.downloads": {
+		"message": "Íoslódálacha",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Leathanach baile",
+		"description": "Page name"
+	}
+}

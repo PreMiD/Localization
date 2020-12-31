@@ -1,0 +1,10 @@
+{
+	"twitch.downloads": {
+		"message": "Stiahnuť ",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partneri",
+		"description": "Page name"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"twitch.downloads": {
+		"message": "Allalaadimised",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerid",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Koduleht",
+		"description": "Page name"
+	}
+}
