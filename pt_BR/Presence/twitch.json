@@ -40,23 +40,151 @@
 		"description": "Page name"
 	},
 	"twitch.wallet": {
-		"message": "Vendo carteira...",
+		"message": "Visualizando carteira...",
 		"description": ""
 	},
 	"twitch.esports": {
-		"message": "Vendo Esports...",
+		"message": "Visualizando Esports...",
 		"description": ""
 	},
 	"twitch.viewFollow": {
-		"message": "Vendo Pessoas | Seguindo...",
+		"message": "Visualizando pessoas que sigo...",
 		"description": ""
 	},
 	"twitch.viewTeam": {
-		"message": "Vendo time:",
+		"message": "Visualizando time:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Vendo seus Drops do inventário...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Vendo as campanhas de Drops ativas...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Visualizando suas configurações...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Visualizando seus amigos...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Visualizando suas inscrições...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Assistindo Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderando streamer:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Resgatando um código...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Escola de Criadores",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Aprenda o básico",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Configurando sua stream",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Subiu de nível",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Conecte e Engaje",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Seja recompensado",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Música na Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Aprendizado ao vivo",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Painel de controle do criador",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Gerenciando a stream dele...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Gerenciando as regras da sua comunidade...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "No Produtor de Vídeo...",
 		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "Visualizando suas",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Analytics do Canal",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Resumo da stream",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Conquistas",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Atividade da Comunidade",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Lista de Seguidores",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Coleções",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clipes",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Configurações do Canal",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Configurações da Moderação",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Configurações de Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Visualizando as ferramentas de streaming",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Visualizando as extensões",
+		"description": ""
 	}
 }
