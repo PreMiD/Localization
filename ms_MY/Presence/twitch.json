@@ -79,6 +79,42 @@
 		"message": "Menonton strim Squad...",
 		"description": ""
 	},
+	"twitch.modStreamer": {
+		"message": "Mengawalselia penstrim:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Menebus kod...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Khemah Pencipta",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Belajar Asas",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Menetapkan Strim Anda",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Naik Tahap",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Sambung dan Libat",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Dapatkan Ganjaran",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Muzik di Twitch",
+		"description": "Page name"
+	},
 	"twitch.viewTheir": {
 		"message": "Melihat",
 		"description": "Part 1 of the next 10 strings"

@@ -230,5 +230,21 @@
 	"general.cookie": {
 		"message": "Çerez Politikası",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Tüm şarkılar döngüde",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Döngüde oynatılıyor",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Hata geçmişi",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Çalışma süres geçmişi",
+		"description": "A page name of statuspages"
 	}
 }
