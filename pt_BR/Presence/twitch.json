@@ -186,5 +186,77 @@
 	"twitch.extensions": {
 		"message": "Visualizando as extensões",
 		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Lendo sobre a Twitch Brand...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Mantendo a Twitch real",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Trazendo um método para nossa (amada) loucura",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Maximizando nossa expressão",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Trazendo tudo junto",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Assistindo a evolução da marca da Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Blogs da Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Visualizando o arquivo do Blog {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Navegando pelos últimos posts do blog...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Central de Ajuda",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Visualizando tópico:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Navegando pelo catálogo de tópicos...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Programa de Afiliados da Twitch",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "Desenvolvedores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Documentação do Desenvolvedor da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produtos para Desenvolvedores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Histórias de sucesso da comunidade",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Recursos úteis",
+		"description": "Page name"
 	}
 }
