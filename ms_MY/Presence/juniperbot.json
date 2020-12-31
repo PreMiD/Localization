@@ -26,5 +26,17 @@
     "juniperbot.commands": {
         "message": "Melihat senarai perintah",
         "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Melihat statistik bot",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Menyuai kad pangkat",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Membaca mengenai kuki laman",
+        "description": "Reading about the site's cookies"
     }
 }
