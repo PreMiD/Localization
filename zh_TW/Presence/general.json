@@ -75,8 +75,20 @@
 		"message": "正在閲讀關於:",
 		"description": ""
 	},
+	"general.readingArticle": {
+		"message": "正在閱讀文章:",
+		"description": ""
+	},
 	"general.readingChannel": {
 		"message": "閱覽頻道:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "正在閱讀帖子:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "正在閲讀主題:",
 		"description": ""
 	},
 	"general.reading": {
@@ -87,12 +99,28 @@
 		"message": "尋找:",
 		"description": ""
 	},
+	"general.searchSomething": {
+		"message": "搜尋中...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "搜索中",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "購物車",
+		"description": ""
+	},
 	"general.store": {
 		"message": "商店",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "在頻道輸入中:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "正在檢視動畫:",
 		"description": ""
 	},
 	"general.viewMovie": {
