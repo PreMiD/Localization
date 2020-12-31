@@ -87,16 +87,96 @@
 		"message": "Læser indlæg:",
 		"description": ""
 	},
+	"general.readingThread": {
+		"message": "Læser tråd:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Læsning",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Søger efter:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Søger efter noget...",
 		"description": ""
 	},
 	"general.search": {
 		"message": "Søger",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "Indkøbskurv",
+		"description": ""
+	},
 	"general.store": {
 		"message": "Butik",
 		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Skriver i DMs til:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Skriver i kanal:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Ser anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Visning af kategori:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Visning af kanal:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Visning af episode:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Visning af genre:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Visning af startsiden",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Visning af liste over:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Ønskeliste:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Fortrolighedspolitik",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Servicevilkår",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookiepolitik",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Gentager alle sange",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Hændelseshistorik",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Oppetidshistorik",
+		"description": "A page name of statuspages"
 	}
 }
