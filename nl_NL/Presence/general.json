@@ -238,5 +238,13 @@
 	"general.repeat": {
 		"message": "Op herhaalmodus",
 		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Incidentengeschiedenis",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Beschikbaarheidsgeschiedenis",
+		"description": "A page name of statuspages"
 	}
 }
