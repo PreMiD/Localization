@@ -230,5 +230,17 @@
 	"general.cookie": {
 		"message": "Cookie のポリシー",
 		"description": "A page name"
+	},
+	"general.repeat": {
+		"message": "ループ中",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "問題の履歴",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "アップタイム",
+		"description": "A page name of statuspages"
 	}
 }
