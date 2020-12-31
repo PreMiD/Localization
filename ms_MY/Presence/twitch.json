@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"twitch.campBasic": {
-		"message": "Belajar Asas",
+		"message": "Belajar Asasnya",
 		"description": "Page name"
 	},
 	"twitch.campSetup": {
@@ -115,8 +115,96 @@
 		"message": "Muzik di Twitch",
 		"description": "Page name"
 	},
+	"twitch.campLive": {
+		"message": "Belajar secara Langsung",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Papan Pemuka Pencipta",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Menguruskan strim miliknya...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Menguruskan peranan komunitinya...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "Dalam ruangan Pencipta Video...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "Melihat",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Analisis Saluran",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Ringkasan Strim",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Pencapaian",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Aktiviti Komuniti",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Senarai Pengikut",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Himpunan Video",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Klip",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Tetapan Saluran",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Tetapan Kawal Selia",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Tetapan Jatuhan",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Melihat Alatan Penstriman",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Melihat Sambungan",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Membaca mengenai Jenama Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Mengekalkan ketulenan Twitch",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Membawakan kaedah untuk menyerlahkan kegilaan kami (yang disayangi)",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Memaksimumkan ungkapan kami",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Menghimpunkan kesemuanya bersama",
+		"description": "Page name"
 	}
 }
