@@ -7,16 +7,84 @@
 		"message": "Søger...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Kapitel",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Redigerer:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Episode",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Fora",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Genre",
 		"description": ""
 	},
 	"general.language": {
 		"message": "Sprog",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Lytter til musik",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Lyttere",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Live",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Merch",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Side",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Sat på pause",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Afspiller",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Læser DMs fra:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Læser om:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Læser artikel:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Læser i kanal:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Læser indlæg:",
 		"description": ""
 	},
 	"general.reading": {
