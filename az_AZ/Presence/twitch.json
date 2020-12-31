@@ -1,0 +1,10 @@
+{
+	"twitch.downloads": {
+		"message": "Yükləmələr",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerlər",
+		"description": "Page name"
+	}
+}
