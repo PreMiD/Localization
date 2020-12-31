@@ -185,23 +185,23 @@ Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. A
       <td style="text-align:left">URL do serviço.<br><b>Exemplo:</b><code>vk.com</code><br>
       <b>Esse URL deve corresponder ao URL do website, pois irá detectar se o usuário está ou não no website para injetar o script.</b><br> <b>NÃO</b> adicione <code>https://</code> ou <code>http://</code> no URL ou barra no final:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Nota:</b>: Alguns URLs têm de possuir <code>www.</code> ou outra coisa na frente do domínio. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
+      <b>Nota:</b>: Alguns URLs têm de possuir <code>www.</code> ou outra coisa na frente do domínio. <b>NÃO</b> esqueça de adicioná-lo!<br>
+      Você pode adicionar múltiplos URLs fazendo o seguinte:<br>
       <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      Você também pode usar o regExp, também conhecido como Regex para isso, a explicação está abaixo.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
-      <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      <td style="text-align:left">Uma string de expressão regular usada para combinar com as urls.<br>
+      regExp ou também conhecida como Regex, pode ser usada se um website tiver múltiplos subdomínios.<br>
+Você pode usar a seguinte regExp para isso:<br>
+<code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
+TLD significa Top Level Domain (Domínio de Primeiro Nível) por exemplo: .com .net<br>
+<code>([a-z0-9]+)</code> significa qualquer coisa de A a Z e de 0 a 9.<br>
+        Você pode entender rapidamente assistindo este <a href="https://youtu.be/sXQxhojSdZM">vídeo</a><br>
+        Você pode testar seu regExp no <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -243,7 +243,7 @@ Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. A
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Define se <code>iFrames</code> são usados.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -255,7 +255,7 @@ Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. A
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Define se a extensão deve estar lendo os logs.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
