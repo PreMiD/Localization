@@ -3,13 +3,57 @@
 		"message": "Baixar",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Jobs",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Parceiros",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Press Center",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Segurança",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Acessibilidade",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Escolhas de Anúncios",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Diretrizes da Comunidade",
 		"description": "Page name"
 	},
 	"twitch.home": {
 		"message": "Página inicial",
 		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Vendo carteira...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Vendo Esports...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Vendo Pessoas | Seguindo...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Vendo time:",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "Visualizando suas",
