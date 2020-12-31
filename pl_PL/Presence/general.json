@@ -238,5 +238,13 @@
 	"general.repeat": {
 		"message": "Pętla włączona",
 		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Historia zdarzeń",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Historia czasu pracy",
+		"description": "A page name of statuspages"
 	}
 }

@@ -90,13 +90,5 @@
 	"premid.pageTs": {
 		"message": "Configurando TypeScript",
 		"description": "A page name"
-	},
-	"premid.incidentHistory": {
-		"message": "Historial de incidencias",
-		"description": "A page name of our statuspage"
-	},
-	"premid.uptimeHistory": {
-		"message": "Historial del tiempo de funcionamiento",
-		"description": "A page name of our statuspage"
 	}
 }

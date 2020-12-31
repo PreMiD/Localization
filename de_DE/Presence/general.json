@@ -238,5 +238,13 @@
 	"general.repeat": {
 		"message": "Auf Schleife",
 		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Ticketverlauf",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Laufzeitverlauf",
+		"description": "A page name of statuspages"
 	}
 }

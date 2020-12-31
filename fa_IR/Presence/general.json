@@ -238,5 +238,13 @@
 	"general.repeat": {
 		"message": "در تکرار",
 		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "تاریخچه وقایع",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "تاریخچه Uptime",
+		"description": "A page name of statuspages"
 	}
 }
