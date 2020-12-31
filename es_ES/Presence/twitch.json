@@ -96,23 +96,87 @@
 		"description": "Page name"
 	},
 	"twitch.campLevel": {
-		"message": "Subir de nivel",
+		"message": "Sube de nivel",
 		"description": "Page name"
 	},
 	"twitch.campConnect": {
-		"message": "Conectar y activar",
+		"message": "Conecta e involucra",
 		"description": "Page name"
 	},
 	"twitch.campReward": {
-		"message": "Sé recompensado",
+		"message": "Obtén recompensas",
 		"description": "Page name"
 	},
 	"twitch.campMusic": {
-		"message": "La música en Twitch",
+		"message": "Música en Twitch",
 		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Aprendizaje en vivo",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Panel de control del creador",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Gestionando su stream...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Gestionando los roles de su comunidad...",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "Viendo sus",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Analíticas del canal",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Resumen del stream",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Logros",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Actividad de la comunidad",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Lista de seguidores",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Colecciones de vídeos",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clips",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Configuración del canal",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Opciones de Moderación",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Configuración de Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Revisando las herramientas de streaming",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Revisando las extensiones",
+		"description": ""
 	}
 }
