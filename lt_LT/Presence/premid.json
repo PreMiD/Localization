@@ -86,13 +86,5 @@
 	"premid.pageTs": {
 		"message": "Konfigūruojamas TypeScript",
 		"description": "A page name"
-	},
-	"premid.incidentHistory": {
-		"message": "Incidentų istorija",
-		"description": "A page name of our statuspage"
-	},
-	"premid.uptimeHistory": {
-		"message": "Veikimo laiko istorija",
-		"description": "A page name of our statuspage"
 	}
 }
