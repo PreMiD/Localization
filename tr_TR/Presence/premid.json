@@ -75,6 +75,10 @@
 		"message": "Presence Sınıfı",
 		"description": "A page name"
 	},
+	"premid.pageSlideshowClass": {
+		"message": "Slideshow Sınıfı",
+		"description": "A page name"
+	},
 	"premid.pageIframe": {
 		"message": "iframe Kullanımı",
 		"description": "A page name"
