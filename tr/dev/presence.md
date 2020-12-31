@@ -39,7 +39,7 @@ Tüm servisler [TypeScript](https://www.typescriptlang.org/) ile kodlanır. [Typ
 
 ## Klasörleri ve dosyaları oluşturma
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Servisinizin **name** (URL adresinin değil) kısmında belirtilen isminin ilk harfinin bulunduğu `websites` klasörünün içerisindeki klasöre girin.
 2. Servisin **adı** (URL'si değil) ile bir klasör oluşturun.
 3. Bir `presence.ts` ve bir `tsconfig.json` dosyası oluşturun.
 4. Ana klasörün içine `dist` adında bir klasör oluşturun.
@@ -68,27 +68,28 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USER",
+    "name": "İSİM",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USER",
+      "name": "İSİM",
       "id": "ID"
     }
   ],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "SERVİS",
+  "altnames": ["SERVIS"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "İNGİLİZCE AÇIKLAMA",
+    "tr": "TÜRKÇE AÇIKLAMA"
   },
   "url": "URL",
-  "version": "VERSION",
-  "logo": "URL",
-  "thumbnail": "URL",
+  "version": "SÜRÜM",
+  "logo": "LOGO URL",
+  "thumbnail": "ARKAPLAN RESİM URL",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["ETİKET1", "ETİKET2"],
+  "category": "KATEGORİ",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +101,8 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "GÖRÜNECEK BAŞLIK",
+      "icon": "FONTAWESOME SİMGESİ",
       "value": true
     },
     {
@@ -109,17 +110,17 @@ Bu dosyayla fazla uğraşmak istemeyenler için bir `metadata.json` dosyası olu
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
+      "title": "GÖRÜNECEK BAŞLIK",
+      "icon": "FONTAWESOME SİMGESİ",
+      "value": " %sanatci% tarafından  \"%sarki%\"",
+      "placeholder": "%sanatci% veya %sarki% kullanabilirsiniz"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "GÖRÜNECEK BAŞLIK",
+      "icon": "FONTAWESOME SİMGESİ",
       "value": 0,
-      "values": ["1", "2", "etc."]
+      "values": ["1", "2", "vb."]
     }
   ]
 }
@@ -161,16 +162,13 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Servisin başlığı. Başlık servisin tüm dosyalarının içinde bulunduğu klasör ile aynı isimde olmalıdır.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Hayır</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Servisi ararken alternatif isimlerle aranabilmesi için kullanabileceğiniz alan. Farklı dillerde farklı şekilde yazılan (örneğin Pokémon ve 포켓몬스터) servisler ve isminde özel karakter içeren servisler için kullanılabilir.</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Evet</code></td>
     </tr>
