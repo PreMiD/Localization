@@ -1,0 +1,18 @@
+{
+	"twitch.downloads": {
+		"message": "Pobieranie",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerzy",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Strona główna",
+		"description": "Page name"
+	},
+	"twitch.viewTheir": {
+		"message": "Przegląda swoje",
+		"description": "Part 1 of the next 10 strings"
+	}
+}
