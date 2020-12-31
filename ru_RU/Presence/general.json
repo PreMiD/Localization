@@ -230,5 +230,13 @@
 	"general.cookie": {
 		"message": "Политика cookies",
 		"description": "A page name"
+	},
+	"general.incidentHistory": {
+		"message": "История инцидентов",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "История рабочего времени",
+		"description": "A page name of statuspages"
 	}
 }
