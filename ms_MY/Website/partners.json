@@ -139,6 +139,10 @@
 		"message": "Dewi yang bermain sebagai Bot Discord yang menyeronokkan!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM membolehkan anda mendengar 15+ strim muzik secara percuma - tanpa henti. Dengan muzik terbaik dan terbaru hanya untuk anda!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Penyetempatan yang agil untuk syarikat teknologi.",
 		"description": "Description for Crowdin."
