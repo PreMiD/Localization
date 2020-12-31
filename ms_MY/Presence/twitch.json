@@ -56,7 +56,7 @@
 		"description": ""
 	},
 	"twitch.viewDropsInv": {
-		"message": "Melihat inventori Jatuhan mereka...",
+		"message": "Melihat inventori Jatuhan miliknya...",
 		"description": ""
 	},
 	"twitch.viewDropsComp": {
@@ -80,7 +80,7 @@
 		"description": ""
 	},
 	"twitch.modStreamer": {
-		"message": "Mengawalselia penstrim:",
+		"message": "Mengawal selia penstrim:",
 		"description": ""
 	},
 	"twitch.redeem": {
@@ -205,6 +205,58 @@
 	},
 	"twitch.brandTogether": {
 		"message": "Menghimpunkan kesemuanya bersama",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Menonton perkembangan jenama Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Blog Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Melihat Arkib Blog {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Melayari hantaran blog terbaru...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Pusat Bantuan",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Melihat topik:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Melayari katalog topik...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Program Gabungan Twitch",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "Pembangun Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Pendokumenan Pembangun Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produk Pembangun Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Kisah kejayaan daripada komuniti",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Sumber Berguna",
 		"description": "Page name"
 	}
 }
