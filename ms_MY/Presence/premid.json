@@ -35,6 +35,10 @@
 		"message": "Keperluan Sistem",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "Pemasangan untuk {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Selesaikan masalah",
 		"description": "A page name"
@@ -43,12 +47,32 @@
 		"message": "API",
 		"description": "A page name"
 	},
+	"premid.pageApiVersion": {
+		"message": "Memahami API v{0}",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
 	"premid.pagePresenceDev": {
 		"message": "Pembangunan Presence",
 		"description": "A page name"
 	},
+	"premid.pagePresenceGuide": {
+		"message": "Garis Panduan Presence",
+		"description": "A page name"
+	},
 	"premid.pagePresenceClass": {
 		"message": "Kelas Presence",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Memahami iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Menetapkan metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Menetapkan TypeScript",
 		"description": "A page name"
 	}
 }
