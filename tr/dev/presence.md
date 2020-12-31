@@ -301,32 +301,33 @@ presence.on("UpdateData", async () => {
     Daha ağır ve sürekli tekrarlanmaması gereken işlemleri bu alanın dışında yukarıdaki gibi başka fonksiyon kullanarak yaptırmak önerilir. */
 
   const presenceData: PresenceData  = {
-    largeImageKey: "anahtar", /* Servisin kullanıcının profilinde gözükeceği büyük resmin Discord'dan oluşturduğunuz uygulamanın içerisindeki resim dosyasının adı. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+    largeImageKey: 
+      "anahtar", /* Servisin kullanıcının profilinde gözükeceği büyük resmin Discord'dan oluşturduğunuz uygulamanın içerisindeki resim dosyasının adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" */, kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır.
+     smallImageKey:
+      "anahtar", /* Servisin kullanıcının profilinde gözükeceği küçük resmin Discord'dan oluşturduğunuz uygulamanın içerisindeki resim dosyasının adı. Buraya yazacağınız resimler, oluşturduğunuz uygulamanın "Rich Presence > Art Assets" kısmına yüklenmeli ve yüklendiği ismiyle girilmiş olmalıdır. */
+    smallImageText: "Falan da filan", // Küçük resmin üzerine gelindiğinde gözükecek yazı.
+    details: "Bir sayfaya göz atıyor", // Üst kısımda gözükecek yazı.
+    state: "Ana Sayfa",  // Alt kısımda gözükecek yazı.
+    startTimestamp: 1577232000, // Unix Epoch biçiminde yazılmış zaman verisi
+    endTimestamp: 1577151472000 // Eğer "kaldı" biçiminde bir veri göstermek istiyorsanız, bitiş zamanını da aynı biçimde burada belirtmelisiniz.
+  }; /* Eğer isterseniz burada sadece belli bir şey belirtebilir veya hiç belirtmeden daha sonra bunları belirtebilirsiniz. Bunun için de presenceData.state = "Ana Sayfa" yapabilirsiniz. */
 
   if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    // Bu kısım presenceData objesinde "details" anahtarı bulunmadığı zaman devreye girecektir.
+    presence.setTrayTitle(); // Mac kullanıcıları için menü yazısını temizler.
+    presence.setActivity(); // Bu şekilde fonksiyona bir veri girmeden girerseniz, büyük resim Discord uygulamasının simgesine dönüşecek ve başka bir bilgi gösterilmeyecektir.
   } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    // Yukarıdaki durumun dışında herhangi bir şey gerçekleşirse burası devreye girecektir.
+    presence.setActivity(presenceData); // Aktiviteyi belirtilen verilerle ayarlar.
   }
 });
 ```
 
 Bunu `presence.ts` dosyanıza kopyalayıp değerleri düzenleyebilirsiniz. Değerleri ayarlama işlemi updateData eventi içinde gerçekleşir.
 
-Örnekler için 1337x veya 9GAG gibi servislerin kodlarını incelemenizi öneririz. For more information about the `Presence` class click [here](/dev/presence/class).
+Örnekler için 1337x veya 9GAG gibi servislerin kodlarını incelemenizi öneririz. `Presence` sınıfı hakkında daha fazla bilgi almak için [buradaki](/dev/presence/class) sayfayı ziyaret edebilirsiniz.
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+PreMiD 2.2.0 sürümünden itibaren Slideshow olarak adlandırılan, belirli aralıklarla birden fazla `PresenceData` gösterebileceğiniz sistem eklenmiştir. Bunlar hakkında daha fazla bilgi almak için [buraya tıklayabilirsiniz](/dev/presence/slideshow).
 
 ## İstediğiniz veriyi alamıyor musunuz?!
 
@@ -346,14 +347,14 @@ Eğer aradığınız veriyi bu yöntemlerle bulamıyorsanız, aşağıdaki adım
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Gereken tüm veriyi aldırın ve aşağıdaki yöntemle
+  ana koda gönderin.
   */
   iframe.send({
-    //sending data
+    // veriyi gönderme
     video: video,
     time: video.duration
-  });
+  }); 
 });
 ```
 
@@ -388,12 +389,12 @@ Servisinizin çalıştığı sayfalar, yerel dosyalarınızda yaptığınız her
 ## Hata ayıklama
 
 - Kodunuzun çalışıp çalışmadığınızı test edebilmek için kodunuzun bir yerine basitçe `console.log("Test");` koyabilir ve konsola çıktı verip vermediğini kontrol edebilirsiniz. Eğer çıktı veriyorsa, devam edin. Eğer vermiyorsa, kod bu satırdan önce hataya geçmiş veya hiç bu satıra ulaşamamış demektir.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Eğer bunların hiçbiri işe yaramadıysa, [Discord sunucumuzdan](https://discord.premid.app/) bir servis geliştiricisiyle iletişime geçebilirsiniz.
 
 # Dosyaların açıklamaları
 
 - [Presence Sınıfı](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [Slideshow Sınıfı](/dev/presence/slideshow)
 - [iFrame Sınıfı](/dev/presence/iframe)
 - [Metadata Dosyası](/dev/presence/metadata)
 - [TypeScript Konfigürasyonu](/dev/presence/tsconfig ""){.links-list}
