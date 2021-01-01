@@ -339,15 +339,15 @@ Since v2.2.0 there are now Slideshows, this allows you to show multiple `Presenc
 
 많은 웹사이트들이 [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames))를 사용중이에요. 이러한 HTML 태그들은 비디오와 같은 다양한 소스들을 포함하고 있을 수 있어요. 하지만 항상 그런 것은 아니랍니다. 어떤 것들은 숨겨져 있거나 비활성화 되어있어요. 무모한 삽질을 하기 전에 당신이 필요한 정보들을 추출 할 수 있는지 확인해보세요.
 
-1. 브라우저 콘솔에서 확인해보세요 (**Elements**탭에서 찾아봐요).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. 브라우저 콘솔에서 확인하기 (**Elements**탭에서 찾아봐요).
+2. 검색하기 (<kbd>CTRL</kbd>+<kbd>F</kbd> (윈도우) or <kbd>CMD</kbd>+<kbd>F</kbd> (macOS)).
+3. `document.querySelectorAll("iframe")` 실행하기.
 
-If you find that your data is in a iFrame you need to do the following:
+만약 당신의 데이터가 iFrame안에 있다면 다음을 수행하세요.
 
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+1. `iframe.ts` 파일 생성하기
+2. 메타데이터 파일에서 iFrame을 `true`로 설정하기
+3. iFrame 파일을 다음 코드로 채우기
 
 ```typescript
 const iframe = new iFrame();
@@ -364,7 +364,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-4. Making your presence file receive data from the iFrame file.
+4. presence 파일이 iFrame 파일의 데이터를 받을 수 있도록 설정하기
 
 ```typescript
 presence.on("iFrameData", (data) => {
@@ -373,20 +373,20 @@ presence.on("iFrameData", (data) => {
 });
 ```
 
-**Note:** This needs to be placed outside of the updateData event.
+**확인:** 이것은 updateData 이벤트 밖에 있어야 해요.
 
-## Compiling
+## 컴파일링
 
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+`presence.ts`를 `/dist` 폴더에 컴파일하기 위해 당신의 폴더에서 콘솔을 연 후 `tsc -w`를 입력하세요.
 
-# Loading the presence
+# presence 불러오기
 
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+1. 팝업을 열고 키보드의 <kbd>Shift</kbd>버튼을 누르고 있어요.
+2. **Presence 불러오기**가 Presences 항목에 뜰 거에요.
+3. <kbd>Shift</kbd> 버튼을 누른 채로 클릭하세요.
+4. presence의 /dist 폴더를 선택하세요.
 
-# Some helpful things
+# 유용한 기능들
 
 ## Hot-reloading
 
