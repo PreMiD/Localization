@@ -231,6 +231,10 @@
 		"message": "Politique de Cookies",
 		"description": "A page name"
 	},
+	"general.repeat": {
+		"message": "En boucle",
+		"description": ""
+	},
 	"general.incidentHistory": {
 		"message": "Historique d'incidents",
 		"description": "A page name of statuspages"
