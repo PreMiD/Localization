@@ -46,5 +46,9 @@
 	"premid.pageApi": {
 		"message": "API",
 		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence Osztály",
+		"description": "A page name"
 	}
 }
