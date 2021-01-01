@@ -48,9 +48,9 @@ Retourne un objet `PresenceData` de ce que la présence affiche.
 
 Définit l'activité de votre profil en fonction des données fournies.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+Le premier paramètre nécessite une interface [`PresenceData`](#presencedata-interface) ou une classe [`Slideshow`](/dev/presence/slideshow) pour obtenir toutes les informations que vous souhaitez afficher dans votre profil.
 
-Le deuxième paramètre définit quand la présence joue quelque chose ou non. Always use `true` if you provide timestamps in `PresenceData`.
+Le deuxième paramètre définit quand la présence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `PresenceData`.
 
 ### `clearActivity()`
 
@@ -66,28 +66,28 @@ Définit le titre de la barre de menus.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Crée une nouvelle classe `Slideshow`.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-This is suggested to do right when you make the `Presence` class.
+Il est suggéré de faire correctement lorsque vous faites la classe `Presence`.
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Exemple de clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Vous pouvez trouver la documentation pour la classe `Slideshow` [ici](/dev/presence/slideshow).
 
 ### `getStrings(Object)`
 
 Méthode asynchrone qui vous permet d'obtenir des chaînes traduites depuis l'extension.
 
-Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une compilation de chaînes traduites peut être trouvée depuis ici : `https://api.premid.app/v2/langFile/presence/fr/`
 
 ```typescript
 // Retourne `Playing` et `Paused` chaînes
