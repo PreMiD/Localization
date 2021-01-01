@@ -14,30 +14,30 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 버전 `2.x`에는 [Presence 상점](https://premid.app/store) 기능이 추가됩니다. 사용자들은 이제 저희 [홈페이지](https://premid.app/) 에서 자신이 좋아하는 Presence를 좋아요 표시할 수 있습니다.
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> 시작하기 전에, 우리의 이용 약관을 꼭 확인하는 것을 추천합니다. 
 > 
 > {.is-warning}
 
 - [지침](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# 구조
 
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+모든 Presence들은 [TypeScript](https://www.typescriptlang.org/)에 코딩되어있습니다. [TypeScript](https://www.typescriptlang.org/)는 JavaScript에 비해 더 구체적인 정보를 담고 있어, 버그를 찾아내어 고치는 것이 쉽습니다.
 
 ## 설치하기
 
 1. [Git](https://git-scm.com/) 설치하기
 2. [Node](https://nodejs.org/en/) 설치하기 ([npm](https://www.npmjs.com/)에 포함되어 있음)
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. [TypeScript](https://www.typescriptlang.org/index.html#download-links) 설치하기 (터미널 실행 후 "`npm install -g typescript`" 입력하기)
 
 ## Presence 복사하기
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. 터미널을 열어 `git clone https://github.com/PreMiD/Presences`를 입력하십시오.
 2. 원하는 폴더를 선택하세요.
 3. 이것을 당신의 코드 편집기로 실행하세요.
 
-## Creating folders and files
+## 폴더 및 파일 생성하기
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
