@@ -41,13 +41,13 @@ Le troisième paramètre nécessite un `nombre` qui est le temps en milliseconde
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Retourne toutes les diapositives enregistrées dans le `Slideshow` en tant que `tableau` de [`SlideshowSlide`](#slideshowslide-class).
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Updates the slide of the given `id` according to provided data.
+Met à jour la diapositive de `l'id` donné en fonction des données fournies.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+Le premier paramètre nécessite une `chaîne de caractère` qui est l'identifiant unique de la diapositive que vous voulez mettre à jour.
 
 Le deuxième paramètre nécessite une [interface `PresenceData`](/dev/presence/class#presencedata-interface) pour obtenir toutes les informations que vous souhaitez afficher dans la diapositive.
 
@@ -55,29 +55,29 @@ Le troisième paramètre nécessite un `nombre` qui est le temps en milliseconde
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Renvoie un `booléen` indiquant si la diapositive est ajoutée au `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Supprime la diapositive avec `l'id` donné du `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+Le premier paramètre nécessite une `chaîne de caractère` qui est l'identifiant unique de la diapositive que vous voulez supprimer.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Supprime toutes les diapositives du `Slideshow`.
 
-# SlideshowSlide Class
+# Classe du Slideshow
 
 ## Introduction
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+Un `SlideshowSlide` est la représentation interne de chaque diapositive dans un `Slideshow`.
 
 ## Propriétés
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Retourne une `chaîne de caractères` de l'id de la diapositive.
 
 ### `data`
 
