@@ -13,7 +13,7 @@ tags:
 > {.is-info}
 
 ## API 버전
-> API v1 has been discontinued, any request should be forwarded to the currently active version 
+> API v1은 단종되었으며, 모든 요청은 현재 사용 중인 버전에 대한 요청이어야 합니다. 
 > 
 > {.is-danger}
 
@@ -30,5 +30,5 @@ PreMid API에 연관되어있는 모든 HTTP-layer 및 프로코톨(예시: http
 
 **API 버전을 선택하세요.**
 - [v2 *진행중*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v3 *개발 중*](/dev/api/v3)
 {.links-list}
