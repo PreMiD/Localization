@@ -2,7 +2,7 @@
 title: இருப்பு வகுப்பு
 description: ஒவ்வொரு PreMiD இருப்புக்கும் முக்கிய வகுப்பு
 published: இயக்கப்பட்டது
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:23:09.406Z
 tags:
 editor: மார்க் டவுன்
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ Second parameter defines when presence is playing something or not. Always use `
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
