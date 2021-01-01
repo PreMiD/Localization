@@ -97,16 +97,16 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // Résultat: Joue
+const pauseString = strings.pause; // Résultat: En pause
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Depuis la v2.2.0 de l'extension, vous pouvez maintenant obtenir les chaînes de caractères d'une certaine langue. Cela fonctionne bien avec l'option de réglage `multiLanguage`, également nouvellement ajoutée.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Nous vous suggérons d'utiliser le code suivant afin qu'il mette à jour automatiquement PresenceData si l'utilisateur change la langue sélectionnée ;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Une interface des chaînes de caractères que vous obtenez (bonne pour la qualité du code et l'auto-complétion).
 interface LangStrings {
   play: string;
   pause: string;
@@ -115,29 +115,29 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // Les chaînes de caractères que vous obtenez, assurez-vous qu'elles correspondent à votre interface LangStrings.
       play: "general.playing",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // L'ID est l'ID du paramètre multiLanguage.
     await presence.getSetting("ID")
   );
 }
 
 let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+   // L'ID est l'ID du paramètre multiLanguage.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+//! Le code suivant doit être à l'intérieur de l'événement updateData !
+// L'ID est l'ID du paramètre multiLanguage.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // Résultat: Joue
+const pauseString = strings.pause; // Résultat: En pause
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Retourne une variable du site web si elle existe.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Cela permettra d'enregistrer le "contenu variable"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -157,9 +157,9 @@ Renvoie la version de l'extension que l'utilisateur utilise.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Affichera 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Affichera 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -176,7 +176,7 @@ console.log(setting); // This will log the value of the setting
 Masque le paramètre donné.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Remplacer pdexID par l'id du paramètre
 ```
 
 ### `montreParamètres(chaîne de caractères)`
@@ -184,12 +184,12 @@ presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 Affiche le paramètre spécifié (ne fonctionne que si le paramètre est déjà masqué).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Remplacer pdexID par l'id du paramètre
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Retourne les logs de la console des sites Web.
 
 ```typescript
 const logs = await presence.getLogs();
