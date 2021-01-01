@@ -231,6 +231,10 @@
 		"message": "Politique de Cookies",
 		"description": "A page name"
 	},
+	"general.repeatAll": {
+		"message": "Boucler toutes les chansons",
+		"description": ""
+	},
 	"general.repeat": {
 		"message": "En boucle",
 		"description": ""
