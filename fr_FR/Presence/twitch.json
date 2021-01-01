@@ -55,8 +55,16 @@
 		"message": "Equipe de visionnage :",
 		"description": ""
 	},
+	"twitch.viewDropsInv": {
+		"message": "Regardent leurs inventaires de livraison ...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "En train de regarder leur",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.blogs": {
+		"message": "Blogs Twitch",
+		"description": ""
 	}
 }
