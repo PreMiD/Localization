@@ -4,15 +4,15 @@
         "description": ""
     },
     "hypixel.watchThreads": {
-        "message": "Voir leurs fils de discussion surveillés",
+        "message": "Regarde leurs fils de discussion surveillés",
         "description": "Articles they get notifications from"
     },
     "hypixel.watchForums": {
-        "message": "En train de regarder leurs forums regardés",
+        "message": "Consulte leurs forums surveillés",
         "description": "Forum categories they get notifications from"
     },
     "hypixel.dm": {
-        "message": "Visualisation de leurs DMs",
+        "message": "Visualisation de leurs MPs",
         "description": ""
     },
     "hypixel.game": {
