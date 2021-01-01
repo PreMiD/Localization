@@ -14,7 +14,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 버전 `2.x`에는 [Presence 상점](https://premid.app/store) 기능이 추가됩니다. 사용자들은 이제 저희 [홈페이지](https://premid.app/) 에서 자신이 좋아하는 Presence를 좋아요 표시할 수 있습니다.
 
-> 시작하기 전에, 우리의 이용 약관을 꼭 확인하는 것을 추천합니다. 
+> 시작하기 전에, 우리의 이용 약관을 꼭 확인하는 것을 추천해요. 
 > 
 > {.is-warning}
 
@@ -23,7 +23,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 # 구조
 
-모든 Presence들은 [TypeScript](https://www.typescriptlang.org/)에 코딩되어있습니다. [TypeScript](https://www.typescriptlang.org/)는 JavaScript에 비해 더 구체적인 정보를 담고 있어, 버그를 찾아내어 고치는 것이 쉽습니다.
+모든 Presence들은 [TypeScript](https://www.typescriptlang.org/)에 코딩되어 있어요. [TypeScript](https://www.typescriptlang.org/)는 JavaScript에 비해 더 구체적인 정보를 담고 있어, 버그를 찾아내어 고치는 것이 쉬워요.
 
 ## 설치하기
 
@@ -62,7 +62,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
 
 ## metadata.json 파일에 입력하기
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+게으른 녀석들을 위해 우리가 `metadata.json`파일 생성기를 만들었어요. [여기를 클릭하세요](https://eggsy.xyz/projects/premid/mdcreator). 그래도 어떻게 작동하는지 알아보기 위해 다음을 읽어보기를 추천해요.
 
 ```json
 {
@@ -125,7 +125,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+다음 코드를 복사해 `metadata.json` 파일에 붙여 넣으세요. 이제 속성 값을 수정해야 해요. 참고로 다음 속성들은 당신의 `metadata.json` 파일에 선택 사항이기 때문에, 만약 쓰지 않을 것이라면 지워주세요.
 
 - `기여자`
 - `altnames`
@@ -135,7 +135,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `readLogs`
 - `설정`
 
-**Clarifying some value presets:**
+**다음은 변수들에 대한 설명입니다:**
 
 <table>
   <thead>
@@ -272,9 +272,9 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+게으른 녀석들을 위해 우리가 `metadata.json`파일 생성기를 만들었어요. [여기를 클릭하세요](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Getting started
+## 시작하기
 
 ```typescript
 const presence = new Presence({
@@ -335,11 +335,11 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG. Fo
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
-## Can't get certain data?!
+## 특정 데이터를 얻을 수 없나요?
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+많은 웹사이트들이 [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames))를 사용중이에요. 이러한 HTML 태그들은 비디오와 같은 다양한 소스들을 포함하고 있을 수 있어요. 하지만 항상 그런 것은 아니랍니다. 어떤 것들은 숨겨져 있거나 비활성화 되어있어요. 무모한 삽질을 하기 전에 당신이 필요한 정보들을 추출 할 수 있는지 확인해보세요.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
+1. 브라우저 콘솔에서 확인해보세요 (**Elements**탭에서 찾아봐요).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Execute `document.querySelectorAll("iframe")`.
 
