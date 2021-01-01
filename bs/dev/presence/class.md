@@ -2,7 +2,7 @@
 title: Klasa prisutnosti
 description: The main class for every PreMiD presence
 published: true
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:23:09.406Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -68,7 +68,7 @@ Drugi parametar definira kada prisutnost nešto svira ili ne. Always use `true` 
 
 ### `clearActivity()`
 
-Brisanje trenutne aktivnosti, veza tipki i naslova ladice.
+Clears your current activity and the tray title.
 
 
 

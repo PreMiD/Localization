@@ -399,7 +399,7 @@ Le site Web sur lequel vous développez est automatiquement rechargé chaque foi
 
 # Explications des fichiers
 
-- [Classe de presence](/dev/presence/class)
+- [Classe Presence](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
 - [Classe iFrame](/dev/presence/iframe)
 - [Fichier de métadonnées](/dev/presence/metadata)

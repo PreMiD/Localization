@@ -2,7 +2,7 @@
 title: Närvaro Klass
 description: Huvudklassen för varje PreMiD presence
 published: true
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:23:09.406Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ Den andra parametern definierar när presencen spelar något eller inte. Always 
 
 ### `clearActivity()`
 
-Rensar din nuvarande aktivitet, tangentbinden och systemfälts ikonens titel.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 

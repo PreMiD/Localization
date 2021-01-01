@@ -2,7 +2,7 @@
 title: Presence Sınıfı
 description: Tüm PreMiD servisleri için geçerli ana sınıf
 published: true
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:23:09.406Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ First parameter requires a [`PresenceData`](#presencedata-interface) interface o
 
 ### `clearActivity()`
 
-Gözüken verileri temizler, tuşları yakalamayı bırakır ve menü çubuğu yazısını temizler.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 

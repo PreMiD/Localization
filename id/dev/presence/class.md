@@ -2,7 +2,7 @@
 title: Kelas Presensi
 description: Kelas utama untuk setiap presence PreMiD
 published: true
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:23:09.406Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ Parameter kedua menentukan kapan presence memainkan sesuatu atau tidak. Always u
 
 ### `clearActivity()`
 
-Menghapus aktivitas Anda saat ini, pengikat tombol dan judul baki.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
