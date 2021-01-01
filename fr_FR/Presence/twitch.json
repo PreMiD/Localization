@@ -3,13 +3,45 @@
 		"message": "Téléchargements",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Jobs",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Partenaires",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Centre de presse",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Sécurité",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Accessibilité",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Choix des publicités",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Règles de la communauté",
 		"description": "Page name"
 	},
 	"twitch.home": {
 		"message": "Page d'accueil",
 		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Vérification du portefeuille...",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "En train de regarder leur",
