@@ -1,1 +1,14 @@
-{}
+{
+	"report.title": {
+		"message": "Hibajelentés",
+		"description": "Text to indicate the page."
+	},
+	"report.os": {
+		"message": "Válaszd ki az operációs rendszeredet és a verziót",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.error": {
+		"message": "További információ szükséges",
+		"description": "User needs to input more notification"
+	}
+}
