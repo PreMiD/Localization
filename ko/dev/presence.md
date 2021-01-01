@@ -388,16 +388,16 @@ presence.on("iFrameData", (data) => {
 
 # 유용한 기능들
 
-## Hot-reloading
+## Hot-reloading (핫-리로딩)
 
-The website you are developing on is automatically reloading every time you save a file in your folder.
+현재 개발하고 있는 웹사이트가 당신이 폴더에 파일을 저장할 때마다 자동으로 다시 로딩합니다.
 
-## Debugging
+## 디버깅
 
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- 당신의 코드들 사이에 `console.log("Test");`를 넣어 브라우저 콘솔이 그 결과를 출력하는 지 알 수 있습니다. 만약 한다면 다음 함수로 넘어가 다시 시도해보세요. 만약 하지 않는다면 앞에서 오류가 생긴 거예요.
+- 만약 이 방법으로 해결되지 않았다면 우리의 [디스코드 서버](https://discord.premid.app/)에 있는 presence 개발자에게 물어볼 수 있어요.
 
-# Files explained
+# 파일 설명
 
 - [Presence Class](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
