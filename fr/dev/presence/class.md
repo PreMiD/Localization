@@ -332,11 +332,11 @@ Cette interface a des variables suivantes, toutes sont optionnelles.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
-  largeImageKey: "service_logo",
-  smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  details: "Mon titre",
+  state: "Ma description",
+  largeImageKey: "logo_service,
+  smallImageKey: "petit_logo_service",
+  smallImageText: "Vous m'avez survoler, et maintenant ?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -348,7 +348,7 @@ Les événements vous permettent de détecter et de gérer certains changements 
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+    // Faire quelque chose quand les données sont mises à jour.
 });
 ```
 
