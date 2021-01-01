@@ -2,7 +2,7 @@
 title: Kelas Presence
 description: Kelas utama untuk setiap Presence di PreMiD
 published: true
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:23:09.406Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ Parameter kedua menentukan sama ada Presence sedang memainkan sesuatu atau tidak
 
 ### `clearActivity()`
 
-Mengosongkan aktiviti semasa, ikatan kekunci dan tajuk talam.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
