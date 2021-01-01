@@ -2,7 +2,7 @@
 title: Classe Presence
 description: La classe principale pour chaque presence PreMiD
 published: oui
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:23:09.406Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -50,11 +50,11 @@ Définit l'activité de votre profil en fonction des données fournies.
 
 Le premier paramètre nécessite une interface [`PresenceData`](#presencedata-interface) ou une classe [`Slideshow`](/dev/presence/slideshow) pour obtenir toutes les informations que vous souhaitez afficher dans votre profil.
 
-Le deuxième paramètre définit quand la présence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `PresenceData`.
+Le second paramètre définit quand la présence joue quelque chose ou non. Toujours utiliser `true` si vous fournissez des timestamps dans `PresenceData`.
 
 ### `clearActivity()`
 
-Efface votre activité actuelle, les raccourcis clavier et le titre de la zone de notification.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -72,7 +72,7 @@ Crée une nouvelle classe `Slideshow`.
 const slideshow = presence.createSlideshow();
 ```
 
-Il est suggéré de faire correctement lorsque vous faites la classe `Presence`.
+Il est suggéré de faire ceci directement après avoir crée la classe `Presence`.
 
 ```typescript
 const presence = new Presence({
@@ -85,12 +85,12 @@ Vous pouvez trouver la documentation pour la classe `Slideshow` [ici](/dev/prese
 
 ### `getStrings(Object)`
 
-Méthode asynchrone qui vous permet d'obtenir des chaînes traduites depuis l'extension.
+Méthode asynchrone qui vous permet d'obtenir les chaînes traduites depuis l'extension.
 
-Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une compilation de chaînes traduites peut être trouvée depuis ici : `https://api.premid.app/v2/langFile/presence/fr/`
+Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une liste de chaînes traduites peut être trouvée depuis ici : `https://api.premid.app/v2/langFile/presence/fr/`
 
 ```typescript
-// Retourne `Playing` et `Paused` chaînes
+// Retourne les chaînes `Playing` et `Paused`
 // depuis l'extension.
 const strings = await presence.getStrings({
   play: "general.playing",
@@ -106,7 +106,7 @@ Depuis la v2.2.0 de l'extension, vous pouvez maintenant obtenir les chaînes de 
 Nous vous suggérons d'utiliser le code suivant afin qu'il mette à jour automatiquement PresenceData si l'utilisateur change la langue sélectionnée ;
 
 ```typescript
-// Une interface des chaînes de caractères que vous obtenez (bonne pour la qualité du code et l'auto-complétion).
+// Une interface de chaînes de caractères que vous obtenez (bonne pour la qualité du code et l'auto-complétion).
 interface LangStrings {
   play: string;
   pause: string;
@@ -146,7 +146,7 @@ Retourne une variable du site web si elle existe.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // Cela permettra d'enregistrer le "contenu variable"
+console.log(pageVar); // Cela permettra d'afficher le "contenu variable"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -193,7 +193,7 @@ Retourne les logs de la console des sites Web.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // Cela affichera les 100 derniers logs (dans un tableau).
+console.log(logs); // Cela affichera les 100 derniers logs (dans un array).
 ```
 
 **Note:** Nécessite `readLogs` pour être `vrai` dans le fichier `metadata.json`.
