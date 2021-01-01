@@ -7,6 +7,14 @@
 		"message": "Követelmények",
 		"description": "Heading for the requirements."
 	},
+	"partners.apply.button": {
+		"message": "Jelentkezz most!",
+		"description": "Button to apply for partner."
+	},
+	"partners.sponsors.title": {
+		"message": "Szponzorok",
+		"description": "Heading for sponsors."
+	},
 	"partners.apply.select.website": {
 		"message": "Weboldal",
 		"description": "Select 'Website' category."
