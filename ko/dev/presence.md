@@ -33,21 +33,21 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ## Presence 복사하기
 
-1. 터미널을 열어 `git clone https://github.com/PreMiD/Presences`를 입력하십시오.
+1. 터미널을 열어 `git clone https://github.com/PreMiD/Presences`를 입력하세요.
 2. 원하는 폴더를 선택하세요.
 3. 이것을 당신의 코드 편집기로 실행하세요.
 
 ## 폴더 및 파일 생성하기
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
-2. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a `presence.ts` and a `tsconfig.json` file inside.
-4. Create a folder named `dist` inside.
-5. Create a `metadata.json` file inside the `dist` folder.
+1. `websites` 폴더로 이동한 후 지원하고 싶은 서비스의 첫 **알파벳** (URL 아님)을 가진 폴더로 이동하세요.
+2. 지원하고 싶은 서비스의 **이름**(URL 아님)을 폴더 명으로 하는 폴더를 만드세요.
+3. 폴더 안에 `presence.ts`파일과 `tsconfig.json`파일을 생성하세요.
+4. 안에 `dist`라는 이름의 폴더를 만드세요.
+5. `dist` 폴더 안에 `metadata.json`파일을 생성하세요.
 
-## Filling in the tsconfig.json file
+## tsconfig.json 파일에 입력하기
 
-Please put the following code inside of the `tsconfig.json` file.
+`tsconfig.json` 파일 안에 다음 코드를 입력해주세요.
 
 ```typescript
 {
@@ -58,9 +58,9 @@ Please put the following code inside of the `tsconfig.json` file.
 }
 ```
 
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/presence/tsconfig)를 클릭하세요.
 
-## Filling in the metadata.json file
+## metadata.json 파일에 입력하기
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
