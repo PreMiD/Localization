@@ -81,18 +81,18 @@ Retourne une `chaîne de caractères` de l'id de la diapositive.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Retourne un objet [`PresenceData`](/dev/presence/class#presencedata-interface) de la `PresenceData` enregistrée dans la diapositive.
 
 ## Méthodes
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Définit les données des diapositives en fonction des données fournies.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Vous devez fournir une interface `PresenceData` pour obtenir toutes les informations que vous souhaitez finalement afficher dans votre profil.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Définit l'intervalle de la diapositive selon les données fournies.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Vous devez fournir un `nombre` qui est le temps en millisecondes (minimum : 5000) que cette diapositive se montrera.
