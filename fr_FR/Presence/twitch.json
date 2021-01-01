@@ -124,19 +124,43 @@
 		"description": "Page name"
 	},
 	"twitch.dashboardManage": {
-		"message": "Gestion de leur stream...",
+		"message": "Gère leur stream...",
 		"description": ""
 	},
 	"twitch.manageRoles": {
 		"message": "Gère les rôles de la communauté...",
 		"description": ""
 	},
+	"twitch.produce": {
+		"message": "Dans le producteur de vidéo...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "En train de regarder leur",
 		"description": "Part 1 of the next 10 strings"
 	},
+	"twitch.channelAnaly": {
+		"message": "Données analytiques de la chaîne",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Résumé du steam",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
 	"twitch.achievements": {
 		"message": "Succès",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Activité de la communauté",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Liste des abonnés",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Collections de vidéos",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.clips": {
@@ -147,12 +171,56 @@
 		"message": "Paramètres de la chaîne",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
+	"twitch.moderationSettings": {
+		"message": "Paramètres de modération",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
 	"twitch.dropsSettings": {
 		"message": "Paramètres des Drops",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
+	"twitch.tools": {
+		"message": "Regarde les outils de streaming",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Regarde les extensions",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Lie à propos de la marque Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Maintenir Twitch réel",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Apporter de la méthode à notre (bien-aimée) folie",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Maximiser notre expression",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Rassembler le tout",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Regarder l'évolution de la marque de Twitch",
+		"description": "Watching as in watching a video"
+	},
 	"twitch.blogs": {
 		"message": "Blogs Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Consulter les archives du blog {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Parcoure les derniers posts du blog...",
 		"description": ""
 	},
 	"twitch.help": {
