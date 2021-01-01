@@ -33,11 +33,11 @@ console.log(currentSlide.details) // La console enregistrera les détails du Pre
 
 Ajoute une nouvelle diapositive au `Slideshow` en fonction des données fournies.
 
-Le premier paramètre nécessite une `chaîne de caractères` qui sera utilisée comme identifiant unique pour la diapositive.
+Le premier paramètre nécessite une `String` qui sera utilisée comme identifiant unique pour la diapositive.
 
 Le deuxième paramètre nécessite une [interface `PresenceData`](/dev/presence/class#presencedata-interface) pour obtenir toutes les informations que vous souhaitez afficher dans la diapositive.
 
-Le troisième paramètre nécessite un `nombre` qui est le temps en millisecondes (minimum : 5000) que cette diapositive se montrera.
+Le troisième paramètre nécessite un `Number` qui est le temps en millisecondes (minimum : 5000) que cette diapositive se montrera.
 
 ### `getSlides()`
 
@@ -47,21 +47,21 @@ Retourne toutes les diapositives enregistrées dans le `Slideshow` en tant que `
 
 Met à jour la diapositive de `l'id` donné en fonction des données fournies.
 
-Le premier paramètre nécessite une `chaîne de caractère` qui est l'identifiant unique de la diapositive que vous voulez mettre à jour.
+Le premier paramètre nécessite une `String` qui est l'identifiant unique de la diapositive que vous voulez mettre à jour.
 
 Le deuxième paramètre nécessite une [interface `PresenceData`](/dev/presence/class#presencedata-interface) pour obtenir toutes les informations que vous souhaitez afficher dans la diapositive.
 
-Le troisième paramètre nécessite un `nombre` qui est le temps en millisecondes (minimum : 5000) que cette diapositive se montrera.
+Le troisième paramètre nécessite un `Number` qui est le temps en millisecondes (minimum : 5000) que cette diapositive se montrera.
 
 ### `hasSlide(String)`
 
-Renvoie un `booléen` indiquant si la diapositive est ajoutée au `Slideshow`.
+Renvoie un `Boolean` indiquant si la diapositive est ajoutée au `Slideshow`.
 
 ### `deleteSlide(String)`
 
 Supprime la diapositive avec `l'id` donné du `Slideshow`.
 
-Le premier paramètre nécessite une `chaîne de caractère` qui est l'identifiant unique de la diapositive que vous voulez supprimer.
+Le premier paramètre nécessite une `String` qui est l'identifiant unique de la diapositive que vous voulez supprimer.
 
 ### `deleteAllSlides()`
 
@@ -77,7 +77,7 @@ Un `SlideshowSlide` est la représentation interne de chaque diapositive dans un
 
 ### `id`
 
-Retourne une `chaîne de caractères` de l'id de la diapositive.
+Retourne une `String` de l'id de la diapositive.
 
 ### `data`
 
@@ -95,4 +95,4 @@ Vous devez fournir une interface `PresenceData` pour obtenir toutes les informat
 
 Définit l'intervalle de la diapositive selon les données fournies.
 
-Vous devez fournir un `nombre` qui est le temps en millisecondes (minimum : 5000) que cette diapositive se montrera.
+Vous devez fournir un `Number` qui est le temps en millisecondes (minimum : 5000) que cette diapositive se montrera.

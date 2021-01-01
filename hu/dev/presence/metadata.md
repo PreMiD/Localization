@@ -76,7 +76,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Leírás</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Típus</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>

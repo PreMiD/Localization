@@ -1,5 +1,5 @@
 ---
-title: Classe de presence
+title: Classe Presence
 description: La classe principale pour chaque presence PreMiD
 published: oui
 date: 2020-12-26T13:53:09.952Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Classe de presence
+# Classe Presence
 
 ## Introduction
 
