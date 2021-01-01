@@ -62,5 +62,9 @@
 	"premid.pagePresenceClass": {
 		"message": "Presence Class",
 		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Slideshow Class",
+		"description": "A page name"
 	}
 }
