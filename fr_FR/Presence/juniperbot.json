@@ -7,9 +7,17 @@
         "message": "Regarde le classement du serveur :",
         "description": "Guild leaderboard page"
     },
+    "juniperbot.serverdash": {
+        "message": "Sur le tableau de bord",
+        "description": "Server configuration page"
+    },
     "juniperbot.serverdashname": {
         "message": "Serveur: {0}",
         "description": "Guild name"
+    },
+    "juniperbot.servers": {
+        "message": "Sélection d’un serveur",
+        "description": "Server selection page"
     },
     "juniperbot.commands": {
         "message": "Regarde la liste des commandes",
