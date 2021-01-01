@@ -226,5 +226,37 @@
 	"twitch.help": {
 		"message": "Centre d’aide",
 		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Regarde le sujet:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Navigue dans le catalogue des sujets...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Programme d'affiliation Twitch",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "Développeurs Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Documentation pour les développeurs de Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produits des développeurs de Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Exemples de réussite de la communauté",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Ressources utiles",
+		"description": "Page name"
 	}
 }
