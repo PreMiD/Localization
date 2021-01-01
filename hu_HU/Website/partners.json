@@ -19,6 +19,10 @@
 		"message": "Szponzorok",
 		"description": "Heading for sponsors."
 	},
+	"partners.apply.loggedUser": {
+		"message": "Bejelentkezve mint {0}",
+		"description": "{0} will be replaced with user account."
+	},
 	"partners.apply.select.website": {
 		"message": "Weboldal",
 		"description": "Select 'Website' category."
