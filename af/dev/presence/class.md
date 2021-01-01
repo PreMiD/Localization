@@ -2,7 +2,7 @@
 title: Aanwesigheidsklas
 description: Die hoofklas vir elke PreMiD-teenwoordigheid
 published: true
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:23:09.406Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ Tweede parameter definieer wanneer teenwoordigheid iets speel of nie. Always use
 
 ### `clearActivity()`
 
-Wis u huidige aktiwiteit, die sleutelbande en die skinkbordtitel uit.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
