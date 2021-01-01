@@ -117,9 +117,9 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     </tr>
     <tr>
       <td style="text-align:left"><b>Url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Ceci ne peut être utilisé comme un tableau que s'il y a plus d'une urls.</b></td>
+      <td style="text-align:left">URL du service.<br>
+<b>Exemple :</b><code>vk. om</code><br>
+        <b>Cette url doit correspondre à l'url du site web car elle sera utilisée pour détecter où que ce soit ou non le site web où injecter le script. Ceci ne peut être utilisé comme un tableau que s'il y a plus d'une urls.</b></td>
       <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
@@ -199,7 +199,7 @@ Si vous voulez apprendre des expressions régulières, voici quelques sites web.
 
 #### Apprentissage
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+- [ Vidéo de démarrage rapide](https://youtu.be/sXQxhojSdZM) - [RegexOne](https://regexone.com/) - [Information sur les expressions régulières](https://www.regular-expressions.info/tutorial.html)
 
 #### En Test
 
@@ -215,30 +215,30 @@ Configurer les paramètres interactifs pour que les utilisateurs puissent person
 "settings": [
   {
     "id": "ID",
-    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
+    "multiLanguage": true //Voir https://docs.premid.app/dev/presence/metadata#multilanguage
   },
   {
     "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
-    "value": true //Boolean value will make it an on/off switch with the value as the default value
+    "title": "TITRE D'AFFICHAGE",
+    "icon": "ICONE FONTAWESOME", //Exemple "fas fa-info"
+    "value": true // La valeur booléenne en fera un interrupteur marche/arrêt avec cette valeur comme valeur par défaut
   },
   {
     "id": "ID",
     "if": {
-      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+      "ID": true //Si un autre paramètre est égal à cette valeur (true/false/0/1/etc.) alors afficher ce bouton
     },
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
-    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+    "title": "TITRE D'AFFICHAGE",
+    "icon": "ICONE FONTAWESOME",
+    "value": "\"%song%\" by %artist%", //L'insertion d'une chaîne de caractères fera du réglage une entrée, où vous pourrez utiliser une entrée personnalisée.
+    "placeholder": "use %song% or %artist%" //Lorsque l'entrée est vide, elle apparaîtra en grisé
   },
   {
     "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
-    "value": 0, //Default value of the selector
-    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+    "title": "TITRE D'AFFICHAGE",
+    "icon": "ICONE FONTAWESOME",
+    "value": 0, //Valeur par défaut du sélecteur
+    "values": ["1", "2", "etc."] //Fera du réglage un sélecteur où vous choisirez celui que vous voulez
   }
 ]
 ```
