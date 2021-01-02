@@ -15,6 +15,10 @@
         "message": "Serveur: {0}",
         "description": "Guild name"
     },
+    "juniperbot.donate": {
+        "message": "Lis les informations à propos des plans de donation",
+        "description": "Page with information about donation plans"
+    },
     "juniperbot.servers": {
         "message": "Sélection d’un serveur",
         "description": "Server selection page"
@@ -26,6 +30,10 @@
     "juniperbot.stats": {
         "message": "Regarde les statistiques du bot",
         "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Personalise sa carte de rang",
+        "description": "Rating card customization page"
     },
     "juniperbot.cookies": {
         "message": "Regarde à propos des cookies du site",
