@@ -2,7 +2,7 @@
 title: Clase Presence
 description: La clase principal para cada presence de PreMiD
 published: true
-date: 2021-01-01T23:23:09.406Z
+date: 2021-01-01T23:32:02.313Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -72,7 +72,7 @@ Crea una nueva instancia de la clase `Slideshow`.
 const slideshow = presence.createSlideshow();
 ```
 
-Se sugiere hacer esto cuando instancias la clase `Presence`.
+It is suggested to do this right after creating the `Presence` class:
 
 ```typescript
 const presence = new Presence({
