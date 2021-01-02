@@ -10,5 +10,9 @@
 	"report.error": {
 		"message": "További információ szükséges",
 		"description": "User needs to input more notification"
+	},
+	"report.activebugs": {
+		"message": "Aktív hibák",
+		"description": "Lists users active bugs"
 	}
 }
