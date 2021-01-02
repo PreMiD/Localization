@@ -329,7 +329,7 @@ presence.on("UpdateData", async () => {
 
 Anda bisa menyalinnya ke file `presence.ts` dan merubah value nya. Pengaturan semua value dilakukan pada event updateData.
 
-Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG. Untuk informasi lebih lanjut tentang kelas `Presence` klik [di sini](/dev/presence/class).
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
