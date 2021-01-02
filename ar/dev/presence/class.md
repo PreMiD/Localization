@@ -28,7 +28,7 @@ const presence = new Presence({
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. يمكنك الحصول عليه من [ صفحة التطبيقات ](https://discordapp.com/developers/applications).
+هذه الخاصية مطلوبة لجعل presence يعمل ، لأنه يستخدم معرف التطبيق الخاص بك لعرض شعاره. يمكنك الحصول عليه من [ صفحة التطبيقات ](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
