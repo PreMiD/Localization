@@ -52,11 +52,11 @@
 		"description": ""
 	},
 	"twitch.viewTeam": {
-		"message": "Equipe de visionnage :",
+		"message": "Regarde l’équipe:",
 		"description": ""
 	},
 	"twitch.viewDropsInv": {
-		"message": "Regardent leurs inventaires de livraison ...",
+		"message": "Regarde son inventaire des Drops...",
 		"description": ""
 	},
 	"twitch.viewDropsComp": {
@@ -132,7 +132,7 @@
 		"description": ""
 	},
 	"twitch.produce": {
-		"message": "Dans le producteur de vidéo...",
+		"message": "Dans le producteur de vidéos...",
 		"description": ""
 	},
 	"twitch.viewTheir": {
