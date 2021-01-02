@@ -168,7 +168,7 @@ A list of fields and their rules are listed below:
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
 
-### **`Logotipo`**
+### **`logotipo`**
 
 - The logo **must** be a square image with a `1:1` aspect ratio.
 - The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
@@ -299,7 +299,7 @@ Algumas coisas que você deve saber após abrir uma pull request:
 
 Actualmente, uma presença atravessa 2 fases distintas de controlos. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
-- `Codacy` is a bot that checks for code quality. Se você receber erros para novas issues, é **necessário** para corrigi-los.
+- O `Codacy`é um bot que verifica a qualidade do código. Se você receber erros para novas issues, é **necessário** para corrigi-los.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Regras Adicionais`
