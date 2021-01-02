@@ -111,7 +111,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Deskripsi harus memiliki value yang berpasangan yang menandakan bahasa, dan deskripsi dengan bahasa tertentu. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan merubah file metadata anda. Lihat kategori untuk bahasa presence untuk daftarnya. </td>
+      <td style="text-align:left">Deskripsi layanan tersebut <b>BUKAN</b> presencenya. Deskripsi harus memiliki value yang berpasangan yang menandakan bahasa, dan deskripsi dengan bahasa tertentu. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan merubah file metadata anda. Lihat kategori untuk bahasa presence untuk daftarnya. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
