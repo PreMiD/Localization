@@ -136,7 +136,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Logotipo</b></td>
+      <td style="text-align:left"><b>logotipo</b></td>
       <td style="text-align:left">Vincular ao tipo de logotipo de serviço&apos;s.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
@@ -333,7 +333,7 @@ Ao fazer a sua presença, deve especificar uma categoria na qual a presença se 
   <thead>
     <tr>
       <th style="text-align:left">Categoria</th>
-      <th style="text-align:left">Nome:</th>
+      <th style="text-align:left">Nome</th>
       <th style="text-align:left">Descrição</th>
     </tr>
   </thead>
