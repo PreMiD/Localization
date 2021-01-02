@@ -54,7 +54,7 @@ El segundo parámetro indica si la presence está reproduciendo algo o no. Utili
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Elimina la actividad actual y el titulo de la bandeja de trabajo.
 
 ### `setTrayTitle(String)`
 
@@ -72,7 +72,7 @@ Crea una nueva instancia de la clase `Slideshow`.
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Se sugiere hacer esto al instanciar la clase `Presence`:
 
 ```typescript
 const presence = new Presence({
