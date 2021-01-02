@@ -15,6 +15,10 @@
 		"message": "Socios",
 		"description": "Page name"
 	},
+	"twitch.press": {
+		"message": "Centro de prensa",
+		"description": "Page name"
+	},
 	"twitch.security": {
 		"message": "Seguridad",
 		"description": "Page name"
@@ -127,6 +131,10 @@
 		"message": "Gestionando los roles de su comunidad...",
 		"description": ""
 	},
+	"twitch.produce": {
+		"message": "En el Productor de Video...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "Viendo sus",
 		"description": "Part 1 of the next 10 strings"
@@ -177,6 +185,10 @@
 	},
 	"twitch.extensions": {
 		"message": "Revisando las extensiones",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Leyendo acerca de Twitch...",
 		"description": ""
 	}
 }
