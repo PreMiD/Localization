@@ -139,6 +139,10 @@
 		"message": "Dewi yang bermain sebagai Bot Discord menyenagkan!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM memungkinkanmu mendengarkan 15+ aliran musik gratis - nonstop. Dengan musik terbaik dan terbaru hanya untukmu!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Lokalisasi tangkas untuk perusahaan teknologi.",
 		"description": "Description for Crowdin."
