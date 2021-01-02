@@ -47,6 +47,10 @@
 		"message": "Kép link: (550x300, csak PNG)",
 		"description": "Do not change the sizes."
 	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Példa: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Bezárás",
 		"description": "Modal close button."
@@ -54,6 +58,10 @@
 	"partners.apply.success": {
 		"message": "Köszönjük jelentkezésedet!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Kérlek, töltsd ki az összes mezőt.",
+		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error4": {
 		"message": "Már jelentkeztél a partnerre.",
