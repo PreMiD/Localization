@@ -1,1 +1,10 @@
-{}
+{
+	"spotify.bestPodcasts": {
+		"message": "Legjobb podcastok",
+		"description": ""
+	},
+	"spotify.download": {
+		"message": "Spotify Letöltése",
+		"description": ""
+	}
+}
