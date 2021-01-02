@@ -393,12 +393,12 @@ Website yang anda sedang anda kembangkan akan otomatis reload setiap anda menyim
 ## Debugging
 
 - Anda dapat memberi `console.log("Test");` diantara kode dan melihat apakah konsol browser memberi output tersebut. Jika iya lanjutkan dan ulangi pada function selanjutnya. Jika tidak berarti terdapat eror diatas.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Jika itu tidak membantumu, tanyakan pada pengembang presence di [server Discord](https://discord.premid.app/) kami untuk bantuan.
 
 # File dijelaskan
 
 - [Kelas Presensi](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [Kelas Slideshow](/dev/presence/slideshow)
 - [Kelas iFrame](/dev/presence/iframe)
 - [File Metadata](/dev/presence/metadata)
 - [Konfigurasi TypeScript](/dev/presence/tsconfig ""){.links-list}
