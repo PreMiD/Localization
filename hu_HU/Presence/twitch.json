@@ -18,5 +18,25 @@
 	"twitch.home": {
 		"message": "Főoldal",
 		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Tartalomkészítő Irányítópult",
+		"description": "Page name"
+	},
+	"twitch.channelAnaly": {
+		"message": "Csatornaelemzés",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Közvetítés összefoglalása",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Eredmények",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Követők listája",
+		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }
