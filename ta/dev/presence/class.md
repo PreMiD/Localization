@@ -2,7 +2,7 @@
 title: இருப்பு வகுப்பு
 description: ஒவ்வொரு PreMiD இருப்புக்கும் முக்கிய வகுப்பு
 published: இயக்கப்பட்டது
-date: 2021-01-01T23:23:09.406Z
+date: 2021-01-01T23:32:02.313Z
 tags:
 editor: மார்க் டவுன்
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -72,7 +72,7 @@ Creates a new `Slideshow` class.
 const slideshow = presence.createSlideshow();
 ```
 
-This is suggested to do right when you make the `Presence` class.
+It is suggested to do this right after creating the `Presence` class:
 
 ```typescript
 const presence = new Presence({
