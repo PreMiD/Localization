@@ -18,17 +18,17 @@ Saat Anda membuat kelas, Anda harus menentukan properti `clientId`.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // Contoh clientId
 });
 ```
 
-### Properties
+### Properti
 
-There are three properties available for `Presence` class.
+Disini ada tiga properti yang tersedia untuk kelas `Presence`.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/developers/applications).
+Properti ini diperlukan agar presencemu bekerja, karena menggunakan id aplikasimu untuk menampilkan logo dan asetnya. Anda bisa mendapatkan di [halaman aplikasi anda](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
@@ -42,7 +42,7 @@ When setting `appMode` to `true` and the presence were to send an empty `Presenc
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Mengembalikan objek `PresenceData` dari apa yang sedang ditampilkan presence.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
