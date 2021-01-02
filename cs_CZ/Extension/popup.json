@@ -91,6 +91,10 @@
 		"message": "Bez připojení k internetu!",
 		"description": "Shown when the user has no internet connection"
 	},
+	"popup.info.noInternet.message": {
+		"message": "Vypadá to, že nejsi připojen k internetu! PreMiD v momentální chvíli nemůže zobrazit Presence.",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "Vše",
 		"description": "Category name shown when you open tags"
