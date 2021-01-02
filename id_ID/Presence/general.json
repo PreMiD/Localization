@@ -230,5 +230,21 @@
 	"general.cookie": {
 		"message": "Kebijakan Cookie",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Memutar ulang semua lagu",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Dalam putaran",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Riwayat insiden",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Riwayat uptime",
+		"description": "A page name of statuspages"
 	}
 }
