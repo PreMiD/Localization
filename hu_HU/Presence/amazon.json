@@ -1,1 +1,10 @@
-{}
+{
+    "amazon.wishlist": {
+        "message": "kívánságlista",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "ajándékkártyák",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
+}
