@@ -54,7 +54,7 @@ First parameter requires a [`PresenceData`](#presencedata-interface) interface o
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+현재 활동, 키바인드, 그리고 트레이 제목을 비웁니다.
 
 ### `setTrayTitle(String)`
 
