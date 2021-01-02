@@ -10,14 +10,14 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Lignes directrices
 
-Lors de la publication de Presences sur [notre dépôt GitHub](https://github.com/PreMiD/Presences), nous vous demandons de suivre un ensemble de règles. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles nous empêchera, ainsi que les utilisateurs, de faire face à n'importe quel problème.
+Lors de la publication de Presences sur [notre dépôt GitHub](https://github.com/PreMiD/Presences), nous vous demandons de suivre un ensemble de règles. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles empêchera les utilisateurs de faire face à des problèmes.
 
 # Création
 
 Les règles générales de développement de presence sont les suivantes:
 
 - Les presences **doivent** être liées au site web que vous avez choisi.
-- Les presences **ne peuvent pas** être faites pour des sites web illégaux. (par exemple, stresseurs, marketing de drogues, pédopornographie, etc.)
+- Les presences **ne peuvent pas** être faites pour des sites web illégaux. (par exemple, stresseurs, ventes de drogues, pédopornographie, etc.)
 - La structure du fichier doit être propre et gérée, n'incluez pas des fichiers qui ne sont pas spécifiés. (par exemple, les dossiers vscode et git, images et fichiers texte, etc.)
 - Vous devez avoir une structure de fichier appropriée, les brouillons ne sont **pas** autorisés.
 - Les presences pour des sites web avec ( `.onion` TLDs) ou des sites web avec domaines/hébergeurs gratuits (par exemple, `.TK`, [tous les domaines libres de Freenom], `.RF` `GD`, etc) **ne sont pas** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.

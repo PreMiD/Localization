@@ -2,7 +2,7 @@
 title: Presence Klasse
 description: De belangrijkste klasse voor elke PreMiD presence
 published: true
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:32:02.313Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ Tweede parameter definieert wanneer presence iets afspeelt of niet. Gebruik alti
 
 ### `clearActivity()`
 
-Wist je huidige activiteit, de keybinds en de titel van het vak.
+Wist je huidige activiteit en de tray titel.
 
 ### `setTrayTitle(String)`
 
@@ -72,7 +72,7 @@ Maakt een nieuwe `Slideshow` klasse aan.
 const slideshow = presence.createSlideshow();
 ```
 
-Dit wordt aanbevolen om gelijk te doen wanneer je de `Presence` klasse maakt.
+Dit wordt aanbevolen om gelijk te doen wanneer je de `Presence` klasse maakt:
 
 ```typescript
 const presence = new Presence({

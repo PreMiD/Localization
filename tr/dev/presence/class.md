@@ -2,7 +2,7 @@
 title: Presence Sınıfı
 description: Tüm PreMiD servisleri için geçerli ana sınıf
 published: true
-date: 2021-01-01T23:23:09.406Z
+date: 2021-01-01T23:32:02.313Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -72,7 +72,7 @@ Yeni bir `Slideshow` sınıfı oluşturur.
 const slideshow = presence.createSlideshow();
 ```
 
-Bunu tam olarak `Presence` sınıfını yaparken yapmanız önerilir.
+It is suggested to do this right after creating the `Presence` class:
 
 ```typescript
 const presence = new Presence({

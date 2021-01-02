@@ -2,7 +2,7 @@
 title: Classe Presence
 description: La classe principale pour chaque presence PreMiD
 published: oui
-date: 2021-01-01T23:23:09.406Z
+date: 2021-01-01T23:32:02.313Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -18,7 +18,7 @@ Lorsque vous créez une classe, vous devez spécifier la propriété `clientId`.
 
 ```typescript
 const presence = new Presence({
-  clientId: "5141496134389561" // Exemple clientId
+  clientId: "5141496134389561" // Exemple de clientId
 });
 ```
 
@@ -54,7 +54,7 @@ Le second paramètre définit quand la présence joue quelque chose ou non. Touj
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Enlève l'activité et le titre actuel.
 
 ### `setTrayTitle(String)`
 
@@ -72,7 +72,7 @@ Crée une nouvelle classe `Slideshow`.
 const slideshow = presence.createSlideshow();
 ```
 
-Il est suggéré de faire ceci directement après avoir crée la classe `Presence`.
+It is suggested to do this right after creating the `Presence` class:
 
 ```typescript
 const presence = new Presence({
@@ -196,30 +196,30 @@ const logs = await presence.getLogs();
 console.log(logs); // Cela affichera les 100 derniers logs (dans un array).
 ```
 
-**Note:** Nécessite `readLogs` pour être `vrai` dans le fichier `metadata.json`.
+**Note:** Nécessite `readLogs` d'être réglé à `true` dans le fichier `metadata.json`.
 
 ### `info(String)`
 
-La console enregistre le message donné dans un format basé sur la presence dans le style `info`.
+Affiche le message donné dans la console dans un format basé sur la presence dans le style `info`.
 
 ```typescript
-presence.info("Test") // Cela va enregistrer "test" dans le bon style.
+presence.info("Test") // Cela va afficher "test" dans le bon style.
 ```
 
 ### `success(String)`
 
-La console enregistrer le message donné dans un format basé sur la presence dans le style `success`.
+Affiche le message donné dans un format basé sur la presence dans le style `success`.
 
 ```typescript
-presence.success("Test") // Cela va enregistrer "test" dans le bon style.
+presence.success("Test") // Cela va afficher "test" dans le bon style.
 ```
 
 ### `error(String)`
 
-La console enregistre le message donné dans un format basé sur la presence dans le style `error`.
+Affiche le message donné dans un format basé sur la presence dans le style `error`.
 
 ```typescript
-presence.error("Test") // Cela va enregistrer "test" dans le bon style.
+presence.error("Test") // Cela va afficher "test" dans le bon style.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
@@ -232,7 +232,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** La `String` donnée dans querySelector est un exemple.
+**Note:** Le `String` donnée dans querySelector est un exemple.
 
 ### `getTimestamps(Number, Number)`
 
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** La `String` donnée dans querySelector est un exemple.
+**Note:** Le `String` donnée dans querySelector est un exemple.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Convertis un String dans le format ` HH:MM:SS`, `MM:SS` ou `SS` dans un Integer (Ne retourne pas de snowflake timestamp).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -259,13 +259,13 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** La `String` donnée dans querySelector est un exemple.
+**Note:** Le `String` donnée dans querySelector est un exemple.
 
-## `Interface de données de présence`
+## Interface `PresenceData`
 
-L'interface `PresenceData` est recommandée lorsque vous utilisez la méthode `setActivity()`.
+L'utilisation de l'interface `PresenceData` est recommandée lorsque vous utilisez la méthode `setActivity()`.
 
-Cette interface a des variables suivantes, toutes sont optionnelles.
+Les variables de cette interface sont les suivantes, toutes sont optionnelles.
 
 <table>
   <thead>
@@ -284,16 +284,15 @@ Cette interface a des variables suivantes, toutes sont optionnelles.
     </tr>
     <tr>
       <td style="text-align:left">Etat</td>
-      <td style="text-align:left">Deuxième ligne en votre présence.</td>
+      <td style="text-align:left">Deuxième ligne de votre présence.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Définit le temps actuel.<br>
-        Utilisé si vous voulez afficher combien <code>heures:minutes:secondes</code> restantes.
-          <br>Vous devez convertir votre temps en <code>horodatage</code> ou vous obtiendrez un compte à rebours
-          erroné.
+        Utilisé si vous voulez afficher combien d'<code>heures:minutes:secondes</code> sont restantes.
+          <br>Vous devez convertir votre <code>timestamp</code> ou vous obtiendrez un compte à rebours erroné.
       </td>
       <td style="text-align:left"><code>Numéros</code>
       </td>
@@ -301,9 +300,8 @@ Cette interface a des variables suivantes, toutes sont optionnelles.
     <tr>
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Définit la durée complète.
-        <br>Utilisé si vous voulez afficher combien <code>heures:minutes:secondes</code> restant.
-          <br>Vous devez convertir votre temps en <code>horodatage</code> ou vous obtiendrez un compte à rebours
-          erroné.
+        <br>Utilisé si vous voulez afficher combien d'<code>heures:minutes:secondes</code> sont restante.
+          <br>Vous devez convertir votre <code>timestamp</code> ou vous obtiendrez un compte à rebours erroné.
       </td>
       <td style="text-align:left"><code>Numéros</code>
       </td>
@@ -316,7 +314,7 @@ Cette interface a des variables suivantes, toutes sont optionnelles.
     </tr>
     <tr>
       <td style="text-align:left">petite clé ImageKey</td>
-      <td style="text-align:left">Définit la petite icône à côté du logo&apos;s.</td>
+      <td style="text-align:left">Définit la petite icône à côté du logo.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code>
       </td>
     </tr>
@@ -344,7 +342,7 @@ const presenceData: PresenceData = {
 
 ## Évènements
 
-Les événements vous permettent de détecter et de gérer certains changements ou appels qui ont été effectués. Vous pouvez vous abonner aux événements en utilisant la méthode `sur`.
+Les événements vous permettent de détecter et de gérer certains changements ou appels qui ont été effectués. Vous pouvez vous abonner aux événements en utilisant la méthode `on`.
 
 ```typescript
 presence.on("UpdateData", async () => {

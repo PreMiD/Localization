@@ -2,7 +2,7 @@
 title: Класс присутствия
 description: Основной класс для каждого присутствия PreMiD
 published: true
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:32:02.313Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ const presence = new Presence({
 
 ### `clearActivity()`
 
-Очищает вашу текущую активность, привязку клавиш и заголовок.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -72,7 +72,7 @@ const presence = new Presence({
 const slideshow = presence.createSlideshow();
 ```
 
-Это рекомендуется сделать правильно, когда вы делаете класс `Presence`.
+It is suggested to do this right after creating the `Presence` class:
 
 ```typescript
 const presence = new Presence({

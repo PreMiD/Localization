@@ -2,7 +2,7 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: fíor
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:32:02.313Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ Second parameter defines when presence is playing something or not. Always use `
 
 ### `clearActivity()`
 
-Clears your current activity, the keybinds and the tray title.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -72,7 +72,7 @@ Creates a new `Slideshow` class.
 const slideshow = presence.createSlideshow();
 ```
 
-This is suggested to do right when you make the `Presence` class.
+It is suggested to do this right after creating the `Presence` class:
 
 ```typescript
 const presence = new Presence({

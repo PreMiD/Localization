@@ -2,7 +2,7 @@
 title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
 published: vero
-date: 2020-12-26T13:53:09.952Z
+date: 2021-01-01T23:32:02.313Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -54,7 +54,7 @@ Il secondo parametro definisce quando la presence sta riproducendo qualcosa o no
 
 ### `clearActivity()`
 
-Rimuove l'attività corrente, le scorciatoie da tastiera e il titolo del supporto.
+Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
@@ -72,7 +72,7 @@ Creates a new `Slideshow` class.
 const slideshow = presence.createSlideshow();
 ```
 
-This is suggested to do right when you make the `Presence` class.
+It is suggested to do this right after creating the `Presence` class:
 
 ```typescript
 const presence = new Presence({
