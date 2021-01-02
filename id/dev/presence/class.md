@@ -48,9 +48,9 @@ Mengembalikan objek `PresenceData` dari apa yang sedang ditampilkan presence.
 
 Tetapkan aktivitas profil Anda sesuai dengan data yang disediakan.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+Parameter pertama membutuhkan interface [`PresenceData`](#presencedata-interface) atau kelas [`Slideshow`](/dev/presence/slideshow) untuk mendapatkan semua informasi yang ingin kamu tampilkan di profilmu.
 
-Parameter kedua menentukan kapan presence memainkan sesuatu atau tidak. Always use `true` if you provide timestamps in `PresenceData`.
+Parameter kedua menentukan kapan presence memainkan sesuatu atau tidak. Selalu gunakan `true` jika kamu memberikan timestamp di `PresenceData`.
 
 ### `clearActivity()`
 
