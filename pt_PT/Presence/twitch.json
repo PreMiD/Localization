@@ -3,6 +3,10 @@
 		"message": "Downloads",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Empregos",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Parceiros",
 		"description": "Page name"
