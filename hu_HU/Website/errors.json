@@ -31,6 +31,10 @@
 		"message": "a felhasználó elég állapotüzenetet készített és Állapotüzenet fejlesztő ranggal rendelkezik Discord szerverünkön.",
 		"description": "Check the presence amount of the developer created message."
 	},
+	"user.notFound.message3": {
+		"message": "ha mások ugyanazt a problémát tapasztalják a Discord szerverünkön.",
+		"description": "Check if the error is also happening to others message."
+	},
 	"user.notFound.message4": {
 		"message": "Ha ezt hibának gondolod, vedd fel velünk a kapcsolatot [Discord szerverünkön].",
 		"description": "Bottom line for the error page. Do not edit brackets."
