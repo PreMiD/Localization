@@ -60,7 +60,7 @@
 		"description": ""
 	},
 	"general.paused": {
-		"message": "Pausado",
+		"message": "Em pausa",
 		"description": ""
 	},
 	"general.playing": {
@@ -230,5 +230,21 @@
 	"general.cookie": {
 		"message": "Politica de cookies",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "A repetir todas as músicas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "A repetir",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Histórico de incidentes",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Histórico de atividade",
+		"description": "A page name of statuspages"
 	}
 }
