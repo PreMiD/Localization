@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 Jika anda ingin menerbitkan presence ke toko dan memuatnya lewat ektensi, anda harus membuat file `metadata.json` pada folder `dist` anda.
 
-An example of that file can be found below.
+Contoh file tersebut dapat ditemukan di bawah.
 
 ```typescript
 {
@@ -90,7 +90,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+      <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari kontributor. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
