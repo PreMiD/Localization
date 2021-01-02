@@ -19,6 +19,10 @@
 		"message": "Szponzorok",
 		"description": "Heading for sponsors."
 	},
+	"partners.partner.crowdin": {
+		"message": "Agilis honosítás a tech cégek számára.",
+		"description": "Description for Crowdin."
+	},
 	"partners.apply.loggedUser": {
 		"message": "Bejelentkezve mint {0}",
 		"description": "{0} will be replaced with user account."
@@ -39,6 +43,10 @@
 		"message": "Link",
 		"description": "Link field."
 	},
+	"partners.apply.form.imageLink": {
+		"message": "Kép link: (550x300, csak PNG)",
+		"description": "Do not change the sizes."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Bezárás",
 		"description": "Modal close button."
@@ -46,5 +54,9 @@
 	"partners.apply.success": {
 		"message": "Köszönjük jelentkezésedet!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error4": {
+		"message": "Már jelentkeztél a partnerre.",
+		"description": "Error when already applied."
 	}
 }
