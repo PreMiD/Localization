@@ -93,7 +93,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Matriz&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>serviço</b></td>
@@ -107,7 +107,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Matriz&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>descrição</b></td>
@@ -127,7 +127,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>versão</b></td>
@@ -170,25 +170,25 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Define se <code>iFrames</code> são usados</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Um seletor de expressão regular que seleciona iframes para injetar.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>definições</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Matriz&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
   </tbody>
 </table>
