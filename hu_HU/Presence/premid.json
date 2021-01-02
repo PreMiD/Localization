@@ -39,6 +39,10 @@
 		"message": "Rendszerkövetelmények",
 		"description": "A page name"
 	},
+	"premid.pageInstall": {
+		"message": "Telepítés",
+		"description": "A page name"
+	},
 	"premid.pageInstallFor": {
 		"message": "Telepítés {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
