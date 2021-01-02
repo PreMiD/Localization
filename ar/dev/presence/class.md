@@ -22,9 +22,9 @@ const presence = new Presence({
 });
 ```
 
-### Properties
+### الخصائص
 
-There are three properties available for `Presence` class.
+هناك ثلاث خصائص متاحة لفئة `Presence`.
 
 #### `clientId`
 
