@@ -1,1 +1,18 @@
-{}
+{
+    "facebook.userHidden": {
+        "message": "valaki... (Felhasználó rejtett)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.userAbout": {
+        "message": "A felhasználóról olvas:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Mentett videók",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nemrég hozzáadott",
+        "description": ""
+    }
+}
