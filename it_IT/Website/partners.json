@@ -164,7 +164,7 @@
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
-		"message": "Applicati come partner",
+		"message": "Domanda per essere un partner",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
@@ -244,7 +244,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Ti sei già applicato come partner.",
+		"message": "Hai già fatto domanda per partner.",
 		"description": "Error when already applied."
 	}
 }
