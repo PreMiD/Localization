@@ -208,11 +208,11 @@
 		"description": ""
 	},
 	"general.waitingVid": {
-		"message": "صبر کردن برای نمایش یک ویدیو",
+		"message": "انتظار برای نمایش یک ویدیو",
 		"description": "For privacy reasons (\"A\" video, as in not specified)"
 	},
 	"general.waitingVidThe": {
-		"message": "صبر کردن برای نمایش ویدیو",
+		"message": "انتظار برای نمایش ویدیو",
 		"description": "\"the\" video, as in the video title is specified)"
 	},
 	"general.watchingLive": {
@@ -252,7 +252,7 @@
 		"description": ""
 	},
 	"general.repeat": {
-		"message": "در تکرار",
+		"message": "روی تکرار",
 		"description": ""
 	},
 	"general.incidentHistory": {
@@ -260,7 +260,7 @@
 		"description": "A page name of statuspages"
 	},
 	"general.uptimeHistory": {
-		"message": "تاریخچه Uptime",
+		"message": "تاریخچه مدت فعالیت",
 		"description": "A page name of statuspages"
 	}
 }

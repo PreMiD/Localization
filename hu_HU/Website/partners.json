@@ -27,6 +27,10 @@
 		"message": "Bejelentkezve mint {0}",
 		"description": "{0} will be replaced with user account."
 	},
+	"partners.apply.notYou": {
+		"message": "Nem te vagy az?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
 	"partners.apply.select.website": {
 		"message": "Weboldal",
 		"description": "Select 'Website' category."
@@ -42,6 +46,10 @@
 	"partners.apply.form.link": {
 		"message": "Link",
 		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Példa: https://premid.app",
+		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "Kép link: (550x300, csak PNG)",
