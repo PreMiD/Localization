@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Segalanya untuk menyelesaikan masalah anda
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### Muat ulang halaman
+Anda bisa menekan <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) pada keyboard daripada mencari tombol refresh.
+
 ### Apakah kamu menggunakan aplikasi Discord?
 PreMiD **tidak** bekerja pada discord versi browser, kamu harus mengunduh aplikasinya [disini](https://discord.com/download).
+
+### Pastikan anda sudah mengaktifkan Discord Game Activity pada pengaturan
+**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Pastikan Discord TIDAK berjalan sebagai administrator
+Sangat penting. Discor RPC tidak akan bekerja jika anda membuka Discrod sebagai administrator.
 
 ### Apakah kamu menggunakan Presence dengan pengaturan?
 Banyak presence (termasuk `Twitch` dan `SoundCloud`) terpengaruh oleh masalah ekstensi. Masalah ini menyebabkan ekstensi tidak mendapat value default dari setting dengan benar.
 
 Untuk memecahkan ini, kamu hanya butuh untuk menyalakan pilihan pengaturan paling atas: ![presencesettings.gif](/presencesettings.gif)
 
-### Muat ulang halaman
-Anda bisa menekan <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) pada keyboard daripada mencari tombol refresh.
-
 ### Mulai ulang browser
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) bekerja juga. (Sudah jelas anda harus membukanya lagi.)
-
-### Pastikan anda sudah mengaktifkan Discord Game Activity pada pengaturan
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Memulai ulang PreMiD (Aplikasi)
 ![quit.png](/quit.png) Anda harus memulai ulang PreMiD setelah itu.
 
 ### Reload/mulai ulang Discord
 Tekan <kbd>CTRL+R</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) pada keyboard atau mulai ulang secara manual.
-
-### Pastikan Discord TIDAK berjalan sebagai administrator
-Sangat penting. Discor RPC tidak akan bekerja jika anda membuka Discrod sebagai administrator.
 
 ### Periksa jika antivirus atau firewall berjalan di komputer anda
 Kadang program antivirus dan firewall menghalangi program yang sedang membuat/hosting server atau menghubungkan ke internet. Kami menggunakan server lokal untuk menerima dan meneruskan data antara aplikasi dan ekstensi kami, jadi jika anda memblokir aplikasi untuk meneruskan data kemungkinan anda tidak bisa menggunakan PreMiD.
