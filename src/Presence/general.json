@@ -207,9 +207,25 @@
 		"message": "Watching a video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Waiting for a video to premiere",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Waiting for the video to premiere",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Watching a livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Waiting for a livestream to start",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Waiting for the livestream to start",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Watching:",
