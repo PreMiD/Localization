@@ -44,7 +44,7 @@
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelMy": {
-		"message": "Viendo \"my\" página",
+		"message": "Viendo página \"my\"",
 		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelStore": {
