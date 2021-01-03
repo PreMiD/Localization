@@ -311,30 +311,30 @@ presence.on("UpdateData", async () => {
     largeImageKey:
       "key" /*La clé (nom du fichier) de l'image large sur la presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
     smallImageKey:
-      "key" /*La clé (nom de fichier) de l'image large sur la presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+      "key" /*La clé (nom de fichier) de l'image large sur la presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelé Art Assets*/
+        smallImageText: "Quelques texte survolant", //Le texte qui est affiché en survolant la petite image
+        details: "Nom de la page de navigation", //La section supérieure du texte de la presence
+        state: "Lire la section A", //La section inférieure du texte de la presence
+        startTimestamp : 1577232000, //L'horodatage de l'époque unix pour savoir à partir de quand commencer à compter
+        endTimestamp : 1577151472000 //Si vous voulez afficher Time Left au lieu d'Elapsed, il s'agit de l'horodatage de l'époque unix auquel le minuteur se termine
+    }; /*En option, vous pouvez définir une largeImageKey ici et modifier le reste en tant que sous-propriétés variables, par exemple presenceSata. ype = "blabla"; exemples de type: détails, état, etc.*/
 
-  if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-  } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
-  }
+    if (presenceData.details == null) {
+        //Cela se déclenchera si vous ne définissez pas les détails de présence
+        presence.setTrayTitle(); //Efface le titre du plateau pour les utilisateurs mac
+        presence.setActivity(); /*Met à jour la présence sans aucune donnée, donc la vider et faire de la grande image l'icône de l'application Discord, et le texte du nom de l'application Discord*/
+    } else {
+        //Cela se déclenchera si vous définissez des détails dans la presence
+        presence.setActivity(presenceData); //Met à jour la presence avec toutes les valeurs de l'objet presenceData
+    }
 });
 ```
 
 Vous pouvez copier ceci dans votre fichier `presence.ts` et modifier les valeurs. Réglage de toutes les valeurs se fait à l'intérieur de l'événement updataData.
 
-Pour des exemples nous suggérons de regarder le code des présences comme : 1337x ou 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Pour des exemples nous suggérons de regarder le code des présences comme : 1337x ou 9GAG. Pour plus d'informations sur la classe `Presence` cliquez [ici](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Depuis la v2.2. il y a maintenant Slideshows, cela vous permet d'afficher plusieurs interfaces `PresenceData` sur un intervalle, pour plus d'informations cliquez sur la classe `Slideshow` [ici](/dev/presence/slideshow).
 
 ## Impossible d'obtenir certaines données?!
 
@@ -354,8 +354,8 @@ Si vous trouvez que vos données sont dans un iFrame vous devez faire ce qui sui
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Obtenez toutes les données dont vous avez besoin à partir de l'iFrame et enregistrez-les dans des variables
+  et ensuite envoyées les en utilisant iframe.send
   */
   iframe.send({
     //sending data
