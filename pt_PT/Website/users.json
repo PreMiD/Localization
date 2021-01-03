@@ -28,7 +28,7 @@
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Clique aqui para mostrar as Presences que esse usuário(a) criou.",
+		"message": "Clica aqui para mostrar as presenças que este utilizador criou.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
