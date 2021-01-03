@@ -275,31 +275,31 @@ La clé `multiLangue` peut être définie comme suit :
 
 Chaque `string` est un `Object` où le nom commence par le nom du service et ensuite par le stringName avec un point entre les deux.
 
-The stringName is a 1 word identifier of the message.
+Le stringName est un identifiant de 1 mot du message.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+L' `Object` a 2 propriétés; `message` et `description`. `message` est le texte qui doit être traduit. `la description` est une description du message pour aider nos traducteurs à comprendre ce qu'ils traduisent.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Remarque :** N'ajoutez aucune chaîne en double. (Cela inclut les chaînes du fichier `general.json` mais pas les autres fichiers.)
 
-Visualization of the the file:
+Visualisation du fichier :
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Texte qui doit être traduit. ,
+    "description": "Ceci explique ce que le message ci-dessus est."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Texte qui doit être traduit. ,
+    "description": "Ceci explique ce que le message ci-dessus est."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Après avoir entièrement créé le fichier avec des chaînes, vous pouvez créer une Pull Request sur le [Dépot de localisation](https://github.com/PreMiD/Localization), dans la description vous **devez** inclure un lien vers votre Pull Request de la presence mise à jour en utilisant ces nouvelles chaînes du [Dépôt de Presence](https://github.com/PreMiD/Presences).
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Touches par défaut
+Les clés que vous n'avez pas à définir sont automatiquement définies à ce qui suit : `title`: "Langue" **Note :** Ceci est traduit dans leur langue par défaut (langue du navigateur). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
 
 **Note:** These are in no way changeable.
 
