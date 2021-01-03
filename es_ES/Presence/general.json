@@ -207,9 +207,25 @@
 		"message": "Viendo un video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Esperando a que se estrene un vídeo",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Esperando a que se estrene el vídeo",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Viendo una transmisión en vivo",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Esperando a que comience un directo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Esperando a que comience el directo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Viendo:",
