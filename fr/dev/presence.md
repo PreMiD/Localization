@@ -39,7 +39,7 @@ Toutes les présences sont codées en [TypeScript](https://www.typescriptlang.or
 
 ## Création de dossiers et de fichiers
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Allez dans le dossier `websites` puis allez dans le dossier avec la première lettre du **nom** (et non une URL) du service que vous voulez supporter.
 2. Créez un dossier avec le **name** (pas une URL) du service que vous voulez supporter.
 3. Créez un fichier `presence.ts` et un fichier `tsconfig.json` à l'intérieur.
 4. Créer un dossier nommé `dist` à l'intérieur.
@@ -68,12 +68,12 @@ Nous avons fait un créateur de fichier `metadata.json` pour les paresseux [ici]
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USER",
+    "name": "UTILISATEUR",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USER",
+      "name": "UTILISATEUR",
       "id": "ID"
     }
   ],
@@ -88,7 +88,7 @@ Nous avons fait un créateur de fichier `metadata.json` pour les paresseux [ici]
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIE",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ Nous avons fait un créateur de fichier `metadata.json` pour les paresseux [ici]
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITRE D'AFFICHAGE",
+      "icon": "ICONE FONTAWESOME",
       "value": true
     },
     {
@@ -109,15 +109,15 @@ Nous avons fait un créateur de fichier `metadata.json` pour les paresseux [ici]
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITRE D'AFFICHAGE",
+      "icon": "ICONE FONTAWESOME",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TITRE D'AFFICHAGE",
+      "icon": "ICONE FONTAWESOME",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -149,48 +149,49 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
   <tbody>
     <tr>
       <td style="text-align:left"><b>auteur</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Objet</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributeurs</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Le titre du service que cette présence supporte.<br>
+      (Doit être du même nom que le dossier où tout se trouve)</td>
       <td style="text-align:left"><code>Chaîne de caractères</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Soyez en mesure de rechercher la presence en utilisant un nom alternatif.<br>
+      Destiné à être utilisé pour les presences qui ont des noms différents dans des langues différentes (par ex. Pokémon et 포켓몬스터).<br>
+      Vous pouvez également l'utiliser pour les presences qui ont des caractères spéciaux afin que vous n'ayez pas à les taper (par ex. Pokémon et Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Votre description doit avoir des valeurs de paire de clés qui indiquent la langue, et la description dans cette langue spécifique. Faites des descriptions avec les langues <i>que vous connaissez</i>, nos traducteurs apporteront des modifications à votre fichier de métadonnées.</td>
+      <td style="text-align:left">Petite description de la presence, vous pouvez utiliser la description du service si vous n'avez pas d'idées. Votre description doit avoir des valeurs de paire de clés qui indiquent la langue, et la description dans cette langue spécifique. Faites des descriptions avec les langues <i>que vous connaissez</i>, nos traducteurs apporteront des modifications à votre fichier de métadonnées.</td>
       <td style="text-align:left"><code>Objet</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-      <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <td style="text-align:left">URL du service.<br><b>Exemple :</b><code>vk.com</code><br>
+        <b>Cette URL doit correspondre à l'URL du site car elle détectera si oui ou non c'est le site Web auquel il faut injecter le script.</b><br> 
+<b>Ne pas</b> ajouter <code>https://</code> ou <code>http://</code> à l'intérieur de l'URL ni un slash à la fin :
+<code>https://premid.app/</code> -> <code>premid.app</code><br>
+<b>Note</b>: Certaines URLs peuvent avoir <code>www.</code> ou quelque chose d'autre devant leur domaine. N'oubliez <b>PAS</b> de l'ajouter !<br>
+      Vous pouvez ajouter plusieurs URL en faisant ce qui suit :<br>
+      <code>["URL1", "URL2", "ETC. ]</code><br>
+      Vous pouvez également utiliser regExp aussi connu sous le nom de Regex pour cette tâche, expliqué plus loin ci-dessous.</td>
       <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
