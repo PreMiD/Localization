@@ -58,22 +58,22 @@ MacOS:`~/users/NAMA-PENGGUNA/~Library/Application Support/`dan padamkan folder`P
 Jika anda memuat turun Discord melalui Snapcraft, RPC tidak akan berfungsi. Anda perlu nyahpasang versi Snapcraft dengan menjalankan `sudo snap remove discord` dekat terminal, muat turun [binaan Discord untuk Linux](https://discordapp.com/api/download?platform=linux) ([atau binaan Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), kemudian pergi ke direktori di mana anda muat turun Discord tadi (selalunya `$HOME/Downloads`), kemudian pasangkan pakej menggunakan `sudo dpkg -i discord-*.deb`.
 
 ### McAfee mengesan PreMiD sebagai virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+Ini positif palsu daripada McAfee dan kami telah melaporkan isu ini kepada mereka, buat masa ini anda boleh kecualikan PreMiD daripada imbasan dengan langkah berikut:
 
 > Jika anda rasa tidak yakin untuk melakukan langkah ini, silakan buat tiket dalam bahasa Inggeris di saluran [#support](https://discord.premid.app/) dan salah seorang Ejen Sokongan kami akan membantu anda! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+1. Buka aplikasi McAfee dan klik ikon tetapan di sebelah kanan atas. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Klik "Quarantined Items" / Item Dikuarantin (Kedua dari atas).
+3. Kembangkannya, dan klik pada ikon `>` sebelum item dengan nama "settings.dat".
+4. Pastikan laluan mengandungi "AppData\Local\Temp\PreMiD", jika ya pilih ia dan tekan Restore / Pulihkan. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Setelah ia dipulihkan anda boleh tutup tetingkap timbul "Quarantined Items" / Item Dikuarantin, kemudian tekan ikon tetapan lagi di sebelah kanan atas.
+6. Klik "Real-Time Scanning" / Imbasan Masa Nyata (Ketiga dari atas).
+7. Kembangkannya dan pilih "Add file" / Tambah fail.
+8. Taipkan "%appdata%" dalam bar URL pengurus fail dan tekan Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Buka folder "PreMiD" dan pilih fail "PreMiD.exe" dan klik Open / Buka. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. Sekarang McAfee patut abaikan fail kami, jadi lancarkan aplikasi kami dan anda boleh teruskan dari situ.
 
-### That has not solved my problem
+### Semua itu tidak selesaikan masalah saya
 Please open a ticket in [#support](https://discord.premid.app/).
