@@ -2,7 +2,7 @@
 title: Riešenie problémov
 description: Všetko čo vyrieši váš problém
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### Obnovte stránku
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+
 ### Are you using the Discord app?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+
+### Uistite sa či máte povolený Discord Hernú Aktivitu v nastaveniach
+**Užívateľské Nastavenia** > **Herná Aktivita** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Uistite sa či Discord NEBEŽÍ ako administrátor
+Veľmi dôležité. Discord RPC nebude fungovať ak bude Discord bežať ako administrátor.
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### Obnovte stránku
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
-
 ### Reštartujte váš prehliadač
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) alebo <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) urobí dobrú prácu tiež. (Samozrejme že musíte si spustiť váš prehliadač znova)
-
-### Uistite sa či máte povolený Discord Hernú Aktivitu v nastaveniach
-**Užívateľské Nastavenia** > **Herná Aktivita** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Reštartujte si PreMiD (Aplikáciu)
 ![quit.png](/quit.png) Musíte si reštartovať PreMiD.
 
 ### Obnovte/reštartujte Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
-
-### Uistite sa či Discord NEBEŽÍ ako administrátor
-Veľmi dôležité. Discord RPC nebude fungovať ak bude Discord bežať ako administrátor.
 
 ### Skontrolujte či beží vám antivirus alebo firewall na vašom počítači
 Niekedy antivírusové programy a firewalls blokujú aplikácie ktoré vytvárajú/hostinské servery alebo sú pripojené na internet. Na prijímanie a odovzdávanie údajov medzi našou aplikáciou a rozšírením používame lokálny server, takže ak zablokujete schopnosť prenášanie údajov aplikácie pravdepodobne nebudete môcť používať PreMiD.
