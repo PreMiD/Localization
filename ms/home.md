@@ -1,13 +1,13 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: Laman Utama
+description: Pendokumenan Rasmi untuk v2
 published: true
 date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Some pages may be incomplete or missing. 
+> Pendokumenan masih dalam suntingan! Sesetengah halaman mungkin tidak lengkap atau hilang. 
 > 
 > {.is-warning}
 
