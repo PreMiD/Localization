@@ -11,7 +11,7 @@ editor: markdown
 > 
 > {.is-warning}
 
-# About PreMiD
+# Mengenai PreMiD
 - :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [Apakah itu RPC?](https://discordapp.com/rich-presence) Segalanya berkaitan Rich Presence dan fungsinya.
 
