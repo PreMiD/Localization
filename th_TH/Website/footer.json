@@ -47,10 +47,6 @@
 		"message": "เว็บไซต์",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "ออกแบบ",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "แปลภาษา",
 		"description": "Translate -> redirects to locilazation page"

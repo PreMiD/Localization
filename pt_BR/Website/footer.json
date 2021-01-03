@@ -47,10 +47,6 @@
 		"message": "Contribua",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Design",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Traduzir",
 		"description": "Translate -> redirects to locilazation page"

@@ -47,10 +47,6 @@
 		"message": "Sumbang",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Reka",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Terjemah",
 		"description": "Translate -> redirects to locilazation page"

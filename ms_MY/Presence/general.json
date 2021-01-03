@@ -207,6 +207,10 @@
 		"message": "Menonton video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Menunggu video perdana untuk ditayangkan",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
 	"general.watchingLive": {
 		"message": "Menonton strim langsung",
 		"description": ""

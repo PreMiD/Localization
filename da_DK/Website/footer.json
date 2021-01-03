@@ -39,10 +39,6 @@
 		"message": "Giv os en hjælpende hånd",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Design",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Oversæt",
 		"description": "Translate -> redirects to locilazation page"

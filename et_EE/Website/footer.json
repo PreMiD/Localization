@@ -47,10 +47,6 @@
 		"message": "Aita kaasa",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Disain",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Tõlgi",
 		"description": "Translate -> redirects to locilazation page"

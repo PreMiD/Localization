@@ -47,10 +47,6 @@
 		"message": "Töhfə ver",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Dizayn",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Tərcümə et",
 		"description": "Translate -> redirects to locilazation page"
