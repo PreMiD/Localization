@@ -180,7 +180,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Définit si l'extension doit lire les logs.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
