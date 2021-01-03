@@ -4,7 +4,7 @@
 		"description": "The first part of the next 6 strings"
 	},
 	"v live.newVid": {
-		"message": "la página de nuevos vídeos",
+		"message": "la página de vídeos nuevos",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.charts": {

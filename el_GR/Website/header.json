@@ -3,6 +3,10 @@
     "message": "Ελληνικά",
     "description": "Replace English with the name of YOUR language!"
   },
+  "header.languageNotification.title": {
+    "message": "Θα θέλατε να αλλάξετε γλώσσα;",
+    "description": "Heading of the language notification when user has different language."
+  },
   "header.login": {
     "message": "Σύνδεση",
     "description": "Login Button"
