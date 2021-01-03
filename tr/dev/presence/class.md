@@ -50,7 +50,7 @@ Verilen verilerle profilinizi ayarlar.
 
 First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Always use `true` if you provide timestamps in `PresenceData`.
+İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Eğer `PresenceData` içerisinde zaman belirttiyseniz, her zaman `true` kullanın.
 
 ### `clearActivity()`
 
