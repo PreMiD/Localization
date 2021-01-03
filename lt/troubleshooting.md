@@ -2,7 +2,7 @@
 title: Nesklandumų sprendimas
 description: Viskas kas padės jums sutaisyti jūsų problemą
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### Perkraukite tinklalapį
+Jūs galite paspausti <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) arba <kbd>CMD+R</kbd> (MacOS) naudojantis savo klaviatūra, vietoj to, jog ieškoti atnaujinimo mygtuko.
+
 ### Ar jūs naudojate Discord programėlę?
 PreMiD **neveikia** naršyklinėje Discord versijoje, jūs turite atsisiųsti programėlę [čia](https://discord.com/download).
+
+### Įsitikinkite jog turite įsijungę Discord žaidimų veiklumą savo nustatymuose
+**Naudotojo Nustatymai** > **Žaidimo Veikla** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Įsitikinkite jog Discord nėra įjungtas naudojantis administratoriaus teisėmis
+Įtin svarbu. Discord RPC neveiks jeigu jūs esate įsijungę Discord naudojantis administratoriaus teisėmis.
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. Ši problema priverčia papildinius nepaimti originalių nustatymų pilnai.
 
 Kad ištaisyti tai, viskas ką jūs turite padaryti tai, turite įjungti svarbiausią nustatymą: ![presencesettings.gif](/presencesettings.gif)
 
-### Perkraukite tinklalapį
-Jūs galite paspausti <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) arba <kbd>CMD+R</kbd> (MacOS) naudojantis savo klaviatūra, vietoj to, jog ieškoti atnaujinimo mygtuko.
-
 ### Perkraukite naršyklę
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) arba <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) taipogi atlieką puikiai darbą. (Jūs, žinoma, turite perkrauti savo naršyklę)
-
-### Įsitikinkite jog turite įsijungę Discord žaidimų veiklumą savo nustatymuose
-**Naudotojo Nustatymai** > **Žaidimo Veikla** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Perkrauti PreMiD (aplikaciją)
 ![quit.png](/quit.png) Jūs turite perkrauti PreMiD.
 
 ### Perkrauti Discord
 Spauskite <kbd>CTRL+R</kbd> (Windows) arba <kbd>CMD+R</kbd> (MacOS) naudodamiesi savo klaviatūra arba perkraukite Discord savarankiškai.
-
-### Įsitikinkite jog Discord nėra įjungtas naudojantis administratoriaus teisėmis
-Įtin svarbu. Discord RPC neveiks jeigu jūs esate įsijungę Discord naudojantis administratoriaus teisėmis.
 
 ### Patikrinkite ar turite aktyvią antivirusinę ar ugniasienę savo kompiuteryje
 Kartais antivirusinės programos ir ugniasienės blokuoja aplikacijas kurios kuria/talpiną serverius ar tiesiog prisijungia prie interneto. Mes naudojame lokalų serverį jog gauti ir išsiųsti duomenis tarp mūsų programėlės ir naršyklės papildinio, tad jeigu jūs užblokuosite programėlės galimybę išsiųsti duomenis, jūs tikriausiai negalėsite naudotis PreMiD.
