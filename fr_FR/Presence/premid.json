@@ -75,6 +75,10 @@
 		"message": "Classe Presence",
 		"description": "A page name"
 	},
+	"premid.pageSlideshowClass": {
+		"message": "Classe du Slideshow",
+		"description": "A page name"
+	},
 	"premid.pageIframe": {
 		"message": "Comprendre l'iframe",
 		"description": "A page name"
