@@ -208,12 +208,24 @@
 		"description": ""
 	},
 	"general.waitingVid": {
-		"message": "Menunggu video perdana untuk ditayangkan",
+		"message": "Menunggu tayangan perdana",
 		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Menunggu tayangan perdana",
+		"description": "\"the\" video, as in the video title is specified)"
 	},
 	"general.watchingLive": {
 		"message": "Menonton strim langsung",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Menunggu strim langsung untuk bermula",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Menunggu strim langsung untuk bermula",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Menonton:",

@@ -1,0 +1,10 @@
+{
+	"v live.browseThrough": {
+		"message": "يتصفح من خلال",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "عرض ما يخص",
+		"description": "The first part of the next 6 strings"
+	}
+}

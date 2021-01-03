@@ -1,0 +1,10 @@
+{
+	"v live.browseThrough": {
+		"message": "گشتن در",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "در حال تماشای آنجا",
+		"description": "The first part of the next 6 strings"
+	}
+}

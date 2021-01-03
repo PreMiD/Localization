@@ -1,0 +1,10 @@
+{
+	"v live.browseThrough": {
+		"message": "Göz atıyor",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "Görüntülüyor",
+		"description": "The first part of the next 6 strings"
+	}
+}
