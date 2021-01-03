@@ -207,9 +207,25 @@
 		"message": "نگاه کردن ویدیو",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "صبر کردن برای نمایش یک ویدیو",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "صبر کردن برای نمایش ویدیو",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "نگاه کردن پخش زنده",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "انتظار برای شروع یک پخش‌زنده",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "انتظار برای شروع پخش‌زنده",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "نگاه کردن:",
