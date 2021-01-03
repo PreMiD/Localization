@@ -2,5 +2,9 @@
   "header.language": {
     "message": "Ελληνικά",
     "description": "Replace English with the name of YOUR language!"
+  },
+  "header.login": {
+    "message": "Σύνδεση",
+    "description": "Login Button"
   }
 }

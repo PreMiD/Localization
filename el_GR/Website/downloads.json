@@ -62,5 +62,57 @@
 	"downloads.mobile.hideDownloads": {
 		"message": "Απόκρυψη Λήψεων",
 		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "Η τρέχουσα έκδοση αυτής της πλατφόρμας είναι {0} (η έκδοση αυτή απευθύνεται στο Linux, και δεν ισχύει για άλλες πλατφόρμες).",
+		"description": "Tippy message of the Linux card."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "Η έκδοση αυτή απευθύνεται στο Linux, και δεν ισχύει για άλλες πλατφόρμες. Η κύρια έκδοση της εφαρμογής είναι {0}",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Παρακαλώ συνδεθείτε για να δείτε αυτές τις λήψεις.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Ωχ, φαίνεται ότι δεν έχετε πρόσβαση στα alpha ή beta :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Μπορείτε να συμμετάσχετε στο πρόγραμμα beta μας από **εδώ** δωρεάν. Γρήγορα! Έχουνε μείνει μόνο {0} θέσεις!",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Πρώιμες Κυκλοφορίες",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "Προσοχή",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.opera": {
+		"message": "Πρέπει να εγκαταστήσετε **αυτήν** την επέκταση για να εγκαταστήσετε το PreMiD από το ηλεκτρονικό κατάστημα του Chrome.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "Παράβλεψη",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Επιστροφή",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.okay": {
+		"message": "Ok",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.login": {
+		"message": "Σύνδεση",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "Ευχαριστούμε!",
+		"description": "Title of the advertisement section box."
 	}
 }
