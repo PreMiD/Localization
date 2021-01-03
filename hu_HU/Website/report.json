@@ -7,6 +7,10 @@
 		"message": "Válaszd ki az operációs rendszeredet és a verziót",
 		"description": "Select Box for the user to select their operating system"
 	},
+	"report.button": {
+		"message": "Jelentés",
+		"description": "Button to send the information inputed."
+	},
 	"report.error": {
 		"message": "További információ szükséges",
 		"description": "User needs to input more notification"
