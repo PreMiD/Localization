@@ -24,7 +24,7 @@
 		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
-		"message": "Esse utilizador não foi encontrado. Tenta ter a certeza",
+		"message": "Esse utilizador não foi encontrado. Verifica novamente",
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
