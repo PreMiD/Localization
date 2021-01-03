@@ -37,7 +37,7 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 
 ## Perihalan
 
-**PreMiD** ialah utiliti yang mudah, mampu ditataraja yang menggunakan pustaka RP (Rich Presence) milik Discord yang membolehkan anda menunjukkan apa anda buat di sesawang (dan beberapa atur cara lain) ke dalam profil Discord anda sebagai **status main**.
+**PreMiD** ialah utiliti yang mudah, mampu ditatarajah yang menggunakan pustaka RP (Rich Presence) milik Discord yang membolehkan anda menunjukkan apa anda buat di sesawang (dan beberapa atur cara lain) ke dalam profil Discord anda sebagai **status main**.
 
 <a name="stats"></a>
 
@@ -66,7 +66,7 @@ Secara teknikalnya semua edaran yang mampu menjalankan **aplikasi** [rasmi](http
 - Fedora ≥ 21
 - Debian ≥ 8
 
-Kami tidak tahu sama ada versi lama edaran lain menyokongnya atau tidak, jadi sentiasa kemas kini edara anda dan gunakan terbitan **LTS (Long-Term Support / Sokongan Jangka Panjang)** jika edaran anda menawarkan terbitan tersebut, kerana ianya lebih stabil (elakkan terbitan alfa).
+Kami tidak tahu sama ada versi lama edaran lain menyokongnya atau tidak, jadi sentiasa kemas kini edaran anda dan gunakan terbitan **LTS (Long-Term Support / Sokongan Jangka Panjang)** jika edaran anda menawarkan terbitan tersebut, kerana ianya lebih stabil (elakkan terbitan alfa).
 
 <a name="support"></a>
 
