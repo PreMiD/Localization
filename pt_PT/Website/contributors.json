@@ -4,7 +4,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
-		"message": "Apoiantes",
+		"message": "Contribuidores",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
@@ -60,7 +60,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "Booster",
+		"message": "Impulsionador",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {

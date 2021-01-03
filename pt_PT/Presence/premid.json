@@ -44,7 +44,7 @@
 		"description": "A page name"
 	},
 	"premid.pageInstallFor": {
-		"message": "Instalação para {0}",
+		"message": "Instalação no {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
 	"premid.pageTroubleshooting": {
