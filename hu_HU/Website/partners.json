@@ -3,9 +3,17 @@
 		"message": "Partnerek",
 		"description": "Heading for page."
 	},
+	"partners.slideshow.description": {
+		"message": "Ezek már hozzánk tartoznak",
+		"description": "Description for slideshow."
+	},
 	"partners.why.benefit3.title": {
 		"message": "Meta-tag integráció",
 		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Légy híres",
+		"description": "Heading for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Követelmények",
