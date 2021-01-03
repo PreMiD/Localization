@@ -207,9 +207,25 @@
 		"message": "動画を視聴中",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "動画の公開を待機中",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "動画の公開を待機中",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "ライブを視聴中",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "ライブの開始を待機中",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "ライブの開始を待機中",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "視聴中:",
@@ -244,7 +260,7 @@
 		"description": "A page name of statuspages"
 	},
 	"general.uptimeHistory": {
-		"message": "アップタイム",
+		"message": "アップタイム履歴",
 		"description": "A page name of statuspages"
 	}
 }
