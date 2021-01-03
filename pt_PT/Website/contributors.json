@@ -40,7 +40,7 @@
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "Moderador(a)",
+		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
@@ -56,7 +56,7 @@
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "Doador(a)",
+		"message": "Doador",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
@@ -64,7 +64,7 @@
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
-		"message": "Tradutor(a)",
+		"message": "Tradutor",
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
