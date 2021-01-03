@@ -45,19 +45,19 @@ Kadang kala atur cara antivirus dan tembok api menyekat aplikasi yang mencipta/m
 Lumpuhkan kesemua sambungan anda yang lain dan tengok jika PreMiD berfungsi. Jika ya, cuba bolehkan semula sambungan anda satu demi satu dan beritahu kami sambungan mana yang rosakkan PreMiD.
 
 ### Memulakan semula komputer anda
-I hope you know how to restart a computer.
+Kami harap anda tahu cara untuk memulakan semula komputer.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### Memasang semula PreMiD
+Kadang kala ada sesuatu yang tidak kena dengan failnya... Tutorial pemasangan boleh dijumpai [di sini](/install).
 
-### Manual removal
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### Pembuangan manual
+Windows:    `C:\Users\NAMA-PENGGUNA\AppData\Roaming\`` dan padamkan folder`PreMiD`.
+MacOS:`~/users/NAMA-PENGGUNA/~Library/Application Support/`dan padamkan folder`PreMiD``.
 
-### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### Di Ubuntu/edaran berasaskan Debian
+Jika anda memuat turun Discord melalui Snapcraft, RPC tidak akan berfungsi. Anda perlu nyahpasang versi Snapcraft dengan menjalankan `sudo snap remove discord` dekat terminal, muat turun [binaan Discord untuk Linux](https://discordapp.com/api/download?platform=linux) ([atau binaan Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), kemudian pergi ke direktori di mana anda muat turun Discord tadi (selalunya `$HOME/Downloads`), kemudian pasangkan pakej menggunakan `sudo dpkg -i discord-*.deb`.
 
-### McAfee detected PreMiD as virus (Windows)
+### McAfee mengesan PreMiD sebagai virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
 > Jika anda rasa tidak yakin untuk melakukan langkah ini, silakan buat tiket dalam bahasa Inggeris di saluran [#support](https://discord.premid.app/) dan salah seorang Ejen Sokongan kami akan membantu anda! 
