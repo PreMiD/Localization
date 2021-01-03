@@ -3,6 +3,50 @@
 		"message": "گشتن در",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.newVid": {
+		"message": "صفحه ویدیو های جدید",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "صفحه نمودار‌ها",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "لیست کانال ها",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "صفحه رویداد‌ها",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "صفحه فروشگاه",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "گشتن در{0}آپلود های اخیر دنبال کنندگانشان",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "در چنل {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "مشاهده صفحه اصلی",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "مشاهده صفحه برنامه‌ها",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "مشاهده صفحه \"my\"",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "مشاهده صفحه فروشگاه",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.viewTheir": {
 		"message": "در حال تماشای آنجا",
 		"description": "The first part of the next 6 strings"
