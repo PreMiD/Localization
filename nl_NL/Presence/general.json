@@ -207,9 +207,25 @@
 		"message": "Kijkt naar een video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Wacht op een video die in première gaat",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Wacht op de video die in première gaat",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Kijkt naar een livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Wacht er op dat een livestream begint",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Wacht er op dat de livestream begint",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Kijkt naar:",
