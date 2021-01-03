@@ -82,7 +82,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor(a)</b></td>
+      <td style="text-align:left"><b>autor</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Objeto</code></td>
