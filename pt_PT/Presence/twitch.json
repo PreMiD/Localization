@@ -194,5 +194,29 @@
 	"twitch.brandReal": {
 		"message": "Manter a twitch real",
 		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Trazer um método à nossa (amada) loucura",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Maximizar a nossa expressão",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Juntar tudo",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "A ver a evolução da Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Blogs da Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "A ver o arquivo do blog de {0}",
+		"description": "{0} will be replaced with the year"
 	}
 }
