@@ -207,9 +207,25 @@
 		"message": "Regarde une vidéo",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "En attente de la mise en première d'une vidéo",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "En attente de la mise en première de la vidéo",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Regarde un livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "En attente du démarrage d'un livestream",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "En attente du démarrage du livestream",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Regarde:",
