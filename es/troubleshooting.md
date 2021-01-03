@@ -29,8 +29,8 @@ Muchas presences (Incluídas `Twitch` y `SoundCloud`) son afectadas por un probl
 
 Para arreglar esto, todo lo que deben hacer es desactivar y activar nuevamente la configuración superior: ![presencesettings.gif](/presencesettings.gif)
 
-### Reinicia el navegador
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) también funcionará. (Obviamente tienes que volver a iniciar el navegador.)
+### Reinicia tu navegador
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) también funciona. (Obviamente tienes que volver a iniciar el navegador.)
 
 ### Reinicia PreMiD (Aplicación)
 ![quit.png](/quit.png) Luego debes reiniciar PreMiD.
@@ -38,14 +38,14 @@ Para arreglar esto, todo lo que deben hacer es desactivar y activar nuevamente l
 ### Recarga/Reinicia Discord
 Presiona <kbd>CTRL+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) en tu teclado o reinicia Discord manualmente.
 
-### Comprueba si tienes antivirus o cortafuegos ejecutándose en el ordenador
+### Comprueba si tienes antivirus o firewall ejecutándose en el ordenador
 A veces los antivirus o cortafuegos pueden bloquear aplicaciones que están creando/alojando servidores o que se conectan a Internet. Utilizamos un servidor local para recibir y pasar los datos entre la aplicación y la extensión, por tanto no podrás utilizar PreMiD si bloqueas la habilidad de pasar los datos entre ellos.
 
 ### Deshabilita tus complementos
 Deshabilita todos tus complementos y mira si funciona. Si es así, ve habilitando los complementos uno a uno e indícanos qué complemento es el que causa la incompatibilidad a PreMiD.
 
-### Reiniciar el ordenador
-Espero que sepas como reiniciar un computador.
+### Reiniciar tu computadora
+Espero que sepas como reiniciar una computadora.
 
 ### Reinstalando PreMiD
 A veces hay algún problema con los archivos... Tutoriales para la instalación se pueden encontrar [aquí](/install).
