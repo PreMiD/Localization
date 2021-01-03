@@ -3,6 +3,22 @@
 		"message": "Navegando por",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.newVid": {
+		"message": "a nova página do vídeo",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "a lista de canais",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "a página de eventos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "a página da loja",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"v live.viewTheir": {
 		"message": "Visualizando suas",
 		"description": "The first part of the next 6 strings"
