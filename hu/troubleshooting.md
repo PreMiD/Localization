@@ -2,7 +2,7 @@
 title: Hibaelhárítás
 description: Minden ami megoldja a problémát
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### Frissítsd az oldalt
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+
 ### Are you using the Discord app?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+
+### Győződj meg arról, hogy engedélyezve vannak a Discord Játék tevékenységek a beállításokban
+**Felhasználói beállítások** > **Játék tevékenység** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Győződj meg arról, hogy a Discord nem rendszergazdai jogokkal fut
+Nagyon fontos. A Discord RCP nem fog futni, ha a Discord rendszergazda jogokkal fut.
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### Frissítsd az oldalt
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
-
 ### Indítsd újra a böngészőt
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) vagy a <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) hasznos lehet ebben az esetben is. (Nyilvánvalóan, megint el kell indítanod a böngészőt.)
-
-### Győződj meg arról, hogy engedélyezve vannak a Discord Játék tevékenységek a beállításokban
-**Felhasználói beállítások** > **Játék tevékenység** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Indítsd újra a PreMiD alkalmazást
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
 ### Indítsd újra a Discord alkalmazást
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
-
-### Győződj meg arról, hogy a Discord nem rendszergazdai jogokkal fut
-Nagyon fontos. A Discord RCP nem fog futni, ha a Discord rendszergazda jogokkal fut.
 
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
