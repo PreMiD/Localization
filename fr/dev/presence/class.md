@@ -72,7 +72,7 @@ Crée une nouvelle classe `Slideshow`.
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Il est suggéré de faire ceci directement après avoir crée la classe `Presence`:
 
 ```typescript
 const presence = new Presence({
@@ -167,8 +167,8 @@ console.log(version); // Affichera 2.1.0
 Renvoie la valeur du paramètre.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = wait presence.getSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
+console.log(setting); // Cela enregistrera la valeur du paramètre
 ```
 
 ### `masquer (chaîne de caractères)`
