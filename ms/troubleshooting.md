@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Sila pastikan anda telah memasangkan kedua-dua sambungan **dan** aplikasi! 
+> Sila pastikan anda telah pasangkan kedua-dua sambungan **dan** aplikasi! 
 > 
 > {.is-warning}
 
@@ -39,7 +39,7 @@ Untuk menyelesaikannya, anda hanya perlu menogol tetapan teratas: ![presencesett
 Tekan <kbd>CTRL+R</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) pada papan kekunci anda atau mulakan semula Discord secara manual.
 
 ### Periksa jika anda mempunyai antivirus atau tembok api berjalan di komputer anda
-Kadang kala atur cara antivirus dan tembok api menyekat aplikasi yang mencipta/menghos pelayan atau hanya menyambung ke internet. Kami menggunakan pelayan tempatan untuk menerima dan menghantar data di antara aplikasi kami dan sambungan pelayar, jadi jika anda sekat kebolehan aplikasi untuk menghantar data maka anda mungkin tidak mampu menggunakan PreMiD.
+Kadang kala atur cara antivirus dan tembok api menyekat aplikasi yang mencipta/menghos pelayan atau apa sahaja yang menyambung ke internet. Kami menggunakan pelayan tempatan untuk menerima dan menghantar data di antara aplikasi kami dan sambungan pelayar, jadi jika anda sekat kebolehan aplikasi untuk menghantar data maka anda mungkin tidak mampu menggunakan PreMiD.
 
 ### Lumpuhkan sambungan anda
 Lumpuhkan kesemua sambungan anda yang lain dan tengok jika PreMiD berfungsi. Jika ya, cuba bolehkan semula sambungan anda satu demi satu dan beritahu kami sambungan mana yang rosakkan PreMiD.
@@ -68,7 +68,7 @@ Ini positif palsu daripada McAfee dan kami telah melaporkan isu ini kepada merek
 2. Klik "Quarantined Items" / Item Dikuarantin (Kedua dari atas).
 3. Kembangkannya, dan klik pada ikon `>` sebelum item dengan nama "settings.dat".
 4. Pastikan laluan mengandungi "AppData\Local\Temp\PreMiD", jika ya pilih ia dan tekan Restore / Pulihkan. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. Setelah ia dipulihkan anda boleh tutup tetingkap timbul "Quarantined Items" / Item Dikuarantin, kemudian tekan ikon tetapan lagi di sebelah kanan atas.
+5. Setelah ia dipulihkan anda boleh tutup tetingkap timbul "Quarantined Items" / Item Dikuarantin, kemudian tekan ikon tetapan lagi sekali di sebelah kanan atas.
 6. Klik "Real-Time Scanning" / Imbasan Masa Nyata (Ketiga dari atas).
 7. Kembangkannya dan pilih "Add file" / Tambah fail.
 8. Taipkan "%appdata%" dalam bar URL pengurus fail dan tekan Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
@@ -76,4 +76,4 @@ Ini positif palsu daripada McAfee dan kami telah melaporkan isu ini kepada merek
 10. Sekarang McAfee patut abaikan fail kami, jadi lancarkan aplikasi kami dan anda boleh teruskan dari situ.
 
 ### Semua itu tidak selesaikan masalah saya
-Please open a ticket in [#support](https://discord.premid.app/).
+Sila buka tiket dalam bahasa Inggeris di saluran [#support](https://discord.premid.app/) dalam Discord kami.
