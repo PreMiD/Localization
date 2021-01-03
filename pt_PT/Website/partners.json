@@ -139,6 +139,10 @@
 		"message": "Uma deusa que joga como um divertido Bot do Discord!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "O REYFM permite-te ouvir mais de 15 categorias de música grátis e sem parar. Com a melhor e mais recente música só para ti!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Solução de localização ágil para empresas de tecnologia.",
 		"description": "Description for Crowdin."
@@ -184,7 +188,7 @@
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
-		"message": "Nome:",
+		"message": "Nome",
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
