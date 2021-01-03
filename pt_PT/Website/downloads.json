@@ -76,7 +76,7 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Uh oh, parece que tu não tens acesso alpha/beta :(",
+		"message": "Uh oh, parece que não tens acesso à versão alfa/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
@@ -112,11 +112,11 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "Feito",
+		"message": "Concluído",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
-		"message": "Login",
+		"message": "Iniciar sessão",
 		"description": "Login button on the downloads page."
 	},
 	"downloads.adsbox.thankyou.title": {
@@ -128,7 +128,7 @@
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Por favor, desativa o teu bloqueador de anúncios.",
+		"message": "Desativa o teu bloqueador de anúncios.",
 		"description": "Message next to pepe."
 	},
 	"downloads.skipanyway.message1": {
