@@ -1,6 +1,6 @@
 ---
 title: Primeiros passos
-description: Um pouco de aconselhamento para aqueles que entraram em programação recentemente
+description: Um pequeno conselho para aqueles que começaram a programar recentemente
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
