@@ -47,10 +47,6 @@
 		"message": "תרום",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "עצב",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "תרגם",
 		"description": "Translate -> redirects to locilazation page"
