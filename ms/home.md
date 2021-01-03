@@ -12,28 +12,28 @@ editor: markdown
 > {.is-warning}
 
 # Mengenai PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :mag: [Apakah itu PreMiD?](/about) Tujuan di sebalik PreMiD dan kenapa anda patut gunakannya.
 - :link: [Apakah itu RPC?](https://discordapp.com/rich-presence) Segalanya berkaitan Rich Presence dan fungsinya.
 
-# Getting Started
+# Mulakan
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD sangat cepat dan mudah untuk dipasang. Anda akan mulakannya dalam masa yang sekejap sahaja.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
+- Sila pastikan anda telah baca [keperluan sistem](/install/requirements).
+- Ikuti [panduan pemasangan](/install) yang cepat dan mudah.
 - [Penyelesaian masalah](/troubleshooting) membimbing anda untuk mencari penyelesaian untuk isu umum.
 
 # Para Pembangun
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[Mulakan](/dev) untuk pembangunan ialah langkah pertama anda sebelum mencipta kod sesuatu.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
+- :computer: [API](/dev/api): Capai sumber dan lakukan tindakan menggunakan API PreMiD.
 - :wrench:[Pembangunan Presence](/dev/presence): Belajar cara menggunakan sistem Presence kami.
 
 # Sumbang
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :bug: [Laporkan Pepijat](https://github.com/PreMiD): Bantu kami hapuskan pepijat yang mengganggu.
+- :bulb: [Cadangkan Sifat Baharu](https://discord.premid.app/): Kami perlukan idea anda!
+- :heart: [Derma](https://www.patreon.com/Timeraa): Buat sumbangan kecil atau jadi penaja untuk projek yang hebat ini!
+- :globe_with_meridians: [Penyetempatan](https://translate.premid.app): Bantu pengguna lain gunakan PreMiD dalam bahasa ibunda mereka.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}

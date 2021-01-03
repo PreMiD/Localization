@@ -202,7 +202,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 - Si vous décidez de créer une chaîne de format (par exemple, `%song% par %artist%` ), vous devez avoir les variables entourées d'un signe pour cent de chaque côté. Les variables tels que `%var`, `var%`ou `%%var%%` et tout ce qui se situe entre les deux **n'est pas autorisé** dans un but de normalisation.
 - Le nom des paramètres **ne doit pas** être en toutes lettres majuscules. Par exemple, des noms tels que `Afficher le statut de navigation` ne seront **pas autorisés** ; cependant, les noms tels que `Afficher l'état de navigation` ou `Afficher l'état de navigation` sont autorisés.
-- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
+- L'ajout de chaînes personnalisées au [Dépôt de localisation](https://github.com/PreMiD/Localization) pour être utilisé ultérieurement dans le paramètre `multiLanguage` n'est autorisé que si la presence a déjà été publiée avant et a acquis au moins 1000 utilisateurs.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
