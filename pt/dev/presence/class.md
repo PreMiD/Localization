@@ -142,7 +142,7 @@ const pauseString = strings.pause; // result: Paused
 
 ### `getPageletiable(String)`
 
-Retorna a váriavel do website caso exista.
+Retorna a váriavel do site caso exista.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");

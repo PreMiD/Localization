@@ -159,7 +159,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Matriz&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>serviço</b></td>
@@ -174,7 +174,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Matriz&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>descrição</b></td>
@@ -205,7 +205,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>versão</b></td>
@@ -214,7 +214,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Logotipo</b></td>
+      <td style="text-align:left"><b>logotipo</b></td>
       <td style="text-align:left">Vincular ao tipo de logotipo de serviço&apos;s.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
@@ -248,26 +248,26 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Um seletor de expressão regular que seleciona iframes para injetar. Consulte regExp para obter mais informações.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>definições</b></td>
       <td style="text-align:left">Uma matriz de definições que o usuário pode alterar.<br>
       Leia mais sobre as configurações de presença, <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
       <td style="text-align:left"><code>Matriz&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>sim</code></td>
+      <td style="text-align:left"><code>Sim</code></td>
     </tr>
   </tbody>
 </table>
