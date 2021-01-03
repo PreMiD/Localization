@@ -11,6 +11,10 @@
 		"message": "Jelentés",
 		"description": "Button to send the information inputed."
 	},
+	"report.toomany.alert": {
+		"message": "Túl sok aktív jelentésed van.",
+		"description": "User has too many active reports"
+	},
 	"report.error": {
 		"message": "További információ szükséges",
 		"description": "User needs to input more notification"
