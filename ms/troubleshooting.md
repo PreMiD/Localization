@@ -1,6 +1,6 @@
 ---
 title: Selesaikan masalah
-description: Everything to solve your problem
+description: Segalanya untuk menyelesaikan masalah anda
 published: true
 date: 2021-01-03T14:12:34.320Z
 tags:
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Sila pastikan anda telah memasangkan kedua-dua sambungan **dan** aplikasi! 
 > 
 > {.is-warning}
 
@@ -38,8 +38,8 @@ Untuk menyelesaikannya, anda hanya perlu menogol tetapan teratas: ![presencesett
 ### Muat semula/mula semula Discord
 Tekan <kbd>CTRL+R</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) pada papan kekunci anda atau mulakan semula Discord secara manual.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### Periksa jika anda mempunyai antivirus atau tembok api berjalan di komputer anda
+Kadang kala atur cara antivirus dan tembok api menyekat aplikasi yang mencipta/menghos pelayan atau hanya menyambung ke internet. Kami menggunakan pelayan tempatan untuk menerima dan menghantar data di antara aplikasi kami dan sambungan pelayar, jadi jika anda sekat kebolehan aplikasi untuk menghantar data maka anda mungkin tidak mampu menggunakan PreMiD.
 
 ### Disable your addons
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
