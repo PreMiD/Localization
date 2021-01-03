@@ -47,10 +47,6 @@
 		"message": "Bjóða fram",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Hönnun",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Þýða",
 		"description": "Translate -> redirects to locilazation page"
