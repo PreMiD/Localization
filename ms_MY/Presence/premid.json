@@ -31,6 +31,10 @@
 		"message": "Rakan Kongsi",
 		"description": "A page name"
 	},
+	"premid.pageAbout": {
+		"message": "Mengenai PreMiD",
+		"description": "A page name"
+	},
 	"premid.pageSysReq": {
 		"message": "Keperluan Sistem",
 		"description": "A page name"
