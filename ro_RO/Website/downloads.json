@@ -12,7 +12,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Instalează aplicația noastra",
+		"message": "Instalează aplicația noastră",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
@@ -94,6 +94,10 @@
 	"downloads.button.back": {
 		"message": "Înapoi",
 		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "Anulează",
+		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
 		"message": "Okay",
