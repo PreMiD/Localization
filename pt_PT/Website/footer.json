@@ -1,6 +1,6 @@
 {
 	"footer.language": {
-		"message": "Língua",
+		"message": "Idioma",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
@@ -44,7 +44,7 @@
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "Contribua",
+		"message": "Contribuir",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.design": {
