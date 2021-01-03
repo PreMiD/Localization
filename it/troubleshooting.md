@@ -2,7 +2,7 @@
 title: Risoluzione problemi
 description: Tutto per risolvere il tuo problema
 published: vero
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### Ricarica la pagina
+Puoi anche premere <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera invece di cercare il pulsante di aggiornamento.
+
 ### Stai usando l'app di Discord?
 PreMiD **non** è disponibile sulla versione del browser di Discord, è necessario scaricare l'app [qui](https://discord.com/download).
+
+### Assicurati di aver abilitato l'attività di gioco Discord nelle impostazioni
+**Impostazioni utente** > **Attività di gioco** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Assicurati che Discord NON sia in esecuzione come amministratore
+Davvero importante. Discord RPC non funzionerà se si esegue Discord come amministratore.
 
 ### Stai usando una presenza con le impostazioni?
 Molte presenze (tra cui `Twitch` e `SoundCloud`) sono affette da un problema di estensione. Questo problema fa sì che l'estensione non controlli correttamente i valori predefiniti delle impostazioni.
 
 Per risolvere questo problema, tutto quello che devi fare è attivare/disattivare l'impostazione in cima: ![presencesettings.gif](/presencesettings.gif)
 
-### Ricarica la pagina
-Puoi anche premere <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera invece di cercare il pulsante di aggiornamento.
-
 ### Riavvia il browser
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) o <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) fa anche un buon lavoro. (È necessario riavviare il browser di nuovo, ovviamente.,)
-
-### Assicurati di aver abilitato l'attività di gioco Discord nelle impostazioni
-**Impostazioni utente** > **Attività di gioco** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Riavvia PreMiD (Applicazione)
 ![quit.png](/quit.png) È necessario riavviare PreMiD in seguito.
 
 ### Ricarica/riavvia Discord
 Premi <kbd>CTRL+R</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera o riavvia Discord manualmente.
-
-### Assicurati che Discord NON sia in esecuzione come amministratore
-Davvero importante. Discord RPC non funzionerà se si esegue Discord come amministratore.
 
 ### Controlla se hai antivirus o firewall in esecuzione sul tuo computer
 A volte programmi antivirus e firewall bloccano le applicazioni che stanno creando/hostando server o semplicemente che si connettono ad Internet. Usiamo un server locale per ricevere e passare i dati tra la nostra app e l'estensione, quindi se bloccassi l'abilità dell'app di passare i dati probabilmente non riusciresti ad usare PreMiD.
