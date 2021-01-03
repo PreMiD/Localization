@@ -47,10 +47,6 @@
 		"message": "기여하기",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "디자인",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "번역하기",
 		"description": "Translate -> redirects to locilazation page"
