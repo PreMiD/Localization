@@ -197,14 +197,14 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
-      <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      <td style="text-align:left">Une chaîne d'expression régulière utilisée pour faire correspondre des urls.<br>
+regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a plusieurs sous-domaines.<br>
+        Vous pouvez utiliser le regExp pour cela :<br>
+        <code>([a-z0-9]+)[.]domain[.]TLD "</code><br>
+        TLD représente le domaine de niveau supérieur par exemple: . com .net (mais ne saisissez pas le point).<br> 
+        <code>([a-z0-9]+)</code> signifie n'importe quoi de a à z et de 0 à 9.<br>
+        Vous pouvez démarrer rapidement en regardant cette <a href="https://youtu.be/sXQxhojSdZM">vidéo</a><br>
+        Vous pouvez tester votre regExp sur <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
@@ -247,7 +247,7 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Définit si des <code>iFrames</code> sont utilisés.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
@@ -259,7 +259,7 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Définit si l'extension doit lire les logs.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
