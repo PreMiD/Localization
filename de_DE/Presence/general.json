@@ -207,9 +207,25 @@
 		"message": "Schaut ein Video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Wartet auf die Premiere eines Videos",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Warten auf die Premiere des Videos",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Schaut einen Livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Warte auf den Start eines Livestreams",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Warte darauf, dass der Livestream startet",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Schaut:",
