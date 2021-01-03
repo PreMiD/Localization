@@ -1,1 +1,10 @@
-{}
+{
+	"store.search.notFound": {
+		"message": "Δεν μπορέσαμε να βρούμε αυτό το \"Presence\"...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Συγνώμη, δεν μπορέσαμε να βρούμε αυτή τη σελίδα.",
+		"description": "Error (404) message"
+	}
+}
