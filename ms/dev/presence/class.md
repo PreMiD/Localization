@@ -32,7 +32,7 @@ Sifat ini diperlukan untuk membolehkan Presence anda berfungsi, kerana ia menggu
 
 #### `injectOnComplete`
 
-Apabila tetapkan nilai `injectOnComplete` kepada `true`, acara `UpdateData` yang pertama untuk kedua-dua fail `presence.ts` dan `iframe.ts` hanya akan dijalankan apabila halaman telah dimuatkan sepenuhnya.
+Apabila tetapkan nilai `injectOnComplete` kepada `true`, peristiwa `UpdateData` yang pertama untuk kedua-dua fail `presence.ts` dan `iframe.ts` hanya akan dijalankan apabila halaman telah dimuatkan sepenuhnya.
 
 #### `appMode`
 
@@ -128,7 +128,7 @@ let strings: Promise<LangStrings> = getStrings(),
   // The ID is the ID of the multiLanguage setting.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
+//! Kod di bawah mestilah berada dalam peristiwa updateData!
 // The ID is the ID of the multiLanguage setting.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {

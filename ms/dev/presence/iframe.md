@@ -36,7 +36,7 @@ Hantar data ke Presence. Penggunaan kaedah ini akan buatkan Presence mengembalik
 Mengembalikan URL untuk `iFrame`.
 
 ## Peristiwa
-Dalam `iframes`, peristiwa dijalankan dengan cara yang serupa dengan cara peristiwa dijalankan dalam kelas `presence`.
+Dalam `iFrame`, peristiwa dijalankan dengan cara yang serupa dengan cara peristiwa dijalankan dalam kelas `presence`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
