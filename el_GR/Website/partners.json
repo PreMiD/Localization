@@ -1,1 +1,6 @@
-{}
+{
+	"partners.header.title": {
+		"message": "Συνεργάτες",
+		"description": "Heading for page."
+	}
+}
