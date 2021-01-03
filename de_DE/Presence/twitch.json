@@ -3,8 +3,32 @@
 		"message": "Downloads",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Jobs",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Partner",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Pressezentrum",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Sicherheit",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Barrierefreiheit",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Werbungsoptionen",
 		"description": "Page name"
 	},
 	"twitch.home": {
