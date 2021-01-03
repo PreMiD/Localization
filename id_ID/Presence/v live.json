@@ -3,8 +3,52 @@
 		"message": "Menjelajahi",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.newVid": {
+		"message": "Halaman video baru",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "daftar saluran",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "halaman acara",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "halaman toko",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Melihat jadwal halaman",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Melihat halaman \"saya\"",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Melihat halaman toko",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "Melihat produk dari {0}",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
 	"v live.viewTheir": {
 		"message": "Melihat mereka",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "halaman profil",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "video telah ditonton",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "riwayat pembelian",
+		"description": "The second part of the \"Viewing their\" string"
 	}
 }
