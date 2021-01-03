@@ -2,7 +2,7 @@
 title: Probleemoplossing
 description: Alles om je probleem op te lossen
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-### Gebruik je de Discord-app?
-PreMiD werkt **niet** met de browserversie van Discord, je moet de app [hier](https://discord.com/download) downloaden.
-
-### Gebruikt je een presence met instellingen?
-Veel presences (waaronder `Twitch` en `SoundCloud`) hebben een extensieprobleem. Dit probleem houdt in dat de extensie de standaardinstellingen niet correct ophaalt.
-
-Om dit op te lossen hoef je alleen maar de bovenste instelling om te schakelen: ![presencesettings.gif](/presencesettings.gif)
-
 ### Pagina herladen
 U kunt ook op <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op het toetsenbord drukken in plaats van te zoeken naar de refresh knop.
 
-### Herstart uw browser
-<kbd>ALT</kbd>+<kbd>F4</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) doet ook goed werk. (Je moet je browser weer opstarten.)
+### Gebruik je de Discord-app?
+PreMiD werkt **niet** met de browserversie van Discord, je moet de app [hier](https://discord.com/download) downloaden.
 
 ### Zorg ervoor dat Discord spel activiteit is ingeschakeld in de instellingen
 **Gebruikersinstellingen** > **Spelactiviteit** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Zorg ervoor dat Discord NIET als administrator wordt uitgevoerd
+Echt belangrijk! Discord RPC zal niet werken als je Discord als administrator gebruikt.
+
+### Gebruikt u een presence met instellingen?
+Veel presences (inclusief `Twitch` en `SoundCloud`) worden beïnvloed door een extensie probleem. Dit probleem zorgt ervoor dat de extensie de standaardwaarden van instellingen niet goed grijpt.
+
+Om dit op te lossen hoef je alleen maar de bovenste instelling om te schakelen: ![presencesettings.gif](/presencesettings.gif)
+
+### Herstart uw browser
+<kbd>ALT</kbd>+<kbd>F4</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) doet ook goed werk. (Je moet je browser weer opstarten.)
 
 ### PreMiD herstarten (Applicatie)
 ![quit.png](/quit.png) U moet PreMiD daarna opnieuw starten.
 
 ### Discord herladen/herstarten
 Druk op <kbd>CTRL+R</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op je toetsenbord of start Discord handmatig opnieuw op.
-
-### Zorg ervoor dat Discord NIET als administrator wordt uitgevoerd
-Echt belangrijk! Discord RPC zal niet werken als je Discord als administrator gebruikt.
 
 ### Controleer of u antivirus of firewall draait op uw computer
 Soms blokkeren antivirusprogramma's en firewalls toepassingen die maken/hosting servers maken of alleen verbinding maken met het internet. We gebruiken een lokale server voor het ontvangen en doorgeven van gegevens tussen onze app en extensie, dus als u de mogelijkheid van een app blokkeert om gegevens door te geven zal u waarschijnlijk PreMiD niet kunnen gebruiken.

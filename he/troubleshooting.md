@@ -2,7 +2,7 @@
 title: פתרון תקלות
 description: הכל כדי לפתור את הבעיה שלך
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### טען מחדש את הדף
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+
 ### האם אתה משתמש באפליקציית Discord?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+
+### Make sure that you have enabled Discord Game Activity in settings
+**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### ודא כי דיסקורד לא פועל כמנהל מערכת
+מאוד חשוב. דיסקורד RPC לא יעבוד אם אתה מפעיל את דיסקורד כמנהל מערכת.
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### טען מחדש את הדף
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
-
 ### הפעל מחדש את הדפדפן שלך
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
-
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### הפעל מחדש את PreMiD (יישום)
 ![quit.png](/quit.png) עליך להפעיל מחדש את PreMiD לאחר מכן.
 
 ### טען/הפעל מחדש את Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
-
-### ודא כי דיסקורד לא פועל כמנהל מערכת
-מאוד חשוב. דיסקורד RPC לא יעבוד אם אתה מפעיל את דיסקורד כמנהל מערכת.
 
 ### בדוק אם במחשב שלך פועל אנטי-וירוס או חומת אש
 לפעמים יישומי אנטי-וירוס וחומות אש חוסמות יישומים שיוצרים/מאחרים שרתים או מתחברים לאינטרנט. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.

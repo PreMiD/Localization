@@ -2,7 +2,7 @@
 title: Felsökning
 description: Allt för att lösa ditt problem
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### Uppdatera sidan
+Du kan trycka <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på ditt tangentbord med istället för att leta efter uppdateringsknappen.
+
 ### Använder du Discord-appen?
 PreMiD fungerar **inte** på webbläsarversionen av Discord, du måste ladda ned appen [här](https://discord.com/download).
+
+### Se till att du har Discord-spelaktivitet aktiverat i inställningar
+**Användarinställningar** > **Spelaktivitet** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Se till att Discord INTE körs som administrator
+Väldigt viktigt. Discord RPC kommer inte att fungera om Discord körs som administratör.
 
 ### Använder du en presence med inställningar?
 Många presences (inkluderar `Twitch` och `SoundCloud`) påverkas av tilläggsfel. Det här felet orsakar tillägget att inte ta standardvärdena från inställningarna ordentligt.
 
 För att lösa det här, allt du behöver göra är att växla den översta inställningen: ![presencesettings.gif](/presencesettings.gif)
 
-### Uppdatera sidan
-Du kan trycka <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på ditt tangentbord med istället för att leta efter uppdateringsknappen.
-
 ### Starta om din webbläsare
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) gör ett bra jobb med. (Självklart måste du starta din webbläsare igen.)
-
-### Se till att du har Discord-spelaktivitet aktiverat i inställningar
-**Användarinställningar** > **Spelaktivitet** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Starta om PreMiD (Applikationen)
 ![quit.png](/quit.png) Du måste starta om PreMiD efteråt.
 
 ### Ladda om/starta om Discord
 Tryck <kbd>CTRL+R</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på ditt tangentbord eller starta om Discord manuellt.
-
-### Se till att Discord INTE körs som administrator
-Väldigt viktigt. Discord RPC kommer inte att fungera om Discord körs som administratör.
 
 ### Kontrollera om du har antivirus eller brandvägg som körs på din dator
 Ibland så blockar antivirusprogram och brandväggar applikationer som skapar/hanterar servrar eller applikationer som bara ansluter till internet. Vi använder en lokal server för att ta emot och ge data mellan vår app och tillägg, så om du blockerar appens förmåga att ge data så kommer du troligen inte kunna använda PreMiD.

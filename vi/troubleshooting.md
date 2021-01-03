@@ -2,7 +2,7 @@
 title: Xử lý sự cố
 description: Mọi thứ để giúp bạn xử lý sự cố
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### Tải lại trang
+You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+
 ### Are you using the Discord app?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+
+### Hãy chắc chắn là bạn đã cho phép Hoạt động trong game trong Discord trong cài đặt
+**Cái đặt người dùng** > **Hoạt động trong game** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Hãy chắc chắn là Discord đang KHÔNG hoạt động ở chế độ administrator
+Rất quan trọng. Discord RPC will not work if you run Discord as an administrator.
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### Tải lại trang
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
-
 ### Khởi động lại trình duyệt của bạn
 Bạn có thể nhấn <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) hoặc <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS). (Tất nhiên là bạn phải khởi động lại trình duyệt rồi.)
-
-### Hãy chắc rằng bạn đã bật Hoạt động trong game trong cài đặt của Discord
-**Cái đặt người dùng** > **Hoạt động trong game** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Khởi động lại PreMiD (Ứng dụng)
 ![quit.png](/quit.png) Bạn phải khởi động lại PreMiD sau đó.
 
-### Reload/restart Discord
+### Tải lại/khởi động lại Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
-
-### Hãy chắc chắn là Discord đang KHÔNG hoạt động ở chế độ administrator
-Rất quan trọng. Discord RPC will not work if you run Discord as an administrator.
 
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.

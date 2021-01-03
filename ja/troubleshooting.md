@@ -2,7 +2,7 @@
 title: トラブルシューティング
 description: 抱えている問題を解決する方法
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### ページを再読み込みする
+<kbd>Ctrl+R</kbd>/<kbd>F5</kbd>(Windows) か、<kbd>CMD+R</kbd>(MacOS) を押してみてください。もしくはリロード（再読み込み）ボタンを押してみてください。
+
 ### Discordのアプリ版を使用する
 PreMiDはブラウザ版のDiscordでは動作**しません。** [アプリ版のDiscord](https://discordapp.com/download)を使用してください。
+
+### Discordのゲームアクティビティ設定を有効にする
+**ユーザー設定** > **ゲームアクティビティ** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Discordが管理者権限で起動していないかを確認する
+これは重要です。 Discord リッチプレゼンスは管理者権限で起動していると動きません。
 
 ### 追加設定がついているプレゼンスの場合
 多くのプレゼンス（`Twitch`や`SoundCloud`など。横に歯車のマークがついているもの）は、拡張機能の問題の影響を受ける場合があります。 問題が発生すると、拡張機能が設定の既定値を取得できない状態になります。
 
 これを解消するためには、一番上の設定を切り替えてください。 ![presencesettings.gif](/presencesettings.gif)
 
-### ページを再読み込みする
-<kbd>Ctrl+R</kbd>/<kbd>F5</kbd>(Windows) か、<kbd>CMD+R</kbd>(MacOS) を押してみてください。もしくはリロード（再読み込み）ボタンを押してみてください。
-
 ### ブラウザを再起動する
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) か <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) で 終了できます。 （ブラウザを再度起動する必要があります。）
-
-### Discordのゲームアクティビティ設定を有効にする
-**ユーザー設定** > **ゲームアクティビティ** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### PreMiDのデスクトップアプリを再起動する
 ![quit.png](/quit.png) 再度PreMiDを起動する必要があります。
 
 ### Discordを再起動する
 <kbd>Ctrl+R</kbd> (Windows) か <kbd>CMD+R</kbd> (MacOS) を押すと、Discordが再起動します。
-
-### Discordが管理者権限で起動していないかを確認する
-これは重要です。 Discord リッチプレゼンスは管理者権限で起動していると動きません。
 
 ### ウイルス対策ソフトやファイアーウォールが起動してないかを確かめる
 ウイルス対策ソフトやファイアウォールがアプリケーションをブロックすることがあります。主にサーバーを立てたりする時やインターネットに接続する時に検知されます。 アプリと拡張機能の間でデータを送受信するためにローカルサーバーを使用しているため、ウイルス対策ソフトやファイアーウォールがデータを渡す機能をブロックすると、PreMiDを使用できなくなります。

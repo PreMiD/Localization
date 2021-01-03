@@ -2,7 +2,7 @@
 title: Вирішення проблем
 description: Усе для вирішення вашої проблеми
 published: true
-date: 2020-12-15T20:00:08.631Z
+date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,31 +12,31 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+### Перезавантажте сторінку
+Ви можете натиснути <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) або <kbd>CMD+R</kbd> (MacOS) на вашій клавіатурі теж замість пошуку кнопки оновлення.
+
 ### Ви користуєтесь додатком Discord?
 PreMiD **не** працює з браузерною версією Discord, ви повинні завантажити його [тут](https://discord.com/download).
+
+### Переконайтеся, що ви активували активність в іграх Discord в налаштуваннях
+**Налаштування користувача** > **Ігрова активність** ![gameactivity_edited.png](/gameactivity_edited.png)
+
+### Переконайтеся, що Discord працює не як адміністратор
+Дійсно важливе. Discord RPC не працюватиме, якщо ви запустите Discord в якості адміністратора.
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### Перезавантажте сторінку
-Ви можете натиснути <kbd>Strg+R</kbd>/<kbd>F5</kbd> (Windows) або <kbd>CMD+R</kbd> (MacOS) на вашій клавіатурі теж замість пошуку кнопки оновлення.
-
 ### Перезавантажте ваш браузер
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) або <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) також виконує гарну роботу. (Ви повинні знову запустити браузер)
-
-### Переконайтеся, що ви активували активність в іграх Discord в налаштуваннях
-**Налаштування користувача** > **Ігрова активність** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Перезапустіть PreMiD (застосунок)
 ![quit.png](/quit.png) Після цього ви повинні перезапустити PreMiD.
 
 ### Перезавантажте Discord
 Натисніть <kbd>Strg+R</kbd> (Windows) або <kbd>CMD+R</kbd> (MacOS) на своїй клавіатурі або перезавантажте Discord вручну.
-
-### Переконайтеся, що Discord працює не як адміністратор
-Дійсно важливе. Discord RPC не працюватиме, якщо ви запустите Discord в якості адміністратора.
 
 ### Перевірте, чи є антивірус або брандмауер на вашому комп'ютері
 Іноді антивірусні програми та брандмауери блокують додатки, які створюють сервер або просто приєднуються до Інтернету. Ми використовуємо локальний сервер для отримання та передачі даних між нашим додатком і розширенням, так що, якщо ви заблокуєте можливість додатку передавати дані, які, ймовірно, не зможуть використовувати PreMiD.
