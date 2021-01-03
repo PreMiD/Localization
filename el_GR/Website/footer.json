@@ -1,1 +1,22 @@
-{}
+{
+	"footer.language": {
+		"message": "Γλώσσα",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Είσαστε έτοιμοι για να χρησιμοποιήσεται το PreMiD;",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Γίνετε μέλος μαζί με άλλους {0} χρήστες!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Εγκατάσταση",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Συνεργάτες",
+		"description": "Partner section"
+	}
+}
