@@ -3,6 +3,10 @@
         "message": "Página principal",
         "description": "Home page of the site"
     },
+    "juniperbot.leaderboard": {
+        "message": "A ver as classificações do servidor",
+        "description": "Guild leaderboard page"
+    },
     "juniperbot.serverdash": {
         "message": "No painel de controlo",
         "description": "Server configuration page"
