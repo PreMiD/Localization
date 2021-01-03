@@ -6,5 +6,9 @@
 	"v live.viewTheir": {
 		"message": "Görüntülüyor",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.policies": {
+		"message": "Politikaları okuyor",
+		"description": ""
 	}
 }
