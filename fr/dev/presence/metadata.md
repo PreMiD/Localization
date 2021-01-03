@@ -255,9 +255,9 @@ Le paramètre `multiLangue` est un cas spécial, il ne nécessite ni de `titre` 
 
 La clé `multiLangue` peut être définie comme suit :
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: utilisez ceci si vous n'allez utiliser que des chaînes de caractères du fichier `general.json` et du fichier `<service>.json` du [Dépôt de localisation](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: nom du fichier excluant l'extension (.json) à l'intérieur du [Dépôt de localisation](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluant le fichier `general` car il est toujours chargé). Seules les langues courantes du fichier `general` et du fichier saisi seront listées. `Array<String>`: si vous utilisez plus d'un fichier à l'intérieur du [Dépôt de localisation](https://github.com/PreMiD/Localization/tree/master/src/Presence) vous pouvez spécifier toutes les valeurs dans une table (excluant le fichier `general`, car il est toujours chargé). Seules les langues courantes de tous les fichiers seront listées.
 
-#### Adding new strings
+#### Ajout de nouvelles chaînes
 
 ##### Dupliquer le projet
 
@@ -265,15 +265,15 @@ La clé `multiLangue` peut être définie comme suit :
 2. Choisissez un fichier de votre choix.
 3. Ouvrez-le dans votre éditeur de code.
 
-##### Creating the file
+##### Création du fichier
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Allez dans le dossier `src`.
+2. Allez dans le dossier `Presence`.
+3. Créer un fichier nommé `<service>.json`. (Le service est le **nom** (pas une URL) en minuscule du service que vous voulez supporter.)
 
-##### Adding the strings
+##### Ajout de chaînes
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Chaque `string` est un `Object` où le nom commence par le nom du service et ensuite par le stringName avec un point entre les deux.
 
 The stringName is a 1 word identifier of the message.
 
