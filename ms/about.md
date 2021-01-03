@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-PreMiD ialah utiliti yang mudah, mampu ditatarajah yang membolehkan anda menunjukkan apa anda buat di sesawang ke dalam status main di Discord anda. Ia menyokong pelbagai platform berlainan dan akan menyokong ramai pengguna melihat kandungan yang sama serentak dalam kemas kini yang akan datang.
+PreMiD ialah utiliti yang mudah, mampu ditatarajah yang membolehkan anda menunjukkan apa anda buat di sesawang ke dalam status main di Discord anda. Ia menyokong pelbagai platform berlainan dan akan menyokong ramai pengguna menonton kandungan yang sama serentak dalam kemas kini yang akan datang.
 
 # Kenapa anda patut muat turun PreMiD
 - Keseluruhan projek kami bersumber terbuka! Kami ingin bekerjasama dengan pengguna kami - bukan melawan mereka.
@@ -15,4 +15,4 @@ PreMiD ialah utiliti yang mudah, mampu ditatarajah yang membolehkan anda menunju
 
 # Sifat-sifat asas
 - Memaparkan perkhidmatan sesawang anda yang semasa ke dalam Discord sebagai status anda.
-- Memberi kawalan penuh Presence.
+- Memberi kawalan penuh melalui Presence.
