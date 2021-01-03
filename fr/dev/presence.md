@@ -279,39 +279,39 @@ Nous avons fait un créateur de fichier `metadata.json` pour les paresseux [ici]
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //L'ID du client de l'Application créé sur https://discordapp.com/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
+    //Vous pouvez l'utiliser pour obtenir des chaînes de caractères traduites dans la langue de leur navigateur
   });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Saisissez et traitez toutes vos données ici
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // saisies d'éléments //
+    // appels d'api //
+    // ensembles de variables //
 }
 
 setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Exécutez la fonction séparément de l'événement UpdateData toutes les 10 secondes pour obtenir et définir les variables que UpdateData récupère
 
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Cela est appelé plusieurs fois par seconde dans la mesure du possible.
+  /*UpdateData est toujours en marche, et doit donc être utilisé comme votre cycle de rafraîchissement, ou "tick". Cela est appelé plusieurs fois par seconde dans la mesure du possible.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Il est recommandé de configurer une autre fonction en dehors de cette fonction qui changera les valeurs des variables et faire le chargement lourd si vous appelez des données à partir d'une API. /
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*La clé (nom du fichier) de l'image large sur la presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
     smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*La clé (nom de fichier) de l'image large sur la presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
     details: "Browsing Page Name", //The upper section of the presence text
     state: "Reading section A", //The lower section of the presence text
