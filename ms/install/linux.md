@@ -84,7 +84,7 @@ Kami tidak tahu sama ada versi lama edaran lain menyokongnya atau tidak, jadi se
 
 Terima kasih kepada :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (dan beberapa orang lain yang saya lupa namanya) kerana memberi maklumbalas untuk terbitan saban malam.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (dan beberapa orang lain yang saya lupa namanya) kerana memberi maklum balas untuk terbitan saban malam.
 - @apriluwu kerana menyelenggara binaan Gentoo
 - @SlimShadyIAm dan naka kerana pernah menyelenggara pakej Repositori Pengguna Arch
 - Komuniti Electron untuk pelbagai pakej
@@ -148,7 +148,7 @@ Jika perintah tidak berfungsi, muat turun fail **deb/rpm** dari repo PackageClou
 
 ## Edaran berasaskan Arch Linux
 
-Menggunakan [Repositori Pengguna Arch](https://aur.archlinux.org/packages/premid);</br> Edaran yang disokong ialah _dirinya sendiri_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS dan [semua edaran yang menyokong pemasangan dari AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions_(Bahasa_Melayu)#Aktif).
+Menggunakan [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Edaran yang disokong ialah _dirinya sendiri_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS dan [semua edaran yang menyokong pemasangan dari AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions_(Bahasa_Melayu)#Aktif).
 
 <a name="archinstall"></a>
 
@@ -178,13 +178,13 @@ pacaur -S premid
 # ... anda faham caranya
 ```
 
-atau secara manualnya dari [Arch User Repository](https://aur.archlinux.org/packages/premid) jika anda thau apa yang anda lakukan.
+atau secara manualnya dari [Arch User Repository](https://aur.archlinux.org/packages/premid) jika anda tahu apa yang anda lakukan.
 
 <a name="archnotes"></a>
 
 ### Nota tambahan
 
-Jika edaran anda menggunakan pacman, maka anda perlu pasangkan salah satu pembantu dahulu. Jika anda tiada pembantu, Yay lebih disyorkan, jalankan:
+Jika edaran anda menggunakan pacman, maka anda perlu pasangkan salah satu pembantu dahulu. Jika anda tiada pembantu, Yay lebih disyorkan, jalankan :
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
