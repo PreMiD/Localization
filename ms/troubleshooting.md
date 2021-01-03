@@ -41,10 +41,10 @@ Tekan <kbd>CTRL+R</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) pada papan kekun
 ### Periksa jika anda mempunyai antivirus atau tembok api berjalan di komputer anda
 Kadang kala atur cara antivirus dan tembok api menyekat aplikasi yang mencipta/menghos pelayan atau hanya menyambung ke internet. Kami menggunakan pelayan tempatan untuk menerima dan menghantar data di antara aplikasi kami dan sambungan pelayar, jadi jika anda sekat kebolehan aplikasi untuk menghantar data maka anda mungkin tidak mampu menggunakan PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Lumpuhkan sambungan anda
+Lumpuhkan kesemua sambungan anda yang lain dan tengok jika PreMiD berfungsi. Jika ya, cuba bolehkan semula sambungan anda satu demi satu dan beritahu kami sambungan mana yang rosakkan PreMiD.
 
-### Restarting your computer
+### Memulakan semula komputer anda
 I hope you know how to restart a computer.
 
 ### Reinstalling PreMiD
