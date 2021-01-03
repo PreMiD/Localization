@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Classe du Slideshow
 description:
 published: oui
 date: 2020-12-25T00:47:38.111Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Classe du Slideshow
 
 ## Introduction
 
