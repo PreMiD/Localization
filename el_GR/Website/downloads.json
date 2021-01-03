@@ -1,1 +1,66 @@
-{}
+{
+	"downloads.header.title": {
+		"message": "Ώρα για εμφάνιση.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Χρησιμοποιήστε το PreMiD τώρα και δείξτε στους φίλους σας τι κάνετε, ίσως βρείτε κάποιον με τα ίδια ενδιαφέροντα.",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Ας Ξεκινήσουμε",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Κατεβάστε το PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Εγκαταστήστε την εφαρμογή μας",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Προσθέστε την επέκτασή μας στο πρόγραμμα περιήγησης",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Επαναφορτώστε αυτή την σελίδα και ελέγχξτε εάν η επέκταση είναι συνδεδεμένη",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "Εξακολουθείτε να έχετε προβλήματα; {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Είμαστε εδώ για να σας βοηθήσουμε!",
+		"description": "Link to our discord"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Αίτηση",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Επέκταση",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "Προειδοποίηση:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} Δεν υπάρχει πρόγραμμα εγκατάστασης για αυτό το λειτουργικό σύστημα. Αυτό σημαίνει ότι δεν υπάρχει επαγγελματική υποστήριξη.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "Το PreMiD δεν υποστηρίζεται από κινητά τηλέφωνα.",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "Προβολή Λήψεων",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "Απόκρυψη Λήψεων",
+		"description": "Little button on the downloads page for mobile users."
+	}
+}
