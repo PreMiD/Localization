@@ -83,7 +83,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
   <tbody>
     <tr>
       <td style="text-align:left"><b>auteur</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Objet</code></td>
       <td style="text-align:left"><code>Non</code></td>
@@ -103,9 +103,9 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Soyez en mesure de rechercher la presence en utilisant un nom alternatif.<br>
+      Destiné à être utilisé pour les presences qui ont des noms différents dans des langues différentes (par ex. Pokémon et 포켓몬스터).<br>
+      Vous pouvez également l'utiliser pour les presences qui ont des caractères spéciaux afin que vous n'ayez pas à les taper (par ex. Pokémon et Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
@@ -299,9 +299,9 @@ Visualisation du fichier :
 Après avoir entièrement créé le fichier avec des chaînes, vous pouvez créer une Pull Request sur le [Dépot de localisation](https://github.com/PreMiD/Localization), dans la description vous **devez** inclure un lien vers votre Pull Request de la presence mise à jour en utilisant ces nouvelles chaînes du [Dépôt de Presence](https://github.com/PreMiD/Presences).
 
 #### Touches par défaut
-Les clés que vous n'avez pas à définir sont automatiquement définies à ce qui suit : `title`: "Langue" **Note :** Ceci est traduit dans leur langue par défaut (langue du navigateur). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+Les clés que vous n'avez pas à définir sont automatiquement définies à ce qui suit : `title`: "Langue" **Note :** Ceci est traduit dans leur langue par défaut (langue du navigateur). `icon`: "fas fa-language" ([Aperçu](https://fontawesome.com/icons/language)) `value`: **Régler la langue de leur navigateur si elle est disponible (100% traduite), sinon l'anglais.** `values`: **Définissez les langues disponibles (langues qui ont été traduites à 100%).**
 
-**Note:** These are in no way changeable.
+**Remarque :** Celles-ci ne sont en aucun cas modifiables.
 
 ### Méthodes
 
@@ -309,8 +309,8 @@ Utilisez les méthodes suivantes pour obtenir des informations sur les paramètr
 #### `getSetting(String)`
 Renvoie la valeur du paramètre.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = wait presence.getSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
+console.log(setting); // Cela enregistrera la valeur du paramètre
 ```
 
 #### `masquer (chaîne de caractères)`
