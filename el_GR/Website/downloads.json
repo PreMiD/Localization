@@ -114,5 +114,45 @@
 	"downloads.adsbox.thankyou.title": {
 		"message": "Ευχαριστούμε!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Χρησιμοποιούμε διαφημίσεις για να υποστηρίξουμε την ομάδα μας και να διατηρήσουμε τους διακομιστές μας για να σας προσφέρουμε την καλύτερη εμπειρία!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Παρακαλούμε απενεργοποιήστε το adblock σας.",
+		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Δεν θέλω να σας υποστηρίξω.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Είσαι σίγουρος;",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Σοβαρά τώρα;",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "Έλα ρε μπρο πλιζ :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Πλιζ σε χρειάζομαι :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Καλά, καλά...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Εμφάνιση λήψεων beta",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(δεν χρειάζεται αν είστε εδώ για να κατεβάσετε μόνο την κανονική εφαρμογή)",
+		"description": "Small text under the show beta title."
 	}
 }
