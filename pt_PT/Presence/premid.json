@@ -43,6 +43,10 @@
 		"message": "Instalação",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "Instalação para {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Solução de Problemas",
 		"description": "A page name"
@@ -55,12 +59,32 @@
 		"message": "API",
 		"description": "A page name"
 	},
+	"premid.pageApiVersion": {
+		"message": "Compreender a API da v{0}",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
 	"premid.pagePresenceDev": {
 		"message": "Desenvolvimento de Presenças",
 		"description": "A page name"
 	},
+	"premid.pagePresenceGuide": {
+		"message": "Diretrizes de presença",
+		"description": "A page name"
+	},
 	"premid.pagePresenceClass": {
 		"message": "Classe de presença",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Compreender o iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Configurar o metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Configurar o TypeScript",
 		"description": "A page name"
 	}
 }

@@ -15,9 +15,37 @@
 		"message": "Parceiros",
 		"description": "Page name"
 	},
+	"twitch.press": {
+		"message": "Centro de imprensa",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Segurança",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Acessibilidade",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Preferências de anúncios",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Diretrizes da comunidade",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "Página Inicial ",
 		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "A ver a carteira...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "A ver esports...",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "A ver os(as) seus(suas)",
