@@ -54,7 +54,7 @@ Kadang kala ada sesuatu yang tidak kena dengan failnya... Tutorial pemasangan bo
 Windows:    `C:\Users\NAMA-PENGGUNA\AppData\Roaming\`` dan padamkan folder`PreMiD`.
 MacOS:`~/users/NAMA-PENGGUNA/~Library/Application Support/`dan padamkan folder`PreMiD``.
 
-### Di Ubuntu/edaran berasaskan Debian
+### Di edaran berasaskan Ubuntu/Debian
 Jika anda memuat turun Discord melalui Snapcraft, RPC tidak akan berfungsi. Anda perlu nyahpasang versi Snapcraft dengan menjalankan `sudo snap remove discord` dekat terminal, muat turun [binaan Discord untuk Linux](https://discordapp.com/api/download?platform=linux) ([atau binaan Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), kemudian pergi ke direktori di mana anda muat turun Discord tadi (selalunya `$HOME/Downloads`), kemudian pasangkan pakej menggunakan `sudo dpkg -i discord-*.deb`.
 
 ### McAfee mengesan PreMiD sebagai virus (Windows)
