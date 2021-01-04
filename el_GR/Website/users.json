@@ -26,5 +26,13 @@
 	"user.switch.contributed": {
 		"message": "Χρήστης [Presences/contributions]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Κάντε κλικ εδώ για να εμφανίσετε τα Presences που έχει δημιουργήσει αυτός ο χρήστης.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Κάντε κλικ εδώ για να εμφανίσετε τα presences στα οποία συνέβαλε αυτός ο χρήστης.",
+		"description": "Tippy content (mode 2) in user profile."
 	}
 }
