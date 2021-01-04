@@ -137,7 +137,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     </tr>
     <tr>
       <td style="text-align:left"><b>Logo</b></td>
-      <td style="text-align:left">Lien vers le logo du service&apos;s.</td>
+      <td style="text-align:left">Lien vers le logo du service&apos;.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
@@ -149,7 +149,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     </tr>
     <tr>
       <td style="text-align:left"><b>couleur</b></td>
-      <td style="text-align:left"><code>valeur #HEX</code>. Nous vous recommandons d'utiliser une couleur primaire du service
+      <td style="text-align:left">valeur <code>#HEX</code>. Nous vous recommandons d'utiliser une couleur primaire du service
         que votre présence supporte.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code></td>
       <td style="text-align:left"><code>Non</code></td>
@@ -195,7 +195,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
 
 ## Expressions régulières
 
-Si vous voulez apprendre des expressions régulières, voici quelques sites web.
+Si vous voulez apprendre les expressions régulières, voici quelques sites web.
 
 #### Apprentissage
 
@@ -207,7 +207,7 @@ Si vous voulez apprendre des expressions régulières, voici quelques sites web.
 
 ## Langues de présence
 
-PreMiD est un service polyglotte, ce qui signifie qu'il y a une multitude de langues impliquées pour connecter les utilisateurs du monde entier. Une liste complète des langues peut être trouvée avec ce [point de terminaison de l'API](https://api.premid.app/v2/langFile/list). Pour personnaliser encore plus votre présence, vous pouvez autoriser les utilisateurs à sélectionner la langue d'affichage de leur présence, voir [`langue multilingue`](#multilanguage) pour plus d'informations.
+PreMiD est un service polyglotte, ce qui signifie qu'il y a une multitude de langues impliquées pour connecter les utilisateurs du monde entier. Une liste complète des langues peut être trouvée avec ce [point de terminaison de l'API](https://api.premid.app/v2/langFile/list). Pour personnaliser encore plus votre présence, vous pouvez autoriser les utilisateurs à sélectionner la langue d'affichage de leur présence, voir [`multiLanguage`](#multilanguage) pour plus d'informations.
 
 ## Paramètres de présence
 Configurer les paramètres interactifs pour que les utilisateurs puissent personnaliser la présence!
