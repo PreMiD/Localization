@@ -27,6 +27,10 @@
 		"message": "Jelentkezz most!",
 		"description": "Button to apply for partner."
 	},
+	"partners.apply.disclaimer": {
+		"message": "Menjünk együtt a mennybe!",
+		"description": "Disclaimer located above the apply button."
+	},
 	"partners.sponsors.title": {
 		"message": "Szponzorok",
 		"description": "Heading for sponsors."
@@ -34,6 +38,14 @@
 	"partners.partner.crowdin": {
 		"message": "Agilis honosítás a tech cégek számára.",
 		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "A legerősebb és bővíthető nyílt forráskódú Wiki szoftver.",
+		"description": "Description for WikiJS."
+	},
+	"partners.apply.title": {
+		"message": "Jelentkezz a partnerre",
+		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
 		"message": "Bejelentkezve mint {0}",
@@ -90,6 +102,10 @@
 	"partners.apply.error1": {
 		"message": "Kérlek, töltsd ki az összes mezőt.",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error3": {
+		"message": "Kérlek, adj hozzá egy linket (a https:// -vel kell kezdődnie és a .png-vel kell végződnie)",
+		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
 		"message": "Már jelentkeztél a partnerre.",
