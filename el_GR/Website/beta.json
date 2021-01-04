@@ -1,1 +1,46 @@
-{}
+{
+	"beta.title": {
+		"message": "Θέλετε νέα χαρακτηριστικά;",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "Το **PreMiD Beta** είναι τώρα διαθέσιμο για όλους!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Τι θα πάρετε αν εγγραφείτε;",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Τα πιο πρόσφατα χαρακτηριστικά",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Πρόσβαση στα σούπερ μυστικά κανάλια στο Discord του PreMiD",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Ένας ειδικός ρόλος στον Discord server μας",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Είσαστε έτοιμοι; Εισέλθετε στην ομάδα με άλλους {0} δοκιμαστές Beta!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Εγγραφείτε τώρα!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Ωραία! Είστε τώρα ένας χρήστης beta!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Οι πιθήκοι μας εργάζονται για να σας βάλουν στο πρόγραμμα beta μας το συντομότερο δυνατόν. Σας ευχαριστούμε για την εγγραφή!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Φαίνεται ότι δεν έχουμε άλλες beta υποδοχές διαθέσιμες.",
+		"description": "Shows when the beta slots are full."
+	}
+}
