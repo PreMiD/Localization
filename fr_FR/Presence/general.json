@@ -220,11 +220,11 @@
 		"description": ""
 	},
 	"general.waitingLive": {
-		"message": "En attente du démarrage d'un livestream",
+		"message": "En attente du démarrage d'un live",
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
 	},
 	"general.waitingLiveThe": {
-		"message": "En attente du démarrage du livestream",
+		"message": "En attente du démarrage du live",
 		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
