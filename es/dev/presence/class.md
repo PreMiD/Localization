@@ -200,7 +200,7 @@ console.log(logs); // Obtienes los últimos 100 logs (en un array).
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Muestra el mensaje proporcionado en la consola en un formato basado en la presence bajo el estilo `info`.
 
 ```typescript
 presence.info("Test") // Esto logeará "test" con un estilo predeterminado.
@@ -208,7 +208,7 @@ presence.info("Test") // Esto logeará "test" con un estilo predeterminado.
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Muestra el mensaje proporcionado en la consola en un formato basado en la presence bajo el estilo `satisfactorio`.
 
 ```typescript
 presence.success("Test") // Esto logeará "test" con un estilo predeterminado.
@@ -216,7 +216,7 @@ presence.success("Test") // Esto logeará "test" con un estilo predeterminado.
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Muestra el mensaje proporcionado en la consola en un formato basado en la presence bajo el estilo `error`.
 
 ```typescript
 presence.error("Test") // Esto logeará "test" con un estilo predeterminado.

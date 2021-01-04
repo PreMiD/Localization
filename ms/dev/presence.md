@@ -310,34 +310,34 @@ presence.on("UpdateData", async () => {
     largeImageKey:
       "key" /*Kekunci (nama fail) bagi Imej Besar atau Large Image pada Presence. Ini semua dimuat naik dan dinamakan di bahagian Rich Presence dalam aplikasi anda, dipanggil Art Assets*/,
     smallImageKey:
-      "key" /*Kekunci (nama fail) gambar besar "Large Image" di Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+      "key" /*Kekunci (nama fail) gambar besar "Large Image" di Presence. Ini semua dimuat naik dan dinamakan di bahagian Rich Presence aplikasi anda yang dipanggil Art Assets "Aset Seni"*/,
+    smallImageText: "Some hover text", //Tulisan yang akan dipaparkan apabila tetikus dilalukan atas imej kecil
+    details: "Browsing Page Name", //Bahagian atas tulisan Presence
+    state: "Reading section A", //Bahagian bawah tulisan Presence
+    startTimestamp: 1577232000, //Cap masa epoc unix untuk bila masa akan mula dikira
+    endTimestamp: 1577151472000 //Jika anda ingin tunjukkan Baki Masa dan bukan Masa Berlalu, ini cap masa epoc unix di mana pemasa akan berhenti
+  }; /*Anda juga boleh memilih untuk menetapkan nilai largeImageKey di sini dan ubah yang lain menjadi subsifat boleh ubah, contohnya presenceSata.type = "blahblah"; contoh jenis: details, state, dll.*/
 
   if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    //Ini akan dijalankan jika anda tidak tetapkan perincian Presence
+    presence.setTrayTitle(); //Memadam tajuk talam bagi pengguna mac
+    presence.setActivity(); /*Kemas kini Presence dengan tiada data, dengan itu memadamnya dan membuatkan imej besar sebagai ikon Aplikasi Discord, dan tulisan sebagai nama Aplikasi Discord*/
   } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    //Ini akan dijalankan jika anda tetapkan perincian Presence
+    presence.setActivity(presenceData); //Kemas kini Presence dengan semua nilai daripada objek presenceData
   }
 });
 ```
 
 Anda boleh salin ini ke dalam fail `presence.ts` anda dan sunting nilainya. Penetapan kesemua nilai dilakukan di dalam peristiwa updateData.
 
-Contohnya kami cadangkan anda lihat kod Presence seperti: 1337x atau 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Contohnya kami cadangkan anda lihat kod Presence seperti: 1337x atau 9GAG. Untuk maklumat lanjut mengenai kelas `Presence` sila klik [di sini](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Sejak v2.2.0 adanya Slideshow, ini membolehkan anda menunjukkan beberapa antara muka `PresenceData` pada selang masa sesuatu, untuk maklumat lanjut mengenai kelas `Slideshow` boleh klik [sini](/dev/presence/slideshow).
 
-## Can't get certain data?!
+## Tidak mampu dapatkan sesetengah data?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Banyak laman sesawang menggunakan [iFrame](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag HTML ini boleh mengandungi beberapa sumber seperti video. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
