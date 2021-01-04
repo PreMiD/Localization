@@ -68,7 +68,7 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "NAMA",
+    "name": "PENGGUNA",
     "id": "ID"
   },
   "contributors": [
@@ -111,7 +111,7 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
       },
       "title": "TAJUK PAPARAN",
       "icon": "IKON FONTAWESOME",
-      "value": "\"%song%\" oleh %artist%",
+      "value": "\"%song%\" by %artist% atau lainnya dalam bahasa Inggeris",
       "placeholder": "gunakan %song% atau %artist%"
     },
     {
@@ -119,13 +119,13 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
       "title": "TAJUK PAPARAN",
       "icon": "IKON FONTAWESOME",
       "value": 0,
-      "values": ["1", "2", "etc."]
+      "values": ["1", "2", "dll."]
     }
   ]
 }
 ```
 
-Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini anda perlu ubah nilai sifat. Ambil perhatian bahawa sifat berikut adalah pilihan dan tidak diwajibkan dalam fail `metadata.json` anda, jika anda tidak bercadang untuk menggunakannya maka anda perlu membuangnya.
+Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini anda perlu ubah nilai sifat. Ingat bahawa ia perlu dalam bahasa Inggeris kerana terjemahan akan ditambah kemudian. Ambil perhatian bahawa sifat berikut adalah pilihan dan tidak diwajibkan dalam fail `metadata.json` anda, jika anda tidak bercadang untuk menggunakannya maka anda perlu membuangnya.
 
 - `contributors`
 - `altnames`
@@ -196,14 +196,14 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
+      <td style="text-align:left">Rentetan ungkapan nalar digunakan untuk memadankan URL yang banyak.<br>
+      Ungkapan nalar (regExp) atau juga dikenali sebagai Regex, boleh digunakan jika sesuatu laman sesawang mempunyai banyak subdomain.<br>
+      Anda boleh gunakan regExp berikut untuk perkara tersebut:<br>
       <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      TLD singkatan Top Level Domain iaitu Domain Paras Tertinggi seperti: .com .net (tetapi jangan masukkan titik).<br>
+      <code>([a-z0-9]+)</code> maksudnya apa sahaja dari a ke z dan dari 0 ke 9.<br>
+      Anda boleh mulakan dengan menonton <a href="https://youtu.be/sXQxhojSdZM">video</a> ini.<br>
+      Anda boleh mencuba regExp anda di <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
@@ -246,7 +246,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Mentakrifkan sama ada <code>iFrames</code> akan digunakan.</td>
+      <td style="text-align:left">Menentukan sama ada <code>iFrames</code> akan digunakan.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
@@ -258,7 +258,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Mentakrifkan sama ada sambungan patut baca log.</td>
+      <td style="text-align:left">Menentukan sama ada sambungan patut baca log.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
@@ -308,15 +308,15 @@ presence.on("UpdateData", async () => {
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*Kekunci (nama fail) bagi Imej Besar atau Large Image pada Presence. Ini semua dimuat naik dan dinamakan di bahagian Rich Presence dalam aplikasi anda, dipanggil Art Assets*/,
+      "key" /*Kekunci (nama fail) bagi Imej Besar atau Large Image pada Presence. Ini semua dimuat naik dan dinamakan di bahagian Rich Presence dalam aplikasi anda, dipanggil Art Assets atau Aset Seni*/,
     smallImageKey:
-      "key" /*Kekunci (nama fail) gambar besar "Large Image" di Presence. Ini semua dimuat naik dan dinamakan di bahagian Rich Presence aplikasi anda yang dipanggil Art Assets "Aset Seni"*/,
+      "key" /*Kekunci (nama fail) gambar besar "Large Image" di Presence. Ini semua dimuat naik dan dinamakan di bahagian Rich Presence aplikasi anda yang dipanggil Art Assets atau Aset Seni*/,
     smallImageText: "Some hover text", //Tulisan yang akan dipaparkan apabila tetikus dilalukan atas imej kecil
     details: "Browsing Page Name", //Bahagian atas tulisan Presence
     state: "Reading section A", //Bahagian bawah tulisan Presence
-    startTimestamp: 1577232000, //Cap masa epoc unix untuk bila masa akan mula dikira
-    endTimestamp: 1577151472000 //Jika anda ingin tunjukkan Baki Masa dan bukan Masa Berlalu, ini cap masa epoc unix di mana pemasa akan berhenti
-  }; /*Anda juga boleh memilih untuk menetapkan nilai largeImageKey di sini dan ubah yang lain menjadi subsifat boleh ubah, contohnya presenceSata.type = "blahblah"; contoh jenis: details, state, dll.*/
+    startTimestamp: 1577232000, //Cap masa epok unix untuk bila masa akan mula dikira
+    endTimestamp: 1577151472000 //Jika anda ingin tunjukkan Baki Masa dan bukan Masa Berlalu, ini cap masa epok unix di mana pemasa akan berhenti
+  }; /*Anda juga boleh memilih untuk menetapkan nilai largeImageKey di sini dan ubah yang lain menjadi subsifat pemboleh ubah, contohnya presenceSata.type = "blahblah"; contoh jenis: details, state, dll.*/
 
   if (presenceData.details == null) {
     //Ini akan dijalankan jika anda tidak tetapkan perincian Presence
@@ -384,23 +384,23 @@ Buka konsol dalam folder anda dan taip `tsc -w` untuk mengkompil fail `presence.
 1. Buka tetingkap timbul dan terus menekan butang <kbd>Shift</kbd> di papan kekunci anda.
 2. **Muatkan Presence**akan muncul di bahagian Presence.
 3. Klik padanya ketika anda masih memegang butang <kbd>Shift</kbd>.
-4. Pilih folder /dist milik Presence anda.
+4. Pilih folder /dist bagi Presence anda.
 
-# Some helpful things
+# Beberapa perkara yang berguna
 
-## Hot-reloading
+## Muat semula panas
 
-The website you are developing on is automatically reloading every time you save a file in your folder.
+Laman sesawang yang anda bangunkan Presence-nya dimuat semula secara automatiknya setiap kali anda simpan fail di dalam folder anda.
 
-## Debugging
+## Nyahpepijat
 
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Anda boleh letakkan `console.log("Test");` di antara kod anda dan tengok jika konsol pelayar anda berikan output tersebut. Jika ya maka teruskan dan cuba lagi selepas fungsi seterusnya. Jika tidak maka adanya ralat di atas.
+- Jika itu tidak membantu anda juga maka cuba minta bantuan pembangun Presence di [pelayan Discord kami](https://discord.premid.app/).
 
-# Files explained
+# Fail dijelaskan
 
 - [Kelas Presence](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [Kelas Slideshow](/dev/presence/slideshow)
 - [Kelas iFrame](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [Fail Metadata](/dev/presence/metadata)
 - [Tatarajah TypeScript](/dev/presence/tsconfig ""){.links-list}
