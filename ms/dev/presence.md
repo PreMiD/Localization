@@ -39,7 +39,7 @@ Kesemua Presence dikodkan dalam [TypeScript](https://www.typescriptlang.org/). [
 
 ## Cipta folder dan fail
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Masuk ke folder `websites` kemudian masuk ke folder dengan huruf pertama bagi **nama** (bukannya URL) perkhidmatan yang anda ingin sokong.
 2. Cipta folder dengan **nama** (bukannya URL) perkhidmatan yang anda ingin sokong.
 3. Cipta fail `presence.ts` dan `tsconfig.json` di dalamnya.
 4. Cipta folder bernama `dist` di dalamnya.
@@ -68,27 +68,27 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USER",
+    "name": "NAMA",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USER",
+      "name": "PENGGUNA",
       "id": "ID"
     }
   ],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "PERKHIDMATAN",
+  "altnames": ["PERKHIDMATAN"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "KETERANGAN DALAM BAHASA INGGERIS"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSI",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "KATEGORI",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TAJUK PAPARAN",
+      "icon": "IKON FONTAWESOME",
       "value": true
     },
     {
@@ -109,15 +109,15 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
+      "title": "TAJUK PAPARAN",
+      "icon": "IKON FONTAWESOME",
+      "value": "\"%song%\" oleh %artist%",
+      "placeholder": "gunakan %song% atau %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "TAJUK PAPARAN",
+      "icon": "IKON FONTAWESOME",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
