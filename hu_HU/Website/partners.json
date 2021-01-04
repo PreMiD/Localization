@@ -19,6 +19,10 @@
 		"message": "Követelmények",
 		"description": "Heading for the requirements."
 	},
+	"partners.requirements.first.title": {
+		"message": "Mit keresünk?",
+		"description": "Heading for the first requirement."
+	},
 	"partners.apply.button": {
 		"message": "Jelentkezz most!",
 		"description": "Button to apply for partner."
