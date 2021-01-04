@@ -185,7 +185,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
     <tr>
       <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">URL perkhidmatan.<br><b>Contohnya:</b><code>vk.com</code><br>
-      <b>URL ini mesti padan URL laman sesawang kerana ia akan mengesan sama ada laman sesawang tertentu itu laman sesawang yang akan disuntikkan skrip.</b><br> <b>JANGAN</b> tambah <code>https://</code> atau <code>http://</code> di dalam URL dan jangan letak tanda garis condong di penghujung:
+      <b>URL ini mesti padan URL laman sesawang kerana ia akan mengesan sama ada laman sesawang tertentu itu laman sesawang yang akan disuntik skrip.</b><br> <b>JANGAN</b> tambah <code>https://</code> atau <code>http://</code> di dalam URL dan jangan letak tanda garis condong di penghujung:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
       <b>Nota</b>: Sesetengah URL mungkin ada <code>www.</code> atau benda lain di hadapan domain mereka. <b>JANGAN</b> lupa untuk menambahnya!<br>
       Anda boleh menambah banyak URL dengan membuat seperti ini:<br>
@@ -246,19 +246,19 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Mentakrifkan sama ada <code>iFrames</code> akan digunakan.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Lihat regExp untuk maklumat lanjut.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Mentakrifkan sama ada sambungan patut baca log.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
@@ -274,7 +274,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
 
 Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di sini](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Getting started
+## Mulakan
 
 ```typescript
 const presence = new Presence({
