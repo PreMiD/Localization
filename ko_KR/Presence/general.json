@@ -71,8 +71,20 @@
 		"message": "DM을 보는 중:",
 		"description": ""
 	},
+	"general.readingAbout": {
+		"message": "읽는 중:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "문서 읽는 중:",
+		"description": ""
+	},
 	"general.readingChannel": {
 		"message": "다음 채널을 보는 중:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "포스트 읽는 중:",
 		"description": ""
 	},
 	"general.readingThread": {
@@ -85,6 +97,10 @@
 	},
 	"general.searchFor": {
 		"message": "찾는 중:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "무언가에 대하여 검색 중...",
 		"description": ""
 	},
 	"general.search": {
@@ -103,8 +119,20 @@
 		"message": "DM을 적는 중:",
 		"description": ""
 	},
+	"general.typeChannel": {
+		"message": "다음 채널에서 타이핑 중:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "애니 보는 중:",
+		"description": ""
+	},
 	"general.viewCategory": {
 		"message": "카테고리 보는 중:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "채널 보는 중:",
 		"description": ""
 	},
 	"general.viewEpisode": {
@@ -117,6 +145,10 @@
 	},
 	"general.viewHome": {
 		"message": "홈페이지 보는 중",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "목록 보는 중:",
 		"description": ""
 	},
 	"general.viewManga": {
