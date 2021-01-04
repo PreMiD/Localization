@@ -135,7 +135,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
 - `readLogs`
 - `tetapan`
 
-**Clarifying some value presets:**
+**Menjelaskan beberapa nilai pratetap:**
 
 <table>
   <thead>
@@ -149,36 +149,36 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
         mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
         mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Tajuk bagi perkhidmatan yang Presence ini sokong.<br>
+      (Mestilah nama yang sama dengan nama folder di mana semuanya berada)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Membolehkan carian Presence menggunakan nama alternatif.<br>
+      Untuk digunakan dalam Presence yang mempunyai nama berlainan dalam bahasa yang berlainan (spt. Pokémon dan 포켓몬스터).<br>
+      Anda juga boleh gunakannya untuk Presence yang mempunyai aksara istimewa supaya anda tidak perlu menaip aksara tersebut (spt. Pokémon dan Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>keterangan</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Keterangan anda mesti mempunyai nilai pasangan kekunci yang menyatakan bahasa terlibat, beserta keterangan dalam bahasa tersebut. Cipta keterangan dengan bahasa <i>yang anda tahu</i>, penterjemah kami akan buat perubahan ke fail metadata anda.</td>
+      <td style="text-align:left">Keterangan kecil mengenai Presence, anda boleh gunakan keterangan perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Keterangan anda mesti mempunyai nilai pasangan kekunci yang menyatakan bahasa terlibat, beserta keterangan dalam bahasa tersebut. Cipta keterangan dengan bahasa <i>yang anda tahu</i>, penterjemah kami akan buat perubahan ke fail metadata anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
