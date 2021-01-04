@@ -302,15 +302,15 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData sentiasa dijalankan, oleh itu ia patut digunakan sebagai kitaran segar semula anda, atau `tick`. This is called several times a second where possible.
+  /*UpdateData sentiasa dijalankan, oleh itu ia patut digunakan sebagai kitaran segar semula anda, atau `tick`. Ini dipanggil beberapa kali sesaat apabila boleh.
 
     Ianya disyorkan untuk menetapkan fungsi lain di luar fungsi peristiwa ini yang akan mengubah nilai pemboleh ubah dan membuat kerja yang lebih berat jika anda memanggil data daripada sesuatu API.*/
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*Kekunci (nama fail) bagi Imej Besar atau Large Image pada Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*Kekunci (nama fail) bagi Imej Besar atau Large Image pada Presence. Ini semua dimuat naik dan dinamakan di bahagian Rich Presence dalam aplikasi anda, dipanggil Art Assets*/,
     smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*Kekunci (nama fail) gambar besar "Large Image" di Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
     details: "Browsing Page Name", //The upper section of the presence text
     state: "Reading section A", //The lower section of the presence text
