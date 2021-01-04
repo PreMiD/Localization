@@ -302,13 +302,13 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 presence.on("UpdateData", async () => {
   /*UpdateData selalu dijalankan, oleh karena itu lebih baik digunakan sebagai refresh cycle , atau 'tick`. Ini dinamakan beberapa kali dalam sedetik jika mungkin.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Disarankan untuk mengatur function lainnya diluar event function tersebut yang akan mengubah isi variable dan melakukan kerja keras jika anda memanggil data dari sebuah API.*/
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*Key (nama file) dari Lare Image di presence. Ini di unggah dan dinamai di Rich Presence dari aplikasi anda, disebut Art Assets*/,
     smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*Key (nama file) dari Large Image di presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
     details: "Browsing Page Name", //The upper section of the presence text
     state: "Reading section A", //The lower section of the presence text
@@ -331,7 +331,7 @@ Anda bisa menyalinnya ke file `presence.ts` dan merubah value nya. Pengaturan se
 
 Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG. Untuk informasi lebih lanjut tentang kelas `Presence` klik [di sini](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Sejak v2.2.0 sekarang ada Slideshow, ini memungkinkan anda menampilkan beberapa `PresenceData` antarmuka pada suatu interval, untuk info lebih lanjut klik tentang kelas `Slideshow` [disini](/dev/presence/slideshow).
 
 ## Tidak bisa mendapat data tertentu?!
 
