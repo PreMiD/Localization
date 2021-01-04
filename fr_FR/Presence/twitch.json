@@ -56,7 +56,7 @@
 		"description": ""
 	},
 	"twitch.viewDropsInv": {
-		"message": "Regarde son inventaire des Drops...",
+		"message": "Regarde son inventaire de Drops...",
 		"description": ""
 	},
 	"twitch.viewDropsComp": {
@@ -144,7 +144,7 @@
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.streamSum": {
-		"message": "Résumé du steam",
+		"message": "Résumé du stream",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.achievements": {
