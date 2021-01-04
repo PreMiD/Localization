@@ -8,7 +8,7 @@
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Estes já pertencem a nós",
+		"message": "Estes já nos pertencem a nós",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -76,7 +76,7 @@
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "Inscreva-se já!",
+		"message": "Inscreve-te já!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
