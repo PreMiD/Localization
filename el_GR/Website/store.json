@@ -30,5 +30,57 @@
 	"store.card.presence.included": {
 		"message": "Αυτό το Presence ενεργοποιείται αυτόματα κατα την επίσκεψη στην ιστοσελίδα.",
 		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Φίλτρα",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Πρώτα τα πιο συχνά χρησιμοποιούμενα",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Εμφάνιση ακατάλληλου περιεχομένου (NSFW)",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Μόνο Presences που μου αρέσουν",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Εμφάνιση πρόσθετων Presences",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Κατηγορίες",
+		"description": "Category heading"
+	},
+	"store.category.games": {
+		"message": "Παιχνίδια",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Κοινωνικά Δίκτυα",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Βίντεο & Μεταδόσεις",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Άλλα",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Αναζήτηση",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Εισαγωγή",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Κάντε κλικ για να αφαιρέσετε το φίλτρο",
+		"description": "Remove message for active search filters."
 	}
 }
