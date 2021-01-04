@@ -337,27 +337,27 @@ Sejak v2.2.0 adanya Slideshow, ini membolehkan anda menunjukkan beberapa antara 
 
 ## Tidak mampu dapatkan sesetengah data?!
 
-Banyak laman sesawang menggunakan [iFrame](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag HTML ini boleh mengandungi beberapa sumber seperti video. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Banyak laman sesawang menggunakan [iFrame](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag HTML ini boleh mengandungi beberapa sumber seperti video. Tetapi mereka bukanlah berkaitan setiap masa. Sesetengahnya disembunyikan atau cuma tidak digunakan dengan aktif. Periksa jika anda boleh sarikan, maklumat yang anda perlukan, tanpa mereka sebelum anda membuat apa-apa kerja yang tidak diperlukan.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Periksanya di konsol pelayar anda (pastikan anda berada di tab **Elements** atau Unsur).
+2. Cari (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Lakukan `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
+Jika anda jumpa data anda dalam iFrame anda perlu lakukan berikut:
 
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+1. Cipta fail `iframe.ts`.
+2. Tetapkan iFrame menjadi `true` dalam fail metadata anda.
+3. Isikan fail iFrame anda.
 
 ```typescript
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Dapatkan semua data anda perlukan daripada iFrame dan simpan
+  dalam pemboleh ubah dan hantarkannya menggunakan iframe.send
   */
   iframe.send({
-    //sending data
+    //menghantar data
     video: video,
     time: video.duration
   });
@@ -375,13 +375,13 @@ presence.on("iFrameData", (data) => {
 
 **Nota:** Ini perlu diletakkan di luar peristiwa updateData.
 
-## Compiling
+## Kompil
 
 Buka konsol dalam folder anda dan taip `tsc -w` untuk mengkompil fail `presence.ts` ke dalam folder `/dist`.
 
 # Memuatkan Presence
 
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Buka tetingkap timbul dan terus menekan butang <kbd>Shift</kbd> di papan kekunci anda.
 2. **Muatkan Presence**akan muncul di bahagian Presence.
 3. Klik padanya ketika anda masih memegang butang <kbd>Shift</kbd>.
 4. Pilih folder /dist milik Presence anda.
