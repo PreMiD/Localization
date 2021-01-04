@@ -78,5 +78,17 @@
 	"premid.pageSlideshowClass": {
 		"message": "Kelas Slideshow",
 		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Memahami iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Mengatur metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Mengatur TypeScript",
+		"description": "A page name"
 	}
 }
