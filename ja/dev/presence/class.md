@@ -2,7 +2,7 @@
 title: Presenceクラス
 description: すべてのPreMIDのプレゼンスのメインクラス
 published: true
-date: 2021-01-01T23:32:02.313Z
+date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -87,7 +87,7 @@ You can find the documentation for the `Slideshow` class [here](/dev/presence/sl
 
 asyncronous メゾット(method)で、拡張機能から翻訳された文字を取得できます。
 
-文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+文字列のキー(`keyValue`が文字列の値)を含んだ`Object`を提供する必要があります。 A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // '再生中' と '一時停止中' の文字列を
@@ -200,7 +200,7 @@ console.log(logs); // This will log the latest 100 logs (in an array).
 
 ### `info(String)`
 
-Console logs the given message in a format based of the presence in the `info` style.
+Prints the given message in the console in a format based of the presence in the `info` style.
 
 ```typescript
 presence.info("Test") // This will log "test" in the correct styling.
@@ -208,7 +208,7 @@ presence.info("Test") // This will log "test" in the correct styling.
 
 ### `success(String)`
 
-Console logs the given message in a format based of the presence in the `success` style.
+Prints the given message in the console in a format based of the presence in the `success` style.
 
 ```typescript
 presence.success("Test") // This will log "test" in the correct styling.
@@ -216,7 +216,7 @@ presence.success("Test") // This will log "test" in the correct styling.
 
 ### `error(String)`
 
-Console logs the given message in a format based of the presence in the `error` style.
+Prints the given message in the console in a format based of the presence in the `error` style.
 
 ```typescript
 presence.error("Test") // This will log "test" in the correct styling.
