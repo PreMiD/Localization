@@ -87,7 +87,7 @@ Je kunt de documentatie voor de `Slideshow` klasse [hier](/dev/presence/slidesho
 
 Een asynrone methode waarmee u vertaalde strings uit de extensie kunt krijgen.
 
-U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. Op dit eindpunt kan een lijst van vertaalde tekenreeksen worden gevonden: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Retourneert `Playing` en `Paused` strings
@@ -200,7 +200,7 @@ console.log(logs); // Dit zal de laatste 100 logs loggen (in een array).
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Toont het gegeven bericht in de console in een formaat gebaseerd op de presence in de `info` stijl.
 
 ```typescript
 presence.info("Test") // Dit zal "test" in de juiste stijl loggen.
@@ -208,7 +208,7 @@ presence.info("Test") // Dit zal "test" in de juiste stijl loggen.
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Toont het gegeven bericht in de console in een formaat gebaseerd op de presence in de `success` stijl.
 
 ```typescript
 presence.success("Test") // Dit zal "test" in de juiste styling loggen.
@@ -216,7 +216,7 @@ presence.success("Test") // Dit zal "test" in de juiste styling loggen.
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Toont het gegeven bericht in de console in een formaat gebaseerd op de presence in de `error` stijl.
 
 ```typescript
 presence.error("Test") // Dit zal "test" in de juiste stijl loggen.
