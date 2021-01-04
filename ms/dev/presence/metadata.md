@@ -180,7 +180,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Mentakrifkan sama ada sambungan patut baca log.</td>
+      <td style="text-align:left">Menentukan sama ada sambungan patut baca log.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
