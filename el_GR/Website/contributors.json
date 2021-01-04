@@ -1,1 +1,78 @@
-{}
+{
+	"contributors.headings.staff": {
+		"message": "Προσωπικό",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Υποστηρικτές",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Μεταφραστές",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.projectLeader": {
+		"message": "Επικεφαλής Έργου",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Συντονιστής Προσωπικού",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Διευθυντής Μάρκετινγκ",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Διαχειριστής",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Ελεγκτής",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Προγραμματιστής",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Σχεδιαστής",
+		"description": "'Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Επόπτης",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Αντιπρόσωπος Υποστήριξης",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Εκπρόσωπος",
+		"description": "'Representative' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Επιμελητής",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Δωρητής",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Ενισχυτής",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Μεταφραστής",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Κάντε κλικ για να αντιγράψετε το ID του χρήστη.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Το ID χρήστη αντιγράφηκε!",
+		"description": "Notification after user ID was copied."
+	}
+}
