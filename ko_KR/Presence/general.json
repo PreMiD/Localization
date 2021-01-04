@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "코드 편집:",
+		"message": "편집 중:",
 		"description": ""
 	},
 	"general.episode": {
@@ -228,7 +228,7 @@
 		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
-		"message": "보는 중: {}",
+		"message": "보는 중:",
 		"description": ""
 	},
 	"general.wishlist": {

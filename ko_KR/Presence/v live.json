@@ -2,5 +2,25 @@
 	"v live.browseThrough": {
 		"message": "탐색하는 중",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "새 영상 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "차트 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "채널 목록",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "이벤트 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "상점 페이지",
+		"description": "Second part of the \"Browsing through\" string"
 	}
 }
