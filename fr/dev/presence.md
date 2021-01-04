@@ -216,7 +216,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
     </tr>
     <tr>
       <td style="text-align:left"><b>Logo</b></td>
-      <td style="text-align:left">Lien vers le logo du service&apos;s.</td>
+      <td style="text-align:left">Lien vers le logo du service&apos;.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
@@ -228,7 +228,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
     </tr>
     <tr>
       <td style="text-align:left"><b>couleur</b></td>
-      <td style="text-align:left"><code>valeur #HEX</code>. Nous vous recommandons d'utiliser une couleur primaire du service
+      <td style="text-align:left">valeur <code>#HEX</code>. Nous vous recommandons d'utiliser une couleur primaire du service
         que votre présence supporte.</td>
       <td style="text-align:left"><code>Chaîne de caractères</code></td>
       <td style="text-align:left"><code>Non</code></td>
