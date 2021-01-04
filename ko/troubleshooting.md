@@ -8,7 +8,7 @@ editor: 마크다운
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> 익스텐션과 앱 **모두** 설치하셨는지 확인해주세요! 
 > 
 > {.is-warning}
 
@@ -16,18 +16,18 @@ dateCreated: 2020-06-11T18:03:54.865Z
 새로고침 버튼을 누르는 대신 <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) 나 <kbd>CMD+R</kbd> (macOS) 를 눌러보십시오.
 
 ### 디스코드 앱을 쓰고 계신가요?
-PreMiD는 브라우저 버전에선 작동하지 **않습니다**, [이 곳](https://discord.com/download)에서 앱을 설치 할 수 있습니다.
+PreMiD는 디스코드 브라우저 버전에선 작동하지 **않습니다**, [이 곳](https://discord.com/download)에서 앱을 설치 할 수 있습니다.
 
 ### 설정에서 Discord 게임 활동을 활성화했는지 확인하십시오.
 **사용자 설정** > **게임 활동** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### 디스코드를 관리자 권한으로 실행하지 !마세요!
+정말 중요합니다. 디스코드를 관리자 권한으로 실행할 시, 디스코드 RPC가 작동하지 않습니다.
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### 프리센스 설정을 사용중이신가요?
+많은 프리센스 (`Twitch`, `SoundCloud`를 포함한) 들은 익스텐션 이슈에 영향받습니다. 이 문제로 인해 익스텐션에서 설정의 기본값을 제대로 가져오지 못합니다.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+이것을 해결하기 위해, 가장 먼저 하셔야 할 것들은:![presencesettings.gif](/presencesettings.gif)
 
 ### 브라우저 재시작
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) 나 <kbd>CMD</kbd>+<kbd>Q</kbd> (macOS) 는 일을 잘 합니다. (브라우저를 완벽하게 다시 시작해야 합니다.)
@@ -36,23 +36,23 @@ To solve this, all you have to do is toggle the topmost setting: ![presencesetti
 ![quit.png](/quit.png) 나중에 PreMid를 재시작 해야 합니다.
 
 ### Discord 재시작
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+<kbd>CTRL+R</kbd> (Windows) 또는 <kbd>CMD+R</kbd> (macOS) 을 키보드에서 눌러서 디스코드를 수동으로 재시작하세요.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### 안티바이러스 또는 방화벽을 확인해주세요.
+안티바이러스 및 방화벽이 그저 인터넷에 연결하거나 서버를 생성, 호스팅 또는 연결하는 응용 프로그램을 차단하는 경우가 있습니다. 저희는 로컬 서버를 사용하여 앱과 확장 프로그램 간에 데이터를 송신하므로 앱의 데이터 전달 기능을 차단하면 PreMiD를 사용할 수 없습니다.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### 애드온 비활성화 하기
+모든 애드온을 비활성화 하고, 작동하는지 확인해주세요. 만약 그렇다면, 애드온을 하나씩 활성화 한 뒤, 어떤 애드온이 PreMiD와 충돌하는지 알려주세요.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### 컴퓨터 재시작
+컴퓨터 재시작 하는 방법은 아시리라 믿어요.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### PreMiD 재설치
+간혹 파일에 문제가 있는 경우가 있어요... 설치와 관련된 도움말은 [여기](/install)에서 찾아보실 수 있어요.
 
-### Manual removal
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### 수동 제거
+Windows: `C:\Users\USER\AppData\Roaming\`` 에서 `PreMiD` 를 지우세요.
+MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세요``.
 
 ### On Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
