@@ -36,7 +36,7 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "음악 감상중",
+		"message": "음악 듣는 중",
 		"description": ""
 	},
 	"general.listeners": {
@@ -48,7 +48,7 @@
 		"description": ""
 	},
 	"general.manga": {
-		"message": "만화",
+		"message": "망가",
 		"description": ""
 	},
 	"general.merch": {
@@ -155,6 +155,10 @@
 		"message": "망가 보는 중:",
 		"description": ""
 	},
+	"general.viewMember": {
+		"message": "회원 보는 중:",
+		"description": ""
+	},
 	"general.viewMovie": {
 		"message": "영화 보는 중:",
 		"description": ""
@@ -167,8 +171,20 @@
 		"message": "제품 보는 중:",
 		"description": ""
 	},
+	"general.viewProfile": {
+		"message": "프로필 보는 중:",
+		"description": ""
+	},
 	"general.viewSeries": {
 		"message": "시리즈 보는 중:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "쇼 보는 중:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "계정 보는 중",
 		"description": ""
 	},
 	"general.viewThread": {
@@ -188,12 +204,28 @@
 		"description": ""
 	},
 	"general.watchingVid": {
-		"message": "동영상 시청",
+		"message": "동영상 시청 중",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "영상 최초공개 대기 중",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "영상 최초공개 대기 중",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
-		"message": "생방송 시청",
+		"message": "생방송 시청 중",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "라이브 방송 시작 대기 중",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "라이브 방송 시작 대기 중",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "보는 중: {}",
@@ -214,5 +246,21 @@
 	"general.cookie": {
 		"message": "쿠키 정책",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "전체 곡 반복 재생 중",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "반복 중",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "사고 기록",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "업타임 기록",
+		"description": "A page name of statuspages"
 	}
 }
