@@ -19,8 +19,40 @@
     "message": "Αλλαγή γλώσσας",
     "description": "Button that switches language after click."
   },
+  "header.loader.phrases": {
+    "message": "Σκουπίζω και σφουγγαρίζω...;Παραγγέλνω κρέπα...;Χορεύω συρτάκι...;UwU;Τρώω παντόφλα...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Κατάστημα",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Λήψεις",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Συνεισφέροντες",
+    "description": "Contributors tab"
+  },
   "header.login": {
     "message": "Σύνδεση",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Συνδεδεμένος ως",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Αναφέρετε ένα bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Πίνακας Ελέγχου",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Αποσύνδεση",
+    "description": "Logout button"
   }
 }
