@@ -1,4 +1,16 @@
 {
+	"premid.pageContributors": {
+		"message": "Συνεισφέροντες",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Λήψεις",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Κατάστημα",
+		"description": "A page name"
+	},
 	"premid.partners": {
 		"message": "Συνεργάτες",
 		"description": "A page name"

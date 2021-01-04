@@ -2,5 +2,9 @@
 	"general.language": {
 		"message": "Γλώσσα",
 		"description": "For choosing a language"
+	},
+	"general.store": {
+		"message": "Κατάστημα",
+		"description": ""
 	}
 }

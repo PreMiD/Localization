@@ -1,1 +1,74 @@
-{}
+{
+	"home.introduction.paragraph": {
+		"message": "**Το PreMiD** είναι ένα απλό, ευέλικτο βοηθητικό πρόγραμμα που σας επιτρέπει να δείξετε τι κάνετε στο διαδίκτυο στην κατάσταση αναπαραγωγής (status) στο Discord σας.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Λειτουργίες",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Λήψεις",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Παίζει ένα παιχνίδι",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} έμειναν",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} πέρασαν",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.features.heading": {
+		"message": "Θα το λατρέψετε!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Βρείτε **το δικό σας** presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Δημιουργήσαμε την επέκτασή μας ώστε να σας επιτρέπει να προσθέσετε και να χρησιμοποιήσετε Presences που έχουν δημιουργηθεί από άλλους και να τις διαχειριστείτε στην επέκτασή μας!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Επισκευτείτε το κατάστημα",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Απλό περιβάλλον χρήστη",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Κουρασμένος από περίπλοκες διεπαφές χρήστη; Γι 'αυτό δημιουργήσαμε και προσπαθούμε να κρατήσουμε το UI μας όσο το δυνατόν πιο απλό και χρήσιμο με σημαντικά χαρακτηριστικά όπως:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Ρυθμίσεις εφαρμογής και επέκτασης",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Διαχείριση των Presence",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Ταξινόμηση ανά κατηγορία",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Γρήγορη υποστήριξη",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Κάτι είναι χαλασμένο, κολλημένο, στέλνοντας σας τόνους σφαλμάτων ή απλά δεν λειτουργεί; Θα σας βοηθήσουμε να απαλλαγείτε από αυτά τα προβλήματα στον Discord server μας, δημιουργήσαμε επίσης το δικό μας σύστημα υποστήριξης που θα διασφαλίσει την επίλυση των προβλημάτων σας το συντομότερο δυνατόν.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Γλώσσα ιστοσελίδας",
+		"description": "Tippy content of the language selector."
+	}
+}
