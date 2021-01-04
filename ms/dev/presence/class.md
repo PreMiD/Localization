@@ -87,7 +87,7 @@ You can find the documentation for the `Slideshow` class [here](/dev/presence/sl
 
 Kaedah tak segerak yang membolehkan anda dapatkan rentetan terjemahan dari sambungan.
 
-Amda mesti sediakan `Object` dengan kekuncinya sebagai kekunci untuk rentetan, `keyValue` ialah nilai rentetan. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Amda mesti sediakan `Object` dengan kekuncinya sebagai kekunci untuk rentetan, `keyValue` ialah nilai rentetan. Senarai rentetan yang diterjemah boleh dijumpai di titik akhir ini: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Mengembalikan rentetan `Bermain` dan `Dijedakan`
@@ -200,7 +200,7 @@ console.log(logs); // This will log the latest 100 logs (in an array).
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Mencetak mesej diberi ke konsol dalam format berasaskan Presence dalam gaya `info`.
 
 ```typescript
 presence.info("Test") // This will log "test" in the correct styling.
@@ -208,7 +208,7 @@ presence.info("Test") // This will log "test" in the correct styling.
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Mencetak mesej diberi ke konsol dalam format berasaskan Presence dalam gaya `success`.
 
 ```typescript
 presence.success("Test") // This will log "test" in the correct styling.
@@ -216,7 +216,7 @@ presence.success("Test") // This will log "test" in the correct styling.
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Mencetak mesej diberi ke konsol dalam format berasaskan Presence dalam gaya `error`.
 
 ```typescript
 presence.error("Test") // This will log "test" in the correct styling.
