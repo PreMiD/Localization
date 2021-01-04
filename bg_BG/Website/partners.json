@@ -135,6 +135,10 @@
 		"message": "Богиня, която играе като забавен Discord бот!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM ти позволява да слушаш над 15 излъчвания на музика безплатно - нонстоп. С най-добрата и нова музика само за теб!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Пъргава локализация за тек компаний.",
 		"description": "Description for Crowdin."
