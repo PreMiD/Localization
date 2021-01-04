@@ -36,7 +36,7 @@ tags:
 Sila kekalkan struktur. Kami tidak mahu mencelarukan projek kami. Fail yang bercelaru tidak akan diterima.
 
 # Hantarkan impian anda
-Buka sahaja Permintaan Tarikan (Pull Request) di salah sebuah [repositori GitHub](https://github.com/PreMiD/) kami yang anda ingin sumbangkan. Kami akan menjaga permata anda, jangan risau. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+Buka sahaja Permintaan Tarikan (Pull Request) di salah sebuah [repositori GitHub](https://github.com/PreMiD/) kami yang anda ingin sumbangkan. Kami akan menjaga permata anda, jangan risau. Jika ini kali pertama anda lakukan permintaan tarikan, sila lihat [tutorial](https://help.github.com/en/articles/creating-a-pull-request) dalam bahasa Inggeris ini dahulu.
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Bergantung kepada kualiti kod, penampilan aset dan kefungsian biasa.
+# Mendapatkan kelulusan
+Tujuan utama kami adalah untuk bekerjasama dengan pengguna jadi sila cuba untuk menjadi paling mesra, terhormat dan berpengetahuan yang mungkin. Ping sahaja Pembangun di [pelayan Discord](https://discord.gg/WvfVZ8T) kami untuk dapatkan kaji semula tersebut di GitHub, atau tidak. Bergantung kepada kualiti kod, penampilan aset dan kefungsian biasa.
