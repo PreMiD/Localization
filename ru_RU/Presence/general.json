@@ -207,6 +207,14 @@
 		"message": "Просмотр видео",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "В ожидании премьеры видео",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "В ожидании премьеры видео",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Смотрит трансляцию",
 		"description": ""
