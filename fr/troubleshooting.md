@@ -72,8 +72,8 @@ C'est un faux positif de la part de McAfee et nous leur avons signalé le probl�
 6. Cliquez sur "Analyse en temps réel" (Troisième à partir du haut).
 7. Développez-le et cliquez sur "Ajouter un fichier".
 8. Tapez "%appdata%" dans la barre URL du gestionnaire de fichiers et appuyez sur Entrer. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Ouvrez le dossier "PreMiD" et sélectionnez le fichier "PreMiD.exe" et cliquez sur Ouvrir. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee devrait maintenant ignorer notre dossier, lancez simplement notre application et cela devrait marcher.
+9. Ouvrez le dossier "PreMiD", sélectionnez le fichier "PreMiD.exe" et cliquez sur Ouvrir. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. McAfee devrait maintenant ignorer notre dossier, lancez simplement l'application et cela devrait marcher.
 
 ### Cela n'a pas résolu mon problème
 Veuillez ouvrir un ticket dans [#support](https://discord.premid.app/).
