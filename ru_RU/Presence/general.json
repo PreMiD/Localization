@@ -219,6 +219,14 @@
 		"message": "Смотрит трансляцию",
 		"description": ""
 	},
+	"general.waitingLive": {
+		"message": "Ожидается, что прямая трансляция начнется",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Ожидается, что прямая трансляция начнется",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
 	"general.watching": {
 		"message": "Смотрит:",
 		"description": ""
@@ -238,6 +246,14 @@
 	"general.cookie": {
 		"message": "Политика cookies",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Зацикливание всех песен",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "В петле",
+		"description": ""
 	},
 	"general.incidentHistory": {
 		"message": "История инцидентов",

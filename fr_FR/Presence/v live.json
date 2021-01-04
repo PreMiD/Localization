@@ -28,7 +28,7 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.recentUploads": {
-		"message": "Navigue dans les téléchargements récents de leurs{0}abonnées",
+		"message": "Navigue dans les mises en ligne récentes de leurs{0}abonnées",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"v live.ofChannel": {

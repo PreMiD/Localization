@@ -3,6 +3,14 @@
 		"message": "Загрузки ",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Вакансии",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Турбо",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Партнеры",
 		"description": "Page name"
