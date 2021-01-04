@@ -184,13 +184,13 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <td style="text-align:left">URL perkhidmatan.<br><b>Contohnya:</b><code>vk.com</code><br>
+      <b>URL ini mesti padan URL laman sesawang kerana ia akan mengesan sama ada laman sesawang tertentu itu laman sesawang yang akan disuntikkan skrip.</b><br> <b>JANGAN</b> tambah <code>https://</code> atau <code>http://</code> di dalam URL dan jangan letak tanda garis condong di penghujung:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <b>Nota</b>: Sesetengah URL mungkin ada <code>www.</code> atau benda lain di hadapan domain mereka. <b>JANGAN</b> lupa untuk menambahnya!<br>
+      Anda boleh menambah banyak URL dengan membuat seperti ini:<br>
+      <code>["URL1", "URL2", "DLL."]</code><br>
+      Anda juga boleh gunakan ungkapan nalar (regExp) juga dikenali sebagai Regex untuk tugasan ini, dijelaskan lebih lanjut di bawah.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
