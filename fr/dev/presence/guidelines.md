@@ -18,7 +18,7 @@ Les règles générales de développement de presence sont les suivantes:
 
 - Les presences **doivent** être liées au site web que vous avez choisi.
 - Les presences **ne peuvent pas** être faites pour des sites web illégaux. (par exemple, stresseurs, ventes de drogues, pédopornographie, etc.)
-- La structure du fichier doit être propre et gérée, n'incluez pas des fichiers qui ne sont pas spécifiés. (par exemple, les dossiers vscode et git, images et fichiers texte, etc.)
+- La structure de fichier doit être propre et gérée, n'incluez pas des fichiers n'ayant pas de rapport. (par exemple, les dossiers vscode, git, images, fichiers texte, etc.)
 - Vous devez avoir une structure de fichier appropriée, les brouillons ne sont **pas** autorisés.
 - Les presences pour des sites web avec ( `.onion` TLDs) ou des sites web avec domaines/hébergeurs gratuits (par exemple, `.TK`, [tous les domaines libres de Freenom], `.RF` `GD`, etc) **ne sont pas** autorisés, des exceptions peuvent être faites si une preuve est présentée montrant qu'ils ont payé pour le domaine.
 - Le domaine de la Presence doit avoir au moins 2 mois.
@@ -126,7 +126,7 @@ Chaque presence a un fichier de description appelé `metadata.json`, les métado
 > 
 > {.is-warning}
 
-> Toutes les images dans le fichier `metadata` doivent être hébergées sur `i.imgur.com`. Utiliser le contenu hébergé sur le site web lui-même n'est **pas**autorisé car il peut changer les emplacements et les fichiers de façon non désirée. 
+> Toutes les images dans le fichier `metadata` doivent être hébergées sur `i.imgur.com`. Utiliser du contenu hébergé sur le site web lui-même n'est **pas**autorisé car il est possible que les chemins changent. 
 > 
 > {.is-warning}
 
@@ -134,7 +134,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 ### **`$schema`**
 
-- Le schéma _clé_ **doit** inclure un signe dollar au début de celui-ci, cela signalera à votre éditeur de texte que vous voulez valider votre fichier JSON par rapport à un modèle. _Comme indiqué précédemment, vous n'avez pas besoin d'inclure un schéma, mais si vous l'incluez, vous devez en tenir compte._
+- La _clé_ de schéma **doit** inclure un signe dollar au début de celui-ci, cela signalera à votre éditeur de texte que vous voulez valider votre fichier JSON par rapport à un modèle. _Comme indiqué précédemment, vous n'avez pas besoin d'inclure un schéma, mais si vous l'incluez, vous devez en tenir compte._
 
 ### **`auteur`**
 
@@ -142,7 +142,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 ### **`contributeurs`**
 
-- **Ne vous ajoutez pas** en tant que contributeur, et n'ajoutez pas quelqu'un d'autre en tant que contributeur à moins qu'il ait aidé à la presence.
+- **Ne vous ajoutez pas** en tant que contributeur, et n'ajoutez personne en tant que contributeur à moins qu'il ait aidé au développement de la presence.
 
 ### **`Service`**
 
@@ -192,7 +192,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 ### **`catégorie`**
 
 - La catégorie **doit** être l'une des catégories suivantes listées sur la documentation [](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- La présence doit utiliser une catégorie qui correspond au contenu du site web. (par exemple, n'utilisez pas `anime` lorsque le site n'est pas lié aux animes).
+- La présence doit être dans une catégorie qui correspond au contenu du site web. (par exemple, n'utilisez pas `anime` lorsque le site n'est pas lié aux animes).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
