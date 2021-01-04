@@ -27,15 +27,15 @@ Kesemua Presence dikodkan dalam [TypeScript](https://www.typescriptlang.org/). [
 
 ## Pemasangan
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Pasang [Git](https://git-scm.com/).
+2. Pasang [Node](https://nodejs.org/en/) (didatangkan dengan [npm](https://www.npmjs.com/)).
 3. Pasang [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan hantarkan `npm install -g typescript`).
 
-## Cloning the project
+## Klon projek
 
 1. Buka terminal dan taip `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Pilih folder yang anda suka.
+3. Buka ia dalam penyunting kod anda.
 
 ## Cipta folder dan fail
 
@@ -278,37 +278,37 @@ Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di 
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //ID klien bagi Aplikasi yang dicipta di https://discordapp.com/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
+    //Anda boleh gunakan ini untuk dapatkan rentetan diterjemah dalam bahasa pelayar mereka
   });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Ambil dan proses data anda di sini
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // ambil unsur-unsur //
+    // buat panggilan API //
+    // tetapkan pemboleh ubah //
 }
 
 setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Jalankan fungsi secara berasingan daripada peristiwa UpdateData setiap 10 saat untuk mendapatkan dan menetapkan pemboleh ubah yang diambil oleh UpdateData
 
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+  /*UpdateData sentiasa dijalankan, oleh itu ia patut digunakan sebagai kitaran segar semula anda, atau `tick`. This is called several times a second where possible.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Ianya disyorkan untuk menetapkan fungsi lain di luar fungsi peristiwa ini yang akan mengubah nilai pemboleh ubah dan membuat kerja yang lebih berat jika anda memanggil data daripada sesuatu API.*/
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*Kekunci (nama fail) bagi Imej Besar atau Large Image pada Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageKey:
       "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
@@ -329,7 +329,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-Anda boleh salin ini ke dalam fail `presence.ts` anda dan sunting nilainya. Setting all the values is done inside of the updataData event.
+Anda boleh salin ini ke dalam fail `presence.ts` anda dan sunting nilainya. Penetapan kesemua nilai dilakukan di dalam peristiwa updateData.
 
 Contohnya kami cadangkan anda lihat kod Presence seperti: 1337x atau 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
@@ -373,7 +373,7 @@ presence.on("iFrameData", (data) => {
 });
 ```
 
-**Note:** This needs to be placed outside of the updateData event.
+**Nota:** Ini perlu diletakkan di luar peristiwa updateData.
 
 ## Compiling
 
