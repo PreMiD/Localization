@@ -27,6 +27,14 @@
 		"message": "Доступность",
 		"description": "Page name"
 	},
+	"twitch.ads": {
+		"message": "Выбор рекламы",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Принципы сообщества",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "Главная страница",
 		"description": "Page name"
