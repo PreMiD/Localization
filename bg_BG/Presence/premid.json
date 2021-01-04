@@ -39,12 +39,28 @@
 		"message": "Инсталация",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "Инсталация за {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Отстраняване на неизправности",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
 		"message": "Първи стъпки",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "Разбира v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Насоки за присъствията",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Разбира iframe",
 		"description": "A page name"
 	}
 }
