@@ -83,7 +83,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
         mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -103,9 +103,9 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Membolehkan carian Presence menggunakan nama alternatif.<br>
+      Untuk digunakan dalam Presence yang mempunyai nama berlainan dalam bahasa yang berlainan (spt. Pokémon dan 포켓몬스터).<br>
+      Anda juga boleh gunakannya untuk Presence yang mempunyai aksara istimewa supaya anda tidak perlu menaip aksara tersebut (spt. Pokémon dan Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
