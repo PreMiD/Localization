@@ -72,7 +72,7 @@ Clears your current activity and the tray title.
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Предлагается сделать это при создании экземпляра класса `Presence`:
 
 ```typescript
 const presence = new Presence({
