@@ -12,7 +12,7 @@
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "다운로드",
+		"message": "PreMiD 다운로드",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
@@ -24,7 +24,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "확장프로그램이 연결되었는지 확인하려면 이 페이지를 새로고침하세요.",
+		"message": "익스텐션이 연결되었는지 확인하려면 이 페이지를 새로고침하세요",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
@@ -32,7 +32,7 @@
 		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
-		"message": "저희는 도움을 드리기 위해 여기 있습니다!",
+		"message": "저희가 도와드리겠습니다!",
 		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
@@ -52,19 +52,19 @@
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
-		"message": "Premid는 휴대폰을 지원하지 않고 있다는것을 알고 있어라.",
+		"message": "PreMiD는 현재 모바일 환경에서는 지원하지 않고 있으니 참고바랍니다!",
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
-		"message": "다운로드한 파일 보여주기",
+		"message": "다운로드 보이기",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
-		"message": "다운로드한 파일 숨기기",
+		"message": "다운로드 숨기기",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "이 플랫폼의 현재 버전 {0} (이 버전은 리눅스 한정입니다, 그리고 다른 플랫폼에는 적용되지 않아요)",
+		"message": "이 플랫폼의 현재 버전 {0} 입니다. (이 버전은 리눅스 한정입니다, 그리고 다른 플랫폼에는 적용되지 않아요)",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
