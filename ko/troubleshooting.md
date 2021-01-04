@@ -1,6 +1,6 @@
 ---
 title: 문제 해결
-description: Everything to solve your problem
+description: 문제를 해결하기 위한 모든 것
 published: true
 date: 2021-01-03T14:12:34.320Z
 tags:
