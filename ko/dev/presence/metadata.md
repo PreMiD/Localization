@@ -340,7 +340,7 @@ When making your presence, you must specify a category which the presence falls 
   <tbody>
     <tr>
       <td style="text-align:left"><b>애니메이션</b></td>
-      <td style="text-align:left"><b>애니메이션</b></td>
+      <td style="text-align:left"><b>애니</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
@@ -355,7 +355,7 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>소셜</b></td>
-        <td style="text-align:left"><b>소셜</b></td>
+        <td style="text-align:left"><b>SNS</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
     <tr>
