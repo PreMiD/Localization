@@ -195,9 +195,25 @@
 		"message": "एक वीडियो देख रहे हैं",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "प्रीमियर के लिए एक वीडियो की प्रतीक्षा की जा रही है",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "प्रीमियर के लिए एक वीडियो की प्रतीक्षा की जा रही है",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "एक लिवस्ट्रीम देखना",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "एक लिवस्ट्रीम के शुरू होने का इंतजार",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "एक लिवस्ट्रीम के शुरू होने का इंतजार",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "देख रहे:",
@@ -213,6 +229,10 @@
 	},
 	"general.terms": {
 		"message": "सेवाओं की शर्तें",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "कूकी पॉलिसी",
 		"description": "A page name"
 	}
 }
