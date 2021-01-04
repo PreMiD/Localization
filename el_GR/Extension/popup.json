@@ -122,5 +122,13 @@
 	"popup.category.socials": {
 		"message": "Κοινωνικά Δίκτυα",
 		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Βίντεο & Μεταδόσεις",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Άλλα",
+		"description": "Category name shown when you open tags"
 	}
 }
