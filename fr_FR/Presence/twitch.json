@@ -216,11 +216,11 @@
 		"description": ""
 	},
 	"twitch.blogArchive": {
-		"message": "Consulter les archives du blog {0}",
+		"message": "Consulte les archives du blog {0}",
 		"description": "{0} will be replaced with the year"
 	},
 	"twitch.blogBrowse": {
-		"message": "Parcoure les derniers posts du blog...",
+		"message": "Parcours les derniers posts du blog...",
 		"description": ""
 	},
 	"twitch.help": {
