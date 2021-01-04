@@ -234,5 +234,21 @@
 	"general.cookie": {
 		"message": "कूकी पॉलिसी",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "सभी गाने लूपिंग",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "लूप पर",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "हादसा इतिहास",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "अपटाइम इतिहास",
+		"description": "A page name of statuspages"
 	}
 }
