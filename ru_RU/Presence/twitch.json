@@ -15,6 +15,18 @@
 		"message": "Партнеры",
 		"description": "Page name"
 	},
+	"twitch.press": {
+		"message": "Пресс-центр",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Безопасность",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Доступность",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "Главная страница",
 		"description": "Page name"
