@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Presences 추가되지 않음",
+		"message": "추가된 프리센스가 없습니다.",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -88,15 +88,15 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.noInternet": {
-		"message": "인터넷 연결 안됨!",
+		"message": "인터넷 연결 없음!",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "인터넷이 연결이 안된것처럼 보입니다! PreMiD 는 현재 presences 를 보여줄 수 없을것이다.",
+		"message": "인터넷 연결이 없는 것 같아요! 현재 PreMiD가 프리센스를 보여드릴 수 없어요.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
-		"message": "디스코드와 연결 안됨!",
+		"message": "디스코드와 연결되어있지 않습니다!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
@@ -108,7 +108,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.anime": {
-		"message": "애니메이션",
+		"message": "애니",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.music": {
@@ -120,7 +120,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "소셜",
+		"message": "SNS",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
