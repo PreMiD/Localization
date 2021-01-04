@@ -62,5 +62,13 @@
 	"premid.pageIframe": {
 		"message": "Разбира iframe",
 		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Конфигурира metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Конфигурира TypeScript",
+		"description": "A page name"
 	}
 }
