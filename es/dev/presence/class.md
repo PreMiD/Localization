@@ -2,7 +2,7 @@
 title: Clase Presence
 description: La clase principal para cada presence de PreMiD
 published: true
-date: 2021-01-01T23:32:02.313Z
+date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -87,7 +87,7 @@ Puedes encontrar la documentación para la clase `Slideshow` [aquí](/dev/presen
 
 Un método asíncrono que te permite obtener strings traducidas de la extensión.
 
-Debes proporcionar un `Object` donde las claves son la clave del string, `valorClave` es el valor del string. Una serie de strings traducidas pueden ser encontradas usando la siguiente url: `https://api.premid.app/v2/langFile/extension/es/`
+Debes proporcionar un `Object` donde las claves son la clave del string, `valorClave` es el valor del string. Puedes encontrar una lista de strings traducidas aquí: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Devuelve las strings `Playing` y `Paused`
@@ -200,7 +200,7 @@ console.log(logs); // Obtienes los últimos 100 logs (en un array).
 
 ### `info(String)`
 
-Muestra un log en la consola del mensaje dado en un formato basado en el estilo `info` de la presence.
+Prints the given message in the console in a format based of the presence in the `info` style.
 
 ```typescript
 presence.info("Test") // Esto logeará "test" con un estilo predeterminado.
@@ -208,7 +208,7 @@ presence.info("Test") // Esto logeará "test" con un estilo predeterminado.
 
 ### `success(String)`
 
-Muestra un log en la consola del mensaje dado en un formato basado en el estilo `success` de la presence.
+Prints the given message in the console in a format based of the presence in the `success` style.
 
 ```typescript
 presence.success("Test") // Esto logeará "test" con un estilo predeterminado.
@@ -216,7 +216,7 @@ presence.success("Test") // Esto logeará "test" con un estilo predeterminado.
 
 ### `error(String)`
 
-Muestra un log en la consola del mensaje dado en un formato basado en el estilo `error` de la presence.
+Prints the given message in the console in a format based of the presence in the `error` style.
 
 ```typescript
 presence.error("Test") // Esto logeará "test" con un estilo predeterminado.

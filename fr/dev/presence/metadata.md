@@ -231,7 +231,7 @@ Configurer les paramètres interactifs pour que les utilisateurs puissent person
     "title": "TITRE D'AFFICHAGE",
     "icon": "ICONE FONTAWESOME",
     "value": "\"%song%\" by %artist%", //L'insertion d'une chaîne de caractères fera du réglage une entrée, où vous pourrez utiliser une entrée personnalisée.
-    "placeholder": "use %song% or %artist%" //Lorsque l'entrée est vide, elle apparaîtra en grisé
+    "placeholder": "utilise %song% ou %artist%" //Lorsque l'entrée est vide, elle apparaîtra en grisé
   },
   {
     "id": "ID",
@@ -247,13 +247,13 @@ Configurer les paramètres interactifs pour que les utilisateurs puissent person
 
 #### Introduction
 
-Le paramètre `multiLangue` est utilisé pour permettre aux utilisateurs de sélectionner manuellement la langue dans laquelle ils veulent que le presence soit montrée. Cela nécessite que vous utilisiez des chaînes de caractères de notre [API](https://api.premid.app/v2/langFile/presence/en), pour plus d'informations sur comment ajouter des chaînes de caractères cliquez [ici](/dev/presence/metadata/adding-new-strings).
+Le paramètre `multiLanguage` est utilisé pour permettre aux utilisateurs de sélectionner manuellement la langue dans laquelle ils veulent que le presence soit montrée. Cela nécessite que vous utilisiez des chaînes de caractères de notre [API](https://api.premid.app/v2/langFile/presence/en), pour plus d'informations sur comment ajouter des chaînes de caractères cliquez [ici](/dev/presence/metadata/adding-new-strings).
 
 #### Configuration
 
-Le paramètre `multiLangue` est un cas spécial, il ne nécessite ni de `titre` ni d' `icône` ni de `valeur` ou `valeurs` comme d'autres paramètres, mais, il demande encore plus de choses à configurer !
+Le paramètre `multiLanguage` est un cas spécial, il ne nécessite ni de `titre` ni d' `icône` ni de `valeur` ou `valeurs` comme d'autres paramètres, mais, il demande encore plus de choses à configurer !
 
-La clé `multiLangue` peut être définie comme suit :
+La clé `multiLanguage` peut être définie comme suit :
 
 `true`: utilisez ceci si vous n'allez utiliser que des chaînes de caractères du fichier `general.json` et du fichier `<service>.json` du [Dépôt de localisation](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: nom du fichier excluant l'extension (.json) à l'intérieur du [Dépôt de localisation](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluant le fichier `general` car il est toujours chargé). Seules les langues courantes du fichier `general` et du fichier saisi seront listées. `Array<String>`: si vous utilisez plus d'un fichier à l'intérieur du [Dépôt de localisation](https://github.com/PreMiD/Localization/tree/master/src/Presence) vous pouvez spécifier toutes les valeurs dans une table (excluant le fichier `general`, car il est toujours chargé). Seules les langues courantes de tous les fichiers seront listées.
 

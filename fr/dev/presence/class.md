@@ -2,7 +2,7 @@
 title: Classe Presence
 description: La classe principale pour chaque presence PreMiD
 published: oui
-date: 2021-01-01T23:32:02.313Z
+date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -87,7 +87,7 @@ Vous pouvez trouver la documentation pour la classe `Slideshow` [ici](/dev/prese
 
 Méthode asynchrone qui vous permet d'obtenir les chaînes traduites depuis l'extension.
 
-Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une liste de chaînes traduites peut être trouvée depuis ici : `https://api.premid.app/v2/langFile/presence/fr/`
+Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Retourne les chaînes `Playing` et `Paused`
@@ -200,7 +200,7 @@ console.log(logs); // Cela affichera les 100 derniers logs (dans un array).
 
 ### `info(String)`
 
-Affiche le message donné dans la console dans un format basé sur la presence dans le style `info`.
+Prints the given message in the console in a format based of the presence in the `info` style.
 
 ```typescript
 presence.info("Test") // Cela va afficher "test" dans le bon style.
@@ -208,7 +208,7 @@ presence.info("Test") // Cela va afficher "test" dans le bon style.
 
 ### `success(String)`
 
-Affiche le message donné dans un format basé sur la presence dans le style `success`.
+Prints the given message in the console in a format based of the presence in the `success` style.
 
 ```typescript
 presence.success("Test") // Cela va afficher "test" dans le bon style.
@@ -216,7 +216,7 @@ presence.success("Test") // Cela va afficher "test" dans le bon style.
 
 ### `error(String)`
 
-Affiche le message donné dans un format basé sur la presence dans le style `error`.
+Prints the given message in the console in a format based of the presence in the `error` style.
 
 ```typescript
 presence.error("Test") // Cela va afficher "test" dans le bon style.

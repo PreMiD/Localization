@@ -2,7 +2,7 @@
 title: Presence Class
 description: The main class for every PreMiD presence
 published: true
-date: 2021-01-01T23:32:02.313Z
+date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -115,7 +115,7 @@ You can find the documentation for the `Slideshow` class [here](/dev/presence/sl
 
 שיטה אסינכרונית המאפשרת לך להשיג מחרוזות מתורגמות מהסיומת.
 
-עליך לספק `Object` כאשר המפתחות הם המפתח למחרוזת, ` keyValue ` הוא ערך המחרוזת. A compilation of translated strings can be found using this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+עליך לספק `Object` כאשר המפתחות הם המפתח למחרוזת, ` keyValue ` הוא ערך המחרוזת. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 
 
@@ -266,7 +266,7 @@ console.log(logs); // This will log the latest 100 logs (in an array).
 
 ### `info(String)`
 
-Console logs the given message in a format based of the presence in the `info` style.
+Prints the given message in the console in a format based of the presence in the `info` style.
 
 
 
@@ -279,7 +279,7 @@ presence.info("Test") // This will log "test" in the correct styling.
 
 ### `success(String)`
 
-Console logs the given message in a format based of the presence in the `success` style.
+Prints the given message in the console in a format based of the presence in the `success` style.
 
 
 
@@ -292,7 +292,7 @@ presence.success("Test") // This will log "test" in the correct styling.
 
 ### `error(String)`
 
-Console logs the given message in a format based of the presence in the `error` style.
+Prints the given message in the console in a format based of the presence in the `error` style.
 
 
 

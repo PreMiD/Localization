@@ -2,7 +2,7 @@
 title: Presence Klasse
 description: De belangrijkste klasse voor elke PreMiD presence
 published: true
-date: 2021-01-01T23:32:02.313Z
+date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -87,7 +87,7 @@ Je kunt de documentatie voor de `Slideshow` klasse [hier](/dev/presence/slidesho
 
 Een asynrone methode waarmee u vertaalde strings uit de extensie kunt krijgen.
 
-U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. Een compilatie van vertaalde strings kan worden gevonden met dit eindpunt: `https://api.premid.app/v2/langFile/presence/en/`
+U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Retourneert `Playing` en `Paused` strings
@@ -200,7 +200,7 @@ console.log(logs); // Dit zal de laatste 100 logs loggen (in een array).
 
 ### `info(String)`
 
-Console logt het gegeven bericht in een formaat gebaseerd op de `info` stijl.
+Prints the given message in the console in a format based of the presence in the `info` style.
 
 ```typescript
 presence.info("Test") // Dit zal "test" in de juiste stijl loggen.
@@ -208,7 +208,7 @@ presence.info("Test") // Dit zal "test" in de juiste stijl loggen.
 
 ### `success(String)`
 
-Console logt het gegeven bericht in een formaat gebaseerd op de `success` stijl.
+Prints the given message in the console in a format based of the presence in the `success` style.
 
 ```typescript
 presence.success("Test") // Dit zal "test" in de juiste styling loggen.
@@ -216,7 +216,7 @@ presence.success("Test") // Dit zal "test" in de juiste styling loggen.
 
 ### `error(String)`
 
-Console logt het gegeven bericht in een formaat gebaseerd op de `error` stijl.
+Prints the given message in the console in a format based of the presence in the `error` style.
 
 ```typescript
 presence.error("Test") // Dit zal "test" in de juiste stijl loggen.
