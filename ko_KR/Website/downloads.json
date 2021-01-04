@@ -72,7 +72,7 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "이것들을 다운로드하려면 로그인을 해라.",
+		"message": "다운로드를 보려면 로그인 해주세요.",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
@@ -80,7 +80,7 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "너는 여기서 무료로 베타에 참여할 수 있다. **here** 빨리 신청해!  {0} 명 남았어",
+		"message": "**여기서** 베타 프로그램에 참가할 수 있습니다. 빨리 신청하세요! {0} 명 남았어요!",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
@@ -92,7 +92,7 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
 	"downloads.warning.message.opera": {
-		"message": "Chrome 웹 스토어에서 Premid를 설치하려면 **this** 이 확장자를 설치해야한다.",
+		"message": "PreMiD를 설치하기 위해 **this** 익스텐션을 크롬 웹 스토어에서 설치해야 합니다.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
@@ -108,7 +108,7 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
-		"message": "좋습니다!",
+		"message": "좋아요!",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
@@ -124,15 +124,15 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "우리는 팀을 지원하고, 최고의 경험을 제공하기 위해 서버를 유지하는데 광고를 사용합니다.",
+		"message": "우리는 팀을 지원하고, 여러분께 최고의 경험을 제공해드릴 수 있게 서버를 유지하는데 광고를 사용합니다!",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "adblock을 비활성화 해줘....",
+		"message": "광고 차단기를 비활성화 해주세요.",
 		"description": "Message next to pepe."
 	},
 	"downloads.skipanyway.message1": {
-		"message": "나는 지원하고 싶지 않아.",
+		"message": "지원하고 싶지 않아요.",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message2": {
@@ -140,15 +140,15 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message3": {
-		"message": "정말로?",
+		"message": "정말요?",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "제발 도움이 되어주세요 :(",
+		"message": "제..제발 도와주세요 :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
-		"message": "나는 네가 필요해 :<",
+		"message": "여러분이 필요해요 :<",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {
