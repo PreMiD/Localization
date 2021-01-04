@@ -222,9 +222,9 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 - Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme `playing/pause` pour des sites de vidéos, `navigation` pour des sites réguliers et d'autres cas) non pas pour promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 - Vous n'êtes **pas autorisé** à accéder à `localStorage`.
 - Lors de l'accès aux cookies pour les données stockées, veuillez préfixer la clé avec `PMD_`.
-- Vous ne pouvez faire que des requêtes HTTP/HTTPS sur `premid.app` ou à l'API du site web de Presence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
+- Vous ne pourrez que faire des requêtes HTTP/HTTPS sur `premid.app` ou à l'API du site web de Presence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire.
 - **Ne** définissez **pas** des champs des données de l'objet presence par undefined, utilisez plutôt le mot-clé `delete`. (par ex., utilisez `delete data.startTimestamp` au lieu de `data.startTimestamp = undefined`)
-- Vous n'êtes **pas** autorisé à écrire des presences qui modifient la fonctionnalité d'un site Web donné. Cela inclut l'ajout, la suppression ou la modification des éléments DOM.
+- Vous n'êtes **pas** autorisé à écrire des presences qui modifient la fonctionnalité d'un site Web donné. Cela inclut l'ajout, la suppression ou la modification des éléments du DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -262,7 +262,7 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 > 
 > {.is-warning}
 
-Le processus le plus important de développement de la Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur GitHub sur le repository `PreMiD/Presences`. Nos évaluateurs confirmeront que votre presence est conforme aux normes et celle-ci sera ajouté au magasin.
+Le processus le plus important dans développement d'une Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur sur le repository GitHub `PreMiD/Presences`. Nos évaluateurs confirmeront que votre presence est conforme aux normes et celle-ci sera ajouté au magasin.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Vérificateur de Presences</h2>
