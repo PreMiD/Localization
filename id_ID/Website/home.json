@@ -84,7 +84,7 @@
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Bahasa halaman",
+		"message": "Bahasa situs web",
 		"description": "Tippy content of the language selector."
 	}
 }
