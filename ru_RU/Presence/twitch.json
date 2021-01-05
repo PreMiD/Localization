@@ -194,5 +194,25 @@
 	"twitch.brandReal": {
 		"message": "Сохранение реальности Twitch",
 		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Принося метод к нашему (любимому) безумию",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Максимум нашего выражения",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Принесите всё вместе",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Смотрите развитие бренда Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Блоги Twitch",
+		"description": ""
 	}
 }
