@@ -95,6 +95,30 @@
 		"message": "Изучите основы",
 		"description": "Page name"
 	},
+	"twitch.campSetup": {
+		"message": "Настройка вашего потока",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Уровень повышен",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Общайтесь и участвуйте",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Получить вознаграждение",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Музыка на Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Живое обучение",
+		"description": "Page name"
+	},
 	"twitch.viewTheir": {
 		"message": "Смотрит",
 		"description": "Part 1 of the next 10 strings"
