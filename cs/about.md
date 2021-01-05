@@ -7,7 +7,7 @@ tags:
 editor: markdown
 ---
 
-PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status. Podporuje mnoho různých platforem a bude podporovat více uživatelů, kteří sledují stejný obsah současně v nadcházející aktualizaci.
+PreMiD je jednoduchá nakonfigurovatelná aplikace, která dokáže v statusu na Discordu zobrazit, co zrovna děláš. Podporuje mnoho různých platforem a bude podporovat více uživatelů, kteří sledují stejný obsah současně v nadcházející aktualizaci.
 
 # Proč byste měli stáhnout PreMiD
 - Celý náš projekt je otevřený! Chceme spolupracovat s našimi uživateli - ne proti nim.

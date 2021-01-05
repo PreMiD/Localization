@@ -28,7 +28,7 @@ tags:
 - Otevřete terminál do vašeho repozitáře a zadejte `npm i`.
 - Pro aktualizaci závislostí zadejte `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Mějte na paměti, že aktualizace může rozbít hodně věcí - testování je vyžadováno! 
 > 
 > {.is-danger}
 
@@ -39,4 +39,4 @@ Udržujte prosím strukturu. Nechceme náš projekt dezorganizovat. Chaotické s
 Stačí otevřít požadavek na natažení na jednom z našich [GitHub repozitářů](https://github.com/PreMiD/) , na které chcete přispět. Budeme se starat o vaše dítě, nebojte se. Pokud je toto vaše první podání žádosti o natažení, podívejte se na tento [tutoriál](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Získání schválení
-Naším hlavním cílem je spolupracovat s uživateli, aby se snažili být co nejvíce přátelský, respektující a informativní. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Závisí na kvalitě kódu, vzhledu majetku a pravidelné funkčnosti.
+Naším hlavním cílem je spolupracovat s uživateli, aby se snažili být co nejvíce přátelský, respektující a informativní. Stačí zmínit developera na našem [Discord serveru](https://discord.gg/WvfVZ8T), abyste získali recenzi na Githubu. Závisí na kvalitě kódu, vzhledu majetku a pravidelné funkčnosti.
