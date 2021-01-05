@@ -214,5 +214,49 @@
 	"twitch.blogs": {
 		"message": "Блоги Twitch",
 		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Просмотр журнала {0} архивный блог",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Просмотр последних записей блога...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Справочный центр",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Просмотр темы:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Просмотр каталога тем...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Партнерская программа Twitch",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "Разработчики Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Документация разработчика Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Продукты для разработчиков Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Истории успеха сообщества",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Полезные ресурсы",
+		"description": "Page name"
 	}
 }
