@@ -83,6 +83,18 @@
 		"message": "Модерирующий стример:",
 		"description": ""
 	},
+	"twitch.redeem": {
+		"message": "Погашение кода...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Лагерь создателя",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Изучите основы",
+		"description": "Page name"
+	},
 	"twitch.viewTheir": {
 		"message": "Смотрит",
 		"description": "Part 1 of the next 10 strings"
