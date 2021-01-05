@@ -119,8 +119,80 @@
 		"message": "Живое обучение",
 		"description": "Page name"
 	},
+	"twitch.dashboard": {
+		"message": "Панель создателя",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Управление их потоком...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Управление их ролями в сообществе...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "В видео производителе...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "Смотрит",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Аналитика каналов",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Сводка потока",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Достижения",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Активность сообщества",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Список Подписчиков",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Видео Коллекции",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Клипы",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Настройки Канала",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Настройки Модерации",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Настройки выпадающих",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Просмотр потоковых инструментов",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Просмотр расширений",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Чтение о бренде Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Сохранение реальности Twitch",
+		"description": "Page name"
 	}
 }
