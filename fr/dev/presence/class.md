@@ -87,7 +87,7 @@ Vous pouvez trouver la documentation pour la classe `Slideshow` [ici](/dev/prese
 
 Méthode asynchrone qui vous permet d'obtenir les chaînes traduites depuis l'extension.
 
-Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une liste de chaînes traduites peut être trouvée ici : `https://api.premid.app/v2/langFile/presence/fr/`
 
 ```typescript
 // Retourne les chaînes `Playing` et `Paused`
@@ -200,7 +200,7 @@ console.log(logs); // Cela affichera les 100 derniers logs (dans un array).
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Affiche le message donné dans la console dans un format basé sur la presence dans le style `info`.
 
 ```typescript
 presence.info("Test") // Cela va afficher "test" dans le bon style.
@@ -208,7 +208,7 @@ presence.info("Test") // Cela va afficher "test" dans le bon style.
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Affiche le message donné dans la console dans un format basé sur la presence dans le style `success`.
 
 ```typescript
 presence.success("Test") // Cela va afficher "test" dans le bon style.
@@ -216,7 +216,7 @@ presence.success("Test") // Cela va afficher "test" dans le bon style.
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Affiche le message donné dans la console dans un format basé sur la presence dans le style `error`.
 
 ```typescript
 presence.error("Test") // Cela va afficher "test" dans le bon style.
