@@ -87,7 +87,7 @@ You can find the documentation for the `Slideshow` class [here](/dev/presence/sl
 
 Eine asynchrone Methode, mit der du übersetzte Zeichenketten von der Erweiterung erhalten kannst.
 
-Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Sie müssen ` Object ` mit Schlüsseln versehen, die der Schlüssel für die Zeichenfolge sind. ` keyValue ` ist der Zeichenfolgenwert. Eine Zusammenstellung der übersetzten Zeichenketten kann mit diesem Endpunkt gefunden werden: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Gibt `Playing` und `Paused` Strings
@@ -200,7 +200,7 @@ console.log(logs); // This will log the latest 100 logs (in an array).
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Gibt die angegebene Meldung in der Konsole in einem Format aus, das auf die Presence im `info` Style basiert.
 
 ```typescript
 presence.info("Test") // This will log "test" in the correct styling.
@@ -208,7 +208,7 @@ presence.info("Test") // This will log "test" in the correct styling.
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Gibt die angegebene Meldung in der Konsole in einem Format aus, das auf die Presence im `erfolgreich` Style basiert.
 
 ```typescript
 presence.success("Test") // This will log "test" in the correct styling.
@@ -216,7 +216,7 @@ presence.success("Test") // This will log "test" in the correct styling.
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Gibt die angegebene Meldung in der Konsole in einem Format aus, das auf die Presence im `Fehler` Style basiert.
 
 ```typescript
 presence.error("Test") // This will log "test" in the correct styling.
