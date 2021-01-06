@@ -207,9 +207,25 @@
 		"message": "Ogląda film",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Oczekiwanie na premierę filmu",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Oczekiwanie na premierę filmu",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Ogląda transmisję na żywo",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Oczekiwanie na rozpoczęcie transmisji na żywo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Oczekiwanie na rozpoczęcie transmisji na żywo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Ogląda:",
