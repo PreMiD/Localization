@@ -15,6 +15,10 @@
 		"message": "חפש Presence",
 		"description": "Search bar text when nothing is stated"
 	},
+	"store.card.presence.add": {
+		"message": "הוסף Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
 	"store.card.presence.remove": {
 		"message": "מחק Presence",
 		"description": "Button that will appear on hover after extension and presence is installed."
@@ -22,6 +26,10 @@
 	"store.category.filters.heading": {
 		"message": "פילטרים",
 		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "הראה את הכי משומשים קודם",
+		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
 		"message": "הראה NSFW",
@@ -62,5 +70,9 @@
 	"store.search.filters": {
 		"message": "כנס",
 		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "שחרר להסרת הפילטר",
+		"description": "Remove message for active search filters."
 	}
 }
