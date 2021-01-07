@@ -18,11 +18,11 @@ dateCreated: 2020-06-11T18:03:54.865Z
 ### آیا از برنامه دیسکورد استفاده می کنید؟
 PreMiD با نسخه های وب دیسکورد کار **نمی کند**، شما باید برنامه‌اش را از [اینجا](https://discord.com/download) دانلود کنید.
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### مطمعن شوید که Game Activity را در تنظیمات دیسکورد فعال کرده باشید
+**تنظیمات کاربر** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### مطمعن شوید که دیسکورد روی حالت administrator اجرا نمی شود
+بسیار مهم. RPC دیسکورد اگر شما دیسکورد را روی حالت ادمین بازکنید، کار نمی کند.
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
