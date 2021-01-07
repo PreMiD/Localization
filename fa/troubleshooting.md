@@ -30,13 +30,13 @@ PreMiD با نسخه های وب دیسکورد کار **نمی کند**، شم�
 برای حل این مشکل، تمام کاری که باید انجام دهید این است که دکمه topmost تنظیمات را تغییر وضعیت دهید: ![presencesettings.gif](/presencesettings.gif)
 
 ### مرورگر خود را دوباره باز کنید
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) یا <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) کار را هم خوب انجام می دهند. (مشخصا باید دوباره مرورگر خودتان را دوباره باز کنید.)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### باز کردن مجدد PreMiD (برنامه)
+![quit.png](/quit.png) بعد از آن باید PreMiD را دوباره باز کنید.
 
-### Reload/restart Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### بارگزاری/اجرای مجدد دیسکورد
+<kbd>CTRL+R</kbd> (Windows) یا <kbd>CMD+R</kbd> (MacOS) را روی صفحه کلید خود فشار دهید یا به طور دستی دیسکورد خود را مجددا باز نمایید.
 
 ### Check if you have antivirus or firewall running on your computer
 Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
