@@ -24,12 +24,12 @@ PreMiD با نسخه های وب دیسکورد کار **نمی کند**، شم�
 ### مطمعن شوید که دیسکورد روی حالت administrator اجرا نمی شود
 بسیار مهم. RPC دیسکورد اگر شما دیسکورد را روی حالت ادمین بازکنید، کار نمی کند.
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### آیا شما از یک presence با تنظیمات استفاده می کنید؟
+خیلی از presence ها(از جمله `Twitch` و `SoundCloud`) تحت تاثیر مشکلات افزونه‌ای قرار می‌گیرند. این مشکل باعث می شود افزونه مقادیر پیشفرض تنظیمات را به نادرستی بردارد.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+برای حل این مشکل، تمام کاری که باید انجام دهید این است که دکمه topmost تنظیمات را تغییر وضعیت دهید: ![presencesettings.gif](/presencesettings.gif)
 
-### Restart your browser
+### مرورگر خود را دوباره باز کنید
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
 ### Restart PreMiD (Application)
