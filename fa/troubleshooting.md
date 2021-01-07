@@ -12,10 +12,10 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-### Reload the page
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+### صفحه را مجددا بارگزاری کنید
+شما می توانید با فشردن <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) یا <kbd>CMD+R</kbd> (MacOS) در صفحه کلیدتان نیز بجای پیدا کردن دکمه بارگزاری مجدد، فشار دهید.
 
-### Are you using the Discord app?
+### آیا از برنامه دیسکورد استفاده می کنید؟
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
 ### Make sure that you have enabled Discord Game Activity in settings
