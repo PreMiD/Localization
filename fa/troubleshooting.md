@@ -16,7 +16,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 شما می توانید با فشردن <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) یا <kbd>CMD+R</kbd> (MacOS) در صفحه کلیدتان نیز بجای پیدا کردن دکمه بارگزاری مجدد، فشار دهید.
 
 ### آیا از برنامه دیسکورد استفاده می کنید؟
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+PreMiD با نسخه های وب دیسکورد کار **نمی کند**، شما باید برنامه‌اش را از [اینجا](https://discord.com/download) دانلود کنید.
 
 ### Make sure that you have enabled Discord Game Activity in settings
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
