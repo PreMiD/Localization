@@ -208,11 +208,11 @@
 		"description": ""
 	},
 	"general.waitingVid": {
-		"message": "Bir video'nun ilk gösterimini bekliyor",
+		"message": "Bir videonun ilk gösterimini bekliyor",
 		"description": "For privacy reasons (\"A\" video, as in not specified)"
 	},
 	"general.waitingVidThe": {
-		"message": "Video'nun ilk gösterimini bekliyor",
+		"message": "Videonun ilk gösterimini bekliyor",
 		"description": "\"the\" video, as in the video title is specified)"
 	},
 	"general.watchingLive": {
@@ -220,7 +220,7 @@
 		"description": ""
 	},
 	"general.waitingLive": {
-		"message": "Bir canlı yayının başlamasını bekliyor",
+		"message": "Canlı yayının başlamasını bekliyor",
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
 	},
 	"general.waitingLiveThe": {
