@@ -92,7 +92,7 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Il semble que vous n'avez pas de connexion internet ! PreMiD ne sera pas en mesure de montrer de presences pour le moment.",
+		"message": "Il semble que vous n'avez pas de connexion internet ! PreMiD ne sera pas en mesure de montrer de Presences pour le moment.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
