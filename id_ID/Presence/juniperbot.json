@@ -34,5 +34,9 @@
     "juniperbot.usercard": {
         "message": "Menyesuaikan kartu peringkat",
         "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Membaca cookies website",
+        "description": "Reading about the site's cookies"
     }
 }
