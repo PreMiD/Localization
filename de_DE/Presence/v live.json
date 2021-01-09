@@ -11,8 +11,24 @@
 		"message": "die Charts-Seite",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.channelList": {
+		"message": "die Liste der Channels",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "die Event-Seite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"v live.viewTheir": {
 		"message": "Betrachtet seine",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.followed": {
+		"message": "gefolgte Kanäle",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Richtlinien lesen",
+		"description": ""
 	}
 }
