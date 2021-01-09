@@ -11,6 +11,18 @@
 		"message": "Mitra",
 		"description": "Page name"
 	},
+	"twitch.access": {
+		"message": "Aksesibilitas",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Pilihan Ad",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Peraturan Komunitas",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "Beranda",
 		"description": "Page name"
@@ -66,5 +78,69 @@
 	"twitch.achievements": {
 		"message": "Penghargaan",
 		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Aktivitas Komunitas",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Daftar Pengikut",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Kumpulan Video",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clips",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Pengaturan Channel",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Pengaturan Moderasi",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Pengaturan Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.extensions": {
+		"message": "Melihat Ekstensi",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Membaca tentang Twitch Brand...",
+		"description": ""
+	},
+	"twitch.blogs": {
+		"message": "Blog Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Melihat Arsip Blog {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Menjelajahi postingan blog terbaru...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Pusat Bantuan",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Melihat topik:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Menjelajahi katalog topik...",
+		"description": ""
+	},
+	"twitch.dev": {
+		"message": "Twitch Developers",
+		"description": "Page name"
 	}
 }
