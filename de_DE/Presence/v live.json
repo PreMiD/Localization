@@ -19,6 +19,30 @@
 		"message": "die Event-Seite",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.ofChannel": {
+		"message": "von {0} an",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Betrachtet die Homepage",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Betrachtet den Zeitplan",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Schaut sich Meine-Seite",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Betrachtet den Shop",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "Betrachtet das {0}",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.profileEdit": {
 		"message": "Bearbeitet ihr{0}eigenes Profil",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
