@@ -27,6 +27,30 @@
 		"message": "Melihat Inventaris Drop...",
 		"description": ""
 	},
+	"twitch.viewSettings": {
+		"message": "Melihat pengaturan mereka...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Melihat teman mereka...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Melihat langganan mereka...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Menonton Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Memoderasi streamer:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Menukar kode...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "Melihat mereka",
 		"description": "Part 1 of the next 10 strings"
