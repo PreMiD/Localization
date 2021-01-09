@@ -11,18 +11,6 @@
 		"message": "Mitra",
 		"description": "Page name"
 	},
-	"twitch.access": {
-		"message": "Aksesibilitas",
-		"description": "Page name"
-	},
-	"twitch.ads": {
-		"message": "Pilihan Ad",
-		"description": "Page name"
-	},
-	"twitch.guidelines": {
-		"message": "Peraturan Komunitas",
-		"description": "Page name"
-	},
 	"twitch.home": {
 		"message": "Beranda",
 		"description": "Page name"
