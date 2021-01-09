@@ -19,6 +19,10 @@
 		"message": "halaman toko",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.channelHome": {
+		"message": "Melihat halaman awal",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.channelSchedule": {
 		"message": "Melihat jadwal halaman",
 		"description": "Second part of the \"of {0}'s channel\" string"
