@@ -92,11 +92,11 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Sieht so aus, als hättest du keine Internetverbindung! PreMiD kann derzeit keine Presence anzeigen im Moment.",
+		"message": "Sieht so aus, als hättest du keine Internetverbindung! PreMiD kann im Moment keine Presence anzeigen.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
-		"message": "Keine Discordverbindung!",
+		"message": "Keine Verbindung zu Discord!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
