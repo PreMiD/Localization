@@ -54,5 +54,17 @@
 	"twitch.viewTheir": {
 		"message": "Melihat mereka",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Analisis Channel",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Ringkasan Stream",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Penghargaan",
+		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }
