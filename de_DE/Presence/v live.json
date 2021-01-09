@@ -11,6 +11,10 @@
 		"message": "die Charts-Seite",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.upcoming": {
+		"message": "bevorstehende Uploads",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"v live.channelList": {
 		"message": "die Liste der Channels",
 		"description": "Second part of the \"Browsing through\" string"
@@ -20,8 +24,12 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.store": {
-		"message": "Shop",
+		"message": "den Shop",
 		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Durchstöbert die{0}neusten Uploads",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"v live.ofChannel": {
 		"message": "von {0} an",
@@ -36,11 +44,11 @@
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelMy": {
-		"message": "Schaut sich Meine-Seite",
+		"message": "Schaut sich \"Meine\"-Seite",
 		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelStore": {
-		"message": "Betrachtet den Shop",
+		"message": "Schaut sich den Shop",
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelBoard": {
@@ -60,7 +68,7 @@
 		"description": "The first part of the next 6 strings"
 	},
 	"v live.profile": {
-		"message": "Profilseite",
+		"message": "Profil",
 		"description": "The second part of the \"Viewing their\" string"
 	},
 	"v live.watched": {
