@@ -28,7 +28,7 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.recentUploads": {
-		"message": "Durchstöbert die{0}neusten Uploads",
+		"message": "Durchstöbert die{0}neusten Follower-Uploads",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"v live.ofChannel": {
