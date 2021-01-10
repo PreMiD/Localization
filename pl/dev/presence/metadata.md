@@ -1,7 +1,7 @@
 ---
 title: Metadata.json
 description: Zawiera podstawowe dane o Prezentacji
-published: tak
+published: true
 date: 2020-12-26T15:03:41.542Z
 tags:
 editor: markdown
@@ -74,9 +74,9 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Zmienna</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Opcjonalny</th>
     </tr>
   </thead>
@@ -90,16 +90,16 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
     </tr>
     <tr>
       <td style="text-align:left"><b>współtwórcy</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Nazwa to nazwa użytkownika Discorda bez identyfikatora (#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
-        i kliknięcie prawym przyciskiem myszy na Twoim profilu.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Tytuł usługi wspieranej przez tę obecność.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>alternatywne nazwy</b></td>
@@ -107,13 +107,13 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Tak</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>opis</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych. Wyświetl kategorię języków Presence dla listy. </td>
-      <td style="text-align:left"><code>Obiekt</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
@@ -121,74 +121,74 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Może to być użyte jako tablica tylko wtedy, gdy istnieje więcej niż jeden adres URL.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Ciąg wyrażenia regularnego używany do dopasowywania adresów URL.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Tak</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>wersja</b></td>
       <td style="text-align:left">Wersja twojej obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link do serwisu&apos;s logotype.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Link do Twojej miniatury obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code>. Zalecamy użycie podstawowego koloru usługi
         , którą obsługuje Twoja obecność.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tagi</b></td>
       <td style="text-align:left">Tablica z tagami, pomoże użytkownikom wyszukać Twoją obecność na stronie.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Ciąg używany do reprezentowania kategorii, pod którą znajduje się obecność.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Nie</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Określa, czy użyto <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Tak</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Selektor wyrażenia regularnego, który wybiera iframes do wstrzyknięcia.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Tak</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code></td>
-      <td style="text-align:left"><code>Tak</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ustawienia</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Szereg ustawień, które użytkownik może zmienić</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Tak</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -245,7 +245,7 @@ Skonfiguruj ustawienia interaktywne, aby użytkownicy mogli dostosować swój st
 
 ### `multiLanguage`
 
-#### Wprowadzanie
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Klonowanie projektu
+##### Cloning the project
 
 1. Otwórz terminal i wpisz `git clone https://github.com/PreMiD/Localization`.
-2. Wybierz folder.
-3. Otwórz go w twoim edytorze kodu.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ##### Creating the file
 
@@ -303,7 +303,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Metody
+### Methods
 
 Użyj następujących metod, aby uzyskać informacje o ustawieniach w swoich plikach Presence:
 #### `getSetting(String)`
@@ -334,7 +334,7 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
     <tr>
       <th style="text-align:left">Kategoria</th>
       <th style="text-align:left">Nazwa</th>
-      <th style="text-align:left">Opis</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -345,27 +345,27 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
     </tr>
     <tr>
       <td style="text-align:left"><b>gry</b></td>
-      <td style="text-align:left"><b>Gry</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Każda strona internetowa, która ma treści związane z grą, takie jak <code>Kahoot</code> lub <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>muzyka</b></td>
-      <td style="text-align:left"><b>Muzyka</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Są to strony internetowe oferujące treści związane z muzyką, czy to strumieniowe, czy pobierane.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>media społecznościowe</b></td>
-        <td style="text-align:left"><b>Media Społecznościowe</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Strony internetowe wykorzystywane do tworzenia i udostępniania treści lub do udziału w innych formach sieci społecznościowych.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>filmy</b></td>
-        <td style="text-align:left"><b>Filmy i transmisje</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Strony internetowe służące do dostarczania filmów i strumieni.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>inne</b></td>
-      <td style="text-align:left"><b>Inne</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Każda z tych kategorii, które nie wchodzą w zakres określonej wyżej kategorii.</td>
     </tr>
   </tbody>
