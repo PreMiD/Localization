@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Prehľadáva...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Kapitola",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Žáner",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Jazyk",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Počúva hudbu",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Poslucháči",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Naživo",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Číta si:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Číta",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Vyhľadáva si:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Vyhľadáva niečo...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Hľadá",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Nákupný košík",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Obchod",
 		"description": ""
 	},
 	"general.typeDM": {
