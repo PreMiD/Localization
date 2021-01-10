@@ -7,10 +7,6 @@
 		"message": "İzah",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Dəyişikliklər",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Məlumat",
 		"description": "The title of the information section."
