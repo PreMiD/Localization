@@ -1,7 +1,7 @@
 ---
 title: 需求
 description: 安裝PreMiD的需求
-published: 是
+published: true
 date: 2020-02-12T22:08:39.314Z
 tags:
 ---
