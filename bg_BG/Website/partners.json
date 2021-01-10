@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Партньори",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Присъедини се в семейството и получи някои бонуси специално за партньори и покажи колко си готин.",
 		"description": "Description for page."
@@ -179,10 +175,6 @@
 		"message": "Уебсайт",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "друг",
-		"description": "Select 'Other' category."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Пример: PreMiD",
 		"description": "Name field's placeholder."
@@ -218,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Кандидатствай",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Благодарим ви, че кандидаствахте!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Моля, попълнете всички полета.",
