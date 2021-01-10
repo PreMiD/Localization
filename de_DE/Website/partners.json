@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partner",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Schließe Dich der Familie an und erhalte einige exklusive Partnervorteile, um allen zu zeigen, wie viel Swag Du hast.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "In sozialen Netzwerken bei uns vorgestellt werden.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Anforderungen",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Wonach suchen wir?",
@@ -183,14 +175,6 @@
 		"message": "Webseite",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Sonstige",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Name",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Bsp: PreMiD",
 		"description": "Name field's placeholder."
@@ -226,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Bewerben",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Vielen Dank für deine Bewerbung!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Bitte alle Felder ausfüllen.",
