@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Mengembalikan nilai tetapan.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -173,7 +173,7 @@ console.log(setting); // This will log the value of the setting
 
 ### `hideSetting(String)`
 
-Menyembunyikan tetapan yang diberikan.
+Hides given setting.
 
 ```typescript
 presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -181,7 +181,7 @@ presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 
 ### `showSetting(String)`
 
-Tunjukkan tetapan yang diberi (Hanya berfungsi jika tetapan disembunyikan).
+Shows given setting (Only works if the setting was already hidden).
 
 ```typescript
 presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -271,8 +271,8 @@ Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
   <thead>
     <tr>
       <th style="text-align:left">Pemboleh ubah</th>
-      <th style="text-align:left">Keterangan</th>
-      <th style="text-align:left">Jenis</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
@@ -302,8 +302,8 @@ Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Menentukan jangka masa penuh.
         <br>Digunakan jika anda ingin paparkan berapa <code>jam:minit:saat</code> yang tinggal.
-          <br>Anda mesti ubah waktu anda ke bentuk <code>cap masa</code> atau anda akan
-          dapat kiraan masa menurun yang salah.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
