@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Søger...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Kapitel",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Genre",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Sprog",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Lytter til musik",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Lyttere",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Live",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Læser tråd:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Læsning",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Søger efter:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Søger efter noget...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Søger",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Indkøbskurv",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Butik",
 		"description": ""
 	},
 	"general.typeDM": {
