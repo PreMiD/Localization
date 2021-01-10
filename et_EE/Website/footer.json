@@ -59,10 +59,6 @@
 		"message": "Abi",
 		"description": "Help section"
 	},
-	"footer.help.troubleshooting": {
-		"message": "Veaotsimine",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.getsupport": {
 		"message": "Saa abi",
 		"description": "Get Support -> redirects to Discord invite"
