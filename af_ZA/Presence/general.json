@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Blaai...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Hoofstuk",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Genre",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Taal",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Luister na musiek",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Luisteraars",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Regstreeks",
 		"description": ""
 	},
 	"general.manga": {
@@ -65,18 +49,6 @@
 	},
 	"general.playing": {
 		"message": "Speel",
-		"description": ""
-	},
-	"general.reading": {
-		"message": "Lees",
-		"description": ""
-	},
-	"general.search": {
-		"message": "Soek",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Winkel",
 		"description": ""
 	},
 	"general.watching": {
