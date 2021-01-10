@@ -27,14 +27,6 @@
         "message": "การค้นหาผ่านช่อง: {0} สำหรับ:",
         "description": "{0} will be replaced with the channel name"
     },
-    "youtube.trending": {
-        "message": "กำลังดูสิ่งที่เป็นที่นิยม",
-        "description": ""
-    },
-    "youtube.browsingThrough": {
-        "message": "กำลังเรียกดู",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
     "youtube.subscriptions": {
         "message": "การสมัครสมาชิกของพวกเขา",
         "description": "Part two of \"Browsing through\""
@@ -53,10 +45,6 @@
     },
     "youtube.reportHistory": {
         "message": "กำลังดูประวัติการรายงานของตัวเอง",
-        "description": ""
-    },
-    "youtube.upload": {
-        "message": "กำลังอัปโหลดอะไรบางอย่าง",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -94,10 +82,6 @@
     "youtube.studio.videoTranslations": {
         "message": "กำลังดูแปลภาษาของวิดีโอ",
         "description": ""
-    },
-    "youtube.studio.viewTheir": {
-        "message": "กําลังดูไฟล์",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "ช่องการวิเคราะห์",
