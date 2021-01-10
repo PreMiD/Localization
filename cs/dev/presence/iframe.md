@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Metody
+## Methods
 
 ### `send(Object)`
 Odešle data do přítomnosti. Pomocí této metody se díky přítomnosti hodí událost `iFrameData`.
@@ -35,7 +35,7 @@ Odešle data do přítomnosti. Pomocí této metody se díky přítomnosti hodí
 ### `getUrl()`
 Vrátí URL adresu `iframe`.
 
-## Události
+## Events
 V `iframech`události fungují podobně jako v `přítomnosti`.
 
 ```typescript
