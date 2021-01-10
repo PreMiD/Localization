@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Mitra",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Bergabunglah bersama keluarga dan dapatkan beberapa manfaat khusus mitra untuk memamerkan jumlah bergoyang yang Anda miliki.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Ditampilkan pada sosial media kami.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Persyaratan",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Apa yang kita cari?",
@@ -183,14 +175,6 @@
 		"message": "Situs web",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Lainnya",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Nama",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Contoh: PreMiD",
 		"description": "Name field's placeholder."
@@ -226,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Terapkan",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Terima kasih telah melamar!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Silakan lengkapi semua bidang.",
