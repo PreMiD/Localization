@@ -1,26 +1,10 @@
 {
-	"partners.header.title": {
-		"message": "Partneri",
-		"description": "Heading for page."
-	},
 	"partners.why.benefit5.title": {
 		"message": "Buď slavný",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.requirements.title": {
-		"message": "Požiadavky",
-		"description": "Heading for the requirements."
-	},
 	"partners.requirements.second.title": {
 		"message": "Náš firewall",
 		"description": "Heading for the second requirement."
-	},
-	"partners.apply.select.other": {
-		"message": "Ostatné",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Názov",
-		"description": "Name filed."
 	}
 }
