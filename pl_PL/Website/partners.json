@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partnerzy",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Dołącz do rodziny i zyskaj korzyści tylko dla partnerów, aby pokazać, ile masz łupów.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Polecane w naszych mediach społecznościowych.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Wymaganie",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Czego szukasz?",
@@ -175,14 +167,6 @@
 		"message": "Strona internetowa",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Inne",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Nazwa",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Przykład: PreMiD",
 		"description": "Name field's placeholder."
@@ -218,10 +202,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Zastosuj",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Dziękujemy za złożenie wniosku!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Proszę wypełnić wszystkie pola.",
