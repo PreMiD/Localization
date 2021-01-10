@@ -8,15 +8,15 @@ tags:
 
 > Прежде чем продолжить, убедитесь, что ваша система соответствует [требованиям](/install/requirements).{.is-info}
 
-Установка приложения очень важна, так как расширение не может делать ничего самостоятельно.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Установить
-1. Перейдите на нашу страницу загрузок, нажав [здесь](https://premid.app/downloads).
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Выберите **Windows**.
-3. Откройте установщик.
-4. **Windows SmartScreen** появится, если вы установите PreMiD впервые. Нажмите **Подробнее** и затем выберите **Выполнить в любом случае**. > Это потому, что у нас нет кода для подписания сертификата (CSC). [Поддержите нас,](https://www.patreon.com/Timeraa) чтобы пополнить его.{.is-info}
+3. Open the installer.
+4. **Windows SmartScreen** появится, если вы установите PreMiD впервые. Нажмите **Подробнее** и затем выберите **Выполнить в любом случае**. > Это потому, что у нас нет кода для подписания сертификата (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-Приложение будет запущено автоматически. Проверьте наличие символа в системном трее.
+The application will start automatically. Проверьте наличие символа в системном трее.
 
 > Не забудьте [добавить **расширение**](/install).{.is-warning}
 
