@@ -3,10 +3,6 @@
 		"message": "Síntiús",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
-	"footer.help.troubleshooting": {
-		"message": "Fabhtcheartú",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.information": {
 		"message": "Eolas",
 		"description": "Information section"
