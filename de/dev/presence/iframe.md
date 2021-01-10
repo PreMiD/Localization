@@ -6,12 +6,12 @@ date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# iFrame-Klasse
+# iFrame Class
 > Das iframe-System mit PreMiD ist problematisch und kann unerwartetes Verhalten aufweisen. Sei vorsichtig. 
 > 
 > {.is-danger}
 
-## Einführung
+## Introduction
 
 In einigen Szenarien muss deine Presence möglicherweise auf Elemente innerhalb von `iframes` zugreifen.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methoden
+## Methods
 
 ### `send(Object)`
 Sendet Daten an die Presence. Bei Verwendung dieser Methode löst die Presence ein `iFrameData`-Event aus.
