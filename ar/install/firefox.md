@@ -1,12 +1,12 @@
 ---
 title: Firefox
 description: البدء مع تثبيت PreMiD على Firefox
-published: صحيح
+published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-تركيب الملحق شيء مهم جدا لأن لا يمكن للتطبيق أن يفعل أي شيء بنفسه.
+The installation of the extension is very important as the application can not do anything by itself.
 
 # تحميل
 1. إذهب إلى صفحة التحميلات عن طريق [النقر هنا](https://premid.app/downloads).
@@ -17,7 +17,7 @@ tags:
 6. حدد الملف الذي قمت بتحميله مؤخرا.
 7. إقبل التثبيت بالنقر على **إضافة**.
 
-> لا تنسى [اضافه **التطبيق**](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 
