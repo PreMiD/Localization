@@ -1,14 +1,14 @@
 ---
 title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
-published: vero
+published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Classe Presenza
+# Presence Class
 
 ## Introduzione
 
@@ -162,26 +162,26 @@ const version = presence.getExtensionVersion(false);
 console.log(version); // Will log 2.1.0
 ```
 
-### `getSetting(Stringa)`
+### `getSetting(String)`
 
-Restituisce il valore dell'impostazione.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
 ```
 
-### `hideSetting(Stringa)`
+### `hideSetting(String)`
 
-Nasconde l'impostazione data.
+Hides given setting.
 
 ```typescript
 presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 ```
 
-### `showSetting(Stringa)`
+### `showSetting(String)`
 
-Mostra l'impostazione data (funziona solo se l'impostazione è stata precedentemente nascosta).
+Shows given setting (Only works if the setting was already hidden).
 
 ```typescript
 presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -285,7 +285,7 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">La seconda linea nellla tua presence.</td>
-      <td style="text-align:left"><code>Stringa</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -301,7 +301,8 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definisce la durata totale.
         <br>Utilizzato se vuoi mostrare quanti <code>hours:minutes:seconds</code> è rimasto.
-          <br>Devi convertire il tuo tempo ad un <code>timestamp</code> altrimenti otterrai un conto alla rovescia sbagliato.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -309,19 +310,19 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Definisce il logo della presence.</td>
-      <td style="text-align:left"><code>Stringa</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Definisce la piccola icona vicina al logo della presence.</td>
-      <td style="text-align:left"><code>Stringa</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Definisce il testo che verrà mostrato all'utente quando posizionerà il puntatore sull'icona piccola.</td>
-      <td style="text-align:left"><code>Stringa</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
