@@ -1,7 +1,7 @@
 ---
 title: واجهة برمجة التطبيقات (API)
 description: الوصول الي الموارد و تنفيذ الاجرائات باستخدام "PreMiD API"
-published: صحيح
+published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
 ---
