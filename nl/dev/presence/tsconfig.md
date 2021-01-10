@@ -1,5 +1,5 @@
 ---
-title: TypeScript configuratie
+title: TypeScript Configuratie
 description: Een kleine helper voor TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -36,7 +36,7 @@ In het root configuratiebestand ziet u zoiets als deze.
 }
 ```
 
-| Property                   | Beschrijving                                                                                                                                                                        |
+| Eigenschappen              | Beschrijving                                                                                                                                                                        |
 |:-------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Gebruikt voor het configureren van de compiler, de meeste eigenschappen bevinden zich hier.                                                                                         |
 | module                     | Je kunt er meer over lezen [hier](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                       |
@@ -61,7 +61,7 @@ In het root configuratiebestand ziet u zoiets als deze.
 }
 ```
 
-| Property            | Beschrijving                                                                           |
+| Eigenschappen       | Beschrijving                                                                           |
 |:------------------- |:-------------------------------------------------------------------------------------- |
 | **extends**         | Gebruikt voor het uitbreiden van het bestand `tsconfig` voor verschillende taken.      |
 | **compilerOptions** | Zie [**Root Configuratie**](/dev/presence/tsconfig#root-configuration) voor meer info. |
