@@ -1,23 +1,23 @@
 ---
-title: 窗口
-description: 开始在 Windows 上安装PreMiD
+title: Windows
+description: 如何於Windows上安裝PreMiD
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
-> 在继续操作之前，请确保您的系统满足所有 [要求](/install/requirements)。{.is-info}
+> 在開始之前，請確定您的作業系統符合所有[基本條件](/install/requirements){.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+軟體的安裝非常重要，因為擴充功能無法自行做任何的操作
 
-# 安装
-1. [点击这里](https://premid.app/downloads) 来转到我们的下载页面。
-2. 选择 **Windows**。
-3. Open the installer.
-4. **如果您第一次安装PreMiD，Windows SmartScreen** 将会出现。 点击 **更多信息** 然后选择 **继续运行**。 > 这是因为我们没有代码签名证书 (CSC)。 [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+# 安裝
+1. 透過本[連結](https://premid.app/downloads)至我們的下載頁面
+2. 選擇**Windows**
+3. 開啟已下載之安裝程式
+4. 若這是您第一次安裝PreMiD，**Windows SmartScreen** 將會顯示 點選**更多資訊**並選擇**堅持執行** > 這是因為我們沒有程式簽章(CSC) [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-The application will start automatically. 检查系统托盘中的符号。
+程式將會自動執行 檢查工作列中的符號
 
-> 别忘了 [添加 **扩展**](/install)。{.is-warning}
+> 別忘了[加上**擴充功能**](/install){.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
