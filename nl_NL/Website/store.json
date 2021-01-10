@@ -3,10 +3,6 @@
 		"message": "Extensie is niet verbonden.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Auteur",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Deze presence is erg populair rond gebruikers.",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "Categorieën",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Alle",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Spellen",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Muziek",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
