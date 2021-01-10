@@ -35,10 +35,6 @@
     "message": "Katkıda Bulunanlar",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Giriş Yap",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Şu hesabı kullanıyorsunuz:",
     "description": "Indicates which user is logged in"
