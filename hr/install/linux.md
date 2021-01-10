@@ -18,12 +18,12 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
 
 - **[About](#about)**
   - [Statistika](#stats)
-  - [Zahtjevi](#requirements)
+  - [Requirements](#requirements)
   - Primjeri (uskoro)
   - FAQ-ovi (uskoro)
   - Building (uskoro)
   - [Podrška](#support)
-  - [Zasluge](#credits)
+  - [Credits](#credits)
   - [Licenca](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR :_nikad_™️)
 - **[Prijenosni AppImage](#appimage)** (_PREPORUČENO_)
@@ -41,7 +41,7 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
 
 <a name="stats"></a>
 
-### Statistika
+### Stats
 
 <table>
   <tr>
@@ -52,13 +52,13 @@ Instalacija programa je jako važno jer proširenje ne može ništa učiniti sam
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Sve verzije"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Najnovija verzija"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github verzije"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github verzije"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Zahtjevi
+### Requirements
 
 Tehnički svaka distribucija može pokrenuti Discord-ov [službeni](https://discordapp.com/download)** program** (ne web ili snap verzija ) može pokrenuti i PreMiD;</br>Kao što ste možda primijetili posljednjih godinam, neke Linux distibucije su prestale s podrškom za 32-bitne (ia32/i686/i386/x86) arhitekture, i kao rezultat toga smo i mi. No, ako baš hoćeš, možeš pokušati build-ati program sam ako ga očajnički trebaš koristiti na 32-bit-noj distribuciji.</br> Pošto mi trenutačno koristimo Electron kao engine (Discord ga isto koristi.), njegovi zahtjevi isto vrijede i za ovu aplikaciju:
 
@@ -70,17 +70,17 @@ Nije poznato podržavaju li ga starije verzije drugih distribucija, pa samo ažu
 
 <a name="support"></a>
 
-### Podrška
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Pridružite se našem Discord-u!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Pridružite se našem Discord-u!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Zasluge
+### Credits
 
 Hvala:
 
@@ -92,7 +92,7 @@ Hvala:
 
 <a name="license"></a>
 
-### Licenca
+### License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ AppImage paket je preporučen ako Discord radi za tebe, ali drugi PreMiD paketi 
 
 <a name="appimageinstall"></a>
 
-### Upute za instalaciju
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Dodatne napomene
+### Additional notes
 
 Ako samo želite pokušati PreMiD ili ga samo ne želiš instalirati, ovaj je najboljim uvijek je ažuriran ali _SE NE AUTO-START-A SA SISTEMOM! _</br>Ako se umoriš od potrebe da ga otvoriš svaki put, upotrijebite ostale pakete (prema tvojoj distribuciji).
 
@@ -146,13 +146,13 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Distribucije bazirane na Arch Linux-u
+## Arch Linux based distributions
 
 Koristi [Arch User Repository](https://aur.archlinux.org/packages/premid);</br>Podržane distribuciju su Arch (naravno), Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS i [ svaki drugi koji podržava instalaciju kroz AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Upute za instalaciju
+### Installation instructions
 
 ```bash
 # Koristeći yay (premorućeno)
@@ -182,7 +182,7 @@ ili ručno iz [Arch User Repository-a](https://aur.archlinux.org/packages/premid
 
 <a name="archnotes"></a>
 
-### Dodatne napomene
+### Additional notes
 
 Ako ti distro koristi Pacman, prvo moraš instalirati jedan od helpera. </br> Ako nemaš ni jedan, Yay je preporučen, pokreni :
 
