@@ -1,7 +1,7 @@
 ---
 title: كروميوم
 description: البدء مع تثبيت PreMiD على المتصفحات المبنية على كروميوم
-published: صحيح
+published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
 ---
