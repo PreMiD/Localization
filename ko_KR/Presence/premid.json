@@ -14,57 +14,5 @@
 	"premid.pageHome": {
 		"message": "홈페이지",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "도와주신 분들",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "다운로드",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "상점",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "파트너",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "PreMiD에 대하여",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "시스템 요구 사항",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "설치하기",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "문제 해결",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "시작하기",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
-	},
-	"premid.pagePresenceDev": {
-		"message": "Presence 개발",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Presence Class",
-		"description": "A page name"
-	},
-	"premid.pageSlideshowClass": {
-		"message": "Slideshow Class",
-		"description": "A page name"
 	}
 }
