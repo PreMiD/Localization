@@ -3,6 +3,10 @@
 		"message": "الملحق غير متصل.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.creator": {
+		"message": "المطور",
+		"description": "Creator of a presence"
+	},
 	"store.cards.popular": {
 		"message": "هذا الpresence مشهور جدا بين المستخدمين.",
 		"description": "Presence card popular flame"
@@ -55,8 +59,16 @@
 		"message": "الفئات",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "الكل",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "ألعاب",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "موسيقى",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
