@@ -6,7 +6,7 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> 설치를 진행하기 전에, 시스템이 [요구사항](/install/requirements)을 충족하는지 확인해주세요. 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
