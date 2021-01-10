@@ -1,5 +1,5 @@
 ---
-title: TypeScript Konfigürasyonu
+title: TypeScript Configuration
 description: TypeScript için ufak bir yardımcı
 published: true
 date: 2020-08-05T16:25:22.812Z
