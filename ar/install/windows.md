@@ -1,7 +1,7 @@
 ---
 title: ويندوز
 description: البدء مع تثبيت PreMiD على ويندوز
-published: صحيح
+published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
@@ -13,8 +13,8 @@ tags:
 # تحميل
 1. انتقل إلى صفحة التنزيلات الخاصة بنا عن طريق [النقر هنا](https://premid.app/downloads).
 2. اختر **ويندوز**.
-3. افتح المثبت.
-4. سيظهر **Windows SmartScreen**، إذا قمت بتثبيت PreMiD لأول مرة. انقر فوق **مزيد من المعلومات** ثم إضغط على **تشغيل على أي حال**. > هذا لإنه ليس لدينا شهادة توقيع كود (CSC). [إدعمنا](https://www.patreon.com/Timeraa) لتمويلها.{.is-info}
+3. Open the installer.
+4. سيظهر **Windows SmartScreen**، إذا قمت بتثبيت PreMiD لأول مرة. انقر فوق **مزيد من المعلومات** ثم إضغط على **تشغيل على أي حال**. > هذا لإنه ليس لدينا شهادة توقيع كود (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
 التطبيق سيبدأ تلقائياً. تحقق من الرمز في علبة النظام.
 
