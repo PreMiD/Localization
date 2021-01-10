@@ -59,6 +59,10 @@
 		"message": "Yardım",
 		"description": "Help section"
 	},
+	"footer.help.troubleshooting": {
+		"message": "Sorun Giderme",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
 	"footer.help.getsupport": {
 		"message": "Yardım Al‮",
 		"description": "Get Support -> redirects to Discord invite"
