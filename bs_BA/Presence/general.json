@@ -1,38 +1,6 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Pretražnja...",
-		"description": ""
-	},
 	"general.episode": {
 		"message": "Epizoda",
-		"description": ""
-	},
-	"general.language": {
-		"message": "Jezik",
-		"description": "For choosing a language"
-	},
-	"general.live": {
-		"message": "Uživo",
-		"description": ""
-	},
-	"general.reading": {
-		"message": "Čitanje",
-		"description": ""
-	},
-	"general.search": {
-		"message": "Pretražnja",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Prodavnica",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "Stranica za pregled:",
 		"description": ""
 	},
 	"general.cookie": {
