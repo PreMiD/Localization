@@ -18,24 +18,24 @@ La versión `2.x` introduce la [tienda de presences](https://premid.app/store). 
 > 
 > {.is-warning}
 
-- [Indicaciones](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Estructura
 
 Toda Presence está programada en [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tiene algunos tipos definiciones más que JavaScript, así que corregir e identificar errores es mucho más fácil.
 
-## Instalación
+## Installation
 
-1. Instala [Git](https://git-scm.com/).
-2. Instala [Node](https://nodejs.org/en/) (viene con [npm](https://www.npmjs.com/)).
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links) (Abre un terminal y escribe `npm install -g typescript`).
 
-## Clonando el proyecto
+## Cloning the project
 
 1. Abre la consola y escribe `git clone https://github.com/PreMiD/Presences`.
-2. Elija una carpeta de su elección.
-3. Ábrelo en tu editor de código.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ## Creando carpetas y archivos
 
@@ -133,7 +133,7 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `ajustes`
+- `settings`
 
 **Aclarando unos valores predefinidos:**
 
@@ -141,23 +141,25 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Descripción</th>
-      <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Opcional</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
@@ -170,11 +172,11 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
       <td style="text-align:left"><b>altnames</b></td>
       <td style="text-align:left"><br>Destinado a ser utilizado para presences que tienen nombres distintos en idiomas diferentes (ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presences con caracteres especiales y así no tendrás que escribirlos (ej., Pokémon y Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Una pequeña descripción de la presence, puedes usar la descripción del servicio si no se te ocurre nada. Tu descripción debe tener un par de valores que indiquen el idioma y la descripción en ese idioma específico. Haz descripciones con los idiomas <i>que conoces</i>, nuestros traductores harán cambios en tu archivo de metadata.</td>
+      <td style="text-align:left">Una pequeña descripción de la presence, puedes usar la descripción del servicio si no se te ocurre nada. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -187,7 +189,7 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
 Puedes añadir multiples URLs haciendo lo siguiente:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
 También podrías usar regExp (También conocido como Regex), las cuales son explicadas más adelante.</td>
-      <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
@@ -201,42 +203,42 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
         Puedes pegar un vistazo rápido a este <a href="https://youtu.be/sXQxhojSdZM">video</a> para tener una idea de cómo funciona<br>
         Puedes probar tu expresión regular en <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Versión de su presence.</td>
+      <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Enlace al logotipo del servicio.</td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Enlace al ícono de tu presence.</td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left">valor <code>#HEX</code>. Recomendamos usar un color primario del servicio
-        que tu presence soporte.</td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array con etiquetas, ayudarán a los usuarios a buscar su presence en el sitio web.</td>
-      <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code></td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">Una string utilizada para representar la categoría bajo la que cae la presence. Mira las categorías válidas <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aquí</a>.</td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. Mira las categorías válidas <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aquí</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -244,31 +246,31 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Define si se utilizan <code>iFrames</code>.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">Un selector de expresiones regulares que selecciona los iframes a inyectar. Mira expresiones regulares para más información.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Mira expresiones regulares para más información.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Define si la extensión debe capturar llamadas a <code>console.log</code>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ajustes</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Un array con configuraciones del usuario puede cambiar.<br>
       Lee más acerca configuración de presencias <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aquí</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
 
-Hemos hecho un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/projects/premid/mdcreator) para la gente perezosa.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Empezando
 
@@ -395,8 +397,8 @@ El sitio web en el que estás desarrollando se recarga automáticamente cada vez
 
 # Explicación de archivos
 
-- [Clase Presence](/dev/presence/class)
+- [Presence Class](/dev/presence/class)
 - [Clase SlideshowSlide](/dev/presence/slideshow)
-- [Clase de iFrame](/dev/presence/iframe)
+- [iFrame Class](/dev/presence/iframe)
 - [Archivo de Metadata](/dev/presence/metadata)
-- [Configuración de TypeScript](/dev/presence/tsconfig ""){.links-list}
+- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
