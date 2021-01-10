@@ -1,5 +1,5 @@
 ---
-title: TypeScript Configuration
+title: Configuration TypeScript
 description: Un peu d'aide pour TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -61,7 +61,7 @@ Dans le fichier de configuration racine, vous verrez quelque chose comme ça.
 }
 ```
 
-| Property            | Description                                                                                                |
+| Propriétés          | Description                                                                                                |
 |:------------------- |:---------------------------------------------------------------------------------------------------------- |
 | **Étendre**         | Utilisé pour étendre le fichier de base `tsconfig` pour diverses tâches.                                   |
 | **compilerOptions** | Voir [**Configuration de la racine**](/dev/presence/tsconfig#root-configuration) pour plus d'informations. |
