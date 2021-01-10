@@ -6,7 +6,7 @@ date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# iFrame Klasse
+# iFrame Class
 > The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
