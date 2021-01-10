@@ -4,19 +4,19 @@ description:
 published: true
 date: 2020-12-25T00:47:38.111Z
 tags:
-editor: 마크다운
+editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
 # Slideshow Class
 
-## 소개
+## Introduction
 
 The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
 
 See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
 
-## 속성
+## Properties
 
 ### `currentSlide`
 
@@ -69,11 +69,11 @@ Deletes all slides from the `Slideshow`.
 
 # SlideshowSlide Class
 
-## 소개
+## Introduction
 
 A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
-## 속성
+## Properties
 
 ### `id`
 
