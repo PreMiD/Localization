@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Aturan
+# Guidelines
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Bagi beberapa, peraturan ini mungkin agak kejam. However, the implementation of these rule sets will keep us and our users from running into issues.
 
@@ -182,7 +182,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 - Warna **harus** menggunakan hexadecimal value antara `#000000` dan `#FFFFFF`.
 - String warna **harus** didahulukan dengan hash symbol.
 
-### **`tag`**
+### **`tags`**
 
 - **Semua** presence diharuskan memiliki setidaknya _satu_ tag.
 - Tag harus **tidak** memiliki spasi, garis miring, tanda kutip tunggal/ganda, karakter Unicode, dan harus selalu huruf kecil.
@@ -295,7 +295,7 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 
 ## `Pemeriksaan`
 
-![Pemeriksaan](https://i.imgur.com/BCDZQe9.png)
+![Checks](https://i.imgur.com/BCDZQe9.png)
 
 Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. Pemeriksaan ini membantu reviewer untuk menentukan apakah presencemu cocok untuk perilisan.
 
