@@ -3,10 +3,6 @@
 		"message": "Разширението не е свързано.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "автор",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Това присъствие е много популярно сред потребителите.",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "Категории",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "всичко\n",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Игри",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "музика\n",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
