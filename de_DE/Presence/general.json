@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Stöbert...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Kapitel",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Genre",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Sprache",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Hört Musik",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Zuhörer",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Live",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Liest Thread:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Lesen",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Suchen nach:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Etwas suchen...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Suche",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Warenkorb",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Store",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -197,10 +169,6 @@
 	},
 	"general.viewing": {
 		"message": "Betrachtet:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "Betrachtet Seite:",
 		"description": ""
 	},
 	"general.watchingVid": {
