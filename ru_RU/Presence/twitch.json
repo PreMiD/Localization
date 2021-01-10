@@ -1,18 +1,10 @@
 {
-	"twitch.downloads": {
-		"message": "Загрузки ",
-		"description": "Page name"
-	},
 	"twitch.jobs": {
 		"message": "Вакансии",
 		"description": "Page name"
 	},
 	"twitch.turbo": {
 		"message": "Турбо",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Партнеры",
 		"description": "Page name"
 	},
 	"twitch.press": {
@@ -33,10 +25,6 @@
 	},
 	"twitch.guidelines": {
 		"message": "Принципы сообщества",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Главная страница",
 		"description": "Page name"
 	},
 	"twitch.wallet": {
@@ -134,10 +122,6 @@
 	"twitch.produce": {
 		"message": "В видео производителе...",
 		"description": ""
-	},
-	"twitch.viewTheir": {
-		"message": "Смотрит",
-		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
 		"message": "Аналитика каналов",
