@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Pokyny
+# Guidelines
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Některým se tato přísná pravidla mohou zdát přísná, However, the implementation of these rule sets will keep us and our users from running into issues.
 
@@ -136,15 +136,15 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 
 - _Klíč_ schema **musí** obsahovat znak dolaru na jeho začátku. Tento znak naznačí Vašemu textovému editoru, že se snažíte ověřit Váš JSON soubor oproti modelu. _Jak bylo již dříve zmíněno, schema nemusíte zahrnovat. Pokud ho ale zahrnete, musíte toto brát v potaz._
 
-### **`autor`**
+### **`author`**
 
 - _Hodnota_ ID **musí** být Vaše Discord snowflake ID. Můžete ho získat aktivováním [developer módu](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Prosím, **nepleťte** si toto s ID Vaší aplikace, které je pouze pro Vaší presenci._
 
-### **`přispěvatelé`**
+### **`contributors`**
 
 - **Nepřidávejte** sebe jako contributora. **Nepřidávejte** jako contributora někoho, kdo s vývojem presence nepomáhal.
 
-### **`služba`**
+### **`service`**
 
 - Jméno služby **musí** být jménem složky presence. Například, pokud je presence umístěna ve složce `/websites/Y/YouTube/`, jméno služby musí také být `YouTube`.
 - URL **nemůžete** použít jako název služby, dokud služba nevyužívá její URL jakož oficiální název. Pokud jméno není dostatečně deskriptivní a může být považováno jako vágní, je **zapotřebí** použít URL (například, `YouTube` je povoleno, protože je to oficiální jméno a je deskriptivní, zatímco `youtube.com` není. `Top` není deskriptivní jméno, takže je **nutné** použít URL `top.gg`
@@ -153,17 +153,17 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 
 - Toto používejte **pouze** v případě, pokud stránka využívá více oficiálních jmen (například Pokémon a 포켓몬스터), nebo pokud to umožňuje snazší vyhledání presence bez speciálních znaků (například Pokémon a Pokemon). *Zkrácená* jména služby patří pod `tags`.
 
-### **`popis`**
+### **`description`**
 
 - **Všechny** presence **musí** mít anglický popis, nehledě na jazyk webové stránky.
 - **Nesnažte** se popisek překládat sami, dokud daný jazyk neovládáte. Pokud to bude nutné, překladatelé upraví Váš `metadata.json` soubor a změní popisek sami.
 
-### **`URL`**
+### **`url`**
 
 - Pokud webová stránka používá pouze jednu doménu, URL **musí** být řetězec. Pokud webová stránka využívá více domén, řetězec změňte na pole a vypište každou doménu.
 - **Nezahrnujte** protokoly do URL (například `http` nebo `https`) a do URL nezahrnujte parametry dotazu (například, `www.google.com/search?gws_rd=ssl` by mělo být `www.google.com`)
 
-### **`verze`**
+### **`version`**
 
 - Vždy se ujistěte že číslo verze je dle [sémantického standartu verzování](https://semver.org), které se řídí následujícím schématem: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Cokoli jiného jako `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA`nebo změna `1.0.0` na `2.0.0` při opravě malé chyby/malé změny **není** povoleno.
 - Verzování **musí** vždy začínat s verzí `1.0.0`, dokud nebylo řečeno jinak. Jiné verzování **nebude** povoleno.
@@ -173,23 +173,23 @@ Seznam polí a jejich pravidla jsou uvedena níže:
 - Logo **musí** být čtvercový obrázek s poměrem stran `1:1`.
 - Obrázek **musí** mít minimální rozlišení `512x512` pixelů. Obrázek může zvětšit pomocí nástroje jako je [waifu2x](http://waifu2x.udp.jp/).
 
-### **`náhled`**
+### **`thumbnail`**
 
 - Thumbnail by **měl** být jako [široká promo karta](https://i.imgur.com/3QfIc5v.jpg) nebo [snímek obrazovky](https://i.imgur.com/OAcBmwW.png), pokud to první **není** dostupné.
 
-### **`barva`**
+### **`color`**
 
 - Barva **musí** být hexadecimální hodnota mezi `#000000` a `#FFFFFF`.
 - Řetezec s barvou **musí** být předsazen hash symbolem.
 
-### **`štítky`**
+### **`tags`**
 
 - **Všechny** presence musí mít alespoň _jeden_ tag.
 - Tagy **nesmí** obsahovat žádné mezery, lomítka, uvozovky, Unicode znaky a měli by vždy být napsány s malými písmeny.
 - Tagy by **měli** obsahovat alternativní jména služby, aby bylo presence snazší dohledat (Například, pokud presence Amazonu má podporu AWS, měla by mít tagy jako `amazon-web-services` a `aws`).
 - ProMáte **povinnost** zahrnout `NSFW` tag, pokud presence je pro NSFW stránku.
 
-### **`Kategorie`**
+### **`category`**
 
 - Kategorie **musí** být jedna ze seznamu v [dokumentaci](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 - Presence musí používat kategorii, která se shoduje s obsahem webové stránky (Například, nepoužívejte `anime` pokud stránka nemá s anime nic společného).
