@@ -31,10 +31,6 @@
         "message": "Ogledovanje Amazon Prime",
         "description": ""
     },
-    "amazon.viewTheir": {
-        "message": "Ogledovanje njegovih",
-        "description": "Part 1 of the next 5 strings"
-    },
     "amazon.orderHistory": {
         "message": "zgodovina naročil",
         "description": "Part 2 of the string: \"Viewing their\""
@@ -61,10 +57,6 @@
     },
     "amazon.history": {
         "message": "Ogledovanje njegovih zgodovin",
-        "description": ""
-    },
-    "amazon.store": {
-        "message": "Ogledovanje trgovine:",
         "description": ""
     },
     "amazon.primeVid": {
