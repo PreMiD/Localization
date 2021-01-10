@@ -8,7 +8,7 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.charts": {
-		"message": "die Charts",
+		"message": "die Charts-Seite",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.upcoming": {
@@ -44,7 +44,7 @@
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelMy": {
-		"message": "Schaut sich die MY-Seite",
+		"message": "Schaut sich My Page",
 		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelStore": {
@@ -64,11 +64,11 @@
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"v live.viewTheir": {
-		"message": "Betrachtet auf Meine-Seite:",
+		"message": "Betrachtet auf My Page:",
 		"description": "The first part of the next 6 strings"
 	},
 	"v live.profile": {
-		"message": "Profilseite",
+		"message": "Profil",
 		"description": "The second part of the \"Viewing their\" string"
 	},
 	"v live.watched": {
@@ -88,11 +88,11 @@
 		"description": "The second part of the \"Viewing their\" string"
 	},
 	"v live.followed": {
-		"message": "gefolgte Channels",
+		"message": "Gefolgte Channels",
 		"description": "The second part of the \"Viewing their\" string"
 	},
 	"v live.policies": {
-		"message": "...liest die Nutzerbedingungen durch",
+		"message": "Liest die Nutzerbedingungen durch",
 		"description": ""
 	}
 }
