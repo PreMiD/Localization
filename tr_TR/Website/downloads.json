@@ -103,9 +103,17 @@
 		"message": "Geri",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "Vazgeç",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "Tamam",
 		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "Tamam",
+		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "Giriş Yap",
