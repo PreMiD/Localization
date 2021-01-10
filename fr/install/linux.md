@@ -1,7 +1,7 @@
 ---
 title: Linux
 description: Installation de l'application PreMiD sur Linux
-published: oui
+published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
 editor: markdown
@@ -23,7 +23,7 @@ L'installation de l'application est très importante car l'extension ne peut rie
   - FAQ (à venir)
   - Immeuble (bientôt)
   - [Support](#support)
-  - [Crédits](#credits)
+  - [Credits](#credits)
   - [Licence](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _jamais_ ™️)
 - **[AppImage Portable](#appimage)** (_CONSEILLÉ_)
@@ -35,13 +35,13 @@ L'installation de l'application est très importante car l'extension ne peut rie
 
 <a name="about"></a>
 
-## À propos
+## About
 
 **PreMiD** est un utilitaire simple et configurable qui utilise la bibliothèque RP (Rich Presence) de Discord. Cela vous permet de montrer ce que vous faites sur le Web (et quelques programmes) dans votre profil Discord comme **status de jeu**.
 
 <a name="stats"></a>
 
-### Statistiques
+### Stats
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ L'installation de l'application est très importante car l'extension ne peut rie
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Toutes les versions"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Dernière version"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Version GitHub"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Version GitHub"></a></td>
   </tr>
 </table>
 
@@ -74,13 +74,13 @@ On ne sait pas si les anciennes versions d'autres distributions supporte l'appli
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Rejoignez notre Discord">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Rejoignez notre Discord">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Crédits
+### Credits
 
 Merci à
 
@@ -92,7 +92,7 @@ Merci à
 
 <a name="license"></a>
 
-### Licence
+### License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ Le paquet AppImage est recommandé si Discord fonctionne pour vous, mais pas d'a
 
 <a name="appimageinstall"></a>
 
-### Instructions d'installation
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Notes complémentaires
+### Additional notes
 
 Si vous voulez essayer PreMiD ou simplement ne voulez pas l'installer, c'est la meilleur méthode, c'est toujours à jour mais <br>_CELA NE DÉMARRE PAS AUTOMATIQUEMENT AVEC LE SYSTÈME!</br>. Si vous en avez assez d'avoir à l'ouvrir à chaque fois, utilisez les autres paquets (selon votre distribution).
 
@@ -146,13 +146,13 @@ Si la commande ne fonctionne pas, téléchargez le fichier **deb/rpm** depuis no
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Distributions basées sur Arch Linux
+## Arch Linux based distributions
 
 Utilise les [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Les distributions supportées sont _elles-mêmes_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS et [toute les distros qui prennent en charge l'installation à partir de l'AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Instructions d'installation
+### Installation instructions
 
 ```bash
 # Avec yay (recommandé)
@@ -182,7 +182,7 @@ ou manuellement à partir de l'[Arch User Repository](https://aur.archlinux.org/
 
 <a name="archnotes"></a>
 
-### Notes complémentaires
+### Additional notes
 
 Si votre distribution utilise pacman, alors vous devez d'abord installer l'un des assistants. Si vous n'en avez pas, Yay est recommandé, exécutez :
 
