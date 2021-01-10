@@ -3,10 +3,6 @@
 		"message": "익스텐션이 연결되지 않았습니다.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "제작자",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "이 Presence는 사용자들에게 가장 인기있는 Presence입니다.",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "카테고리",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "모두",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "게임",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "음악",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
