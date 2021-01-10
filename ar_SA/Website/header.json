@@ -35,6 +35,10 @@
     "message": "المساهمون",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "تسجيل الدخول",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "تم تسجيل الدخول كـ",
     "description": "Indicates which user is logged in"
