@@ -47,10 +47,6 @@
 		"message": "Yordam",
 		"description": "Help section"
 	},
-	"footer.help.troubleshooting": {
-		"message": "Muammolarni bartaraf qilish",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.getsupport": {
 		"message": "Yordam olish",
 		"description": "Get Support -> redirects to Discord invite"
