@@ -1,10 +1,10 @@
 ---
 title: 疑難解答
 description: Everything to solve your problem
-published: 是
+published: true
 date: 2021-01-03T14:12:34.320Z
 tags:
-editor: 標記
+editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
