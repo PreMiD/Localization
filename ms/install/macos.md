@@ -10,9 +10,9 @@ tags:
 > 
 > {.is-info}
 
-Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa dengan sendirinya.
+The installation of the application is very important as the extension can not do anything by itself.
 
-# Pasang
+# Install
 1. Pergi ke halaman muat turun kami dengan [mengklik di sini](https://premid.app/downloads).
 2. Pilih **OS X**.
 3. Sarikan arkib jika diperlukan.
