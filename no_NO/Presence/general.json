@@ -1,38 +1,10 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Søker...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Kapittel",
 		"description": ""
 	},
 	"general.episode": {
 		"message": "Episode",
-		"description": ""
-	},
-	"general.language": {
-		"message": "Språk",
-		"description": "For choosing a language"
-	},
-	"general.live": {
-		"message": "Direkte",
-		"description": ""
-	},
-	"general.reading": {
-		"message": "Leser",
-		"description": ""
-	},
-	"general.search": {
-		"message": "Søker",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Butikk",
 		"description": ""
 	}
 }
