@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Göz atıyor...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Bölüm",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Tür",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Dil",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Müzik dinliyor",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Dinleyiciler",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Canlı",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Konu okuyor:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Okuyor",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Arıyor:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Bir şeyler arıyor...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Arıyor",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Alışveriş sepeti",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Mağaza",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -197,10 +169,6 @@
 	},
 	"general.viewing": {
 		"message": "Bakıyor:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "Bir sayfayı görüntülüyor:",
 		"description": ""
 	},
 	"general.watchingVid": {
