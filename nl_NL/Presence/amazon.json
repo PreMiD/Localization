@@ -63,6 +63,10 @@
         "message": "Bekijkt zijn/haar geschiedenis",
         "description": ""
     },
+    "amazon.store": {
+        "message": "Bekijkt winkel:",
+        "description": ""
+    },
     "amazon.primeVid": {
         "message": "Bekijkt Prime Video:",
         "description": ""

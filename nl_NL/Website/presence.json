@@ -7,6 +7,10 @@
 		"message": "Beschrijving",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "Veranderingslogboek",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "Informatie",
 		"description": "The title of the information section."

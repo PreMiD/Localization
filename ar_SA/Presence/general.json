@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "أنمي",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "جاري تصفح...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "الفصل",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "النوع",
 		"description": ""
 	},
+	"general.language": {
+		"message": "اللغة",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "الاستماع إلى الموسيقى",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "المستمعين",
+		"description": ""
+	},
+	"general.live": {
+		"message": "مباشر",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "يقرئ الموضوع:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "جاري قراءة",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "جار البحث عن:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "جاري البحث عن شيء...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "جاري البحث",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "عربة التسوق",
+		"description": ""
+	},
+	"general.store": {
+		"message": "المتجر",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -171,13 +199,33 @@
 		"message": "يشاهد:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "جاري مشاهدة الصفحة:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "يشاهد فيديو",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "في انتظار العرض الأول لفيديو",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "في انتظار العرض الأول للفيديو",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "يشاهد بث مباشر",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "في انتظار بدء بث مباشر",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "في انتظار بدء البث المباشر",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "يشاهد:",
@@ -198,5 +246,17 @@
 	"general.cookie": {
 		"message": "سياسة ملفات تعريف الإرتباط",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "تكرار جميع الأغاني",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "في حلقة",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "سجل الحادثة",
+		"description": "A page name of statuspages"
 	}
 }

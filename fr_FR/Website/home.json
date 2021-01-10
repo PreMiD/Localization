@@ -79,6 +79,10 @@
 		"message": "Vous rencontrez un problème, vous avez des tonnes d'erreurs ou tout simplement ça ne fonctionne pas ? Nous vous aiderons à vous débarrasser de ces problèmes sur notre serveur Discord, nous avons également créé notre propre système de support qui permettra de résoudre votre problème dès que possible.",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "Rejoignez notre Discord",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "Langue du site web",
 		"description": "Tippy content of the language selector."

@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Bladeren...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Hoofdstuk",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "Genre",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Taal",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Luistert naar muziek",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Luisteraars",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Live",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "Leest de conversatie:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "Bezig met lezen",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Zoekt naar:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "Iets aan het opzoeken...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "Bezig met zoeken",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Winkelwagen",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Winkel",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -169,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "Bekijkt:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Bekijkt pagina:",
 		"description": ""
 	},
 	"general.watchingVid": {
