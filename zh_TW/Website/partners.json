@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "合作夥伴",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "加入我們家族，並獲取一些只有合作夥伴才能擁有的好處，以炫耀您貢獻量。",
 		"description": "Description for page."
@@ -38,10 +34,6 @@
 	"partners.why.benefit5.title": {
 		"message": "成為大人物",
 		"description": "Heading for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "需求",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "我們需要什麼？",
@@ -134,10 +126,6 @@
 	"partners.apply.select.website": {
 		"message": "網站",
 		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "其它",
-		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
 		"message": "名稱",
