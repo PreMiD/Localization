@@ -23,7 +23,7 @@ PreMiD je rychlý a snadno nainstalovatelný. S instalací byste měli být hned
 - Postupujte podle rychlého a jednoduchého [instalačního průvodce](/install).
 - [Řešení problémů](/troubleshooting) vás provede řešením společných problémů.
 
-# Vývojáři
+# Developers
 
 [Začínáme](/dev) pro vývoj PreMiD je tvůj první krok před kódováním některých věcí.
 
