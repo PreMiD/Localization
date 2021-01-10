@@ -1,7 +1,7 @@
 ---
 title: iFrame Class
 description:
-published: 是
+published: true
 date: 2020-05-03T20:17:51.982Z
 tags:
 ---
@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## 介紹
+## Introduction
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
