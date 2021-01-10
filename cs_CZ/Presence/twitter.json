@@ -3,10 +3,6 @@
         "message": "Čtení tweetu:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "Prohlížení jejich přímých zpráv",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "Zobrazení tweetů:",
         "description": ""
