@@ -18,24 +18,24 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-warning}
 
-- [הנחיות](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Structure
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## התקנה
+## Installation
 
-1. התקן [Git](https://git-scm.com/).
+1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. התקן [TypeScript](https://www.typescriptlang.org/index.html#download-links) (פתח מהסוף ו- `npm install -g typescript`).
 
-## שכפל את הפרויקט
+## Cloning the project
 
 1. פתח מהסוף והקלד ` git clone https://github.com/PreMiD/Presences `.
-2. בחר תיקיה לפי בחירתך.
-3. פתח אותו בעורך הקוד שלך.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ## יצירת תיקיות וקבצים
 
@@ -127,13 +127,13 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 אנא העתק את הקוד מעל והכנס אותו לקובץ ` metadata.json ` שלך. כעת עליך לערוך את ערכי המאפיינים. לידיעתך, המאפיינים הבאים הם אופציונליים בקובץ ` metadata.json ` שלך, אם אינך מתכנן להשתמש בהם עליך להסיר אותם.
 
-- `תורמים`
-- `שמות משנה`
+- `contributors`
+- `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `הגדרות`
+- `settings`
 
 **בירור כמה הגדרות קבועות מראש:**
 
@@ -141,35 +141,35 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">תיאור</th>
-      <th style="text-align:left">סוג</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>מחבר</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. השם שלך בדיסקורד בלי מזהה (#0000) לדוגמא. User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>תורמים</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. השם שלך בדיסקורד בלי מזהה (#0000) לדוגמא. User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>שירות</b></td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>שמות משנה</b></td>
+      <td style="text-align:left"><b>altnames</b></td>
       <td style="text-align:left">Be able to search the presence using an alternative name.<br>
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
@@ -177,8 +177,8 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>תיאור</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. תעשה תיאורים בלי השפות שאתה יודע, המתרגמים שלנו יעשו את השינויים לקובץ שלך.</td>
+      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -208,13 +208,13 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>גרסה</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>לוגו</b></td>
+      <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -226,32 +226,33 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>צבע</b></td>
-      <td style="text-align:left">ערך <code> #HEX </code>. אנחנו ממליצים לך להשתמש בצבע הראשי של השירות של הנוכחות התמיכה.</td>
+      <td style="text-align:left"><b>color</b></td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>תגים</b></td>
-      <td style="text-align:left">מערך עם תגים, הם יעזרו למשתמשים לחפש את התוסף שלך באתר.</td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>קטגוריה</b></td>
-      <td style="text-align:left">מחרוזת המשמשת לייצוג הקטגוריה שבה התוסף נמצא. עיין בקטגוריות החוקיות <a href="https://docs.premid.app/dev/presence/metadata#presence-categories"> כאן </a>.</td>
+      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. עיין בקטגוריות החוקיות <a href="https://docs.premid.app/dev/presence/metadata#presence-categories"> כאן </a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
-      <td style="text-align:left"><code>בוליאני</code></td>
+      <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">בורר ביטוי רגיל הבוחר iframes לשייך אליו. ראה regExp למידע נוסף.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. ראה regExp למידע נוסף.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -262,7 +263,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>הגדרות</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">מערך הגדרות שהמשתמש יכול לשנות. <br>
       קרא עוד על הגדרות התוספים <a href="https://docs.premid.app/dev/presence/metadata#presence-settings"> כאן </a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -271,7 +272,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
   </tbody>
 </table>
 
-יצרנו `metadata.json` יוצר קבצים לאנשים העצלנים [here](https://eggsy.xyz/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## מתחילים
 
