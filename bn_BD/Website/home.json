@@ -1,14 +1,1 @@
-{
-	"home.examples.status.playing": {
-		"message": "প্লেয়িং ব্যাক",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "লাইভ",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "ব্রাউসিং...",
-		"description": "Discord Rich Presence -> small image text;"
-	}
-}
+{}
