@@ -103,17 +103,9 @@
 		"message": "뒤로가기",
 		"description": "Back button on the ads section"
 	},
-	"downloads.button.cancel": {
-		"message": "취소",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
 	"downloads.button.okay": {
 		"message": "좋아요!",
 		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.done": {
-		"message": "완료",
-		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "로그인",
