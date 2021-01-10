@@ -6,14 +6,14 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Ennen kuin menet pidemmälle, varmista, että järjestelmä täyttää kaikki [vaatimukset](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
 The installation of the application is very important as the extension can not do anything by itself.
 
 # Asenna
-1. Mene meidän lataus sivulle [klikkaamalla tästä](https://premid.app/downloads).
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
