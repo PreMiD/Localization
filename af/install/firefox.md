@@ -6,10 +6,10 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-Die installering van die uitbreiding is baie belangrik, aangesien die toepassing niks op sigself kan doen nie.
+The installation of the extension is very important as the application can not do anything by itself.
 
-# Installeer
-1. Gaan na ons aflaai bladsy deur [klik hier](https://premid.app/downloads).
+# Install
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
@@ -17,7 +17,7 @@ Die installering van die uitbreiding is baie belangrik, aangesien die toepassing
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
 
-> Moenie vergeet om te [voeg die **aansoek**](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 
