@@ -3,10 +3,6 @@
 		"message": "Extensão não conectada.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Autor(a)",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Esta presença é muito popular entre os usuários.",
 		"description": "Presence card popular flame"
@@ -65,10 +61,6 @@
 	},
 	"store.category.games": {
 		"message": "Jogos",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Música",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
