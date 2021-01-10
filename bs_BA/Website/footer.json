@@ -47,10 +47,6 @@
 		"message": "Pomoć",
 		"description": "Help section"
 	},
-	"footer.help.troubleshooting": {
-		"message": "Rešavanje problema",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.getsupport": {
 		"message": "Dobijanje pomoći",
 		"description": "Get Support -> redirects to Discord invite"
