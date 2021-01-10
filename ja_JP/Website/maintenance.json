@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "おっと！",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.heading": {
 		"message": "スタッフが問題解決に取り掛かっています。\nご不便をおかけして申し訳ありません。",
 		"description": "Heading on maintenance page"
