@@ -1,7 +1,7 @@
 ---
 title: macOS
 description: 開始在MacOS上安裝PreMiD
-published: 是
+published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
@@ -13,7 +13,7 @@ tags:
 軟體的安裝非常重要，因為擴充功能無法自行做任何的操作
 
 # 安裝
-1. [點此](https://premid.app/downloads)前往我們的下載頁面
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. 選擇**OS X**
 3. 若必要的話請提取封存
 4. 開啟下載程式。
