@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "الشركاء",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "إنضم إلى العائلة واحصل على بعض الفوائد الخاصة بالشركاء لإظهار كم من المقدار لديك.",
 		"description": "Description for page."
@@ -50,6 +54,10 @@
 	"partners.why.benefit5.description": {
 		"message": "مميز على وسائل التواصل الاجتماعي الخاصة بنا.",
 		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "المتطلبات",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "ما الذي نبحث عنه؟",
@@ -151,6 +159,14 @@
 		"message": "الموقع",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "آخر",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "الاسم",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "مثال: PreMiD",
 		"description": "Name field's placeholder."
@@ -186,6 +202,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "تقديم",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "شكرًا لك على تقديم الطلب!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "يُرجى إكمال كافة الحقول.",
