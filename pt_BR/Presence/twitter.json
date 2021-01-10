@@ -3,10 +3,6 @@
         "message": "Lendo um tweet:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "Vendo suas mensagens diretas",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "Vendo tweets de:",
         "description": ""
