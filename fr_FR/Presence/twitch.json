@@ -1,10 +1,18 @@
 {
+	"twitch.downloads": {
+		"message": "Téléchargements",
+		"description": "Page name"
+	},
 	"twitch.jobs": {
 		"message": "Jobs",
 		"description": "Page name"
 	},
 	"twitch.turbo": {
 		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partenaires",
 		"description": "Page name"
 	},
 	"twitch.press": {
@@ -25,6 +33,10 @@
 	},
 	"twitch.guidelines": {
 		"message": "Règles de la communauté",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Page d'accueil",
 		"description": "Page name"
 	},
 	"twitch.wallet": {
@@ -122,6 +134,10 @@
 	"twitch.produce": {
 		"message": "Dans le producteur de vidéos...",
 		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Regarde leur",
+		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
 		"message": "Données analytiques de la chaîne",
