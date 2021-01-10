@@ -15,68 +15,16 @@
 		"message": "Página Principal",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "Contribuidores",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Descargas",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Tienda",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Socios",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "Acerca de PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "Requisitos del sistema",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "Instalación",
-		"description": "A page name"
-	},
 	"premid.pageInstallFor": {
 		"message": "Instalación para {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Solución de problemas",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "Comenzando",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
 		"message": "Comprendiendo la API v{0}",
 		"description": "A page name // {0} will be replaced with the version number."
 	},
-	"premid.pagePresenceDev": {
-		"message": "Desarrollo de Presences",
-		"description": "A page name"
-	},
 	"premid.pagePresenceGuide": {
 		"message": "Normas de las Presence",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Clase Presence",
-		"description": "A page name"
-	},
-	"premid.pageSlideshowClass": {
-		"message": "Clase SlideshowSlide",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
