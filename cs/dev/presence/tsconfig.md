@@ -1,5 +1,5 @@
 ---
-title: Konfigurace TypeSkriptu
+title: TypeScript Configuration
 description: Malý pomocník pro TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -61,7 +61,7 @@ V kořenovém konfiguračním souboru uvidíte něco podobného.
 }
 ```
 
-| Vlastnosti          | Popis                                                                                 |
+| Property            | Popis                                                                                 |
 |:------------------- |:------------------------------------------------------------------------------------- |
 | **extends**         | Používá se pro rozšíření základního `tsconfig` souboru pro různé úkoly.               |
 | **compilerOptions** | Více informací viz [**Konfigurace Root**](/dev/presence/tsconfig#root-configuration). |
