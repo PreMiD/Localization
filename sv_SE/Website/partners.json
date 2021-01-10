@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partners",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Gå med i familjen och få några partner-exklusiva fördelar för att visa upp hur mycket swag du har.",
 		"description": "Description for page."
@@ -38,10 +34,6 @@
 	"partners.why.benefit5.title": {
 		"message": "Bli känd",
 		"description": "Heading for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Krav",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Vad letar vi efter?",
