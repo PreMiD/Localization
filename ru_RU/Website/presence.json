@@ -7,10 +7,6 @@
 		"message": "Описание",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Изменение",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Информация",
 		"description": "The title of the information section."
