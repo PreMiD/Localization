@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Wys die waarde van die instelling.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -301,7 +301,8 @@ Hierdie koppelvlak het die volgende veranderlikes, wat almal opsioneel is.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definieer die volle duur.
         <br>Word gebruik as u wil wys hoeveel <code>ure:minute:sekondes</code> links.
-          <br>U moet u tyd omskakel na <code>tydstempel</code> of jy sal verkeerd wees countdown.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
