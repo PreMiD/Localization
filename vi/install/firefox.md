@@ -17,7 +17,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 6. Chọn tập tin bạn vừa tải.
 7. Chấp nhận việc cài đặt bằng cách bấm vào **thêm**.
 
-> Đừng quên [ tải **ứng dụng**](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 
