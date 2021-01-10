@@ -35,10 +35,6 @@
     "message": "مشارکت‌کنندگان",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "ورود",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "وارد شده به عنوان",
     "description": "Indicates which user is logged in"
