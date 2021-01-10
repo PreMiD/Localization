@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partnere",
-		"description": "Heading for page."
-	},
 	"partners.requirements.first.title": {
 		"message": "Hva ser vi etter?",
 		"description": "Heading for the first requirement."
@@ -22,10 +18,6 @@
 	"partners.apply.select.default": {
 		"message": "Vennligst velg en",
 		"description": "Select default placeholder."
-	},
-	"partners.apply.select.other": {
-		"message": "Andre",
-		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.button.close": {
 		"message": "Lukk",
