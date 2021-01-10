@@ -15,41 +15,9 @@
 		"message": "Начална страница",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "Сътрудници",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Downloads",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "магазин",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Партньори",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "За PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "Инсталация",
-		"description": "A page name"
-	},
 	"premid.pageInstallFor": {
 		"message": "Инсталация за {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Отстраняване на неизправности",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "Първи стъпки",
-		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
 		"message": "Разбира v{0} API",
