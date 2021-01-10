@@ -23,24 +23,12 @@
 		"message": "{0} decorrido(s)",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "A tocar",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Em direto",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "A procurar...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Vais adorar estas funcionalidades!",
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Encontre **sua** presença",
+		"message": "Encontra **sua** presença",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
@@ -78,10 +66,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Algo está avariado, enviando-lhe toneladas de erros ou simplesmente não funciona? Vamos ajudá-lo a livrar-se desses problemas no nosso servidor do Discord, também criamos o nosso próprio sistema de suporte que irá garantir que o problema fique resolvido o mais rápido possível.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Entra no nosso servidor de Discord",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Idioma do Site",
