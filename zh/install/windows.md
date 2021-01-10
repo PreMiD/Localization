@@ -1,7 +1,7 @@
 ---
 title: Windows
 description: 如何於Windows上安裝PreMiD
-published: 是
+published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
@@ -14,7 +14,7 @@ tags:
 1. 透過本[連結](https://premid.app/downloads)至我們的下載頁面
 2. 選擇**Windows**
 3. 開啟已下載之安裝程式
-4. 若這是您第一次安裝PreMiD，**Windows SmartScreen** 將會顯示 點選**更多資訊**並選擇**堅持執行** > 這是因為我們沒有程式簽章(CSC) [支持我們](https://www.patreon.com/Timeraa)來為它投資{.is-info}
+4. 若這是您第一次安裝PreMiD，**Windows SmartScreen** 將會顯示 點選**更多資訊**並選擇**堅持執行** > 這是因為我們沒有程式簽章(CSC) [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
 程式將會自動執行 檢查工作列中的符號
 
