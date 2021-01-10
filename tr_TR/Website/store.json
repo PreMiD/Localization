@@ -3,10 +3,6 @@
 		"message": "Eklenti bağlı değil.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Yapımcı",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Bu servis kullanıcılarımız tarafından çok tutuluyor.",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "Kategoriler",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Tümü",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Oyun",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Müzik",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
