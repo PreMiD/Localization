@@ -1,7 +1,7 @@
 ---
 title: Primi passi
 description: Un piccolo consiglio per coloro che di recente hanno iniziato a programmare
-published: vero
+published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
