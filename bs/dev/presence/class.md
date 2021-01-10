@@ -368,7 +368,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Deskripcija</th>
-      <th style="text-align:left">Tip</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
@@ -398,8 +398,8 @@ This interface has following variables, all of them are optional.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definira puno trajanje.
         <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>Morate pretvoriti svoje vrijeme u <code>timestamp</code> ili ćete pogrešno shvatiti
-           countdown.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
