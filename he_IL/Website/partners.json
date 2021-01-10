@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "שותפים",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "הצטרף למשפחה וקבל הטבות לשותפים בלבד כדי להראות כמה \"סוואג\" יש בך.",
 		"description": "Description for page."
@@ -174,14 +170,6 @@
 	"partners.apply.select.website": {
 		"message": "אתר",
 		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "אחר",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "שם",
-		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
