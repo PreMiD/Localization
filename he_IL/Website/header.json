@@ -35,10 +35,6 @@
     "message": "תורמים",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "התחברות",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "נכנסת בשם",
     "description": "Indicates which user is logged in"
