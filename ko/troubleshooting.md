@@ -4,7 +4,7 @@ description: 문제를 해결하기 위한 모든 것
 published: true
 date: 2021-01-03T14:12:34.320Z
 tags:
-editor: 마크다운
+editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
