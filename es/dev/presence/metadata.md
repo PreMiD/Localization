@@ -83,7 +83,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Debe contener un Object con <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name es tu nombre de usuario de Discord sin el identificador (#0000). El <code>id</code> de usuario puede copiarse de Discord habilitando el modo desarrollador y haciendo clic derecho en tu perfil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -102,9 +102,11 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left"><br>Destinado a ser utilizado para presences que tienen nombres distintos en idiomas diferentes (ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presences con caracteres especiales y así no tendrás que escribirlos (ej., Pokémon y Pokemon).</td>
+      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
+      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
@@ -122,7 +124,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Una cadena de expresión regular utilizada para coincidir con las urls.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
@@ -152,7 +154,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     <tr>
       <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array con etiquetas, ayudarán a los usuarios a buscar su presence en el sitio web.</td>
-      <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
@@ -165,25 +167,25 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Define si se utilizan <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Un selector de expresiones regulares que selecciona los iframes a inyectar.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Define si la extensión debe capturar llamadas a <code>console.log</code>.</td>
+      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ajustes</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Una variedad de configuraciones que el usuario puede cambiar</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Sí</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -240,7 +242,7 @@ PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de 
 
 ### `multiLanguage`
 
-#### Introducción
+#### Introduction
 
 La configuración `multiLanguage` se utiliza para permitir a los usuarios seleccionar manualmente el idioma en el que quieren mostrar la presence. Esto requiere que utilices las cadenas de nuestra [API](https://api.premid.app/v2/langFile/presence/en), para obtener información sobre cómo añadir cadenas haz clic [aquí](/dev/presence/metadata/adding-new-strings).
 
@@ -254,11 +256,11 @@ La opción `multiLanguage` puede establecerse a lo siguiente:
 
 #### Añadir nuevos strings
 
-##### Clonando el proyecto
+##### Cloning the project
 
 1. Abre una consola y escribe `git clone https://github.com/PreMiD/Localization`.
-2. Elija una carpeta de su elección.
-3. Ábrelo en tu editor de código.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ##### Creando el archivo
 
@@ -298,7 +300,7 @@ Las claves que no tenías que indicar se establecen automáticamente a lo siguie
 
 **Nota:** Estos no pueden ser cambiados de ningún modo.
 
-### Métodos
+### Methods
 
 Usa los siguientes métodos para obtener la información de los ajustes en tus archivos presence:
 #### `getSetting(String)`
@@ -329,7 +331,7 @@ Cuando haces tu Presence, debes especificar de que categoría es. Esta es una li
     <tr>
       <th style="text-align:left">Categoría</th>
       <th style="text-align:left">Nombre</th>
-      <th style="text-align:left">Descripción</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -340,27 +342,27 @@ Cuando haces tu Presence, debes especificar de que categoría es. Esta es una li
     </tr>
     <tr>
       <td style="text-align:left"><b>juegos</b></td>
-      <td style="text-align:left"><b>Juegos</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Cualquier sitio web que tenga contenido relacionado con juegos como <code>Kahoot</code> o <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>música</b></td>
-      <td style="text-align:left"><b>Música</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Estos son sitios web que ofrecen contenido relacionado con la música, ya sea streaming o descarga.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>sociales</b></td>
-        <td style="text-align:left"><b>Social</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Sitios web que se utilizan con el propósito de crear y compartir contenido o para participar en otras formas de redes sociales.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Vídeos y Transmisiones</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Sitios web que sirven con propósito de proporcionar videos y streams.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>otro</b></td>
-      <td style="text-align:left"><b>Otras</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Cualquier cosa que no caiga dentro de una categoría específica enumerada arriba.</td>
     </tr>
   </tbody>
