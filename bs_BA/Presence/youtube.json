@@ -23,10 +23,6 @@
         "message": "Čitanje o kanalu:",
         "description": ""
     },
-    "youtube.browsingThrough": {
-        "message": "Pregledavanje kroz",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
     "youtube.subscriptions": {
         "message": "njihove pretplate",
         "description": "Part two of \"Browsing through\""
