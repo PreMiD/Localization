@@ -3,10 +3,6 @@
         "message": "Läser tweet:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "Visar sina direktmeddelanden",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "Läser tweets av:",
         "description": ""
