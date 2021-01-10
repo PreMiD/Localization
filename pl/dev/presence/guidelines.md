@@ -1,14 +1,14 @@
 ---
 title: Wytyczne
 description: Reguły, których muszą przestrzegać wszyscy twórcy Presence, aby ich Presence zostały zaakceptowane.
-published: tak
+published: true
 date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Wytyczne
+# Guidelines
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Dla niektórych te ścisłe zasady mogą wydawać się surowe. However, the implementation of these rule sets will keep us and our users from running into issues.
 
@@ -136,11 +136,11 @@ Lista pól i ich zasad znajduje się poniżej:
 
 - The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`autor`**
+### **`author`**
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`współtwórcy`**
+### **`contributors`**
 
 - **Nie** dodawaj siebie jako współtwórce, ani nie dodawaj kogoś innego, dopóki nie pomógł w presence.
 
@@ -149,11 +149,11 @@ Lista pól i ich zasad znajduje się poniżej:
 - The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
-### **`alternatywne nazwy`**
+### **`altnames`**
 
 - **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`opis`**
+### **`description`**
 
 - **Wszystkie** presence **muszą** mieć angielski opis bez względu na preferowany język na stronie.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
@@ -163,7 +163,7 @@ Lista pól i ich zasad znajduje się poniżej:
 - The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`wersja`**
+### **`version`**
 
 - Zawsze upewnij się, że numer wersji spełnia [semantyczne standardy wersjonowania](https://semver.org), co przekłada się na następujący schemat: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - Wersja **musi** zawsze zaczynać się od `1.0.0`, inne wersje **nie** będą dozwolone.
@@ -182,7 +182,7 @@ Lista pól i ich zasad znajduje się poniżej:
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
-### **`tagi`**
+### **`tags`**
 
 - **Wszystkie** statusy muszą mieć przynajmniej _jeden_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
@@ -295,7 +295,7 @@ Kilka rzeczy, które powinieneś wiedzieć po otwarciu pull request:
 
 ## `Testy`
 
-![Testy](https://i.imgur.com/BCDZQe9.png)
+![Checks](https://i.imgur.com/BCDZQe9.png)
 
 Currently, a presence goes through 2 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
