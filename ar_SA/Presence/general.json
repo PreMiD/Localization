@@ -80,15 +80,15 @@
 		"description": ""
 	},
 	"general.readingChannel": {
-		"message": "يقرئ في القناة:",
+		"message": "جاري قراءة القناة:",
 		"description": ""
 	},
 	"general.readingPost": {
-		"message": "يقرئ المنشور:",
+		"message": "جاري قراءة منشور:",
 		"description": ""
 	},
 	"general.readingThread": {
-		"message": "يقرئ الموضوع:",
+		"message": "جاري قراءة موضوع:",
 		"description": ""
 	},
 	"general.reading": {
@@ -96,7 +96,7 @@
 		"description": ""
 	},
 	"general.searchFor": {
-		"message": "جار البحث عن:",
+		"message": "جاري البحث عن:",
 		"description": ""
 	},
 	"general.searchSomething": {
@@ -116,51 +116,51 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "يكتب في الرسائل المباشرة إلى:",
+		"message": "جاري الكتابة في الرسائل المباشرة إلى:",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "يكتب في هذه القناة:",
+		"message": "جاري الكتابة في القناة:",
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "يشاهد الأنمي:",
+		"message": "جاري مشاهدة أنمي:",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "يشاهد الفئة:",
+		"message": "جاري مشاهدة الفئة:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "يشاهد القناة:",
+		"message": "جاري مشاهدة القناة:",
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "يشاهد الحلقة:",
+		"message": "جاري مشاهدة الحلقة:",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "يشاهد النوع:",
+		"message": "جاري مشاهدة النوع:",
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "يشاهد الصفحة الرئيسية",
+		"message": "جاري مشاهدة الصفحة الرئيسية",
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "يشاهد قائمة من:",
+		"message": "جاري مشاهدة قائمة من:",
 		"description": ""
 	},
 	"general.viewManga": {
-		"message": "يشاهد المانغا:",
+		"message": "جاري مشاهدة المانغا:",
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "يشاهد العضو:",
+		"message": "جاري مشاهدة العضو:",
 		"description": ""
 	},
 	"general.viewMovie": {
-		"message": "يشاهد الفيلم:",
+		"message": "جاري مشاهدة الفيلم:",
 		"description": ""
 	},
 	"general.viewPlaylist": {
@@ -248,7 +248,7 @@
 		"description": "A page name"
 	},
 	"general.repeatAll": {
-		"message": "تكرار جميع الأغاني",
+		"message": "جاري تكرار جميع الأغاني",
 		"description": ""
 	},
 	"general.repeat": {

@@ -35,6 +35,10 @@
     "message": "Mitwirkende",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Einloggen",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Eingeloggt als",
     "description": "Indicates which user is logged in"

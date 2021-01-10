@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Rakan Kongsi",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "Sertai keluarga kami dan dapatkan faedah khusus rakan kongsi untuk menunjukkan betapa hebatnya anda.",
 		"description": "Description for page."
@@ -50,6 +54,10 @@
 	"partners.why.benefit5.description": {
 		"message": "Dipaparkan di media sosial kami.",
 		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Keperluan",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Apa yang kami cari?",
@@ -175,6 +183,14 @@
 		"message": "Laman sesawang",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "Lain-lain",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nama",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Cth: PreMiD",
 		"description": "Name field's placeholder."
@@ -210,6 +226,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "Mohon",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Terima kasih kerana memohon!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Sila lengkapkan kesemua medan.",

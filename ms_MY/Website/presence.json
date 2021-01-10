@@ -7,6 +7,14 @@
 		"message": "Keterangan",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "Log perubahan",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Maklumat",
+		"description": "The title of the information section."
+	},
 	"presence.sections.information.author": {
 		"message": "Penulis",
 		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
@@ -30,5 +38,9 @@
 	"presence.sections.information.supportedurls": {
 		"message": "URL disokong",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Penyumbang",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }

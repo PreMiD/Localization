@@ -23,6 +23,18 @@
 		"message": "{0} verstrichen",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
+	"home.examples.status.playing": {
+		"message": "Wiedergabe",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Stöbert...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.heading": {
 		"message": "Du wirst diese Funktionen lieben!",
 		"description": "Features section"

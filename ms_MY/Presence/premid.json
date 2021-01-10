@@ -15,16 +15,68 @@
 		"message": "Laman Utama",
 		"description": "A page name"
 	},
+	"premid.pageContributors": {
+		"message": "Penyumbang",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Muat Turun",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Kedai",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Rakan Kongsi",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Mengenai PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Keperluan Sistem",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Pemasangan",
+		"description": "A page name"
+	},
 	"premid.pageInstallFor": {
 		"message": "Pemasangan untuk {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Selesaikan masalah",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Mulakan",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
 		"message": "Memahami API v{0}",
 		"description": "A page name // {0} will be replaced with the version number."
 	},
+	"premid.pagePresenceDev": {
+		"message": "Pembangunan Presence",
+		"description": "A page name"
+	},
 	"premid.pagePresenceGuide": {
 		"message": "Garis Panduan Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Kelas Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Kelas Slideshow",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {

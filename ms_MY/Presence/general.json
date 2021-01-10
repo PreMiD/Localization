@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Melayari...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Bab",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "Genre",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Bahasa",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Mendengar muzik",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Pendengar",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Langsung",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "Membaca bebenang:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "Membaca",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Mencari:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "Mencari sesuatu...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "Mencari",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Troli membeli-belah",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Kedai",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -169,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "Melihat:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Melihat halaman:",
 		"description": ""
 	},
 	"general.watchingVid": {
