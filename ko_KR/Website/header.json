@@ -35,10 +35,6 @@
     "message": "도와주신 분들",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "로그인",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "로그인 계정:",
     "description": "Indicates which user is logged in"
