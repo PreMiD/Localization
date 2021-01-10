@@ -14,53 +14,5 @@
 	"premid.pageHome": {
 		"message": "الصفحة الرئيسية",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "المساهمون",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "التنزيلات",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "المتجر",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "الشركاء",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "حول PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "متطلبات النظام",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "تثبيت",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "استكشاف الأخطاء وإصلاحها\n \n ",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "الإبتداء",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "واجهة برمجة التطبيقات (API)",
-		"description": "A page name"
-	},
-	"premid.pagePresenceDev": {
-		"message": "تطوير الpresence",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "فئة الpresence",
-		"description": "A page name"
 	}
 }
