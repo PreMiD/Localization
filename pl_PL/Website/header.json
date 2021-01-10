@@ -35,10 +35,6 @@
     "message": "Współtwórcy",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Zaloguj",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Zalogowano jako",
     "description": "Indicates which user is logged in"
