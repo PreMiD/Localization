@@ -1,4 +1,8 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Kapitel",
 		"description": ""
@@ -169,6 +173,10 @@
 	},
 	"general.viewing": {
 		"message": "Betrachtet:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Betrachtet die Seite:",
 		"description": ""
 	},
 	"general.watchingVid": {
