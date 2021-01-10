@@ -1,7 +1,7 @@
 ---
 title: Classe Presence
 description: La classe principale pour chaque presence PreMiD
-published: oui
+published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
@@ -167,11 +167,11 @@ console.log(version); // Affichera 2.1.0
 Renvoie la valeur du paramètre.
 
 ```typescript
-const setting = wait presence.getSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
+const setting = await presence.getSetting("pdexID"); //Remplacer pdexID avec l'id du paramètre
 console.log(setting); // Cela enregistrera la valeur du paramètre
 ```
 
-### `masquer (chaîne de caractères)`
+### `hideSetting(String)`
 
 Masque le paramètre donné.
 
@@ -179,9 +179,9 @@ Masque le paramètre donné.
 presence.hideSetting("pdexID"); // Remplacer pdexID par l'id du paramètre
 ```
 
-### `montreParamètres(chaîne de caractères)`
+### `showSetting(String)`
 
-Affiche le paramètre spécifié (ne fonctionne que si le paramètre est déjà masqué).
+Affiche le paramètre spécifié (Ne fonctionne que si le paramètre est déjà masqué).
 
 ```typescript
 presence.showSetting("pdexID"); // Remplacer pdexID par l'id du paramètre
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** Le `String` donnée dans querySelector est un exemple.
+**Note:** La `String` donnée dans querySelector est un exemple.
 
 ### `timestampFromFormat(String)`
 
@@ -259,7 +259,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** Le `String` donnée dans querySelector est un exemple.
+**Note:** La `String` donnée dans querySelector est un exemple.
 
 ## Interface `PresenceData`
 
@@ -285,7 +285,7 @@ Les variables de cette interface sont les suivantes, toutes sont optionnelles.
     <tr>
       <td style="text-align:left">Etat</td>
       <td style="text-align:left">Deuxième ligne de votre présence.</td>
-      <td style="text-align:left"><code>Chaîne de caractères</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -303,26 +303,26 @@ Les variables de cette interface sont les suivantes, toutes sont optionnelles.
         <br>Utilisé si vous voulez afficher combien d'<code>heures:minutes:secondes</code> sont restante.
           <br>Vous devez convertir votre <code>timestamp</code> ou vous obtiendrez un compte à rebours erroné.
       </td>
-      <td style="text-align:left"><code>Numéros</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">clé d'image-grande</td>
       <td style="text-align:left">Définit le logo de la présence.</td>
-      <td style="text-align:left"><code>Chaîne de caractères</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">petite clé ImageKey</td>
       <td style="text-align:left">Définit la petite icône à côté du logo.</td>
-      <td style="text-align:left"><code>Chaîne de caractères</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Texte de petite image</td>
       <td style="text-align:left">Définit le texte qui sera affiché à l'utilisateur quand il survolera la petite icône
 .</td>
-      <td style="text-align:left"><code>Chaîne de caractères</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
@@ -352,7 +352,7 @@ presence.on("UpdateData", async () => {
 
 Il y a peu d'événements disponibles:
 
-#### `Mettre à jour les données`
+#### `UpdateData`
 
 Cet événement est déclenché chaque fois que la présence est mise à jour.
 
