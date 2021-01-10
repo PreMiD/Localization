@@ -4,7 +4,7 @@ description: A little helper for TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
-editor: 마크다운
+editor: markdown
 ---
 
 # TypeScript Configuration
