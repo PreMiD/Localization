@@ -42,7 +42,7 @@ When setting `appMode` to `true` and the presence were to send an empty `Presenc
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Geçerli durumun bilgisini içeren `PresenceData` verisi döner.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
@@ -54,7 +54,7 @@ First parameter requires a [`PresenceData`](#presencedata-interface) interface o
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Gözüken verileri ve menü çubuğu yazısını temizler.
 
 ### `setTrayTitle(String)`
 
@@ -164,7 +164,7 @@ console.log(version); // 2.1.0 kaydeder
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Bir ayarın değerini döner.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -173,7 +173,7 @@ console.log(setting); // This will log the value of the setting
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Belirtilen ayarı gizler.
 
 ```typescript
 presence.hideSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
