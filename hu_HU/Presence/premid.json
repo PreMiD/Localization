@@ -15,45 +15,9 @@
 		"message": "Főoldal",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "Közreműködők",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Letöltések",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Áruház",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Partnerek",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "PreMiD névjegye",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "Rendszerkövetelmények",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "Telepítés",
-		"description": "A page name"
-	},
 	"premid.pageInstallFor": {
 		"message": "Telepítés {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Hibaelhárítás",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
 		"message": "A v{0} API megértése",
@@ -61,10 +25,6 @@
 	},
 	"premid.pagePresenceGuide": {
 		"message": "Presence Irányelvek",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Presence Osztály",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
