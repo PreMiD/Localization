@@ -17,7 +17,7 @@ L'installation de l'extension est très importante car l'application ne peut rie
 6. Sélectionnez le fichier que vous avez téléchargé récemment.
 7. Acceptez l'installation en cliquant sur **Ajouter**.
 
-> Do not forget to [add the **application**](/install). 
+> N'oubliez pas [d'ajouter **l'application**](/install). 
 > 
 > {.is-warning}
 
