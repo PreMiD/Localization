@@ -1,14 +1,1 @@
-{
-	"twitch.downloads": {
-		"message": "下载",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "合作伙伴",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "首页",
-		"description": "Page name"
-	}
-}
+{}
