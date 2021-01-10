@@ -14,53 +14,5 @@
 	"premid.pageHome": {
 		"message": "Domovská stránka",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "Přispěvatelé",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Stáhnout",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Obchod",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Partneři",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "O PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "Systémové požadavky",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "Instalace",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Řešit Problémy",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "Začínáme",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
-	},
-	"premid.pagePresenceDev": {
-		"message": "Vývoj přítomnosti",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Třída Presence",
-		"description": "A page name"
 	}
 }
