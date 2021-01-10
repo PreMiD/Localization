@@ -6,14 +6,14 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Innan du går vidare, se till att ditt system uppfyller alla [krav](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-Installationen av programmet är mycket viktigt eftersom tillägget inte kan göra något av sig själv.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Installera
-1. Gå till vår nedladdningssida genom att [klicka här](https://premid.app/downloads).
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Välj **OS X**.
 3. Extrahera arkivet vid behov.
 4. Öppna installationsprogrammet.
