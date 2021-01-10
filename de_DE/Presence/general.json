@@ -3,6 +3,10 @@
 		"message": "Anime",
 		"description": ""
 	},
+	"general.browsing": {
+		"message": "Durchstöbert...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Kapitel",
 		"description": ""
@@ -27,12 +31,20 @@
 		"message": "Genre",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Sprache",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Hört Musik",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Zuhörer",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Live",
 		"description": ""
 	},
 	"general.manga": {
@@ -79,6 +91,10 @@
 		"message": "Liest Thread:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "liest",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Suchen nach:",
 		"description": ""
@@ -87,8 +103,16 @@
 		"message": "Etwas suchen...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "sucht",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Warenkorb",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Store",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -188,7 +212,7 @@
 		"description": "For privacy reasons (\"A\" video, as in not specified)"
 	},
 	"general.waitingVidThe": {
-		"message": "Warten auf die Premiere des Videos",
+		"message": "Wartet auf die Premiere des Videos",
 		"description": "\"the\" video, as in the video title is specified)"
 	},
 	"general.watchingLive": {
@@ -196,7 +220,7 @@
 		"description": ""
 	},
 	"general.waitingLive": {
-		"message": "Warte auf den Start eines Livestreams",
+		"message": "Wartet auf den Start eines Livestreams",
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
 	},
 	"general.waitingLiveThe": {
