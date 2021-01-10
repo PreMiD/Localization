@@ -23,18 +23,6 @@
 		"message": "{0} uplynulo",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Přehrává",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Živě",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Prochází...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Tyto funkce se ti budou líbit!",
 		"description": "Features section"
@@ -78,10 +66,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Něco se rozbilo, zasílá tisíce chyb nebo prostě nefunguje? Pomůžeme vám se zbavit těchto problémů na našem Discord serveru, dokonce jsme vytvořili náš vlastní systém podpory, který zajistí, že se tvůj problém vyřeší co nejdříve.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Připojte se k našemu Discordu",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Jazyk webové stránky",
