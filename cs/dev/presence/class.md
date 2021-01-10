@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Vrátí hodnotu nastavení.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -285,7 +285,7 @@ Toto rozhraní má následující proměnné, žádná z nich není povinná.
     <tr>
       <td style="text-align:left">stav</td>
       <td style="text-align:left">Druhý řádek ve vaší presence.</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -302,29 +302,29 @@ Toto rozhraní má následující proměnné, žádná z nich není povinná.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definuje dobu trvání.
         <br>Používá se, pokud chcete zobrazit kolik <code>hodin:minut:sekund</code> zbývá.
-          <br>Aby odpočítávání fungovalo správně, musí být čas nejprve
-          převeden na <code>timestamp</code>.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Číslo</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Definuje logo pro presenci.</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Určuje malou ikonu vedle loga&apos;s.</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Malý obrázek</td>
       <td style="text-align:left">Definuje text, který se zobrazí uživateli, když se dotkne malé ikony
 .</td>
-      <td style="text-align:left"><code>Řetězec</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
