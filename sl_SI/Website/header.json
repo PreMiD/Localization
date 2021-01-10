@@ -35,10 +35,6 @@
     "message": "Sodelavci",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Vpis",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Prijavljen(a) kot",
     "description": "Indicates which user is logged in"
