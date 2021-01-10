@@ -35,10 +35,6 @@
     "message": "Учасники проекту",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Увійти",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Авторизовано як",
     "description": "Indicates which user is logged in"
