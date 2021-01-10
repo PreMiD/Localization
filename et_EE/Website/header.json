@@ -35,10 +35,6 @@
     "message": "Abilised",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Sisselogimine",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Logitud sisse kui",
     "description": "Indicates which user is logged in"
