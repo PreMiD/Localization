@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Ôi không!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.heading": {
 		"message": "Thật đáng tiếc, chúng tôi đang gặp một số trục trặc kỹ thuật. Chúng tôi sẽ trở lại trong thời gian ngắn. Xin lỗi vì sự bất tiện này.",
 		"description": "Heading on maintenance page"
