@@ -253,7 +253,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Voir regExp pour plus d'informations.</td>
+      <td style="text-align:left">Un sélecteur d'expression régulière qui sélectionne les iframes à injecter. Voir regExp pour plus d'informations.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
@@ -273,7 +273,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Nous avons fait un créateur de fichier `metadata.json` pour les mecs paresseux [ici](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Pour commencer
 
@@ -400,8 +400,8 @@ Le site Web sur lequel vous développez est automatiquement rechargé chaque foi
 
 # Explications des fichiers
 
-- [Presence Class](/dev/presence/class)
+- [Classe de la Presence](/dev/presence/class)
 - [Classe du Slideshow](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Classe de l'iFrame](/dev/presence/iframe)
 - [Fichier de métadonnées](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Configuration de TypeScript](/dev/presence/tsconfig ""){.links-list}

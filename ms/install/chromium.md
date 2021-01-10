@@ -8,7 +8,7 @@ tags:
 
 Pemasangan sambungan amat penting kerana aplikasi tidak mampu membuat apa-apa dengan sendirinya.
 
-# Install
+# Pasang
 ### Chrome, Edge, dll.
 1. Pergi ke halaman muat turun kami dengan [mengklik di sini](https://premid.app/downloads).
 2. Pilih **Chromium**.
