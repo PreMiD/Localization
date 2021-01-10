@@ -9,7 +9,7 @@ editor: markdown
 
 # TypeScript Configuration
 
-## Εισαγωγή
+## Introduction
 
 When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
@@ -36,7 +36,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property                   | Περιγραφή                                                                                                                                                           |
+| Property                   | Description                                                                                                                                                         |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
 | module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
@@ -61,7 +61,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Περιγραφή                                                                              |
+| Property            | Description                                                                            |
 |:------------------- |:-------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
 | **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
