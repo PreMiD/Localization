@@ -7,10 +7,6 @@
 		"message": "Ciri-ciri",
 		"description": "Introduction button"
 	},
-	"home.introduction.button.downloads": {
-		"message": "Muat Turun",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
 	"home.examples.playingagame": {
 		"message": "Bermain permainan",
 		"description": "Discord Rich Presence -> Playing a game"
@@ -22,18 +18,6 @@
 	"home.examples.timestamp2": {
 		"message": "{0} berlalu",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "Memainkan",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Langsung",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Melayari...",
-		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
 		"message": "Anda akan suka ciri ini!",
@@ -78,10 +62,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Ada sesuatu terglic, memberikan banyak ralat atau langsung tidak berfungsi? Kami akan bantu anda hapuskan isu tersebut di pelayan Discord kami, kami juga cipta sistem sokongan kami sendiri yang akan pastikan isu anda diselesaikan secepat mungkin.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Sertai Discord kami",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Bahasa laman sesawang",
