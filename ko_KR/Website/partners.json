@@ -1,22 +1,10 @@
 {
-	"partners.header.title": {
-		"message": "파트너",
-		"description": "Heading for page."
-	},
 	"partners.sponsors.title": {
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
 	},
-	"partners.apply.select.other": {
-		"message": "기타",
-		"description": "Select 'Other' category."
-	},
 	"partners.apply.form.link": {
 		"message": "링크",
 		"description": "Link field."
-	},
-	"partners.apply.success": {
-		"message": "지원해주셔서 감사합니다!",
-		"description": "Success message when applying."
 	}
 }
