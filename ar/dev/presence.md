@@ -1,7 +1,7 @@
 ---
 title: تطوير الpresence
 description:
-published: صحيح
+published: true
 date: 2020-12-26T15:02:54.817Z
 tags:
 editor: markdown
@@ -18,24 +18,24 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-warning}
 
-- [الإرشادات](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # الهيكل
 
 كل الpresences مبرمجة علي [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) لديها بعض التعاريف الإضافية على جافا سكريبت، لذلك فإن إصلاح وتحديد الأخطاء أسهل بكثير.
 
-## تثبيت
+## Installation
 
-1. قم بتثبيت [ Git ](https://git-scm.com/).
-2. تثبيت [ Node ](https://nodejs.org/en/) (يأتي مع [ npm ](https://www.npmjs.com/)).
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. قم بتثبيت [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (افتح محطة و ` npm install -g typescript `).
 
-## استنساخ المشروع
+## Cloning the project
 
 1. قم بفتح لوحة التحكم و اكتب `git clone https://github.com/PreMiD/Presences`.
-2. اختيار مجلد من اختيارك.
-3. افتح علي محرر الكود الخاص بك.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ## إنشاء المجلدات والملفات
 
@@ -127,63 +127,63 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 الرجاء نسخ الكود أعلاه ووضعه في ملف `metadata.json`. تحتاج الآن إلى تعديل قيم الخصائص. يرجى ملاحظة أن الخصائص التالية اختيارية للحصول عليها في ملف `metadata.json` الخاص بك، إذا كنت لا تخطط لاستخدامهم تحتاج إلى إزالتهم.
 
-- `المساهمون`
-- `أسماء`
+- `contributors`
+- `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `الإعدادات`
+- `settings`
 
 **توضيح بعض قيم الخصائص:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">متغير</th>
-      <th style="text-align:left">الوصف</th>
-      <th style="text-align:left">النوع</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>المطور</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>المساهمون</b></td>
-      <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>نعم</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>خدمة</b></td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">إسم الخدمة التي يدعمها هذا الpresence.<br>
       (يجب أن يكون نفس اسم المجلد حيث يوجد كل شيء)</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>أسماء</b></td>
+      <td style="text-align:left"><b>altnames</b></td>
       <td style="text-align:left">كن قادر على البحث عن الpresence باستخدام اسم بديل. <br>
       من المفترض أن تُستخدم في الpresences التي لها أسماء مختلفة بلغات مختلفة (مثل بوكيمون و 포켓 몬스터). <br>
       يمكنك أيضًا استخدامه للpresences التي تحتوي على أحرف خاصة حتى لا تضطر إلى كتابتها (مثل Pokémon و Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>نعم</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الوصف</b></td>
-      <td style="text-align:left">وصف صغير للpresence، يمكنك استخدام وصف الخدمة إذا لم تكن لديك فكرة. يجب أن يحتوي الوصف الخاص بك على قيم أزواج رئيسية تشير إلى اللغة، والوصف في تلك اللغة المحددة. اصنع وصفاً باللغات <i>التي تعرفها</i>، سوف يقوم مترجمونا بإجراء تغييرات على ملف البيانات الوصفية الخاص بك.</td>
+      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left">وصف صغير للpresence، يمكنك استخدام وصف الخدمة إذا لم تكن لديك فكرة. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>رابط</b></td>
+      <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">عنوان URL الخاص بالموقع.<br><b>مثال:</b><code>vk.com</code><br>
       <b>يجب أن يتطابق عنوان URL هذا مع عنوان URL الخاص بالموقع حيث سيكتشف ما إذا كان هذا هو موقع الويب الذي سيتم حقن السكريبت فيه أم لا.</b><br><b>لا</b> تضف <code>https://</code> أو <code>http://</code> داخل عنوان URL ولا سلاش في النهاية:
       <code>https://premid.app/</code> -> <code>premid.com</code><br>
@@ -191,7 +191,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
       يمكنك إضافة عناوين URL متعددة بالقيام بالتالي:<br>
       <code>["URL1", "URL2", "إلخ."]</code><br>
       يمكنك أيضا إستخدام regExp معروف أيضا بRegex لهذه المهمة، مع المزيد من التوضيح أدناه.</td>
-      <td style="text-align:left"><code>السلسلة، الأصطفاف&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
@@ -204,75 +204,75 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>نص</code></td>
-      <td style="text-align:left"><code>نعم</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الإصدار</b></td>
-      <td style="text-align:left">نسخة من حضورك.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الشعار</b></td>
-      <td style="text-align:left">رابط الخدمة&apos;لـ شعار</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><b>logo</b></td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>صورة المصغرة</b></td>
-      <td style="text-align:left">رابط للصورة المصغره لالpresence الخاص بك.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><b>thumbnail</b></td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>لون</b></td>
-      <td style="text-align:left">قيمة <code>#HEX</code>. نوصي باستخدام لون أساسي من الخدمة
-        التي يدعمها وجودك.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><b>color</b></td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>التصنيفات</b></td>
-      <td style="text-align:left">مصفوفة مع العلامات، ستساعد المستخدمين على البحث عن وجودك على الموقع.</td>
-      <td style="text-align:left"><code>السلسلة، الأصطفاف&lt;String&gt;</code></td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الفئة</b></td>
-      <td style="text-align:left">وتندرج تحت هذا البند سلسلة تستخدم لتمثيل الفئة التي يوجد فيها. مشاهدة الأخاديد الصالحة <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">هنا</a>.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. مشاهدة الأخاديد الصالحة <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">هنا</a>.</td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
-      <td style="text-align:left"><code>قيمة منطقية</code></td>
-      <td style="text-align:left"><code>نعم</code></td>
+      <td style="text-align:left"><code>Boolean</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">محدد تعبير عادي يحدد إطارات ifram للحقن. انظر regExp لمزيد من المعلومات.</td>
-      <td style="text-align:left"><code>نص</code></td>
-      <td style="text-align:left"><code>نعم</code></td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. انظر regExp لمزيد من المعلومات.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>نص</code></td>
-      <td style="text-align:left"><code>نعم</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الإعدادات</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">مجموعة من الإعدادات التي يمكن للمستخدم تغييرها.<br>
       اقرأ المزيد حول إعدادات الحضور <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">هنا</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>نعم</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
 
-لقد صنعنا منشئ ملف `metadata.json` للكسلة [هنا](https://eggsy.xyz/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## ابدء
 
@@ -399,8 +399,8 @@ The website you are developing on is automatically reloading every time you save
 
 # الملفات الموضحة
 
-- [فئة الpresence](/dev/presence/class)
+- [Presence Class](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
-- [فئة iFrame](/dev/presence/iframe)
+- [iFrame Class](/dev/presence/iframe)
 - [ملف بيانات التعريف](/dev/presence/metadata)
-- [إعدادات TypeScript](/dev/presence/tsconfig ""){.links-list}
+- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
