@@ -23,18 +23,6 @@
 		"message": "已经过了 {0}",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "正在播放",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "直播",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "浏览中...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "你会爱上这些功能！",
 		"description": "Features section"
@@ -78,10 +66,6 @@
 	"home.features.quickSupport.description": {
 		"message": "成吨的错误向你袭来？加入我们的 Discord 服务器来取得帮助。我们还在服务器中建立了我们自己的工单系统，确保你的问题尽快得到解决！",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "加入我们的 Discord 服务器",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "语言",
