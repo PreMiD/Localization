@@ -71,10 +71,6 @@
 		"message": "Ok",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
-	"downloads.button.done": {
-		"message": "Valmis",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.button.login": {
 		"message": "Sisselogimine",
 		"description": "Login button on the downloads page."
