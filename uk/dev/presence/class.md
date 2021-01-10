@@ -285,7 +285,7 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
     <tr>
       <td style="text-align:left">положення</td>
       <td style="text-align:left">Другий рядок у вашій присутності.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -302,29 +302,29 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Визначає всю тривалість.
         <br>Використовується для відображення скільки <code>годин:хвилин:секунд</code>.
-          <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
-.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Номер</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Визначає логотип для присутності.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">маленький ключ зображення</td>
       <td style="text-align:left">Визначає маленьку іконку поруч з присутністю&apos;s логотип.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Визначає текст, який буде відображатися користувачеві, коли він буде наводитись до малої піктограми
 .</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
@@ -354,7 +354,7 @@ presence.on("UpdateData", async () => {
 
 Є мало доступних подій:
 
-#### `Оновлення даних`
+#### `UpdateData`
 
 Ця подія вистрілюється щоразу, коли присутність оновлюється.
 
