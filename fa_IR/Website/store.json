@@ -3,10 +3,6 @@
 		"message": "افزونه متصل نشده.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "سازنده",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "این Presence درمیان کاربران خیلی محبوب است.",
 		"description": "Presence card popular flame"
@@ -58,30 +54,6 @@
 	"store.category.heading": {
 		"message": "دسته‌‎بندی‎ها",
 		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "همه",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "بازی‌ها",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "موسیقی",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "شبکه های اجتماعی",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "ویدیو ها و پخش های زنده",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "ديگر",
-		"description": "Category at the top"
 	},
 	"store.search": {
 		"message": "جستجو",
