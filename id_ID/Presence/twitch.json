@@ -1,18 +1,6 @@
 {
-	"twitch.downloads": {
-		"message": "Unduhan",
-		"description": "Page name"
-	},
 	"twitch.turbo": {
 		"message": "Turbo",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Mitra",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Beranda",
 		"description": "Page name"
 	},
 	"twitch.esports": {
@@ -50,10 +38,6 @@
 	"twitch.redeem": {
 		"message": "Menukar kode...",
 		"description": ""
-	},
-	"twitch.viewTheir": {
-		"message": "Melihat mereka",
-		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
 		"message": "Analisis Channel",
