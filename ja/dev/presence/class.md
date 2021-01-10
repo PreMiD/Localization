@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-設定の値を返します。
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -301,7 +301,8 @@ presenceData.endTimestamp = timestamps[1];
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">全体の長さを指定します
         <br><code>hours:minutes:seconds</code> の形式で残り時間を表示するのに使用します
-          <br>時間を <code>timestamp</code> に変換しなければ、誤った時間が表示されます
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
