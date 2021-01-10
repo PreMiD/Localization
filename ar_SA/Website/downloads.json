@@ -103,9 +103,17 @@
 		"message": "رجوع",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "إلغاء",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "حسنا",
 		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "تم الإنجاز",
+		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "تسجيل الدخول",
