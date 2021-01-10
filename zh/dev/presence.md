@@ -1,5 +1,5 @@
 ---
-title: Presence 开发
+title: Presence Development
 description:
 published: true
 date: 2020-12-26T15:02:54.817Z
@@ -8,36 +8,36 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> 所有存在现在都存储在这里：https://github.com/PreMiD/Presences 
+> 所有Discord自定義狀態商店都在這裡: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-版本 `2.x` 介绍了 [存在商店](https://premid.app/store)。 用户现在可以通过 [网站](https://premid.app/) 的用户界面手动添加和移除他们最喜欢的存在。
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
 > Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
 > {.is-warning}
 
-- [准则](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# 目录结构
+# 結構
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## 安装
+## Installation
 
 1. Install [Git](https://git-scm.com/).
-2. 安装 [节点](https://nodejs.org/en/) (带有 [npm](https://www.npmjs.com/)).
-3. 安装 [TypeScript](https://www.typescriptlang.org/index.html#download-links) （打开您的终端，然后输入：`npm install -g typescript`）
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## 克隆项目
+## Cloning the project
 
-1. 打开个终端，然后在输入: `git clone https://github.com/PreMiD/Presences`
-2. 选择一个文件夹。
-3. 使用您的代码编辑器打开他。
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
-## Creating folders and files
+## 創建資料夾和文件
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
@@ -127,46 +127,46 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `贡献者`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `设置`
+- `settings`
 
 **Clarifying some value presets:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">变量</th>
-      <th style="text-align:left">描述</th>
-      <th style="text-align:left">类型</th>
-      <th style="text-align:left">可选的</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>作者</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. 名称是您的 Discord 用户名，但没有标识符(#0000)。 用户 <code>id</code> 可以通过启用开发者
-        模式和右键点击您的配置文件而从Discord复制.</td>
-      <td style="text-align:left"><code>对象</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>贡献者</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. 名称是您的 Discord 用户名，但没有标识符(#0000)。 用户 <code>id</code> 可以通过启用开发者
-        模式和右键点击您的配置文件而从Discord复制.</td>
-      <td style="text-align:left"><code>数组&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>服务</b></td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
@@ -174,16 +174,16 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>描述</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. 您的描述必须有关键值显示语言以及该特定语言的描述。 Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
-      <td style="text-align:left"><code>对象</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>网址</b></td>
+      <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
       <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
@@ -191,8 +191,8 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       You can add multiple URLs by doing the following:<br>
       <code>["URL1", "URL2", "ETC."]</code><br>
       You could also use regExp also known as Regex for this task, explained further below.</td>
-      <td style="text-align:left"><code>字符串，数组&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
@@ -204,77 +204,77 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>版本</b></td>
-      <td style="text-align:left">您的存在版本。</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>徽标</b></td>
-      <td style="text-align:left">链接到服务&apos;s 标识符。</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><b>logo</b></td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">链接到您的缩略图</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>颜色</b></td>
-      <td style="text-align:left"><code>#十六进制</code> 值。 我们建议使用您的存在所支持的服务
-        的主要颜色。</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><b>color</b></td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>标签</b></td>
-      <td style="text-align:left">带有标签的数组将帮助用户搜索您在网站上的存在。</td>
-      <td style="text-align:left"><code>字符串，数组&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>类别</b></td>
-      <td style="text-align:left">用于表示存在的类别的字符串。 See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">选择要注入的 iframes 的正则表达式选择器。 See regExp for more info.</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>字符串</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>设置</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
-      <td style="text-align:left"><code>数组&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>否</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## 入门指南
+## Getting started
 
 ```typescript
 const presence = new Presence({
@@ -379,28 +379,28 @@ presence.on("iFrameData", (data) => {
 
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Loading the presence
+# 載入自定義狀態
 
 1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# Some helpful things
+# 一些對你有幫助的東西
 
 ## Hot-reloading
 
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## Debugging
+## 除錯
 
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Files explained
 
-- [Presence 类](/dev/presence/class)
+- [Presence Class](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
-- [iFrame类](/dev/presence/iframe)
-- [元数据文件](/dev/presence/metadata)
-- [TypeScript 配置](/dev/presence/tsconfig ""){.links-list}
+- [iFrame Class](/dev/presence/iframe)
+- [Metadata File](/dev/presence/metadata)
+- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
