@@ -47,10 +47,6 @@
 		"message": "Hjelp",
 		"description": "Help section"
 	},
-	"footer.help.troubleshooting": {
-		"message": "Feilsøking",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.getsupport": {
 		"message": "Få hjelp",
 		"description": "Get Support -> redirects to Discord invite"
