@@ -74,7 +74,7 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variabel</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Beskrivning</th>
       <th style="text-align:left">Typ</th>
       <th style="text-align:left">Valfri</th>
@@ -90,16 +90,16 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
     </tr>
     <tr>
       <td style="text-align:left"><b>medverkande</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Namnet är ditt Discord-användarnamn utan identifieraren (#0000). User <code>id</code> kan kopieras från Discord genom att aktivera utvecklarläget
-        och högerklicka på din profil.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tjänst</b></td>
       <td style="text-align:left">Titeln på tjänsten som denna närvaro stödjer.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
@@ -107,13 +107,13 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>beskrivning</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Din beskrivning måste innehålla nyckelparvärden som anger språket, och beskrivningen i det specifika språket. Gör beskrivningar med språken <i>som du känner</i>, våra översättare kommer att göra ändringar i din metadatafil. View the category for presence languages for a list. </td>
-      <td style="text-align:left"><code>Objekt</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>URL</b></td>
@@ -121,74 +121,74 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
       <td style="text-align:left"><code>Sträng, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version av din närvaro.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logotyp</b></td>
       <td style="text-align:left">Länk till service&apos;s logotyp.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Länka till din närvaro miniatyr.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>färg</b></td>
       <td style="text-align:left"><code>#HEX</code> värde. Vi rekommenderar att använda en primär färg på tjänsten
         som din närvaro stöder.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>taggar</b></td>
       <td style="text-align:left">Array med taggar, kommer de att hjälpa användare att söka din närvaro på webbplatsen.</td>
-      <td style="text-align:left"><code>Sträng, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Kategori</b></td>
       <td style="text-align:left">En sträng som används för att representera kategorin närvaron faller under.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Anger om <code>iFrames</code> används</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">En reguljära uttrycksväljare som väljer iframes att injicera i.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>Sträng</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>inställningar</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -245,7 +245,7 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### Introduktion
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,10 +259,10 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Klonar projektet
+##### Cloning the project
 
 1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
-2. Välj en mapp som du väljer.
+2. Choose a folder of your choice.
 3. Open it in your code editor.
 
 ##### Creating the file
@@ -303,7 +303,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Metoder
+### Methods
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
@@ -334,7 +334,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <th style="text-align:left">Kategori</th>
       <th style="text-align:left">Namn</th>
-      <th style="text-align:left">Beskrivning</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -345,27 +345,27 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>spel</b></td>
-      <td style="text-align:left"><b>Spel</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Alla webbplatser som har spelrelaterat innehåll, som <code>Kahoot</code> eller <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musik</b></td>
-      <td style="text-align:left"><b>Musik</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Detta är webbplatser som erbjuder musikrelaterat innehåll, oavsett om det är streaming eller nedladdning.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socialt</b></td>
-        <td style="text-align:left"><b>Socialt</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Webbplatser som används för att skapa och dela innehåll eller för att delta i andra former av socialt nätverk.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videor</b></td>
-        <td style="text-align:left"><b>Videor & Streams</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Webbplatser som tjänar syftet att tillhandahålla videor och strömmar.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>annat</b></td>
-      <td style="text-align:left"><b>Annat</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Allt som inte faller under en specifik kategori som anges ovan.</td>
     </tr>
   </tbody>
