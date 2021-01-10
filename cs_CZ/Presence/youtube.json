@@ -27,14 +27,6 @@
         "message": "Prohledává kanál {0} pro:",
         "description": "{0} will be replaced with the channel name"
     },
-    "youtube.trending": {
-        "message": "Zobrazení co je populární",
-        "description": ""
-    },
-    "youtube.browsingThrough": {
-        "message": "Prohlížení",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
     "youtube.subscriptions": {
         "message": "jejich odběry",
         "description": "Part two of \"Browsing through\""
@@ -53,10 +45,6 @@
     },
     "youtube.reportHistory": {
         "message": "Prohlíží si jejich historii nahlášení",
-        "description": ""
-    },
-    "youtube.upload": {
-        "message": "Nahrávám něco...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -94,10 +82,6 @@
     "youtube.studio.videoTranslations": {
         "message": "Kouká na překlady videa:",
         "description": ""
-    },
-    "youtube.studio.viewTheir": {
-        "message": "Zobrazení jejich",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "analytiku kanálu",
