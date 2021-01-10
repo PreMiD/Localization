@@ -3,10 +3,6 @@
 		"message": "תוסף לא מחובר.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "מחבר",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "ה Presence מאוד פופולארי בקרבת משתמשים.",
 		"description": "Presence card popular flame"
@@ -39,16 +35,8 @@
 		"message": "קטגוריות",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "הכל",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "משחקים",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "מוזיקה",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
