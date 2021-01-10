@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "التعديل:",
+		"message": "جاري تعديل:",
 		"description": ""
 	},
 	"general.episode": {
@@ -36,7 +36,7 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "الاستماع إلى الموسيقى",
+		"message": "جاري الاستماع إلى الموسيقى",
 		"description": ""
 	},
 	"general.listeners": {
@@ -68,15 +68,15 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "قراءة الرسائل المباشرة من:",
+		"message": "جاري قراءة رسالة مباشرة من:",
 		"description": ""
 	},
 	"general.readingAbout": {
-		"message": "يقرئ عن:",
+		"message": "جاري القراءة حول:",
 		"description": ""
 	},
 	"general.readingArticle": {
-		"message": "يقرئ المقال:",
+		"message": "جاري قراءة مقال:",
 		"description": ""
 	},
 	"general.readingChannel": {
@@ -257,6 +257,10 @@
 	},
 	"general.incidentHistory": {
 		"message": "سجل الحادثة",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "سجل مدة التشغيل",
 		"description": "A page name of statuspages"
 	}
 }
