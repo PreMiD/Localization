@@ -18,12 +18,12 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 
 - **[Perihalan](#about)**
   - [Statistik](#stats)
-  - [Keperluan](#requirements)
+  - [Requirements](#requirements)
   - Contoh (akan datang)
   - Soalan Lazim (akan datang)
   - Cara Bina (akan datang)
   - [Sokongan](#support)
-  - [Penghargaan](#credits)
+  - [Credits](#credits)
   - [Lesen](#license)
 - **[Snapcraft](#snapcraft)** (Rumusan : _tidak akan wujud_ ™️)
 - **[AppImage Mudah Alih](#appimage)** (_DISYORKAN_)
@@ -35,13 +35,13 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 
 <a name="about"></a>
 
-## Perihalan
+## About
 
 **PreMiD** ialah utiliti yang mudah, mampu ditatarajah yang menggunakan pustaka RP (Rich Presence) milik Discord yang membolehkan anda menunjukkan apa anda buat di sesawang (dan beberapa atur cara lain) ke dalam profil Discord anda sebagai **status main**.
 
 <a name="stats"></a>
 
-### Statistik
+### Stats
 
 <table>
   <tr>
@@ -52,13 +52,13 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Semua terbitan"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Terbitan terbaru"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Terbitan Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Terbitan Github"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Keperluan
+### Requirements
 
 Secara teknikalnya semua edaran yang mampu menjalankan **aplikasi** [rasmi](https://discordapp.com/download) Discord ( bukan versi web atau snap ) juga boleh menjalankan PreMiD;</br> Seperti yang anda perasan dalam tahun kebelakangan ini, sesetengah edaran Linux mula menamatkan sokongan seni bina 32-bit (ia32/i686/i386/x86), dan oleh sebab itu, kami pun membuat perkara yang sama. Namun begitu, anda boleh cuba membina aplikasi ini sendiri jika anda amat perlu menggunakannya di edaran 32-bit.</br> Oleh kerana kami menggunakan Electron sebagai enjinnya ketika ini (Discord pun sama!), keperluannya juga terpakai untuk aplikasi ini:
 
@@ -70,17 +70,17 @@ Kami tidak tahu sama ada versi lama edaran lain menyokongnya atau tidak, jadi se
 
 <a name="support"></a>
 
-### Sokongan
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Sertai Discord kami!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Sertai Discord kami!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Penghargaan
+### Credits
 
 Terima kasih kepada :
 
@@ -92,7 +92,7 @@ Terima kasih kepada :
 
 <a name="license"></a>
 
-### Lesen
+### License
 
 [![Status FOSSA](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ Pakej AppImage adalah disyorkan sekiranya Discord berfungsi untuk anda tetapi pa
 
 <a name="appimageinstall"></a>
 
-### Arahan pemasangan
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Nota tambahan
+### Additional notes
 
 Sama ada anda ingin cuba PreMiD sahaja atau cuma tidak ingin memasangnya, yang inilah yang terbaik, ia akan sentiasa dikemas kini tetapi _IA TIDAK DIMULAKAN SECARA AUTOMATIK BERSAMA SISTEM!_</br>Jika anda rasa penat untuk membukanya secara manual setiap kali, gunakan pakej yang lain (mengikut edaran anda).
 
@@ -146,13 +146,13 @@ Jika perintah tidak berfungsi, muat turun fail **deb/rpm** dari repo PackageClou
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Edaran berasaskan Arch Linux
+## Arch Linux based distributions
 
 Menggunakan [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Edaran yang disokong ialah _dirinya sendiri_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS dan [semua edaran yang menyokong pemasangan dari AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions_(Bahasa_Melayu)#Aktif).
 
 <a name="archinstall"></a>
 
-### Arahan pemasangan
+### Installation instructions
 
 ```bash
 # Menggunakan yay (disyorkan)
@@ -182,7 +182,7 @@ atau secara manualnya dari [Arch User Repository](https://aur.archlinux.org/pack
 
 <a name="archnotes"></a>
 
-### Nota tambahan
+### Additional notes
 
 Jika edaran anda menggunakan pacman, maka anda perlu pasangkan salah satu pembantu dahulu. Jika anda tiada pembantu, Yay lebih disyorkan, jalankan :
 
