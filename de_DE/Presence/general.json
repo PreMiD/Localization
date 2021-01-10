@@ -256,11 +256,11 @@
 		"description": ""
 	},
 	"general.incidentHistory": {
-		"message": "Ticketverlauf",
+		"message": "Störungsverlauf",
 		"description": "A page name of statuspages"
 	},
 	"general.uptimeHistory": {
-		"message": "Laufzeitverlauf",
+		"message": "Systemverfügbarkeit",
 		"description": "A page name of statuspages"
 	}
 }
