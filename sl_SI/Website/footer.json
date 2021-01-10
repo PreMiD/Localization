@@ -59,10 +59,6 @@
 		"message": "Pomoč",
 		"description": "Help section"
 	},
-	"footer.help.troubleshooting": {
-		"message": "Odpravljanje napak",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.getsupport": {
 		"message": "Najdi Pomoč",
 		"description": "Get Support -> redirects to Discord invite"
