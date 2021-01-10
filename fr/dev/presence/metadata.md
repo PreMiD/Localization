@@ -90,8 +90,8 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     </tr>
     <tr>
       <td style="text-align:left"><b>contributeurs</b></td>
-      <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du contributeur. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du contributeur. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+        et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
@@ -99,21 +99,21 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><b>Service</b></td>
       <td style="text-align:left">Le titre du service que cette présence supporte.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Soyez en mesure de rechercher la presence en utilisant un nom alternatif.<br>
+      Destiné à être utilisé pour les presences qui ont des noms différents dans des langues différentes (par ex. Pokémon et 포켓몬스터).<br>
+      Vous pouvez également l'utiliser pour les presences qui ont des caractères spéciaux afin que vous n'ayez pas à les taper (par ex. Pokémon et Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description du service <b>PAS</b> de la présence. Votre description doit avoir des valeurs de paire de clés qui indiquent la langue, et la description dans cette langue spécifique. Faites des descriptions avec les langues <i>que vous connaissez</i>, nos traducteurs apporteront des modifications à votre fichier de métadonnées. Voir la catégorie pour les langues de présence pour une liste. </td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Url</b></td>
@@ -121,74 +121,74 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
 <b>Exemple :</b><code>vk. om</code><br>
         <b>Cette url doit correspondre à l'url du site web car elle sera utilisée pour détecter où que ce soit ou non le site web où injecter le script. Ceci ne peut être utilisé comme un tableau que s'il y a plus d'une urls.</b></td>
       <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Une chaîne d'expression régulière utilisée pour faire correspondre les URLs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version de votre présence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Logo</b></td>
       <td style="text-align:left">Lien vers le logo du service&apos;.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Lien vers votre miniature de présence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>couleur</b></td>
       <td style="text-align:left">valeur <code>#HEX</code>. Nous vous recommandons d'utiliser une couleur primaire du service
         que votre présence supporte.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Tableau avec des tags, ils aideront les utilisateurs à rechercher votre présence sur le site Web.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Catégorie</b></td>
       <td style="text-align:left">Une chaîne utilisée pour représenter la catégorie sous laquelle tombe la présence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Définit si <code>iFrames</code> sont utilisés</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Un sélecteur d'expression régulière qui sélectionne les iframes à injecter.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Définit si l'extension doit lire les logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Un tableau de paramètres que l'utilisateur peut modifier</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Oui</code></td>
     </tr>
   </tbody>
 </table>
@@ -259,11 +259,11 @@ La clé `multiLanguage` peut être définie comme suit :
 
 #### Ajout de nouvelles chaînes
 
-##### Cloning the project
+##### Cloner le projet
 
 1. Ouvrez un terminal et tapez `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Choisissez un dossier de votre choix.
+3. Ouvrez-le dans votre éditeur de code.
 
 ##### Création du fichier
 
@@ -303,7 +303,7 @@ Les clés que vous n'avez pas à définir sont automatiquement définies à ce q
 
 **Remarque :** Celles-ci ne sont en aucun cas modifiables.
 
-### Methods
+### Méthodes
 
 Utilisez les méthodes suivantes pour obtenir des informations sur les paramètres dans vos fichiers de présence:
 #### `getSetting(String)`
@@ -340,32 +340,32 @@ Lorsque vous faites votre présence, vous devez spécifier une catégorie sous l
   <tbody>
     <tr>
       <td style="text-align:left"><b>animé</b></td>
-      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left"><b>Animé</b></td>
       <td style="text-align:left">Tout ce qui a trait à l'animation, des forums aux plateformes de streaming vidéo.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>jeux</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Jeux</b></td>
       <td style="text-align:left">N'importe quel site web qui a un contenu lié au jeu, comme <code>Kahoot</code> ou <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musique</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Musique</b></td>
       <td style="text-align:left">Ce sont des sites Web qui offrent des contenus liés à la musique, que ce soit en streaming ou en téléchargement.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>réseaux sociaux</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Réseaux sociaux</b></td>
       <td style="text-align:left">Les sites Web qui sont utilisés dans le but de créer et de partager du contenu ou de participer à d'autres formes de réseau social.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>vidéos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Vidéos & Streams</b></td>
       <td style="text-align:left">Sites Web qui servent à fournir des vidéos et des streams.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>autres</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Autre</b></td>
       <td style="text-align:left">Tout ce qui ne relève pas d'une catégorie spécifique énumérée ci-dessus.</td>
     </tr>
   </tbody>
