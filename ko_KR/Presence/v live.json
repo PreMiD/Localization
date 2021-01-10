@@ -1,8 +1,4 @@
 {
-	"v live.browseThrough": {
-		"message": "탐색하는 중",
-		"description": "The first part of the next 6 strings"
-	},
 	"v live.newVid": {
 		"message": "새 영상 페이지",
 		"description": "Second part of the \"Browsing through\" string"
