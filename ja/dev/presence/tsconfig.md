@@ -1,5 +1,5 @@
 ---
-title: TypeScriptの構成
+title: TypeScript Configuration
 description: TypeScriptのヘルパー
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -61,7 +61,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| プロパティ               | 概要                                                                                     |
+| Property            | 概要                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
 | **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
