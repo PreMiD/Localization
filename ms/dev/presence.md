@@ -18,24 +18,24 @@ Versi `2.x` memperkenalkan [kedai Presence](https://premid.app/store). Pengguna 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Garis Panduan](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Struktur
 
 Kesemua Presence dikodkan dalam [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) mempunyai pentakrifan jenis yang lebih pedas berbanding JavaScript, jadi pembaikian dan pengenalpastian pepijat adalah lebih mudah.
 
-## Installation
+## Pemasangan
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Pasang [Git](https://git-scm.com/).
+2. Pasang [Node](https://nodejs.org/en/) (didatangkan dengan [npm](https://www.npmjs.com/)).
 3. Pasang [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan hantarkan `npm install -g typescript`).
 
-## Cloning the project
+## Sedang klon projek
 
 1. Buka terminal dan taip `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Pilih folder yang anda suka.
+3. Buka ia dalam penyunting kod anda.
 
 ## Cipta folder dan fail
 
@@ -140,9 +140,9 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Pemboleh ubah</th>
+      <th style="text-align:left">Keterangan</th>
+      <th style="text-align:left">Jenis</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
