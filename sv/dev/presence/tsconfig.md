@@ -1,5 +1,5 @@
 ---
-title: Konfiguration av typskript
+title: TypeScript Configuration
 description: Lite hjälpare för TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -9,7 +9,7 @@ editor: markdown
 
 # Konfiguration av typskript
 
-## Introduktion
+## Introduction
 
 När du laddade ner och packade upp arbetsytan, kommer du att se en fil som heter `tsconfig. s` i rot- och närvaromappar, denna fil används för att konfigurera kompilatorn **TypeScript**. Det är redan konfigurerat för dig, så oroa dig inte för det.
 
@@ -61,7 +61,7 @@ I rotkonfigurationsfilen ser du något liknande.
 }
 ```
 
-| Egenskap            | Beskrivning                                                                                   |
+| Property            | Beskrivning                                                                                   |
 |:------------------- |:--------------------------------------------------------------------------------------------- |
 | **utökningar**      | Används för att utöka databasen `tsconfig` -filen för olika uppgifter.                        |
 | **compilerOptions** | Se [**Root-konfigurationen**](/dev/presence/tsconfig#root-configuration) för mer information. |
