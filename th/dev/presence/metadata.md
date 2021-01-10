@@ -74,7 +74,7 @@ An example of that file can be found below.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">ตัวแปร</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">คำอธิบาย</th>
       <th style="text-align:left">ชนิด</th>
       <th style="text-align:left">ไม่บังคับ</th>
@@ -107,7 +107,7 @@ An example of that file can be found below.
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>ใช่</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>คำอธิบาย</b></td>
@@ -121,74 +121,74 @@ An example of that file can be found below.
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. สิ่งนี้อาจใช้เป็น Array เมื่อมี url มากกว่าหนึ่งรายการเท่านั้น</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>ไม่</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">นิพจน์ทั่วไปที่ใช้ตรวจหา url</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>ใช่</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>เวอร์ชัน</b></td>
       <td style="text-align:left">เวอร์ชั่น presence ของคุณ</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>ไม่</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">เชื่อมโยงไปยังโลโก้ของบริการ</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>ไม่</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">เชื่อมโยงไปยังภาพขนาดย่อของ presence ของคุณ</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>ไม่</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left">ค่า <code>#HEX</code> เราแนะนำให้ใช้สีหลักของบริการ
         ที่ presence ของคุณรองรับ</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>ไม่</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>แท็ก</b></td>
       <td style="text-align:left">Array ที่มีแท็ก, จะช่วยให้ผู้ใช้ค้นหา presence ของคุณบนเว็บไซต์</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>ไม่</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">String ที่ใช้แสดงหมวดหมู่ที่ได้รับอิทธิพลจาก presence</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>ไม่</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">กำหนดว่าจะใช้ <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>ใช่</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">นิพจน์ทั่วไปที่ใช้ตรวจหา iframe ที่จะแทรก</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>ใช่</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>ใช่</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ตั้งค่า</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Array ของการตั้งค่าที่ผู้ใช้สามารถเปลี่ยนได้</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>ใช่</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -245,7 +245,7 @@ PreMiD เป็นบริการ polygot ซึ่งหมายควา�
 
 ### `multiLanguage`
 
-#### บทนำ
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### การโคลนโปรเจ็ค
+##### Cloning the project
 
 1. เปิดโปรแกรม Terminal และพิมพ์ `git clone https://github.com/PreMiD/Localization`.
-2. เลือกโฟลเดอร์ที่คุณต้องการ
-3. เปิดในโปรแกรมแก้ไขโค้ด
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ##### Creating the file
 
@@ -303,7 +303,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### วิธีการ
+### Methods
 
 ใช้วิธีการเหล่านี้เพื่อเข้าถึงข้อมูลการตั้งค่าในไฟล์ Presence ของคุณ
 #### `getSetting(String)`
@@ -334,38 +334,38 @@ presence.showSetting("pdexID"); //แทนที่ pdexID ด้วย id ข�
     <tr>
       <th style="text-align:left">หมวดหมู่</th>
       <th style="text-align:left">ชื่อ</th>
-      <th style="text-align:left">คำอธิบาย</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>อนิเมะ</b></td>
-      <td style="text-align:left"><b>อนิเมะ</b></td>
+      <td style="text-align:left"><b>Anime</b></td>
       <td style="text-align:left">ทุกอย่างที่เกี่ยวข้องกับอนิเมะ ตั้งแต่ Forum ไปจนถึงแพลตฟอร์มสตรีมมิ่งวิดีโอ</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>เกม</b></td>
-      <td style="text-align:left"><b>เกม</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">ทุกเว็บไซต์ที่มีข้อมูลเกี่ยวกับเกม เช่น <code>Kahoot</code> หรือ <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>เพลง</b></td>
-      <td style="text-align:left"><b>เพลง</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">พวกนี้เป็นเว็บไซต์ที่เกี่ยวข้องกับเพลง ไม่ว่าจะเป็นการฟังเพลงหรือดาวน์โหลดเพลง</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>โซเชียล</b></td>
-        <td style="text-align:left"><b>โซเชียล</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">เว็บไซต์ที่มีจุดประสงค์ในการสร้างและเผยแพร่เนื้อหาต่างๆ หรือเกี่ยวข้องกับ Social Network</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>วิดีโอ</b></td>
-        <td style="text-align:left"><b>วีดีโอและสตรีมมิ่ง</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">เว็บไซต์ที่ให้บริการวิดีโอและสตรีมสด</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>อื่นๆ</b></td>
-      <td style="text-align:left"><b>อื่นๆ</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">สิ่งใดก็ตามที่ไม่อยู่ในหมวดหมู่เฉพาะที่ระบุไว้ข้างต้น</td>
     </tr>
   </tbody>
