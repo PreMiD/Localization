@@ -1,18 +1,10 @@
 {
-	"twitch.downloads": {
-		"message": "Muat Turun",
-		"description": "Page name"
-	},
 	"twitch.jobs": {
 		"message": "Pekerjaan",
 		"description": "Page name"
 	},
 	"twitch.turbo": {
 		"message": "Turbo",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Rakan Kongsi",
 		"description": "Page name"
 	},
 	"twitch.press": {
@@ -33,10 +25,6 @@
 	},
 	"twitch.guidelines": {
 		"message": "Garis Panduan Komuniti",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Laman Utama",
 		"description": "Page name"
 	},
 	"twitch.wallet": {
@@ -134,10 +122,6 @@
 	"twitch.produce": {
 		"message": "Dalam ruangan Pencipta Video...",
 		"description": ""
-	},
-	"twitch.viewTheir": {
-		"message": "Melihat",
-		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
 		"message": "Analisis Saluran",
