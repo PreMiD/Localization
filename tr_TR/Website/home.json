@@ -23,18 +23,6 @@
 		"message": "{0} geçti",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Oynatılıyor",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Canlı",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Göz atıyor...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Bu özelliklere bayılacaksınız!",
 		"description": "Features section"
@@ -78,10 +66,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Bir şeyler aksatılıyor, size tonlarca hata gönderiyor veya basitçe çalışmıyor mu? Discord sunucumuzda bu sorunlardan kurtulmanıza yardımcı olacağız, ayrıca sorunun en kısa sürede çözülmesini sağlayacak kendi destek sistemimizi oluşturduk.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Discord'umuza Katıl",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Site dili",
