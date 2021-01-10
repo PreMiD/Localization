@@ -3,10 +3,6 @@
         "message": "Tweet'i okuyor:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "Direkt mesajlarına bakıyor",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "Tweet'lerine bakıyor:",
         "description": ""
