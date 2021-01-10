@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "liest",
+		"message": "Lesen",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "sucht",
+		"message": "Suchen",
 		"description": ""
 	},
 	"general.shopCart": {
