@@ -3,16 +3,8 @@
         "message": "نگاه کردن تنظیمات تبلیغ های ترجیح داده شان",
         "description": ""
     },
-    "amazon.viewTheir": {
-        "message": "در حال تماشای آنجا",
-        "description": "Part 1 of the next 5 strings"
-    },
     "amazon.wishlist": {
         "message": "لیست علاقه‌مندی‌ها",
         "description": "Part 2 of the string: \"Viewing their\""
-    },
-    "amazon.store": {
-        "message": "نگاه کردن فروشگاه:",
-        "description": ""
     }
 }
