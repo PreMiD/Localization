@@ -1,18 +1,18 @@
 {
     "1337x.movieLibrary": {
-        "message": "يشاهد مكتبة الافلام",
+        "message": "جاري مشاهدة مكتبة الافلام",
         "description": ""
     },
     "1337x.seriesLibrary": {
-        "message": "يشاهد مكتبة الافلام",
+        "message": "جاري مشاهدة مكتبة المسلسلات",
         "description": ""
     },
     "1337x.latestEpisode": {
-        "message": "يشاهد الحلقات الاخيرة",
+        "message": "جاري مشاهدة الحلقات الاخيرة",
         "description": ""
     },
     "1337x.top": {
-        "message": "يشاهد اول 100",
+        "message": "جاري مشاهدة أفضل 100",
         "description": ""
     },
     "1337x.trending": {
