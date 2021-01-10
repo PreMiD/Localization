@@ -18,12 +18,12 @@ Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padar
 
 - **[Apie](#about)**
   - [Statistika](#stats)
-  - [Reikalavimai](#requirements)
+  - [Requirements](#requirements)
   - Pavyzdžiai (jau greitai)
   - Dažniausiai užduodami klausimai (jau greitai)
   - Statymas (jau greitai)
   - [Pagalba](#support)
-  - [Padėkos](#credits)
+  - [Credits](#credits)
   - [Licencija](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _niekada_ ™️)
 - **[Portable AppImage](#appimage)** (_SIŪLOMA_)
@@ -35,13 +35,13 @@ Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padar
 
 <a name="about"></a>
 
-## Apie
+## About
 
 **PreMiD** yra paprasta, konfiguruojama programa kuri naudoja Discord RP ( Rich Presence ) biblioteką, kuri leidžia jums rodyti ką jūs atliekate internete ( ir kai kuriuose programuose ) jūsų Discord profilyje kaip **žaidimo statusą**.
 
 <a name="stats"></a>
 
-### Statistika
+### Stats
 
 <table>
   <tr>
@@ -52,13 +52,13 @@ Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padar
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Visi leidiniai"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Naujausias leidinys"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github leidiniai"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github leidiniai"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Reikalavimai
+### Requirements
 
 Techniškai kiekviena distribucija kuri gali paleisti Discord [oficialią](https://discordapp.com/download) **programėlę** ( ne web ar snap versiją ) gali paleisti ir PreMiD taip pat;</br>Kaip jūs pastebėjote per pastaruosius metus, kai kurios Linux distribucijos pradėjo atmesti palaikymą 32-bit (ia32/i686/i386/x86) architektūroms, ir to rezultate, mes taip pat. Jūs galite, vis dėlto, bandyti paleisti programą patiems jeigu jums beviltiškai reikia naudoti ją ant 32-bit distribucijos.</br> Kadangi mes naudojame Electron kaip variklį (Discord taip pat jį naudoja!), jo reikalavimai taip pat pritaikomi ir šiai programėlei :
 
@@ -70,17 +70,17 @@ Yra nežinoma ar senesnė versija kitų distribucijų palaiko tai, tai tiesiog p
 
 <a name="support"></a>
 
-### Pagalba
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Prisidėkite prie mūsų Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Prisidėkite prie mūsų Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Padėkos
+### Credits
 
 Ačiū šiems asmenims :
 
@@ -92,7 +92,7 @@ Ačiū šiems asmenims :
 
 <a name="license"></a>
 
-### Licencija
+### License
 
 [![FOSSA Statusas](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ Applmage komplektas (package) yra rekomenduojamas jeigu Discord veikia jums, bet
 
 <a name="appimageinstall"></a>
 
-### Diegimo instrukcija
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Papildomos pastabos
+### Additional notes
 
 Jeigu jūs norite išbandyti PreMiD ar jūs nenorite jos instaliuoti, ši yra geriausia, ji visada yra atnaujinama, bet _AUTOMATIŠKAI NĖRA PALEIDŽIAMA SU OPERACINE SISTEMA!_</br>Jeigu jums nusibodo kiekvieną kartą ją įjunginėti, naudokite kitą komplektą (package) (atitinkantį jūsų distribuciją).
 
@@ -146,13 +146,13 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux distribucijos
+## Arch Linux based distributions
 
 Naudoja[Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Palaikomos distribucijos yra _ji pati_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS ir [kiekviena kita kuri palaiko įdiegimą iš AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Diegimo instrukcija
+### Installation instructions
 
 ```bash
 # Naudoti yay (rekomenduojama)
@@ -182,7 +182,7 @@ arba savarankiškai iš [Arch User Repository](https://aur.archlinux.org/package
 
 <a name="archnotes"></a>
 
-### Papildomos pastabos
+### Additional notes
 
 Jeigu jūsų distribucija naudoja pacman, tada jūs turite įsidiegti vieną iš pagalbininkų pirma. Jeigu jūs jų neturite, Yay yra rekomenduojama, paleiskite :
 
