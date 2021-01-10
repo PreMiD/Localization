@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partneriai",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Prisijunkite prie partnerių ir gaukite keletą išskirtinių pranašumų, kuriais galėsite parodyti savo \"swag\".",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Paminėjimas mūsų socialiniuose tinkluose.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Reikalavimai",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Ko mes ieškome?",
@@ -183,10 +175,6 @@
 		"message": "Tinklalapis",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Kita",
-		"description": "Select 'Other' category."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
 		"description": "Name field's placeholder."
@@ -222,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Pritaikyti",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Ačiū, kad kreipėtės!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Prašome užpildyti visus laukus.",
