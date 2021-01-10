@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partnerler",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Partnerimiz olun ve diğerlerine ne kadar havalı ve \"kuul\" olduğunuzu gösterin.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Sosyal medya hesaplarımızda öne çıkın.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Gereksinimler",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Neler arıyoruz?",
@@ -183,14 +175,6 @@
 		"message": "İnternet sitesi",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Diğer",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "İsim",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Örn: PreMiD",
 		"description": "Name field's placeholder."
@@ -226,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Başvur",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Onayladığınız için teşekkürler!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Lütfen tüm alanları doldurun.",
