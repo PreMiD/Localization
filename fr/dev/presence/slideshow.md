@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Classe du Slideshow
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Classe du Slideshow
 
 ## Introduction
 
@@ -16,7 +16,7 @@ La classe `Slideshow` est utilisée pour définir plusieurs `PresenceData` et "g
 
 Voir la méthode [`createSlideshow`](/dev/presence/class#createslideshow) dans la classe [`Presence`](/dev/presence/class) sur la façon de créer un `Slideshow`.
 
-## Properties
+## Propriétés
 
 ### `currentSlide`
 
@@ -27,7 +27,7 @@ const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // La console enregistrera les détails du PresenceData
 ```
 
-## Methods
+## Méthodes
 
 ### `addSlide(String, PresenceData, Number)`
 
@@ -49,9 +49,9 @@ Met à jour la diapositive de `l'id` donné en fonction des données fournies.
 
 Le premier paramètre nécessite une `String` qui est l'identifiant unique de la diapositive que vous voulez mettre à jour.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Le deuxième paramètre nécessite une [interface `PresenceData`](/dev/presence/class#presencedata-interface) pour obtenir toutes les informations que vous souhaitez afficher dans la diapositive.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Le troisième paramètre nécessite un `Number` qui est le temps en millisecondes (minimum : 5000) que cette diapositive se montrera.
 
 ### `hasSlide(String)`
 
@@ -73,7 +73,7 @@ Supprime toutes les diapositives du `Slideshow`.
 
 Un `SlideshowSlide` est la représentation interne de chaque diapositive dans un `Slideshow`.
 
-## Properties
+## Propriétés
 
 ### `id`
 
@@ -83,7 +83,7 @@ Retourne une `String` de l'id de la diapositive.
 
 Retourne un objet [`PresenceData`](/dev/presence/class#presencedata-interface) de la `PresenceData` enregistrée dans la diapositive.
 
-## Methods
+## Méthodes
 
 ### `updateData(PresenceData)`
 
