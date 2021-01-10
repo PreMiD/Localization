@@ -18,12 +18,12 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 - **[Tentang](#about)**
   - [Stats](#stats)
-  - [Persyaratan](#requirements)
+  - [Requirements](#requirements)
   - Contoh (segera)
   - FAQ (segera)
   - Building (segera)
   - [Bantuan](#support)
-  - [Kredit](#credits)
+  - [Credits](#credits)
   - [Lisensi](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_DIANJURKAN_)
@@ -35,7 +35,7 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 
 <a name="about"></a>
 
-## Tentang
+## About
 
 **PreMiD** adalah utilitas simpel yang menggunakan Discord RP (Rich Presence) yang memungkinkan anda menampilkan apa yang sedang anda lakukan di web ( dan beberapa program ) di profil Discord sebagai **playing status**.
 
@@ -52,13 +52,13 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Semua rilisan"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Rilis terbaru"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Rilisan Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Rilisan Github"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Persyaratan
+### Requirements
 
 Secara teknis setiap distribution yang dapat menjalankan [Aplikasi ](https://discordapp.com/download)**Resmi** Discord ( bukan versi web atau versi snap ) bisa menjalankan PreMiD juga;</br> Seperti yang anda perhatikan dalam beberapa tahun terakhir, beberapa Linux distribution mulai tidak mendukung untuk architecture 32-bit (ia32/i686/i386/x86) dan alhasil, kami juga. Anda bisa mencoba untuk membangun sendiri aplikasi jika anda sangat butuh menggunakannya pada distribution 32-bit.</br> Karena kami menggunakan Electron sebagai engine (Discord juga!) kebutuhannya juga berlaku pada aplikasi berikut :
 
@@ -70,17 +70,17 @@ Masih belum diketahui apakah versi lama dari distribution lain mendukungnya, jad
 
 <a name="support"></a>
 
-### Bantuan
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Gabung ke Discord kami!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Gabung ke Discord kami!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Kredit
+### Credits
 
 Thanks to :
 
@@ -92,7 +92,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### Lisensi
+### License
 
 [![Status FOSSA](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ Paket AppImage sangat disarankan jika Discord bisa bekerja tapi paket PreMiD lai
 
 <a name="appimageinstall"></a>
 
-### Petunjuk instalasi
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Catatan tambahan
+### Additional notes
 
 Antara anda ingin mencoba PreMiD atau tidak ingin menginstalnya, ini salah satu cara terbaik, selalu up to date tapi _TIDAK MULAI BERSAMA SISTEM!_</br>Jika anda lelah dengan harus membukanya setiap waktu, gunakan paket lain (berdasar disttribution anda).
 
@@ -152,7 +152,7 @@ Gunakan [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> 
 
 <a name="archinstall"></a>
 
-### Petunjuk instalasi
+### Installation instructions
 
 ```bash
 # Menggunakan yay (dianjurkan)
@@ -182,7 +182,7 @@ atau secara manual dari [Arch User Repository](https://aur.archlinux.org/package
 
 <a name="archnotes"></a>
 
-### Catatan tambahan
+### Additional notes
 
 Jika distro anda menggunakan pacman, maka anda harus instal salah satu helper terlebih dahulu. Jika tidak ada, Yay dianjurkan, jalankan:
 
