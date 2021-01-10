@@ -1,7 +1,7 @@
 ---
 title: Prérequis
 description: Configuration minimal requise pour utiliser PreMiD
-published: oui
+published: true
 date: 2020-02-12T22:08:39.314Z
 tags:
 ---

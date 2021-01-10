@@ -1,7 +1,7 @@
 ---
-title: Configurazione TypeScript
+title: TypeScript Configuration
 description: Un piccolo aiuto per TypeScript
-published: vero
+published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
@@ -61,7 +61,7 @@ Nel file di configurazione root vedrai qualcosa di simile.
 }
 ```
 
-| Proprietà           | Descrizione                                                                                          |
+| Property            | Descrizione                                                                                          |
 |:------------------- |:---------------------------------------------------------------------------------------------------- |
 | **extends**         | Utilizzato per estendere il file base `tsconfig` per varie attività.                                 |
 | **compilerOptions** | Vedi [**Configurazione Root**](/dev/presence/tsconfig#root-configuration) per maggiori informazioni. |

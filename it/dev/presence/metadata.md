@@ -1,14 +1,14 @@
 ---
 title: Metadario
 description: Contiene dati di base su Presence
-published: vero
+published: true
 date: 2020-12-26T15:03:41.542Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
 ---
 
-# Metadario
+# Metadata.json
 
 Se vuoi publicare una presence nello store e caricarla per mezzo dell'estensione, dovresti create il file `metadata.json` nella tua cartella `dist`.
 
@@ -74,7 +74,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variabile</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descrizione</th>
       <th style="text-align:left">Tipo</th>
       <th style="text-align:left">Opzionale</th>
@@ -90,15 +90,15 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     </tr>
     <tr>
       <td style="text-align:left"><b>collaboratori</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Il nome utente di Discord è senza identificatore(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
-        dello sviluppatore e facendo click destro sul tuo profilo.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Schieramento&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>sì</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>servizio</b></td>
       <td style="text-align:left">Il titolo del servizio che supporta questa presenza.</td>
-      <td style="text-align:left"><code>Stringa</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
@@ -107,12 +107,12 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>sì</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>descrizione</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. La tua descrizione deve avere valori di coppia chiave che indicano la lingua, e la descrizione in quella specifica lingua. Crea descrizioni con le lingue <i>che conosci</i>, i nostri traduttori modificheranno il file di metadati. Vedi la categoria per le lingue delle presence per una lista. </td>
-      <td style="text-align:left"><code>Oggetto</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
@@ -126,69 +126,69 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Una stringa di espressione regolare usata per abbinare gli url.</td>
-      <td style="text-align:left"><code>Stringa</code></td>
-      <td style="text-align:left"><code>sì</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>versione</b></td>
       <td style="text-align:left">Versione della sua presenza.</td>
-      <td style="text-align:left"><code>Stringa</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link al servizio&apos;s logotype.</td>
-      <td style="text-align:left"><code>Stringa</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Link alla tua miniatura di presenza.</td>
-      <td style="text-align:left"><code>Stringa</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>colore</b></td>
       <td style="text-align:left">Valore <code>#HEX</code>. Consigliamo di utilizzare un colore primario del servizio
         che la vostra presenza supporta.</td>
-      <td style="text-align:left"><code>Stringa</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tag</b></td>
       <td style="text-align:left">Array con i tag, aiuteranno gli utenti a cercare la tua presenza sul sito.</td>
-      <td style="text-align:left"><code>Stringa, Schieramento&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Categoria</b></td>
       <td style="text-align:left">Una stringa utilizzata per rappresentare la categoria sotto la quale la presenza cade</td>
-      <td style="text-align:left"><code>Stringa</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Definisce se <code>iFrame</code> sono usati</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>sì</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Un selettore di espressione regolare che seleziona gli iframe da inserire.</td>
-      <td style="text-align:left"><code>Stringa</code></td>
-      <td style="text-align:left"><code>sì</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>Stringa</code></td>
-      <td style="text-align:left"><code>sì</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>impostazioni</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Un array di settaggi che l'utente può cambiare</td>
-      <td style="text-align:left"><code>Schieramento&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>sì</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -245,7 +245,7 @@ Configura le impostazioni interattive in modo che gli utenti possano personalizz
 
 ### `multiLanguage`
 
-#### Introduzione
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Clonando il progetto
+##### Cloning the project
 
 1. Apri un terminale e digita `git clone https://github.com/PreMiD/Localization`.
-2. Scegli una cartella a tua scelta.
-3. Aprilo nel tuo editor di codice.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ##### Creating the file
 
@@ -303,7 +303,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Metodi
+### Methods
 
 Utilizzare i seguenti metodi per ottenere informazioni sulle impostazioni nei file della presenza:
 #### `getSetting(Stringa)`
@@ -334,7 +334,7 @@ Quando fai la tua presence, è necessario specificare una categoria in cui la pr
     <tr>
       <th style="text-align:left">Categoria</th>
       <th style="text-align:left">nome</th>
-      <th style="text-align:left">Descrizione</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -345,27 +345,27 @@ Quando fai la tua presence, è necessario specificare una categoria in cui la pr
     </tr>
     <tr>
       <td style="text-align:left"><b>giochi</b></td>
-      <td style="text-align:left"><b>Giochi</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Qualsiasi sito web che abbia contenuti relativi al gioco, come <code>Kahoot</code> o <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musica</b></td>
-      <td style="text-align:left"><b>Musica</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Questi sono siti web che offrono contenuti musicali, che si tratti di streaming o download.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>social</b></td>
-        <td style="text-align:left"><b>Social</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Siti web utilizzati per la creazione e condivisione di contenuti o per la partecipazione ad altre forme di social networking.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Video</b></td>
-        <td style="text-align:left"><b>Video & Dirette</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Siti web che servono a fornire video e stream.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altro</b></td>
-      <td style="text-align:left"><b>Altro</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Tutto ciò che non rientra in una specifica categoria sopra elencata.</td>
     </tr>
   </tbody>

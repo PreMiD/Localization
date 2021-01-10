@@ -17,7 +17,7 @@ De installatie van de extensie is van groot belang, omdat de applicatie op zichz
 6. Selecteer het bestand dat je onlangs hebt gedownload.
 7. Accepteer de installatie door op **Add** te klikken.
 
-> Vergeet niet de [**applicatie**](/install) toe te voegen. 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 

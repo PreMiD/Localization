@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Närvaro Klass
+# Presence Class
 
 ## Introduktion
 
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returnerar värdet av inställningen.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -285,7 +285,7 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
     <tr>
       <td style="text-align:left">delstat</td>
       <td style="text-align:left">Andra raden i din närvaro.</td>
-      <td style="text-align:left"><code>Sträng</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -302,29 +302,29 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definierar varaktigheten.
         <br>Används om du vill visa hur mycket <code>timmar:minuter:sekunder</code> du har kvar.
-          <br>Du måste konvertera din tid till <code>timestamp</code> annars får du en felaktig
-          nedräkning.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Nummer</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Stor ImageKey</td>
       <td style="text-align:left">Definierar logotypen för presencen.</td>
-      <td style="text-align:left"><code>Sträng</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Definierar den lilla ikonen bredvid närvaro&apos;s logotyp.</td>
-      <td style="text-align:left"><code>Sträng</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Definierar texten som kommer att visas för användaren när han kommer att hålla den lilla
         ikonen.</td>
-      <td style="text-align:left"><code>Sträng</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
@@ -354,7 +354,7 @@ presence.on("UpdateData", async () => {
 
 Det finns några event:
 
-#### `Uppdateringsdata`
+#### `UpdateData`
 
 Detta event avfyras varje gång presencen uppdateras.
 

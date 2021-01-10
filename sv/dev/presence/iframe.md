@@ -6,12 +6,12 @@ date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# iFrame klass
+# iFrame Class
 > Iframe systemet med PreMiD är problematiskt och kan ha oväntat beteende, användning med försiktighet. 
 > 
 > {.is-danger}
 
-## Introduktion
+## Introduction
 
 I vissa scenarier kan din presence behöva komma åt element inuti `iframes`.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Metoder
+## Methods
 
 ### `Skicka(Objekt)`
 Skickar data till presencen. Genom att använda denna metod kommer presencen att kasta ett `iFrameData` event.
@@ -35,7 +35,7 @@ Skickar data till presencen. Genom att använda denna metod kommer presencen att
 ### `getUrl()`
 Returnerar URLen till `iframe`.
 
-## Händelser
+## Events
 I `iframes`, händelser fungerar på samma sätt som de arbetar i `närvaro` klassen.
 
 ```typescript

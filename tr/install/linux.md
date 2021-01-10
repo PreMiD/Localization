@@ -18,12 +18,12 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 - **[Hakkında](#about)**
   - [İstatistikler](#stats)
-  - [Gereksinimler](#requirements)
+  - [Requirements](#requirements)
   - Örnekler (yakında)
   - SSS (yakında)
   - Derleme (yakında)
   - [Destek](#support)
-  - [Katkıda Bulunanlar](#credits)
+  - [Credits](#credits)
   - [Lisans](#license)
 - **[Snapcraft](#snapcraft)** (kısacası: _asla_™️)
 - **[Taşınabilir AppImage](#appimage)** (_ÖNERİLİR_)
@@ -35,13 +35,13 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
 
 <a name="about"></a>
 
-## Hakkında
+## About
 
 **PreMiD**, Discord'un RP kütüphaneleri kullanarak internette (ve birkaç uygulamada) yaptığınız işleri Discord profilinize **yansıtan** basit ve ayarlanabilir bir araçtır.
 
 <a name="stats"></a>
 
-### İstatistikler
+### Stats
 
 <table>
   <tr>
@@ -52,13 +52,13 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Tüm Sürümler"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="En son sürüm"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub sürümleri"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub sürümleri"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Gereksinimler
+### Requirements
 
 Teknik olarak, Discord'un [resmi](https://discordapp.com/download) **uygulamasını** ( web veya snap sürümünü değil ) çalıştırabilen her dağıtım, PreMiD'i de çalıştırabilir.</br> Geçtiğimiz yıllarda fark etmiş olabileceğiniz üzere, bazı Linux dağıtımları 32-bit (ia32/i686/i386/x86) mimariler için desteğini sonlandırmaya başladı, ve bu yüzden, biz de öyle. Yine de, uygulamayı gerçekten 32-bit bir dağıtımda kullanmanız gerekiyorsa, kendiniz oluşturmayı deneyebilirsiniz.</br> Yazılım çatısı olarak Electron'u kullandığımız için (Discord da kullanıyor!), onun gereksinimleri bu uygulama için de geçerli :
 
@@ -70,17 +70,17 @@ Diğer dağıtımların eski sürümlerinin destekleyip desteklemediği bilinmem
 
 <a name="support"></a>
 
-### Destek
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Discord'umuza katıl!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Discord'umuza katıl!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Katkıda Bulunanlar
+### Credits
 
 Teşekkürler:
 
@@ -92,7 +92,7 @@ Teşekkürler:
 
 <a name="license"></a>
 
-### Lisans
+### License
 
 [![FOSSA Durumu](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ AppImage paketi eğer Discord uygulamanız çalışıyor, ama diğer PreMiD pake
 
 <a name="appimageinstall"></a>
 
-### Kurulum Talimatları
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Ek notlar
+### Additional notes
 
 Sadece PreMiD'i denemek istiyorsanız veya kurmak istemiyorsanız, bu seçenek en iyisi, ayrıca her zaman güncel ama _SİSTEM AÇILINCA OTOMATİK BAŞLAMIYOR!_</br>Eğer her başlangıçta çalıştırmaktan yorulduysanız, (dağıtımınıza göre) diğer paketleri kullanın.
 
@@ -146,13 +146,13 @@ Eğer komut çalışmazsa **deb/rpm** paketini packagecloud depomuzdan indirebil
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux tabanlı dağıtımlar
+## Arch Linux based distributions
 
 [Arch User Repository](https://aur.archlinux.org/packages/premid) kullanır;</br> Desteklenen dağıtımlar: _dağıtımın kendisi_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS ve [AUR üzerinden kuruluma destek veren her bir dağıtım](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Kurulum Talimatları
+### Installation instructions
 
 ```bash
 # yay kullanarak (önerilen)
@@ -182,7 +182,7 @@ veya ne yaptığınızı biliyorsanız, manuel olarak [Arch User Repository](htt
 
 <a name="archnotes"></a>
 
-### Ek notlar
+### Additional notes
 
 Dağıtımınız pacman kullanıyorsa, AUR depolarına ulaşmak için bir yardımcı kurmanız gereklidir. Eğer birine sahip değilseniz, Yay kullanmanız önerilir, şunu çalıştırın:
 

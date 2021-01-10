@@ -1,5 +1,5 @@
 ---
-title: Класс слайд-шоу
+title: Slideshow Class
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,15 +8,15 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Класс слайд-шоу
+# Slideshow Class
 
-## Введение
+## Introduction
 
 Класс `слайдшоу` используется для установки нескольких `PresenceData` и "slide" через их каждые x миллисекунд (минимум: 5000).
 
 Смотрите метод [`createSlideshow`](/dev/presence/class#createslideshow) в классе [`Presence`](/dev/presence/class) о том, как создать `слайдшоу`.
 
-## Свойства
+## Properties
 
 ### `currentSlide`
 
@@ -27,7 +27,7 @@ const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // Will console log the details of the PresenceData
 ```
 
-## Методы
+## Methods
 
 ### `addSlide(String, PresenceData, Number)`
 
@@ -50,9 +50,9 @@ console.log(currentSlide.details) // Will console log the details of the Presenc
 
 Первый параметр требует `String` которая является уникальным идентификатором слайда, который вы хотите обновить.
 
-Второй параметр требует интерфейса [`PresenceData`](/dev/presence/class#presencedata-interface) чтобы получить всю информацию, которую вы хотите показать на слайде.
+Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
 
-Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
+Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
 
 ### `hasSlide(String)`
 
@@ -70,11 +70,11 @@ console.log(currentSlide.details) // Will console log the details of the Presenc
 
 # SlideshowSlide Класс
 
-## Введение
+## Introduction
 
 `SlideshowSlide` — это внутреннее представление каждого слайда в `Slideshow`.
 
-## Свойства
+## Properties
 
 ### `id`
 
@@ -84,7 +84,7 @@ console.log(currentSlide.details) // Will console log the details of the Presenc
 
 Возвращает объект [`PresenceData`](/dev/presence/class#presencedata-interface) `PresenceData`, сохраненный в слайде.
 
-## Методы
+## Methods
 
 ### `updateData(PresenceData)`
 

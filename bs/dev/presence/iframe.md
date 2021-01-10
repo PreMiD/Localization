@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Uvod
+## Introduction
 
 U nekim će slučajevima možda biti potrebno da pristupite elementima unutar `iframes`.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Metode
+## Methods
 
 ### `send(Object)`
 Šalje podatke prisutnosti. Korištenjem ove metode natjerat će se na prisustvo `iFrameData`.

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# ガイドライン
+# Guidelines
 
 [GitHub Repository](https://github.com/PreMiD/Presences)へプレゼンスを公開する際は、一連のガイドラインに従う必要があります。 厳しいように見えるかもしれませんが、 このガイドラインは、問題を回避するために作られています。
 

@@ -17,7 +17,7 @@ Instalace rozšíření je velmi důležitá, protože aplikace nemůže dělat 
 6. Vyberte soubor, který jste nedávno stáhli.
 7. Přijměte instalaci kliknutím na tlačítko **Přidat**.
 
-> Nezapomeňte [přidat **aplikaci**](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 

@@ -1,7 +1,7 @@
 ---
 title: Fabhtcheartú
 description: Everything to solve your problem
-published: fíor
+published: true
 date: 2021-01-03T14:12:34.320Z
 tags:
 editor: markdown

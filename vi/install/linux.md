@@ -18,12 +18,12 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 - **[Về](#about)**
   - [Stats](#stats)
-  - [Yêu cầu hệ thống](#requirements)
+  - [Requirements](#requirements)
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [Tác giả](#credits)
+  - [Credits](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -35,7 +35,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 <a name="about"></a>
 
-## Về
+## About
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
@@ -58,7 +58,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 <a name="requirements"></a>
 
-### Yêu cầu hệ thống
+### Requirements
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -74,13 +74,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Tham gia Discord của chúng tôi!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Tham gia Discord của chúng tôi!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Tác giả
+### Credits
 
 Thanks to :
 

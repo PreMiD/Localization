@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-إرجاع قيمة الإعدادات.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -285,7 +285,7 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
     <tr>
       <td style="text-align:left">الحالة</td>
       <td style="text-align:left">السطر الثاني في الpresence الخاص بك.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -302,29 +302,29 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">يحدد المدة الكاملة.
         <br>يستخدم إذا كنت ترغب في عرض كم <code>ساعات:دقائق:ثوان</code> متبقية.
-          <br>يجب عليك تحويل وقتك إلى <code>timestamp</code> أو ستحصل على
-          عد تنازلي خاطئ.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>عدد</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">يحدد الشعار الخاص بالpresence.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">يحدد الرمز الصغير بجوار شعارال presence&apos;s.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">يحدد النص الذي سيتم عرضه للمستخدم عندما يكون على الرمز
         الصغير.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>

@@ -1,5 +1,5 @@
 ---
-title: การกำหนดค่าไฟล์ Typescript
+title: TypeScript Configuration
 description: ตัวช่วยเล็กๆ สำหรับ Typescript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -61,7 +61,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| คุณสมบัติ           | คำอธิบาย                                                                                     |
+| Property            | คำอธิบาย                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------------- |
 | **extends**         | Used for extending the base `tsconfig` file for various tasks.                               |
 | **compilerOptions** | ดู [**Root Configuration**](/dev/presence/tsconfig#root-configuration) สำหรับข้อมูลเพิ่มเติม |

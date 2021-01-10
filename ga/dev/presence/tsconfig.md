@@ -1,7 +1,7 @@
 ---
 title: TypeScript Configuration
 description: A little helper for TypeScript
-published: fíor
+published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown

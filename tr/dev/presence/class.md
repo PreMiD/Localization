@@ -164,7 +164,7 @@ console.log(version); // 2.1.0 kaydeder
 
 ### `getSetting(String)`
 
-Bir ayarın versini döner.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -173,7 +173,7 @@ console.log(setting); // This will log the value of the setting
 
 ### `hideSetting(String)`
 
-Belirtilen ayarı gizler.
+Hides given setting.
 
 ```typescript
 presence.hideSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
@@ -181,7 +181,7 @@ presence.hideSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
 
 ### `showSetting(String)`
 
-Belirtilen ayarı gösterir (sadece önceden gizlenmişse çalışacaktır).
+Shows given setting (Only works if the setting was already hidden).
 
 ```typescript
 presence.showSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Not:** querySelector da verilen `String` bir örnektir.
+**Note:** The given `String` in querySelector is an example.
 
 ### `timestampFromFormat(String)`
 
@@ -259,7 +259,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Not:** querySelector da verilen `String` bir örnektir.
+**Note:** The given `String` in querySelector is an example.
 
 ## `PresenceData` Arayüzü
 
@@ -301,7 +301,8 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Uzunluğu belirler.
         <br>Bitiş zamanını belirlerseniz kaç <code>saat:dakika:saniye</code> kaldığını profilde gösterebilirsiniz.
-          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>

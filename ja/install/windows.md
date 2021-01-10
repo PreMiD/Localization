@@ -14,7 +14,7 @@ tags:
 1. [ここをクリック](https://premid.app/downloads)してダウンロードページに行く
 2. **Windows**を選ぶ
 3. インストーラーを開く
-4. 初めてPreMiDをインストールする時は、**Windows SmartScreen**の画面が表示されるので、 **詳細情報**をクリックして、**実行する**を選ぶ これが表示される理由は、PreMiDにはコード署名(CSC)がないからです。 CSCを発行するために [サポート](https://www.patreon.com/Timeraa) をお願いします。{.is-info}
+4. 初めてPreMiDをインストールする時は、**Windows SmartScreen**の画面が表示されるので、 **詳細情報**をクリックして、**実行する**を選ぶ これが表示される理由は、PreMiDにはコード署名(CSC)がないからです。 [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
 アプリケーションは自動的に開始されるはずです。 システムトレイにあるアイコンを確認してみてください。
 

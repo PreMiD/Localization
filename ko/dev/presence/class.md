@@ -4,7 +4,7 @@ description: 모든 PreMid Presence 클래스
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
-editor: 마크다운
+editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-설정 값을 반환합니다.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting

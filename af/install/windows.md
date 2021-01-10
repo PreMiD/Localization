@@ -11,7 +11,7 @@ tags:
 Die installering van die uitbreiding is baie belangrik, aangesien die toepassing niks op sigself kan doen nie.
 
 # Installeer
-1. Gaan na ons aflaai bladsy deur [klik hier](https://premid.app/downloads).
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. **Kies Chromium**.
 3. Maak die installeerder oop.
 4. **Windows SmartScreen** sal verskyn as u PreMiD vir die eerste keer installeer. Klik op **Meer inligting** en kies dan **Hardloop in elk geval**. > Dit is omdat ons nie 'n Code Signing Certificate (CSC) het nie. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}

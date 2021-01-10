@@ -9,7 +9,7 @@ editor: markdown
 
 # TypeScript Configuration
 
-## Johdanto
+## Introduction
 
 When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. Se on jo konfiguroitu sinulle, joten älä huolehdi siitä.
 

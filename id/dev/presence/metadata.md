@@ -74,7 +74,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variabel</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Deskripsi</th>
       <th style="text-align:left">Tipe</th>
       <th style="text-align:left">Opsional</th>
@@ -83,7 +83,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Harus berisi sebuah Object dengan <code>name</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -103,9 +103,9 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Dapat mencari presence menggunakan nama alternatif.<br>
-      Dimaksudkan untuk presence yang memiliki nama yang berbeda di bahasa lain (misal Pokémon dan 포켓몬스터).<br>
-      Kamu juga dapat menggunakannya untuk presence yang memilki karakter spesial jadi kamu tidak harus mengetik simbol tersebut (misal Pokémon dan Pokemon).</td>
+      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
+      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -179,7 +179,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Menentukan apakah ekstensi harus membaca log.</td>
+      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -244,7 +244,7 @@ Buat pengaturan interaktif agar pengguna dapat mengatur presencenya!
 
 ### `multiLanguage`
 
-#### Perkenalan
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -258,11 +258,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Mengcloning project
+##### Cloning the project
 
 1. Buka terminal dan ketik `git clone https://github.com/PreMiD/Localization`.
-2. Pilih folder pilihanmu.
-3. Buka di editor kodemu.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ##### Creating the file
 
@@ -302,7 +302,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Metode
+### Methods
 
 Gunakan metode berikut untuk mendapat info pengaturan pada file presence:
 #### `getSetting(String)`
@@ -333,7 +333,7 @@ Saat membuat presence, anda harus menentukan kategori dimana presence berada. Be
     <tr>
       <th style="text-align:left">Kategori</th>
       <th style="text-align:left">Nama</th>
-      <th style="text-align:left">Deskripsi</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -344,27 +344,27 @@ Saat membuat presence, anda harus menentukan kategori dimana presence berada. Be
     </tr>
     <tr>
       <td style="text-align:left"><b>permainan</b></td>
-      <td style="text-align:left"><b>Permainan</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Website apapun yang memiliki konten tentang game, seperti <code>Kahoot</code> atau <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musik</b></td>
-      <td style="text-align:left"><b>Musik</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Website ini menawarkan konten yang berhubungan dengan musik, streaming atau download.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>sosial</b></td>
-        <td style="text-align:left"><b>Sosial</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Website yang dibuat untuk membuat dan membagikan konten atau berpartisipasi dalam social network dalam bentuk apapun.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>video</b></td>
-        <td style="text-align:left"><b>Video dan Stream</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Website yang berguna untuk menyediakan video dan stream.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>lain-lain</b></td>
-      <td style="text-align:left"><b>Lainnya</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Apapun yang tidak termasuk kategori diatas.</td>
     </tr>
   </tbody>

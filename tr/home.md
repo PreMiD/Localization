@@ -23,7 +23,7 @@ PreMiD kurulumu hızlı ve kolaydır. Kısa sürede hazır ve çalışır durumd
 - Hızlı ve basit [kurulum klavuzunu](/install) takip edin.
 - [Sorun giderme](/troubleshooting) sık karşılaşılan sorunlar ile ilgili yol gösterir.
 
-# Geliştiriciler
+# Developers
 
 PreMiD için geliştirmeye [başlamak](/dev) bazı şeyleri kodlamadan önceki ilk adımınızdır.
 

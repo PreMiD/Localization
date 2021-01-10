@@ -18,12 +18,12 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 - **[เกี่ยวกับ](#about)**
   - [Stats](#stats)
-  - [ความต้องการ](#requirements)
+  - [Requirements](#requirements)
   - ตัวอย่าง (เร็วๆนี้)
   - คําถามที่พบบ่อย (เร็วๆนี้)
   - Building (soon)
   - [สนับสนุน](#support)
-  - [เครดิต](#credits)
+  - [Credits](#credits)
   - [ใบอนุญาต](#license)
 - **[Snapcraft](#snapcraft)** (_อย่าอ่านมันเลย มันยาวเกินไป_)
 - **[AppImage](#appimage)** (_เเนะนํา_)
@@ -35,7 +35,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="about"></a>
 
-## เกี่ยวกับ
+## About
 
 **PreMiD** เป็นเรื่องง่าย, กําหนดค่าตามใจชอบด้วยการใช้ Discord RP ( Rich Presence ) ไลบรารี่ที่เเสดงสถานะที่คุณใช้อยู่ใน Discord ระหว่างคุณกําลังรับชมเว็บไซต์ต่างๆ ( บางเว็บไซต์ ) ตรงโปรไฟล์ Discord ของคุณจะขึ้นว่า **  กําลังเล่น... **
 
@@ -52,13 +52,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="การเผยเเพร่ทั้งหมด"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="การเผยเเพร่ล่าสุด"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="การเผยเเพร่ใน Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="การเผยเเพร่ใน Github"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### ความต้องการ
+### Requirements
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -70,17 +70,17 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### สนับสนุน
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="เข้าร่วม Discord ของเรา!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="เข้าร่วม Discord ของเรา!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### เครดิต
+### Credits
 
 ขอขอบคุณ :
 
@@ -92,7 +92,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="license"></a>
 
-### ใบอนุญาต
+### License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### วิธีการติดตั้ง
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### หมายเหตุเพิ่มเติม:
+### Additional notes
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -146,13 +146,13 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux
+## Arch Linux based distributions
 
 Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### วิธีการติดตั้ง
+### Installation instructions
 
 ```bash
 # Using yay (recommended)
@@ -182,7 +182,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### หมายเหตุเพิ่มเติม:
+### Additional notes
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 

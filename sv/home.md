@@ -11,11 +11,11 @@ editor: markdown
 > 
 > {.is-warning}
 
-# Om PreMiD
+# About PreMiD
 - :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [Vad är RPC?](https://discordapp.com/rich-presence) Allt om Rich Presence och dess funktioner.
 
-# Kom igång
+# Getting Started
 
 PreMiD är snabbt och enkelt att installera. Du bör vara igång på nolltid.
 
@@ -23,7 +23,7 @@ PreMiD är snabbt och enkelt att installera. Du bör vara igång på nolltid.
 - Följ den snabba och enkla [installationsguiden](/install).
 - [Felsökning](/troubleshooting) vägleder dig genom lösningar på vanliga problem.
 
-# Utvecklare
+# Developers
 
 [Komma igång](/dev) för PreMiD utveckling är ditt första steg innan du kodar några saker.
 

@@ -23,7 +23,7 @@ The installation of the application is very important as the extension can not d
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [Tiitrid](#credits)
+  - [Credits](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -35,7 +35,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="about"></a>
 
-## Info
+## About
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
@@ -80,7 +80,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="credits"></a>
 
-### Tiitrid
+### Credits
 
 Thanks to :
 

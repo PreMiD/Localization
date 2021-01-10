@@ -6,7 +6,7 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-애플리케이션만을 설치해서는 아무것도 작동하지 않기에, 확장 프로그램 설치가 매우 중요합니다.
+The installation of the extension is very important as the application can not do anything by itself.
 
 # 설치
 1. 오른쪽의 링크를 눌러 다운로드 페이지로 들어가세요. [페이지로 이동](https://premid.app/downloads)
@@ -17,7 +17,7 @@ tags:
 6. 아까 다운로드한 파일을 선택하세요.
 7. **Add**를 클릭해 설치에 동의하세요.
 
-> [**이 앱을** 추가](/install)하는 것도 잊지 마세요. 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 

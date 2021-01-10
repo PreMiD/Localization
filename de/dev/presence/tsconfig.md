@@ -1,5 +1,5 @@
 ---
-title: TypeScript-Konfiguration
+title: TypeScript Configuration
 description: Ein kleiner Helfer für TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z

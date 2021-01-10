@@ -1,7 +1,7 @@
 ---
 title: API
 description: Uzyskuj dostęp do zasobów i wykonuj działania za pomocą PreMiD API
-published: tak
+published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
 ---

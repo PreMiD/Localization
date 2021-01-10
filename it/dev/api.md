@@ -1,7 +1,7 @@
 ---
 title: API
 description: Accedi alle fonti ed esegui azioni usando l'API di PreMiD
-published: vero
+published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
 ---

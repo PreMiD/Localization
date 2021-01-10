@@ -1,5 +1,5 @@
 ---
-title: ट्रबलशूटिंग
+title: Troubleshooting
 description: Everything to solve your problem
 published: true
 date: 2021-01-03T14:12:34.320Z

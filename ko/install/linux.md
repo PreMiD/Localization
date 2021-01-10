@@ -4,7 +4,7 @@ description: 리눅스에 PreMiD 설치를 시작해봐요.
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
-editor: 마크다운
+editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
@@ -23,7 +23,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
   - 자주 하는 질문 (준비중)
   - 빌드 (준비중)
   - [지원](#support)
-  - [제작진](#credits)
+  - [Credits](#credits)
   - [라이센스](#license)
 - **[Snapcraft](#snapcraft)** (단순히 말해서 말이죠 : _영원히!_ ™️)
 - **[포터블 AppImage](#appimage)** (_추천_)
@@ -35,13 +35,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="about"></a>
 
-## 정보
+## About
 
 **PreMiD**는 디스코드 RP ( Rich Presence ) 라이브러리를 사용하여 디스코드 프로필 **게임 하는 중**란에 여러분이 웹에서 (그리고 몇몇 프로그램에서) 하고 있는 것을 쉽게 보여줄 수 있는 간단하고 설정 가능한 유틸리티입니다.
 
 <a name="stats"></a>
 
-### 통계
+### Stats
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="지난 버전"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="최신 버전"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github 버전"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github 버전"></a></td>
   </tr>
 </table>
 
@@ -70,17 +70,17 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="support"></a>
 
-### 지원
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="저희 디스코드에 참여하세요!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="저희 디스코드에 참여하세요!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### 제작진
+### Credits
 
 도움을 주신 분들:
 
@@ -92,7 +92,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="license"></a>
 
-### 라이센스
+### License
 
 [![FOSSA 상태](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ AppImage 패키지는 디스코드는 작동하지만 다른 PreMiD 패키지 (.
 
 <a name="appimageinstall"></a>
 
-### 설치 방법
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### 추가 사항
+### Additional notes
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -146,13 +146,13 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## 아치 리눅스 기반 배포판
+## Arch Linux based distributions
 
 [아치 사용자 레포지토리](https://aur.archlinux.org/packages/premid)를 사용하세요;</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### 설치 방법
+### Installation instructions
 
 ```bash
 # Using yay (recommended)
@@ -182,7 +182,7 @@ pacaur -S premid
 
 <a name="archnotes"></a>
 
-### 추가 사항
+### Additional notes
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 

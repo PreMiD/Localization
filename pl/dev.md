@@ -1,7 +1,7 @@
 ---
 title: Wprowadzenie
 description: Troche porad dla tych co chcą zacząć programować
-published: tak
+published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---

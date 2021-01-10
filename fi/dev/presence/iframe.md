@@ -6,12 +6,12 @@ date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# iFrame-luokka
+# iFrame Class
 > The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
-## Johdanto
+## Introduction
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Menetelmät
+## Methods
 
 ### `send(Object)`
 Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.

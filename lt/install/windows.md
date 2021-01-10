@@ -13,10 +13,10 @@ Aplikacijos įdiegimas yra labai svarbus, nes papildinys pats nieko negali padar
 # Diegti
 1. Eikite į mūsų atsisiuntimų puslapį [spustelėdami čia](https://premid.app/downloads).
 2. Pasirinkite **Windows**.
-3. Atsidarykite įdiegimo programą.
-4. **Windows SmartScreen Apsaugos įspėjimas** pasirodys, jeigu instaliuojate PreMiD pirmą kartą. Spauskite ant **Rodyti daugiau** ir tada pasirinkite **Paleisti vistiek**. > Tai yra dėl to, jog mes neturime kodo pasirašymo sertifikato (CSC). [Paremkite mus](https://www.patreon.com/Timeraa) jog pratęsti PreMiD veiklą.{.is-info}
+3. Open the installer.
+4. **Windows SmartScreen Apsaugos įspėjimas** pasirodys, jeigu instaliuojate PreMiD pirmą kartą. Spauskite ant **Rodyti daugiau** ir tada pasirinkite **Paleisti vistiek**. > Tai yra dėl to, jog mes neturime kodo pasirašymo sertifikato (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-Ši aplikaciją įsijungs automatiškai. Pasitikrinkite simbolį savo sistemos juostoje.
+The application will start automatically. Pasitikrinkite simbolį savo sistemos juostoje.
 
 > Nepamirškite [ pridėti ** papildinio**](/install).{.is-warning}
 

@@ -8,7 +8,7 @@ tags:
 
 Die installering van die uitbreiding is baie belangrik, aangesien die toepassing niks op sigself kan doen nie.
 
-# Installeer
+# Install
 ### Chrome, Edge, ens.
 1. Gaan na ons aflaai bladsy deur [klik hier](https://premid.app/downloads).
 2. **Kies Chromium**.

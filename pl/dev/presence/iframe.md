@@ -1,12 +1,12 @@
 ---
 title: Klasa iFrame
 description:
-published: tak
+published: true
 date: 03.05.2020 20:17
 tags:
 ---
 
-# Klasa iFrame
+# iFrame Class
 > System iframe z PreMiD jest problematyczny i może powodować nieoczekiwane zdarzenia, używaj go ostrożnie. 
 > 
 > {.is-danger}
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Metody
+## Methods
 
 ### `send(Object)`
 Wysyła dane do obecności. Użycie tej metody sprawi, że obecność będzie wydarzeniem `iFrameData`.

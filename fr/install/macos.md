@@ -1,7 +1,7 @@
 ---
 title: macOS
 description: Installation de PreMiD sur macOS
-published: oui
+published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-L'installation de l'application est très importante car l'extension ne peut rien faire par elle-même.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Installation
 1. Rendez-vous sur notre page de téléchargements en [cliquant ici](https://premid.app/downloads).

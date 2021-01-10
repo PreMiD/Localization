@@ -1,5 +1,5 @@
 ---
-title: TypeScript konfiguracija
+title: TypeScript Configuration
 description: Mažas pagalbininkas TypeScript naudojimui
 published: true
 date: 2020-08-05T16:25:22.812Z

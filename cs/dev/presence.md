@@ -18,24 +18,24 @@ Verze `2.x` zavádí [obchod s přítomností](https://premid.app/store). Uživa
 > 
 > {.is-warning}
 
-- [Pokyny](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Struktura
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## Instalace
+## Installation
 
-1. Nainstalujte [Git](https://git-scm.com/).
-2. Nainstalujte [Node](https://nodejs.org/en/) (obsahuje [npm](https://www.npmjs.com/)).
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Klonování projektu
+## Cloning the project
 
 1. Otevřete terminál a napište `git clone https://github.com/PreMiD/Presences`.
-2. Vyberte složku dle vašeho výběru.
-3. Otevřete ji ve svém editoru kódu.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ## Vytváření složek a souborů
 
@@ -127,63 +127,63 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `přispěvatelé`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `nastavení`
+- `settings`
 
 **Clarifying some value presets:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Proměnná</th>
-      <th style="text-align:left">Popis</th>
-      <th style="text-align:left">Typ</th>
-      <th style="text-align:left">Nepovinné</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
-        a kliknutím pravým tlačítkem myši na tvůj profil.</td>
-      <td style="text-align:left"><code>Objekt</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>přispěvatelé</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Jméno je tvé Discord uživatelské jméno bez identifikátoru (#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
-        a kliknutím pravým tlačítkem myši na tvůj profil.</td>
-      <td style="text-align:left"><code>Pole&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Ano</code></td>
+      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>služba</b></td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
       <td style="text-align:left">Be able to search the presence using an alternative name.<br>
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
-      <td style="text-align:left"><code>Pole&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ano</code></td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>popis</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
-      <td style="text-align:left"><code>Objekt</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>URL</b></td>
+      <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
       <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
@@ -191,8 +191,8 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       You can add multiple URLs by doing the following:<br>
       <code>["URL1", "URL2", "ETC."]</code><br>
       You could also use regExp also known as Regex for this task, explained further below.</td>
-      <td style="text-align:left"><code>Řetězec, pole&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
@@ -204,70 +204,70 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ano</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>verze</b></td>
-      <td style="text-align:left">Verze vaší přítomnosti.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Odkaz na službu&apos; s logotypem.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>náhled</b></td>
-      <td style="text-align:left">Odkaz na náhled vašeho stavu.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><b>thumbnail</b></td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>barva</b></td>
-      <td style="text-align:left"><code>#HEX</code> hodnota. Doporučujeme použít primární barvu služby
-        , kterou vaše přítomnost podporuje.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><b>color</b></td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>štítky</b></td>
-      <td style="text-align:left">Pole se značkami, které pomohou uživatelům vyhledat vaši přítomnost na webu.</td>
-      <td style="text-align:left"><code>Řetězec, pole&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Kategorie</b></td>
-      <td style="text-align:left">Řetězec používaný k reprezentaci kategorie, pod kterou přítomnost spadá. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ne</code></td>
+      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Ano</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">Regulární selektor, který vybere iframy, do kterých se má vložit. See regExp for more info.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ano</code></td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
-      <td style="text-align:left"><code>Ano</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>nastavení</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
-      <td style="text-align:left"><code>Pole&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Ano</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -399,8 +399,8 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 
-- [Třída Presence](/dev/presence/class)
+- [Presence Class](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
-- [iFrame Třída](/dev/presence/iframe)
+- [iFrame Class](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
-- [Konfigurace TypeSkriptu](/dev/presence/tsconfig ""){.links-list}
+- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}

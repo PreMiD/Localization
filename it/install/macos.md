@@ -1,19 +1,19 @@
 ---
 title: macOS
 description: Per iniziare con un'installazione di PreMiD su macOS
-published: vero
+published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Prima di proseguire, assicurati che il tuo sistema soddisfi tutti i [requisiti](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-L'installazione dell'applicazione è molto importante, poiché l'estensione non può fare nulla da sola.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Installa
-1. Vai alla nostra pagina dei download [cliccando qui](https://premid.app/downloads).
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Scegli **OS X**.
 3. Estrarre l'archivio se necessario.
 4. Apri l'installatore

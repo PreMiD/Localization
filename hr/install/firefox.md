@@ -17,7 +17,7 @@ Instalacija proširenja je jako važno jer program ne može ništa učiniti sam.
 6. Odaberite datoteku koju ste nedavno preuzeli.
 7. Prihvatite instalaciju klikom na **Dodajte**.
 
-> Ne zaboravite [ dodati ** program**](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 

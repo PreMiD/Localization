@@ -1,7 +1,7 @@
 ---
-title: Konfiguracja TypeScript
+title: TypeScript Configuration
 description: Mały pomocnik do TypeScript
-published: tak
+published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
@@ -61,7 +61,7 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 }
 ```
 
-| Własność            | Opis                                                                                                     |
+| Property            | Opis                                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------------------------- |
 | **extends**         | Używane do rozszerzenia podstawowego pliku `tsconfig` dla różnych zadań.                                 |
 | **compilerOptions** | Zobacz [**Konfiguracja root**](/dev/presence/tsconfig#root-configuration) aby uzyskać więcej informacji. |

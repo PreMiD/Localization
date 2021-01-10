@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Εισαγωγή
+## Introduction
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Μέθοδοι
+## Methods
 
 ### `send(Object)`
 Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.

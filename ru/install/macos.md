@@ -6,14 +6,14 @@ date: 12 февраля 2020г. 22:08:37
 tags:
 ---
 
-> Прежде чем продолжить, убедитесь, что ваша система соответствует [требованиям](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-Установка приложения очень важна, так как расширение не может делать ничего самостоятельно.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Установить
-1. Перейдите на нашу страницу загрузок, нажав [здесь](https://premid.app/downloads).
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Выберите **ОС X**.
 3. При необходимости извлечь архив.
 4. Откройте установщик.

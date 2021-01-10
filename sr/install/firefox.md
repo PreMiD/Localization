@@ -6,10 +6,10 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-Instalacija ekstenzije je veoma bitna jer aplikacija ne može sama učiniti ništa.
+The installation of the extension is very important as the application can not do anything by itself.
 
 # Instaliranje
-1. Idite na našu stranicu za preuzimanja [klikom ovde](https://premid.app/downloads).
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Izaberite **Firefox**.
 3. Ukucajte `about:addons`.
 4. Kliknite na malu ikonu zupčanika u gornjem desnom uglu.
@@ -17,7 +17,7 @@ Instalacija ekstenzije je veoma bitna jer aplikacija ne može sama učiniti niš
 6. Izaberite datoteku koju ste nedavno preuzeli.
 7. Prihvatite instalaciju klikom na **Dodaj**.
 
-> Ne zaboravite da [dodate **aplikaciju**](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 

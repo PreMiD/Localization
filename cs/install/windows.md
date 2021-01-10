@@ -8,13 +8,13 @@ tags:
 
 > Než budete pokračovat, ujistěte se, že váš systém splňuje všechny [požadavky](/install/requirements).{.is-info}
 
-Instalace aplikace je velmi důležitá, protože rozšíření nemůže samo o sobě nic dělat.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Instalace
 1. Jděte na naši stránku ke stažení [kliknutím zde](https://premid.app/downloads).
 2. Zvolte **Windows**.
-3. Otevřete instalační program.
-4. **Windows SmartScreen** se objeví, když poprvé nainstalujete PreMiD. Klikněte na **Další informace** a poté vyberte **Spustit každopádně**. > Důvodem je, že nemáme certifikát pro podpis kódu (CSC). [Podpořte nás](https://www.patreon.com/Timeraa) k jeho financování.{.is-info}
+3. Open the installer.
+4. **Windows SmartScreen** se objeví, když poprvé nainstalujete PreMiD. Klikněte na **Další informace** a poté vyberte **Spustit každopádně**. > Důvodem je, že nemáme certifikát pro podpis kódu (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
 Aplikace se spustí automaticky. Zkontrolujte zda je symbol v systémové liště.
 

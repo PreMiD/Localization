@@ -1,7 +1,7 @@
 ---
 title: Strona główna
 description: Oficjalna dokumentacja v2
-published: tak
+published: true
 date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
@@ -23,7 +23,7 @@ PreMiD jest szybki i łatwy w instalacji. Powinieneś być gotowy i działać be
 - Postępuj zgodnie z szybkim i prostym [przewodnikiem instalacji](/install).
 - [Strona - rozwiązywanie problemów](/troubleshooting) może Ci pomóc rozwiązać problemy.
 
-# Deweloperzy
+# Developers
 
 [Pierwsze kroki](/dev) dla rozwoju PreMiD to Twój pierwszy krok przed napisaniem niektórych rzeczy.
 

@@ -23,7 +23,7 @@ The installation of the application is very important as the extension can not d
   - שאלות נפוצות (בקרוב)
   - Building (soon)
   - [Support](#support)
-  - [תודות](#credits)
+  - [Credits](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -74,13 +74,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="הצטרף לדיסקורד שלנו!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="הצטרף לדיסקורד שלנו!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### תודות
+### Credits
 
 תודה ל :
 

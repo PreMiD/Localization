@@ -18,7 +18,7 @@ Verzija ` 2.x ` uvodi trgovinu [ prisutnosti ](https://premid.app/store). Korisn
 > 
 > {.is-warning}
 
-- [Smjernice](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Strukture
@@ -28,14 +28,14 @@ Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ T
 ## Installation
 
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (dolazi sa [npm](https://www.npmjs.com/)).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Instalirajte [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (otvorite terminal i ` npm install -g typecript `).
 
-## Kloniranje projekta
+## Cloning the project
 
 1. Otvorite terminal i upišite ` git clone https://github.com/PreMiD/Presences </code.</li>
-<li>Izaberite folder po vašem izboru.</li>
-<li>Otvorite ga u uređivaču koda.</li>
+<li>Choose a folder of your choice.</li>
+<li>Open it in your code editor.</li>
 </ol>
 
 <h2 spaces-before="0">Pravljenje foldera i fajlova</h2>
@@ -129,13 +129,13 @@ Napravili smo `metadata.json` kreator datoteka za lijene ljude [ovdje](https://e
 
 Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate urediti vrijednosti svojstava. Imajte na umu da sljedeća svojstva su neobavezna vašoj `metadata.json` datoteci, ako ih ne planirate koristiti, morate ih ukloniti.
 
-- `saradnici`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `podešavanja`
+- `settings`
 
 **Clarifying some value presets:**
 
@@ -143,21 +143,21 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Deskripcija</th>
-      <th style="text-align:left">Tip</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>saradnici</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -179,7 +179,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>deskripcija</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -210,7 +210,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>verzija</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -235,7 +235,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tagovi</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -265,7 +265,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>podešavanja</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -274,7 +274,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
   </tbody>
 </table>
 
-Napravili smo `metadata.json` kreator datoteka za lijene ljude [ovdje](https://eggsy.xyz/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Getting started
 
@@ -401,7 +401,7 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 
-- [Klasa prisutnosti](/dev/presence/class)
+- [Presence Class](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
 - [iFrame Class](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)

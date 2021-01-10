@@ -74,16 +74,16 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Pemboleh ubah</th>
-      <th style="text-align:left">Keterangan</th>
-      <th style="text-align:left">Jenis</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Pilihan</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Harus mengandungi objek dengan nilai nama <code>name</code> dan id <code>id</code> milik pembangun Presence. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). <code>Id</code> pengguna boleh disalin dari Discord dengan membolehkan
         mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -103,11 +103,11 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Membolehkan carian Presence menggunakan nama alternatif.<br>
-      Untuk digunakan dalam Presence yang mempunyai nama berlainan dalam bahasa yang berlainan (spt. Pokémon dan 포켓몬스터).<br>
-      Anda juga boleh gunakannya untuk Presence yang mempunyai aksara istimewa supaya anda tidak perlu menaip aksara tersebut (spt. Pokémon dan Pokemon).</td>
+      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
+      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ya</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>keterangan</b></td>
@@ -121,74 +121,74 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Ini hanya boleh digunakan sebagai tatasusunan apabila terdapatnya lebih dari satu URL.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Tidak</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Rentetan ungkapan nalar digunakan untuk padankan URL.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ya</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>versi</b></td>
       <td style="text-align:left">Versi Presence anda.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Tidak</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Tidak</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Pautan ke lakaran kecil Presence anda.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Tidak</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> value. Kami menggalakkan anda menggunakan warna utama
         dari perkhidmatan yang Presence anda sokong.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Tidak</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tag</b></td>
       <td style="text-align:left">Tatasusunan dengan tag, ianya akan bantu pengguna mencari Presence anda di laman sesawang.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Tidak</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>kategori</b></td>
       <td style="text-align:left">Rentetan digunakan untuk mewakili kategori yang mana Presence berada.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Tidak</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Ya</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ya</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Menentukan sama ada sambungan patut baca log.</td>
+      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ya</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tetapan</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Tatasusunan tetapan yang pengguna boleh ubah</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Ya</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -245,7 +245,7 @@ Tetapkan tetapan saling tindak supaya pengguna boleh mengubah suai Presence ters
 
 ### `multiLanguage`
 
-#### Pengenalan
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Klon projek
+##### Cloning the project
 
 1. Buka terminal dan taip `git clone https://github.com/PreMiD/Localization`.
-2. Pilih folder yang anda suka.
-3. Buka ia dalam penyunting kod anda.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ##### Creating the file
 
@@ -303,7 +303,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Kaedah
+### Methods
 
 Gunakan kaedah berikut untuk mendapatkan maklumat tetapan dalam fail Presence anda:
 #### `getSetting(String)`
@@ -334,7 +334,7 @@ Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence 
     <tr>
       <th style="text-align:left">Kategori</th>
       <th style="text-align:left">Nama</th>
-      <th style="text-align:left">Keterangan</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
@@ -345,27 +345,27 @@ Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence 
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-      <td style="text-align:left"><b>Permainan</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Sebarang laman web yang mempunyai kandungan berkaitan permainan, contohnya <code>Kahoot</code> atau <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-      <td style="text-align:left"><b>Muzik</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Ini laman sesawang yang menawarkan kandungan berkaitan muzik, sama ada melalui penstriman atau muat turun.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Sosial</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Laman sesawang yang digunakan untuk tujuan penciptaan dan perkongsian kandungan atau untuk disertai dalam bentuk rangkaian sosial yang lain.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Video & Strim</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Laman web yang bertujuan untuk menyediakan video dan strim.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-      <td style="text-align:left"><b>Lain-lain</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Apa-apa yang tidak berada di bawah mana-mana kategori khusus di atas.</td>
     </tr>
   </tbody>

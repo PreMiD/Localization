@@ -23,7 +23,7 @@ PreMiD je rýchly a ľahko sa inštaluje. Mali by ste byť v prevádzke hneď.
 - Postupujte rýchlo a jednoducho [inštalačným sprievodcom](/install).
 - [Riešenie problémov](/troubleshooting) vás prevedie riešeniami bežných problémov.
 
-# Vývojári
+# Developers
 
 [Začíname](/dev) pre výrobu PreMiDu váš prvý krok pred kódovaním stoja niektoré veci.
 

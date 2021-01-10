@@ -23,7 +23,7 @@ PreMiD mendedahkan beberapa versi API kami yang berlainan. Anda boleh nyatakan v
 
 Semua perkhidmatan dan protokol lapisan-HTTP (spt. http) dalam API PreMiD menggunakan TLS 1.2.
 
-# Pendokumenan
+# Documentation
 > Sedang dalam pembinaan! 
 > 
 > {.is-danger}

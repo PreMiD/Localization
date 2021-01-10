@@ -1,14 +1,14 @@
 ---
 title: Klasa Presence
 description: Główna klasa dla każdej obecności PreMiD
-published: tak
+published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Klasa Presence
+# Presence Class
 
 ## Wprowadzanie
 
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Zwraca wartość ustawienia.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -173,7 +173,7 @@ console.log(setting); // This will log the value of the setting
 
 ### `hideSetting(String)`
 
-Ukrywa podane ustawienie.
+Hides given setting.
 
 ```typescript
 presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -181,7 +181,7 @@ presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 
 ### `showSetting(String)`
 
-Pokazuje podane ustawienie (działa tylko, jeśli ustawienie było już ukryte).
+Shows given setting (Only works if the setting was already hidden).
 
 ```typescript
 presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -272,7 +272,7 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
     <tr>
       <th style="text-align:left">Zmienna</th>
       <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
@@ -285,7 +285,7 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
     <tr>
       <td style="text-align:left">stan</td>
       <td style="text-align:left">Drugi wiersz w twoim Presence.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -302,29 +302,29 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Określa cały czas trwania.
         <br>Używane jeśli chcesz wyświetlić ile <code>godzin:minut:sekund</code> pozostało.
-          <br>Musisz skonwertować swój czas na <code>znacznik czasu</code> lub otrzymasz złe
-          odliczanie.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Numer</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">duży klawisz mageImageKey</td>
       <td style="text-align:left">Określa logo obecności.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Mały klucz mageKey</td>
       <td style="text-align:left">Określa małą ikonę obok logo obecności&apos;s.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Mały tekst mageText</td>
       <td style="text-align:left">Definiuje tekst, który będzie wyświetlany użytkownikowi, gdy najeźmie małą ikonę
 .</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>

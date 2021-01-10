@@ -6,14 +6,14 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> قبل از بیشتر پیش رفتن، مطمئن شوید که سیستم شماحداقل [نیازها](/install/requirements) را دارد. 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-نصب برنامه خیلی مهم است زیرا افزونه نمی تواند به تنهایی کاری انجام دهد.
+The installation of the application is very important as the extension can not do anything by itself.
 
-# نصب
-1. از طریق [این لینک](https://premid.app/downloads) به صفحه دانلود بروید.
+# Install
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.

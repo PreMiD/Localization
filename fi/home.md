@@ -23,7 +23,7 @@ PreMiD on nopea ja sen on helppo ladata. You should be up and running in no time
 - Seuraa nopeaa ja yksinkertaista [asennusohjetta](/install).
 - [Vianetsintä](/troubleshooting) opastaa sinua ratkaisuissa yleisiin ongelmiin.
 
-# Kehittäjät
+# Developers
 
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 

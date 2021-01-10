@@ -1,14 +1,14 @@
 ---
 title: Linee guida
 description: Regole che tutti gli sviluppatori di presenze devono seguire per aggiungere la loro presenza.
-published: vero
+published: true
 date: 2020-12-29T02:18:29.846Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Linee guida
+# Guidelines
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Per alcuni, queste regole severe possono sembrare dure. However, the implementation of these rule sets will keep us and our users from running into issues.
 
@@ -136,15 +136,15 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 - Lo schema _key_ **deve** includere un segno di dollaro all'inizio di esso, questo segnalerà al tuo editor di testo che vuoi convalidare il tuo file JSON contro un modello. _Come detto in precedenza, non è necessario includere uno schema, ma se lo si include è necessario tenerne conto._
 
-### **`autore`**
+### **`author`**
 
 - L'ID _value_ **deve** essere il tuo Discord snowflake ID. Puoi ottenerlo abilitando [la modalità sviluppatore](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Per favore **non** confondere questo con l'ID dell'applicazione, che è solo per la tua presenza._
 
-### **`collaboratori`**
+### **`contributors`**
 
 - **Non** aggiungerti come contributore, e non aggiungere qualcun altro come contributore a meno che non abbiano aiutato con la presenza.
 
-### **`servizio`**
+### **`service`**
 
 - Il nome del servizio **deve** essere il nome della directory della presence. Per esempio, se la presence si trova in `/websites/Y/YouTube/`, il nome del servizio deve essere `YouTube`.
 - **Non puoi** utilizzare l'url come nome del servizio a meno che il sito non utilizzi l'url come nome ufficiale. Se il nome non è descrittivo e può essere considerato vago, utilizzare l'url è **richiesto**. (per esempio, `YouTube` è permesso perché questo è il nome ufficiale ed è descrittivo, mentre `youtube.com` non lo è. `Top` è un nome non descrittivo, quindi utilizzare l'url `top.gg` è **richiesto**.)
@@ -153,17 +153,17 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 - Da utilizzare **solo** nel caso il sito è sottoposto a nomi ufficiali multipli (es. Pokémon e 포켓몬스터) o per rendere più facile la ricerca della presenza senza usare caratteri speciali (es. Pokémon e Pokemon). Le versioni *abbreviate* dei nomi dei servizi vanno sotto `tags`.
 
-### **`descrizione`**
+### **`description`**
 
 - **Tutte** le presenze sono **richieste** per avere una descrizione inglese indipendentemente dalla lingua preferita del sito.
 - **Non** provare a tradurre tu stesso la descrizione a meno che tu non sappia la lingua, i traduttori modificheranno il tuo `metadata.json` e modificheranno le descrizioni se necessario.
 
-### **`Url`**
+### **`url`**
 
 - L'url **deve** essere una stringa se il sito web utilizza solo un dominio. Se il sito web ne utilizza multipli, fanne un vettore e specifica ciascuno di essi.
 - **Non** includere protocolli nell'url (per es., `http` o `https`), e non includere i parametri di query nell'url (per es., `www.google.com/search?gws_rd=ssl` che dovrebbe essere `www.google.com`)
 
-### **`versione`**
+### **`version`**
 
 - Assicurati sempre che il numero di versione segua [standard di versionamento semantico](https://semver.org), che si traduce nel seguente schema: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Qualsiasi altra cosa come `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` o modifica `1.0.0` a `2.0.` su una correzione di bug/piccolo cambiamento che **non** è permessa.
 - La versione **deve** iniziare sempre da `1.0.0` a meno che non sia stato detto diversamente, alle altre versioni **non** è permesso.
@@ -177,19 +177,19 @@ Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 - La miniatura **deve** preferibilmente essere una [carta promozionale](https://i.imgur.com/3QfIc5v.jpg) o una [schermata](https://i.imgur.com/OAcBmwW.png) se la prima è **non** disponibile.
 
-### **`colore`**
+### **`color`**
 
 - Il colore **deve** essere un valore esadecimale compreso tra `#000000` e `#FFFFFF`.
 - La stringa del colore **deve** essere preceduta da un simbolo hash.
 
-### **`tag`**
+### **`tags`**
 
 - **Tutte** le presenze devono avere almeno _un_ tag.
 - I tag **non** devono includere spazi, slash, virgolette singole/doppie, caratteri Unicode, e dovrebbero essere sempre minuscoli.
 - I tag **devono** preferibilmente includere nomi di servizi alternativi per facilitare la ricerca (ad es. se una presenza di Amazon ha incluso il supporto AWS, avrebbe i suoi tag come `amazon-web-services` e `aws`)
 - **Devi** aggiungere un tag `NSFW` se la presenza è per un sito web NSFW.
 
-### **`Categoria`**
+### **`category`**
 
 - La categoria **deve** essere una delle seguenti elencate nella [documentazione](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 - La presenza deve utilizzare una categoria che corrisponda al contenuto del sito. (per es., non utilizzare `anime` quando il sito web non è correlato ad anime).
@@ -295,7 +295,7 @@ Alcune cose che dovresti sapere dopo aver aperto una pull request:
 
 ## `Controlli`
 
-![Controlli](https://i.imgur.com/BCDZQe9.png)
+![Checks](https://i.imgur.com/BCDZQe9.png)
 
 Attualmente, una presenza passa attraverso 2 stadi separati di controlli. Tutti questi controlli aiutano i revisori a determinare se la tua presence è adatta alla distribuzione.
 

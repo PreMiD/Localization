@@ -17,7 +17,7 @@ Plėtinio įdiegimas yra labai svarbus, nes programa pati nieko negali padaryti.
 6. Pasirinkite failą kurį jūs nesenai atsisiuntėte.
 7. Sutikite su įdiegimo nuspausdami **Pridėti**.
 
-> Nepamirškite [ pridėti ** aplikacijos **](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 

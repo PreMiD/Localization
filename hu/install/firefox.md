@@ -17,8 +17,8 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 6. Válaszd ki a letöltött fájlt.
 7. A telepítés elfogadásához kattints a **Hozzáadás** gombra.
 
-> Ne felejtsd el telepíteni az **alkalmazást**. </p> 
+> Do not forget to [add the **application**](/install). 
 > 
-> {.is-warning}</blockquote> 
-> 
-> ![](https://img.icons8.com/color/2x/firefox.png) {.align-abstopright}
+> {.is-warning}
+
+![](https://img.icons8.com/color/2x/firefox.png) {.align-abstopright}

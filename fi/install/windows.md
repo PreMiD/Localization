@@ -14,9 +14,9 @@ The installation of the application is very important as the extension can not d
 1. Mene lataus-sivullemme [klikkaamalla tästä](https://premid.app/downloads).
 2. Valitse **Windows**.
 3. Avaa asennusohjelma.
-4. **Windows SmartScreen** tulee näkyviin, jos asennat PreMiD ensimmäistä kertaa. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Tue meitä](https://www.patreon.com/Timeraa) rahoittaaksesi sen.{.is-info}
+4. **Windows SmartScreen** tulee näkyviin, jos asennat PreMiD ensimmäistä kertaa. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-Sovellus käynnistyy automaattisesti. Check for the symbol in your system tray.
+The application will start automatically. Check for the symbol in your system tray.
 
 > Älä unohda [lisätä **laajennusta**](/install).{.is-warning}
 

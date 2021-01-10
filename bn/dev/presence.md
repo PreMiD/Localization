@@ -133,7 +133,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `সেটিংস`
+- `settings`
 
 **Clarifying some value presets:**
 
@@ -263,7 +263,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>সেটিংস</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

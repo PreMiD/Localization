@@ -1,5 +1,5 @@
 ---
-title: TypeScript 配置
+title: TypeScript Configuration
 description: TypeScript 的小助手
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -9,7 +9,7 @@ editor: markdown
 
 # TypeScript 配置
 
-## 一. 导言
+## Introduction
 
 当你下载并解压工作区时，你将看到一个名为 `tsconfig的文件。 s` 在 root 和存在文件夹中，此文件用于配置 **TypeScript** 编译器。 它已经为您配置了，所以不要担心这个问题。
 
@@ -61,7 +61,7 @@ editor: markdown
 }
 ```
 
-| 财产                  | 描述                                                               |
+| Property            | 描述                                                               |
 |:------------------- |:---------------------------------------------------------------- |
 | **扩展**              | 用于扩展基础 `tsconfig` 文件用于各种任务。                                      |
 | **compilerOptions** | 更多信息请参阅 [**Root 配置**](/dev/presence/tsconfig#root-configuration) |

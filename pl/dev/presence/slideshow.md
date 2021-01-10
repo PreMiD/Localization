@@ -1,7 +1,7 @@
 ---
 title: Slideshow Class
 description:
-published: tak
+published: true
 date: 2020-12-25T00:47:38.111Z
 tags:
 editor: markdown
@@ -10,7 +10,7 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 # Slideshow Class
 
-## Wprowadzanie
+## Introduction
 
 The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
 
@@ -27,7 +27,7 @@ const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // Will console log the details of the PresenceData
 ```
 
-## Metody
+## Methods
 
 ### `addSlide(String, PresenceData, Number)`
 
@@ -69,7 +69,7 @@ Deletes all slides from the `Slideshow`.
 
 # SlideshowSlide Class
 
-## Wprowadzanie
+## Introduction
 
 A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
@@ -83,7 +83,7 @@ Returns a `String` of the id of the slide.
 
 Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
 
-## Metody
+## Methods
 
 ### `updateData(PresenceData)`
 

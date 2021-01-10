@@ -1,12 +1,12 @@
 ---
 title: فئة iFrame
 description:
-published: صحيح
+published: true
 date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# فئة iFrame
+# iFrame Class
 > نظام iframe مع PreMiD |قد يتعرض لمشاكل ويمكن أن يكون له سلوك غير متوقع، استخدمه بحذر. 
 > 
 > {.is-danger}
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## الطرق
+## Methods
 
 ### `send(Object)`
 Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
@@ -35,7 +35,7 @@ Sends data to the presence. Using this method will make the presence throw a `iF
 ### `getUrl()`
 Returns the URL of the `iframe`.
 
-## أحداث
+## Events
 In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript

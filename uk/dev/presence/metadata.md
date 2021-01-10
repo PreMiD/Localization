@@ -74,7 +74,7 @@ An example of that file can be found below.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Змінна</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Опис</th>
       <th style="text-align:left">Тип</th>
       <th style="text-align:left">За бажанням</th>
@@ -98,7 +98,7 @@ An example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>сервіс</b></td>
       <td style="text-align:left">Назва служби, яку підтримує ця присутність.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -107,12 +107,12 @@ An example of that file can be found below.
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Так</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>опис</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Ваш опис має бути з ключових значень, які вказують на мову, а також опис цієї конкретної мови. Створюйте описи мовами <i>, яких ви знаєте</i>, наші перекладачі будуть вносити зміни до вашого файлу метаданих. View the category for presence languages for a list. </td>
-      <td style="text-align:left"><code>Об'єкт</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -121,74 +121,74 @@ An example of that file can be found below.
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
       <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ні</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Стрічка регулярного виразу, яка використовується для пошуку адрес.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
-      <td style="text-align:left"><code>Так</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>версія</b></td>
       <td style="text-align:left">Версія вашої присутності.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
-      <td style="text-align:left"><code>Ні</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>логотип</b></td>
       <td style="text-align:left">Посилання на сервіс&apos;logotype.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
-      <td style="text-align:left"><code>Ні</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Посилання на мініатюру присутності.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
-      <td style="text-align:left"><code>Ні</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>колір</b></td>
       <td style="text-align:left"><code>#HEX</code> значення. Ми рекомендуємо використовувати основний колір служби
         , який ваша присутність.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
-      <td style="text-align:left"><code>Ні</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>теги</b></td>
       <td style="text-align:left">Масив із мітками, вони допоможуть користувачам шукати вашу присутність на сайті.</td>
-      <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ні</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>категорія</b></td>
       <td style="text-align:left">Рядок, який використовується для представлення категорії, на яку падає присутність.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
-      <td style="text-align:left"><code>Ні</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Визначає, чи використовуються <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Так</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Селектор регулярних виразів, який вибирає iframes для впровадження параметрів.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
-      <td style="text-align:left"><code>Так</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
-      <td style="text-align:left"><code>Так</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>налаштування</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
-      <td style="text-align:left"><code>Масив&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Так</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -245,7 +245,7 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### Вступ
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Клонування проекту
+##### Cloning the project
 
 1. Відкрийте термінал і введіть `git clone https://github.com/PreMiD/Localization`.
-2. Виберіть теку вибору.
-3. Відкрийте його у вашому редакторі коду.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ##### Creating the file
 
@@ -303,7 +303,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Методи
+### Methods
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
@@ -334,38 +334,38 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     <tr>
       <th style="text-align:left">Категорія</th>
       <th style="text-align:left">Ім'я</th>
-      <th style="text-align:left">Опис</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>аніме</b></td>
-      <td style="text-align:left"><b>Аніме</b></td>
+      <td style="text-align:left"><b>Anime</b></td>
       <td style="text-align:left">Все, що пов'язане з анімацією, з форумів до відео-платформ.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>ігри</b></td>
-      <td style="text-align:left"><b>Ігри</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Будь-який сайт, який має пов'язаний з грою, наприклад <code>Кахуот</code> або <code>Скорбл.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>музика</b></td>
-      <td style="text-align:left"><b>Музика</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Це веб-сайти, які пропонують контент, пов'язаний з музикою, чи це трансляцію чи завантаження.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>соціальне</b></td>
-        <td style="text-align:left"><b>Соціальне</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Веб-сайти, які використовуються для створення та обміну контентом, або для участі в інших соціальних мережах.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>відео</b></td>
-        <td style="text-align:left"><b>Відео & прямі трансляції</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Веб-сайти, які служать цілі визначення відео та потоків.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>інше</b></td>
-      <td style="text-align:left"><b>Інше</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Все, що не належить до конкретної категорії, вказаної вище.</td>
     </tr>
   </tbody>

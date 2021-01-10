@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Τάξη Παρουσίας
+# Presence Class
 
 ## Εισαγωγή
 
@@ -272,7 +272,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Περιγραφή</th>
-      <th style="text-align:left">Τύπος</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>

@@ -4,7 +4,7 @@ description: PreMiD의 주요 기능들.
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:
-editor: 마크다운
+editor: markdown
 ---
 
 PreMid는 당신이 웹에서 하고 있는 행동을 Discord 상태 메세지에 표시해주는 간단한 서비스 입니다. 다양한 플랫폼을 지원하며 향후 업데이트에서 동일한 콘텐츠를 동시에 보는 여러 사용자를 지원할 예정입니다.

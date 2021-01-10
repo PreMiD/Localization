@@ -23,7 +23,7 @@ PreMiD izlaže različite verzije našeg API-a. Možete da izaberete verziju tak
 
 Svi HTTP servisi i protokoli (npr. http) u PreMiD API-u koriste TLS 1.2.
 
-# Dokumentacija
+# Documentation
 > Trenutno u izradi! 
 > 
 > {.is-danger}

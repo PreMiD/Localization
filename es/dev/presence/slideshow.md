@@ -1,5 +1,5 @@
 ---
-title: Clase SlideshowSlide
+title: Slideshow Class
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,15 +8,15 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Clase SlideshowSlide
+# Slideshow Class
 
-## Introducción
+## Introduction
 
 La clase `Slideshow` se utiliza para establecer múltiples `PresenceData` y "deslizar" a través de cada uno dad x milisegundos (mínimo: 5000).
 
 Consulta el método [`crearSlideshow`](/dev/presence/class#createslideshow) en la clase [`Presence`](/dev/presence/class) sobre cómo crear una `Slideshow`.
 
-## Propiedades
+## Properties
 
 ### `currentSlide`
 
@@ -27,7 +27,7 @@ const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // Mostrará los detallas de PresenceData
 ```
 
-## Métodos
+## Methods
 
 ### `addSlide(String, PresenceData, Number)`
 
@@ -49,9 +49,9 @@ Actualiza la diapositiva del `id` dado de acuerdo a los datos proporcionados.
 
 El primer parámetro requiere un `String` que es el identificador único de la diapositiva que se desea actualizar.
 
-El segundo parámetro requiere una interfaz [`PresenceData`](/dev/presence/class#presencedata-interface) para obtener toda la información que se desea mostrar en la diapositiva.
+Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
 
-El tercer parámetro requiere un `Number` que es la cantidad de tiempo en milisegundos que mostrará esta diapositiva (mínimo: 5000).
+Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
 
 ### `hasSlide(String)`
 
@@ -69,11 +69,11 @@ Elimina todas las diapositivas del `Slideshow`.
 
 # Clase SlideshowSlide
 
-## Introducción
+## Introduction
 
 Una `SlideshowSlide` es la representación interna de cada diapositiva `Slideshow`.
 
-## Propiedades
+## Properties
 
 ### `id`
 
@@ -83,7 +83,7 @@ Devuelve un `String` del id de la diapositiva.
 
 Devuelve un objeto [`PresenceData`](/dev/presence/class#presencedata-interface) del `PresenceData` guardado en la diapositiva.
 
-## Métodos
+## Methods
 
 ### `updateData(PresenceData)`
 

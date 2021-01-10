@@ -23,7 +23,7 @@ PreMiD yra greitai ir lengvai įdiegiamas. Jūs turėtumėte būti pasirengę ir
 - Sekite greitą ir paprastą [instaliacijos gidą](/install).
 - [Problemų sprendimas](/troubleshooting) Padės jums rasti išeitis į dažniausiai kylančias bėdas.
 
-# Kūrėjai
+# Developers
 
 [Pradžia](/dev) for PreMiD kūrybai yra jūsų pirmasis žingsnis prieš koduojant kai kuriuos dalykus.
 
