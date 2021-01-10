@@ -35,10 +35,6 @@
     "message": "Contribuidores",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Iniciar sessão",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Conectado como",
     "description": "Indicates which user is logged in"
