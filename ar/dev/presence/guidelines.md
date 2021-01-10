@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# الإرشادات
+# Guidelines
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. للبعض. قد تبدو هذه قواعد صارمة. However, the implementation of these rule sets will keep us and our users from running into issues.
 
@@ -136,60 +136,60 @@ presence
 
 - مفتاح _المخطط_ **يجب** أن يتضمن إشارة الدولار في بدايته، هذا سيشير إلى محرر النص الخاص بك الذي تريد التحقق به من صحة ملف JSON الخاص بك في مقابل نموذج. _كما ذكر سابقا، أنت لست بحاجة إلى إدراج مخطط، ولكن إذا قمت بتضمينه، يجب أن تأخذ هذا في الاعتبار_
 
-### **`المطور`**
+### **`author`**
 
 - The ID _value_ **must** be your Discord snowflake ID. يمكنك الحصول عليها عن طريق تمكين وضع المطور [](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _الرجاء عمل**ليس**لتخلط بين هذا وبين معرف التطبيق الخاص بك ، وهو فقط لملفpresence._
 
-### **`المساهمون`**
+### **`contributors`**
 
 - **لا** تضيف نفسك كمساهم، ولا تضيف شخصاً آخر كمساهم إلا إذا كان قد ساعد في الpresence.
 
-### **`خدمة`**
+### **`service`**
 
 - The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
-### **`أسماء`**
+### **`altnames`**
 
 - **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`الوصف`**
+### **`description`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
-### **`رابط`**
+### **`url`**
 
 - The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`الإصدار`**
+### **`version`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
 
-### **`الشعار`**
+### **`logo`**
 
 - The logo **must** be a square image with a `1:1` aspect ratio.
 - The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
-### **`صورة المصغرة`**
+### **`thumbnail`**
 
 - The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
 
-### **`لون`**
+### **`color`**
 
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
-### **`التصنيفات`**
+### **`tags`**
 
 - **All** presences are required to have at least _one_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
 - Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
 - You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
 
-### **`الفئة`**
+### **`category`**
 
 - The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 - The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
