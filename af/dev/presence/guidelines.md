@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Riglyne
+# Guidelines
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Vir sommige mense kan hierdie streng reëls streng lyk. However, the implementation of these rule sets will keep us and our users from running into issues.
 
@@ -140,7 +140,7 @@ A list of fields and their rules are listed below:
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`bydraers`**
+### **`contributors`**
 
 - Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
@@ -153,7 +153,7 @@ A list of fields and their rules are listed below:
 
 - **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`beskrywing`**
+### **`description`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
