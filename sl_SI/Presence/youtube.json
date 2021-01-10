@@ -31,10 +31,6 @@
         "message": "Ogledovanje kar je popularno",
         "description": ""
     },
-    "youtube.browsingThrough": {
-        "message": "Brskanje po",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
     "youtube.subscriptions": {
         "message": "njihovih naročnin",
         "description": "Part two of \"Browsing through\""
@@ -53,10 +49,6 @@
     },
     "youtube.reportHistory": {
         "message": "Ogledovanje njihovih zgodovin prijav",
-        "description": ""
-    },
-    "youtube.upload": {
-        "message": "Nalaganje nekaj...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
