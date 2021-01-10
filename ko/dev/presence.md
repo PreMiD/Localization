@@ -4,7 +4,7 @@ description:
 published: true
 date: 2020-12-26T15:02:54.817Z
 tags:
-editor: 마크다운
+editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
@@ -18,24 +18,24 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-warning}
 
-- [지침](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # 구조
 
 모든 Presence들은 [TypeScript](https://www.typescriptlang.org/)에 코딩되어 있어요. [TypeScript](https://www.typescriptlang.org/)는 JavaScript에 비해 더 구체적인 정보를 담고 있어, 버그를 찾아내어 고치는 것이 쉬워요.
 
-## 설치하기
+## Installation
 
-1. [Git](https://git-scm.com/) 설치하기
-2. [Node](https://nodejs.org/en/) 설치하기 ([npm](https://www.npmjs.com/)에 포함되어 있음)
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. [TypeScript](https://www.typescriptlang.org/index.html#download-links) 설치하기 (터미널 실행 후 "`npm install -g typescript`" 입력하기)
 
-## Presence 복사하기
+## Cloning the project
 
 1. 터미널을 열어 `git clone https://github.com/PreMiD/Presences`를 입력하세요.
-2. 원하는 폴더를 선택하세요.
-3. 이것을 당신의 코드 편집기로 실행하세요.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ## 폴더 및 파일 생성하기
 
@@ -127,35 +127,35 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
 
 다음 코드를 복사해 `metadata.json` 파일에 붙여 넣으세요. 이제 속성 값을 수정해야 해요. 참고로 다음 속성들은 당신의 `metadata.json` 파일에 선택 사항이기 때문에, 만약 쓰지 않을 것이라면 지워주세요.
 
-- `기여자`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `설정`
+- `settings`
 
 **다음은 변수들에 대한 설명입니다:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">변수</th>
-      <th style="text-align:left">설명</th>
-      <th style="text-align:left">유형</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>제작자</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>기여자</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>설명</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -208,7 +208,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>버전</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -233,7 +233,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>태그</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -263,7 +263,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>설정</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -272,7 +272,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
   </tbody>
 </table>
 
-게으른 녀석들을 위해 우리가 `metadata.json`파일 생성기를 만들었어요. [여기를 클릭하세요](https://eggsy.xyz/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## 시작하기
 
