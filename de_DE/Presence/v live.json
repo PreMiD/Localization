@@ -1,4 +1,8 @@
 {
+	"v live.browseThrough": {
+		"message": "Durchstöbert",
+		"description": "The first part of the next 6 strings"
+	},
 	"v live.newVid": {
 		"message": "die Neuheiten",
 		"description": "Second part of the \"Browsing through\" string"
@@ -8,7 +12,7 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.upcoming": {
-		"message": "bevorstehende Uploads",
+		"message": "den Sendeplan",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.channelList": {
