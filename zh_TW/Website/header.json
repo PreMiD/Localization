@@ -35,10 +35,6 @@
     "message": "貢獻者",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "登入",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "登入為",
     "description": "Indicates which user is logged in"
