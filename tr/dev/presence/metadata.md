@@ -109,7 +109,7 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Servisin açıklaması, presence'nin <b>DEĞİL</b>. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir. Bir liste için servis dilleri kategorisine bakın. </td>
+      <td style="text-align:left">Servisin bağlı olduğu sitenin açıklaması, yaptığınız servisin <b>DEĞİL</b>. Açıklamalarınız dilin kodu ve bu dille yazılmış açıklamanın kendisini içermelidir. Sadece <i>bildiğiniz</i> dillerin çevirisini yapın, geri kalanları ilerleyen zamanlarda çevirmen ekibimiz halledecektir. Bir liste için servis dilleri kategorisine bakın. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Hayır</code></td>
     </tr>
