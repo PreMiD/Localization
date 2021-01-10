@@ -1,7 +1,7 @@
 ---
 title: Chromium
 description: 開始在Chromium基礎的瀏覽器安裝PreMiD
-published: 是
+published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
 ---
