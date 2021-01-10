@@ -55,10 +55,6 @@
         "message": "履歴を閲覧中",
         "description": ""
     },
-    "amazon.store": {
-        "message": "ストアを閲覧中:",
-        "description": ""
-    },
     "amazon.primeVid": {
         "message": "プライムビデオを閲覧中:",
         "description": ""
