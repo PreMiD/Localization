@@ -55,16 +55,8 @@
 		"message": "Kategorije",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Sve",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Igre",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Glazba",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
