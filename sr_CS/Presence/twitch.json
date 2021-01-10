@@ -1,18 +1,1 @@
-{
-	"twitch.downloads": {
-		"message": "Preuzimanja",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Partneri",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Glavna strana",
-		"description": "Page name"
-	},
-	"twitch.viewTheir": {
-		"message": "Gleda svoje",
-		"description": "Part 1 of the next 10 strings"
-	}
-}
+{}
