@@ -3,10 +3,6 @@
 		"message": "拡張機能が接続されていません。",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "作者",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "大人気のプレゼンス",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "カテゴリー",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "すべて",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "ゲーム",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "音楽",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
