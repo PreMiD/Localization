@@ -1,4 +1,8 @@
 {
+	"maintenance.big": {
+		"message": "Olamaz!",
+		"description": "The big text on maintenance page"
+	},
 	"maintenance.heading": {
 		"message": "Maalesef bazı teknik sorunlar yaşıyoruz. En kısa zamanda yeniden aktif olacağız. Verdiğimiz rahatsızlıktan dolayı özür dileriz.",
 		"description": "Heading on maintenance page"
