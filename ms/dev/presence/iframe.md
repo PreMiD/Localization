@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Pengenalan
+## Introduction
 
 Dalam sesetengah senario, Presence anda mungkin perlu capai unsur di dalam `iframes`.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Kaedah
+## Methods
 
 ### `send(Object)`
 Hantar data ke Presence. Penggunaan kaedah ini akan buatkan Presence mengembalikan peristiwa `iFrameData`.
