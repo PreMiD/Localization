@@ -18,12 +18,12 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
 
 - **[O programie](#about)**
   - [Statystyki](#stats)
-  - [Wymaganie](#requirements)
+  - [Requirements](#requirements)
   - Przykłady (wkrótce)
   - FAQ (wkrótce)
   - Budowa (wkrótce)
   - [Wsparcie / pomoc](#support)
-  - [Twórcy](#credits)
+  - [Credits](#credits)
   - [Licencja](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _nigdy_ ™️)
 - **[Portable AppImage](#appimage)** (_ZALECANE_)
@@ -35,13 +35,13 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
 
 <a name="about"></a>
 
-## O programie
+## About
 
 **PreMiD** to proste, konfigurowalne narzędzie, które wykorzystuje bibliotekę Discord RP (Rich Presence), która pozwala pokazać, co robisz w sieci (i w innych programach) na swoim profilu Discord jako **status użytkownika**.
 
 <a name="stats"></a>
 
-### Statystyki
+### Stats
 
 <table>
   <tr>
@@ -52,13 +52,13 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Wszystkie wydania"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Najnowsze wydanie"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Wydania Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Wydania Github"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Wymaganie
+### Requirements
 
 Technicznie każda dystrybucja, która może uruchamiać [oficjalną](https://discordapp.com/download) **aplikację Discorda** ( nie wersja internetowa )  może również uruchamiać PreMiD;</br> Jak zapewne zauważyliście w ostatnich latach, niektóre dystrybucje Linuksa zaczęły rezygnować z obsługi architektur 32-bitowych (ia32/i686/i386/x86) w wyniku czego my również. Możesz jednak spróbować samodzielnie zbudować aplikację, jeśli bardzo jej potrzebujesz w wersji  32-bitowej. </br> Ponieważ obecnie używamy Electron jako silnika (Discord też!), jego wymagania dotyczą również tej aplikacji:
 
@@ -70,17 +70,17 @@ Nie wiadomo, czy starsze wersje innych dystrybucji go obsługują, więc po pros
 
 <a name="support"></a>
 
-### Wsparcie / pomoc
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Dołącz do naszego Discorda!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Dołącz do naszego Discorda!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Twórcy
+### Credits
 
 Podziękowania dla:
 
@@ -92,7 +92,7 @@ Podziękowania dla:
 
 <a name="license"></a>
 
-### Licencja
+### License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ Pakiet AppImage jest zalecany, jeśli Discord działa, ale inne pakiety PreMiD (
 
 <a name="appimageinstall"></a>
 
-### Instrukcje Instalacji
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Dodatkowe uwagi
+### Additional notes
 
 Jeśli chcesz wypróbować PreMiD, albo po prostu nie chcesz go instalować, ten jest najlepszy, jest zawsze aktualny, ale _NIE URUCHAMIA SIĘ AUTOMATYCZNIE Z SYSTEMEM!_</br>Jeśli męczy Cię konieczność otwierania go za każdym razem, użyj innych pakietów (zgodnie z dystrybucją).
 
@@ -146,13 +146,13 @@ Jeśli komenda nie działa, pobierz plik **deb/rpm** z naszego repozytorium paki
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Dystrybucje oparte na Arch Linuksie
+## Arch Linux based distributions
 
 Użycie [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Obsługiwane dystrybucje to _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS i [każda, która obsługuje instalację z AUR ](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Instrukcje Instalacji
+### Installation instructions
 
 ```bash
 # Użycie yay (zalecane)
@@ -182,7 +182,7 @@ lub ręcznie z [Arch User Repository](https://aur.archlinux.org/packages/premid)
 
 <a name="archnotes"></a>
 
-### Dodatkowe uwagi
+### Additional notes
 
 Jeśli twoja dystrybucja używa Pacmana, musisz najpierw zainstalować jednego z pomocników. Jeśli nie masz, Yay jest zalecane, uruchom:
 
