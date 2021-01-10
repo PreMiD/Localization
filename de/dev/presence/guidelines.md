@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Richtlinien
+# Guidelines
 
 Wenn du Presences in unserer [GitHub Repository](https://github.com/PreMiD/Presences) veröffentlichst, musst du eine Reihe von Richtlinien befolgen. Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regeln verhindert jedoch, dass wir und die Nutzer auf Probleme stößen.
 
@@ -136,11 +136,11 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 - Der Schema _Key_ **muss** am Anfang ein Dollarzeichen enthalten. Dieses signalisiert deinem Texteditor, dass du deine JSON-Datei gegen ein Modell validieren möchtest. _Wie bereits erwähnt, muss kein Schema angegeben werden, aber wenn du es angibst, muss dieses berücksichtigt werden._
 
-### **`autor`**
+### **`author`**
 
 - Der ID _Wert_ **muss** deiner Discord snowflake ID entsprechen. Du kannst es durch das Aktivieren des [Entwicklermodus](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) erhalten. _Verwechsle diese bitte **nicht** mit deiner Anwendungs-ID, welche nur für deine Presence gilt._
 
-### **`mitwirkende`**
+### **`contributors`**
 
 - Füge dich selbst und andere **nicht** als Mitwirkende hinzu, es sei denn sie haben dir bei deiner Presence geholfen.
 
@@ -153,7 +153,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 - Benutze dies **ausschließlich** in Szenarien, in denen eine Website mehrere offizielle Namen hat (beispielsweise Pokémon und 포켓몬스터) oder vereinfache die Suche der Presence durch Weglassen von Sonderzeichen (zum Beispiel Pokémon und Pokemon). *Verkürzte* Versionen von Services gehen unter `Tags`.
 
-### **`beschreibung`**
+### **`description`**
 
 - **Alle** Präsenzen müssen, **ohne Rücksicht** auf die bevorzugt Sprache der Webseite, eine englische Beschreibung haben^.
 - Versuche **nicht** die Seite selbst zu übersetzen, es sei denn du kennst diese Sprache. Übersetzer werden deine `metadata.json` modifizieren und falls nötig Änderungen an der Beschreibungen vornehmen.
@@ -189,7 +189,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 - Tags **sollten** vorzugsweise abwechslungsreiche Servicenamen enthalten um die Suche zu vereinfachen (sollte die Amazon-Präsenz beispielsweise AWS-Unterstützung haben, hätte es Tags wie `amazon-web-services` und `aws`).
 - Es ist **erforderlich** einen `NSFW` Tag hinzuzufügen, wenn die Präsenz für eine NSFW Webseite ist.
 
-### **`kategorie`**
+### **`category`**
 
 - Die Kategorie **muss** eine der folgenden Aufgelisteten aus der [Dokumentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories) sein.
 - Die Presence muss eine Kategorie nutzen, die zum Inhalt auf der Website passt. (Benutze zum Beispiel nicht `Anime`, wenn die Website keinen Bezug zu Anime hat).
@@ -295,7 +295,7 @@ Ein paar Dinge, die du nach dem Öffnen einer Pull-Request wissen solltest:
 
 ## `Kontrollen`
 
-![Kontrollen](https://i.imgur.com/BCDZQe9.png)
+![Checks](https://i.imgur.com/BCDZQe9.png)
 
 Derzeit durchläuft eine Presence zwei separate Phasen der Kontrolle. Alle diese Checks helfen den Prüfern zu ermitteln, ob deine Presence für den Einsatz geeignet ist.
 
