@@ -1,7 +1,7 @@
 ---
 title: 開始使用
 description: 如果你剛剛開始寫程式，有一點提示給你
-published: 是
+published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
