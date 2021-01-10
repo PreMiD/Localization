@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Introducere
+## Introduction
 
 In some scenarios, your presence may need to access elements inside of `iframes`.
 
