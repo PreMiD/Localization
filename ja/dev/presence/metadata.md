@@ -83,7 +83,7 @@ An example of that file can be found below.
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 NameはあなたのDiscordタグから識別子(#0000) を取ったもので、 <code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. NameはあなたのDiscordタグから識別子(#0000) を取ったもので、 <code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>不可</code></td>
     </tr>
@@ -105,7 +105,7 @@ An example of that file can be found below.
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>可</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
@@ -119,13 +119,13 @@ An example of that file can be found below.
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>不可</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">URLを検出するのに使用する正規表現です。</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>可</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
@@ -161,7 +161,7 @@ An example of that file can be found below.
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">プレゼンスが当てはまるカテゴリー名の文字列です。</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>不可</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
@@ -173,19 +173,19 @@ An example of that file can be found below.
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">挿入するiframeを検出するのに使用する正規表現</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>可</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>可</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>設定</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>可</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
@@ -242,7 +242,7 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### 説明
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -256,11 +256,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### プロジェクトをクローンする
+##### Cloning the project
 
 1. ターミナルを開き `git clone https://github.com/PreMiD/Localization` と入力する
-2. 任意のフォルダーを選択する
-3. ソースコードエディターで開く
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ##### Creating the file
 
@@ -300,7 +300,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### メソッド
+### Methods
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
@@ -331,38 +331,38 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
     <tr>
       <th style="text-align:left">カテゴリー</th>
       <th style="text-align:left">名前</th>
-      <th style="text-align:left">概要</th>
+      <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>anime</b></td>
-      <td style="text-align:left"><b>アニメ</b></td>
+      <td style="text-align:left"><b>Anime</b></td>
       <td style="text-align:left">アニメに関する掲示板や動画サイトなどすべてのもの</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-      <td style="text-align:left"><b>ゲーム</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left"><code>Kahoot</code>や<code>Skribbl.io</code>のようなゲーム関連のウェブサイト</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-      <td style="text-align:left"><b>音楽</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">これは、ストリーミングやダウンロードなど、音楽関連のコンテンツを提供するサイト</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>SNS</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">コンテンツの作成と共有や、その他の方法でSNSに関わるウェブサイト</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>動画と配信</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">動画や配信の提供が目的のウェブサイト</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-      <td style="text-align:left"><b>その他</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">以上のカテゴリーのどれにも当てはまらないもの</td>
     </tr>
   </tbody>
