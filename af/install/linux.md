@@ -23,7 +23,7 @@ Die installering van die toepassing is baie belangrik, aangesien die uitbreiding
   - Gereelde vrae (binnekort)
   - Gebou (binnekort)
   - [Ondersteuning](#support)
-  - [Krediete](#credits)
+  - [Credits](#credits)
   - [Lisensie](#license)
 - **[Snapcraft](#snapcraft)**(TL;DR : _nooit nie_™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -41,7 +41,7 @@ Die installering van die toepassing is baie belangrik, aangesien die uitbreiding
 
 <a name="stats"></a>
 
-### Statistieke
+### Stats
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Ondersteuning
+### Support
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
@@ -80,7 +80,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="credits"></a>
 
-### Krediete
+### Credits
 
 Thanks to :
 
@@ -92,7 +92,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### Lisensie
+### License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
