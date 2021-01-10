@@ -18,24 +18,24 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-warning}
 
-- [Руководство](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Структура
 
 Все присутствие кодируется в [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) имеет некоторые острые определения типов на JavaScript, так что исправление и идентификация ошибок проще.
 
-## Установка
+## Installation
 
-1. Установить [Иди](https://git-scm.com/).
-2. Установить [узел](https://nodejs.org/en/) (поставляется с [npm](https://www.npmjs.com/)).
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Установка [TypeScript](https://www.typescriptlang.org/index.html#download-links) (откройте терминал и введите `npm install -g typescript`).
 
-## Клонирование проекта
+## Cloning the project
 
 1. Откройте терминал и введите `git clone https://github.com/PreMiD/Presences`.
-2. Выберите папку по вашему выбору.
-3. Откройте это в вашем редакторе кода.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
 ## Создание папок и файлов
 
@@ -140,33 +140,33 @@ dateCreated: 2020-06-11T18:04:02.843Z
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Переменная</th>
-      <th style="text-align:left">Описание</th>
-      <th style="text-align:left">Тип</th>
-      <th style="text-align:left">Необязательно</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
-        режим и правый клик на вашем профиле.</td>
+      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. Имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
-        режим и правый клик на вашем профиле.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Название службы, поддерживаемой этим присутствием.<br>
       (Должно быть таким же именем, как папка, в которой находится все)</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
@@ -174,13 +174,13 @@ dateCreated: 2020-06-11T18:04:02.843Z
       Предназначен для использования для присутствий с разными названиями на разных языках. (e.g. Pokémon and 포켓몬스터).<br>
       Вы также можете использовать его для присутствий со специальными символами, поэтому вам не нужно их вводить (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание услуги, если у вас нет идей. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
+      <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание услуги, если у вас нет идей. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
@@ -192,7 +192,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 <code>["URL1", "URL2", "ETC."]</code><br>
 Вы также можете использовать regExp, также известное как Regex, для этой задачи, более подробно объясненное ниже.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
@@ -204,75 +204,75 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <code>([a-z0-9]+)</code> означает что угодно от a до z и от 0 до 9.<br>
       Вы можете быстро начать, посмотрев это <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       Вы можете проверить свой regExp на <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Версия вашего присутствия.</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Ссылка на сервис&apos;с логотипом</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Ссылка на миниатюру вашего присутствия.</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> значение. Мы рекомендуем использовать основной цвет сервиса
-        , который поддерживает ваше присутствие.</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Массив меток, они помогут пользователям найти ваше присутствие на сайте.</td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">Строка, используемая для представления категории присутствия. Смотрите действительные катергории <a href="https://docs. premid. app/dev/presence/metadata#presence-categories">здесь</a>.</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. Смотрите действительные катергории <a href="https://docs. premid. app/dev/presence/metadata#presence-categories">здесь</a>.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Определяет, используются ли <code>iFrames</code>.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into. Подробнее см. в regExp.</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Подробнее см. в regExp.</td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
-      <td style="text-align:left"><code>Строка</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Массив настроек, которые пользователь может изменить.<br>
       Подробнее о настройках присутствия <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">здесь</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
 
-Мы сделали `metadata.json` создатель файлов для ленивых [Вот](https://eggsy.xyz/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Начало работы
 
@@ -398,8 +398,8 @@ presence.on("iFrameData", (данные) => {
 
 # Больше информации
 
-- [Класс присутствия](/dev/presence/class)
+- [Presence Class](/dev/presence/class)
 - [Класс слайд-шоу](/dev/presence/slideshow)
-- [Класс iFrame](/dev/presence/iframe)
+- [iFrame Class](/dev/presence/iframe)
 - [Файл Метаданных](/dev/presence/metadata)
-- [Настройка TypeScript](/dev/presence/tsconfig ""){.links-list}
+- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
