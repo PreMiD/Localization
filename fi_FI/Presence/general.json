@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Selaa...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Luku",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Genre",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Kieli",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Kuuntelee musiikkia",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Kuuntelijat",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Suora",
 		"description": ""
 	},
 	"general.manga": {
@@ -67,10 +51,6 @@
 		"message": "Toistaa",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Luetaan",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Etsii:",
 		"description": ""
@@ -79,16 +59,8 @@
 		"message": "Etsii jotain...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Etsii",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Ostoskori",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Kauppa",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -153,10 +125,6 @@
 	},
 	"general.viewing": {
 		"message": "Katsoo:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "Katsoo sivua:",
 		"description": ""
 	},
 	"general.watchingVid": {

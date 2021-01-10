@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "एनिमी",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "ब्राउजिंग",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "अध्याय",
 		"description": ""
@@ -37,10 +29,6 @@
 	},
 	"general.listeners": {
 		"message": "श्रोताओं",
-		"description": ""
-	},
-	"general.live": {
-		"message": "लाइव",
 		"description": ""
 	},
 	"general.manga": {
@@ -87,20 +75,12 @@
 		"message": "Reading thread:\nपढ़ना धागा:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "पढ़ना",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "इसे खोजें:",
 		"description": ""
 	},
 	"general.searchSomething": {
 		"message": "कुछ खोज रहा है...",
-		"description": ""
-	},
-	"general.search": {
-		"message": "खोज रहा है",
 		"description": ""
 	},
 	"general.shopCart": {

@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Parceiros",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Junte-se ao pessoal e obtenha alguns benefícios exclusivos de parceiros para mostrar quanto swag tem.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Destacado em nossas redes sociais.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Requisitos",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "O que estamos a procurar?",
@@ -132,7 +124,7 @@
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "Comunique-se facilmente com o status em tempo real aos seus usuários.",
+		"message": "Comunique-se facilmente com o status em tempo real aos seus utilizadores.",
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.erisly": {
@@ -183,14 +175,6 @@
 		"message": "Website",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Outro",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Nome",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
 		"description": "Name field's placeholder."
@@ -226,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Aplicar",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Obrigado por se candidatar!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Por favor, preencha todos os campos.",

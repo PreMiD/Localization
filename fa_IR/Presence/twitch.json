@@ -1,18 +1,10 @@
 {
-	"twitch.downloads": {
-		"message": "دانلود ها",
-		"description": "Page name"
-	},
 	"twitch.jobs": {
 		"message": "کارها",
 		"description": "Page name"
 	},
 	"twitch.turbo": {
 		"message": "توربو",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "همکاران",
 		"description": "Page name"
 	},
 	"twitch.press": {
@@ -33,10 +25,6 @@
 	},
 	"twitch.guidelines": {
 		"message": "قوانین و ضوابط انجمن",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "صفحه اصلی",
 		"description": "Page name"
 	},
 	"twitch.wallet": {
@@ -118,10 +106,6 @@
 	"twitch.produce": {
 		"message": "در فیلم ساز...",
 		"description": ""
-	},
-	"twitch.viewTheir": {
-		"message": "در حال تماشای آنجا",
-		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
 		"message": "تجزیه و تحلیل کانال",

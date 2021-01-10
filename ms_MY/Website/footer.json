@@ -59,10 +59,6 @@
 		"message": "Bantuan",
 		"description": "Help section"
 	},
-	"footer.help.troubleshooting": {
-		"message": "Selesaikan masalah",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.getsupport": {
 		"message": "Dapatkan Bantuan",
 		"description": "Get Support -> redirects to Discord invite"
@@ -90,10 +86,6 @@
 	"footer.more.status": {
 		"message": "Status",
 		"description": "Status -> redirects to status.premid.app"
-	},
-	"footer.more.wiki": {
-		"message": "Wiki",
-		"description": "Wiki -> redirects to wiki.premid.app"
 	},
 	"footer.copyright.line1": {
 		"message": "{0} oleh {1}",

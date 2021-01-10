@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "合作伙伴",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "加入并获得一些仅限合作伙伴才有的豪华待遇来让你出类拔萃！",
 		"description": "Description for page."
@@ -131,14 +127,6 @@
 		"message": "网站",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "其他",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "名称",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "例子: PreMiD",
 		"description": "Name field's placeholder."
@@ -174,10 +162,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "申请",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "感谢你的申请！",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "请填写所有字段。",

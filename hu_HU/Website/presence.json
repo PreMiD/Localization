@@ -7,10 +7,6 @@
 		"message": "Leírás",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Módosítási napló",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Információ",
 		"description": "The title of the information section."

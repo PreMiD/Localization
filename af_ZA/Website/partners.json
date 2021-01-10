@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Vennote",
-		"description": "Heading for page."
-	},
 	"partners.sponsors.title": {
 		"message": "Borge",
 		"description": "Heading for sponsors."
@@ -22,10 +18,6 @@
 	"partners.apply.select.website": {
 		"message": "Webwerf",
 		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Ander",
-		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.link": {
 		"message": "Skakel",

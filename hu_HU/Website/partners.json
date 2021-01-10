@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partnerek",
-		"description": "Heading for page."
-	},
 	"partners.slideshow.description": {
 		"message": "Ezek már hozzánk tartoznak",
 		"description": "Description for slideshow."
@@ -14,10 +10,6 @@
 	"partners.why.benefit5.title": {
 		"message": "Légy híres",
 		"description": "Heading for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Követelmények",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Mit keresünk?",
@@ -63,10 +55,6 @@
 		"message": "Weboldal",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Egyéb",
-		"description": "Select 'Other' category."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
 		"description": "Name field's placeholder."
@@ -94,10 +82,6 @@
 	"partners.apply.form.button.close": {
 		"message": "Bezárás",
 		"description": "Modal close button."
-	},
-	"partners.apply.success": {
-		"message": "Köszönjük jelentkezésedet!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Kérlek, töltsd ki az összes mezőt.",

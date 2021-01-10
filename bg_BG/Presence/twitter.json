@@ -3,10 +3,6 @@
         "message": "Чете туит:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "Гледа своите лични съобщения",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "Чете туитове на:",
         "description": ""

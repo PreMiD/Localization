@@ -1,14 +1,1 @@
-{
-	"partners.header.title": {
-		"message": "Partneri",
-		"description": "Heading for page."
-	},
-	"partners.requirements.title": {
-		"message": "Zahtevnosti",
-		"description": "Heading for the requirements."
-	},
-	"partners.apply.select.other": {
-		"message": "Drugo",
-		"description": "Select 'Other' category."
-	}
-}
+{}

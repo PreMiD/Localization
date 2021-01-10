@@ -3,10 +3,6 @@
 		"message": "Popis",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Zoznam zmien",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Informácie",
 		"description": "The title of the information section."

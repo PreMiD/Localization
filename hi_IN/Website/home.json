@@ -1,14 +1,1 @@
-{
-	"home.examples.status.playing": {
-		"message": "वापस चलाएँ रहा है",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "लाइव",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "ब्राउजिंग",
-		"description": "Discord Rich Presence -> small image text;"
-	}
-}
+{}

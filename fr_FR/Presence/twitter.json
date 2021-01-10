@@ -3,10 +3,6 @@
         "message": "Lit un tweet:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "Visualisation de leurs MPs",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "Regarde les tweets de:",
         "description": ""

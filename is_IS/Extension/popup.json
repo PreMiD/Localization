@@ -1,8 +1,4 @@
 {
-	"popup.headings.description": {
-		"message": "Lýsing",
-		"description": "Title of the description area in the presence settings view."
-	},
 	"popup.category.games": {
 		"message": "Leikir",
 		"description": "Category name shown when you open tags"

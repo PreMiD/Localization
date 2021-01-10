@@ -35,10 +35,6 @@
     "message": "Người đóng góp",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Đăng nhập",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Đăng nhập với",
     "description": "Indicates which user is logged in"

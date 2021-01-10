@@ -15,26 +15,6 @@
 		"message": "صفحه اصلی",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "مشارکت‌کنندگان",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "دانلود ها",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "فروشگاه",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "همکاران",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "بیش نیاز های سیستم",
-		"description": "A page name"
-	},
 	"premid.pageInstall": {
 		"message": "نصب کردن",
 		"description": "A page name"
@@ -42,10 +22,6 @@
 	"premid.pageInstallFor": {
 		"message": "نصب برای {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
-	},
-	"premid.pageTroubleshooting": {
-		"message": "ایرادیابی",
-		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
 		"message": "مطلع بودن از نسخه {0} API",

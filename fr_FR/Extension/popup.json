@@ -1,6 +1,6 @@
 {
 	"popup.navigation.settings": {
-		"message": "Options",
+		"message": "Réglages",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {

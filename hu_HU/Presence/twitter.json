@@ -3,10 +3,6 @@
         "message": "Tweet olvasása:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "Privát üzenetek megtekintése",
-        "description": ""
-    },
     "twitter.bookmarks": {
         "message": "Könyvjelzők",
         "description": ""

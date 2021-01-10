@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Đối tác",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Tham gia và có cơ hội nhận được những lợi ích dành riêng cho đối tác để khoe bạn ngầu như thế nào.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Được giới thiệu trên phương tiện truyền thông của chúng tôi.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Yêu cầu hệ thống",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Chúng tôi đang tìm kiếm điều gì?",
@@ -163,10 +155,6 @@
 		"message": "Website",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Khác",
-		"description": "Select 'Other' category."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ví dụ: PreMiD",
 		"description": "Name field's placeholder."
@@ -202,10 +190,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Đăng ký",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Cảm ơn bạn đã ứng tuyển!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Xin hãy điền vào các trường trống.",

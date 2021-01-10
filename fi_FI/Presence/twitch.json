@@ -1,14 +1,1 @@
-{
-	"twitch.downloads": {
-		"message": "Lataukset",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Yhteistyökumppanit",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Kotisivu",
-		"description": "Page name"
-	}
-}
+{}

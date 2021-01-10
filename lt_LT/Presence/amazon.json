@@ -31,10 +31,6 @@
         "message": "Amazon Prime peržiūra",
         "description": ""
     },
-    "amazon.viewTheir": {
-        "message": "Peržiūrimi",
-        "description": "Part 1 of the next 5 strings"
-    },
     "amazon.orderHistory": {
         "message": "užsakymų istorija",
         "description": "Part 2 of the string: \"Viewing their\""
@@ -61,10 +57,6 @@
     },
     "amazon.history": {
         "message": "Peržiūrima istorija",
-        "description": ""
-    },
-    "amazon.store": {
-        "message": "Peržiūrima parduotuvė:",
         "description": ""
     },
     "amazon.primeVid": {

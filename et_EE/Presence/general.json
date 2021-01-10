@@ -1,38 +1,6 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Otsib...",
-		"description": ""
-	},
 	"general.episode": {
 		"message": "Episood",
-		"description": ""
-	},
-	"general.language": {
-		"message": "Keel",
-		"description": "For choosing a language"
-	},
-	"general.live": {
-		"message": "Otse",
-		"description": ""
-	},
-	"general.reading": {
-		"message": "Loeb",
-		"description": ""
-	},
-	"general.search": {
-		"message": "Otsib",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Pood",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "Lehe vaatamine:",
 		"description": ""
 	},
 	"general.cookie": {

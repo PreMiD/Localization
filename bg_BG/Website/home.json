@@ -23,18 +23,6 @@
 		"message": "изминало {0}",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Възпроизвеждане назад",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Live\n",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Сърфирането ...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Ще харесате тези функции!",
 		"description": "Features section"
@@ -78,10 +66,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Нещо е бъгнало, изпраща ти тонове грешки или просто не работи? Ще ти помогнем да се отървеш от тези грешки в нашата Discord група, ние също създадохме наша собствена система за поддръжка, която ще се увери, че вашият проблем ще бъде решен колкото се може, по-скоро.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Присъединете се към нашия Дискорд сървър",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Език на уебсайта",

@@ -3,10 +3,6 @@
         "message": "트윗 보는중:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "DM 보는 중",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "아래 사용자의 트윗을 보는중:",
         "description": ""

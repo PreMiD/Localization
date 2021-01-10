@@ -59,10 +59,6 @@
 		"message": "帮助",
 		"description": "Help section"
 	},
-	"footer.help.troubleshooting": {
-		"message": "疑难解答",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.getsupport": {
 		"message": "获得帮助",
 		"description": "Get Support -> redirects to Discord invite"

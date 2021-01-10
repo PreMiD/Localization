@@ -14,45 +14,5 @@
 	"premid.pageHome": {
 		"message": "首頁",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "貢獻者",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "下載",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "商店",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "合作夥伴",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "關於 PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "系統需求",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "下載",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "疑難解答",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "開始使用",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
 	}
 }

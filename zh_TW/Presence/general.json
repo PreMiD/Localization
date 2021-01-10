@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "動漫",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "瀏覽中...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "章節",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "類型",
 		"description": ""
 	},
-	"general.language": {
-		"message": "語言",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "正在聆聽音樂",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "聽眾",
-		"description": ""
-	},
-	"general.live": {
-		"message": "直播",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "正在閲讀主題:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "閱讀中",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "尋找:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "搜尋中...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "搜索中",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "購物車",
-		"description": ""
-	},
-	"general.store": {
-		"message": "商店",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -197,10 +169,6 @@
 	},
 	"general.viewing": {
 		"message": "正在檢視:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "正在檢視頁面:",
 		"description": ""
 	},
 	"general.watchingVid": {

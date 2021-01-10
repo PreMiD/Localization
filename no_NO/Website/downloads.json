@@ -27,10 +27,6 @@
 		"message": "Skjul nedlastinger",
 		"description": "Little button on the downloads page for mobile users."
 	},
-	"downloads.button.done": {
-		"message": "Ferdig",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Takk!",
 		"description": "Title of the advertisement section box."

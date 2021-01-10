@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "A procurar...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Capítulo",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Género",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Idioma",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "A Ouvir Música",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Ouvintes",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Em direto",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "A ler tópico:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "A ler",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "A pesquisar por:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "A pesquisar algo...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "A pesquisar",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Carrinho de compras",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Loja",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -197,10 +169,6 @@
 	},
 	"general.viewing": {
 		"message": "A ver:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "A ver página: ",
 		"description": ""
 	},
 	"general.watchingVid": {

@@ -1,14 +1,1 @@
-{
-	"twitch.downloads": {
-		"message": "다운로드",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "파트너",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "홈페이지",
-		"description": "Page name"
-	}
-}
+{}

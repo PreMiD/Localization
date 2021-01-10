@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Voi ei!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.heading": {
 		"message": "Valitettavasti meillä on joitain teknisiä ongelmia. Palaamme pian. Anteeksi häiriöstä.",
 		"description": "Heading on maintenance page"

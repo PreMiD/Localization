@@ -7,10 +7,6 @@
 		"message": "Περιγραφή",
 		"description": "The title of the description section."
 	},
-	"presence.sections.information.title": {
-		"message": "Πληροφορίες",
-		"description": "The title of the information section."
-	},
 	"presence.sections.information.author": {
 		"message": "Συγγραφέας",
 		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
@@ -34,9 +30,5 @@
 	"presence.sections.information.supportedurls": {
 		"message": "Υποστηριζόμενα URL",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
-	},
-	"presence.sections.information.contributors": {
-		"message": "Συνεισφέροντες",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }

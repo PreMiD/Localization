@@ -1,18 +1,10 @@
 {
-	"twitch.downloads": {
-		"message": "Downloads",
-		"description": "Page name"
-	},
 	"twitch.jobs": {
 		"message": "Jobs",
 		"description": "Page name"
 	},
 	"twitch.turbo": {
 		"message": "Turbo",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Partner",
 		"description": "Page name"
 	},
 	"twitch.press": {
@@ -30,13 +22,5 @@
 	"twitch.ads": {
 		"message": "Werbungsoptionen",
 		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Startseite",
-		"description": "Page name"
-	},
-	"twitch.viewTheir": {
-		"message": "Betrachtet seine",
-		"description": "Part 1 of the next 10 strings"
 	}
 }

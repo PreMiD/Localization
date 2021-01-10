@@ -15,18 +15,6 @@
 		"message": "{0} timp rămas",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Redare",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "În direct",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Navigare...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Veți iubi aceste funcții!",
 		"description": "Features section"
@@ -50,9 +38,5 @@
 	"home.features.quickSupport.heading": {
 		"message": "Suport rapid",
 		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Intrați pe serverul nostru de Discord",
-		"description": "Features section button"
 	}
 }

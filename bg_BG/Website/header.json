@@ -35,10 +35,6 @@
     "message": "Сътрудници",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Вход",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Влезли като",
     "description": "Indicates which user is logged in"

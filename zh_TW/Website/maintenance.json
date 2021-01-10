@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "唉呀 糟糕!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.heading": {
 		"message": "非常抱歉我們目前正遇到技術問題. 我們很快會回來. 非常抱歉帶來困擾.",
 		"description": "Heading on maintenance page"

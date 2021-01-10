@@ -7,10 +7,6 @@
 		"message": "Descriere",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Schimbări",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Informație",
 		"description": "The title of the information section."

@@ -1,8 +1,4 @@
 {
-	"v live.browseThrough": {
-		"message": "Navegando por",
-		"description": "The first part of the next 6 strings"
-	},
 	"v live.newVid": {
 		"message": "a nova página do vídeo",
 		"description": "Second part of the \"Browsing through\" string"
@@ -34,10 +30,6 @@
 	"v live.profileEdit": {
 		"message": "Editando seu{0}próprio perfil",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
-	},
-	"v live.viewTheir": {
-		"message": "Visualizando suas",
-		"description": "The first part of the next 6 strings"
 	},
 	"v live.profile": {
 		"message": "página de perfil",

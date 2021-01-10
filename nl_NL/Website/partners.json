@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partners",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Word lid van de familie en krijg exclusieve partnervoordelen om te laten zien hoeveel swag je hebt.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Aanbevolen op onze sociale media.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Vereisten",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Waar zijn wij naar opzoek?",
@@ -183,14 +175,6 @@
 		"message": "Website",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Overige",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Naam",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Bijv.: PreMiD",
 		"description": "Name field's placeholder."
@@ -226,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Solliciteer",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Bedankt voor het solliciteren!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Vul alstublieft alle velden in.",

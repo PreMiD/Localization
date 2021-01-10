@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "أنمي",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "تصفح",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "الفصل",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "النوع",
 		"description": ""
 	},
-	"general.language": {
-		"message": "اللغة",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "الاستماع إلى الموسيقى",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "المستمعين",
-		"description": ""
-	},
-	"general.live": {
-		"message": "مباشر",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "يقرئ الموضوع:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "يقرأ",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "جار البحث عن:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "جاري البحث عن شيء...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "يبحث",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "عربة التسوق",
-		"description": ""
-	},
-	"general.store": {
-		"message": "المتجر",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -197,10 +169,6 @@
 	},
 	"general.viewing": {
 		"message": "يشاهد:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "يشاهد الصفحة:",
 		"description": ""
 	},
 	"general.watchingVid": {

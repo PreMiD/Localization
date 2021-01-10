@@ -1,15 +1,7 @@
 {
-	"v live.browseThrough": {
-		"message": "Göz atıyor",
-		"description": "The first part of the next 6 strings"
-	},
 	"v live.recentUploads": {
 		"message": "Takip ettiklerininin son yüklemelerine göz atıyor {0}",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
-	},
-	"v live.viewTheir": {
-		"message": "Görüntülüyor",
-		"description": "The first part of the next 6 strings"
 	},
 	"v live.purchases": {
 		"message": "son satın alınanlar",

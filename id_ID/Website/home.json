@@ -23,18 +23,6 @@
 		"message": "{0} berlalu",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Memutar kembali",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Live",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Menelusuri...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Kamu akan menyukai fitur ini!",
 		"description": "Features section"
@@ -78,10 +66,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Sesuatu bermasalah, mendapat banyak eror atau sama sekali tidak bekerja? Kami akan membantu untuk menyelesaikan masalah tersebut pada server Discord kami, kami juga telah membuat sistem support yang akan memastikan masalahmu terselesaikan.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Bergabunglah di Discord kami",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Bahasa situs web",

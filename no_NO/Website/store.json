@@ -1,22 +1,10 @@
 {
-	"store.cards.creator": {
-		"message": "Forfatter",
-		"description": "Creator of a presence"
-	},
 	"store.category.heading": {
 		"message": "Kategorier",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Alle",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Spill",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Musikk",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

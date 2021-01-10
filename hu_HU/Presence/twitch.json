@@ -1,22 +1,10 @@
 {
-	"twitch.downloads": {
-		"message": "Letöltések",
-		"description": "Page name"
-	},
 	"twitch.turbo": {
 		"message": "Turbó",
 		"description": "Page name"
 	},
-	"twitch.partners": {
-		"message": "Partnerek",
-		"description": "Page name"
-	},
 	"twitch.security": {
 		"message": "Biztonság",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Főoldal",
 		"description": "Page name"
 	},
 	"twitch.dashboard": {

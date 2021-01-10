@@ -3,10 +3,6 @@
 		"message": "Ekstensi tidak terhubung.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Penulis",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Presence ini sangat populer di seluruh pengguna.",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "Kategori",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Semua",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Permainan",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Musik",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

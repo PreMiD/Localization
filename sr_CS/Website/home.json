@@ -1,18 +1,1 @@
-{
-	"home.introduction.button.downloads": {
-		"message": "Preuzimanja",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
-	"home.examples.status.playing": {
-		"message": "Reprodukcija",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Uživo",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Pregledavanje...",
-		"description": "Discord Rich Presence -> small image text;"
-	}
-}
+{}

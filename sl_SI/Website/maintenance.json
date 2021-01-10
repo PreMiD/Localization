@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Oh ne!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.heading": {
 		"message": "Na žalost imamo tehnične napake. Vrnemo se kmalu. Se opravičujemo za težavo.",
 		"description": "Heading on maintenance page"

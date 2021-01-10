@@ -27,14 +27,6 @@
         "message": "チャンネル {0} 内の検索中:",
         "description": "{0} will be replaced with the channel name"
     },
-    "youtube.trending": {
-        "message": "話題のトレンドを閲覧中",
-        "description": ""
-    },
-    "youtube.browsingThrough": {
-        "message": "閲覧中",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
     "youtube.subscriptions": {
         "message": "登録チャンネル",
         "description": "Part two of \"Browsing through\""
@@ -53,10 +45,6 @@
     },
     "youtube.reportHistory": {
         "message": "報告履歴を閲覧中",
-        "description": ""
-    },
-    "youtube.upload": {
-        "message": "何かをアップロード中...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {

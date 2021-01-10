@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "انیمه",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "مرور کردن...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "بخش",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "ژانر",
 		"description": ""
 	},
-	"general.language": {
-		"message": "زبان",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "گوش دادن به موسیقی",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "شنوندگان",
-		"description": ""
-	},
-	"general.live": {
-		"message": "زنده",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "خواندن سربرگ:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "در حال خواندن",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "جستجو برای:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "جستجو برای چیزی...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "درحال جستجو",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "سبد خرید",
-		"description": ""
-	},
-	"general.store": {
-		"message": "فروشگاه",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -197,10 +169,6 @@
 	},
 	"general.viewing": {
 		"message": "دیدن:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "مشاهده صفحه:",
 		"description": ""
 	},
 	"general.watchingVid": {

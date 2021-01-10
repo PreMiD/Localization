@@ -14,37 +14,5 @@
 	"premid.pageHome": {
 		"message": "Koduleht",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "Abilised",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Allalaadimised",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Pood",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Partnerid",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "PreMiD'i kohta",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Veaotsimine",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "Alustuseks",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
 	}
 }

@@ -1,18 +1,1 @@
-{
-	"twitch.downloads": {
-		"message": "Siuntiniai",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Partneriai",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Pagrindinis puslapis",
-		"description": "Page name"
-	},
-	"twitch.viewTheir": {
-		"message": "Peržiūrimi",
-		"description": "Part 1 of the next 10 strings"
-	}
-}
+{}

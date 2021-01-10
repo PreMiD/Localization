@@ -7,10 +7,6 @@
 		"message": "คำอธิบาย",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "การเปลี่ยนแปลง",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "ข้อมูล",
 		"description": "The title of the information section."

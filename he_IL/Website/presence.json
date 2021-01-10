@@ -7,10 +7,6 @@
 		"message": "תיאור",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "יומן שינויים",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "מידע",
 		"description": "The title of the information section."

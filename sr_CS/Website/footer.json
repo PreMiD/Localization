@@ -39,10 +39,6 @@
 		"message": "Podržite nas",
 		"description": "Support us section"
 	},
-	"footer.supportus.donate": {
-		"message": "Donirajte",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
 	"footer.supportus.contribute": {
 		"message": "Doprineti",
 		"description": "Contribute -> redirects to github.com/premid"
@@ -58,10 +54,6 @@
 	"footer.help.heading": {
 		"message": "Pomoć",
 		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Rešavanje problema",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
 		"message": "Potraži pomoć",
@@ -90,10 +82,6 @@
 	"footer.more.status": {
 		"message": "Status",
 		"description": "Status -> redirects to status.premid.app"
-	},
-	"footer.more.wiki": {
-		"message": "Wiki",
-		"description": "Wiki -> redirects to wiki.premid.app"
 	},
 	"footer.copyright.line1": {
 		"message": "{0} od {1}",

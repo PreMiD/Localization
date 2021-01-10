@@ -14,53 +14,5 @@
 	"premid.pageHome": {
 		"message": "トップページ",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "貢献者",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "ダウンロード",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "ストア",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "パートナー",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "PreMiDについて",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "システム要件",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "インストール",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "トラブルシューティング",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "PreMiD開発入門",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
-	},
-	"premid.pagePresenceDev": {
-		"message": "プレゼンスの開発",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Presenceクラス",
-		"description": "A page name"
 	}
 }

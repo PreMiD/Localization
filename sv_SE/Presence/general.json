@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Bläddrar...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Kapitel",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Genre",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Språk",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Lyssnar på musik",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Lyssnare",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Live",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Läser tråd:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Läser",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Söker efter:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Söker efter något...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Söker",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Varukorg",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Butik",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -197,10 +169,6 @@
 	},
 	"general.viewing": {
 		"message": "Visar:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "Visar sida:",
 		"description": ""
 	},
 	"general.watchingVid": {

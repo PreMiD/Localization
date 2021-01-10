@@ -3,10 +3,6 @@
 		"message": "Η επέκταση δεν συνδέθηκε.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Συγγραφέας",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Αυτό το Presence είναι πολύ δημοφιλές.",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "Κατηγορίες",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Όλα",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Παιχνίδια",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Μουσική",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

@@ -1,18 +1,1 @@
-{
-	"twitch.downloads": {
-		"message": "Stáhnout",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Partneři",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Domovská stránka",
-		"description": "Page name"
-	},
-	"twitch.viewTheir": {
-		"message": "Zobrazení jejich",
-		"description": "Part 1 of the next 10 strings"
-	}
-}
+{}

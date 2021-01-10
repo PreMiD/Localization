@@ -107,10 +107,6 @@
 		"message": "U redu",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
-	"downloads.button.done": {
-		"message": "Gotovo",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.button.login": {
 		"message": "Prijavi se",
 		"description": "Login button on the downloads page."

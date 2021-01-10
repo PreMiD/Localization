@@ -7,10 +7,6 @@
 		"message": "Λειτουργίες",
 		"description": "Introduction button"
 	},
-	"home.introduction.button.downloads": {
-		"message": "Λήψεις",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
 	"home.examples.playingagame": {
 		"message": "Παίζει ένα παιχνίδι",
 		"description": "Discord Rich Presence -> Playing a game"

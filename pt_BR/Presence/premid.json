@@ -14,53 +14,5 @@
 	"premid.pageHome": {
 		"message": "Página inicial",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "Contribuidores",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Baixar",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Loja",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Parceiros",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "Sobre o PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "Requisitos do sistema",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "Instalação",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Solução de Problemas",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "Primeiros Passos",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
-	},
-	"premid.pagePresenceDev": {
-		"message": "Desenvolvimento de Presenças",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Classe Presence",
-		"description": "A page name"
 	}
 }

@@ -1,18 +1,1 @@
-{
-	"twitch.downloads": {
-		"message": "التنزيلات",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "الشركاء",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "الصفحة الرئيسية",
-		"description": "Page name"
-	},
-	"twitch.viewTheir": {
-		"message": "عرض ما يخص",
-		"description": "Part 1 of the next 10 strings"
-	}
-}
+{}

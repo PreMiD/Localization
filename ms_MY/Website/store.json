@@ -3,10 +3,6 @@
 		"message": "Sambungan tidak disambung.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Penulis",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Presence ini amat terkenal di kalangan pengguna.",
 		"description": "Presence card popular flame"
@@ -58,30 +54,6 @@
 	"store.category.heading": {
 		"message": "Kategori",
 		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "Semua",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Permainan",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Muzik",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Sosial",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Video & Strim",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Lain-lain",
-		"description": "Category at the top"
 	},
 	"store.search": {
 		"message": "Cari",

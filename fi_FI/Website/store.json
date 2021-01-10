@@ -35,16 +35,8 @@
 		"message": "Kategoriat",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Kaikki",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Pelit",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Musiikki",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

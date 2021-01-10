@@ -1,18 +1,1 @@
-{
-	"twitch.downloads": {
-		"message": "Downloads",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Партньори",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Начална страница",
-		"description": "Page name"
-	},
-	"twitch.viewTheir": {
-		"message": "Гледа своите",
-		"description": "Part 1 of the next 10 strings"
-	}
-}
+{}

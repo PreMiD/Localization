@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Ag brabhsáil...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Caibidil",
 		"description": ""
@@ -39,10 +31,6 @@
 		"message": "Éisteoirí",
 		"description": ""
 	},
-	"general.live": {
-		"message": "Beo",
-		"description": ""
-	},
 	"general.manga": {
 		"message": "Manga",
 		"description": ""
@@ -69,22 +57,6 @@
 	},
 	"general.readingAbout": {
 		"message": "Ag léamh faoi:",
-		"description": ""
-	},
-	"general.reading": {
-		"message": "Léitheoireacht",
-		"description": ""
-	},
-	"general.search": {
-		"message": "Cuardach",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Stór",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "Leathanach féachana:",
 		"description": ""
 	},
 	"general.cookie": {

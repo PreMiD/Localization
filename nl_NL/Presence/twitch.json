@@ -1,18 +1,10 @@
 {
-	"twitch.downloads": {
-		"message": "Downloads",
-		"description": "Page name"
-	},
 	"twitch.jobs": {
 		"message": "Banen",
 		"description": "Page name"
 	},
 	"twitch.turbo": {
 		"message": "Turbo",
-		"description": "Page name"
-	},
-	"twitch.partners": {
-		"message": "Partners",
 		"description": "Page name"
 	},
 	"twitch.press": {
@@ -33,10 +25,6 @@
 	},
 	"twitch.guidelines": {
 		"message": "Community Richtlijnen",
-		"description": "Page name"
-	},
-	"twitch.home": {
-		"message": "Startpagina",
 		"description": "Page name"
 	},
 	"twitch.wallet": {
@@ -134,10 +122,6 @@
 	"twitch.produce": {
 		"message": "In de videoproducer...",
 		"description": ""
-	},
-	"twitch.viewTheir": {
-		"message": "Bekijkt zijn/haar",
-		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
 		"message": "Kanaal statistieken",

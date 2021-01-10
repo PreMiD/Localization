@@ -3,10 +3,6 @@
 		"message": "Plėtinys neprijungtas.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Autorius",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Šis statusas yra labai populiarus tarp vartotojų.",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "Kategorijos",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Visi",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Žaidimai",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Muzika",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

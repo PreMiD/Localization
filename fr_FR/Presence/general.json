@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "Recherche...",
+		"message": "Navigue...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -44,7 +44,7 @@
 		"description": ""
 	},
 	"general.live": {
-		"message": "Direct",
+		"message": "Live",
 		"description": ""
 	},
 	"general.manga": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "En train de chercher",
+		"message": "Recherche",
 		"description": ""
 	},
 	"general.shopCart": {

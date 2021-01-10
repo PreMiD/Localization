@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partner",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Unisciti alla famiglia e ottieni alcuni vantaggi solo per i partner per mostrare quanto swag hai.",
 		"description": "Description for page."
@@ -183,14 +179,6 @@
 		"message": "Sito Web",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Altro",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "nome",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Es: PreMiD",
 		"description": "Name field's placeholder."
@@ -226,10 +214,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Applica",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Grazie per esserti candidato!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Per favore, completa tutti i campi.",

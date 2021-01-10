@@ -68,11 +68,11 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Clique para copiar o ID do usuário.",
+		"message": "Clique para copiar o ID do utilizador.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "ID de usuário copiado!",
+		"message": "ID de utilizador copiado!",
 		"description": "Notification after user ID was copied."
 	}
 }

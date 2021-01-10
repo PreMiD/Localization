@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "パートナー",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "ファミリーの一員になって、パートナーだけの特典を手に入れましょう！",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "私達のSNSで宣伝します。",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "必要条件",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "私達が求めているもの",
@@ -147,14 +139,6 @@
 		"message": "ウェブサイト",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "その他",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "名前",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "例: PreMiD",
 		"description": "Name field's placeholder."
@@ -186,10 +170,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "申請する",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "応募していただき、ありがとうございます！",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "すべての項目を入力してください。",

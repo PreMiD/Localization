@@ -3,10 +3,6 @@
         "message": "Leest tweet:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "Bekijkt zijn/haar DM's",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "Bekijkt tweets van:",
         "description": ""
