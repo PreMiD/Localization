@@ -1,12 +1,12 @@
 ---
 title: Firefox
 description: 開始在FireFox上安裝PreMiD
-published: 是
+published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-安裝擴充功能非常重要，因為單靠本地程式是無法做任何事的。
+The installation of the extension is very important as the application can not do anything by itself.
 
 # 安裝
 1. [點此](https://premid.app/downloads) 前往我們的下載頁面
@@ -17,7 +17,7 @@ tags:
 6. 選擇你剛剛下載的檔案
 7. 點擊 **新增** 以確認載入
 
-> 別忘了[安裝**安裝我們的本地應用程式**](/install) 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 
