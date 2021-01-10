@@ -11,10 +11,6 @@
 		"message": "{0} nema instalacija za taj sistem. to znači da nema profesonalne podrške ta to.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
-	"downloads.button.done": {
-		"message": "Gotovo",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Hvala vam!",
 		"description": "Title of the advertisement section box."
