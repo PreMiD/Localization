@@ -164,16 +164,16 @@ console.log(version); // Сообщается версии "2.1.0" в логи
 
 ### `getSetting(String)`
 
-Возвращает значение настройки.
+Returns value of setting.
 
 ```typescript
-var setting = await presence.getSetting("pdexID"); // Заменить pdexID идентификатором параметра
-console.log(setting); // Сообщается установка в логи
+const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
 ```
 
 ### `hideSetting(String)`
 
-Скрывает указанные настройки.
+Hides given setting.
 
 ```typescript
 presence.hideSetting("pdexID"); // Заменить pdexID идентификатором настройки
@@ -181,7 +181,7 @@ presence.hideSetting("pdexID"); // Заменить pdexID идентифика�
 
 ### `showSetting(String)`
 
-Показывают данные настройки (работает только если настройка была скрыта).
+Shows given setting (Only works if the setting was already hidden).
 
 ```typescript
 presence.showSetting("pdexID"); // Заменить pdexID идентификатором настройки
@@ -236,7 +236,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ### `getTimestamps(Number, Number)`
 
-Возвращает 2 `снежинку` метки времени в массиве `` , которые могут быть использованы для `startTimestamp` и `endTimamp`.
+Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Заметка:** Данный `String` в querySelector является примером.
+**Note:** The given `String` in querySelector is an example.
 
 ### `timestampFromFormat(String)`
 
@@ -259,7 +259,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Заметка:** Данный `String` в querySelector является примером.
+**Note:** The given `String` in querySelector is an example.
 
 ## `PresenceData` Интерфейс
 
@@ -285,7 +285,7 @@ presenceData.endTimestamp = timestamps[1];
     <tr>
       <td style="text-align:left">статус</td>
       <td style="text-align:left">Вторая линия вашего presence.</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -301,28 +301,29 @@ presenceData.endTimestamp = timestamps[1];
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Определяет полную продолжительность.
         <br>Используется если вы хотите отображать сколько <code>часов:минут:секунды</code> слева.
-          <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчёт.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Номер</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Определяет логотип для присутствия.</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">маленький ключ изображения</td>
       <td style="text-align:left">Определяет маленький значок рядом с наличием&apos;с логотипа.</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">маленькое изображениеТекст</td>
       <td style="text-align:left">Определяет текст, который будет показан пользователю, когда он наведет маленький значок
 .</td>
-      <td style="text-align:left"><code>Строка</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
   </tbody>
@@ -352,7 +353,7 @@ presence.on("Данные обновить", асинхронный () => {
 
 Доступно несколько событие:
 
-#### `Обновить данные`
+#### `UpdateData`
 
 Это событие запускается каждый раз, когда присутствие обновляется.
 
