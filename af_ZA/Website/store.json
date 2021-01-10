@@ -47,30 +47,6 @@
 		"message": "Kategorieë",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Alles",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Speletjies",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Musiek",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Sosiale",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Video's & Strome",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Ander",
-		"description": "Category at the top"
-	},
 	"store.search": {
 		"message": "Soek",
 		"description": "Placeholder for presence search"
