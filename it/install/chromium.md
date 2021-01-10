@@ -1,7 +1,7 @@
 ---
 title: Chromium
 description: Ottieni PreMiD su browsers basati su Chromium
-published: vero
+published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
 ---
