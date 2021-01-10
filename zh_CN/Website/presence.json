@@ -7,10 +7,6 @@
 		"message": "描述",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "更新日志",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "信息",
 		"description": "The title of the information section."
