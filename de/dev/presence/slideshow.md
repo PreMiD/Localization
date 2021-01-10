@@ -14,13 +14,13 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 Die `Slideshow` Klasse wird verwendet, um mehrere `PresenceData` zu setzen, die jede x Millisekunden (minimum: 5000) durchwechseln.
 
-Um eine `Slideshow` zu erstellen, schauen Sie sich die [`createSlideshow`](/dev/presence/class#createslideshow) Methode in der [`Presence`](/dev/presence/class) Klasse an.
+Um eine `Slideshow` zu erstellen, schau dir die [`createSlideshow`](/dev/presence/class#createslideshow) Methode in der [`Presence`](/dev/presence/class) Klasse an.
 
 ## Properties
 
 ### `currentSlide`
 
-Gibt ein [`PresenceData`](/dev/presence/class#presencedata-interface) Objekt zurück, mit der aktuell angezeigten Presence der Diashow.
+Gibt ein [`PresenceData`](/dev/presence/class#presencedata-interface) Objekt zurück, mit der aktuell angezeigten Presence der Slideshow.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
