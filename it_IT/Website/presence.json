@@ -7,10 +7,6 @@
 		"message": "Descrizione",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Registro delle modifiche",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Informazioni",
 		"description": "The title of the information section."
