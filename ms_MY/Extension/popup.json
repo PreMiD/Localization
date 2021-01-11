@@ -87,6 +87,22 @@
 		"message": "Aplikasi PreMiD anda ketinggalan zaman. Sila kemas kini untuk terus menggunakan PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Sambungan Ketinggalan Zaman",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Sambungan anda ketinggalan zaman. Sila kemas kini untuk dapatkan ciri terbaru dengan memuat turunnya dari laman kami.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Kemas kini penting",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Kami telah menerbitkan kemas kini penting untuk sambungan. Sila kemas kini untuk terus menggunakan PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Tiada sambungan internet!",
 		"description": "Shown when the user has no internet connection"
