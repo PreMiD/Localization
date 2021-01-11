@@ -31,11 +31,11 @@ Kesemua Presence dikodkan dalam [TypeScript](https://www.typescriptlang.org/). [
 2. Pasang [Node](https://nodejs.org/en/) (didatangkan dengan [npm](https://www.npmjs.com/)).
 3. Pasang [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan hantarkan `npm install -g typescript`).
 
-## Sedang klon projek
+## Klon projek
 
 1. Buka terminal dan taip `git clone https://github.com/PreMiD/Presences`.
 2. Pilih folder yang anda suka.
-3. Buka ia dalam penyunting kod anda.
+3. Buka folder tersebut dalam penyunting kod anda.
 
 ## Cipta folder dan fail
 
@@ -178,7 +178,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Keterangan kecil mengenai Presence, anda boleh gunakan keterangan perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Keterangan anda mesti mempunyai nilai pasangan kekunci yang menyatakan bahasa terlibat, beserta keterangan dalam bahasa tersebut. Cipta keterangan dengan bahasa <i>yang anda tahu</i>, penterjemah kami akan buat perubahan ke fail metadata anda.</td>
+      <td style="text-align:left">Keterangan kecil mengenai Presence, anda boleh gunakan keterangan perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Keterangan anda mesti mempunyai nilai pasangan kekunci yang menyatakan bahasa terlibat, berserta keterangan dalam bahasa tersebut. Cipta keterangan dengan bahasa <i>yang anda tahu</i>, penterjemah kami akan buat perubahan ke fail metadata anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
@@ -242,37 +242,37 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Rentetan digunakan untuk mewakili kategori yang mana Presence berada. Lihat kategori yang sah <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">di sini</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Tidak</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Menentukan sama ada <code>iFrames</code> akan digunakan.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Lihat regExp untuk maklumat lanjut.</td>
+      <td style="text-align:left">Pemilih berungkapan nalar yang memilih iFrame untuk disuntikkan. Lihat regExp untuk maklumat lanjut.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Menentukan sama ada sambungan patut baca log.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Tatasusunan tetapan yang pengguna boleh ubah.<br>
       Baca lanjut mengenai tetapan Presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">di sini</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Ya</code></td>
     </tr>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Kami telah terbitkan pencipta fail `metadata.json` bagi mereka yang pemalas [di sini](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Mulakan
 
@@ -399,8 +399,8 @@ Laman sesawang yang anda bangunkan Presence-nya dimuat semula secara automatikny
 
 # Fail dijelaskan
 
-- [Presence Class](/dev/presence/class)
+- [Kelas Presence](/dev/presence/class)
 - [Kelas Slideshow](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Kelas iFrame](/dev/presence/iframe)
 - [Fail Metadata](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Tatarajah TypeScript](/dev/presence/tsconfig ""){.links-list}
