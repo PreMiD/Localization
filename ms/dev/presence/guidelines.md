@@ -210,21 +210,21 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 > 
 > {.is-warning}
 
-> Setiap Presence perlu ikut set peraturan lin yang ketat yang akan diperiksa semasa proses semakan. Beberapa pengesyoran boleh dilihat di bawah. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Setiap Presence perlu ikut set peraturan lin yang ketat yang akan diperiksa semasa proses semakan. Beberapa pengesyoran boleh dilihat di bawah. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) untuk pengesyoran pemalam TypeScript bagi pemeriksaan jenis ketat - [ESlint Recommendations](https://eslint.org/docs/rules) untuk pengesyoran ESlint 
 > 
 > {.is-info}
 
 Ini senarai peraturan yang perlu diikut semasa menulis fail `presence.ts` anda:
 
 - **Sentiasa** isytihar tika baharu kelas `Presence` sebelum isytihar pembolehubah lain untuk mengelakkan isu terpencil yang mampu berlaku; ini bukan keperluan mengikut reka cipta jadi ia mungkin dialihkan pada masa hadapan.
-- **Jangan** guna fungsi sendiri apabila [varian natif telah wujud](https://docs.premid.app/dev/presence#files-explained); ini untuk memastikan pembaikian di peringkat sambungan akan turut dikenakan pada Presence anda. You're free to use whatever you need if you do not find them listed in the docs.
+- **Jangan** guna fungsi sendiri apabila [varian natif telah wujud](https://docs.premid.app/dev/presence#files-explained); ini untuk memastikan pembaikian di peringkat sambungan akan turut dikenakan pada Presence anda. Anda bebas untuk gunakan apa sahaja yang diperlukan sekiranya anda tidak menjumpainya disenaraikan dalam dokumen.
 - Anda **dilarang** mengekod Presence untuk sesuatu laman tanpa menambah sokongan bahasa utamanya (sbg. cth., Presence untuk YouTube dikodkan dengan sokongan untuk bahasa Portugis dan bahasa Jepun, tanpa bahasa Inggeris itu sendiri.)
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-- You are **not** allowed to access `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
-- Anda hanya boleh lakukan permintaan HTTP/HTTPS ke `premid.app` atau API laman sesawang Presence. If you are using external domains, you will be required to explain why it is necessary.
-- **Jangan** tetapkan medan dalam objek data Presence sebagai tak tertakrif setelah ianya diisytiharkan, sebaliknya gunakanlah kata kunci `delete`. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
-- Anda **tidak** dibenarkan untuk menulis Presence yang mengubah kefungsian laman sesawang yang berkaitan. This includes the addition, deletion, or modification of DOM elements.
+- Medan `smallImageKey` dan `smallImageText` bertujuan untuk menyediakan konteks tambahan/sekunder (seperti `playing/paused` untuk laman video, `browsing` untuk laman biasa, dan kegunaan lain) bukan untuk mempromosikan profil Discord atau apa-apa yang tidak berkaitan dengan PreMiD.
+- Anda **tidak** dibenarkan mencapai `localStorage`.
+- Apabila mencapai kuki untuk data disimpan, sila imbuhkan kekunci dengan awalan `PMD_`.
+- Anda hanya boleh lakukan permintaan HTTP/HTTPS ke `premid.app` atau API laman sesawang Presence. Jika anda menggunakan domain luaran, anda akan diminta menjelaskan kenapa ianya diperlukan.
+- **Jangan** tetapkan medan dalam objek data Presence sebagai tak tertakrif setelah ianya diisytiharkan, sebaliknya gunakanlah kata kunci `delete`. (sebagai cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
+- Anda **tidak** dibenarkan untuk menulis Presence yang mengubah kefungsian laman sesawang yang berkaitan. Ini termasuk penambahan, pemadaman, atau perubahan unsur DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -232,7 +232,7 @@ Ini senarai peraturan yang perlu diikut semasa menulis fail `presence.ts` anda:
 > 
 > {.is-warning}
 
-# Modification
+# Pengubahsuaian
 
 > Anda **mesti** ubah versi dalam **metadata** kepada nilai lebih tinggi daripada versi sebelumnya apabila membuat perubahan kepada fail **presence.ts**, **iframe.ts** atau **metadata.json**. 
 > 
@@ -241,16 +241,16 @@ Ini senarai peraturan yang perlu diikut semasa menulis fail `presence.ts` anda:
 Dalam sesetengah keadaan, Presence mungkin berkelakuan luar jangkaan atau diubah secara kecil untuk meningkatkan kefungsian mereka. Ini senarai peraturan yang anda **mesti** ikuti ketika mengubahsuai Presence.
 
 - Anda **tidak** dibenarkan untuk menulis semula sesebuah Presence atau mengubah penulisnya. Sekiranya penulis Presence telah diharamkan daripada pelayan rasmi atau masih belum membuat perubahan di dalam sebulan, anda boleh hubungi penyemak untuk tanya sama ada anda boleh menulis semula Presence tersebut.
-- Jika anda mengubah suai sesebuah Presence dan mengubah sekurang-kurangnya **satu suku** daripada pangkalan kod Presence tersebut, anda dibenarkan menambah diri sendiri sebagai penyumbang. Hubungi penyemak untuk maklumat lanjut mengenai perkara ini.   - Jika anda mengubah suai sesebuah Presence dan mengubah sekurang-kurangnya **satu suku** daripada pangkalan kod Presence tersebut, anda dibenarkan menambah diri sendiri sebagai penyumbang. Contact a reviewer for more information about this subject.
--  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
+- Jika anda mengubah suai sesebuah Presence dan mengubah sekurang-kurangnya **satu suku** daripada pangkalan kod Presence tersebut, anda dibenarkan menambah diri sendiri sebagai penyumbang. Hubungi penyemak untuk maklumat lanjut mengenai perkara ini.   - Jika anda mengubah suai sesebuah Presence dan mengubah sekurang-kurangnya **satu suku** daripada pangkalan kod Presence tersebut, anda dibenarkan menambah diri sendiri sebagai penyumbang. Hubungi pengulas untuk maklumat lanjut mengenai perkara ini.
+-  Sesiapa pun boleh sediakan pembaikian segera untuk membaiki pepijat; namun begitu, **jangan** buat perubahan yang **tidak** diperlukan. Pengubahsuaian yang sah termasuk pembaikian umum (kod dan tipo), penambahan (keterangan dan tag), fail yang tercicir, dll. **Jangan** tukar imej jika ianya tidak ketinggalan zaman dan mengikut spesifikasi.
 
-# Verification
+# Pengesahan
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
+> **Semua** kod yang disumbangkan ke kedai akan dilesenkan di bawah `Mozilla Public License 2.0`. 
 > 
 > {.is-info}
 
-> If you need to contact someone, please use our official Discord server. All reviewers will have the `Reviewer` role on their profile. 
+> Jika anda perlu menghubungi seseorang, sila gunakan pelayan Discord rasmi kami. All reviewers will have the `Reviewer` role on their profile. 
 > 
 > {.is-info}
 
