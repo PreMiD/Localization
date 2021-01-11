@@ -4,7 +4,7 @@
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "התחל להשתמש בPreMiD והראה לחברים שלך מה אתה עושה, אולי תמצא מישהו עם תחומי עיניין משותפים.",
+		"message": "השתמש בPreMiD והראה לחברים שלך מה אתה עושה, אולי תמצא מישהו עם תחומי עניין משותפים.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -103,9 +103,17 @@
 		"message": "חזור",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "ביטול",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "אישור",
 		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "בוצע",
+		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "התחברות",
