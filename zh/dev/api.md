@@ -1,6 +1,6 @@
 ---
 title: API
-description: 使用 PreMiD API 访问资源和执行行动
+description: Access resources and perform actions using the PreMiD API
 published: true
 date: 2020-05-29T17:28:31.083Z
 tags:
@@ -8,27 +8,27 @@ tags:
 
 # API
 
-> 基础URL： https://api.premid.app 
+> Base URL: https://api.premid.app 
 > 
 > {.is-info}
 
 ## API Versioning
-> API v1已被淘汰了，任何请求都应转发到现行有效的版本。 
+> API v1 has been discontinued, any request should be forwarded to the currently active version 
 > 
 > {.is-danger}
 
-PremiD 暴露了我们的 API 的不同版本。 您可以在请求路径中指定版本，例如 `https://api.premid.app/v{version_number}` 删除路由中的版本号将路由请求到当前的默认版本(下面相应标明)。
+PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
 ## 加密
 
-PreMiD API 中所有 HTTP 图层服务和协议(如http) 使用 TLS 1.2。
+All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
-# 帮助文档
-> 目前正在建造中！ 
+# 相關文章
+> 正在工程中！ 
 > 
 > {.is-danger}
 
-**选择 API 版本：**
-- [v2 *现行有效*](/dev/api/v2)
-- [v3 *进行中*](/dev/api/v3)
+**Choose the API version:**
+- [版本2 *active*](/dev/api/v2)
+- [v3 *work in progress*](/dev/api/v3)
 {.links-list}
