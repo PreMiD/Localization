@@ -87,6 +87,14 @@
 		"message": "Az általad használt PreMiD alkalmazás elavult. Frissítsd a további használathoz.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Elavult Bővítmény",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Sürgős frissítés",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Nincs internetkapcsolat!",
 		"description": "Shown when the user has no internet connection"
