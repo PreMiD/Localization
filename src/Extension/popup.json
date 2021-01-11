@@ -96,7 +96,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
-		"message": "Urgent update has been released!",
+		"message": "Urgent update",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate.message": {
