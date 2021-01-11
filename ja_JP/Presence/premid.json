@@ -43,8 +43,16 @@
 		"message": "インストール",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "インストール({0})",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
 		"message": "トラブルシューティング",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "PreMiD開発入門",
 		"description": "A page name"
 	},
 	"premid.pageApi": {
