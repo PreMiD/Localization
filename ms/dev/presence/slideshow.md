@@ -16,7 +16,7 @@ The `Slideshow` class is used to set multiple `PresenceData` and "slide" through
 
 See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
 
-## Properties
+## Sifat-sifat
 
 ### `currentSlide`
 
@@ -73,7 +73,7 @@ Deletes all slides from the `Slideshow`.
 
 A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
-## Properties
+## Sifat-sifat
 
 ### `id`
 
