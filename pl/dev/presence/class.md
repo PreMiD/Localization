@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Zwróca wartość ustawienia.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -173,7 +173,7 @@ console.log(setting); // This will log the value of the setting
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Ukrywa podane ustawienie.
 
 ```typescript
 presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -272,7 +272,7 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
     <tr>
       <th style="text-align:left">Zmienna</th>
       <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Typ</th>
     </tr>
   </thead>
   <tbody>
