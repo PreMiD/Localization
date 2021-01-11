@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Garis Panduan
 
-Ketika menerbitkan Presence ke [Github Repository kami](https://github.com/PreMiD/Presences), anda dikehendaki mengikuti beberapa peraturan yang ditetapkan. Bagi sesetengah orang, peraturan ketat ini nampak agak kejam. However, the implementation of these rule sets will keep us and our users from running into issues.
+Ketika menerbitkan Presence ke [Github Repository kami](https://github.com/PreMiD/Presences), anda dikehendaki mengikuti beberapa peraturan yang ditetapkan. Bagi sesetengah orang, peraturan ketat ini nampak agak kejam. Namun, pelaksanaan set peraturan ini akan bantu kami dan pengguna kami untuk mengelakkan terjadinya isu.
 
 # Penciptaan
 
@@ -171,7 +171,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 ### **`logo`**
 
 - Logo **mestilah** imej segi empat sama dengan nisbah bidang `1:1`.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- Imej **mestilah** mempunyai resolusi sekurang-kurangnya `512x512` piksel. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
