@@ -87,6 +87,22 @@
 		"message": "Votre application PreMiD est obsolète. Veuillez la mettre à jour afin de continuer à utiliser PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Extension obsolète",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Votre Extension est obsolète. Veuillez la mettre à jour pour obtenir les dernières fonctionnalités en la téléchargeant depuis notre site.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Une mise à jour urgente a été publiée !",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Nous avons publié une mise à jour urgente pour l'extension. Veuillez la mettre à jour afin de continuer à utiliser PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Pas de connexion internet !",
 		"description": "Shown when the user has no internet connection"
