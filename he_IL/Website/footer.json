@@ -4,7 +4,7 @@
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
-		"message": "מוכן להשתמש ב PreMiD?",
+		"message": "מוכן להשתמש ב-PreMiD?",
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
@@ -58,6 +58,10 @@
 	"footer.help.heading": {
 		"message": "עזרה",
 		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "פתרון תקלות",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
 		"message": "קבל עזרה",
