@@ -17,7 +17,7 @@ tags:
 6. PreMiDのファイルを選択する
 7. **追加する**を押して完了！
 
-> Do not forget to [add the **application**](/install). 
+> [**アプリケーションを追加する**](/install)のを忘れないでください！ 
 > 
 > {.is-warning}
 
