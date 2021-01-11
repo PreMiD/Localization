@@ -1,22 +1,26 @@
 {
 	"store.message.error": {
-		"message": "Rozszerzenie nie jest połączone.",
+		"message": "\"Rozszerzenie nie zostało aktywowane\".",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.creator": {
+		"message": "Autor",
+		"description": "Creator of a presence"
+	},
 	"store.cards.popular": {
-		"message": "Ten status Presence jest bardzo popularny wśród użytkowników.",
+		"message": "Ten status obecności jest bardzo popularny wśród użytkowników.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
-		"message": "Partnerskie Presence",
+		"message": "Obecność partnerska",
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
-		"message": "Ten status Presence wymaga dodatkowych kroków do działania, sprawdź stronę aby uzyskać więcej informacji.",
+		"message": "Ten status obecności wymaga dodatkowych kroków do działania, sprawdź stronę aby uzyskać więcej informacji.",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
-		"message": "Szukaj Presence",
+		"message": "Wyszukaj obecności",
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
@@ -55,8 +59,16 @@
 		"message": "Kategorie",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "Wszystkie",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Gry",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Muzyka",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
