@@ -18,12 +18,12 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
 
 - **[O programie](#about)**
   - [Statystyki](#stats)
-  - [Requirements](#requirements)
+  - [Wymagania](#requirements)
   - Przykłady (wkrótce)
   - FAQ (wkrótce)
   - Budowa (wkrótce)
   - [Wsparcie / pomoc](#support)
-  - [Credits](#credits)
+  - [Podziękowania](#credits)
   - [Licencja](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _nigdy_ ™️)
 - **[Portable AppImage](#appimage)** (_ZALECANE_)
@@ -35,13 +35,13 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
 
 <a name="about"></a>
 
-## About
+## O nas
 
 **PreMiD** to proste, konfigurowalne narzędzie, które wykorzystuje bibliotekę Discord RP (Rich Presence), która pozwala pokazać, co robisz w sieci (i w innych programach) na swoim profilu Discord jako **status użytkownika**.
 
 <a name="stats"></a>
 
-### Stats
+### Statystyki
 
 <table>
   <tr>
@@ -52,13 +52,13 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Wszystkie wydania"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Wydania Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Najnowsze wydanie"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Wydania Github"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Requirements
+### Wymagania
 
 Technicznie każda dystrybucja, która może uruchamiać [oficjalną](https://discordapp.com/download) **aplikację Discorda** ( nie wersja internetowa )  może również uruchamiać PreMiD;</br> Jak zapewne zauważyliście w ostatnich latach, niektóre dystrybucje Linuksa zaczęły rezygnować z obsługi architektur 32-bitowych (ia32/i686/i386/x86) w wyniku czego my również. Możesz jednak spróbować samodzielnie zbudować aplikację, jeśli bardzo jej potrzebujesz w wersji  32-bitowej. </br> Ponieważ obecnie używamy Electron jako silnika (Discord też!), jego wymagania dotyczą również tej aplikacji:
 
@@ -70,7 +70,7 @@ Nie wiadomo, czy starsze wersje innych dystrybucji go obsługują, więc po pros
 
 <a name="support"></a>
 
-### Support
+### Wsparcie / pomoc
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Dołącz do naszego Discorda!">

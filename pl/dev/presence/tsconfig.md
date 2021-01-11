@@ -61,7 +61,7 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 }
 ```
 
-| Property            | Opis                                                                                                     |
+| Własność            | Opis                                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------------------------- |
 | **extends**         | Używane do rozszerzenia podstawowego pliku `tsconfig` dla różnych zadań.                                 |
 | **compilerOptions** | Zobacz [**Konfiguracja root**](/dev/presence/tsconfig#root-configuration) aby uzyskać więcej informacji. |

@@ -99,7 +99,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Tytuł usługi wspieranej przez tę obecność.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>alternatywne nazwy</b></td>
@@ -107,13 +107,13 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>opis</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych. Wyświetl kategorię języków Presence dla listy. </td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
@@ -121,25 +121,25 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Może to być użyte jako tablica tylko wtedy, gdy istnieje więcej niż jeden adres URL.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Ciąg wyrażenia regularnego używany do dopasowywania adresów URL.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>wersja</b></td>
       <td style="text-align:left">Wersja twojej obecności.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link do serwisu&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
@@ -180,7 +180,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Określa, czy rozszerzenie powinno odczytywać logi.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -245,7 +245,7 @@ Skonfiguruj ustawienia interaktywne, aby użytkownicy mogli dostosować swój st
 
 ### `multiLanguage`
 
-#### Introduction
+#### Wprowadzenie
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,17 +259,17 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Cloning the project
+##### Klonowanie projektu
 
 1. Otwórz terminal i wpisz `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Wybierz folder.
+3. Otwórz go w swoim edytorze kodu.
 
-##### Creating the file
+##### Tworzenie pliku
 
-1. Go into the `src` folder.
+1. Przejdź do folderu `src`.
 2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+3. Utwórz plik o nazwie `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
 
 ##### Adding the strings
 
@@ -345,27 +345,27 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
     </tr>
     <tr>
       <td style="text-align:left"><b>gry</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Gry</b></td>
       <td style="text-align:left">Każda strona internetowa, która ma treści związane z grą, takie jak <code>Kahoot</code> lub <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>muzyka</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Muzyka</b></td>
       <td style="text-align:left">Są to strony internetowe oferujące treści związane z muzyką, czy to strumieniowe, czy pobierane.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>media społecznościowe</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Media Społecznościowe</b></td>
       <td style="text-align:left">Strony internetowe wykorzystywane do tworzenia i udostępniania treści lub do udziału w innych formach sieci społecznościowych.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>filmy</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Filmy i transmisje</b></td>
       <td style="text-align:left">Strony internetowe służące do dostarczania filmów i strumieni.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>inne</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Inne</b></td>
       <td style="text-align:left">Każda z tych kategorii, które nie wchodzą w zakres określonej wyżej kategorii.</td>
     </tr>
   </tbody>

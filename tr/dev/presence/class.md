@@ -87,7 +87,7 @@ const presence = new Presence({
 
 Eklentiden belli çevirilere ulaşabileceğiniz asenkron yöntem.
 
-Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Çevirilmiş yazıların listesine bu endpoint üzerinden erişebilirsiniz: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // `Oynatılıyor` ve `Durduruldu` çevirilerini
@@ -101,7 +101,7 @@ const playString = strings.play; // sonuç: Oynuyor
 const pauseString = strings.pause; // sonuç: Duraklatıldı
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Eklentinin v2.2.0 sürümünden bu yana, artık belirli bir dilin string(lerini) alabilirsiniz. Bu, yeni eklenmiş `multiLanguage` ayar seçenği ile de düzgün çalışıyor.
 
 We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
 
@@ -193,7 +193,7 @@ Web sitesinin konsol kayıtlarını getirir.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Bu, en yeni 100 logu konsola loglar (bir array içinde).
 ```
 
 **Not:** `metadata.json` dosyasında `readLogs` un `true` olmasını gerektirir.
