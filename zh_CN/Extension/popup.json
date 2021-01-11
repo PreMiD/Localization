@@ -1,4 +1,8 @@
 {
+	"popup.navigation.settings": {
+		"message": "设置",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
 	"popup.navigation.credits": {
 		"message": "制作人员名单",
 		"description": "Title of the 'credits' section at the navigation in the popup"
@@ -10,6 +14,10 @@
 	"popup.headings.general": {
 		"message": "常规",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "描述",
+		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
 		"message": "启用",
