@@ -27,6 +27,14 @@
 		"message": "درحال پخش",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "پخش زنده",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "گشتن...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.heading": {
 		"message": "شما عاشق این ویژگی ها خواهید شد!",
 		"description": "Features section"
@@ -70,6 +78,10 @@
 	"home.features.quickSupport.description": {
 		"message": "مشکلی وجود دارد، به شما تعداد زیادی خطا ارسال می کند یا به سادگی کار نمی کند؟ ما به شما در سرور دیسکورد خود کمک خواهیم کرد تا از این مشکلات خلاص شوید ، همچنین سیستم پشتیبانی بسیار مختص خود را ایجاد کرده ایم که اطمینان حاصل می کند که مشکل شما در اسرع وقت برطرف خواهد شد.",
 		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "به سرور دیسکورد ما بپیوندید",
+		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "زبان وب‌سایت",

@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "همکاران",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "به شهرت بپیوندید و از مزایای مخصوص همکاران بهره مند شوید تا به بقیه نشان دهید باحال هستید.",
 		"description": "Description for page."
@@ -179,6 +183,10 @@
 		"message": "وب‎سایت",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "ديگر",
+		"description": "Select 'Other' category."
+	},
 	"partners.apply.form.name": {
 		"message": "نام",
 		"description": "Name filed."
@@ -218,6 +226,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "اعمال",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "از درخواست همکاری شما سپاس گذاریم!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "لطفا همه فیلد ها را کامل کنید.",
