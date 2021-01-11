@@ -87,6 +87,22 @@
 		"message": "Twoja zainstalowana wersja PreMiD jest przestarzała. Proszę zaktualizuj ją aby kontynuować korzystanie z PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Nieaktualne rozszerzenie",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Twoje rozszerzenie jest nieaktualne. Zaktualizuj je aby uzyskać dostęp do najnowszych funkcji pobierając je z naszej witryny.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Pilna aktualizacja została wydana!",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Wydaliśmy pilną aktualizację rozszerzenia. Uaktualnij je aby kontynuować korzystanie z PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Brak połączenia z internetem!",
 		"description": "Shown when the user has no internet connection"
