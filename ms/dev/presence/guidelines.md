@@ -250,15 +250,15 @@ Dalam sesetengah keadaan, Presence mungkin berkelakuan luar jangkaan atau diubah
 > 
 > {.is-info}
 
-> Jika anda perlu menghubungi seseorang, sila gunakan pelayan Discord rasmi kami. All reviewers will have the `Reviewer` role on their profile. 
+> Jika anda perlu menghubungi seseorang, sila gunakan pelayan Discord rasmi kami. Kesemua pengulas akan mempunyai peranan `Reviewer` di profil mereka. 
 > 
 > {.is-info}
 
-> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
+> Sila ingat bahawa pengulas membuat kerja secara sukarela dan menguruskan repositori lain di samping yang ini, permintaan tarikan anda mungkin tidak diulas sehingga berlalunya beberapa jam atau hari setelah ianya dicipta. 
 > 
 > {.is-warning}
 
-> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from the checks. 
+> **Sentiasa** pastikan cabangan anda mutakhir sebelum mencipta permintaan tarikan anda. This will help limit false positives from the checks. 
 > 
 > {.is-warning}
 
@@ -272,25 +272,25 @@ Proses paling penting dalam pembangunan Presence adalah untuk memasukkan Presenc
   <br />
 </div>
 
-## `Restrictions`
+## `Sekatan`
 
 Kesalahan berulang seperti pelanggaran garis panduan, penspaman permintaan tarikan, ancaman, atau perlakuan tidak sesuai akan mengharamkan anda daripada mencipta Presence.
 
-In this scenerio, the following changes will occur:
+Dalam senario ini, perubahan berikut akan berlaku:
 
 - Presence di bawah pengurusan anda akan dipindahkan ke bot PreMiD atau pengguna lain (ikut kepurusan penyemak). ID aplikasi untuk setiap Presence akan dicipta semula di bawah nama pemilik baharu.
 - Kesemua isu dan permintaan tarikan anda (penciptaan Presence, penyumbangan Presence, dll) yang dicipta setelah pengharaman akan ditutup dengan segera.
 - Semua tiket yang dicipta di bawah nama anda berkaitan pembangunan Presence akan dipadam.
 
 
-## `Reviewing`
+## `Pengulasan`
 
-A few things you should know after opening a pull request:
+Beberapa perkara anda patut tahu sebelum membuka permintaan tarikan:
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 14 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ Anda **mesti** berikan tangkapan layar baharu, tidak tersunting (diambil oleh anda sendiri) yang menunjukkan perbandingan profil anda dan laman sesawang untuk membuktikan Presence anda berfungsi. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- Ia memerlukan 2 orang pengulas untuk mencantumkan permintaan tarikan.
+- Jika permintaan tarikan tidak aktif untuk tempoh 14 hari, ia akan ditutup dengan segera.
+- Kesemua pemeriksaan **mestilah** lulus untuk membolehkan ianya dicantumkan.
+- ⚠️ Anda **mesti** berikan tangkapan layar baharu, tidak tersunting (diambil oleh anda sendiri) yang menunjukkan perbandingan profil anda dan laman sesawang untuk membuktikan Presence anda berfungsi. _Anda dibenarkan untuk menggabungkan tangkapan layar untuk menyenangkan pandangan._ Ini digunapakai untuk kedua-dua penciptaan dan pengubahsuaian.
 - ⚠️ Anda juga **perlu** sertakan tangkapan layar tetapan Presence di dalam sambungan sekiranya dibekalkan. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `Checks`
@@ -299,8 +299,8 @@ A few things you should know after opening a pull request:
 
 Ketika ini, sesebuah Presence melalui dua (2) peringkat semakan yang berlainan. Kesemua semakan ini membantu penyemak untuk menentukan sama ada Presence anda sesuai untuk dikerahkan.
 
-- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Codacy` ialah bot yang memeriksa kualiti kod. Jika anda menerima ralat untuk isu baharu, anda **diwajibkan** membaikinya.
+- `Schema Validation` akan mengimbas fail `metadata.json` untuk sebarang ralat (sebagai cth, medan yang tercicir, jenis nilai yang tidak sah, dll.). Jika anda nampak sebarang isu baharu, anda juga **diwajibkan** untuk membaikinya. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Peraturan Tambahan`
 
