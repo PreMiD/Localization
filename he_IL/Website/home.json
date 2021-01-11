@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** הוא כלי פשוט להגדרה המאפשר לך להראות מה אתה עושה באינטרנט בסטטוס ה- Discord שלך כעת.",
+		"message": "**PreMiD** הוא כלי פשוט להגדרה המאפשר לך להראות מה אתה עושה באינטרנט בסטטוס ה- Discord שלך בזה הרגע.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -22,6 +22,18 @@
 	"home.examples.timestamp2": {
 		"message": "{0} חלף",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "מופעל מחדש",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "שידור חי",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "גולש...",
+		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
 		"message": "אתה תאהב את התכונות האלה!",
@@ -64,8 +76,12 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "משהו התקלקל, שולח לך המון שגיאות או פשוט לא עובד? אנו נעזור לך להיפטר מהבעיות בשרת Discord שלנו, יצרנו גם מערכת תמיכה משלנו שתבטיח שהבעיה שלך תיפתר בהקדם האפשרי.",
+		"message": "משהו התקלקל, שולח לך המון שגיאות או פשוט לא עובד? אנו נעזור לך להיפטר מהבעיות בשרת ה-Discord שלנו, יצרנו גם מערכת תמיכה משלנו שתבטיח שהבעיה שלך תיפתר בהקדם האפשרי.",
 		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "הצטרף לדיסקורד שלנו",
+		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "שפת האתר",
