@@ -95,10 +95,6 @@
 		"message": "افزونه شما منسوخ شده است. لطفا با دانلود کردن آخرین نسخه از سایت‌مان برای استفاده از آخرین ویژگی های تعبیه شده، افزونه را بروزرسانی نمایید.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
-	"popup.info.safari.urgentUpdate": {
-		"message": "بروزرسانی فوری منتشر شده!",
-		"description": "Shown when Extension is outdated. Only for Safari port."
-	},
 	"popup.info.safari.urgentUpdate.message": {
 		"message": "ما یک بروزرسانی فوری برای افزونه عرضه کردیم. لطفا برای ادامه استفاده از PreMiD آن را بروزرسانی کنید.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
