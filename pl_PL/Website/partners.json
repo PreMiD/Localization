@@ -135,6 +135,10 @@
 		"message": "Łatwo pokazuj swoim użytkownikom status w czasie rzeczywistym.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM pozwala ci słuchać ponad 15 strumieni muzyki za darmo - nonstop. Z najlepszą i najnowszą muzyką tylko dla Ciebie!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Zwinna lokalizacja dla firm technologicznych.",
 		"description": "Description for Crowdin."
@@ -175,6 +179,14 @@
 		"message": "Strona internetowa",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "Inne",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nazwa",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Przykład: PreMiD",
 		"description": "Name field's placeholder."
@@ -210,6 +222,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "Zastosuj",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Dziękujemy za złożenie wniosku!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Proszę wypełnić wszystkie pola.",
