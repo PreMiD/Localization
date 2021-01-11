@@ -1,4 +1,8 @@
 {
+	"popup.navigation.settings": {
+		"message": "הגדרות",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
 	"popup.navigation.credits": {
 		"message": "תודות",
 		"description": "Title of the 'credits' section at the navigation in the popup"
@@ -10,6 +14,10 @@
 	"popup.headings.general": {
 		"message": "כללי",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "תיאור",
+		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
 		"message": "פועל",
@@ -80,12 +88,20 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.noInternet": {
-		"message": "אין חיבור אינטרנט!",
+		"message": "אין חיבור לאינטרנט!",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "נראה שאין לך חיבור לאינטרנט! PreMiD לא יכול להציג presences כרגע.",
+		"message": "נראה שאין לך חיבור לאינטרנט! PreMiD לא יכול להציג כרגע.",
 		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "אין חיבור לרשת!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD לא יכול להתחבר ליישום",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "הכל",
