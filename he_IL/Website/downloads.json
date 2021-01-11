@@ -116,7 +116,7 @@
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
-		"message": "התחברות",
+		"message": "התחבר",
 		"description": "Login button on the downloads page."
 	},
 	"downloads.adsbox.thankyou.title": {
@@ -132,11 +132,11 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.skipanyway.message1": {
-		"message": "אני לא רוצה לתמוך.",
+		"message": "אני לא מעוניין לתמוך.",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message2": {
-		"message": "האם הינך בטוח?",
+		"message": "האם אתה בטוח?",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message3": {
