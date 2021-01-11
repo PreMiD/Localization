@@ -1,4 +1,8 @@
 {
+	"popup.navigation.settings": {
+		"message": "Inställningar",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
 	"popup.navigation.credits": {
 		"message": "Beröm",
 		"description": "Title of the 'credits' section at the navigation in the popup"
@@ -10,6 +14,10 @@
 	"popup.headings.general": {
 		"message": "Allmänt",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "Beskrivning",
+		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
 		"message": "Aktiverad",
