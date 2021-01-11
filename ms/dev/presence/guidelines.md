@@ -23,7 +23,7 @@ Peraturan am pembangunan Presence adalah seperti berikut:
 - Presence untuk laman sesawang dengan (TLD `.onion`) atau laman sesawang dengan domain/hos percuma (sbg. cth., `.TK` [semua domain percuma Freenom], `.RF`, `GD`, dll) adalah **tidak** dibenarkan, pengecualian boleh dibuat sekiranya terdapat bukti bahawa mereka bayar untuk domain tersebut.
 - Domain bagi Presence mestilah berusia sekurang-kurangnya 2 bulan.
 - Presence yang mensasarkan halaman pelayar dalaman (seperti Chrome Web Store, `chrome://`, halaman `about:`, dll) **tidak** dibenarkan kerana mereka perlukan bendera uji kaji untuk dibolehkan di pihak pengguna dan mampu menyebabkan kerosakan pada pelayar mereka.
-- Presence dengan sokongan hanya untuk subdomain tunggal **tidak** akan dibenarkan, kerana ia akan tampak rosak untuk halaman lain (seperti halaman utama), pengecualian boleh dibuat untuk halaman polisi dan perhubungan (kandungan yang tidak kerap digunakan) atau laman di mana kandungan lainnya tidak mempunyai kaitan. (cth. untuk, laman wikia)
+- Presence dengan sokongan hanya untuk subdomain tunggal **tidak** akan dibenarkan, kerana ia akan tampak rosak untuk halaman lain (seperti halaman utama), pengecualian boleh dibuat untuk halaman polisi dan perhubungan (kandungan yang tidak kerap digunakan) atau laman di mana kandungan lainnya tidak mempunyai kaitan. (sebagai cth., laman wikia)
 - Presence untuk radio dalam talian hanya dibenarkan sekiranya radio tersebut mempunyai sekurang-kurangnya 100 pendengar mingguan dan 15 pendengar serempak.
 - Presence kualiti rendah (atau yang mana dengan konteks kecil) adalah **tidak** dibenarkan (sbg. cth., hanya menunjukkan logo dan tulisan tetapi tidak mengubahnya lagi.)
 - Penyertaan folder `dist`, fail `presence.ts`, fail `iframe.ts`, dan fail `metadata.json` adalah diwajibkan supaya hasilnya nanti serupa seperti apa yang diwakilkan dalam skema berikut:
@@ -134,7 +134,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 
 ### **`$schema`**
 
-- _Kekunci_ skema **mestilah** menyertakan tanda dolar di awal kekunci, ini akan memberi isyarat kepada penyunting teks bahawa anda ingin mengesahkan fail JSON anda terhadap sesuatu model. _Seperti yang dinyatakan sebelum ini, anda tidak perlu sertakan skema, tetapi jika anda sertakannya anda mesti mengambil kira perkara ini._
+- _Kekunci_ skema ini **mestilah** menyertakan tanda dolar di awal kekunci, ini akan memberi isyarat kepada penyunting teks bahawa anda ingin mengesahkan fail JSON anda terhadap sesuatu model. _Seperti yang dinyatakan sebelum ini, anda tidak perlu sertakan skema, tetapi jika anda sertakannya anda mesti mengambil kira perkara ini._
 
 ### **`author`**
 
@@ -214,9 +214,9 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 > 
 > {.is-info}
 
-Ini senarai peraturan yang perlu diikut semasa menulis fail `presence.ts` anda:
+Ini senarai peraturan yang perlu diikuti semasa menulis fail `presence.ts` anda:
 
-- **Sentiasa** isytihar tika baharu kelas `Presence` sebelum isytihar pembolehubah lain untuk mengelakkan isu terpencil yang mampu berlaku; ini bukan keperluan mengikut reka cipta jadi ia mungkin dialihkan pada masa hadapan.
+- **Sentiasa** isytihar tika baharu kelas `Presence` sebelum isytihar pemboleh ubah lain untuk mengelakkan isu terpencil yang mampu berlaku; ini bukan keperluan mengikut reka cipta jadi ia mungkin dialihkan pada masa hadapan.
 - **Jangan** guna fungsi sendiri apabila [varian natif telah wujud](https://docs.premid.app/dev/presence#files-explained); ini untuk memastikan pembaikian di peringkat sambungan akan turut dikenakan pada Presence anda. Anda bebas untuk gunakan apa sahaja yang diperlukan sekiranya anda tidak menjumpainya disenaraikan dalam dokumen.
 - Anda **dilarang** mengekod Presence untuk sesuatu laman tanpa menambah sokongan bahasa utamanya (sbg. cth., Presence untuk YouTube dikodkan dengan sokongan untuk bahasa Portugis dan bahasa Jepun, tanpa bahasa Inggeris itu sendiri.)
 - Medan `smallImageKey` dan `smallImageText` bertujuan untuk menyediakan konteks tambahan/sekunder (seperti `playing/paused` untuk laman video, `browsing` untuk laman biasa, dan kegunaan lain) bukan untuk mempromosikan profil Discord atau apa-apa yang tidak berkaitan dengan PreMiD.
