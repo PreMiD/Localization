@@ -7,6 +7,10 @@
 		"message": "Descripción",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "Historial de cambios",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "Información",
 		"description": "The title of the information section."
