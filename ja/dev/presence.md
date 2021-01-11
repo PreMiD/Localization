@@ -18,24 +18,24 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [プレゼンスガイドライン](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # 構造
 
 すべてのプレゼンスは[TypeScript](https://www.typescriptlang.org/)で書かれています。 [TypeScript](https://www.typescriptlang.org/) はJavascriptよりちょっといい感じの定義を使用しているので、バグを見つけたり修正したりするのが簡単です。
 
-## Installation
+## インストール
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. [Git](https://git-scm.com/)をインストールする。
+2. [Node](https://nodejs.org/en/)をインストールする。 ([npm](https://www.npmjs.com/)と一緒に)
 3. [TypeScript](https://www.typescriptlang.org/index.html#download-links)をインストールする (ターミナルを開き、 `npm install -g typescript` と入力する)
 
-## Cloning the project
+## プロジェクトをクローンする
 
 1. ターミナルを開き `git clone https://github.com/PreMiD/Presences` と入力する
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. 任意のフォルダーを選択する
+3. ソースコードエディタで開く
 
 ## フォルダーとファイルを作成する
 
@@ -149,15 +149,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 NameはあなたのDiscordタグから識別子(#0000)を取ったもので、 ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 名前はあなたのDiscordタグから識別子(#0000)を取ったもので、 ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
