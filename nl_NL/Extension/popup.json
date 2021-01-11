@@ -92,7 +92,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "Uw extensie is verouderd. Update de extensie om de nieuwste functies te krijgen, download het van onze website.",
+		"message": "Je extensie is verouderd. Update de extensie via onze website om de nieuwste functies te krijgen.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
@@ -100,7 +100,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate.message": {
-		"message": "We hebben een dringende update voor de extensie vrijgegeven. Update de extensie om te kunnen PreMiD blijven gebruiken.",
+		"message": "We hebben een dringende update voor de extensie vrijgegeven. Update de extensie om PreMiD te kunnen blijven gebruiken.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
