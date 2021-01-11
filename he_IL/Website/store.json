@@ -47,8 +47,16 @@
 		"message": "קטגוריות",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "הכל",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "משחקים",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "מוזיקה",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
