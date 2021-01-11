@@ -17,13 +17,13 @@ Ketika menerbitkan Presence ke [Repositori Github kami](https://github.com/PreMi
 Peraturan am pembangunan Presence adalah seperti berikut:
 
 - Presence **mestilah** berkait dengan laman sesawang dipilih.
-- Presence **tidak boleh** dibuat untuk laman sesawang haram. (sebagai cth., ubat penegas, pemasaran dadah, pornografi kanak-kanak, dsb.)
-- Struktur fail mestilah bersih dan teratur, jangan sertakan fail yang tidak dinyatakan. (sebagai cth., folder vscode dan git, fail imej dan teks, dsb.)
+- Presence **tidak boleh** dibuat untuk laman sesawang haram. (sbg.cth., ubat penegas, pemasaran dadah, pornografi kanak-kanak, dsb.)
+- Struktur fail mestilah bersih dan teratur, jangan sertakan fail yang tidak dinyatakan. (sbg. cth., folder vscode dan git, fail imej dan teks, dsb.)
 - Anda perlu mempunyai struktur fail yang wajar, draf **tidak** dibenarkan.
 - Presence untuk laman sesawang dengan (TLD `.onion`) atau laman sesawang dengan domain/hos percuma (sbg. cth., `.TK` [semua domain percuma Freenom], `.RF`, `GD`, dll) adalah **tidak** dibenarkan, pengecualian boleh dibuat sekiranya terdapat bukti bahawa mereka bayar untuk domain tersebut.
 - Domain bagi Presence mestilah berusia sekurang-kurangnya 2 bulan.
 - Presence yang mensasarkan halaman pelayar dalaman (seperti Chrome Web Store, `chrome://`, halaman `about:`, dll) **tidak** dibenarkan kerana mereka perlukan bendera uji kaji untuk dibolehkan di pihak pengguna dan mampu menyebabkan kerosakan pada pelayar mereka.
-- Presence dengan sokongan hanya untuk subdomain tunggal **tidak** akan dibenarkan, kerana ia akan tampak rosak untuk halaman lain (seperti halaman utama), pengecualian boleh dibuat untuk halaman polisi dan perhubungan (kandungan yang tidak kerap digunakan) atau laman di mana kandungan lainnya tidak mempunyai kaitan. (sebagai cth., laman wikia)
+- Presence dengan sokongan hanya untuk subdomain tunggal **tidak** akan dibenarkan, kerana ia akan tampak rosak untuk halaman lain (seperti halaman utama), pengecualian boleh dibuat untuk halaman polisi dan perhubungan (kandungan yang tidak kerap digunakan) atau laman di mana kandungan lainnya tidak mempunyai kaitan. (sbg. cth., laman wikia)
 - Presence untuk radio dalam talian hanya dibenarkan sekiranya radio tersebut mempunyai sekurang-kurangnya 100 pendengar mingguan dan 15 pendengar serempak.
 - Presence kualiti rendah (atau yang mana dengan konteks kecil) adalah **tidak** dibenarkan (sbg. cth., hanya menunjukkan logo dan tulisan tetapi tidak mengubahnya lagi.)
 - Penyertaan folder `dist`, fail `presence.ts`, fail `iframe.ts`, dan fail `metadata.json` adalah diwajibkan supaya hasilnya nanti serupa seperti apa yang diwakilkan dalam skema berikut:
@@ -192,7 +192,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 ### **`category`**
 
 - Kategori **mestilah** di kalangan kategori yang disenaraikan dalam [pendokumenan](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- Presence mestilah menggunakan kategori yang serasi dengan kandungan laman sesawang. (sebagai cth., jangan gunakan `anime` apabila laman sesawang tiada kaitan dengan anime).
+- Presence mestilah menggunakan kategori yang serasi dengan kandungan laman sesawang. (sbg. cth., jangan gunakan `anime` apabila laman sesawang tiada kaitan dengan anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
@@ -200,7 +200,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 
 ### **`tetapan`**
 
-- Jika anda membuat keputusan untuk membuat rentetan format (sebagai cth., `%song% by %artist%`), anda mesti mempunyai pemboleh ubah yang diapitkan dengan tanda peratus di awal dan akhir. Pemboleh ubah seperti `%var`, `var%`, atau `%%var%%` dan lain-lain yang serupa **tidak** dibenarkan untuk tujuan pemiawaian.
+- Jika anda membuat keputusan untuk membuat rentetan format (sbg. cth., `%song% by %artist%`), anda mesti mempunyai pemboleh ubah yang diapitkan dengan tanda peratus di awal dan akhir. Pemboleh ubah seperti `%var`, `var%`, atau `%%var%%` dan lain-lain yang serupa **tidak** dibenarkan untuk tujuan pemiawaian.
 - Nama tetapan **tidak** patut berhuruf besar semata-mata. Sebagai contoh, nama seperti `SHOW BROWSING STATUS` itu **tidak** akan dibenarkan; tetapi, nama seperti `Show Browsing Status` atau `Show browsing status` dibenarkan.
 - Penambahan rentetan tersuai ke [Repositori Penyetempatan](https://github.com/PreMiD/Localization) untuk digunakan kemudian di tetapan `multiLanguage` hanya dibenarkan sekiranya Presence telah pun diterbitkan sebelum ini dan sudah mempunyai sekurang-kurangnya 1000 pengguna.
 
@@ -223,7 +223,7 @@ Ini senarai peraturan yang perlu diikuti semasa menulis fail `presence.ts` anda:
 - Anda **tidak** dibenarkan mencapai `localStorage`.
 - Apabila mencapai kuki untuk data disimpan, sila namakan kekunci dengan awalan `PMD_`.
 - Anda hanya boleh lakukan permintaan HTTP/HTTPS ke `premid.app` atau API laman sesawang Presence. Jika anda menggunakan domain luaran, anda akan diminta menjelaskan kenapa ianya diperlukan.
-- **Jangan** tetapkan medan dalam objek data Presence sebagai tak tertakrif setelah ianya diisytiharkan, sebaliknya gunakanlah kata kunci `delete`. (sebagai cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
+- **Jangan** tetapkan medan dalam objek data Presence sebagai tak tertakrif setelah ianya diisytiharkan, sebaliknya gunakanlah kata kunci `delete`. (sbg. cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
 - Anda **tidak** dibenarkan untuk menulis Presence yang mengubah kefungsian laman sesawang yang berkaitan. Ini termasuk penambahan, pemadaman, atau perubahan unsur DOM.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
@@ -278,7 +278,7 @@ Kesalahan berulang seperti pelanggaran garis panduan, penspaman permintaan tarik
 
 Dalam senario ini, perubahan berikut akan berlaku:
 
-- Presence di bawah pengurusan anda akan dipindahkan ke bot PreMiD atau pengguna lain (ikut kepurusan penyemak). ID aplikasi untuk setiap Presence akan dicipta semula di bawah nama pemilik baharu.
+- Presence di bawah pengurusan anda akan dipindahkan ke bot PreMiD atau pengguna lain (ikut keputusan pengulas). ID aplikasi untuk setiap Presence akan dicipta semula di bawah nama pemilik baharu.
 - Kesemua isu dan permintaan tarikan anda (penciptaan Presence, penyumbangan Presence, dll) yang dicipta setelah pengharaman akan ditutup dengan segera.
 - Semua tiket yang dicipta di bawah nama anda berkaitan pembangunan Presence akan dipadam.
 
@@ -297,10 +297,10 @@ Beberapa perkara anda patut tahu sebelum membuka permintaan tarikan:
 
 ![Semakan](https://i.imgur.com/BCDZQe9.png)
 
-Ketika ini, sesebuah Presence melalui dua (2) peringkat semakan yang berlainan. Kesemua semakan ini membantu penyemak untuk menentukan sama ada Presence anda sesuai untuk dikerahkan.
+Ketika ini, sesebuah Presence melalui dua (2) peringkat semakan yang berlainan. Kesemua semakan ini membantu pengulas untuk menentukan sama ada Presence anda sesuai untuk dikerahkan.
 
 - `Codacy` ialah bot yang memeriksa kualiti kod. Jika anda menerima ralat untuk isu baharu, anda **diwajibkan** membaikinya.
-- `Schema Validation` akan mengimbas fail `metadata.json` untuk sebarang ralat (sebagai cth, medan yang tercicir, jenis nilai yang tidak sah, dll.). Jika anda nampak sebarang isu baharu, anda juga **diwajibkan** untuk membaikinya. Penambahan medan shcema ke fail `metadata.json` anda akan membolehkan penyunting teks anda (jika disokong) untuk menunjukkan ralat-ralat ini kepada anda ketika pembangunan.
+- `Schema Validation` akan mengimbas fail `metadata.json` untuk sebarang ralat (sbg. cth., medan yang tercicir, jenis nilai yang tidak sah, dll.). Jika anda nampak sebarang isu baharu, anda juga **diwajibkan** untuk membaikinya. Penambahan medan skema ke fail `metadata.json` anda akan membolehkan penyunting teks anda (jika disokong) untuk menunjukkan ralat-ralat ini kepada anda ketika pembangunan.
 
 ## `Peraturan Tambahan`
 
@@ -310,13 +310,13 @@ Setelah mematuhi kesemua garis panduan dengan ulasan dan semakan yang wajar, Pre
 
 # Sumbangan
 
-`Semakan 2` garis panduan ditulis dan disumbangkan oleh individu berikut:
+Semakan `Revision 2` garis panduan ditulis dan disumbangkan oleh individu berikut:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` diselenggara oleh insan berikut:
+Semakan `Revision 1` telah diselenggara oleh individu berikut:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
