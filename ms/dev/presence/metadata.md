@@ -277,7 +277,7 @@ Each `string` is an `Object` where from the name starts with the service name an
 
 The stringName is a 1 word identifier of the message.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+Nilai `Object` mempunyai 2 sifat; `message` dan `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
 
 **Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
 

@@ -43,7 +43,7 @@ Dalam fail tatarajah akar anda akan nampak sesuatu seperti ini.
 | target                     | Mentakrifkan versi JavaScript yang anda mengkompil.                                                                                                                                 |
 | removeComments             | Mengalihkan ulasan daripada fail yang dikompil.                                                                                                                                     |
 | noEmitOnError              | Jangan keluarkan output bagi sebarang ralat yang dilaporkan.                                                                                                                        |
-| noFallthroughCasesInSwitch | Laporkan ralat bagi kes jatuh telus dalam suis kenyataan.                                                                                                                           |
+| noFallthroughCasesInSwitch | Laporkan ralat bagi kes jatuh telus dalam kenyataan suis.                                                                                                                           |
 | noUnusedLocals             | Laporkan ralat bagi pemboleh ubah tempatan yang tidak digunakan.                                                                                                                    |
 | noUnusedParameters         | Laporkan ralat bagi parameter yang tidak digunakan.                                                                                                                                 |
 | inlineSourceMap            | Tambah pemetaan sumber                                                                                                                                                              |
@@ -61,7 +61,7 @@ Dalam fail tatarajah akar anda akan nampak sesuatu seperti ini.
 }
 ```
 
-| Property            | Keterangan                                                                                   |
+| Sifat               | Keterangan                                                                                   |
 |:------------------- |:-------------------------------------------------------------------------------------------- |
 | **extends**         | Digunakan untuk menyambung fail `tsconfig` asas bagi pelbagai tugasan.                       |
 | **compilerOptions** | Lihat [**Tatarajah Akar**](/dev/presence/tsconfig#root-configuration) untuk maklumat lanjut. |
