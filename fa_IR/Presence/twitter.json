@@ -19,6 +19,10 @@
         "message": "نگاه کردن رسانه:",
         "description": ""
     },
+    "twitter.viewLiked": {
+        "message": "مشاهده لایک شده توسط:",
+        "description": ""
+    },
     "twitter.viewList": {
         "message": "نگاه کردن لیست:",
         "description": ""
