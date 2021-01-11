@@ -87,6 +87,10 @@
 		"message": "PreMiD uygulamanız güncelliğini yitirmiştir. Kullanmaya devam edebilmek için lütfen PreMiD'i güncelleyin.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Eklenti için önemli bir güncelleme yayınladık. Lütfen PreMiD'i kullanmaya devam etmek için eklentinizi güncelleyin.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "İnternet bağlantısı yok!",
 		"description": "Shown when the user has no internet connection"
