@@ -7,6 +7,10 @@
         "message": "Viendo qué está de moda",
         "description": ""
     },
+    "9gag.trending": {
+        "message": "Mirando que hay en las tendencias",
+        "description": ""
+    },
     "9gag.fresh": {
         "message": "Viendo qué hay de nuevo",
         "description": ""
