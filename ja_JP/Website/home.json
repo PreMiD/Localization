@@ -23,6 +23,18 @@
 		"message": "{0} 経過",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
+	"home.examples.status.playing": {
+		"message": "視聴中",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "ライブ",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "閲覧中…",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.heading": {
 		"message": "こんな機能が！",
 		"description": "Features section"
@@ -66,6 +78,10 @@
 	"home.features.quickSupport.description": {
 		"message": "何かがバグってたり、大量のエラーが出たりしたら…？\nDiscordサーバーで問題を解決する手助けをします。",
 		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Discordに参加する",
+		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "ウェブサイトの言語設定",
