@@ -1,5 +1,5 @@
 ---
-title: TypeScript Configuration
+title: Tatarajah TypeScript
 description: Pembantu kecil bagi TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -9,7 +9,7 @@ editor: markdown
 
 # Tatarajah TypeScript
 
-## Introduction
+## Pengenalan
 
 Apabila anda memuat turun dan menyahpadat ruang kerja, anda akan nampak fail bernama `tsconfig.js` di akar dan dalam folder Presence, fail ini digunakan untuk menatarajah pengkompil **TypeScript**. Ia telah ditatarajah untuk anda, jadi anda tidak perlu risaukannya.
 
@@ -36,7 +36,7 @@ Dalam fail tatarajah akar anda akan nampak sesuatu seperti ini.
 }
 ```
 
-| Property                   | Description                                                                                                                                                                         |
+| Property                   | Keterangan                                                                                                                                                                          |
 |:-------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Digunakan untuk menatarajah pengkompil, kebanyakan sifat terletak di sini.                                                                                                          |
 | module                     | Anda boleh baca lebih lanjut mengenainya di [sini](https://www.typescriptlang.org/docs/handbook/modules.html) (bahasa Inggeris).                                                    |
@@ -61,7 +61,7 @@ Dalam fail tatarajah akar anda akan nampak sesuatu seperti ini.
 }
 ```
 
-| Property            | Description                                                                                  |
+| Property            | Keterangan                                                                                   |
 |:------------------- |:-------------------------------------------------------------------------------------------- |
 | **extends**         | Digunakan untuk menyambung fail `tsconfig` asas bagi pelbagai tugasan.                       |
 | **compilerOptions** | Lihat [**Tatarajah Akar**](/dev/presence/tsconfig#root-configuration) untuk maklumat lanjut. |
