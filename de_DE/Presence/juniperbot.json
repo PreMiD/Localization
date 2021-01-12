@@ -36,7 +36,7 @@
         "description": "Rating card customization page"
     },
     "juniperbot.cookies": {
-        "message": "Lies über die Cookies der Website",
+        "message": "Liest über die Cookies der Website",
         "description": "Reading about the site's cookies"
     }
 }
