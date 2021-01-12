@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Slideshow Klasse
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Slideshow Klasse
 
 ## Anweisung
 
@@ -24,7 +24,7 @@ Gibt ein [`PresenceData`](/dev/presence/class#presencedata-interface) Objekt zur
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+console.log(currentSlide.details) // Protokolliert die Details der PresenceData in der Konsole
 ```
 
 ## Methoden
