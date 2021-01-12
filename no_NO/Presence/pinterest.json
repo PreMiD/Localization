@@ -1,1 +1,10 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Ser samling:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Ser på en Pin",
+        "description": ""
+    }
+}

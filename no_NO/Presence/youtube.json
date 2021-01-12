@@ -94,5 +94,29 @@
     "youtube.studio.videoTranslations": {
         "message": "Ser oversettelse av video:",
         "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Ser deres",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanal analyser",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanal kommentarer",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanal oversettelser",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "artist side",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Ser på sitt kontrollpanel",
+        "description": ""
     }
 }
