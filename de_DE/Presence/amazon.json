@@ -63,6 +63,10 @@
         "message": "Betrachtet seinen Verlauf",
         "description": ""
     },
+    "amazon.store": {
+        "message": "Betrachtet Shop:",
+        "description": ""
+    },
     "amazon.primeVid": {
         "message": "Schaut Prime Video:",
         "description": ""
