@@ -190,5 +190,21 @@
 	"general.viewThread": {
 		"message": "Leser tråd:",
 		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Ser på brukeren:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Ser på:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Ser på siden:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Ser en video",
+		"description": ""
 	}
 }
