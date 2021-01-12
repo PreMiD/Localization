@@ -183,6 +183,10 @@
 		"message": "Webseite",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "Anderes",
+		"description": "Select 'Other' category."
+	},
 	"partners.apply.form.name": {
 		"message": "Name",
 		"description": "Name filed."
