@@ -55,13 +55,57 @@
 		"message": "Bli fremhevet på våre sosiale medier.",
 		"description": "Description for the fifth benefit."
 	},
+	"partners.requirements.title": {
+		"message": "Krav",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "Hva ser vi etter?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Vi holder utkikk for voksende samfunn og spennende ting rundt om internett. TL;DR du burde allerede bruke PreMiD og være klar til å spre det til flere internett brukere. Aksepterende program er ekstrem kvalitet og vil variere fra en kanditat til en annen.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Vår brannmur",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Vi tar for tiden in flere type søkere for vårt partnerprogram. Alle burde ha en sjanse til å bli sett. Twitch streamere burde ihvertfall ha 500 følgere og minst 10 seere. Du må streame minst 1 gang i uken.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Søk nå!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "La oss dra til himmelen sammen!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Hvis du er mer interessert i en direkte jobb hos PreMiD, se på våre **jobbannonser**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsorer",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "PreMiD ville ikke vært mulig uten disse fantastiske personene.",
 		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Det er sånn du ser Anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings er en next-generasjon fort-kjørende PvP Arena spill som du spiller i din nettleser.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat er en frivillig internasjon radio som kjører non-stop kvalitet radio og nyhetsunderholdning.",
+		"description": "Description for UpBeatRadio."
 	},
 	"partners.apply.loggedUser": {
 		"message": "Logget inn som {0}",
