@@ -1,6 +1,6 @@
 ---
 title: Installation
-description: So installierst Du PreMiD
+description: So installierst du PreMiD
 published: true
 date: 2020-11-10T17:54:28.896Z
 tags:
@@ -16,13 +16,13 @@ dateCreated: 2020-06-11T18:03:51.119Z
 > 
 > {.is-warning}
 
-**Wähle Dein Betriebssystem:**
+**Wähle dein Betriebssystem:**
 - [Windows *7 oder höher*](/install/windows)
 - [macOS *10.11 oder höher*](/install/macos)
 - [Linux *Kernel mit v2.x oder höher*](/install/linux)
 {.links-list}
 
-**Wähle Deinen Browser:**
+**Wähle deinen Browser:**
 - [Chrome *V76 oder höher*](/install/chromium)
 - [Firefox *v69 oder höher*](/install/firefox)
 {.links-list}
