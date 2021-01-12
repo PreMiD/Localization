@@ -1,4 +1,8 @@
 {
+	"downloads.header.title": {
+		"message": "På tide å vise seg.",
+		"description": "Title"
+	},
 	"downloads.instructions.heading": {
 		"message": "Kom i gang!",
 		"description": "Displayed at Downloads page above steps"
