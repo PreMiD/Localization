@@ -107,6 +107,14 @@
 		"message": "UpBeat er en frivillig internasjon radio som kjører non-stop kvalitet radio og nyhetsunderholdning.",
 		"description": "Description for UpBeatRadio."
 	},
+	"partners.partner.wikijs": {
+		"message": "Den kraftigste og mest utvidbare Wiki-programvaren med åpen kildekode.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.fastly": {
+		"message": "Bak det beste av nettet.",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.loggedUser": {
 		"message": "Logget inn som {0}",
 		"description": "{0} will be replaced with user account."
@@ -122,5 +130,29 @@
 	"partners.apply.form.button.close": {
 		"message": "Lukk",
 		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Søk",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Takk for din søknad!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Vennligst fyll ut alle feltene.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Beskrivelsen kan bare være maksimalt 150 tegn.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Vennligst legg til en lenke (må starte med https:// og slutte med .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Du har allerede søkt om å bli en partner.",
+		"description": "Error when already applied."
 	}
 }
