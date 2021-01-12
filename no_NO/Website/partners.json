@@ -1,4 +1,60 @@
 {
+	"partners.header.title": {
+		"message": "Partnere",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Bli med i familien og få noen partne fordeler som viser hvor mye swag du har.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Disse tilhører oss allerede",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Hva med å gå til himmelen istedenfor helvete?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Din gratise utvidelse",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Vårt lag vil tilby deg en utvidelse til tjenesten du bruker.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Bli verifisert",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "En spesiell rolle og stor ære vil blir gitt til deg i vår Discord server.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-tag integrasjon",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Automatisk bruker den utvidelsen når noen besøker nettsiden din.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Bli udødelig",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Ett stygt sted på vår partner side.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Bli berømt",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Bli fremhevet på våre sosiale medier.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.first.title": {
 		"message": "Hva ser vi etter?",
 		"description": "Heading for the first requirement."
