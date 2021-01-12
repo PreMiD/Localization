@@ -1,6 +1,6 @@
 ---
 title: Installasjon
-description: How to install PreMiD
+description: Hvordan installere PreMiD
 published: true
 date: 2020-11-10T17:54:28.896Z
 tags:
@@ -8,18 +8,18 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Før du går lenger, har du sikret deg om at systemet ditt oppfyller alle [kravene](/install/requirements). 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **Det er nødvendig** og installere**begge** **applikasjonene** og **utvidelsen**! 
 > 
 > {.is-warning}
 
 **Velg ditt operativsystem:**
 - [Windows *7 eller høyere*](/install/windows)
 - [macOS *10.11 eller høyere*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux *kjernen med v2.x eller over*](/install/linux)
 {.links-list}
 
 **Velg din nettleser:**
