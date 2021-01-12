@@ -63,12 +63,40 @@
 		"message": "Snik Titt",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit2.description": {
+		"message": "Ta en titt på får utvikling og markedsføring.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Ære",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Kraftig Discord-tillatelser og en fargerik rolle.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit4.title": {
 		"message": "Støtt PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Med din hjelp er det mulig å holde prosjektet gående.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Pause",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Ta den tiden du trenger. Dette er frivillig arbeid.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit6.title": {
 		"message": "Tidlig tilgang",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Test nye funskjoner før noen andre.",
+		"description": "Benefit card description."
 	}
 }
