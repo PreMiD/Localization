@@ -4,6 +4,10 @@
         "description": ""
     },
     "9gag.hot": {
+        "message": "Betrachtet Top-Beiträge",
+        "description": ""
+    },
+    "9gag.trending": {
         "message": "Betrachtet Trends",
         "description": ""
     },
