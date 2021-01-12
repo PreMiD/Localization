@@ -23,6 +23,18 @@
 		"message": "{0} brukt",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
+	"home.examples.status.playing": {
+		"message": "Spiller av",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Direkte",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Surfer igjennom...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.heading": {
 		"message": "Du kommer til å elske disse funksjonene!",
 		"description": "Features section"
@@ -66,5 +78,13 @@
 	"home.features.quickSupport.description": {
 		"message": "Noe glitchet, sender deg masse feil-meldinger eller bare funker ikke? Vi kan hjelpe deg med å bli kvitt med disse problemene på Discord serveren våres, vi har også vårt eget support system som kan hjelpe deg med å få fikset problemet ditt så raskt som mulig.",
 		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Bli med i vår Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Nettsted språk",
+		"description": "Tippy content of the language selector."
 	}
 }
