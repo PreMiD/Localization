@@ -4,7 +4,7 @@
         "description": "Home page of the site"
     },
     "juniperbot.leaderboard": {
-        "message": "Beobachte die Rangliste des Servers:",
+        "message": "Beobachtet die Rangliste des Servers:",
         "description": "Guild leaderboard page"
     },
     "juniperbot.serverdash": {
@@ -36,7 +36,7 @@
         "description": "Rating card customization page"
     },
     "juniperbot.cookies": {
-        "message": "Lesen über die Cookies der Website",
+        "message": "Lies über die Cookies der Website",
         "description": "Reading about the site's cookies"
     }
 }
