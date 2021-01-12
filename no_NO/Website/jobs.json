@@ -98,5 +98,13 @@
 	"jobs.benefit6.description": {
 		"message": "Test nye funskjoner før noen andre.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Takk for at du sendte inn din søknad!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Du har allerede søkt om en stilling!",
+		"description": "Notification when you applied already."
 	}
 }
