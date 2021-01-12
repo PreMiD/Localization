@@ -23,7 +23,7 @@ PreMiD ist schnell und einfach zu installieren. Du solltest in kürzester Zeit e
 - Befolge die schnelle und einfache [Installationsanleitung](/install).
 - [Fehlerbehebung](/troubleshooting) führt Dich durch Lösungen für häufig auftretende Probleme.
 
-# Developers
+# Entwickler
 
 [Erste Schritte](/dev) für die PreMiD-Entwicklung ist Dein erster Schritt, bevor Du Dinge programmierst.
 
