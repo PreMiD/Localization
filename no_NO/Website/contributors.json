@@ -11,9 +11,29 @@
 		"message": "Oversettere/Tolkere",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Prosjekt Leder",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Ansatte Kordinator",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Markedsførings direktør",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "Administrator",
 		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Utvikler",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Designer",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
@@ -22,6 +42,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "Support Agent",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Representant",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Korrekturlesing",
