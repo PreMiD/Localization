@@ -34,5 +34,25 @@
   "header.contributors": {
     "message": "Bidragsytere",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Logg inn",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Logget inn som",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Rapporter en feil",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Skrivebord",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Logg ut",
+    "description": "Logout button"
   }
 }
