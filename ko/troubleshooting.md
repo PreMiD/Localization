@@ -72,7 +72,7 @@ MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세�
 
 1. McAfee 를 실행하고, 우측 상단에 있는 설정 아이콘을 클릭해주세요. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 
-2. Click "Quarantined Items" (Second from the top).
+2. " 격리된 목록 " 을 클릭해주세요 ( 우측 상단에서 두번째)
 
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
