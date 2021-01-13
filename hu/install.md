@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **Operációs rendszer kiválasztása:**
 - [Windows *7 vagy újabb verzió*](/install/windows)
 - [macOS *10.11 vagy újabb verzió*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux *kernel v2.x vagy újabb verzió*](/install/linux)
 {.links-list}
 
 **Böngésző kiválasztása:**
