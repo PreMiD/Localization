@@ -18,17 +18,17 @@ Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna s
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Aturan](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Struktur
 
 Semua presence ditulis dalam [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) memiliki tipe definisi tambahan dari JavaScript, jadi identifikasi dan perbaikan bug menjadi lebih mudah.
 
-## Installation
+## Instalasi
 
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+2. Install [Node](https://nodejs.org/en/) (sudah disertai [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan `npm install -g typescript`).
 
 ## Cloning the project
