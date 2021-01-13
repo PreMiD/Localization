@@ -87,6 +87,22 @@
 		"message": "PreMiD kamu belum diperbarui. Mohon melakukan pembaruan untuk lanjut menggunakan PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Versi Ekstensi Lama",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Ekstensi kamu belum diperbarui. Harap perbarui untuk mendapatkan fitur terbaru dengan mengunduhnya dari situs kami.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Perbaruan mendesak",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Kami merilis pembaruan mendesak untuk ekstensi. Harap perbarui untuk melanjutkan menggunakan PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Tidak ada koneksi internet!",
 		"description": "Shown when the user has no internet connection"
