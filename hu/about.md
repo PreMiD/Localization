@@ -1,17 +1,17 @@
 ---
 title: PreMiD névjegye
-description: The core features of PreMiD
+description: A PreMiD alapvető jellemzői
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown
 ---
 
-PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status. It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.
+A PreMiD egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad végzett tevékenységeket a Discord játék tevékenységi felületen. Számos platformon elérhető és a következő frissítésben több személy esetében ugyanazon tartalom megtekintése is támogatásra kerül.
 
 # Miért érdemes letöltened a PreMiD-et
 - A teljes projekt nyílt forráskódú! Mi együtt akarunk dolgozni a felhasználókkal - nem pedig ellenük.
-- Hamarosan megérkezik egy hatalmas funkció, a NézdCsoportokban. With game invitations and simultaneous watching and listening. Fenntartva: [Discord](https://discordapp.com/).
+- Hamarosan megérkezik egy hatalmas funkció, a NézdCsoportokban. Játékmeghívással, egyidejű videó megtekintéssel és zenehallgatással. Fenntartva: [Discord](https://discordapp.com/).
 
 # Alapfunkciók
 - Állapotként jeleníti meg a jelenlegi webszolgáltatást a Discord alkalmazásban.
