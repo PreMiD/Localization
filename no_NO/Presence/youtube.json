@@ -4,7 +4,7 @@
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Blar igjennom videor",
+        "message": "Blar igjennom videoer",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
