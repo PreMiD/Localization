@@ -55,8 +55,16 @@
 		"message": "Kategori",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "Semua",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Permainan",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Musik",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
