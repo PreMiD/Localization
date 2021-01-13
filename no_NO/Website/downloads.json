@@ -28,7 +28,7 @@
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
-		"message": "Har du forsatt problemer",
+		"message": "Har du forsatt problemer? {0}",
 		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
