@@ -52,11 +52,11 @@
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelBoard": {
-		"message": "Schaut sich das {0} an",
+		"message": "Schaut sich das {0}",
 		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.product": {
-		"message": "Schaut sich Produkte von {0} an",
+		"message": "Schaut sich das Produkt von {0} an",
 		"description": "{0} will be replaced with the name of the publisher of the product"
 	},
 	"v live.profileEdit": {
