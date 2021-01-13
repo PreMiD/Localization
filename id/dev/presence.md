@@ -34,7 +34,7 @@ Semua presence ditulis dalam [TypeScript](https://www.typescriptlang.org/). [Typ
 ## Cloning the project
 
 1. Buka terminal dan ketik `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
+2. Pilih folder pilihanmu.
 3. Open it in your code editor.
 
 ## Membuat folder dan file
