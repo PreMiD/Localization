@@ -55,25 +55,40 @@ Windows: `C:\Users\USER\AppData\Roaming\`` 에서 `PreMiD` 를 지우세요.
 MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세요``.
 
 ### 데비안 / 우분투 배포판에서의 에러
-만약 디스코드를 Snapcraft를 통해 다운받았다면, RPC는 작동하지 않을거에요. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+만약 디스코드를 Snapcraft를 통해 다운받았다면, RPC는 작동하지 않을거에요. Snapcraft 버전을 터미널에서 ` sudo snap remove discord `  를 통하여 삭제하고,
+ 에서 디스코드의 리눅스 빌드를 다운받아주세요. ([디스코드 canary도 괜찮아요.](https://discordapp.com/api/canary/download?platform=linux)), 그리고 디스코드의 설치경로로 이동해주세요. (대부분`$HOME/Downloads 에 있답니다.`), 그다음,  `sudo dpkg -i discord-*.deb`. 코드를 통해서 패키지를 설치해주세요.</p> 
 
-### McAfee detected PreMiD as virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
+
+### McAfee 백신이 PreMiD를 바이러스로 오탐하는 경우 (윈도우)
+
+이 문제는 McAfee의 오탐이며, 우리는 해당 이슈를 보고해놓았어요. 당장은 밑의 방법을 통하여 PreMiD를 McAfee의 탐지에서 제외할수있어요.
+
+
+
+> 만약 여러분이 해당 단계를 거치기 어려운 상황이라면, 언제던 [#support](https://discord.premid.app/) 채널에서 티켓을 만드실수 있어요. 저희의 유능한 도우미들이 여러분을 도울수있을거에요. 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+1. McAfee 를 실행하고, 우측 상단에 있는 설정 아이콘을 클릭해주세요. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+
 2. Click "Quarantined Items" (Second from the top).
+
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+
 5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
+
 6. Click "Real-Time Scanning" (Third from the top).
 7. Expand it and click "Add file".
 8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+
 9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
+
+
 ### 이것들로는 제 문제가 해결되지 않았습니다
+
 [#support](https://discord.premid.app/)에서 티켓을 열어 주세요.
