@@ -87,6 +87,22 @@
 		"message": "당신의 PreMiD 앱은 오래되었습니다! PreMiD 를 계속 사용하시려면 업데이트 해주세요!",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "오래 된 버전",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "브라우저 익스텐션 새 업데이트가 있어요. Premid 의 최신 기능을 사용하시려면 업데이트해주세요.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "긴급 업데이트",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "긴급 업데이트를 진행했습니다. PreMid를 게속 사용하기 위해 익스텐션을 업데이트해주세요.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "인터넷 연결 없음!",
 		"description": "Shown when the user has no internet connection"
