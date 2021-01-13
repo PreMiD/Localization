@@ -59,6 +59,10 @@
         "message": "Melihat sejarah mereka",
         "description": ""
     },
+    "amazon.store": {
+        "message": "Melihat toko:",
+        "description": ""
+    },
     "amazon.primeVid": {
         "message": "Melihat Video Utama:",
         "description": ""

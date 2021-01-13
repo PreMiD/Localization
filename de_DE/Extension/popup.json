@@ -91,9 +91,17 @@
 		"message": "Veraltete Erweiterung",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Ihre Erweiterung ist veraltet. Bitte aktualisieren Sie sie, um die neuesten Funktionen zu erhalten, indem Sie sie von unserer Seite herunterladen.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
 	"popup.info.safari.urgentUpdate": {
 		"message": "Dringendes Update",
 		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Wir haben ein dringendes Update für die Erweiterung veröffentlicht. Bitte aktualisieren Sie sie, um PreMiD weiter zu nutzen.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
 		"message": "Keine Internetverbindung!",

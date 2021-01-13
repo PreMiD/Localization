@@ -3,6 +3,10 @@
         "message": "Membaca tweet:",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "Melihat DM mereka",
+        "description": ""
+    },
     "twitter.viewTweets": {
         "message": "Melihat tweet dari:",
         "description": ""

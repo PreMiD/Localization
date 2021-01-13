@@ -27,6 +27,10 @@
 		"message": "Toko",
 		"description": "A page name"
 	},
+	"premid.partners": {
+		"message": "Mitra",
+		"description": "A page name"
+	},
 	"premid.pageAbout": {
 		"message": "Tentang PreMiD",
 		"description": "A page name"
@@ -43,6 +47,10 @@
 		"message": "Instalasi untuk {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
+	"premid.pageTroubleshooting": {
+		"message": "Pemecahan Masalah",
+		"description": "A page name"
+	},
 	"premid.pageStart": {
 		"message": "Memulai",
 		"description": "A page name"
@@ -54,6 +62,10 @@
 	"premid.pageApiVersion": {
 		"message": "Memahami API v{0}",
 		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Pengembangan Presence",
+		"description": "A page name"
 	},
 	"premid.pagePresenceGuide": {
 		"message": "Panduan Presence",

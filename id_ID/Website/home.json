@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** adalah utilitas simpel yang memungkinkan kamu menampilkan apa yang sedang kamu lakukan di web di status now playing Discord.",
+		"message": "**PreMiD** adalah utilitas simpel yang memungkinkan kamu menampilkan apa yang sedang kamu lakukan di web pada status now playing Discord.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -44,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Kami membuat ekstensi sedemikian rupa agar kamu dapat menggunakan Presence yang dibuat oleh pengguna lain dan mengaturnya pada ekstensi kami!",
+		"message": "Kami membuat ekstensi sedemikian rupa agar kamu dapat menggunakan Presence yang dibuat oleh pengguna lain dan mengaturnya dengan mudah pada ekstensi kami!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {

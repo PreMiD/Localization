@@ -227,6 +227,10 @@
 		"message": "Terapkan",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Terima kasih telah melamar!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Silakan lengkapi semua bidang.",
 		"description": "Error when a field isn't filled."
