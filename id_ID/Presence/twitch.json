@@ -1,4 +1,8 @@
 {
+	"twitch.downloads": {
+		"message": "Unduhan",
+		"description": "Page name"
+	},
 	"twitch.turbo": {
 		"message": "Turbo",
 		"description": "Page name"
