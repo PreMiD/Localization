@@ -96,7 +96,7 @@
 		"description": "{0} will be replaced with the year"
 	},
 	"twitch.blogBrowse": {
-		"message": "Menjelajahi postingan blog terbaru...",
+		"message": "Menelusuri postingan blog terbaru...",
 		"description": ""
 	},
 	"twitch.help": {
@@ -108,7 +108,7 @@
 		"description": ""
 	},
 	"twitch.helpTopicCatalog": {
-		"message": "Menjelajahi katalog topik...",
+		"message": "Menelusuri katalog topik...",
 		"description": ""
 	},
 	"twitch.dev": {
