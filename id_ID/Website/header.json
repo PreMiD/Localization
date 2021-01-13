@@ -35,6 +35,10 @@
     "message": "Kontributor",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Login",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Masuk sebagai",
     "description": "Indicates which user is logged in"
