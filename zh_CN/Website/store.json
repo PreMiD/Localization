@@ -3,6 +3,10 @@
 		"message": "未连接到扩展程序",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.creator": {
+		"message": "作者",
+		"description": "Creator of a presence"
+	},
 	"store.cards.popular": {
 		"message": "热门",
 		"description": "Presence card popular flame"
@@ -55,8 +59,16 @@
 		"message": "分类",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "全部",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "游戏",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "音乐",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
