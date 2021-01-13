@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "Ser igjennom...",
+		"message": "Surfer...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "Leser Direkte Melding fra:",
+		"message": "Leser Direkte Meldinger fra:",
 		"description": ""
 	},
 	"general.readingAbout": {
@@ -206,5 +206,61 @@
 	"general.watchingVid": {
 		"message": "Ser en video",
 		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Venter på en video premiere",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Venter på video premieren",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Ser en livestream",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Venter på en at en livestream skal starte",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Vetner på at livestreamen skal starte",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Ser på:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Ønskeliste:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Personvernregler",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Vilkår for bruk og tjeneste",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Retningslinjer for informasjonskapsler",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Looper all sangene",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "På loop",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Hendelse historie",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Driftstid historikk",
+		"description": "A page name of statuspages"
 	}
 }
