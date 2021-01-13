@@ -3,8 +3,44 @@
         "message": "Leser tweet:",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "Ser deres direkte meldinger",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Ser tweetene til:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Ser tweeten (med svar) til:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Ser media av:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Ser likt av:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Ser listen av:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Bokmerker",
+        "description": ""
+    },
     "twitter.notifs": {
         "message": "Varslinger",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Utforsk",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Endrer noen instillinger...",
         "description": ""
     }
 }
