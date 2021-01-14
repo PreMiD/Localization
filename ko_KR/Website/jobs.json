@@ -11,8 +11,20 @@
 		"message": "명예",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit3.description": {
+		"message": "강력한 디스코드 역할과 색깔넘치는 디스코드 역할.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit4.title": {
 		"message": "PreMiD를 지원하다.",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "당신의 기여도 수치는 이 프로젝트를 실행하기에 적합합니다.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "시간 초과",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
@@ -22,6 +34,10 @@
 	"jobs.benefit6.title": {
 		"message": "얼리 엑세스",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "다른 사람들보다 빠르게 새로운 기능들을 체험해보세요.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "지원해주셔서 감사합니다!",
