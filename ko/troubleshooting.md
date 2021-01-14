@@ -74,18 +74,18 @@ MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세�
 
 2. " 격리된 목록 " 을 클릭해주세요 ( 우측 상단에서 두번째)
 
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+3. 해당 파일을 확장하고, " settings.dat " 전에 있는 `>` 아이콘을 클릭해주세요.
+4. Restore을 누르기 전, 경로에 "AppData\Local\Temp\PreMiD" 가 있는지 확인해주세요. 만약 있다면, settings. dat 을 선택하고 Restore 버튼을 누릅니다. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
+5. 복원후에 여러분은 " 격리된 목록 " 팝업을 종료하실수 있답니다, 그런다음 우측 상단에 있는 설정 아이콘을 눌러주세요.
 
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+6. 위에서 세번째에 있는 " 실시간 스캔 " 을 클릭해주세요.
+7. 확장하고 " 파일 추가 " 버튼을 눌러주세요.
+8. 파일 경로에서, "%appdata%" 를 작성하고 엔터 키를 눌러주세요. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+9. "PreMiD" 폴더를 열고, "PreMiD.exe" 파일을 더블클릭해서 열어주세요. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+10. McAfee가 이제 저희 파일을 무시하게 될거에요. 저희의 앱을 다시 실행하면, 정상적으로 작동할거에요.
 
 
 
