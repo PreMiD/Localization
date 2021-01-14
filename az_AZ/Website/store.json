@@ -3,6 +3,10 @@
 		"message": "Uzantı bağlı deyil.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.creator": {
+		"message": "Yaradıcı",
+		"description": "Creator of a presence"
+	},
 	"store.cards.popular": {
 		"message": "Bu Status istifadəçilər arasında çox populyardır.",
 		"description": "Presence card popular flame"
@@ -55,8 +59,16 @@
 		"message": "Kateqoriyalar",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "Hamısı",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Oyunlar",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Mahnı",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
