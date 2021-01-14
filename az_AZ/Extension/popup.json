@@ -115,6 +115,10 @@
 		"message": "Discord bağlantısı yoxdur!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD sizi Discord programına bağlaya bilmədi! Program qurulub və işləyir? *Troubleshooting*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Hamısı",
 		"description": "Category name shown when you open tags"
