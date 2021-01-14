@@ -7,6 +7,10 @@
 		"message": "앗! 그 페이지를 찾을 수 없어요.",
 		"description": "Error (404) message"
 	},
+	"error.code.4": {
+		"message": "삭제된 Presence 나, 지원하지 않는 Presence를 찾고있으세요.",
+		"description": "Error (4) message"
+	},
 	"error.code.500": {
 		"message": "내부 서버 오류가 발생했습니다.",
 		"description": "Error (500) message"
@@ -18,6 +22,22 @@
 	"error.page.button": {
 		"message": "홈페이지로 돌아가기",
 		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "찾고 있는 유저가 조회되지 않아요. 다시한번 확인해주세요.",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "찾고있는 사용자 ID가 정확합니다",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "사용자가 충분한 Presence를 생성했으며 Discord 서버에서 Presence 개발자 역할을 합니다",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "다른 사람들이 Discord 서버에서 동일한 문제를 겪고 있는지 확인하십시오",
+		"description": "Check if the error is also happening to others message."
 	},
 	"user.notFound.message4": {
 		"message": "만약 이것이 문제라고 생각되면, [저희의 디스코드 서버] 에 문의해주세요.",

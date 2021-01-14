@@ -23,6 +23,10 @@
 		"message": "저희의 디스코드 서버의 특별한 등급",
 		"description": "Features list"
 	},
+	"beta.register.text": {
+		"message": "준비 되셨나요? 저희의 베타테스터에 지원하세요!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
 	"beta.register.button": {
 		"message": "지금 가입하세요!",
 		"description": "Sign up button text"
