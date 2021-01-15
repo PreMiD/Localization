@@ -80,7 +80,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "App Usang",
+		"message": "Aplikasi Usang",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
