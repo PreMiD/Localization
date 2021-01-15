@@ -74,5 +74,89 @@
 	"twitch.subs": {
 		"message": "Visualizzando i suoi abbonamenti...",
 		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Guardando la Squadra...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderando lo streamer:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Riscattando un codice...",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Impara le basi",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Impostando la tua stream",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Aumento di livello",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Ottieni ricompense",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Musica su Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Formazione live",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Creator Dashboard",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Gestendo la loro stream...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Gestendo i ruoli della comunità...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "Nel Video Producer...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Visualizzando i loro",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Statistiche del canale",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Riepilogo Stream",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Progressi",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Attività della community",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Elenco Followers",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Raccolte Video",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clip",
+		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }
