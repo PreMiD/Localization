@@ -247,6 +247,14 @@
 		"message": "Informativa sui Cookie",
 		"description": "A page name"
 	},
+	"general.repeatAll": {
+		"message": "Ripetendo tutte le canzoni",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "In loop",
+		"description": ""
+	},
 	"general.incidentHistory": {
 		"message": "Cronologia degli incidenti",
 		"description": "A page name of statuspages"
