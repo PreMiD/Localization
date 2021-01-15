@@ -18,28 +18,28 @@ La versione `2.x` introduce il [negozio di presenze](https://premid.app/store). 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Linee guida](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Struttura
 
 Tutte le presence sono scritte in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) ha alcune definizioni extra interessanti rispetto a JavaScript, quindi correggere e identificare i bug è molto più facile.
 
-## Installation
+## Installazione
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Installa [Git](https://git-scm.com/).
+2. Installa [Node](https://nodejs.org/en/) (viene fornito con [npm](https://www.npmjs.com/)).
 3. Installa [TypeScript](https://www.typescriptlang.org/index.html#download-links) (apri un terminale e `npm install -g typescript`).
 
-## Cloning the project
+## Clonando il progetto
 
 1. Apri un terminale e digita `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Scegli una cartella a tua scelta.
+3. Aprilo nel tuo editor di codice.
 
 ## Creazione cartelle e file
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Vai nella cartella `siti web` e poi vai nella cartella con la prima lettera del ** nome** (non un URL) del servizio che vuoi supportare.
 2. Crea una cartella con il **nome** (non un URL) del servizio che vuoi supportare.
 3. Crea un file `presence.ts` e `tsconfig.json` all'interno.
 4. Crea una cartella chiamata `dist` all'interno.
@@ -66,62 +66,55 @@ Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://e
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.3",
+  "$schema": "https://schemas.premid.app/metadata/1.0",
   "author": {
-    "name": "USER",
+    "name": "UTENTE",
     "id": "ID"
   },
-  "contributors": [
-    {
-      "name": "USER",
-      "id": "ID"
-    }
-  ],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "contributors": [{
+    "name": "UTENTE",
+    "id": "ID"
+  }],
+  "service": "SERVIZIO",
+  "altnames": ["SERVIZIO"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "DESCRIZIONE"
   },
   "url": "URL",
-  "version": "VERSION",
+  "version": "VERSIONE",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "category": "CATEGORIA",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
-  "readLogs": false,
   "settings": [
-    {
-      "id": "ID",
-      "multiLanguage": true
-    },
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": true
-    },
-    {
-      "id": "ID",
-      "if": {
-        "ID": true
-      },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
-    },
-    {
-      "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": 0,
-      "values": ["1", "2", "etc."]
-    }
-  ]
+        { 
+            "id": "ID",
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
+            "value": true
+        },
+        {
+            "id": "ID",
+            "if": {
+                "ID": true
+            },
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
+            "value": "\"%song%\" di %artist%",
+            "placeholder": "usa %song% o %artist%"
+        },
+        {
+            "id": "ID",
+            "title": "TITOLO VISUALIZZATO",
+            "icon": "ICONA GRATUITA FONTAWESOME",
+            "value": 0,
+            "values": ["1", "2", "ecc."]
+        }
+    ]
 }
 ```
 
@@ -140,45 +133,43 @@ Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è nece
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Variabile</th>
+      <th style="text-align:left">Descrizione</th>
+      <th style="text-align:left">Tipo</th>
+      <th style="text-align:left">Opzionale</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Dovrebbe contenere un Oggetto con il <code>nome</code> e l'<code>id</code> del contributore. Il nome è il tuo nome utente Discord senza l'identificatore (#0000). L'Id <code>dell'utente</code> può essere copiato da Discord abilitando la modalità
+        dello sviluppatore e facendo clic destro sul tuo profilo.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Dovrebbe contenere un Oggetto con il <code>nome</code> e l'<code>id</code> del contributore. Il nome è il tuo nome utente Discord senza l'identificatore (#0000). L'Id <code>dell'utente</code> può essere copiato da Discord abilitando la modalità
+        dello sviluppatore e facendo clic destro sul tuo profilo.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Il titolo del servizio supportato da questa presenza.<br>
+      (Deve essere lo stesso nome della cartella dove tutto si trova)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left"><br>Destinato ad essere utilizzato per presences che hanno nomi diversi in lingue diverse (ad esempio Pokémon and 포켓몬스터).<br>Puoi anche usarlo per presences che hanno caratteri speciali in modo da non doverli digitare (ad esempio Pokémon e Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">Piccola descrizione della presence, è possibile utilizzare la descrizione del servizio se siete fuori idee. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -333,7 +324,7 @@ Puoi copiare questo nel tuo file `presence.ts` e modificare i valori. L'impostaz
 
 Per esempi suggeriamo di esaminare il codice di presenze come: 1337x o 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Dalla v2.2. ora ci sono le Slideshows, questo ti permette di mostrare più interfacce `PresenceData` ad un intervallo, per maggiori informazioni clicca sulla `classe` Slideshow [qui](/dev/presence/slideshow).
 
 ## Impossibile ottenere alcuni dati?!
 
@@ -395,12 +386,12 @@ Il sito Web su cui si sta sviluppando si ricarica automaticamente ogni volta che
 ## Debugging
 
 - Puoi mettere `console.log("Test");` tra il tuo codice e vedere se la console del browser ti dà quell'output. Se sì poi andare avanti e riprovare dopo la funzione successiva. Se no allora c'è un errore sopra.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Se questo ancora non ti aiuta, allora chiedi aiuto a uno sviluppatore di presence sul nostro [server Discord](https://discord.premid.app/).
 
 # File spiegati
 
-- [Presence Class](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Classe presence](/dev/presence/class)
+- [Classe Slideshow](/dev/presence/slideshow)
+- [classe iFrame](/dev/presence/iframe)
 - [File dei metadati](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Configurazione TypeScript](/dev/presence/tsconfig ""){.links-list}
