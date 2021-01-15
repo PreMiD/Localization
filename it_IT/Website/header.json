@@ -35,6 +35,10 @@
     "message": "Collaboratori",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Accedi",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Accesso effettuato come",
     "description": "Indicates which user is logged in"

@@ -103,9 +103,17 @@
 		"message": "Indietro",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "Annulla",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "Ok",
 		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "Fatto",
+		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "Accedi",
