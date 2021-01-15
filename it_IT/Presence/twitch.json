@@ -1,1 +1,78 @@
-{}
+{
+	"twitch.downloads": {
+		"message": "Downloads",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Offerte di lavoro",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partners",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Centro Stampa",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Sicurezza",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Accessibilità",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Preferenze annunci",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Linee guida della community",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Home page",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Visualizzando il portafoglio...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Visualizzando gli e-sports...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Visualizzando le persone che seguo...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Visualizzando la squadra:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Visualizzando l'inventario dei Drops...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Visualizzando le campagne Drops attive...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Visualizzando le loro impostazioni...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Visualizzando i suoi amici...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Visualizzando i suoi abbonamenti...",
+		"description": ""
+	}
+}
