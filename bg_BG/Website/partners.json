@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Партньори",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "Присъедини се в семейството и получи някои бонуси специално за партньори и покажи колко си готин.",
 		"description": "Description for page."
@@ -50,6 +54,10 @@
 	"partners.why.benefit5.description": {
 		"message": "Представено на нашите социални медий.",
 		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Изисквания",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Какво търсим?",
@@ -175,6 +183,14 @@
 		"message": "Уебсайт",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "Други",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Име",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Пример: PreMiD",
 		"description": "Name field's placeholder."
@@ -210,6 +226,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "Кандидатствай",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Благодарим ви, че кандидаствахте!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Моля, попълнете всички полета.",
