@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "파트너",
+		"description": "Heading for page."
+	},
 	"partners.sponsors.title": {
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
