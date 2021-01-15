@@ -99,6 +99,10 @@
 		"message": "Aumento di livello",
 		"description": "Page name"
 	},
+	"twitch.campConnect": {
+		"message": "Connetti e coinvolgi",
+		"description": "Page name"
+	},
 	"twitch.campReward": {
 		"message": "Ottieni ricompense",
 		"description": "Page name"
@@ -158,5 +162,97 @@
 	"twitch.clips": {
 		"message": "Clip",
 		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Impostazioni Canale",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Impostazioni Moderazione",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Impostazioni Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Visualizzando gli strumenti di streaming",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Visualizzando le Estensioni",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Leggendo a proposito del marchio Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Mantenendo Twitch reale",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Portando metodo alla nostra (cara) follia",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Massimizzando la nostra espressione",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Riunendo tutto insieme",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Guardando l'evoluzione del marchio di Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Twitch Blogs",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Visualizzando l'archivio Blog {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Navigando attraverso gli ultimi post del blog...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Centro assistenza",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Visualizzando l' argomento:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Navigando attraverso il catalogo degli argomenti...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Programma Affiliato di Twitch",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "Sviluppatori Di Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Documentazione degli Sviluppatori di Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Prodotti Sviluppatori di Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Storie di successo da parte della comunità",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Risorse utili",
+		"description": "Page name"
 	}
 }
