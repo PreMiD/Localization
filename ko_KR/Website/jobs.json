@@ -23,6 +23,10 @@
 		"message": "아래 모든 입력란에 올바르게 기재해주세요",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "프리미드는 오픈 소스 프로젝트입니다(비영리 팀임을 의미합니다.). 모든 기부금 또는 후원금은 앱을 개발하는데 사용됩니다. PreMiD에 일자리를 신청함으로서 당신이 팀에서 자원하고있음을 인정합니다.",
+		"description": "Notice for applicants."
+	},
 	"jobs.guild.required": {
 		"message": "우리의 디스코드에 참여하세요",
 		"description": "Title of the modal the user will see if it's not in Discord server."
