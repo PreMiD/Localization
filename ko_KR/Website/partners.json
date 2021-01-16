@@ -54,5 +54,33 @@
 	"partners.apply.form.description": {
 		"message": "최대 150글자로 서술하세요.",
 		"description": "Description field."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "이미지 링크: (550x300, PNG 파일만.)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "예: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "제출하기",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "제출해주셔서 감사합니다!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "모든 입력란에 입력하세요.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "최대 150글자",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "링크를 적어주세요. (https:// 로 시작하거나 .png로 끝나야만 합니다.)",
+		"description": "Error when image link is entered wrong."
 	}
 }
