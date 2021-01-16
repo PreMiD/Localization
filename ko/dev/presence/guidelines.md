@@ -16,12 +16,12 @@ When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/P
 
 Presence 개발자들이 지켜야할 기본적인 규칙은 다음과 같습니다.
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
+- Presences가 **무조건**당신이 선택한 웹 사이트와 관련이 있어야만 합니다.
+- Presence는 불법 웹사이트용으로 만들어져서는 **안됩니다.** (예:스트레스 요인, 마약,아동 포르노, 등)
+- 파일구조를 정리하고 관리해야하며, 지정되지 않은 파일은 포함하면 안됩니다. (예: vscode 및 git 폴더, 사진과 텍스트 파일등)
+- 올바른 파일 구조여야합니다. 초안은 허용되지 **않습니다.**
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- The domain of the presence must be at least 2 months old.
+- Presence의 도메인이 생성된지 적어도 2달이 지나야합니다.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
 - Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
