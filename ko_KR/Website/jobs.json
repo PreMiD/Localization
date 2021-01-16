@@ -31,6 +31,14 @@
 		"message": "우리의 디스코드에 참여하세요",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "신청하기 위서는 당신이 우리의 디스코드 서버에 들어오셔야만 합니다. 그렇지 않으면, 당신이 최종으로 선정이 되어도 연락을 드릴수 없습니다.",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "PreMiD를 위해 일해주세요!",
+		"description": "First part of the jobs page."
+	},
 	"jobs.benefit3.title": {
 		"message": "명예",
 		"description": "Benefit card title."
