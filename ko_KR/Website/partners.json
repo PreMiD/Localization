@@ -3,6 +3,10 @@
 		"message": "파트너",
 		"description": "Heading for page."
 	},
+	"partners.requirements.title": {
+		"message": "요구사항",
+		"description": "Heading for the requirements."
+	},
 	"partners.sponsors.title": {
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
