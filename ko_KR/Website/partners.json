@@ -19,6 +19,14 @@
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
 	},
+	"partners.apply.title": {
+		"message": "파트너에 지원하기",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "{0} (으) 로 로그인되었습니다.",
+		"description": "{0} will be replaced with user account."
+	},
 	"partners.apply.notYou": {
 		"message": "본인이 아니세요?",
 		"description": "Account switcher on the modal, just like Discord's!"
@@ -55,6 +63,10 @@
 		"message": "최대 150글자로 서술하세요.",
 		"description": "Description field."
 	},
+	"partners.apply.form.description.placeholder": {
+		"message": "기능 설명",
+		"description": "Description field's placeholder."
+	},
 	"partners.apply.form.imageLink": {
 		"message": "이미지 링크: (550x300, PNG 파일만.)",
 		"description": "Do not change the sizes."
@@ -62,6 +74,10 @@
 	"partners.apply.form.imageLink.placeholder": {
 		"message": "예: https://i.imgur.com/clun1ID.png",
 		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "닫기",
+		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
 		"message": "제출하기",
@@ -82,5 +98,9 @@
 	"partners.apply.error3": {
 		"message": "링크를 적어주세요. (https:// 로 시작하거나 .png로 끝나야만 합니다.)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "당신은 이미 파트너에 지원하셧습니다!",
+		"description": "Error when already applied."
 	}
 }
