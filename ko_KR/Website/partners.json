@@ -3,6 +3,10 @@
 		"message": "파트너",
 		"description": "Heading for page."
 	},
+	"partners.why.title": {
+		"message": "지옥 대신에 천국에 가는것은 어떨까요?",
+		"description": "Heading for benefits."
+	},
 	"partners.requirements.title": {
 		"message": "요구사항",
 		"description": "Heading for the requirements."
