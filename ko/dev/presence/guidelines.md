@@ -1,6 +1,6 @@
 ---
 title: 지침
-description: Rules all presence developers must follow to have their presence added.
+description: 모든 presence 개발자들이 자신의 presence를 추가하려면 따라야하는 규칙입니다.
 published: true
 date: 2020-12-29T02:18:29.846Z
 tags:
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# 지침
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. However, the implementation of these rule sets will keep us and our users from running into issues.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. 그러나, 이 규칙을 시행함으로서 우리의 사용자들이 문제에 빠지지 않도록 방지합니다.
 
-# 파일
+# 생성
 
-The general rules of presence development are as follows:
+Presence 개발자들이 지켜야할 기본적인 규칙은 다음과 같습니다.
 
 - Presences **must** be related to the website of choice.
 - Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
