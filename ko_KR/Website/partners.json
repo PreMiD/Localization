@@ -7,12 +7,52 @@
 		"message": "요구사항",
 		"description": "Heading for the requirements."
 	},
+	"partners.requirements.first.title": {
+		"message": "무엇을 찾고 있나요?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.apply.button": {
+		"message": "지금 신청하기!",
+		"description": "Button to apply for partner."
+	},
 	"partners.sponsors.title": {
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
 	},
+	"partners.apply.notYou": {
+		"message": "본인이 아니세요?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "한 개의 항목을 선택하십시오",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "웹사이트",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "기타",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "이름",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "예: PreMiD",
+		"description": "Name field's placeholder."
+	},
 	"partners.apply.form.link": {
 		"message": "링크",
 		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "예: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "최대 150글자로 서술하세요.",
+		"description": "Description field."
 	}
 }

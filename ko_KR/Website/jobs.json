@@ -1,11 +1,31 @@
 {
+	"jobs.modal.title": {
+		"message": "{0} 에 지원하기",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "{0}/2 단계",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
 	"jobs.modal.buttons.next": {
 		"message": "다음",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "가입하기",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "취소",
 		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "아래 모든 입력란에 올바르게 기재해주세요",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.guild.required": {
+		"message": "우리의 디스코드에 참여하세요",
+		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.benefit3.title": {
 		"message": "명예",
