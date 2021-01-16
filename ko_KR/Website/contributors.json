@@ -72,7 +72,7 @@
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "유저 ID가 복사됨!",
+		"message": "유저 ID가 복사되었습니다!",
 		"description": "Notification after user ID was copied."
 	}
 }
