@@ -37,7 +37,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+또는 `iframe.ts` 파일을 사용하는 경우:
 
 ```bash
 presence
