@@ -59,6 +59,10 @@
 		"message": "도움",
 		"description": "Help section"
 	},
+	"footer.help.troubleshooting": {
+		"message": "문제 해결하기",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
 	"footer.help.getsupport": {
 		"message": "도움이 필요하신가요?",
 		"description": "Get Support -> redirects to Discord invite"
