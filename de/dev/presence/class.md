@@ -184,7 +184,7 @@ presence.hideSetting("pdexID"); // Ersetze pdexID mit der ID der Einstellung
 Zeigt angegebene Anstellung an (Funktioniert nur, wenn die Einstellung schon versteckt war).
 
 ```typescript
-presence.showSetting("pdexID"); // Ersetze pdexID mit der ID der Einstellung
+presence.showSetting("pdexID"); // Ersetze pdexID mit der id der Einstellung
 ```
 
 ### `getLogs()`

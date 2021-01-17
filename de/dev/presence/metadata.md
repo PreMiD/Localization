@@ -297,16 +297,16 @@ After you have fully made the file with strings you can create a Pull Request on
 #### Standard-Tasten
 The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
 
-**Note:** These are in no way changeable.
+**Hinweis:** Diese sind in keiner Weise veränderbar.
 
-### Methods
+### Methoden
 
 Benutze die folgenden Methoden, um eine Einstellungen-Info in deinen Presence-Dateien zu bekommen.
 #### `getSetting(String)`
 Gibt den Wert der Einstellung zurück.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await.presence.getSetting("pdexID"); // Ersetze pdexID mit der ID der Einstellung
+console.log(setting); // Dies loggt den Wert der Einstellung
 ```
 
 #### `hideSetting(String)`
