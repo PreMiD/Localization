@@ -1,15 +1,15 @@
 ---
 title: Firefox
-description: Komma igång med en PreMiD-installation på Firefox
+description: Komma igång med PreMiD-installation på Firefox
 published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Installationen av tillägget är synnerligen viktigt då programmet ej kan göra något av sig själv.
 
 # Installera
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Gå till vår nedladdningssida genom att [klicka här](https://premid.app/downloads).
 2. Välj **Firefox**.
 3. Sök efter `about:addons`.
 4. Klicka på den lilla kugghjulsikonen i övre högra hörnet.
@@ -17,7 +17,7 @@ The installation of the extension is very important as the application can not d
 6. Välj den fil du laddade ner nyligen.
 7. Acceptera installationen genom att klicka på **Lägg till**.
 
-> Do not forget to [add the **application**](/install). 
+> Glöm ej att [lägga till **applikationen**](/install). 
 > 
 > {.is-warning}
 
