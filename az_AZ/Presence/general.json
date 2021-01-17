@@ -174,5 +174,33 @@
 	"general.viewProfile": {
 		"message": "Profilə baxır:",
 		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Seriya'ya baxır:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Şou izləyir:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Hesablarına baxır",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Mövzuya baxır:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Üzvə baxır:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Baxılır:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Səhifəyə baxılır:",
+		"description": ""
 	}
 }
