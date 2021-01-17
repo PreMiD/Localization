@@ -397,8 +397,8 @@ Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, 
 
 # Dateien erklärt
 
-- [Presence Class](/dev/presence/class)
+- [Presence Klasse](/dev/presence/class)
 - [Diashow Class](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [iFrame Klasse](/dev/presence/iframe)
 - [Metadatendatei](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [TypeScript Konfiguration](/dev/presence/tsconfig ""){.links-list}
