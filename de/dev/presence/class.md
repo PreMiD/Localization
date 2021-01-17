@@ -48,7 +48,7 @@ Wirft ein `PresendeData` Objekt zurück, was die Presence anzeigt.
 
 Legt Ihre Profilaktivität gemäß den bereitgestellten Daten fest.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+Der erste Parameter benötig eine [`PresenceData`](#presencedata-interface) Schnittstelle oder eine [`Slideshow`](/dev/presence/slideshow) Klasse um alle Informationen zu erhalten, die Sie in Ihrem Profil anzeigen möchten.
 
 Der zweite Parameter definiert, wann Präsenz etwas spielt oder nicht. Always use `true` if you provide timestamps in `PresenceData`.
 
