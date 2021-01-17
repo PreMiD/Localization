@@ -7,8 +7,12 @@
 		"message": "PreMiD ব্যবহার করার জন্য প্রস্তুত?",
 		"description": "Promotional heading"
 	},
+	"footer.usercount.message": {
+		"message": "জয়েন করেন {0} ইউজার এর সাথে আজকে!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
 	"footer.usercount.button": {
-		"message": "ইন্সটল",
+		"message": "ইনস্টল",
 		"description": "Install button under the promotional message"
 	},
 	"footer.partners.heading": {
@@ -20,7 +24,7 @@
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
-		"message": "ডেভেলাপার",
+		"message": "ডেভেলপার",
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
@@ -92,7 +96,7 @@
 		"description": "Wiki -> redirects to wiki.premid.app"
 	},
 	"footer.copyright.line1": {
-		"message": "{0} by {1}",
+		"message": "{0} {1} দ্বারা",
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
