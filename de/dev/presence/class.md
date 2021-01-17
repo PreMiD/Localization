@@ -32,17 +32,17 @@ Diese Eigenschaft wird benötigt, damit deine Presence funktioniert, weil es die
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+Beim setzen von `InjectOnComplete` zu `true`, wird das erste `UpdateData` Event für beide, die `presence.ts` und `iframe.js` Dateien erst gestartet, wenn die Seite fertig geladen ist.
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+Beim setzen von `appMode` zu `true` und die Presence sollte leere `PresenceData` senden, zeigt die App die Anwendung (Bild und Name) auf dem Benutzerprofil, anstatt nichts.
 
 ## Methoden
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Wirft ein `PresendeData` Objekt zurück, was die Presence anzeigt.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
