@@ -1,4 +1,28 @@
 {
+	"footer.language": {
+		"message": "ভাষা",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "PreMiD ব্যবহার করার জন্য প্রস্তুত?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.button": {
+		"message": "ইন্সটল",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "পার্টনার",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "ফলো করেন আমাদের",
+		"description": "Follow Us section"
+	},
+	"footer.developers.documentation": {
+		"message": "ডকুমেন্টেশন",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
 	"footer.supportus.donate": {
 		"message": "টাকা দেন",
 		"description": "Donate -> redirects to patreon.com/timeraa"
