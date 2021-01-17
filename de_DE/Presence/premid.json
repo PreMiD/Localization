@@ -72,11 +72,7 @@
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
-		"message": "Presence-Klasse",
-		"description": "A page name"
-	},
-	"premid.pageSlideshowClass": {
-		"message": "Slideshow-Klasse",
+		"message": "Presence Klasse",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
