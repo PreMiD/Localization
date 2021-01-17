@@ -1,1 +1,26 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Visar filmbiblioteket",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Visar seriebiblioteket",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Visa de senaste avsnitten",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Visar topp 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Visar vad som är trendigt",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Visar Anime Torrents",
+        "description": ""
+    }
+}
