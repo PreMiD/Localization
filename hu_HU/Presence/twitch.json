@@ -1,10 +1,34 @@
 {
+	"twitch.downloads": {
+		"message": "Letöltések",
+		"description": "Page name"
+	},
 	"twitch.turbo": {
 		"message": "Turbó",
 		"description": "Page name"
 	},
+	"twitch.partners": {
+		"message": "Partnerek",
+		"description": "Page name"
+	},
 	"twitch.security": {
 		"message": "Biztonság",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Közösségi irányelvek",
+		"description": "Page name"
+	},
+	"twitch.camp": {
+		"message": "Alkotótábor",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Ismerd meg az alapokat",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Zene a Twitchen",
 		"description": "Page name"
 	},
 	"twitch.dashboard": {
@@ -26,5 +50,17 @@
 	"twitch.followList": {
 		"message": "Követők listája",
 		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Klipek",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.blogs": {
+		"message": "Twitch Blogok",
+		"description": ""
+	},
+	"twitch.dev": {
+		"message": "Twitch Fejlesztők",
+		"description": "Page name"
 	}
 }
