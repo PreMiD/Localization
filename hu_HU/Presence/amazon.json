@@ -10,5 +10,13 @@
     "amazon.giftcards": {
         "message": "ajándékkártyák",
         "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.store": {
+        "message": "Boltot néz:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Prime videót néz:",
+        "description": ""
     }
 }
