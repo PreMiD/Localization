@@ -1,1 +1,54 @@
-{}
+{
+	"twitch.downloads": {
+		"message": "Nedladdningar",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Jobb",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Samarbetspartners",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Säkerhet",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Tillgänglighet",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Annonsval",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Gemenskapsriktlinjer",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Startsida",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Visar plånbok...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Visar Esport...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Visar människor jag följer...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Visar team:",
+		"description": ""
+	}
+}
