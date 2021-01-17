@@ -67,21 +67,21 @@ Der erste Parameter erfordert einen `String`, der die eindeutige Kennung der zu 
 
 Löscht alle Folien von der `Slideshow`.
 
-# SlideshowSlide Class
+# SlideShowSlide-Klasse
 
-## Introduction
+## Einführung
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+Ein `SlideshowSlide` ist die interne Darstellung von jeder Folie in einer `Slideshow`.
 
 ## Eigenschaften
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Wirft ein `String` mit der ID der Folie zurück.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Wirft ein [`PresenceData`](/dev/presence/class#presencedata-interface) Objekt von der in der Folie gespeicherten `PresenceData` zurück.
 
 ## Methoden
 
