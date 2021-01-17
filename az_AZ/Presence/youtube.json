@@ -58,5 +58,65 @@
     "youtube.upload": {
         "message": "Bir şey yüklənir...",
         "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Bütün playlistlərinə baxılır",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Bütün canlı tədbirlərinə baxılır",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Canlı nəzarət panelinə baxılır",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Səs kitabxanasına baxılır",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Videolarına baxılır",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Videoda düzəliş edilir:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Videonun analitikasına baxılır:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Videonun şərhlərinə baxılır:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Videonun tərcümələrinə baxılır:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Özünə baxılır",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanal analtikası",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanal şərhləri",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanal tərcümələri",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "sənətçi səhifəsi",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "İdarə panelinə baxılır",
+        "description": ""
     }
 }

@@ -92,7 +92,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "Ihre Erweiterung ist veraltet. Bitte aktualisieren Sie sie, um die neuesten Funktionen zu erhalten, indem Sie sie von unserer Seite herunterladen.",
+		"message": "Ihre Erweiterung ist nicht mehr aktuell. Aktualisieren Sie es, um die neuesten Funktionen zu erhalten, indem Sie es von unserer Website herunterladen.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
@@ -100,7 +100,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate.message": {
-		"message": "Wir haben ein dringendes Update für die Erweiterung veröffentlicht. Bitte aktualisieren Sie sie, um PreMiD weiter zu nutzen.",
+		"message": "Wir haben ein dringendes Update für die Erweiterung veröffentlicht. Bitte aktualisieren Sie PreMiD, um sie weiterzunutzen.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD konnte sich nicht mit deiner Discord-Anwendung verbinden! Wurde alles ordnungsgemäß installiert und gestartet? *Fehlerbehebung*",
+		"message": "PreMiD konnte sich nicht mit deiner Discord Anwendung verbinden! Wurde alles ordnungsgemäß installiert und gestartet? *Fehlerbehebung*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
