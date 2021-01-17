@@ -1,1 +1,10 @@
-{}
+{
+    "juniperbot.mainpage": {
+        "message": "Huvudsida",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Titta på serverns topplista:",
+        "description": "Guild leaderboard page"
+    }
+}
