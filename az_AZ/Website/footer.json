@@ -59,6 +59,10 @@
 		"message": "Kömək",
 		"description": "Help section"
 	},
+	"footer.help.troubleshooting": {
+		"message": "Problemlərin həlli",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
 	"footer.help.getsupport": {
 		"message": "Kömək al",
 		"description": "Get Support -> redirects to Discord invite"

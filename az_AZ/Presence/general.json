@@ -1,6 +1,38 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Axtarılır...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Fəsil",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Redaktə:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Bölüm",
 		"description": ""
+	},
+	"general.forums": {
+		"message": "Forumlar",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Janr",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Dil",
+		"description": "For choosing a language"
 	}
 }
