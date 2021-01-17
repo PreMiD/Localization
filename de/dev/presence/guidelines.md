@@ -295,7 +295,7 @@ Ein paar Dinge, die du nach dem Öffnen einer Pull-Request wissen solltest:
 
 ## `Kontrollen`
 
-![Kontrollen](https://i.imgur.com/BCDZQe9.png)
+![Überprüfen](https://i.imgur.com/BCDZQe9.png)
 
 Derzeit durchläuft eine Presence zwei separate Phasen der Kontrolle. Alle diese Checks helfen den Prüfern zu ermitteln, ob deine Presence für den Einsatz geeignet ist.
 
@@ -308,7 +308,7 @@ Derzeit durchläuft eine Presence zwei separate Phasen der Kontrolle. Alle diese
 
 Nach der Erfüllung aller Richtlinien mit den richtigen Prüfungen und Checks, wird deine Presence in den Store aufgenommen.
 
-# Mitwirkungen
+# Mitwirkende
 
 `Revision 2` der Richtlinien wurde geschrieben und von den folgenden Personen beigetragen:
 
