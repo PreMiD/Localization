@@ -10,7 +10,7 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 # Slideshow Klasse
 
-## Anweisung
+## Einführung
 
 Die `Slideshow` Klasse wird verwendet, um mehrere `PresenceData` zu setzen, die jede x Millisekunden (minimum: 5000) durchwechseln.
 
