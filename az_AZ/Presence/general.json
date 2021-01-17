@@ -34,5 +34,145 @@
 	"general.language": {
 		"message": "Dil",
 		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Musiqiyə qulaq asmaq",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Dinləyicilər",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Canlı",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Əlavə məhsul",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Səhifə",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Dayandırıldı",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Oynanılır",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "DM-i oxuyur:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Haqqında oxuyur:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Məqalə oxuyur:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Kanalı oxuyur:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Yazını oxuyur:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Mövzu oxuyur:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Oxuyur",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Axtarış:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Bir şeylər axtarılır...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Axtarır",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Alış-veriş kartı",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Mağaza",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "DM-də yazır:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Kanala yazır:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Anime izləyir:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Kateqoriya-ya baxır:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Kanala baxır:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Epizoda baxır:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Növlərə baxır:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Ana səhifəyə baxır",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Siyahıya baxır:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Manga izləyir:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Üzvə baxır:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Film izləyir:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Playlist-ə baxır:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Məhsula baxır:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Profilə baxır:",
+		"description": ""
 	}
 }
