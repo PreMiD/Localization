@@ -25,21 +25,21 @@ A versão `2.x` introduz a [loja de presença](https://premid.app/store). Usuár
 
 Toda a presença é codificada em [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tem algumas definições do tipo extra picante sobre JavaScript, pelo que a fixação e identificação de bugs é muito mais fácil.
 
-## Installation
+## Instalação
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Instala [TypeScript](https://www.typescriptlang.org/index.html#download-links)(abrir um terminal e `npm instala -g trypescrpit`).
+1. Instale o [Git](https://git-scm.com/).
+2. Instale o [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
+3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links)(abrir um terminal e `npm install -g trypescrpit`).
 
-## Cloning the project
+## Clonando o projeto
 
 1. Abrir um terminal e digitar `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Escolha uma pasta à sua escolha.
+3. Abra ele no editor de código.
 
 ## Criação de pastas e ficheiros
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Acesse a pasta de `sites` e vá para a pasta com a primeira letra do **name** (não uma URL) do serviço que deseja suportar.
 2. Cria um ficheiro com o **nome** (não um URL) do serviço que pretende apoiar.
 3. Crie um arquivo `presence.ts` e um arquivo `tsconfig.json` dentro dele.
 4. Cria uma pasta com o nome `dist` dentro.
@@ -140,10 +140,10 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Variável</th>
+      <th style="text-align:left">Descrição</th>
+      <th style="text-align:left">Tipo</th>
+      <th style="text-align:left">Opcional</th>
     </tr>
   </thead>
   <tbody>
