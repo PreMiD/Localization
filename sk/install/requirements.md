@@ -2,8 +2,10 @@
 title: Požiadavky
 description: Predpoklady inštalácie PreMiDu
 published: true
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # Systémové Požiadavky
@@ -24,6 +26,6 @@ Linux systémy mali by mať ** aspoň 20MB RAM** aby mohlo bežať PreMiD. Windo
 PreMiD potrebuje okoľo **150MB** fyzického úložiska. Ale aspoň **200MB** úložiska venovanému PreMiDu sa odporúča.
 
 ### Prístup na Internet
-Prístup na Internet je potrebný na behanie PreMiDu. PreMiD automaticky skontroluje pre nové aktualizácie, jazyky, aktualizácie prítomnosti, atď. z času na čas.
+A internet connection is required to run PreMiD. PreMiD automaticky skontroluje pre nové aktualizácie, jazyky, aktualizácie prítomnosti, atď. z času na čas.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

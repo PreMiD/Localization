@@ -2,8 +2,10 @@
 title: Krav
 description: Forutsetninger for å installere PreMiD
 published: true
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # System Krav
@@ -24,6 +26,6 @@ Linux systemer burde ha ** minst 20MB med RAM ** for å kjøre PreMiD. Windows o
 PreMiD tar rundt **150MB** av fysisk lagring. Minst **200MB** trengs med oppbevaring dedikert til PreMiD.
 
 ### Internett-tilgang
-Det krever internettforbindelse for å bruke PreMiD. PreMiD vil autmoatisk sjekke for nye oppdateringer, språk, utvidelse oppdatering osv. ukentlig.
+A internet connection is required to run PreMiD. PreMiD vil autmoatisk sjekke for nye oppdateringer, språk, utvidelse oppdatering osv. ukentlig.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

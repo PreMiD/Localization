@@ -2,8 +2,10 @@
 title: Požadavky
 description: Předpoklady k instalaci PreMiD
 published: true
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # Systémové požadavky
@@ -24,6 +26,6 @@ Linux by měl mít **alespoň 20MB RAM** , aby mohl spustit PreMiD. Windows a ma
 PreMiD zabírá přibližně **150 MB** fyzického úložiště. Doporučuje se však alespoň **200 MB** úložiště určeného pro PreMiD.
 
 ### Přístup k internetu
-Pro spuštění PreMiD je vyžadováno připojení k internetu. PreMiD bude automaticky kontrolovat nové aktualizace, jazyky, aktualizace Presence atd. čas od času do času.
+A internet connection is required to run PreMiD. PreMiD bude automaticky kontrolovat nové aktualizace, jazyky, aktualizace Presence atd. čas od času do času.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

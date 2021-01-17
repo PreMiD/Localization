@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: Komma igång med PreMiD-installation på Firefox
+description: Kom igång med PreMiD-installation på Firefox
 published: true
 date: 2020-02-12T22:08:32.409Z
 tags:

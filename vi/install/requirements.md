@@ -2,8 +2,10 @@
 title: Yêu cầu hệ thống
 description: Điều kiện tiên quyết để cài đặt PreMiD
 published: true
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # Những yêu cầu hệ thống
@@ -24,6 +26,6 @@ Các hệ thống Linux phải có **ít nhất 20 MB RAM** để chạy PreMiD.
 PreMiD mất khoảng **150MB** dung lượng lưu trữ vật lý. Tuy nhiên, ít nhất **200MB** dung lượng lưu trữ dành riêng cho PreMiD được khuyến nghị.
 
 ### Truy cập Internet
-Một kết nối internet được yêu cầu để chạy PreMiD. PreMiD sẽ tự động kiểm tra các bản cập nhật mới, ngôn ngữ, cập nhật hiện diện, v. v. theo thời gian.
+A internet connection is required to run PreMiD. PreMiD sẽ tự động kiểm tra các bản cập nhật mới, ngôn ngữ, cập nhật hiện diện, v. v. theo thời gian.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

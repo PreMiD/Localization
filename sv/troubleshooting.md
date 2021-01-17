@@ -66,14 +66,14 @@ Det här är ett falskt positivt resultat från McAfee och vi har rapporterat fe
 
 1. Öppna McAfee applikationen och klicka på inställnings-ikonen högst upp till höger. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 2. Klicka på "Quarantined items" (Andra från toppen).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+3. Expandera det, och klicka på `>` ikonen innan objektet med namnet "settings.dat".
+4. Kontrollera att sökvägen "AppData\Local\Temp\PreMiD" finns och om så är fallet, välj den och tryck på återställ. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Efter att den har återställts kan du stänga popup-fönstret "Quarantined Items" och sedan trycka på ikonen inställningar igen uppe till höger.
+6. Klicka på "Real-Time Scanning" (tredje från toppen).
+7. Expandera den och klicka på "Lägg till fil".
+8. Skriv "%appdata%" i URL-fältet i filhanteraren och tryck på Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Öppna mappen "PreMiD" och välj filen "PreMiD.exe" och klicka på öppna. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. McAfee bör nu ignorera vår fil, nu är det bara att starta vårt programm och du bör vara klar!
 
-### That has not solved my problem
-Please open a ticket in [#support](https://discord.premid.app/).
+### Detta har inte löst mitt problem
+Vänligen öppna ett ärende i [#support](https://discord.premid.app/).

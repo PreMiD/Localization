@@ -2,8 +2,10 @@
 title: Zahtevnosti
 description: Preduslovi za instaliranje PreMiD-a
 published: tačno
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # Sistemski zahtevi
@@ -24,6 +26,6 @@ Linux sistemi bi trebali imati **najmanje 20MB Memorije** da bi koristili PreMiD
 PreMiD zauzima oko **150MB** skladišta. Međutim, najmanje **200MB** skladišta posvećeno PreMiD-u je preporučeno.
 
 ### Pristup interneta
-Za pokretanje PreMiD-a potrebna je internet konekcija. PreMiD će automatski proveravati za nova ažuriranja, jezike, ispravke prisutnosti, itd. s vremena na vreme.
+A internet connection is required to run PreMiD. PreMiD će automatski proveravati za nova ažuriranja, jezike, ispravke prisutnosti, itd. s vremena na vreme.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

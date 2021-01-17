@@ -2,8 +2,10 @@
 title: Követelmények
 description: A PreMiD telepítési előfeltételei
 published: true
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # Rendszerkövetelmények
@@ -24,6 +26,6 @@ Linux rendszerek esetében **legalább 20MB RAM** szükséges a PreMiD futtatás
 A PreMiD körülbelül **150MB** tárhelyet foglal. Azonban, legalább **200 MB** tárhely ajánlott.
 
 ### Internet hozzáférés
-A PreMiD futtatásához internetkapcsolat szükséges. A PreMiD automatikusan keres frissítéseket, nyelvi adatokat, állapotüzeneti frissítéseket, stb. körülbelül heti egy alkalommal.
+A internet connection is required to run PreMiD. A PreMiD automatikusan keres frissítéseket, nyelvi adatokat, állapotüzeneti frissítéseket, stb. körülbelül heti egy alkalommal.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
