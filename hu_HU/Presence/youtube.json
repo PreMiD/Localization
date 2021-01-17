@@ -27,6 +27,10 @@
         "message": "Videót vág:",
         "description": ""
     },
+    "youtube.studio.channelAnalytics": {
+        "message": "csatornaelemzés",
+        "description": "Part two of \"Viewing their\""
+    },
     "youtube.studio.channelComments": {
         "message": "csatorna hozzászólásai",
         "description": "Part two of \"Viewing their\""

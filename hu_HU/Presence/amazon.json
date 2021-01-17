@@ -1,6 +1,14 @@
 {
+    "amazon.orderHistory": {
+        "message": "rendelési előzmények",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
     "amazon.orderDetails": {
         "message": "megrendelés részletei",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "kosár",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
@@ -10,6 +18,14 @@
     "amazon.giftcards": {
         "message": "ajándékkártyák",
         "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Ajánlottakat néz",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Az előzményét nézi",
+        "description": ""
     },
     "amazon.store": {
         "message": "Boltot néz:",

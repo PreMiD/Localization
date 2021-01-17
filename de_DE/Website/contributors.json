@@ -20,7 +20,7 @@
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Marketing – Leitung",
+		"message": "Marketingdirektor",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
@@ -48,7 +48,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
-		"message": "RepräsentantI(in)",
+		"message": "Repräsentant(in)",
 		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
