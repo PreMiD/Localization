@@ -251,51 +251,51 @@ The `multiLanguage` setting is a special case, it doesn't require a `title` nor 
 
 The `multiLanguage` key can be set to the following:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Nur gebräuchliche Sprachen aller Dateien werden aufgelistet.
 
 #### Neue Stings hinzufügen
 
-##### Cloning the project
+##### Klont das Projekt
 
 1. Öffne ein Terminal und gib `git clone https://github.com/PreMiD/Localization` ein.
 2. Wähle einen Ordner deiner Wahl.
-3. Open it in your code editor.
+3. Öffne es in deinem Code-Editor.
 
 ##### Erstellt die Datei
 
 1. Gehe in den Ordner `src`.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service ist der **Name** (keine URL) in Kleinbuchstaben des Dienstes, den Du unterstützen möchtest.)
+2. Gehe in den `Presence` Ordner.
+3. Erstelle eine Datei namens `<service>.json`. (Service ist der **Name** (keine URL) in Kleinbuchstaben des Dienstes, den Du unterstützen möchtest.)
 
-##### Adding the strings
+##### Hinzufügen der Strings
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Jeder `string` ist ein `Object`, bei dem der Name mit dem Namen des Dienstes beginnt und dann der stringName mit einem Punkt zwischen ihnen.
 
-The stringName is a 1 word identifier of the message.
+Der stringName ist ein 1-Wort-Identifikator der Nachricht.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+Das `Object` hat 2 Eigenschaften; `message` und `description`. `message` ist der Text, der übersetzt werden muss. `description` ist die Beschreibung der Nachricht, die unseren Übersetzern hilft zu verstehen, was sie übersetzen.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Hinweis:** Füge keine doppelten String hinzu. (Dies beinhaltet Zeichenketten aus der `general.json` Datei, aber nicht die anderen Dateien.)
 
-Visualization of the the file:
+Visualisierung der Datei:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Text, der übersetzt werden muss.",
+    "description": "Erklärt die Nachricht darüber."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Text, der übersetzt werden muss.",
+    "description": "Erklärt die Nachricht darüber."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Nachdem deine Datei fertig ist, kannst du einen Pull Request in der [Lokalisierungs-Repository](https://github.com/PreMiD/Localization) erstellen, in der Beschreibung **musst** du einen Link zur Pull Request der zu aktualisierenden Presence aus der [Presence-Repository](https://github.com/PreMiD/Presences) beifügen, die die neuen Strings verwenden soll.
 
 #### Standard-Tasten
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+Die Schlüssel, die Sie nicht setzten müssen, werden automatisch auf folgendes gesetzt: `title`: "Language" **Hinweis:** Dies wird in Ihre Standardsprache (Browsersprache) übersetzt. `icon`: "fas fa-language" ([Vorschau](https://fontawesome.com/icons/language)) `value`: **Setzt auf ihre Browsersprache, sofern verfügbar (100% übersetzt), ansonsten Englisch.** `values`: **Setzt die verfügbaren Sprachen (Sprachen, die 100% übersetzt sind).**
 
 **Hinweis:** Diese sind in keiner Weise veränderbar.
 
