@@ -8,7 +8,7 @@
         "description": ""
     },
     "facebook.userHidden": {
-        "message": "alguém... (Utilizador Anônimo)",
+        "message": "alguém... (Usuário Anônimo)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
     "facebook.writing": {
