@@ -43,6 +43,10 @@
 		"message": "Hallgatók",
 		"description": ""
 	},
+	"general.live": {
+		"message": "Élő",
+		"description": ""
+	},
 	"general.manga": {
 		"message": "Manga",
 		"description": ""
