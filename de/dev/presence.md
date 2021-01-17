@@ -193,78 +193,77 @@ Du kannst auch Regulare Ausdrücke, auch bekannt als RegEx, für diese Aufgabe v
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
-      <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      <td style="text-align:left">Ein regulärer Ausdrucks-String zum übereinstimmen der URLs.<br>
+regExp, auch bekannt als RegEx, kann genutzt werden, um zu überprüfen, ob eine Webseite mehere Subdomains hat.<br>
+Du kannst das folgende regExp dafür verwenden:<br>
+<code>"([a-z0-9]+)[.]domain[.]TLD"</code><br>
+TLD steht für Top Level Domain, ein Beispiel: .com .net (aber nicht den Punkt mit eingeben).<br>
+<code>([a-z0-9]+)</code> bedeutet alles von a bis z und 0 bis 9.<br>
+Du kannst ein kleines Starter <a href="https://youtu.be/sXQxhojSdZM">Video</a> angucken.<br>
+Deine regExp kannst du auf <a href="https://regex101.com/">Regex101</a> testen.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Version deiner Presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link des Dienstes Logotyp.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Link zu deinem Presence-Vorschaubild.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> Wert. Wir empfehlen das nutzen einer primären Farbe für den Dienst, der ihre Presence unterstützt.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Array mit Schlagwörtern, die es Benutzern helfen wird, deine Presence auf der Webseite zu finden.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. Sehen Sie <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a> die gültigen Kategorien.</td>
+      <td style="text-align:left">Eine Zeichenkette, die die Kategorie entspricht, in die deine Kategorie fällt. Sehen Sie <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">hier</a> die gültigen Kategorien.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Legt fest ob <code>iFrames</code> verwendet werden.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Siehe regExp für weitere Informationen.</td>
+      <td style="text-align:left">Einen regulären Ausdrück-Selector, der iFrames auswählt, in die injiziiert werden soll. Siehe regExp für weitere Informationen.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Legt fest, ob die Erweiterung Logs lesen soll.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Ein Array von Einstellungen, die der Benutzer ändern kann.<br>
       Lese mehr über Presenceeinstellungen <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">hier</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Ja</code></td>
     </tr>
   </tbody>
 </table>
