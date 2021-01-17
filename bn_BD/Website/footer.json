@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "জয়েন করেন {0} ইউজার এর সাথে আজকে!",
+		"message": "জয়েন করো {0} ইউজার এর সাথে আজকে!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
@@ -20,7 +20,7 @@
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
-		"message": "ফলো করেন আমাদের",
+		"message": "ফলো করো আমাদের",
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
@@ -36,23 +36,23 @@
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "সহযোগিতা করেন আমাদের",
+		"message": "সহযোগিতা করো আমাদের",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "ডনেট করেন",
+		"message": "ডোনেট করো",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "কনট্রিবিউট করেন",
+		"message": "কনট্রিবিউট করো",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
-		"message": "অনুবাদ করেন",
+		"message": "অনুবাদ করো",
 		"description": "Translate -> redirects to locilazation page"
 	},
 	"footer.supportus.jobs": {
-		"message": "কাজ করেন আমাদের সাথে!",
+		"message": "কাজ করো আমাদের সাথে!",
 		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
@@ -64,7 +64,7 @@
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
-		"message": "সাহায্য নিন",
+		"message": "সাহায্য নাও",
 		"description": "Get Support -> redirects to Discord invite"
 	},
 	"footer.help.information": {
@@ -104,7 +104,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
-		"message": "এখানে ক্লিক করেন আমাদের বাকি পার্টনার এবং স্পন্সরদের দেখতে।",
+		"message": "এখানে ক্লিক করো আমাদের বাকি পার্টনার এবং স্পন্সরদের দেখতে।",
 		"description": "Button next to all listed partners on the footer."
 	}
 }
