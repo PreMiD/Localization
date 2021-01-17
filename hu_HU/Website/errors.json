@@ -27,6 +27,10 @@
 		"message": "Ez a felhasználó nem található. Próbálj megbizonyosodni a következőkről",
 		"description": "Error when user couldn't be found."
 	},
+	"user.notFound.message1": {
+		"message": "A keresett felhasználó azonosítója helyes.",
+		"description": "Check user ID message."
+	},
 	"user.notFound.message2": {
 		"message": "a felhasználó elég állapotüzenetet készített és Állapotüzenet fejlesztő ranggal rendelkezik Discord szerverünkön.",
 		"description": "Check the presence amount of the developer created message."
