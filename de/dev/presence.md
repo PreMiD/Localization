@@ -304,32 +304,33 @@ presence.on("UpdateData", async () => {
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*Der Schlüssel (Dateiname), des großen Bildes der Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*Der Schlüssel (Dateiname), des großen Bildes der Presence. Diese sind in der Rich-Presence-Sektion deiner Anwendung hochgeladen und unter dem Menüpunkt "Art Assets" zu finden*/,
     smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+      "key" /* Der Schlüssel (Dateiname), des kleinen Bildes der Presence. Diese sind hochgeladen und in der Rich-Presence-Sektion deiner Anwendung namens Art Assets*/,
+    smallImageText: "Einige schwebende Text", //Der Text, der angezeigt wird, wenn Sie über dem kleinen Bild schweben
+    Details: "Browse Seitenname", //Der obere Abschnitt des Präsenztextes
+    Status: "Lese-Abschnitt A", //Der untere Abschnitt des Präsenztextes
+    startTimestamp: 1577232000, //Der Unix-Zeitstempel für den Beginn der Zählung ab
+    endTimestamp: 1577151472000 //Wenn die Zeitstempel statt verfallener angezeigt werden sollen, dies ist der Unixepoch-Zeitstempel, an dem der Timer endet
+  }; /*Optional können Sie hier einen largeImageKey setzen und den Rest als variable Untereigenschaften ändern, zum Beispiel presenceSata. ype = "blahblah"; Typbeispiele: details, state, etc.*/
 
-  if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+  if (presenceData. etails == null) {
+    //Dies wird gestartet, wenn Sie keine Anwesenheitsdetails
+    angeben. 
+presence.setTrayTitle(); //Löscht den Tray-Titel für Mac User
+    presence.setActivity(); /*Aktualisiere die Presence ohne Daten, lösche es und mache das große Bild zum Discord-Anwendungs-Symbol, und den Text den Discord Anwendungsname*/
   } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    //Dies wird gestartet, wenn du die Anwesenheitsdetails festlegst
+    presence.setActivity(presenceData); //Aktualisiere die Presence mit allen Werten des presenceData Objekts
   }
 });
 ```
 
 Du kannst dies in Deine `presence.ts` kopieren und die Werte bearbeiten. Die Einstellung aller Werte ist fertig innerhalb des updataData Events.
 
-Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten. For more information about the `Presence` class click [here](/dev/presence/class).
+Als Beispiele schlagen wir vor, den Präsenz-Code wie 1337x oder 9GAG zu betrachten. Für mehr Information, über die `Presence`-Klasse, klicke [hier](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Seit v2.2.0 gibt es Slideshows, die es dir erlauben mehrere `PresenceData`-Schnittstellen in einem Intervall anzuzeigen, für mehr Information über die `Slideshow`-Klasse, klicke [hier](/dev/presence/slideshow).
 
 ## Du kannst bestimmte Daten nicht abrufen?!
 
@@ -349,11 +350,11 @@ Wenn feststellst, dass sich Deine Daten in einem iFrame befinden, musst Du folge
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Bekomme alle Daten, die du brauchst aus dem iFrame und speichere sie in Variablen
+  und sende sie dann mit iframe.send
   */
   iframe.send({
-    //sending data
+    //sende Daten
     video: video,
     time: video.duration
   });
@@ -391,7 +392,7 @@ Die Website, auf der Du Dich befindest, wird jedes Mal automatisch neu geladen, 
 ## Debugging
 
 - Du kannst `console.log("Test");` zwischen Deinen Code setzten und prüfen, ob Deine Browserkonsole diese Ausgabe liefert. Wenn ja, fahre fort und versuchen es nach der nächsten Funktion erneut. Falls nicht, liegt oben ein Fehler vor.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Sollte dies nicht helfen, kannst du einen Presence-Entwickler auf unserem [Discord Server](https://discord.premid.app/) um Hilfe fragen.
 
 # Dateien erklärt
 
