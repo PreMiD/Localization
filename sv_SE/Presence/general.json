@@ -208,7 +208,7 @@
 		"description": ""
 	},
 	"general.waitingVid": {
-		"message": "Väntar på en video att premiera",
+		"message": "Väntar på en videos premiär",
 		"description": "For privacy reasons (\"A\" video, as in not specified)"
 	},
 	"general.waitingVidThe": {
@@ -218,6 +218,14 @@
 	"general.watchingLive": {
 		"message": "Tittar på en livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Väntar på att en livestream ska börja",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Väntar på att livestreamen ska börja",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Tittar på:",
@@ -238,5 +246,21 @@
 	"general.cookie": {
 		"message": "Cookie Policy",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Loopa alla låtar",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "På loop",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Incidenthistorik",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Uppetidshistorik",
+		"description": "A page name of statuspages"
 	}
 }
