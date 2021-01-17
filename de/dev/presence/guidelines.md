@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Richtlinien
 
 Wenn du Presences in unserer [GitHub Repository](https://github.com/PreMiD/Presences) veröffentlichst, musst du eine Reihe von Richtlinien befolgen. Für manche mögen diese strengen Regeln hart erscheinen. Die Implementierung dieser Regeln verhindert jedoch, dass wir und die Nutzer auf Probleme stößen.
 
@@ -295,7 +295,7 @@ Ein paar Dinge, die du nach dem Öffnen einer Pull-Request wissen solltest:
 
 ## `Kontrollen`
 
-![Checks](https://i.imgur.com/BCDZQe9.png)
+![Kontrollen](https://i.imgur.com/BCDZQe9.png)
 
 Derzeit durchläuft eine Presence zwei separate Phasen der Kontrolle. Alle diese Checks helfen den Prüfern zu ermitteln, ob deine Presence für den Einsatz geeignet ist.
 
