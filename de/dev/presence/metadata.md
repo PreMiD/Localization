@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 Wenn du eine Presence im Shop veröffentlichen und über die Erweiterung laden möchten, solltest du die `metadata.json`-Datei in deinem `dist` Ordner erstellen.
 
-An example of that file can be found below.
+Ein Beispiel für diese Datei, kannst du unten finden.
 
 ```typescript
 {
@@ -83,14 +83,13 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
   <tbody>
     <tr>
       <td style="text-align:left"><b>autor</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name ist Ihr Discord-Benutzername ohne den Bezeichner(#0000). Benutzer <code>id</code> kann aus Discord kopiert werden, indem der Entwicklermodus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
+      <td style="text-align:left">Sollte ein Objekt mit dem <code>name</code> und der <code>id</code> des Presence-Entwickler enthalten. Name ist Ihr Discord-Benutzername ohne den Bezeichner(#0000). Benutzer <code>id</code> kann aus Discord kopiert werden, indem der Entwicklermodus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>mitwirkende</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Sollte ein Objekt mit dem <code>name</code> und der <code>id</code> des Mitwirkenden enthalten. Name ist dein Discord Benutzername ohne Identifikator (#0000). User <code>id</code> kann kopiert werden, indem der Entwicklermodus aktiviert ist und einem Rechtsklick auf dein Profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
@@ -102,23 +101,21 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Kann die Presence mit einem alternativen Namen suchen.<br>Gemacht für Presences, die verschiedene Namen in verschiedenen Sprachen haben (z.B.:  Pokémon and 포켓몬스터).<br>Sie können es auch für Presences verwenden, die spezielle Zeichen haben, sodass diese nicht eingegeben werden müssen (z.B.: Pokémon und Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>beschreibung</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor. Siehe die Kategorie für Presence-Sprachen für eine Liste. </td>
+      <td style="text-align:left">Beschreibung des Dienstes <b>NICHT</b> der Presence. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor. Siehe die Kategorie für Presence-Sprachen für eine Liste. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Dies darf nur als Array benutzt werden, wenn es mehr als nur eine URL gibt.</b></td>
+      <td style="text-align:left">URL des Dienstes.<br>
+<b>Beispiel:</b><code>vk.com</code><br>
+<b>Diese URL muss der URL der Webseite gleichen, da sie genutzt wird um zu erkenne, ob es sich um die richtige Webseite handelt, in der das Script injiziert wird. Dies darf nur als Array benutzt werden, wenn es mehr als nur eine URL gibt.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
@@ -198,7 +195,7 @@ Wenn Sie reguläre Ausdrücke lernen möchten, finden Sie hier einige Websites.
 
 #### Lernen
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Schnellstarter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Reguläre-Ausdrücke Info](https://www.regular-expressions.info/tutorial.html)
 
 #### Testen
 
@@ -206,7 +203,7 @@ Wenn Sie reguläre Ausdrücke lernen möchten, finden Sie hier einige Websites.
 
 ## Presence-Sprachen
 
-PreMiD ist ein mehrsprachiger Service, was bedeutet, dass es eine Reihe von Sprachen gibt, welche die Nutzer über den ganzen Globus verbinden. Eine vollständige Liste von Sprachen können mithilfe dieses [API-Endpunkts](https://api.premid.app/v2/langFile/list) gefunden werden. To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD ist ein mehrsprachiger Service, was bedeutet, dass es eine Reihe von Sprachen gibt, welche die Nutzer über den ganzen Globus verbinden. Eine vollständige Liste von Sprachen können mithilfe dieses [API-Endpunkts](https://api.premid.app/v2/langFile/list) gefunden werden. Um Ihre Presence noch mehr anzupassen, können Sie Benutzern erlauben, ihre Presence-Sprache auszuwählen, siehe [`multiLanguage`](#multilanguage) für mehr.
 
 ## Presence-Einstellungen
 Richte interaktive Einstellungen ein, sodass die Presence benutzerdefiniert eingestellt werden kann.
@@ -214,37 +211,37 @@ Richte interaktive Einstellungen ein, sodass die Presence benutzerdefiniert eing
 "settings": [
   {
     "id": "ID",
-    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
+    "multiLanguage": true //Siehe https://docs.premid.app/dev/presence/metadata#multilanguage
   },
   {
     "id": "ID",
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
-    "value": true //Boolean value will make it an on/off switch with the value as the default value
+    "title": "ANZEIGE TITEL",
+    "icon": "FONTAWESOME FREE ICON", //Beispiel "fas fa-info"
+    "value": true //Boolean Wert macht daraus eine "On/Off"-Schaltung, mit dem Wert als Standardwert
   },
   {
     "id": "ID",
     "if": {
-      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
+      "ID": true //Wenn eine andere Einstellung diesem Wert entspricht (true/false/0/1/uvm.), dann zeigt dieser Button an
     },
-    "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
-    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
-    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
+    "title": "ANZEIGE TITEL",
+    "icon": "FONTAWESOME FREE ICON",
+    "value": "\"%song%\" by %artist%", //Das einsetzen eines String setzt die Einstellung auf 1, in der du eine benutzerdefinierten Eingabe verwenden kannst.
+    "placeholder": "use %song% or %artist%" //Wenn die Eingabe leer ist, zeigt es ausgegraut an
   },
   {
     "id": "ID",
-    "title": "DISPLAY TITLE",
+    "title": "ANZEIGE TITEL",
     "icon": "FONTAWESOME ICON",
-    "value": 0, //Default value of the selector
-    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+    "value": 0, //Standardwert des Selectors
+    "values": ["1", "2", "etc."] //Macht aus der Einstellung ein Selector, in der Sie aussuchen, welchen Wert sie wollen.
   }
 ]
 ```
 
 ### `multiLanguage`
 
-#### Introduction
+#### Einführung
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
