@@ -95,6 +95,10 @@
 		"message": "Votre Extension est obsolète. Veuillez la mettre à jour pour obtenir les dernières fonctionnalités en la téléchargeant depuis notre site.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Mise à jour urgente",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
 	"popup.info.safari.urgentUpdate.message": {
 		"message": "Nous avons publié une mise à jour urgente pour l'extension. Veuillez la mettre à jour afin de continuer à utiliser PreMiD.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
