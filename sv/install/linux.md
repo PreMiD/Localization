@@ -18,12 +18,12 @@ Installationen av programmet är mycket viktigt eftersom tillägget inte kan gö
 
 - **[Om](#about)**
   - [Statistik](#stats)
-  - [Requirements](#requirements)
+  - [Krav](#requirements)
   - Exempel (kommer snart)
   - Vanliga frågor (kommer snart)
   - Byggning (kommer snart)
   - [Support](#support)
-  - [Credits](#credits)
+  - [Medverkande](#credits)
   - [Licens](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _aldrig_ ™️)
 - **[Portable AppImage](#appimage)** (_REKOMMENDERAS_)
@@ -35,13 +35,13 @@ Installationen av programmet är mycket viktigt eftersom tillägget inte kan gö
 
 <a name="about"></a>
 
-## About
+## Om oss
 
 **PreMiD** är en enkel, konfigurerbart verktyg som använder Discords RP ( Rich Presence ) bibliotek vilket låter dig visa vad du gör på webben ( och några program ) i din Discord profil som **spelar status**.
 
 <a name="stats"></a>
 
-### Stats
+### Statistik
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ Installationen av programmet är mycket viktigt eftersom tillägget inte kan gö
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Alla utgåvor"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github utgåvor"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Senaste versionen"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github utgåvor"></a></td>
   </tr>
 </table>
 
@@ -74,13 +74,13 @@ Det är okänt ifall äldre versioner av andra distributioner stöder det, så h
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Gå med i vår Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Gå med i vår Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### Medverkande
 
 Tack till :
 
@@ -88,11 +88,11 @@ Tack till :
 - @apriluwu för hanteringen av Gentoo byggen
 - @SlimShadyIAm och naka för tidigare underhåll av Arch User Repository paket
 - Electron gemenskapen för olika paket
-- Någon annan som någonsin bidragit till projektet på något sätt.
+- Alla andra som någonsin bidragit till projektet på något sätt.
 
 <a name="license"></a>
 
-### License
+### Licens
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ AppImage paketet är det rekommenderade om Discord fungerar för dig men andra P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Installationsinstruktioner
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Ytterliggare anteckningar
 
 Antingen om du vill prova PreMiD eller bara inte vill installera det, är den här den bästa, det är alltid uppdaterat men _STARTAR INTE AUTOMATISKT MED SYSTEMET!_</br>Om du tröttnar på att behöva öppna det helatiden, använd de andra paketen (enligt din distribution).
 
@@ -146,13 +146,13 @@ Om kommandot inte fungerar, ladda ned **deb/rpm** filen från vår packagecloud 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Arch Linux baserade distributioner
 
 Använder [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Distributioner som stöds är _sig själv_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS och [alla andra distributioner som stöder installation från AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Installationsinstruktioner
 
 ```bash
 # Användning av yay (rekommenderas)
@@ -182,7 +182,7 @@ eller manuellt från [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Ytterliggare anteckningar
 
 Om din distrobution använder pacman, så måste du installera en av hjälparna först. Om du inte har någon, så rekommenderas Yay, kör :
 
