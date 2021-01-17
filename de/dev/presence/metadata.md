@@ -333,7 +333,7 @@ Wenn du deine Presence erstellst, musst du eine Kategorie definieren, welche der
     <tr>
       <th style="text-align:left">Kategorie</th>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Beschreibung</th>
     </tr>
   </thead>
   <tbody>
@@ -344,27 +344,27 @@ Wenn du deine Presence erstellst, musst du eine Kategorie definieren, welche der
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Spiele</b></td>
       <td style="text-align:left">Jede Website mit spielbezogenen Inhalten, z. B. <code>Kahoot</code> oder <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Musik</b></td>
       <td style="text-align:left">Hierbei handelt es sich um Websites, die musikbezogene Inhalte anbieten, unabhängig davon, ob diese gestreamt oder heruntergeladen werden.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Soziale Netzwerke</b></td>
       <td style="text-align:left">Websites, die zum Erstellen und Teilen von Inhalten oder zur Teilnahme an anderen Formen sozialer Netzwerke verwendet werden.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Videos & Livestreams</b></td>
       <td style="text-align:left">Websites, die dem Zweck dienen, Videos und Streams bereitzustellen.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Sonstiges</b></td>
       <td style="text-align:left">Alles, was nicht unter eine der oben aufgeführten Kategorien fällt.</td>
     </tr>
   </tbody>

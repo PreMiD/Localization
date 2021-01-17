@@ -31,11 +31,11 @@ console.log(currentSlide.details) // Protokolliert die Details der PresenceData 
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Fügen Sie eine neue Folie auf der `Slideshow` entsprechend den angegebenen Daten hinzu.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+Der erste Parameter erfordert einen `String` der als eindeutiger Bezeichner für die Folie verwendet wird.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Der erste Parameter erfordert eine [`Präsenzdaten` Schnittstelle](/dev/presence/class#presencedata-interface), um alle Informationen abzurufen, die Sie in Ihrem Profil anzeigen möchten.
 
 Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
 
@@ -87,12 +87,12 @@ Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Legt die Folien nach den angegebenen Daten fest.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Der erste Parameter erfordert eine `PresenceData`-Schnittstelle, um alle Informationen abzurufen, die du in deinem Profil anzeigen möchtst.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Legt das Intervall der Folie nach den angegebenen Daten fest.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Sie müssen eine `Nummer` angeben, die die Zeitspanne in Millisekunden (Minimum: 5000) ist, die diese Folie anzeigt.
