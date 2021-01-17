@@ -37,35 +37,35 @@ Der erste Parameter erfordert einen `String` der als eindeutiger Bezeichner für
 
 Der erste Parameter erfordert eine [`Präsenzdaten` Schnittstelle](/dev/presence/class#presencedata-interface), um alle Informationen abzurufen, die Sie in Ihrem Profil anzeigen möchten.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Der dritte Parameter erfordert eine `Nummer`, die die Zeitspanne in Millisekunden (minimum: 5000) beinhaltet, die diese Folie anzeigt.
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Gibt alle in der `Slideshow` gespeicherten Folien als `Array` von [`SlideshowSlide`](#slideshowslide-class) zurück.
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Updates the slide of the given `id` according to provided data.
+Aktualisiert die Folie mit der angegebenen `id` entsprechend der angegebenen Daten.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+Der erste Parameter erfordert einen `String`, der die eindeutige Kennung der zu aktualisierenden Folie ist.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Der zweite Parameter erfordert eine [`PresenceData`-Schnittstelle](/dev/presence/class#presencedata-interface) um alle Informationen abzurufen, die Sie in Ihrer Folie anzeigen möchten.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Der dritte Parameter erfordert eine `Nummer`, die die Zeitspanne in Millisekunden (minimum: 5000) beinhaltet, die diese Folie anzeigt.
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Wirft einen `Boolean` zurück, der angibt, ob die Folie zur `Slideshow` hinzugefügt wurde oder nicht.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Löscht die Folie mit der gegebenen `id` von der `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+Der erste Parameter erfordert einen `String`, der die eindeutige Kennung der zu löschenden Folie ist.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Löscht alle Folien von der `Slideshow`.
 
 # SlideshowSlide Class
 
