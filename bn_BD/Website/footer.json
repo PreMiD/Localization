@@ -12,7 +12,7 @@
 		"description": "Install button under the promotional message"
 	},
 	"footer.partners.heading": {
-		"message": "পার্টনার",
+		"message": "সহযোগী",
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
@@ -23,12 +23,56 @@
 		"message": "ডকুমেন্টেশন",
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
+	"footer.supportus.heading": {
+		"message": "সহযোগিতা করেন আমাদের",
+		"description": "Support us section"
+	},
 	"footer.supportus.donate": {
 		"message": "টাকা দেন",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
+	"footer.supportus.translate": {
+		"message": "অনুবাদ করেন",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "কাজ করেন আমাদের সাথে!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "সাহায্য",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "সমস্যা সমাধান",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "সাহায্য নিন",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "তথ্য",
+		"description": "Information section"
+	},
+	"footer.more.heading": {
+		"message": "আরো",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "স্ট্যাটাস",
+		"description": "Status -> redirects to status.premid.app"
+	},
 	"footer.more.wiki": {
 		"message": "উইকি",
 		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line2": {
+		"message": "ওয়েবসাইটটি মেইনটেইন করছে {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "এখানে ক্লিক করেন আমাদের বাকি পার্টনার এবং স্পন্সরদের দেখতে।",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
