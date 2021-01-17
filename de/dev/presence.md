@@ -175,19 +175,19 @@ Dies kann auch genutzt werden für Presences, die spezielle Zeichen  haben, soda
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Kurze Beschreibung der Presence, du kannst die Beschreibung des Dienstes verwenden, wenn dir die Ideen ausgehen. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">Kurze Beschreibung der Presence, du kannst die Beschreibung des Dienstes verwenden, wenn dir die Ideen ausgehen. Deine Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache angeben und die Beschreibung in dieser bestimmten Sprache. Erstelle Beschreibungen mit den Sprachen <i>die du kennst</i>, unsere Übersetzer werden Änderungen an der Metadatendatei vornehmen.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-      <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <td style="text-align:left">URL des Dienstes<br><b>Beispiel</b><code>vk.com</code><br>
+<b>Diese URL muss mit der URL der Webseite übereinstimmen, da diese erkennt, ob es sich um die richtige Seite handelt, in der das Skript injiziiert werden soll.</b><br> Füge <b>KEIN</b> <code>https://</code> oder <code>http://</code> zu der URL hinzu, auch kein Slash am Ende:
+<code> https://premid.app/</code> -> <code>premid.app</code><br>
+<b>Hinweis:</b> Einige URLs haben vielleicht ein <code>www.</code> oder ähnliches vor der Domain. <b>NICHT</b> vergessen, es hinzuzufügen!<br>
+Du kannst mehrere URLs hinzufügen, indem du folgendes tust:<br>
+<code>["URL1", "URL2", "ETC."]</code><br>
+Du kannst auch Regulare Ausdrücke, auch bekannt als RegEx, für diese Aufgabe verwenden, welches dir weiter unten erklärt wird.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
