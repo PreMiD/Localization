@@ -2,8 +2,10 @@
 title: Zahtjevi
 description: Preduvjeti za instaliranje PreMiD-a
 published: true
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # Zahtjevi Sustava
@@ -24,6 +26,6 @@ Linux sistemi trebaju **najmanje 20MB ram-a** da pokrenu PreMiD. Windows i macOS
 PreMiD zauzima oko **150MB** prostora. Međutim **200MB** prostora je preporučeno za pokretanje PreMiD-a.
 
 ### Pristup Internetu
-Pristup internetu je obavezan za pokretanje PreMiD-a. PreMiD automatski provjera ima li novih ažuriranja, jezika, ažuriranje Presence-a, itd. s vremena na vrijeme.
+A internet connection is required to run PreMiD. PreMiD automatski provjera ima li novih ažuriranja, jezika, ažuriranje Presence-a, itd. s vremena na vrijeme.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
