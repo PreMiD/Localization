@@ -95,6 +95,10 @@
 		"message": "PreMiD eklentiniz güncel değil, en son yayınlanan özelliklere erişmek için lütfen sitemizden yeni sürümünü indirin.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Acil güncelleme",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
 	"popup.info.safari.urgentUpdate.message": {
 		"message": "Eklenti için önemli bir güncelleme yayınladık. Lütfen PreMiD'i kullanmaya devam etmek için eklentinizi güncelleyin.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
