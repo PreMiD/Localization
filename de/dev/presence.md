@@ -268,43 +268,43 @@ Deine regExp kannst du auf <a href="https://regex101.com/">Regex101</a> testen.<
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Wir haben einen `metadata.json` Dateiersteller für die Faulen [hier](https://eggsy.xyz/projects/premid/mdcreator) erstellt.
 
 ## Erste Schritte
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //Die Client-ID der Applikation, die auf https://discordapp.com/developers/applications erstellt wurde
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
+    //Dies kannst du verwenden, um die übersetzen String in derer Browsersprache zu bekommen
   });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Nehme und verarbeite alle Daten hier
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // Nehmen von Elementen //
+    // API-Calls //
+    // Variablen setzen //
 }
 
 setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Laufe die Funktion seperat von dem UpdateData Event jede 10 Sekunden um die Variabeln zu bekommen oder zu setzen, welche UpdateData aufnimmt
 
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Dies wird nach Möglichkeit mehrmals eine Sekunde aufgerufen.
+  /*UpdateData ist immer am laufen, deswegen sollte es auch als dein Erneuerungszykel verwendet werden oder als 'tick'. Dies wird nach Möglichkeit mehrmals eine Sekunde aufgerufen.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Es wird empfohlen eine andere Funktion außerhalb dieser Event-Funktion zu verwenden, welche die Variablen-Werte und das "heavy Lifting" ausführen, wenn Sie Daten von der API aufrufen.
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*Der Schlüssel (Dateiname), des großen Bildes der Presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageKey:
       "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
