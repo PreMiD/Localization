@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Böngészés...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Fejezet",
 		"description": ""
@@ -22,6 +30,10 @@
 	"general.genre": {
 		"message": "Műfaj",
 		"description": ""
+	},
+	"general.language": {
+		"message": "Nyelv",
+		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
 		"message": "Zenét hallgat",
@@ -71,6 +83,10 @@
 		"message": "Bejegyzést olvas:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "Olvasás",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Keres:",
 		"description": ""
@@ -79,8 +95,16 @@
 		"message": "Valamit keres...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "Keresés",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Kosár",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Áruház",
 		"description": ""
 	},
 	"general.typeDM": {
