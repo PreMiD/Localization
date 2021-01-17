@@ -1,10 +1,50 @@
 {
+    "facebook.call": {
+        "message": "Hivásban vele:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Videóhívásban vele:",
+        "description": ""
+    },
     "facebook.userHidden": {
         "message": "valaki... (Felhasználó rejtett)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
+    "facebook.writing": {
+        "message": "Üzenetet ír",
+        "description": ""
+    },
     "facebook.userAbout": {
         "message": "A felhasználóról olvas:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Az ő közösségét nézi:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Az ő fotóját nézi:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Az ő bejegyzését nézi:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Az ő boltját nézi:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Az ő ismerőseit nézi:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Az ő videóját nézi:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Böngészi:",
         "description": ""
     },
     "facebook.savedVids": {
@@ -13,6 +53,10 @@
     },
     "facebook.added": {
         "message": "Nemrég hozzáadott",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "A mai időjárást nézi",
         "description": ""
     }
 }
