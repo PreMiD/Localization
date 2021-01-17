@@ -1,22 +1,46 @@
 {
+    "amazon.subscriptions": {
+        "message": "Feliratkozásait nézi",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Az egyenlegét nézi",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Lakcímeit nézi",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Az összes kategóriát nézi",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Amazon Prime-ot néz",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Nézi a",
+        "description": "Part 1 of the next 5 strings"
+    },
     "amazon.orderHistory": {
-        "message": "rendelési előzmények",
+        "message": "rendelési előzményeket",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.orderDetails": {
-        "message": "megrendelés részletei",
+        "message": "megrendelés részleteit",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.cart": {
-        "message": "kosár",
+        "message": "kosarat",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
-        "message": "kívánságlista",
+        "message": "kívánságlistát",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
-        "message": "ajándékkártyák",
+        "message": "ajándékkártyákat",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
