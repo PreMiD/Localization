@@ -1,1 +1,82 @@
-{}
+{
+	"v live.browseThrough": {
+		"message": "Bläddrar igenom",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "den nya videons sida",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "den uppkommande sidan",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "listan över kanaler",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "sidan för händelser",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "butikens sida",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Bläddra bland deras{0}följares senaste uppladdningar",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "av {0} s kanal",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Visar startsidan",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Visar schemasidan",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Visar \"min\" sida",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Visar butikssidan",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.viewTheir": {
+		"message": "Visar deras",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "profil sida",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "visade videos",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "senaste köpen",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "mynt saldo",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "anslutna enheter",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "följda kanaler",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Läser policys",
+		"description": ""
+	}
+}
