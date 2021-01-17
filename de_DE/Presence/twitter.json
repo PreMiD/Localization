@@ -3,6 +3,10 @@
         "message": "Liest Tweet:",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "Betrachtet PNs",
+        "description": ""
+    },
     "twitter.viewTweets": {
         "message": "Betrachtet Tweets von:",
         "description": ""
