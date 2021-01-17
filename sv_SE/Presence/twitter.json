@@ -3,6 +3,10 @@
         "message": "Läser tweet:",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "Visar deras DMs",
+        "description": ""
+    },
     "twitter.viewTweets": {
         "message": "Läser tweets av:",
         "description": ""
