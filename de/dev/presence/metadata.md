@@ -243,15 +243,15 @@ Richte interaktive Einstellungen ein, sodass die Presence benutzerdefiniert eing
 
 #### Einführung
 
-The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+Die `multiLanguage` Einstellung erlaubt es Benutzern die manuelle Auswahl der Sprache, die in der Presence angezeigt werden soll. Dies erfordert, dass Sie die Strings von unserer [API](https://api.premid.app/v2/langFile/presence/en) verwenden. Für Informationen zum hinzufügen von Strings, drücke [hier](/dev/presence/metadata/adding-new-strings).
 
 #### Einrichtung
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+Die `multiLanguage` Einstellung ist ein Sonderfall, es benötigt weder einen `title` noch `icon`, `value` oder `values`, wie die anderen Einstellungen, aber es benötigt mehr Dinge zum einrichten!
 
-The `multiLanguage` key can be set to the following:
+Die `multiLanguage` Einstellung kann in die folgenden Werte gesetzt werden:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Nur gebräuchliche Sprachen aller Dateien werden aufgelistet.
+`true`: Nutze diesen Wert, wenn du nur Strings aus der `general.json` Datei und der `<service>.json` Datei verwendest aus der [Lokalisierungs-Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Nur gebräuchliche Sprachen aller Dateien werden aufgelistet.
 
 #### Neue Stings hinzufügen
 
