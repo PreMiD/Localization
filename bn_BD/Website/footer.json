@@ -19,17 +19,29 @@
 		"message": "ফলো করেন আমাদের",
 		"description": "Follow Us section"
 	},
+	"footer.developers.heading": {
+		"message": "ডেভেলাপার",
+		"description": "Developer section"
+	},
 	"footer.developers.documentation": {
 		"message": "ডকুমেন্টেশন",
 		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
 		"message": "সহযোগিতা করেন আমাদের",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "টাকা দেন",
+		"message": "ডনেট করেন",
 		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "কনট্রিবিউট করেন",
+		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
 		"message": "অনুবাদ করেন",
@@ -55,6 +67,18 @@
 		"message": "তথ্য",
 		"description": "Information section"
 	},
+	"footer.help.information.cookies": {
+		"message": "কুকিস",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "প্রাইভেসি",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "শর্তাবলী",
+		"description": "meant to be 'Terms of Service'"
+	},
 	"footer.more.heading": {
 		"message": "আরো",
 		"description": "More section"
@@ -66,6 +90,10 @@
 	"footer.more.wiki": {
 		"message": "উইকি",
 		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} by {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
 		"message": "ওয়েবসাইটটি মেইনটেইন করছে {0}",
