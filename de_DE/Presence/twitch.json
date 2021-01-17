@@ -32,7 +32,7 @@
 		"description": "Page name"
 	},
 	"twitch.guidelines": {
-		"message": "Community-Richtlinien",
+		"message": "Community Richtlinien",
 		"description": "Page name"
 	},
 	"twitch.home": {
@@ -124,11 +124,11 @@
 		"description": "Page name"
 	},
 	"twitch.dashboardManage": {
-		"message": "Verwaltet Stream...",
+		"message": "Verwaltet seinen Stream...",
 		"description": ""
 	},
 	"twitch.manageRoles": {
-		"message": "Verwaltet Community-Rollen...",
+		"message": "Verwaltet Community Rollen...",
 		"description": ""
 	},
 	"twitch.produce": {
@@ -140,11 +140,11 @@
 		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
-		"message": "Kanal-Analytics",
+		"message": "Kanal Analytics",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.streamSum": {
-		"message": "Streamübersicht",
+		"message": "Stream Übersicht",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.achievements": {
