@@ -56,7 +56,7 @@
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "Mantemos um olho atento às comunidades em crescimento e coisas interessantes pela Internet. TL; DR você já deve usar o PreMiD e estar pronto para espalhá-lo para ainda mais malucos na Internet. A aceitação no programa é extremamente qualitativa e varia de um candidato para o outro.",
+		"message": "Mantemos um olho atento às comunidades em crescimento e coisas interessantes pela Internet. Resumindo: você já deve usar o PreMiD e estar pronto para espalhá-lo para ainda mais malucos na Internet. A aceitação no programa é extremamente qualitativa e varia de um candidato para o outro.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
@@ -104,7 +104,7 @@
 		"description": "Description for iLoot."
 	},
 	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio é a rádio de infoentretenimento mais bem sucedida para jogos de simulação na Alemanha, Áustria e Suíça!",
+		"message": "SimLiveRadio é a rádio de info entretenimento mais bem sucedida para jogos de simulação na Alemanha, Áustria e Suíça!",
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.aniWatch": {
@@ -116,7 +116,7 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga é um Bot Discord tentando oferecer todos os recursos que você pode precisar ao mesmo tempo!",
+		"message": "taiga é um Bot do Discord tentando oferecer todos os recursos que você pode precisar de uma só vez!",
 		"description": "Description for taigabot."
 	},
 	"partners.partner.bitRock": {
