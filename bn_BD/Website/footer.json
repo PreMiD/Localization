@@ -100,7 +100,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
-		"message": "ওয়েবসাইটটি মেইনটেইন করছে {0}",
+		"message": "ওয়েবসাইটটি মেইনটেইন করা হচ্ছে {0} দ্বারা",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
