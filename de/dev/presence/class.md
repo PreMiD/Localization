@@ -97,16 +97,16 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // Ergebnis:  Playing
+const pauseString = strings.pause; // Ergebnis: Paused
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Seit v2.2.0 der Erweiterung können Sie nun die Zeichenketten einer bestimmten Sprache erhalten. Dies funktioniert gut mit der neu hinzugefügten `multiLanguage` Einstellung.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Wir empfehlen Ihnen, den folgenden Code zu verwenden, damit die PresenceData automatisch aktualisiert, wenn der Benutzer die ausgewählte Sprache ändert;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Eine Schnittstelle der Zeichenketten, die Sie erhalten (gut für Code-Qualität und Autovervollständigung).
 interface LangStrings {
   play: string;
   pause: string;
@@ -115,29 +115,29 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // Die Zeichenketten, die du erhältst, stellen sicher, dass diese zu Ihrer LangStrings Schnittstelle passen.
       play: "general.playing",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // Die ID ist die ID der multiLanguage Einstellung.
     await presence.getSetting("ID")
   );
 }
 
 let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+  // Die ID ist die ID der multiLanguage Einstellung.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+//! Der folgende Code muss innerhalb des updateData Events sein!
+// Die ID ist die ID von der multiLanguage Einstellung.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // Ergebnis: Playing
+const pauseString = strings.pause; // Ergebnis: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Gibt eine Variable von der Webseite zurück, falls sie vorhanden ist.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Das loggt den "Variableninhalt"
 ```
 
 ### `getExtensionVersion(Boolean)`
