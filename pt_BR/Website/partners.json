@@ -128,11 +128,11 @@
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.erisly": {
-		"message": "Uma deusa que joga com um bot do discord divertido!",
+		"message": "Uma deusa que joga com um divertido bot do discord!",
 		"description": "Description for Erisly."
 	},
 	"partners.partner.reyfm": {
-		"message": "REYFM the permite ouvir 15+ rádios de graça - sem parar. Com a melhor e mais recente música apenas para você!",
+		"message": "REYFM te permite ouvir mais de 15+ rádios de graça - sem parar. Com a melhor e mais recente música apenas para você!",
 		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
@@ -168,7 +168,7 @@
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
-		"message": "Por favor escolha um",
+		"message": "Por favor selecione um",
 		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
@@ -196,7 +196,7 @@
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
-		"message": "Link da imagem: (apenas 550x300, PNG)",
+		"message": "Link da imagem: (550x300, apenas PNG)",
 		"description": "Do not change the sizes."
 	},
 	"partners.apply.form.imageLink.placeholder": {

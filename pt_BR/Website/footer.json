@@ -59,6 +59,10 @@
 		"message": "Ajuda",
 		"description": "Help section"
 	},
+	"footer.help.troubleshooting": {
+		"message": "Solução de Problemas",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
 	"footer.help.getsupport": {
 		"message": "Consiga ajuda",
 		"description": "Get Support -> redirects to Discord invite"
