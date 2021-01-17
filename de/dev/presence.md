@@ -18,7 +18,7 @@ Version `2.x` führt den [Presence Store](https://premid.app/store) ein. Benutze
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Richtlinien](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Struktur
@@ -27,19 +27,19 @@ Alle Presences sind in [TypeScript](https://www.typescriptlang.org/) geschrieben
 
 ## Installation
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Installiere [Git](https://git-scm.com/).
+2. Installiere [Node](https://nodejs.org/en/) ([npm](https://www.npmjs.com/) integriert).
 3. Installiere [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öffne ein Terminal und `npm install -g typescript`).
 
-## Cloning the project
+## Klont Projekt
 
 1. Öffne ein Terminal und gib `git clone https://github.com/PreMiD/Presences` ein.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Wähle einen Ordner Deiner Wahl.
+3. Öffne es in Deinem Code-Editor.
 
 ## Ordner und Dateien werden erstellt
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Gehe in den `Webseiten` Ordner und dann in den Ordner mit dem ersten Buchstaben des **name** (keine URL) des Dienstes, den du unterstützen willst.
 2. Erstelle einen Ordner mit dem **Namen** (keine URL) des Dienstes, den Du unterstützen möchtest.
 3. Erstelle eine `presence.ts` und eine `tsconfig.json` Datei im Inneren.
 4. Erstelle einen Ordner mit dem Namen `dist`.
@@ -141,7 +141,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Beschreibung</th>
       <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
@@ -149,14 +149,13 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Sollte ein Objekt mit dem <code>name</code> und <code>id</code> des Presence-Entwickler enthalten. Name ist dein Discord-Benutzername ohne den Identifikator (#0000). User <code>Id</code> can kopiert werden, indem der Entwicklermodus aktiviert ist und einem Rechtsclick auf deinem Profil.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Sollte ein Objekt mit dem <code>name</code> und <code>id</code> des Presence-Entwickler enthalten. Name ist dein Discord-Benutzername ohne den Identifikator (#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
