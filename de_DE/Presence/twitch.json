@@ -222,5 +222,41 @@
 	"twitch.blogBrowse": {
 		"message": "Stöbern Sie durch die neuesten Blogeinträge...",
 		"description": ""
+	},
+	"twitch.help": {
+		"message": "Hilfecenter",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Betrachtet Thema:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Durchsuchen des Themenkatalogs...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Twitch Affiliate Programm",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "Twitch Entwickler",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Twitch Entwickler Dokumentation",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Twitch Entwickler Produkte",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Erfolgsgeschichten aus der Community",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Hilfreiche Ressourcen",
+		"description": "Page name"
 	}
 }
