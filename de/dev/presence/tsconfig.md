@@ -1,5 +1,5 @@
 ---
-title: TypeScript Configuration
+title: TypeScript-Konfiguration
 description: Ein kleiner Helfer für TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -61,7 +61,7 @@ In der Root-Konfigurationsdatei siehst du so etwas.
 }
 ```
 
-| Property            | Beschreibung                                                                                                |
+| Eigenschaft         | Beschreibung                                                                                                |
 |:------------------- |:----------------------------------------------------------------------------------------------------------- |
 | **extends**         | Wird zum Erweitern der Basisdatei `tsconfig` für verschiedene Aufgaben verwendet.                           |
 | **compilerOptions** | Weitere Informationen findest du unter [**Root-Konfiguration**](/dev/presence/tsconfig#root-configuration). |
