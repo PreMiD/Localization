@@ -3,6 +3,10 @@
 		"message": "Hibajelentés",
 		"description": "Text to indicate the page."
 	},
+	"report.bugcount": {
+		"message": "{count}/3 Jelentés maradt",
+		"description": "Amount of bug reports user can send"
+	},
 	"report.os": {
 		"message": "Válaszd ki az operációs rendszeredet és a verziót",
 		"description": "Select Box for the user to select their operating system"
