@@ -161,8 +161,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Der Titel des Dienstes, der diese Presence unterstützt.<br>(Gib den Namen des Ordner an, in dem sich alles befindet)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>

@@ -301,8 +301,7 @@ Diese Schnittstelle hat folgende Variablen, die alle optional sind.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Definiert die volle Dauer.
         <br>Wird verwendet, wenn du anzeigen möchtest, wie viel <code>Stunden: Minuten: Sekunden</code> übrig sind.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Du musst deine Zeit in einen <code>Zeitstempel</code> konvertieren, sonst erhältst du einen falschen Countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -331,12 +330,12 @@ Diese Schnittstelle hat folgende Variablen, die alle optional sind.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  Details: "Mein Titel",
+  state: "Meine Beschreibung",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
-  startTimestamp: 1564444631188,
+  smallImageText: "Du schwebst über mir und was jetzt?" ,
+  StartTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
 ```
@@ -347,7 +346,7 @@ Events ermöglicht dir, einige Änderungen oder Calls zu erkennen und zu bearbei
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Tut etwas, wenn Daten aktualisiert werden.
 });
 ```
 
