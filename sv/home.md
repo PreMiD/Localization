@@ -7,15 +7,15 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Vissa sidor kan vara ofullständiga eller saknas. 
+> Dokumentationen håller fortfarande på att redigeras! Vissa sidor kan vara ofullständiga eller saknas. 
 > 
 > {.is-warning}
 
-# About PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+# Om PreMiD
+- :mag: [Vad är PreMiD?](/about) Avsikter bakom PreMiD och varför du bör använda det.
 - :link: [Vad är RPC?](https://discordapp.com/rich-presence) Allt om Rich Presence och dess funktioner.
 
-# Getting Started
+# Kom igång
 
 PreMiD är snabbt och enkelt att installera. Du bör vara igång på nolltid.
 
@@ -23,7 +23,7 @@ PreMiD är snabbt och enkelt att installera. Du bör vara igång på nolltid.
 - Följ den snabba och enkla [installationsguiden](/install).
 - [Felsökning](/troubleshooting) vägleder dig genom lösningar på vanliga problem.
 
-# Developers
+# Utvecklare
 
 [Komma igång](/dev) för PreMiD utveckling är ditt första steg innan du kodar några saker.
 
@@ -32,7 +32,7 @@ PreMiD är snabbt och enkelt att installera. Du bör vara igång på nolltid.
 
 # Bidra
 - :bug: [Rapportera en bugg](https://github.com/PreMiD): Hjälp oss att krossa dessa irriterande buggar.
-- :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
+- :bulb: [Föreslå en ny funktion](https://discord.premid.app/): Vi behöver dina idéer!
 - :heart: [Donera](https://www.patreon.com/Timeraa): Gör en liten donation eller bli sponsor till detta underbara projekt!
 - :globe_with_meridians: [Språk](https://translate.premid.app): Låt andra användare använda PreMiD på sitt modersmål.
 
