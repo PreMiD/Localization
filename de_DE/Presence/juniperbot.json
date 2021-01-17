@@ -16,7 +16,7 @@
         "description": "Guild name"
     },
     "juniperbot.donate": {
-        "message": "Informationen zu den Spendeplänen lesen",
+        "message": "liest Informationen zu den Spendeplänen",
         "description": "Page with information about donation plans"
     },
     "juniperbot.servers": {
@@ -24,11 +24,11 @@
         "description": "Server selection page"
     },
     "juniperbot.commands": {
-        "message": "Schau auf die Liste der Befehle",
+        "message": "Schaut auf die Liste der Befehle",
         "description": "Page with the list of bot's commands"
     },
     "juniperbot.stats": {
-        "message": "Schau auf die Bot-Statistiken",
+        "message": "Schaut auf die Bot-Statistiken",
         "description": "Page with bot's statistics"
     },
     "juniperbot.usercard": {
