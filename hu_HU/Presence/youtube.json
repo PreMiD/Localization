@@ -23,6 +23,26 @@
         "message": "Csatorna névjegyének olvasása:",
         "description": ""
     },
+    "youtube.trending": {
+        "message": "Nézi a felkapottakat",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Böngészi a(z)",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "feliratkozásait",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "könyvtárját",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "előzményét",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.studio.editVideo": {
         "message": "Videót vág:",
         "description": ""
