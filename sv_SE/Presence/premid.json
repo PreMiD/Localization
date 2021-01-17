@@ -14,5 +14,69 @@
 	"premid.pageHome": {
 		"message": "Hemsida",
 		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Medverkande",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Nedladdningar",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Butik",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Samarbetspartners",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Om PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Systemkrav",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Installation",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Installation för {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Felsökning",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Kom igång",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "Förståelse för v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Bildspelsklass",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Förståelse för iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Konfigurerar metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Konfigurerar TypeScript",
+		"description": "A page name"
 	}
 }
