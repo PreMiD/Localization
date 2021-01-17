@@ -16,7 +16,7 @@
 		"description": "Text for the user to write a brief of the bug information."
 	},
 	"report.os": {
-		"message": "Selecione a versão do seu Sistema Operacional",
+		"message": "Selecione seu Sistema Operacional e Versão",
 		"description": "Select Box for the user to select their operating system"
 	},
 	"report.browser": {
