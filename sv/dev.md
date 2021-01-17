@@ -18,7 +18,7 @@ tags:
 # Klonar projektet
 1. Öppna en terminal och skriv `git clone URL`. **Ersätt URL med utvecklingslänk som du vill bidra till** t.ex. `git clone https://github.com/PreMiD/PreMiD`.
 2. Välj en mapp som du väljer.
-3. Open it in your code editor.
+3. Öppna den i din kodredigerare.
 
 # Installera beroenden
 > Se till att du har installerat [npm](https://www.npmjs.com/) (Node Package Manager) först. Den installeras automatiskt om du har [Nod](https://nodejs.org/en/) installerad. 
@@ -28,7 +28,7 @@ tags:
 - Öppna en terminal i ditt arkiv och skriv `npm i`.
 - För att uppdatera beroendenstypen `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Tänk på att uppdatering av beroenden kan förstöra mycket, eller inte - testning krävs! 
 > 
 > {.is-danger}
 
@@ -39,4 +39,4 @@ Behåll strukturen. Vi vill inte disorganisera vårt projekt. Kaotiska filer kan
 Öppna bara en Pull Request på en av våra [GitHub-arkiv](https://github.com/PreMiD/) som du vill bidra till. Vi kommer att ta hand om ditt barn, oroa dig inte. Om detta är första gången du gör en pull-förfrågan kan du ta en titt på denna [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
 # Bli godkänd
-Vårt främsta mål är att arbeta med användarna så försök att vara så vänliga, respektfulla och informativa som möjligt. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Beroende på kodkvalitet, utseende på tillgångar och regelbunden funktionalitet.
+Vårt främsta mål är att arbeta med användarna så försök att vara så vänliga, respektfulla och informativa som möjligt. Bara att pinga en utvecklare i vår [Discord-server](https://discord.gg/WvfVZ8T) för att få den recensionen på GitHub, eller inte. Beroende på kodkvalitet, utseende på tillgångar och regelbunden funktionalitet.
