@@ -2,8 +2,10 @@
 title: Requisiti
 description: Prerequisiti per installare PreMiD
 published: true
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # Requisiti di sistema
@@ -24,6 +26,6 @@ I sistemi Linux dovrebbero avere **almeno 20MB di RAM** per eseguire PreMiD. I s
 PreMiD richiede circa **150MB** di archiviazione fisica. Tuttavia almeno **200MB** di spazio dedicato a PreMiD è raccomandato.
 
 ### Accesso a Internet
-È richiesta una connessione internet per eseguire PreMiD. PreMiD controllerà automaticamente nuovi aggiornamenti, lingue, aggiornamenti di Presence, ecc. di tanto in tanto.
+A internet connection is required to run PreMiD. PreMiD controllerà automaticamente nuovi aggiornamenti, lingue, aggiornamenti di Presence, ecc. di tanto in tanto.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
