@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Introduction
+## Einleitung
 
 In einigen Szenarien muss deine Presence möglicherweise auf Elemente innerhalb von `iframes` zugreifen.
 
@@ -27,7 +27,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methods
+## Methoden
 
 ### `send(Object)`
 Sendet Daten an die Presence. Bei Verwendung dieser Methode löst die Presence ein `iFrameData`-Event aus.
