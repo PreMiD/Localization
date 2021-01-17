@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **Välj ditt operativsystem:**
 - [Windows *7 eller senare*](/install/windows)
 - [macOS *10.11 eller senare*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux *kärna med v2.x eller högre*](/install/linux)
 {.links-list}
 
 **Välj din webbläsare:**
