@@ -67,6 +67,10 @@
 		"message": "Egyéb",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "Név",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
 		"description": "Name field's placeholder."
