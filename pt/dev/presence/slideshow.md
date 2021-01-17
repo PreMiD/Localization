@@ -10,32 +10,32 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 # Slideshow Class
 
-## Introduction
+## Introdução
 
-The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
+A classe ` Slideshow ` é usada para definir vários ` PresenceData ` e "deslizar" por eles a cada x milissegundos (mínimo: 5000).
 
-See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
+Veja o método [`createSlideshow`](/dev/presence/class#createslideshow) na classe [`Presença`](/dev/presence/class) sobre como criar um `Slideshow`.
 
-## Properties
+## Propriedades
 
 ### `currentSlide`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of what the presence/current slide is displaying.
+Retorna um objeto [ ` PresenceData ` ](/dev/presence/class#presencedata-interface) do que a presença/slide atual está exibindo.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+console.log(currentSlide.details) // O console registrará os detalhes dos dados de presença
 ```
 
-## Methods
+## Métodos
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Adicione um novo slide ao ` Slideshow ` de acordo com os dados fornecidos.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+O primeiro parâmetro requer uma ` String ` que será usada como um identificador exclusivo para o slide.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+O segundo parâmetro requer uma [ interface ` PresenceData ` ](/dev/presence/class#presencedata-interface) para obter todas as informações que você deseja exibir no slide.
 
 Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
 
