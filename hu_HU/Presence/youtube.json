@@ -47,6 +47,10 @@
         "message": "vásárlásait",
         "description": "Part two of \"Browsing through\""
     },
+    "youtube.reportHistory": {
+        "message": "Jelentés előzményeit nézi",
+        "description": ""
+    },
     "youtube.upload": {
         "message": "Feltölt valamit...",
         "description": ""
@@ -73,6 +77,10 @@
     },
     "youtube.studio.editVideo": {
         "message": "Videót vág:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "E videó elemzéseit nézi:",
         "description": ""
     },
     "youtube.studio.videoComments": {
