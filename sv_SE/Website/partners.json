@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Samarbetspartners",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "Gå med i familjen och få några partner-exklusiva fördelar för att visa upp hur mycket swag du har.",
 		"description": "Description for page."
@@ -35,6 +39,14 @@
 		"message": "Bli känd",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "Utvald på våra sociala medier.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Krav",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "Vad letar vi efter?",
 		"description": "Heading for the first requirement."
@@ -59,6 +71,14 @@
 		"message": "Nu drar vi till himlen tillsammans!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Om du är däremot är intresserad kring ett direktjobb hos PreMiD, ta en titt på våra **jobbannonser**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsorer",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "PreMiD vore inte möjligt utan dessa fantastiska människor.",
 		"description": "Description for sponsors."
@@ -75,6 +95,18 @@
 		"message": "UpBeat är en ideell internationell radio som strävar efter att erbjuda en non-stop, kvalitativ radio och nyhetsupplevelse.",
 		"description": "Description for UpBeatRadio."
 	},
+	"partners.partner.aniWatch": {
+		"message": "Få tillgång till vad som är ditt. Streama Anime, Filmer, Hentai, Specials och mer. Gratis, utan annonser och i hög definition!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Börja skapa din egen gemenskap med våra fantastiska mallar. Bygg ditt eget kungarike.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga är en Discord Bot som försöker erbjuda alla funktioner du kan behöva på en gång!",
+		"description": "Description for taigabot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Ett kraftfullt och lättanvänt verktyg för att skapa plattformsoberoende installationsprogram.",
 		"description": "Description for BitRock."
@@ -83,6 +115,10 @@
 		"message": "Kommunicera enkelt realtidsstatus till dina användare.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "En gudinna som spelar som en rolig Discord Bot!",
+		"description": "Description for Erisly."
+	},
 	"partners.partner.crowdin": {
 		"message": "Smidig översättningslösning för teknikföretag.",
 		"description": "Description for Crowdin."
@@ -90,6 +126,10 @@
 	"partners.partner.wikijs": {
 		"message": "Den mest kraftfulla och utbyggbara Wiki programvara med öppen källkod.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.fastly": {
+		"message": "Bakom det bästa av nätet.",
+		"description": "Description for Fastly."
 	},
 	"partners.apply.title": {
 		"message": "Ansök om partnerskap",
