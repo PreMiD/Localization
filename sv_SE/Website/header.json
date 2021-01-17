@@ -35,6 +35,10 @@
     "message": "Medverkande",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Logga in",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Inloggad som",
     "description": "Indicates which user is logged in"
