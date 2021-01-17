@@ -35,6 +35,10 @@
     "message": "Töhfə verənlər",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Daxil ol",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Daxil olundu",
     "description": "Indicates which user is logged in"
