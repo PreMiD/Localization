@@ -50,11 +50,11 @@ Legt Ihre Profilaktivität gemäß den bereitgestellten Daten fest.
 
 Der erste Parameter benötig eine [`PresenceData`](#presencedata-interface) Schnittstelle oder eine [`Slideshow`](/dev/presence/slideshow) Klasse um alle Informationen zu erhalten, die Sie in Ihrem Profil anzeigen möchten.
 
-Der zweite Parameter definiert, wann Präsenz etwas spielt oder nicht. Always use `true` if you provide timestamps in `PresenceData`.
+Der zweite Parameter definiert, wann Präsenz etwas spielt oder nicht. Verwende immer `true`, wenn Sie einen Zeitstempel in `PresenceData` verwenden.
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Löscht deine akutelle Aktivität und den Tray-Titel.
 
 ### `setTrayTitle(String)`
 
@@ -66,22 +66,22 @@ Legt den Tray-Titel in der Menüleiste fest.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Erstellt eine neue `Slideshow` Klasse.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Es wird empfohlen, dies direkt nach dem erstellen der `Presence` Klasse zu tun:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Beispiel clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Die Dokumentation für die `Slideshow` Klasse kannst du [hier](/dev/presence/slideshow) finden.
 
 ### `getStrings(Object)`
 
