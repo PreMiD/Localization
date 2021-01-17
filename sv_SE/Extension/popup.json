@@ -87,6 +87,22 @@
 		"message": "PreMiD programmet är gammalt. Uppdatera för att fortsätta kunna använda PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Utdaterat Tillägg",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Ditt tillägg är föråldrat. Vänligen uppdatera det för att få tillgång till nya funktioner genom att ladda ner det från vår webbplats.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Brådskande uppdatering",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Vi släppte en brådskande uppdatering för tillägget. Vänligen uppdatera för att fortsätta använda PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Ingen Internetanslutning!",
 		"description": "Shown when the user has no internet connection"
