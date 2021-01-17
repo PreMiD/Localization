@@ -157,53 +157,53 @@ Gibt die Version, der Erweiterung aus, die der Benutzer verwendet.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Wird 210 loggen
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Wird 2.1.0 loggen
 ```
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Gibt den Wert der Einstellung zurück.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // pdexID mit der Id von der Einstellung ersetzen
+console.log(setting); // Dies loggt den Wert der Einstellung
 ```
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Versteckt die Einstellung.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Ersetze pdexID mit der ID der Einstellung
 ```
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Zeigt angegebene Anstellung an (Funktioniert nur, wenn die Einstellung schon versteckt war).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Ersetze pdexID mit der ID der Einstellung
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Gibt die Protokolle der Webseiten-Konsole wieder.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Dies logt die neusten 100 Logs (in einem Array).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Hinweis:** Benötigt `readLogs` auf `true` in der `metadata.json` Datei.
 
 ### `info(String)`
 
 Gibt die angegebene Meldung in der Konsole in einem Format aus, das auf die Presence im `info` Style basiert.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Dies loggt "test" im korrekten Stil.
 ```
 
 ### `success(String)`
@@ -211,7 +211,7 @@ presence.info("Test") // This will log "test" in the correct styling.
 Gibt die angegebene Meldung in der Konsole in einem Format aus, das auf die Presence im `erfolgreich` Style basiert.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Test") // Dies loggt "test" im korrekten Stil.
 ```
 
 ### `error(String)`
@@ -219,12 +219,12 @@ presence.success("Test") // This will log "test" in the correct styling.
 Gibt die angegebene Meldung in der Konsole in einem Format aus, das auf die Presence im `Fehler` Style basiert.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Test") // Dies loggt "test" im korrekten Stil.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Wirft 2 `snowflake` Zeitstempel in einem `Array` zurück, die dann für `startTimestamp` und `endTimestamp` verwendet werden können.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Hinweis:** Der gegebene `String` in querySelector ist nur ein Beispiel.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Wirft 2 `snowflake` Zeitstempel in einem `Array` zurück, die dann für `startTimestamp` und `endTimestamp` verwendet werden können.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Hinweis:** Der gegebene `String` in querySelector ist nur ein Beispiel.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Konvertiert eine Zeichenkette in das Format `HH:MM:SS` oder `MM:SS` oder `SS` in einen Integer (Gibt keinen snowflake Zeitstempel zurück).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -259,11 +259,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Hinweis:** Der gegebene `String` in querySelector ist nur ein Beispiel.
 
 ## `PresenceData`-Schnittstelle
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+Die `PresenceData`-Schnittstelle wird empfohlen, wenn Sie die `SetActivity()` Methode verwenden.
 
 Diese Schnittstelle hat folgende Variablen, die alle optional sind.
 
