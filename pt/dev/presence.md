@@ -163,7 +163,7 @@ Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. A
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">O título do serviço que essa Presence suporta. <br>
+      <td style="text-align:left">O título do serviço que essa Presence suporta.<br>
       (Deve possuir o mesmo nome da pasta na qual está tudo)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
