@@ -17,7 +17,7 @@ Die Installation der Erweiterung ist sehr wichtig, da die Anwendung allein nicht
 6. Wähle die Datei aus, die Du kürzlich heruntergeladen hast.
 7. Akzeptiere die Installation, indem Du auf **Hinzufügen**klickst.
 
-> Do not forget to [add the **application**](/install). 
+> Vergiss nicht, [die **Anwendung**](/install) hinzuzufügen. 
 > 
 > {.is-warning}
 
