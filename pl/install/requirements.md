@@ -2,8 +2,10 @@
 title: Wymaganie
 description: Wymagania do instalacji PreMiD
 published: tak
-date: 2020-02-12T22:08:39.314Z
+date: 2021-01-17T22:43:28.543Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
 # Wymagania systemowe
@@ -24,6 +26,6 @@ Systemy Linux powinny mieć **co najmniej 20 MB RAM** aby uruchomić PreMiD. Sys
 PreMiD zajmuje około **150MB** pamięci fizycznej. Zalecane jest jednak co najmniej **200 Mb** pamięci dedykowanej do PreMiD.
 
 ### Dostęp do internetu
-Połączenie z internetem jest niezbędne do uruchomienia PreMiD. PreMiD automatycznie sprawdza dostępność nowych aktualizacji, języków, aktualizacji Presences itp. od czasu do czasu.
+A internet connection is required to run PreMiD. PreMiD automatycznie sprawdza dostępność nowych aktualizacji, języków, aktualizacji Presences itp. od czasu do czasu.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
