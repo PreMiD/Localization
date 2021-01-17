@@ -20,7 +20,7 @@ Veja o método [`createSlideshow`](/dev/presence/class#createslideshow) na class
 
 ### `currentSlide`
 
-Retorna um objeto [ ` PresenceData ` ](/dev/presence/class#presencedata-interface) do que a presença/slide atual está exibindo.
+Devolve um [`PresenceData`](/dev/presence/class#presencedata-interface) objeto do que a presença/diapositivo de corrente está a exibir.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
@@ -37,62 +37,62 @@ O primeiro parâmetro requer uma ` String ` que será usada como um identificado
 
 O segundo parâmetro requer uma [ interface ` PresenceData ` ](/dev/presence/class#presencedata-interface) para obter todas as informações que você deseja exibir no slide.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+O terceiro parâmetro requer um `Number` que é o tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Devolve todos os slides guardados na Apresentação de Diapositivos como Uma Matriz de SlideshowSlide.
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Updates the slide of the given `id` according to provided data.
+Atualiza o slide do id dado de acordo com os dados fornecidos.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+O primeiro parâmetro requer um `String` que é o identificador único do slide que pretende atualizar.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+O segundo parâmetro requer um [`PresenceData` interface](/dev/presence/class#presencedata-interface) para obter toda a informação que pretende exibir no diapositivo.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+O terceiro parâmetro requer um `Number` que é o tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Devolve um `Boolean` indicando se o slide é adicionado ao `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Elimina o slide com o dado `id` do `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+O primeiro parâmetro requer um `String` que é o identificador único do slide que pretende eliminar.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Exclui todos os slides do `Slideshow`.
 
-# SlideshowSlide Class
+# Classe Slideshow
 
-## Introduction
+## Introdução
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+Um `SlideshowSlide` é a representação interna de cada slide em um `Slideshow`.
 
-## Properties
+## Propriedades
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Retorna uma `String` do id do slide.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Retorna um [`PresenceData`](/dev/presence/class#presencedata-interface) objeto do `PresenceData` salvo no slide.
 
-## Methods
+## Métodos
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Define os dados de slides de acordo com os dados fornecidos.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Primeiro parámetro requer `presenceData` interface para conseguir toda a informação para ver o que vai apresentar no seu perfil.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Define o intervalo do slide de acordo com dados fornecidos.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Você deve fornecer um `Number` que é o tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
