@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Directrices
 
 Al publicar Presences en [nuestro repositorio de GitHub](https://github.com/PreMiD/Presences), necesitamos que sigas un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, la implementación de estas reglas nos evitarán a nosotros y a los usuarios con cualquier problema.
 
@@ -295,7 +295,7 @@ Algunas cosas que deberías saber después de abrir una solicitud de pull reques
 
 ## `Verificaciones`
 
-![Checks](https://i.imgur.com/BCDZQe9.png)
+![Verificaciones](https://i.imgur.com/BCDZQe9.png)
 
 Actualmente, una presence pasa por 2 etapas separadas de comprobaciones. Todas estas comprobaciones ayudan a que los verificadores determinen si su presence es adecuada para su implementación.
 

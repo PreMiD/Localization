@@ -260,7 +260,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
