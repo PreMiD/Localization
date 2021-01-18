@@ -28,7 +28,7 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.recentUploads": {
-		"message": "{0} 명의 팔로워들이 최근 업로드에 대해 검색하였습니다.",
+		"message": "최근 업로드에 대해 {0}명의 팔로워들이 검색하였습니다.",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"v live.ofChannel": {
