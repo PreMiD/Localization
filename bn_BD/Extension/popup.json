@@ -52,11 +52,11 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "প্রেসেন্স ভার হৈছে",
+		"message": "লোড Presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "প্রেসেন্স ডাউনলোড করুন",
+		"message": "Presence স্টোর",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -64,11 +64,11 @@
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
 	"popup.credits.error.heading": {
-		"message": "ওহ নো!",
+		"message": "আরে না!",
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "ক্রেডিটস লোড হইতে পারেনাই",
+		"message": "ক্রেডিটস লোড হওয়ার সময় Error",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
