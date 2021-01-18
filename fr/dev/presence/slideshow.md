@@ -41,11 +41,11 @@ Le troisième paramètre nécessite un `Number` qui est le temps en milliseconde
 
 ### `getSlides()`
 
-Retourne toutes les diapositives enregistrées dans le `Slideshow` en tant que `tableau` de [`SlideshowSlide`](#slideshowslide-class).
+Retourne toutes les diapositives enregistrées dans le `Slideshow` dans un `Array` de [`SlideshowSlide`](#slideshowslide-class).
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Met à jour la diapositive de `l'id` donné en fonction des données fournies.
+Met à jour la diapositive corréspondant à `l'id` donné en fonction des données fournies.
 
 Le premier paramètre nécessite une `String` qui est l'identifiant unique de la diapositive que vous voulez mettre à jour.
 
@@ -59,7 +59,7 @@ Renvoie un `Boolean` indiquant si la diapositive est ajoutée au `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Supprime la diapositive avec `l'id` donné du `Slideshow`.
+Supprime la diapositive correspondant à `l'id` donné du `Slideshow`.
 
 Le premier paramètre nécessite une `String` qui est l'identifiant unique de la diapositive que vous voulez supprimer.
 
@@ -67,7 +67,7 @@ Le premier paramètre nécessite une `String` qui est l'identifiant unique de la
 
 Supprime toutes les diapositives du `Slideshow`.
 
-# Classe du Slideshow
+# Classe Slideshow
 
 ## Introduction
 
@@ -77,7 +77,7 @@ Un `SlideshowSlide` est la représentation interne de chaque diapositive dans un
 
 ### `id`
 
-Retourne une `String` de l'id de la diapositive.
+Retourne une `String` content l'id de la diapositive.
 
 ### `data`
 
