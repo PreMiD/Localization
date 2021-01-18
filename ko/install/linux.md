@@ -23,7 +23,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
   - 자주 하는 질문 (준비중)
   - 빌드 (준비중)
   - [지원](#support)
-  - [Credits](#credits)
+  - [제작진](#credits)
   - [라이센스](#license)
 - **[Snapcraft](#snapcraft)** (단순히 말해서 말이죠 : _영원히!_ ™️)
 - **[포터블 AppImage](#appimage)** (_추천_)
@@ -35,7 +35,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="about"></a>
 
-## About
+## 정보
 
 **PreMiD**는 디스코드 RP ( Rich Presence ) 라이브러리를 사용하여 디스코드 프로필 **게임 하는 중**란에 여러분이 웹에서 (그리고 몇몇 프로그램에서) 하고 있는 것을 쉽게 보여줄 수 있는 간단하고 설정 가능한 유틸리티입니다.
 
@@ -80,7 +80,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="credits"></a>
 
-### Credits
+### 제작진
 
 도움을 주신 분들:
 
