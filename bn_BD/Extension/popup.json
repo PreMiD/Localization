@@ -4,7 +4,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "ক্রেডিট",
+		"message": "ক্রেডিটস",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
@@ -92,7 +92,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "তোমার এক্সটেনশনটি আউটডেটেড। এটাকে আপডেট করো লেটেস্ট ফিচার পাওয়ার জন্যে, আমাদের ওয়েবসাইট থেকে ডাউনলোড করে।",
+		"message": "তোমার এক্সটেনশনটি আউটডেটেড। এটাকে আপডেট করো লেটেস্ট ফিচার পাওয়ার জন্যে, আমাদের ওয়েবসাইট থেকে এটিকে ডাউনলোড করে।",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
@@ -104,7 +104,7 @@
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
-		"message": "ইন্টারনেট সংযোগ নেই!",
+		"message": "ইন্টারনেট কানেকশন নেই!",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
@@ -136,11 +136,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "সামাজিক",
+		"message": "সোশ্যালস",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "ভিডিওস & স্ট্রামস",
+		"message": "ভিডিওস & স্ট্রিমস",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
