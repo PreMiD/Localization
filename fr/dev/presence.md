@@ -201,7 +201,7 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
 regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a plusieurs sous-domaines.<br>
         Vous pouvez utiliser le regExp pour cela :<br>
         <code>([a-z0-9]+)[.]domain[.]TLD "</code><br>
-        TLD représente le domaine de niveau supérieur par exemple: . com .net (mais ne saisissez pas le point).<br> 
+        TLD représente le domaine de niveau supérieur par exemple: .com .net (mais ne saisissez pas le point).<br> 
         <code>([a-z0-9]+)</code> signifie n'importe quoi de a à z et de 0 à 9.<br>
         Vous pouvez démarrer rapidement en regardant cette <a href="https://youtu.be/sXQxhojSdZM">vidéo</a><br>
         Vous pouvez tester votre regExp sur <a href="https://regex101.com/">Regex101</a>.</td>
@@ -228,7 +228,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left">Valeur <code>#HEX</code>. Nous vous recommandons d'utiliser une couleur primaire du service
+      <td style="text-align:left">Valeur <code>#HEX</code>. Nous vous recommandons d'utiliser une des couleur primaire du service
         que votre presence supporte.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Non</code></td>
@@ -273,7 +273,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
   </tbody>
 </table>
 
-Nous avons fait un créateur de fichier `metadata.json` pour les mecs paresseux [ici](https://eggsy.xyz/projects/premid/mdcreator).
+Nous avons fait un créateur de fichier `metadata.json` pour les personnes paresseuses [ici](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Pour commencer
 
@@ -305,11 +305,11 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 presence.on("UpdateData", async () => {
   /*UpdateData est toujours en marche, et doit donc être utilisé comme votre cycle de rafraîchissement, ou "tick". Cela est appelé plusieurs fois par seconde dans la mesure du possible.
 
-    Il est recommandé de configurer une autre fonction en dehors de cette fonction qui changera les valeurs des variables et faire le chargement lourd si vous appelez des données à partir d'une API. /
+    Il est recommandé de crée une autre fonction en dehors de cette fonction qui changera les valeurs des variables et faire le le gros tu travail si vous appelez des données à partir d'une API. /
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*La clé (nom du fichier) de l'image large sur la presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
+      "key" /*La clé (nom du fichier) de l'image large sur la presence. Celles-ci sont mise en ligne et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
     smallImageKey:
       "key" /*La clé (nom de fichier) de l'image large sur la presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelé Art Assets*/
         smallImageText: "Quelques texte survolant", //Le texte qui est affiché en survolant la petite image
