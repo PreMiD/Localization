@@ -26,6 +26,6 @@ PreMiD به طور عالی با CPU های تک هسته ای هم سازگار
 PreMiD حدودا در **150MB** حافظه فیزیکی جای می گیرد. به هر حال، برای اجرای بهتر PreMiD حداقل **200MB** فضای حافظه توصیه میشه.
 
 ### دسترسی به اینترنت
-A internet connection is required to run PreMiD. PreMiD خودکار آپدیت های جدید، زبان ها، آپدیت Presence ها و... را چک می کند. هر ازگاهی در زمان های مشخص.
+اتصال اینترنت برای اجرای PreMiD مستلزم می باشد. PreMiD خودکار آپدیت های جدید، زبان ها، آپدیت Presence ها و... را چک می کند. هر ازگاهی در زمان های مشخص.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
