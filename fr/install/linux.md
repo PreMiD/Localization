@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 L'installation de l'application est très importante car l'extension ne peut rien faire par elle-même.
 
-> Les utilisateurs d'Aur qui se servent du paquet de DoomLert devraient être sûrs comme il le dit. Nous ne recommandons pas de l'utiliser, mais si vous le souhaitez, vous pouvez toujours l'utiliser. Merci à DoomLerd de toujours s'occuper du dépôt aur. 
+> Les utilisateurs de L'AUR qui se servent du paquet de DoomLert devraient être en sécurité. Nous ne recommandons pas de l'utiliser, mais si vous le souhaitez, vous pouvez toujours l'utiliser. Merci à DoomLerd de toujours s'occuper du dépôt AUR. 
 > 
 > {.is-warning}
 
@@ -84,17 +84,17 @@ On ne sait pas si les anciennes versions d'autres distributions supporte l'appli
 
 Merci à
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (et quelques autres gars que j'ai oubliés de leur nom) pour nous faire part de leurs commentaires sur les sorties nocturnes.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (et tout les autres contributeurs) pour nous faire part de leurs commentaires sur les version nightly.
 - @apriluwu pour la maintenance des versions Gentoo
-- @SlimShadyIAm et naka pour la maintenance des paquets de dépôt utilisateurs Arch
+- @SlimShadyIAm et naka pour la maintenance des paquets de l'AUR
 - La communauté Electron pour divers paquets
-- Quiconque a déjà contribué au projet de quelque façon que ce soit.
+- Quiconque ayant contribué au projet de quelque façon que ce soit.
 
 <a name="license"></a>
 
 ### Licence
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
+[![Status FOSSA](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
