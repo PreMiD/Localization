@@ -28,15 +28,15 @@
     "description": ""
   },
   "extension.2.0.new8": {
-    "message": "우리의 새로운 API는",
+    "message": "우리의 새로운 API는 현재 진행중 입니다",
     "description": ""
   },
   "extension.2.0.change1": {
-    "message": "업데이트 된 디자인 및 팝업 및 탭 스타일",
+    "message": "팝업 및 탭 레이아웃 및 스타일 개선",
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "많은 (un) 알려진 버그가 달아났습니다.",
+    "message": "알려졌거나, 알려지지 않은 많은 버그가 사라졌습니다.",
     "description": ""
   },
   "extension.2.0.fix2": {
@@ -44,7 +44,7 @@
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "최신 앱이 있어도 오래된 앱 오류 수정",
+    "message": "만약 최신 버전을 가지고 있다면, 오래된 버전의 오류를 고칠 수 있습니다.",
     "description": ""
   }
 }
