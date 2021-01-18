@@ -1,5 +1,5 @@
 ---
-title: Classe du Slideshow
+title: Classe Slideshow
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,11 +8,11 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Classe du Slideshow
+# Classe Slideshow
 
 ## Introduction
 
-La classe `Slideshow` est utilisée pour définir plusieurs `PresenceData` et "glisser" à travers eux toutes les x millisecondes (minimum : 5000).
+La classe `Slideshow` est utilisée pour définir plusieurs `PresenceData` et passer de l'un au suivant toutes les x millisecondes (minimum : 5000).
 
 Voir la méthode [`createSlideshow`](/dev/presence/class#createslideshow) dans la classe [`Presence`](/dev/presence/class) sur la façon de créer un `Slideshow`.
 
@@ -24,7 +24,7 @@ Renvoie un objet [`PresenceData`](/dev/presence/class#presencedata-interface) de
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // La console enregistrera les détails du PresenceData
+console.log(currentSlide.details) // La console affichera les détails du PresenceData
 ```
 
 ## Méthodes

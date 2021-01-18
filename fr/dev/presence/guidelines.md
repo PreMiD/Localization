@@ -278,8 +278,8 @@ Les infractions répétitives telles que le non-respect des directives, le spam 
 
 Dans ce scénario, les changements suivants se produiront :
 
-- Les presences sous votre direction seront transférées au bot PreMiD ou à un autre utilisateur (décision de l'évaluateur). L'identifiant de l'application pour chaque presence sera recréé sous le nom du nouveau propriétaire.
-- Tout vos problèmes et pull requests (création de presence, contribution de presence, etc.) créées après le bannissement seront rapidement fermées.
+- Les presences sous votre direction seront transférées au bot PreMiD ou à un autre utilisateur (décision du reviewer). L'identifiant de l'application pour chaque presence sera recréé sous le nom du nouveau propriétaire.
+- Toute vos issues et pull requests (création de presence, contribution de presence, etc.) créées après le bannissement seront rapidement fermées.
 - Les tickets créés sous votre nom concernant le développement de la presence seront supprimés.
 
 
@@ -297,7 +297,7 @@ Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 
 ![Vérifications](https://i.imgur.com/BCDZQe9.png)
 
-Actuellement, une Presence passe par deux étapes distinctes de vérification. Toutes ces vérifications aident les évaluateurs à déterminer si votre presence est adaptée au déploiement.
+Actuellement, une Presence passe par deux étapes distinctes de vérification. Toutes ces vérifications aident les évaluateurs à déterminer si votre presence est apte au déploiement.
 
 - `Codacy` est un bot qui vérifie la qualité du code. Si jamais vous recevez des erreurs pour les nouveaux problèmes, vous êtes **tenus** de les corriger.
 - `Schema Validation` va scanner votre fichier `metadata.json` pour trouver toutes erreurs (par exemple, champs manquants, types de valeurs invalides, etc.). Si jamais vous recevez des erreurs, vous êtes aussi **tenus** de les corriger. L'ajout d'un champ de schéma à `metadata.json` permettra à votre éditeur de texte (si pris en charge) de vous montrer ces erreurs pendant le développement.

@@ -90,7 +90,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     </tr>
     <tr>
       <td style="text-align:left"><b>contributeurs</b></td>
-      <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du contributeur. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du contributeur. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
@@ -247,7 +247,7 @@ Configurer les paramètres interactifs pour que les utilisateurs puissent person
 
 #### Introduction
 
-Le paramètre `multiLanguage` est utilisé pour permettre aux utilisateurs de sélectionner manuellement la langue dans laquelle ils veulent que le presence soit montrée. Cela nécessite que vous utilisiez des chaînes de caractères de notre [API](https://api.premid.app/v2/langFile/presence/en), pour plus d'informations sur comment ajouter des chaînes de caractères cliquez [ici](/dev/presence/metadata/adding-new-strings).
+Le paramètre `multiLanguage` est utilisé pour permettre aux utilisateurs de sélectionner manuellement la langue dans laquelle ils veulent que le presence leur soit montrée. Cela nécessite que vous utilisiez des chaînes de caractères de notre [API](https://api.premid.app/v2/langFile/presence/en), pour plus d'informations sur comment ajouter des chaînes de caractères cliquez [ici](/dev/presence/metadata/adding-new-strings).
 
 #### Configuration
 
@@ -262,7 +262,7 @@ La clé `multiLanguage` peut être définie comme suit :
 ##### Cloner le projet
 
 1. Ouvrez un terminal et tapez `git clone https://github.com/PreMiD/Localization`.
-2. Choisissez un dossier de votre choix.
+2. Choisissez un dossier.
 3. Ouvrez-le dans votre éditeur de code.
 
 ##### Création du fichier
@@ -277,9 +277,9 @@ Chaque `string` est un `Object` où le nom commence par le nom du service et ens
 
 Le stringName est un identifiant de 1 mot du message.
 
-L' `Object` a 2 propriétés; `message` et `description`. `message` est le texte qui doit être traduit. `la description` est une description du message pour aider nos traducteurs à comprendre ce qu'ils traduisent.
+L' `Object` a 2 propriétés; `message` et `description`. `message` est le texte qui doit être traduit. `description` est une description du message pour aider nos traducteurs à comprendre ce qu'ils traduisent.
 
-**Remarque :** N'ajoutez aucune chaîne en double. (Cela inclut les chaînes du fichier `general.json` mais pas les autres fichiers.)
+**Remarque :** N'ajoutez aucune chaîne en double. (Cela inclut les chaînes du fichier `general.json` et non les autres fichiers.)
 
 Visualisation du fichier :
 
@@ -296,7 +296,7 @@ Visualisation du fichier :
 }
 ```
 
-Après avoir entièrement créé le fichier avec des chaînes, vous pouvez créer une Pull Request sur le [Dépot de localisation](https://github.com/PreMiD/Localization), dans la description vous **devez** inclure un lien vers votre Pull Request de la presence mise à jour en utilisant ces nouvelles chaînes du [Dépôt de Presence](https://github.com/PreMiD/Presences).
+Après avoir entièrement créé le fichier avec les chaînes de caractères, vous pouvez créer une Pull Request sur le [Dépot de localisation](https://github.com/PreMiD/Localization), dans la description vous **devez** inclure un lien vers votre Pull Request de la presence mise à jour en utilisant ces nouvelles chaînes du [Dépôt de Presence](https://github.com/PreMiD/Presences).
 
 #### Touches par défaut
 Les clés que vous n'avez pas à définir sont automatiquement définies à ce qui suit : `title`: "Langue" **Note :** Ceci est traduit dans leur langue par défaut (langue du navigateur). `icon`: "fas fa-language" ([Aperçu](https://fontawesome.com/icons/language)) `value`: **Régler la langue de leur navigateur si elle est disponible (100% traduite), sinon l'anglais.** `values`: **Définissez les langues disponibles (langues qui ont été traduites à 100%).**
@@ -310,7 +310,7 @@ Utilisez les méthodes suivantes pour obtenir des informations sur les paramètr
 Renvoie la valeur du paramètre.
 ```typescript
 const setting = wait presence.getSetting("pdexID"); //Remplacer pdexID par l'id du paramètre
-console.log(setting); // Cela enregistrera la valeur du paramètre
+console.log(setting); // Cela affichera dans la console la valeur du paramètre
 ```
 
 #### `masquer (chaîne de caractères)`
