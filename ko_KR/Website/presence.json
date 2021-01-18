@@ -7,6 +7,10 @@
 		"message": "설명",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "변경된 사항",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "정보",
 		"description": "The title of the information section."
