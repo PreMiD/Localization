@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD এপ্লিকেশন এর সাথে কানেক্ট করতে পারে নাই! এপ্লিকেশন কে ইনস্টলড বা চলতাসে?\n*সমস্যা চেক করা হচ্ছে*",
+		"message": "PreMiD তার অ্যাপ্লিকেশান এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -124,7 +124,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.anime": {
-		"message": "আনিমে",
+		"message": "অ্যানিমে",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.music": {
