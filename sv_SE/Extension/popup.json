@@ -4,7 +4,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "Beröm",
+		"message": "Tack till",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
@@ -100,7 +100,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate.message": {
-		"message": "Vi släppte en brådskande uppdatering för tillägget. Vänligen uppdatera för att fortsätta använda PreMiD.",
+		"message": "Vi har släppt en brådskande uppdatering för tillägget. Vänligen uppdatera för att fortsätta använda PreMiD.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
@@ -108,7 +108,7 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Det verkar som om du inte har någon Internetansultning! PreMiD kommer inte att kunna visa din närvaro tills att du har åtgärdat det.",
+		"message": "Det verkar som om du inte har någon internetanslutning! PreMiD kommer inte att kunna visa presences tills att du har åtgärdat det.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
