@@ -203,6 +203,18 @@
 		"message": "Bekijkt pagina:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Kijkt naar een film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Kijkt naar een serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Kijkt naar een show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Kijkt naar een video",
 		"description": ""

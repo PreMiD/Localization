@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "Аниме",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Смотрит...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Глава",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "Жанр",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Язык",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Слушает музыку",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Слушатели",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Прямой эфир",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "Читает темы:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "Читать",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Ищет:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "Ищет что-нибудь...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "Искать",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Корзина",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Магазин",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -169,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "Смотрит:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Смотрит страницу:",
 		"description": ""
 	},
 	"general.watchingVid": {

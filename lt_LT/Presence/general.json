@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Naršoma...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Skyrius",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "Žanras",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Kalba",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Klausosi muzikos",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Klausytojai",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Tiesiogiai",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "Skaito giją:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "Skaitymas",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Ieškoma:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "Kažkas ieškoma...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "Ieškoma",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Prekių krepšelis",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Parduotuvė",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -169,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "Peržiūroma:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Peržiūri puslapį:",
 		"description": ""
 	},
 	"general.watchingVid": {

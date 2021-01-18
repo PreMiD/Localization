@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "アニメ",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "閲覧中...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "チャプター",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "ジャンル",
 		"description": ""
 	},
+	"general.language": {
+		"message": "言語",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "音楽を再生中",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "リスナー",
+		"description": ""
+	},
+	"general.live": {
+		"message": "ライブ",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "スレッドを閲覧中:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "閲覧中",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "検索中:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "何かを検索中...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "検索中",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "ショッピングカート",
+		"description": ""
+	},
+	"general.store": {
+		"message": "ストア",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -169,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "閲覧中:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "ページを閲覧中:",
 		"description": ""
 	},
 	"general.watchingVid": {

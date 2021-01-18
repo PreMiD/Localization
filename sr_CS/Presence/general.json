@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Pregledavanje...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Poglavlje",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "Žanr",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Jezik",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Slusanje muzike",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Slušaoci",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Uživo",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "Čita skup:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "Čitanje",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Traži za:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "Traži nešto...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "Traženje",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Korpa",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Prodavnica",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -165,6 +193,10 @@
 	},
 	"general.viewing": {
 		"message": "Gleda:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Gleda stranu:",
 		"description": ""
 	},
 	"general.watchingVid": {

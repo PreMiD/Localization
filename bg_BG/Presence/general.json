@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "Аниме",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Сърфирането ...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Глава",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "Жанр",
 		"description": ""
 	},
+	"general.language": {
+		"message": "език",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Слуша музика",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Слушатели",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Live\n",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "Чете тема:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "четене",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Търси за:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "Търси нещо...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "изпитателен",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Кошница",
+		"description": ""
+	},
+	"general.store": {
+		"message": "магазин",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -169,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "Гледа:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Гледа страница:",
 		"description": ""
 	},
 	"general.watchingVid": {

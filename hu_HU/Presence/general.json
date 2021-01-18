@@ -163,6 +163,10 @@
 		"message": "Terméket néz:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Oldal megtekintése:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Videót néz",
 		"description": ""
