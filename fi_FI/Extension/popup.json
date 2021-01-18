@@ -99,6 +99,14 @@
 		"message": "Kiireellinen päivitys",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Julkaisimme kiireellisen päivityksen laajennukselle. Päivitä se jatkaaksesi PreMiDin käyttöä.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Ei Internet-yhteyttä!",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "Kaikki",
 		"description": "Category name shown when you open tags"
