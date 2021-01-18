@@ -14,7 +14,7 @@ tags:
 1. [이곳](https://premid.app/downloads) 을 눌러 다운로드 하세요!
 2. **Windows**를 선택하세요.
 3. 설치파일을 여세요!
-4. 만약 PreMiD를 처음 설치했을 땐, **Windows SmartScreen**이 나타납니다. **더 알아보기**를 누른 다음 **무시하고 실행하기**를 누르세요. > 저희가 코드 서명 인증서 (CSC) 를 갖고 있지 않기 때문입니다. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+4. 만약 PreMiD를 처음 설치했을 땐, **Windows SmartScreen**이 나타납니다. **더 알아보기**를 누른 다음 **무시하고 실행하기**를 누르세요. > 저희가 코드 서명 인증서 (CSC) 를 갖고 있지 않기 때문입니다. 우리가 자금을 마련할 수 있도록 [여기](https://www.patreon.com/Timeraa)를 눌러 도와주기.{.is-info}
 
 잠시 후 자동으로 애플리케이션이 시작됩니다. 작업표시줄에 생긴 심볼을 확인하세요.
 
