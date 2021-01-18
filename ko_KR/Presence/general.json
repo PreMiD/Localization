@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "검색하는중...",
+		"message": "검색하는 중...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "읽는중",
+		"message": "읽는 중",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -200,7 +200,7 @@
 		"description": ""
 	},
 	"general.viewPage": {
-		"message": "페이지 보는중:",
+		"message": "페이지 보는 중:",
 		"description": ""
 	},
 	"general.watchingVid": {
