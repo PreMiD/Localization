@@ -3,6 +3,18 @@
 		"message": "Laajennusta ei ole yhdistetty.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.creator": {
+		"message": "Tekijä",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Tämä presence on erittäin suosittu käyttäjien keskuudessa.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Yhteistyökumppanin presence",
+		"description": "Presence card partner flame"
+	},
 	"store.header.search": {
 		"message": "Etsi Presenceä",
 		"description": "Search bar text when nothing is stated"
