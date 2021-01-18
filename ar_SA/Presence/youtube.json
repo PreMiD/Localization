@@ -27,14 +27,6 @@
         "message": "يبحث في القناة: {0} من أجل:",
         "description": "{0} will be replaced with the channel name"
     },
-    "youtube.trending": {
-        "message": "يشاهد ماهو منتشر",
-        "description": ""
-    },
-    "youtube.browsingThrough": {
-        "message": "يتصفح من خلال",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
     "youtube.subscriptions": {
         "message": "المشتركين الخاصة بهم",
         "description": "Part two of \"Browsing through\""
@@ -53,10 +45,6 @@
     },
     "youtube.reportHistory": {
         "message": "يشاهد تاريخ التقارير",
-        "description": ""
-    },
-    "youtube.upload": {
-        "message": "تحميل شيء...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -94,10 +82,6 @@
     "youtube.studio.videoTranslations": {
         "message": "يشاهد ترجمات الفيديو:",
         "description": ""
-    },
-    "youtube.studio.viewTheir": {
-        "message": "عرض ما يخص",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "تحليلات القناة",

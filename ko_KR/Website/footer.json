@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "{0} 명 이상의 사용자가 오늘 가입!",
+		"message": "{0} 명 이상의 사용자가 사용중입니다!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
@@ -36,7 +36,7 @@
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "우리를 지원하기",
+		"message": "지원하기",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
@@ -46,10 +46,6 @@
 	"footer.supportus.contribute": {
 		"message": "기여하기",
 		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.design": {
-		"message": "디자인",
-		"description": "Design -> redirects to discord.premid.app"
 	},
 	"footer.supportus.translate": {
 		"message": "번역하기",
@@ -64,7 +60,7 @@
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
-		"message": "문제 해결",
+		"message": "문제 해결하기",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
@@ -104,7 +100,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
-		"message": "웹사이트 유지 {0}",
+		"message": "{0} 에 의해 웹사이트가 유지되고 있습니다.",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {

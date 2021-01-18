@@ -32,7 +32,7 @@
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Menjelajahi",
+        "message": "Menelusuri",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
@@ -94,10 +94,6 @@
     "youtube.studio.videoTranslations": {
         "message": "Melihat terjemahan video:",
         "description": ""
-    },
-    "youtube.studio.viewTheir": {
-        "message": "Melihat mereka",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "analisis saluran",

@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partnerji",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Pridruži se familiji in pridobi partnerske koristi, da se lahko pokažeš drugim koliko swag si.",
 		"description": "Description for page."
@@ -175,10 +171,6 @@
 		"message": "Spletna stran",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Drugo",
-		"description": "Select 'Other' category."
-	},
 	"partners.apply.form.name": {
 		"message": "Ime",
 		"description": "Name filed."
@@ -218,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Prijava",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Hvala vam za prijavo!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Prosimo da, izpolnite vsa polja.",

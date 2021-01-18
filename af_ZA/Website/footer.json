@@ -39,17 +39,9 @@
 		"message": "Ondersteun ons",
 		"description": "Support us section"
 	},
-	"footer.supportus.donate": {
-		"message": "Skenk",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
 	"footer.supportus.contribute": {
 		"message": "Bydrae",
 		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.design": {
-		"message": "Ontwerp",
-		"description": "Design -> redirects to discord.premid.app"
 	},
 	"footer.supportus.translate": {
 		"message": "Vertaal",
@@ -62,10 +54,6 @@
 	"footer.help.heading": {
 		"message": "Hulp",
 		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Probleemoplossing",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
 		"message": "Kry Hulp",
@@ -94,10 +82,6 @@
 	"footer.more.status": {
 		"message": "Status",
 		"description": "Status -> redirects to status.premid.app"
-	},
-	"footer.more.wiki": {
-		"message": "Wiki",
-		"description": "Wiki -> redirects to wiki.premid.app"
 	},
 	"footer.copyright.line1": {
 		"message": "{0} deur {1}",

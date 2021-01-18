@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Ah, yox!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.message": {
 		"message": "Xüsusi inkişaf etdiricilərimiz bunu düzəldənə qədər, buraya nəzər yetirin!",
 		"description": "Message on maintenance page"

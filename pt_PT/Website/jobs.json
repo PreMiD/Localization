@@ -12,7 +12,7 @@
 		"description": "Next button in the modal."
 	},
 	"jobs.modal.buttons.join": {
-		"message": "Entre",
+		"message": "Entrar",
 		"description": "Join Discord button in the modal."
 	},
 	"jobs.modal.buttons.cancel": {

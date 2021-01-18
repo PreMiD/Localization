@@ -44,7 +44,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "고객지원 팀",
+		"message": "상담원",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
@@ -72,7 +72,7 @@
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "유저 ID가 복사됨!",
+		"message": "유저 ID가 복사되었습니다!",
 		"description": "Notification after user ID was copied."
 	}
 }

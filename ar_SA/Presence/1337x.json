@@ -1,78 +1,78 @@
 {
     "1337x.movieLibrary": {
-        "message": "يشاهد مكتبة الافلام",
+        "message": "جاري مشاهدة مكتبة الافلام",
         "description": ""
     },
     "1337x.seriesLibrary": {
-        "message": "يشاهد مكتبة الافلام",
+        "message": "جاري مشاهدة مكتبة المسلسلات",
         "description": ""
     },
     "1337x.latestEpisode": {
-        "message": "يشاهد الحلقات الاخيرة",
+        "message": "جاري مشاهدة الحلقات الاخيرة",
         "description": ""
     },
     "1337x.top": {
-        "message": "يشاهد اول 100",
+        "message": "جاري مشاهدة أفضل 100",
         "description": ""
     },
     "1337x.trending": {
-        "message": "يشاهد ماهو منتشر",
+        "message": "جاري مشاهدة ما هو رائج",
         "description": ""
     },
     "1337x.animeTorrents": {
-        "message": "يشاهد تورينت الانمي",
+        "message": "جاري مشاهدة تورنت الانمي",
         "description": ""
     },
     "1337x.appTorrents": {
-        "message": "يشاهد بثوث الألعاب",
+        "message": "جاري مشاهدة تورنت التطبيقات",
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "يشاهد البثوث الوثائيقية",
+        "message": "جاري مشاهدة تورنت الافلام الوثائقية",
         "description": ""
     },
     "1337x.gamesTorrents": {
-        "message": "يشاهد بثوث الالعاب",
+        "message": "جاري مشاهدة تورنت الالعاب",
         "description": ""
     },
     "1337x.moviesTorrents": {
-        "message": "يشاهد بثوث الافلام",
+        "message": "جاري مشاهدة تورنت الافلام",
         "description": ""
     },
     "1337x.musicTorrents": {
-        "message": "يشاهد بثوث الاغاني",
+        "message": "جاري مشاهدة تورنت الاغاني",
         "description": ""
     },
     "1337x.otherTorrents": {
-        "message": "يشاهد البثوث الاخرى",
+        "message": "جاري مشاهدة تورنت الاخرى",
         "description": ""
     },
     "1337x.tvTorrents": {
-        "message": "يشاهد بثوث التلفاز",
+        "message": "جاري مشاهدة تورنت التلفاز",
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "يشاهد بثوث إباحية",
+        "message": "جاري مشاهدة تورنت XXX",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
-        "message": "تحميل شيء...",
+        "message": "جاري رفع شيء...",
         "description": ""
     },
     "1337x.rules": {
-        "message": "يقرء القوانين",
+        "message": "جاري قراءة القوانين",
         "description": ""
     },
     "1337x.writing": {
-        "message": "كتابة الي 1337x",
+        "message": "جاري الكتابة إلى 1337x",
         "description": ""
     },
     "1337x.about": {
-        "message": "يقرء حول 1337x",
+        "message": "جاري القراءة حول 1337x",
         "description": ""
     },
     "1337x.viewTorrent": {
-        "message": "يشاهد بث:",
+        "message": "جاري مشاهدة تورنت:",
         "description": ""
     }
 }

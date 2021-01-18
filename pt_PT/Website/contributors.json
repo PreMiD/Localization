@@ -4,7 +4,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
-		"message": "Apoiantes",
+		"message": "Contribuidores",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
@@ -40,7 +40,7 @@
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "Moderador(a)",
+		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
@@ -56,23 +56,23 @@
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "Doador(a)",
+		"message": "Doador",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "Booster",
+		"message": "Impulsionador",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
-		"message": "Tradutor(a)",
+		"message": "Tradutor",
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Clique para copiar o ID do usuário.",
+		"message": "Clique para copiar o ID do utilizador.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "ID de usuário copiado!",
+		"message": "ID de utilizador copiado!",
 		"description": "Notification after user ID was copied."
 	}
 }

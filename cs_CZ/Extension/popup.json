@@ -91,6 +91,18 @@
 		"message": "Bez připojení k internetu!",
 		"description": "Shown when the user has no internet connection"
 	},
+	"popup.info.noInternet.message": {
+		"message": "Vypadá to, že nejsi připojen k internetu! PreMiD v momentální chvíli nemůže zobrazit Presence.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Žádné připojení k discordu!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD se nedokázal připojit k Discordu! Je nainstalovaný a zaplý? *Řešení problémů*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Vše",
 		"description": "Category name shown when you open tags"

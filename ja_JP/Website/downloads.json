@@ -104,7 +104,7 @@
 		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
-		"message": "戻る",
+		"message": "キャンセル",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
@@ -124,7 +124,7 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "私たちは広告を使用して、最高のユーザーエクスペリエンスを提供しています！\n（ダウンロードするには、右上のSkipボタンをクリックしてください。）",
+		"message": "私たちは広告を使用して、最高のユーザーエクスペリエンスを提供しています！\n（ダウンロードするには、右上のスキップボタンをクリックしてください。）",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {

@@ -1,1 +1,134 @@
-{}
+{
+	"popup.navigation.settings": {
+		"message": "Ρυθμίσεις",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "Συντελεστές",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "Ρυθμίσεις",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "Γενικά",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "Περιγραφή",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "Ενεργοποιημένο",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Στοιχεία Ελέγχου Πολυμέσων",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "Τίτλος Μενού",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "Αυτόματη εκκίνηση",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Presences",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "Διαχείριση",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "Δεν προστέθηκαν Presences",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "Ολοκληρώθηκε",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Φόρτωση Presence",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Κατάστημα Presence",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Χρειάζεστε βοήθεια;",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Ωχ όχι!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "Σφάλμα κατά τη φόρτωση μονάδων",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Δεν συνδέθηκε",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "Το PreMiD δεν μπόρεσε να συνδεθεί με την εφαρμογή! Είναι εγκατεστημένο και τρέχει; *Αντιμετώπιση προβλημάτων*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Ξεπερασμένη Εφαρμογή",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Η εφαρμογή PreMiD είναι ξεπερασμένη. Παρακαλούμε ενημερώστε την για να συνεχίσετε να χρησιμοποιείτε το PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.noInternet": {
+		"message": "Δεν υπάρχει σύνδεση στο διαδίκτυο!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Φαίνεται πως δεν έχετε σύνδεση στο διαδίκτυο! Το PreMiD δεν θα είναι σε θέση να δείξει presences αυτή τη στιγμή.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Δεν υπάρχει σύνδεση στο Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "Το PreMiD δεν μπόρεσε να συνδεθεί με την εφαρμογή Discord! Είναι εγκατεστημένο και τρέχει; *Αντιμετώπιση προβλημάτων*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "Όλα",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Άνιμε",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Μουσική",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Βιντεοπαιχνίδια",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Κοινωνικά Δίκτυα",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Βίντεο & Μεταδόσεις",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Άλλα",
+		"description": "Category name shown when you open tags"
+	}
+}

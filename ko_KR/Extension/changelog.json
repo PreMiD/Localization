@@ -1,22 +1,22 @@
 {
   "extension.2.0.new1": {
-    "message": "사용자가 직접 Presences를 추가할 수 있습니다. 한번 추가해보세요!",
+    "message": "사용자가 직접 Presences를 추가할 수 있습니다. *한번 추가해보세요!*",
     "description": ""
   },
   "extension.2.0.new2": {
-    "message": "새로운 presences를 찾아보십시오",
+    "message": "*새로운 presences* 를 찾아보십시오",
     "description": ""
   },
   "extension.2.0.new3": {
-    "message": "자동 업데이트는 이제 실행중 입니다",
+    "message": "이제 자동 업데이트가 중요한 시점입니다.",
     "description": ""
   },
   "extension.2.0.new4": {
-    "message": "이제 Presence 들을 유저가 만들수 있습니다",
+    "message": "이제 Presence 들을 유저가 만들 수 있습니다",
     "description": ""
   },
   "extension.2.0.new5": {
-    "message": "창의적인 개발자를위한 * Docs *",
+    "message": "창의적인 개발자를 위한 *Docs*",
     "description": ""
   },
   "extension.2.0.new6": {
@@ -36,15 +36,15 @@
     "description": ""
   },
   "extension.2.0.fix1": {
-    "message": "알려지지 않은 많은 버그가 사라졌습니다",
+    "message": "알려졌거나, 알려지지 않은 많은 버그가 사라졌습니다.",
     "description": ""
   },
   "extension.2.0.fix2": {
-    "message": "모든게 더욱 빨리 동작합니다",
+    "message": "모든 것이 더 빠르게 움직입니다.",
     "description": ""
   },
   "extension.2.0.1.fix1": {
-    "message": "만약에 최신 버전이 있다면 당신이 설치된 구버전은 에러로 부터 수정됩니다",
+    "message": "만약 최신 버전을 가지고 있다면, 오래된 버전의 오류를 고칠 수 있습니다.",
     "description": ""
   }
 }

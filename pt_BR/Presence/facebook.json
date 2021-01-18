@@ -8,7 +8,7 @@
         "description": ""
     },
     "facebook.userHidden": {
-        "message": "alguém... (Utilizador Anonimo)",
+        "message": "alguém... (Usuário Anônimo)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
     "facebook.writing": {
@@ -16,31 +16,31 @@
         "description": ""
     },
     "facebook.userAbout": {
-        "message": "A ler sobre o Usuario:",
+        "message": "Lendo sobre o usuário:",
         "description": ""
     },
     "facebook.userCommunity": {
-        "message": "Vizualizando comunidade de um Usuario:",
+        "message": "Visualizando comunidade de um usuário:",
         "description": ""
     },
     "facebook.userPics": {
-        "message": "Vizualizando fotos de um Usuario:",
+        "message": "Visualizando fotos de um usuário:",
         "description": ""
     },
     "facebook.userPosts": {
-        "message": "Vizualizando publicações de um Usuario:",
+        "message": "Visualizando posts de um usuário:",
         "description": ""
     },
     "facebook.userShop": {
-        "message": "Vendo a  loja de um Usuario:",
+        "message": "Visualizando loja de um usuário:",
         "description": ""
     },
     "facebook.userFriends": {
-        "message": "Vizualizando amigos de um Usuario:",
+        "message": "Visualizando amigos de um usuário:",
         "description": ""
     },
     "facebook.userVids": {
-        "message": "Vizualizando videos de um Usuario:",
+        "message": "Visualizando vídeos de um usuário:",
         "description": ""
     },
     "facebook.browse": {

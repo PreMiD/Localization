@@ -228,7 +228,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Bedankt voor het solliciteren!",
+		"message": "Bedankt voor je aanvraag!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

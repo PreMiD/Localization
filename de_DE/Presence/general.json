@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "Stöbert...",
+		"message": "Durchstöbert...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "Lesen",
+		"message": "liest",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "Suche",
+		"message": "Suchen",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -199,13 +199,33 @@
 		"message": "Betrachtet:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Betrachtet die Seite:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Schaut ein Video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Wartet auf die Premiere eines Videos",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Wartet auf die Premiere des Videos",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Schaut einen Livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Wartet auf den Start eines Livestreams",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Warte darauf, dass der Livestream startet",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Schaut:",
@@ -223,6 +243,10 @@
 		"message": "Nutzungsbedingungen",
 		"description": "A page name"
 	},
+	"general.cookie": {
+		"message": "Datenschutzerklärung",
+		"description": "A page name"
+	},
 	"general.repeatAll": {
 		"message": "Alle Lieder wiederholen",
 		"description": ""
@@ -230,5 +254,13 @@
 	"general.repeat": {
 		"message": "Auf Schleife",
 		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Störungsverlauf",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Systemverfügbarkeit",
+		"description": "A page name of statuspages"
 	}
 }

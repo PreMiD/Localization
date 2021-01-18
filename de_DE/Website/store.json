@@ -52,7 +52,7 @@
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
-		"message": "Nur hinzugefügte Presences",
+		"message": "Hinzugefügte Präsenzen anzeigen",
 		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {

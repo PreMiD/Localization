@@ -1,14 +1,1 @@
-{
-	"footer.supportus.donate": {
-		"message": "दान करें",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
-	"footer.help.troubleshooting": {
-		"message": "ट्रबलशूटिंग",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
-	"footer.more.wiki": {
-		"message": "विकी",
-		"description": "Wiki -> redirects to wiki.premid.app"
-	}
-}
+{}

@@ -1,6 +1,6 @@
 {
   "presence.playback.playing": {
-    "message": "Memutar kembali",
+    "message": "Memutar",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {

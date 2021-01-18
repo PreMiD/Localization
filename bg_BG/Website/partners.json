@@ -55,6 +55,10 @@
 		"message": "Представено на нашите социални медий.",
 		"description": "Description for the fifth benefit."
 	},
+	"partners.requirements.title": {
+		"message": "Изисквания",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "Какво търсим?",
 		"description": "Heading for the first requirement."
@@ -135,6 +139,10 @@
 		"message": "Богиня, която играе като забавен Discord бот!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM ти позволява да слушаш над 15 излъчвания на музика безплатно - нонстоп. С най-добрата и нова музика само за теб!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Пъргава локализация за тек компаний.",
 		"description": "Description for Crowdin."
@@ -176,8 +184,12 @@
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
-		"message": "друг",
+		"message": "Други",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Име",
+		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Пример: PreMiD",

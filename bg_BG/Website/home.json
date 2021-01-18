@@ -28,11 +28,11 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
-		"message": "Live\n",
+		"message": "На живо",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Сърфирането ...",
+		"message": "Разглеждане...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {

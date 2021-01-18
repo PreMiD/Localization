@@ -103,17 +103,9 @@
 		"message": "返回",
 		"description": "Back button on the ads section"
 	},
-	"downloads.button.cancel": {
-		"message": "取消",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
 	"downloads.button.okay": {
 		"message": "確定",
 		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.done": {
-		"message": "完成",
-		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "登入",

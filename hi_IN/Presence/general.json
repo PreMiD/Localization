@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "एनिमी",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "ब्राउजिंग",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "अध्याय",
 		"description": ""
@@ -37,10 +29,6 @@
 	},
 	"general.listeners": {
 		"message": "श्रोताओं",
-		"description": ""
-	},
-	"general.live": {
-		"message": "लाइव",
 		"description": ""
 	},
 	"general.manga": {
@@ -87,20 +75,12 @@
 		"message": "Reading thread:\nपढ़ना धागा:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "पढ़ना",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "इसे खोजें:",
 		"description": ""
 	},
 	"general.searchSomething": {
 		"message": "कुछ खोज रहा है...",
-		"description": ""
-	},
-	"general.search": {
-		"message": "खोज रहा है",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -195,9 +175,25 @@
 		"message": "एक वीडियो देख रहे हैं",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "प्रीमियर के लिए एक वीडियो की प्रतीक्षा की जा रही है",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "प्रीमियर के लिए एक वीडियो की प्रतीक्षा की जा रही है",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "एक लिवस्ट्रीम देखना",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "एक लिवस्ट्रीम के शुरू होने का इंतजार",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "एक लिवस्ट्रीम के शुरू होने का इंतजार",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "देख रहे:",
@@ -214,5 +210,25 @@
 	"general.terms": {
 		"message": "सेवाओं की शर्तें",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "कूकी पॉलिसी",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "सभी गाने लूपिंग",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "लूप पर",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "हादसा इतिहास",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "अपटाइम इतिहास",
+		"description": "A page name of statuspages"
 	}
 }

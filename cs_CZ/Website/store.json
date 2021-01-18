@@ -3,10 +3,6 @@
 		"message": "Rozšíření není připojeno.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Autor",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Tato Presence je velmi populární mezi uživateli.",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "Kategorie",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Vše",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Hry",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Hudba",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

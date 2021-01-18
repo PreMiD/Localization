@@ -4,35 +4,263 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "Søker...",
+		"message": "Surfer...",
 		"description": ""
 	},
 	"general.chapter": {
 		"message": "Kapittel",
 		"description": ""
 	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Redigerer:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Episode",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forumer",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Sjanger",
 		"description": ""
 	},
 	"general.language": {
 		"message": "Språk",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Hører på musikk",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Lyttere",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Direkte",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Produkt",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Side",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Stoppet",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Spiller av",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Leser Direkte Meldinger fra:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Leser om:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Leser Artikkel:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Leser i kanalen:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Leser innlegg:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Leser tråd:",
 		"description": ""
 	},
 	"general.reading": {
 		"message": "Leser",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "Søker etter:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Søker opp noe...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "Søker",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Handlekurv",
 		"description": ""
 	},
 	"general.store": {
 		"message": "Butikk",
 		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Skriver Direkte Melding til:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Skriver i kanal:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Ser animen:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Ser på kategorien:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Ser i kanalen:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Ser episode:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Ser på sjangeren:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Ser på hjemmesiden",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Ser på listen av:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Ser mangaen:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Ser på bruker:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Ser filmen:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Ser på spillelisten:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Ser på produktet:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Ser profilen til:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Ser serien:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Ser serien:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Ser på kontoen til personen",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Leser tråd:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Ser på brukeren:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Ser på:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Ser på siden:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Ser en video",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Venter på en video premiere",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Venter på video premieren",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Ser en livestream",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Venter på en at en livestream skal starte",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Vetner på at livestreamen skal starte",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Ser på:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Ønskeliste:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Personvernregler",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Vilkår for bruk og tjeneste",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Retningslinjer for informasjonskapsler",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Looper all sangene",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "På loop",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Hendelse historie",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Driftstid historikk",
+		"description": "A page name of statuspages"
 	}
 }

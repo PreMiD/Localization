@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "Szukanie",
+		"message": "Wyszukiwanie",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -199,13 +199,33 @@
 		"message": "Przegląda:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Przegląda stronę:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Ogląda film",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Oczekiwanie na premierę filmu",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Oczekiwanie na premierę filmu",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Ogląda transmisję na żywo",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Oczekiwanie na rozpoczęcie transmisji na żywo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Oczekiwanie na rozpoczęcie transmisji na żywo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Ogląda:",
@@ -223,6 +243,10 @@
 		"message": "Warunki korzystania z usług",
 		"description": "A page name"
 	},
+	"general.cookie": {
+		"message": "Polityka ciasteczek",
+		"description": "A page name"
+	},
 	"general.repeatAll": {
 		"message": "Zapętlanie wszystkich piosenek",
 		"description": ""
@@ -230,5 +254,13 @@
 	"general.repeat": {
 		"message": "Pętla włączona",
 		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Historia zdarzeń",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Historia czasu pracy",
+		"description": "A page name of statuspages"
 	}
 }

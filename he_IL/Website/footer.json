@@ -4,7 +4,7 @@
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
-		"message": "מוכן להשתמש ב PreMiD?",
+		"message": "מוכן להשתמש ב-PreMiD?",
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
@@ -46,10 +46,6 @@
 	"footer.supportus.contribute": {
 		"message": "תרום",
 		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.design": {
-		"message": "עצב",
-		"description": "Design -> redirects to discord.premid.app"
 	},
 	"footer.supportus.translate": {
 		"message": "תרגם",

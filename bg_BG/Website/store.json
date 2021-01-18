@@ -4,7 +4,7 @@
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
-		"message": "автор",
+		"message": "Автор",
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
@@ -60,7 +60,7 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "всичко\n",
+		"message": "Всички",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
@@ -68,7 +68,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.music": {
-		"message": "музика\n",
+		"message": "Музика",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

@@ -4,7 +4,7 @@
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
-		"message": "Autor(a)",
+		"message": "Autor",
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {

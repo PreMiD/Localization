@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Navegando...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Capítulo",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Gênero",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Idioma",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Ouvindo música",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Ouvintes",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Ao vivo",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Lendo tópico:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Lendo",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Procurando por:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Procurando por algo...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Buscando",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Carrinho de compras",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Loja",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -221,6 +193,10 @@
 	},
 	"general.terms": {
 		"message": "Termos de Serviço",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Política de cookies",
 		"description": "A page name"
 	}
 }

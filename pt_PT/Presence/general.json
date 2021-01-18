@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "A procurar...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Capítulo",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Género",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Língua",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "A Ouvir Música",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Ouvintes",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Em direto",
 		"description": ""
 	},
 	"general.manga": {
@@ -60,7 +44,7 @@
 		"description": ""
 	},
 	"general.paused": {
-		"message": "Pausado",
+		"message": "Em pausa",
 		"description": ""
 	},
 	"general.playing": {
@@ -91,10 +75,6 @@
 		"message": "A ler tópico:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "A ler",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "A pesquisar por:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "A pesquisar algo...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "A pesquisar",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Carrinho de compras",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Loja",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -222,5 +194,25 @@
 	"general.terms": {
 		"message": "Termos de Serviço",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Politica de cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "A repetir todas as músicas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "A repetir",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Histórico de incidentes",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Histórico de atividade",
+		"description": "A page name of statuspages"
 	}
 }

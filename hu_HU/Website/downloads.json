@@ -91,6 +91,10 @@
 		"message": "Figyelmeztetés",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
+	"downloads.warning.message.opera": {
+		"message": "A PreMiD telepítéséhez a Chrome Webáruházból telepítened kell **ezt** a bővítményt.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
 	"downloads.button.skip": {
 		"message": "Átugrás",
 		"description": "Skip button on the ads section"
@@ -100,7 +104,7 @@
 		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
-		"message": "Mégse",
+		"message": "Mégsem",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
@@ -152,7 +156,7 @@
 		"description": "Last message of the skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.showbeta.message": {
-		"message": "Beta verziók megjelenítése",
+		"message": "Béta letöltések megjelenítése",
 		"description": ""
 	},
 	"downloads.showbeta.small": {

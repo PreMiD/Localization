@@ -199,13 +199,33 @@
 		"message": "Melihat:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Melihat halaman:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Menonton video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Menunggu tayangan perdana",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Menunggu tayangan perdana",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Menonton strim langsung",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Menunggu strim langsung untuk bermula",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Menunggu strim langsung untuk bermula",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Menonton:",
@@ -222,5 +242,25 @@
 	"general.terms": {
 		"message": "Terma Perkhidmatan",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Polisi Kuki",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Gelungkan semua lagu",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Dalam gelungan",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Sejarah kejadian",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Sejarah masa hidup",
+		"description": "A page name of statuspages"
 	}
 }

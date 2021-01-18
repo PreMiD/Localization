@@ -60,7 +60,7 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "Todas",
+		"message": "Todo",
 		"description": "Category at the top"
 	},
 	"store.category.games": {

@@ -87,6 +87,22 @@
 		"message": "このPreMiDは古いバージョンです。PreMiDをアップデートしてください。",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "古い拡張機能",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "お使いのPreMiDの拡張機能は古いバージョンです。アップデートすると、最新の機能を使用できます。",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "緊急アップデート",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "緊急の拡張機能アップデートをリリースしました。PreMiDを使用し続けるには、アップデートする必要があります。",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "インターネット接続がありません。",
 		"description": "Shown when the user has no internet connection"

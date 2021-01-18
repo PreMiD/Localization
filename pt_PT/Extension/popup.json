@@ -48,7 +48,7 @@
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "Feito",
+		"message": "Concluído",
 		"description": "Done button"
 	},
 	"popup.presences.load": {

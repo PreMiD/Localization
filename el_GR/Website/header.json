@@ -2,5 +2,53 @@
   "header.language": {
     "message": "Ελληνικά",
     "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Θα θέλατε να αλλάξετε γλώσσα;",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Η ιστοσελίδα μας έχει μεταφραστεί στη γλώσσα σας. Αυτό μπορεί να σας βοηθήσει σε περίπτωση που δεν τα πάτε πολύ καλά με τα Αγγλικά.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Όχι, ευχαριστώ",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Αλλαγή γλώσσας",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Σκουπίζω και σφουγγαρίζω...;Παραγγέλνω κρέπα...;Χορεύω συρτάκι...;UwU;Τρώω παντόφλα...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Κατάστημα",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Λήψεις",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Συνεισφέροντες",
+    "description": "Contributors tab"
+  },
+  "header.lia": {
+    "message": "Συνδεδεμένος ως",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Αναφέρετε ένα bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Πίνακας Ελέγχου",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Αποσύνδεση",
+    "description": "Logout button"
   }
 }

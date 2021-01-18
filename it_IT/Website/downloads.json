@@ -104,7 +104,7 @@
 		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
-		"message": "Cancella",
+		"message": "Annulla",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
@@ -160,7 +160,7 @@
 		"description": ""
 	},
 	"downloads.showbeta.small": {
-		"message": "(non necessario se sei qui solo per scaricare la normale applicazione)",
+		"message": "(non necessario se sei qui solo per scaricare la applicazione normale)",
 		"description": "Small text under the show beta title."
 	}
 }

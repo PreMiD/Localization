@@ -1,1 +1,42 @@
-{}
+{
+	"report.title": {
+		"message": "Hibajelentés",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Jelentés maradt",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.overview": {
+		"message": "Adj egyértelmű és tömör leírást arról, hogy mi a hiba.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Válaszd ki az operációs rendszeredet és a verziót",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.button": {
+		"message": "Jelentés",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Túl sok aktív jelentésed van. Várd meg, amíg a benyújtott jelentések felülvizsgálatra kerülnek. A jelentéseket hetente ellenőrzik, légy türelmes.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Túl sok aktív jelentésed van.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Hiba Beküldve",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "További információ szükséges",
+		"description": "User needs to input more notification"
+	},
+	"report.activebugs": {
+		"message": "Aktív hibák",
+		"description": "Lists users active bugs"
+	}
+}

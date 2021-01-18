@@ -47,10 +47,6 @@
 		"message": "Đóng góp",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Thiết kế",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Dịch",
 		"description": "Translate -> redirects to locilazation page"
@@ -62,10 +58,6 @@
 	"footer.help.heading": {
 		"message": "Trợ giúp",
 		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Xử lý sự cố",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
 		"message": "Nhận trợ giúp",

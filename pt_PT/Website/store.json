@@ -3,12 +3,8 @@
 		"message": "A extensão não está conectada.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Autor(a)",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
-		"message": "Essa Presence é muito popular entre os usuários.",
+		"message": "Essa Presence é muito popular entre os utilizadores.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
@@ -59,16 +55,8 @@
 		"message": "Categorias",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Todos",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Jogos",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Música",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
@@ -76,7 +64,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Vídeos e Transmissões",
+		"message": "Vídeos e transmissões",
 		"description": "Category at the top"
 	},
 	"store.category.other": {

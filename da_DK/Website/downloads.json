@@ -19,10 +19,6 @@
 		"message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
-	"downloads.button.done": {
-		"message": "Færdig",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Tak!",
 		"description": "Title of the advertisement section box."

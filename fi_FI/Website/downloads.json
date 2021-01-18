@@ -91,6 +91,10 @@
 		"message": "Varoitus",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
+	"downloads.warning.message.opera": {
+		"message": "Sinun täytyy asentaa **tämä** laajennus voidaksesi asentaa PreMiDin Chrome Web Storesta.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
 	"downloads.button.skip": {
 		"message": "Ohita",
 		"description": "Skip button on the ads section"
@@ -119,6 +123,14 @@
 		"message": "Kiitos!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Käytämme mainoksia tukeaksemme tiimiämme ja ylläpitääksemme palvelimiamme tarjotaksemme sinulle parhaan käyttäjäkokemuksen!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Ole hyvä, ja poista mainoksenesto-ohjelmasi käytöstä.",
+		"description": "Message next to pepe."
+	},
 	"downloads.skipanyway.message1": {
 		"message": "En halua tukea.",
 		"description": "Skip anyway messages (changes everytime you click it)."
@@ -130,5 +142,25 @@
 	"downloads.skipanyway.message3": {
 		"message": "Oikeastikko?",
 		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "O-ole hyvä ja tue :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Tarvitsen sinua :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Okei, okei...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Näytä beta-versiot",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(ei tarvita, jos olet täällä vain ladataksesi normaalin sovelluksen)",
+		"description": "Small text under the show beta title."
 	}
 }

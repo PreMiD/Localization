@@ -1,1 +1,38 @@
-{}
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Προγραμματιστής των Presence",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Επαληθευτής των Presence",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Σημαντικός Προγραμματιστής των Presence",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Έχει δημιουργήσει {0} presences.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Ιδιοφυές Προγραμματιστής των Presence",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Έχει δημιουργήσει πάνω από {0} Presences!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Χρήστης [Presences/contributions]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Κάντε κλικ εδώ για να εμφανίσετε τα Presences που έχει δημιουργήσει αυτός ο χρήστης.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Κάντε κλικ εδώ για να εμφανίσετε τα presences στα οποία συνέβαλε αυτός ο χρήστης.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
+}

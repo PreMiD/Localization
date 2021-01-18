@@ -51,6 +51,10 @@
 		"message": "Manga",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "Merch",
+		"description": ""
+	},
 	"general.page": {
 		"message": "Oldal",
 		"description": ""
@@ -177,6 +181,10 @@
 	},
 	"general.terms": {
 		"message": "Felhasználási feltételek",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie irányelvek",
 		"description": "A page name"
 	}
 }

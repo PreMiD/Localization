@@ -20,15 +20,15 @@
 		"description": "Cancel, button in the modal."
 	},
 	"jobs.modal.error": {
-		"message": "Por favor complete todos os campos",
+		"message": "Por favor preencha todos os campos",
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD é um projeto open-source (código-aberto), significando que não somos um time sem fins lucrativos, toda doação ou dinheiro dado com o Patreon irá voltar para o produto. Ao se candidatar a um emprego no PreMiD, você reconhece que estará se voluntariando na equipe, você não será pago pelo seu trabalho.",
+		"message": "PreMiD é um projeto open-source, o que significa que somos um time sem fins lucrativos, toda doação ou dinheiro dado com o Patreon irá voltar para o produto. Ao se candidatar a uma posição no PreMiD, você reconhece que estará se voluntariando na equipe, você não será pago pelo seu trabalho.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
-		"message": "Entre no nosso Discord",
+		"message": "Junte-se ao nosso Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
@@ -76,7 +76,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
-		"message": "Ajude o PreMiD",
+		"message": "Apoie o PreMiD",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
@@ -84,7 +84,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
-		"message": "Tempo-fora",
+		"message": "Intervalos",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {

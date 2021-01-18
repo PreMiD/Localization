@@ -32,7 +32,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "閲覧中...",
+		"message": "閲覧中…",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {

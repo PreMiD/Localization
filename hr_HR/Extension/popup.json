@@ -15,6 +15,10 @@
 		"message": "Općenito",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
+	"popup.headings.description": {
+		"message": "Opis",
+		"description": "Title of the description area in the presence settings view."
+	},
 	"popup.setting.enabled": {
 		"message": "Uključeno",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"

@@ -1,0 +1,18 @@
+{
+	"v live.browseThrough": {
+		"message": "Смотрит через",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "новая страница видео",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "страница диаграмм",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "предстоящая страница",
+		"description": "Second part of the \"Browsing through\" string"
+	}
+}

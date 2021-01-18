@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "Membaca",
+		"message": "Bacaan",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -199,13 +199,33 @@
 		"message": "Melihat:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Melihat halaman:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Menonton video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Menunggu video untuk premiere",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Menunggu video untuk tayang perdana",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Menonton streaming langsung",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Menunggu untuk mulainya siaran langsung",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Menunggu livestream untuk mulai",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Menonton:",
@@ -222,5 +242,25 @@
 	"general.terms": {
 		"message": "Ketentuan Layanan",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Kebijakan Cookie",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Memutar ulang semua lagu",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Dalam putaran",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Riwayat insiden",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Riwayat uptime",
+		"description": "A page name of statuspages"
 	}
 }

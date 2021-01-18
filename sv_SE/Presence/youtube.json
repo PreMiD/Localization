@@ -27,6 +27,10 @@
         "message": "Söker igenom kanal: {0} efter:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.trending": {
+        "message": "Visar vad som är trendigt",
+        "description": ""
+    },
     "youtube.browsingThrough": {
         "message": "Bläddrar igenom",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
@@ -49,6 +53,10 @@
     },
     "youtube.reportHistory": {
         "message": "Visar deras rapporthistorik",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Laddar upp något...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {

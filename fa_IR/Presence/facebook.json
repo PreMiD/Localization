@@ -19,6 +19,10 @@
         "message": "خواندن درباره کاربر:",
         "description": ""
     },
+    "facebook.userCommunity": {
+        "message": "مشاهده انجمن کاربر:",
+        "description": ""
+    },
     "facebook.userPics": {
         "message": "نگاه کردن تصاویر توسط کاربر:",
         "description": ""

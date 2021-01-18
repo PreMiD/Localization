@@ -1,6 +1,6 @@
 {
 	"store.message.error": {
-		"message": "확장 프로그램이 연결되지 않았습니다.",
+		"message": "익스텐션이 연결되지 않았습니다.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
@@ -8,7 +8,7 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "이 Presence는 사용자들 중 가장 인기있는 Presence입니다.",
+		"message": "이 Presence는 사용자들에게 가장 인기있는 Presence입니다.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
@@ -44,7 +44,7 @@
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "성인용 콘텐츠 보기",
+		"message": "NSFW 보이기",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
@@ -60,7 +60,7 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "모두",
+		"message": "전체",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
@@ -72,7 +72,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "소셜",
+		"message": "SNS",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
@@ -88,7 +88,7 @@
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
-		"message": "입력 or 확인",
+		"message": "입력",
 		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {

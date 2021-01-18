@@ -1,6 +1,6 @@
 {
 	"popup.navigation.settings": {
-		"message": "Options",
+		"message": "Réglages",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
@@ -87,12 +87,28 @@
 		"message": "Votre application PreMiD est obsolète. Veuillez la mettre à jour afin de continuer à utiliser PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Extension obsolète",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Votre Extension est obsolète. Veuillez la mettre à jour pour obtenir les dernières fonctionnalités en la téléchargeant depuis notre site.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Mise à jour urgente",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Nous avons publié une mise à jour urgente pour l'extension. Veuillez la mettre à jour afin de continuer à utiliser PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Pas de connexion internet !",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Il semble que vous n'avez pas de connexion internet ! PreMiD ne sera pas en mesure de montrer des presences pour le moment.",
+		"message": "Il semble que vous n'avez pas de connexion internet ! PreMiD ne sera pas en mesure de montrer de Presences pour le moment.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {

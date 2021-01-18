@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "アニメ",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "閲覧中...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "チャプター",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "ジャンル",
 		"description": ""
 	},
-	"general.language": {
-		"message": "言語",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "音楽を再生中",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "リスナー",
-		"description": ""
-	},
-	"general.live": {
-		"message": "ライブ",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "スレッドを閲覧中:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "閲覧中",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "検索中:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "何かを検索中...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "検索中",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "ショッピングカート",
-		"description": ""
-	},
-	"general.store": {
-		"message": "ストア",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -203,9 +175,25 @@
 		"message": "動画を視聴中",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "動画の公開を待機中",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "動画の公開を待機中",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "ライブを視聴中",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "ライブの開始を待機中",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "ライブの開始を待機中",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "視聴中:",
@@ -222,5 +210,25 @@
 	"general.terms": {
 		"message": "利用規約",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie のポリシー",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "プレイリストをループ中",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "ループ中",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "問題の履歴",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "アップタイム履歴",
+		"description": "A page name of statuspages"
 	}
 }

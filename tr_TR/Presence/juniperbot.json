@@ -1,1 +1,6 @@
-{}
+{
+    "juniperbot.mainpage": {
+        "message": "Ana sayfa",
+        "description": "Home page of the site"
+    }
+}

@@ -7,10 +7,6 @@
 		"message": "Kuvaus",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Muutokset",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Informaatio",
 		"description": "The title of the information section."

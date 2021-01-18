@@ -15,48 +15,28 @@
 		"message": "Начална страница",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "Сътрудници",
+	"premid.pageInstallFor": {
+		"message": "Инсталация за {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageApiVersion": {
+		"message": "Разбира v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Насоки за присъствията",
 		"description": "A page name"
 	},
-	"premid.pageDownloads": {
-		"message": "Downloads",
+	"premid.pageIframe": {
+		"message": "Разбира iframe",
 		"description": "A page name"
 	},
-	"premid.pageStore": {
-		"message": "магазин",
+	"premid.pageMetadata": {
+		"message": "Конфигурира metadata.json",
 		"description": "A page name"
 	},
-	"premid.partners": {
-		"message": "Партньори",
-		"description": "A page name"
-	},
-	"premid.pageCookies": {
-		"message": "Политика на бисквитките",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Политика за защита на личните данни",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Условия за Ползване",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "За PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "Инсталация",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Отстраняване на неизправности",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "Първи стъпки",
+	"premid.pageTs": {
+		"message": "Конфигурира TypeScript",
 		"description": "A page name"
 	}
 }

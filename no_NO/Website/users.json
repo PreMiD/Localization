@@ -1,10 +1,38 @@
 {
+	"user.roles.presenceDeveloper": {
+		"message": "Utvidelse Utvikleren",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Utvidelsen's verifiserer",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Viktig Utvidelses Utvikler",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
 	"user.importantPresenceDev.message2": {
-		"message": "Laget {0} presences.",
+		"message": "Lagde {0} presences.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Smarteste utvidelse utvikler",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Laget over 100 presences!",
+		"message": "Lagde over 100 presences!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Bruker (utvidelse/hjelp)",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Klikk her for å vise utvidelsen denne brukeren har lagd.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Klikk her for å se utvidelser denne brukeren har hjulpet med å lage.",
+		"description": "Tippy content (mode 2) in user profile."
 	}
 }

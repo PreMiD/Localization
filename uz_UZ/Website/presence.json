@@ -3,10 +3,6 @@
 		"message": "Tavsifi",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "O'zgarishlar",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Ma `lumot",
 		"description": "The title of the information section."

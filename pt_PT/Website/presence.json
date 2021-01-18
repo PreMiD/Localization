@@ -7,16 +7,12 @@
 		"message": "Descrição",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Registo de alterações",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Informação",
 		"description": "The title of the information section."
 	},
 	"presence.sections.information.author": {
-		"message": "Autor(a)",
+		"message": "Autor",
 		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
 	},
 	"presence.sections.information.version": {

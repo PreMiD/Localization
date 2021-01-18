@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partneři",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Připoj se ke skupině a získej některé výhody pouze pro partnery, abys ukázali, kolik swagu máš.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Budete sdíleni na našich sociálních médiích.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Požadavky",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Co přesně hledáme?",
@@ -170,14 +162,6 @@
 	"partners.apply.select.website": {
 		"message": "Webová stránka",
 		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Ostatní",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Jméno",
-		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Příklad: PreMiD",

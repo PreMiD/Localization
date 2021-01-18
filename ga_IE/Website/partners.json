@@ -2,9 +2,5 @@
 	"partners.apply.select.website": {
 		"message": "Láithreáin ghréasáin",
 		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Eile",
-		"description": "Select 'Other' category."
 	}
 }

@@ -188,7 +188,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "応募していただき、ありがとうございます！",
+		"message": "応募していただきありがとうございます！",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

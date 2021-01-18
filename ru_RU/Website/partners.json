@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Партнеры",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Присоединяйтесь к фаму и получите некоторые преимущества только для партнеров, чтобы показать сколько у вас хватает.",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Размещено в наших социальных сетях.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Требования",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Что вы ищете?",
@@ -139,6 +131,10 @@
 		"message": "Богиня, которая играет как забавный бот-Дискорд!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM - это платформа, которая транслирует для вас лучшую и новейшую музыку, где вы можете слушать более 15 музыкальных потоков бесплатно и без перерыва!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Гибкая локализация для технологических компаний.",
 		"description": "Description for Crowdin."
@@ -179,14 +175,6 @@
 		"message": "Сайт",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Прочее",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Наименование",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Старый: PreMiD",
 		"description": "Name field's placeholder."
@@ -222,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Подать",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Спасибо, что подали заявку!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Пожалуйста, заполните все поля.",

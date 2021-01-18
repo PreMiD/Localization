@@ -4,7 +4,7 @@
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
-		"message": "Müəllif",
+		"message": "Yaradıcı",
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
@@ -68,7 +68,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.music": {
-		"message": "Musiqi",
+		"message": "Mahnı",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

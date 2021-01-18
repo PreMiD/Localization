@@ -31,18 +31,6 @@
 		"message": "Mitra",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "Kebijakan Cookie",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Kebijakan pribadi",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Ketentuan Layanan",
-		"description": "A page name"
-	},
 	"premid.pageAbout": {
 		"message": "Tentang PreMiD",
 		"description": "A page name"
@@ -55,8 +43,12 @@
 		"message": "Instalasi",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "Instalasi untuk {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
-		"message": "Pemecahan masalah",
+		"message": "Pemecahan Masalah",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
@@ -67,12 +59,28 @@
 		"message": "API",
 		"description": "A page name"
 	},
+	"premid.pageApiVersion": {
+		"message": "Memahami API v{0}",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
 	"premid.pagePresenceDev": {
 		"message": "Pengembangan Presence",
 		"description": "A page name"
 	},
-	"premid.pagePresenceClass": {
-		"message": "Kelas Presensi",
+	"premid.pagePresenceGuide": {
+		"message": "Panduan Presence",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Memahami iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Mengatur metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Mengatur TypeScript",
 		"description": "A page name"
 	}
 }

@@ -15,48 +15,8 @@
 		"message": "首页",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "贡献者",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "下载",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Presence 市场",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "合作伙伴",
-		"description": "A page name"
-	},
-	"premid.pageCookies": {
-		"message": "Cookie 政策",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "隐私条款",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "服务条款",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "关于 PreMiD",
-		"description": "A page name"
-	},
 	"premid.pageSysReq": {
 		"message": "系统要求",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "安装",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "疑难解答",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
@@ -69,10 +29,6 @@
 	},
 	"premid.pagePresenceDev": {
 		"message": "Presence 开发",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Presence 类",
 		"description": "A page name"
 	}
 }

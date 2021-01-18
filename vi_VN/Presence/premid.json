@@ -14,57 +14,5 @@
 	"premid.pageHome": {
 		"message": "Trang chủ",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "Người đóng góp",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Tải về",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Cửa hàng",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Đối tác",
-		"description": "A page name"
-	},
-	"premid.pageCookies": {
-		"message": "Chính sách về Cookie",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Chính sách bảo mật",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Điều khoản sử dụng",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "Về PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "Những yêu cầu hệ thống",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Xử lý sự cố",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "Bắt đầu",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Lớp hiện diện",
-		"description": "A page name"
 	}
 }

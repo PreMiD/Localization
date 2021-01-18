@@ -3,10 +3,6 @@
 		"message": "插件尚未連接",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "作者",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "這個Presence非常受我們用戶歡迎",
 		"description": "Presence card popular flame"
@@ -59,16 +55,8 @@
 		"message": "類別",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "全部",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "遊戲",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "音樂",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

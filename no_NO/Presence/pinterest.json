@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Ser samling:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Ser på en Pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Ser på deres følgere",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Redigerer hjemmesiden sin",
+        "description": ""
+    }
+}

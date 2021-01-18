@@ -4,7 +4,7 @@
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
 	"store.cards.creator": {
-		"message": "Penulis",
+		"message": "Pembuat",
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
@@ -32,7 +32,7 @@
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
-		"message": "Presence ini otomatis nyala saat mengunjungi halaman.",
+		"message": "Presence ini otomatis nyala saat mengunjungi situs.",
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
@@ -48,7 +48,7 @@
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "Khusus Presence yang disukai",
+		"message": "Tampilkan Presence yang disukai",
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {

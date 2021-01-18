@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Аниме",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Смотрит...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Глава",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Жанр",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Язык",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Слушает музыку",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Слушатели",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Прямой эфир",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Читает темы:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Читать",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Ищет:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Ищет что-нибудь...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Искать",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Корзина",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Магазин",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -203,9 +175,25 @@
 		"message": "Просмотр видео",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "В ожидании премьеры видео",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "В ожидании премьеры видео",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Смотрит трансляцию",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Ожидается, что прямая трансляция начнется",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Ожидается, что прямая трансляция начнется",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Смотрит:",
@@ -222,5 +210,25 @@
 	"general.terms": {
 		"message": "Пользовательское соглашение",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Зацикливание всех песен",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "В петле",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "История инцидентов",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "История рабочего времени",
+		"description": "A page name of statuspages"
 	}
 }

@@ -16,7 +16,7 @@
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
-		"message": "Deskripsi",
+		"message": "Keterangan",
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
@@ -40,11 +40,11 @@
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
-		"message": "Atur",
+		"message": "Mengelola",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Tidak ada presences yang ditambahkan",
+		"message": "Tidak ada presence yang ditambahkan",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -68,7 +68,7 @@
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "Kesalahan memuat kredit",
+		"message": "Kesalahan saat memuat kredit",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
@@ -76,16 +76,32 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD tidak dapat menghubungi aplikasi! Sudahkah PreMiD terpasang dan berjalan? *Troubleshooting*",
+		"message": "PreMiD tidak dapat terhubung ke aplikasi! Sudahkah PreMiD terpasang dan berjalan? *Troubleshooting*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "App Usang",
+		"message": "Aplikasi Usang",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "PreMiD kamu belum diperbarui. Mohon melakukan pembaruan untuk lanjut menggunakan PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Ekstensi Kedaluwarsa",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Ekstensi kamu telah kedaluwarsa. Harap perbarui untuk mendapatkan fitur-fitur terbaru dengan mengunduhnya dari situs kami.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Perbaruan mendesak",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Kami merilis pembaruan mendesak untuk ekstensi. Harap perbarui untuk melanjutkan menggunakan PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
 		"message": "Tidak ada koneksi internet!",
@@ -100,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD tidak bisa terhubung ke aplikasi Discord! Sudahkah terinstal dan berjalan?\n*Troubleshooting*",
+		"message": "PreMiD tidak bisa terhubung ke aplikasi Discord! Sudahkah PreMiD terinstal dan berjalan?\n*Troubleshooting*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {

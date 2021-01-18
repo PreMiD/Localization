@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Prochází...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Kapitola",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Žánr",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Jazyk",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Poslouchá hudbu",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Posluchači",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Živě",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Čtení vlákna:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Čte",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Vyhledávání:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Něco vyhledávám...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Vyhledává",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Nákupní košík",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Obchod",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -221,6 +193,10 @@
 	},
 	"general.terms": {
 		"message": "Podmínky služby",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Zásady používání souborů cookie",
 		"description": "A page name"
 	}
 }

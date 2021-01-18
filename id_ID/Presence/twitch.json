@@ -1,0 +1,122 @@
+{
+	"twitch.downloads": {
+		"message": "Unduhan",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.esports": {
+		"message": "Melihat Esport...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Melihat tim:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Melihat Inventaris Drop...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Melihat pengaturan mereka...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Melihat teman mereka...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Melihat langganan mereka...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Menonton Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Memoderasi streamer:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Menukar kode...",
+		"description": ""
+	},
+	"twitch.channelAnaly": {
+		"message": "Analisis Channel",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Ringkasan Stream",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Penghargaan",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Aktivitas Komunitas",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Daftar Pengikut",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Kumpulan Video",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clips",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Pengaturan Channel",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Pengaturan Moderasi",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Pengaturan Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.extensions": {
+		"message": "Melihat Ekstensi",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Membaca tentang Twitch Brand...",
+		"description": ""
+	},
+	"twitch.blogs": {
+		"message": "Blog Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Melihat Arsip Blog {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Menelusuri postingan blog terbaru...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Pusat Bantuan",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Melihat topik:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Menelusuri katalog topik...",
+		"description": ""
+	},
+	"twitch.dev": {
+		"message": "Twitch Developers",
+		"description": "Page name"
+	}
+}

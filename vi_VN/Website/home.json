@@ -23,18 +23,6 @@
 		"message": "{0} trôi qua",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Đang phát",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Trực tiếp",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Đang duyệt...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Bạn sẽ yêu thích những tính năng này!",
 		"description": "Features section"
@@ -78,10 +66,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Có gì đó trục trặc, gửi cho bạn hàng đống lỗi hoặc đơn giản là không hoạt động? Chúng tôi sẽ giúp bạn loại bỏ những vấn đề đó trên máy chủ Discord của chúng tôi, chúng tôi cũng tạo ra hệ thống để đảm bảo vấn đề của bạn được giải quyết một cách nhanh nhất.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Tham gia Discord của chúng tôi",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Ngôn ngữ website",

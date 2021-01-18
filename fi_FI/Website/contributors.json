@@ -11,6 +11,30 @@
 		"message": "Kääntäjät",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Projektin johtaja",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Henkilökunnan koordinaattori",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Markkinoinnin johtaja",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Ylläpitäjä",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Tarkistaja",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Kehittäjä",
+		"description": "'Developer' title for contributors and user pages."
+	},
 	"contributors.roles.designer": {
 		"message": "Suunnittelija",
 		"description": "'Designer' title for contributors and user pages."
@@ -22,6 +46,14 @@
 	"contributors.roles.supportAgent": {
 		"message": "Tukiagentti",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Edustaja",
+		"description": "'Representative' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Oikolukija",
+		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
 		"message": "Lahjoittaja",

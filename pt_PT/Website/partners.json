@@ -1,14 +1,10 @@
 {
-	"partners.header.title": {
-		"message": "Parceiros",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Junte-se ao pessoal e obtenha alguns benefícios exclusivos de parceiros para mostrar quanto swag tem.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Estes já pertencem a nós",
+		"message": "Estes já nos pertencem a nós",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -24,11 +20,11 @@
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
-		"message": "Torne-se verificado",
+		"message": "Torna-te verificado",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Um cargo especial e uma grande horra serão-lhe dadas no nosso servidor de Discord.",
+		"message": "Um cargo especial e uma grande honra ser-te-ão dados no nosso servidor de Discord.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
@@ -55,10 +51,6 @@
 		"message": "Destacado em nossas redes sociais.",
 		"description": "Description for the fifth benefit."
 	},
-	"partners.requirements.title": {
-		"message": "Requisitos",
-		"description": "Heading for the requirements."
-	},
 	"partners.requirements.first.title": {
 		"message": "O que estamos a procurar?",
 		"description": "Heading for the first requirement."
@@ -68,15 +60,15 @@
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
-		"message": "O nosso firewall",
+		"message": "Os nossos requisitos",
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "De momento, aceitamos vários tipos de esforço no nosso programa de parceria. Qualquer um deve ter a oportunidade de ser notado. Os tarnsmissores da Twitch devem ter pelo menos 500 seguidores e pelo menos 10 espetadores simultâneos. Você deve transmitir pelo menos 1 vez por semana.",
+		"message": "De momento, aceitamos vários tipos de esforço no nosso programa de parceria. Qualquer um deve ter a oportunidade de ser notado. Os transmissores da Twitch devem ter pelo menos 500 seguidores e pelo menos 10 espetadores simultâneos. Você deve transmitir pelo menos 1 vez por semana.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "Inscreva-se já!",
+		"message": "Inscreve-te já!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
@@ -132,12 +124,16 @@
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "Comunique-se facilmente com o status em tempo real aos seus usuários.",
+		"message": "Comunique-se facilmente com o status em tempo real aos seus utilizadores.",
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.erisly": {
 		"message": "Uma deusa que joga como um divertido Bot do Discord!",
 		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "O REYFM permite-te ouvir mais de 15 categorias de música grátis e sem parar. Com a melhor e mais recente música só para ti!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Solução de localização ágil para empresas de tecnologia.",
@@ -179,14 +175,6 @@
 		"message": "Website",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "Outro",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Nome:",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
 		"description": "Name field's placeholder."
@@ -222,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Aplicar",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Obrigado por se candidatar!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Por favor, preencha todos os campos.",

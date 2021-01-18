@@ -1,1 +1,46 @@
-{}
+{
+	"store.search.notFound": {
+		"message": "Δεν μπορέσαμε να βρούμε αυτό το \"Presence\"...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Συγνώμη, δεν μπορέσαμε να βρούμε αυτή τη σελίδα.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Ψάχνετε για ένα ανύπαρκτο ή διαγεγραμμένο Presence.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Παρουσιάστηκε εσωτερικό σφάλμα διακομιστή.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Λεπτομέρειες",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Επιστροφή στην αρχική σελίδα",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Αυτός ο χρήστης δεν βρέθηκε. Προσπαθήστε να βεβαιωθείτε",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "ότι το ID του Χρήστη που αναζητάτε είναι σωστό.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "ότι ο χρήστης έχει δημιουργήσει αρκετά Presences και έχει τον ρόλο \"Presence Developer\" στον διακομιστή μας στο Discord.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "αν άλλοι έχουν το ίδιο πρόβλημα στον διακομιστή μας στο Discord.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Αν πιστεύετε ότι έγινε λάθος, παρακαλούμε επικοινωνήστε μαζί μας στον [Discord διακομιστή μας].",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}

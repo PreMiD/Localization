@@ -20,7 +20,7 @@
 		"description": "A page name"
 	},
 	"premid.pageDownloads": {
-		"message": "Hämtningar",
+		"message": "Nedladdningar",
 		"description": "A page name"
 	},
 	"premid.pageStore": {
@@ -28,19 +28,7 @@
 		"description": "A page name"
 	},
 	"premid.partners": {
-		"message": "Partners",
-		"description": "A page name"
-	},
-	"premid.pageCookies": {
-		"message": "Cookie Policy",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Sekretesspolicy",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Användarvillkor",
+		"message": "Samarbetspartners",
 		"description": "A page name"
 	},
 	"premid.pageAbout": {
@@ -55,6 +43,10 @@
 		"message": "Installation",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "Installation för {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Felsökning",
 		"description": "A page name"
@@ -67,12 +59,24 @@
 		"message": "API",
 		"description": "A page name"
 	},
-	"premid.pagePresenceDev": {
-		"message": "Presence Utveckling",
+	"premid.pageApiVersion": {
+		"message": "Förståelse för v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Bildspelsklass",
 		"description": "A page name"
 	},
-	"premid.pagePresenceClass": {
-		"message": "Närvaro Klass",
+	"premid.pageIframe": {
+		"message": "Förståelse för iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Konfigurerar metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Konfigurerar TypeScript",
 		"description": "A page name"
 	}
 }

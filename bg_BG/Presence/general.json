@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Аниме",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Сърфирането ...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Глава",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Жанр",
 		"description": ""
 	},
-	"general.language": {
-		"message": "език",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Слуша музика",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Слушатели",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Live\n",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Чете тема:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "четене",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Търси за:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Търси нещо...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "изпитателен",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Кошница",
-		"description": ""
-	},
-	"general.store": {
-		"message": "магазин",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -203,9 +175,25 @@
 		"message": "Гледа видео",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Чака за предаване на видео",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Чака за предаването на видео",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Гледа предаване на живо",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Чака за предаване на живо да започне",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Чака за предаването на живо да започне",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Гледа:",
@@ -222,5 +210,25 @@
 	"general.terms": {
 		"message": "Условия за Ползване",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика на бисквитките",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Превърта всички песни",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "На завъртане",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "История на инциденти",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "История на ъптайм",
+		"description": "A page name of statuspages"
 	}
 }

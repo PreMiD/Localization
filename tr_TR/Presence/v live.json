@@ -1,0 +1,30 @@
+{
+	"v live.browseThrough": {
+		"message": "Araştırıyor",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "yeni videolar sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Takip ettiklerininin son yüklemelerine göz atıyor {0}",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.purchases": {
+		"message": "son satın alınanlar",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "bağlı cihazlar",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "takip edilen kanallar",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Politikaları okuyor",
+		"description": ""
+	}
+}

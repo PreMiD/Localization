@@ -1,10 +1,10 @@
 {
   "extension.description.short": {
-    "message": "PreMiD adds Discord Rich Presence integration, media controls and much more to your beloved services.",
+    "message": "웹 서비스를 위한 당신의 Rich Presence!",
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "저희의 공식 앱을 설치하셔야 PreMid 사용이 가능합니다.\n{0} {1}\n사용자분은 미디어 키를 사용하여 영상 조작이 가능합니다. 만약 사용자분이 저희가 지원하는 서비스에서 무언가를 시청/들으시면, Chrome 또는 Firefox의 웹 애플리케이션이 PreMid 데스크탑 클라이언트에게 정보를 전송하고 그 정보를 PreMid 데스크탑 클리이언트가 Discord에게 정보를 전송합니다.\n지원되는 서비스\n{2} 이것도 읽어 보세요! {3}\n\n도움이 필요하신가요?\n{4} {5}\n\n저희의 공식 Discord 서버\n{6} PreMid 뒤 개발 과정에 있는 사람들에게 이야기해보세요 {7}\n\n저희는 오픈소스 입니다.\n{9} 좋은 정보는 사용자들에게 공개되어야 좋겠죠 {10}",
+    "message": "저희의 공식 앱을 설치하셔야 PreMiD 사용이 가능합니다.\n{0} {1}\n사용자분은 미디어 키를 사용하여 영상 조작이 가능합니다. 만약 사용자분이 저희가 지원하는 서비스에서 무언가를 시청/들으시면, Chrome 또는 Firefox의 웹 애플리케이션이 PreMiD 데스크탑 클라이언트에게 정보를 전송하고 그 정보를 PreMiD 데스크탑 클리이언트가 Discord에게 정보를 전송합니다.\n지원되는 서비스\n{2} 이것도 읽어 보세요! {3}\n\n도움이 필요하신가요?\n{4} {5}\n\n저희의 공식 Discord 서버\n{6} PreMiD 를 만들어나가는 사람들과 이야기해보세요 {7}\n\n저희는 오픈소스 입니다.\n{9} 좋은 정보는 사용자들에게 공개되어야 좋겠죠 {10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

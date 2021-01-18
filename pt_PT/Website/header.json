@@ -1,14 +1,14 @@
 {
   "header.language": {
-    "message": "Português (Portugal)",
+    "message": "Português",
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Nós damos suporte à tua língua, queres trocar?",
+    "message": "O teu idioma está disponível, queres trocar?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "O nosso website foi traduzido para a tua língua. Pode vir a ser útil se não perceberes inglês muito bem.",
+    "message": "O nosso site foi traduzido para o teu idioma. Pode vir a ser útil se não perceberes inglês muito bem.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Trocar de língua",
+    "message": "Trocar de idioma",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
@@ -32,12 +32,8 @@
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "Contribuidores(as)",
+    "message": "Contribuidores",
     "description": "Contributors tab"
-  },
-  "header.login": {
-    "message": "Login",
-    "description": "Login Button"
   },
   "header.lia": {
     "message": "Conectado como",

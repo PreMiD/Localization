@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "动漫",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "浏览中...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "章节",
 		"description": ""
@@ -23,16 +15,8 @@
 		"message": "类型",
 		"description": ""
 	},
-	"general.language": {
-		"message": "语言",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "正在听音乐",
-		"description": ""
-	},
-	"general.live": {
-		"message": "直播",
 		"description": ""
 	},
 	"general.manga": {
@@ -55,10 +39,6 @@
 		"message": "正在播放",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "阅读中",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "正在搜索：",
 		"description": ""
@@ -67,16 +47,8 @@
 		"message": "正在搜索个东西...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "搜索中",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "购物车",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Presence 市场",
 		"description": ""
 	},
 	"general.viewAnime": {
@@ -89,6 +61,10 @@
 	},
 	"general.terms": {
 		"message": "服务条款",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie 政策",
 		"description": "A page name"
 	}
 }

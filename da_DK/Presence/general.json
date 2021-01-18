@@ -1,34 +1,218 @@
 {
-	"general.anime": {
-		"message": "Anime",
+	"general.chapter": {
+		"message": "Kapitel",
 		"description": ""
 	},
-	"general.browsing": {
-		"message": "Søger...",
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Redigerer:",
 		"description": ""
 	},
 	"general.episode": {
 		"message": "Episode",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Sprog",
-		"description": "For choosing a language"
-	},
-	"general.live": {
-		"message": "Live",
+	"general.forums": {
+		"message": "Fora",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Læsning",
+	"general.genre": {
+		"message": "Genre",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Søger",
+	"general.listeningMusic": {
+		"message": "Lytter til musik",
 		"description": ""
 	},
-	"general.store": {
-		"message": "Butik",
+	"general.listeners": {
+		"message": "Lyttere",
 		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Merch",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Side",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Sat på pause",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Afspiller",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Læser DMs fra:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Læser om:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Læser artikel:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Læser i kanal:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Læser indlæg:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Læser tråd:",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Søger efter:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Søger efter noget...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Indkøbskurv",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Skriver i DMs til:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Skriver i kanal:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Visning af anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Visning af kategori:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Visning af kanal:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Ser episode:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Visning af genre:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Visning af startsiden",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Visning af liste over:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Kigger på manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Kigger på medlem:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Ser film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Ser afspilningsliste:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Kigger på produkt:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Kigger på profil for:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Ser serier:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Ser show:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Kigger på deres konto",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Kigger på tråd:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Kigger på bruger:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Kigger på:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Ser en video",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Ser en livestream",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "Ser:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Ønskeliste:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Fortrolighedspolitik",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Servicevilkår",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookiepolitik",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Gentager alle sange",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Gentages",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Hændelseshistorik",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Oppetidshistorik",
+		"description": "A page name of statuspages"
 	}
 }

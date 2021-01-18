@@ -15,64 +15,8 @@
 		"message": "Домашня сторінка",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "Учасники проекту",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Завантаження",
-		"description": "A page name"
-	},
 	"premid.pageStore": {
 		"message": "Крамниця",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Партнери",
-		"description": "A page name"
-	},
-	"premid.pageCookies": {
-		"message": "Політика використання Cookie",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Політика конфіденційності",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Умови обслуговування",
-		"description": "A page name"
-	},
-	"premid.pageAbout": {
-		"message": "Про PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageSysReq": {
-		"message": "Системні вимоги",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "Установлення",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Вирішення проблем",
-		"description": "A page name"
-	},
-	"premid.pageStart": {
-		"message": "З чого почати",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
-	},
-	"premid.pagePresenceDev": {
-		"message": "Розробка присутності",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Клас присутності",
 		"description": "A page name"
 	}
 }

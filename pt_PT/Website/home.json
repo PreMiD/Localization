@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** é um utilitário simples e configurável que permite mostrar o que você está fazendo na web no seu status de jogo no Discord.",
+		"message": "**PreMiD** é uma ferramenta simples e configurável que te permite mostrar o que estás a fazer na internet no teu estado do Discord.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -23,24 +23,16 @@
 		"message": "{0} decorrido(s)",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "A tocar",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.examples.status.live": {
-		"message": "Em direto",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "A procurar...",
+		"message": "Ao vivo",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
-		"message": "Você vai adorar estes recursos!",
+		"message": "Vais adorar estas funcionalidades!",
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Encontre **sua** presença",
+		"message": "Encontra **sua** presença",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
@@ -60,7 +52,7 @@
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": "Configurações de Aplicativo e Extensão",
+		"message": "Configurações para a aplicação e a extensão",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
@@ -78,10 +70,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Algo está avariado, enviando-lhe toneladas de erros ou simplesmente não funciona? Vamos ajudá-lo a livrar-se desses problemas no nosso servidor do Discord, também criamos o nosso próprio sistema de suporte que irá garantir que o problema fique resolvido o mais rápido possível.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Entra no nosso servidor de Discord",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Idioma do Site",

@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "مرور کردن...",
+		"message": "گشتن...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -44,7 +44,7 @@
 		"description": ""
 	},
 	"general.live": {
-		"message": "زنده",
+		"message": "پخش زنده",
 		"description": ""
 	},
 	"general.manga": {
@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "در حال خواندن",
+		"message": "در‌حال خواندن",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -199,13 +199,33 @@
 		"message": "دیدن:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "مشاهده صفحه:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "نگاه کردن ویدیو",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "انتظار برای نمایش یک ویدیو",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "انتظار برای نمایش ویدیو",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "نگاه کردن پخش زنده",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "انتظار برای شروع یک پخش‌زنده",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "انتظار برای شروع پخش‌زنده",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "نگاه کردن:",
@@ -222,5 +242,25 @@
 	"general.terms": {
 		"message": "شرایط خدمات",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "سیاست کوکی‌ ها",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "تکرار کردن همه آهنگ‌ها",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "روی تکرار",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "تاریخچه وقایع",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "تاریخچه مدت فعالیت",
+		"description": "A page name of statuspages"
 	}
 }

@@ -1,14 +1,110 @@
 {
+	"footer.language": {
+		"message": "ভাষা",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "PreMiD ব্যবহার করার জন্য প্রস্তুত?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "জয়েন করো {0} ইউজারের সাথে আজকে!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "ইনস্টল",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "সহযোগী",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "ফলো করো আমাদের",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "ডেভেলপার",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "ডকুমেন্টেশন",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "সহযোগিতা করো আমাদের",
+		"description": "Support us section"
+	},
 	"footer.supportus.donate": {
-		"message": "টাকা দেন",
+		"message": "ডোনেট করো",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
+	"footer.supportus.contribute": {
+		"message": "কনট্রিবিউট করো",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "অনুবাদ করো",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "কাজ করো আমাদের সাথে!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "সাহায্য",
+		"description": "Help section"
+	},
 	"footer.help.troubleshooting": {
-		"message": "সমস্যা দূর করা",
+		"message": "সমস্যা সমাধান",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "সাহায্য নাও",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "তথ্য",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "কুকিস",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "প্রাইভেসি",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "শর্তাবলী",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "আরো",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "স্ট্যাটাস",
+		"description": "Status -> redirects to status.premid.app"
 	},
 	"footer.more.wiki": {
 		"message": "উইকি",
 		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} {1} দ্বারা",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "ওয়েবসাইটটি মেইনটেইন করা হচ্ছে {0} দ্বারা",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "এখানে ক্লিক করো আমাদের বাকি পার্টনার এবং স্পন্সরদের দেখতে।",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

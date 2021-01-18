@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Аніме",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Дивиться...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Розділ",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Жанр",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Мова",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Слухає музику",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Слухачів",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Наживо",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Читає потоків ",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Читання",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Шукає ",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Шукає що-небудь...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Пошук",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Кошик замовлень",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Магазин",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -221,6 +193,10 @@
 	},
 	"general.terms": {
 		"message": "Умови обслуговування",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Політика використання Cookie",
 		"description": "A page name"
 	}
 }

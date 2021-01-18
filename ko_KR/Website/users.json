@@ -23,8 +23,16 @@
 		"message": "100개 넘은 Presence를 제작함!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.switch.contributed": {
+		"message": "사용자 [Presence/도움주신 분들]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "이 사용자가 만든 Presence 들을 확인하려면 클릭하세요.",
+		"description": "Tippy content in user profile."
+	},
 	"user.presences.contributed": {
-		"message": "이 사용자가 도움준 Presence를 보려면 이곳을 클릭하세요.",
+		"message": "이 사용자가 도움을 준 Presence 를 보려면 클릭하세요.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

@@ -3,10 +3,6 @@
         "message": "正在閲讀：",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "正在檢視他們的私訊",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "正在閱讀 <handle> 的 Tweets",
         "description": ""

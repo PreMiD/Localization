@@ -8,7 +8,7 @@
 		"description": "The title of the description section."
 	},
 	"presence.sections.changelog.title": {
-		"message": "Дневник на промените",
+		"message": "Промени",
 		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {

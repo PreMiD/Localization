@@ -139,6 +139,10 @@
 		"message": "Une déesse qui joue le rôle d'un drôle de bot Discord !",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM vous permet d'écouter plus de 15 flux de musique gratuitement - sans interruption. Avec la meilleure et la dernière musique rien que pour vous !",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Localisation agile pour les entreprises technologiques.",
 		"description": "Description for Crowdin."
@@ -180,7 +184,7 @@
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
-		"message": "Autres",
+		"message": "Autre",
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {

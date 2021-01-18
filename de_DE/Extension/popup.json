@@ -87,20 +87,36 @@
 		"message": "Deine PreMiD Applikation ist veraltet. Bitte aktualisiere sie, um PreMiD weiterhin zu verwenden.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Veraltete Erweiterung",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Ihre Erweiterung ist nicht mehr aktuell. Aktualisieren Sie es, um die neuesten Funktionen zu erhalten, indem Sie es von unserer Website herunterladen.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Dringendes Update",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Wir haben ein dringendes Update für die Erweiterung veröffentlicht. Bitte aktualisieren Sie PreMiD, um sie weiterzunutzen.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Keine Internetverbindung!",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Sieht so aus, als hättest du keine Internetverbindung! PreMiD kann derzeit keine Presence anzeigen im Moment.",
+		"message": "Sieht so aus, als hättest du keine Internetverbindung! PreMiD kann im Moment keine Presence anzeigen.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
-		"message": "Keine Discordverbindung!",
+		"message": "Keine Verbindung zu Discord!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD konnte sich nicht mit deiner Discord-Anwendung verbinden! Ist sie installiert und läuft sie? *Fehlerbehebung*",
+		"message": "PreMiD konnte sich nicht mit deiner Discord Anwendung verbinden! Wurde alles ordnungsgemäß installiert und gestartet? *Fehlerbehebung*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {

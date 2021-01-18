@@ -1,1 +1,14 @@
-{}
+{
+    "aliexpress.message": {
+        "message": "Üzenetközpont",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress Visszajelzés",
+        "description": ""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "törölt megrendelések",
+        "description": "Part 2 of \"Viewing their\""
+    }
+}

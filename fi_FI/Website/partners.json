@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Yhteistyökumppanit",
-		"description": "Heading for page."
-	},
 	"partners.slideshow.description": {
 		"message": "Nämä kuuluvat jo meille",
 		"description": "Description for slideshow."
@@ -26,10 +22,6 @@
 	"partners.sponsors.title": {
 		"message": "Sponsorit",
 		"description": "Heading for sponsors."
-	},
-	"partners.apply.select.other": {
-		"message": "Muu",
-		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.button.close": {
 		"message": "Sulje",

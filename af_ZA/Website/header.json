@@ -35,10 +35,6 @@
     "message": "Bydraers",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Teken aan",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Ingeteken as",
     "description": "Indicates which user is logged in"

@@ -163,6 +163,10 @@
 		"message": "آخر",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "الاسم",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "مثال: PreMiD",
 		"description": "Name field's placeholder."

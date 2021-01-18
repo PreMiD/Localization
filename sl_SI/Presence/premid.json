@@ -15,44 +15,12 @@
 		"message": "Domača stran",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "Sodelavci",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Prenosi",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Trgovina",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Partnerji",
-		"description": "A page name"
-	},
-	"premid.pageCookies": {
-		"message": "Pravilnik o Cookie-jih",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "Pravilnik o zasebnosti",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "Pogoji uporabe",
-		"description": "A page name"
-	},
 	"premid.pageSysReq": {
 		"message": "Sistemske zahteve",
 		"description": "A page name"
 	},
 	"premid.pageInstall": {
 		"message": "Namestitev",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Odpravljanje napak",
 		"description": "A page name"
 	},
 	"premid.pageStart": {

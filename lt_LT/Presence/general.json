@@ -1,12 +1,4 @@
 {
-	"general.anime": {
-		"message": "Anime",
-		"description": ""
-	},
-	"general.browsing": {
-		"message": "Naršoma...",
-		"description": ""
-	},
 	"general.chapter": {
 		"message": "Skyrius",
 		"description": ""
@@ -31,20 +23,12 @@
 		"message": "Žanras",
 		"description": ""
 	},
-	"general.language": {
-		"message": "Kalba",
-		"description": "For choosing a language"
-	},
 	"general.listeningMusic": {
 		"message": "Klausosi muzikos",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Klausytojai",
-		"description": ""
-	},
-	"general.live": {
-		"message": "Tiesiogiai",
 		"description": ""
 	},
 	"general.manga": {
@@ -91,10 +75,6 @@
 		"message": "Skaito giją:",
 		"description": ""
 	},
-	"general.reading": {
-		"message": "Skaitymas",
-		"description": ""
-	},
 	"general.searchFor": {
 		"message": "Ieškoma:",
 		"description": ""
@@ -103,16 +83,8 @@
 		"message": "Kažkas ieškoma...",
 		"description": ""
 	},
-	"general.search": {
-		"message": "Ieškoma",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Prekių krepšelis",
-		"description": ""
-	},
-	"general.store": {
-		"message": "Parduotuvė",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -223,6 +195,10 @@
 		"message": "Naudojimosi sąlygos",
 		"description": "A page name"
 	},
+	"general.cookie": {
+		"message": "Slapukų Naudojimo Politika",
+		"description": "A page name"
+	},
 	"general.repeatAll": {
 		"message": "Visų dainų ciklas",
 		"description": ""
@@ -230,5 +206,13 @@
 	"general.repeat": {
 		"message": "Cikle",
 		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Incidentų istorija",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Veikimo laiko istorija",
+		"description": "A page name of statuspages"
 	}
 }

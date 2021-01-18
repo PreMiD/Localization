@@ -31,10 +31,6 @@
         "message": "Przeglądanie Amazon Prime",
         "description": ""
     },
-    "amazon.viewTheir": {
-        "message": "Przegląda swoje",
-        "description": "Part 1 of the next 5 strings"
-    },
     "amazon.orderHistory": {
         "message": "historię zamówień",
         "description": "Part 2 of the string: \"Viewing their\""
@@ -61,10 +57,6 @@
     },
     "amazon.history": {
         "message": "Wyświetlanie swojej historii",
-        "description": ""
-    },
-    "amazon.store": {
-        "message": "Przegląda sklep:",
         "description": ""
     },
     "amazon.primeVid": {

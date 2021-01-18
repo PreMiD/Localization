@@ -47,10 +47,6 @@
 		"message": "Hozzájárulás",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Formatervezés",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Fordítás",
 		"description": "Translate -> redirects to locilazation page"

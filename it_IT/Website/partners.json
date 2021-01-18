@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "Partner",
+		"message": "Partners",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -8,7 +8,7 @@
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Questi ci appartengono già",
+		"message": "Questi già appartengono a noi",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -16,7 +16,7 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "La tua presenza libera",
+		"message": "La tua presenza gratuita",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
@@ -139,6 +139,10 @@
 		"message": "Una dea che gioca come un divertente bot di Discord!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM vi permette di ascoltare 15+ stream musicali gratis - senza interruzioni. Con la migliore e più recente musica solo per te!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Localizzazione agile per aziende tecnologiche.",
 		"description": "Description for Crowdin."
@@ -160,7 +164,7 @@
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
-		"message": "Applicati come partner",
+		"message": "Domanda per essere un partner",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
@@ -184,7 +188,7 @@
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
-		"message": "nome",
+		"message": "Nome",
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
@@ -240,7 +244,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Ti sei già applicato come partner.",
+		"message": "Hai già fatto domanda per partner.",
 		"description": "Error when already applied."
 	}
 }

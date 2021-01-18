@@ -1,6 +1,6 @@
 {
 	"popup.navigation.settings": {
-		"message": "تنظيمات",
+		"message": "تنظیمات",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
@@ -16,7 +16,7 @@
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
-		"message": "شرح",
+		"message": "توضیحات",
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
@@ -86,6 +86,22 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "نسخه PreMiD شما از از کار افتاده. لطفا آن را بروزرسانی کنید تا بتوانید به استفاده از PreMiD ادامه دهید.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "افزونه منسوخ شده",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "افزونه شما منسوخ شده است. لطفا با دانلود کردن آخرین نسخه از سایت‌مان برای استفاده از آخرین ویژگی های تعبیه شده، افزونه را بروزرسانی نمایید.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "بروزرسانی ضروری",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "ما یک بروزرسانی فوری برای افزونه عرضه کردیم. لطفا برای ادامه استفاده از PreMiD آن را بروزرسانی کنید.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
 		"message": "اتصال اینترنتی برقرار نیست!",

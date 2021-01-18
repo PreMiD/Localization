@@ -139,6 +139,10 @@
 		"message": "Eine Göttin, die als lustiger Discord-Bot spielt!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "Mit REYFM kannst du über 15+ Musikstreams kostenlos anhören - nonstop. Mit der besten und neuesten Musik nur für Dich!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Flexible Übersetzungslösung für Technologieunternehmen.",
 		"description": "Description for Crowdin."
@@ -180,7 +184,7 @@
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
-		"message": "Sonstige",
+		"message": "Anderes",
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {

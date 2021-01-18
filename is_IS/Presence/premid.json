@@ -14,29 +14,5 @@
 	"premid.pageHome": {
 		"message": "Heimasíða",
 		"description": "A page name"
-	},
-	"premid.pageContributors": {
-		"message": "Þátttakendur",
-		"description": "A page name"
-	},
-	"premid.pageDownloads": {
-		"message": "Niðurhöl",
-		"description": "A page name"
-	},
-	"premid.pageStore": {
-		"message": "Verslun",
-		"description": "A page name"
-	},
-	"premid.partners": {
-		"message": "Samstarfsaðilar",
-		"description": "A page name"
-	},
-	"premid.pageCookies": {
-		"message": "Vafraköku Upplýsingar",
-		"description": "A page name"
-	},
-	"premid.pageTroubleshooting": {
-		"message": "Leysa vandamál",
-		"description": "A page name"
 	}
 }

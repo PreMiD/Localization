@@ -20,7 +20,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Adicione a nossa extensão ao seu navegador",
+		"message": "Adiciona a nossa extensão ao seu navegador",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
@@ -56,11 +56,11 @@
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
-		"message": "Mostrar Downloads",
+		"message": "Mostrar versões",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
-		"message": "Esconder Downloads",
+		"message": "Esconder versões",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
@@ -76,7 +76,7 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Uh oh, parece que tu não tens acesso alpha/beta :(",
+		"message": "Uh oh, parece que não tens acesso à versão alfa/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
@@ -103,20 +103,12 @@
 		"message": "Voltar",
 		"description": "Back button on the ads section"
 	},
-	"downloads.button.cancel": {
-		"message": "Cancelar",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
 	"downloads.button.okay": {
 		"message": "Ok",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
-	"downloads.button.done": {
-		"message": "Feito",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.button.login": {
-		"message": "Login",
+		"message": "Iniciar sessão",
 		"description": "Login button on the downloads page."
 	},
 	"downloads.adsbox.thankyou.title": {
@@ -128,7 +120,7 @@
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Por favor, desativa o teu bloqueador de anúncios.",
+		"message": "Desativa o teu bloqueador de anúncios.",
 		"description": "Message next to pepe."
 	},
 	"downloads.skipanyway.message1": {

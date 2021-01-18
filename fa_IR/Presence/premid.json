@@ -16,11 +16,11 @@
 		"description": "A page name"
 	},
 	"premid.pageContributors": {
-		"message": "مشارکت‌کنندگان",
+		"message": "مشارکت کنندگان",
 		"description": "A page name"
 	},
 	"premid.pageDownloads": {
-		"message": "دانلود ها",
+		"message": "دانلود‎ها",
 		"description": "A page name"
 	},
 	"premid.pageStore": {
@@ -31,20 +31,12 @@
 		"message": "همکاران",
 		"description": "A page name"
 	},
-	"premid.pageCookies": {
-		"message": "سیاست کوکی‌ ها",
-		"description": "A page name"
-	},
-	"premid.pagePrivacy": {
-		"message": "سیاست حفظ حریم خصوصی",
-		"description": "A page name"
-	},
-	"premid.pageTerms": {
-		"message": "شرایط خدمات",
+	"premid.pageAbout": {
+		"message": "درباره PreMiD",
 		"description": "A page name"
 	},
 	"premid.pageSysReq": {
-		"message": "بیش نیاز های سیستم",
+		"message": "بیش‌نیاز های سیستم",
 		"description": "A page name"
 	},
 	"premid.pageInstall": {
@@ -56,15 +48,35 @@
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
 	"premid.pageTroubleshooting": {
-		"message": "ایرادیابی",
+		"message": "اشکال‌زدایی",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "شروع کردن",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
 		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
 		"message": "مطلع بودن از نسخه {0} API",
 		"description": "A page name // {0} will be replaced with the version number."
 	},
+	"premid.pagePresenceDev": {
+		"message": "توسعه Presence",
+		"description": "A page name"
+	},
 	"premid.pagePresenceGuide": {
 		"message": "شرایط استفاده Presence ها",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence Class",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "نمایش Class",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
@@ -78,13 +90,5 @@
 	"premid.pageTs": {
 		"message": "تنظیم TypeScript",
 		"description": "A page name"
-	},
-	"premid.incidentHistory": {
-		"message": "تاریخچه وقایع",
-		"description": "A page name of our statuspage"
-	},
-	"premid.uptimeHistory": {
-		"message": "تاریخچه Uptime",
-		"description": "A page name of our statuspage"
 	}
 }
