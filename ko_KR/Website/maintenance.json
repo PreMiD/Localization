@@ -4,7 +4,7 @@
 		"description": "The big text on maintenance page"
 	},
 	"maintenance.heading": {
-		"message": "안타깝게도 기술적인 문제점을 발견했습니다. 빠르게 되돌리도록 하겠습니다. 불편을 끼쳐 죄송합니다.",
+		"message": "안타깝게도 기술적인 문제점을 발견했습니다. 빠르게 다시 돌아오도록 하겠습니다. 불편을 끼쳐 죄송합니다.",
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.heading2": {
