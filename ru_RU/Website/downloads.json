@@ -103,9 +103,17 @@
 		"message": "Назад",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "Отменить",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "Хорошо",
 		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "Готово",
+		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "Войти",
