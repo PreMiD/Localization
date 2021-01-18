@@ -18,20 +18,20 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Рекомендации](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Структура
 
 Все присутствие кодируется в [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) имеет некоторые острые определения типов на JavaScript, так что исправление и идентификация ошибок проще.
 
-## Installation
+## Установка
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Установить [Иди](https://git-scm.com/).
+2. Установить [узел](https://nodejs.org/en/) (поставляется с [npm](https://www.npmjs.com/)).
 3. Установка [TypeScript](https://www.typescriptlang.org/index.html#download-links) (откройте терминал и введите `npm install -g typescript`).
 
-## Cloning the project
+## Клонирование проекта
 
 1. Откройте терминал и введите `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
