@@ -341,7 +341,7 @@ Lorsque vous faites votre présence, vous devez spécifier une catégorie sous l
     <tr>
       <td style="text-align:left"><b>animé</b></td>
       <td style="text-align:left"><b>Animé</b></td>
-      <td style="text-align:left">Tout ce qui a trait à l'animation, des forums aux plateformes de streaming vidéo.</td>
+      <td style="text-align:left">Tout ce qui est en rapport à l'animation, des forums aux plateformes de streaming vidéo.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>jeux</b></td>
