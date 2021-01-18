@@ -272,9 +272,9 @@ Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste 
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Vi har skapat en `metadata.json`-filskapare för lata männsikor [här](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Getting started
+## Kom igång
 
 ```typescript
 const presence = new Presence({
