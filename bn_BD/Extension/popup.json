@@ -91,6 +91,22 @@
 		"message": "আউটডেটেড এক্সটেনশন",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "তোমার এক্সটেনশনটি আউটডেটেড। এটাকে আপডেট করো লেটেস্ট ফিচার পাওয়ার জন্যে, আমাদের ওয়েবসাইট থেকে ডাউনলোড করে।",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "জরুরি আপডেট",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "আমরা এক্সটেনশনটির জন্য জরুরি আপডেট বের করেছি। এটিকে আপডেট করুন PreMiD ব্যবহার করতে থাকার জন্যে।",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "ইন্টারনেট সংযোগ নেই!",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "সব",
 		"description": "Category name shown when you open tags"
