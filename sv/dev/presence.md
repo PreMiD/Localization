@@ -68,27 +68,27 @@ Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://e
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USER",
+    "name": "ANVÄNDARNAMN",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "USER",
+      "name": "ANVÄNDARNAMN",
       "id": "ID"
     }
   ],
-  "service": "SERVICE",
-  "altnames": ["SERVICE"],
+  "service": "TJÄNST",
+  "altnames": ["TJÄNST"],
   "description": {
-    "en": "DESCRIPTION"
+    "en": "BESKRIVNING"
   },
   "url": "URL",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORY",
+  "tags": ["TAGG1", "TAGG2"],
+  "category": "KATEGORI",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://e
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "VISNINGSTITEL",
+      "icon": "FONTAWESOME-ICON",
       "value": true
     },
     {
@@ -109,15 +109,15 @@ Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://e
       "if": {
         "ID": true
       },
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
-      "value": "\"%song%\" by %artist%",
-      "placeholder": "use %song% or %artist%"
+      "title": "VISNINGSTITEL",
+      "icon": "FONTAWESOME-IKON",
+      "value": "\"%song%\" av  %artist%",
+      "placeholder": "använd %song% eller  %artist%"
     },
     {
       "id": "ID",
-      "title": "DISPLAY TITLE",
-      "icon": "FONTAWESOME ICON",
+      "title": "VISNINGSTITEL",
+      "icon": "FONTAWESOME-IKON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -125,7 +125,7 @@ Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://e
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste nu redigera värden för egenskaperna. Observera att följande egenskaper är valfria att ha i din `metadata.json`-fil, om du inte planerar att använda dem måste du ta bort dem.
 
 - `contributors`
 - `altnames`
@@ -135,21 +135,21 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `readLogs`
 - `settings`
 
-**Clarifying some value presets:**
+**Förtydligande av vissa värde-förinställningar:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Variabel</th>
+      <th style="text-align:left">Beskrivning</th>
+      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Valfri</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. Namnet är ditt Discord-användarnamn utan identifieraren (#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
