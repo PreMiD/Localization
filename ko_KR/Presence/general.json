@@ -23,6 +23,10 @@
 		"message": "장르",
 		"description": ""
 	},
+	"general.language": {
+		"message": "언어",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "음악 듣는 중",
 		"description": ""
