@@ -34,7 +34,7 @@ Toutes les présences sont codées en [TypeScript](https://www.typescriptlang.or
 ## Cloner le projet
 
 1. Ouvrez un terminal et tapez `git clone https://github.com/PreMiD/Presences`.
-2. Choisissez un dossier de votre choix.
+2. Choisissez un dossier.
 3. Ouvrez-le dans votre éditeur de code.
 
 ## Création de dossiers et de fichiers
@@ -149,7 +149,7 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Non</code></td>
