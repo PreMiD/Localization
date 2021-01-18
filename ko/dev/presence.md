@@ -27,15 +27,15 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 ## Installation
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. [Git](https://git-scm.com/) 설치하기
+2. [Node](https://nodejs.org/en/)  ( [npm](https://www.npmjs.com/) 와 함께 ) 설치하기
 3. [TypeScript](https://www.typescriptlang.org/index.html#download-links) 설치하기 (터미널 실행 후 "`npm install -g typescript`" 입력하기)
 
 ## Cloning the project
 
 1. 터미널을 열어 `git clone https://github.com/PreMiD/Presences`를 입력하세요.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. 원하는 폴더를 선택하세요.
+3. 이것을 당신의 코드 편집기로 실행하세요.
 
 ## 폴더 및 파일 생성하기
 

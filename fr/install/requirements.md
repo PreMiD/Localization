@@ -14,7 +14,7 @@ dateCreated: 2020-06-11T18:04:21.843Z
 > 
 > {.is-info}
 
-PreMiD fonctionne sur pratiquement tous les systèmes. Cela signifie qu'il fonctionne sur **Linux**, **macOS**, **Windows** ainsi que sur certaines **Modifications Linux**.
+PreMiD fonctionne sur pratiquement tous les systèmes. Cela signifie qu'il fonctionne sur **Linux**, **macOS**, **Windows** ainsi que sur certains système avec un noyau**customisé**.
 
 ### Processeur
 PreMiD fonctionne bien sur un processeur monocore.
@@ -26,6 +26,6 @@ Les systèmes Linux devraient avoir **au moins 20 Mo de RAM** pour exécuter Pre
 PreMiD prend environ **150 Mo** de stockage physique. Cependant au moins **200 Mo** de stockage dédié à PreMiD est recommandé.
 
 ### Accès Internet
-A internet connection is required to run PreMiD. PreMiD vérifiera automatiquement les nouvelles mises à jour, les langues, les mises à jour de Presence, etc. de temps en temps.
+Une connexion internet est requise pour utiliser PreMiD. PreMiD vérifiera automatiquement les nouvelles mises à jour, les langues, les mises à jour de Presence, etc. de temps en temps.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
