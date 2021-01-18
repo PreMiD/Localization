@@ -14,18 +14,18 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 版本 `2.x` 介绍了 [存在商店](https://premid.app/store)。 用户现在可以通过 [网站](https://premid.app/) 的用户界面手动添加和移除他们最喜欢的存在。
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> 在开始之前，强烈建议您查看我们的使用指南。 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [指南](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # 目录结构
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## Installation
+## 安装
 
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
