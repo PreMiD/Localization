@@ -3,6 +3,10 @@
 		"message": "Letöltések",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Álláslehetőségek",
+		"description": "Page name"
+	},
 	"twitch.turbo": {
 		"message": "Turbó",
 		"description": "Page name"
