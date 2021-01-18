@@ -31,6 +31,10 @@
 		"message": "Live",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.browsing": {
+		"message": "Bläddrar...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.heading": {
 		"message": "Du kommer älska våra funktioner!",
 		"description": "Features section"
