@@ -203,6 +203,18 @@
 		"message": "Regarde la page :",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "En train de regarder un film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "En train de regarder une série",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "En train de regarder une série",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Regarde une vidéo",
 		"description": ""
