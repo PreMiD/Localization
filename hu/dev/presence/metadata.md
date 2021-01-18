@@ -76,7 +76,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">Leírás</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Típus</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
@@ -86,20 +86,20 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>közreműködők</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Igen</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
@@ -107,13 +107,13 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Igen</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>leírás</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
@@ -121,35 +121,35 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Igen</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>verzió</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+      <td style="text-align:left"><code>#HEX</code> érték. We recommend to use a primary color of the service
         that your presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -188,7 +188,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Igen</code></td>
     </tr>
   </tbody>
 </table>
@@ -201,7 +201,7 @@ If you want to learn regular expressions, here are a few websites.
 
 • [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Tesztelés
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
@@ -332,7 +332,7 @@ When making your presence, you must specify a category which the presence falls 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
+      <th style="text-align:left">Kategória</th>
       <th style="text-align:left">Name</th>
       <th style="text-align:left">Description</th>
     </tr>
@@ -365,7 +365,7 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>egyéb</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Egyéb</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
   </tbody>

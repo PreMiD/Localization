@@ -152,21 +152,21 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Igen</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
@@ -174,7 +174,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Igen</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
@@ -192,7 +192,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <code>["URL1", "URL2", "ETC."]</code><br>
       You could also use regExp also known as Regex for this task, explained further below.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
@@ -205,25 +205,25 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Igen</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nem</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
@@ -392,7 +392,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## Debugging
+## Hibakeresés
 
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
