@@ -14,40 +14,40 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 Version `2.x` introducerar [närvarobutik](https://premid.app/store). Användare har nu möjlighet att manuellt lägga till och ta bort sina favoritnärvaron genom användargränssnittet på [webbplats](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Innan du börjar rekommenderas det att du tittar på våra riktlinjer för presences. 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Riktlinjer](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# Struktur
 
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+All presences är kodade i [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) har några extra kryddiga typdefinitioner över JavaScript, så fastställande och identifiering av buggar är mycket lättare.
 
 ## Installation
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+1. Installera [Git](https://git-scm.com/).
+2. Installera [Node](https://nodejs.org/en/) (levereras med [npm](https://www.npmjs.com/)).
+3. Installera [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öppna en terminal och skriv `npm install -g typescript`).
 
-## Cloning the project
+## Kloning av projektet
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+1. Öppna en terminal och skriv `git clone https://github.com/PreMiD/Presences`.
+2. Välj en valfri mapp.
+3. Öppna den i din kodredigerare.
 
-## Creating folders and files
+## Skapa mappar och filer
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
-2. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a `presence.ts` and a `tsconfig.json` file inside.
-4. Create a folder named `dist` inside.
-5. Create a `metadata.json` file inside the `dist` folder.
+1. Gå in i mappen `websites` och gå sedan in i mappen med den första bokstaven i **namnet** (inte en URL) i tjänsten du vill stödja.
+2. Skapa en mapp med **namnet** (inte en URL) för tjänsten du vill stödja.
+3. Skapa en `presence.ts`- och en `tsconfig.json` -fil inuti.
+4. Skapa en mapp som heter `dist` inuti.
+5. Skapa en `metadata.json` -fil i mappen `dist`.
 
-## Filling in the tsconfig.json file
+## Ifyllning av tsconfig.json-filen
 
-Please put the following code inside of the `tsconfig.json` file.
+Vänligen ange följande kod i `tsconfig.json` -filen.
 
 ```typescript
 {
@@ -58,11 +58,11 @@ Please put the following code inside of the `tsconfig.json` file.
 }
 ```
 
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+För att läsa mer om TypeScript-konfiguration, klicka [här](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Ifylling av metadata.json-filen
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://eggsy.xyz/projects/premid/mdcreator). Det rekommenderas fortfarande att du läser igenom detta så du vet hur det fungerar.
 
 ```json
 {
