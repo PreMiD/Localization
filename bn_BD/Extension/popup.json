@@ -115,6 +115,10 @@
 		"message": "Discord কানেকশন নেই!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD তোমার Discord অ্যাপ্লিকেশান এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "সব",
 		"description": "Category name shown when you open tags"
