@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "אנימה",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "גולש...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "פרק",
 		"description": ""
@@ -19,12 +27,20 @@
 		"message": "ז'אנר",
 		"description": ""
 	},
+	"general.language": {
+		"message": "שפה",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "מקשיב למוזיקה",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "מאזינים",
+		"description": ""
+	},
+	"general.live": {
+		"message": "שידור חי",
 		"description": ""
 	},
 	"general.manga": {
@@ -71,6 +87,10 @@
 		"message": "קורא כתבה:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "קורא",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "מחפש ל:",
 		"description": ""
@@ -79,8 +99,16 @@
 		"message": "מחפש משהו...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "מחפש",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "עגלת קניות",
+		"description": ""
+	},
+	"general.store": {
+		"message": "חנות",
 		"description": ""
 	},
 	"general.typeDM": {
