@@ -12,7 +12,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.headings.general": {
-		"message": "জেনারেল",
+		"message": "সাধারণ",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
@@ -24,7 +24,7 @@
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
-		"message": "মিডিয়া নিয়ন্ত্রণগুলি",
+		"message": "মিডিয়া কন্ট্রোলস",
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
@@ -32,23 +32,23 @@
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
-		"message": "অটো লঞ্চ",
+		"message": "অটো স্টার্টআপ",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "প্রেসেন্সস",
+		"message": "Presences",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
-		"message": "পরিচালনা",
+		"message": "ম্যানেজ",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "কোনো প্রেসেন্স নাই",
+		"message": "কোন Presences add করা নেই",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "ঠিক আছে",
+		"message": "সম্পন্ন",
 		"description": "Done button"
 	},
 	"popup.presences.load": {
