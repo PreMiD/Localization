@@ -123,6 +123,10 @@
 		"message": "Kiitos!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Käytämme mainoksia tukeaksemme tiimiämme ja ylläpitääksemme palvelimiamme tarjotaksemme sinulle parhaan käyttäjäkokemuksen!",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.skipanyway.message1": {
 		"message": "En halua tukea.",
 		"description": "Skip anyway messages (changes everytime you click it)."
