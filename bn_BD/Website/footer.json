@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "জয়েন করো {0} ইউজার এর সাথে আজকে!",
+		"message": "জয়েন করো {0} ইউজারের সাথে আজকে!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
