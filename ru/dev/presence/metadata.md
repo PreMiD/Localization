@@ -345,22 +345,22 @@ presence.showSetting("pdexID"); // Заменить pdexID идентифика�
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Музыка</b></td>
       <td style="text-align:left">Это веб-сайты, которые предлагают контент, связанный с музыкой, будь то трансляция или загрузка.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Соц. сети</b></td>
       <td style="text-align:left">Сайты, которые используются для создания и обмена контентом или для участия в других формах социальных сетей.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Видео и Стримы</b></td>
       <td style="text-align:left">Веб-сайты, которые служат цели предоставления видео и потоков.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Прочее</b></td>
       <td style="text-align:left">Все, что не относится к конкретной категории, перечисленной выше.</td>
     </tr>
   </tbody>
