@@ -20,7 +20,7 @@
 		"description": ""
 	},
 	"netflix.latest": {
-		"message": "Viewing what's new and{0}populair on Netflix",
+		"message": "Viewing what's new and{0}popular on Netflix",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"netflix.referral": {
