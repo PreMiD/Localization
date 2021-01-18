@@ -18,13 +18,13 @@ dateCreated: 2020-06-11T18:03:51.119Z
 
 **Choisissez votre système d'exploitation :**
 - [Windows *7 ou supérieur*](/install/windows)
-- [macOS *10.11 ou plus*](/install/macos)
-- [Noyau *Linux en v2.x ou plus*](/install/linux)
+- [macOS *10.11 ou supérieur*](/install/macos)
+- [*Linux v2.x ou supérieur*](/install/linux)
 {.links-list}
 
 **Choisissez votre navigateur :**
-- [Chromium *v76 ou plus*](/install/chromium)
-- [Firefox *v69 ou plus*](/install/firefox)
+- [Chromium *v76 ou supérieur*](/install/chromium)
+- [Firefox *v69 ou supérieur*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
