@@ -119,6 +119,10 @@
 		"message": "Hantera sina community roller...",
 		"description": ""
 	},
+	"twitch.produce": {
+		"message": "I video-producenten...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "Visar deras",
 		"description": "Part 1 of the next 10 strings"
@@ -181,6 +185,62 @@
 	},
 	"twitch.brandMadness": {
 		"message": "Medför metod till vår (älskade) galenskap",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Maxar vårt uttryck",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "För samman allt",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Titta på varumärkes utvecklingen av Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Twitch Bloggar",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Visar {0} Bloggarkiv",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Bläddra igenom de senaste blogginläggen...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Hjälpcenter",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Visar ämne:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Bläddrar igenom ämneskatalogen...",
+		"description": ""
+	},
+	"twitch.dev": {
+		"message": "Twitch utvecklare",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Dokumentation för Twitch-utvecklare",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produkter för Twitch-utvecklare",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Framgångsberättelser från gemenskapen",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Hjälpsamma resurser",
 		"description": "Page name"
 	}
 }

@@ -7,6 +7,10 @@
         "message": "Visar vad som är hett",
         "description": ""
     },
+    "9gag.trending": {
+        "message": "Visar vad som är trendigt",
+        "description": ""
+    },
     "9gag.fresh": {
         "message": "Visar vad som är nytt",
         "description": ""

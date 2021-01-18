@@ -156,7 +156,7 @@
 		"description": "Last message of the skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.showbeta.message": {
-		"message": "Beta verziók megjelenítése",
+		"message": "Béta letöltések megjelenítése",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
