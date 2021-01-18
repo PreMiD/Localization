@@ -58,7 +58,7 @@ Installationen av programmet är mycket viktigt eftersom tillägget inte kan gö
 
 <a name="requirements"></a>
 
-### Requirements
+### Krav
 
 Tekniskt sett kan varje distribution som kan köra Discords [officiella](https://discordapp.com/download) **app** ( inte webb eller snap versionen ) kan köra PreMiD med;</br> Som du kan ha märkt de senaste åren, så har några Linux distributioner börjat avsluta stödet för 32-bit (ia32/i686/i386/x86) arkitekturerna, och som resultat, så gjorde vi också det. Du kan dock själv försöka bygga appen om du desperat behöver använda den på en 32-bit distribution.</br> Eftersom vi just nu använder Electron som motor (Discord med!), dess krav gäller även för denna app :
 
