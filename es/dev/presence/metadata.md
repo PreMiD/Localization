@@ -102,11 +102,9 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Busca la presence utilizando nombres alternativos.<br> Destinado a ser utilizado por presences que tienen nombres diferentes en distintos idiomas (ej. Pokémon y 포켓몬스터).<br> También puedes utilizarlo con presences que contienen caracteres especiales para no tener que escribirlos (ej. Pokémon y Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
@@ -124,7 +122,7 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Una cadena de expresión regular utilizada para coincidir con las urls.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
@@ -167,25 +165,25 @@ Ese ejemplo parece realmente extraño, ¿eh? No te preocupes, no es tan difícil
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Define si se utilizan <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Un selector de expresiones regulares que selecciona los iframes a inyectar.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Establece si la extensión debe leer logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Una variedad de configuraciones que el usuario puede cambiar</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Sí</code></td>
     </tr>
   </tbody>
 </table>
@@ -242,7 +240,7 @@ PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de 
 
 ### `multiLanguage`
 
-#### Introduction
+#### Introducción
 
 La configuración `multiLanguage` se utiliza para permitir a los usuarios seleccionar manualmente el idioma en el que quieren mostrar la presence. Esto requiere que utilices las cadenas de nuestra [API](https://api.premid.app/v2/langFile/presence/en), para obtener información sobre cómo añadir cadenas haz clic [aquí](/dev/presence/metadata/adding-new-strings).
 
@@ -256,11 +254,11 @@ La opción `multiLanguage` puede establecerse a lo siguiente:
 
 #### Añadir nuevos strings
 
-##### Cloning the project
+##### Clonando el proyecto
 
 1. Abre una consola y escribe `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Escoge una carpeta a tu gusto.
+3. Ábrela en tu editor de código.
 
 ##### Creando el archivo
 
@@ -300,7 +298,7 @@ Las claves que no tenías que indicar se establecen automáticamente a lo siguie
 
 **Nota:** Estos no pueden ser cambiados de ningún modo.
 
-### Methods
+### Métodos
 
 Usa los siguientes métodos para obtener la información de los ajustes en tus archivos presence:
 #### `getSetting(String)`
@@ -331,7 +329,7 @@ Cuando haces tu Presence, debes especificar de que categoría es. Esta es una li
     <tr>
       <th style="text-align:left">Categoría</th>
       <th style="text-align:left">Nombre</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Descripción</th>
     </tr>
   </thead>
   <tbody>
