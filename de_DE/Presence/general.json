@@ -203,6 +203,18 @@
 		"message": "Betrachtet die Seite:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Schaut einen Film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Schaut eine Serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Schaut eine Show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Schaut ein Video",
 		"description": ""
