@@ -312,12 +312,12 @@ presence.on("UpdateData", async () => {
       "key" /*La clé (nom du fichier) de l'image large sur la presence. Celles-ci sont mise en ligne et nommées dans la section Rich Presence de votre application, appelée Art Assets*/
     smallImageKey:
       "key" /*La clé (nom de fichier) de l'image large sur la presence. Celles-ci sont téléchargées et nommées dans la section Rich Presence de votre application, appelé Art Assets*/
-        smallImageText: "Quelques texte survolant", //Le texte qui est affiché en survolant la petite image
+        smallImageText: "Quelques texte survolant", //Le texte qui est affiché en survolant la petite image avec la souris
         details: "Nom de la page de navigation", //La section supérieure du texte de la presence
         state: "Lire la section A", //La section inférieure du texte de la presence
-        startTimestamp : 1577232000, //L'horodatage de l'époque unix pour savoir à partir de quand commencer à compter
-        endTimestamp : 1577151472000 //Si vous voulez afficher Time Left au lieu d'Elapsed, il s'agit de l'horodatage de l'époque unix auquel le minuteur se termine
-    }; /*En option, vous pouvez définir une largeImageKey ici et modifier le reste en tant que sous-propriétés variables, par exemple presenceSata. ype = "blabla"; exemples de type: détails, état, etc.*/
+        startTimestamp : 1577232000, //L'horodatage unix pour savoir à partir de quand commencer à compter
+        endTimestamp : 1577151472000 //Si vous voulez afficher Time Left au lieu d'Elapsed, il s'agit de l'horodatage unix auquel le minuteur se termine
+    }; /*Optionellement, vous pouvez définir une largeImageKey ici et modifier le reste en tant que variables de sous-propriétés, par exemple presenceSata.type = "blabla"; exemples de type: détails, état, etc.*/
 
     if (presenceData.details == null) {
         //Cela se déclenchera si vous ne définissez pas les détails de présence
@@ -400,8 +400,8 @@ Le site Web sur lequel vous développez est automatiquement rechargé chaque foi
 
 # Explications des fichiers
 
-- [Classe de la Presence](/dev/presence/class)
-- [Classe du Slideshow](/dev/presence/slideshow)
-- [Classe de l'iFrame](/dev/presence/iframe)
+- [Classe Presence](/dev/presence/class)
+- [Classe Slideshow](/dev/presence/slideshow)
+- [Classe l'iFrame](/dev/presence/iframe)
 - [Fichier de métadonnées](/dev/presence/metadata)
 - [Configuration de TypeScript](/dev/presence/tsconfig ""){.links-list}
