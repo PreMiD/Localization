@@ -16,7 +16,7 @@
 		"description": "Features list"
 	},
 	"beta.features.2": {
-		"message": "PreMiD의 일급기밀 채팅 채널에 접근하세요",
+		"message": "PreMiD 의 일급기밀 채팅 채널에 접근하세요",
 		"description": "Features list"
 	},
 	"beta.features.3": {
@@ -24,7 +24,7 @@
 		"description": "Features list"
 	},
 	"beta.register.text": {
-		"message": "준비 되셨나요? 저희의 베타테스터에 지원하세요!",
+		"message": "준비 되셨나요? 다른 {0} 명의 베타 테스터들이 참여중입니다!",
 		"description": "{0} will be replaced with the beta testers count -> is a variable"
 	},
 	"beta.register.button": {
@@ -32,7 +32,7 @@
 		"description": "Sign up button text"
 	},
 	"thankyou.title": {
-		"message": "멋지네요! 당신은 이제부터 베타 유저입니다!",
+		"message": "좋아요! 당신은 지금부터 베타 유저입니다!",
 		"description": "Thank You page title"
 	},
 	"thankyou.description": {
