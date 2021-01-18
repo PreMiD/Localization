@@ -91,6 +91,10 @@
 		"message": "Vanhentunut laajennus",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Laajennuksesi on vanhentunut. Päivitä se lataamalla sivustoltamme saadaksesi uusimmat ominaisuudet.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
 	"popup.category.all": {
 		"message": "Kaikki",
 		"description": "Category name shown when you open tags"
