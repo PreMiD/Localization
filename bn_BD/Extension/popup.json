@@ -107,6 +107,14 @@
 		"message": "ইন্টারনেট সংযোগ নেই!",
 		"description": "Shown when the user has no internet connection"
 	},
+	"popup.info.noInternet.message": {
+		"message": "মনে হচ্ছে তোমার ইন্টারনেট কানেকশন নেই! PreMiD এই মুহূর্তে presences দেখাতে পারবে না।",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Discord কানেকশন নেই!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "সব",
 		"description": "Category name shown when you open tags"
