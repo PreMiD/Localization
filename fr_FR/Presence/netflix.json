@@ -1,0 +1,26 @@
+{
+	"netflix.viewSeries": {
+		"message": "Afficher les séries",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Afficher les films",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Regarder l'épisode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewList": {
+		"message": "En train de regarder ses propositions",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "En train de paramétrer son profil",
+		"description": ""
+	},
+	"netflix.referral": {
+		"message": "En train d'obtenir son{0}lien de parrainage",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}
