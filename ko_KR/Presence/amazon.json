@@ -3,6 +3,10 @@
         "message": "지불 방법 보는중",
         "description": ""
     },
+    "amazon.address": {
+        "message": "주소목록 보는중",
+        "description": ""
+    },
     "amazon.catergoriesAll": {
         "message": "모든 카테고리를 보는중",
         "description": ""
@@ -22,6 +26,14 @@
     "amazon.wishlist": {
         "message": "찜 목록",
         "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "기프트카드",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "추천목록 보는중",
+        "description": ""
     },
     "amazon.primeVid": {
         "message": "Prime Video 보는중",
