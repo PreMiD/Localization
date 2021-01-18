@@ -23,6 +23,10 @@
 		"message": "{0} decorrido(s)",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
+	"home.examples.status.live": {
+		"message": "Ao vivo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.heading": {
 		"message": "Vais adorar estas funcionalidades!",
 		"description": "Features section"
