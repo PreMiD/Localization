@@ -1,4 +1,64 @@
 {
+	"twitch.downloads": {
+		"message": "다운로드",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "인재 채용",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "터보",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "파트너",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "보도 자료",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "보안",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "접근성",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "광고 선택",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "커뮤니티 지침",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "홈페이지",
+		"description": "Page name"
+	},
+	"twitch.esports": {
+		"message": "E-스포츠 보는중...",
+		"description": ""
+	},
+	"twitch.campLevel": {
+		"message": "레벨 업",
+		"description": "Page name"
+	},
+	"twitch.achievements": {
+		"message": "도전과제",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "커뮤니티 활동",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "팔로워 목록",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
 	"twitch.clips": {
 		"message": "클립",
 		"description": "Part 2 of the string: \"Viewing their\""
