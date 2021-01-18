@@ -278,37 +278,37 @@ Nós fizemos um `metadata.json` criador de arquivos para os preguiçosos curioso
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //O ID do cliente da Aplicação criada em https://discordapp.com/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
+    //pode usar isso para obter cordas traduzidas em seu idioma de navegador
   });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Pegue e processe todos os seus dados aqui
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // elementos //
+    // chamadas api //
+    // conjuntos variáveis //
 }
 
 setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Executar a função separada do evento UpdateData a cada 10 segundos para obter e definir as variáveis que o UpdateData capta
 
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Chama-se a isto várias vezes um segundo sempre que possível.
+  /*UpdateData está sempre a disparar e, portanto, deve ser usado como ciclo de atualização ou 'tique'. Chama-se a isto várias vezes um segundo sempre que possível.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    É recomendado configurar outra função fora desta função de evento que irá alterar os valores de variáveis e fazer o trabalho pesado se você chamar dados de uma API. */
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*A chave (nome do arquivo) da imagem grande na presença. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageKey:
       "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
@@ -335,7 +335,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG. Fo
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
-## Can't get certain data?!
+## Não foi possível obter certos dados?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
