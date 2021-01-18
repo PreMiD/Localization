@@ -1,4 +1,8 @@
 {
+    "amazon.adprefs": {
+        "message": "광고 설정 보는중",
+        "description": ""
+    },
     "amazon.payment": {
         "message": "지불 방법 보는중",
         "description": ""
@@ -19,6 +23,10 @@
         "message": "주문 내역",
         "description": "Part 2 of the string: \"Viewing their\""
     },
+    "amazon.orderDetails": {
+        "message": "주문 상세내역",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
     "amazon.cart": {
         "message": "장바구니",
         "description": "Part 2 of the string: \"Viewing their\""
@@ -33,6 +41,14 @@
     },
     "amazon.recommended": {
         "message": "추천목록 보는중",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "기록 보는중 :",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "상점 보는중:",
         "description": ""
     },
     "amazon.primeVid": {
