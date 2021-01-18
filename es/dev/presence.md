@@ -247,7 +247,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">Un selector de expresiones regulares que selecciona los iframes a donde inyectar. Mira expresiones regulares para más información.</td>
+      <td style="text-align:left">Un selector de expresiones regulares que selecciona los iframes en donde inyectar. Mira expresiones regulares para más información.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sí</code></td>
     </tr>
@@ -267,7 +267,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Hemos creado un generador de archivos `metadata.json` [aquí](https://eggsy.xyz/projects/premid/mdcreator) para gente perezosa.
 
 ## Empezando
 
@@ -394,8 +394,8 @@ El sitio web en el que estás desarrollando se recarga automáticamente cada vez
 
 # Explicación de archivos
 
-- [Presence Class](/dev/presence/class)
+- [Clase Presence](/dev/presence/class)
 - [Clase SlideshowSlide](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Clase iFrame](/dev/presence/iframe)
 - [Archivo de Metadata](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Configuración de TypeScript](/dev/presence/tsconfig ""){.links-list}
