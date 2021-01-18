@@ -115,6 +115,10 @@
 		"message": "Ei yhteyttä Discordiin!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD ei pystynyt muodostamaan yhteyttä Discord-sovellukseesi! Onko se asennettu ja käynnissä? *Vianetsintä*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Kaikki",
 		"description": "Category name shown when you open tags"
