@@ -28,7 +28,7 @@
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "{0} (으) 로 로그인되었습니다.",
+		"message": "{0} 로 로그인되었습니다.",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -64,15 +64,15 @@
 		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.description": {
-		"message": "최대 150글자로 서술하세요.",
+		"message": "설명 : (최대 150글자로 서술하세요.)",
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
-		"message": "기능 설명",
+		"message": "기능에 대한 설명",
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
-		"message": "이미지 링크: (550x300, PNG 파일만.)",
+		"message": "이미지 링크: (550x300, PNG 파일만)",
 		"description": "Do not change the sizes."
 	},
 	"partners.apply.form.imageLink.placeholder": {
