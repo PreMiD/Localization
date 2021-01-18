@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "애니메이션",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "검색하는중...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "챕터",
 		"description": ""
@@ -33,6 +41,10 @@
 	},
 	"general.listeners": {
 		"message": "청취자",
+		"description": ""
+	},
+	"general.live": {
+		"message": "실시간",
 		"description": ""
 	},
 	"general.manga": {
@@ -79,6 +91,10 @@
 		"message": "스레드 읽는 중:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "읽는중",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "찾는 중:",
 		"description": ""
@@ -87,8 +103,16 @@
 		"message": "무언가에 대하여 검색 중...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "검색 중",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "장바구니",
+		"description": ""
+	},
+	"general.store": {
+		"message": "상점",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -173,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "보는 중:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "페이지 보는중:",
 		"description": ""
 	},
 	"general.watchingVid": {
