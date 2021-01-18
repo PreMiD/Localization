@@ -18,5 +18,17 @@
 	"v live.store": {
 		"message": "상점 페이지",
 		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.purchases": {
+		"message": "최근 결제내역",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "연결된 장치",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "정책 읽는중",
+		"description": ""
 	}
 }
