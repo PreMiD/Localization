@@ -14,5 +14,65 @@
 	"premid.pageHome": {
 		"message": "홈페이지",
 		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "도와주신 분들",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "다운로드",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "상점",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "파트너",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "PreMiD 에 대하여",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "시스템 사양",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "설치마법사",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "{0} 을 위한 설치 마법사",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "문제 해결",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "시작하기",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence 개발자",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Presence 가이드라인",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "metadata.json 구성",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScript 구성",
+		"description": "A page name"
 	}
 }

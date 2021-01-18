@@ -1,6 +1,34 @@
 {
+    "aliexpress.sale": {
+        "message": "판매 상품 둘러보기",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "최근 본 상품 보는중",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "상품 보는중",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.refunds": {
+        "message": "환불 & 이의제기",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "주문 삭제",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress 교환 센터",
+        "description": ""
+    },
     "aliexpress.helpCenter": {
         "message": "AliExpress 고객센터",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress 판매 센터",
         "description": ""
     }
 }
