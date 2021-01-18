@@ -1,4 +1,12 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Đang duyệt...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Chương",
 		"description": ""
@@ -23,12 +31,20 @@
 		"message": "Thể loại",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Ngôn ngữ",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Đang nghe nhạc",
 		"description": ""
 	},
 	"general.listeners": {
 		"message": "Thính giả",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Trực tiếp",
 		"description": ""
 	},
 	"general.manga": {
@@ -75,6 +91,10 @@
 		"message": "Đang đọc chủ đề:",
 		"description": ""
 	},
+	"general.reading": {
+		"message": "Đang đọc",
+		"description": ""
+	},
 	"general.searchFor": {
 		"message": "Đang tìm kiếm:",
 		"description": ""
@@ -83,8 +103,16 @@
 		"message": "Đang tìm gì đó...",
 		"description": ""
 	},
+	"general.search": {
+		"message": "Đang tìm kiếm",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Giỏ hàng",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Cửa hàng",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -169,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "Đang xem:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Đang xem trang:",
 		"description": ""
 	},
 	"general.watchingVid": {
