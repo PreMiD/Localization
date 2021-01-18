@@ -127,6 +127,10 @@
 		"message": "Den mest kraftfulla och utbyggbara Wiki programvara med öppen källkod.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "En förenad, utvecklarvänlig interface för alla dina artefakter.",
+		"description": "Description for PackageCloud."
+	},
 	"partners.partner.fastly": {
 		"message": "Bakom det bästa av nätet.",
 		"description": "Description for Fastly."
