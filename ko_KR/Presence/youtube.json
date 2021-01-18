@@ -47,6 +47,10 @@
         "message": "그들의 신고내역을 보는 중",
         "description": ""
     },
+    "youtube.upload": {
+        "message": "무언가를 업로드 중입니다.",
+        "description": ""
+    },
     "youtube.viewAllPlaylist": {
         "message": "그들의 모든 재생목록을 보는 중",
         "description": ""
