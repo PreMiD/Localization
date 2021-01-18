@@ -1,1 +1,18 @@
-{}
+{
+	"twitch.clips": {
+		"message": "클립",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "채널 설정",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "관리자 설정",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "드랍스 설정",
+		"description": "Part 2 of the string: \"Viewing their\""
+	}
+}
