@@ -187,7 +187,7 @@ Uma lista de campos e de suas regras está listada abaixo:
 - **Todas** presences precisam ter pelo menos _uma_ tag.
 - As tags **não** devem incluir espaços, barras, aspas simples/duplas, caracteres Unicode, e devem ser sempre em minúsculas.
 - Tags **devem** preferencialmente incluir nomes de serviços alternativos para facilitar a busca (p. ex., se uma presença da Amazon tiver incluído o suporte pra AWS, teria suas tags como `amazon-web-services` e `aws`)
-- Você é **obrigado** a adicionar uma tag `NSFW` se a presence for para um site NSFW.
+- Você é **obrigado** a adicionar uma tag `NSFW` se a presença for para um site NSFW.
 
 ### **`category`**
 
