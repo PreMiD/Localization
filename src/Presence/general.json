@@ -203,6 +203,18 @@
 		"message": "Viewing page:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Watching a movie",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Watching a series",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Watching a show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Watching a video",
 		"description": ""
