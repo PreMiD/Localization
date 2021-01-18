@@ -35,6 +35,10 @@
     "message": "Osallistujat",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Kirjaudu sisään",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Kirjauduttu nimellä",
     "description": "Indicates which user is logged in"
