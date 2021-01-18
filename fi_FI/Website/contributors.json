@@ -11,6 +11,10 @@
 		"message": "Kääntäjät",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Projektin johtaja",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
 	"contributors.roles.designer": {
 		"message": "Suunnittelija",
 		"description": "'Designer' title for contributors and user pages."
