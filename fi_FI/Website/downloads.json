@@ -91,6 +91,10 @@
 		"message": "Varoitus",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
+	"downloads.warning.message.opera": {
+		"message": "Sinun täytyy asentaa **tämä** laajennus voidaksesi asentaa PreMiDin Chrome Web Storesta.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
 	"downloads.button.skip": {
 		"message": "Ohita",
 		"description": "Skip button on the ads section"
@@ -99,9 +103,17 @@
 		"message": "Takaisin",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "Peruuta",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "Selvä",
 		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "Valmis",
+		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "Kirjaudu sisään",
