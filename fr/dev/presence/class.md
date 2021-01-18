@@ -87,7 +87,7 @@ Vous pouvez trouver la documentation pour la classe `Slideshow` [ici](/dev/prese
 
 Méthode asynchrone qui vous permet d'obtenir les chaînes traduites depuis l'extension.
 
-Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une liste de chaînes traduites peut être trouvée ici : `https://api.premid.app/v2/langFile/presence/fr/`
+Vous devez fournir `Object` avec les clés qui sont la clé de la chaîne, `keyValue` est la valeur de la chaîne. Une liste de chaînes de caractères traduites peut être trouvée ici : `https://api.premid.app/v2/langFile/presence/fr/`
 
 ```typescript
 // Retourne les chaînes `Playing` et `Paused`
@@ -168,7 +168,7 @@ Renvoie la valeur du paramètre.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Remplacer pdexID avec l'id du paramètre
-console.log(setting); // Cela enregistrera la valeur du paramètre
+console.log(setting); // Cela affichera dans la console la valeur du paramètre
 ```
 
 ### `hideSetting(String)`
@@ -236,7 +236,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ### `getTimestamps(Number, Number)`
 
-Retourne 2 `snowflake` timestamps dans un `Array` qui peut être utilisé pour `startTimestamp` et `endTimestamp`.
+Retourne 2 timestamps sous forme de `snowflake` dans un `Array` qui peuvent être utilisé pour `startTimestamp` et `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
