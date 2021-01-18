@@ -107,6 +107,14 @@
 		"message": "Ei Internet-yhteyttä!",
 		"description": "Shown when the user has no internet connection"
 	},
+	"popup.info.noInternet.message": {
+		"message": "Näyttää siltä, että sinulla ei ole Internet-yhteyttä! PreMiD ei pysty näyttämään presencejä tällä hetkellä.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Ei yhteyttä Discordiin!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Kaikki",
 		"description": "Category name shown when you open tags"
