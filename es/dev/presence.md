@@ -155,10 +155,9 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Debería contener un Object con las propiedades <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de Discord sin el identificador (#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Debería contener un Object con las propiedades <code>name</code> e <code>id</code> del desarrollador de la presence. Name es tu nombre de Discord sin el identificador (#0000). Puedes copiar el <code>id</code> de usuario de Discord activando el modo desarrollador y pulsando sobre el perfil del usuario con el botón secundario del ratón.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
@@ -171,7 +170,7 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
       <td style="text-align:left"><b>altnames</b></td>
       <td style="text-align:left"><br>Destinado a ser utilizado para presences que tienen nombres distintos en idiomas diferentes (ej., Pokémon y 포켓몬스터)<br>También puedes usarlo para presences con caracteres especiales y así no tendrás que escribirlos (ej., Pokémon y Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
