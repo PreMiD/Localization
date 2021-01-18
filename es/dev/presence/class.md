@@ -164,16 +164,16 @@ console.log(version); // Mostrará 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Devuelve el valor del ajuste.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); // Remplaza pdexID con el id del ajuste
+console.log(setting); // Esto mostrará el valor del ajuste
 ```
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Oculta el ajuste indicado.
 
 ```typescript
 presence.hideSetting("pdexID"); // Reemplaza pdexID con el ID de la configuración
@@ -181,7 +181,7 @@ presence.hideSetting("pdexID"); // Reemplaza pdexID con el ID de la configuraci�
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Muestra el ajuste indicado (solo funciona si el ajuste ha sido ocultado).
 
 ```typescript
 presence.showSetting("pdexID"); // Reemplaza pdexID con el ID de la configuración
@@ -236,7 +236,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Devuelve 2 `snowflake` de timestamps en un`Array` que pueden ser usados para `startTimestamp` y `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** El `String` proporcionado en querySelector sirve de ejemplo.
 
 ### `timestampFromFormat(String)`
 
@@ -259,7 +259,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** El `String` proporcionado en queryString sirve de ejemplo.
 
 ## Interfaz `PresenceData`
 
@@ -302,8 +302,7 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Define la duración completa.
         <br>Utilizado si deseas mostrar cuantas <code>horas:minutos:segundos</code> quedan.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Debes convertir la marca de tiempo a <code>timestamp</code> u obtendrás una cuenta atrás errónea.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
