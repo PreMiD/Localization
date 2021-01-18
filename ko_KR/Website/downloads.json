@@ -36,11 +36,11 @@
 		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
-		"message": "Application downloads",
+		"message": "앱 다운로드",
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
-		"message": "Extension downloads",
+		"message": "확장 기능 다운로드",
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
@@ -48,7 +48,7 @@
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Application doesn't have installer for this operating system. It means that there's no professional support for it.",
+		"message": "{0} 이 운영체제 대한 설치 프로그램이 없습니다. 이것에 대한 전문적인 도움이 없다는 것을 의미합니다.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
