@@ -203,6 +203,18 @@
 		"message": "Mirando la página:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Viendo una película",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Viendo una serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Viendo un programa",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Viendo un video",
 		"description": ""
