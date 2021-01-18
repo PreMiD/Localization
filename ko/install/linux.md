@@ -18,7 +18,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 - **[정보](#about)**
   - [통계](#stats)
-  - [Requirements](#requirements)
+  - [시스템 사양](#requirements)
   - 예시 (준비중)
   - 자주 하는 질문 (준비중)
   - 빌드 (준비중)
@@ -52,13 +52,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="지난 버전"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github 버전"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="최신 버전"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github 버전"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Requirements
+### 시스템 사양
 
 공식적으로 디스코드를 실행할 수 있는 모든 [공식](https://discordapp.com/download) **앱** (웹 및 스냅 버전 제외) 에서도 PreMiD를 실행할 수 있어요.</br> 눈치 채셨을수도 있는데, 지난 몇년간 리눅스가 32비트(ia32/i686/i386/x86) 아키텍쳐의 지원을 중단하기 시작했어요. 그래서 우리도 그랬어요. 그러나, 만약 32비트를 꼭 사용해야 하신다면, 직접 이 앱을 빌드하셔서 사용하실 수 있어요.</br>저희가 Electron 엔진을 사용한 이래로 (디스코드도 이것을 사용해요!), 이 요구사항 역시 이 앱에 적용됩니다 :
 
@@ -70,11 +70,11 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="support"></a>
 
-### Support
+### 지원
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="저희 디스코드에 참여하세요!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="우리의 Discord에 참여하세요!">
   </a>
 </div>
 
@@ -92,7 +92,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="license"></a>
 
-### License
+### 라이선스
 
 [![FOSSA 상태](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ AppImage 패키지는 디스코드는 작동하지만 다른 PreMiD 패키지 (.
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### 설치 방법
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
