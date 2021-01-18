@@ -203,6 +203,18 @@
 		"message": "Melihat halaman:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Menonton sebuah film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Menonton sebuah film serial",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Menonton sebuah pertunjukan",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Menonton video",
 		"description": ""
