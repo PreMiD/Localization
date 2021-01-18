@@ -11,7 +11,7 @@ editor: markdown
 
 ## Introduction
 
-Lorsque vous avez téléchargé et décompressé l'espace de travail, vous verrez un fichier appelé `tsconfig. s` dans les dossiers de racine et de présence, ce fichier est utilisé pour configurer le compilateur **TypeScript**. Il est déjà configuré pour vous, donc ne vous inquiétez pas.
+Lorsque vous avez téléchargé et décompressé l'espace de travail, vous verrez un fichier appelé `tsconfig.js` dans les dossiers de racine et de présence, ce fichier est utilisé pour configurer le compilateur **TypeScript**. Il est déjà configuré pour vous, donc ne vous inquiétez pas.
 
 Nous voulons juste décrire certains paramètres que vous devriez savoir.
 
