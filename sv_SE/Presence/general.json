@@ -203,6 +203,18 @@
 		"message": "Visar sida:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Tittar på en film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Tittar på en serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Tittar på en show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Tittar på en video",
 		"description": ""
