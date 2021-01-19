@@ -1,14 +1,14 @@
 {
 	"netflix.viewSeries": {
-		"message": "Regarde les séries",
+		"message": "Afficher la série",
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewMovie": {
-		"message": "Afficher les films",
+		"message": "Afficher le film",
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewEpisode": {
-		"message": "Regarde l'épisode",
+		"message": "Afficher l'épisode",
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewList": {
