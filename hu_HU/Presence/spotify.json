@@ -7,6 +7,10 @@
 		"message": "Legjobb podcastok",
 		"description": ""
 	},
+	"spotify.charts": {
+		"message": "Nézi a listákat",
+		"description": ""
+	},
 	"spotify.genres": {
 		"message": "Műfajokat böngészi",
 		"description": ""
