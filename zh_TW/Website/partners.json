@@ -119,6 +119,14 @@
 		"message": "獲取你應得的東西。線上看動漫，電影，Hentai，特別節目和更多。免費，沒有任何廣告和以高清收看!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "使用我們超棒的模板来創建您自己的社區,建立您自己的王國.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga是一個Discord 機器人,它盡量一次提供所有你可能需要的功能.",
+		"description": "Description for taigabot."
+	},
 	"partners.partner.bitRock": {
 		"message": "一個功能強大且易於使用的跨平台安裝程序創建工具。",
 		"description": "Description for BitRock."
@@ -126,6 +134,14 @@
 	"partners.partner.statusPage": {
 		"message": "輕鬆將實時狀態傳達給用戶。",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "一個好玩的Discord Bot機器人!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM讓您免費收聽高達十五種的音樂 - 不間斷。只為您提供最好的和最新的音樂!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "針對科技公司實現敏捷本地化。",
@@ -135,9 +151,17 @@
 		"message": "最強大和可擴展的開源Wiki軟件。",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "為您所有的工件提供一個統一友好的界面。",
+		"description": "Description for PackageCloud."
+	},
 	"partners.partner.fastly": {
 		"message": "最棒網站的背後",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit是您的音樂電台，24小時不間斷播放您最喜愛的歌曲，讓您第一時間發現未來的熱門歌曲。",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "申請為合作夥伴",
@@ -158,6 +182,10 @@
 	"partners.apply.select.website": {
 		"message": "網站",
 		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "其它",
+		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
 		"message": "名稱",
