@@ -245,17 +245,17 @@ Tetapkan tetapan saling tindak supaya pengguna boleh mengubah suai Presence ters
 
 ### `multiLanguage`
 
-#### Introduction
+#### Pengenalan
 
-The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+Tetapan `multiLanguage` digunakan untuk membolehkan pengguna memilih bahasa yang mereka ingin gunakan bagi Presence tersebut secara manual. Ini memerlukan anda menggunakan rentetan dari [API](https://api.premid.app/v2/langFile/presence/en) kami, untuk maklumat mengenai cara menambah rentetan sila klik [sini](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Persediaan
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+Tetapan `multiLanguage` ini sedikit istimewa, ia tidak memerlukan nilai tajuk `title` atau ikon `icon` atau nilai `value` atau nilai-nilai `values` seperti tetapan lain tetapi ia perlukan anda membuat lebih banyak tetapan!
 
-The `multiLanguage` key can be set to the following:
+Kekunci `multiLanguage` boleh ditetapkan seperti berikut:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: guna ini jika anda hanya akan gunakan rentetan dari fail `general.json` dan fail `<service>.json` dalam [Repositori Penyetempatan](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: nama fail tidak termasuk sambungan (.json) di dalam [Repositori Penyetempatan](https://github.com/PreMiD/Localization/tree/master/src/Presence) (mengecualikan fail `general`, kerana ia akan sentiasa dimuatkan). Hanya bahasa umum bagi kedua-dua fail `general` dan fail yang dinyatakan akan disenaraikan. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
 
 #### Adding new strings
 
