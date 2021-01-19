@@ -39,8 +39,40 @@
 		"message": "Visualizzando la \"mia\" pagina",
 		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
+	"v live.channelStore": {
+		"message": "Visualizzando la pagina del negozio",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.viewTheir": {
 		"message": "Visualizzando i loro",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "pagina profilo",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "video guardati",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "acquisti recenti",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "saldo monete",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "dispositivi connessi",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "canali seguiti",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Leggendo le politiche",
+		"description": ""
 	}
 }
