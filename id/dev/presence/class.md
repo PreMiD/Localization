@@ -249,7 +249,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Mengkonversi string dengan forma t`HH:MM:SS` atau `MM:SS` atau `SS` menjadi integer (Tidak mengembalikan timestamp snowflake).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -263,7 +263,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ## `PresenceData` Antarmuka
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+Interface `PresenceData` disarankan untuk digunakan ketika kamu menggunakan metode `setActivity()`.
 
 Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 
