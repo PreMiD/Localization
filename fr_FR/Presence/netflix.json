@@ -19,6 +19,10 @@
 		"message": "En train de paramétrer son profil",
 		"description": ""
 	},
+	"netflix.latest": {
+		"message": "En train de regarder les nouveautés et{0}les tendances sur Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
 	"netflix.referral": {
 		"message": "En train d'obtenir son{0}lien de parrainage",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
