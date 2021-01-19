@@ -1,6 +1,6 @@
 {
 	"netflix.viewSeries": {
-		"message": "Afficher les séries",
+		"message": "Regarde les séries",
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewMovie": {
