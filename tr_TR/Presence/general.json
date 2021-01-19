@@ -203,6 +203,18 @@
 		"message": "Bir sayfayı görüntülüyor:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Bir film izliyor",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Bir seri izliyor",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Bir dizi izliyor",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Bir video izliyor",
 		"description": ""
