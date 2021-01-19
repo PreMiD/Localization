@@ -15,6 +15,10 @@
 		"message": "Mitra",
 		"description": "Page name"
 	},
+	"twitch.press": {
+		"message": "Pusat Acara",
+		"description": "Page name"
+	},
 	"twitch.security": {
 		"message": "Keamanan",
 		"description": "Page name"
@@ -81,6 +85,10 @@
 	},
 	"twitch.redeem": {
 		"message": "Menukar kode...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Kamp Kreator",
 		"description": ""
 	},
 	"twitch.campBasic": {
@@ -185,6 +193,14 @@
 	},
 	"twitch.brandReal": {
 		"message": "Menjaga Twitch tetap nyata",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Mendatangkan metode ke kegilaan (tercinta) kita",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Memaksimalkan ekspresi kami",
 		"description": "Page name"
 	},
 	"twitch.blogs": {
