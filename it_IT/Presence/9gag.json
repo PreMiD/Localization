@@ -12,11 +12,11 @@
         "description": ""
     },
     "9gag.fresh": {
-        "message": "Guardando cosa è nuovo",
+        "message": "Guardando cosa c'è nuovo",
         "description": ""
     },
     "9gag.tag": {
-        "message": "Guardando tag:",
+        "message": "Guardando i tag:",
         "description": ""
     },
     "9gag.about": {
@@ -24,11 +24,11 @@
         "description": ""
     },
     "9gag.store": {
-        "message": "Visualizzazione pagina negozio",
+        "message": "Visualizzando la pagina del negozio",
         "description": ""
     },
     "9gag.collection": {
-        "message": "Collezione visualizzata:",
+        "message": "Visualizzando la collezione:",
         "description": ""
     }
 }

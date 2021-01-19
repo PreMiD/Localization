@@ -99,6 +99,10 @@
 		"message": "Bezárás",
 		"description": "Modal close button."
 	},
+	"partners.apply.form.button.apply": {
+		"message": "Jelentkezés",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Köszönjük jelentkezésedet!",
 		"description": "Success message when applying."
