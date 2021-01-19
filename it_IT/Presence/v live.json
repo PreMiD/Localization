@@ -3,6 +3,42 @@
 		"message": "Navigando attraverso",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.newVid": {
+		"message": "la pagina del nuovo video",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "la pagina dei grafici",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "la prossima pagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "l'elenco dei canali",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "la pagina degli eventi",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "la pagina del negozio",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelHome": {
+		"message": "Visualizzando la home page",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Visualizzando la pagina della pianificazione",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Visualizzando la \"mia\" pagina",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.viewTheir": {
 		"message": "Visualizzando i loro",
 		"description": "The first part of the next 6 strings"
