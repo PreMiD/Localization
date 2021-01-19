@@ -7,6 +7,10 @@
         "message": "Смотрит горячего",
         "description": ""
     },
+    "9gag.trending": {
+        "message": "Смотрит тренды",
+        "description": ""
+    },
     "9gag.fresh": {
         "message": "Смотрит свежего",
         "description": ""
