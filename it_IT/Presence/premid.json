@@ -14,5 +14,41 @@
 	"premid.pageHome": {
 		"message": "Home page",
 		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Contributori",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Downloads",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Negozio",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partners",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Riguardo PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Requisiti di sistema",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Installazione",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Installazione per {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Risoluzione dei problemi",
+		"description": "A page name"
 	}
 }
