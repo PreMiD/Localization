@@ -12,7 +12,19 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewList": {
-		"message": "Melihat daftar mereka",
+		"message": "Melihat daftar serial/film yang disimpan",
 		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Mengatur profil",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Melihat apa yang baru dan{0}populer di Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Mendapatkan{0}tautan rujukan",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	}
 }
