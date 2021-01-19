@@ -1,14 +1,14 @@
 {
 	"netflix.viewSeries": {
-		"message": "Bekijk serie",
+		"message": "Serie bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewMovie": {
-		"message": "Bekijk film",
+		"message": "Film bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewEpisode": {
-		"message": "Kijk de aflevering",
+		"message": "Aflevering bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewList": {
