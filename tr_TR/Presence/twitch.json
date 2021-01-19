@@ -1,10 +1,18 @@
 {
+	"twitch.downloads": {
+		"message": "İndirmeler",
+		"description": "Page name"
+	},
 	"twitch.jobs": {
 		"message": "İşler",
 		"description": "Page name"
 	},
 	"twitch.turbo": {
 		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerler",
 		"description": "Page name"
 	},
 	"twitch.press": {
@@ -25,6 +33,10 @@
 	},
 	"twitch.guidelines": {
 		"message": "Topluluk kuralları",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Ana Sayfa",
 		"description": "Page name"
 	},
 	"twitch.wallet": {
@@ -122,6 +134,10 @@
 	"twitch.produce": {
 		"message": "Video Yönetiminde...",
 		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Görüntülüyor",
+		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
 		"message": "Kanal İstatistikleri",

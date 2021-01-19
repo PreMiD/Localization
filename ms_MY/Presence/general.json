@@ -203,6 +203,18 @@
 		"message": "Melihat halaman:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Menonton filem",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Menonton siri",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Menonton persembahan",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Menonton video",
 		"description": ""
