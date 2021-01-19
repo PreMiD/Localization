@@ -23,6 +23,18 @@
 		"message": "已經過了{0}",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
+	"home.examples.status.playing": {
+		"message": "播放中",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "直播",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "瀏覽中...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.heading": {
 		"message": "你會愛上這些功能的!",
 		"description": "Features section"
@@ -44,7 +56,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "對複雜的使用者介面感到厭倦? 這就是為甚麼我們嘗試讓介面能夠簡潔卻有以下的重要功能:",
+		"message": "對複雜的使用者介面感到厭倦? 這就是為甚麼我們嘗試讓介面能夠簡潔卻保留以下的重要功能:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -66,6 +78,10 @@
 	"home.features.quickSupport.description": {
 		"message": "一些奇怪的事情發生了，給你一堆錯誤信息或單純只是無法運作? 我們在Discord伺服器將給予你協助，我們同時還創立了獨特的協助系統，它將保證你的問題能盡快解決。",
 		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "加入我們的 Discord 服務器",
+		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "網頁語言",
