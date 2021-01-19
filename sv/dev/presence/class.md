@@ -28,11 +28,11 @@ Det finns tre egenskaper tillgängliga för `Närvaro` klass.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. You can get it on your [applications page](https://discordapp.com/developers/applications).
+Denna egenskapen krävs för att få din presence att fungera, eftersom den använder din applikations id för att visa sin logotyp samt tillgångar. Du kan få det på din [applikationssida](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+När du sätter `injectOnComplete` till `true` den första `UpdateData` händelsen för både `presence.ts` och `iframe.ts` filerna kommer endast att användas när sidan har laddats fullständigt.
 
 #### `appMode`
 
