@@ -1,1 +1,18 @@
-{}
+{
+	"netflix.viewSeries": {
+		"message": "Sorozatot néz",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Filmet néz",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Epizódot néz",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewList": {
+		"message": "Listáját nézi",
+		"description": "List as in their saved series/movies."
+	}
+}
