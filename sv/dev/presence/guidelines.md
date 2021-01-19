@@ -10,16 +10,16 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Riktlinjer
 
-När du publicerar Presences till [vår GitHub Repository](https://github.com/PreMiD/Presences), kräver vi att du följer vår uppsättning av riktlinjer. To some, these strict rules may seem harsh. However, the implementation of these rule sets will keep us and our users from running into issues.
+När du publicerar Presences till [vår GitHub Repository](https://github.com/PreMiD/Presences), kräver vi att du följer vår uppsättning av riktlinjer. För vissa kan dessa regler tyckas stränga. Dock, är genomförandet av dessa regeluppsättningarna här för att hindra oss samt våra användare från att stöta på problem.
 
 # Skapande
 
-The general rules of presence development are as follows:
+De allmänna reglerna för presence-utveckling är följande:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
+- Presences **måste** vara relaterade till den webbplats som valts.
+- Presences **får ej** skapas för olagliga webbplatser. (för t.ex., stressorer, marknadsföring av droger, barnpornografi osv.)
+- Filstrukturen måste vara ren och hanterad, inkludera inte filer som ej är specificerade. (för t.ex., vscode och git-mappar, bild- och textfiler, etc.)
+- Du måste ha en ordentlig filstruktur, utkast är **inte** tillåtna.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - The domain of the presence must be at least 2 months old.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
@@ -232,7 +232,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 > 
 > {.is-warning}
 
-# Modification
+# Modifiering
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
 > 
@@ -244,7 +244,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.   - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
 -  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# Verifiering
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
 > 
@@ -265,14 +265,14 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence granskare</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/ririxichan"><img src="https://github.com/ririxichan.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
-## `Restrictions`
+## `Restriktioner`
 
 Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
 
@@ -283,7 +283,7 @@ In this scenerio, the following changes will occur:
 - Tickets created under your name regarding presence development will be deleted.
 
 
-## `Reviewing`
+## `Granskning`
 
 A few things you should know after opening a pull request:
 
@@ -302,7 +302,7 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 - `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Additional Rules`
+## `Övriga regler`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
