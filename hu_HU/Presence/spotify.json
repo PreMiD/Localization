@@ -1,6 +1,14 @@
 {
+	"spotify.featured": {
+		"message": "Kiemelt számok",
+		"description": ""
+	},
 	"spotify.bestPodcasts": {
 		"message": "Legjobb podcastok",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Műfajokat böngészi",
 		"description": ""
 	},
 	"spotify.madeForYou": {
