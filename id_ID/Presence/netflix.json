@@ -1,1 +1,10 @@
-{}
+{
+	"netflix.viewSeries": {
+		"message": "Menonton Serial",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Menonton Film",
+		"description": "Used as the title for the button in Discord."
+	}
+}
