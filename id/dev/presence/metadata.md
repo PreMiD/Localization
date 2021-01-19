@@ -74,7 +74,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Deskripsi</th>
       <th style="text-align:left">Tipe</th>
       <th style="text-align:left">Opsional</th>
@@ -83,7 +83,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+      <td style="text-align:left">Harus berisi sebuah Object dengan <code>name</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -103,9 +103,9 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Dapat mencari presence menggunakan nama lain.<br>
+      Dimaksudkan untuk presence yang memiliki nama yang berbeda di bahasa yang berbeda (e.g. Pokémon and 포켓몬스터).<br>
+      Kamu juga dapat menggunakan ini untuk presence yang memiliki karakter spesial yang kamu tidak bisa ketik (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -117,9 +117,9 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Ini bisa digunakan sebagai kesatuan ketika ada lebih dari satu url.</b></td>
+      <td style="text-align:left">URL layanan.<br>
+      <b>Contoh:</b><code>vk.com.com</code><br>
+      <b>URL ini harus sama dengan URL dari website karena akan digunakan untuk mendeteksi apakah ini website yang benar untuk inject script. Ini bisa digunakan sebagai kesatuan ketika ada lebih dari satu url.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -179,7 +179,7 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Menentukan apakah ekstensi harus membaca catatan.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
