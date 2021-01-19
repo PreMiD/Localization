@@ -23,7 +23,7 @@ PreMiD mudah dan cepat untuk diinstal. Anda bisa langsung menggunakannya tanpa w
 - Ikuti [panduan instalasi](/install) yang cepat dan simpel.
 - [Troubleshooting](/troubleshooting) memandumu melewati masalah yang sering terjadi.
 
-# Developers
+# Pengembang
 
 [Memulai](/dev) untuk Pengembangan PreMiD adalah langkah pertama sebelum menulis kode.
 
