@@ -6,10 +6,10 @@ date: 12 февраля 2020г. 22:08:37
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Установка расширения очень важна, так как приложение не может делать ничего самостоятельно.
 
 # Установить
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Перейдите на нашу страницу загрузок, нажав [здесь](https://premid.app/downloads).
 2. Выберите **Firefox**.
 3. Поиск `о :addons`.
 4. Щелкните по иконке маленького снаряжения в правом верхнем углу.
@@ -17,7 +17,7 @@ The installation of the extension is very important as the application can not d
 6. Выберите файл, который вы недавно скачали.
 7. Принять установку, нажав на **Добавить**.
 
-> Do not forget to [add the **application**](/install). 
+> Не забудьте [установить **приложение**](/install). 
 > 
 > {.is-warning}
 
