@@ -18,7 +18,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 - **[О программе](#about)**
   - [Статистики](#stats)
-  - [Requirements](#requirements)
+  - [Требования](#requirements)
   - Примеры (скоро)
   - Гайды (скоро)
   - Построение (скоро)
@@ -35,13 +35,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="about"></a>
 
-## About
+## О программе
 
 **PreMiD** - простой, настраиваемая утилита, которая использует библиотеку Discord RP (Rich Presence), которая позволяет показать что вы делаете в Интернете (и несколько программ) в вашем профиле Discord как **играющий статус**.
 
 <a name="stats"></a>
 
-### Stats
+### Статистика
 
 <table>
   <tr>
@@ -52,13 +52,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Все релизы"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub<br />релизы"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Последние релизы"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub<br />релизы"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Requirements
+### Требования
 
 Технически каждый дистрибутив, который может запускать [официальное](https://discordapp.com/download) **приложение** (не веб или привязка) может запускать PreMiD;</br> Как вы можете заметить в последние годы, некоторые дистрибутивы Linux начали отказываться от поддержки архитектур (ia32/i686/i386/x86) и, как следствие, мы также сделали это. Однако вы можете попробовать создать приложение самостоятельно, если вам отчаянно нужно использовать его на 32-битном распределении.</br> Поскольку мы в настоящее время используем Electron в качестве движка (Discord тоже!), его требования также применимы к этому приложению:
 
@@ -70,17 +70,17 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="support"></a>
 
-### Support
+### Сервер поддержки
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Присоединяйтесь к нашему Discord серверу!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Присоединяйтесь к нашему Discord серверу!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### Благодарность
 
 Благодарности :
 
@@ -92,7 +92,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="license"></a>
 
-### License
+### Лицензия
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Инструкция по установке
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Дополнительно
 
 Либо если вы хотите попробовать PreMiD или просто не хотите его установить, это самый лучший, он всегда в курсе, но DOESN'T AUTO-START С СИСТЕМНЫМИ!</br>Если вы устали открывать его каждый раз, используйте другие пакеты (в зависимости от вашего дистрибутива).
 
@@ -153,7 +153,7 @@ curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh 
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Инструкция по установке
 
 ```bash
 # Использование yay (рекомендуется)
@@ -183,7 +183,7 @@ pakku -S premid
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Дополнительно
 
 Если ваш дистрибутив использует pacman, то вы должны сначала установить одного из помощников. Если у вас нет такого, рекомендуется запустить Yay:
 
