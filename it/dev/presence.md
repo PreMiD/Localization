@@ -196,30 +196,30 @@ Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è nece
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Versione della tua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link al servizio&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Link alla miniatura della tua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> valore. Si consiglia di utilizzare un colore primario del servizio
+        che la tua presence supporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -231,39 +231,39 @@ Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è nece
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. Vedi le categorie valide <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">qui</a>.</td>
+      <td style="text-align:left">Una stringa usata per rappresentare la categoria sotto la quale cade la presence. Vedi le categorie valide <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">qui</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Definisce se <code>iframes</code> sono utilizzati.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Vedi regExp per maggiori informazioni.</td>
+      <td style="text-align:left">Un selettore di espressione regolare che seleziona gli iFrames in cui iniettare. Vedi regExp per maggiori informazioni.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Definisce se l'estensione debba leggere il registro.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Un vettore di impostazioni che l'utente può modificare.<br>
       Leggi di più sulle impostazioni delle presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">qui</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Abbiamo creato un `metadata.json` creatore di file per i pigroni [qui](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Primi passi
 
