@@ -59,6 +59,10 @@
         "message": "Смотрит истории",
         "description": ""
     },
+    "amazon.store": {
+        "message": "Смотрит магазин:",
+        "description": ""
+    },
     "amazon.primeVid": {
         "message": "Смотрит Prime видео:",
         "description": ""
