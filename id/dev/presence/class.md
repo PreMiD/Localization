@@ -1,5 +1,5 @@
 ---
-title: Kelas Presensi
+title: Kelas Presence
 description: Kelas utama untuk setiap presence PreMiD
 published: true
 date: 2021-01-04T18:22:24.312Z
@@ -36,7 +36,7 @@ Ketika pengaturan `injectOnComplete` adalah `true` maka event `UpdateData` perta
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+Ketika pengaturan `appMode` adalah `true` dan presence mengirim `PresenceData` kosong, maka app akan memunculkan aplikasi (gambar dan nama) ke profil user dari pada tidak sama sekali.
 
 ## Metode
 
@@ -54,7 +54,7 @@ Parameter kedua menentukan kapan presence memainkan sesuatu atau tidak. Selalu g
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Menghapus aktivitas Anda saat ini dan judul tray.
 
 ### `setTrayTitle(String)`
 
@@ -66,28 +66,28 @@ Setel judul baki pada bilah Menu.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Membuat kelas `Slideshow` baru.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Disarankan untuk melakukan ini setelah membuat Kelas `Presence`:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Contoh clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Kamu bisa menemukan dokumentasi untuk kelas `Slideshow` [disini](/dev/presence/slideshow).
 
 ### `getStrings(Object)`
 
 Metode asinkron yang memungkinkan kamu untuk mendapatkan string terjemahan dari extension.
 
-Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Anda harus memberikan `Object` dengan kunci sebagai kunci untuk string, `keyValue` adalah nilai string. Daftar string terjemahan bisa ditemukan di titik akhir ini: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Mengembalikan string `Playing` dan` Paused`
@@ -97,11 +97,11 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // hasil: Playing
+const pauseString = strings.pause; // hasil: Paused
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Sejak ekstensi v2.2.0 Anda sekarang bisa mendapatkan string bahasa tertentu. Ini sudah bekerja baik dengan opsi pengaturan `multiLanguage` yang baru ditambahkan.
 
 We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
 
@@ -115,29 +115,29 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // String yang Anda peroleh, pastikan ini sesuai dengan interface LangStrings Anda.
       play: "general.playing",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // ID diisi dengan ID dari pengaturan multiLanguage.
     await presence.getSetting("ID")
   );
 }
 
 let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+  // ID diisi dengan ID dari pengaturan multiLanguage.
   oldLang: string = await presence.getSetting("ID");
 
 //! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+// ID diisi dengan ID dari pengaturan multiLanguage.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // hasil: Playing
+const pauseString = strings.pause; // hasil: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Mengembalikan variabel dari situs web jika ada.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Ini akan mencatat "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -157,9 +157,9 @@ Mengembalikan versi dari ekstensi yang digunakan pengguna.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Akan mencatat 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Akan mencatat 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -167,8 +167,8 @@ console.log(version); // Will log 2.1.0
 Returns value of setting.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); //Ubah pdexID dengan id dari setting
+console.log(setting); // Ini akan mencatat isi dari setting
 ```
 
 ### `hideSetting(String)`
@@ -302,8 +302,7 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Menentukan durasi penuh.
         <br>Digunakan jika Anda ingin menampilkan berapa <code>jam:menit:detik</code> tersisa.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Anda harus mengonversi waktu Anda ke <code>timestamp</code> atau akan mendapatkan hitungan mundur yang salah.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -332,8 +331,8 @@ Antarmuka ini memiliki variabel berikut, semuanya adalah opsional.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "Judul saya",
+  state: "Deskripsi saya",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
   smallImageText: "You hovered me, and what now?",
@@ -348,7 +347,7 @@ Acara memungkinkan Anda untuk mendeteksi dan menangani beberapa perubahan atau p
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Melakukan sesuatu ketika data diperbarui.
 });
 ```
 
