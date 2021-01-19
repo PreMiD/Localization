@@ -72,16 +72,16 @@ Cria uma nova classe `Slideshow`.
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+É sugerido fazer isso logo após a criação da classe `Presence`:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Examplo de clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Você pode encontrar a documentação da classe `Slideshow` [aqui](/dev/presence/slideshow).
 
 ### `getStrings(Objeto)`
 
