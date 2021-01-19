@@ -103,9 +103,17 @@
 		"message": "返回",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "取消",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "確定",
 		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "完成",
+		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "登入",
@@ -124,7 +132,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.skipanyway.message1": {
-		"message": "我不想幫忙。",
+		"message": "我不想支持.",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message2": {
@@ -136,7 +144,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "拜...拜託請幫忙  : (",
+		"message": "拜...拜託請支持我 QAQ",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
@@ -144,15 +152,15 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {
-		"message": "好吧，好吧...",
+		"message": "好，好吧...",
 		"description": "Last message of the skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.showbeta.message": {
-		"message": "顯示Beta下載",
+		"message": "顯示Beta版的下載",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
-		"message": "(如果只是想在這下載一般的程式則不需要)",
+		"message": "(如果只是想在這下載普通版本則不需要)",
 		"description": "Small text under the show beta title."
 	}
 }
