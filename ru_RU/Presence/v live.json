@@ -18,5 +18,13 @@
 	"v live.viewTheir": {
 		"message": "Смотрит",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.followed": {
+		"message": "отслеживаемые каналы",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Читает правила",
+		"description": ""
 	}
 }
