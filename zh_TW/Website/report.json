@@ -19,6 +19,14 @@
 		"message": "選擇您操作的系統或裝置",
 		"description": "Select Box for the user to select their operating system"
 	},
+	"report.browser": {
+		"message": "選擇您的瀏覽器和版本--您可以通過訪問Firefox上的about:support或chrome上的chrome://help來獲得版本。",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "提供一個例子的鏈接(影片etc)或一套明確的步驟來重現這個錯誤.",
+		"description": "Text for the user to write information about the bug."
+	},
 	"report.button": {
 		"message": "回報",
 		"description": "Button to send the information inputed."
