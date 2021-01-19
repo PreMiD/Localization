@@ -15,9 +15,25 @@
 		"message": "專案負責人",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
+	"contributors.roles.staffCoordinator": {
+		"message": "工作人員協調員",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "市場總監",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "管理員",
 		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "審查員",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "開發人員",
+		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
 		"message": "設計者",
@@ -30,6 +46,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "支援代理",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "代表",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "校對員",
