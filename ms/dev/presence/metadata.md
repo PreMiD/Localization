@@ -207,7 +207,7 @@ Jika anda ingin belajar ungkapan nalar, di sini ada beberapa laman sesawang.
 
 ## Bahasa Presence
 
-PreMiD ialah perkhidmatan pelbagai bahasa, maksudnya terdapat banyak bahasa terlibat untuk berhubung dengan pengguna di seluruh dunia. Senarai penuh bahasa boleh dijumpai di [titik akhir API](https://api.premid.app/v2/langFile/list) ini. Untuk menyesuaikan Presence anda dengan lebih lanjut, ada boleh benarkan pengguna untuk memilih bahasa paparan Presence mereka, lihat [`multiLanguage`](#multilanguage) untuk maklumat lanjut.
+PreMiD ialah perkhidmatan pelbagai bahasa, maksudnya terdapat banyak bahasa terlibat untuk berhubung dengan pengguna di seluruh dunia. Senarai penuh bahasa boleh dijumpai di [titik akhir API](https://api.premid.app/v2/langFile/list) ini. Untuk menyesuaikan Presence anda dengan lebih lanjut, anda boleh benarkan pengguna untuk memilih bahasa paparan Presence mereka, lihat [`multiLanguage`](#multilanguage) untuk maklumat lanjut.
 
 ## Tetapan Presence
 Tetapkan tetapan saling tindak supaya pengguna boleh mengubah suai Presence tersebut!
@@ -251,7 +251,7 @@ Tetapan `multiLanguage` digunakan untuk membolehkan pengguna memilih bahasa yang
 
 #### Persediaan
 
-Tetapan `multiLanguage` ini sedikit istimewa, ia tidak memerlukan nilai tajuk `title` atau ikon `icon` atau nilai `value` atau nilai-nilai `values` seperti tetapan lain tetapi ia perlukan anda membuat lebih banyak tetapan!
+Tetapan `multiLanguage` ini sedikit istimewa, ia tidak memerlukan nilai-nilai `title` atau `icon` atau `value` atau `values` seperti tetapan lain tetapi ia perlukan anda membuat lebih banyak tetapan lain!
 
 Kekunci `multiLanguage` boleh ditetapkan seperti berikut:
 
@@ -346,7 +346,7 @@ Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence 
     <tr>
       <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Permainan</b></td>
-      <td style="text-align:left">Sebarang laman web yang mempunyai kandungan berkaitan permainan, contohnya <code>Kahoot</code> atau <code>Skribbl.io</code></td>
+      <td style="text-align:left">Sebarang laman sesawang yang mempunyai kandungan berkaitan permainan, contohnya <code>Kahoot</code> atau <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
@@ -361,7 +361,7 @@ Apabila mencipta Presence anda, anda mesti tetapkan kategori yang mana Presence 
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Video & Strim</b></td>
-      <td style="text-align:left">Laman web yang bertujuan untuk menyediakan video dan strim.</td>
+      <td style="text-align:left">Laman sesawang yang bertujuan untuk menyediakan video dan strim.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>

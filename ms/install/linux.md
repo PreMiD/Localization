@@ -60,7 +60,7 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 
 ### Keperluan
 
-Secara teknikalnya semua edaran yang mampu menjalankan **aplikasi** [rasmi](https://discordapp.com/download) Discord ( bukan versi web atau snap ) juga boleh menjalankan PreMiD;</br> Seperti yang anda perasan dalam tahun kebelakangan ini, sesetengah edaran Linux mula menamatkan sokongan seni bina 32-bit (ia32/i686/i386/x86), dan oleh sebab itu, kami pun membuat perkara yang sama. Namun begitu, anda boleh cuba membina aplikasi ini sendiri jika anda amat perlu menggunakannya di edaran 32-bit.</br> Oleh kerana kami menggunakan Electron sebagai enjinnya ketika ini (Discord pun sama!), keperluannya juga terpakai untuk aplikasi ini:
+Secara teknikalnya semua edaran yang mampu menjalankan **aplikasi** [rasmi](https://discordapp.com/download) Discord ( bukan versi sesawang atau snap ) juga boleh menjalankan PreMiD;</br> Seperti yang anda perasan dalam tahun kebelakangan ini, sesetengah edaran Linux mula menamatkan sokongan seni bina 32-bit (ia32/i686/i386/x86), dan oleh sebab itu, kami pun membuat perkara yang sama. Namun begitu, anda boleh cuba membina aplikasi ini sendiri jika anda amat perlu menggunakannya di edaran 32-bit.</br> Oleh kerana kami menggunakan Electron sebagai enjinnya ketika ini (Discord pun sama!), keperluannya juga terpakai untuk aplikasi ini:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21

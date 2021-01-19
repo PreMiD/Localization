@@ -26,6 +26,6 @@ Linux rendszerek esetében **legalább 20MB RAM** szükséges a PreMiD futtatás
 A PreMiD körülbelül **150MB** tárhelyet foglal. Azonban, legalább **200 MB** tárhely ajánlott.
 
 ### Internet hozzáférés
-A internet connection is required to run PreMiD. A PreMiD automatikusan keres frissítéseket, nyelvi adatokat, állapotüzeneti frissítéseket, stb. körülbelül heti egy alkalommal.
+A PreMiD futtatásához internetkapcsolat szükséges. A PreMiD automatikusan keres frissítéseket, nyelvi adatokat, állapotüzeneti frissítéseket, stb. körülbelül heti egy alkalommal.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

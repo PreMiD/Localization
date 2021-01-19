@@ -189,7 +189,7 @@ presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Mengembalikan log bagi konsol laman sesawang.
 
 ```typescript
 const logs = await presence.getLogs();
