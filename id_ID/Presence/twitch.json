@@ -203,6 +203,14 @@
 		"message": "Memaksimalkan ekspresi kami",
 		"description": "Page name"
 	},
+	"twitch.brandTogether": {
+		"message": "Menyatukan semuanya bersama",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Menonton perkembangan brand di Twitch",
+		"description": "Watching as in watching a video"
+	},
 	"twitch.blogs": {
 		"message": "Blog Twitch",
 		"description": ""
@@ -227,8 +235,28 @@
 		"message": "Menelusuri katalog topik...",
 		"description": ""
 	},
+	"twitch.affiliate": {
+		"message": "Program Afiliasi Twitch",
+		"description": "Page name"
+	},
 	"twitch.dev": {
 		"message": "Twitch Developers",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Dokumentasi Pengembang Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produk Pengembang Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Kisah sukses dari komunitas",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Sumber Berguna",
 		"description": "Page name"
 	}
 }
