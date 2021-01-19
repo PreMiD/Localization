@@ -203,6 +203,18 @@
 		"message": "مشاهده صفحه:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "تماشای فیلم",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "تماشای سری",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "تماشای نمایش",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "نگاه کردن ویدیو",
 		"description": ""

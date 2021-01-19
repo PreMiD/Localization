@@ -1,1 +1,30 @@
-{}
+{
+	"netflix.viewSeries": {
+		"message": "مشاهده سری",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "مشاهده فیلم",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "دیدن قسمت",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewList": {
+		"message": "مشاهده لیست‌شان",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "مدیریت پروفایلشان",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "دیدن چیز های جدید و{0}محبوب در Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "گرفتن{0}لینک معرف‌شان",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}
