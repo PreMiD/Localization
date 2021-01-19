@@ -1,1 +1,18 @@
-{}
+{
+	"netflix.viewSeries": {
+		"message": "Смотрит серию",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Смотрит кино",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Смотрит эпизод",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.profile": {
+		"message": "Редактирует свой профиль",
+		"description": ""
+	}
+}

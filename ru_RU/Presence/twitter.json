@@ -3,6 +3,10 @@
         "message": "Читает твит:",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "Смотрит личные сообщения",
+        "description": ""
+    },
     "twitter.viewTweets": {
         "message": "Смотрит твитов:",
         "description": ""
