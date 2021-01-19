@@ -193,38 +193,38 @@ Mengembalikan catatan dari konsol situs web.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Ini akan mencatat 100 catatan terbaru (dalam array).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Catatan:** Membutuhkan `readLogs` untuk menjadi `true` di file `metadata.json`.
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Mencetak pesan yang diberikan di konsol dalam format berdasarkan dengan presence di `info` style.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Ini akan mencatat "test" dengan styling yang benar.
 ```
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Cetak pesan yang diberikan di konsol dengan format berdasarkan presence di `success` style.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Test") // Ini akan mencatat "test" dengan styling yang benar.
 ```
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Cetak pesan yang diberikan di konsol dengan format berdasarkan presence di `error` style.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Test") // Ini akan mencatat "test" dengan styling yang benar.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Mengembalikan 2 `snowflake` timestamp pada `Array` yang bisa digunakan untuk `startTimestamp` dan `denTimestamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Catatan:** `String` yang diberikan di querySelector di contoh.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Mengembalikan 2 `snowflake` timestamp pada `Array` yang bisa digunakan untuk `startTimestamp` dan `denTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Catatan:** `String` yang diberikan di querySelector di contoh.
 
 ### `timestampFromFormat(String)`
 
@@ -259,7 +259,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Catatan:** `String` yang diberikan di querySelector di contoh.
 
 ## `PresenceData` Antarmuka
 
