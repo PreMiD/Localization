@@ -71,6 +71,10 @@
 		"message": "Presence Riktlinjer",
 		"description": "A page name"
 	},
+	"premid.pagePresenceClass": {
+		"message": "Presence Klass",
+		"description": "A page name"
+	},
 	"premid.pageSlideshowClass": {
 		"message": "Bildspelsklass",
 		"description": "A page name"
