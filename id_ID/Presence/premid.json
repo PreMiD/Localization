@@ -71,6 +71,14 @@
 		"message": "Panduan Presence",
 		"description": "A page name"
 	},
+	"premid.pagePresenceClass": {
+		"message": "Kelas Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Kelas Slideshow",
+		"description": "A page name"
+	},
 	"premid.pageIframe": {
 		"message": "Memahami iframe",
 		"description": "A page name"
