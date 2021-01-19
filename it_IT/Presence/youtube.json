@@ -27,6 +27,14 @@
         "message": "Ricercando nel canale: {0} per:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.trending": {
+        "message": "Guardando le tendenze",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Navigando attraverso",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.subscriptions": {
         "message": "le loro sottoscrizioni",
         "description": "Part two of \"Browsing through\""
@@ -47,8 +55,12 @@
         "message": "Visualizzando la cronologia delle segnalazioni",
         "description": ""
     },
+    "youtube.upload": {
+        "message": "Caricando qualcosa...",
+        "description": ""
+    },
     "youtube.viewAllPlaylist": {
-        "message": "Visualizzando tutte le loro playlist",
+        "message": "Visualizzando tutte le loro playlists",
         "description": ""
     },
     "youtube.viewLiveEvents": {
@@ -82,6 +94,10 @@
     "youtube.studio.videoTranslations": {
         "message": "Visualizzando le traduzioni del video:",
         "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Visualizzando i loro",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "analisi del canale",
