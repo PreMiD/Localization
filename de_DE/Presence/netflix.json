@@ -19,6 +19,10 @@
 		"message": "Verwaltet seine Profile",
 		"description": ""
 	},
+	"netflix.latest": {
+		"message": "Schaut, was neu und{0}populär ist auf Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
 	"netflix.referral": {
 		"message": "Bekommt {0} Empfehlungslink",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
