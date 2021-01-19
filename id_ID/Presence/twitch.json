@@ -3,12 +3,48 @@
 		"message": "Unduhan",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Pekerjaan",
+		"description": "Page name"
+	},
 	"twitch.turbo": {
 		"message": "Turbo",
 		"description": "Page name"
 	},
+	"twitch.partners": {
+		"message": "Mitra",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Keamanan",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Aksesibilitas",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Pilihan Ad",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Panduan Komunitas",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Beranda",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Melihat dompet...",
+		"description": ""
+	},
 	"twitch.esports": {
 		"message": "Melihat Esport...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Melihat Orang yang Saya Ikuti...",
 		"description": ""
 	},
 	"twitch.viewTeam": {
@@ -17,6 +53,10 @@
 	},
 	"twitch.viewDropsInv": {
 		"message": "Melihat Inventaris Drop...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Melihat Drops campaigns yang aktif...",
 		"description": ""
 	},
 	"twitch.viewSettings": {
@@ -42,6 +82,54 @@
 	"twitch.redeem": {
 		"message": "Menukar kode...",
 		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Pelajari Dasar-dasarnya",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Mengatur Stream",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Naik Level",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Sambung dan Libatkan",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Dapatkan Imbalan",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Musik di Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Belajar Langsung",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Dasbor Kreator",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Mengatur stream...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Mangatur peran komunitas...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "Di Produser Video...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Melihat",
+		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {
 		"message": "Analisis Channel",
@@ -83,6 +171,10 @@
 		"message": "Pengaturan Drops",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
+	"twitch.tools": {
+		"message": "Melihat Alat Streaming",
+		"description": ""
+	},
 	"twitch.extensions": {
 		"message": "Melihat Ekstensi",
 		"description": ""
@@ -90,6 +182,10 @@
 	"twitch.brand": {
 		"message": "Membaca tentang Twitch Brand...",
 		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Menjaga Twitch tetap nyata",
+		"description": "Page name"
 	},
 	"twitch.blogs": {
 		"message": "Blog Twitch",
