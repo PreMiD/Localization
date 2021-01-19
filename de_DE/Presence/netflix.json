@@ -1,4 +1,16 @@
 {
+	"netflix.viewSeries": {
+		"message": "Schaut Serien an",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Film ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Episode ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
 	"netflix.viewList": {
 		"message": "Schaut seine Liste an",
 		"description": "List as in their saved series/movies."
@@ -9,6 +21,10 @@
 	},
 	"netflix.latest": {
 		"message": "Schaut, was neu und{0}populär ist auf Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Bekommt seinen {0}Empfehlungslink",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	}
 }
