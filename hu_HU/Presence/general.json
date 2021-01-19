@@ -167,6 +167,18 @@
 		"message": "Oldal megtekintése:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Filmet néz",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Sorozatot néz",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Egy showt néz",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Videót néz",
 		"description": ""
