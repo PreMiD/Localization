@@ -80,7 +80,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "通過您的貢獻，我們才可以成功執行此項目。",
+		"message": "通過您的貢獻，我們才可以成功經營此項目。",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
@@ -96,7 +96,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "能夠在其他人之前測試新功能。",
+		"message": "能夠在其他任何人之前測試新功能。",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
