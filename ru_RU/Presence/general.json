@@ -203,6 +203,14 @@
 		"message": "Смотрит страницу:",
 		"description": ""
 	},
+	"general.watchingSeries": {
+		"message": "Смотрит серию",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Cмотрит шоу",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Просмотр видео",
 		"description": ""
