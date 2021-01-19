@@ -14,5 +14,9 @@
 	"v live.upcoming": {
 		"message": "предстоящая страница",
 		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.viewTheir": {
+		"message": "Смотрит",
+		"description": "The first part of the next 6 strings"
 	}
 }
