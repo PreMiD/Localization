@@ -80,11 +80,11 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "পুরুন আপা",
+		"message": "আউটডেটেড অ্যাপ",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "আপনার PreMiD আপা তা আউটডেটেড. প্লিজ আপডেট করুন যদি আপ্নে PreMid উসে করা কন্টিনিউ করতে চান.",
+		"message": "তোমার PreMiD অ্যাপটি আউটডেটেড। এটিকে আপডেট করো PreMiD এর ব্যবহার চালিয়ে যাওয়ার জন্যে।",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
