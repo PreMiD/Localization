@@ -1,1 +1,10 @@
-{}
+{
+	"v live.browseThrough": {
+		"message": "A pesquisar por",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "A ver os seus",
+		"description": "The first part of the next 6 strings"
+	}
+}
