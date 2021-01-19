@@ -176,15 +176,15 @@
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "يشاهد:",
+		"message": "جاري مشاهدة السلسلة:",
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "يشاهد العرض:",
+		"message": "جاري مشاهدة العرض:",
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "يشاهد الحساب الخاص به",
+		"message": "جاري مشاهدة الحساب الخاص به",
 		"description": ""
 	},
 	"general.viewThread": {
@@ -201,6 +201,18 @@
 	},
 	"general.viewPage": {
 		"message": "جاري مشاهدة الصفحة:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "جاري مشاهدة فيلم",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "جاري مشاهدة سلسلة",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "جاري مشاهدة عرض",
 		"description": ""
 	},
 	"general.watchingVid": {
