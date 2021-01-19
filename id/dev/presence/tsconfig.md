@@ -1,5 +1,5 @@
 ---
-title: TypeScript Configuration
+title: Konfigurasi TypeScript
 description: Bantuan kecil untuk TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -61,7 +61,7 @@ Pada file konfigurasi root anda akan melihat hal seperti ini.
 }
 ```
 
-| Property            | Deskripsi                                                                                        |
+| Properti            | Deskripsi                                                                                        |
 |:------------------- |:------------------------------------------------------------------------------------------------ |
 | **extends**         | Digunakan untuk menambahkan base file `tsconfig` untuk berbagai macam tugas.                     |
 | **compilerOptions** | Lihat [**Konfigurasi Root**](/dev/presence/tsconfig#root-configuration) untuk info lebih lanjut. |
