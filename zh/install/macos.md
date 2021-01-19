@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: 開始在MacOS上安裝PreMiD
+description: 开始在 macOS 上安装PreMiD
 published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> 在進一步的動作前，請確認您的系統都有達到[需求](/install/requirements)。 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-軟體的安裝非常重要，因為擴充功能無法自行做任何的操作
+The installation of the application is very important as the extension can not do anything by itself.
 
-# 安裝
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. 選擇**OS X**
-3. 若必要的話請提取封存
-4. 開啟下載程式。
-5. 若你第一次安裝PreMiD時**安全警告**將會出現 前往**系統偏好設定 **>** 安全性與隱私權 **>** 一般 **>** 打開** [深入了解](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) 未註冊的程式
-> 這是因為我們沒有代碼簽章(CSC) [支持我們](https://www.patreon.com/Timeraa)來為它投資{.is-info}
-6. 提示時選擇開啟
-7. 提示 **防火牆連線** 和 **控制系統活動** 時允許
+# 安装
+1. [点击这里](https://premid.app/downloads) 来转到我们的下载页面。
+2. 选择 **OS X**。
+3. 如有必要，提取归档。
+4. 打开安装程序。
+5. 如果您首次安装PreMiD， **安全警报** 将会出现。 进入您的 **首选项** > **安全** > **通用** > **无论如何打开**。 [了解更多关于未签名应用程序的](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac)。
+> 这是因为我们没有代码签名证书 [支持我们](https://www.patreon.com/Timeraa) 来为它添加资金。{.is-info}
+6. 当提示时选择打开.
+7. 通过 **防火墙** 并控制 **系统事件** 授权访问连接。
 
-程式將自動開啟 ，請在 Dock 點擊圖示。
+应用程序将自动启动。 检查菜单栏中的符号。
 
-> 別忘了[加上**擴充功能**](/install) 
+> 不要忘记添加 [添加 **扩展**](/install)。 
 > 
 > {.is-warning}
 
