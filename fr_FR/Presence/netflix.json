@@ -8,7 +8,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewEpisode": {
-		"message": "Regarder l'épisode",
+		"message": "Regarde l'épisode",
 		"description": "Used as the title for the button in Discord."
 	},
 	"netflix.viewList": {
