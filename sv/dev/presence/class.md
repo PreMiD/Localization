@@ -1,5 +1,5 @@
 ---
-title: Närvaro Klass
+title: Prensence Klass
 description: Huvudklassen för varje PreMiD presence
 published: true
 date: 2021-01-04T18:22:24.312Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Presence Class
+# Prensence Klass
 
 ## Introduktion
 
@@ -24,7 +24,7 @@ const presence = new Presence({
 
 ### Egenskaper
 
-There are three properties available for `Presence` class.
+Det finns tre egenskaper tillgängliga för `Närvaro` klass.
 
 #### `clientId`
 
