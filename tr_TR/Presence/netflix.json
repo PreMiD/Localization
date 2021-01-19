@@ -1,1 +1,30 @@
-{}
+{
+	"netflix.viewSeries": {
+		"message": "Seriyi Göster",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Filmi Göster",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Bölümü İzle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewList": {
+		"message": "Listesine göz atıyor",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Profilini yönetiyor",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Netflix'de neyin yeni ve{0}popüler olduğuna bakıyor",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Referans bağlantısını{0}alıyor",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}
