@@ -11,9 +11,41 @@
 		"message": "Műfajokat böngészi",
 		"description": ""
 	},
+	"spotify.latest": {
+		"message": "Nézi a legújabb megjelenéseket",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Új számokat fedesz fel",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Böngészi",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "a kedvelt podcast-jeit",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "a kedvelt előadóit",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "a kedvelt albumait",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "a kedvelt számait",
+		"description": "\"Browsing through\" + this"
+	},
 	"spotify.madeForYou": {
 		"message": "\"Neked készült\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "a kedvelt lejátszási listáit",
+		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
 		"message": "Spotify Letöltése",
