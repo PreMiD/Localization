@@ -3,6 +3,18 @@
 		"message": "報告錯誤",
 		"description": "Text to indicate the page."
 	},
+	"report.bugcount": {
+		"message": "剩餘 {count}/3 報告次數",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "錯誤報告是對PreMiD網站和PreMiD Discord服務器內的錯誤.任何presence的錯誤應報告該presence的作者.只允許使用英文。",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "對bug的內容進行清晰簡潔的描述。",
+		"description": "Text for the user to write a brief of the bug information."
+	},
 	"report.os": {
 		"message": "選擇您操作的系統或裝置",
 		"description": "Select Box for the user to select their operating system"
@@ -18,5 +30,9 @@
 	"report.error.unauth": {
 		"message": "Discord帳號需要被驗證",
 		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "已知的錯誤",
+		"description": "Lists users active bugs"
 	}
 }
