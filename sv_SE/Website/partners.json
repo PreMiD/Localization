@@ -15,6 +15,14 @@
 		"message": "Vad sägs om att gå till himlen istället för helvetet?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Din fria Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Vårt team kommer att förse dig med en Presence till din service.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Bli verifierad",
 		"description": "Heading for the second benefit."
@@ -26,6 +34,10 @@
 	"partners.why.benefit3.title": {
 		"message": "Meta-tag integration",
 		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Använder automatiskt din Presence när någon besöker din webbplats.",
+		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Bli förevigad",
@@ -119,6 +131,10 @@
 		"message": "En gudinna som spelar som en rolig Discord Bot!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM låter dig lyssna på 15 + musikstreamingtjänster gratis - nonstop. Med den bästa och senaste musiken, bara för dig!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Smidig översättningslösning för teknikföretag.",
 		"description": "Description for Crowdin."
@@ -134,6 +150,10 @@
 	"partners.partner.fastly": {
 		"message": "Bakom det bästa av nätet.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit är din online musik radiostation gjord för att spela dina bästa hits 24/7 och för att få dig att upptäcka dina framtida hits först.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Ansök om partnerskap",
