@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Panduan
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Bagi beberapa, peraturan ini mungkin agak kejam. However, the implementation of these rule sets will keep us and our users from running into issues.
+Ketika mempublikasikan Presence ke [GitHub Repository Kami](https://github.com/PreMiD/Presences) kami membutuhkan kamu untuk mengikuti panduan. Bagi beberapa, peraturan ini mungkin agak kejam. Bagaimanapun, penerapan aturan ini bertujuan untuk menjaga kami dan user dari masalah.
 
 # Pembuatan
 
@@ -202,7 +202,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 
 - Jika anda memutuskan untuk membuat string format ( misal, `%song% by %artist%`), anda harus membuat variabel dengan tanda persen diawal dan diakhir. Variabel seperti `%var`, `var%`, atau `%%var%%` dan apapun diantaranya **tidak** diperbolehkan demi standardisasi.
 - Nama pengaturan harus **tidak** menggunakan huruf kapital semuanya. Untuk contoh, nama seperti `PERLIHATKAN STATUS BROWSING` **tidak** diperbolehkan; namun, nama seperti `Perlihatkan Status Browsing` atau `Perlihatkan status browsing` diperbolehkan.
-- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
+- Menambahkan custom string ke [Localization Repository](https://github.com/PreMiD/Localization) untuk nanti digunakan ketika pengaturan `multiLanguage` hanya di izinkan jika presence sudah dirilis sebelumnya dan memiliki setidaknya 1000 pengguna.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
@@ -295,7 +295,7 @@ Beberapa hal yang harus anda ketahui setelah membuka pull request:
 
 ## `Pemeriksaan`
 
-![Checks](https://i.imgur.com/BCDZQe9.png)
+![Pemeriksaan](https://i.imgur.com/BCDZQe9.png)
 
 Saat ini, sebuah presence melewati 2 tahapan pemeriksaan. Pemeriksaan ini membantu reviewer untuk menentukan apakah presencemu cocok untuk perilisan.
 
