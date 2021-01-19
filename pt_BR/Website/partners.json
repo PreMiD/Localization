@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Parceiros",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "Junte-se ao pessoal e obtenha alguns benefícios exclusivos de parceiros para mostrar o quanto de swag você tem.",
 		"description": "Description for page."
@@ -50,6 +54,10 @@
 	"partners.why.benefit5.description": {
 		"message": "Destaque em nossas redes sociais.",
 		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Requisitos",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "O que estamos procurando?",
@@ -175,6 +183,14 @@
 		"message": "Site",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "Outros",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nome",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
 		"description": "Name field's placeholder."
@@ -210,6 +226,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "Aplicar",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Obrigado por se aplicar!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Por favor, complete todos os campos.",

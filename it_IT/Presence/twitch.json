@@ -87,6 +87,10 @@
 		"message": "Riscattando un codice...",
 		"description": ""
 	},
+	"twitch.camp": {
+		"message": "Creator Camp",
+		"description": ""
+	},
 	"twitch.campBasic": {
 		"message": "Impara le basi",
 		"description": "Page name"
