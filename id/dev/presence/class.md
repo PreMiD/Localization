@@ -103,10 +103,10 @@ const pauseString = strings.pause; // hasil: Paused
 
 Sejak ekstensi v2.2.0 Anda sekarang bisa mendapatkan string bahasa tertentu. Ini sudah bekerja baik dengan opsi pengaturan `multiLanguage` yang baru ditambahkan.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Kami merekomendasikan Anda untuk menggunakan kode yang otomatis mengupdate PresenceData jika user mengganti bahasa yang dipilih;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Interface string yang Anda dapatkan (bagus untuk kualitas kode dan pelengkapan otomatis).
 interface LangStrings {
   play: string;
   pause: string;
@@ -128,7 +128,7 @@ let strings: Promise<LangStrings> = getStrings(),
   // ID diisi dengan ID dari pengaturan multiLanguage.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
+//! Kode dibawah harus berada didalam event updateData!
 // ID diisi dengan ID dari pengaturan multiLanguage.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
@@ -164,7 +164,7 @@ console.log(version); // Akan mencatat 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Mengembalikan isi dari pengaturan.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Ubah pdexID dengan id dari setting
@@ -173,23 +173,23 @@ console.log(setting); // Ini akan mencatat isi dari setting
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Sembunyikan pengaturan yang diberikan.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Ubah pdexID dengan id dari pengaturan
 ```
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Tampilkan pengaturan yang diberikan (Hanya bekerja jika pengaturan telah disembunyikan).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Ubah pdexID dengan id dari pengaturan
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Mengembalikan catatan dari konsol situs web.
 
 ```typescript
 const logs = await presence.getLogs();

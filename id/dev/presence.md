@@ -250,7 +250,7 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Lihat regExp untuk informasi lebih lanjut.</td>
+      <td style="text-align:left">Penentu regular expression yang memilih iframe yang di inject. Lihat regExp untuk informasi lebih lanjut.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -270,7 +270,7 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meru
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Kami telah membuat `metadata.json` file creator bagi mereka yang malas [disini](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Memulai
 
@@ -308,22 +308,22 @@ presence.on("UpdateData", async () => {
     largeImageKey:
       "key" /*Key (nama file) dari Lare Image di presence. Ini di unggah dan dinamai di Rich Presence dari aplikasi anda, disebut Art Assets*/,
     smallImageKey:
-      "key" /*Key (nama file) dari Large Image di presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+      "key" /*Key (nama file) dari Large Image di presence. Berikut adalah yang diupload dan dinamai pada bagian Rich Presence dari aplikasimu, bernama Art Assets*/
+        smallImageText: "Some hover text", //Teks yang akan terlihat ketika hover pada gambar kecil
+        details: "Browsing Page Name", //Bagian atas dari teks presence
+        state: "Reading section A", //Bagian bawah dari teks presence
+        startTimestamp: 1577232000, //Unix epoch timestamp untuk mulai menghitung
+        endTimestamp: 1577151472000 //Jika anda ingin menampilkan waktu tersisa dari pada waktu berlalu, ini adalah unix epoch timestamp dimana hitung mundur selesai
+    }; /*Secara opsional anda dapat mengatur largeimagekey disini dan merubahnya sebagai subproperti variabel, contohnya presenceSata.type = "serahlo"; contoh type: details, state, etc.*/
 
-  if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-  } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
-  }
+    if (presenceData.details == null) {
+        //Ini akan dijalankan jika anda tidak mengatur detail presence
+        presence.setTrayTitle(); //Bersihkan tray title untuk pengguna mac
+        presence.setActivity(); /*Update presence tanpa data, akan membersihkannya dan membuat gambar besar menjadi gambar Aplikasi Discord, dan teks menjadi nama Aplikasi Discord*/
+    } else {
+        //Ini akan dijalankan jika anda mengatur detail dari presence
+        presence.setActivity(presenceData); //Update presence dengan semua value dari presenceData object
+    }
 });
 ```
 
@@ -397,8 +397,8 @@ Website yang anda sedang anda kembangkan akan otomatis reload setiap anda menyim
 
 # File dijelaskan
 
-- [Presence Class](/dev/presence/class)
+- [Kelas Presence](/dev/presence/class)
 - [Kelas Slideshow](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Kelas iFrame](/dev/presence/iframe)
 - [File Metadata](/dev/presence/metadata)
 - [Konfigurasi TypeScript](/dev/presence/tsconfig ""){.links-list}

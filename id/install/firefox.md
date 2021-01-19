@@ -17,7 +17,7 @@ Pemasangan ekstensi sangat penting agar aplikasi dapat bekerja.
 6. Pilih file yang baru saja diunduh.
 7. Setujui instalasi dengan mengklik tombol **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> Jangan lupa [memasang **aplikasi**](/install). 
 > 
 > {.is-warning}
 
