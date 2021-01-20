@@ -100,7 +100,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate.message": {
-		"message": "আমরা এক্সটেনশনটির জন্য জরুরি আপডেট বের করেছি। এটিকে আপডেট করুন PreMiD ব্যবহার করতে থাকার জন্যে।",
+		"message": "আমরা এক্সটেনশনটির জন্য জরুরি আপডেট বের করেছি। এটিকে আপডেট করো PreMiD ব্যবহার করতে থাকার জন্যে।",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
