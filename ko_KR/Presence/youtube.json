@@ -88,7 +88,7 @@
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "댓글보는중",
+        "message": "댓글 보는중",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
@@ -100,7 +100,7 @@
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
-        "message": "채널 분석중",
+        "message": "채널 분석",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
