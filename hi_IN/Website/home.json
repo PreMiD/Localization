@@ -1,1 +1,10 @@
-{}
+{
+	"home.introduction.paragraph": {
+		"message": "** PreMiD ** एक सरल, विन्यास योग्य उपयोगिता है जो आपको यह दिखाने की अनुमति देती है कि आप वेब पर जो कर रहे हैं वह आपके Discord में अब खेल रहा है।",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "फीचर्स",
+		"description": "Introduction button"
+	}
+}
