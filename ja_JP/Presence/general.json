@@ -203,6 +203,18 @@
 		"message": "ページを閲覧中:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "映画を鑑賞中",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "シリーズを視聴中",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "ショーを視聴中",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "動画を視聴中",
 		"description": ""
