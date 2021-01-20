@@ -54,7 +54,7 @@ Parameter kedua menentukan sama ada Presence sedang memainkan sesuatu atau tidak
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Mengosongkan aktiviti semasa dan tajuk talam.
 
 ### `setTrayTitle(String)`
 
@@ -66,22 +66,22 @@ Menetapkan tajuk talam di bar menu.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Mencipta kelas `Slideshow` yang baharu.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Ianga digalakkan untuk melakukan perkara ini sebaik mencipta kelas `Presence`:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Contoh clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Anda boleh cari pendokumenan untuk kelas `Slideshow` di [sini](/dev/presence/slideshow).
 
 ### `getStrings(Object)`
 
@@ -97,16 +97,16 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // hasilnya: Bermain
+const pauseString = strings.pause; // hasilnya: Dijedakan
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Sejak v2.2.0 sambungan, anda mampu dapatkan rentetan bagi sesebuah bahasa. Ini berfungsi dengan baik menggunakan pilihan tetapan `multiLanguage` yang baru ditambah.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Kami cadangkan anda gunakan kod di bawah supaya ia mengemas kini PresenceData secara automatik sekiranya pengguna mengubah bahasa yang dipilih;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Sebuah antara muka bagi rentetan yang anda akan terima (contoh bagus untuk kualiti kod dan autolengkap).
 interface LangStrings {
   play: string;
   pause: string;
@@ -115,29 +115,29 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // Rentetan yang anda dapatkan, pastikan ia sesuai dengan antara muka LangStrings anda.
       play: "general.playing",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // ID ini ialah ID bagi tetapan multiLanguage.
     await presence.getSetting("ID")
   );
 }
 
 let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+  // ID ini ialah ID bagi tetapan multiLanguage.
   oldLang: string = await presence.getSetting("ID");
 
 //! Kod di bawah mestilah berada dalam peristiwa updateData!
-// The ID is the ID of the multiLanguage setting.
+// ID ini ialah ID bagi tetapan multiLanguage.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // hasilnya: Bermain
+const pauseString = strings.pause; // hasilnya: Dijedakan
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Mengembalikan pemboleh ubah dari laman sesawang jika ia wujud.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Ini akan mengelog "Kandungan pemboleh ubah"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -157,34 +157,34 @@ Mengembalikan versi sambungan yang pengguna guna.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Akan mengelog 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Akan mengelog 2.1.0
 ```
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Mengembalikan nilai tetapan.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); //Gantikan pdexID dengan ID tetapan
+console.log(setting); // Ini akan log nilai tetapan
 ```
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Menyembunyikan tetapan yang diberikan.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Gantikan pdexID dengan ID tetapan
 ```
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Tunjukkan tetapan yang diberi (Hanya berfungsi jika tetapan disembunyikan).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Gantikan pdexID dengan ID tetapan
 ```
 
 ### `getLogs()`
@@ -193,17 +193,17 @@ Mengembalikan log bagi konsol laman sesawang.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Ini akan mengelog 100 log terbaru (dalam tatasusunan).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Nota:** Memerlukan nilai `readLogs` ditetapkan ke `true` dalam fail `metadata.json`.
 
 ### `info(String)`
 
 Mencetak mesej diberi ke konsol dalam format berasaskan Presence dalam gaya `info`.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Ini akan mengelog "test" dalam penggayaan yang betul.
 ```
 
 ### `success(String)`
@@ -211,7 +211,7 @@ presence.info("Test") // This will log "test" in the correct styling.
 Mencetak mesej diberi ke konsol dalam format berasaskan Presence dalam gaya `success`.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Test") // Ini akan mengelog "test" dalam penggayaan yang betul.
 ```
 
 ### `error(String)`
@@ -219,7 +219,7 @@ presence.success("Test") // This will log "test" in the correct styling.
 Mencetak mesej diberi ke konsol dalam format berasaskan Presence dalam gaya `error`.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Test") // Ini akan mengelog "test" dalam penggayaan yang betul.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
