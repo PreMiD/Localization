@@ -15,6 +15,10 @@
 		"message": "PreMiD डाउनलोड करें",
 		"description": "Heading for installing the application"
 	},
+	"downloads.instructions.step_2": {
+		"message": "हमारे आवेदन स्थापित करें",
+		"description": "Heading for installing the application"
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "धन्यवाद!",
 		"description": "Title of the advertisement section box."
