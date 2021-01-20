@@ -71,6 +71,18 @@
 		"message": "লগইন করো ডাউনলোডসগুলো দেখার জন্যে।",
 		"description": "Error message if the user is not logged in."
 	},
+	"downloads.error.noaccess.title": {
+		"message": "ওহ, দেখে মনে হচ্ছে তোমার কাছে অ্যালফা/বেটা অ্যাক্সেস নেই :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.warning.title": {
+		"message": "সতর্কতা",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.button.login": {
+		"message": "লগইন",
+		"description": "Login button on the downloads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "ধন্যবাদ!",
 		"description": "Title of the advertisement section box."
