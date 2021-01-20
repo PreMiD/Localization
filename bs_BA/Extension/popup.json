@@ -87,6 +87,22 @@
 		"message": "Vaša PreMiD aplikacija je zastarjela. Molimo vas da ažulirate da nastaviti koristiti PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Zastarjela Ekstenzija",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Vasa Ekstenzija je zastarjela. Molimo vas azurirajte je da biste preuzeli najnovije funkcije preuzimanjem sa naše stranice.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Hitno ažuriranje",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Izdali smo hitno ažuriranje za ekstenziju. Molimo vas da je ažurirate kako biste nastavili koristiti PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.category.all": {
 		"message": "Sve",
 		"description": "Category name shown when you open tags"
@@ -108,7 +124,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Videos & Strimovi",
+		"message": "Videi & Strimovi",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
