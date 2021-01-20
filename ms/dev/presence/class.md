@@ -32,7 +32,7 @@ Sifat ini diperlukan untuk membolehkan Presence anda berfungsi, kerana ia menggu
 
 #### `injectOnComplete`
 
-Apabila tetapkan nilai `injectOnComplete` kepada `true`, peristiwa `UpdateData` yang pertama untuk kedua-dua fail `presence.ts` dan `iframe.ts` hanya akan dijalankan apabila halaman telah dimuatkan sepenuhnya.
+Apabila menetapkan nilai `injectOnComplete` ke `true`, peristiwa `UpdateData` yang pertama untuk kedua-dua fail `presence.ts` dan `iframe.ts` hanya akan dijalankan apabila halaman telah dimuatkan sepenuhnya.
 
 #### `appMode`
 
@@ -87,7 +87,7 @@ Anda boleh cari pendokumenan untuk kelas `Slideshow` di [sini](/dev/presence/sli
 
 Kaedah tak segerak yang membolehkan anda dapatkan rentetan terjemahan dari sambungan.
 
-Amda mesti sediakan `Object` dengan kekuncinya sebagai kekunci untuk rentetan, `keyValue` ialah nilai rentetan. Senarai rentetan yang diterjemah boleh dijumpai di titik akhir ini: `https://api.premid.app/v2/langFile/presence/en/`
+Amda mesti sediakan objek `Object` dengan kekuncinya sebagai kekunci untuk rentetan, `keyValue` ialah nilai rentetan. Senarai rentetan yang diterjemah boleh dijumpai di titik akhir ini: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Mengembalikan rentetan `Bermain` dan `Dijedakan`
@@ -224,7 +224,7 @@ presence.error("Test") // Ini akan mengelog "test" dalam penggayaan yang betul.
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Mengembalikan 2 cap masa `snowflake` di dalam tatasusunan `Array` yang kemudiannya boleh digunakan untuk nilai `startTimestamp` dan `endTimestamp`.
+Mengembalikan 2 cap masa emping salji `snowflake` di dalam tatasusunan `Array` yang kemudiannya boleh digunakan untuk nilai cap masa mula `startTimestamp` dan cap masa tamat `endTimestamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -236,7 +236,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ### `getTimestamps(Number, Number)`
 
-Mengembalikan 2 cap masa `snowflake` di dalam tatasusunan `Array` yang kemudiannya boleh digunakan untuk nilai `startTimestamp` dan `endTimestamp`.
+Mengembalikan 2 cap masa emping salji `snowflake` di dalam tatasusunan `Array` yang kemudiannya boleh digunakan untuk nilai cap masa mula `startTimestamp` dan cap masa tamat `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -249,7 +249,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ### `timestampFromFormat(String)`
 
-Menukarkan rentetan dengan format `HH:MM:SS` atau `MM:SS` atau `SS` menjadi nombor bulat (Tidak mengembalikan cap masa emping salji).
+Menukarkan rentetan dengan format JJ:MM:SS `HH:MM:SS` atau MM:SS `MM:SS` atau SS `SS` menjadi nombor bulat (Tidak mengembalikan cap masa emping salji).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -291,9 +291,9 @@ Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Menentukan waktu semasa.<br>
-        Digunakan jika anda ingin paparkan berapa <code>jam:minit:saat</code> yang tinggal.
-          <br>Anda mesti ubah waktu anda ke bentuk <code>cap masa</code> atau anda akan
-          dapat kiraan masa menurun yang salah.
+        Digunakan jika anda ingin paparkan berapa jam:minit:saat <code>hours:minutes:seconds</code> yang tinggal.
+          <br>Anda mesti ubah waktu anda ke bentuk cap masa <code>timestamp</code> atau
+          anda akan dapat kiraan masa menurun yang salah.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -301,7 +301,7 @@ Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
     <tr>
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Menentukan jangka masa penuh.
-        <br>Digunakan jika anda ingin paparkan berapa <code>jam:minit:saat</code> yang tinggal.
+        <br>Digunakan jika anda ingin paparkan berapa jam:minit:saat <code>hours:minutes:seconds</code> yang tinggal.
           <br>Anda mesti ubah waktu anda ke bentuk cap masa <code>timestamp</code> atau anda akan
           dapat kiraan masa menurun yang salah.
       </td>
