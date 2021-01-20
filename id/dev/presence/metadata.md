@@ -246,11 +246,11 @@ Buat pengaturan interaktif agar pengguna dapat mengatur presencenya!
 
 #### Pendahuluan
 
-Pengaturan `multiLanguage` dapat digunakan untuk mengizinkan user memilih bahasa yang mereka mau di presence untuk ditampilkan. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+Pengaturan `multiLanguage` dapat digunakan untuk mengizinkan user memilih bahasa yang mereka mau di presence untuk ditampilkan. Ini mengharuskan anda untuk menggunakan string dari [API](https://api.premid.app/v2/langFile/presence/en) kami, untuk informasi bagaimana cara menambahkan string klik [disini](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Konfigurasi
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+Pengaturan `multiLanguage` adalah kasus yang spesial, tidak dibutuhkan `title` atau `icon` atau `value` ataupun `values` seperti pengaturan lainnya tapi membutuhkan beberapa konfigurasi!
 
 The `multiLanguage` key can be set to the following:
 
@@ -302,7 +302,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Methods
+### Metode
 
 Gunakan metode berikut untuk mendapat info pengaturan pada file presence:
 #### `getSetting(String)`
@@ -333,7 +333,7 @@ Saat membuat presence, anda harus menentukan kategori dimana presence berada. Be
     <tr>
       <th style="text-align:left">Kategori</th>
       <th style="text-align:left">Nama</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Deskripsi</th>
     </tr>
   </thead>
   <tbody>
@@ -344,27 +344,27 @@ Saat membuat presence, anda harus menentukan kategori dimana presence berada. Be
     </tr>
     <tr>
       <td style="text-align:left"><b>permainan</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Permainan</b></td>
       <td style="text-align:left">Website apapun yang memiliki konten tentang game, seperti <code>Kahoot</code> atau <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musik</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Musik</b></td>
       <td style="text-align:left">Website ini menawarkan konten yang berhubungan dengan musik, streaming atau download.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>sosial</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Sosial</b></td>
       <td style="text-align:left">Website yang dibuat untuk membuat dan membagikan konten atau berpartisipasi dalam social network dalam bentuk apapun.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>video</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Video dan Stream</b></td>
       <td style="text-align:left">Website yang berguna untuk menyediakan video dan stream.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>lain-lain</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Lainnya</b></td>
       <td style="text-align:left">Apapun yang tidak termasuk kategori diatas.</td>
     </tr>
   </tbody>
