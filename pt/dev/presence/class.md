@@ -90,7 +90,7 @@ Um método assíncrono que permite que você pegue strings traduzidas da extens�
 Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Uma lista de strings traduzidas pode ser encontrada utilizada este endpoint: `https://api.premid.app/v2/langFile/presence/pt-br`
 
 ```typescript
-// Retorna strings `Playing` e `Paused`
+// Retorna strings `Jogando` e `Pausado`
 // a partir da extensão.
 const strings = await presence.getStrings({
   play: "general.playing",
