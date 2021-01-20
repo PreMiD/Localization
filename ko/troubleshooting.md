@@ -62,11 +62,11 @@ MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세�
 
 ### McAfee 백신이 PreMiD를 바이러스로 오탐하는 경우 (윈도우)
 
-이 문제는 McAfee의 오탐이며, 우리는 해당 이슈를 보고해놓았어요. 당장은 밑의 방법을 통하여 PreMiD를 McAfee의 탐지에서 제외할수있어요.
+이 문제는 McAfee 의 오탐이며, 우리는 해당 이슈를 이미 제출하였습니다. 당장은 밑의 방법을 통하여 PreMiD 를 McAfee 의 탐지에서 제외할 수 있어요.
 
 
 
-> 만약 여러분이 해당 단계를 거치기 어려운 상황이라면, 언제던 [#support](https://discord.premid.app/) 채널에서 티켓을 만드실수 있어요. 저희의 유능한 도우미들이 여러분을 도울수있을거에요. 
+> 만약 여러분이 해당 단계를 거치기 어려운 상황이라면, 언제든지 [#support](https://discord.premid.app/) 채널에서 티켓을 만드실수 있어요. 저희의 유능한 도우미들이 여러분을 도울수있을거에요. 
 > 
 > {.is-warning}
 
@@ -75,9 +75,9 @@ MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세�
 2. " 격리된 목록 " 을 클릭해주세요 ( 우측 상단에서 두번째)
 
 3. 해당 파일을 확장하고, " settings.dat " 전에 있는 `>` 아이콘을 클릭해주세요.
-4. Restore을 누르기 전, 경로에 "AppData\Local\Temp\PreMiD" 가 있는지 확인해주세요. 만약 있다면, settings. dat 을 선택하고 Restore 버튼을 누릅니다. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+4. Restore을 누르기 전, 경로에 "AppData\Local\Temp\PreMiD" 가 있는지 확인해주세요. 만약 있다면, settings.dat 을 선택하고 Restore 버튼을 누릅니다. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 
-5. 복원후에 여러분은 " 격리된 목록 " 팝업을 종료하실수 있답니다, 그런다음 우측 상단에 있는 설정 아이콘을 눌러주세요.
+5. 복원후에 여러분은 " 격리된 목록 " 팝업을 종료하실수 있답니다, 그런 다음 우측 상단에 있는 설정 아이콘을 눌러주세요.
 
 6. 위에서 세번째에 있는 " 실시간 스캔 " 을 클릭해주세요.
 7. 확장하고 " 파일 추가 " 버튼을 눌러주세요.
