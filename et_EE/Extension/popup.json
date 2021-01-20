@@ -87,6 +87,22 @@
 		"message": "Sinu PreMiDi rakendus on vananenud. Palun uuenda, et PreMiDi kasutada.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Internetiühendust ei ole!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Tuntud nagu sul ei ole interneti ühendust! PreMiD ei saa näitada presencesid praegusel momendil.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Puudub Discord'i võrguühendus!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD ei saanud ühendada enda Discord'i rakendusega!\nKas see on installitud ja käivitatud? *Parandamine*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Kõik",
 		"description": "Category name shown when you open tags"

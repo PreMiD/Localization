@@ -39,9 +39,21 @@
 		"message": "Автоматически использовать ваше Presence, когда кто-то посещает ваш веб-сайт.",
 		"description": "Description for the third benefit."
 	},
+	"partners.why.benefit4.title": {
+		"message": "Получите бессмертие",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Неприятное место на нашей партнерской странице.",
+		"description": "Description for the fourth benefit."
+	},
 	"partners.why.benefit5.title": {
 		"message": "Будьте известными",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Размещено в наших социальных сетях.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Требования",
@@ -51,17 +63,121 @@
 		"message": "Что вы ищете?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Мы следим за растущими сообществами и интересными вещами в интернете. TL;DR вы уже должны использовать PreMiD и быть готовы распространить его на еще большее количество интернет-фриков. Прием в программу исключительно качественный и будет варьироваться от одного кандидата к другому.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Наш брандмауэр",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "В настоящее время мы принимаем различные виды усилий в нашу партнерскую программу. У каждого должен быть шанс быть замеченным. Вещатели Twitch должны иметь не менее 500 подписчиков и не менее 10 одновременных зрителей. Вы должны вести потоковую передачу не реже 1 раза в неделю.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Подайте заявку прямо сейчас!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Давай вместе отправимся на небеса!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Если вы довольно заинтересованы в прямой работе в PreMiD, то взгляните на наши объявления о вакансиях.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Спонсоры",
 		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD был бы невозможен без этих удивительных людей.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Вот как вы смотрите аниме.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings-это быстро развивающаяся PvP-арена следующего поколения, в которую можно играть в браузере.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat-это некоммерческое Международное радио, которое стремится обеспечить непрерывное, качественное радио и новостные развлечения.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Платформа для заработка геймеров.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio - это самое успешное информационно-развлекательное радио для симуляторов игр в Германии, Австрии и Швейцарии!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Получите то, что принадлежит вам по праву. Потоковое аниме, фильмы, хентай, специальные предложения и многое другое. Бесплатно, без всякой рекламы и в высоком разрешении!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Начните создавать свое собственное сообщество с нашими замечательными шаблонами. Постройте свое собственное королевство.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "тайга-это бот Discord, который пытается предложить все функции, которые вам могут понадобиться одновременно!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Мощный и простой в использовании кросс-платформенный инструмент для создания установщика.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Легко сообщать своим пользователям о состоянии в реальном времени.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Богиня, которая играет как забавный бот-Дискорд!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM - это платформа, которая транслирует для вас лучшую и новейшую музыку, где вы можете слушать более 15 музыкальных потоков бесплатно и без перерыва!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Гибкая локализация для технологических компаний.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Самое мощное и расширяемое программное обеспечение с открытым исходным кодом Вики.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Единый, дружественный к разработчику интерфейс для всех ваших работ.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "За лучшими в интернете.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit-это ваша онлайн-музыкальная радиостанция, созданная для воспроизведения ваших лучших песен 24/7 и для того, чтобы вы сначала открыли свои будущие хиты.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Подать заявку на партнерство",
 		"description": "Partnership application modal title."
 	},
+	"partners.apply.loggedUser": {
+		"message": "Сделать первый вход {0}",
+		"description": "{0} will be replaced with user account."
+	},
 	"partners.apply.notYou": {
 		"message": "Это не вы?",
 		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Пожалуйста, выберите один из",
+		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
 		"message": "Сайт",
@@ -72,12 +188,36 @@
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
-		"message": "Наименование",
+		"message": "Имя",
 		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Старый: PreMiD",
+		"description": "Name field's placeholder."
 	},
 	"partners.apply.form.link": {
 		"message": "Ссылка",
 		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Старый: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Описание: (максимум 150 символов)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Описание основных моментов",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Ссылка на изображение: (только 550x300, PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Старый: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
 	},
 	"partners.apply.form.button.close": {
 		"message": "Закрыть",

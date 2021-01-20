@@ -1,4 +1,8 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** je jednostavan, podesiv alat koji ti omogućuje prikazivanje onoga što radiš na web-u u tvom Discord now playing status-u.",
+		"description": "First phrase that users read on our website"
+	},
 	"home.introduction.button.features": {
 		"message": "Značajke",
 		"description": "Introduction button"
@@ -7,9 +11,61 @@
 		"message": "Preuzimanja",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Sortirajte po kategoriji",
+	"home.examples.playingagame": {
+		"message": "Igra igru",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} lijevo",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} proteklo",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.features.heading": {
+		"message": "Obožavati ćeš ove značajke!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Pronađi **svoj** presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Naš smo extension stvorili na način koji ti omogućava dodavanje i upotrebu Presence-a koje su stvorili drugi i upravljanje njima u našem extension-u!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Posjeti trgovinu",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Jednostavno korisničko sučelje",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Dosta ti je složenih korisničkih sučelja? Zbog toga smo stvorili i nastojimo da naš UI bude što jednostavnije i korisnije uz važne značajke poput:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Postavke Aplikacije i Extension-a",
 		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Upravljanje Presence-om",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortiraj po kategoriji",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Brza podrška",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Nešto se pokvarilo, šalje ti gomilu pogrešaka ili jednostavno ne radi? Pomoći ćemo ti da se riješiš tih problema na našem Discord serveru, stvorili smo i vlastiti sustav podrške koji će osigurati da se tvoj problem riješi što prije moguće.",
+		"description": "Features section description"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Jezik web-stranice",

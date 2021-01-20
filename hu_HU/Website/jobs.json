@@ -31,9 +31,17 @@
 		"message": "Csatlakozz Discord szerverünkre",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "A jelentkezéshez szükséges, hogy Discord szerverünk tagja legyél. Másképp nem tudjuk felvenni veled a kapcsolatot felvételkor!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Legyél te is a PreMiD dolgozója",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Készen állsz arra, hogy a legnagyobb Állapotüzenet program részese legyél?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Álláslehetőségek",
@@ -71,6 +79,10 @@
 		"message": "PreMiD támogatása",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Hozzájárulásoddal támogathatod a projekt előrehaladását.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "Időbeosztás",
 		"description": "Benefit card title."
@@ -82,6 +94,10 @@
 	"jobs.benefit6.title": {
 		"message": "Korai hozzáférés",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Tesztelj új funkciókat mindenki más előtt.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Köszönjük jelentkezésedet!",

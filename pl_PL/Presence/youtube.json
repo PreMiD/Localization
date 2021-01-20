@@ -4,11 +4,11 @@
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Przeglądanie filmów",
+        "message": "Przegląda filmy",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "Przeglądanie playlisty",
+        "message": "Przegląda playlisty",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
@@ -20,20 +20,12 @@
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Czytanie informacji o kanale:",
+        "message": "Czyta informację o kanale:",
         "description": ""
     },
     "youtube.searchChannel": {
         "message": "Wyszukiwanie kanału: {0} dla:",
         "description": "{0} will be replaced with the channel name"
-    },
-    "youtube.trending": {
-        "message": "Przeglądanie trendów",
-        "description": ""
-    },
-    "youtube.browsingThrough": {
-        "message": "Przegląda",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
         "message": "swoje subskrypcje",
@@ -52,11 +44,11 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Przeglądanie historii zgłoszenia",
+        "message": "Przegląda historię zgłoszeń",
         "description": ""
     },
     "youtube.upload": {
-        "message": "Przesyłanie czegoś...",
+        "message": "Coś przesyła...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -64,7 +56,7 @@
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "Wyświetla swoje wydarzenia \"na żywo\"",
+        "message": "Wyświetla swoje wydarzenia na żywo",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
@@ -72,23 +64,23 @@
         "description": ""
     },
     "youtube.viewAudioLibrary": {
-        "message": "Przeglądanie biblioteki audio",
+        "message": "Przegląda bibliotekę audio",
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "Wyświetla swoje filmy",
+        "message": "Przgląda swoje filmy",
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "Edycja wideo:",
+        "message": "Edytowanie wideo:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Przeglądanie statystyk wideo:",
+        "message": "Przegląda statystyki wideo:",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Przeglądanie komentarzy do filmu:",
+        "message": "Przegląda komentarze do filmu:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
@@ -108,7 +100,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelTranslations": {
-        "message": "tłumaczenie kanału",
+        "message": "tłumaczenia kanału",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
@@ -116,7 +108,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Wyświetla swój panel kanału",
+        "message": "Wyświetla panel swojego kanału",
         "description": ""
     }
 }

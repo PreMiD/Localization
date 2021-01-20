@@ -34,5 +34,21 @@
   "header.contributors": {
     "message": "Sodelavci",
     "description": "Contributors tab"
+  },
+  "header.lia": {
+    "message": "Prijavljen(a) kot",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Prijavite napako",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Nadzorna plošča",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Odjava",
+    "description": "Logout button"
   }
 }

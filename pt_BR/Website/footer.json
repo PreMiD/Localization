@@ -47,16 +47,12 @@
 		"message": "Contribua",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Design",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Traduzir",
 		"description": "Translate -> redirects to locilazation page"
 	},
 	"footer.supportus.jobs": {
-		"message": "Trabalhe Conosco!",
+		"message": "Trabalhe conosco!",
 		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {

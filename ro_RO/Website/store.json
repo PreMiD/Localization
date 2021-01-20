@@ -1,22 +1,10 @@
 {
-	"store.cards.creator": {
-		"message": "Autor",
-		"description": "Creator of a presence"
-	},
 	"store.category.heading": {
 		"message": "Categorii",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Toate",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Jocuri",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Muzică",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

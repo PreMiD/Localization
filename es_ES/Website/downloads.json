@@ -91,10 +91,6 @@
 		"message": "Advertencia",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "No olvides activar la opción \"habilitar extensiones de otras tiendas\" desde la configuración de extensiones.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "Debes instalar **esta** extensión para ser capaz de instalar PreMiD desde la Chrome Webstore.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
@@ -134,5 +130,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Por favor, deshabilite Adblock.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "No quiero apoyar.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "¿Estás seguro?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "¿En serio?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P-por favor ayúdanos :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Te necesito :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Vale, vale...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Mostrar descargas beta",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(no necesario si únicamente deseas descargar la versión normal)",
+		"description": "Small text under the show beta title."
 	}
 }

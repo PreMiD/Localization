@@ -1,0 +1,250 @@
+{
+	"partners.header.title": {
+		"message": "Rakan Kongsi",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Sertai keluarga kami dan dapatkan faedah khusus rakan kongsi untuk menunjukkan betapa hebatnya anda.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Mereka semua milik kami",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Apa kata anda ikut kami naik ke atas dan bukan tinggal di bawah?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Presence percuma anda",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Pasukan kami akan sediakan untuk anda Presence perkhidmatan anda.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Jadilah mereka yang disahkan",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Peranan istimewa dan penghargaan tinggi akan diberikan kepada anda di pelayan Discord kami.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Penyepaduan metatag",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Gunakan Presence anda secara automatiknya apabila seseorang melawat Laman Sesawang anda.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Diabadikan selamanya",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Tempat terbaik di halaman rakan kongsi kami.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Jadi terkenal",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Dipaparkan di media sosial kami.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Keperluan",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Apa yang kami cari?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Kami memantau komuniti yang mengembang dan perkara menyeronokkan di internet. Rumusannya, anda mestilah sudah pun dan masih menggunakan PreMiD dan bersedia untuk menyebarkannya kepada ramai lagi di internet. Penerimaan ke dalam program amatlah kualitatif dan akan berbeza dari satu calon ke calon yang lain.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Tembok api kami",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Kami kini menerima pelbagai jenis perusahaan ke dalam program rakan kongsi kami. Sesiapa pun ada peluang untuk diperasan. Penyiar Twitch mestilah mempunyai sekurang-kurangnya 500 pengikut dan 10 penonton serempak pada sesuatu masa. Anda juga mesti menstrim sekurang-kurangnya satu kali setiap minggu.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Mohonlah!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Marilah naik ke atas bersama-sama!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Jika anda lebih berminat untuk pekerjaan langsung di PreMiD, sila lihat **iklan pekerjaan** kami.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Para Penaja",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD tidak akan berjaya, tanpa kesemua insan yang hebat ini.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Itulah cara anda tonton anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings ialah Permainan Arena PvP berkelajuan tinggi generasi seterusnya yang dimainkan dalam pelayar.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat ialah radio antarabangsa bukan untung yang berusaha untuk menyediakan hiburan radio dan berita yang berkualiti.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Platform penjanaan untuk para pemain.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio ialah radio maklumat hibur paling berjaya untuk permainan penyelakuan di Jerman, Austria dan Switzerland!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Dapatkan apa yang patut diberikan kepada anda. Strim Anime, Filem, Hentai, Tayangan Istimewa dan banyak lagi. Percuma, tanpa sebarang iklan dan dalam definisi tinggi!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Mula cipta komuniti anda sendiri dengan templat kami yang hebat ini. Bina kerajaan anda sendiri.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga ialah Bot Discord yang cuba untuk menyediakan segala ciri yang anda mungkin perlukan sekaligus!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Alatan penciptaan pemasangan silang platform yang berkuasa dan mudah untuk digunakan.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Hubungkan status masa nyata dengan mudahnya kepada pengguna anda.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Dewi yang bermain sebagai Bot Discord yang menyeronokkan!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM membolehkan anda mendengar 15+ strim muzik secara percuma - tanpa henti. Dengan muzik terbaik dan terbaru hanya untuk anda!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Penyetempatan yang agil untuk syarikat teknologi.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Perisian Wiki bersumber terbuka yang paling berkuasa dan diperluas.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Antara muka mesra pembangun yang bersepadu untuk segala artifak anda.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Di sebalik segalanya yang terbaik di jaringan.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit ialah stesen radio muzik dalam talian yang dicipta untuk memainkan lagu hit terbaik anda 24/7 dan untuk membuatkan anda menerokai lagu hit yang anda mungkin suka.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.apply.title": {
+		"message": "Mohon menjadi rakan kongsi",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Log masuk sebagai {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Bukan anda?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Sila pilih salah satu",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Laman sesawang",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Lain-lain",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nama",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Cth: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Pautan",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Cth: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Keterangan: (Maksimum 150 aksara)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Keterangan untuk dipaparkan",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Pautan imej: (550x300, PNG sahaja)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Cth: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Tutup",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Mohon",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Terima kasih kerana memohon!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Sila lengkapkan kesemua medan.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maksimum keterangan 150 aksara.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Sila tambah pautan (mesti bermula dengan https:// dan berakhir dengan .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Anda sudah memohon untuk menjadi rakan kongsi.",
+		"description": "Error when already applied."
+	}
+}

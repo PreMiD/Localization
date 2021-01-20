@@ -87,6 +87,14 @@
 		"message": "Ваш додаток PreMiD застарів. Будь ласка, оновить для подальшого використання PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Немає з’єднання з інтернетом!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Відсутній зв’язок з Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Усе",
 		"description": "Category name shown when you open tags"

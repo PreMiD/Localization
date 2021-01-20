@@ -7,12 +7,24 @@
         "message": "กำลังดูสิ่งที่เป็นที่นิยม",
         "description": ""
     },
-    "9gag.trending": {
-        "message": "กำลังดูสิ่งที่เป็นที่นิยม",
+    "9gag.fresh": {
+        "message": "กำลังดูว่ามีอะไรใหม่ ๆ:",
         "description": ""
     },
     "9gag.tag": {
         "message": "กำลังดูแท็ก:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "กำลังอ่านเกี่ยวกับ 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "กำลังดูหน้าร้านค้า:",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "กำลังดูคอลเล็กชั่น:",
         "description": ""
     }
 }

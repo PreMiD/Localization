@@ -1,7 +1,11 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMid**는 당신이 웹에서 무엇을 하고 있는지 보여주는 간단한 프로그램입니다.",
+		"message": "**PreMiD**는 당신이 웹에서 무엇을 하고 있는지 디스코드 상태에 보여주는 간단하고 설정 가능한 프로그램입니다.",
 		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "기능",
+		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
 		"message": "다운로드",
@@ -23,12 +27,64 @@
 		"message": "플레이중",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "실시간",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "탐색중...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
-		"message": "당신은 아마도 이 기능들을 좋아할 것 같아요",
+		"message": "당신은 아마도 이 기능들을 좋아하실 것 같아요",
 		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "**당신의** Presence를 찾으세요",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "다른 사용자가 만든 Presence를 추가 및 사용하고 저희 익스텐션에서 관리할 수 있도록 익스텐션을 만들었습니다!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "상점 방문",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "간단한 유저 인터페이스",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "복잡한 유저 인터페이스에 지치셨나요? 이것이 우리가 PreMiD를 만든 이유입니다. 다음과 같은 중요 기능들을 통하여 최대한 유용하고, 간단한 UI를 유지하려 합니다.",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "앱과 익스텐션 설정",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence 관리",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "카테고리별로 정렬",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "빠른 지원",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "무언가 문제가 있어, 프로그램이 작동하지 않거나 많은 오류가 발생하나요? 우리의 Discord 서버에서 이런 문제를 해결할 수 있도록 도와드릴 수 있으며, 또한 문제가 최대한 빨리 해결될 수 있도록 자체 지원 시스템을 구축하였습니다.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "우리의 디스코드에 참여하세요",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "웹사이트 언어",
+		"description": "Tippy content of the language selector."
 	}
 }

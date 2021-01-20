@@ -1,4 +1,8 @@
 {
+	"downloads.header.title": {
+		"message": "Ideje felvágni.",
+		"description": "Title"
+	},
 	"downloads.header.subtitle": {
 		"message": "Próbáld ki a PreMiD-et és oszd meg másokkal, amit éppen csinálsz, így talán hasonló érdeklődésű személyeket is felfedezhetsz.",
 		"description": "Subtitle for header"
@@ -18,6 +22,10 @@
 	"downloads.instructions.step_3": {
 		"message": "Bővítmény hozzádása a böngészőhöz",
 		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Frissítsd az oldalt a bővítmény csatlakoztatásához",
+		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
 		"message": "Továbbra is problémáid vannak? {0}",
@@ -55,6 +63,10 @@
 		"message": "Letöltések elrejtése",
 		"description": "Little button on the downloads page for mobile users."
 	},
+	"downloads.warning.differentVersion": {
+		"message": "Jelenlegi verzió ezen a platformon {0} (ez a verzió csak Linux-ra érvényes, nem vonatkozik másik platformra).",
+		"description": "Tippy message of the Linux card."
+	},
 	"downloads.warning.differentVersion2": {
 		"message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}",
 		"description": "Tippy message of the version number when user is on Linux."
@@ -79,6 +91,10 @@
 		"message": "Figyelmeztetés",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
+	"downloads.warning.message.opera": {
+		"message": "A PreMiD telepítéséhez a Chrome Webáruházból telepítened kell **ezt** a bővítményt.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
 	"downloads.button.skip": {
 		"message": "Átugrás",
 		"description": "Skip button on the ads section"
@@ -88,7 +104,7 @@
 		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
-		"message": "Mégse",
+		"message": "Mégsem",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
@@ -114,5 +130,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Kérlek tiltsd le az adblock-ot.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Nem adakozok.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Biztos vagy benne?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Tényleg?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "K-kérlek támogass :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Szükségem van rád :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Oké, oké...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Béta letöltések megjelenítése",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(nem szükséges ha csak a normál alkalmazást szeretnéd letölteni)",
+		"description": "Small text under the show beta title."
 	}
 }

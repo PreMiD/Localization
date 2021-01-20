@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "جاري مشاهدة مكتبة الافلام",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "جاري مشاهدة مكتبة المسلسلات",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "جاري مشاهدة الحلقات الاخيرة",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "جاري مشاهدة أفضل 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "جاري مشاهدة ما هو رائج",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "جاري مشاهدة تورنت الانمي",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "جاري مشاهدة تورنت التطبيقات",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "جاري مشاهدة تورنت الافلام الوثائقية",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "جاري مشاهدة تورنت الالعاب",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "جاري مشاهدة تورنت الافلام",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "جاري مشاهدة تورنت الاغاني",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "جاري مشاهدة تورنت الاخرى",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "جاري مشاهدة تورنت التلفاز",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "جاري مشاهدة تورنت XXX",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "جاري رفع شيء...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "جاري قراءة القوانين",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "جاري الكتابة إلى 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "جاري القراءة حول 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "جاري مشاهدة تورنت:",
+        "description": ""
+    }
+}

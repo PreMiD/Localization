@@ -1,1 +1,46 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Läser tweet:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "Visar deras DMs",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Läser tweets av:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Visar tweets (med svar) av:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Visar media av:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Visar gillat av:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Visar lista:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Bokmärken",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Notifikationer",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Utforska",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Ändrar några inställningar...",
+        "description": ""
+    }
+}

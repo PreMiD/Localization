@@ -3,6 +3,10 @@
 		"message": "اللغة",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "مستعد لاستخدام PreMiD؟",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "!انضم لأكثر من {0} مستخدم اليوم",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -14,6 +18,10 @@
 	"footer.partners.heading": {
 		"message": "الشركاء",
 		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "تابعنا",
+		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "المطورون",
@@ -32,20 +40,20 @@
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "التبرع",
+		"message": "تبرع",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
 		"message": "ساهم",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "التصميم",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "الترجمة",
 		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "إعمل معنا!",
+		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "المساعدة",
@@ -92,7 +100,11 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
-		"message": "{0} صيانة الموقع من طرف",
+		"message": "صيانة الموقع من طرف {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "انقر هنا لرؤية بقية شركائنا و الراعيين.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

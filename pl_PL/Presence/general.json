@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "Edycja:",
+		"message": "Edytowanie:",
 		"description": ""
 	},
 	"general.episode": {
@@ -52,7 +52,7 @@
 		"description": ""
 	},
 	"general.merch": {
-		"message": "Handel",
+		"message": "Sklep",
 		"description": ""
 	},
 	"general.page": {
@@ -60,7 +60,7 @@
 		"description": ""
 	},
 	"general.paused": {
-		"message": "Wstrzymano",
+		"message": "Zatrzymano",
 		"description": ""
 	},
 	"general.playing": {
@@ -68,27 +68,27 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "Czytanie DM od:",
+		"message": "Czyta wiadomości prywatne od:",
 		"description": ""
 	},
 	"general.readingAbout": {
-		"message": "Czytanie o:",
+		"message": "Czyta o:",
 		"description": ""
 	},
 	"general.readingArticle": {
-		"message": "Czytanie artykułu:",
+		"message": "Czyta artykuł:",
 		"description": ""
 	},
 	"general.readingChannel": {
-		"message": "Czytanie na kanale:",
+		"message": "Przegląda kanał:",
 		"description": ""
 	},
 	"general.readingPost": {
-		"message": "Czytanie posta:",
+		"message": "Czyta post:",
 		"description": ""
 	},
 	"general.readingThread": {
-		"message": "Czytanie wątku:",
+		"message": "Czyta wątek:",
 		"description": ""
 	},
 	"general.reading": {
@@ -96,15 +96,15 @@
 		"description": ""
 	},
 	"general.searchFor": {
-		"message": "Wyszukiwanie:",
+		"message": "Szuka:",
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "Wyszukiwanie czegoś...",
+		"message": "Wyszukiwanie...",
 		"description": ""
 	},
 	"general.search": {
-		"message": "Szukanie",
+		"message": "Wyszukiwanie",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -116,27 +116,27 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Pisanie w wiadomości prywatnej do:",
+		"message": "Pisze wiadomość prywatną do:",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "Pisanie na kanale:",
+		"message": "Pisze na kanale:",
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "Oglądanie anime:",
+		"message": "Ogląda anime:",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Przeglądanie kategorii:",
+		"message": "Przegląda kategorie:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "Przeglądanie kanału:",
+		"message": "Przegląda kanał:",
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "Przeglądanie odcinka:",
+		"message": "Ogląda odcinek:",
 		"description": ""
 	},
 	"general.viewGenre": {
@@ -144,7 +144,7 @@
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Przeglądanie strony głównej",
+		"message": "Przegląda stronę główną",
 		"description": ""
 	},
 	"general.viewList": {
@@ -152,23 +152,23 @@
 		"description": ""
 	},
 	"general.viewManga": {
-		"message": "Oglądanie Manga:",
+		"message": "Ogląda mange:",
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "Przegląda użytkownika:",
+		"message": "Wyświetla użytkownika:",
 		"description": ""
 	},
 	"general.viewMovie": {
-		"message": "Przegląda film:",
+		"message": "Ogląda film:",
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Przegląda listę odtwarzania:",
+		"message": "Przegląda playliste:",
 		"description": ""
 	},
 	"general.viewProduct": {
-		"message": "Przegląda produkt:",
+		"message": "Ogląda produkt:",
 		"description": ""
 	},
 	"general.viewProfile": {
@@ -176,7 +176,7 @@
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "Przeglądanie serii:",
+		"message": "Przegląda serie:",
 		"description": ""
 	},
 	"general.viewShow": {
@@ -184,7 +184,7 @@
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "Wyświetla ich konto",
+		"message": "Przegląda swoje konto",
 		"description": ""
 	},
 	"general.viewThread": {
@@ -196,16 +196,36 @@
 		"description": ""
 	},
 	"general.viewing": {
-		"message": "Przeglądanie:",
+		"message": "Przegląda:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Przegląda stronę:",
 		"description": ""
 	},
 	"general.watchingVid": {
-		"message": "Ogląda wideo",
+		"message": "Ogląda film",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Oczekiwanie na premierę filmu",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Oczekiwanie na premierę filmu",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
-		"message": "Ogląda transmisję",
+		"message": "Ogląda transmisję na żywo",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Oczekiwanie na rozpoczęcie transmisji na żywo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Oczekiwanie na rozpoczęcie transmisji na żywo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Ogląda:",
@@ -222,5 +242,25 @@
 	"general.terms": {
 		"message": "Warunki korzystania z usług",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Polityka ciasteczek",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Zapętlanie wszystkich piosenek",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Pętla włączona",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Historia zdarzeń",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Historia czasu pracy",
+		"description": "A page name of statuspages"
 	}
 }

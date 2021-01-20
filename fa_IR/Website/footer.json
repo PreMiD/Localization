@@ -1,1 +1,110 @@
-{}
+{
+	"footer.language": {
+		"message": "زبان",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "آماده استفاده از PreMiD هستید?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "به {0} کاربر ما بپیوندید!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "نصب",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "همکاران",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "ﻣﺎ ﺭﺍ ﺩﻧﺒﺎﻝ ﮐﻨﻴﺪ",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "توسعه دهندگان",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "مستندات",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "از ما حمایت کنید",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "حمایت",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "مشارکت",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "ترجمه",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "با ما کار کنید!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "راهنما",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "اشکال‌زدایی",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "کمک گرفتن",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "اطلاعات",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "کوکی ها",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "حریم خصوصی",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "شرایط استفاده",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "بيشتر",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "وضعیت",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "ویکی",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} توسط {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "سایت برپا شده توسط {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "اینجا را کلیک کنید تا همه همکاران و حامیان ما را ببینید.",
+		"description": "Button next to all listed partners on the footer."
+	}
+}

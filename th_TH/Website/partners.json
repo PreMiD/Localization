@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "ผู้ร่วมมือ",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "เข้าร่วมกับพวกเราและรับสิทธิพิเศษเฉพาะพาร์ทเนอร์ที่เอาไว้โชว์ว่าคุณเจ๋งแค่ไหน",
 		"description": "Description for page."
@@ -10,6 +6,10 @@
 	"partners.slideshow.description": {
 		"message": "ทีมที่ได้เข้าร่วมกับเราแล้ว",
 		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "วิธีการเกี่ยวกับการไปสวรรค์นรกแทน?",
+		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
 		"message": "รับ Presence ฟรี",
@@ -27,9 +27,21 @@
 		"message": "บทบาทพิเศษในเซิร์ฟเวอร์ Discord จะถูกมอบให้กับคุณ",
 		"description": "Description for the second benefit."
 	},
+	"partners.why.benefit3.title": {
+		"message": "การรวบรวม Meta-Tag",
+		"description": "Heading for the third benefit."
+	},
 	"partners.why.benefit3.description": {
 		"message": "ใช้ Presence โดยอัตโนมัติเมื่อมีคนเข้าชมเว็บไซต์ของคุณ",
 		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "รู้สึกเป็นอมตะมีพลัง",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "ได้รับการขึ้นเว็บไซต์บนหน้าพาร์ทเนอร์ของเรา",
+		"description": "Description for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
 		"message": "กลายเป็นคนดัง",
@@ -39,17 +51,29 @@
 		"message": "ได้ถูกกล่าวถึงบน Social Media ของเรา",
 		"description": "Description for the fifth benefit."
 	},
-	"partners.requirements.title": {
-		"message": "ความต้องการ",
-		"description": "Heading for the requirements."
-	},
 	"partners.requirements.first.title": {
 		"message": "เราต้องการมองหาอะไร?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "เรากําลังมองการเติบโตของชุมชนเเละสิ่งที่น่าตื่นเต้นบนอินเตอร์เน็ต. คุณควรใช้ PreMiD อยู่เเล้วเเละพร้อมที่จะเพยเเพร่ในอินเตอร์เน็ตมากขึ้น. การยอมรับโครงการนั้นต้องมีคุณภาพมากๆเเละจะเเตกต่างออกไปเเต่ละผู้สมัคร",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "ไฟล์วอลล์ของเรา",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "ขณะนี้เรารับหลายประเภทในระบบพาร์ทเนอร์ของเรา. ทุกคนควรมีโอกาสที่จะได้รับการยืนยัน. สตรีมเมอร์ของ Twitch ขั่นตํ่ามี 500 คนติดตาม เเละ 10 ผู้ชมเเละ ถ่ายทอดสดไม่ตํ่ากว่า 1 ครั้งต่ออาทิตย์",
+		"description": "Description for the second requirement."
+	},
 	"partners.apply.button": {
 		"message": "สมัครตอนนี้!",
 		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "ไปสู่ความฝันด้วยกัน!",
+		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
 		"message": "ถ้าคุณสนใจในการสมัครงานโดยตรงกับ PreMiD กรุณาดูที่ **การประกาศรับสมัครงาน**.",
@@ -60,7 +84,7 @@
 		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
-		"message": "PreMiD จะเกิดขึ้นไม่ได้เลย หากขาดผู้คนที่น่ารักเหล่านี้",
+		"message": "PreMiD จะเกิดขึ้นไม่ได้เลย หากขาดผู้คนที่พิเศษเหล่านี้",
 		"description": "Description for sponsors."
 	},
 	"partners.partner.aniFlix": {
@@ -70,6 +94,62 @@
 	"partners.partner.arenaOfKings": {
 		"message": "Arena of Kings คือ PvP Arena แห่งอนาคตที่สามารถเล่นได้ผ่านเบราว์เซอร์ของคุณ",
 		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat คือ วิทยุต่างประเทศที่ไม่แสวงหาผลกำไร ซึ่งมุ่งมั่นที่จะให้บริการอย่างไม่หยุดยั้ง, คุณภาพเสียง เเละ ข่าวบันเทิง.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "แพลตฟอร์มการหารายได้ของเกมเมอร์",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio คือ ค่ายวิทยุเกี่ยวกับความบันเทิงประสบการณ์มากที่สุด สําหรับเกมเเนวจําลองใน เยอรมัน,ออสเตรีย, เเละสวิตเซอร์แลนด์",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "รับชมอนิเมะ,ภาพยนตร์,Hentai,เเละอื่นๆ เเบบฟรีไม่มีโฆษณาเเละคมชัดสูง!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "เริ่มสร้างชุมชนด้วยตนเองกับเเบบที่สุดเจ๊ง. สร้างอาณาจักรของตนเอง!",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "Taiga คือ Discord Bot ที่มีฟีเจอร์บางอย่างที่คุณต้องการ!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "เครื่องมือสร้างสําหรับข้ามแพลตฟอร์มเเละใช้ง่าย",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "การเเจ้งสเตตัสอย่างรวดเร็วให้ผู้ใช้!",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "เทพธิดาที่เล่นเป็น Discord Bot เเบบสนุกสนาน!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "การเเปลภาษาเเบบว่องไวสําหรับบริษัทเทคโนโลยี!",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Open-Source Wiki ที่ดีเเละขยายได้มากที่สุด!",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "นักพัฒนาเป็นหนึ่งเดียวกันเป็นมิตรกันทั้งหมด",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "เบื้องหลังที่ดีที่สุดของเว็บไซต์",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit คือสถานีเพลงออนไลน์ฟังตลอด 24 ชั่วโมง เเละทําให้คุณพบเพลงฮิตก่อนใคร",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "ลงทะเบียนเป็นพาร์ทเนอร์",
@@ -91,14 +171,6 @@
 		"message": "เว็บไซต์",
 		"description": "Select 'Website' category."
 	},
-	"partners.apply.select.other": {
-		"message": "อื่นๆ",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "ชื่อ",
-		"description": "Name filed."
-	},
 	"partners.apply.form.name.placeholder": {
 		"message": "ตัวอย่าง: PreMiD",
 		"description": "Name field's placeholder."
@@ -115,6 +187,10 @@
 		"message": "คำอธิบาย: (สูงสุดถึง 150 ตัวอักษร)",
 		"description": "Description field."
 	},
+	"partners.apply.form.description.placeholder": {
+		"message": "คำอธิบายของฟีเจอร์",
+		"description": "Description field's placeholder."
+	},
 	"partners.apply.form.imageLink": {
 		"message": "ลิ้งรูปภาพ: (ขนาด 550x300, สกุลไฟล์ PNG เท่านั้น)",
 		"description": "Do not change the sizes."
@@ -130,10 +206,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "ลงทะเบียน",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "ขอบคุณที่มาร่วมกับเรา!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "กรุณากรอกข้อมูลให้ครบ",

@@ -1,0 +1,18 @@
+{
+	"merch.swag": {
+		"message": "Etsi sinun **Tyylisi**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Valitse Sopivuutesi**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Lisää ostoskoriin",
+		"description": "Add product to cart"
+	},
+	"merch.item.added": {
+		"message": "{0} lisättiin ostoskoriisi",
+		"description": "{0} replaced with product name"
+	}
+}

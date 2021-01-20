@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "Recherche...",
+		"message": "Navigue...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -44,7 +44,7 @@
 		"description": ""
 	},
 	"general.live": {
-		"message": "Direct",
+		"message": "Live",
 		"description": ""
 	},
 	"general.manga": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "En train de chercher",
+		"message": "Recherche",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -199,13 +199,45 @@
 		"message": "Regarde:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Regarde la page :",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "En train de regarder un film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "En train de regarder une série",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "En train de regarder une série",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Regarde une vidéo",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "En attente de la mise en première d'une vidéo",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "En attente de la mise en première de la vidéo",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Regarde un livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "En attente du démarrage d'un live",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "En attente du démarrage du live",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Regarde:",
@@ -222,5 +254,25 @@
 	"general.terms": {
 		"message": "Conditions d'utilisation",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Politique de Cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Boucler toutes les chansons",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "En boucle",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Historique d'incidents",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Historique de la disponibilité",
+		"description": "A page name of statuspages"
 	}
 }

@@ -3,10 +3,6 @@
         "message": "يشاهد التغريدة:",
         "description": ""
     },
-    "twitter.viewDms": {
-        "message": "يشاهد الرسائل المباشرة الخاصة بهم",
-        "description": ""
-    },
     "twitter.viewTweets": {
         "message": "يشاهد تغريدات ل:",
         "description": ""

@@ -1,1 +1,22 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "Ogledovanje seznama osebja",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Ogledovanje njihovih gledanih objav",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Ogledovanje njihovih gledanih forumov",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Ogledovanje njihovih DM-jev",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Ogledovanje iger:",
+        "description": ""
+    }
+}

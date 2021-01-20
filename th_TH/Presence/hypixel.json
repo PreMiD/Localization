@@ -1,14 +1,14 @@
 {
     "hypixel.staff": {
-        "message": "ดูรายการพนักงาน",
+        "message": "ดูรายชื่อทีมงาน",
         "description": ""
     },
     "hypixel.watchThreads": {
-        "message": "กำลังดูเธรดเก่า",
+        "message": "กำลังดูกระทู้",
         "description": "Articles they get notifications from"
     },
     "hypixel.watchForums": {
-        "message": "กำลังดูกระดานสนทนาเก่า",
+        "message": "กำลังดูกระทู้",
         "description": "Forum categories they get notifications from"
     },
     "hypixel.dm": {

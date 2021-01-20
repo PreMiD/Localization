@@ -20,7 +20,7 @@
 		"description": "Features list"
 	},
 	"beta.features.3": {
-		"message": "Spesiaalisen roolin meidän Discord-palvelimellamme",
+		"message": "Erityisen roolin meidän Discord-palvelimellamme",
 		"description": "Features list"
 	},
 	"beta.register.text": {
@@ -40,7 +40,7 @@
 		"description": "Thank You page description"
 	},
 	"error.noslots": {
-		"message": "Näyttää siltä että meillä ei ole enään beta paikkoja saatavilla.",
+		"message": "Näyttää siltä että meillä ei ole enää beta paikkoja saatavilla.",
 		"description": "Shows when the beta slots are full."
 	}
 }

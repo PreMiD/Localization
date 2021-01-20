@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Meymunlarımız sizi mümkün qədər tez beta proqramımıza daxil etmək üçün çalışırlar. Qeydiyyat üçün təşəkkür edirik!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Görünən budur ki, daha beta slotumuz yoxdur.",
+		"description": "Shows when the beta slots are full."
 	}
 }

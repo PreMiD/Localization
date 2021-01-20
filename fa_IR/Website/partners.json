@@ -1,1 +1,250 @@
-{}
+{
+	"partners.header.title": {
+		"message": "همکاران",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "به شهرت بپیوندید و از مزایای مخصوص همکاران بهره مند شوید تا به بقیه نشان دهید باحال هستید.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "این ها از قبل به ما تعلق داشته",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "چی میشه اگه بریم بهشت به جای جهنم?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Presence رایگان شما",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "تیم ما Presence شما رو در اختیار خودتان قرار میده.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "معتبر شوید",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "نقش ویژه و افتخار بزرگی در سرور دیسکورد ما به شما داده خواهد شد.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "عناصر Meta-tag",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "کسی که از وبسایت شما بازدید می کند خودکار از Presence شما استفاده خواهد شد.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "جاودانه بشوید",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "یه جای زشت توی صفحه همکاران ما.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "مشهور باشید",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "جایگاه ویژه در شبکه های اجتماعی ما.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "نیازمندی ها",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "به دنبال چی میگردیم?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "ما همچنان حواسمان به رشد جوامع اطراف‌مان و چیز های باحال دیگه اطراف اینترنت هست. (خیلی طولانیه، بیخیال خوندن کاملش) شما حتما تا الان از PreMiD استفاده کرده اید و آماده هستید که این چیز های باحال توی اینترنت را به دیگران نشان دهید. پذیرش ورود به برنامه همکاری چیزی کاملا کیفی هست می تونه از یک خواستار تا فردی دیگه متفاوت باشه.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "دیوار آتش ما",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "ما در حال حاضر انواع افراد را برای مشارکت با ما می پذیریم. هرکسی باید این شانس را داشته باشد که مورد توجه واقع شود. استریمر های Twitch باید حداقل 500 دنبال کننده و حداقل 10 بیننده در هر پخش زنده داشته باشند. و باید حداقل یک بار در هفته استریم بگذارند.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "همین الان درخواست دهید!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "بیاین با هم بریم بهشت!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "اگر شما به کارکردن مستقیم برای PreMiD علاقه مند شدید، یک نگاهی هم به **تبلیفات شغلی** ما بیاندازید.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "اسپانسر ها",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "وجود PreMiD بدون شما افراد شگفت انگیز، غیر ممکن بود.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "اینجوری انیمه تماشا می کنن.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings یک بازی نسل جدید با پیشروی سریع و PvP می باشد که می توان آن را در مرورگر خود بازی نمود.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat یک رادیو بین المللی بدون درآمد می باشد که سخت در تلاش و کوشش برای ارائه رادیوئی بدون توقف، با کیفیت از آخرین اخبار و سرگرمی است.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "پلتفرم درآمد یک گیمر.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio موفق ترین رادیو سرگرم کننده برای بازی های شبیه سازی در آلمان، اتریش و سوئیس می باشد!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "چیزی را دریافت کنید که حقیقتا مال خودتان است. پخش زنده انیمه، فیلم، هنتای، چیز های های ویژه و بیشتر. رایگان، بدون هیچ تبلیغی و با بالاترین کیفیت!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "بیاید انجمن زیبای خود را با نمونه های عالی ما بسازید. قلمرو پادشاهی خود را گسترش دهید.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga ربات دیسکورد است که تلاش می کند به شما همه ویژگی هایی را که لازم دارید در یک جا داشته باشید!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "ابزار ساخت نصب کننده ای بسیا قوی و سریع برای استفاده در پلتفرم های مختلف.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "به راحتی و بدون درنگ با وضعیت کاربرانتان ارتباط برقرار کنید.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "یک الهه که برای خوشی جای ربات دیسکورد کار می کند!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM به شما اجازه می دهد به بیش از 15+ استریم موسیقی به صورت رایگان گوش دهید - بدون توقف. با بهترین و آخرین موزیک ها فقط برای شما!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "محلی ساز زبان سریع برای کمپانی های فن آوری.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "قوی ترین و قابل تعمیم ترین نرم افزار متن بازی ویکی.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "ظاهر یکپارچه و توسعه دوست برای تمامی شما صنعتگران.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "پشت بهترین های دنیای وب.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit یک ایستگاه رادیویی است که ساخته شده تا بهترین ضرب ها را در 24/7 برای شما پخش کند و اینکه برای شما بهترین ضرب های آینده را در اولین فرصت فراهم کند.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.apply.title": {
+		"message": "درخواست همکاری",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "وارد شده به عنوان {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "شما نیستید?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "لطفا یکی را انتخاب کنید",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "وب‎سایت",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "ديگر",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "نام",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "مثال: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "لینک",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "مثال: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "توضیحات: (حداکثر 150 کاراکتر)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "توضیحات برای ویژگی ها",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "لینک تصویر: (اندازه 550x300، فقط فرمت PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "مثال: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "بستن",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "اعمال",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "از درخواست همکاری شما سپاس گذاریم!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "لطفا همه فیلد ها را کامل کنید.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "حداکثر 150 کاراکتر توضیحات.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "لطفا یک لینک اضافه کنید (باید با https:// شروع شود و با تمام شود)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "شما قبلا درخواست همکاری کرده اید.",
+		"description": "Error when already applied."
+	}
+}

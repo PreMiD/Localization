@@ -3,10 +3,6 @@
 		"message": "ไม่ได้เชื่อมต่อกับส่วนขยาย",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "ผู้เขียน",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Presence นี้เป็นที่นิยมมากในหมู่ผู้ใช้",
 		"description": "Presence card popular flame"
@@ -44,7 +40,7 @@
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "แสดงอันที่เป็น NSFW",
+		"message": "แสดงอันที่เป็น NSFW (18+)",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
@@ -59,16 +55,8 @@
 		"message": "หมวดหมู่",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "ทั้งหมด",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "เกม",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "เพลง",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

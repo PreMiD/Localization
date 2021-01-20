@@ -1,0 +1,62 @@
+{
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** is 'n eenvoudige, opstelbare hulpmiddel waarmee u kan wys wat u op die web doen in u Discord status.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funksies",
+		"description": "Introduction button"
+	},
+	"home.examples.playingagame": {
+		"message": "Speel ’n speletjie",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} oor",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} verloop",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.features.heading": {
+		"message": "Jy sal hierdie funkies lief!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Vind **u** presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Ons het ons uitbreiding gemaak op 'n manier waarmee u Presensies wat deur ander geskep is, kan byvoeg en gebruik - en dit in ons uitbreiding kan bestuur!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Besoek winkel",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Simpel gebruikerskoppelvlak",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Toespassing en uitbreiding instellings",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence bestuur",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sorteer volgens kategorie",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Vinnige ondersteuning",
+		"description": "Features section subheading"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Webwerf taal",
+		"description": "Tippy content of the language selector."
+	}
+}

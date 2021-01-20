@@ -20,11 +20,11 @@
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Lesen über Kanal:",
+        "message": "Liest Kanalbeschreibung:",
         "description": ""
     },
     "youtube.searchChannel": {
-        "message": "Kanal durchsuchen: {0} für:",
+        "message": "Durchstöbert Kanal: {0} für:",
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
@@ -32,67 +32,67 @@
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Durchsuchen",
+        "message": "Durchstöbert",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "dessen Abonnements",
+        "message": "seine Abonnements",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "dessen Bibliothek",
+        "message": "seine Mediathek",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "dessen Verlauf",
+        "message": "seinen Verlauf",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "dessen Käufe",
+        "message": "seine Käufe",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Anzeigen dessen Berichtsverlaufs",
+        "message": "Betrachtet Meldeverlauf",
         "description": ""
     },
     "youtube.upload": {
-        "message": "Ladet etwas hoch...",
+        "message": "Lädt etwas hoch...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Alle Playlisten anzeigen",
+        "message": "Betrachtet alle Playlisten",
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "Live-Events anzeigen",
+        "message": "Betrachtet seine Live-Events",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "Live-Dashboard anzeigen",
+        "message": "Betrachtet sein Live-Dashboard",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
-        "message": "Audio-Bibliothek anzeigen",
+        "message": "Betrachtet die Audio-Mediathek",
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "Videos anzeigen",
+        "message": "Betrachtet seine Videos",
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "Bearbeiten von Videos:",
+        "message": "Bearbeitet Video:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Videoanalytik anzeigen:",
+        "message": "Betrachtet Analyse des Videos:",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Kommentare anschauen:",
+        "message": "Betrachtet Kommentare des Videos:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "Videoübersetzungen anzeigen:",
+        "message": "Betrachtet Übersetzungen von Video:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
@@ -100,23 +100,23 @@
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
-        "message": "kanalanalytik",
+        "message": "Kanalanalysen",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
-        "message": "kanal-Kommentare",
+        "message": "Kanalkommentare",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelTranslations": {
-        "message": "kanalübersetzungen",
+        "message": "Kanalübersetzungen",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
-        "message": "künstlerseite",
+        "message": "Künstlerkanal",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Dashboard anzeigen",
+        "message": "Betrachtet Kanal-Dashboard",
         "description": ""
     }
 }

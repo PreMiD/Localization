@@ -1,1 +1,42 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "Чете туит:",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Чете туитове на:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Чете туитове (с отговори) на:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Гледа медия от:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Гледа харесано от:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Гледа списък:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Отметки",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Известия",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Разгледай",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Променяне на някои настройки...",
+        "description": ""
+    }
+}

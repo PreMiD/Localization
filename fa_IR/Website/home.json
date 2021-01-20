@@ -1,1 +1,90 @@
-{}
+{
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** یک ابزار ساده و قابل تنظیم است که به شما اجازه می دهد تا به دیگران به عنوان وضعیت دیسکورد نشان دهید که در اینترنت چه می کنید.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "ویژگی‌ها",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "دانلود",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "درحال بازی کردن",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} باقی مانده",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} سپری شده",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "درحال پخش",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "پخش زنده",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "گشتن...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "شما عاشق این ویژگی ها خواهید شد!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Presence **خود** را پیدا کنید",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "ما افزونه خود را به گونه ای ایجاد کردیم که به شما امکان می دهد Presence های ایجاد شده توسط دیگران را اضافه و استفاده کنید و آنها را افزونه ما مدیریت کنید!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "بازدید از فروشگاه",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "رابط کاربری ساده",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "از رابط های کاربری پیچیده خسته شده اید؟ این همون دلیلی هست که ما رابط کاربری مان را تا جای ممکن ساده و در عین حال کابردی با ویژگی های مهمی ساخته ایم مثل:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "تنظیمات برنامه و افزونه",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "مدیریت Presence",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "مرتب بر اساس دسته بندی",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "پشتیبانی سریع",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "مشکلی وجود دارد، به شما تعداد زیادی خطا ارسال می کند یا به سادگی کار نمی کند؟ ما به شما در سرور دیسکورد خود کمک خواهیم کرد تا از این مشکلات خلاص شوید ، همچنین سیستم پشتیبانی بسیار مختص خود را ایجاد کرده ایم که اطمینان حاصل می کند که مشکل شما در اسرع وقت برطرف خواهد شد.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "به سرور دیسکورد ما بپیوندید",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "زبان وب‌سایت",
+		"description": "Tippy content of the language selector."
+	}
+}

@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Гледа библиотека с филми",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Гледа библиотека с серий",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Гледа най-скорошните епизоди",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Гледа топ 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Гледа какво се покачва",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Гледа аниме торенти",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Гледа програмни торенти",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Гледа документални торенти",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Гледа игрални торенти",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Гледа филмни торенти",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Гледа музикални торенти",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Гледа други торенти",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Гледа телевизионни торенти",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Гледа XXX торенти",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Качва нещо...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Чете правилата",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Пише на 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Чете за 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Гледа торент:",
+        "description": ""
+    }
+}

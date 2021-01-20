@@ -52,11 +52,11 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Last inn Presence",
+		"message": "Last inn Presencen",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Presence Butikk",
+		"message": "Presence Butikken",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -87,6 +87,38 @@
 		"message": "PreMiD appen din er ut datert. Vennligst oppdater den for at du skal kunne fortsette å bruke PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Utdatert versjon av PreMid",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Din utvidelse er utdatert. Oppdater den for å få de nyeste funksjonene ved å laste ned dette fra vår nettside.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Hastet oppdatering",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Vi har lagt ut en viktig oppdatering for utvidelsen din. Oppdater den for å forsette og bruke PreMid.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Ingen nettverks-forbindelse!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Ser ut til at du ikke har en internett-forbindelse! PreMid vil ikke kunne vise din status for øyeblikket.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Ingen Discord forbindelse!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMid kunne ikke koble til din Discord applikasjon! Er den installert korrekt og kjører den? *Troubleshooting*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Alle",
 		"description": "Category name shown when you open tags"
@@ -104,7 +136,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Sosialler",
+		"message": "Sosiale Medier",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {

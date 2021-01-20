@@ -1,0 +1,10 @@
+{
+	"v live.browseThrough": {
+		"message": "Đang duyệt qua",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "Đang xem",
+		"description": "The first part of the next 6 strings"
+	}
+}

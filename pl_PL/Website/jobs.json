@@ -24,7 +24,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD to projekt o otwartym kodzie źródłowym, co oznacza, że jesteśmy zespołem non-profit, a każda darowizna lub pieniądze patrona wraca do produktu. Ubiegając się o stanowisko w PreMiD potwierdzasz, że będziesz wolontariuszem w zespole, nie otrzymasz wynagrodzenia za swoją pracę.",
+		"message": "PreMiD to projekt o otwartym kodzie źródłowym, co oznacza, że jesteśmy zespołem non-profit, a każda darowizna lub pieniądze z Patreona wraca do produktu. Ubiegając się o stanowisko w PreMiD potwierdzasz, że będziesz wolontariuszem w zespole, nie otrzymasz wynagrodzenia za swoją pracę.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
@@ -36,7 +36,7 @@
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
-		"message": "Praca dla PreMiD",
+		"message": "Pracuj dla PreMiD",
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
@@ -48,7 +48,7 @@
 		"description": "Text before the available job positions cards."
 	},
 	"jobs.benefits.title": {
-		"message": "Najwyższej jakości korzyści",
+		"message": "Korzyści wysokiej jakości",
 		"description": "Text before the benefits cards."
 	},
 	"jobs.benefit1.title": {
@@ -56,15 +56,15 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit1.description": {
-		"message": "Skontaktuj się z osobami zajmującymi się PreMiD.",
+		"message": "Zapoznasz się z osobami zajmującymi się PreMiD.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit2.title": {
-		"message": "Podejrzyj",
+		"message": "Zapowiedzi",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
-		"message": "Zobacz nasz dział rozwoju i marketingu.",
+		"message": "Zobaczysz nasz dział rozwoju i marketingu.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
@@ -72,7 +72,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Potężne uprawnienia Discord i kolorowa rola.",
+		"message": "Potężne uprawnienia na Discordzie i kolorowa rola.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
@@ -80,7 +80,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "Z twoim udziałem możliwe jest uruchomienie tego projektu.",
+		"message": "Twoja pomoc umożliwia nam prowadzenie tego projektu.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
@@ -96,7 +96,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "Przetestuj nowe funkcje, zanim zrobi to ktoś inny.",
+		"message": "Przetestuj nowe funkcje, zanim zrobią to inni.",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {

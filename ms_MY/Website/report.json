@@ -1,0 +1,58 @@
+{
+	"report.title": {
+		"message": "Laporkan Pepijat",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "Tinggal {count}/3 Laporan",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Pelaporan pepijat hanyalah untuk pepijat di dalam laman PreMiD dan Pelayan Discord PreMiD. Pepijat untuk Presence perlu dilaporkan kepada pencipta Presence tersebut. Laporkan pepijat dalam bahasa Inggeris sahaja.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Sertakan keterangan yang jelas dan tepat mengenai pepijat tersebut.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Pilih Sistem Pengoperasian anda dan Versi berkaitan",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Pilih Pelayar anda dan Versi berkaitan - Anda boleh dapatkan versi dengan melawat about:support di Firefox atau chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Sediakan pautan ke contoh langsung atau set langkah yang jelas untuk menghasilkan semula pepijat ini.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Lapor",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Anda mempunyai terlalu banyak laporan aktif. Sila tunggu laporan yang anda hantar untuk disemak dahulu. Laporan disemak secara mingguan, sila bersabar.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Anda mempunyai terlalu banyak laporan aktif.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Laporan Pepijat Dihantar",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Lebih banyak maklumat diperlukan",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Akaun Discord perlu disahkan",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Pepijat Aktif",
+		"description": "Lists users active bugs"
+	}
+}

@@ -20,7 +20,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Adicione nossa Extensão para seu navegador",
+		"message": "Adicione nossa extensão em seu navegador",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
@@ -91,10 +91,6 @@
 		"message": "Atenção",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "Não se esqueça de habilitar a opção 'permitir extensões de outras lojas' nas configurações de extensão.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "Você precisa instalar **esta extensão** para instalar o PreMiD da Chrome Webstore.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
@@ -134,5 +130,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Por favor, desative seu adblock.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Eu não quero ajudar.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Você tem certeza?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Tem certeza?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P-por favor me ajude :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Eu preciso de você :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Okay, okay...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Exibir downloads beta",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(não é necessário se você só está aqui para baixar o aplicativo normal)",
+		"description": "Small text under the show beta title."
 	}
 }

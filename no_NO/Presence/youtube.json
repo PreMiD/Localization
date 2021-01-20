@@ -1,1 +1,122 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Ser for tiden en annonse",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Blar igjennom videoer",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Blar igjennom spillelister",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Ser på sammfunnsinlegg",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "for kanal:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Leser om kanal:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Søker igjennom kanal {0} for:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Ser hva som er populært",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Blar igjennom",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "sine abonnementer",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "biblioteket sitt",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "sin historikk",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "sine kjøp",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Ser på sin rapportshistorikk",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Laster opp noe...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Ser igjennom spillelistene sine",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Ser på deres live-arrangementer",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Ser på deres direkte kontrollpanel",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Ser på sitt filmbiblioteket",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Ser igjennom videoene deres",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Redigerer video:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Viser analyser for video:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Ser på kommentarene for video:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Ser oversettelse av video:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Ser deres",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanal analyser",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanal kommentarer",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanal oversettelser",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "artist side",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Ser på sitt kontrollpanel",
+        "description": ""
+    }
+}

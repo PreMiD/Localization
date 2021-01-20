@@ -1,1 +1,98 @@
-{}
+{
+	"store.message.error": {
+		"message": "افزونه متصل نشده.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "سازنده",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "این Presence درمیان کاربران خیلی محبوب است.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Presence های همکاران",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "این Presence چند گام اضافه نیاز دارد، لطفا صفحه آن را برای اطلاعات بیشتر چک کیند.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "جستجوی Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "اضافه کردن Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "حذف کردن Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "این Presence خودکار با بازدید از این سایت فعال شده.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "فیلتر ها",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "بیشترین استفاده شده ها از اول",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "نشان دادن محتوای نامشروع",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "فقط Presence های محبوب",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Presence های اضافه شده را نشان بده",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "دسته‌‎بندی‎ها",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "همه",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "بازی ها",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "موسیقی",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "شبکه های اجتماعی",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "ویدیو ها و پخش های زنده",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "ديگر",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "جستجو",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "وارد کردن",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "برای حذف فیلتر کلیک کنید",
+		"description": "Remove message for active search filters."
+	}
+}

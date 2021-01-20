@@ -1,0 +1,30 @@
+{
+	"netflix.viewSeries": {
+		"message": "Sorozatot néz",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Filmet néz",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Epizódot néz",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewList": {
+		"message": "Listáját nézi",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Profiljait kezeli",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Nézi, hogy mi új és {0}népszerű a Netflix-en",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Megszerzi az{0}ajánlási linkjét",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}

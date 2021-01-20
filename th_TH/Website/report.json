@@ -1,1 +1,58 @@
-{}
+{
+	"report.title": {
+		"message": "รายงานข้อบกพร่อง",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 รายงาน",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "รายงานข้อบกพร่องภายในเว็บไซต์ PreMiD เเละ PreMiD Discord. ข้อบกพร่องของ Presence ให้รายงานกับผู้จัดทํา Presence. ใช้ภาษาอังกฤษเท่านั้น",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "บอกสาเหตุที่เกิดข้อบกพร่องให้ชัดเจนเเละกระชับ",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "เลือกระบบปฎิบัติการเเละเวอร์ชั่น",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "เลือกบราวเซอร์เเละเวอร์ชั่น - คุณสามารถดูเวอร์ชั่นได้ที่ about:support ใน Firefox หรือ chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "บอกลิงค์ที่เกิดข้อบกพร่องหรือบอกวิธีที่เกิดจุดบกพร่องนี้ให้ชัดเจน",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "รายงาน",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "คุณส่งรายงานไปหลายครั้ง! กรุณารอให้ตรวจสอบรายงานที่คุณส่งมา รายงานจะตรวจสอบทุกสัปดาห์ กรุณารอ",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "คุณส่งรายงานไปหลายครั้ง",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "ส่งข้อบกพร่องแล้ว",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "ต้องการข้อมูลเพิ่มเติม",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "บัญชี Discord ต้องได้รับการยืนยัน",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "ข้อบกพร่องที่ยังมีอยู่",
+		"description": "Lists users active bugs"
+	}
+}

@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Åh nej!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.message": {
 		"message": "Indtil vores specielle udviklere løser dette, er du velkommen til at tage et kig her!",
 		"description": "Message on maintenance page"

@@ -4,7 +4,7 @@
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Gunakan PreMiD sekarang untuk manampilkan apa yang kamu lakukan, mungkin kamu akan bertemu orang dengan minat yang sama.",
+		"message": "Gunakan PreMiD sekarang dan pamerkan apa yang kamu lakukan, mungkin kamu akan bertemu orang dengan minat yang sama.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -16,7 +16,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Pasang Aplikasi",
+		"message": "Pasang aplikasi kami",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
@@ -24,11 +24,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Muat ulang halaman ini dan periksa jika ekstensi telah terhubung",
+		"message": "Muat ulang situs ini dan periksa jika ekstensi telah terhubung",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
-		"message": "Mengalami masalah? {0}",
+		"message": "Masih mengalami masalah? {0}",
 		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
@@ -91,10 +91,6 @@
 		"message": "Peringatan",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "Jangan lupa untuk mengaktifkan opsi 'allow extensions from other stores' di pengaturan ekstensi.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "Kamu harus menginstal ekstensi **ini** untuk menginstal PreMiD dari Chrome Webstore.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
@@ -134,5 +130,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Harap matikan adblock.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Saya tidak mau membantu.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Apakah anda yakin?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Yakin?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "M-mohon dukungannya :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Aku butuh kamu :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Oke, oke...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Tampilkan unduhan beta",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(tidak dibutuhkan jika anda kesini hanya untuk mengunduh aplikasi normal)",
+		"description": "Small text under the show beta title."
 	}
 }

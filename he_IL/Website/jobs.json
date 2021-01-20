@@ -1,1 +1,42 @@
-{}
+{
+	"jobs.modal.title": {
+		"message": "הגש עבור {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "צעד {0} מתוך 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "הבא",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "כנס",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "בטל",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "בבקשה השלם את כל השדות",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.guild.required": {
+		"message": "הצטרף לדיסקורד שלנו",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.header.title": {
+		"message": "עבוד בשביל PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "האם אתה מוכן לעזור לנו עם תוכנית ה Rich-Presence?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.benefit6.title": {
+		"message": "גישה מוקדמת",
+		"description": "Benefit card title."
+	}
+}

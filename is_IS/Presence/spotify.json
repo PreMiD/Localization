@@ -1,1 +1,58 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Lög",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Bestu podcasts",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Skoðar töflunar",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Skoðar Í gegnum tegundir",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Skoðar nýjustu útgáfurnar",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Uppgötvar ný lög",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Skoðar í gegn",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcasts sem þeim líkar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "listamenn sem þeim líkar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albúm sem þeim líkar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "lög sem þeim líkar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Búið til fyrir þig\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "playlistar þeirra",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Sækir Spotify",
+		"description": ""
+	}
+}

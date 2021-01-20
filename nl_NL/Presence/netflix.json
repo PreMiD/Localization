@@ -1,0 +1,30 @@
+{
+	"netflix.viewSeries": {
+		"message": "Serie bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Film bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Aflevering bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewList": {
+		"message": "Bekijkt zijn/haar lijst",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Zijn/haar profiel aan het beheren",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Bekijkt wat nieuw en{0}populair is op Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Zijn/haar referral link{0}aan het ophalen",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}

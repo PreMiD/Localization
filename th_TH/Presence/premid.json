@@ -1,74 +1,18 @@
 {
-    "premid.viewPage": {
-        "message": "กำลังดูเพจในส่วน:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "เอกสาร",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "กำลังดู presence:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "หน้าหลัก",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "ผู้พัฒนา",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "ดาวน์โหลด",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "ร้านค้า",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "นโยบายเกี่ยวกับคุกกี้",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "นโยบายความเป็นส่วนตัว",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "เงื่อนไขการใช้บริการ",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "วิกิ",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "เกี่ยวกับ",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "ความต้องการของระบบ",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "การติดตั้ง",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "การแก้ปัญหา",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "เริ่มต้น\n",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    },
-    "premid.pagePresenceDev": {
-        "message": "การพัฒนา Presence",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "กำลังดูเพจในส่วน:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "เอกสาร",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "กำลังดู presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "หน้าหลัก",
+		"description": "A page name"
+	}
 }

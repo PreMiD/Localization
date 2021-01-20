@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Nhật ký thay đổi",
+    "message": "Changelog",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -24,7 +24,7 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Ôi không!** Chúng tôi không thể kết nối đến ứng dụng... Bạn có chắc là nó đã được cài đặt?",
+    "message": "**Oops** Chúng tôi không thể kết nối đến ứng dụng... Bạn chắc là nó đã được cài đặt?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {

@@ -1,14 +1,14 @@
 {
     "hypixel.staff": {
-        "message": "Wyświetlanie listy pracowników",
+        "message": "Przegląda listę pracowników",
         "description": ""
     },
     "hypixel.watchThreads": {
-        "message": "Wyświetla obserwowane wątki",
+        "message": "Przegląda obserwowane wątki",
         "description": "Articles they get notifications from"
     },
     "hypixel.watchForums": {
-        "message": "Przegląda obejrzane fora",
+        "message": "Przegląda obserwowane fora",
         "description": "Forum categories they get notifications from"
     },
     "hypixel.dm": {

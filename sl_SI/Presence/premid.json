@@ -1,22 +1,38 @@
 {
-    "premid.pageContributors": {
-        "message": "Sodelavci",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Prenosi",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Trgovina",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wikipedija",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Odpravljanje napak",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Ogledovanje strani:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumenti",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Ogledovanje dodatka:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Domača stran",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Sistemske zahteve",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Namestitev",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Kako začeti",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Razvoj Dodatkov",
+		"description": "A page name"
+	}
 }

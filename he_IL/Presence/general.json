@@ -7,28 +7,212 @@
 		"message": "גולש...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "פרק",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "תקליטן",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "פרק",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "פורומים",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "ז'אנר",
 		"description": ""
 	},
 	"general.language": {
 		"message": "שפה",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "מקשיב למוזיקה",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "מאזינים",
+		"description": ""
+	},
 	"general.live": {
 		"message": "שידור חי",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "מנגה",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "סחר",
+		"description": ""
+	},
+	"general.page": {
+		"message": "עמוד",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "מושהה",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "מתנגן",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "קורא פרטי מ:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "קורא לגבי:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "קורא כתבה:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "קורא בערוץ:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "קורא פוסט:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "קורא כתבה:",
 		"description": ""
 	},
 	"general.reading": {
 		"message": "קורא",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "מחפש ל:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "מחפש משהו...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "מחפש",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "עגלת קניות",
 		"description": ""
 	},
 	"general.store": {
 		"message": "חנות",
 		"description": ""
+	},
+	"general.typeDM": {
+		"message": "מקליד הודעה ישירה ל:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "רושם בערוץ:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "רואה אנימה:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "רואה קטגוריה:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "צופה ערוץ:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "צופה בפרק:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "מסתכל בג'אנר:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "מסתכל בעמוד הבית",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "מסתכל רשימה של:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "מסתכל במנגה:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "מסתכל סרט:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "מסתכל בפלייליסט:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "מסתכל במוצר:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "מסתכל בפרופיל של:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "מסתכל בסדרה:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "מסתכל במופע:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "מסתכל בעמוד שלהם",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "מסתכל כתבה:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "מסתכל במשתמש:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "מסתכל:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "צופה בוידאו",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "צופה בשידור חי",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "צופה:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "רשימת משאלות:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "מדיניות פרטיות",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "תנאי השירות",
+		"description": "A page name"
 	}
 }

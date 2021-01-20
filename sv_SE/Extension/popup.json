@@ -4,7 +4,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "Beröm",
+		"message": "Tack till",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
@@ -86,6 +86,38 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "PreMiD programmet är gammalt. Uppdatera för att fortsätta kunna använda PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Utdaterat Tillägg",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Ditt tillägg är föråldrat. Vänligen uppdatera det för att få tillgång till nya funktioner genom att ladda ner det från vår webbplats.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Brådskande uppdatering",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Vi har släppt en brådskande uppdatering för tillägget. Vänligen uppdatera för att fortsätta använda PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Ingen Internetanslutning!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Det verkar som om du inte har någon internetanslutning! PreMiD kommer inte att kunna visa presences tills att du har åtgärdat det.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Ingen anslutning till Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD kunde inte ansluta till din Discord-applikation! Är den installerad och kör? *Felsökning*",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "Alla",

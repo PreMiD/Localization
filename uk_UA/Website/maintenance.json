@@ -1,7 +1,11 @@
 {
-	"maintenance.big": {
-		"message": "Халепа!",
-		"description": "The big text on maintenance page"
+	"maintenance.heading": {
+		"message": "На жаль, ми зіткнулися з деякими технічними труднощами. Ми повернемося незабаром. Вибачте за незручності.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Будь ласка, поверніться пізніше для отримання додаткової інформації.",
+		"description": "Heading on maintenance page"
 	},
 	"maintenance.message": {
 		"message": "Поки наші спеціальні розробники не виправлять це, ви можете сміливо заглянути сюди!",

@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "Partners",
+		"message": "Samarbetspartners",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -15,6 +15,14 @@
 		"message": "Vad sägs om att gå till himlen istället för helvetet?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Din fria Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Vårt team kommer att förse dig med en Presence till din service.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Bli verifierad",
 		"description": "Heading for the second benefit."
@@ -27,6 +35,10 @@
 		"message": "Meta-tag integration",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Använder automatiskt din Presence när någon besöker din webbplats.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Bli förevigad",
 		"description": "Heading for the fourth benefit."
@@ -38,6 +50,10 @@
 	"partners.why.benefit5.title": {
 		"message": "Bli känd",
 		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Utvald på våra sociala medier.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "Krav",
@@ -67,6 +83,14 @@
 		"message": "Nu drar vi till himlen tillsammans!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Om du är däremot är intresserad kring ett direktjobb hos PreMiD, ta en titt på våra **jobbannonser**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsorer",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "PreMiD vore inte möjligt utan dessa fantastiska människor.",
 		"description": "Description for sponsors."
@@ -83,6 +107,18 @@
 		"message": "UpBeat är en ideell internationell radio som strävar efter att erbjuda en non-stop, kvalitativ radio och nyhetsupplevelse.",
 		"description": "Description for UpBeatRadio."
 	},
+	"partners.partner.aniWatch": {
+		"message": "Få tillgång till vad som är ditt. Streama Anime, Filmer, Hentai, Specials och mer. Gratis, utan annonser och i hög definition!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Börja skapa din egen gemenskap med våra fantastiska mallar. Bygg ditt eget kungarike.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga är en Discord Bot som försöker erbjuda alla funktioner du kan behöva på en gång!",
+		"description": "Description for taigabot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Ett kraftfullt och lättanvänt verktyg för att skapa plattformsoberoende installationsprogram.",
 		"description": "Description for BitRock."
@@ -91,6 +127,14 @@
 		"message": "Kommunicera enkelt realtidsstatus till dina användare.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "En gudinna som spelar som en rolig Discord Bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM låter dig lyssna på 15 + musikstreamingtjänster gratis - nonstop. Med den bästa och senaste musiken, bara för dig!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Smidig översättningslösning för teknikföretag.",
 		"description": "Description for Crowdin."
@@ -98,6 +142,18 @@
 	"partners.partner.wikijs": {
 		"message": "Den mest kraftfulla och utbyggbara Wiki programvara med öppen källkod.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "En förenad, utvecklarvänlig interface för alla dina artefakter.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Bakom det bästa av nätet.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit är din online musik radiostation gjord för att spela dina bästa hits 24/7 och för att få dig att upptäcka dina framtida hits först.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Ansök om partnerskap",

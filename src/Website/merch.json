@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Welcome to the official **PreMiD** Merchandise store!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Find your **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Choose your fit**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Add to cart",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Experiencing problems with our store or an order? Contact our {0}customer support{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} added to your cart",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "No Item to add to your cart",
+		"description": "Error message when no size selected"
+	}
+}

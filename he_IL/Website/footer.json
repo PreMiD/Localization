@@ -3,6 +3,10 @@
 		"message": "שפה",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "מוכן להשתמש ב-PreMiD?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "הצטרף ל{0} משתמשים כבר היום!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -14,6 +18,10 @@
 	"footer.partners.heading": {
 		"message": "שותפים",
 		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "עקוב אחרינו",
+		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "מפתחים",
@@ -39,13 +47,13 @@
 		"message": "תרום",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "עצב",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "תרגם",
 		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "עבוד איתנו!",
+		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "עזרה",
@@ -94,5 +102,9 @@
 	"footer.copyright.line2": {
 		"message": "אתר מתוחזק על ידי{0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "לחץ כאן כי לראות את שאר השותפים & ספונסרים שלנו.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

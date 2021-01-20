@@ -91,10 +91,6 @@
 		"message": "Xəbərdarlıq",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "Uzantı parametrlərindən \"digər mağazalara icazə ver\" seçimini aktivləşdirməyi unutmayın.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "Chrome Webstore-dan PreMiD quraşdırmaq üçün **bu** uzantını quraşdırmalısınız.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
@@ -107,12 +103,16 @@
 		"message": "Geri",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "Ləğv et",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "Oldu",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "İcra et",
+		"message": "Bitti",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
@@ -130,5 +130,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Zəhmət olmasa adblock'u bağlayın.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Dəstəkləmək istəmirəm.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Əminsiniz?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Həqiqətən?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "Xaiş edirəm kömək edin :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Sənə ehtiyacım var :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Yaxşı, yaxşı...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Beta yükləmələrini göstər",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(normal tətbiqi yükləmək üçün yalnız buradasınızsa ehtiyac yoxdur)",
+		"description": "Small text under the show beta title."
 	}
 }

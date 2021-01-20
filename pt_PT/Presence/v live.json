@@ -1,0 +1,14 @@
+{
+	"v live.browseThrough": {
+		"message": "A pesquisar por",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profileEdit": {
+		"message": "A editar{0}o seu perfil",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.viewTheir": {
+		"message": "A ver os seus",
+		"description": "The first part of the next 6 strings"
+	}
+}

@@ -20,7 +20,7 @@
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
-		"message": "تم تمكين",
+		"message": "مفعل",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
@@ -68,7 +68,7 @@
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "خطأ أثناء تحميل الثناء",
+		"message": "خطأ أثناء تحميل المساهمون",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
@@ -86,6 +86,38 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "تطبيق PreMiD الخاص بك قديم. يرجى تحديثه من أجل متابعة استخدام PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "ملحق قديم",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "الملحق الخاص بك قديم. الرجاء تحديثه للحصول على أحدث الميزات عن طريق تحميله من موقعنا.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "تحديث عاجل",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "لقد أصدرنا تحديثاً عاجلاً للملحق. يرجى تحديثه لمواصلة استخدام PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "لا يوجد اتصال بالإنترنت!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "يبدو أنه ليس لديك اتصال بالإنترنت! لن يتمكن PreMiD من إظهار presences في الوقت الحالي.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "أنت غير متصل بديسكورد!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "لم يتمكن PreMiD من الإتصال بديسكورد! هل هو مثبت و مشتغل؟ *استكشاف الأخطاء وإصلاحها*",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "الكل",
@@ -108,7 +140,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "فيديوات",
+		"message": "مقاطع الفيديو والبثوث",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

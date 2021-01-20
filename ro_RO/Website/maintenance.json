@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Oh nu!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.message": {
 		"message": "Până când creatorii noștri speciali rezolvă problema, trage o privire aici!",
 		"description": "Message on maintenance page"

@@ -1,0 +1,18 @@
+{
+    "juniperbot.mainpage": {
+        "message": "Főoldal",
+        "description": "Home page of the site"
+    },
+    "juniperbot.serverdash": {
+        "message": "Irányítópulton",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Szerver: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.usercard": {
+        "message": "Rank kártya testreszabása",
+        "description": "Rating card customization page"
+    }
+}

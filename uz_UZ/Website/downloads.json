@@ -3,6 +3,10 @@
 		"message": "Boshla",
 		"description": "Displayed at Downloads page above steps"
 	},
+	"downloads.instructions.step_1": {
+		"message": "PreMiD Yuklang",
+		"description": "Heading for installing the application"
+	},
 	"downloads.appdownloading.header": {
 		"message": "Ilova",
 		"description": "Header above application download buttons."
@@ -14,10 +18,6 @@
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": "{0} Ushbu operatsion tizim uchun o'rnatuvchi yo'q. Bu shuni anglatadiki, buning uchun professional yordam yo'q.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.button.done": {
-		"message": "Bajarildi",
-		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Rahmat!",

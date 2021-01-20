@@ -11,21 +11,21 @@
 		"message": "{0} qaldı",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Oynayır",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Axtarış edir...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Bu xüsusiyyətləri sevəcəksiniz!",
 		"description": "Features section"
 	},
+	"home.features.presencesystem.button": {
+		"message": "Mağazayı ziyarət edin",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Sadə istifadəçi interfeysi",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Mürəkkəb istifadəçi interfeyslərindən bezmisiniz? Bu səbəbdən istifadəçi interfeysimizi aşağıdakı kimi vacib xüsusiyyətlərlə mümkün qədər sadə və faydalı saxlamağa çalışdıq:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Proqram və əlavə parametrləri",
@@ -35,8 +35,20 @@
 		"message": "Status idarəsi",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Kateqoriya görə sırala",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Tez dəstək",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Sizə bir neçə ton səhv göndərən və ya sadəcə işləməyən bir şey qarışdı? Discord serverimizdə bu problemlərdən qurtulmanıza kömək edəcəyik, probleminizin ən qısa müddətdə həll olunmasını təmin edən öz dəstək sistemimizi də yaratdıq.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Veb sayt dili",
+		"description": "Tippy content of the language selector."
 	}
 }

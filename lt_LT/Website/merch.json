@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Sveiki atvykę į oficialų **PreMiD** prekių parduotuvę!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Raskite savo **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Pasirinkite savo dydį**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Įdėti į krepšelį",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Susidūrete su problemomis mūsų svetainėje arba užsakyme? Susisiekite su mūsų {0}Klientų pagalba{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} buvo pridėtas į jūsų krepšelį",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Krepšelis yra tuščias",
+		"description": "Error message when no size selected"
+	}
+}

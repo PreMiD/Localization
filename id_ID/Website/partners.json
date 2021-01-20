@@ -127,10 +127,6 @@
 		"message": "taiga adalah Bot Discord yang menawarkan semua fitur yang mungkin kamu butuhkan!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "Bot hebat yang dapat mengamati website, game, dan masih banyak fitur.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Alat pembuat lintas platform yang kuat dan mudah digunakan.",
 		"description": "Description for BitRock."
@@ -138,6 +134,14 @@
 	"partners.partner.statusPage": {
 		"message": "Mengomunikasikan status real-time dengan mudah ke pengguna Anda.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Dewi yang bermain sebagai Bot Discord menyenagkan!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM memungkinkanmu mendengarkan 15+ aliran musik gratis - nonstop. Dengan musik terbaik dan terbaru hanya untukmu!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Lokalisasi tangkas untuk perusahaan teknologi.",
@@ -154,6 +158,10 @@
 	"partners.partner.fastly": {
 		"message": "Dibalik yang terbaik di web.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit adalah stasiun radio musik online yang memainkan hits terbaik 24/7 dan membantumu menemukan musik hits yang akan datang.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Melamar mitra",

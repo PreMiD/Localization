@@ -1,11 +1,15 @@
 {
 	"general.anime": {
-		"message": "আনিমে",
+		"message": "অ্যানিমে",
 		"description": ""
 	},
 	"general.browsing": {
 		"message": "ব্রাউসিং...",
 		"description": ""
+	},
+	"general.language": {
+		"message": "ভাষা",
+		"description": "For choosing a language"
 	},
 	"general.live": {
 		"message": "লাইভ",

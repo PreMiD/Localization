@@ -1,14 +1,14 @@
 {
     "pinterest.board": {
-        "message": "Wyświetlanie tablicy:",
+        "message": "Ogląda tablicę:",
         "description": ""
     },
     "pinterest.pin": {
-        "message": "Wyświetla Piny",
+        "message": "Wyświetla pin",
         "description": ""
     },
     "pinterest.follow": {
-        "message": "Wyświetla swoich obserwujących",
+        "message": "Przegląda swoich obserwujących",
         "description": ""
     },
     "pinterest.home": {

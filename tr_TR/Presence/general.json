@@ -199,13 +199,45 @@
 		"message": "Bakıyor:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Bir sayfayı görüntülüyor:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Bir film izliyor",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Bir seri izliyor",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Bir dizi izliyor",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Bir video izliyor",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Bir videonun ilk gösterimini bekliyor",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Videonun ilk gösterimini bekliyor",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Bir yayın izliyor",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Canlı yayının başlamasını bekliyor",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Canlı yayının başlamasını bekliyor",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Şunu izliyor:",
@@ -222,5 +254,25 @@
 	"general.terms": {
 		"message": "Kullanım Koşulları",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Çerez Politikası",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Tüm şarkılar döngüde",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Döngüde oynatılıyor",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Hata geçmişi",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Çalışma süres geçmişi",
+		"description": "A page name of statuspages"
 	}
 }

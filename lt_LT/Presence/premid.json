@@ -1,70 +1,42 @@
 {
-    "premid.viewPage": {
-        "message": "Peržiūri puslapį:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Dokumentacija",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Peržiūri statusą:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Pagrindinis puslapis",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Pagalbininkai",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Siuntiniai",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Parduotuvė",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Slapukų Naudojimo Politika",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Privatumo politika",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Naudojimosi sąlygos",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wikipedija",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "Apie",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Sistemos reikalavimai",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Instaliacija",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Nesklandumų sprendimas",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Pradžia",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Peržiūri puslapį:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumentacija",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Peržiūri presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Pagrindinis puslapis",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Diegimas {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageApiVersion": {
+		"message": "Suprasti v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Presence Gairės",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Suprasti iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Konfigūruojamas metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Konfigūruojamas TypeScript",
+		"description": "A page name"
+	}
 }

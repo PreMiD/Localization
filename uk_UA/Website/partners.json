@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Партнери",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Приєднайтесь до FAM і отримуй переваги від партнера тільки для того, щоб показати скільки у вас халатів.",
 		"description": "Description for page."
@@ -14,6 +10,14 @@
 	"partners.why.title": {
 		"message": "Як щодо того, щоб потрапити на рай замість пекла?",
 		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Ваш безкоштовний Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Наша команда надасть вам присутність вашого веб-сервісу.",
+		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
 		"message": "Станьте перевіреним",
@@ -27,6 +31,10 @@
 		"message": "Інтеграція з мета-тегами",
 		"description": "Heading for the third benefit."
 	},
+	"partners.why.benefit3.description": {
+		"message": "Автоматично використовує ваш Presence, коли хтось відвідує ваш веб-сайт.",
+		"description": "Description for the third benefit."
+	},
 	"partners.why.benefit4.title": {
 		"message": "Відокремте",
 		"description": "Heading for the fourth benefit."
@@ -39,9 +47,9 @@
 		"message": "Будь відомим",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.requirements.title": {
-		"message": "Вимоги",
-		"description": "Heading for the requirements."
+	"partners.why.benefit5.description": {
+		"message": "Рекомендовано нашими соціальними мережами.",
+		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.first.title": {
 		"message": "Що ми шукаємо?",
@@ -66,6 +74,14 @@
 	"partners.apply.disclaimer": {
 		"message": "Ходімо до раю разом!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Якщо ви досить зацікавлені у безпосередній роботі у PreMiD, то перегляньте **наші пропозиції про роботу**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Спонсори",
+		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD не став би можливим без цих дивовижних людей.",
@@ -95,6 +111,14 @@
 		"message": "Отримайте що справедливо для вас. Потокове Аніме, Фільми, Гентай, Особливе та багато іншого. Безкоштовно, без рекламних оголошень і у високій роздільній здатності!",
 		"description": "Description for AniWatch."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Почніть створювати власну спільноту з нашими дивовижними шаблонами. Побудуйте своє власне королівство.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga - це бот Discord, який намагається запропонувати всі функції, які вам можуть знадобитися відразу!",
+		"description": "Description for taigabot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Потужний і простий у використанні багатоплатформовий інструмент створення встановлювача.",
 		"description": "Description for BitRock."
@@ -103,6 +127,10 @@
 		"message": "Легко спілкуйтеся в реальному часі зі своїми користувачами.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "Богиня, що грає в веселому Discord Bot!",
+		"description": "Description for Erisly."
+	},
 	"partners.partner.crowdin": {
 		"message": "Рішення для гнучкої локалізації для технологічних компаній.",
 		"description": "Description for Crowdin."
@@ -110,6 +138,18 @@
 	"partners.partner.wikijs": {
 		"message": "Найбільш потужне та широкомасштабне програмне забезпечення для вікі джерела.",
 		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Єдиний, дружній інтерфейс для розробників і для всіх ваших артефактів.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "За найкращими веб-сторінками.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit це ваша онлайн радіостанція, створена щоб грати кращі хіти 24/7 і щоб ви відкрили для себе майбутні хіти.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Застосувати до партнера",
@@ -130,14 +170,6 @@
 	"partners.apply.select.website": {
 		"message": "Вебсайт",
 		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Інше",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Ім'я",
-		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Наприклад: PreMiD",
@@ -174,10 +206,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Застосувати",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Дякуємо, що подали заявку!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Будь ласка, заповніть усі поля.",

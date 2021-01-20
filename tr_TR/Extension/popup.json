@@ -87,6 +87,38 @@
 		"message": "PreMiD uygulamanız güncelliğini yitirmiştir. Kullanmaya devam edebilmek için lütfen PreMiD'i güncelleyin.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Eklentiniz güncel değil",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "PreMiD eklentiniz güncel değil, en son yayınlanan özelliklere erişmek için lütfen sitemizden yeni sürümünü indirin.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Önemli güncelleme",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Eklenti için önemli bir güncelleme yayınladık. Lütfen PreMiD'i kullanmaya devam etmek için eklentinizi güncelleyin.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "İnternet bağlantısı yok!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Görünüşe göre internet bağlantınız bulunmuyor. PreMiD şimdilik servisleri gösteremeyecek.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Discord bağlantısı yok!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD, Discord uygulamanıza bağlanamıyor. Uygulamanın yüklü ve çalıştığına emin misiniz? *Troubleshooting*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Tümü",
 		"description": "Category name shown when you open tags"

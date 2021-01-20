@@ -30,5 +30,13 @@
 	"general.store": {
 		"message": "Pood",
 		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Lehe vaatamine:",
+		"description": ""
+	},
+	"general.cookie": {
+		"message": "Küpsise kasutamise põhimõtte",
+		"description": "A page name"
 	}
 }

@@ -1,10 +1,46 @@
 {
+	"store.search.notFound": {
+		"message": "Vi kunne ikke finne den utvidelsen...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Unnskyld, vi kunne ikke finne denne siden.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Du leter etter utvidelse som ikke finnes.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Intern serverfeil har oppstått.",
+		"description": "Error (500) message"
+	},
 	"error.page.details": {
 		"message": "Detaljer",
 		"description": "'Details' text on error page container"
 	},
+	"error.page.button": {
+		"message": "Tilbake til hjemmesiden",
+		"description": "Button on the error page"
+	},
 	"user.notFound.heading": {
 		"message": "Den brukeren kunne ikke bli funnet. Prøv å være sikker på at",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "brukeren's ID du ser etter er riktig.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "brukeren har lagd nok utvidelser og har utvidelse utvikler rollen i vår Discord server.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "om andre har samme problemet i vår Discord server.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Om du tror det var en missforståelse, vennligst kontakt oss i [Discord server].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }

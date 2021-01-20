@@ -1,0 +1,110 @@
+{
+	"twitch.downloads": {
+		"message": "Pobierania",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Oferty pracy",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerzy",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Centrum prasowe",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Bezpieczeństwo",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Ułatwienia dostępu",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Opcje reklam",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Wytyczne społeczności",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Strona główna",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Sprawdzanie portfela...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Przeglądanie Esportu...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Ogląda ludzi, których obserwuję...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Wyświetlanie zespołu:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Przeglądanie ich drop'ów...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Przeglądanie aktywnych drop'ów..",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Przeglądanie ich ustawień...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Przeglądanie ich znajomych...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Przeglądanie ich subskrypcji...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Oglądanie oddziału...",
+		"description": ""
+	},
+	"twitch.clips": {
+		"message": "Klipy",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Ustawienia kanału",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Opcje moderowania",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Ustawienia drop'ów",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Przeglądanie narzędzi streamingowych",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Przeglądanie rozszerzeń",
+		"description": ""
+	},
+	"twitch.devSupport": {
+		"message": "Pomocne Zasoby",
+		"description": "Page name"
+	}
+}

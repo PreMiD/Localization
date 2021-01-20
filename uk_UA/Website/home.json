@@ -3,6 +3,10 @@
 		"message": "**PreMiD** - це проста і корисна рія, яка дозволяє вам відобразити, що ви робите в мережі у вашому статусі Discord.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Особливості",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Завантаження",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -19,14 +23,6 @@
 		"message": "{0} минуло",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Відтворюється",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Дивиться...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Ви полюбите ці особливості!",
 		"description": "Features section"
@@ -35,9 +31,21 @@
 		"message": "Знайдіть **свою** присутність",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Ми створили наше розширення так, що воно дозволяє додавати і використовувати Presences створені іншими людьми і керувати ними в нашому розширенні!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Відвідати магазин",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Простий користувацький інтерфейс",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Втомилися від складних користувацьких інтерфейсів? Ось чому ми створили й намагалися зберегти наш інтерфейс таким простим і корисним як можливо, з важливими функціями, як:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Налаштування додатку і розширення",
@@ -47,12 +55,20 @@
 		"message": "Управління Присутностями",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Сортувати за категорією",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Швидка підтримка",
 		"description": "Features section subheading"
 	},
-	"home.features.quickSupport.button": {
-		"message": "Приєднуйтеся до нашого Discord",
-		"description": "Features section button"
+	"home.features.quickSupport.description": {
+		"message": "Щось є зламаним, надсилаючи вам тони помилок або просто не працює? Ми допоможемо вам позбутися цих помилок на нашому Discord сервері, ми також створили нашу власну систему підтримки, це дозволить вирішити вашу проблему якнайшвидше.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Мова сайту",
+		"description": "Tippy content of the language selector."
 	}
 }

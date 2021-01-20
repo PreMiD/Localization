@@ -1,74 +1,94 @@
 {
-    "premid.viewPage": {
-      "message": "Viewing page:",
-      "description": ""
-    },
-    "premid.docs": {
-      "message": "Docs",
-      "description": "as in documents"
-    },
-    "premid.viewPresence": {
-      "message": "Viewing presence:",
-      "description": ""
-    },
-    "premid.pageHome": {
-      "message": "Homepage",
-      "description": "A page name"
-    },
-    "premid.pageContributors": {
-      "message": "Contributors",
-      "description": "A page name"
-    },
-    "premid.pageDownloads": {
-      "message": "Downloads",
-      "description": "A page name"
-    },
-    "premid.pageStore": {
-      "message": "Store",
-      "description": "A page name"
-    },
-    "premid.pageCookies": {
-      "message": "Cookie Policy",
-      "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-      "message": "Privacy Policy",
-      "description": "A page name"
-    },
-    "premid.pageTerms": {
-      "message": "Terms of Services",
-      "description": "A page name"
-    },
-    "premid.pageWiki": {
-      "message": "Wiki",
-      "description": "A page name"
-    },
-    "premid.pageAbout": {
-      "message": "About",
-      "description": "A page name"
-    },
-    "premid.pageSysReq": {
-      "message": "System Requirements",
-      "description": "A page name"
-    },
-    "premid.pageInstall": {
-      "message": "Installation",
-      "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-      "message": "Troubleshooting",
-      "description": "A page name"
-    },
-    "premid.pageStart": {
-      "message": "Getting Started",
-      "description": "A page name"
-    },
-    "premid.pageApi": {
-      "message": "API",
-      "description": "A page name"
-    },
-    "premid.pagePresenceDev": {
-      "message": "Presence Development",
-      "description": "A page name"
-    }
-} 
+	"premid.viewPage": {
+		"message": "Viewing page:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Docs",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Viewing presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Homepage",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Contributors",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Downloads",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Store",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partners",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "About PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "System Requirements",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Installation",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Installation for {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Troubleshooting",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Getting Started",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "Understanding the v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence Development",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Presence Guidelines",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence Class",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Slideshow Class",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Understanding iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Configuring metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Configuring TypeScript",
+		"description": "A page name"
+	}
+}

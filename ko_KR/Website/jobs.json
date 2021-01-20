@@ -1,11 +1,75 @@
 {
+	"jobs.modal.title": {
+		"message": "{0} 에 지원하기",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "{0}/2 단계",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "다음",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "가입하기",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "취소",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "아래 모든 입력란에 올바르게 기재해주세요",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "프리미드는 오픈 소스 프로젝트입니다(비영리 팀임을 의미합니다.). 모든 기부금 또는 후원금은 앱을 개발하는데 사용됩니다. PreMiD에 일자리를 신청함으로서 당신이 팀에서 자원하고있음을 인정합니다.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "우리의 디스코드에 참여하세요",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "신청하기 위서는 당신이 우리의 디스코드 서버에 들어오셔야만 합니다. 그렇지 않으면, 당신이 최종으로 선정이 되어도 연락을 드릴수 없습니다.",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "PreMiD를 위해 일해주세요!",
+		"description": "First part of the jobs page."
+	},
+	"jobs.benefit3.title": {
+		"message": "명예",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "강력한 디스코드 역할과 색깔넘치는 디스코드 역할.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "PreMiD를 지원하다.",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "당신의 기여도 수치는 이 프로젝트를 실행하기에 적합합니다.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "시간 초과",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit5.description": {
 		"message": "공을 들이세요. 이건 당신의 자발적인 일 입니다.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
-		"message": "베타 버전",
+		"message": "얼리 엑세스",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "다른 사람들보다 빠르게 새로운 기능들을 체험해보세요.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "지원해주셔서 감사합니다!",

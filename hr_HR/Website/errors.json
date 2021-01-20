@@ -31,6 +31,14 @@
 		"message": "da je Korisnički ID kojeg tražiš točan.",
 		"description": "Check user ID message."
 	},
+	"user.notFound.message2": {
+		"message": "da je korisnik stvorio dovoljno Presence-a i ima ulogu Programera Presence-a na našem Discord serveru.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "ako drugi imaju isti problem na našem Discord serveru.",
+		"description": "Check if the error is also happening to others message."
+	},
 	"user.notFound.message4": {
 		"message": "Ako smatrate da je ovo pogreška, kontaktirajte nas na [našem Discord serveru].",
 		"description": "Bottom line for the error page. Do not edit brackets."

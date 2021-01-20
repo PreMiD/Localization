@@ -1,10 +1,14 @@
 {
+    "amazon.subscriptions": {
+        "message": "Đang xem dịch vụ đã đăng ký",
+        "description": ""
+    },
     "amazon.adprefs": {
         "message": "Đang xem quảng cáo của họ",
         "description": ""
     },
     "amazon.balance": {
-        "message": "Đang xem số dư của họ",
+        "message": "Đang xem số dư",
         "description": ""
     },
     "amazon.payment": {
@@ -12,7 +16,7 @@
         "description": ""
     },
     "amazon.address": {
-        "message": "Đang xem địa chỉ của họ",
+        "message": "Đang xem địa chỉ",
         "description": ""
     },
     "amazon.pets": {
@@ -48,19 +52,15 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
-        "message": "Đang xem những đề nghị",
+        "message": "Đang xem đề xuất",
         "description": ""
     },
     "amazon.history": {
         "message": "Đang xem lịch sử của họ",
         "description": ""
     },
-    "amazon.store": {
-        "message": "Đang xem cửa hàng:",
-        "description": ""
-    },
     "amazon.primeVid": {
-        "message": "Đang xem Prime Video:",
+        "message": "Đang xem video Prime:",
         "description": ""
     }
 }

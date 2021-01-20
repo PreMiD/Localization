@@ -1,0 +1,54 @@
+{
+	"v live.browseThrough": {
+		"message": "Navegando por",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "a nova página do vídeo",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "a lista de canais",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "a página de eventos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "a página da loja",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.ofChannel": {
+		"message": "do canal de {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Vendo a página inicial",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Vendo a página da loja",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.viewTheir": {
+		"message": "Visualizando suas",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "página de perfil",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "vídeos assistidos",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "compras recentes",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "dispositivos conectados",
+		"description": "The second part of the \"Viewing their\" string"
+	}
+}

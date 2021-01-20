@@ -1,6 +1,6 @@
 {
 	"downloads.header.title": {
-		"message": "Tijd om te gaan opscheppen.",
+		"message": "Tijd om te stralen.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
@@ -91,16 +91,12 @@
 		"message": "Waarschuwing",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "Vergeet niet om 'Extensies van andere winkels toestaan' optie in te schakelen in de extensie instellingen.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "U moet **deze** extensie installeren om PreMiD te installeren van Chrome Webstore.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
-		"message": "Sla over",
+		"message": "Verder",
 		"description": "Skip button on the ads section"
 	},
 	"downloads.button.back": {
@@ -108,7 +104,7 @@
 		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
-		"message": "Annuleren",
+		"message": "Annuleer",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
@@ -128,11 +124,43 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "We gebruiken advertenties om ons team te ondersteunen en onze servers te onderhouden om je de beste gebruikerservaring te bieden!",
+		"message": "Advertenties helpen ons team en zorgen ervoor dat onze servers soepel blijven draaien, zodat jij de beste gebruikerservaring krijgt!",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "Schakel uw adblock alstublieft uit.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Ik wil geen steun geven.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Weet u het zeker?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Echt?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P-Please steun ons :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Ik heb je nodig :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Oké, oké...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Toon bèta-downloads",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(niet nodig als u alleen hier bent om de normale applicatie te downloaden)",
+		"description": "Small text under the show beta title."
 	}
 }

@@ -1,0 +1,22 @@
+{
+	"netflix.viewSeries": {
+		"message": "Guarda le serie",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Guarda un Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Guarda episodio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewList": {
+		"message": "Visualzzando la loro lista",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Gestendo i loro profili",
+		"description": ""
+	}
+}

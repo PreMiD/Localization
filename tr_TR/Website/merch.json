@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Resmi **PreMiD** Dükkanı'na hoş geldiniz!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "**Tarzınızı** bulun",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Bedeninizi seçin**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Sepete ekle",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Mağazamızla veya siparişle ilgili bir sorun mu yaşıyorsunuz? {0}Müşteri desteğimize{1} başvurun",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} sepetinize eklendi",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Sepetinize eklenecek öğe yok",
+		"description": "Error message when no size selected"
+	}
+}

@@ -1,0 +1,38 @@
+{
+    "juniperbot.mainpage": {
+        "message": "메인 화면",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "서버의 리더보드를 보는 중:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "길드: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "후원 플랜 정보에 대해 읽는 중",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "서버 선택 중",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "명령어 목록을 보는 중",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "봇의 통계를 보는 중",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "랭크 카드를 꾸미는 중",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "사이트의 쿠키에 대해 읽는 중",
+        "description": "Reading about the site's cookies"
+    }
+}

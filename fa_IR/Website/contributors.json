@@ -1,1 +1,78 @@
-{}
+{
+	"contributors.headings.staff": {
+		"message": "کارکنان",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "پشتیبانان",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "مترجمان",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.projectLeader": {
+		"message": "مدیر پروژه",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "هماهنگ‌ساز کارکنان",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "رئیاست بازاریابی",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "مدیر",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "بازبین",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "توسعه‌دهنده",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "طراح",
+		"description": "'Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "ناظر",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "نماینده پشتیبانی",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "نماینده",
+		"description": "'Representative' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "ویراستار",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "حامیان",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "تقویت کنندگان",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "مترجم",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "کلیک کنید تا ID شخص مورد نظر کپی شود.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID شخص کپی شد!",
+		"description": "Notification after user ID was copied."
+	}
+}

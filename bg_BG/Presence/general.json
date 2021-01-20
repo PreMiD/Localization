@@ -7,6 +7,10 @@
 		"message": "Сърфирането ...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Глава",
+		"description": ""
+	},
 	"general.dj": {
 		"message": "Диджей",
 		"description": ""
@@ -32,7 +36,7 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "Слушане на музика",
+		"message": "Слуша музика",
 		"description": ""
 	},
 	"general.listeners": {
@@ -47,6 +51,10 @@
 		"message": "Манга",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "Мърч",
+		"description": ""
+	},
 	"general.page": {
 		"message": "Страница",
 		"description": ""
@@ -59,20 +67,200 @@
 		"message": "Пуснато",
 		"description": ""
 	},
+	"general.readingDM": {
+		"message": "Чете съобщения от:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Чете за:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Чете статия:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Чете в канал:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Чете пост:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Чете тема:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "четене",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Търси за:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Търси нещо...",
 		"description": ""
 	},
 	"general.search": {
 		"message": "изпитателен",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "Кошница",
+		"description": ""
+	},
 	"general.store": {
 		"message": "магазин",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Пише на лично на:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Пише в канал:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Гледа аниме:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Гледа категория:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Гледа канал:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Гледа епизод:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Гледа жанр:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Гледа начална страница",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Гледа списък от:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Гледа манга:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Гледа потребител:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Гледа филм:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Гледа плейлист:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Гледа продукт:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Гледа профила на:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Гледа серий:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Гледа шоу:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Гледа своя акаунт",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Гледа тема:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Гледа потребител:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Гледа:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Гледа страница:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Гледа видео",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Чака за предаване на видео",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Чака за предаването на видео",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Гледа предаване на живо",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Чака за предаване на живо да започне",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Чака за предаването на живо да започне",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Гледа:",
 		"description": ""
 	},
 	"general.wishlist": {
 		"message": "Списък с желания:",
 		"description": ""
+	},
+	"general.privacy": {
+		"message": "Политика за защита на личните данни",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Условия за Ползване",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика на бисквитките",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Превърта всички песни",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "На завъртане",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "История на инциденти",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "История на ъптайм",
+		"description": "A page name of statuspages"
 	}
 }

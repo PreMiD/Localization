@@ -4,15 +4,15 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "우리는 당신의 언어를 지원합니다. 바꾸고 싶으신가요?",
+    "message": "우리는 귀하의 언어를 지원합니다. 바꾸고 싶으세요?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
+    "message": "저희 웹사이트는 귀하의 언어로 번역되어가고 있습니다. 영어 사용이 어려우신 경우 도움이 될 수 있겠네요.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "아뇨 괜찮아요",
+    "message": "아뇨, 괜찮아요",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
@@ -32,7 +32,27 @@
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "기여자",
+    "message": "도와주신 분들",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "로그인",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "로그인 계정:",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "버그 제보하기",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "대시보드",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "로그아웃",
+    "description": "Logout button"
   }
 }

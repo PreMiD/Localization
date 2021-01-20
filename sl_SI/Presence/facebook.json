@@ -1,1 +1,62 @@
-{}
+{
+    "facebook.call": {
+        "message": "V klicu s:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "V video klicu s:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "nekdo... (Uporabnik skrit)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Sestavljajo sporočilo",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Branje o uporabniku:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Ogledovanje skupnost od uporabnika:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Ogledovanje fotografij od uporabnika:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Ogledovanje objavo od uporabnika:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Ogledovanje trgovino od uporabnika:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Ogledovanje prijateljev od uporabnika:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Ogledovanje videja od uporabnika:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Brskanje po:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Shranjenih videoposnetkov",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nedavno dodano",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Ogledovanje današnjega vremena",
+        "description": ""
+    }
+}

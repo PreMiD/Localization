@@ -1,0 +1,150 @@
+{
+	"popup.navigation.settings": {
+		"message": "समायोजन",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "क्रेडिट",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "समायोजन",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "सामान्य",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "विवरण",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "सक्रिय",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "मीडिया नियंत्रण",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "शीर्षक मेनूबार",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "ऑटो लांच",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "उपस्थिति",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "प्रबंधित",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "कोई उपस्थिति नहीं जोड़ा गया",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "किया हुआ",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "लोड उपस्थिति",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "प्रेजेंस स्टोर",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "मदद की ज़रूरत है?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "अरे नहीं",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "क्रेडिट लोड करते समय त्रुटि",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "जुड़े नहीं हैं",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD अपने एप्लिकेशन से कनेक्ट करने में असमर्थ था! क्या यह स्थापित है और चल रहा है? *समस्या निवारण*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "पुराने ऐप्स",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "आपका PreMiD ऐप पुराना है। PreMiD का उपयोग जारी रखने के लिए कृपया इसे अपडेट करें।",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "पुराना एक्सटेंशन",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "आपका एक्सटेंशन पुराना है। कृपया इसे हमारी साइट से डाउनलोड करके नवीनतम सुविधाओं को प्राप्त करने के लिए अपडेट करें।",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "तत्काल अद्यतन",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "हमने एक्सटेंशन के लिए एक जरूरी अपडेट जारी किया। PreMiD का उपयोग जारी रखने के लिए कृपया इसे अपडेट करें।",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "कोई इंटरनेट कनेक्शन नहीं",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "लगता है जैसे आपके पास इंटरनेट कनेक्शन नहीं है! PreMiD इस समय presences दिखाने में सक्षम नहीं होगा।",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "कोई संबंध नहीं Discord से",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD अपने एप्लिकेशन से कनेक्ट करने में असमर्थ था! क्या यह स्थापित है और चल रहा है? *समस्या निवारण*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "सभी",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "एनिमी",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "संगीत",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "खेल",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "सामाजिक",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "वीडियो और स्ट्रीम",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "अन्य",
+		"description": "Category name shown when you open tags"
+	}
+}

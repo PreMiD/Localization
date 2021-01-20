@@ -1,1 +1,78 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Visar filmbiblioteket",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Visar seriebiblioteket",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Visa de senaste avsnitten",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Visar topp 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Visar vad som är trendigt",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Visar Anime Torrents",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Visar app-torrents",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Visar dokumentär Torrents",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Visar spel Torrents",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Visar film Torrents",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Visar Musik Torrents",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Visar Andra Torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Visar TV Torrents",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Visar XXX Torrents",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Laddar upp något...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Läser reglerna",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Skriver till 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Läser om 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Visar torrent:",
+        "description": ""
+    }
+}

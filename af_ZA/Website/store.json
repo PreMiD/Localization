@@ -1,0 +1,62 @@
+{
+	"store.message.error": {
+		"message": "Uitbreiding is nie verbind nie.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.popular": {
+		"message": "Die Presence is baie gewilde.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Vennootskap Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.header.search": {
+		"message": "Soek Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Voeg Presence by",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Verwyder Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.category.filters.heading": {
+		"message": "Filters",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Meeste gebruik eerste",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Wys NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Net gehou Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Wys bygevoegde Presences",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Kategorieë",
+		"description": "Category heading"
+	},
+	"store.search": {
+		"message": "Soek",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klik om die filter te verwyder",
+		"description": "Remove message for active search filters."
+	}
+}

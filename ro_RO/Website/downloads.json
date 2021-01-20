@@ -12,7 +12,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Instalează aplicația noastra",
+		"message": "Instalează aplicația noastră",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
@@ -52,11 +52,11 @@
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
-		"message": "Arată Descărcările",
+		"message": "Arată descărcările",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
-		"message": "Ascunde Descărcările",
+		"message": "Ascunde descărcările",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
@@ -68,11 +68,11 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "Vă rugăm să vă logați pentru a putea vedea aceste descărcări.",
+		"message": "Vă rugăm să vă autentificați pentru a vedea aceste descărcări.",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Uh oh, se pare că nu ai acces la alfa/beta :(",
+		"message": "Uh oh, se pare că nu ai acces la alpha/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
@@ -82,10 +82,6 @@
 	"downloads.warning.title": {
 		"message": "Atenție",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.edge": {
-		"message": "Nu uita sa activezi optiunea 'Permite extensii din alte magazine' din setarile extensiei.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
 	},
 	"downloads.warning.message.opera": {
 		"message": "Trebuie să instalați **această** extensie pentru a instala PreMid pentru Chrome WebStore.",
@@ -103,10 +99,6 @@
 		"message": "Okay",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
-	"downloads.button.done": {
-		"message": "Terminat",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.button.login": {
 		"message": "Loghează-te",
 		"description": "Login button on the downloads page."
@@ -122,5 +114,25 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Vă rugăm să vă dezactivaţi adblock-ul.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Ești sigur?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Serios?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Am nevoie de tine :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Ok, bine...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Afișează descărcările beta",
+		"description": ""
 	}
 }

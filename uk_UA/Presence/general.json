@@ -175,6 +175,10 @@
 		"message": "Переглядає профіль ",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Переглядає серії:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "Переглядає серіал ",
 		"description": ""
@@ -193,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "Переглядає ",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Переглядає сторінку:",
 		"description": ""
 	},
 	"general.watchingVid": {
@@ -217,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Умови обслуговування",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Політика використання Cookie",
 		"description": "A page name"
 	}
 }

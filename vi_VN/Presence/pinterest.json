@@ -4,15 +4,15 @@
         "description": ""
     },
     "pinterest.pin": {
-        "message": "Đang xem mã pin",
+        "message": "Đang xem ghim",
         "description": ""
     },
     "pinterest.follow": {
-        "message": "Đang xem những thứ họ theo dõi",
+        "message": "Đang xem following",
         "description": ""
     },
     "pinterest.home": {
-        "message": "Đang chỉnh sửa trang chủ của họ",
+        "message": "Đang chỉnh trang chủ",
         "description": ""
     }
 }

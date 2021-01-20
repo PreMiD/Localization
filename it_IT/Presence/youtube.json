@@ -32,7 +32,7 @@
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Navigando tra",
+        "message": "Navigando attraverso",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
@@ -60,7 +60,7 @@
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Visualizzando tutte le loro playlist",
+        "message": "Visualizzando tutte le loro playlists",
         "description": ""
     },
     "youtube.viewLiveEvents": {

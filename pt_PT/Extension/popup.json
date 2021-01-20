@@ -48,11 +48,11 @@
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "Feito",
+		"message": "Concluído",
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Iniciar Presença",
+		"message": "Carregar Presença",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
@@ -86,6 +86,22 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "O seu PreMiD está desatualizado. Por favor, atualize-o para continuar a usar o PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.noInternet": {
+		"message": "Sem conexão à Internet!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Parece que não tens conexão à internet! PreMiD não vai conseguir mostrar presences no momento.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Sem conexão ao Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "O PreMiD não conseguiu conectar-se à aplicação do Discord! Está instalado ou aberto? *Solução de problemas*",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "Todos",

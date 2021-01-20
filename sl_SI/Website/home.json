@@ -1,4 +1,12 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** je preprost, nastavljiv pripomoček, ki ostalim pokaže kaj delate na spletu v programu Discord.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funkcije",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Prenosi",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -11,13 +19,9 @@
 		"message": "{0} Preostali čas",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Predvajanje",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Brskanje...",
-		"description": "Discord Rich Presence -> small image text;"
+	"home.examples.timestamp2": {
+		"message": "{0} preteklo",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.features.heading": {
 		"message": "Te funkcije vam bodo všeč!",
@@ -27,6 +31,22 @@
 		"message": "Poišči **svoj** dodatek",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Mi smo razvili našo razširitev tako, da lahko dodajate in uporabljate dodatke narejene od drugih uporabnikov in jih lahko upravljate v naši razširitvi!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Obišči trgovino",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Preprosti UI (Uporabniški Vmesnik)",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Ste naveličani od zapletenih uporabniških vmesnikih? Zato smo ustvarili svoj Uporabniški Vmesnik, ki deluje preprosto in uporabno z pomembnih lastnostih, kot so:",
+		"description": "Features section description"
+	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Aplikacijske in Razširitvene nastavitve",
 		"description": "Features section description point"
@@ -35,8 +55,24 @@
 		"message": "Upravljanje z dodatki",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Razvrsti po kategorijah",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Hitra pomoč",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Ali imate napake in vam nekaj ne dela? Mi vam bomo pomagali odstraniti te napake na našem Discord strežniku, mi smo tudi ustvarili našo podporno ekipo, ki vam bo odstranila napake takoj, ko bo možno.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Pridružite se našemu Discord-u",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Jezik spletne strani",
+		"description": "Tippy content of the language selector."
 	}
 }

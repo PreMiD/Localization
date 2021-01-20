@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Partneriai",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Prisijunkite prie partnerių ir gaukite keletą išskirtinių pranašumų, kuriais galėsite parodyti savo \"swag\".",
 		"description": "Description for page."
@@ -54,10 +50,6 @@
 	"partners.why.benefit5.description": {
 		"message": "Paminėjimas mūsų socialiniuose tinkluose.",
 		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Reikalavimai",
-		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Ko mes ieškome?",
@@ -123,6 +115,10 @@
 		"message": "Pradėkite kurti savo bendruomenę su mūsų šauniu šablonu. Statykite savo nuosavą karalystę.",
 		"description": "Description for DiscordTemplates."
 	},
+	"partners.partner.taigaBot": {
+		"message": "taiga yra discord botas norintis pasiūlyti visas funkcijas kurios jums gali prireikti viename!",
+		"description": "Description for taigabot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Galingas ir lengvai naudojamas kelių platformų instaliacijų kūrimo įrankis.",
 		"description": "Description for BitRock."
@@ -130,6 +126,14 @@
 	"partners.partner.statusPage": {
 		"message": "Lengvai praneškite realiojo laiko statusą savo vartotojams.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Dievaitė kuri žaidžia kaip smagus Discord botas!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM leidžia jums klausyti 15+ muzikos transliacijų nemokamai - be sustojimo. Su geriausia ir naujausia muzika tik jums!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Greitas lokalizavimas technologijų įmonėms.",
@@ -146,6 +150,10 @@
 	"partners.partner.fastly": {
 		"message": "Už geriausios interneto pusės.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit yra tavo online muzikos radijo stotis sukurta groti jūsų geriausius hitus 24/7 ir leisti jums sužinoti apie ateities hitus pirmiem.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Tapkite partneriu",
@@ -166,10 +174,6 @@
 	"partners.apply.select.website": {
 		"message": "Tinklalapis",
 		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Kita",
-		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
@@ -196,7 +200,7 @@
 		"description": "Do not change the sizes."
 	},
 	"partners.apply.form.imageLink.placeholder": {
-		"message": "Ex: https://i.imgur.com/clun1ID.png",
+		"message": "Pvz: https://i.imgur.com/clun1ID.png",
 		"description": "Image link field's placeholder. Do not change the image URL."
 	},
 	"partners.apply.form.button.close": {
@@ -206,10 +210,6 @@
 	"partners.apply.form.button.apply": {
 		"message": "Pritaikyti",
 		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Ačiū, kad kreipėtės!",
-		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Prašome užpildyti visus laukus.",

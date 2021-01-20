@@ -1,1 +1,10 @@
-{}
+{
+    "amazon.adprefs": {
+        "message": "نگاه کردن تنظیمات تبلیغ های ترجیح داده شان",
+        "description": ""
+    },
+    "amazon.wishlist": {
+        "message": "لیست علاقه‌مندی‌ها",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
+}

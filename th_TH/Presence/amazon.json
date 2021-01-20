@@ -59,10 +59,6 @@
         "message": "กำลังดูรายการประวัติของเขา",
         "description": ""
     },
-    "amazon.store": {
-        "message": "กำลังดูสินค้า:",
-        "description": ""
-    },
     "amazon.primeVid": {
         "message": "กำลังดูวิดีโอ Prime:",
         "description": ""

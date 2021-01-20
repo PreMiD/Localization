@@ -1,4 +1,8 @@
 {
+	"downloads.header.title": {
+		"message": "Vrijeme da se pokažeš.",
+		"description": "Title"
+	},
 	"downloads.header.subtitle": {
 		"message": "Koristi PreMiD sada i pokaži svojim prijateljima što radš, možda pronađeš nekoga sa istim interestima.",
 		"description": "Subtitle for header"
@@ -79,9 +83,17 @@
 		"message": "Možeš se prijaviti našem beta programu **ovdje**. Požuri! Imamo samo još {0} mjesta dostupnih",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
+	"downloads.latest.header": {
+		"message": "Rane verzije",
+		"description": "Header above alpha/beta download buttons."
+	},
 	"downloads.warning.title": {
 		"message": "Upozorenje",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.opera": {
+		"message": "Trebaš instalirati **ovo** proširenje da instaliraš PreMiD iz Chrome Web-Trgovine.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
 		"message": "Preskoči",
@@ -103,8 +115,44 @@
 		"message": "Hvala ti!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Oglase koristimo za podršku našem timu i održavanje naših servera kako bismo vam ponudili najbolje korisničko iskustvo!",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "Isključi adblock.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Ne želim vas podržavati.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Jesi li siguran?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Stvarno?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "M-molim te :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Trebamo te :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Ok, ok...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Prikaži preuzimanja za beta verziju",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(nije potrebno ako ste ovdje za preuzimanje normalne aplikacije)",
+		"description": "Small text under the show beta title."
 	}
 }

@@ -8,7 +8,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "การเรียกดูผ่านรายการที่จะเล่น",
+        "message": "การเรียกดูผ่านเพลย์ลิสต์ที่จะเล่น",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
@@ -27,20 +27,12 @@
         "message": "การค้นหาผ่านช่อง: {0} สำหรับ:",
         "description": "{0} will be replaced with the channel name"
     },
-    "youtube.trending": {
-        "message": "กำลังดูสิ่งที่เป็นที่นิยม",
-        "description": ""
-    },
-    "youtube.browsingThrough": {
-        "message": "กำลังเรียกดู",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
     "youtube.subscriptions": {
         "message": "การสมัครสมาชิกของพวกเขา",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "ห้องสมุดของพวกเขา",
+        "message": "คลังของพวกเขา",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
@@ -55,10 +47,6 @@
         "message": "กำลังดูประวัติการรายงานของตัวเอง",
         "description": ""
     },
-    "youtube.upload": {
-        "message": "กำลังอัปโหลดอะไรบางอย่าง",
-        "description": ""
-    },
     "youtube.viewAllPlaylist": {
         "message": "กำลังดูเพลย์ลิสทั้งหมดของตัวเอง",
         "description": ""
@@ -68,7 +56,7 @@
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "กำลังดูข้อมูลแดชบอร์ดของตัวเอง",
+        "message": "กำลังดูข้อมูลแดชบอร์ดของไลฟ์สด",
         "description": ""
     },
     "youtube.viewAudioLibrary": {

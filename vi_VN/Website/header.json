@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Chúng tôi có hỗ trợ ngôn ngữ của bạn, có muốn đổi không?",
+    "message": "Chúng tôi hỗ trợ ngôn ngữ của bạn, có muốn đổi không?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -34,5 +34,21 @@
   "header.contributors": {
     "message": "Người đóng góp",
     "description": "Contributors tab"
+  },
+  "header.lia": {
+    "message": "Đăng nhập với",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Báo lỗi",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Bảng điều khiển",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Đăng xuất",
+    "description": "Logout button"
   }
 }

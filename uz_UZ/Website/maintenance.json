@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Ah yoq!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.message": {
 		"message": "Bizning maxsus ishlab chiquvchilarimiz buni tuzatmaguncha, bu erda ko'ring!",
 		"description": "Message on maintenance page"

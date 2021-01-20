@@ -24,11 +24,15 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "Reproduciendo",
+		"message": "Reproduciendose",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "En vivo",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Navegando...",
+		"message": "Buscando...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -40,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "¡Desarrollamos nuestra extensión de forma que te permita añadir y usar presencias creadas por otros usuarios y gestionarlas en nuestra extensión!",
+		"message": "¡Desarrollamos nuestra extensión de forma que te permita añadir y usar Presences creadas por otros usuarios y gestionarlas en nuestra extensión!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -60,7 +64,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Gestión de Presencias",
+		"message": "Gestión de Presences",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {

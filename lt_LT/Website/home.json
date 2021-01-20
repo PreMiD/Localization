@@ -23,14 +23,6 @@
 		"message": "{0} praėjo",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Atkūrimas",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Naršoma...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Jums patiks šios funkcijos!",
 		"description": "Features section"
@@ -74,10 +66,6 @@
 	"home.features.quickSupport.description": {
 		"message": "Kažkur įvyko klaida, atsiunčianti jums daugybę klaidų ar tiesiog neveikia? Mes padėsime jums atsikratyti šių problemų mūsų Discord serveryje, taip pat sukūrėme savo pagalbos sistemą, kuri užtikrins, kad jūsų problema bus išspręsta kaip įmanoma greičiau.",
 		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Prisidėkite prie mūsų Discord",
-		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Puslapio kalba",

@@ -11,73 +11,45 @@
 		"message": "翻译人员",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "创始人",
-		"description": "'Creator' title for contributors and user pages."
+	"contributors.roles.projectLeader": {
+		"message": "项目负责人",
+		"description": "'Project Leader' title for contributors and user pages."
 	},
-	"contributors.roles.projectManager": {
-		"message": "项目管理",
-		"description": "'Project Manager' title for contributors and user pages."
+	"contributors.roles.staffCoordinator": {
+		"message": "职员协调员",
+		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "运营主管",
-		"description": "'Operations Supervisor' title for contributors and user pages."
+	"contributors.roles.marketingDirector": {
+		"message": "营销总监",
+		"description": "'Marketing Director' title for contributors and user pages."
 	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "全局社区代表",
-		"description": "'Global Community Representative' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "管理员",
+		"description": "'Administrator' title for contributors and user pages."
 	},
-	"contributors.roles.storeManager": {
-		"message": "Presence 市场管理",
-		"description": "'Store Manager' title for contributors and user pages."
+	"contributors.roles.reviewer": {
+		"message": "审稿人",
+		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.systemAdministrator": {
-		"message": "系统管理员",
-		"description": "'System Administrator' title for contributors and user pages."
+	"contributors.roles.developer": {
+		"message": "开发者",
+		"description": "'Developer' title for contributors and user pages."
 	},
-	"contributors.roles.webDeveloper": {
-		"message": "网页开发",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Linux 维护员",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "工程师",
-		"description": "'Engineer' title for contributors and user pages."
-	},
-	"contributors.roles.graphicDesigner": {
-		"message": "图形设计",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "高级版主",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Presence 审核",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "社区代表",
-		"description": "'Community Representative' title for contributors and user pages."
+	"contributors.roles.designer": {
+		"message": "设计师",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "版主",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "初级版主",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "客服",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Presence 审核人员",
-		"description": "'Presence Verifier' title for contributors and user pages."
+	"contributors.roles.representative": {
+		"message": "代表",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "校对",

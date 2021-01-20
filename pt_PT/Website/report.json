@@ -1,1 +1,58 @@
-{}
+{
+	"report.title": {
+		"message": "Comunica um bug",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Reports restantes",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Reportar erros são para erros no site PreMiD e no servidor do Discord. Bugs de Presences devem ser relatados ao criador da presence. Somente reporte bugs em Inglês.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Forneça uma descrição clara e concisa do bug.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Seleciona o teu Sistema Operacional e a Versão",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Seleciona o teu Navegador e a sua Versão - Tu podes obter a versão ao visitar acerca: Suporte no Firefox ou Chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Forneça um link para um exemplo ou um conjunto inequívoco de etapas para reproduzir este bug.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Reportar",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Você tem muitos reportes ativos. Espere que os seus reportes enviados sejam revisados. Reportes são verificados semanalmente, seja paciente.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Tu tens muitos reportes ativos.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Bug Enviado",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Requer mais informações",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "A conta do Discord precisa ser verificada",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Bugs ativos",
+		"description": "Lists users active bugs"
+	}
+}

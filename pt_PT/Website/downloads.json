@@ -1,10 +1,10 @@
 {
 	"downloads.header.title": {
-		"message": "Hora de se mostrar.",
+		"message": "Hora de se exibir.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Usa o PreMiD agora e mostra aos teus amigos o que tu estás a fazer, talvez tu encontres alguém com os mesmos interesses.",
+		"message": "Use o PreMiD agora e mostre aos seus amigos o que está a fazer, talvez encontre alguém com os mesmos interesses.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -16,23 +16,23 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Instala a nossa aplicação",
+		"message": "Instale a nossa aplicação",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Adiciona a nossa extensão ao teu navegador",
+		"message": "Adiciona a nossa extensão ao seu navegador",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Recarrega este site e verifica se a extensão está conectada",
+		"message": "Recarregue este site e verifique se a extensão está conectada",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
-		"message": "Ainda estás com problemas? {0}",
+		"message": "Ainda tens problemas? {0}",
 		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
-		"message": "Estamos aqui para te ajudar!",
+		"message": "Estamos aqui para ajudar!",
 		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
@@ -51,25 +51,49 @@
 		"message": "{0} A aplicação não tem um instalador para este sistema operativo. Isto significa que não há suporte oficial para o mesmo.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.mobile.errorMessage": {
+		"message": "Esteja ciente que PreMid não é suportado nos telemóveis.",
+		"description": "Downloads page warning when user is on mobile."
+	},
 	"downloads.mobile.showDownloads": {
-		"message": "Mostrar Downloads",
+		"message": "Mostrar versões",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
-		"message": "Esconder Downloads",
+		"message": "Esconder versões",
 		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "A versão atual desta plataforma é {0} (esta versão é específica para Linux, e não aplica-se a outras plataformas).",
+		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
 		"message": "Esta versão é específica para Linux, e não se aplica a outros sistemas. A versão principal da aplicação é {0}",
 		"description": "Tippy message of the version number when user is on Linux."
 	},
+	"downloads.error.login": {
+		"message": "Por favor, fala login para ver estes downloads.",
+		"description": "Error message if the user is not logged in."
+	},
 	"downloads.error.noaccess.title": {
-		"message": "Uh oh, parece que tu não tens acesso alpha/beta :(",
+		"message": "Uh oh, parece que não tens acesso à versão alfa/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Pode juntar-se ao nosso programa beta **aqui** de graça. Despacha-te! Só temos mais {0} vagas disponíveis",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Lançamentos Antecipados",
+		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
 		"message": "Aviso",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.opera": {
+		"message": "Tens que instalar **esta** extensão para poder instalar PreMid pelo Chrome Webstore.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
 		"message": "Avançar",
@@ -79,28 +103,56 @@
 		"message": "Voltar",
 		"description": "Back button on the ads section"
 	},
-	"downloads.button.cancel": {
-		"message": "Cancelar",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
 	"downloads.button.okay": {
 		"message": "Ok",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
-	"downloads.button.done": {
-		"message": "Feito",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.button.login": {
-		"message": "Login",
+		"message": "Iniciar sessão",
 		"description": "Login button on the downloads page."
 	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Obrigado!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Usamos anúncios para apoiar a nossa equipa e manter os nossos servidores para oferecer-lhe a melhor experiência de utilizador!",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Por favor, desativa o teu bloqueador de anúncios.",
+		"message": "Desativa o teu bloqueador de anúncios.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Não quero apoiar.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Tens a certeza?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "A sério?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P-por favor apoie :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Preciso de si :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Ok, ok...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Mostrar descarregamentos beta",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(não é necessário se está apenas aqui para descarregar a aplicação normal)",
+		"description": "Small text under the show beta title."
 	}
 }

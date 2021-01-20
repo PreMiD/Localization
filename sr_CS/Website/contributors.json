@@ -11,69 +11,13 @@
 		"message": "Prevodioci",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Stvaralac",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.projectManager": {
-		"message": "Menadžer Projekta",
-		"description": "'Project Manager' title for contributors and user pages."
-	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "Nadzornik Operacija",
-		"description": "'Operations Supervisor' title for contributors and user pages."
-	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Globalni Predstavnik Zajednice",
-		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Sistemski Administrator",
-		"description": "'System Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.webDeveloper": {
-		"message": "Veb Developer",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Linux Održavalac",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Inženjer",
-		"description": "'Engineer' title for contributors and user pages."
-	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Grafički Dizajner",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Viši Moderator",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Glava Verifikovanja Presence-a",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "Prestavnik Zajednice",
-		"description": "'Community Representative' title for contributors and user pages."
-	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "Mlađi Moderator",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "Agent za Podršku",
 		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Presence Verifikator",
-		"description": "'Presence Verifier' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Korektor",

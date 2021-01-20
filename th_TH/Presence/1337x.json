@@ -19,6 +19,42 @@
         "message": "กำลังดูสิ่งที่เป็นที่นิยม",
         "description": ""
     },
+    "1337x.animeTorrents": {
+        "message": "กำลังดูเพลงอนิเมะ",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "กําลังดู Torrent แอพพลิเคชั่น",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "กําลังดู Torrent สารคดี",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "กําลังดู Torrent เกมส์",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "กําลังดู Torrent หนัง",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "กําลังดู Torrent เพลง",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "กําลังดู Torrent อื่นๆ",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "กําลังดู Torrent TV",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "กําลังดู Torrent XXX",
+        "description": "XXX as in NSFW"
+    },
     "1337x.upload": {
         "message": "กำลังอัปโหลดอะไรบางอย่าง",
         "description": ""
@@ -33,6 +69,10 @@
     },
     "1337x.about": {
         "message": "กำลังอ่านเกี่ยวกับ 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "กําลังดู Torrent",
         "description": ""
     }
 }

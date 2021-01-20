@@ -27,8 +27,12 @@
 		"message": "Wordt afgespeeld",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
-		"message": "Browsen...",
+		"message": "Bladeren...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -40,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "We hebben onze extensie ontwikkeld op een manier die het toestaat om presence toe te voegen en te gebruiken die door andere gebruikers zijn gemaakt en deze in de extensie te beheren!",
+		"message": "Door de manier waarop we onze extensie gemaakt hebben, kun je Presences van anderen toevoegen, gebruiken en beheren in onze extensie!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,11 +56,11 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Moe van ingewikkelde gebruikersinterfaces? Daarom hebben we onze UI zo eenvoudig en nuttig mogelijk gehouden met belangrijke functies zoals:",
+		"message": "Moe van ingewikkelde gebruikersinterfaces? Wij houden onze UI zo eenvoudig en nuttig mogelijk, met belangrijke functies zoals:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": "App- en extensie instellingen",
+		"message": "App- en extensie-instellingen",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
@@ -72,11 +76,11 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Iets is glitched, je krijgt een heleboel fouten of het werkt gewoon niet? We helpen u om van deze problemen af te komen op onze Discord server. We hebben ook ons eigen ondersteuningssysteem gecreëerd dat ervoor zorgt dat uw probleem zo snel mogelijk wordt opgelost.",
+		"message": "Is er iets kapot, krijg je een heleboel foutmeldingen of werkt het gewoon niet? We verhelpen deze problemen graag in onze Discord-server. We hebben daar ons eigen ondersteuningssysteem dat ervoor zorgt dat je probleem zo snel mogelijk opgelost wordt.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "Join onze Discord",
+		"message": "Word lid van onze Discord",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {

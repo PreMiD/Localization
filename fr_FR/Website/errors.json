@@ -4,7 +4,7 @@
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
-		"message": "Désolé, impossible de trouver cette page.",
+		"message": "Désolé, cette page est introuvable.",
 		"description": "Error (404) message"
 	},
 	"error.code.4": {
@@ -12,7 +12,7 @@
 		"description": "Error (4) message"
 	},
 	"error.code.500": {
-		"message": "Une erreur interne du serveur s'est produite.",
+		"message": "Une erreur interne s'est produite.",
 		"description": "Error (500) message"
 	},
 	"error.page.details": {
@@ -28,7 +28,7 @@
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
-		"message": "que l'identifiant d'utilisateur que vous recherchez est correct.",
+		"message": "que l'identifiant de l'utilisateur que vous recherchez est correct.",
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {

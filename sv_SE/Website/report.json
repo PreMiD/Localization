@@ -1,1 +1,58 @@
-{}
+{
+	"report.title": {
+		"message": "Rapportera Ett Fel",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Rapporter kvar",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Rapportering av fel är för buggar inom PreMiD webbsidan och PreMiD Discord servern. Fel inom presencer ska rapporteras till skaparen av presencen. Rapportera endast fel på Engelska.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Ge en tydlig och kortfattad beskrivning av vad felet är.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Välj ditt operativsystem och version",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Välj din webbläsare och version - Du kan hitta din version genom att besöka about:support för Firefox eller chrome://help för Google Chrome",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Ge en länk till ett live exempel eller en tydlig uppsättning av steg för att återskapa felet.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Rapportera",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Du har för många aktiva rapporter. Vänta på att dina redan skickade rapporter ska granskas först. Rapporter granskas varje vecka, ha tålamod.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Du har för många aktiva rapporter.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Fel Skickades",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Mer information krävs",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord-konto måste verifieras",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktiva Fel",
+		"description": "Lists users active bugs"
+	}
+}

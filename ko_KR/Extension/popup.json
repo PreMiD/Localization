@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Presences 추가되지 않음",
+		"message": "추가된 프리센스가 없습니다.",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMid가 데스크톱 클라이언트에 연결하지 못하였습니다! 데스크톱 클라이언트가 설치 후 실행되고 있나요?",
+		"message": "PreMiD가 데스크톱 클라이언트에 연결하지 못하였습니다! 데스크톱 클라이언트가 설치 후 실행되고 있나요? *문제 해결*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -87,12 +87,44 @@
 		"message": "당신의 PreMiD 앱은 오래되었습니다! PreMiD 를 계속 사용하시려면 업데이트 해주세요!",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "오래 된 버전입니다!",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "브라우저 확장 프로그램의 새 업데이트가 있어요. Premid 의 최신 기능을 사용하시려면 업데이트해주세요.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "긴급 업데이트",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "긴급 업데이트를 진행했습니다. PreMiD를 계속 사용하기 위해 익스텐션을 업데이트해주세요.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "인터넷 연결 없음!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "인터넷 연결이 없는 것 같아요! 현재 PreMiD가 프리센스를 보여드릴 수 없어요.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "디스코드와 연결되어있지 않습니다!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD가 디스코드에 연결이 되지 않았습니다! 디스코드가 설치되었고, 실행중인가요? *문제 해결*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "모두",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.anime": {
-		"message": "애니메이션",
+		"message": "애니",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.music": {
@@ -104,7 +136,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "소셜",
+		"message": "SNS",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {

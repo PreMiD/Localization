@@ -1,0 +1,110 @@
+{
+	"footer.language": {
+		"message": "भाषा",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "PreMiD का उपयोग करने के लिए तैयार हैं?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "आज ही {0} उपयोगकर्ताओं से जुड़ें!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "संस्थापन",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "साझेदार",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "हमें फॉलो करें",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "डिवेलपर",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "प्रलेखन",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "हमें सहयोग दीजिये",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "दान करें",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "योगदान दें",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "अनुवाद करें",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "हमारे साथ कार्य करें",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "सहायता",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "समस्या निवारण",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "मदद लें",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "जानकारी",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "कूकीज़",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "गोपनीयता",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "शर्तें",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "अतिरिक्त",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "स्टेटस",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "विकी",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} के द्वारा {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "वेबसाइट {0} द्वारा बनाए रखी गई",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "हमारे बाकी साथी और प्रायोजक देखने के लिए यहां क्लिक करें।",
+		"description": "Button next to all listed partners on the footer."
+	}
+}

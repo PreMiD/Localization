@@ -4,19 +4,19 @@
         "description": ""
     },
     "hypixel.watchThreads": {
-        "message": "Schaut sich beobachtete Threads an",
+        "message": "Betrachtet eigene Threads",
         "description": "Articles they get notifications from"
     },
     "hypixel.watchForums": {
-        "message": "Schaut sich beobachtete Foren an",
+        "message": "Betrachtet beobachtete Foren",
         "description": "Forum categories they get notifications from"
     },
     "hypixel.dm": {
-        "message": "Schaut sich DMs an",
+        "message": "Betrachtet PNs",
         "description": ""
     },
     "hypixel.game": {
-        "message": "Schaut sich ein Spiel an:",
+        "message": "Betrachtet Spiel:",
         "description": ""
     }
 }

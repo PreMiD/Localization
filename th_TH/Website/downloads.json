@@ -24,7 +24,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "รีเฟรซหน้านี้ แล้วเช็กว่าส่วนขยายได้เชื่อมต่อกับโปรแกรมแล้ว",
+		"message": "รีเฟรซหน้านี้ แล้วเช็คว่าส่วนขยายได้เชื่อมต่อกับโปรแกรมแล้ว",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
@@ -64,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "เวอร์ชั่นปัจจุบันบนระบบปฏิบัติการนี้เป็น {0} (เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น)",
+		"message": "เวอร์ชั่นปัจจุบันบนระบบปฏิบัติการนี้คือ {0} (เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น)",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -84,16 +84,12 @@
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "รีลีสทดลอง",
+		"message": "ปล่อยตัวก่อน",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
 		"message": "คำเตือน",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.edge": {
-		"message": "อย่าลืมเปิดใช้งานตัวเลือก 'อนุญาตส่วนขยายจากร้านค้าอื่น' จากการตั้งค่าส่วนขยาย",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
 	},
 	"downloads.warning.message.opera": {
 		"message": "คุณต้องติดตั้งส่วนขยาย**นี้**เพื่อติดตั้ง PreMiD จาก Chrome Webstore",
@@ -107,17 +103,9 @@
 		"message": "ย้อนกลับ",
 		"description": "Back button on the ads section"
 	},
-	"downloads.button.cancel": {
-		"message": "ยกเลิก",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
 	"downloads.button.okay": {
 		"message": "ตกลง",
 		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.done": {
-		"message": "เสร็จสิ้น",
-		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "เข้าสู่ระบบ",
@@ -134,5 +122,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "โปรดปิดการใช้งานตัวบล็อกโฆษณา",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "ฉันไม่ต้องการความช่วยเหลือ",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "คุณแน่ใจหรอ?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "จริงหรอ?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "กรุณาสนับสนุน :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "ฉันต้องการคุณ :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "โอเค โอเค...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "แสดงดาวน์โหลดเเบบเบต้า",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(ไม่ต้องการถ้าคุณเเค่ดาวน์โหลดเเอพทั่วไป)",
+		"description": "Small text under the show beta title."
 	}
 }

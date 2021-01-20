@@ -91,10 +91,6 @@
 		"message": "警告",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "不要忘記在擴展功能中的設置啟用“允許來自其他存放區的擴充功能”選項。",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "您必須先安裝 **此** 擴展程序，然後才能從chrome線上應用程式商店安裝PreMiD。",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
@@ -134,5 +130,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "請禁用廣告封鎖器",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "我不想支持.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "你確定嗎？",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "真的?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "拜...拜託請支持我 QAQ",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "我需要你 :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "好，好吧...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "顯示Beta版的下載",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(如果只是想在這下載普通版本則不需要)",
+		"description": "Small text under the show beta title."
 	}
 }

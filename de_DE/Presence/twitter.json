@@ -1,30 +1,30 @@
 {
     "twitter.readTweet": {
-        "message": "Liest einen Tweet:",
+        "message": "Liest Tweet:",
         "description": ""
     },
     "twitter.viewDms": {
-        "message": "Schaut sich DMs an",
+        "message": "Betrachtet seine PNs",
         "description": ""
     },
     "twitter.viewTweets": {
-        "message": "Schaut sich die Tweets an von:",
+        "message": "Betrachtet Tweets von:",
         "description": ""
     },
     "twitter.viewTweetsWithReplies": {
-        "message": "Schaut sich Tweets (mit Antworten) an von:",
+        "message": "Betrachtet Tweets (mit Antworten) von:",
         "description": ""
     },
     "twitter.viewMedia": {
-        "message": "Schaut sich die Medien an von:",
+        "message": "Betrachtet Medien von:",
         "description": ""
     },
     "twitter.viewLiked": {
-        "message": "Schaut sich an, von wem der Tweet geliked wurde:",
+        "message": "Betrachtet Likes von:",
         "description": ""
     },
     "twitter.viewList": {
-        "message": "Liste anzeigen:",
+        "message": "Betrachtet Liste:",
         "description": ""
     },
     "twitter.bookmarks": {

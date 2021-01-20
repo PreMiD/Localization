@@ -1,0 +1,26 @@
+{
+	"merch.title": {
+		"message": "مرحبًا بكم في متجر سلع **PreMiD** الرسمي!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "ابحث عن **الغنيمه**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "** اختر ما يناسبك **\n ",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "اضف الى العربة",
+		"description": "Add product to cart"
+	},
+	"merch.item.added": {
+		"message": "{0} أضيف إلى سلة التسوق الخاصة بك",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "لا يوجد عنصر لإضافته إلى سلة التسوق ",
+		"description": "Error message when no size selected"
+	}
+}

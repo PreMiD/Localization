@@ -22,5 +22,97 @@
     "youtube.readingChannel": {
         "message": "Csatorna névjegyének olvasása:",
         "description": ""
+    },
+    "youtube.trending": {
+        "message": "Nézi a felkapottakat",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Böngészi a(z)",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "feliratkozásait",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "könyvtárját",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "előzményét",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "vásárlásait",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Jelentés előzményeit nézi",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Feltölt valamit...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Az összes lejátszási listáját nézi",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Élő eseményeit nézi",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Az élő irányítópultot nézi",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "A hangkönyvtárat nézi",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Videóit nézi",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Videót vág:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "E videó elemzéseit nézi:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "E videó hozzászólásait nézi:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "E videó fordításait nézi:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Nézi a",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "csatornaelemzést",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "csatorna hozzászólásait",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "csatorna fordításokat",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "szerző oldalát",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Az irányítópultot nézi",
+        "description": ""
     }
 }

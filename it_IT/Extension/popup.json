@@ -87,6 +87,38 @@
 		"message": "La tua applicazione PreMiD è obsoleta. Per favore aggiornala per continuare ad utilizzare PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Estensione non aggiornata",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "La tua estensione è obsoleta. Si prega di aggiornarla per ottenere le ultime funzionalità scaricandola dal nostro sito.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Aggiornamento urgente",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Abbiamo rilasciato un aggiornamento urgente per l'estensione. Si prega di aggiornarla per continuare a utilizzare PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Nessuna connessione ad internet!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Sembra che tu non abbia una connessione internet! PreMiD non sarà in grado di mostrare le presenze al momento.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Nessuna connessione Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD non è stato in grado di connettersi alla sua applicazione Discord! È la application installato e funzionante? *risoluzione problemi*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Tutto",
 		"description": "Category name shown when you open tags"

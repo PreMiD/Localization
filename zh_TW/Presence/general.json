@@ -51,6 +51,10 @@
 		"message": "漫畫",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "週邊商品",
+		"description": ""
+	},
 	"general.page": {
 		"message": "頁",
 		"description": ""
@@ -71,16 +75,176 @@
 		"message": "正在閲讀關於:",
 		"description": ""
 	},
+	"general.readingArticle": {
+		"message": "正在閱讀文章:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "閱覽頻道:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "正在閱讀帖子:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "正在閲讀主題:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "閱讀中",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "尋找:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "搜尋中...",
 		"description": ""
 	},
 	"general.search": {
 		"message": "搜索中",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "購物車",
+		"description": ""
+	},
 	"general.store": {
 		"message": "商店",
 		"description": ""
+	},
+	"general.typeDM": {
+		"message": "正在私訊:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "在頻道輸入中:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "正在看動畫:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "查看類別:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "查看頻道:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "正在觀看集數:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "查看類別:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "正在檢視主面",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "正在檢視列表:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "正在閱讀漫畫:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "正在檢視使用者:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "正在檢視電影:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "正在檢視列表:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "查看產品",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "正在檢視使用者個人資料:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "正在檢視系列:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "正在觀看節目:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "正在檢視他們的帳號",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "正在檢視貼文:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "正在檢視使用者:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "正在檢視:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "正在檢視頁面:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "正在觀看影片",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "正在觀看直播",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "正在觀看:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "願望清單:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "隱私權政策",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "服務條款",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie 政策",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "循環所有歌曲",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "循環中",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "事件記錄",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "運行時間記錄",
+		"description": "A page name of statuspages"
 	}
 }

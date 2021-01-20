@@ -1,22 +1,62 @@
 {
-	"store.cards.creator": {
-		"message": "Tác giả",
-		"description": "Creator of a presence"
+	"store.message.error": {
+		"message": "Tiện ích chưa được kết nối.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.popular": {
+		"message": "Presence này rất phổ biến với người dùng.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Partnered Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Presence yêu cầu các bước bổ sung, vui lòng kiểm tra trang của nó để biết thêm thông tin.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Tìm kiếm Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Thêm Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Gỡ Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Presence này tự động hoạt động khi truy cập trang web của nó.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Bộ lọc",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Được dùng nhiều trước",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Hiển thị NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Chỉ Presence đã thích",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Hiển thị Presence đã thêm",
+		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
 		"message": "Danh mục",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Tất cả",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
-		"message": "Trò chơi",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Nhạc",
+		"message": "Game",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
@@ -34,5 +74,13 @@
 	"store.search": {
 		"message": "Tìm kiếm",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Nhập",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Ấn để gỡ bộ lọc",
+		"description": "Remove message for active search filters."
 	}
 }

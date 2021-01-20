@@ -11,61 +11,13 @@
 		"message": "Tərcüməçilər",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Yaradıcı",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.projectManager": {
-		"message": "Lahiyə Meneceri",
-		"description": "'Project Manager' title for contributors and user pages."
-	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "Əməliyyat Nəzarətçisi",
-		"description": "'Operations Supervisor' title for contributors and user pages."
-	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Qlobal İcma Nümayəndəsi",
-		"description": "'Global Community Representative' title for contributors and user pages."
-	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Sistem İdarəçisi",
-		"description": "'System Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.webDeveloper": {
-		"message": "Web İnkişaf Etdirici",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Linux İşçisi",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Mühəndis",
-		"description": "'Engineer' title for contributors and user pages."
-	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Qrafik Dizayner",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Senior Moderator",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Varlığı Təsdiqləyən",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "İcma Nümayəndəsi",
-		"description": "'Community Representative' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "Admin",
+		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.juniorModerator": {
-		"message": "Gənc Moderator",
-		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
 		"message": "Dəstək Agenti",

@@ -1,1 +1,46 @@
-{}
+{
+	"beta.title": {
+		"message": "Ag iarraidh gnéithe nua?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "Tá ** Béite PreMiD ** ar fáil anois do gach duine!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Cad a gheobhaidh tú má chláraíonn tú?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Gnéithe is déanaí",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Rochtain ar bhealaí téacs rúnda Super PreMiD",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Ról speisialta ar ár bhfreastalaí Discord",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Réidh dó? Bí le {0} Testers Béite eile!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Cláraigh anois!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Cool! Is úsáideoir béite tú anois!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Tá ár mhoncaí ag obair chun tú a chur isteach inár gclár béite chomh tapa agus is féidir. Go raibh maith agat as clárú!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Is cosúil nach bhfuil níos mó sliotán béite ar fáil againn.",
+		"description": "Shows when the beta slots are full."
+	}
+}

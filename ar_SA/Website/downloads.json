@@ -1,7 +1,39 @@
 {
+	"downloads.header.title": {
+		"message": "حان الوقت الإظهار.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "استخدم PreMiD الآن وأظهر لأصدقائك ما تفعله ، ربما تجد شخصًا لديه نفس الاهتمامات.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "إبدء الان",
 		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "تحميل PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "قم بتثبيت تطبيقنا",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "أضف ملحقنا إلى متصفحك",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "أعد تحميل هذا الموقع وتحقق مما إذا كان الملحق متصل",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "هل لا تزال تواجه مشاكل؟ {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "نحن هنا للمساعدة!",
+		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
 		"message": "التطبيق",
@@ -11,32 +43,124 @@
 		"message": "الملحق",
 		"description": "Header above extension download buttons."
 	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "تحذير:",
+		"description": "First part of the message."
+	},
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": ".{0} هذا النظام ليس مدعما بشكل رسمي، البرنامج قد لا يشتغل بطريقة كاملة",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.mobile.errorMessage": {
+		"message": "يرجى العلم بأن PreMiD غير مدعوم على الهواتف المحمولة.",
+		"description": "Downloads page warning when user is on mobile."
+	},
 	"downloads.mobile.showDownloads": {
-		"message": "عرض التنزيلات",
+		"message": "إظهار التنزيلات",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
 		"message": "إخفاء التنزيلات",
 		"description": "Little button on the downloads page for mobile users."
 	},
+	"downloads.warning.differentVersion": {
+		"message": "الإصدار الحالي من هذا النظام هو {0} (هذا الإصدار خاص بنظام لينكس ولا ينطبق على الأنظمة الأخرى).",
+		"description": "Tippy message of the Linux card."
+	},
 	"downloads.warning.differentVersion2": {
-		"message": "هذا الإصدار خاص بـ Linux، ولا ينطبق على أنظمة أخرى. الإصدار الرئيسي للتطبيق هو {0}",
+		"message": "هذا الإصدار خاص بـلينكس، ولا ينطبق على أنظمة أخرى. الإصدار الرئيسي للتطبيق هو {0}",
 		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "يرجى تسجيل الدخول لرؤية هذه التنزيلات.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "عذرًا ، يبدو أنه ليس لديك إمكانية الوصول لخاصية ألفا / بيتا :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "يمكنك الانضمام إلى برنامجنا التجريبي **هنا** مجانًا. إستعجل! لدينا فقط {0} أماكن متاحة",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "الإصدارات المبكرة",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "تحذير",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.opera": {
+		"message": "يجب تثبيت **هذا** الملحق من أجل تحميل PreMiD من متجر كروم.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "تخطي",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "رجوع",
+		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
 		"message": "إلغاء",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "حسنا",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
 		"message": "تم الإنجاز",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "تسجيل الدخول",
+		"description": "Login button on the downloads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "شكرا لك!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "نحن نستخدم الإعلانات لدعم فريقنا والحفاظ على خوادمنا لتوفر لك أفضل تجربة مستخدم!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "الرجاء تعطيل مانع الإعلانات الخاص بك.",
+		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "لا أريد أن أدعم.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "هل أنت متأكد؟",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "حقا؟",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "الر الرجاء الدعم :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "أحتاج إليك :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "حسنًا، حسناً...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "إظهار التنزيلات التجريبية",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(غير ضروري إذا كنت هنا فقط لتنزيل التطبيق العادي)",
+		"description": "Small text under the show beta title."
 	}
 }

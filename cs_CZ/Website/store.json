@@ -3,10 +3,6 @@
 		"message": "Rozšíření není připojeno.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
-	"store.cards.creator": {
-		"message": "Autor",
-		"description": "Creator of a presence"
-	},
 	"store.cards.popular": {
 		"message": "Tato Presence je velmi populární mezi uživateli.",
 		"description": "Presence card popular flame"
@@ -16,7 +12,7 @@
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
-		"message": "Tato presence vyžaduje další kroky, aby mohla pracovat, prosím zkontrolujte její stránku pro více informací.",
+		"message": "Tato presence vyžaduje další kroky, aby mohla pracovat, prosím zkontroluj její stránku pro více informací.",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
@@ -28,7 +24,7 @@
 		"description": "Button that will appear on hover after extension is installed."
 	},
 	"store.card.presence.remove": {
-		"message": "Odstranit Presence",
+		"message": "Odebrat Presence",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
@@ -40,7 +36,7 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Nejvéce používané první",
+		"message": "Nejvíce používané první",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
@@ -52,27 +48,19 @@
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
-		"message": "Zobrazovat již pridané Presence",
+		"message": "Zobrazovat již přidané Presence",
 		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
 		"message": "Kategorie",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Vše",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Hry",
 		"description": "Category at the top"
 	},
-	"store.category.music": {
-		"message": "Hudba",
-		"description": "Category at the top"
-	},
 	"store.category.socials": {
-		"message": "Sociální sítě",
+		"message": "Sociální Sítě",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
@@ -92,7 +80,7 @@
 		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
-		"message": "Klikněte pro odstranení filtru",
+		"message": "Klikněte pro odebrání filtru",
 		"description": "Remove message for active search filters."
 	}
 }

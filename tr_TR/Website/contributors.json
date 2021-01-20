@@ -11,73 +11,45 @@
 		"message": "Çevirmenler",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Yapımcı",
-		"description": "'Creator' title for contributors and user pages."
+	"contributors.roles.projectLeader": {
+		"message": "Proje Lideri",
+		"description": "'Project Leader' title for contributors and user pages."
 	},
-	"contributors.roles.projectManager": {
-		"message": "Proje Yöneticisi",
-		"description": "'Project Manager' title for contributors and user pages."
+	"contributors.roles.staffCoordinator": {
+		"message": "Personel Koordinatörü",
+		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "Operasyon Koordinatörü",
-		"description": "'Operations Supervisor' title for contributors and user pages."
+	"contributors.roles.marketingDirector": {
+		"message": "Pazarlama Müdürü",
+		"description": "'Marketing Director' title for contributors and user pages."
 	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Küresel Topluluk Temsilcisi",
-		"description": "'Global Community Representative' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "Yönetici",
+		"description": "'Administrator' title for contributors and user pages."
 	},
-	"contributors.roles.storeManager": {
-		"message": "Mağaza Yöneticisi",
-		"description": "'Store Manager' title for contributors and user pages."
+	"contributors.roles.reviewer": {
+		"message": "İnceleyen",
+		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Sistem Yöneticisi",
-		"description": "'System Administrator' title for contributors and user pages."
+	"contributors.roles.developer": {
+		"message": "Geliştirici",
+		"description": "'Developer' title for contributors and user pages."
 	},
-	"contributors.roles.webDeveloper": {
-		"message": "Site Geliştiricisi",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Linux Sorumlusu",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Mühendis",
-		"description": "'Engineer' title for contributors and user pages."
-	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Grafik Tasarımcı",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Kıdemli Yetkili",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Servis Onaylama Lideri",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "Topluluk Temsilcisi",
-		"description": "'Community Representative' title for contributors and user pages."
+	"contributors.roles.designer": {
+		"message": "Tasarımcı",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Yetkili",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "Yardımcı Yetkili",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "Destek Ekibi Üyesi",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Servis İnceleme Yetkilisi",
-		"description": "'Presence Verifier' title for contributors and user pages."
+	"contributors.roles.representative": {
+		"message": "Temsilci",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Düzeltmen",

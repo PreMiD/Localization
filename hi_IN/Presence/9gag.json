@@ -1,0 +1,30 @@
+{
+    "9gag.gag": {
+        "message": "गैग देखना:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "देखने में क्या गर्म है",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "देखना क्या है ताजा",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "टैग देखना:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "सभी 9गैग के बारे में पढ़ना",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "होम पेज देखना",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "संग्रह देखें",
+        "description": ""
+    }
+}

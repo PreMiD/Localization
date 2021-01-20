@@ -16,11 +16,11 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Deine kostenlose Präsenz",
+		"message": "Deine kostenlose Presence",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Unser Team wird dir eine Präsenz von deinem Webservice bereitstellen.",
+		"message": "Unser Team wird dir eine Presence von deinem Webservice bereitstellen.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -28,7 +28,7 @@
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Eine besondere Rolle und große Ehre wird dir auf unserem Discord Server zuteil werden.",
+		"message": "Eine besondere Rolle und große Ehre wird dir auf unserem Discord-Server zuteil werden.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Aktiviert deine Präsenz automatisch, wenn jemand deine Website besucht.",
+		"message": "Aktiviert deine Presence automatisch, wenn jemand deine Website besucht.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -84,7 +84,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Wenn Du eher an einem direkten Job bei PreMiD interessiert bist, schau dir unsere ** Stellenanzeige ** an.",
+		"message": "Wenn Du eher an einem direkten Job bei PreMiD interessiert bist, schau dir unsere **Stellenanzeige** an.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -135,6 +135,14 @@
 		"message": "Kommuniziere dein Echtzeit-Status mit deinen Benutzern.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "Eine Göttin, die als lustiger Discord-Bot spielt!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "Mit REYFM kannst du über 15+ Musikstreams kostenlos anhören - nonstop. Mit der besten und neuesten Musik nur für Dich!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Flexible Übersetzungslösung für Technologieunternehmen.",
 		"description": "Description for Crowdin."
@@ -150,6 +158,10 @@
 	"partners.partner.fastly": {
 		"message": "Hinter dem besten des Webs.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit ist dein Online-Musik-Radiosender gemacht, um deine besten Hits 24/7 abzuspielen und dir deine zukünftigen Hits zuerst entdecken zu lassen.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Partnerschaft anfragen",
@@ -172,7 +184,7 @@
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
-		"message": "Sonstige",
+		"message": "Anderes",
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
@@ -196,7 +208,7 @@
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
-		"message": "Beschreibung vor vorgestellt",
+		"message": "Beschreibung für vorgestellt",
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
@@ -228,7 +240,7 @@
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "Bitte einen Link hinzufügen (muss mit https:// starten und .png enden)",
+		"message": "Bitte einen Link hinzufügen (muss mit https:// starten und mit .png enden)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {

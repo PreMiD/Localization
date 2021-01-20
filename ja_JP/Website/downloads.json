@@ -91,10 +91,6 @@
 		"message": "注意",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "拡張設定から「他のストアからの拡張機能を許可する」オプションを有効にするのを忘れないでください！",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "ストアからPreMiDをインストールするには、**この拡張機能**をインストールする必要があります。",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
@@ -108,7 +104,7 @@
 		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
-		"message": "戻る",
+		"message": "キャンセル",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
@@ -127,8 +123,44 @@
 		"message": "Thank you!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "私たちは広告を使用して、最高のユーザーエクスペリエンスを提供しています！\n（ダウンロードするには、右上のスキップボタンをクリックしてください。）",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "広告ブロッカーを無効にしてください。",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "サポートしないでダウンロードする",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "本当によろしいですか？",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "本当に？",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "お願いです…",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "あなたの力が必要なんです…",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "わかりました…",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "ベータ版のダウンロードを表示",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "（通常版をダウンロードするために、ここにいる必要はありません。）",
+		"description": "Small text under the show beta title."
 	}
 }

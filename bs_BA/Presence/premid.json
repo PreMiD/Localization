@@ -1,54 +1,18 @@
 {
-    "premid.viewPage": {
-        "message": "Stranica za pregled:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Dokumenti",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Prisutnost pregleda:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Početna stranica",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Saradnici",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Preuzimanja",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Prodavnica",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Politika kolačića",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "Više o",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Rešavanje problema",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Prvi koraci",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Stranica za pregled:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumenti",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Prisutnost pregleda:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Početna stranica",
+		"description": "A page name"
+	}
 }

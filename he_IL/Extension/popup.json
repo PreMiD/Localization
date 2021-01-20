@@ -87,6 +87,22 @@
 		"message": "היישום של PreMiD לא מעודכן. בבקשה עדכן את זה בשביל המשך השימוש של PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "אין חיבור לאינטרנט!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "נראה שאין לך חיבור לאינטרנט! PreMiD לא יכול להציג כרגע.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "אין חיבור לרשת!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD לא יכול להתחבר ליישום",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "הכל",
 		"description": "Category name shown when you open tags"

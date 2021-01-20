@@ -3,6 +3,10 @@
 		"message": "Keel",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Valmis PreMiD'i kastutama?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Liitu üle {0} kasutajaga täna!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -14,6 +18,10 @@
 	"footer.partners.heading": {
 		"message": "Partnerid",
 		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Jälgige meid",
+		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "Arendajad",
@@ -39,21 +47,17 @@
 		"message": "Aita kaasa",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Disain",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Tõlgi",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Töötage meiege!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Abi",
 		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Veaotsimine",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
 		"message": "Saa abi",
@@ -94,5 +98,9 @@
 	"footer.copyright.line2": {
 		"message": "Veebisait tehtud {0} il",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Vajutage siia, et näha meie ülejäänud partnereid & sponsoreid.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

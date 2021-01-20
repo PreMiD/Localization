@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** to proste, konfigurowalne narzędzie pozwalające pokazać, co robisz w sieci w twoim Discordzie teraz.",
+		"message": "**PreMiD** to proste, konfigurowalne narzędzie pozwalające pokazać, co teraz robisz w sieci na twoim statusie w Discordzie.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -27,6 +27,10 @@
 		"message": "Odtwarzanie",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Na żywo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Przeglądanie...",
 		"description": "Discord Rich Presence -> small image text;"
@@ -40,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Stworzyliśmy dodatek który pozwala ci na używanie stworzonych przez innych użytkowników aktywności Presence i zarządzania nimi w aplikacji!",
+		"message": "Stworzyliśmy nasze rozszerzenie, które pozwala ci na używanie presences stworzonych przez innych użytkowników i zarządzania nimi w naszej aplikacji!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,7 +56,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Masz dość skomplikowanych interfejsów użytkownika? Dlatego stworzyliśmy i staramy się, aby nasz interfejs był tak prosty i użyteczny, jak to możliwe, dzięki ważnym funkcjom, takim jak:",
+		"message": "Masz dość skomplikowanych interfejsów? Dlatego stworzyliśmy i staramy się, aby nasz interfejs był tak prosty i użyteczny, jak to możliwe, dzięki ważnym funkcjom, takim jak:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -76,7 +80,7 @@
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "Dołącz do naszego Discorda",
+		"message": "Dołącz na nasz serwer Discord",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {

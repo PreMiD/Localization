@@ -8,7 +8,7 @@
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Desenvolvedor de Presenças Importante",
+		"message": "Principal programador de presenças",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
@@ -23,8 +23,16 @@
 		"message": "Criou mais de 100 Presenças!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.switch.contributed": {
+		"message": "[Presences/contribuições] do Utilizador",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Clica aqui para mostrar as presenças que este utilizador criou.",
+		"description": "Tippy content in user profile."
+	},
 	"user.presences.contributed": {
-		"message": "Clique aqui para mostrar as presenças que este usuário contribuiu.",
+		"message": "Clica aqui para mostrar as presenças para as quais este utilizador contribuiu.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

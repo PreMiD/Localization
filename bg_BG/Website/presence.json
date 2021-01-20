@@ -8,7 +8,7 @@
 		"description": "The title of the description section."
 	},
 	"presence.sections.changelog.title": {
-		"message": "Дневник на промените",
+		"message": "Промени",
 		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {
@@ -22,6 +22,14 @@
 	"presence.sections.information.version": {
 		"message": "версия",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Харесвания",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Потребители",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {
 		"message": "маркирам",

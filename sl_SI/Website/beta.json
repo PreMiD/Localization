@@ -20,7 +20,7 @@
 		"description": "Features list"
 	},
 	"beta.features.3": {
-		"message": "Poseben \"role\" na našem Discord serverju",
+		"message": "Posebno vlogo na našem Discord strežniku",
 		"description": "Features list"
 	},
 	"beta.register.text": {
@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Naše opice delajo na tem, da te sprejmejo v naš beta program kolikor hitro lahko! Hvala za registracijo!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Videti je, da nimamo več beta različic na voljo.",
+		"description": "Shows when the beta slots are full."
 	}
 }

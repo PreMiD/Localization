@@ -11,73 +11,45 @@
 		"message": "Traducteurs",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Créateur",
-		"description": "'Creator' title for contributors and user pages."
+	"contributors.roles.projectLeader": {
+		"message": "Chef de projet",
+		"description": "'Project Leader' title for contributors and user pages."
 	},
-	"contributors.roles.projectManager": {
-		"message": "Gérant du projet",
-		"description": "'Project Manager' title for contributors and user pages."
+	"contributors.roles.staffCoordinator": {
+		"message": "Responsable du personnel",
+		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "Responsable des Opérations",
-		"description": "'Operations Supervisor' title for contributors and user pages."
+	"contributors.roles.marketingDirector": {
+		"message": "Directeur commercial",
+		"description": "'Marketing Director' title for contributors and user pages."
 	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Représentant Global de la Communauté",
-		"description": "'Global Community Representative' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "Administrateur",
+		"description": "'Administrator' title for contributors and user pages."
 	},
-	"contributors.roles.storeManager": {
-		"message": "Gestionnaire du magasin",
-		"description": "'Store Manager' title for contributors and user pages."
+	"contributors.roles.reviewer": {
+		"message": "Examinateur",
+		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Administrateur Système",
-		"description": "'System Administrator' title for contributors and user pages."
+	"contributors.roles.developer": {
+		"message": "Développeur",
+		"description": "'Developer' title for contributors and user pages."
 	},
-	"contributors.roles.webDeveloper": {
-		"message": "Développeur Web",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Mainteneur de Linux",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Ingénieur",
-		"description": "'Engineer' title for contributors and user pages."
-	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Concepteur Graphique",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Modérateur senior",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Responsable de la vérification de présence",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "Représentant de la Communauté",
-		"description": "'Community Representative' title for contributors and user pages."
+	"contributors.roles.designer": {
+		"message": "Concepteur",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Modérateur",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "Modérateur Junior",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "Agent d'Assistance",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Vérificateur de Présences",
-		"description": "'Presence Verifier' title for contributors and user pages."
+	"contributors.roles.representative": {
+		"message": "Représentant",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Réviseur",

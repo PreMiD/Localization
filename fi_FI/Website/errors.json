@@ -7,6 +7,10 @@
 		"message": "Valitettavasti emme löytäneet tuota sivua.",
 		"description": "Error (404) message"
 	},
+	"error.code.4": {
+		"message": "Etsit presenceä, jota ei ole tai joka on tullut poistetuksi.",
+		"description": "Error (4) message"
+	},
 	"error.code.500": {
 		"message": "Sisäinen palvelinvirhe tapahtui.",
 		"description": "Error (500) message"
@@ -18,5 +22,13 @@
 	"error.page.button": {
 		"message": "Takaisin etusivulle",
 		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Käyttäjää ei löytynyt. Yritä varmistaa",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message4": {
+		"message": "Jos uskot, että tämä oli virhe, ota meihin yhteyttä [Discord-palvelimessamme].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }

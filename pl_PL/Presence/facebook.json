@@ -4,43 +4,43 @@
         "description": ""
     },
     "facebook.vcall": {
-        "message": "W wideorozmowie z:",
+        "message": "W rozmowie wideo z:",
         "description": ""
     },
     "facebook.userHidden": {
-        "message": "ktoś... (Użytkownik ukryty)",
+        "message": "kimś... (Użytkownik jest ukryty)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
     "facebook.writing": {
-        "message": "Tworzenie wiadomości",
+        "message": "Pisze wiadomość",
         "description": ""
     },
     "facebook.userAbout": {
-        "message": "Czytanie o użytkowniku:",
+        "message": "Czyta o użytkowniku:",
         "description": ""
     },
     "facebook.userCommunity": {
-        "message": "Wyświetlanie społeczności użytkownika:",
+        "message": "Wyświetla społeczności użytkownika:",
         "description": ""
     },
     "facebook.userPics": {
-        "message": "Wyświetlanie zdjęć użytkownika:",
+        "message": "Wyświetla zdjęcia użytkownika:",
         "description": ""
     },
     "facebook.userPosts": {
-        "message": "Przeglądanie postów użytkownika:",
+        "message": "Przegląda posty użytkownika:",
         "description": ""
     },
     "facebook.userShop": {
-        "message": "Przeglądanie sklepu użytkownika:",
+        "message": "Przegląda sklep użytkownika:",
         "description": ""
     },
     "facebook.userFriends": {
-        "message": "Przeglądanie znajomych użytkownika:",
+        "message": "Przegląda znajomych użytkownika:",
         "description": ""
     },
     "facebook.userVids": {
-        "message": "Wyświetlanie filmów użytkownika:",
+        "message": "Wyświetla filmy stworzone przez:",
         "description": ""
     },
     "facebook.browse": {

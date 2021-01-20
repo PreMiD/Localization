@@ -1,0 +1,166 @@
+{
+	"downloads.header.title": {
+		"message": "दिखावा करने का समय",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "अब PreMiD का उपयोग करें और अपने दोस्तों को दिखाएं कि आप क्या कर रहे हैं, हो सकता है कि आप किसी को समान रुचियों वाला पाते हों",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Get Started",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "PreMiD डाउनलोड करें",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "हमारे आवेदन स्थापित करें",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "हमारे एक्सटेंशन को अपने ब्राउज़र में जोड़ें",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "इस साइट को पुनः लोड करें और जांचें कि क्या एक्सटेंशन जुड़ा हुआ है",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "अभी भी मुद्दे हैं? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "हमलोग यहां सहायता करने के लिए हैं!",
+		"description": "Link to our discord"
+	},
+	"downloads.appdownloading.header": {
+		"message": "एप्लिकेशन",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "एक्सटेंशन",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "चेतावनी:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} इस ऑपरेटिंग सिस्टम के लिए कोई इंस्टॉलर नहीं है। इसका मतलब है कि इसके लिए कोई पेशेवर समर्थन नहीं है",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "कृपया ध्यान रखें कि PreMiD मोबाइल फोन पर समर्थित नहीं है।",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "डाउनलोड दिखाओ",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "डाउनलोड छिपाएँ",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "इस मंच का वर्तमान संस्करण {0} है (यह संस्करण लिनक्स के लिए विशिष्ट है, और अन्य प्लेटफार्मों पर लागू नहीं होता है)।",
+		"description": "Tippy message of the Linux card."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "यह संस्करण Linux के लिए विशिष्ट है, और अन्य प्रणालियों पर लागू नहीं होता है। अनुप्रयोग का मुख्य संस्करण {0} है",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "कृपया इन डाउनलोडों को देखने के लिए लॉगिन करें",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "उह, ऐसा लगता है कि आपके पास अल्फा / बीटा एक्सेस नहीं है :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "आप हमारे बीटा प्रोग्राम में शामिल हो सकते हैं ** यहाँ ** मुफ्त में। जल्दी करो! हमारे पास केवल {0} अधिक स्लॉट उपलब्ध हैं\nसंपर्क करें",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "प्रारंभिक विज्ञप्ति",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "चेतावनी",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.opera": {
+		"message": "आपको Chrome वेबस्टोर से PreMiD स्थापित करने के लिए ** इस ** एक्सटेंशन को स्थापित करना होगा।",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "स्किप",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "वापस",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "रद्द करना",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "ठीक है",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "किया हुआ",
+		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.button.login": {
+		"message": "लॉग इन करें",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "धन्यवाद!",
+		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "हम हमारी टीम का समर्थन करने और आपको सर्वश्रेष्ठ उपयोगकर्ता अनुभव प्रदान करने के लिए हमारे सर्वर को बनाए रखने के लिए विज्ञापनों का उपयोग करते हैं",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "कृपया अपने एडब्लॉक को अक्षम करें",
+		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "मैं समर्थन नहीं करना चाहता",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "क्या आपको यकीन है?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "सचमुच",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P- कृपया समर्थन करें :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "मुझे आपकी आवश्यकता है :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "ठीक है ठीक है...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "बीटा डाउनलोड दिखाएं",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(जरूरत नहीं है अगर आप केवल सामान्य आवेदन पत्र डाउनलोड करने के लिए यहां हैं)",
+		"description": "Small text under the show beta title."
+	}
+}

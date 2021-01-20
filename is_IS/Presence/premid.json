@@ -1,22 +1,18 @@
 {
-    "premid.pageContributors": {
-        "message": "Þátttakendur",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Niðurhöl",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Verslun",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Leysa vandamál",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Skoðar síðu:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Skjöl",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Skoðar presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Heimasíða",
+		"description": "A page name"
+	}
 }

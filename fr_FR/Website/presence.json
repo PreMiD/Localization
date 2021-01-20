@@ -8,7 +8,7 @@
 		"description": "The title of the description section."
 	},
 	"presence.sections.changelog.title": {
-		"message": "Changelog",
+		"message": "Journal de modifications",
 		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {

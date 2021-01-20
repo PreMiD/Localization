@@ -1,1 +1,58 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Glavne pesmi",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Najboljši podcasti",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Ogledovanje grafikonov",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Brskanje po zvrsteh",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Ogledovanje najnovejše izdaje",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Odkrivanje novih pesmi",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Brskanje po",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcastih, ki so jim všeč",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "umetnikih, ki so jim všeč",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albumih, ki so jim všeč",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "pesmih, ki so jim všeč",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Narejeno zate\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "njihovim seznami predvajanja",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Prenašanje Spotify-ja",
+		"description": ""
+	}
+}

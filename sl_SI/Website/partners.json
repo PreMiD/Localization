@@ -1,10 +1,230 @@
 {
-	"partners.header.title": {
-		"message": "Partnerji",
-		"description": "Heading for page."
+	"partners.header.description": {
+		"message": "Pridruži se familiji in pridobi partnerske koristi, da se lahko pokažeš drugim koliko swag si.",
+		"description": "Description for page."
 	},
-	"partners.apply.select.other": {
-		"message": "Drugo",
-		"description": "Select 'Other' category."
+	"partners.slideshow.description": {
+		"message": "Te že pripadajo k nam",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Kaj pa če greš v nebesa namesto pekla?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Tvoj zastonj Dodatek",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Naša ekipa bo zagotovila dodatek po vaših pravilih.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Postani preverjen",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Dobili boste posebno vlogo in čast na našem Discord strežniku.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-oznak integracija",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Samodejno izbere tvoj Dodatek ko nekdo je na vaši spletni strani.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Postanite ovekovečeni",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Posebno mesto na naši spletni strani.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Postani slaven",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Omenjeni boste na naših družbenih medijah.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Zahteve",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Kaj pa mi iščemo?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Pazimo na naraščajoče skupnosti in zanimive stvari po internetu. TL; DR, morali bi že uporabljati PreMiD in ga razširiti do več internetnih čudakov. Sprejem v program je izredno kvaliteten in bo od kandidata do kandidata drugačen.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Naš požarni zid",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Mi za zdaj sprejemamo različne spretnosti na naš partnerski program. Vsak ima priložnost biti opažen. Twitch streamerji morajo imeti vsaj 500 sledilcev in vsaj 10 non-stop gledalcev in morajo streamati vsaj enkrat na teden.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Prijavi se zdaj!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Gremo skupaj v nebesa!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Če ste raje zainteresirani na direktno službo pri PreMiD, potem pridite pogledati na naše **službene oglase**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponzorji",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD ne bi bil mogočen, brez teh odličnih ljudeh.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Tako gledaš anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings je nova generacija, hitri-tempo PvP Arena Igra, ki se ga igra v brskalniku.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat je neprofitna globalna radio postaja, kjer lahko poslušate non-stop kakovostne radio postaje in novice.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Platforma za zaslužek igralcev.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio je najbolj uspešna informativna radio postaja za simulacijske igre v Nemčiji, Avstriji in Švici!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Pridobite, kar je vaše. Streamanje Anime-jev, Film-i, Hentai-jev, Speciali in še več. Brezplačno, brez oglasov in v visoki ločljivosti!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Začni zgraditi svojo skupnost z našim odličnih predlogah. Zgradi svoje kraljestvo.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga je Discord Bot, ki ponuja vse funkcije ki jih rabite, vse v eno!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Močen in enostavno uporabljen cross-platform inštalacija orodje za ustvarjanje.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Enostavno komunicirajte v realnem času svoj status svojim uporabnikom.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Boginja ki igra kot zabaven Discord Bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "Agilna lokalizacija za tehnološka podjetja.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Najmočnejši in razširjeni odprto-kodni Wiki program.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Poenotena, razvijalcu prijazen vmesnik za vse vaše artifakte.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Za najboljšimi v spletu.",
+		"description": "Description for Fastly."
+	},
+	"partners.apply.title": {
+		"message": "Vpiši se za partnerja",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Prijavljen(a) kot {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Niste vi?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Prosimo izberite eno",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Spletna stran",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Ime",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Npr: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Link / Povezava",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Npr: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Opis: (Največ do 150 črk)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Opis za predstavo",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Slika linka / povezave: (550x300, samo PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Npr: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Zapri",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Prijava",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "Prosimo da, izpolnite vsa polja.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maksimalno 150 črk opisa.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Prosimo dodajte link / povezavo (se mora začeti z https:// in končati z .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Vi ste se že prijavili za partnerja.",
+		"description": "Error when already applied."
 	}
 }

@@ -28,11 +28,11 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Melihat apa yang sedang tren",
+        "message": "Melihat apa yang sedang trending",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Menjelajahi",
+        "message": "Menelusuri",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Melihat mereka",
+        "message": "Melihat",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {

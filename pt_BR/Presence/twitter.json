@@ -1,18 +1,18 @@
 {
     "twitter.readTweet": {
-        "message": "Lendo um tuíte:",
+        "message": "Lendo um tweet:",
         "description": ""
     },
     "twitter.viewDms": {
-        "message": "Vendo suas mensagens diretas",
+        "message": "Visualizando suas mensagens diretas",
         "description": ""
     },
     "twitter.viewTweets": {
-        "message": "Vendo tuítes de:",
+        "message": "Vendo tweets de:",
         "description": ""
     },
     "twitter.viewTweetsWithReplies": {
-        "message": "Vendo tuíte (com respostas) de:",
+        "message": "Vendo tweets (com respostas) de:",
         "description": ""
     },
     "twitter.viewMedia": {
@@ -28,7 +28,7 @@
         "description": ""
     },
     "twitter.bookmarks": {
-        "message": "Favoritas",
+        "message": "Favoritos",
         "description": ""
     },
     "twitter.notifs": {

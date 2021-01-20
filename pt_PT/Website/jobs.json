@@ -11,6 +11,10 @@
 		"message": "Seguinte",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Entrar",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Cancelar",
 		"description": "Cancel, button in the modal."
@@ -27,9 +31,17 @@
 		"message": "Entra no nosso servidor de Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "Para ser capaz de se inscrever, você tem que estar em nosso servidor Discord. Caso contrário, não poderemos entrar em contato com você caso seja selecionado!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Trabalhar para a PreMiD",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Estás pronto para ajudar o maior programa de Rich-Presence?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Vagas de Emprego",
@@ -67,8 +79,12 @@
 		"message": "Suporta PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Com a sua contribuição é possível executar este projeto.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
-		"message": "Desconto de tempo",
+		"message": "Tempo esgotado",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
@@ -78,6 +94,10 @@
 	"jobs.benefit6.title": {
 		"message": "Acesso Antecipado",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Teste novos recursos antes de qualquer outra pessoa.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Obrigado por se candidatar!",

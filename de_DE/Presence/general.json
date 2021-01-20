@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "Stöbert...",
+		"message": "Durchstöbert...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "Bearbeiten:",
+		"message": "Bearbeitung:",
 		"description": ""
 	},
 	"general.episode": {
@@ -88,11 +88,11 @@
 		"description": ""
 	},
 	"general.readingThread": {
-		"message": "Lese-Thread:",
+		"message": "Liest Thread:",
 		"description": ""
 	},
 	"general.reading": {
-		"message": "Lesen",
+		"message": "liest",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "Suche",
+		"message": "Suchen",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Schreiben in DMs zu:",
+		"message": "Schreiben in PNs zu:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -124,15 +124,15 @@
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "Anime ansehen:",
+		"message": "Schaut Anime:",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Kategorie ansehen:",
+		"message": "Betrachtet Kategorie:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "Kanal ansehen:",
+		"message": "Betrachtet Kanal:",
 		"description": ""
 	},
 	"general.viewEpisode": {
@@ -140,51 +140,51 @@
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "Genre ansehen:",
+		"message": "Betrachtet Genre:",
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Schaut die Homepage",
+		"message": "Betrachtet die Homepage",
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "Liste anzeigen:",
+		"message": "Betrachtet Liste:",
 		"description": ""
 	},
 	"general.viewManga": {
-		"message": "Sieht Manga:",
+		"message": "Betrachtet Manga:",
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "Member ansehen:",
+		"message": "Betrachtet Mitglied:",
 		"description": ""
 	},
 	"general.viewMovie": {
-		"message": "Schaut einen Film:",
+		"message": "Schaut Film:",
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Betrachtet eine Playlist:",
+		"message": "Betrachtet Playlist:",
 		"description": ""
 	},
 	"general.viewProduct": {
-		"message": "Betrachtet ein Produkt:",
+		"message": "Betrachtet Produkt:",
 		"description": ""
 	},
 	"general.viewProfile": {
-		"message": "Betrachtet ein Profil:",
+		"message": "Betrachtet Profil:",
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "Schaut eine Serie:",
+		"message": "Schaut Serie:",
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "Schaut eine Show:",
+		"message": "Schaut Show:",
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "Betrachtet den eigenen Account",
+		"message": "Betrachtet eigenen Account",
 		"description": ""
 	},
 	"general.viewThread": {
@@ -199,13 +199,45 @@
 		"message": "Betrachtet:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Betrachtet die Seite:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Schaut einen Film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Schaut eine Serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Schaut eine Show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Schaut ein Video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Wartet auf die Premiere eines Videos",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Wartet auf die Premiere des Videos",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Schaut einen Livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Wartet auf den Start eines Livestreams",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Warte darauf, dass der Livestream startet",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Schaut:",
@@ -222,5 +254,25 @@
 	"general.terms": {
 		"message": "Nutzungsbedingungen",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Datenschutzerklärung",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Alle Lieder wiederholen",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Auf Schleife",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Störungsverlauf",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Systemverfügbarkeit",
+		"description": "A page name of statuspages"
 	}
 }

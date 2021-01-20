@@ -1,0 +1,14 @@
+{
+	"v live.browseThrough": {
+		"message": "Търси в",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "новата страница на видеото",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.viewTheir": {
+		"message": "Гледа своите",
+		"description": "The first part of the next 6 strings"
+	}
+}

@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Bejelentkezés",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Bejelentkezve mint",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Hiba jelentése",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Irányítópult",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Kijelentkezés",
+    "description": "Logout button"
   }
 }

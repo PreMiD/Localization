@@ -4,7 +4,7 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Word lid van de fam en krijg enkele partner-only voordelen om te laten zien hoeveel swag je hebt.",
+		"message": "Word lid van de familie en krijg exclusieve partnervoordelen om te laten zien hoeveel swag je hebt.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
@@ -24,7 +24,7 @@
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
-		"message": "Wordt geverifieerd",
+		"message": "Word geverifieerd",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
@@ -127,10 +127,6 @@
 		"message": "taiga is een Discord Bot die probeert alle functies aan te bieden die je mogelijk in één keer nodig hebt!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "Een krachtige bot waarmee je websites en spellen kunt monitoren en het heeft veel meer mogelijkheden.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Een krachtig en eenvoudig te gebruiken platform installatietool voor de creatie van platformen.",
 		"description": "Description for BitRock."
@@ -138,6 +134,14 @@
 	"partners.partner.statusPage": {
 		"message": "Eenvoudig real-time status te communiceren aan uw gebruikers.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Een godin die als een leuke Discord bot speelt!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM laat je gratis naar 15+ muziek streams luisteren - non-stop. Met de beste en nieuwste muziek alleen voor jou!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Agile lokalisatie voor technologiebedrijven.",
@@ -154,6 +158,10 @@
 	"partners.partner.fastly": {
 		"message": "Achter het beste van het web.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHot is jouw online muziek radiostation, gemaakt om je de beste hits 24/7 af te spelen en om je als eerste de toekomstige hits te laten ontdekken.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Solliciteer voor partner",
@@ -220,7 +228,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Bedankt voor het solliciteren!",
+		"message": "Bedankt voor je aanvraag!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

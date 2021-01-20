@@ -50,5 +50,9 @@
 	"report.error.unauth": {
 		"message": "Discord 帐户需要验证",
 		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "活跃的 Bugs",
+		"description": "Lists users active bugs"
 	}
 }

@@ -28,11 +28,31 @@
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "تحميل",
+    "message": "التنزيلات",
     "description": "Downloads tab"
   },
   "header.contributors": {
     "message": "المساهمون",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "تسجيل الدخول",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "تم تسجيل الدخول كـ",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "الإبلاغ عن خطأ",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "لوحة التحكم",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "تسجيل الخروج",
+    "description": "Logout button"
   }
 }

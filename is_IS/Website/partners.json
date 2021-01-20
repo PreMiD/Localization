@@ -1,8 +1,4 @@
 {
-	"partners.header.title": {
-		"message": "Samstarfsaðilar",
-		"description": "Heading for page."
-	},
 	"partners.header.description": {
 		"message": "Vertu með í frægðinni og fáðu ávinning af einni félaga til að sýna fram á hversu mikið þú hefur af þér.",
 		"description": "Description for page."
@@ -58,9 +54,5 @@
 	"partners.requirements.first.title": {
 		"message": "Hvað erum við að leita að?",
 		"description": "Heading for the first requirement."
-	},
-	"partners.apply.success": {
-		"message": "Takk fyrir að sækja um!",
-		"description": "Success message when applying."
 	}
 }

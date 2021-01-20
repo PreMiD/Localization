@@ -1,0 +1,50 @@
+{
+	"contributors.headings.staff": {
+		"message": "Personeel",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Onderstueners",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Vertalers",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.designer": {
+		"message": "Ontwerper",
+		"description": "'Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Ondersteuningsagent",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Proefleser",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Donateur",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Vertaler",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Klik om 'n gebruikers-ID te kopieer.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Gebruikers-ID was gekopieerd!",
+		"description": "Notification after user ID was copied."
+	}
+}

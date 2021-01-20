@@ -1,38 +1,38 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Twórca presences",
+		"message": "Twórca Presences",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Weryfikator presences",
+		"message": "Weryfikator Presences",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Ważny twórca presences",
+		"message": "Ważny Twórca Presences",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
-		"message": "Stworzono {0} presences.",
+		"message": "Stworzył {0} presences.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Geniusz Programista Statusów",
+		"message": "Genialny Twórca Presence",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Stworzono ponad 100 statusów!",
+		"message": "Stworzył ponad 100 Presence!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "Użytkownik [Presence/wkład]",
+		"message": "[Presence/Wkład] Użytkownika",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Kliknij tutaj, aby wyświetlić statusy Presence utworzone przez tego użytkownika.",
+		"message": "Kilknij tutaj, aby wyświetlić Presence stworzone przez tego użytkownika.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Kliknij tutaj, aby wyświetlić status, do których użytkownik się przyczynił.",
+		"message": "Kliknij tutaj, aby wyświetlić presences, do których ten użytkownik się przyczynił.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

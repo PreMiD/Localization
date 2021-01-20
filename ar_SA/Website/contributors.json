@@ -11,68 +11,56 @@
 		"message": "المترجمين",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "المطور",
-		"description": "'Creator' title for contributors and user pages."
+	"contributors.roles.projectLeader": {
+		"message": "قائد المشروع",
+		"description": "'Project Leader' title for contributors and user pages."
 	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "الممثل العالمي للمجتمع",
-		"description": "'Global Community Representative' title for contributors and user pages."
+	"contributors.roles.staffCoordinator": {
+		"message": "منسق شؤون الموظفين",
+		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
-	"contributors.roles.webDeveloper": {
-		"message": "مطور الويب",
-		"description": "'Web Developer' title for contributors and user pages."
+	"contributors.roles.marketingDirector": {
+		"message": "مدير التسويق",
+		"description": "'Marketing Director' title for contributors and user pages."
 	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "مشرف Linux",
-		"description": "'Linux Maintainer' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "المسؤول",
+		"description": "'Administrator' title for contributors and user pages."
 	},
-	"contributors.roles.engineer": {
-		"message": "مهندس",
-		"description": "'Engineer' title for contributors and user pages."
+	"contributors.roles.reviewer": {
+		"message": "مراجع",
+		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.graphicDesigner": {
-		"message": "مصمم جرافيك",
-		"description": "'Graphic Designer' title for contributors and user pages."
+	"contributors.roles.developer": {
+		"message": "مطور",
+		"description": "'Developer' title for contributors and user pages."
 	},
-	"contributors.roles.seniorModerator": {
-		"message": "كبير المشرفين",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "رئيس التحقق من Presence",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "ممثل المجتمع",
-		"description": "'Community Representative' title for contributors and user pages."
+	"contributors.roles.designer": {
+		"message": "مصمم",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "وسيط",
+		"message": "مشرف",
 		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.juniorModerator": {
-		"message": "مشرف مبتدئ",
-		"description": "'Junior Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
 		"message": "عميل الدعم",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
-	"contributors.roles.presenceVerifier": {
-		"message": "مدقق ملحقات",
-		"description": "'Presence Verifier' title for contributors and user pages."
+	"contributors.roles.representative": {
+		"message": "ممثل",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "مدقق لغوي",
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "المتبرع",
+		"message": "متبرع",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "معزز",
+		"message": "داعم",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
@@ -80,7 +68,11 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "انقر لنسخ ID المستخدم.",
+		"message": "انقر لنسخ أيدي المستخدم.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "تم نسخ أيدي المستخدم!",
+		"description": "Notification after user ID was copied."
 	}
 }

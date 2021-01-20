@@ -24,12 +24,16 @@
         "description": ""
     },
     "aliexpress.feedback": {
-        "message": "رد فعل AliExpress",
+        "message": "ملاحظات على AliExpress",
         "description": ""
     },
     "aliexpress.orders": {
         "message": "يشاهد طلباته",
         "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "عرض ما يخص",
+        "description": "Part 1 "
     },
     "aliexpress.refunds": {
         "message": "استرداد و منازعات",

@@ -1,22 +1,62 @@
 {
-	"store.cards.creator": {
-		"message": "Автор",
-		"description": "Creator of a presence"
+	"store.message.error": {
+		"message": "Розширення не під'єднано.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.popular": {
+		"message": "Цей Presence є дуже популярний серед користувачів.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Партнерський Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Цей presence потребує додаткових кроків. Будь ласка, перевірте його сторінку, щоб отримати більшу інформацію.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Шукати Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Додати Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Видалити Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Цей Presence автоматично увімкнений після відвідування його сайту.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Фільтри",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Найбільш використовувані спочатку",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Показувати NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Тільки вподобані Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Показати додані Presences",
+		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
 		"message": "Категорії",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Усе",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Ігри",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Музика",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
@@ -34,5 +74,13 @@
 	"store.search": {
 		"message": "Пошук",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Введіть",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Натисніть, щоб видалити фільтр",
+		"description": "Remove message for active search filters."
 	}
 }

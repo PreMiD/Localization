@@ -1,6 +1,6 @@
 {
 	"downloads.header.title": {
-		"message": "Zeit zu protzen.",
+		"message": "Zeit anzugeben.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
@@ -84,16 +84,12 @@
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Frühe Versionen",
+		"message": "Vorzeitige Veröffentlichungen",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
 		"message": "Warnung",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.edge": {
-		"message": "Vergiss nicht, die Option 'Lassen Sie Erweiterungen aus anderen Stores zu' in den Erweiterungseinstellungen zu aktivieren.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
 	},
 	"downloads.warning.message.opera": {
 		"message": "Du musst die **diese** Erweiterung installieren, um PreMiD aus dem Chrome Webstore zu installieren.",
@@ -116,7 +112,7 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "Fertig",
+		"message": "Erledigt",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
@@ -128,11 +124,43 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "Wir nutzen Werbung um unser Team zu unterstützen und unsere Server zu verwalten um dir das beste Nutzererlebnis zu bieten!",
+		"message": "Wir nutzen Werbung, um unser Team zu unterstützen und unsere Server zu verwalten, um dir das beste Nutzererlebnis zu bieten!",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Bitte deaktiviere deinen Ad Blocker.",
+		"message": "Bitte deaktiviere deinen Ad-Blocker.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Ich will nicht unterstützen.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Bist du sicher?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Wirklich?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "B-bitte unterstützen Sie uns :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Ich brauche dich :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Okay, okay...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Beta-Downloads anzeigen",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(nicht notwendig, wenn du nur die normale Anwendung runterladen möchtest)",
+		"description": "Small text under the show beta title."
 	}
 }

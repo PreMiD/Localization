@@ -87,6 +87,14 @@
 		"message": "Aplicația ta PreMiD este veche. Te rugăm să o actualizezi pentru a putea folosi PreMiD în continuare.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Actualizare urgentă",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Nu există conexiune la internet!",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "Toate",
 		"description": "Category name shown when you open tags"

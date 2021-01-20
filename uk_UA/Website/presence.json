@@ -7,10 +7,6 @@
 		"message": "Опис",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Список змін",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Інформація",
 		"description": "The title of the information section."
@@ -22,6 +18,10 @@
 	"presence.sections.information.version": {
 		"message": "Версія",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Вподобання",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
 		"message": "Користувачі",

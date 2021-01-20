@@ -4,7 +4,7 @@
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Użyj teraz PreMiD i pochwal się znajomym, co robisz, być może znajdziesz kogoś o takich samych zainteresowaniach.",
+		"message": "Użyj PreMiD teraz i zacznij się chwalić znajomym, co robisz, być może znajdziesz kogoś o takich samych zainteresowaniach.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -32,7 +32,7 @@
 		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
-		"message": "Jesteśmy tu, aby Ci pomóc!",
+		"message": "Jesteśmy tutaj, aby Ci pomóc!",
 		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
@@ -64,11 +64,11 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "Aktualna wersja tej platformy to {0} (ta wersja jest specyficzna dla Linuxa i nie dotyczy innych platform).",
+		"message": "Aktualna wersja tej platformy to {0} (ta wersja jest specyficzna dla Linux'a i nie dotyczy innych platform).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
-		"message": "Ta wersja jest specyficzna dla Linuxa i nie ma zastosowania do innych systemów. Główna wersja aplikacji to {0}",
+		"message": "Ta wersja jest specyficzna dla Linux'a i nie ma zastosowania do innych systemów. Główna wersja aplikacji to {0}",
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
@@ -76,7 +76,7 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "O nie, wygląda na to, że nie masz dostępu do alfa/beta :(",
+		"message": "O nie, wygląda na to, że nie masz dostępu do alpha/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
@@ -90,10 +90,6 @@
 	"downloads.warning.title": {
 		"message": "Ostrzeżenie",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.edge": {
-		"message": "Nie zapomnij włączyć opcji „zezwalaj na rozszerzenia z innych sklepów” w ustawieniach rozszerzeń.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
 	},
 	"downloads.warning.message.opera": {
 		"message": "Musisz zainstalować **to** rozszerzenie, aby zainstalować PreMiD z Chrome Webstore.",
@@ -116,7 +112,7 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "Gotowe",
+		"message": "Skończone",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
@@ -128,11 +124,43 @@
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
-		"message": "Używamy reklam, aby wspierać nasz zespół i utrzymywać nasze serwery, ponadto w celu zapewnienia najlepszej jakości obsługi!",
+		"message": "Używamy reklam, aby wspierać nasz zespół i utrzymywać nasze serwery oraz aby zaoferować najlepszą jakość obsługi!",
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Wyłącz proszę blokadę reklam. (AdBlock)",
+		"message": "Wyłącz adblocka, bardzo prosimy.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Nie chcę wspierać.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Czy jesteś pewien?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Na pewno?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P-proszę wesprzyj nas :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Potrzebujemy cię :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Okej, okej...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Pokaż pliki beta",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(niepotrzebne jeśli jesteś tutaj pobrać podstawową aplikacje)",
+		"description": "Small text under the show beta title."
 	}
 }

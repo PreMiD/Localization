@@ -199,6 +199,10 @@
 		"message": "Peržiūroma:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Peržiūri puslapį:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Žiūrimas vaizdo įrašas",
 		"description": ""
@@ -222,5 +226,25 @@
 	"general.terms": {
 		"message": "Naudojimosi sąlygos",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Slapukų Naudojimo Politika",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Visų dainų ciklas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Cikle",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Incidentų istorija",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Veikimo laiko istorija",
+		"description": "A page name of statuspages"
 	}
 }

@@ -36,7 +36,7 @@
     "description": "Contributors tab"
   },
   "header.login": {
-    "message": "Zaloguj",
+    "message": "Zaloguj sie",
     "description": "Login Button"
   },
   "header.lia": {
@@ -48,11 +48,11 @@
     "description": "Report a bug button"
   },
   "header.staff": {
-    "message": "Panel nawigacyjny",
+    "message": "Panel",
     "description": "Dashboard button"
   },
   "header.logout": {
-    "message": "Wyloguj",
+    "message": "Wyloguj się",
     "description": "Logout button"
   }
 }

@@ -23,6 +23,14 @@
 		"message": "Skapat över 100 Presences!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.switch.contributed": {
+		"message": "Användare [Presencer/bidrag]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Klicka här för att visa Presencer den här användaren har skapat.",
+		"description": "Tippy content in user profile."
+	},
 	"user.presences.contributed": {
 		"message": "Klicka här för att visa de presences som användaren har bidragit till.",
 		"description": "Tippy content (mode 2) in user profile."

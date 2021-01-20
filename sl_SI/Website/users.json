@@ -1,1 +1,38 @@
-{}
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Razvijalec Dodatkov",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Nadzornik Dodatkov",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Pomemben Razvijalec Dodatkov",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Narejenih {0} dodatkov.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Pameten Razvijalec Dodatkov",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Narejenih več kot 100 Dodatkov!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Uporabniške [Dodatke/Prispevke]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Klikni tukaj, da pokažeš dodatke, ki jih je ta uporabnik naredil.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Klikni tukaj, da pokažeš dodatke, ki jih je ta uporabnik prispeval k.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
+}

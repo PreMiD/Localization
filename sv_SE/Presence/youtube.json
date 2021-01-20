@@ -1,1 +1,122 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Tittar just nu på en annons",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Bläddrar bland videor",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Bläddrar bland spellistor",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Visar community inlägg",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "av kanal:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Läser om kanal:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Söker igenom kanal: {0} efter:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Visar vad som är trendigt",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Bläddrar igenom",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "deras prenumerationer",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "deras bibliotek",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "deras historik",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "deras köp",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Visar deras rapporthistorik",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Laddar upp något...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Visar alla sina spellistor",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Visar sina live-evenemang",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Visar deras live-instrumentpanel",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Visar ljudbiblioteket",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Visar sina videor",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Redigerar video:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Visar analys av video:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Visar kommentarer från video:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Visar översättningar av video:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Visar deras",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanalanalys",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanal kommentarer",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanal översättningar",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "artistens sida",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Visar deras instrumentpanel",
+        "description": ""
+    }
+}

@@ -7,12 +7,68 @@
 		"message": "Ag brabhsáil...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Caibidil",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Eagarthóireacht:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Eachtra",
 		"description": ""
 	},
+	"general.forums": {
+		"message": "Fóraim",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Seánra",
+		"description": ""
+	},
+	"general.listeningMusic": {
+		"message": "Ag éisteacht le ceoil",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Éisteoirí",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Beo",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Earraí Ceannaíochta",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Leathanach",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Sos",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Ag imirt",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "DManna a léamh ó:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Ag léamh faoi:",
 		"description": ""
 	},
 	"general.reading": {
@@ -26,5 +82,13 @@
 	"general.store": {
 		"message": "Stór",
 		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Leathanach féachana:",
+		"description": ""
+	},
+	"general.cookie": {
+		"message": "Beartas Fianán",
+		"description": "A page name"
 	}
 }

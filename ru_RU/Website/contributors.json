@@ -11,73 +11,45 @@
 		"message": "Переводчики",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Создатель",
-		"description": "'Creator' title for contributors and user pages."
+	"contributors.roles.projectLeader": {
+		"message": "Руководитель проекта",
+		"description": "'Project Leader' title for contributors and user pages."
 	},
-	"contributors.roles.projectManager": {
-		"message": "Менеджер Проекта",
-		"description": "'Project Manager' title for contributors and user pages."
+	"contributors.roles.staffCoordinator": {
+		"message": "Координатор персонала",
+		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "Операционный Супервайзер",
-		"description": "'Operations Supervisor' title for contributors and user pages."
+	"contributors.roles.marketingDirector": {
+		"message": "Директор по маркетингу",
+		"description": "'Marketing Director' title for contributors and user pages."
 	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Главный комьюнити-менеджер",
-		"description": "'Global Community Representative' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "Администратор",
+		"description": "'Administrator' title for contributors and user pages."
 	},
-	"contributors.roles.storeManager": {
-		"message": "Директор магазина",
-		"description": "'Store Manager' title for contributors and user pages."
+	"contributors.roles.reviewer": {
+		"message": "Рецензент",
+		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Системный Администратор",
-		"description": "'System Administrator' title for contributors and user pages."
+	"contributors.roles.developer": {
+		"message": "Разработчик",
+		"description": "'Developer' title for contributors and user pages."
 	},
-	"contributors.roles.webDeveloper": {
-		"message": "Веб-разработчик",
-		"description": "'Web Developer' title for contributors and user pages."
-	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Обслуживание Linux",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Программист",
-		"description": "'Engineer' title for contributors and user pages."
-	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Графический дизайнер",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Senior модератор",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Руководитель проверки Присутствия",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "Комьюнити-менеджер",
-		"description": "'Community Representative' title for contributors and user pages."
+	"contributors.roles.designer": {
+		"message": "Разработчик",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Модератор",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "Junior модератор",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "Агент поддержки",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Статусо-утверждающий",
-		"description": "'Presence Verifier' title for contributors and user pages."
+	"contributors.roles.representative": {
+		"message": "Представитель",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Корректор",

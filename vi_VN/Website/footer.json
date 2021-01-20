@@ -3,6 +3,10 @@
 		"message": "Ngôn ngữ",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Đã sẵn sàng sử dụng PreMiD chưa?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Tham gia với hơn {0} người dùng hôm nay!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -14,6 +18,10 @@
 	"footer.partners.heading": {
 		"message": "Đối tác",
 		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Theo dõi chúng tôi",
+		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "Nhà phát triển",
@@ -39,21 +47,17 @@
 		"message": "Đóng góp",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Thiết kế",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Dịch",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Làm việc với chúng tôi!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Trợ giúp",
 		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Xử lý sự cố",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
 		"message": "Nhận trợ giúp",
@@ -94,5 +98,9 @@
 	"footer.copyright.line2": {
 		"message": "Website được duy trì bởi {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Bấm vào đây để xem tất cả những đối tác & nhà tài trợ.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

@@ -1,0 +1,54 @@
+{
+  "header.language": {
+    "message": "Afrikaans",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Ons ondersteun u taal, wil u oorskakel?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Ons webwerf is in u taal vertaal. Dit kan help as u nie so goed Engels praat nie.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nee dankie",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Oorskakel taal",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Bak pannekoek...;Plaas houers...;Ontleding van u IP-adres...;UwU;Oortreding van reëls...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Winkel",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Aflaaie",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Bydraers",
+    "description": "Contributors tab"
+  },
+  "header.lia": {
+    "message": "Ingeteken as",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Rapporteer 'n fout",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Teken uit",
+    "description": "Logout button"
+  }
+}

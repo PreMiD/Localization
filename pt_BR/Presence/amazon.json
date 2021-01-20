@@ -4,27 +4,27 @@
         "description": ""
     },
     "amazon.adprefs": {
-        "message": "Vendo Prefencias de Publicidade ",
+        "message": "Vendo Preferencias de Publicidade",
         "description": ""
     },
     "amazon.balance": {
-        "message": "Vendo Seu Saldo",
+        "message": "Vendo saldo",
         "description": ""
     },
     "amazon.payment": {
-        "message": "Vendo seus métodos de pagamento",
+        "message": "Vendo métodos de pagamento",
         "description": ""
     },
     "amazon.address": {
-        "message": "Vendo seu endereço",
+        "message": "Vendo endereço",
         "description": ""
     },
     "amazon.pets": {
-        "message": "Vendo Seus animais de estimação",
+        "message": "Vendo animais de estimação",
         "description": ""
     },
     "amazon.catergoriesAll": {
-        "message": "vendo todas as categorias",
+        "message": "Vendo todas as categorias",
         "description": ""
     },
     "amazon.prime": {
@@ -32,35 +32,35 @@
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "Vizualizando Suas",
+        "message": "Visualizando suas",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
-        "message": "Historico de Encomendas",
+        "message": "histórico de encomendas",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.orderDetails": {
-        "message": "Detalhes da Encomenda",
+        "message": "detalhes da encomenda",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.cart": {
-        "message": "Carrinho de Compras",
+        "message": "carrinho de compras",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
-        "message": "Lista de Desejos",
+        "message": "lista de desejos",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
-        "message": "Giftcards",
+        "message": "cartões de presente",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
-        "message": "Ver Encomendas",
+        "message": "Visualizando recomendados",
         "description": ""
     },
     "amazon.history": {
-        "message": "Ver Historico",
+        "message": "Visualizando histórico",
         "description": ""
     },
     "amazon.store": {

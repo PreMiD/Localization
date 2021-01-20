@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "Bahasa Melayu",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Kami menyokong bahasa anda, nak tukar?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Laman sesawang kami telah diterjemah ke bahasa anda. Mungkin ia dapat membantu sekiranya anda tidak begitu memahami bahasa Inggeris.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Tidak mengapalah",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Tukar bahasa",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Membakar lempeng...;Meletakkan bekas...;Menghuraikan alamat IP anda...;UwU;Melanggar peraturan...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Kedai",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Muat Turun",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Penyumbang",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Log masuk",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Log masuk sebagai",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Laporkan pepijat",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Papan Pemuka",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Log Keluar",
+    "description": "Logout button"
+  }
+}

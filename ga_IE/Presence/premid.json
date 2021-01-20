@@ -1,22 +1,18 @@
 {
-    "premid.pageContributors": {
-        "message": "Rannpháirtithe",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Íoslódálacha",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Stór",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Vici",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Fabhtcheartú",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Leathanach féachana:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Doiciméadú",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Láithreacht féachana:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Leathanach baile",
+		"description": "A page name"
+	}
 }

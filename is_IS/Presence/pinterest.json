@@ -1,1 +1,14 @@
-{}
+{
+    "pinterest.board": {
+        "message": "Skoðar borð:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Skoðar prjón",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Breytir heimasíðu þeirra",
+        "description": ""
+    }
+}

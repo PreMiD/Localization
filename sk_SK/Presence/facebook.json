@@ -7,8 +7,56 @@
         "message": "Vo videohovore s:",
         "description": ""
     },
+    "facebook.userHidden": {
+        "message": "niekym... (Uživateľ skrytý)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Píše správu",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Číta o užívateľovi:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Prezerá si komunitu uživateľa:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Prezerá si obrázky uživateľa:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Pozerá si príspevky používateľa:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Prezerá obchod používateľa:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Prezerá si priateľov užívateľa:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Prezerá videa užívateľa:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Prezerá si:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Uložené videá",
+        "description": ""
+    },
     "facebook.added": {
         "message": "Nedávno pridané",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Prezerá si dnešné počasie",
         "description": ""
     }
 }

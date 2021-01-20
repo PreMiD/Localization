@@ -1,0 +1,94 @@
+{
+	"v live.browseThrough": {
+		"message": "을 훑어보는 중",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "새 영상 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "차트 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "새로운 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "채널 목록",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "이벤트 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "상점 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "최근 업로드에 대해 {0}명의 팔로워들이 검색하였습니다.",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "{0} 의 채널",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "홈페이지 보는 중",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "일정표를 보는 중",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "\"나의\" 페이지를 보는 중",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "상점 페이지를 보는 중",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "\"{0}\" 의 게시판을 보는 중",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "{0} 의 제품을 보는 중",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.viewTheir": {
+		"message": "그사람의 것을 보는 중",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "프로필 페이지",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "시청한 비디오",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "최근 결제내역",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "코인 잔액",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "연결된 장치",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "팔로우 중인 채널",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "정책 읽는중",
+		"description": ""
+	}
+}

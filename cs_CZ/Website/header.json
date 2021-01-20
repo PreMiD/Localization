@@ -35,10 +35,6 @@
     "message": "Přispěvatelé",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Přihlásit se",
-    "description": "Login Button"
-  },
   "header.lia": {
     "message": "Přihlášen jako",
     "description": "Indicates which user is logged in"

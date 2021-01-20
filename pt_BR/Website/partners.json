@@ -8,11 +8,11 @@
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Estes já pertencem a nós",
+		"message": "Esses aqui já são nossos",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
-		"message": "Que tal irmos para o céu em vez do inferno?",
+		"message": "Que tal ir para o céu em vez do inferno?",
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
@@ -28,7 +28,7 @@
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Um cargo especial e uma grande honra serão dadas a você em nosso servidor de Discord.",
+		"message": "Um cargo especial e uma grande honra serão dados a você em nosso servidor de Discord.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Usa automaticamente a Presença quando alguém visita seu site.",
+		"message": "Sua presença será automaticamente usada quando alguém visitar seu site.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -60,19 +60,19 @@
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
-		"message": "O que você está procurando?",
+		"message": "O que estamos procurando?",
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "Mantemos um olho atento às comunidades em crescimento e coisas interessantes pela Internet. TL; DR, você já deve usar o PreMiD e estar pronto para espalhá-lo para ainda mais malucos na Internet. A aceitação no programa é extremamente qualitativa e varia de um candidato para o outro.",
+		"message": "Mantemos um olho atento às comunidades em crescimento e coisas interessantes pela Internet. Resumindo: você já deve usar o PreMiD e estar pronto para espalhá-lo para ainda mais malucos na Internet. A aceitação no programa é extremamente qualitativa e varia de um candidato para o outro.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
-		"message": "Seu firewall",
+		"message": "Nosso firewall",
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "No momento, estamos aceitando vários tipos de esforços em nosso programa de parceria. Qualquer pessoa deve ter a chance de ser notada. Os transmissores do Twitch devem ter pelo menos 500 seguidores e pelo menos 10 espectadores simultâneos. Você deve transmitir pelo menos 1 vez por semana.",
+		"message": "No momento, estamos aceitando vários tipos de esforços em nosso programa de parceria. Qualquer pessoa deve ter a chance de ser notada. Os streamers do Twitch devem ter pelo menos 500 seguidores e pelo menos 10 espectadores simultâneos. Você deve transmitir pelo menos 1 vez por semana.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
@@ -84,7 +84,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Se você está interessado em um emprego direto no PreMiD, dê uma olhada nos nossos **anúncios de emprego **.",
+		"message": "Se você está interessado em trabalhar diretamente no PreMiD, dê uma olhada nos nossos **anúncios de emprego **.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -92,7 +92,7 @@
 		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
-		"message": "O PreMiD não seria possível, sem essas pessoas incríveis.",
+		"message": "O PreMiD não seria possível sem essas pessoas incríveis.",
 		"description": "Description for sponsors."
 	},
 	"partners.partner.aniFlix": {
@@ -104,7 +104,7 @@
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
-		"message": "O UpBeat é um rádio internacional sem fins lucrativos que se esforça para fornecer rádio de qualidade e entretenimento de notícias sem parar.",
+		"message": "O UpBeat é um rádio internacional sem fins lucrativos que se esforça para fornecer rádio de qualidade sem parar e entretenimento de notícias.",
 		"description": "Description for UpBeatRadio."
 	},
 	"partners.partner.iLoot": {
@@ -112,7 +112,7 @@
 		"description": "Description for iLoot."
 	},
 	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio é a rádio de infoentretenimento mais bem sucedida para jogos de simulação na Alemanha, Áustria e Suíça!",
+		"message": "SimLiveRadio é a rádio de info entretenimento mais bem sucedida para jogos de simulação na Alemanha, Áustria e Suíça!",
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.aniWatch": {
@@ -124,12 +124,8 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga é um Bot Discord tentando oferecer todos os recursos que você pode precisar ao mesmo tempo!",
+		"message": "taiga é um Bot do Discord tentando oferecer todos os recursos que você pode precisar de uma só vez!",
 		"description": "Description for taigabot."
-	},
-	"partners.partner.statusBot": {
-		"message": "Um bot poderoso que permite monitorar sites, jogos e apresenta muitos outros recursos.",
-		"description": "Description for Statusbot."
 	},
 	"partners.partner.bitRock": {
 		"message": "Uma ferramenta de criação de instaladores de plataforma cruzada poderosa e fácil de usar.",
@@ -138,6 +134,14 @@
 	"partners.partner.statusPage": {
 		"message": "Comunique facilmente o status em tempo real aos seus usuários.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Uma deusa que joga com um divertido bot do discord!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM te permite ouvir mais de 15+ rádios de graça - sem parar. Com a melhor e mais recente música apenas para você!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Localização ágil para empresas de tecnologia.",
@@ -155,8 +159,12 @@
 		"message": "Por trás do melhor da web.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit é sua estação de rádio musical online feita para reproduzir os melhores sucessos 24/7 e para fazer você descobrir os futuros sucessos primeiro.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
-		"message": "Candidatar-se a parceiro",
+		"message": "Inscreva-se para parceiro",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
@@ -168,7 +176,7 @@
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
-		"message": "Por favor escolha um",
+		"message": "Por favor selecione um",
 		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
@@ -204,7 +212,7 @@
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
-		"message": "Link da imagem: (apenas 550x300, PNG)",
+		"message": "Link da imagem: (550x300, apenas PNG)",
 		"description": "Do not change the sizes."
 	},
 	"partners.apply.form.imageLink.placeholder": {
@@ -220,7 +228,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Obrigado por se inscrever!",
+		"message": "Obrigado por se aplicar!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

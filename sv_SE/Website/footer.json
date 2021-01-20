@@ -3,6 +3,10 @@
 		"message": "Språk",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Redo att använda PreMiD?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Gå med {0} användare idag!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -14,6 +18,10 @@
 	"footer.partners.heading": {
 		"message": "Partners",
 		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Följ Oss",
+		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "Utvecklare",
@@ -39,13 +47,13 @@
 		"message": "Bidra",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
-	"footer.supportus.design": {
-		"message": "Design",
-		"description": "Design -> redirects to discord.premid.app"
-	},
 	"footer.supportus.translate": {
 		"message": "Översätt",
 		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Jobba med oss!",
+		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "Hjälp",
@@ -94,5 +102,9 @@
 	"footer.copyright.line2": {
 		"message": "Hemsidan sköts av {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Klicka här för att se resten av våra partner & sponsorer.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

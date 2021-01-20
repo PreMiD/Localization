@@ -16,7 +16,7 @@
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Geniální Vývojář Přítomností",
+		"message": "Geniální Vývojář Presence",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
@@ -32,7 +32,7 @@
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Kliknutím zde zobrazíte přítomnosti, k nimž tento uživatel přispěl.",
+		"message": "Kliknutím zde zobrazíte presence, k nimž tento uživatel přispěl.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

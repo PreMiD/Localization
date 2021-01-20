@@ -1,1 +1,110 @@
-{}
+{
+	"jobs.modal.title": {
+		"message": "Vpiši se za {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Korak {0} od 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Naprej",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Pridruži se",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Prekliči",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Prosimo da, izpolnite vsa polja",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD je odprto-kodni projekt, ki pomeni da smo ne-profitna ekipa, vsaka donacija ali patreon denar gre v razvijanje produkta. Če se mislite prijaviti za pozicijo k PreMiD-u, vi priznate da pridete v ekipo prostovoljno, kar pomeni, da ne boste bili plačani za vaše delo.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Pridružite se našemu Discord-u",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Če se mislite prijaviti za službo, se morate pridružiti našemu Discord strežniku. Drugače vas ne moremo kontaktirati če vas izberemo!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Delaj za PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Ste pripravljeni pomagati največjem Rich-Presence programu?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Odprta Delovna Mesta",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Velike Koristi",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Spoznajte nas",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Spoznajte ljudi, ki delajo za PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Pokukaj",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Poglejte v naše Razvijanje in Trženje.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Čast",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Močna Discord dovoljenja in barvita vloga.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Podpiraj PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "S tvojim prispevkom je mogoče vzdrževati ta projekt.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Časovna omejitev",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Vzemi si čas, To je prostovoljna služba.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Zgodnji-Dostop",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Testiraj nove funkcije pred vsem drugim.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Hvala vam za prijavo!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Vi ste se že prijavili!",
+		"description": "Notification when you applied already."
+	}
+}

@@ -1,6 +1,46 @@
 {
+    "twitter.readTweet": {
+        "message": "Tweet olvasása:",
+        "description": ""
+    },
     "twitter.viewDms": {
-        "message": "Privát üzenetek megtekintése",
+        "message": "Üzeneteit nézi",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "Az ő tweetjeit nézi:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "Az ő tweetjeit (válaszokkal) nézi:",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "Az ő médiáját nézi:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "Az ő kedveléseit nézi:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "Listát néz:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "Könyvjelzők",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "Értesítések",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "Felfedezés",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "Néhány beállítás módosítása...",
         "description": ""
     }
 }

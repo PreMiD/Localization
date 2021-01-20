@@ -1,1 +1,50 @@
-{}
+{
+  "extension.2.0.new1": {
+    "message": "Korisnici sada mogu dodati presences-e sami. *Dodaj neke sad!*",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "Pronađi neke *nove presences-e* u njihovim prirodnim staništima",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "Automatska ažuriranja su stvar sada",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "Korisnici sada mogu stvoriti presences-e",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "*Dokumenti* za one kreativne programere",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "Sav novi dizajn web stranice",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "Više mogućnosti za naš Discord-Bot",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "Naš novi API je totalna zvijer",
+    "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "Obnovljeni layout popup-a i kartica i stil",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "Mnogo (ne)poznatih bugova je pobjeglo",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "Sada je sve mnogo brže",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Popravlja staru pogrešku aplikacije, čak i ako imate najnoviju",
+    "description": ""
+  }
+}

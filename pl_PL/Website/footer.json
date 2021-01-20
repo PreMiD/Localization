@@ -4,7 +4,7 @@
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
-		"message": "Gotowy do użycia PreMiD?",
+		"message": "Gotowy do używania PreMiD?",
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
@@ -20,11 +20,11 @@
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
-		"message": "Podążaj za nami",
+		"message": "Śledź nas",
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
-		"message": "Sekcja deweloperska",
+		"message": "Deweloperzy",
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
@@ -46,10 +46,6 @@
 	"footer.supportus.contribute": {
 		"message": "Przyczyń się",
 		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.design": {
-		"message": "Zaprojektuj",
-		"description": "Design -> redirects to discord.premid.app"
 	},
 	"footer.supportus.translate": {
 		"message": "Przetłumacz",
@@ -108,7 +104,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
-		"message": "Kliknij tutaj, aby zobaczyć pozostałych naszych partnerów i sponsorów.",
+		"message": "Kliknij tutaj, aby zobaczyć naszych pozostałych partnerów i sponsorów.",
 		"description": "Button next to all listed partners on the footer."
 	}
 }

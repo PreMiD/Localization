@@ -11,73 +11,45 @@
 		"message": "Traduttori",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.creator": {
-		"message": "Creatore",
-		"description": "'Creator' title for contributors and user pages."
-	},
-	"contributors.roles.projectManager": {
+	"contributors.roles.projectLeader": {
 		"message": "Responsabile di progetto",
-		"description": "'Project Manager' title for contributors and user pages."
+		"description": "'Project Leader' title for contributors and user pages."
 	},
-	"contributors.roles.operationsSupervisor": {
-		"message": "Supervisore Operativo",
-		"description": "'Operations Supervisor' title for contributors and user pages."
+	"contributors.roles.staffCoordinator": {
+		"message": "Coordinatore Staff",
+		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
-	"contributors.roles.globalCommunityRepresentative": {
-		"message": "Rappresentante globale della Comunità",
-		"description": "'Global Community Representative' title for contributors and user pages."
+	"contributors.roles.marketingDirector": {
+		"message": "Direttore Del Marketing",
+		"description": "'Marketing Director' title for contributors and user pages."
 	},
-	"contributors.roles.storeManager": {
-		"message": "Gestore Negozio",
-		"description": "'Store Manager' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "Amministratore",
+		"description": "'Administrator' title for contributors and user pages."
 	},
-	"contributors.roles.systemAdministrator": {
-		"message": "Amministratore di sistema",
-		"description": "'System Administrator' title for contributors and user pages."
+	"contributors.roles.reviewer": {
+		"message": "Revisore",
+		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.webDeveloper": {
-		"message": "Web Developer",
-		"description": "'Web Developer' title for contributors and user pages."
+	"contributors.roles.developer": {
+		"message": "Sviluppatore",
+		"description": "'Developer' title for contributors and user pages."
 	},
-	"contributors.roles.linuxMaintainer": {
-		"message": "Manutentore Linux",
-		"description": "'Linux Maintainer' title for contributors and user pages."
-	},
-	"contributors.roles.engineer": {
-		"message": "Ingegnere",
-		"description": "'Engineer' title for contributors and user pages."
-	},
-	"contributors.roles.graphicDesigner": {
-		"message": "Grafico",
-		"description": "'Graphic Designer' title for contributors and user pages."
-	},
-	"contributors.roles.seniorModerator": {
-		"message": "Moderatore senior",
-		"description": "'Senior Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.verificationHead": {
-		"message": "Responsabile della verifica di Presence",
-		"description": "'Head of Presence Verifying' title for contributors and user pages."
-	},
-	"contributors.roles.communityRepresentative": {
-		"message": "Rappresentante della Comunità",
-		"description": "'Community Representative' title for contributors and user pages."
+	"contributors.roles.designer": {
+		"message": "Designer",
+		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "Moderatore",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.juniorModerator": {
-		"message": "Moderatore Junior",
-		"description": "'Junior Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "Agente di Supporto",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
-	"contributors.roles.presenceVerifier": {
-		"message": "Verificatore Presenze",
-		"description": "'Presence Verifier' title for contributors and user pages."
+	"contributors.roles.representative": {
+		"message": "Rappresentante",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Correttore di bozze",

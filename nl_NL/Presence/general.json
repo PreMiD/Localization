@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "Browsen...",
+		"message": "Bladeren...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "Lezen",
+		"message": "Bezig met lezen",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "Zoeken",
+		"message": "Bezig met zoeken",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -199,13 +199,45 @@
 		"message": "Bekijkt:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Bekijkt pagina:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Kijkt naar een film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Kijkt naar een serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Kijkt naar een show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Kijkt naar een video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Wacht op een video die in première gaat",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Wacht op de video die in première gaat",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Kijkt naar een livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Wacht er op dat een livestream begint",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Wacht er op dat de livestream begint",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Kijkt naar:",
@@ -222,5 +254,25 @@
 	"general.terms": {
 		"message": "Algemene voorwaarden",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookiebeleid",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Speelt alle nummers af in herhaalmodus",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Op herhaalmodus",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Incidentengeschiedenis",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Beschikbaarheidsgeschiedenis",
+		"description": "A page name of statuspages"
 	}
 }

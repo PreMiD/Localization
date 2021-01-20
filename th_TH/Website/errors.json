@@ -20,11 +20,11 @@
 		"description": "'Details' text on error page container"
 	},
 	"error.page.button": {
-		"message": "กลับไปยังหน้าแรก",
+		"message": "กลับไปยังหน้าหลัก",
 		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
-		"message": "ไม่พบผู้ใช้รายนั้น โปรดตรวจสอบให้แน่ใจว่า",
+		"message": "ไม่พบผู้ใช้รายนั้น โปรดตรวจสอบให้แน่ใจว่าคุณพิมถูกไหม",
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
@@ -32,7 +32,7 @@
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "ผู้ใช้ได้สร้าง Presence มากพอและมีบทบาทนักพัฒนาในเซิร์ฟเวอร์ Discord ของเรา",
+		"message": "ผู้ใช้นั้นได้สร้าง Presence มากพอและมีบทบาทนักพัฒนาในเซิร์ฟเวอร์ Discord ของเรา",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {

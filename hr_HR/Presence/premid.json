@@ -1,14 +1,1 @@
-{
-    "premid.pageContributors": {
-        "message": "Prinosnici",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Preuzimanja",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Trgovina",
-        "description": "A page name"
-    }
-}
+{}

@@ -8,39 +8,39 @@
         "description": ""
     },
     "1337x.latestEpisode": {
-        "message": "Przeglądanie najnowszych odcinków",
+        "message": "Przegląda najnowsze odcinki",
         "description": ""
     },
     "1337x.top": {
-        "message": "Przeglądanie 100 najlepszych",
+        "message": "Przegląda 100 najlepszych",
         "description": ""
     },
     "1337x.trending": {
-        "message": "Przeglądanie trendów",
+        "message": "Przegląda aktualne trendy",
         "description": ""
     },
     "1337x.animeTorrents": {
-        "message": "Przeglądanie torrentów Anime",
+        "message": "Przegląda torrenty Anime",
         "description": ""
     },
     "1337x.appTorrents": {
-        "message": "Wyświetlanie torrentów aplikacji",
+        "message": "Przegląda torrenty aplikacji",
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "Wyświetlanie torrentów dokumentalnych",
+        "message": "Przegląda torrenty filmów dokumentalnych",
         "description": ""
     },
     "1337x.gamesTorrents": {
-        "message": "Przeglądanie torrentów gier",
+        "message": "Przegląda torrenty gier",
         "description": ""
     },
     "1337x.moviesTorrents": {
-        "message": "Przeglądanie torrentów filmowych",
+        "message": "Przegląda torrenty filmów",
         "description": ""
     },
     "1337x.musicTorrents": {
-        "message": "Przeglądanie muzyki torrentów",
+        "message": "Przegląda torrentów muzyki",
         "description": ""
     },
     "1337x.otherTorrents": {
@@ -48,31 +48,31 @@
         "description": ""
     },
     "1337x.tvTorrents": {
-        "message": "Przeglądanie torrentów TV",
+        "message": "Przegląda telewizyjne torrenty",
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "Przeglądanie XXX torrentów",
+        "message": "Przegląda torrenty XXX",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
-        "message": "Przesyłanie czegoś...",
+        "message": "Coś przesyła...",
         "description": ""
     },
     "1337x.rules": {
-        "message": "Czytanie regulaminu",
+        "message": "Czyta regulamin",
         "description": ""
     },
     "1337x.writing": {
-        "message": "Pisanie do 1337x",
+        "message": "Pisze do 1337x",
         "description": ""
     },
     "1337x.about": {
-        "message": "Czytanie o 1337x",
+        "message": "Czyta o 1337x",
         "description": ""
     },
     "1337x.viewTorrent": {
-        "message": "Przeglądanie torrenta:",
+        "message": "Przegląda torrenta:",
         "description": ""
     }
 }

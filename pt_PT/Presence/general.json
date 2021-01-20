@@ -24,7 +24,7 @@
 		"description": ""
 	},
 	"general.forums": {
-		"message": "Fórums",
+		"message": "Fóruns",
 		"description": ""
 	},
 	"general.genre": {
@@ -32,7 +32,7 @@
 		"description": ""
 	},
 	"general.language": {
-		"message": "Língua",
+		"message": "Idioma",
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
@@ -175,6 +175,10 @@
 		"message": "A ver perfil de:",
 		"description": ""
 	},
+	"general.viewSeries": {
+		"message": "Reproduzindo:",
+		"description": ""
+	},
 	"general.viewShow": {
 		"message": "A ver série:",
 		"description": ""
@@ -195,12 +199,16 @@
 		"message": "A ver:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "A ver página: ",
+		"description": ""
+	},
 	"general.watchingVid": {
-		"message": "A assistir a um filme",
+		"message": "A assistir a um vídeo",
 		"description": ""
 	},
 	"general.watchingLive": {
-		"message": "A assistir a uma tramissão em direto",
+		"message": "A assistir a uma transmissão em direto",
 		"description": ""
 	},
 	"general.watching": {
@@ -218,5 +226,25 @@
 	"general.terms": {
 		"message": "Termos de Serviço",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Politica de cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "A repetir todas as músicas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "A repetir",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Histórico de incidentes",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Histórico de atividade",
+		"description": "A page name of statuspages"
 	}
 }

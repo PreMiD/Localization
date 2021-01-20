@@ -1,1 +1,30 @@
-{}
+{
+    "9gag.gag": {
+        "message": "正在檢視帖:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "正在檢視熱門:",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "正在檢視最新:",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "正在檢視tag:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "正在檢視9GAG:",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "正在檢視商店頁面:",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "正在檢視收藏:",
+        "description": ""
+    }
+}

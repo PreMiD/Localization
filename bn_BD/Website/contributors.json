@@ -11,9 +11,9 @@
 		"message": "ট্রান্সলেটরস",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.seniorModerator": {
-		"message": "সিনিয়র মডারেটর",
-		"description": "'Senior Moderator' title for contributors and user pages."
+	"contributors.roles.administrator": {
+		"message": "অ্যাডমিন",
+		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
 		"message": "মডারেটর",

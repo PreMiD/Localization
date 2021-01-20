@@ -1,14 +1,226 @@
 {
-	"partners.header.title": {
-		"message": "שותפים",
-		"description": "Heading for page."
+	"partners.header.description": {
+		"message": "הצטרף למשפחה וקבל הטבות לשותפים בלבד כדי להראות כמה \"סוואג\" יש בך.",
+		"description": "Description for page."
 	},
-	"partners.apply.select.other": {
-		"message": "אחר",
-		"description": "Select 'Other' category."
+	"partners.slideshow.description": {
+		"message": "אלה כבר שייכים לנו",
+		"description": "Description for slideshow."
 	},
-	"partners.apply.form.name": {
-		"message": "שם",
-		"description": "Name filed."
+	"partners.why.title": {
+		"message": "מה דעתך ללכת לגן עדן במקום לגיהנום?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "ה Presence החינמי שלך",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "הצוות שלנו יספק לכם Presence של השירות שלכם.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "הפוך למאומת",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "תפקיד מיוחד וכבוד גדול יינתן לכם בשרת הדיסקורד שלנו.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "שילוב מטא-תג",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "משתמש באופן אוטומטי ב Presence שלך כאשר מישהו מבקר באתר שלך.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "תונצח",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "מקום מלוכלך בעמוד השותף שלנו.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "תהיה מפורסם",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "מוצג ברשתות החברתיות שלנו.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.first.title": {
+		"message": "מה אתה מחפש?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "אנו עוקבים אחר קהילות צומחות ודברים מרגשים ברחבי האינטרנט. TL; DR אתה כבר צריך להשתמש ב- PreMiD ולהיות מוכן להפיץ אותו לעוד יותר פריקים באינטרנט. הקבלה לתכנית איכותית ביותר ותשתנה בין מועמד אחד למשנהו.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "חומת האש שלנו",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "אנו מקבלים כעת מאמצים שונים בתוכנית השותפות שלנו. לכל אחד צריך להיות הסיכוי שישימו לב אליו. לשדרני Twitch צריכים להיות לפחות 500 עוקבים ולפחות 10 צופים במקביל. אתה חייב להיות סטרימינג לפחות פעם אחת בשבוע.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "הגישו עכשיו!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "בוא נלך לגן עדן ביחד!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "אם אתה דווקא מתעניין בעבודה ישירה ב- PreMiD, אז הסתכל ב **job advertisements**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "נותני חסות",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD לא יהיה אפשרי, בלי האנשים המדהימים האלה.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "ככה רואים אנימה.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings הוא משחק ה- PvP Arena המהיר של הדור הבא שמשוחק בדפדפן.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat הוא רדיו בינלאומי ללא מטרות רווח השואף לספק בידור רדיו וחדשות ללא הפסקה.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "פלטפורמת ההשתכרות של גיימרים.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio הוא רדיו המידע המצליח ביותר למשחקי סימולציה בגרמניה, אוסטריה ושוויץ!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "קבל את מה שבצדק שלך. שדר אנימה, סרטים, הנטאי, מבצעים ועוד. חינם, ללא מודעות ובגדרה גבוהה!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "התחל ליצור קהילה משלך בעזרת התבניות המדהימות שלנו. בנה ממלכה משלך.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga הוא דיסקורד בוט שמנסה להציע את כל התכונות שתצטרכו בו זמנית!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "כלי יצירה מתקין חוצה פלטפורמות רב עוצמה וקל לשימוש.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "תקשר בקלות למצב שלך בזמן אמת למשתמשים שלך.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "אליל שמשחק בתור הבוט דיסקורד מהנה!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "לוקליזציה זריזה של חברות טכנולוגיה.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "תוכנת ה Wiki החזקה והמתרחבת ביותר.\n",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "ממשק מאוחד וידידותי למפתחים לכל הממצאים שלך.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "מאחורי המיטב באינטרנט.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit זה הרדיו שירים אונליין הנוצר לנגן את הביטים הכי טובים 24/7 ולגלות את הביטים החדשים ראשון.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.apply.title": {
+		"message": "הגש בקשה לשותף",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "נכנסת בשם",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "לא אתה?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "אנא בחר אחד",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "אתר",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Ex: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "קישור",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Ex: https://premid.app\n",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "תיאור: (מקסימום 150 תווים)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "תיאור עבור מוצג",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "קישור תמונה: (550x300, PNG בלבד)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Ex: https://i.imgur.com/clun1ID.png\n",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "סגור",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "להגיש מועמדות",
+		"description": "Modal apply button."
+	},
+	"partners.apply.error1": {
+		"message": "אנא מלא את כל השדות.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "תיאור מקסימום של 150 תווים.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "אנא הוסף קישור (צריך להתחיל ב- https: // ולסיים ב- .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "כבר הגשת בקשה לשותף.",
+		"description": "Error when already applied."
 	}
 }

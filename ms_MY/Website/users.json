@@ -1,0 +1,38 @@
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Pembangun Presence",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Penyemak Presence",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Pembangun Presence Penting",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Telah cipta {0} Presence.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Pembangun Presence Pintar",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Lebih 100 Presence telah dicipta!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "[Presence/Sumbangan] Pengguna",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Klik sini untuk tunjukkan Presence yang pengguna ini ciptakan.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Klik sini untuk tunjukkan Presence yang pengguna ini sumbangkan.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
+}

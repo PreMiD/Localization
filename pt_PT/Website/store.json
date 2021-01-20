@@ -1,38 +1,62 @@
 {
-	"store.cards.creator": {
-		"message": "Autor(a)",
-		"description": "Creator of a presence"
+	"store.message.error": {
+		"message": "A extensão não está conectada.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.popular": {
+		"message": "Essa Presence é muito popular entre os utilizadores.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Presence Parceira",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Esta Presence requer passos adicionais para funcionar, por favor, verifica esta página para mais informações.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Pesquisar Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Adicionar Presence",
+		"description": "Button that will appear on hover after extension is installed."
 	},
 	"store.card.presence.remove": {
-		"message": "Remover presença",
+		"message": "Remover Presence",
 		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Essa Presence é automaticamente ativada ao visitar o site.",
+		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
 		"message": "Filtros",
 		"description": "Searh filters option at the store page"
 	},
+	"store.category.filters.mostUsed": {
+		"message": "Mais usadas",
+		"description": "Most used first checkbox"
+	},
 	"store.category.filters.allowAdult": {
-		"message": "Mostrar conteúdo adulto",
+		"message": "Exibir conteúdos NSFW",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "Apenas Presenças gostadas",
+		"message": "Apenas Presences curtidas",
 		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Mostrar Presences adicionadas",
+		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
 		"message": "Categorias",
 		"description": "Category heading"
 	},
-	"store.category.all": {
-		"message": "Todos",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "Jogos",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Música",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
@@ -40,7 +64,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Vídeos e Transmissões",
+		"message": "Vídeos e transmissões",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
@@ -50,5 +74,13 @@
 	"store.search": {
 		"message": "Pesquisar",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Entrar",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Clique para remover o filtro",
+		"description": "Remove message for active search filters."
 	}
 }

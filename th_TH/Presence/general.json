@@ -24,7 +24,7 @@
 		"description": ""
 	},
 	"general.forums": {
-		"message": "กระดานสนทนา",
+		"message": "กระทู้",
 		"description": ""
 	},
 	"general.genre": {
@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "กำลังอ่าน DM จาก:",
+		"message": "กำลังอ่านข้อความส่วนตัวจาก:",
 		"description": ""
 	},
 	"general.readingAbout": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "กำลังพิมพ์ใน DM ไปหา:",
+		"message": "กำลังพิมพ์ข้อความส่วนตัวไปหา:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -199,6 +199,10 @@
 		"message": "กำลังดู:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "กำลังดูเพจในส่วน:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "กำลังดูวีดีโอ",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "เงื่อนไขการใช้บริการ",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "นโยบายเกี่ยวกับคุกกี้",
 		"description": "A page name"
 	}
 }

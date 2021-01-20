@@ -1,6 +1,6 @@
 {
 	"maintenance.big": {
-		"message": "Och ne!",
+		"message": "Oh nein!",
 		"description": "The big text on maintenance page"
 	},
 	"maintenance.heading": {
@@ -20,7 +20,7 @@
 		"description": "Status Page link on maintenance page"
 	},
 	"maintenance.discordserver": {
-		"message": "Discord Server",
+		"message": "Discord-Server",
 		"description": "Discord Server link on maintenance page"
 	}
 }

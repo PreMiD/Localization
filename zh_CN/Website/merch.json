@@ -1,0 +1,22 @@
+{
+	"merch.title": {
+		"message": "欢迎来到 **PreMiD** 官方周边商城！",
+		"description": "Merch store title"
+	},
+	"merch.cart": {
+		"message": "加入购物车",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "在订单中遇到问题？联系我们的 {0}客服支持{1}，马上为你解决！",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "购物车 ({0}) ",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "这里什么也没有 :(",
+		"description": "Error message when no size selected"
+	}
+}

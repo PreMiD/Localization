@@ -1,4 +1,32 @@
 {
+	"jobs.modal.title": {
+		"message": "Aplică pentru {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Pasul {0} din 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Mai departe",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Alăturaţi-vă",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Anulează",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Vă rugăm să completaţi toate câmpurile",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.guild.required": {
+		"message": "Intrați pe serverul nostru de Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
 	"jobs.header.title": {
 		"message": "Lucrează pentru PreMiD",
 		"description": "First part of the jobs page."

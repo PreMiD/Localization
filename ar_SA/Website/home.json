@@ -1,14 +1,18 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** ، عبارة عن اداة بسيطة قابلة لإعادة التطوير تسمح لك بإظهار ما تشاهده وتسمعه على ديسكورد.",
+		"message": "**PreMiD** ، عبارة عن اداة بسيطة قابلة للتعديل تسمح لك بإظهار ما تفعله على الويب على ديسكورد.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "الميزات",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
-		"message": "تنزيل",
+		"message": "التنزيلات",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
-		"message": "يَلعب",
+		"message": "جاري لعب لعبة",
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
@@ -19,16 +23,52 @@
 		"message": "{0} مضت",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "اعادة التشغيل",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "تصفح",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
-		"message": "!ستحب ميزاتنا",
+		"message": "سوف تحب هذه الميزات!",
 		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "اعثر على الpresence **الخاص بك**",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "لقد أنشأنا ملحقنا بطريقة تسمح لك بإضافة واستخدام الpresences التي انشأها الآخرون وإدارتها في ملحقنا!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "زيارة المتجر",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "واجهة مستخدم بسيطة",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "تعبت من واجهات المستخدم المعقدة؟ لهذا السبب قمنا بإنشاء ونحاول الحفاظ على واجهة المستخدم الخاصة بنا بأكبر قدر ممكن من البساطة والإفادة مع ميزات هامة مثل:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "إعدادات التطبيق والملحق",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "إدارة الpresences",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "الترتيب حسب الفئة",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "دعم سريع",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "شيء معطل، يرسل لك أطنان من الأخطاء أو ببساطة لا يعمل؟ سوف نساعدك على التخلص من هذه المشكلات على سيرفر ديسكورد الخاص بنا، كما أننا أنشأنا نظام الدعم الخاص بنا والذي سيتأكد من حل مشكلتك بأسرع ما يمكن.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "لغة الموقع",
+		"description": "Tippy content of the language selector."
 	}
 }

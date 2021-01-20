@@ -20,7 +20,7 @@
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Nasz zespół zapewni ci status Presence twojej usługi internetowej.",
+		"message": "Nasz zespół zapewni ci status Presence dla twojej usługi internetowej.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -44,7 +44,7 @@
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
-		"message": "Nieprzyjemne miejsce na naszej stronie partnerskiej.",
+		"message": "Poważne miejsce na naszej stronie partnerskiej.",
 		"description": "Description for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
@@ -56,7 +56,7 @@
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
-		"message": "Wymaganie",
+		"message": "Wymagania",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -64,7 +64,7 @@
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "Obserwujemy rosnące społeczności i ekscytujące rzeczy w Internecie. TL;DR powinieneś już korzystać z PreMiD i być gotowym na rozpowszechnienie go większej liczbie maniaków internetowych. Przyjęcie do programu jest wyjątkowo jakościowe i będzie się różnić w zależności od kandydata.",
+		"message": "Obserwujemy rosnące społeczności i ekscytujące rzeczy w Internecie. W skrócie powinieneś już korzystać z PreMiD i być gotowym na rozpowszechnienie go większej liczbie maniaków internetowych. Przyjęcie do programu jest wyjątkowo jakościowe i będzie się różnić w zależności od kandydata.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
@@ -127,10 +127,6 @@
 		"message": "taiga to Bot Discorda, który próbuje zaoferować wszystkie funkcje, których możesz potrzebować na raz!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "Potężny bot, który pozwala monitorować strony internetowe, gry i prezentuje o wiele więcej funkcji.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Potężne i łatwe w użyciu narzędzie do tworzenia instalatora na wielu platformach.",
 		"description": "Description for BitRock."
@@ -138,6 +134,10 @@
 	"partners.partner.statusPage": {
 		"message": "Łatwo pokazuj swoim użytkownikom status w czasie rzeczywistym.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM pozwala ci słuchać ponad 15 strumieni muzyki za darmo - nonstop. Z najlepszą i najnowszą muzyką tylko dla Ciebie!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Zwinna lokalizacja dla firm technologicznych.",
@@ -154,6 +154,10 @@
 	"partners.partner.fastly": {
 		"message": "Najlepsze w sieci.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit to Twoja muzyczna stacja radiowa online stworzona do odtwarzania Twoich najlepszych hitów 24 godziny na dobę, 7 dni w tygodniu. Sprawia, że jako pierwszy odkryjesz przyszłe hity.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Wyślij zgłoszenie, aby zostać partnerem",

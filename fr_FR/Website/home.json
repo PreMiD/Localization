@@ -20,15 +20,19 @@
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.timestamp2": {
-		"message": "{0} s écoulées",
+		"message": "{0} écoulées",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "Lecture",
+		"message": "Repasser",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Live",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Recherche...",
+		"message": "Navigue...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -40,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Nous avons développé notre extension de manière à vous laisser ajouter, utiliser des Presences créées par d'autres utilisateurs et les gérer dans notre extension !",
+		"message": "Nous avons créé notre extension de manière à vous laisser ajouter, utiliser des Presences créées par d'autres utilisateurs et les gérer dans notre extension !",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,7 +56,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Fatigué des interfaces utilisateur compliquées ? C'est pourquoi nous avons créé et essayons de garder notre interface aussi simple et utile que possible avec des fonctionnalités importantes comme :",
+		"message": "Fatigué des interfaces utilisateur compliquées ? C'est pourquoi nous avons créé et essayons de garder notre interface utilisateur aussi simple et utile que possible avec des fonctionnalités importantes comme :",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -64,7 +68,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Trier par catégorie",
+		"message": "Tri par catégories",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {

@@ -1,1 +1,46 @@
-{}
+{
+	"beta.title": {
+		"message": "ویژگی های جدید می خواهید?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD بتا** هم اکنون برای همه دردسترس می باشد!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "چه چیز هایی را در صورت ثبت نام به دست می آورید?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "آخرین ویژگی‌ها",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "دسترسی به چنل های نوشتاری مخفی PreMiD",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "نقش ویژه در سرور دیسکوردمان",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "برایش آماده هستید؟ به {0} افراد تست کننده بتا بپیوندید!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "هم اکنون ثبت نام کنید!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "ایول! شما الان کاربر بتا هستید!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "میمون های ما دارن روی ورود شما به برنامه بتا در سریع ترین زمان ممکن کار می کنند. از ثبت نام شما بسیار سپاس گذاریم!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "به نظر میاد که جای خالی دیگری برای بتا باقی نمانده.",
+		"description": "Shows when the beta slots are full."
+	}
+}

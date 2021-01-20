@@ -1,4 +1,8 @@
 {
+	"home.introduction.button.features": {
+		"message": "Funktsioonid",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Allalaadimised",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -11,14 +15,6 @@
 		"message": "{0} jäänud",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.status.playing": {
-		"message": "Mängib tagasi",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Otsib...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
 	"home.features.heading": {
 		"message": "Sulle meeldivad need võimalused!",
 		"description": "Features section"
@@ -26,6 +22,10 @@
 	"home.features.presencesystem.heading": {
 		"message": "Otsi **oma** lisa",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Külasta poodi",
+		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
 		"message": "Lihtne kasutaja sait",
@@ -39,8 +39,16 @@
 		"message": "Staatuse haldamine",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sorteeri kategooria järgi",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Kiire tugi",
 		"description": "Features section subheading"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Veebilehe keel",
+		"description": "Tippy content of the language selector."
 	}
 }

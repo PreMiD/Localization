@@ -91,10 +91,6 @@
 		"message": "Įspėjimas",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "Nepamirškite aktyvuoti \"Leisti plėtinius iš kitų parduotuvių\" pasirinkimo papildinių nustatymuose.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "Jūs turite įsidiegti **šį** papildinį norint įsidiegti PreMiD iš Chrome internet. parduotuvės.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
@@ -107,17 +103,9 @@
 		"message": "Atgal",
 		"description": "Back button on the ads section"
 	},
-	"downloads.button.cancel": {
-		"message": "Atšaukti",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
 	"downloads.button.okay": {
 		"message": "Gerai",
 		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.done": {
-		"message": "Baigta",
-		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
 		"message": "Prisijungti",
@@ -134,5 +122,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Prašome išjungti savo AdBlock.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Aš nenoriu remti.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Ar esate įsitikinę?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Ar tikrai?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P-prašau paremkite : C",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Man reikia tavęs :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Gerai, gerai...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Rodyti beta atsisiuntimus",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(nebūtina, jei tik norite atsisiųsti įprastą programą)",
+		"description": "Small text under the show beta title."
 	}
 }

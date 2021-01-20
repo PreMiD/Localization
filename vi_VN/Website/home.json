@@ -3,6 +3,10 @@
 		"message": "**PreMiD** là một tiện ích đơn giản, có thể tùy biến cho phép bạn hiển thị những gì bạn đang làm trên web lên trạng thái \"đang chơi\" của Discord.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Tính năng",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Tải về",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -12,20 +16,12 @@
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
-		"message": "{0} còn lại",
+		"message": "Còn lại {0}",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.timestamp2": {
 		"message": "{0} trôi qua",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "Phát lại",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Đang duyệt...",
-		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
 		"message": "Bạn sẽ yêu thích những tính năng này!",
@@ -35,20 +31,44 @@
 		"message": "Tìm **presence** của bạn",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Chúng tôi đã tạo ra một extension để bạn có thể thêm và sử dụng các Presence do người khác tạo ra và quản lý chúng trong extension của chúng tôi!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Ghé thăm cửa hàng",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
-		"message": "Giao diện dễ dùng, đơn giản",
+		"message": "Giao diện đơn giản",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Đã quả mệt mỏi vì giao diện người dùng phức tạp? Đó là lý do tại sao chúng tôi tạo ra và cố gắng giữ cho UI của chúng tôi đơn giản và hữu ích nhất với các tính năng quan trọng như:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Cài đặt ứng dụng và tiện ích mở rộng",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Quản lý trạng thái",
+		"message": "Quản lý presence",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sắp xếp theo danh mục",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
 		"message": "Hỗ trợ nhanh chóng",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Có gì đó trục trặc, gửi cho bạn hàng đống lỗi hoặc đơn giản là không hoạt động? Chúng tôi sẽ giúp bạn loại bỏ những vấn đề đó trên máy chủ Discord của chúng tôi, chúng tôi cũng tạo ra hệ thống để đảm bảo vấn đề của bạn được giải quyết một cách nhanh nhất.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Ngôn ngữ website",
+		"description": "Tippy content of the language selector."
 	}
 }

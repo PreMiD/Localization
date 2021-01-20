@@ -1,0 +1,34 @@
+{
+	"popup.navigation.settings": {
+		"message": "ترجیحات",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "کریڈٹس",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "ترجیحات",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "عام",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.setting.enabled": {
+		"message": "فعال",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "میڈیا کنٹرولز",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "خود چالو",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.category.socials": {
+		"message": "سوشل میڈیا",
+		"description": "Category name shown when you open tags"
+	}
+}

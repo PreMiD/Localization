@@ -1,1 +1,46 @@
-{}
+{
+	"store.search.notFound": {
+		"message": "To razširitev nismo našli...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Se opravičujemo, to stran nismo našli.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Vi iščete za razširitev, ki je bila odstranjena ali ki ne obstaja več.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Prišlo je do notranje napake strežnika.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Podrobnosti",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Nazaj na domačo stran",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Tega uporabnika nismo našli. Poskusite se prepričati",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "da je uporabniški ID, ki ga iščete, pravilni.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "da je uporabnik naredil dovolj Razširitev in ima Razvijalec Razširitev vlogo na našem Discord strežniku.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "če drugi imajo enako težavo v našem Discord strežniku.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Če mislite, da je to bila napaka, prosim kontaktirajte nas na [našem Discord strežniku].",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}

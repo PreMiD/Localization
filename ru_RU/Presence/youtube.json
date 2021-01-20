@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Смотрит трендового",
+        "message": "Смотрит тренды",
         "description": ""
     },
     "youtube.browsingThrough": {
@@ -40,11 +40,11 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "библиотеки",
+        "message": "их библиотека",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "истории",
+        "message": "их история",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {

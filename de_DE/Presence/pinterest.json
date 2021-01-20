@@ -1,14 +1,14 @@
 {
     "pinterest.board": {
-        "message": "Schaut sich seine Boards an:",
+        "message": "Betrachtet Boards:",
         "description": ""
     },
     "pinterest.pin": {
-        "message": "Schaut sich ein Pin an",
+        "message": "Betrachtet Pin",
         "description": ""
     },
     "pinterest.follow": {
-        "message": "Schaut sich seine Follower an",
+        "message": "Betrachtet seine Follower",
         "description": ""
     },
     "pinterest.home": {

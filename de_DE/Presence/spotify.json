@@ -8,7 +8,7 @@
 		"description": ""
 	},
 	"spotify.charts": {
-		"message": "Schaut sich die Charts an",
+		"message": "Betrachtet Charts",
 		"description": ""
 	},
 	"spotify.genres": {
@@ -16,15 +16,15 @@
 		"description": ""
 	},
 	"spotify.latest": {
-		"message": "Schaut sich die letzten Veröffentlichungen an",
+		"message": "Betrachtet die letzten Veröffentlichungen",
 		"description": ""
 	},
 	"spotify.discover": {
-		"message": "Neue Songs entdecken",
+		"message": "Entdeckt neue Songs",
 		"description": ""
 	},
 	"spotify.browse": {
-		"message": "Durchsuchen",
+		"message": "Durchstöbert",
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
@@ -40,7 +40,7 @@
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.songsLike": {
-		"message": "lieder die ihm gefallen",
+		"message": "Lieder die ihm gefallen",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.madeForYou": {
@@ -48,7 +48,7 @@
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
 	},
 	"spotify.playlists": {
-		"message": "dessen Playlisten",
+		"message": "seine Playlisten",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {

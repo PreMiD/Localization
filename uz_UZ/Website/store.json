@@ -1,18 +1,6 @@
 {
-	"store.cards.creator": {
-		"message": "Muallif",
-		"description": "Creator of a presence"
-	},
-	"store.category.all": {
-		"message": "Hammasi",
-		"description": "Category at the top"
-	},
 	"store.category.games": {
 		"message": "O'yinlar",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Musiqa",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

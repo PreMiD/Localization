@@ -1,8 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Ó níl!",
-		"description": "The big text on maintenance page"
-	},
 	"maintenance.message": {
 		"message": "Go dtí go socraíonn ár bhforbróirí speisialta é seo, is féidir leat breathnú anseo!",
 		"description": "Message on maintenance page"

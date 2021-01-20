@@ -199,13 +199,45 @@
 		"message": "Guardando:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Visualizzando la pagina:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Guardando un film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Guardando una serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Guardando uno show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Guardando un video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "In attesa che un video sia in anteprima",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "In attesa che il video sia in anteprima",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Guardando una diretta streaming",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "In attesa che inizi una live",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "In attesa che inizi la live",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Guardando:",
@@ -222,5 +254,25 @@
 	"general.terms": {
 		"message": "Termini del servizio",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Informativa sui Cookie",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Ripetendo tutte le canzoni",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "In loop",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Cronologia degli incidenti",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Inizio del servizio",
+		"description": "A page name of statuspages"
 	}
 }

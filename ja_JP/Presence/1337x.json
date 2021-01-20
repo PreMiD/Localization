@@ -1,18 +1,22 @@
 {
     "1337x.movieLibrary": {
-        "message": "映画ライブラリーを見る",
+        "message": "映画ライブラリーを閲覧中",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "シリーズライブラリを閲覧中",
         "description": ""
     },
     "1337x.latestEpisode": {
-        "message": "最新のエピソードを見る",
+        "message": "最新のエピソードを閲覧中",
         "description": ""
     },
     "1337x.top": {
-        "message": "トップ100を見る",
+        "message": "トップ100を閲覧中",
         "description": ""
     },
     "1337x.trending": {
-        "message": "トレンドを見る",
+        "message": "話題のトレンドを閲覧中",
         "description": ""
     },
     "1337x.animeTorrents": {
@@ -48,7 +52,7 @@
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "不健全トレントを見る",
+        "message": "XXXなトレントを閲覧中",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
@@ -56,15 +60,15 @@
         "description": ""
     },
     "1337x.rules": {
-        "message": "ルールを読む",
+        "message": "ルールを閲覧中",
         "description": ""
     },
     "1337x.writing": {
-        "message": "1337xに書く",
+        "message": "1337xに書き込み中",
         "description": ""
     },
     "1337x.about": {
-        "message": "1337x の読書について",
+        "message": "1337xについて",
         "description": ""
     },
     "1337x.viewTorrent": {

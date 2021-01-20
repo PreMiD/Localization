@@ -3,10 +3,6 @@
 		"message": "Síntiús",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
-	"footer.help.troubleshooting": {
-		"message": "Fabhtcheartú",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
 	"footer.help.information": {
 		"message": "Eolas",
 		"description": "Information section"
@@ -14,5 +10,9 @@
 	"footer.more.wiki": {
 		"message": "Vici",
 		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} le {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	}
 }

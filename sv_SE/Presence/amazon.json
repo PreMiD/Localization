@@ -1,1 +1,74 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Visar prenumerationer",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Visar sina annonspreferenser",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Visar deras saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Visar betalningsmetoder",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Visar deras adresser",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Visar sina husdjur",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Visar alla kategorier",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Visar Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Visar deras",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "orderhistorik",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "order detaljer",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "varukorg",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "önskelista",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "presentkort",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Visar rekommenderat",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Visar sin historik",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Visar butiken:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Visar Prime Video:",
+        "description": ""
+    }
+}

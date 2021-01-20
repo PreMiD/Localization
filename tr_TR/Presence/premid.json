@@ -1,74 +1,94 @@
 {
-    "premid.viewPage": {
-        "message": "Bir sayfayı görüntülüyor:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Dökümanlar",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Bir servise bakıyor:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Ana sayfa",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Katkıda Bulunanlar",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "İndir",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Mağaza",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Çerez Politikası",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Gizlilik Politikası",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Kullanım Koşulları",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Viki",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "Hakkında",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Sistem Gereksinimleri",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Yükleme",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Sorun Giderme",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Başlarken",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    },
-    "premid.pagePresenceDev": {
-        "message": "Servis Geliştirme",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Bir sayfayı görüntülüyor:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dökümanlar",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Bir servise bakıyor:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Ana sayfa",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Katkıda Bulunanlar",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "İndirmeler",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Mağaza",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnerler",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "PreMiD Hakkında",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Sistem Gereksinimleri",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Yükleme",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "{0} için Yükleme",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Hata Giderme",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Başlarken",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "API'nin {0}. Sürümünü Anlama",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Servis Geliştirme",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Servis Kılavuzu",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence Sınıfı",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Slideshow Sınıfı",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Iframe'i Anlama",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Metadata.json dosyasını ayarlama",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScript'i Ayarlama",
+		"description": "A page name"
+	}
 }

@@ -4,7 +4,7 @@
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
-		"message": "PreMiD を試してみない？",
+		"message": "PreMiDを試してみない？",
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
@@ -20,7 +20,7 @@
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
-		"message": "フォローする",
+		"message": "SNS",
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
@@ -46,10 +46,6 @@
 	"footer.supportus.contribute": {
 		"message": "コントリビュート",
 		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.design": {
-		"message": "デザイン",
-		"description": "Design -> redirects to discord.premid.app"
 	},
 	"footer.supportus.translate": {
 		"message": "翻訳",

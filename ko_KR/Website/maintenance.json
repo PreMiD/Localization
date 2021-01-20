@@ -3,6 +3,14 @@
 		"message": "이런!",
 		"description": "The big text on maintenance page"
 	},
+	"maintenance.heading": {
+		"message": "안타깝게도 기술적인 문제점을 발견했습니다. 빠르게 다시 돌아오도록 하겠습니다. 불편을 끼쳐 죄송합니다.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "더 많은 정보를 얻으시려면 다음에 다시 와주세요",
+		"description": "Heading on maintenance page"
+	},
 	"maintenance.message": {
 		"message": "저희의 특별한 개발자들이 고칠때까지, 이곳을 자유롭게 방문하세요!",
 		"description": "Message on maintenance page"

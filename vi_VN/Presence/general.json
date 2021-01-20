@@ -84,7 +84,7 @@
 		"description": ""
 	},
 	"general.readingPost": {
-		"message": "Đang đọc bài đăng:",
+		"message": "Đang đọc bài:",
 		"description": ""
 	},
 	"general.readingThread": {
@@ -116,11 +116,11 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Nhập DMs cho:",
+		"message": "Đang viết DMs cho:",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "Đang nhập trong kênh:",
+		"message": "Đang viết trong kênh:",
 		"description": ""
 	},
 	"general.viewAnime": {
@@ -156,7 +156,7 @@
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "Những người cùng xem:",
+		"message": "Đang xem thành viên:",
 		"description": ""
 	},
 	"general.viewMovie": {
@@ -173,6 +173,10 @@
 	},
 	"general.viewProfile": {
 		"message": "Đang xem hồ sơ của:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Đang xem sê-ri:",
 		"description": ""
 	},
 	"general.viewShow": {
@@ -193,6 +197,10 @@
 	},
 	"general.viewing": {
 		"message": "Đang xem:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Đang xem trang:",
 		"description": ""
 	},
 	"general.watchingVid": {
@@ -217,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Điều khoản sử dụng",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Chính sách về Cookie",
 		"description": "A page name"
 	}
 }

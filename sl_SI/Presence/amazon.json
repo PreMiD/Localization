@@ -1,1 +1,66 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Ogledovanje naročnin",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Ogledovanje njegovih oglaševalskih nastavitvih",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Ogledovanje njegovega stanja",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Ogledovanje način plačila",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Ogledovanje njegovih naslovov",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Ogledovanje njegovih hišnih žival",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Ogledovanje vseh kategorijah",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Ogledovanje Amazon Prime",
+        "description": ""
+    },
+    "amazon.orderHistory": {
+        "message": "zgodovina naročil",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "podrobnosti naročila",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "nakupovalni voziček",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "seznam želja",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "darilne kartice",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Ogledovanje priporočljivo",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ogledovanje njegovih zgodovin",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Ogledovanje Prime Videja:",
+        "description": ""
+    }
+}

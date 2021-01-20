@@ -31,6 +31,10 @@
 		"message": "Taktu þátt á Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "Til að geta sótt um vinnu þarftu að hafa tekið þátt á Discord server-inum okkar. Annars getum við ekki haft samband við þig ef þú verður valinn!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Vinna fyrir PreMiD",
 		"description": "First part of the jobs page."

@@ -1,1 +1,46 @@
-{}
+{
+    "twitter.readTweet": {
+        "message": "خواندن توییت:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "مشاهده DM هایشان",
+        "description": ""
+    },
+    "twitter.viewTweets": {
+        "message": "نگاه کردن توییت های:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "نگاه کردن توییت های (با پاسخ ها):",
+        "description": ""
+    },
+    "twitter.viewMedia": {
+        "message": "نگاه کردن رسانه:",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "مشاهده لایک شده توسط:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "نگاه کردن لیست:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "نشانک ها",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "اعلان ها",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "کاوش",
+        "description": ""
+    },
+    "twitter.settings": {
+        "message": "تغییر بعضی تنظیمات...",
+        "description": ""
+    }
+}

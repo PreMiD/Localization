@@ -1,14 +1,66 @@
 {
+	"store.message.error": {
+		"message": "익스텐션이 연결되지 않았습니다.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.cards.creator": {
 		"message": "제작자",
 		"description": "Creator of a presence"
 	},
+	"store.cards.popular": {
+		"message": "이 Presence는 사용자들에게 가장 인기있는 Presence입니다.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "파트너 Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "이 Presence는 설치 후에도 추가 작업이 필요합니다. 자세한 정보는 해당 페이지에서 확인하세요.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Presence 검색",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Presence 추가",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Presence 제거",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "이 Presence는 해당 사이트를 방문할 때 자동으로 활성화됩니다.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "필터",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "인기순으로 정렬",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "NSFW 보이기",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "좋아요 표시한 Presence만 표시",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "추가된 Presence 보기",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
-		"message": "목록들",
+		"message": "카테고리",
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "모두",
+		"message": "전체",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
@@ -20,7 +72,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "소셜",
+		"message": "SNS",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
@@ -34,5 +86,13 @@
 	"store.search": {
 		"message": "검색",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "입력",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "클릭하여 필터 삭제",
+		"description": "Remove message for active search filters."
 	}
 }

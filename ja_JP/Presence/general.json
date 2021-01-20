@@ -39,12 +39,20 @@
 		"message": "音楽を再生中",
 		"description": ""
 	},
+	"general.listeners": {
+		"message": "リスナー",
+		"description": ""
+	},
 	"general.live": {
 		"message": "ライブ",
 		"description": ""
 	},
 	"general.manga": {
 		"message": "マンガ",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "グッズ",
 		"description": ""
 	},
 	"general.page": {
@@ -56,7 +64,7 @@
 		"description": ""
 	},
 	"general.playing": {
-		"message": "再生中",
+		"message": "プレイ中",
 		"description": ""
 	},
 	"general.readingDM": {
@@ -92,7 +100,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "何かを検索しています...",
+		"message": "何かを検索中...",
 		"description": ""
 	},
 	"general.search": {
@@ -108,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "DMを送っています:",
+		"message": "DMを入力中:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -128,7 +136,7 @@
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "エピソードを閲覧中:",
+		"message": "エピソード:",
 		"description": ""
 	},
 	"general.viewGenre": {
@@ -171,6 +179,10 @@
 		"message": "シリーズを閲覧中:",
 		"description": ""
 	},
+	"general.viewShow": {
+		"message": "閲覧中:",
+		"description": ""
+	},
 	"general.viewAccount": {
 		"message": "アカウントを閲覧中",
 		"description": ""
@@ -187,13 +199,45 @@
 		"message": "閲覧中:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "ページを閲覧中:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "映画を鑑賞中",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "シリーズを視聴中",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "ショーを視聴中",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "動画を視聴中",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "動画の公開を待機中",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "動画の公開を待機中",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "ライブを視聴中",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "ライブの開始を待機中",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "ライブの開始を待機中",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "視聴中:",
@@ -210,5 +254,25 @@
 	"general.terms": {
 		"message": "利用規約",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie のポリシー",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "プレイリストをループ中",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "ループ中",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "問題の履歴",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "アップタイム履歴",
+		"description": "A page name of statuspages"
 	}
 }

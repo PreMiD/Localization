@@ -40,7 +40,7 @@
 		"description": "Thank You page description"
 	},
 	"error.noslots": {
-		"message": "Parece que não temos mais nenhum slot beta disponível.",
+		"message": "Parece que não temos mais nenhuma vaga disponível.",
 		"description": "Shows when the beta slots are full."
 	}
 }

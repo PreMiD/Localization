@@ -1,0 +1,22 @@
+{
+	"merch.swag": {
+		"message": "Najdi svůj **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.cart": {
+		"message": "Přidat do košíku",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Máte problémy s naším obchodem nebo objednávkou? Kontaktujte naši {0}zákaznickou podporu{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} bylo přidáno do vašeho košíku",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Nic nebylo přidáno do vašeho košíku",
+		"description": "Error message when no size selected"
+	}
+}

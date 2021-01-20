@@ -3,8 +3,20 @@
         "message": "트윗 보는중:",
         "description": ""
     },
+    "twitter.viewTweets": {
+        "message": "아래 사용자의 트윗을 보는중:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "아래 사용자의 트윗(답글) 을 보는 중:",
+        "description": ""
+    },
     "twitter.viewMedia": {
         "message": "영상 시청중",
+        "description": ""
+    },
+    "twitter.viewLiked": {
+        "message": "아래 사용자에 의해 좋아요 눌린 것을 보는 중:",
         "description": ""
     },
     "twitter.viewList": {

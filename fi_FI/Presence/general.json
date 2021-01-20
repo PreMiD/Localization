@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "Luetaan",
+		"message": "Lukee",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -135,6 +135,10 @@
 		"message": "Katsoo tuotetta:",
 		"description": ""
 	},
+	"general.viewProfile": {
+		"message": "Katselee profiilia:",
+		"description": ""
+	},
 	"general.viewSeries": {
 		"message": "Katsoo sarjaa:",
 		"description": ""
@@ -149,6 +153,10 @@
 	},
 	"general.viewing": {
 		"message": "Katsoo:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Katsoo sivua:",
 		"description": ""
 	},
 	"general.watchingVid": {
@@ -173,6 +181,10 @@
 	},
 	"general.terms": {
 		"message": "Käyttöehdot",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Evästekäytäntö",
 		"description": "A page name"
 	}
 }

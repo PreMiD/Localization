@@ -1,74 +1,42 @@
 {
-    "premid.viewPage": {
-        "message": "A ver página: ",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Documentos",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "A ver presenças:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Página Inicial ",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Contribuidores(as)",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Downloads",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Loja",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Politica de cookies",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Política de Privacidade",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Termos de Serviço",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "Sobre",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Requisitos do sistema",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Instalação",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Solução de Problemas",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Primeiros passos",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    },
-    "premid.pagePresenceDev": {
-        "message": "Desenvolvimento de Presenças",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "A ver página: ",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Documentação",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "A ver presenças:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Página Inicial ",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Instalação no {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageApiVersion": {
+		"message": "Compreender a API da v{0}",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Diretrizes de presença",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Compreender o iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Configurar o metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Configurar o TypeScript",
+		"description": "A page name"
+	}
 }

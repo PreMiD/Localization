@@ -36,7 +36,7 @@
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "Statusai",
+		"message": "Presences",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Nebuvo pridėta jokių statusų",
+		"message": "Nebuvo pridėta jokių presence",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -52,11 +52,11 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Įkelkite statusą",
+		"message": "Įkelkite presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Statusų parduotuvė",
+		"message": "Presence parduotuvė",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -86,6 +86,22 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "Jūsų PreMiD programa yra pasenusi. Atnaujinkite ją, kad galėtumėte toliau naudotis PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.noInternet": {
+		"message": "Nėra interneto ryšio!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Atrodo, kad neturite interneto ryšio! PreMiD nesugebės rodyti jūsų presence šiuo metu.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Nėra ryšio su Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD nepavyko prisijungti prie jūsų Discord programos! Ar ji įdiegta ir paleista? *Problemų sprendimas*",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "Visi",

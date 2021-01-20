@@ -16,7 +16,7 @@
         "description": ""
     },
     "twitter.viewLiked": {
-        "message": "Đang xem những lượt thích bởi:",
+        "message": "Đang xem lượt thích bởi:",
         "description": ""
     },
     "twitter.viewList": {
@@ -36,7 +36,7 @@
         "description": ""
     },
     "twitter.settings": {
-        "message": "Đang thay đổi một số cài đặt...",
+        "message": "Đang thay đổi cài đặt...",
         "description": ""
     }
 }

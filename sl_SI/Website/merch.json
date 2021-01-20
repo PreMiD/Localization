@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Dobrodošli k uradni **PreMiD** Blagovski trgovini!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Poišči svoj **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Izberite svojo številko / črko**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Dodaj v košarico",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Imate probleme z našo trgovino? Kontaktirajte našo {0}podporo strankam{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} Dodano v vašo košarico",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Ni Izdelka, ki ga hočete dodati v košarico",
+		"description": "Error message when no size selected"
+	}
+}

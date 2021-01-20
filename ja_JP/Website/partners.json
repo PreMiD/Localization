@@ -155,6 +155,10 @@
 		"message": "名前",
 		"description": "Name filed."
 	},
+	"partners.apply.form.name.placeholder": {
+		"message": "例: PreMiD",
+		"description": "Name field's placeholder."
+	},
 	"partners.apply.form.link": {
 		"message": "URL",
 		"description": "Link field."
@@ -182,6 +186,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "申請する",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "応募していただきありがとうございます！",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "すべての項目を入力してください。",

@@ -1,74 +1,18 @@
 {
-    "premid.viewPage": {
-        "message": "Zobrazení stránky:",
-        "description": ""
-    },
-    "premid.docs": {
-        "message": "Dokumentace",
-        "description": "as in documents"
-    },
-    "premid.viewPresence": {
-        "message": "Přítomnost zobrazení:",
-        "description": ""
-    },
-    "premid.pageHome": {
-        "message": "Domovská stránka",
-        "description": "A page name"
-    },
-    "premid.pageContributors": {
-        "message": "Přispěvatelé",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Stáhnout",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "Obchod",
-        "description": "A page name"
-    },
-    "premid.pageCookies": {
-        "message": "Zásady používání souborů cookie",
-        "description": "A page name"
-    },
-    "premid.pagePrivacy": {
-        "message": "Zásady ochrany osobních údajů",
-        "description": "A page name"
-    },
-    "premid.pageTerms": {
-        "message": "Podmínky služby",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageAbout": {
-        "message": "Podrobnosti",
-        "description": "A page name"
-    },
-    "premid.pageSysReq": {
-        "message": "Systémové požadavky",
-        "description": "A page name"
-    },
-    "premid.pageInstall": {
-        "message": "Instalace",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Řešit Problémy",
-        "description": "A page name"
-    },
-    "premid.pageStart": {
-        "message": "Začínáme",
-        "description": "A page name"
-    },
-    "premid.pageApi": {
-        "message": "API",
-        "description": "A page name"
-    },
-    "premid.pagePresenceDev": {
-        "message": "Vývoj přítomnosti",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Zobrazení stránky:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumentace",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Přítomnost zobrazení:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Domovská stránka",
+		"description": "A page name"
+	}
 }

@@ -1,1 +1,58 @@
-{}
+{
+	"report.title": {
+		"message": "Повідомити про помилку",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "Залишилось {count}/3 звітів",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Повідоми про помилки - це баґи у сайті PreMiD і сервері PreMiD у Discord. Баґи у присутностях повідомляйте розробникам цих присутностей. Про помилки повідомляйте лише англійською мовою.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Надайте ясний і короткий опис того, що є помилкою.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Виберіть вашу операційну систему та версію",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Виберіть свій браузер і версію - Ти можеш отримати версію відвідавши about:support в Firefox або chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Надайте посилання на приклад наживо або однозначний набір кроків для відтворення цієї помилки.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Повідомити",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "У Вас занадто багато активних звітів. Дочекайтеся ваших поданих звітів, щоб їх переглянули. Звіти перевіряються щотижня, будьте терплячими.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "У вас занадто багато активних звітів.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Помилку надіслано",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Потрібно більше інформації",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Обліковий запис Discord повинен бути підтверджений",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Активні помилки",
+		"description": "Lists users active bugs"
+	}
+}

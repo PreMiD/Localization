@@ -56,7 +56,7 @@
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
-		"message": "Exigences",
+		"message": "Prérequis",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -127,10 +127,6 @@
 		"message": "taiga est un bot Discord qui essaie d'offrir toutes les fonctionnalités dont vous pourriez avoir besoin en même temps !",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "Un bot puissant qui vous permet de surveiller des sites web, des jeux et présente bien d'autres fonctionnalités.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Un outil puissant et facile à utiliser de l'installateur multi-plateforme.",
 		"description": "Description for BitRock."
@@ -138,6 +134,14 @@
 	"partners.partner.statusPage": {
 		"message": "Communiquez facilement le statut en temps réel à vos utilisateurs.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Une déesse qui joue le rôle d'un drôle de bot Discord !",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM vous permet d'écouter plus de 15 flux de musique gratuitement - sans interruption. Avec la meilleure et la dernière musique rien que pour vous !",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Localisation agile pour les entreprises technologiques.",
@@ -154,6 +158,10 @@
 	"partners.partner.fastly": {
 		"message": "Derrière le meilleur du web.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit est votre station de radio de musique en ligne conçue pour jouer vos meilleurs résultats 24/7 et pour vous faire découvrir vos futurs tubes en premier.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Faites une demande de partenariat",
@@ -176,7 +184,7 @@
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
-		"message": "Autres",
+		"message": "Autre",
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {

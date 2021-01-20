@@ -8,7 +8,7 @@
 		"description": ""
 	},
 	"general.chapter": {
-		"message": "Раздел",
+		"message": "Глава",
 		"description": ""
 	},
 	"general.dj": {
@@ -199,13 +199,45 @@
 		"message": "Смотрит:",
 		"description": ""
 	},
-	"general.watchingVid": {
-		"message": "Смотрит видео",
+	"general.viewPage": {
+		"message": "Смотрит страницу:",
 		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Смотрит фильм",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Смотрит серию",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Cмотрит шоу",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Просмотр видео",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "В ожидании премьеры видео",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "В ожидании премьеры видео",
+		"description": "\"the\" video, as in the video title is specified)"
 	},
 	"general.watchingLive": {
 		"message": "Смотрит трансляцию",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Ожидается, что прямая трансляция начнется",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Ожидается, что прямая трансляция начнется",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Смотрит:",
@@ -222,5 +254,25 @@
 	"general.terms": {
 		"message": "Пользовательское соглашение",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Зацикливание всех песен",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "В петле",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "История инцидентов",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "История рабочего времени",
+		"description": "A page name of statuspages"
 	}
 }

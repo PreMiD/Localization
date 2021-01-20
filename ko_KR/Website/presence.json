@@ -8,7 +8,7 @@
 		"description": "The title of the description section."
 	},
 	"presence.sections.changelog.title": {
-		"message": "변경 사항",
+		"message": "변경된 사항",
 		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {
@@ -22,6 +22,10 @@
 	"presence.sections.information.version": {
 		"message": "버전",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "좋아요",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
 		"message": "사용자들",

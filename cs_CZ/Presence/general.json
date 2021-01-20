@@ -100,7 +100,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "Vyhledávám něco...",
+		"message": "Něco vyhledávám...",
 		"description": ""
 	},
 	"general.search": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Psaní do funkcí:",
+		"message": "Psaní zpráv pro:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -124,31 +124,31 @@
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "Prohlížení anime:",
+		"message": "Sledování anime:",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Zobrazení kategorie:",
+		"message": "Prohlížení kategorie:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "Zobrazení kanálu:",
+		"message": "Prohlížení kanálu:",
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "Zobrazení epizody:",
+		"message": "Sledování epizody:",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "Zobrazení žánru:",
+		"message": "Zobrazování žánru:",
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Zobrazení domovské stránky",
+		"message": "Prohlížení domovské stránky",
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "Zobrazení seznamu:",
+		"message": "Prohlížení seznamu:",
 		"description": ""
 	},
 	"general.viewManga": {
@@ -199,6 +199,10 @@
 		"message": "Prohlížení:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Zobrazení stránky:",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Sledování videa",
 		"description": ""
@@ -221,6 +225,10 @@
 	},
 	"general.terms": {
 		"message": "Podmínky služby",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Zásady používání souborů cookie",
 		"description": "A page name"
 	}
 }

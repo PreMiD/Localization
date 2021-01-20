@@ -20,7 +20,7 @@
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
-		"message": "Sosyal Medya",
+		"message": "Bizi Takip Edin",
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
@@ -46,10 +46,6 @@
 	"footer.supportus.contribute": {
 		"message": "Katkıda Bulun",
 		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.design": {
-		"message": "Tasarım",
-		"description": "Design -> redirects to discord.premid.app"
 	},
 	"footer.supportus.translate": {
 		"message": "Çeviri",

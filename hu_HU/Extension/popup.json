@@ -87,6 +87,38 @@
 		"message": "Az általad használt PreMiD alkalmazás elavult. Frissítsd a további használathoz.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Elavult Bővítmény",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "A bővítmény elavult. A legújabb funkciók eléréséhez töltsd le a frissítést oldalunkról.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Sürgős frissítés",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Fontos frissítést tettünk közzé a bővítmény számára.\nKérlek frissíts a PreMiD további használata érdekében.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Nincs internetkapcsolat!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Úgy tűnik, nincs internetkapcsolat! A PreMiD alkalmazás jelenleg nem tudja megjeleníteni az állapotüzenetet.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Nincs Discord kapcsolat!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "A PreMiD nem tudott csatlakozni a Discord alkalmazáshoz! Telepítve van és fut? *Hibaelhárítás*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Minden",
 		"description": "Category name shown when you open tags"

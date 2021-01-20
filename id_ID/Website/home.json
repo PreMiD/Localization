@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** adalah utilitas simpel yang memungkinkan kamu menampilkan apa yang sedang kamu lakukan di web di status now playin Discord.",
+		"message": "**PreMiD** adalah utilitas simpel yang memungkinkan kamu menampilkan apa yang sedang kamu lakukan di web pada status now playing Discord.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -24,7 +24,11 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "Memutar kembali",
+		"message": "Putar kembali",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Live",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
@@ -40,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Kami membuat ekstensi sedemikian rupa agar kamu dapat menggunakan Presence yang dibuat oleh pengguna lain dan mengaturnya pada ekstensi kami!",
+		"message": "Kami membuat ekstensi sedemikian rupa agar kamu dapat menggunakan Presence yang dibuat oleh pengguna lain dan mengaturnya dengan mudah pada ekstensi kami!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -76,11 +80,11 @@
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "Bergabunglah di Discord kami",
+		"message": "Bergabung Discord kami",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Bahasa halaman",
+		"message": "Bahasa situs web",
 		"description": "Tippy content of the language selector."
 	}
 }

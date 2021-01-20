@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Welkom bij de officiële **PreMiD** Merchandise-winkel!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Vind jouw **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Kies je maat**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Voeg toe aan winkelwagen",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Ondervindt u problemen met onze winkel of met een bestelling? Neem contact op met onze {0}klantenservice{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} toegevoegd aan uw winkelwagen",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Geen item om toe te voegen aan uw winkelwagen",
+		"description": "Error message when no size selected"
+	}
+}

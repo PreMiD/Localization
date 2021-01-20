@@ -124,12 +124,8 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga size hemen gereken her özelliği sunmaya çalışan bir Discord Botudur!",
+		"message": "taiga size gereken her özelliği, anında sunmaya çalışan bir Discord Botudur!",
 		"description": "Description for taigabot."
-	},
-	"partners.partner.statusBot": {
-		"message": "Web sitelerini, oyunları izlemenizi ve daha birçok özellik sunmanızı sağlayan güçlü bir bot.",
-		"description": "Description for Statusbot."
 	},
 	"partners.partner.bitRock": {
 		"message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
@@ -138,6 +134,14 @@
 	"partners.partner.statusPage": {
 		"message": "Servisinizin anlık durumunu kullanıcılara sunabileceğiniz platform.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Eğlenceli bir Discord Botu olarak oynayan bir tanrıça!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM, ücretsiz olarak 15'den fazla müzik yayınını bedava ve kesintisiz dinleyebileceğiniz sizin için en iyi ve en yeni müzikleri yayınlayan bir platformdur!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Projeleriniz için çeviri sistemi oluşturma aracı.",
@@ -154,6 +158,10 @@
 	"partners.partner.fastly": {
 		"message": "İnternetin en iyilerinin arkasında.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit müzik ufkunuzu açan, gün boyu en sevilen şarkıları 7/24 çalan çevrimiçi bir müzik radyosudur.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Partnerliğe başvur",
@@ -220,7 +228,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Onayladığınız için teşekkürler!",
+		"message": "Başvuru yaptığınız için teşekkürler!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

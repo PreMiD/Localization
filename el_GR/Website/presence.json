@@ -1,0 +1,34 @@
+{
+	"presence.page.buttons.sourceCode": {
+		"message": "Κώδικας Πηγής",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Περιγραφή",
+		"description": "The title of the description section."
+	},
+	"presence.sections.information.author": {
+		"message": "Συγγραφέας",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Έκδοση",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Μου αρέσει",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Χρήστες",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Ετικέτες",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "Υποστηριζόμενα URL",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	}
+}

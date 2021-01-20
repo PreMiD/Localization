@@ -1,1 +1,66 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Ogledovanje trgovine:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Središče Za Sporočila",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Brskanje po razprodaji",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Ogledovanje njegovega nedavnega",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "ogledane produkte",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Ogledovanje njegovega AliExpress-a",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress Povratne Informacije",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Ogledovanje njegovih naročil",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Ogledovanje njegovih",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Nadomestila & Spori",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "izbrisana naročila",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress Trgovsko Središče",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Ogledovanje njegovih kuponov",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Ogledovanje njegovega naslova",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress Center Pomoči",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress Prodajni Center",
+        "description": ""
+    }
+}

@@ -1,1 +1,58 @@
-{}
+{
+	"report.title": {
+		"message": "Prijavi Napako",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Poslanih Prijav",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Prijavljanje napak so za napake, ki so v PreMiD spletni strani in v PreMiD Discord Strežniku. Napake ki so namenjene za dodatke, se rabite prijaviti k avtorju. Prijavljanje je samo v Angleščini.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Prijavi kakšno napako imate.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Izberi svoj Operacijski Sistem in Verzijo",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Izberi svoj Brskalnik in Verzijo - Če imate Chrome, vtipkajte chrome://help, Če imate Firefox, vtipkajte about:support za vašo verzijo",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Prosimo vtipkajte link ali korake, kako ste to napako naredili.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Prijavi",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Vi imate preveliko aktivnih prijav. Prosimo počakajte da ekipa pogleda vaše prijave. Prijave so pregledane vsak teden, bodite potrpežljivi.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Vi imate preveliko aktivnih prijav.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Prijava Poslana",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Več informacij zahtevanih",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord račun mora biti preverjen",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktivne Prijave / Napake",
+		"description": "Lists users active bugs"
+	}
+}

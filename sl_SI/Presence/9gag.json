@@ -1,1 +1,30 @@
-{}
+{
+    "9gag.gag": {
+        "message": "Ogledovanje gag-a:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Ogledovanje kar je vroče",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Ogledovanje kar je sveže",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Ogledovanje oznako:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Branje vse o 9GAG-u",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Ogledovanje stran trgovine",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Ogledovanje zbirko:",
+        "description": ""
+    }
+}

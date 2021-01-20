@@ -1,15 +1,11 @@
 {
 	"presence.page.buttons.sourceCode": {
-		"message": "Zdrojový kód",
+		"message": "Zdrojový Kód",
 		"description": "Source Code button on presence pages."
 	},
 	"presence.sections.description.title": {
 		"message": "Popis",
 		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "Seznam změn",
-		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {
 		"message": "Informace",

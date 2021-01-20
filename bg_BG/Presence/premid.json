@@ -1,22 +1,42 @@
 {
-    "premid.pageContributors": {
-        "message": "Сътрудници",
-        "description": "A page name"
-    },
-    "premid.pageDownloads": {
-        "message": "Downloads",
-        "description": "A page name"
-    },
-    "premid.pageStore": {
-        "message": "магазин",
-        "description": "A page name"
-    },
-    "premid.pageWiki": {
-        "message": "Wiki",
-        "description": "A page name"
-    },
-    "premid.pageTroubleshooting": {
-        "message": "Отстраняване на неизправности",
-        "description": "A page name"
-    }
+	"premid.viewPage": {
+		"message": "Гледа страница:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Документи",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Гледа присъствие:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Начална страница",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Инсталация за {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageApiVersion": {
+		"message": "Разбира v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Насоки за присъствията",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Разбира iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Конфигурира metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Конфигурира TypeScript",
+		"description": "A page name"
+	}
 }

@@ -199,13 +199,45 @@
 		"message": "Vendo:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Visualizando página:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Assistindo um filme",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Assistindo uma série",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Assistindo um show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Assistindo um vídeo",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Aguardando a estreia de um vídeo",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Aguardando a estreia do vídeo",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Assistindo uma livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Aguardando o início da transmissão ao vivo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Aguardando o início da transmissão ao vivo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Assistindo:",
@@ -222,5 +254,25 @@
 	"general.terms": {
 		"message": "Termos de Serviço",
 		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Política de cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Repetindo todas as músicas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Em repetição",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Histórico de incidentes",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Histórico de atividades",
+		"description": "A page name of statuspages"
 	}
 }

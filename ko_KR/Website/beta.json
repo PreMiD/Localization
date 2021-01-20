@@ -8,23 +8,39 @@
 		"description": "Section description"
 	},
 	"beta.description.2": {
-		"message": "만약 가입했다면 어떤걸 받게 될까요?",
+		"message": "만약 가입한다면 어떤 것을 받게 될까요?",
 		"description": "Section description"
 	},
 	"beta.features.1": {
 		"message": "최신 기능",
 		"description": "Features list"
 	},
+	"beta.features.2": {
+		"message": "PreMiD 의 최고 기밀의 채팅 채널에 접근하세요.",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "저희의 디스코드 서버의 특별한 역할",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "준비 되셨나요? 다른 {0} 명의 베타 테스터들이 참여중입니다!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
 	"beta.register.button": {
 		"message": "지금 가입하세요!",
 		"description": "Sign up button text"
 	},
 	"thankyou.title": {
-		"message": "멋지네요! 당신은 이제부터 베타 유저입니다!",
+		"message": "좋아요! 당신은 지금부터 베타 유저입니다!",
 		"description": "Thank You page title"
 	},
 	"thankyou.description": {
 		"message": "우리 원숭이들은 최대한 빠르게 우리 베타 프로그램에 참여시키기 위해 노력하는 중입니다. 우리 서비스에 등록해주셔서 감사드립니다!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "음... 지금 이용 가능한 베타테스터 슬롯이 없는 것 같네요. 저희가 더 많은 베타테스터 슬롯을 준비해야겠어요!",
+		"description": "Shows when the beta slots are full."
 	}
 }

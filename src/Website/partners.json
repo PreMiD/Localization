@@ -127,10 +127,6 @@
 		"message": "taiga is a Discord Bot trying to offer all the features you may need at once!",
 		"description": "Description for taigabot."
 	},
-	"partners.partner.statusBot": {
-		"message": "A powerful bot that allows you to monitor websites, games, and presents many more features.",
-		"description": "Description for Statusbot."
-	},
 	"partners.partner.bitRock": {
 		"message": "A powerful and easy to use cross platform installer creation tool.",
 		"description": "Description for BitRock."
@@ -138,6 +134,14 @@
 	"partners.partner.statusPage": {
 		"message": "Easily communicate real-time status to your users.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "A goddess who plays as a fun Discord Bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM let's you listen to 15+ music streams for free - nonstop. With the best and latest music only for you!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Agile localization for tech companies.",
@@ -154,6 +158,10 @@
 	"partners.partner.fastly": {
 		"message": "Behind the best of the web.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit is your online music radio station made to play your best hits 24/7 and to make you discover your future hits first.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Apply for partner",

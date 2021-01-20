@@ -1,1 +1,58 @@
-{}
+{
+	"report.title": {
+		"message": "الإبلاغ عن خطأ",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 أخطاء متبقية",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "الإبلاغ عن الأخطاء هو للأخطاء الموجودة داخل موقع PreMiD وسيرفر ديسكورد PreMiD. يجب الإبلاغ عن الأخطاء الخاصة بالpresence لصانع الpresence. إبلاغ الأخطاء باللغة الإنجليزية فقط.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "قدم وصف واضح و موجز لما هو الخطأ.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "حدد نظام التشغيل الخاص بك والإصدار",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "حدد متصفحك وإصدارك - يمكنك الحصول على الإصدار بواسطة زيارة about:support على Firefox أو chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "قم بتقديم رابط لمثال حي أو مجموعة خطوات لا لبس فيها لإعادة إنتاج هذا الخطأ.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "إبلاغ",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "لديك الكثير من الأخطاء النشطة. انتظر مراجعة الأخطاء التي أرسلتها. يتم التحقق من الأخطاء إسبوعياً، كن صبورًا.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "لديك الكثير من الأخطاء النشطة.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "تم إرسال الخطأ",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "مطلوب المزيد من المعلومات",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "الرجاء تحقيق حسابك في الديسكورد",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "الأخطاء النشطة",
+		"description": "Lists users active bugs"
+	}
+}

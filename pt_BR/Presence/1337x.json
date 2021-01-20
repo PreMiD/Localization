@@ -28,11 +28,11 @@
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "Visualizando Torrents de documentários",
+        "message": "Visualizando Torrents de Documentários",
         "description": ""
     },
     "1337x.gamesTorrents": {
-        "message": "Visualizando Torrents de jogos",
+        "message": "Visualizando Torrents de Jogos",
         "description": ""
     },
     "1337x.moviesTorrents": {
@@ -40,7 +40,7 @@
         "description": ""
     },
     "1337x.musicTorrents": {
-        "message": "Visualizando Torrents de músicas",
+        "message": "Visualizando Torrents de Músicas",
         "description": ""
     },
     "1337x.otherTorrents": {
@@ -52,7 +52,7 @@
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "Visualizando Torrents NSFW",
+        "message": "Visualizando Torrents Adultos",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
@@ -64,7 +64,7 @@
         "description": ""
     },
     "1337x.writing": {
-        "message": "Escrevendo para o 1337x",
+        "message": "Escrevendo para 1337x",
         "description": ""
     },
     "1337x.about": {

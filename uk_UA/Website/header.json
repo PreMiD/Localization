@@ -35,8 +35,20 @@
     "message": "Учасники проекту",
     "description": "Contributors tab"
   },
-  "header.login": {
-    "message": "Увійти",
-    "description": "Login Button"
+  "header.lia": {
+    "message": "Авторизовано як",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Повідомити про помилку",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Панель управління",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Вихід",
+    "description": "Logout button"
   }
 }

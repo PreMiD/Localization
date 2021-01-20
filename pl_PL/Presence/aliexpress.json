@@ -1,6 +1,6 @@
 {
     "aliexpress.store": {
-        "message": "Wyświetlanie sklepu:",
+        "message": "Przegląda sklep:",
         "description": ""
     },
     "aliexpress.message": {
@@ -8,7 +8,7 @@
         "description": "Meaning Direct messages"
     },
     "aliexpress.sale": {
-        "message": "Przeglądanie sprzedaży",
+        "message": "Przegląda promocje",
         "description": ""
     },
     "aliexpress.recentlyViewProducts1": {
@@ -20,11 +20,11 @@
         "description": "Part 2 of 2"
     },
     "aliexpress.theirAli": {
-        "message": "Wyświetlanie swojego AliExpress",
+        "message": "Przegląda swoje AliExpress",
         "description": ""
     },
     "aliexpress.feedback": {
-        "message": "Informacje zwrotne AliExpress",
+        "message": "Opinia AliExpress",
         "description": ""
     },
     "aliexpress.orders": {

@@ -8,7 +8,7 @@
 		"description": "Section description"
 	},
 	"beta.description.2": {
-		"message": "ماذا ستحصل إذا قمت بالتسجيل؟",
+		"message": "على ماذا ستحصل إذا قمت بالتسجيل؟",
 		"description": "Section description"
 	},
 	"beta.features.1": {
@@ -16,11 +16,11 @@
 		"description": "Features list"
 	},
 	"beta.features.2": {
-		"message": "الوصول إلى قنوات PreMiD للنصوص السرية",
+		"message": "الوصول إلى قنوات PreMiD للرسائل السرية",
 		"description": "Features list"
 	},
 	"beta.features.3": {
-		"message": "رول خاص على سيرفرنا الديسكورد",
+		"message": "رول مميز على سيرفرنا في ديسكورد",
 		"description": "Features list"
 	},
 	"beta.register.text": {
@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "يعمل الفريق الخفي على إدخالك في برنامجنا التجريبي بأسرع ما يمكن. شكرا لك على التسجيل!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "يبدو أننا لا نملك أي فتحات بيتا أخرى متاحة.",
+		"description": "Shows when the beta slots are full."
 	}
 }

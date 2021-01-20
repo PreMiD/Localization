@@ -1,38 +1,166 @@
 {
+	"downloads.header.title": {
+		"message": "이제 보여줄 시간입니다.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "PreMiD를 사용하여 친구들에게 무엇을 하고 있는지 보여주세요, 아마 같은 취미를 가진 사람을 찾을 지도 몰라요!",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "시작하기",
 		"description": "Displayed at Downloads page above steps"
 	},
+	"downloads.instructions.step_1": {
+		"message": "PreMiD 다운로드",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "앱 설치하기",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "저희의 익스텐션을 브라우저에 추가하세요",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "익스텐션이 연결되었는지 확인하려면 이 페이지를 새로고침하세요",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "여전히 문제가 발생하나요? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "저희가 도와드리겠습니다!",
+		"description": "Link to our discord"
+	},
 	"downloads.appdownloading.header": {
-		"message": "Application downloads",
+		"message": "앱 다운로드",
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
-		"message": "Extension downloads",
+		"message": "확장 기능 다운로드",
 		"description": "Header above extension download buttons."
 	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "경고:",
+		"description": "First part of the message."
+	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Application doesn't have installer for this operating system. It means that there's no professional support for it.",
+		"message": "{0} 이 운영체제 대한 설치 프로그램이 없습니다. 이것에 대한 전문적인 도움이 없다는 것을 의미합니다.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.mobile.errorMessage": {
+		"message": "PreMiD는 현재 모바일 환경에서는 지원하지 않고 있으니 참고바랍니다!",
+		"description": "Downloads page warning when user is on mobile."
+	},
 	"downloads.mobile.showDownloads": {
-		"message": "다운로드한 파일 보여주기",
+		"message": "다운로드 보이기",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
-		"message": "다운로드한 파일 숨기기",
+		"message": "다운로드 숨기기",
 		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "이 플랫폼의 현재 버전 {0} 입니다. (이 버전은 리눅스 한정입니다, 그리고 다른 플랫폼에는 적용되지 않아요)",
+		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
 		"message": "이 버전은 Linux용으로 제작되었습니다. 이 버전은 {0} 입니다.",
 		"description": "Tippy message of the version number when user is on Linux."
 	},
+	"downloads.error.login": {
+		"message": "다운로드를 보려면 로그인 해주세요.",
+		"description": "Error message if the user is not logged in."
+	},
 	"downloads.error.noaccess.title": {
 		"message": "죄송하지만, 당신은 알파/베타 버전에 엑세스할 권한이 없습니다 :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
+	"downloads.error.noaccess.description": {
+		"message": "**여기서** 베타 프로그램에 참가할 수 있습니다. 빨리 신청하세요! {0} 명 남았어요!",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "얼리 릴리즈",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "경고",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.opera": {
+		"message": "PreMiD를 설치하기 위해 **this** 익스텐션을 크롬 웹 스토어에서 설치해야 합니다.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "건너뛰기",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "뒤로가기",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "취소",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "좋아요!",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "완료",
 		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.button.login": {
+		"message": "로그인",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "감사합니다!",
+		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "우리는 팀을 지원하고, 여러분께 최고의 경험을 제공해드릴 수 있게 서버를 유지하는데 광고를 사용합니다!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "광고 차단기를 비활성화 해주세요.",
+		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "지원하고 싶지 않아요.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "확실하신가요?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "정말요?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "제..제발 도와주세요 :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "여러분이 필요해요 :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "네 네, 알겠어요...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "베타버전 다운로드",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(일반 앱만을 다운로드 하신다면 이곳에 있으실 필요가 없어요)",
+		"description": "Small text under the show beta title."
 	}
 }

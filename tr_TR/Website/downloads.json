@@ -91,10 +91,6 @@
 		"message": "Dikkat",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
-	"downloads.warning.message.edge": {
-		"message": "Eklenti ayarlarından 'diğer mağazalardan eklenti yüklemeye izin ver' seçeneğini aktifleştirmeyi unutmayın.",
-		"description": "Warning modal message when an Edge user clicks on Edge (extension) download."
-	},
 	"downloads.warning.message.opera": {
 		"message": "PreMiD eklentisini Chrome mağazasından indirebilmeniz için öncelikle **buradaki** eklentiyi kurmalısınız.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
@@ -116,7 +112,7 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "Bitti",
+		"message": "Tamam",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
@@ -134,5 +130,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Lütfen reklam engelleyicinizi devre dışı bırakın.",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Desteklemek istemiyorum.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Emin misin?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Gerçekten mi?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "L-lütfen destekle :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Sana ihtiyacım var :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Tamam, tamam...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "Erken erişim indirmelerini göster",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(sadece PreMiD'i indirmek için buradaysanız burayı önemsemeyin)",
+		"description": "Small text under the show beta title."
 	}
 }

@@ -1,0 +1,78 @@
+{
+	"contributors.headings.staff": {
+		"message": "कर्मचारी",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "समर्थकों",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "अनुवादकों",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.projectLeader": {
+		"message": "परियोजना का मुखिया",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "स्टाफ कोऑर्डिनेटर",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "विपणन निदेशक",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "प्रशासक",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "आलोचक",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "डेवलपर",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "डिजाइनर",
+		"description": "'Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "मध्यस्थ",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "समर्थन एजेंट",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "प्रतिनिधि",
+		"description": "'Representative' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "शुद्धिकारक",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "दानी",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "बूस्टर",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "अनुवादक",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "उपयोगकर्ता की आईडी कॉपी करने के लिए क्लिक करें",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "उपयोगकर्ता आईडी की प्रतिलिपि बनाई गई!",
+		"description": "Notification after user ID was copied."
+	}
+}

@@ -27,16 +27,8 @@
         "message": "Prohledává kanál {0} pro:",
         "description": "{0} will be replaced with the channel name"
     },
-    "youtube.trending": {
-        "message": "Zobrazení co je populární",
-        "description": ""
-    },
-    "youtube.browsingThrough": {
-        "message": "Prohlížení",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
     "youtube.subscriptions": {
-        "message": "své odběry",
+        "message": "jejich odběry",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
@@ -52,15 +44,11 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "Prohlíží si svou historii nahlášení",
-        "description": ""
-    },
-    "youtube.upload": {
-        "message": "Nahrávám něco...",
+        "message": "Prohlíží si jejich historii nahlášení",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "Prohlíží si své playlisty",
+        "message": "Prohlíží si jejich playlisty",
         "description": ""
     },
     "youtube.viewLiveEvents": {
@@ -68,15 +56,15 @@
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "Kouká se na svůj live dashboard",
+        "message": "Kouká se na jejich živý panel",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
-        "message": "Dívá se na svou audio knihovnu",
+        "message": "Dívá se na audio knihovnu",
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "Kouká se na svá videa",
+        "message": "Kouká se na jelich videa",
         "description": ""
     },
     "youtube.studio.editVideo": {
@@ -92,12 +80,8 @@
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "Zobrazení překladů videa:",
+        "message": "Kouká na překlady videa:",
         "description": ""
-    },
-    "youtube.studio.viewTheir": {
-        "message": "Zobrazení jejich",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "analytiku kanálu",
@@ -116,7 +100,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Kouká na svůj řídící panel",
+        "message": "Kouká na jejich řídící panel",
         "description": ""
     }
 }

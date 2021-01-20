@@ -3,12 +3,144 @@
 		"message": "파트너",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "우리 가족에 참여하고, 파트너 전용 혜택을 통해 당신이 얼마나 많은 SWAG 을 가지고 있는지 자랑하세요.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "이것들은 이미 우리 소속이다.",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "지옥 대신에 천국에 가는것은 어떨까요?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "너의 무료 Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "검증된 사람이 되세요.",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "특별한 역할과 좋은 명예가 우리의 디스코드 서버에서 수여될 예정입니다.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "유명해지세요.",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "우리의 소셜 미디어에 특별히 포함됩니다.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "요구사항",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "무엇을 찾고 있나요?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "우리는 현재 파트너십 프로그램에 대한 다양한 노력을 받고 있습니다. 누구든지 주목받을 기회가 있어야 하니깐요. 트위치 스트리머는 최소 500명의 팔로워와 최소 10명의 동시 시청자를 확보해야하고, 일주일에 한 번 이상 스트리밍해야 합니다.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "지금 신청하세요!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "같이 천국으로 갑시다!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.sponsors.title": {
+		"message": "스폰서들",
+		"description": "Heading for sponsors."
+	},
+	"partners.apply.title": {
+		"message": "파트너에 지원하기",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "{0} 로 로그인되었습니다.",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "본인이 아니세요?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "한 개의 항목을 선택하십시오",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "웹사이트",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "기타",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "이름",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "예: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "링크",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "예: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "설명 : (최대 150글자로 서술하세요.)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "기능에 대한 설명",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "이미지 링크: (550x300, PNG 파일만)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "예: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "닫기",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "지원하기",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "지원해주셔서 감사합니다!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "모든 입력란에 입력하세요.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "최대 150글자로 설명하세요.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "링크를 적어주세요. (https:// 로 시작하고, .png로 끝나야만 합니다.)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "당신은 이미 파트너에 지원하셨습니다!",
+		"description": "Error when already applied."
 	}
 }

@@ -1,0 +1,10 @@
+{
+  "extension.description.short": {
+    "message": "U Rich Presence vir webdienste!",
+    "description": "Short description in extension store"
+  },
+  "extension.description.full": {
+    "message": "Jy moet ons se amptelike aansoek installeer om dit te maak werk\n   {0} {1}\n\nU kan jou mediasleutels gebruik om die speel van hierdie dienste te beheer. Waneer u kyk/luister na iets met een van ons se ondersteunde dienste, die die blaaieruitbreiding stuur die video/liedjie se metadata na ons se rekenaar kliënt en dan sal PreMiD dit verwerk. PreMiD stuur die inligting na Discord met die korrekte vorm and dan stel u status outomaties.\nOndersteunde dienste\n   {2} Kyk na {3}\n\nHet u hulp nodig?\n   {4} {5}\n\nOns se Discord server\n    {6} Praat met die mense wie het PreMiD gemaak {7}\n\nPreMiD is Open Source!\n    {9} Goeie dinge moet vir die publiek oop wees {10}",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
+  }
+}

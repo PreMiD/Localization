@@ -1,18 +1,14 @@
 {
     "9gag.gag": {
-        "message": "Przeglądanie gag:",
+        "message": "Przegląda gag'a:",
         "description": ""
     },
     "9gag.hot": {
-        "message": "Przeglądanie tego, co jest na topie",
-        "description": ""
-    },
-    "9gag.trending": {
-        "message": "Przeglądanie trendów",
+        "message": "Przegląda to, co jest na topie",
         "description": ""
     },
     "9gag.fresh": {
-        "message": "Przeglądanie świeżych treści",
+        "message": "Przegląda nowe treści",
         "description": ""
     },
     "9gag.tag": {
@@ -20,7 +16,7 @@
         "description": ""
     },
     "9gag.about": {
-        "message": "Czytanie wszystkiego o 9GAG",
+        "message": "Czytanie informacji o 9GAG",
         "description": ""
     },
     "9gag.store": {

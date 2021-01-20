@@ -1,10 +1,10 @@
 {
   "presence.playback.playing": {
-    "message": "Phát lại",
+    "message": "Đang phát",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Tạm ngưng phát lại",
+    "message": "Tạm dừng",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {

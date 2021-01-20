@@ -27,8 +27,12 @@
 		"message": "Wiedergabe",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
-		"message": "Stöbert...",
+		"message": "Durchstöbert...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -40,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Wir haben unsere Erweiterung so programmiert, dass du einfach Präsenzen von anderen Benutzern hinzufügen und in unserer Erweiterung verwalten kannst!",
+		"message": "Wir haben unsere Erweiterung so programmiert, dass du einfach Presences von anderen Benutzern hinzufügen und in unserer Erweiterung verwalten kannst!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -60,7 +64,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Präsenzverwaltung",
+		"message": "Presence-Verwaltung",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
@@ -72,11 +76,11 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Irgendwas ist fehlerhaft, gibt dir tonnenweise Fehlermeldungen oder funktioniert nicht? Wir helfen dir auf unserem Discord Server, diese Probleme zu beseitigen. Wir haben auch unser eigenes Supportsystem erstellt, um sicher zu stellen, dass dein Problem schnellstmöglich behoben wird.",
+		"message": "Irgendwas ist fehlerhaft, gibt dir tonnenweise Fehlermeldungen oder funktioniert nicht? Wir helfen dir auf unserem Discord-Server, diese Probleme zu beseitigen. Wir haben auch unser eigenes Supportsystem erstellt, um sicher zu stellen, dass dein Problem schnellstmöglich behoben wird.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "Tritt unserem Discord Server bei",
+		"message": "Trete unserem Discord-Server bei",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {

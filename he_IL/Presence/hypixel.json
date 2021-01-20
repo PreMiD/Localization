@@ -1,1 +1,6 @@
-{}
+{
+    "hypixel.watchForums": {
+        "message": "צופה בפורומים הנצפים שלהם",
+        "description": "Forum categories they get notifications from"
+    }
+}

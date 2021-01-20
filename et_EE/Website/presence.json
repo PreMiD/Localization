@@ -1,11 +1,11 @@
 {
+	"presence.page.buttons.sourceCode": {
+		"message": "Lähtekood",
+		"description": "Source Code button on presence pages."
+	},
 	"presence.sections.description.title": {
 		"message": "Kirjeldus",
 		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "Uue versiooni lisad",
-		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {
 		"message": "Informatsioon",
@@ -18,6 +18,14 @@
 	"presence.sections.information.version": {
 		"message": "Versioon",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Meeldimised",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Kasutajad",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {
 		"message": "Märkmed",

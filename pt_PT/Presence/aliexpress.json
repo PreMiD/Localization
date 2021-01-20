@@ -1,46 +1,46 @@
 {
     "aliexpress.store": {
-        "message": "A ver loja:",
+        "message": "A ver a loja:",
         "description": ""
     },
     "aliexpress.message": {
-        "message": "Centro de Mensagens",
+        "message": "Centro de mensagens",
         "description": "Meaning Direct messages"
     },
     "aliexpress.sale": {
-        "message": "A Navegar pelo Produto",
+        "message": "A navegar a promoção",
         "description": ""
     },
     "aliexpress.recentlyViewProducts1": {
-        "message": "A ver os Produtos Recentes",
+        "message": "A ver os seus",
         "description": "Part 1 of 2"
     },
     "aliexpress.recentlyViewProducts2": {
-        "message": "Produtos Vistos Recentemente",
+        "message": "produtos recentes",
         "description": "Part 2 of 2"
     },
     "aliexpress.theirAli": {
-        "message": "A ver a sua conta de AliExpress",
+        "message": "A ver o seu AliExpress",
         "description": ""
     },
     "aliexpress.feedback": {
-        "message": "Feedback de AliExpress",
+        "message": "Feedback no AliExpress",
         "description": ""
     },
     "aliexpress.orders": {
-        "message": "A Ver as suas Encomendas",
+        "message": "A ver as suas encomendas",
         "description": ""
     },
     "aliexpress.viewTheir": {
-        "message": "A ver os(as) seus(suas)",
+        "message": "A ver os seus",
         "description": "Part 1 "
     },
     "aliexpress.refunds": {
-        "message": "Reembolsos e Disputas",
+        "message": "Reembolsos e disputas",
         "description": "Part 2 of \"Viewing their\""
     },
     "aliexpress.deletedOrders": {
-        "message": "Encomendas Eliminadas",
+        "message": "encomendas eliminadas",
         "description": "Part 2 of \"Viewing their\""
     },
     "aliexpress.trade": {

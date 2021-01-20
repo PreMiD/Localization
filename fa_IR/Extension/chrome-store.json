@@ -1,1 +1,10 @@
-{}
+{
+  "extension.description.short": {
+    "message": "Rich Presence شما برای سرویس های وب!",
+    "description": "Short description in extension store"
+  },
+  "extension.description.full": {
+    "message": "شما باید برنامه رسمی ما را نصب کنید تا این کار کند!\n   {0}{1}\n\nشما می توانید با دکمه های کنترل رسانه برای پخش این سرویس ها استفاده کنید. وقتی که با یکی از سرویس های پشتیبانی شده ما به چیزی نگاه می کنید/گوش می دهید، مرورگر شما متادیتا metadata آن را به نسخه دسکتاپ برنامه کلاینت PreMiD می فرستد. PreMiD این اطلاعات را با فرم اصلاح شده به صورت خودکار آن را به دیسکورد میفرستد و آن را به عنوان استاتوس شما نشان می دهد.\nسرویس های پشتیبانی شده\n   {2} یک نگاهی بندازید به {3}\n\nکمک نیاز دارید؟\n   {4} {5}\n\nسرور دیسکورد ما\n   {6} با افراد پشت صحنه PreMiD صحبت کنید {7}\n\nما متن باز هستیم!\n   {9} ویژگی های خوبی باید برای همه به صورت عمومی در دسترس باشه{10}",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
+  }
+}

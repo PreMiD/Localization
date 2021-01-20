@@ -1,1 +1,50 @@
-{}
+{
+  "extension.2.0.new1": {
+    "message": "کاربران می توانند Presences خودشان را اضافه کنند. *همین الان اضافه کنید!*",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "تعدادی *Presence های جدید* را در زیستگاه های طبیعی خود بیابید",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "آپدیت خودکار هم الان یک چیزی هست",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "کاربران می توانند Presence بسازند",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "*مستندات* برای این توسعه دهنده های خلاق اونجاست",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "کلی طراحی جدید وبسایت",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "ویژگی های بیشتر برای ربات دیسکورد مان",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "API جدید ما مثل یک درنده آماده به کار است",
+    "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "حالت و استایل تب ها و پاپ-آپ ها بازسازی شد",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "خیلی باگ های (نا)شناخته فرار کردن",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "همه چیز الان سریع تر کار می کنه",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "مشکل برنامه قدیم رفع شد حتی اگر آخرین نسخه اش را داشته باشید",
+    "description": ""
+  }
+}

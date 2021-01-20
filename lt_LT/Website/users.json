@@ -1,10 +1,10 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Statusų kūrėjas",
+		"message": "Presence kūrėjas",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Statusų Verifikacija",
+		"message": "Presence Verifikacija",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
@@ -12,15 +12,15 @@
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
-		"message": "Sukūrė {0} statusų.",
+		"message": "Sukūrė {0} presence.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Genialus Statusų kūrėjas",
+		"message": "Genialus Presence kūrėjas",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Sukūrė daugiau nei 100 statusų!",
+		"message": "Sukūrė daugiau nei 100 presence!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
@@ -28,11 +28,11 @@
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Spauskite čia, kad pamatyti visus Statusus kuriuos šis narys yra sukūręs.",
+		"message": "Spauskite čia, kad pamatyti visus Presence kuriuos šis narys yra sukūręs.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Spustelėkite čia, norėdami pamatyti statusus, prie kurių prisidėjo šis vartotojas.",
+		"message": "Spustelėkite čia, norėdami pamatyti presence, prie kurių prisidėjo šis vartotojas.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }

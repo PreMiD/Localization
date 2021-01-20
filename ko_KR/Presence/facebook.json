@@ -6,5 +6,57 @@
     "facebook.vcall": {
         "message": "영상 통화중 : ",
         "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "누군가... (사용자 숨김)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "메세지를 구성하는 중",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "아래 유저에 대해 읽는 중:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "아래 사용자의 커뮤니티를 보는 중:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "아래 사용자의 사진을 보는 중:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "아래 사용자의 게시물을 보는 중:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "아래 사용자의 거래를 보는 중:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "사용자의 친구를 보는 중",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "아래 사용자의 영상을 보는 중:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "탐색하는 중:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "저장된 영상",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "최근 추가된 항목",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "오늘의 날씨 보는중",
+        "description": ""
     }
 }

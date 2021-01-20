@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "চাঞ্জল্য",
+    "message": "পরিবর্তন লগ",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -12,35 +12,35 @@
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "লোড করার জন্য {0}",
+    "message": "{0} ইন্সটল করার জন্য",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "ব্যবহার করা শুরু করেন {0}",
+    "message": "ব্যবহার করা শুরু করো {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
-    "message": "টাকা দেন",
+    "message": "ডোনেট করো",
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "আমরা এপ্লিকেশন এ কানেক্ট করতে পারি নাই. ইনস্টল করা আছে নাকি?",
+    "message": "**আরে না!** আমরা অ্যাপ্লিকেশানটির সাথে কানেক্ট হতে পারিনি... এটা কি ইন্সটল করা আছে?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "সমস্যা দূর করা",
+    "message": "সমস্যা সমাধান",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "ইনস্টল এপ্লিকেশন",
+    "message": "ইনস্টল অ্যাপ্লিকেশান",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "message": "লেভেল বাড়াচ্ছে!",
+    "message": "লেভেল আপ!",
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0} আপডেট হোয়াইয়ে গেছে!",
+    "message": "{0} আপডেট হয়েছে!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
@@ -48,11 +48,11 @@
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "চেঞ্জড",
+    "message": "পরিবর্তন করা হয়েছে",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "ঠিক করা",
+    "message": "ঠিক করা হয়েছে",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }

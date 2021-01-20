@@ -1,0 +1,26 @@
+{
+	"merch.title": {
+		"message": "**PreMiD**のオフィシャルストアへようこそ！",
+		"description": "Merch store title"
+	},
+	"merch.fit": {
+		"message": "**サイズを選択**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "カートに追加",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "問題が発生しましたか？{0}カスタマーサポート{1}までご連絡ください。",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0}をカートに追加しました",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "カートに追加する商品が選択されていません。",
+		"description": "Error message when no size selected"
+	}
+}

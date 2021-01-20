@@ -8,12 +8,32 @@
 		"description": "Amount of bug reports user can send"
 	},
 	"report.info": {
-		"message": "Melde Fehler innerhalb der PreMiD Website und des PreMiD Discord Server. Fehler für eine Präsenz sollten an den Ersteller der jeweiligen Präsenz gemeldet werden. Bitte melde Bugs nur auf Englisch.",
+		"message": "Melde Fehler innerhalb der PreMiD-Website und des PreMiD Discord-Servers. Fehler für eine Presence sollten an den Ersteller der jeweiligen Presence gemeldet werden. Bitte melde Bugs nur auf Englisch.",
 		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Gebe uns eine klare und präzise Beschreibung des Fehlers.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Wähle dein Betriebssystem und die Version aus",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Wähle deinen Browser und die Version aus - Du kannst die Version herausfinden indem du about:support in Firefox oder chrome://help in Chromium öffnest",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Gebe uns einen Link zu einem Live-Beispiel oder eine Schritt-für-Schritt Erklärung, wie man diesen Fehler reproduzieren kann.",
+		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
 		"message": "Melden",
 		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Du hast zu viele aktive Berichte. Warte, bis deine eingereichten Berichte überprüft werden. Berichte werden wöchentlich überprüft, bitte habe Geduld.",
+		"description": "User has too many active reports"
 	},
 	"report.toomany.alert": {
 		"message": "Du hast zu viele aktive Meldungen.",
@@ -23,8 +43,12 @@
 		"message": "Fehler gemeldet",
 		"description": "Success notification"
 	},
+	"report.error": {
+		"message": "Weitere Informationen benötigt",
+		"description": "User needs to input more notification"
+	},
 	"report.error.unauth": {
-		"message": "Dein Discord Konto muss verifiziert sein",
+		"message": "Dein Discord-Konto muss verifiziert sein",
 		"description": "Users Discord not verified"
 	},
 	"report.activebugs": {
