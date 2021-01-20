@@ -1,4 +1,20 @@
 {
+	"downloads.header.title": {
+		"message": "दिखावा करने का समय",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "अब PreMiD का उपयोग करें और अपने दोस्तों को दिखाएं कि आप क्या कर रहे हैं, हो सकता है कि आप किसी को समान रुचियों वाला पाते हों",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Get Started",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "PreMiD डाउनलोड करें",
+		"description": "Heading for installing the application"
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "धन्यवाद!",
 		"description": "Title of the advertisement section box."
