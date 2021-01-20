@@ -19,6 +19,10 @@
 		"message": "हमारे आवेदन स्थापित करें",
 		"description": "Heading for installing the application"
 	},
+	"downloads.instructions.step_3": {
+		"message": "हमारे एक्सटेंशन को अपने ब्राउज़र में जोड़ें",
+		"description": "Heading for installing the application"
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "धन्यवाद!",
 		"description": "Title of the advertisement section box."
