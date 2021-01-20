@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "চাঞ্জল্য",
+    "message": "পরিবর্তন লগ",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
