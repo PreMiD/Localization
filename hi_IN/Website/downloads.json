@@ -23,6 +23,50 @@
 		"message": "हमारे एक्सटेंशन को अपने ब्राउज़र में जोड़ें",
 		"description": "Heading for installing the application"
 	},
+	"downloads.instructions.step_4": {
+		"message": "इस साइट को पुनः लोड करें और जांचें कि क्या एक्सटेंशन जुड़ा हुआ है",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "अभी भी मुद्दे हैं? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "हमलोग यहां सहायता करने के लिए हैं!",
+		"description": "Link to our discord"
+	},
+	"downloads.appdownloading.header": {
+		"message": "एप्लिकेशन",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "एक्सटेंशन",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "चेतावनी:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} इस ऑपरेटिंग सिस्टम के लिए कोई इंस्टॉलर नहीं है। इसका मतलब है कि इसके लिए कोई पेशेवर समर्थन नहीं है",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "कृपया ध्यान रखें कि PreMiD मोबाइल फोन पर समर्थित नहीं है।",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "डाउनलोड दिखाओ",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "डाउनलोड छिपाएँ",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "इस मंच का वर्तमान संस्करण {0} है (यह संस्करण लिनक्स के लिए विशिष्ट है, और अन्य प्लेटफार्मों पर लागू नहीं होता है)।",
+		"description": "Tippy message of the Linux card."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "धन्यवाद!",
 		"description": "Title of the advertisement section box."
