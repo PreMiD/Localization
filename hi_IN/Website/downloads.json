@@ -67,6 +67,18 @@
 		"message": "इस मंच का वर्तमान संस्करण {0} है (यह संस्करण लिनक्स के लिए विशिष्ट है, और अन्य प्लेटफार्मों पर लागू नहीं होता है)।",
 		"description": "Tippy message of the Linux card."
 	},
+	"downloads.warning.differentVersion2": {
+		"message": "यह संस्करण Linux के लिए विशिष्ट है, और अन्य प्रणालियों पर लागू नहीं होता है। अनुप्रयोग का मुख्य संस्करण {0} है",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "कृपया इन डाउनलोडों को देखने के लिए लॉगिन करें",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "उह, ऐसा लगता है कि आपके पास अल्फा / बीटा एक्सेस नहीं है :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "धन्यवाद!",
 		"description": "Title of the advertisement section box."
