@@ -73,7 +73,7 @@ Deletes all slides from the `Slideshow`.
 
 A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
-## Properties
+## Properti
 
 ### `id`
 
@@ -83,11 +83,11 @@ Returns a `String` of the id of the slide.
 
 Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
 
-## Methods
+## Metode
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Menetapkan slide data berdasarkan data yang tersedia.
 
 You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
 
