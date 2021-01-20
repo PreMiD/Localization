@@ -72,7 +72,7 @@ Mencipta kelas `Slideshow` yang baharu.
 const slideshow = presence.createSlideshow();
 ```
 
-Ianga digalakkan untuk melakukan perkara ini sebaik mencipta kelas `Presence`:
+Ianya digalakkan untuk melakukan perkara ini sebaik mencipta kelas `Presence`:
 
 ```typescript
 const presence = new Presence({
@@ -224,7 +224,7 @@ presence.error("Test") // Ini akan mengelog "test" dalam penggayaan yang betul.
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Mengembalikan 2 cap masa `snowflake` di dalam tatasusunan `Array` yang kemudiannya boleh digunakan untuk nilai `startTimestamp` dan `endTimestamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** Rentetan `String` yang diberi di querySelector ini hanyalah contoh.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Mengembalikan 2 cap masa `snowflake` di dalam tatasusunan `Array` yang kemudiannya boleh digunakan untuk nilai `startTimestamp` dan `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** Rentetan `String` yang diberi di querySelector ini hanyalah contoh.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Menukarkan rentetan dengan format `HH:MM:SS` atau `MM:SS` atau `SS` menjadi nombor bulat (Tidak mengembalikan cap masa emping salji).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -259,11 +259,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** Rentetan `String` yang diberi di querySelector ini hanyalah contoh.
 
 ## Antara Muka `presenceData`
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+Antara muka `PresenceData` digalakkan penggunaannya apabila anda menggunakan kaedah `setActivity()`.
 
 Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
 
@@ -271,8 +271,8 @@ Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
   <thead>
     <tr>
       <th style="text-align:left">Pemboleh ubah</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Keterangan</th>
+      <th style="text-align:left">Jenis</th>
     </tr>
   </thead>
   <tbody>
@@ -302,8 +302,8 @@ Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Menentukan jangka masa penuh.
         <br>Digunakan jika anda ingin paparkan berapa <code>jam:minit:saat</code> yang tinggal.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Anda mesti ubah waktu anda ke bentuk cap masa <code>timestamp</code> atau anda akan
+          dapat kiraan masa menurun yang salah.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -332,11 +332,11 @@ Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
-  largeImageKey: "service_logo",
-  smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  details: "Tajuk saya",
+  state: "Keterangan saya",
+  largeImageKey: "logo_perkhidmatan",
+  smallImageKey: "ikon_perkhidmatan_kecil",
+  smallImageText: "Anda lalukan tetikus atas saya, dan nak buat apa sekarang?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -348,7 +348,7 @@ Peristiwa membolehkan anda kesan dan urus beberapa perubahan atau panggilan yang
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Buat sesuatu apabila data dikemas kini.
 });
 ```
 
