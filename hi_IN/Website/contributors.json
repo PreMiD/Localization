@@ -1,1 +1,22 @@
-{}
+{
+	"contributors.headings.staff": {
+		"message": "कर्मचारी",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "समर्थकों",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "अनुवादकों",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.projectLeader": {
+		"message": "परियोजना का मुखिया",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "स्टाफ कोऑर्डिनेटर",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	}
+}
