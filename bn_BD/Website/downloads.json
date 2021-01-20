@@ -1,4 +1,8 @@
 {
+	"downloads.header.title": {
+		"message": "সময় এখন দেখানোর।",
+		"description": "Title"
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "ধন্যবাদ!",
 		"description": "Title of the advertisement section box."
