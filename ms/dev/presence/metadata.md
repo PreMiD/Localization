@@ -149,7 +149,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left">Nilai <code>#HEX</code>. Kami menggalakkan anda menggunakan warna utama
+      <td style="text-align:left">Nilai perenambelasan <code>#HEX</code>. Kami menggalakkan anda menggunakan warna utama
         dari perkhidmatan yang Presence anda sokong.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -277,7 +277,7 @@ Setiap rentetan `string` ialah sebuah objek `Object` di mana namanya dimulakan d
 
 Nilai stringName ialah 1 perkataan pengenal pasti bagi sesuatu mesej.
 
-Nilai `Object` mempunyai 2 sifat; `message` dan `description`. `message` ialah tulisan yang perlu diterjemahkan. `description` ialah keterangan mesej untuk membantu penterjemah kami fahamkan apa yang mereka sedang terjemahkan.
+Objek `Object` mempunyai 2 sifat; mesej `message` dan keterangan `description`. `message` ialah tulisan yang perlu diterjemahkan. `description` ialah keterangan mesej untuk membantu penterjemah kami fahamkan apa yang mereka sedang terjemahkan.
 
 **Nota:** Jangan tambah rentetan terduplikasi. (Ini termasuk rentetan yang ada dalam fail `general.json` tetapi tidak di fail lain.)
 
