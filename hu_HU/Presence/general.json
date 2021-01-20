@@ -87,6 +87,10 @@
 		"message": "Bejegyzést olvas:",
 		"description": ""
 	},
+	"general.readingThread": {
+		"message": "Szálat olvas:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Olvasás",
 		"description": ""
@@ -159,8 +163,40 @@
 		"message": "Filmet néz:",
 		"description": ""
 	},
+	"general.viewPlaylist": {
+		"message": "Lejátszási listát néz:",
+		"description": ""
+	},
 	"general.viewProduct": {
 		"message": "Terméket néz:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Az ő profilját nézi:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Sorozatot néz:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Műsort néz:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Fiókját nézi",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Szálat néz:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Felhasználó nézése:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Nézi:",
 		"description": ""
 	},
 	"general.viewPage": {
@@ -183,8 +219,28 @@
 		"message": "Videót néz",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Egy videó kezdésére vár",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "A videó kezdésére vár",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Élő adást néz",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Egy élő közvetítés kezdésére vár",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Az élő közvetítés kezdésére vár",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Nézi:",
 		"description": ""
 	},
 	"general.wishlist": {
