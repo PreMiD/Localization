@@ -87,6 +87,22 @@
 		"message": "आपका PreMiD ऐप पुराना है। PreMiD का उपयोग जारी रखने के लिए कृपया इसे अपडेट करें।",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "पुराना एक्सटेंशन",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "आपका एक्सटेंशन पुराना है। कृपया इसे हमारी साइट से डाउनलोड करके नवीनतम सुविधाओं को प्राप्त करने के लिए अपडेट करें।",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "तत्काल अद्यतन",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "हमने एक्सटेंशन के लिए एक जरूरी अपडेट जारी किया। PreMiD का उपयोग जारी रखने के लिए कृपया इसे अपडेट करें।",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "कोई इंटरनेट कनेक्शन नहीं",
 		"description": "Shown when the user has no internet connection"
