@@ -130,5 +130,37 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "कृपया अपने एडब्लॉक को अक्षम करें",
 		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "मैं समर्थन नहीं करना चाहता",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "क्या आपको यकीन है?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "सचमुच",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P- कृपया समर्थन करें :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "मुझे आपकी आवश्यकता है :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "ठीक है ठीक है...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.showbeta.message": {
+		"message": "बीटा डाउनलोड दिखाएं",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(जरूरत नहीं है अगर आप केवल सामान्य आवेदन पत्र डाउनलोड करने के लिए यहां हैं)",
+		"description": "Small text under the show beta title."
 	}
 }
