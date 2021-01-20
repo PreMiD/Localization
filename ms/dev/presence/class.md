@@ -36,21 +36,21 @@ Apabila tetapkan nilai `injectOnComplete` kepada `true`, peristiwa `UpdateData` 
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+Apabila menetapkan nilai `appMode` ke `true` dan Presence menghantar `PresenceData` yang kosong, aplikasi akan hantarkan (imej dan nama) aplikasi di profil pengguna menggantikan kekosongan.
 
 ## Kaedah
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Mengembalikan objek `PresenceData` berkaitan apa yang Presence paparkan.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
 Tetapkan aktiviti profil anda mengikut data yang diberikan.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+Parameter pertama memerlukan antara muka [`PresenceData`](#presencedata-interface) atau kelas [`Slideshow`](/dev/presence/slideshow) untuk mendapatkan segala maklumat yang anda ingin paparkan di profil anda.
 
-Parameter kedua menentukan sama ada Presence sedang memainkan sesuatu atau tidak. Always use `true` if you provide timestamps in `PresenceData`.
+Parameter kedua menentukan sama ada Presence sedang memainkan sesuatu atau tidak. Sentiasa gunakan nilai `true` sekiranya anda sediakan cap masa dalam `PresenceData`.
 
 ### `clearActivity()`
 
