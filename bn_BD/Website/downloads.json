@@ -3,6 +3,58 @@
 		"message": "সময় এখন দেখানোর।",
 		"description": "Title"
 	},
+	"downloads.header.subtitle": {
+		"message": "এখনই ব্যবহার করো PreMiD এবং দেখাও তোমার বন্ধুদের তুমি কী করছ, হয়তো তুমি কাওকে পেয়ে যাবে একই ইন্টারেস্ট এর।",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "শুরু করা যাক",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "ডাউনলোড করো PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "ইন্সটল করো আমাদের অ্যাপ্লিকেশান",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Add করো আমাদের এক্সটেনশন তোমার ব্রাউজারে",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "এই ওয়েবসাইটটি রিলোড করো এবং দেখো এক্সটেনশনটি কানেক্টেড আছে কিনা",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "এখনও সমস্যা আছে? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "আমরা এখানে আছি সাহায্য করতে!",
+		"description": "Link to our discord"
+	},
+	"downloads.appdownloading.header": {
+		"message": "অ্যাপ্লিকেশান",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "এক্সটেনশন",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "সতর্কতা:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} কোনো ইন্সটলার নেই এই অপারেটিং সিস্টেম এর জন্য। তার মানে এটার জন্য কোনো সাপোর্ট নেই।",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "ডাউনলোডস শো করাও",
+		"description": "Little button on the downloads page for mobile users."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "ধন্যবাদ!",
 		"description": "Title of the advertisement section box."
