@@ -41,7 +41,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="stats"></a>
 
-### Stats
+### 통계
 
 <table>
   <tr>

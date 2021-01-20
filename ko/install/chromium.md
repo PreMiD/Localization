@@ -14,7 +14,7 @@ tags:
 2. **Chromium**을 선택하세요.
 3. **Add to Chrome**(크롬에 추가)를 선택하세요.
 
-### 오페라
+### Opera
 1. **[Chrome 확장 프로그램 설치](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**를 추가하세요.
 2. [저희의 확장 프로그램](https://premid.app/downloads)을 추가하세요.
 
