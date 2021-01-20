@@ -27,6 +27,10 @@
 		"message": "플레이중",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "실시간",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "탐색중...",
 		"description": "Discord Rich Presence -> small image text;"
