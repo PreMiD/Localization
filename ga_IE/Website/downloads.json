@@ -1,6 +1,10 @@
 {
-	"downloads.adsbox.thankyou.title": {
-		"message": "Go raibh maith agat!",
-		"description": "Title of the advertisement section box."
-	}
+  "downloads.button.done": {
+    "message": "Críochnaithe",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Go raibh maith agat!",
+    "description": "Title of the advertisement section box."
+  }
 }

@@ -1,166 +1,138 @@
 {
-	"downloads.header.title": {
-		"message": "是時候展示你自己了!",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "現在開始使用PreMiD,向其他人展示你在做什麼,可能你會找到志同道合的朋友。 ",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "馬上開始",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "下載PreMiD",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "安裝我們的應用程式",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "將我們的擴展添加到您的瀏覽器",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "刷新頁面, 來檢查擴展程序是否已連接",
-		"description": "I think you get what this is..."
-	},
-	"downloads.instructions.footer": {
-		"message": "還是有問題嗎?{0}",
-		"description": "{0} will be replaced with footer.link"
-	},
-	"downloads.instructions.footer.link": {
-		"message": "我們在此提供協助!",
-		"description": "Link to our discord"
-	},
-	"downloads.appdownloading.header": {
-		"message": "應用程序",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "擴展程序",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "警告:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} 該操作系統沒有安裝程序. 這就代表著沒有專業的客服能協助您.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "請注意, PreMiD當前不支持手機客戶端。",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "顯示下載",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "隱藏下載",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "該平台的當前版本為 {0} (此版本為Linux定制，不適用於其他平臺)。",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "此版本為Linux定制，不適用於其他系統。主程序的主要版本是{0}",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.login": {
-		"message": "你需要登入才能下載",
-		"description": "Error message if the user is not logged in."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "等等 你好像還沒有加入alpha/beta :(",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.error.noaccess.description": {
-		"message": "您可以在**此處**免費加入我們的Beta版計劃. 趕快! 我們還有{0} 個名額。",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
-	"downloads.latest.header": {
-		"message": "測試版發佈",
-		"description": "Header above alpha/beta download buttons."
-	},
-	"downloads.warning.title": {
-		"message": "警告",
-		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.opera": {
-		"message": "您必須先安裝 **此** 擴展程序，然後才能從chrome線上應用程式商店安裝PreMiD。",
-		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
-	},
-	"downloads.button.skip": {
-		"message": "跳過",
-		"description": "Skip button on the ads section"
-	},
-	"downloads.button.back": {
-		"message": "返回",
-		"description": "Back button on the ads section"
-	},
-	"downloads.button.cancel": {
-		"message": "取消",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.okay": {
-		"message": "確定",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.done": {
-		"message": "完成",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
-	"downloads.button.login": {
-		"message": "登入",
-		"description": "Login button on the downloads page."
-	},
-	"downloads.adsbox.thankyou.title": {
-		"message": "感謝您!",
-		"description": "Title of the advertisement section box."
-	},
-	"downloads.adsbox.thankyou.message": {
-		"message": "我們使用廣告來支持我們的團隊並維護我們的服務器，以為您提供最佳的用戶體驗！",
-		"description": "Message of the advertisement section box."
-	},
-	"downloads.adsbox.disableAdblock": {
-		"message": "請禁用廣告封鎖器",
-		"description": "Message next to pepe."
-	},
-	"downloads.skipanyway.message1": {
-		"message": "我不想支持.",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message2": {
-		"message": "你確定嗎？",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message3": {
-		"message": "真的?",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message4": {
-		"message": "拜...拜託請支持我 QAQ",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message5": {
-		"message": "我需要你 :<",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message6": {
-		"message": "好，好吧...",
-		"description": "Last message of the skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.showbeta.message": {
-		"message": "顯示Beta版的下載",
-		"description": ""
-	},
-	"downloads.showbeta.small": {
-		"message": "(如果只是想在這下載普通版本則不需要)",
-		"description": "Small text under the show beta title."
-	}
+  "downloads.header.title": {
+    "message": "是時候展示你自己了!",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "現在開始使用PreMiD,向其他人展示你在做什麼,可能你會找到志同道合的朋友。 ",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "馬上開始",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "下載PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "安裝我們的應用程式",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "將我們的擴展添加到您的瀏覽器",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "刷新頁面, 來檢查擴展程序是否已連接",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "還是有問題嗎?{0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "我們在此提供協助!",
+    "description": "Link to our discord"
+  },
+  "downloads.appdownloading.header": {
+    "message": "應用程序",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "擴展程序",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "警告:",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} 該操作系統沒有安裝程序. 這就代表著沒有專業的客服能協助您.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "請注意, PreMiD當前不支持手機客戶端。",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "顯示下載",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "隱藏下載",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "該平台的當前版本為 {0} (此版本為Linux定制，不適用於其他平臺)。",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "此版本為Linux定制，不適用於其他系統。主程序的主要版本是{0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "你需要登入才能下載",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "等等 你好像還沒有加入alpha/beta :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "您可以在**此處**免費加入我們的Beta版計劃. 趕快! 我們還有{0} 個名額。",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "測試版發佈",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "警告",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.opera": {
+    "message": "您必須先安裝 **此** 擴展程序，然後才能從chrome線上應用程式商店安裝PreMiD。",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "跳過",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "返回",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.cancel": {
+    "message": "取消",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "確定",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "完成",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "登入",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "感謝您!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "我們使用廣告來支持我們的團隊並維護我們的服務器，以為您提供最佳的用戶體驗！",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.showbeta.message": {
+    "message": "顯示Beta版的下載",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(如果只是想在這下載普通版本則不需要)",
+    "description": "Small text under the show beta title."
+  }
 }

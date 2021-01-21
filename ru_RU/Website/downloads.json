@@ -1,166 +1,142 @@
 {
-	"downloads.header.title": {
-		"message": "Время показа выключено.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "Используйте PreMiD сейчас и покажите своим друзьям, что вы смотрите или слушаете, может быть вы найдете кого-нибудь со схожими интересами.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "Начало работы",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "Скачать PreMiD",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "Установить приложение",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "Добавить расширение в Вашего браузера",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "Перезагрузите сайт и проверьте, подключено ли расширение",
-		"description": "I think you get what this is..."
-	},
-	"downloads.instructions.footer": {
-		"message": "У вас остались проблемы? {0}",
-		"description": "{0} will be replaced with footer.link"
-	},
-	"downloads.instructions.footer.link": {
-		"message": "Мы готовы помочь!",
-		"description": "Link to our discord"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Скачать приложение",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "Установить расширение",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "Предупреждение:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Приложение не имеет установщика для этой операционной системы. Это означает, что для неё не будет квалифицированной поддержки.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "Обратите внимание, PreMiD не поддерживается на мобильных телефонах.",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "Показать загрузки",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "Спрятать загрузки",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "Текущая версия этой платформы {0} (эта версия только Linux, не применяется к другим платформам).",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "Эта версия специфична для Linux и не относится к другим системам. Основная версия приложения {0}",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.login": {
-		"message": "Войдите в систему, чтобы увидеть эти загрузки.",
-		"description": "Error message if the user is not logged in."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "Кажется, у вас нет доступа к альфа/бета версии :(",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.error.noaccess.description": {
-		"message": "Вы можете присоединиться к бета-программе **здесь** бесплатно. Поспешите! У нас есть еще {0} слотов",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
-	"downloads.latest.header": {
-		"message": "Ранние выпуски",
-		"description": "Header above alpha/beta download buttons."
-	},
-	"downloads.warning.title": {
-		"message": "Внимание",
-		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.opera": {
-		"message": "Вы должны установить **это** расширение для установки PreMiD с веб-магазина Chrome.",
-		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
-	},
-	"downloads.button.skip": {
-		"message": "Пропустить",
-		"description": "Skip button on the ads section"
-	},
-	"downloads.button.back": {
-		"message": "Назад",
-		"description": "Back button on the ads section"
-	},
-	"downloads.button.cancel": {
-		"message": "Отменить",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.okay": {
-		"message": "Хорошо",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.done": {
-		"message": "Готово",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
-	"downloads.button.login": {
-		"message": "Войти",
-		"description": "Login button on the downloads page."
-	},
-	"downloads.adsbox.thankyou.title": {
-		"message": "Благодарим вас!",
-		"description": "Title of the advertisement section box."
-	},
-	"downloads.adsbox.thankyou.message": {
-		"message": "Мы используем рекламу для поддержки нашей команды и поддержки наших серверов, чтобы предложить вам наилучший пользовательский опыт!",
-		"description": "Message of the advertisement section box."
-	},
-	"downloads.adsbox.disableAdblock": {
-		"message": "Пожалуйста, отключите блокировщик рекламы.",
-		"description": "Message next to pepe."
-	},
-	"downloads.skipanyway.message1": {
-		"message": "Я не хочу поддержать.",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message2": {
-		"message": "Вы уверены?",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message3": {
-		"message": "Точно?",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message4": {
-		"message": "П-пожалуйста, поддержите :(",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message5": {
-		"message": "Я нуждаюсь в вас :<",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message6": {
-		"message": "Хорошо, хорошо...",
-		"description": "Last message of the skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.showbeta.message": {
-		"message": "Показать бета-загрузки",
-		"description": ""
-	},
-	"downloads.showbeta.small": {
-		"message": "(не нужно, если вы здесь только для загрузки обычного приложения)",
-		"description": "Small text under the show beta title."
-	}
+  "downloads.header.title": {
+    "message": "Время показа выключено.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "Используйте PreMiD сейчас и покажите своим друзьям, что вы смотрите или слушаете, может быть вы найдете кого-нибудь со схожими интересами.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "Начало работы",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Скачать PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Установить приложение",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Добавить расширение в Вашего браузера",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Перезагрузите сайт и проверьте, подключено ли расширение",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "У вас остались проблемы? {0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "Мы готовы помочь!",
+    "description": "Link to our discord"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Скачать приложение",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Установить расширение",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Предупреждение:",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Приложение не имеет установщика для этой операционной системы. Это означает, что для неё не будет квалифицированной поддержки.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Обратите внимание, PreMiD не поддерживается на мобильных телефонах.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Показать загрузки",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Спрятать загрузки",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "Текущая версия этой платформы {0} (эта версия только Linux, не применяется к другим платформам).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "Эта версия специфична для Linux и не относится к другим системам. Основная версия приложения {0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "Войдите в систему, чтобы увидеть эти загрузки.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "Кажется, у вас нет доступа к альфа/бета версии :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "Вы можете присоединиться к бета-программе **здесь** бесплатно. Поспешите! У нас есть еще {0} слотов",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Ранние выпуски",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Внимание",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Вы должны установить **это** расширение для установки PreMiD с веб-магазина Chrome.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Пропустить",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Назад",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.cancel": {
+    "message": "Отменить",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "Хорошо",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "Готово",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "Войти",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Благодарим вас!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Мы используем рекламу для поддержки нашей команды и поддержки наших серверов, чтобы предложить вам наилучший пользовательский опыт!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Пожалуйста, отключите блокировщик рекламы",
+    "description": "Message next to pepe."
+  },
+  "downloads.showbeta.message": {
+    "message": "Показать бета-загрузки",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(не нужно, если вы здесь только для загрузки обычного приложения)",
+    "description": "Small text under the show beta title."
+  }
 }

@@ -1,166 +1,138 @@
 {
-	"downloads.header.title": {
-		"message": "自己紹介のお時間です。",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "PreMiDを使って、見ているものや聞いているものを他の人に見せびらかしましょう。同じ趣味を持った人を見つけられるかも…？",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "はじめよう",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "PreMiDをダウンロード",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "アプリケーションをインストール",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "ブラウザに拡張機能を追加する",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "このページを再読み込み(F5)して、拡張機能が接続されているか確認する。",
-		"description": "I think you get what this is..."
-	},
-	"downloads.instructions.footer": {
-		"message": "まだ問題が解決しませんか？{0}",
-		"description": "{0} will be replaced with footer.link"
-	},
-	"downloads.instructions.footer.link": {
-		"message": "お手伝いいたします",
-		"description": "Link to our discord"
-	},
-	"downloads.appdownloading.header": {
-		"message": "アプリのダウンロード",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "拡張機能のダウンロード",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "注意",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0}アプリにはこのOS用のインストーラーがありません。 つまりこの環境に対しての専門的なサポートはありません。",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "PreMiDはスマートフォンには対応していません。",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "表示する",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "非表示にする",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "このプラットフォームの現在のバージョンは {0} です(このバージョンは Linux に固有で、他のプラットフォームには適用されません)。",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "このバージョンは Linux に固有で、他のシステムには適用されません。アプリケーションのメインバージョンは {0} です。",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.login": {
-		"message": "これらのダウンロードを見るには、ログインしてください。",
-		"description": "Error message if the user is not logged in."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "Alpha/Betaテストに参加する権限がありません。",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.error.noaccess.description": {
-		"message": "ベータプログラムに **ここから** 無料で参加できます！現在、{0} 個の空き枠があります！",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
-	"downloads.latest.header": {
-		"message": "早期リリース",
-		"description": "Header above alpha/beta download buttons."
-	},
-	"downloads.warning.title": {
-		"message": "注意",
-		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.opera": {
-		"message": "ストアからPreMiDをインストールするには、**この拡張機能**をインストールする必要があります。",
-		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
-	},
-	"downloads.button.skip": {
-		"message": "スキップ",
-		"description": "Skip button on the ads section"
-	},
-	"downloads.button.back": {
-		"message": "戻る",
-		"description": "Back button on the ads section"
-	},
-	"downloads.button.cancel": {
-		"message": "キャンセル",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.okay": {
-		"message": "OK",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.done": {
-		"message": "完了",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
-	"downloads.button.login": {
-		"message": "ログイン",
-		"description": "Login button on the downloads page."
-	},
-	"downloads.adsbox.thankyou.title": {
-		"message": "Thank you!",
-		"description": "Title of the advertisement section box."
-	},
-	"downloads.adsbox.thankyou.message": {
-		"message": "私たちは広告を使用して、最高のユーザーエクスペリエンスを提供しています！\n（ダウンロードするには、右上のスキップボタンをクリックしてください。）",
-		"description": "Message of the advertisement section box."
-	},
-	"downloads.adsbox.disableAdblock": {
-		"message": "広告ブロッカーを無効にしてください。",
-		"description": "Message next to pepe."
-	},
-	"downloads.skipanyway.message1": {
-		"message": "サポートしないでダウンロードする",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message2": {
-		"message": "本当によろしいですか？",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message3": {
-		"message": "本当に？",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message4": {
-		"message": "お願いです…",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message5": {
-		"message": "あなたの力が必要なんです…",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message6": {
-		"message": "わかりました…",
-		"description": "Last message of the skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.showbeta.message": {
-		"message": "ベータ版のダウンロードを表示",
-		"description": ""
-	},
-	"downloads.showbeta.small": {
-		"message": "（通常版をダウンロードするために、ここにいる必要はありません。）",
-		"description": "Small text under the show beta title."
-	}
+  "downloads.header.title": {
+    "message": "自己紹介のお時間です。",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "PreMiDを使って、見ているものや聞いているものを他の人に見せびらかしましょう。同じ趣味を持った人を見つけられるかも…？",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "はじめよう",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "PreMiDをダウンロード",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "アプリケーションをインストール",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "ブラウザに拡張機能を追加する",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "このページを再読み込み(F5)して、拡張機能が接続されているか確認する。",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "まだ問題が解決しませんか？{0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "お手伝いいたします",
+    "description": "Link to our discord"
+  },
+  "downloads.appdownloading.header": {
+    "message": "アプリのダウンロード",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "拡張機能のダウンロード",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "注意",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0}アプリにはこのOS用のインストーラーがありません。 つまりこの環境に対しての専門的なサポートはありません。",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "PreMiDはスマートフォンには対応していません。",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "表示する",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "非表示にする",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "このプラットフォームの現在のバージョンは {0} です(このバージョンは Linux に固有で、他のプラットフォームには適用されません)。",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "このバージョンは Linux に固有で、他のシステムには適用されません。アプリケーションのメインバージョンは {0} です。",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "これらのダウンロードを見るには、ログインしてください。",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "Alpha/Betaテストに参加する権限がありません。",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "ベータプログラムに **ここから** 無料で参加できます！現在、{0} 個の空き枠があります！",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "早期リリース",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "注意",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.opera": {
+    "message": "ストアからPreMiDをインストールするには、**この拡張機能**をインストールする必要があります。",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "スキップ",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "戻る",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.cancel": {
+    "message": "キャンセル",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "OK",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "完了",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "ログイン",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Thank you!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "私たちは広告を使用して、最高のユーザーエクスペリエンスを提供しています！\n（ダウンロードするには、右上のスキップボタンをクリックしてください。）",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.showbeta.message": {
+    "message": "ベータ版のダウンロードを表示",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "（通常版をダウンロードするために、ここにいる必要はありません。）",
+    "description": "Small text under the show beta title."
+  }
 }
