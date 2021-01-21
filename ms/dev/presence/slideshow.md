@@ -35,31 +35,31 @@ Tambah slaid baharu ke `Slideshow` mengikut data yang diberi.
 
 Parameter pertama memerlukan rentetan `String` yang akan digunakan sebagai pengenal pasti unik bagi slaid tersebut.
 
-Parameter kedua memerlukan [antara muka `presenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan segala maklumat yang ingin dipaparkan di slaid.
+Parameter kedua memerlukan [antara muka `PresenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan segala maklumat yang ingin dipaparkan di slaid.
 
 Parameter ketiga memerlukan nombor `Number` iaitu jumlah masa dalam unit milisaat (minimum: 5000) yang mana slaid ini akan dipaparkan.
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Mengembalikan kesemua slaid yang disimpan dalam `Slideshow` sebagai tatasusunan `Array` bernama [`SlideshowSlide`](#slideshowslide-class).
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Updates the slide of the given `id` according to provided data.
+Mengemas kini slaid bagi `id` yang diberi mengikut data yang disediakan.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+Parameter pertama memerlukan rentetan `String` iaitu pengenal pasti unik bagi slaid yang anda ingin kemas kini.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Parameter kedua memerlukan [antara muka `PresenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan segala maklumat yang ingin dipaparkan di slaid.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Parameter ketiga memerlukan nombor `Number` iaitu jumlah masa dalam unit milisaat (minimum: 5000) yang mana slaid ini akan dipaparkan.
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Mengembalikan nilai `Boolean` yang menyatakan sama ada sesuatu slaid telah ditambah ke `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Memadamkan slaid dengan `id` yang diberi dari himpunan `Slideshow`.
 
 First parameter requires a `String` that is the unique identifier of the slide you want to delete.
 
