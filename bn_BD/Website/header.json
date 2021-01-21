@@ -3,6 +3,14 @@
     "message": "বাংলা",
     "description": "Replace English with the name of YOUR language!"
   },
+  "header.languageNotification.title": {
+    "message": "আমাদের কাছে তোমার ভাষা আছে, চেঞ্জ করতে চাও?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "আমাদের ওয়েবসাইট তোমার ভাষায় অনুবাদ করা হয়েছে। এটা সাহায্য করবে যদি তুমি ইংরেজি ভালো না পারো।",
+    "description": "Text in language notification when user has different language."
+  },
   "header.languageNotification.btnDecline": {
     "message": "না, ধন্যবাদ",
     "description": "Button that will decline notification."
@@ -10,6 +18,10 @@
   "header.languageNotification.btnAccept": {
     "message": "ভাষা চেঞ্জ",
     "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "পিঠা গরম করছি...;কনটেইনারগুলো রাখছি...;তোমার আইপি অ্যাড্রেস খুটে খুটে দেখছি...;UwU;নিয়ম ভাঙছি...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
     "message": "স্টোর",
