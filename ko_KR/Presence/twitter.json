@@ -28,7 +28,7 @@
         "description": ""
     },
     "twitter.notifs": {
-        "message": "알림들",
+        "message": "알림",
         "description": ""
     },
     "twitter.explore": {
@@ -36,7 +36,7 @@
         "description": ""
     },
     "twitter.settings": {
-        "message": "몇몇 설정들 변경하는중..",
+        "message": "몇몇 설정을 변경하는중..",
         "description": ""
     }
 }
