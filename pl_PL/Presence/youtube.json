@@ -27,6 +27,14 @@
         "message": "Wyszukiwanie kanału: {0} dla:",
         "description": "{0} will be replaced with the channel name"
     },
+    "youtube.trending": {
+        "message": "Przeglądanie trendów",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Przeglądanie",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.subscriptions": {
         "message": "swoje subskrypcje",
         "description": "Part two of \"Browsing through\""
