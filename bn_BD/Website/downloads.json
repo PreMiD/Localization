@@ -67,6 +67,10 @@
     "message": "ওহ, দেখে মনে হচ্ছে তোমার কাছে অ্যালফা/বেটা অ্যাক্সেস নেই :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
+  "downloads.error.noaccess.description": {
+    "message": "তুমি আমাদের বেটা প্রোগ্রাম জয়েন করতে পারো **এখানে** ফ্রিতে। তাড়াতাড়ি করো! আমাদের কাছে আরো শুধু {0} স্লট ফাঁকা পড়ে আছে",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
   "downloads.warning.title": {
     "message": "সতর্কতা",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
