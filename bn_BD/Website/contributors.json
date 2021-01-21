@@ -27,6 +27,10 @@
 		"message": "অ্যাডমিন",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.reviewer": {
+		"message": "রিভিউয়ার",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "ডেভেলপার",
 		"description": "'Developer' title for contributors and user pages."
