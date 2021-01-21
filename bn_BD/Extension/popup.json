@@ -52,7 +52,7 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "লোড Presence",
+		"message": "Presence লোড করাও",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
