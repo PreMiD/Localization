@@ -1,10 +1,10 @@
 {
 	"spotify.featured": {
-		"message": "특별한 곡",
+		"message": "피처링한 노래",
 		"description": ""
 	},
 	"spotify.bestPodcasts": {
-		"message": "최고 팟캐스트",
+		"message": "최고의 팟캐스트",
 		"description": ""
 	},
 	"spotify.charts": {
@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"spotify.latest": {
-		"message": "최신 음악을 보는 중",
+		"message": "최신 발매 음악을 보는 중",
 		"description": ""
 	},
 	"spotify.discover": {
@@ -52,7 +52,7 @@
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
-		"message": "Spotify 다운중",
+		"message": "다운로드 중",
 		"description": ""
 	}
 }
