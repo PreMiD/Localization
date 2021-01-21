@@ -3,6 +3,10 @@
 		"message": "এক্সটেনশন কানেক্টেড নেই।",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.popular": {
+		"message": "এই Presence - টি ইউজারদের মাঝে বেশ জনপ্রিয়।",
+		"description": "Presence card popular flame"
+	},
 	"store.category.games": {
 		"message": "গেমস",
 		"description": "Category at the top"
