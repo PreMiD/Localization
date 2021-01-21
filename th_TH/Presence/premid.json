@@ -14,5 +14,37 @@
 	"premid.pageHome": {
 		"message": "หน้าหลัก",
 		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "ดาวน์โหลด",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "ร้านค้า",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "ผู้ร่วมมือ",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "เกี่ยวกับ PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "ความต้องการของระบบ",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "การติดตั้ง",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "การแก้ปัญหา",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
 	}
 }
