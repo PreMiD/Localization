@@ -15,6 +15,14 @@
 		"message": "Strona główna",
 		"description": "A page name"
 	},
+	"premid.pageAbout": {
+		"message": "O PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Wymagania systemowe",
+		"description": "A page name"
+	},
 	"premid.pageInstallFor": {
 		"message": "Instalacja dla {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
