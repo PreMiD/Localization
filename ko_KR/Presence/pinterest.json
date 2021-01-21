@@ -8,11 +8,11 @@
         "description": ""
     },
     "pinterest.follow": {
-        "message": "그들이 팔로잉 하는 사용자를 보는 중",
+        "message": "팔로잉 하는 사용자를 보는 중",
         "description": ""
     },
     "pinterest.home": {
-        "message": "그들의 홈페이지 수정 중",
+        "message": "홈페이지 수정 중",
         "description": ""
     }
 }
