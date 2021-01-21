@@ -1,18 +1,22 @@
 {
-	"downloads.instructions.heading": {
-		"message": "Prvi koraci",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "Preuzmi PreMiD",
-		"description": "Heading for installing the application"
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} nema instalacija za taj sistem. to znači da nema profesonalne podrške ta to.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.adsbox.thankyou.title": {
-		"message": "Hvala vam!",
-		"description": "Title of the advertisement section box."
-	}
+  "downloads.instructions.heading": {
+    "message": "Prvi koraci",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Preuzmi PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} nema instalacija za taj sistem. to znači da nema profesonalne podrške ta to.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.button.done": {
+    "message": "Gotovo",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Hvala vam!",
+    "description": "Title of the advertisement section box."
+  }
 }
