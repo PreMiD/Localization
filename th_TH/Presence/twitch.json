@@ -1,1 +1,30 @@
-{}
+{
+	"twitch.downloads": {
+		"message": "ดาวน์โหลด",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "งาน",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "ความปลอดภัย",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "หน้าหลัก",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "เพลงบน Twitch",
+		"description": "Page name"
+	},
+	"twitch.achievements": {
+		"message": "รางวัลความสำเร็จ",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "คลิป",
+		"description": "Part 2 of the string: \"Viewing their\""
+	}
+}
