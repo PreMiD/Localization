@@ -1,10 +1,14 @@
 {
-	"downloads.button.login": {
-		"message": "Prijava",
-		"description": "Login button on the downloads page."
-	},
-	"downloads.adsbox.thankyou.title": {
-		"message": "Hvala Vam!",
-		"description": "Title of the advertisement section box."
-	}
+  "downloads.button.done": {
+    "message": "Gotovo",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "Prijava",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Hvala Vam!",
+    "description": "Title of the advertisement section box."
+  }
 }
