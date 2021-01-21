@@ -119,6 +119,10 @@
     "message": "Iniciar sesión",
     "description": "Login button on the downloads page."
   },
+  "downloads.button.skipanyway": {
+    "message": "Saltar de todos modos",
+    "description": "Skip Anyway button on the ads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Gracias!",
     "description": "Title of the advertisement section box."
@@ -128,7 +132,7 @@
     "description": "Message of the advertisement section box."
   },
   "downloads.adsbox.disableAdblock": {
-    "message": "Por favor, deshabilite Adblock",
+    "message": "Por favor, deshabilita Adblock",
     "description": "Message next to pepe."
   },
   "downloads.showbeta.message": {
