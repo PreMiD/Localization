@@ -61,38 +61,38 @@ Mengembalikan nilai `Boolean` yang menyatakan sama ada sesuatu slaid telah ditam
 
 Memadamkan slaid dengan `id` yang diberi dari himpunan `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+Parameter pertama memerlukan rentetan `String` iaitu pengenal pasti unik bagi slaid yang anda ingin padam.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Padam kesemua slaid dari `Slideshow`.
 
-# SlideshowSlide Class
+# Kelas SlideshowSlide
 
-## Introduction
+## Pengenalan
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+`SlideshowSlide` ialah perwakilan dalaman bagi setiap slaid dalam `Slideshow`.
 
 ## Sifat-sifat
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Mengembalikan rentetan `String` berupa id bagi slaid.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Mengembalikan objek [`PresenceData`](/dev/presence/class#presencedata-interface) berkaitan `PresenceData` yang disimpan dalam slaid.
 
-## Methods
+## Kaedah
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Menetapkan data slaid berdasarkan data yang diberi.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Anda mesti sediakan antara muka `PresenceData` untuk mendapatkan segala maklumat yang ingin dipaparkan di profil anda.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Menetapkan selang masa slaid berdasarkan data yang diberi.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Anda mesti sediakan nombor `Number` iaitu jumlah masa dalam unit milisaat (minimum: 5000) yang mana slaid ini akan dipaparkan.
