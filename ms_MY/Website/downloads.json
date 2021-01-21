@@ -119,6 +119,10 @@
     "message": "Log masuk",
     "description": "Login button on the downloads page."
   },
+  "downloads.button.skipanyway": {
+    "message": "Langkau Juga",
+    "description": "Skip Anyway button on the ads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Terima kasih!",
     "description": "Title of the advertisement section box."
