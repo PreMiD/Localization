@@ -331,7 +331,7 @@ presence.on("UpdateData", async () => {
 
 Możesz skopiować to do pliku `presence.ts` i edytować wartości. Ustawienie wszystkich wartości jest wykonywane wewnątrz zdarzenia updataData.
 
-Dla przykładów sugerujemy przyjrzeć się kodom Presence, takim jak: 1337x lub 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Dla przykładów sugerujemy przyjrzeć się kodom Presence, takim jak: 1337x lub 9GAG. Aby uzyskać więcej informacji o klasie `Presence`, kliknij [tutaj](/dev/presence/class).
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
