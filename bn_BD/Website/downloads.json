@@ -79,6 +79,10 @@
     "message": "লগইন",
     "description": "Login button on the downloads page."
   },
+  "downloads.button.skipanyway": {
+    "message": "যাইহোক স্কিপ করো",
+    "description": "Skip Anyway button on the ads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "ধন্যবাদ!",
     "description": "Title of the advertisement section box."
@@ -86,5 +90,9 @@
   "downloads.adsbox.thankyou.message": {
     "message": "আমরা Ads ব্যবহার করি আমাদের টিমকে সাপোর্ট করতে এবং আমাদের সার্ভারকে মেইনটেইন করতে, তোমাকে সেরা ইউজার এক্সপেরিয়েন্স দেওয়ার জন্যে!",
     "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "দয়া করে তোমার Adblocker - টি বন্ধ করো",
+    "description": "Message next to pepe."
   }
 }
