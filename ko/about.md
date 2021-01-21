@@ -14,5 +14,5 @@ PreMid는 당신이 웹에서 하고 있는 행동을 Discord 상태 메세지�
 - 저희의 최대 기능, WatchParties가 PreMid로 오고 있습니다. 게임 초대와 함께라면 동시에 보고 들을 수 있습니다. [Discord](https://discordapp.com/) 제공
 
 # 주요 기능들
-- 사용자의 현재 웹 서비스를 Discord 상테 메세지에 표시합니다.
-- Presences로 모든 권한을 부여합니다.
+- 사용자의 현재 웹 서비스를 Discord 상태 메세지에 표시합니다.
+- Presences 로 모든 권한을 부여합니다.
