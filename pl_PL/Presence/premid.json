@@ -19,6 +19,10 @@
 		"message": "Instalacja dla {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
 	"premid.pageApiVersion": {
 		"message": "Rozumienie wersji v{0} API",
 		"description": "A page name // {0} will be replaced with the version number."
