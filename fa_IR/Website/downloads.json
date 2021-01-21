@@ -119,6 +119,10 @@
     "message": "ورود",
     "description": "Login button on the downloads page."
   },
+  "downloads.button.skipanyway": {
+    "message": "درهرصورت بگذر",
+    "description": "Skip Anyway button on the ads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "از شما متشكريم!",
     "description": "Title of the advertisement section box."

@@ -79,6 +79,26 @@
     "message": "সতর্কতা",
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
+  "downloads.warning.message.opera": {
+    "message": "তোমাকে **এই** এক্সটেনশনটি ইন্সটল করতে হবে, তারপর PreMiD ইন্সটল করতে হবে Chrome Webstore থেকে।",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "স্কিপ",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "ব্যাক",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.cancel": {
+    "message": "ক্যানসেল",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "ঠিক আছে",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.done": {
     "message": "সম্পন্ন",
     "description": "Button on the page when trying to download with adblocker on."
