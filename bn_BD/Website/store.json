@@ -1,14 +1,18 @@
 {
+	"store.message.error": {
+		"message": "এক্সটেনশন কানেক্টেড নেই।",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.category.games": {
 		"message": "গেমস",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "সামাজিক",
+		"message": "সোশ্যালস",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "ভিডিওস & স্ট্রামস",
+		"message": "ভিডিওস & স্ট্রিমস",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
