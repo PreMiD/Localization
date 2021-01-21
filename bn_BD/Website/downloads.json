@@ -51,6 +51,10 @@
     "message": "{0} কোনো ইন্সটলার নেই এই অপারেটিং সিস্টেম এর জন্য। তার মানে এটার জন্য কোনো সাপোর্ট নেই।",
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   },
+  "downloads.mobile.errorMessage": {
+    "message": "জেনে রাখো যে PreMiD মোবাইল ফোনে সাপোর্টেড নয়।",
+    "description": "Downloads page warning when user is on mobile."
+  },
   "downloads.warning.differentVersion": {
     "message": "এই প্ল্যাটফর্ম এর বর্তমান ভার্সন হচ্ছে {0} (এই ভার্সনটি লিনাক্স এর জন্য নির্দিষ্ট, এবং অন্যসব প্ল্যাটফর্মে নয়)।",
     "description": "Tippy message of the Linux card."
