@@ -1,158 +1,138 @@
 {
-	"downloads.header.title": {
-		"message": "Ώρα για εμφάνιση.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "Χρησιμοποιήστε το PreMiD τώρα και δείξτε στους φίλους σας τι κάνετε, ίσως βρείτε κάποιον με τα ίδια ενδιαφέροντα.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "Ας Ξεκινήσουμε",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "Κατεβάστε το PreMiD",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "Εγκαταστήστε την εφαρμογή μας",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "Προσθέστε την επέκτασή μας στο πρόγραμμα περιήγησης",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "Επαναφορτώστε αυτή την σελίδα και ελέγχξτε εάν η επέκταση είναι συνδεδεμένη",
-		"description": "I think you get what this is..."
-	},
-	"downloads.instructions.footer": {
-		"message": "Εξακολουθείτε να έχετε προβλήματα; {0}",
-		"description": "{0} will be replaced with footer.link"
-	},
-	"downloads.instructions.footer.link": {
-		"message": "Είμαστε εδώ για να σας βοηθήσουμε!",
-		"description": "Link to our discord"
-	},
-	"downloads.appdownloading.header": {
-		"message": "Αίτηση",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "Επέκταση",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "Προειδοποίηση:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Δεν υπάρχει πρόγραμμα εγκατάστασης για αυτό το λειτουργικό σύστημα. Αυτό σημαίνει ότι δεν υπάρχει επαγγελματική υποστήριξη.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "Το PreMiD δεν υποστηρίζεται από κινητά τηλέφωνα.",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "Προβολή Λήψεων",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "Απόκρυψη Λήψεων",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "Η τρέχουσα έκδοση αυτής της πλατφόρμας είναι {0} (η έκδοση αυτή απευθύνεται στο Linux, και δεν ισχύει για άλλες πλατφόρμες).",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "Η έκδοση αυτή απευθύνεται στο Linux, και δεν ισχύει για άλλες πλατφόρμες. Η κύρια έκδοση της εφαρμογής είναι {0}",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.login": {
-		"message": "Παρακαλώ συνδεθείτε για να δείτε αυτές τις λήψεις.",
-		"description": "Error message if the user is not logged in."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "Ωχ, φαίνεται ότι δεν έχετε πρόσβαση στα alpha ή beta :(",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.error.noaccess.description": {
-		"message": "Μπορείτε να συμμετάσχετε στο πρόγραμμα beta μας από **εδώ** δωρεάν. Γρήγορα! Έχουνε μείνει μόνο {0} θέσεις!",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
-	"downloads.latest.header": {
-		"message": "Πρώιμες Κυκλοφορίες",
-		"description": "Header above alpha/beta download buttons."
-	},
-	"downloads.warning.title": {
-		"message": "Προσοχή",
-		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.opera": {
-		"message": "Πρέπει να εγκαταστήσετε **αυτήν** την επέκταση για να εγκαταστήσετε το PreMiD από το ηλεκτρονικό κατάστημα του Chrome.",
-		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
-	},
-	"downloads.button.skip": {
-		"message": "Παράβλεψη",
-		"description": "Skip button on the ads section"
-	},
-	"downloads.button.back": {
-		"message": "Επιστροφή",
-		"description": "Back button on the ads section"
-	},
-	"downloads.button.okay": {
-		"message": "Ok",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.login": {
-		"message": "Σύνδεση",
-		"description": "Login button on the downloads page."
-	},
-	"downloads.adsbox.thankyou.title": {
-		"message": "Ευχαριστούμε!",
-		"description": "Title of the advertisement section box."
-	},
-	"downloads.adsbox.thankyou.message": {
-		"message": "Χρησιμοποιούμε διαφημίσεις για να υποστηρίξουμε την ομάδα μας και να διατηρήσουμε τους διακομιστές μας για να σας προσφέρουμε την καλύτερη εμπειρία!",
-		"description": "Message of the advertisement section box."
-	},
-	"downloads.adsbox.disableAdblock": {
-		"message": "Παρακαλούμε απενεργοποιήστε το adblock σας.",
-		"description": "Message next to pepe."
-	},
-	"downloads.skipanyway.message1": {
-		"message": "Δεν θέλω να σας υποστηρίξω.",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message2": {
-		"message": "Είσαι σίγουρος;",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message3": {
-		"message": "Σοβαρά τώρα;",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message4": {
-		"message": "Έλα ρε μπρο πλιζ :(",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message5": {
-		"message": "Πλιζ σε χρειάζομαι :<",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message6": {
-		"message": "Καλά, καλά...",
-		"description": "Last message of the skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.showbeta.message": {
-		"message": "Εμφάνιση λήψεων beta",
-		"description": ""
-	},
-	"downloads.showbeta.small": {
-		"message": "(δεν χρειάζεται αν είστε εδώ για να κατεβάσετε μόνο την κανονική εφαρμογή)",
-		"description": "Small text under the show beta title."
-	}
+  "downloads.header.title": {
+    "message": "Ώρα για εμφάνιση.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "Χρησιμοποιήστε το PreMiD τώρα και δείξτε στους φίλους σας τι κάνετε, ίσως βρείτε κάποιον με τα ίδια ενδιαφέροντα.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "Ας Ξεκινήσουμε",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "Κατεβάστε το PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Εγκαταστήστε την εφαρμογή μας",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Προσθέστε την επέκτασή μας στο πρόγραμμα περιήγησης",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Επαναφορτώστε αυτή την σελίδα και ελέγχξτε εάν η επέκταση είναι συνδεδεμένη",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "Εξακολουθείτε να έχετε προβλήματα; {0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "Είμαστε εδώ για να σας βοηθήσουμε!",
+    "description": "Link to our discord"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Αίτηση",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Επέκταση",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Προειδοποίηση:",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} Δεν υπάρχει πρόγραμμα εγκατάστασης για αυτό το λειτουργικό σύστημα. Αυτό σημαίνει ότι δεν υπάρχει επαγγελματική υποστήριξη.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "Το PreMiD δεν υποστηρίζεται από κινητά τηλέφωνα.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "Προβολή Λήψεων",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "Απόκρυψη Λήψεων",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "Η τρέχουσα έκδοση αυτής της πλατφόρμας είναι {0} (η έκδοση αυτή απευθύνεται στο Linux, και δεν ισχύει για άλλες πλατφόρμες).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "Η έκδοση αυτή απευθύνεται στο Linux, και δεν ισχύει για άλλες πλατφόρμες. Η κύρια έκδοση της εφαρμογής είναι {0}",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "Παρακαλώ συνδεθείτε για να δείτε αυτές τις λήψεις.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "Ωχ, φαίνεται ότι δεν έχετε πρόσβαση στα alpha ή beta :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "Μπορείτε να συμμετάσχετε στο πρόγραμμα beta μας από **εδώ** δωρεάν. Γρήγορα! Έχουνε μείνει μόνο {0} θέσεις!",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "Πρώιμες Κυκλοφορίες",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "Προσοχή",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.opera": {
+    "message": "Πρέπει να εγκαταστήσετε **αυτήν** την επέκταση για να εγκαταστήσετε το PreMiD από το ηλεκτρονικό κατάστημα του Chrome.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "Παράβλεψη",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "Επιστροφή",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.okay": {
+    "message": "Ok",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "Ολοκληρώθηκε",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "Σύνδεση",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Ευχαριστούμε!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "Χρησιμοποιούμε διαφημίσεις για να υποστηρίξουμε την ομάδα μας και να διατηρήσουμε τους διακομιστές μας για να σας προσφέρουμε την καλύτερη εμπειρία!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "Παρακαλούμε απενεργοποιήστε το adblock σας",
+    "description": "Message next to pepe."
+  },
+  "downloads.showbeta.message": {
+    "message": "Εμφάνιση λήψεων beta",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(δεν χρειάζεται αν είστε εδώ για να κατεβάσετε μόνο την κανονική εφαρμογή)",
+    "description": "Small text under the show beta title."
+  }
 }
