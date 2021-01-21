@@ -55,6 +55,14 @@
     "message": "জেনে রাখো যে PreMiD মোবাইল ফোনে সাপোর্টেড নয়।",
     "description": "Downloads page warning when user is on mobile."
   },
+  "downloads.mobile.showDownloads": {
+    "message": "ডাউনলোডস দেখাও",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "ডাউনলোডস হাইড করাও",
+    "description": "Little button on the downloads page for mobile users."
+  },
   "downloads.warning.differentVersion": {
     "message": "এই প্ল্যাটফর্ম এর বর্তমান ভার্সন হচ্ছে {0} (এই ভার্সনটি লিনাক্স এর জন্য নির্দিষ্ট, এবং অন্যসব প্ল্যাটফর্মে নয়)।",
     "description": "Tippy message of the Linux card."
@@ -122,5 +130,13 @@
   "downloads.adsbox.disableAdblock": {
     "message": "দয়া করে তোমার Adblocker - টি বন্ধ করো",
     "description": "Message next to pepe."
+  },
+  "downloads.showbeta.message": {
+    "message": "বেটা ডাউনলোডস দেখাও",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(প্রয়োজন নেই যদি তুমি এখানে শুধু এসেছ নরমাল অ্যাপ্লিকেশানটা ডাউনলোড করতে)",
+    "description": "Small text under the show beta title."
   }
 }
