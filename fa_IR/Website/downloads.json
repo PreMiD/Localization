@@ -1,166 +1,142 @@
 {
-	"downloads.header.title": {
-		"message": "وقت نمایشه.",
-		"description": "Title"
-	},
-	"downloads.header.subtitle": {
-		"message": "از PreMiD استفاده کنید و به دوستانتان نشان دهید که دارید چه می کنید، شاید شما هم کسی را با علایق مشابه پیدا کردید.",
-		"description": "Subtitle for header"
-	},
-	"downloads.instructions.heading": {
-		"message": "شروع کنید",
-		"description": "Displayed at Downloads page above steps"
-	},
-	"downloads.instructions.step_1": {
-		"message": "PreMiD را دانلود کنید",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_2": {
-		"message": "برنامه ما را نصب کنید",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_3": {
-		"message": "افزونه ما را به مرورگر خود اضافه کنید",
-		"description": "Heading for installing the application"
-	},
-	"downloads.instructions.step_4": {
-		"message": "این سایت را دوباره باز کنید و چک کنید که افزونه متصل شده باشد",
-		"description": "I think you get what this is..."
-	},
-	"downloads.instructions.footer": {
-		"message": "هنوز هم مشکل دارید؟ {0}",
-		"description": "{0} will be replaced with footer.link"
-	},
-	"downloads.instructions.footer.link": {
-		"message": "ما برای کمک اینجاییم!",
-		"description": "Link to our discord"
-	},
-	"downloads.appdownloading.header": {
-		"message": "برنامه",
-		"description": "Header above application download buttons."
-	},
-	"downloads.extdownloading.header": {
-		"message": "افزونه",
-		"description": "Header above extension download buttons."
-	},
-	"downloads.tooltips.os_not_supported.part1": {
-		"message": "هشدار:",
-		"description": "First part of the message."
-	},
-	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} هیچ بسته نصبی برا این سیستم عامل وجود ندارد. این بدین معناست که پشتیبانی تخصصی در این موضوع در کار نیست.",
-		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-	},
-	"downloads.mobile.errorMessage": {
-		"message": "لطفا دقت کنید که PreMiD از موبایل ها پشتیبانی نمی کند.",
-		"description": "Downloads page warning when user is on mobile."
-	},
-	"downloads.mobile.showDownloads": {
-		"message": "نشان دادن دانلود ها",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.mobile.hideDownloads": {
-		"message": "مخفی کردن دانلود ها",
-		"description": "Little button on the downloads page for mobile users."
-	},
-	"downloads.warning.differentVersion": {
-		"message": "نسخه فعلی برای این پلتفرم {0} می باشد (این نسخه مخصوصا برای لینوکس می باشد و تاثیری روی دیگر پلتفرم ها ندارد).",
-		"description": "Tippy message of the Linux card."
-	},
-	"downloads.warning.differentVersion2": {
-		"message": "این نسخه مختص به لینوکس می باشد و شامل دیگر سیستم عامل ها نمی شود. نسخه اصلی برنامه {0} است",
-		"description": "Tippy message of the version number when user is on Linux."
-	},
-	"downloads.error.login": {
-		"message": "لطفا وارد شوید تا بتوانید این دانلود ها را ببینید.",
-		"description": "Error message if the user is not logged in."
-	},
-	"downloads.error.noaccess.title": {
-		"message": "اوه، به نظر میاد که شما دسترسی نسخه بتا/آلفا را ندارید :(",
-		"description": "Error message if the user doesn't alpha/beta access."
-	},
-	"downloads.error.noaccess.description": {
-		"message": "شما می توانید به نسخه بتای برنامه بپیوندید از طریق **اینجا** اونم مجانی. بجنبید! ما فقط {0} جای خالی دیگر دردسترس داریم",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
-	"downloads.latest.header": {
-		"message": "دسترسی زودرس",
-		"description": "Header above alpha/beta download buttons."
-	},
-	"downloads.warning.title": {
-		"message": "هشدار",
-		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.opera": {
-		"message": "شما باید **این** افزونه را نصب کنید تا بتوانید PreMiD را از Chrome Webstore نصب کنید.",
-		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
-	},
-	"downloads.button.skip": {
-		"message": "رد شدن",
-		"description": "Skip button on the ads section"
-	},
-	"downloads.button.back": {
-		"message": "بازگشت",
-		"description": "Back button on the ads section"
-	},
-	"downloads.button.cancel": {
-		"message": "لغو",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.okay": {
-		"message": "باشه",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
-	"downloads.button.done": {
-		"message": "انجام شد",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
-	"downloads.button.login": {
-		"message": "ورود",
-		"description": "Login button on the downloads page."
-	},
-	"downloads.adsbox.thankyou.title": {
-		"message": "از شما متشكريم!",
-		"description": "Title of the advertisement section box."
-	},
-	"downloads.adsbox.thankyou.message": {
-		"message": "ما از تبلیغات برای پشتیبانی از تیم و برپادارنده سرورمان استفاده می کنیم تا بهترین تجربه را به شما ارائه بدیم!",
-		"description": "Message of the advertisement section box."
-	},
-	"downloads.adsbox.disableAdblock": {
-		"message": "لطفا مسدود کننده تبلیغ خود را غیر فعال کنید.",
-		"description": "Message next to pepe."
-	},
-	"downloads.skipanyway.message1": {
-		"message": "من پشتیبانی نمی خوام.",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message2": {
-		"message": "آیا مطمئن هستید?",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message3": {
-		"message": "واقعا?",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message4": {
-		"message": "پشتیبانی ل-لطفا :(",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message5": {
-		"message": "من نیازت دارم :<",
-		"description": "Skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.skipanyway.message6": {
-		"message": "خیل خب، باشه...",
-		"description": "Last message of the skip anyway messages (changes everytime you click it)."
-	},
-	"downloads.showbeta.message": {
-		"message": "دانلود های بتا رو نشون بده",
-		"description": ""
-	},
-	"downloads.showbeta.small": {
-		"message": "(لازم نیست اگر شما فقط برای دانلود نسخه عادی برنامه اینجا آمده اید)",
-		"description": "Small text under the show beta title."
-	}
+  "downloads.header.title": {
+    "message": "وقت نمایشه.",
+    "description": "Title"
+  },
+  "downloads.header.subtitle": {
+    "message": "از PreMiD استفاده کنید و به دوستانتان نشان دهید که دارید چه می کنید، شاید شما هم کسی را با علایق مشابه پیدا کردید.",
+    "description": "Subtitle for header"
+  },
+  "downloads.instructions.heading": {
+    "message": "شروع کنید",
+    "description": "Displayed at Downloads page above steps"
+  },
+  "downloads.instructions.step_1": {
+    "message": "PreMiD را دانلود کنید",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "برنامه ما را نصب کنید",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "افزونه ما را به مرورگر خود اضافه کنید",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "این سایت را دوباره باز کنید و چک کنید که افزونه متصل شده باشد",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "هنوز هم مشکل دارید؟ {0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "ما برای کمک اینجاییم!",
+    "description": "Link to our discord"
+  },
+  "downloads.appdownloading.header": {
+    "message": "برنامه",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "افزونه",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "هشدار:",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} هیچ بسته نصبی برا این سیستم عامل وجود ندارد. این بدین معناست که پشتیبانی تخصصی در این موضوع در کار نیست.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  },
+  "downloads.mobile.errorMessage": {
+    "message": "لطفا دقت کنید که PreMiD از موبایل ها پشتیبانی نمی کند.",
+    "description": "Downloads page warning when user is on mobile."
+  },
+  "downloads.mobile.showDownloads": {
+    "message": "نشان دادن دانلود ها",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.mobile.hideDownloads": {
+    "message": "مخفی کردن دانلود ها",
+    "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.differentVersion": {
+    "message": "نسخه فعلی برای این پلتفرم {0} می باشد (این نسخه مخصوصا برای لینوکس می باشد و تاثیری روی دیگر پلتفرم ها ندارد).",
+    "description": "Tippy message of the Linux card."
+  },
+  "downloads.warning.differentVersion2": {
+    "message": "این نسخه مختص به لینوکس می باشد و شامل دیگر سیستم عامل ها نمی شود. نسخه اصلی برنامه {0} است",
+    "description": "Tippy message of the version number when user is on Linux."
+  },
+  "downloads.error.login": {
+    "message": "لطفا وارد شوید تا بتوانید این دانلود ها را ببینید.",
+    "description": "Error message if the user is not logged in."
+  },
+  "downloads.error.noaccess.title": {
+    "message": "اوه، به نظر میاد که شما دسترسی نسخه بتا/آلفا را ندارید :(",
+    "description": "Error message if the user doesn't alpha/beta access."
+  },
+  "downloads.error.noaccess.description": {
+    "message": "شما می توانید به نسخه بتای برنامه بپیوندید از طریق **اینجا** اونم مجانی. بجنبید! ما فقط {0} جای خالی دیگر دردسترس داریم",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
+  "downloads.latest.header": {
+    "message": "دسترسی زودرس",
+    "description": "Header above alpha/beta download buttons."
+  },
+  "downloads.warning.title": {
+    "message": "هشدار",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.warning.message.opera": {
+    "message": "شما باید **این** افزونه را نصب کنید تا بتوانید PreMiD را از Chrome Webstore نصب کنید.",
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+  },
+  "downloads.button.skip": {
+    "message": "رد شدن",
+    "description": "Skip button on the ads section"
+  },
+  "downloads.button.back": {
+    "message": "بازگشت",
+    "description": "Back button on the ads section"
+  },
+  "downloads.button.cancel": {
+    "message": "لغو",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.okay": {
+    "message": "باشه",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
+  "downloads.button.done": {
+    "message": "انجام شد",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.button.login": {
+    "message": "ورود",
+    "description": "Login button on the downloads page."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "از شما متشكريم!",
+    "description": "Title of the advertisement section box."
+  },
+  "downloads.adsbox.thankyou.message": {
+    "message": "ما از تبلیغات برای پشتیبانی از تیم و برپادارنده سرورمان استفاده می کنیم تا بهترین تجربه را به شما ارائه بدیم!",
+    "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "لطفا مسدود کننده تبلیغ خود را غیر فعال کنید",
+    "description": "Message next to pepe."
+  },
+  "downloads.showbeta.message": {
+    "message": "دانلود های بتا رو نشون بده",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(لازم نیست اگر شما فقط برای دانلود نسخه عادی برنامه اینجا آمده اید)",
+    "description": "Small text under the show beta title."
+  }
 }
