@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Kelas Slideshow
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,36 +8,36 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Kelas Slideshow
 
-## Introduction
+## Pengenalan
 
-The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
+Kelas `Slideshow` digunakan untuk menetapkan beberapa `PresenceData` dan "gelangsar" menerusinya setiap x milisaat (minimum: 5000).
 
-See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
+Lihat kaedah [`createSlideshow`](/dev/presence/class#createslideshow) dalam kelas [`Presence`](/dev/presence/class) untuk cara mencipta `Slideshow`.
 
 ## Sifat-sifat
 
 ### `currentSlide`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of what the presence/current slide is displaying.
+Mengembalikan objek [`PresenceData`](/dev/presence/class#presencedata-interface) berkaitan apa yang Presence/slaid semasa paparkan.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+console.log(currentSlide.details) // Akan mengelog maklumat PresenceData
 ```
 
-## Methods
+## Kaedah
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Tambah slaid baharu ke `Slideshow` mengikut data yang diberi.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+Parameter pertama memerlukan rentetan `String` yang akan digunakan sebagai pengenal pasti unik bagi slaid tersebut.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Parameter kedua memerlukan [antara muka `presenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan segala maklumat yang ingin dipaparkan di slaid.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Parameter ketiga memerlukan nombor `Number` iaitu jumlah masa dalam unit milisaat (minimum: 5000) yang mana slaid ini akan dipaparkan.
 
 ### `getSlides()`
 
