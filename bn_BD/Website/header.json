@@ -10,5 +10,33 @@
   "header.languageNotification.btnAccept": {
     "message": "ভাষা চেঞ্জ",
     "description": "Button that switches language after click."
+  },
+  "header.store": {
+    "message": "স্টোর",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "ডাউনলোডস",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "কন্ট্রিবিউটরস",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "লগইন",
+    "description": "Login Button"
+  },
+  "header.rab": {
+    "message": "একটি Bug রিপোর্ট করো",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "ড্যাশবোর্ড",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "লগআউট",
+    "description": "Logout button"
   }
 }
