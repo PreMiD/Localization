@@ -39,6 +39,10 @@
     "message": "লগইন",
     "description": "Login Button"
   },
+  "header.lia": {
+    "message": "লগইন করা অ্যাকাউন্ট:",
+    "description": "Indicates which user is logged in"
+  },
   "header.rab": {
     "message": "একটি Bug রিপোর্ট করো",
     "description": "Report a bug button"
