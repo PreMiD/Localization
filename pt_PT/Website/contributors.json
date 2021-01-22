@@ -8,15 +8,15 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
-		"message": "Tradutores(as)",
+		"message": "Tradutores",
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Líder do projecto",
+		"message": "Líder do projeto",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
-		"message": "Coordenador dos Funcionários",
+		"message": "Coordenador da Staff",
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
