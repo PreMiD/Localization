@@ -1,6 +1,6 @@
 {
   "downloads.header.title": {
-    "message": "Hora de se exibir.",
+    "message": "Hora de te exibires.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
@@ -118,6 +118,10 @@
   "downloads.button.login": {
     "message": "Iniciar sessão",
     "description": "Login button on the downloads page."
+  },
+  "downloads.button.skipanyway": {
+    "message": "Ignorar mesmo assim",
+    "description": "Skip Anyway button on the ads page."
   },
   "downloads.adsbox.thankyou.title": {
     "message": "Obrigado!",
