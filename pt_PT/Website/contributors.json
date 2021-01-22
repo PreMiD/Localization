@@ -28,11 +28,11 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "Revisor",
+		"message": "Revisor do GitHub",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
-		"message": "Desenvolvedor",
+		"message": "Programador",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
@@ -48,7 +48,7 @@
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
-		"message": "Representativo",
+		"message": "Representante",
 		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
