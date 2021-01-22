@@ -11,6 +11,18 @@
 		"message": "এই Presence - টি ইউজারদের মাঝে বেশ জনপ্রিয়।",
 		"description": "Presence card popular flame"
 	},
+	"store.header.search": {
+		"message": "Presence সার্চ করো",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Presence অ্যাড করো",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Presence রিমুভ করো",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
 	"store.category.games": {
 		"message": "গেমস",
 		"description": "Category at the top"
