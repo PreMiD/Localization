@@ -35,7 +35,7 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
 
 <a name="about"></a>
 
-## About
+## Sobre
 
 **PreMiD** um simples, utilitário configurável que usa a biblioteca RP (Rich Presence) do Discord, que permite que você mostre o que está fazendo na internet (e alguns programas) no seu perfil do Discord como **status de jogo**.
 
@@ -52,13 +52,13 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Todas as versões"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Versões do Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Última versão"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Versões do Github"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Requirements
+### Requisitos
 
 Tecnicamente toda distribuição que pode executar o **app** [oficial](https://discordapp.com/download) do Discord (não a versão web ou snap) também pode executar o PreMiD;</br> Como você deve ter notado nos últimos anos, algumas distribuições do Linux começaram a abandonar o suporte para as arquiteturas 32-bit (ia32/i686/i386/x86), e como resultado, nós também. Você pode, no entanto, tente build o aplicativo você mesmo se você precisar desesperadamente usá-lo em uma distribuição de 32 bits.</br> Como atualmente usamos Electron como um engine (Discord usa também!), seus requisitos também se aplicam a este aplicativo :
 
@@ -70,17 +70,17 @@ Não se sabe se versões antigas de outras distribuições o suportam, por isso 
 
 <a name="support"></a>
 
-### Support
+### Suporte
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Junte-se ao nosso Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Junte-se ao nosso Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### Creditos
 
 Agradecimentos para :
 
@@ -92,7 +92,7 @@ Agradecimentos para :
 
 <a name="license"></a>
 
-### License
+### Licensa
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ O pacote AppImage é recomendado se o Discord funciona para você, mas para outr
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Instruções de instalação
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Notas Adicionais
 
 Se você quer experimentar o PreMiD ou simplesmente não quer instalá-lo, este é o melhor, está sempre atualizado mas _NÃO AUTO-INICIE COM O SISTEMA!_</br>Se você ficar cansado de ter que abrir cada vez, use os outros pacotes (de acordo com sua distribuição).
 
@@ -152,7 +152,7 @@ Usando o [repositório do usuário Arch](https://aur.archlinux.org/packages/prem
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Instruções de instalação
 
 ```bash
 # Usando yay (recomendado)
@@ -182,7 +182,7 @@ ou manualmente do [Repositório de Usuários Arch](https://aur.archlinux.org/pac
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Notas Adicionais
 
 Se sua distribuição usa pacman, você deve instalar um dos ajudantes primeiro. Se você não tiver nenhum, é recomendado o Yay, execute :
 
