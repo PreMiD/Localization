@@ -87,12 +87,28 @@
 		"message": "O seu PreMiD está desatualizado. Por favor, atualize-o para continuar a usar o PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Extensão desatualizada",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "A tua extensão está desatualizada. Atualiza-a para obteres os recursos mais recentes descarregando-a no nosso site.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Atualização urgente",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Lançámos uma atualização urgente para a extensão. Atualiza-a para poderes continuar a usar o PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Sem conexão à Internet!",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Parece que não tens conexão à internet! PreMiD não vai conseguir mostrar presences no momento.",
+		"message": "Parece que não tens uma conexão à internet! O PreMiD não vai conseguir mostrar presenças no momento.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
@@ -100,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "O PreMiD não conseguiu conectar-se à aplicação do Discord! Está instalado ou aberto? *Solução de problemas*",
+		"message": "O PreMiD não conseguiu ligar-se à aplicação do Discord! Tens a certeza de que está instalada e aberta? *Solução de problemas*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
