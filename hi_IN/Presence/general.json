@@ -31,6 +31,10 @@
 		"message": "शैली",
 		"description": ""
 	},
+	"general.language": {
+		"message": "भाषा",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "संगीत सुन रहा है",
 		"description": ""
@@ -105,6 +109,10 @@
 	},
 	"general.shopCart": {
 		"message": "शॉपिंग कार्ट",
+		"description": ""
+	},
+	"general.store": {
+		"message": "स्टोर",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -189,6 +197,22 @@
 	},
 	"general.viewing": {
 		"message": "देख रहे हैं:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "पृष्ठ देखना:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "फिल्में देखते हुए",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "श्रृंखला देखते हुए",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "शौ देखना",
 		"description": ""
 	},
 	"general.watchingVid": {

@@ -1,10 +1,10 @@
 {
     "youtube.ad": {
-        "message": "Guardando un annuncio",
+        "message": "Guardando una pubblicità",
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Navigando tra i video",
+        "message": "Navigando tra i videos",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
