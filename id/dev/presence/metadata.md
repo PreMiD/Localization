@@ -252,31 +252,31 @@ Pengaturan `multiLanguage` dapat digunakan untuk mengizinkan user memilih bahasa
 
 Pengaturan `multiLanguage` adalah kasus yang spesial, tidak dibutuhkan `title` atau `icon` atau `value` ataupun `values` seperti pengaturan lainnya tapi membutuhkan beberapa konfigurasi!
 
-The `multiLanguage` key can be set to the following:
+Key `multiLanguage` bisa di ubah menjadi:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: gunakan ini jika anda hanya ingin menggunakan string dari file `general.json` dan file `<service>.json` dari [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: nama dari file kecuali ekstensi (.json) di dalam [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (kecuali file `general`, karena selalu dimuat). Hanya bahasa umum dari file `general` dan yang dimasukkan akan dicantumkan. `Array<String>`: jika anda menggunakan lebih dari satu file di dalam [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) anda bisa menentukan semua value dalam sebuah array (kecuali file `general`, karena selalu dimuat). Hanya bahasa umum dari semua file yang akan dicantumkan.
 
-#### Adding new strings
+#### Menambahkan string baru
 
-##### Cloning the project
+##### Mengkloning project
 
 1. Buka terminal dan ketik `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Pilih folder pilihanmu.
+3. Buka di editor kodemu.
 
-##### Creating the file
+##### Membuat file
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Pergi ke folder `src`.
+2. Pergi ke folder `Presence`.
+3. Buat file bernama `<service>.json`. (Service adalah **nama** (bukan URL) dalam huruf kecil dari service yang ingin anda dukung.)
 
-##### Adding the strings
+##### Menambahkan string
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Setiap `string` adalah `Object` dimana dari namanya dimulai dengan nama service kemudian yang disebut stringName dengan titik diantaranya.
 
-The stringName is a 1 word identifier of the message.
+stringName adalah identifier 1 kata dari pesan.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+`Object` memiliki 2 properti; `message` dan `description`. `message` adalah teks yang perlu diterjemahkan. `description` is a description of the message to help our translators understand what they are translating.
 
 **Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
 
@@ -300,7 +300,7 @@ After you have fully made the file with strings you can create a Pull Request on
 #### Default keys
 The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
 
-**Note:** These are in no way changeable.
+**Catatan:** Ini sama sekali tidak bisa diubah.
 
 ### Metode
 
@@ -308,8 +308,8 @@ Gunakan metode berikut untuk mendapat info pengaturan pada file presence:
 #### `getSetting(String)`
 Mengembalikan value dari pengaturan.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); //Ubah pdexID dengan id dari setting
+console.log(setting); // Ini akan mencatat isi dari setting
 ```
 
 #### `hideSetting(String)`
