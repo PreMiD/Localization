@@ -37,7 +37,7 @@ Parameter pertama membutuhkan `String` yang akan digunakan sebagai identifier un
 
 Parameter kedua memerlukan [interface `PresenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan semua yang ingin anda tampilkan di slide.
 
-Parameter ketiga membutuhkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilakn oleh slide tersebut.
+Parameter ketiga membutuhkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilkan oleh slide tersebut.
 
 ### `getSlides()`
 
@@ -51,7 +51,7 @@ Parameter pertama membutuhkan `String` yaitu sebagai identifier unik dari slide 
 
 Parameter kedua memerlukan [interface `PresenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan semua informasi yang ingin anda tampilkan di slide.
 
-Parameter ketiga membutuhkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilakn oleh slide tersebut.
+Parameter ketiga membutuhkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilkan oleh slide tersebut.
 
 ### `hasSlide(String)`
 
@@ -89,10 +89,10 @@ Mengembalikan objek [`PresenceData`](/dev/presence/class#presencedata-interface)
 
 Menetapkan slide data berdasarkan data yang tersedia.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Anda harus menambahkan interface `PresenceData` untuk mendapatkan semua informasi yang sangat ingin anda perlihatkan di profil anda.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Mengatur interval dari slide sesuai data yang diberikan.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Anda harus menambahkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilkan oleh slide tersebut.
