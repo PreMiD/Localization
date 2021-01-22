@@ -23,6 +23,18 @@
 		"message": "Presence রিমুভ করো",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.category.filters.allowAdult": {
+		"message": "NSFW (18+) দেখাও",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "শুধু লাইক করা Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "অ্যাড করা Presences দেখাও",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "ক্যাটাগরিস",
 		"description": "Category heading"
