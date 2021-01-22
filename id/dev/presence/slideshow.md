@@ -45,43 +45,43 @@ Mengembalikan semua slide yang disimpan di `Slideshow` sebagai `Array` dari[`Sli
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Memperbarui slide yang memiliki `id` sesuai data yang diberikan.
+Memperbarui slide dari `id` yang diberikan sesuai dengan data yang diberikan.
 
 Parameter pertama membutuhkan `String` yaitu sebagai identifier unik dari slide yang ingin anda perbarui.
 
 Parameter kedua memerlukan [interface `PresenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan semua informasi yang ingin anda tampilkan di slide.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Parameter ketiga membutuhkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilakn oleh slide tersebut.
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Mengembalikan `Boolean` yang manyatakan apakah slide ditambahkan ke `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Menghapus slide dengan `id` yang diberikan, dari `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+Parameter pertama membutuhkan `String` yaitu sebagai identifier unik dari slide yang ingin anda hapus.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Menghapus semua slide dari `Slideshow`.
 
-# SlideshowSlide Class
+# Kelas SlideshowSlide
 
 ## Perkenalan
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+`SlideshowSlide` adalah representasi internal dari setiap slide di `Slideshow`.
 
 ## Properti
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Mengembalikan `String` dari id slide.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Mengembalikan objek [`PresenceData`](/dev/presence/class#presencedata-interface) dari `PresenceData` yang disimpan di slide.
 
 ## Metode
 
