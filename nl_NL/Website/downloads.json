@@ -119,6 +119,10 @@
     "message": "Login",
     "description": "Login button on the downloads page."
   },
+  "downloads.button.skipanyway": {
+    "message": "Toch overslaan",
+    "description": "Skip Anyway button on the ads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Bedankt!",
     "description": "Title of the advertisement section box."
