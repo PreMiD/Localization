@@ -23,8 +23,20 @@
 		"message": "Presence রিমুভ করো",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.category.heading": {
+		"message": "ক্যাটাগরিস",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "সব",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "গেমস",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "মিউজিক",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
@@ -38,5 +50,9 @@
 	"store.category.other": {
 		"message": "অন্যান্য",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "সার্চ",
+		"description": "Placeholder for presence search"
 	}
 }
