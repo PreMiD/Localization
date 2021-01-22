@@ -276,29 +276,29 @@ Setiap `string` adalah `Object` dimana dari namanya dimulai dengan nama service 
 
 stringName adalah identifier 1 kata dari pesan.
 
-`Object` memiliki 2 properti; `message` dan `description`. `message` adalah teks yang perlu diterjemahkan. `description` is a description of the message to help our translators understand what they are translating.
+`Object` memiliki 2 properti; `message` dan `description`. `message` adalah teks yang perlu diterjemahkan. `description` adalah deskripsi dari `message` untuk membantu penerjemah kami memahami apa yang mereka terjemahkan.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Catatan:** Jangan menambahkan string ganda. (Ini mencakupi string diluar file `general.json` tapi tidak file lainnya.)
 
-Visualization of the the file:
+Visualisasi dari file:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Teks yang perlu diterjebahkan.",
+    "description": "Ini menjelaskan apa message diatas itu."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Teks yang perlu diterjebahkan.",
+    "description": "Ini menjelaskan apa message diatas itu."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Setelah anda berhasil membuat file dengan string anda bisa membuat Pull Request ke [Localization Repository](https://github.com/PreMiD/Localization), di deskripsi anda **harus** mencantumkan tautan (link) ke Pull Request dari presence yang diperbarui menggunakan string baru dari [Presence Repository](https://github.com/PreMiD/Presences).
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Key default
+Key yang tidak perlu kamu atur karena sudah otomatis adalah: `title`: "Language" **Catatan:** Ini diterjemahkan ke bahasa default mereka (bahasa dari browser). `icon`: ""fas fa-language" ([Pratinjau](https://fontawesome.com/icons/language)) `value`: **Mengatur ke bahasa dari browser mereka jika tersedia (100% translated), atau bahasa Inggris.** `values`: **Mengatur ke bahasa yang tersedia (bahasa yang sudah 100% diterjemahkan).**
 
 **Catatan:** Ini sama sekali tidak bisa diubah.
 
