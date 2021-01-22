@@ -52,7 +52,7 @@
 		"description": "Translate -> redirects to locilazation page"
 	},
 	"footer.supportus.jobs": {
-		"message": "Trabalha connosco!",
+		"message": "Trabalhe conosco!",
 		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
