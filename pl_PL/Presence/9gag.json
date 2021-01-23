@@ -7,6 +7,10 @@
         "message": "Przegląda to, co jest na topie",
         "description": ""
     },
+    "9gag.trending": {
+        "message": "Przegląda co trenduje",
+        "description": ""
+    },
     "9gag.fresh": {
         "message": "Przegląda nowe treści",
         "description": ""
