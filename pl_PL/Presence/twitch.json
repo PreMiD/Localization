@@ -99,6 +99,26 @@
 		"message": "Zarządza rolami społeczności...",
 		"description": ""
 	},
+	"twitch.produce": {
+		"message": "W Producencie wideo...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Przegląda",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Statystyki kanału",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Podsumowanie streama",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Osiągnięcia",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
 	"twitch.clips": {
 		"message": "Klipy",
 		"description": "Part 2 of the string: \"Viewing their\""
