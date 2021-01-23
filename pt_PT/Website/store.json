@@ -67,6 +67,10 @@
 		"message": "Jogos",
 		"description": "Category at the top"
 	},
+	"store.category.music": {
+		"message": "Música",
+		"description": "Category at the top"
+	},
 	"store.category.socials": {
 		"message": "Sociais",
 		"description": "Category at the top"

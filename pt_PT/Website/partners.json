@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Parceiros",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "Junte-se ao pessoal e obtenha alguns benefícios exclusivos de parceiros para mostrar quanto swag tem.",
 		"description": "Description for page."
@@ -50,6 +54,10 @@
 	"partners.why.benefit5.description": {
 		"message": "Destacado em nossas redes sociais.",
 		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Requesitos",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "O que estamos a procurar?",
