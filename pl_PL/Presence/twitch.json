@@ -79,6 +79,26 @@
 		"message": "Oglądanie oddziału...",
 		"description": ""
 	},
+	"twitch.modStreamer": {
+		"message": "Moderuje streamera:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Odbiera kod...",
+		"description": ""
+	},
+	"twitch.dashboard": {
+		"message": "W panelu",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Zarządzania swoim streamem...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Zarządza rolami społeczności...",
+		"description": ""
+	},
 	"twitch.clips": {
 		"message": "Klipy",
 		"description": "Part 2 of the string: \"Viewing their\""
