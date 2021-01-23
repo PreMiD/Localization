@@ -6,5 +6,41 @@
 	"home.introduction.button.features": {
 		"message": "फीचर्स",
 		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "डाउन्लोड",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "एक गेम खेलें",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} बचा है",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} बीता हुआ",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "वापस चलाएँ रहा है",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "लाइव",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "ब्राउजिंग",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "आप इन सुविधाओं को प्यार करेंगे!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "**अपना** ढूँढो presence",
+		"description": "Features section subheading"
 	}
 }
