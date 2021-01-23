@@ -23,6 +23,10 @@
 		"message": "Presence রিমুভ করো",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.category.filters.heading": {
+		"message": "ফিল্টারস",
+		"description": "Searh filters option at the store page"
+	},
 	"store.category.filters.allowAdult": {
 		"message": "NSFW (18+) দেখাও",
 		"description": "Adult content checkbox"
@@ -66,5 +70,13 @@
 	"store.search": {
 		"message": "সার্চ",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "এন্টার",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "ক্লিক করো ফিল্টার সরাতে",
+		"description": "Remove message for active search filters."
 	}
 }
