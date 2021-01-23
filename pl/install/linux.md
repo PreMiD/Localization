@@ -74,13 +74,13 @@ Nie wiadomo, czy starsze wersje innych dystrybucji go obsługują, więc po pros
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Dołącz do naszego Discorda!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Dołącz do naszego Discorda!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### Twórcy
 
 Podziękowania dla:
 
@@ -92,7 +92,7 @@ Podziękowania dla:
 
 <a name="license"></a>
 
-### License
+### Licencja
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ Pakiet AppImage jest zalecany, jeśli Discord działa, ale inne pakiety PreMiD (
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Instrukcja instalacji
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Dodatkowe uwagi
 
 Jeśli chcesz wypróbować PreMiD, albo po prostu nie chcesz go instalować, ten jest najlepszy, jest zawsze aktualny, ale _NIE URUCHAMIA SIĘ AUTOMATYCZNIE Z SYSTEMEM!_</br>Jeśli męczy Cię konieczność otwierania go za każdym razem, użyj innych pakietów (zgodnie z dystrybucją).
 
@@ -127,7 +127,7 @@ Jeśli chcesz wypróbować PreMiD, albo po prostu nie chcesz go instalować, ten
 
 # PackageCloud
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Wydaliśmy paczki deb/rpm na naszym repozytorium paczek. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
 
 Dla **Ubuntu/Debian**:
 
@@ -135,7 +135,7 @@ Dla **Ubuntu/Debian**:
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-For **Fedora/CentOS/RedHat**:
+Dla **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
@@ -152,7 +152,7 @@ Użycie [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> 
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Instrukcje instalacji
 
 ```bash
 # Użycie yay (zalecane)
@@ -182,7 +182,7 @@ lub ręcznie z [Arch User Repository](https://aur.archlinux.org/packages/premid)
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Dodatkowe uwagi
 
 Jeśli twoja dystrybucja używa Pacmana, musisz najpierw zainstalować jednego z pomocników. Jeśli nie masz, Yay jest zalecane, uruchom:
 
