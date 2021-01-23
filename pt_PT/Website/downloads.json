@@ -4,7 +4,7 @@
     "description": "Title"
   },
   "downloads.header.subtitle": {
-    "message": "Use o PreMiD agora e mostre aos seus amigos o que está a fazer, talvez encontre alguém com os mesmos interesses.",
+    "message": "Usa o PreMiD agora e mostra aos teus amigos o que estás a fazer. Pode ser que encontres alguém com os mesmos interesses.",
     "description": "Subtitle for header"
   },
   "downloads.instructions.heading": {
@@ -16,11 +16,11 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_2": {
-    "message": "Instale a nossa aplicação",
+    "message": "Instala a nossa aplicação",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_3": {
-    "message": "Adiciona a nossa extensão ao seu navegador",
+    "message": "Adiciona a nossa extensão ao teu navegador",
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
@@ -52,7 +52,7 @@
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   },
   "downloads.mobile.errorMessage": {
-    "message": "Esteja ciente que PreMid não é suportado nos telemóveis.",
+    "message": "Esteja ciente que PreMiD não é suportado nos telemóveis.",
     "description": "Downloads page warning when user is on mobile."
   },
   "downloads.mobile.showDownloads": {
@@ -92,7 +92,7 @@
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
   },
   "downloads.warning.message.opera": {
-    "message": "Tens que instalar **esta** extensão para poder instalar PreMid pelo Chrome Webstore.",
+    "message": "Tens que instalar **esta** extensão para poder instalar PreMiD pelo Chrome Webstore.",
     "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
   },
   "downloads.button.skip": {
