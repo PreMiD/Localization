@@ -3,6 +3,10 @@
         "message": "Czyta tweeta:",
         "description": ""
     },
+    "twitter.viewDms": {
+        "message": "Przegląda swoje wiadomości",
+        "description": ""
+    },
     "twitter.viewTweets": {
         "message": "Przegląda tweety:",
         "description": ""
