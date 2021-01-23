@@ -15,6 +15,22 @@
 		"message": "Strona główna",
 		"description": "A page name"
 	},
+	"premid.pageContributors": {
+		"message": "Kontrybutorzy",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Pobieranie",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Sklep",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnerzy",
+		"description": "A page name"
+	},
 	"premid.pageAbout": {
 		"message": "O PreMiD",
 		"description": "A page name"
@@ -23,9 +39,21 @@
 		"message": "Wymagania systemowe",
 		"description": "A page name"
 	},
+	"premid.pageInstall": {
+		"message": "Instalacja",
+		"description": "A page name"
+	},
 	"premid.pageInstallFor": {
 		"message": "Instalacja dla {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Rozwiązywanie problemów",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Pierwsze kroki",
+		"description": "A page name"
 	},
 	"premid.pageApi": {
 		"message": "API",
