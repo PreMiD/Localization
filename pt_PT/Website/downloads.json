@@ -64,7 +64,7 @@
     "description": "Little button on the downloads page for mobile users."
   },
   "downloads.warning.differentVersion": {
-    "message": "A versão atual desta plataforma é {0} (esta versão é específica para Linux, e não aplica-se a outras plataformas).",
+    "message": "A versão atual desta plataforma é {0} (esta versão é específica para Linux e não aplica-se a outras plataformas).",
     "description": "Tippy message of the Linux card."
   },
   "downloads.warning.differentVersion2": {
@@ -72,7 +72,7 @@
     "description": "Tippy message of the version number when user is on Linux."
   },
   "downloads.error.login": {
-    "message": "Por favor, fala login para ver estes downloads.",
+    "message": "Inicia sessão para veres estes downloads.",
     "description": "Error message if the user is not logged in."
   },
   "downloads.error.noaccess.title": {
@@ -84,7 +84,7 @@
     "description": "More info if the user doesn't alpha/beta access."
   },
   "downloads.latest.header": {
-    "message": "Lançamentos Antecipados",
+    "message": "Versões de teste",
     "description": "Header above alpha/beta download buttons."
   },
   "downloads.warning.title": {
