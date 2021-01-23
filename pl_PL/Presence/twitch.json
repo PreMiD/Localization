@@ -87,6 +87,26 @@
 		"message": "Odbiera kod...",
 		"description": ""
 	},
+	"twitch.campBasic": {
+		"message": "Poznaj podstawy",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Konfigurowanie streamu",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Nowy poziom",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Zdobywaj nagrody",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Muzyka na Twitchu",
+		"description": "Page name"
+	},
 	"twitch.dashboard": {
 		"message": "W panelu",
 		"description": "Page name"
@@ -117,6 +137,18 @@
 	},
 	"twitch.achievements": {
 		"message": "Osiągnięcia",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Aktywność Społeczności",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Lista obserwujących",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Kolekcje wideo",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.clips": {
