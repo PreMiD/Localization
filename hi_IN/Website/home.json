@@ -42,5 +42,49 @@
 	"home.features.presencesystem.heading": {
 		"message": "**अपना** ढूँढो presence",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "हमने अपना एक्सटेंशन इस तरह से बनाया है, जिससे आप दूसरों द्वारा बनाई गई Presences को जोड़ सकते हैं और उनका उपयोग कर सकते हैं और उन्हें हमारे एक्सटेंशन में प्रबंधित कर सकते हैं!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "स्टोर विजिट करे",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "सरल उपयोगकर्ता इंटरफ़ेस",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "जटिल उपयोगकर्ता इंटरफेस से थक गए? इसलिए हमने अपने UI को महत्वपूर्ण सुविधाओं के साथ यथासंभव सरल और उपयोगी बनाए रखने की कोशिश की:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "ऐप और एक्सटेंशन सेटिंग",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence संचालन",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "श्रेणी के आधार पर छाँटें",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "त्वरित समर्थन",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "कुछ गड़बड़ है, आप त्रुटियों के टन भेजने या बस काम नहीं कर रहा है? हम आपको अपने डिसॉर्ड सर्वर पर उन मुद्दों से छुटकारा पाने में मदद करेंगे, हमने अपनी सहायता प्रणाली भी बनाई है जो यह सुनिश्चित करेगी कि आपका मुद्दा जल्द से जल्द सुलझ जाए।",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "हमारा डिसॉर्ड में शामिल हो",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "वेबसाइट भाषा",
+		"description": "Tippy content of the language selector."
 	}
 }
