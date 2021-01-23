@@ -18,5 +18,13 @@
 	"netflix.profile": {
 		"message": "Gestendo i loro profili",
 		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Visualizzazione di ciò che è nuovo e{0}popolare su Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Ottenere il loro{0}link di segnalazione",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	}
 }
