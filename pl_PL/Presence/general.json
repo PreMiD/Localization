@@ -203,6 +203,18 @@
 		"message": "Przegląda stronę:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Oglądanie filmu",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Oglądanie serialu",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Ogrądanie programu",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Ogląda film",
 		"description": ""
