@@ -175,6 +175,46 @@
 		"message": "Przeglądanie rozszerzeń",
 		"description": ""
 	},
+	"twitch.brand": {
+		"message": "Czytanie na temat marki Twitcha...",
+		"description": ""
+	},
+	"twitch.blogs": {
+		"message": "Twitch Blogi",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Przegląda archiwum blogów {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.help": {
+		"message": "Centrum Pomocy",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Przegląda temat:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Przeglądanie katalogu tematów...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Program partnerski Twitch",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "Programiści Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Dokumentacja programisty Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Historie sukcesu społeczności",
+		"description": "Page name"
+	},
 	"twitch.devSupport": {
 		"message": "Pomocne Zasoby",
 		"description": "Page name"
