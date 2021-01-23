@@ -70,5 +70,21 @@
 	"popup.info.notConnected": {
 		"message": "No conectat",
 		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMid no s'ha pogut conectar a l'aplicació! Esta instal·lat? *Solucionant Problemes*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Aplicació Desactualitzada",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "La teva aplicació PreMiD esta desactualitzada. Actualitzala pero continuar utilitzant PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Extensió Desactualitzada",
+		"description": "Shown when Extension is outdated. Only for Safari port."
 	}
 }
