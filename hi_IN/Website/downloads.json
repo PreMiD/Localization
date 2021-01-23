@@ -119,6 +119,10 @@
     "message": "लॉग इन करें",
     "description": "Login button on the downloads page."
   },
+  "downloads.button.skipanyway": {
+    "message": "वैसे भी छोड़ें",
+    "description": "Skip Anyway button on the ads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "धन्यवाद!",
     "description": "Title of the advertisement section box."
@@ -126,6 +130,10 @@
   "downloads.adsbox.thankyou.message": {
     "message": "हम हमारी टीम का समर्थन करने और आपको सर्वश्रेष्ठ उपयोगकर्ता अनुभव प्रदान करने के लिए हमारे सर्वर को बनाए रखने के लिए विज्ञापनों का उपयोग करते हैं",
     "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "कृपया अपने एडब्लॉक को अक्षम करें",
+    "description": "Message next to pepe."
   },
   "downloads.showbeta.message": {
     "message": "बीटा डाउनलोड दिखाएं",
