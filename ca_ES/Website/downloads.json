@@ -1,1 +1,42 @@
-{}
+{
+  "downloads.instructions.step_1": {
+    "message": "Descarregar PreMiD",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_2": {
+    "message": "Instala la nostra aplicació",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_3": {
+    "message": "Afegeix la nostra extensió al teu cercador web",
+    "description": "Heading for installing the application"
+  },
+  "downloads.instructions.step_4": {
+    "message": "Torna a carregar la plana web y verifica que la extensió hi sigui conectada",
+    "description": "I think you get what this is..."
+  },
+  "downloads.instructions.footer": {
+    "message": "Segueixes tenint problemes? {0}",
+    "description": "{0} will be replaced with footer.link"
+  },
+  "downloads.instructions.footer.link": {
+    "message": "Estem aqui per ajudar-te!",
+    "description": "Link to our discord"
+  },
+  "downloads.appdownloading.header": {
+    "message": "Aplicació",
+    "description": "Header above application download buttons."
+  },
+  "downloads.extdownloading.header": {
+    "message": "Extensió",
+    "description": "Header above extension download buttons."
+  },
+  "downloads.tooltips.os_not_supported.part1": {
+    "message": "Avís:",
+    "description": "First part of the message."
+  },
+  "downloads.tooltips.os_not_supported.part2": {
+    "message": "{0} No hi ha instal·lador per aquest sistema operatiu.\nAixo vol dir que no hi ha suport profesional per ell.",
+    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+  }
+}
