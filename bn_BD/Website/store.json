@@ -11,6 +11,10 @@
 		"message": "এই Presence - টি ইউজারদের মাঝে বেশ জনপ্রিয়।",
 		"description": "Presence card popular flame"
 	},
+	"store.cards.partner": {
+		"message": "পার্টনারড Presence",
+		"description": "Presence card partner flame"
+	},
 	"store.header.search": {
 		"message": "Presence সার্চ করো",
 		"description": "Search bar text when nothing is stated"
