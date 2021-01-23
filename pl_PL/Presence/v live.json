@@ -3,8 +3,44 @@
 		"message": "Przegląda",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.newVid": {
+		"message": "stronę nowych filmów",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "stronę wydarzeń",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "stronę sklepu",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"v live.viewTheir": {
 		"message": "Przegląda swoje",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.watched": {
+		"message": "obejrzane filmy",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "ostatnie zakupy",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "saldo monet",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "połączone urządzenia",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "śledzone kanały",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Czytanie zasad",
+		"description": ""
 	}
 }
