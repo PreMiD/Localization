@@ -38,5 +38,21 @@
   "tab.updated.heading": {
     "message": "Pujada de nivell!",
     "description": "Title of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.subHeading": {
+    "message": "{0} ha pujat de nivell!",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.new": {
+    "message": "Novetats",
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.changed": {
+    "message": "Modificat",
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.fixed": {
+    "message": "Arreglat",
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
