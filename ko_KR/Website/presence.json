@@ -28,7 +28,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
-		"message": "사용자들",
+		"message": "사용자",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {

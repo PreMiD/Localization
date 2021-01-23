@@ -16,7 +16,7 @@
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "불러오는 중",
+    "message": "불러오는중",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
