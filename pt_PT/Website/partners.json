@@ -56,7 +56,7 @@
 		"description": "Description for the fifth benefit."
 	},
 	"partners.requirements.title": {
-		"message": "Requesitos",
+		"message": "Requisitos",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
@@ -183,6 +183,14 @@
 		"message": "Website",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "Outro",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nome",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ex: PreMiD",
 		"description": "Name field's placeholder."
@@ -218,6 +226,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "Aplicar",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Obrigado por te candidatares!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Por favor, preencha todos os campos.",
