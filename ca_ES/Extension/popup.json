@@ -55,6 +55,10 @@
 		"message": "Carregar presencia",
 		"description": "Load Presence button"
 	},
+	"popup.buttons.presenceStore": {
+		"message": "Botiga de presencies",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
 	"popup.buttons.help": {
 		"message": "Nesecites ajuda?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
@@ -86,5 +90,61 @@
 	"popup.info.safari.outdatedExtension": {
 		"message": "Extensió Desactualitzada",
 		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "La teva esxtensió esta desactualitzada, Sius plau actualitza-la per aconseguir-hi les ultimes novetats descarregant-la desde la nostra pàgina web.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Actualitzat, Urgent",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Hem tret una actualització urgent per la nostra extenció. Sius play actualitza-la per a continuar utilitzant PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "No hi ha conexió a internet!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Es veu que no tens conexió a internet! PreMiD no podra mostrar les presencies en aquest moment.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "No hi ha conexió amb Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMid no s'ha pogut conectar amb la teva aplicació de Discord! Esta instal·lada? *Solucionant Problemes*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "Tot",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Música",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Videojocs",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Xarxes Sociales",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Videos & Directes",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Altres",
+		"description": "Category name shown when you open tags"
 	}
 }

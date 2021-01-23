@@ -1,1 +1,42 @@
-{}
+{
+  "tab.button.changelog": {
+    "message": "Registre de canvis",
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.button.wiki": {
+    "message": "Viquipèdia",
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.heading": {
+    "message": "Gràcies",
+    "description": "Title of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.subHeading": {
+    "message": "per intal·lar {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.start": {
+    "message": "Comença a utilitzar {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
+  },
+  "donate": {
+    "message": "Donar",
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.error": {
+    "message": "**Oh no!** No sh'a pogut conectar amb l'aplicacio... Esta instal·lada?",
+    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.troubleshooting": {
+    "message": "Solucionar Problemes",
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.installApplication": {
+    "message": "Intal·lar aplicació",
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.updated.heading": {
+    "message": "Pujada de nivell!",
+    "description": "Title of the tab which opens when PreMiD was updated"
+  }
+}

@@ -1,1 +1,30 @@
-{}
+{
+  "presence.playback.playing": {
+    "message": "Reproduïnt cap enrere",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
+  },
+  "presence.playback.paused": {
+    "message": "Reproducció en pausa",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
+  },
+  "presence.activity.browsing": {
+    "message": "Ceracant...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "En Viu",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "Llegint",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "Cercant",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "Episodi {0}",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
+  }
+}

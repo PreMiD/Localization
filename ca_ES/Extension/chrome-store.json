@@ -1,1 +1,6 @@
-{}
+{
+  "extension.description.short": {
+    "message": "La teva presencia enrequeïda per a servells web!",
+    "description": "Short description in extension store"
+  }
+}
