@@ -52,7 +52,7 @@
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
   },
   "downloads.mobile.errorMessage": {
-    "message": "Esteja ciente que PreMiD não é suportado nos telemóveis.",
+    "message": "Atenção: o PreMiD não é suportado em telemóveis.",
     "description": "Downloads page warning when user is on mobile."
   },
   "downloads.mobile.showDownloads": {
