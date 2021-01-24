@@ -20,7 +20,7 @@
         "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
-        "message": "Czyta informację o kanale:",
+        "message": "Czyta o kanale:",
         "description": ""
     },
     "youtube.searchChannel": {
