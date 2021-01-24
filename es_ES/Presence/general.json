@@ -124,27 +124,27 @@
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "Viendo anime:",
+		"message": "Mirando el anime:",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Viendo categoría:",
+		"message": "Revisando la categoría:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "Viendo canal:",
+		"message": "Revisando el canal:",
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "Viendo episodio:",
+		"message": "Mirando el episodio:",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "Viendo género:",
+		"message": "Revisando el género:",
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Viendo página de inicio",
+		"message": "Revisando la página principal",
 		"description": ""
 	},
 	"general.viewList": {
