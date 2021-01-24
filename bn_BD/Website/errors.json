@@ -11,8 +11,24 @@
 		"message": "তুমি এমন একটি Presence খুঁজছ যেটি নেই কিংবা ডিলিট করা হয়েছে।",
 		"description": "Error (4) message"
 	},
+	"error.code.500": {
+		"message": "ইন্টারনাল সার্ভারে Error ঘটেছে।",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "বিস্তারিত",
+		"description": "'Details' text on error page container"
+	},
 	"error.page.button": {
 		"message": "হোমপেজে ব্যাক করো",
 		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "সেই ইউজারকে পাওয়া যায়নি। নিশ্চিত করার চেষ্টা করো",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "যে তুমি যে ইউজার এর আইডি খুঁজছ সেটি ঠিক আছে।",
+		"description": "Check user ID message."
 	}
 }
