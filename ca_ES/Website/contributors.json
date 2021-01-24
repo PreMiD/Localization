@@ -1,1 +1,26 @@
-{}
+{
+	"contributors.headings.supporters": {
+		"message": "Contribuïdors",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Traductors",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.administrator": {
+		"message": "Administrador",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Desenvolupador",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Dissenyador",
+		"description": "'Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderador",
+		"description": "'Moderator' title for contributors and user pages."
+	}
+}
