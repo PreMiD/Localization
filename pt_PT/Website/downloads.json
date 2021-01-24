@@ -140,7 +140,7 @@
     "description": ""
   },
   "downloads.showbeta.small": {
-    "message": "(não é necessário se está apenas aqui para descarregar a aplicação normal)",
+    "message": "(não é necessário se apenas quiseres descarregar a aplicação normal)",
     "description": "Small text under the show beta title."
   }
 }
