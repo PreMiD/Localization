@@ -30,5 +30,13 @@
 	"user.notFound.message1": {
 		"message": "যে তুমি যে ইউজার এর আইডি খুঁজছ সেটি ঠিক আছে।",
 		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "ইউজারটি যথেষ্ট Presences তৈরি করেছে এবং আমাদের Discord সার্ভারে Presence Developer রোল আছে।",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "যদি অন্যরাও একইরকম সমস্যা দেখতে পাচ্ছে আমাদের Discord সার্ভারে।",
+		"description": "Check if the error is also happening to others message."
 	}
 }
