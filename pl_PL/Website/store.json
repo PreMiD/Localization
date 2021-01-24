@@ -72,7 +72,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Społeczność",
+		"message": "Społeczności",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
@@ -92,7 +92,7 @@
 		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
-		"message": "Kliknij aby usunąć filtr",
+		"message": "Kliknij, aby usunąć filtr",
 		"description": "Remove message for active search filters."
 	}
 }
