@@ -32,7 +32,7 @@
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "Przeglądanie ich",
+        "message": "Przeglądanie swoich",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
