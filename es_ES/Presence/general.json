@@ -148,51 +148,51 @@
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "Viendo lista de:",
+		"message": "Revisando la lista de:",
 		"description": ""
 	},
 	"general.viewManga": {
-		"message": "Viendo manga:",
+		"message": "Leyendo el manga:",
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "Viendo miembro:",
+		"message": "Viendo al miembro:",
 		"description": ""
 	},
 	"general.viewMovie": {
-		"message": "Viendo película:",
+		"message": "Mirando la película:",
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Viendo lista de reproducción:",
+		"message": "Revisando la lista de reproducción:",
 		"description": ""
 	},
 	"general.viewProduct": {
-		"message": "Viendo producto:",
+		"message": "Revisando el producto:",
 		"description": ""
 	},
 	"general.viewProfile": {
-		"message": "Viendo perfil de:",
+		"message": "Revisando el perfil de:",
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "Viendo series:",
+		"message": "Mirando la serie:",
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "Viendo serie:",
+		"message": "Mirando el show:",
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "Viendo su cuenta",
+		"message": "Revisando su cuenta",
 		"description": ""
 	},
 	"general.viewThread": {
-		"message": "Viendo hilo:",
+		"message": "Leyendo el hilo:",
 		"description": ""
 	},
 	"general.viewUser": {
-		"message": "Viendo usuario:",
+		"message": "Viendo al usuario:",
 		"description": ""
 	},
 	"general.viewing": {
