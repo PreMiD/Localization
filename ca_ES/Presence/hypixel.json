@@ -1,1 +1,14 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "Mirant la llista d'administradors",
+        "description": ""
+    },
+    "hypixel.dm": {
+        "message": "Mirant els seus missatges directes",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Mirant videojoc:",
+        "description": ""
+    }
+}
