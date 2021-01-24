@@ -32,7 +32,7 @@
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
-		"message": "Deweloper",
+		"message": "Developer",
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
@@ -68,7 +68,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Kliknij by skopiować ID użytkownika.",
+		"message": "Kliknij, aby skopiować ID użytkownika.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
