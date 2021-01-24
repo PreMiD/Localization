@@ -56,23 +56,23 @@
 		"description": ""
 	},
 	"twitch.viewDropsInv": {
-		"message": "Przeglądanie ich drop'ów...",
+		"message": "Przeglądanie swoich dropów...",
 		"description": ""
 	},
 	"twitch.viewDropsComp": {
-		"message": "Przeglądanie aktywnych drop'ów..",
+		"message": "Przeglądanie aktywnych kampanii dropów...",
 		"description": ""
 	},
 	"twitch.viewSettings": {
-		"message": "Przeglądanie ich ustawień...",
+		"message": "Przeglądanie swoich ustawień...",
 		"description": ""
 	},
 	"twitch.viewFriends": {
-		"message": "Przeglądanie ich znajomych...",
+		"message": "Przeglądanie swoich znajomych...",
 		"description": ""
 	},
 	"twitch.subs": {
-		"message": "Przeglądanie ich subskrypcji...",
+		"message": "Przeglądanie swoich subskrypcji...",
 		"description": ""
 	},
 	"twitch.squad": {
@@ -144,7 +144,7 @@
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.followList": {
-		"message": "Lista obserwujących",
+		"message": "Listę obserwujących",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.colls": {
