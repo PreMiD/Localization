@@ -87,6 +87,10 @@
 		"message": "Odbiera kod...",
 		"description": ""
 	},
+	"twitch.camp": {
+		"message": "Obóz Twórcy",
+		"description": ""
+	},
 	"twitch.campBasic": {
 		"message": "Poznaj podstawy",
 		"description": "Page name"
@@ -97,6 +101,10 @@
 	},
 	"twitch.campLevel": {
 		"message": "Nowy poziom",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Połącz i zaangażuj",
 		"description": "Page name"
 	},
 	"twitch.campReward": {
