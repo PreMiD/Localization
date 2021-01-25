@@ -115,6 +115,10 @@
 		"message": "SimLiveRadio هو أنجح راديو معلوماتي ترفيهي لألعاب المحاكاة في ألمانيا، النمسا وسويسرا!",
 		"description": "Description for SimLoveRadio."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "باشر بإنشاء مجتمعك الخاص مع قوالبنا المذهلة. ابني مملكتك الخاصة.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.taigaBot": {
 		"message": "تايغا هو بوت ديسكورد يحاول تقديم جميع الميزات التي قد تحتاجها في وقت واحد!",
 		"description": "Description for taigabot."
