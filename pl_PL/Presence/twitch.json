@@ -108,11 +108,15 @@
 		"description": "Page name"
 	},
 	"twitch.campReward": {
-		"message": "Zdobywaj nagrody",
+		"message": "Odbierz nagrodę!",
 		"description": "Page name"
 	},
 	"twitch.campMusic": {
 		"message": "Muzyka na Twitchu",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Szkolenia online",
 		"description": "Page name"
 	},
 	"twitch.dashboard": {
@@ -187,6 +191,26 @@
 		"message": "Czytanie na temat marki Twitcha...",
 		"description": ""
 	},
+	"twitch.brandReal": {
+		"message": "Utrzymanie prawdziwego Twitcha",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Dostarczenie metody do naszego (ukochanego) szaleństwa",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Maksymalizacja naszego wyrażenia",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Składanie wszystkiego w całość",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Ogląda ewolucję marki Twitch",
+		"description": "Watching as in watching a video"
+	},
 	"twitch.blogs": {
 		"message": "Twitch Blogi",
 		"description": ""
@@ -194,6 +218,10 @@
 	"twitch.blogArchive": {
 		"message": "Przegląda archiwum blogów {0}",
 		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Przeglądanie przez najnowsze wpisy na blogu...",
+		"description": ""
 	},
 	"twitch.help": {
 		"message": "Centrum Pomocy",
@@ -217,6 +245,10 @@
 	},
 	"twitch.devDocs": {
 		"message": "Dokumentacja programisty Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produkty programistów Twitch",
 		"description": "Page name"
 	},
 	"twitch.devShowcase": {
