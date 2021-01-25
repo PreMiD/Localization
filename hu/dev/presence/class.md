@@ -22,7 +22,7 @@ const presence = new Presence({
 });
 ```
 
-### Properties
+### Tulajdonságok
 
 There are three properties available for `Presence` class.
 
