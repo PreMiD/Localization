@@ -31,6 +31,22 @@
 		"message": "তুমি এইসব ফিচারসগুলোকে পছন্দ করবে!",
 		"description": "Features section"
 	},
+	"home.features.presencesystem.heading": {
+		"message": "খোঁজ **তোমার** Presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "আমরা আমাদের এক্সটেনশন এমনভাবে তৈরি করেছি যা তোমাকে অন্যদের তৈরি Presences অ্যাড ও ব্যবহার করতে দেবে এবং ম্যানেজ করতে দেবে আমাদের এক্সটেনশনেই!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "স্টোরে যাও",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "সহজ সরল ইউজার ইন্টারফেস",
+		"description": "Features section subheading"
+	},
 	"home.features.quickSupport.button": {
 		"message": "জয়েন করো আমাদের Discord",
 		"description": "Features section button"
