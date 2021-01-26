@@ -7,6 +7,10 @@
 		"message": "ডাউনলোডস",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
+	"home.examples.playingagame": {
+		"message": "একটি গেম খেলছে",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
 	"home.examples.timestamp": {
 		"message": "{0} বাকি",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
@@ -45,6 +49,26 @@
 	},
 	"home.features.simpleInterface.heading": {
 		"message": "সহজ সরল ইউজার ইন্টারফেস",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "ক্লান্ত জটিল ইউজার ইন্টারফেস এর জন্য? তাই তো আমরা তৈরি করেছি এবং চেষ্টা করছি আমাদের UI - কে যতটা সম্ভব সহজ এবং কার্যকরী রাখার জন্যে জরুরি ফিচারস এর সাথে যেমন:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "অ্যাপ এবং এক্সটেনশন সেটিংস",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence ম্যানেজমেন্ট",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "ক্যাটাগরিতে সাজাও",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "দ্রুত সাপোর্ট",
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.button": {
