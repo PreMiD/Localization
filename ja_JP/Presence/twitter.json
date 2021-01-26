@@ -12,7 +12,7 @@
         "description": ""
     },
     "twitter.viewTweetsWithReplies": {
-        "message": "以下のツイート（返信あり）を閲覧中:",
+        "message": "ツイート（返信つき）を閲覧中:",
         "description": ""
     },
     "twitter.viewMedia": {
