@@ -115,9 +115,9 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Bu alan, sadece birden fazla girdi olması durumunda Array olarak kullanılmalıdır.</b></td>
+      <td style="text-align:left">Hizmetin URL'si. <br>
+       <b> Örnek:</b><code>vk.com</code> <br>
+       <b> Bu url, komut dosyasının enjekte edileceği web sitesinin nerede olduğunu tespit etmek için kullanılacağı için web sitesinin url'si ile eşleşmelidir. Bu alan, sadece birden fazla girdi olması durumunda Array olarak kullanılmalıdır.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Hayır</code></td>
     </tr>
@@ -204,7 +204,7 @@ Regex hakkında daha fazla bilgi almak istiyorsanız aşağıdaki sitelere göz 
 
 ## Servis Dilleri
 
-PreMiD, dünya çapındaki kullanıcılarla etkileşimde bulunabilmek için geliştirilmiş bir servistir. Bu yüzden birden çok dili destekler. Desteklenen bilgileri [buradaki](https://api.premid.app/v2/langFile/list) bağlantı üzerinde bulabilirsiniz. To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD, dünya çapındaki kullanıcılarla etkileşimde bulunabilmek için geliştirilmiş bir servistir. Bu yüzden birden çok dili destekler. Desteklenen bilgileri [buradaki](https://api.premid.app/v2/langFile/list) bağlantı üzerinde bulabilirsiniz. Durumunuzu daha da özelleştirmek için kullanıcıların iletişim durumu görüntüleme dilini seçmelerine izin verebilirsiniz, daha fazlası için [` multiLanguage `](#multilanguage) 'a bakın.
 
 ## Servis ayarları
 İnteraktif ayarlar oluşturarak kullanıcıların servisinizi düzenlemesini sağlayın!
