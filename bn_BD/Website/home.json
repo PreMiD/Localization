@@ -1,1 +1,30 @@
-{}
+{
+	"home.introduction.button.features": {
+		"message": "ফিচারস",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "ডাউনলোডস",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} বাকি",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.live": {
+		"message": "লাইভ",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "ব্রাউজিং...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.quickSupport.button": {
+		"message": "জয়েন করো আমাদের Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "ওয়েবসাইটের ভাষা",
+		"description": "Tippy content of the language selector."
+	}
+}
