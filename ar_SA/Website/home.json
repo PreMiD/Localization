@@ -23,6 +23,18 @@
 		"message": "{0} مضت",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
+	"home.examples.status.playing": {
+		"message": "اعادة التشغيل",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "مباشر",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "تصفح...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.features.heading": {
 		"message": "سوف تحب هذه الميزات!",
 		"description": "Features section"
@@ -66,6 +78,10 @@
 	"home.features.quickSupport.description": {
 		"message": "شيء معطل، يرسل لك أطنان من الأخطاء أو ببساطة لا يعمل؟ سوف نساعدك على التخلص من هذه المشكلات على سيرفر ديسكورد الخاص بنا، كما أننا أنشأنا نظام الدعم الخاص بنا والذي سيتأكد من حل مشكلتك بأسرع ما يمكن.",
 		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "انضم إلى Discord الخاص بنا",
+		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "لغة الموقع",
