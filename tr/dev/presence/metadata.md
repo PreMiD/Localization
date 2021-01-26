@@ -259,8 +259,8 @@ The `multiLanguage` key can be set to the following:
 ##### Cloning the project
 
 1. Bir konsol açın ve `git clone https://github.com/PreMiD/Localization` yazın.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Seçtiğiniz bir klasör seçin.
+3. Kod düzenleyicisini açın.
 
 ##### Creating the file
 
@@ -331,7 +331,7 @@ Bir servis oluştururken, servisin bulunacağı geçerli bir kategori belirtmeli
     <tr>
       <th style="text-align:left">Kategori</th>
       <th style="text-align:left">İsim</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Açıklama</th>
     </tr>
   </thead>
   <tbody>
@@ -342,27 +342,27 @@ Bir servis oluştururken, servisin bulunacağı geçerli bir kategori belirtmeli
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Oyunlar</b></td>
       <td style="text-align:left">Oyunlarla alakası olan tüm siteler, <code>Kahoot</code> veya <code>Skribbl.io</code> gibi.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Müzik</b></td>
       <td style="text-align:left">Müzik konusunda içerik barındıran siteler, ister yayınlama ister indirme platformları olabilir.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Sosyal</b></td>
       <td style="text-align:left">Oluşturma veya paylaşma gibi basit sosyal medya ilkelerine sahip siteler.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Videolar ve Akışlar</b></td>
       <td style="text-align:left">Özellikle video yayınlamak için oluşturulmuş platformlar.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Diğer</b></td>
       <td style="text-align:left">Yukarıdaki kategorilerden hiç birine uygun olmayan her şey.</td>
     </tr>
   </tbody>
