@@ -115,6 +115,10 @@
 		"message": "SimLiveRadio هو أنجح راديو معلوماتي ترفيهي لألعاب المحاكاة في ألمانيا، النمسا وسويسرا!",
 		"description": "Description for SimLoveRadio."
 	},
+	"partners.partner.aniWatch": {
+		"message": "احصل على ما هو محق لك. بث انيم، افلام، هنتاي، و الكثير. مجاناً، بدون أي إعلانات وبتعريف عالي!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.discordTemplates": {
 		"message": "باشر بإنشاء مجتمعك الخاص مع قوالبنا المذهلة. ابني مملكتك الخاصة.",
 		"description": "Description for DiscordTemplates."
@@ -130,6 +134,10 @@
 	"partners.partner.statusPage": {
 		"message": "قم بإيصال الحالة في الوقت الحالي بسهولة إلى مستخدميك.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "آلهة تلعب دور بوت ديسكورد ممتع!",
+		"description": "Description for Erisly."
 	},
 	"partners.partner.crowdin": {
 		"message": "مكان رشيق لشركات التكنولوجيا.",
