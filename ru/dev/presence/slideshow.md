@@ -8,15 +8,15 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Класс слайд-шоу
 
-## Introduction
+## Введение
 
 Класс `слайдшоу` используется для установки нескольких `PresenceData` и "slide" через их каждые x миллисекунд (минимум: 5000).
 
 Смотрите метод [`createSlideshow`](/dev/presence/class#createslideshow) в классе [`Presence`](/dev/presence/class) о том, как создать `слайдшоу`.
 
-## Properties
+## Свойства
 
 ### `currentSlide`
 
@@ -27,7 +27,7 @@ const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // Will console log the details of the PresenceData
 ```
 
-## Methods
+## Методы
 
 ### `addSlide(String, PresenceData, Number)`
 
@@ -70,11 +70,11 @@ Third parameter requires a `Number` which is the amount of time in milliseconds 
 
 # SlideshowSlide Класс
 
-## Introduction
+## Введение
 
 `SlideshowSlide` — это внутреннее представление каждого слайда в `Slideshow`.
 
-## Properties
+## Свойства
 
 ### `id`
 
@@ -84,7 +84,7 @@ Third parameter requires a `Number` which is the amount of time in milliseconds 
 
 Возвращает объект [`PresenceData`](/dev/presence/class#presencedata-interface) `PresenceData`, сохраненный в слайде.
 
-## Methods
+## Методы
 
 ### `updateData(PresenceData)`
 
