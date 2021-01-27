@@ -15,6 +15,38 @@
 		"message": "предстоящая страница",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.channelList": {
+		"message": "список каналов",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "страница событий",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "страница магазина",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Просматривая их{0}подписчики недавние загрузки",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "канала {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Смотрит домашней страницы",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Просмотр страницы расписания",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Просмотр \"мой\" страницы",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.viewTheir": {
 		"message": "Смотрит",
 		"description": "The first part of the next 6 strings"
