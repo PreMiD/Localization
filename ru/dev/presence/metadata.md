@@ -178,15 +178,15 @@ dateCreated: 2020-06-11T18:04:52.965Z
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Массив настроек, которые пользователь может изменить</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Да</code></td>
     </tr>
   </tbody>
 </table>
@@ -241,7 +241,7 @@ PreMiD - это полиусиленный сервис, что означает
 
 ### `multiLanguage`
 
-#### Introduction
+#### Введение
 
 Параметр `мультиЯзык` используется для того, чтобы позволить пользователям вручную выбрать язык, на котором они хотят присутствовать. Это требует использования строк из нашего [API](https://api.premid.app/v2/langFile/presence/en), для информации о том, как добавлять строки нажмите [здесь](/dev/presence/metadata/adding-new-strings).
 
@@ -255,11 +255,11 @@ PreMiD - это полиусиленный сервис, что означает
 
 #### Добавление новых строк
 
-##### Cloning the project
+##### Клонирование проекта
 
 1. Откройте терминал и введите `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Выберите папку по вашему выбору.
+3. Откройте его в редакторе кода.
 
 ##### Создание файла DjVu
 
@@ -298,7 +298,7 @@ PreMiD - это полиусиленный сервис, что означает
 
 **Примечание:** Они ни в коей мере не изменяются.
 
-### Methods
+### Методы
 
 Используйте следующие методы для получения информации о настройках в файлах присутствия:
 #### `getSetting(String)`
@@ -329,18 +329,18 @@ presence.showSetting("pdexID"); // Заменить pdexID идентифика�
     <tr>
       <th style="text-align:left">Категория</th>
       <th style="text-align:left">Наименование</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Описание</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>anime</b></td>
-      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left"><b>Аниме</b></td>
       <td style="text-align:left">Все что относится к аниме, от форумов до платформ потокового видео.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Игры</b></td>
       <td style="text-align:left">Любой сайт, имеющий связанный с игрой контент, например <code>Kahoot</code> или <code>Skribbl.io</code></td>
     </tr>
     <tr>
