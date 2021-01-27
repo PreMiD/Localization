@@ -23,7 +23,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
   - Гайды (скоро)
   - Построение (скоро)
   - [Поддержка](#support)
-  - [Credits](#credits)
+  - [Команда](#credits)
   - [Лицензия](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _никогда_ TM️)
 - **[Портативная AppImage](#appimage)** (_РЕКОМЕНДУЕТСЯ_)
@@ -147,7 +147,7 @@ curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Системные дистрибутивы на основе Linux
 
 Использует [Системный Репозиторий пользователя](https://aur.archlinux.org/packages/premid);</br> Поддерживаемые дистрибутивы: _себя,_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS и [каждый из них, который поддерживает установку из AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
