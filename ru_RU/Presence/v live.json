@@ -71,6 +71,22 @@
 		"message": "страница профиля",
 		"description": "The second part of the \"Viewing their\" string"
 	},
+	"v live.watched": {
+		"message": "просмотренные видео",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "последние покупки",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "Баланс монетов",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "Подключенные устройства",
+		"description": "The second part of the \"Viewing their\" string"
+	},
 	"v live.followed": {
 		"message": "отслеживаемые каналы",
 		"description": "The second part of the \"Viewing their\" string"
