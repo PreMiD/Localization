@@ -267,12 +267,12 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <td style="text-align:left">Массив настроек, которые пользователь может изменить.<br>
       Подробнее о настройках присутствия <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">здесь</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Да</code></td>
     </tr>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Мы сделали `metadata.json` создатель файлов для ленивых [Вот](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Начало работы
 
@@ -398,8 +398,8 @@ presence.on("iFrameData", (данные) => {
 
 # Больше информации
 
-- [Presence Class](/dev/presence/class)
+- [Класс Состояния](/dev/presence/class)
 - [Класс слайд-шоу](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [класс iFrame](/dev/presence/iframe)
 - [Файл Метаданных](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Настройка TypeScript](/dev/presence/tsconfig ""){.links-list}

@@ -54,7 +54,7 @@ const presence = new Presence({
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Очищает вашу текущую активность и заголовок в трее.
 
 ### `setTrayTitle(String)`
 
@@ -87,7 +87,7 @@ const presence = new Presence({
 
 Асинхронный метод, который позволяет извлекать переведенные строки из расширения.
 
-Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Вы должны указывать ключами `Object` как ключ для строки, `keyValue` - строковое значение. С помощью этой конечной точки можно найти сборку переведенных строк: `https://api.premid.app/v2/langFile/presence/en`
 
 ```typescript
 // Возвращает `Playing` и `Paused` строки
@@ -164,16 +164,16 @@ console.log(version); // Сообщается версии "2.1.0" в логи
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Возвращает значение настройки.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+var setting = await presence.getSetting("pdexID"); // Заменить pdexID идентификатором параметра
+console.log(setting); // Сообщается установка в логи
 ```
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Скрывает указанные настройки.
 
 ```typescript
 presence.hideSetting("pdexID"); // Заменить pdexID идентификатором настройки
@@ -181,7 +181,7 @@ presence.hideSetting("pdexID"); // Заменить pdexID идентифика�
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Показывают данные настройки (работает только если настройка была скрыта).
 
 ```typescript
 presence.showSetting("pdexID"); // Заменить pdexID идентификатором настройки
@@ -200,7 +200,7 @@ console.log(logs); // Журнал последних 100 логов (в мас�
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Выводит данное сообщение в консоли в формате, основанном на присутствии в стиле `info`.
 
 ```typescript
 presence.info("Test") // Это протоколирует "test" в правильном стиле.
@@ -208,7 +208,7 @@ presence.info("Test") // Это протоколирует "test" в прави�
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Выводит данное сообщение в консоли в формате, основанном на присутствии в стиле `info`.
 
 ```typescript
 presence.success("Test") // Это протоколирует "test" в правильном стиле.
@@ -216,7 +216,7 @@ presence.success("Test") // Это протоколирует "test" в прав
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Выводит данное сообщение в консоли в формате, основанном на присутствии в стиле `info`.
 
 ```typescript
 presence.error("Test") // Это протоколирует "test" в правильном стиле.
@@ -236,7 +236,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Возвращает 2 `снежинку` метки времени в массиве ``, которые могут быть использованы для `startTimestamp` и `endTimamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Заметка:** Данный `String` в querySelector является примером.
 
 ### `timestampFromFormat(String)`
 
@@ -259,7 +259,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Заметка:** Данный `String` в querySelector является примером.
 
 ## `PresenceData` Интерфейс
 
@@ -301,8 +301,7 @@ presenceData.endTimestamp = timestamps[1];
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Определяет полную продолжительность.
         <br>Используется если вы хотите отображать сколько <code>часов:минут:секунды</code> слева.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчёт.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
