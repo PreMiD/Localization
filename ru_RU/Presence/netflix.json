@@ -11,8 +11,20 @@
 		"message": "Смотрит эпизод",
 		"description": "Used as the title for the button in Discord."
 	},
+	"netflix.viewList": {
+		"message": "Просмотр их списка",
+		"description": "List as in their saved series/movies."
+	},
 	"netflix.profile": {
 		"message": "Редактирует свой профиль",
 		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Посмотреть, что нового и популярного{0}на Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Получение их{0}реферальной ссылки",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	}
 }

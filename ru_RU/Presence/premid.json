@@ -47,6 +47,10 @@
 		"message": "Установка для {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
+	"premid.pageTroubleshooting": {
+		"message": "Поиск проблемы",
+		"description": "A page name"
+	},
 	"premid.pageStart": {
 		"message": "Приступая к работе",
 		"description": "A page name"
@@ -65,6 +69,14 @@
 	},
 	"premid.pagePresenceGuide": {
 		"message": "Правила присутствия",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Класс Состояния",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Класс слайд-шоу",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
