@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Класс слайд-шоу
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -50,9 +50,9 @@ console.log(currentSlide.details) // Will console log the details of the Presenc
 
 Первый параметр требует `String` которая является уникальным идентификатором слайда, который вы хотите обновить.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Второй параметр требует интерфейса [`PresenceData`](/dev/presence/class#presencedata-interface) чтобы получить всю информацию, которую вы хотите показать на слайде.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
 
 ### `hasSlide(String)`
 
