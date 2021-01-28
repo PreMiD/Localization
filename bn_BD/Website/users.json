@@ -1,1 +1,34 @@
-{}
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Presence ডেভেলপার",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Presence ভেরিফায়ার",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "গুরুত্বপূর্ণ Presence ডেভেলপার",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "{0} টি Presences তৈরি করেছে।",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "জিনিয়াস Presence ডেভেলপার",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "১০০ টিরও বেশি Presences তৈরি করেছে!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "ইউজার [Presences/কন্ট্রিবিউশনস]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "এখানে ক্লিক করো ইউজারটির তৈরি করা Presences - গুলো দেখতে।",
+		"description": "Tippy content in user profile."
+	}
+}
