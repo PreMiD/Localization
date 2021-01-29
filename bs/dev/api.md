@@ -2,18 +2,20 @@
 title: API
 description: Pristupite izvorima i izvodite radnje pomoću PreMiD API-ja
 published: true
-date: 2020-05-29T17:28:31.083Z
+date: 2021-01-29T11:48:45.412Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:59.010Z
 ---
 
 # API
 
-> Base URL: https://api.premid.app 
+> Osnovni URL: https://api.premid.app 
 > 
 > {.is-info}
 
 ## Verzija API-ja
-> API v1 je obustavljen, svaki zahtjev treba proslijediti trenutno aktivnoj verziji 
+> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues in the future. 
 > 
 > {.is-danger}
 
@@ -29,6 +31,6 @@ Sve usluge i protokoli HTTP nivoa (npr. Http) unutar PreMiD API-ja koriste TLS 1
 > {.is-danger}
 
 **Izaberite API verziju:**
-- [v2 aktivna](/dev/api/v2)
-- [v3 radovi u toku](/dev/api/v3)
+- [v2 *deprecated*](/dev/api/v2)
+- [v3 *active*](/dev/api/v3)
 {.links-list}
