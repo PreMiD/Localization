@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Versi API
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues in the future. 
+> API v2 sudah tidak digunakan lagi dan akan dihapus dalam waktu dekat. Harap gunakan v3 untuk permintaan apa pun di masa mendatang guna mencegah masalah di masa mendatang. 
 > 
 > {.is-danger}
 
@@ -31,6 +31,6 @@ Semua layanan HTTP-layer dan protokol (misal http) dalam API PreMiD menggunakan 
 > {.is-danger}
 
 **Pilih versi API:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *usang*](/dev/api/v2)
+- [v3 *aktif*](/dev/api/v3)
 {.links-list}
