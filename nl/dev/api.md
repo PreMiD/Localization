@@ -32,5 +32,5 @@ Alle HTTP-laag diensten en protocollen (bijvoorbeeld http) binnen de PreMiD API 
 
 **Kies de API-versie:**
 - [v2 *verouderd*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v3 *actief*](/dev/api/v3)
 {.links-list}
