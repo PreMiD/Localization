@@ -2,8 +2,10 @@
 title: API
 description: Capai sumber dan buat perlakuan menggunakan API PreMiD
 published: true
-date: 2020-05-29T17:28:31.083Z
+date: 2021-01-29T11:48:45.412Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:59.010Z
 ---
 
 # API
@@ -13,7 +15,7 @@ tags:
 > {.is-info}
 
 ## Pengurusan versi API
-> API v1 sudah ditamatkan, sebarang permintaan perlu dilencongkan ke versi aktif semasa 
+> API v2 telah diperkecamkan dan akan dialih keluar pada masa akan datang. Sila gunakan v3 untuk sebarang permintaan akan datang untuk mengelakkan isu pada masa depan. 
 > 
 > {.is-danger}
 
@@ -29,6 +31,6 @@ Semua perkhidmatan dan protokol lapisan-HTTP (spt. http) dalam API PreMiD menggu
 > {.is-danger}
 
 **Pilih versi API:**
-- [v2 *aktif*](/dev/api/v2)
-- [v3 *dalam pembangunan*](/dev/api/v3)
+- [v2 *terkecam*](/dev/api/v2)
+- [v3 *aktif*](/dev/api/v3)
 {.links-list}

@@ -2,8 +2,10 @@
 title: API
 description: PreMid API를 사용하여 코드에 접속하고 기능들을 테스트하세요.
 published: true
-date: 2020-05-29T17:28:31.083Z
+date: 2021-01-29T11:48:45.412Z
 tags:
+editor: 마크다운
+dateCreated: 2020-06-11T18:03:59.010Z
 ---
 
 # API
@@ -13,7 +15,7 @@ tags:
 > {.is-info}
 
 ## API 버전
-> API v1은 단종되었으며, 모든 요청은 현재 사용 중인 버전에 대한 요청이어야 합니다. 
+> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues in the future. 
 > 
 > {.is-danger}
 
@@ -29,6 +31,6 @@ PreMid API에 연관되어있는 모든 HTTP-layer 및 프로코톨(예시: http
 > {.is-danger}
 
 **API 버전을 선택하세요.**
-- [v2 *진행중*](/dev/api/v2)
-- [v3 *개발 중*](/dev/api/v3)
+- [v2 *deprecated*](/dev/api/v2)
+- [v3 *active*](/dev/api/v3)
 {.links-list}
