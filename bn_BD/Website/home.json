@@ -71,6 +71,10 @@
 		"message": "দ্রুত সাপোর্ট",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "কোন কিছুর গ্লিচ হয়েছে, অনেকগুলো Error দিচ্ছে অথবা সহজ কথায় কাজ করছে না? আমরা সাহায্য করব তোমাকে আমাদের Discord সার্ভারে, আমরা তৈরিও করেছি আমাদের নিজস্ব সাপোর্ট সিস্টেম যা নিশ্চিত করবে তোমার সমস্যা যত দ্রুত সম্ভব সমাধান করা হয়।",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "জয়েন করো আমাদের Discord",
 		"description": "Features section button"
