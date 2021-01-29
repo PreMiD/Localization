@@ -2,8 +2,10 @@
 title: API
 description: ដំណើរការresourcesនិងអនុវត្តសកម្មភាពដោយប្រើ PreMiD API
 published: true
-date: 2020-05-29T17:28:31.083Z
+date: 2021-01-29T11:48:45.412Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:59.010Z
 ---
 
 # API
@@ -13,7 +15,7 @@ tags:
 > {.is-info}
 
 ## កំណែ API
-> API v1​ ត្រូវបានបញ្ឈប់ដំណើរការ, ស្នើអ្វីបន្ថែមត្រូវធ្វើការទៅកំណែទំរង់បច្ចុប្បន្ន 
+> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues in the future. 
 > 
 > {.is-danger}
 
@@ -29,6 +31,6 @@ All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 
 > {.is-danger}
 
 **Choose the API version:**
-- [v2 *active*](/dev/api/v2)
-- [v3 *work in progress*](/dev/api/v3)
+- [v2 *deprecated*](/dev/api/v2)
+- [v3 *active*](/dev/api/v3)
 {.links-list}
