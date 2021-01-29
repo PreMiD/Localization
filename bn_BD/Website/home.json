@@ -1,4 +1,8 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** হচ্ছে একটি সহজ, পরিবর্তনযোগ্য ইউটিলিটি যা দেখায় তুমি কী করছ ইন্টারনেটে তোমার Discord এর প্লেয়িং স্ট্যাটাসে।",
+		"description": "First phrase that users read on our website"
+	},
 	"home.introduction.button.features": {
 		"message": "ফিচারস",
 		"description": "Introduction button"
