@@ -2,8 +2,10 @@
 title: API
 description: Aceder a recursos e realizar acções utilizando o API PreMiD
 published: true
-date: 2020-05-29T17:28:31.083Z
+date: 2021-01-29T11:48:45.412Z
 tags:
+editor: markdown
+dateCreated: 2020-06-11T18:03:59.010Z
 ---
 
 # API
@@ -13,7 +15,7 @@ tags:
 > {.is-info}
 
 ## API Versioning
-> API v1 foi descontinuado, qualquer pedido deve ser encaminhado para a versão presentemente ativa 
+> A API v2 foi descontinuada e será removida num futuro próximo. Usa a v3 para quaisquer pedidos a partir de agora para prevenir problemas no futuro. 
 > 
 > {.is-danger}
 
@@ -29,6 +31,6 @@ Todos os serviços e protocolos de camada HTTP (por exemplo, http) dentro do Pre
 > {.is-danger}
 
 **Escolha a versão da API:**
-- [v2 *ativa*](/dev/api/v2)
-- [v3 * trabalho em progresso *](/dev/api/v3)
+- [v2 *descontinuada*](/dev/api/v2)
+- [v3 *ativa*](/dev/api/v3)
 {.links-list}
