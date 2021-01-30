@@ -1,1 +1,6 @@
-{}
+{
+	"presence.sections.information.author": {
+		"message": "তৈরিকারক",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	}
+}
