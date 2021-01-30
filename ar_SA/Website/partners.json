@@ -139,6 +139,10 @@
 		"message": "آلهة تلعب دور بوت ديسكورد ممتع!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM تمكنك من الإستماع إلى اكثر من 15+ بث موسيقي مجاناً - بدون توقف. مع أفضل و أحدث الموسيقى لك فقط!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "مكان رشيق لشركات التكنولوجيا.",
 		"description": "Description for Crowdin."
@@ -147,9 +151,17 @@
 		"message": "برنامج ويكي مفتوح المصدر الأقوى والأكثر قابلية للتوسيع.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "واجهة موحدة, سهلة الاستخدام للمطورين لكل أدواتك.",
+		"description": "Description for PackageCloud."
+	},
 	"partners.partner.fastly": {
 		"message": "وراء أفضل في الويب.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit هي محطة الإذاعة الموسيقى الخاصة بك على الانترنت والتي تم صناعتها لتشغيل افضل الأغاني على مدار الساعة 24/7 ولجعلك تكتشف أفضل الأغاني أولاً.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "تقدم بطلب الشريك",
