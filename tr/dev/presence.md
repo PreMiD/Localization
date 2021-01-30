@@ -2,7 +2,7 @@
 title: Servis Geliştirme
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -375,7 +375,7 @@ Klasörünüzün içindeyken bir terminal açın ve kodunuzu `dist` klasörüne 
 
 # Servisi test etme
 
-1. Eklenti penceresini açın ve <kbd>Shift</kbd>'e basılı tutun.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. Servisler kısmının hemen sağında **Servis Yükle** yazısı çıkacaktır.
 3. <kbd>Shift</kbd>'e basılı tutarken bu yazıya tıklayın.
 4. Servisinizin dist klasörünü bulun ve seçin.
