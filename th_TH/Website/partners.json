@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "พาร์ทเนอร์",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "เข้าร่วมกับพวกเราและรับสิทธิพิเศษเฉพาะพาร์ทเนอร์ที่เอาไว้โชว์ว่าคุณเจ๋งแค่ไหน",
 		"description": "Description for page."
@@ -50,6 +54,10 @@
 	"partners.why.benefit5.description": {
 		"message": "ได้ถูกกล่าวถึงบน Social Media ของเรา",
 		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "ความต้องการ",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "เราต้องการมองหาอะไร?",
@@ -171,6 +179,14 @@
 		"message": "เว็บไซต์",
 		"description": "Select 'Website' category."
 	},
+	"partners.apply.select.other": {
+		"message": "อื่นๆ",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "ชื่อ",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "ตัวอย่าง: PreMiD",
 		"description": "Name field's placeholder."
@@ -206,6 +222,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "ลงทะเบียน",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "ขอบคุณสำหรับการติดตั้ง",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "กรุณากรอกข้อมูลให้ครบ",
