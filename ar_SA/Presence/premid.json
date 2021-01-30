@@ -14,5 +14,81 @@
 	"premid.pageHome": {
 		"message": "الصفحة الرئيسية",
 		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "المساهمون",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "التحميلات",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "المتجر",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "الشركاء",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "حول PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "متطلبات النظام",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "الثبيت",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "{0} التثبيت لـ",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "استكشاف الأخطاء",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "البدء",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "من ال API{0} فهم نسخة الـ",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence تطوير الـ",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Presence قوانين الـ",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence فئة الـ",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "فئة عرض الشرائح",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Iframe فهم",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Metadata.json تعديل",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScript تعديل الـ",
+		"description": "A page name"
 	}
 }
