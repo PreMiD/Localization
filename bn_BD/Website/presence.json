@@ -1,6 +1,38 @@
 {
+	"presence.page.buttons.sourceCode": {
+		"message": "সোর্স কোড",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.information.title": {
+		"message": "তথ্য",
+		"description": "The title of the information section."
+	},
 	"presence.sections.information.author": {
 		"message": "তৈরিকারক",
 		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "ভার্সন",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "লাইক",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "ইউজারস",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "ট্যাগস",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "সাপোর্টেড URLs",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "কন্ট্রিবিউটরস",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }
