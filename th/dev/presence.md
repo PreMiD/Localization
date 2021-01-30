@@ -21,7 +21,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 - [แนวทาง](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# โครงสร้าง
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
