@@ -35,6 +35,10 @@
     "message": "ผู้พัฒนา",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "เข้าสู่ระบบ",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "เข้าสู่ระบบในชื่อ",
     "description": "Indicates which user is logged in"
