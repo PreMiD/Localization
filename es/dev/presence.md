@@ -2,7 +2,7 @@
 title: Desarrollo de Presences
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -376,7 +376,7 @@ Abre una consola en tu carpeta y escribe `tsc -w` para compilar `presence.ts` en
 
 # Cargando la Presence
 
-1. Abre la ventana emergente y mantén pulsado el botón <kbd>Shift</kbd> de tu teclado.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Cargar Presence** aparecerá en la sección Presences.
 3. Haz clic en él mientras mantienes pulsado el botón <kbd>Shift</kbd>.
 4. Selecciona la carpeta /dist de tu presence.

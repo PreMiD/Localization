@@ -2,7 +2,7 @@
 title: Razvoj presence
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -18,7 +18,7 @@ Verzija ` 2.x ` uvodi trgovinu [ prisutnosti ](https://premid.app/store). Korisn
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Smjernice](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Strukture
@@ -28,14 +28,14 @@ Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ T
 ## Installation
 
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+2. Install [Node](https://nodejs.org/en/) (dolazi sa [npm](https://www.npmjs.com/)).
 3. Instalirajte [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (otvorite terminal i ` npm install -g typecript `).
 
-## Cloning the project
+## Kloniranje projekta
 
 1. Otvorite terminal i upišite ` git clone https://github.com/PreMiD/Presences </code.</li>
-<li>Choose a folder of your choice.</li>
-<li>Open it in your code editor.</li>
+<li>Izaberite folder po vašem izboru.</li>
+<li>Otvorite ga u uređivaču koda.</li>
 </ol>
 
 <h2 spaces-before="0">Pravljenje foldera i fajlova</h2>
@@ -143,8 +143,8 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Deskripcija</th>
+      <th style="text-align:left">Tip</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
@@ -274,7 +274,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Napravili smo `metadata.json` kreator datoteka za lijene ljude [ovdje](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Getting started
 
@@ -383,7 +383,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 # Loading the presence
 
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
@@ -401,7 +401,7 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 
-- [Presence Class](/dev/presence/class)
+- [Klasa prisutnosti](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
 - [iFrame Class](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)

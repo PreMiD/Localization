@@ -2,7 +2,7 @@
 title: Presence-Entwicklung
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -378,7 +378,7 @@ presence.on("iFrameData", (data) => {
 
 # Presence laden
 
-1. Öffne das Popup und halte die Taste <kbd>Shift</kbd> auf Deiner Tastatur gedrückt.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Presence laden** wird im Presence-Bereich erscheinen.
 3. Klicke darauf, während Du die Taste <kbd>Shift</kbd> weiterhin gedrückt hälst.
 4. Wähle den Ordner /dist Deiner Präsenz.

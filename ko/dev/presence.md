@@ -2,7 +2,7 @@
 title: Presence 개발
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -18,20 +18,20 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [지침](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # 구조
 
 모든 Presence들은 [TypeScript](https://www.typescriptlang.org/)에 코딩되어 있어요. [TypeScript](https://www.typescriptlang.org/)는 JavaScript에 비해 더 구체적인 정보를 담고 있어, 버그를 찾아내어 고치는 것이 쉬워요.
 
-## Installation
+## 설치하기
 
 1. [Git](https://git-scm.com/) 설치하기
 2. [Node](https://nodejs.org/en/)  ( [npm](https://www.npmjs.com/) 와 함께 ) 설치하기
 3. [TypeScript](https://www.typescriptlang.org/index.html#download-links) 설치하기 (터미널 실행 후 "`npm install -g typescript`" 입력하기)
 
-## Cloning the project
+## Presence 복사하기
 
 1. 터미널을 열어 `git clone https://github.com/PreMiD/Presences`를 입력하세요.
 2. 원하는 폴더를 선택하세요.
@@ -140,9 +140,9 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">변수</th>
+      <th style="text-align:left">설명</th>
+      <th style="text-align:left">유형</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
@@ -272,7 +272,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+게으른 녀석들을 위해 우리가 `metadata.json`파일 생성기를 만들었어요. [여기를 클릭하세요](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## 시작하기
 
@@ -381,7 +381,7 @@ presence.on("iFrameData", (data) => {
 
 # presence 불러오기
 
-1. 팝업을 열고 키보드의 <kbd>Shift</kbd>버튼을 누르고 있어요.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Presence 불러오기**가 Presences 항목에 뜰 거에요.
 3. <kbd>Shift</kbd> 버튼을 누른 채로 클릭하세요.
 4. presence의 /dist 폴더를 선택하세요.

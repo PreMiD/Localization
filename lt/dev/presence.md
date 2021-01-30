@@ -2,7 +2,7 @@
 title: Statusų kūrimas
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -18,24 +18,24 @@ Versija `2.x` Pristato[statusų parduotuvę](https://premid.app/store). Naudotoj
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Gairės](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Struktūra
 
 Visi statusai yra sukoduoti naudojantis [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) Turi ekstra dalykėlių prieš JavaScript, tad taisyti ir atpažinti klaidas yra daug lengviau.
 
-## Installation
+## Instaliacija
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Įdiegkite [Git](https://git-scm.com/).
+2. Įdiegkite [Node](https://nodejs.org/en/) (atkeliauja kartu su [npm](https://www.npmjs.com/)).
 3. Įdiegkite [TypeScript](https://www.typescriptlang.org/index.html#download-links) (atidarykite terminalą ir įrašykite: `npm install -g typescript`).
 
-## Cloning the project
+## Projekto klonavimas
 
 1. Atidarykite terminalą ir įrašykite: `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Pasirinkite jūsų norimą aplankalą.
+3. Atsidarykite jį su savo kodo redagavimo programa.
 
 ## Aplankalų ir failų kūrimas
 
@@ -140,9 +140,9 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Kintamasis</th>
+      <th style="text-align:left">Aprašymas</th>
+      <th style="text-align:left">Tipas</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
@@ -178,7 +178,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Jūsų aprašymas turi turėti raktine pora reikšmių kurie nurodo kalbą ir aprašymą ta nustatyta kalba. Kurkite aprašymus su kalbomis <i>kurias jūs žinote</i>, mūsų vertėjai padarys pakitimus jūsų metadata failui.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -272,7 +272,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Mes sukūremė `metadata.json` failo kūrėją tingiems žmonėms [čia](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Getting started
 
@@ -381,7 +381,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 # Loading the presence
 
-1. Open the popup and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
@@ -399,8 +399,8 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 
-- [Presence Class](/dev/presence/class)
+- [Presence klasė](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [iFrame klasė](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [TypeScript konfiguracija](/dev/presence/tsconfig ""){.links-list}

@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -371,7 +371,7 @@ Apri una console nella tua cartella e digita `tsc -w` per compilare il `presence
 
 # Caricamento della presenza
 
-1. Apri il popup e tieni premuto il pulsante <kbd>Maiusc</kbd> sulla tastiera.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Carica presenza** apparirà nella sezione Presenze.
 3. Fai clic su di esso mentre tieni ancora premuto il pulsante <kbd>Maiusc</kbd>.
 4. Seleziona la cartella /dist della tua presenza.
