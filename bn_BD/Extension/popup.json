@@ -4,7 +4,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "ক্রেডিটস",
+		"message": "ক্রেডিট",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
@@ -108,7 +108,7 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "মনে হচ্ছে তোমার ইন্টারনেট কানেকশন নেই! PreMiD এই মুহূর্তে presences দেখাতে পারবে না।",
+		"message": "মনে হচ্ছে তোমার ইন্টারনেট কানেকশন নেই! PreMiD এই মুহূর্তে Presences দেখাতে পারবে না।",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
@@ -136,11 +136,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "সোশ্যালস",
+		"message": "সোশ্যাল",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "ভিডিওস & স্ট্রিমস",
+		"message": "ভিডিও & স্ট্রিম",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

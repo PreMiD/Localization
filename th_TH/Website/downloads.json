@@ -119,6 +119,10 @@
     "message": "เข้าสู่ระบบ",
     "description": "Login button on the downloads page."
   },
+  "downloads.button.skipanyway": {
+    "message": "ข้ามไปเลย",
+    "description": "Skip Anyway button on the ads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "ขอบคุณ!",
     "description": "Title of the advertisement section box."
@@ -126,6 +130,10 @@
   "downloads.adsbox.thankyou.message": {
     "message": "เราใช้โฆษณาเพื่อสนับสนุนทีมและดูแลเซิร์ฟเวอร์ของเรา เพื่อมอบประสบการณ์การใช้งานที่ดีที่สุดแก่คุณ!",
     "description": "Message of the advertisement section box."
+  },
+  "downloads.adsbox.disableAdblock": {
+    "message": "โปรดปิดการใช้งานตัวบล็อกโฆษณา",
+    "description": "Message next to pepe."
   },
   "downloads.showbeta.message": {
     "message": "แสดงดาวน์โหลดเเบบเบต้า",
