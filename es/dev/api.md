@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Administración de versiones de la API
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues in the future. 
+> La v2 de la API está discontinuada y va a ser eliminada en un futuro cercano. Utiliza la v3 para las nuevas solicitudes con el fin de prevenir problemas en un futuro. 
 > 
 > {.is-danger}
 
@@ -31,6 +31,6 @@ Todos los servicios y protocolos de capa HTTP (por ejemplo, http) dentro de la A
 > {.is-danger}
 
 **Elija la versión de la API:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *discontinuada*](/dev/api/v2)
+- [v3 *activa*](/dev/api/v3)
 {.links-list}
