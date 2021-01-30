@@ -1,4 +1,8 @@
 {
+	"maintenance.big": {
+		"message": "โอ้ไม่!",
+		"description": "The big text on maintenance page"
+	},
 	"maintenance.heading": {
 		"message": "น่าเสียดาย ตอนนี้เรากำลังประสบปัญหาทางเทคนิค เราจะกลับมาในไม่ช้า ขออภัยในความไม่สะดวก",
 		"description": "Heading on maintenance page"
