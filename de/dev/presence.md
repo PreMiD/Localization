@@ -378,7 +378,7 @@ presence.on("iFrameData", (data) => {
 
 # Presence laden
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Öffne das Erweiterungs-Popup im Browser und halte die <kbd>Umschalt</kbd>-Taste auf deiner Tastatur gedrückt.
 2. **Presence laden** wird im Presence-Bereich erscheinen.
 3. Klicke darauf, während Du die Taste <kbd>Shift</kbd> weiterhin gedrückt hälst.
 4. Wähle den Ordner /dist Deiner Präsenz.
