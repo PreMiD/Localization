@@ -1,1 +1,58 @@
-{}
+{
+	"twitch.downloads": {
+		"message": "التحميلات",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "الوظائف",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "تيربو",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "الشركاء",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "المركز الصحفي",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "الحماية",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "إمكانية الوصول",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "اختيارات الإعلانات",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "إرشادات المجتمع",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "الصفحة الرئيسية",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "يشاهد المحفظة...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "يشاهد الـ Esports...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "يشاهد أشخاص اتابعهم...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "يشاهد الفريق:",
+		"description": ""
+	}
+}
