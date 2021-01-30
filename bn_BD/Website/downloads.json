@@ -76,7 +76,7 @@
     "description": "Error message if the user is not logged in."
   },
   "downloads.error.noaccess.title": {
-    "message": "ওহ, দেখে মনে হচ্ছে তোমার কাছে অ্যালফা/বেটা অ্যাক্সেস নেই :(",
+    "message": "দেখে মনে হচ্ছে তোমার কাছে অ্যালফা/বেটা অ্যাক্সেস নেই :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
   "downloads.error.noaccess.description": {
@@ -128,7 +128,7 @@
     "description": "Title of the advertisement section box."
   },
   "downloads.adsbox.thankyou.message": {
-    "message": "আমরা Ads ব্যবহার করি আমাদের টিমকে সাপোর্ট করতে এবং আমাদের সার্ভারকে মেইনটেইন করতে, তোমাকে সেরা ইউজার এক্সপেরিয়েন্স দেওয়ার জন্যে!",
+    "message": "আমরা Ad ব্যবহার করি আমাদের টিমকে সাপোর্ট করতে এবং আমাদের সার্ভারকে মেইনটেইন করতে, তোমাকে সেরা ইউজার এক্সপেরিয়েন্স দেওয়ার জন্যে!",
     "description": "Message of the advertisement section box."
   },
   "downloads.adsbox.disableAdblock": {
