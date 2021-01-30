@@ -59,6 +59,10 @@
 		"message": "การช่วยเหลือ",
 		"description": "Help section"
 	},
+	"footer.help.troubleshooting": {
+		"message": "การแก้ไขปัญหา",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
 	"footer.help.getsupport": {
 		"message": "ขอความช่วยเหลือ",
 		"description": "Get Support -> redirects to Discord invite"
