@@ -87,6 +87,22 @@
 		"message": "PreMiD ของคุณล้าสมัยแล้ว โปรดอัปเดตโดยกดที่ PreMiD",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "แอพเวอร์ชั่นนี้ล้าสมัยแล้ว",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "ส่วนขยายของคุณล้าสมัย โปรดอัปเดตเพื่อรับคุณสมบัติล่าสุดโดยดาวน์โหลดจากเว็บไซต์ของเรา",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "อัปเดตด่วน",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "เราได้เผยแพร่การอัปเดตเร่งด่วนสำหรับส่วนขยาย โปรดอัปเดตเพื่อใช้งานต่อไป",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "ไม่พบการเชื่อมต่ออินเตอร์เน๊ต!",
 		"description": "Shown when the user has no internet connection"
