@@ -28,11 +28,11 @@
 		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
-		"message": "ইউজারস",
+		"message": "ইউজার",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {
-		"message": "ট্যাগস",
+		"message": "ট্যাগ",
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
 	},
 	"presence.sections.information.supportedurls": {
@@ -40,7 +40,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
 	"presence.sections.information.contributors": {
-		"message": "কন্ট্রিবিউটরস",
+		"message": "কন্ট্রিবিউটর",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }
