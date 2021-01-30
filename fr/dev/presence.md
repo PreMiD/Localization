@@ -2,7 +2,7 @@
 title: Développement de la presence
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -382,7 +382,7 @@ Ouvrez une console dans votre dossier et tapez `tsc -w` pour compiler le `presen
 
 # Chargement de la présence
 
-1. Ouvrez la fenêtre popup et maintenez le bouton <kbd>Maj</kbd> sur votre clavier.
+1. Ouvrez la popup de l'extension dans le navigateur et maintenez le bouton <kbd>Shift</kbd>sur votre clavier.
 2. **Charger les présences** apparaîtra dans la section Présences.
 3. Cliquez dessus pendant que vous maintenez le bouton <kbd>Maj</kbd>.
 4. Sélectionnez le dossier /dist de votre présence.
