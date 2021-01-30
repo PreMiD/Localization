@@ -2,7 +2,7 @@
 title: Presence Ontwikkeling
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -382,7 +382,7 @@ Open een console in je map en typ `tsc -w` om de `presence.ts` te compileren in 
 
 # Laden van de presence
 
-1. Open de pop-up en houd de <kbd>Shift</kbd> knop op je toetsenbord in.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Laad Presence** verschijnt in de Presences sectie.
 3. Klik erop terwijl je nog steeds de <kbd>Shift</kbd> knop ingedrukt houdt.
 4. Selecteer de map /dist van uw presence.
