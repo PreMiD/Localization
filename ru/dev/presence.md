@@ -2,7 +2,7 @@
 title: Разработчик присутствия
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -380,7 +380,7 @@ presence.on("iFrameData", (данные) => {
 
 # Загрузка присутствия
 
-1. Откройте всплывающее окно и удерживайте кнопку <kbd>Shift</kbd> на клавиатуре.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** появится в секции Prestions.
 3. Нажмите на неё, пока вы все еще держите кнопку <kbd>Shift</kbd>.
 4. Выберите папку /dist вашего присутствия.
