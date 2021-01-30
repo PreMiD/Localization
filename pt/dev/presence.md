@@ -62,7 +62,7 @@ Para aprender mais sobre a configuração TypeScript, clica [aqui](/dev/presence
 
 ## Preencher o ficheiro metadata.json
 
-Nós fizemos um criador de ficheiros `metadata.json` para o pessoal mais preguiçoso, que podes encontrar [aqui](https://eggsy.xyz/projects/premid/mdcreator). Ainda é sugerido ler isto para que você saiba como ele funciona.
+Fizemos um criador de ficheiros `metadata.json` para o pessoal mais preguiçoso, que podes encontrar [aqui](https://eggsy.xyz/projects/premid/mdcreator). Ainda assim, recomendamos que leias isto para que saibas como funciona.
 
 ```json
 {
