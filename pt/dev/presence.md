@@ -12,9 +12,9 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-info}
 
-A versão `2.x` introduz a [loja de presença](https://premid.app/store). Usuários agora têm a capacidade de adicionar e remover manualmente suas presenças favoritas através da interface de usuário do [site](https://premid.app/).
+A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Os utilizadores agora têm a capacidade de adicionar e remover manualmente as suas presenças favoritas através da interface do [site](https://premid.app/).
 
-> Antes de começar, é altamente recomendável que olhes para as nossas diretrizes de presença. 
+> Antes de começar, recomendamos que vejas as nossas diretrizes das presenças. 
 > 
 > {.is-warning}
 
@@ -23,11 +23,11 @@ A versão `2.x` introduz a [loja de presença](https://premid.app/store). Usuár
 
 # Estrutura
 
-Toda a presença é codificada em [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) tem algumas definições do tipo extra picante sobre JavaScript, pelo que a fixação e identificação de bugs é muito mais fácil.
+Toda as presença estão programadas em [TypeScript](https://www.typescriptlang.org/). O [TypeScript](https://www.typescriptlang.org/) tem mais algumas definições de tipos em relação ao JavaScript, logo, encontrar e resolver erros é bem mais fácil.
 
 ## Instalação
 
-1. Instale o [Git](https://git-scm.com/).
+1. Instala o [Git](https://git-scm.com/).
 2. Instale o [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
 3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links)(abrir um terminal e `npm install -g trypescrpit`).
 
