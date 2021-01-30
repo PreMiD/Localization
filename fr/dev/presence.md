@@ -382,7 +382,7 @@ Ouvrez une console dans votre dossier et tapez `tsc -w` pour compiler le `presen
 
 # Chargement de la présence
 
-1. Ouvrez la popup de l'extension dans le navigateur et maintenez le bouton <kbd>Shift</kbd>sur votre clavier.
+1. Ouvrez l'extension dans le navigateur et maintenez le bouton <kbd>Shift</kbd>sur votre clavier.
 2. **Charger les présences** apparaîtra dans la section Présences.
 3. Cliquez dessus pendant que vous maintenez le bouton <kbd>Maj</kbd>.
 4. Sélectionnez le dossier /dist de votre présence.
