@@ -4,11 +4,11 @@
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
-		"message": "ফিচারস",
+		"message": "ফিচার",
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
-		"message": "ডাউনলোডস",
+		"message": "ডাউনলোড",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
@@ -36,7 +36,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
-		"message": "তুমি এইসব ফিচারসগুলোকে পছন্দ করবে!",
+		"message": "তুমি এইসব ফিচারগুলোকে পছন্দ করবে!",
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
