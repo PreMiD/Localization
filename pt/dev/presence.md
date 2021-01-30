@@ -28,26 +28,26 @@ Toda as presença estão programadas em [TypeScript](https://www.typescriptlang.
 ## Instalação
 
 1. Instala o [Git](https://git-scm.com/).
-2. Instale o [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
-3. Instale o [TypeScript](https://www.typescriptlang.org/index.html#download-links)(abrir um terminal e `npm install -g trypescrpit`).
+2. Instala o [Node](https://nodejs.org/en/) (vem com [npm](https://www.npmjs.com/)).
+3. Instala o [TypeScript](https://www.typescriptlang.org/index.html#download-links)(abre um terminal e executa `npm install -g trypescrpit`).
 
-## Clonando o projeto
+## Clonar o projeto
 
-1. Abrir um terminal e digitar `git clone https://github.com/PreMiD/Presences`.
-2. Escolha uma pasta à sua escolha.
-3. Abra ele no editor de código.
+1. Abre um terminal e escreve `git clone https://github.com/PreMiD/Presences`.
+2. Escolhe uma pasta.
+3. Abre-a no editor de código.
 
-## Criação de pastas e ficheiros
+## Criar pastas e ficheiros
 
-1. Acesse a pasta de `sites` e vá para a pasta com a primeira letra do **name** (não uma URL) do serviço que deseja suportar.
-2. Cria um ficheiro com o **nome** (não um URL) do serviço que pretende apoiar.
-3. Crie um arquivo `presence.ts` e um arquivo `tsconfig.json` dentro dele.
+1. Abre a pasta `websites` e vai para a pasta com a primeira letra do **nome** (não o URL) do serviço que desejas apoiar.
+2. Cria uma pasta com o **nome** (não o URL) do serviço que pretendes apoiar.
+3. Cria um ficheiro com o nome `presence.ts` e outro com o nome `tsconfig.json` dentro dela.
 4. Cria uma pasta com o nome `dist` dentro.
-5. Cria um`metadata.json` ficheiro dentro da `dist` pasta.
+5. Cria um ficheiro como o nome `metadata.json` dentro da pasta `dist`.
 
-## Preenchimento do ficheiro tsconfig.json
+## Preencher o ficheiro tsconfig.json
 
-Por favor coloque o seguinte código dentro do arquivo `tsconfig.json`.
+Coloca o seguinte código dentro do ficheiro `tsconfig.json`:
 
 ```typescript
 {
@@ -58,11 +58,11 @@ Por favor coloque o seguinte código dentro do arquivo `tsconfig.json`.
 }
 ```
 
-Para aprender mais sobre a configuração TypeScript, clique [aqui](/dev/presence/tsconfig).
+Para aprender mais sobre a configuração TypeScript, clica [aqui](/dev/presence/tsconfig).
 
-## Preenchimento do ficheiro metadata.json
+## Preencher o ficheiro metadata.json
 
-Nós fizemos um `metadata.json` criador de arquivos para os peeps preguiçosos [aqui](https://eggsy.xyz/projects/premid/mdcreator). Ainda é sugerido ler isto para que você saiba como ele funciona.
+Nós fizemos um criador de ficheiros `metadata.json` para o pessoal mais preguiçoso, que podes encontrar [aqui](https://eggsy.xyz/projects/premid/mdcreator). Ainda é sugerido ler isto para que você saiba como ele funciona.
 
 ```json
 {
