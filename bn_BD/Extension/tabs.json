@@ -32,7 +32,7 @@
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
-    "message": "ইনস্টল অ্যাপ্লিকেশান",
+    "message": "অ্যাপ্লিকেশান ইন্সটল করো",
     "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
