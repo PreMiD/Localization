@@ -3,6 +3,14 @@
 		"message": "সোর্স কোড",
 		"description": "Source Code button on presence pages."
 	},
+	"presence.sections.description.title": {
+		"message": "ডিসক্রিপশন",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "পরিবর্তন লগ",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "তথ্য",
 		"description": "The title of the information section."
