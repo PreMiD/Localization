@@ -381,7 +381,7 @@ Buka konsol dalam folder anda dan taip `tsc -w` untuk mengkompil fail `presence.
 
 # Memuatkan Presence
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Buka tetingkap sambungan dalam pelayar dan terus memegang butang <kbd>Shift</kbd> di papan kekunci anda.
 2. **Muatkan Presence**akan muncul di bahagian Presence.
 3. Klik padanya ketika anda masih memegang butang <kbd>Shift</kbd>.
 4. Pilih folder /dist bagi Presence anda.
