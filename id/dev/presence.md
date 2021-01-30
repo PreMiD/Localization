@@ -2,7 +2,7 @@
 title: Pengembangan Presence
 description:
 published: true
-date: 2020-12-26T15:02:54.817Z
+date: 2021-01-30T10:59:26.700Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -379,7 +379,7 @@ Buka konsol dalam folder anda dan ketik `tsc -w` untuk mengcompile `presence.ts`
 
 # Memuat presence
 
-1. Buka popup dan tahan tombol<kbd>Shift</kbd> pada keyboard.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** akan muncul pada bagian presence.
 3. Klik sambil menahan tombol <kbd>Shift</kbd>.
 4. Pilih folder /dist dari presence anda.
