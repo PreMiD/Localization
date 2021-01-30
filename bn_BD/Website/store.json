@@ -12,11 +12,11 @@
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
-		"message": "পার্টনারড Presence",
+		"message": "পার্টনার করা Presence",
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
-		"message": "এই presence - টির জন্য অতিরিক্ত স্টেপ প্রয়োজন, এটার পেজ চেক করো আরো তথ্যের জন্য।",
+		"message": "এই Presence - টির জন্য অতিরিক্ত স্টেপ প্রয়োজন, এটার পেজ চেক করো আরো তথ্যের জন্য।",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
@@ -36,7 +36,7 @@
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
-		"message": "ফিল্টারস",
+		"message": "ফিল্টার",
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
@@ -56,7 +56,7 @@
 		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
-		"message": "ক্যাটাগরিস",
+		"message": "ক্যাটাগরি",
 		"description": "Category heading"
 	},
 	"store.category.all": {
@@ -72,11 +72,11 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "সোশ্যালস",
+		"message": "সোশ্যাল",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "ভিডিওস & স্ট্রিমস",
+		"message": "ভিডিও & স্ট্রিম",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
