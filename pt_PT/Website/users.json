@@ -1,26 +1,26 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Desenvolvedor de Presenças",
+		"message": "Desenvolvedor de Presences",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Verificador de Presenças",
+		"message": "Verificador de Presences",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Principal programador de presenças",
+		"message": "Principal programador de presences",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
-		"message": "Criadas {0} presenças.",
+		"message": "Criadas {0} presences.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Desenvolvedor de Presenças Génio",
+		"message": "Desenvolvedor de Presences Génio",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Criou mais de 100 Presenças!",
+		"message": "Criou mais de 100 Presences!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
@@ -28,11 +28,11 @@
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Clica aqui para mostrar as presenças que este utilizador criou.",
+		"message": "Clica aqui para mostrar as presences que este utilizador criou.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Clica aqui para mostrar as presenças para as quais este utilizador contribuiu.",
+		"message": "Clica aqui para mostrar as presences para as quais este utilizador contribuiu.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }
