@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contém dados básicos sobre a Presença
+description: Contém dados básicos sobre a Presence
 published: true
 date: 2020-12-26T15:03:41.542Z
 tags:
@@ -97,7 +97,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
     </tr>
     <tr>
       <td style="text-align:left"><b>serviço</b></td>
-      <td style="text-align:left">O título do serviço que esta presença suporta.</td>
+      <td style="text-align:left">O título do serviço que esta presence suporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -111,7 +111,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
     </tr>
     <tr>
       <td style="text-align:left"><b>descrição</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Ver categoria os idiomas de presença de uma lista. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Ver categoria os idiomas de presence de uma lista. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -131,7 +131,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
     </tr>
     <tr>
       <td style="text-align:left"><b>versão</b></td>
-      <td style="text-align:left">Versão da sua presença.</td>
+      <td style="text-align:left">Versão da sua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -143,26 +143,26 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link para sua miniatura de presença.</td>
+      <td style="text-align:left">Link para sua miniatura de presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>cor</b></td>
       <td style="text-align:left"><code>Valor</code> #HEX. Recomendamos usar uma cor primária do serviço
-        que a sua presença suporta.</td>
+        que a sua presence suporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>etiquetas</b></td>
-      <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presença no site.</td>
+      <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presence no site.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Categoria</b></td>
-      <td style="text-align:left">Uma seqüência de caracteres usada para representar a categoria na qual a presença cai.</td>
+      <td style="text-align:left">Uma seqüência de caracteres usada para representar a categoria na qual a presence cai.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -205,7 +205,7 @@ Se você quer aprender expressões regulares, aqui estão alguns sites.
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Idiomas de presença
+## Idiomas de presence
 
 PreMiD é um serviço poliglota, o que significa que há uma infinidade de idiomas envolvidos para conectar usuários por todo o mundo. Uma lista completa de idiomas pode ser encontrada neste [endpoint da API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
 
@@ -325,9 +325,9 @@ Shows given setting (Only works if the setting was already hidden).
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## Categorias de presença
+## Categorias de presence
 
-Ao fazer a sua presença, deve especificar uma categoria na qual a presença se encaixa. Esta é uma lista compilada das categorias que você pode usar.
+Ao fazer a sua presence, deve especificar uma categoria na qual a presence se encaixa. Esta é uma lista compilada das categorias que você pode usar.
 
 <table>
   <thead>
