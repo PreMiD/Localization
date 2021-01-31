@@ -18,5 +18,13 @@
 	"jobs.modal.buttons.cancel": {
 		"message": "বাতিল করো",
 		"description": "Cancel, button in the modal."
+	},
+	"jobs.guild.required": {
+		"message": "জয়েন করো আমাদের Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.header.title": {
+		"message": "PreMiD এর জন্যে কাজ করো",
+		"description": "First part of the jobs page."
 	}
 }
