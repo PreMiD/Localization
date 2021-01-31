@@ -1,7 +1,10 @@
 files:
   - source: /src/Extension/*.json
     translation: /%locale_with_underscore%/Extension/%original_file_name%
+    update_option: update_as_unapproved
   - source: /src/Website/*.json
     translation: /%locale_with_underscore%/Website/%original_file_name%
+    update_option: update_as_unapproved
   - source: /src/Presence/*.json
-    translation: /%locale_with_underscore%/Presence/%original_file_name%  
+    translation: /%locale_with_underscore%/Presence/%original_file_name%
+    update_option: update_as_unapproved
