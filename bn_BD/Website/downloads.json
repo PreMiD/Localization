@@ -63,6 +63,10 @@
     "message": "ডাউনলোডস হাইড করাও",
     "description": "Little button on the downloads page for mobile users."
   },
+  "downloads.warning.differentVersion": {
+    "message": "এই প্ল্যাটফর্ম এর বর্তমান ভার্সন হচ্ছে {0} (এই ভার্সনটি লিনাক্স এর জন্য নির্দিষ্ট, এবং অন্যসব প্ল্যাটফর্মে নয়)।",
+    "description": "Tippy message of the Linux card."
+  },
   "downloads.warning.differentVersion2": {
     "message": "এই ভার্সনটি লিনাক্স এর জন্য নির্দিষ্ট, এবং অন্যসব সিস্টেম এর জন্য নয়। অ্যাপ্লিকেশান এর মেইন ভার্সন হচ্ছে {0}",
     "description": "Tippy message of the version number when user is on Linux."
