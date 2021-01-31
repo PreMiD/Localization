@@ -63,10 +63,6 @@
     "message": "Skrij Prenose",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Trenutna verzija te platforme je {0} (ta verzija je specifična za Linux, in se ne velja za druge platforme).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Ta verzija je specifična za Linux, in se ne velja za druge sisteme. Aplikacijska glavna verzija je {0}",
     "description": "Tippy message of the version number when user is on Linux."

@@ -63,10 +63,6 @@
     "message": "다운로드 숨기기",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "이 플랫폼의 현재 버전 {0} 입니다. (이 버전은 리눅스 한정입니다, 그리고 다른 플랫폼에는 적용되지 않아요)",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "이 버전은 Linux용으로 제작되었습니다. 이 버전은 {0} 입니다.",
     "description": "Tippy message of the version number when user is on Linux."

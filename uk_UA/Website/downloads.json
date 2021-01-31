@@ -63,10 +63,6 @@
     "message": "Приховати завантаження",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Поточна версія цієї платформи є {0} (ця версия є специфічна для Linux, і не застосовується до інших платформ).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Ця версія специфічна для Linux, і не застосовується до інших систем. Основна версія застосунку: {0}",
     "description": "Tippy message of the version number when user is on Linux."

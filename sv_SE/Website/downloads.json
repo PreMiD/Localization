@@ -63,10 +63,6 @@
     "message": "Göm nedladdningar",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Versionen för denna plattform är {0} (den här versionen är specifik för Linux och gäller inte för andra plattformar).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Denna version är specifik för Linux, och gäller inte för andra system. Programmets huvudversion är {0}",
     "description": "Tippy message of the version number when user is on Linux."

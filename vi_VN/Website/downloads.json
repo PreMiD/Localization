@@ -63,10 +63,6 @@
     "message": "Ẩn mục tải",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Phiên bản hiện tại của nền tảng này là {0} (phiên bản này là dành riêng cho Linux, không áp dụng cho các nền tảng khác).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Phiên bản này là dành riêng cho Linux, không áp dụng cho các hệ điều hành khác. Phiên bản hiện tại của ứng dụng là {0}",
     "description": "Tippy message of the version number when user is on Linux."

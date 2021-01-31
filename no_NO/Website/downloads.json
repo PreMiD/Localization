@@ -63,10 +63,6 @@
     "message": "Skjul nedlastinger",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Den nåværende versjonen av denne plattformen er {0} (denne versjonen er bare for Linux og gjelder ikke for andre plattformer.).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Denne versjonen er kun for Linux, og gjelder ikke for andre systemer. Hovedversjonen er: {0}",
     "description": "Tippy message of the version number when user is on Linux."

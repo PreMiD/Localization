@@ -63,10 +63,6 @@
     "message": "Bağlantıları Gizle",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Bu platformun sürümü: {0} (bu sürüm sadece Linux için geçerli ve diğer sistemlere için geçerli değildir).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Bu sürüm sadece Linux için geçerlidir. Diğer işletim sistemleri için uygulamanın sürümü {0}",
     "description": "Tippy message of the version number when user is on Linux."
