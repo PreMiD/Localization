@@ -26,5 +26,13 @@
 	"jobs.header.title": {
 		"message": "PreMiD এর জন্যে কাজ করো",
 		"description": "First part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "কাজের সুযোগ",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "বড় সুবিধাগুলো",
+		"description": "Text before the benefits cards."
 	}
 }
