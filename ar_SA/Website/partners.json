@@ -116,11 +116,11 @@
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.aniWatch": {
-		"message": "احصل على ما هو محق لك. بث انيم، افلام، هنتاي، و الكثير. مجاناً، بدون أي إعلانات وبتعريف عالي!",
+		"message": "احصل على الشيء الذي تستحقه. قم بمشاهدة الأنمي, الأفلام, الهينتاي, والمزيد. مجاناً, وبدون اعلانات وبدقة عالية!",
 		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
-		"message": "باشر بإنشاء مجتمعك الخاص مع قوالبنا المذهلة. ابني مملكتك الخاصة.",
+		"message": "باشر بإنشاء مجتمعك الخاص مع نماذجنا المذهلة. ابني مملكتك الخاصة.",
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
