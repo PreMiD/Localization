@@ -52,7 +52,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="كل الاصدارات"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="اصدارات Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="أحدث إصدار"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="اصدارات Github"></a></td>
   </tr>
 </table>
 
@@ -60,7 +60,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ### المتطلبات
 
-من الناحية التقنية كل توزيعة يمكنها تشغيل **التطبيق** [الرسمي](https://discordapp.com/download) لديسكورد ( ليس نسخة الويب أو snap ) يمكنها تشغيل PreMiD أيضا؛</br> كما يمكن أن تكن لاحظت في السنوات الأخيرة، بعض توزيعات لينكس بدأت في إسقاط الدعم ل 32 بت المعمارية (ia32/i686/i386/x86)، ونتيجة لذلك، قمنا بذلك أيضا. ومع ذلك، يمكنك محاولة بناء التطبيق بنفسك إذا كنت بحاجة ماسة إلى استخدامه على توزيعة 32 بت.</br> بما أننا نستخدم إلكترون حاليا كمحرك (ديسكورد يفعل أيضا!)، فإن متطلباته تنطبق أيضا على هذا التطبيق:
+من الناحية التقنية كل توزيعة يمكنها تشغيل **التطبيق** [الرسمي](https://discordapp.com/download) لديسكورد ( ليس نسخة الويب أو snap ) يمكنها تشغيل PreMiD أيضا؛</br> كما لاحظت، بعض توزيعات لينكس لم تعد تدعم الـ 32 بت (ia32/i686/i386/x86)، ونتيجة لذلك، قمنا بالمثل. ومع ذلك، يمكنك محاولة بناء التطبيق بنفسك إذا كنت بحاجة ماسة إلى استخدامه على توزيعة 32 بت.</br> بما أننا نستخدم إلكترون حاليا كمحرك (ديسكورد يفعل أيضا!)، فإن متطلباته تنطبق أيضا على هذا التطبيق:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
@@ -70,11 +70,11 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="support"></a>
 
-### Support
+### الدعم الفني
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="انضم الى الديسكورد الخاص بنا!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="انضم الى الديسكورد الخاص بنا!">
   </a>
 </div>
 
@@ -82,17 +82,17 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ### شكر و تقدير لـ
 
-شكرا ل :
+شكرا لـ :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (وقليل من الأشخاص الآخرين الذين نسيت أسماءهم) لتقديمهم تعليقات على الإصدارات الليلية.
-- @apriluwu للمحافضة على ابنية Gentoo
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (وبعض الأشخاص الآخرين الذين نسيت اسمائهم) لتقديمهم ارائهم على الإصدارات الليلية.
+- @apriluwu للمحافظة على نسخ Gentoo
 - @SlimShadyIAm و naka لصيانة حزم مستودع مستخدمي أرش سابقاً
 - مجتمع إلكترون لحزم مختلفة
 - أي شخص آخر ساهم في المشروع بأي شكل من الأشكال.
 
 <a name="license"></a>
 
-### License
+### الترخيص
 
 [![حالة FOSSA](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### إرشادات التثبيت
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -113,12 +113,12 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ```bash
 # فقط إنقر عليها مرتين أو قم بتشغيل
-./PreMiD*.AppImage
+AppImage.*PreMiD/.
 ```
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### ملاحظات إضافية
 
 إما إذا كنت ترغب في تجربة PreMiD أو فقط لا تريد تثبيته، هذا هو الأفضل، إنه دائما حديث ولكن لا يشتغل تلقائيا مع النظام!</br>إذا تعبت من الاضطرار إلى فتحه في كل مرة، استخدم الحزم الأخرى (وفقا للتوزيعة الخاصة بك).
 
@@ -146,13 +146,13 @@ curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## التوزيع القائمة على أرش لينكس
 
 تستخدم [مستودع مستخدمي أرش](https://aur.archlinux.org/packages/premid)؛</br>التوزيعات المدعومة هي _نفسها_، Manjaro، Anarchy، Artix، Arco، ArchLabs، Endeavour، Archman، BlackArch، Liri OS و [كل واحدة تدعم التثبيت من AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### إرشادات التثبيت
 
 ```bash
 # باستخدام yay (موصى به)
@@ -182,7 +182,7 @@ pacaur -S premid
 
 <a name="archnotes"></a>
 
-### Additional notes
+### ملاحظات إضافية
 
 إذا كانت التوزيعة الخاصة بك تستخدم pacman، فيجب عليك أولاً تثبيت أحد المساعدين. إذا لم يكن لديك أي شيء، يُنصح بتشغيل Yay:
 
