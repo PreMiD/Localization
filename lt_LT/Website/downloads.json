@@ -63,10 +63,6 @@
     "message": "Slėpti atsisiuntimus",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Dabartinė šios platformos versija yra {0} (ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms. Pagrindinė programos versija yra {0}",
     "description": "Tippy message of the version number when user is on Linux."
