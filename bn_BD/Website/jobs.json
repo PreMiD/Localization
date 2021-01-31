@@ -1,1 +1,22 @@
-{}
+{
+	"jobs.modal.title": {
+		"message": "{0} এর জন্য অ্যাপ্লাই করো",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "ধাপ {0}/2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "পরবর্তী",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "জয়েন",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "বাতিল করো",
+		"description": "Cancel, button in the modal."
+	}
+}
