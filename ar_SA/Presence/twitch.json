@@ -198,5 +198,65 @@
 	"twitch.brandMadness": {
 		"message": "جلب اساليب إلى جنوننا ( المحبوب)",
 		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "أقصى تعبيراتنا",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "جمعها معا",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "يشاهدة التطور لعلامة تويتش التجارية",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "مدوّنات تويتش",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "يشاهد مدونة سنة {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "يتصفح أحدث مشاركات المدونة...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "مركز المساعدة",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "يقرأ الموضوع:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "يتصفح كتالوج الموضوع...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "برنامج شركاء تويتش",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "مطوري تويتش",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "مستندات مطورين تويتش",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "منتجات مطور تويتش",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "قصص النجاح من المجتمع",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "مصادر مساعدة",
+		"description": "Page name"
 	}
 }
