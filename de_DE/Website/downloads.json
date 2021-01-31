@@ -63,6 +63,10 @@
     "message": "Downloads ausblenden",
     "description": "Little button on the downloads page for mobile users."
   },
+  "downloads.warning.differentVersion": {
+    "message": "Aktuelle Version dieser Plattform ist {0} (diese Version ist speziell für Linux und gilt nicht für andere Systeme).",
+    "description": "Tippy message of the Linux card."
+  },
   "downloads.warning.differentVersion2": {
     "message": "Diese Version ist speziell für Linux und gilt nicht für andere Systeme. Die Hauptversion der Anwendung ist {0}",
     "description": "Tippy message of the version number when user is on Linux."
