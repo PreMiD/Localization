@@ -1,5 +1,5 @@
 ---
-title: Classe de presença
+title: Classe Presence
 description: A classe principal para cada presença do PreMiD
 published: true
 date: 2021-01-04T18:22:24.312Z
@@ -8,102 +8,102 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Classe de presença
+# Classe Presence
 
 ## Introdução
 
-A classe `Presença` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
+A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
 
 Ao criar uma classe você deve especificar a propriedade `clientId`.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // Exemplo de clientId
 });
 ```
 
-### Properties
+### Propriedades
 
-There are three properties available for `Presence` class.
+Existem 3 propriedades disponíveis para a classe `Presence`.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. You can get it on your [applications page](https://discordapp.com/developers/applications).
+Este propriedade é obrigatória para sua presença funcionar, pois utilizamos o seu Application ID para exibir a logo e os assets. Você pode obter sua Application ID na [página de aplicativos](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+Quando a propriedade `injectOnComplete` estiver definida para `true` o primeiro evento `UpdateData` para ambos os arquivos`presence.ts` e `iframe.ts` só será disparado quando a página carregar completamente.
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+Quando a propriedade `appMode`: estiver definida para `true` e a presença enviar um objeto `PresenceData` vazio, o app irá exibir a aplicação (imagem e nome) no perfil do usuário em vez de não exibir nada.
 
 ## Métodos
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Retorna um objeto `PresenceData` do que a presença está exibindo.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
-Define a atividade do teu perfil de acordo com os dados fornecidos.
+Define a atividade do seu perfil de acordo com os dados fornecidos.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+O primeiro parâmetro requer uma interface[`PresenceData`](#presencedata-interface) ou uma classe [`Slideshow`](/dev/presence/slideshow) para obter todas as informações que você deseja exibir em seu perfil.
 
-O segundo parâmetro define quando a presença está reproduzindo algo ou não. Always use `true` if you provide timestamps in `PresenceData`.
+O segundo parâmetro define quando a presença está reproduzindo algo ou não. Sempre utilize `true` se você estiver utilizando timestamps na `PresenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Limpa sua atividade e o título atual.
 
 ### `setTrayTitle(String)`
 
-> Este método funciona somente no Mac OS. 
+> Este método funciona apenas no Mac OS. 
 > 
 > {.is-warning}
 
-Defina o título tray na Menubar.
+Define o título da bandeja no Menubar.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Cria uma nova classe `Slideshow`.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+É sugerido fazer isso logo após a criação da classe `Presence`:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Examplo de clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Você pode encontrar a documentação da classe `Slideshow` [aqui](/dev/presence/slideshow).
 
-### `getStrings(Object)`
+### `getStrings(Objeto)`
 
-An asyncronous method that allows you to get translated strings from extension.
+Um método assíncrono que permite que você pegue strings traduzidas da extensão.
 
-Você deve providenciar `Object` com as chaves sendo uma chave para a linha, `keyValue` é o valor da linha. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Uma lista de strings traduzidas pode ser encontrada utilizada este endpoint: `https://api.premid.app/v2/langFile/presence/pt-br`
 
 ```typescript
-// Retorna `Jogando` e `Pausado` linhas
-// da extensão.
+// Retorna strings `Jogando` e `Pausado`
+// a partir da extensão.
 const strings = await presence.getStrings({
   play: "general.playing",
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // resultado: Jogando
+const pauseString = strings.pause; // resultado: Pausado
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Desde a versão 2.2.0 da extensão você pode obter as strings de uma determinada língua. Isso funciona bem com a opção de configuração também recém-adicionada `multiLanguage`.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Sugerimos que você use o seguinte código para que ele atualize automaticamente os dados da Presença se o usuário alterar o idioma selecionado;
 
 ```typescript
 // An interface of the strings you are getting (good for code quality and autocomplete).
@@ -142,7 +142,7 @@ const pauseString = strings.pause; // result: Paused
 
 ### `getPageletiable(String)`
 
-Retorna a váriavel do site caso exista.
+Retorna uma variável a partir do site, se ela existir.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
@@ -151,7 +151,7 @@ console.log(pageVar); // This will log the "Variable content"
 
 ### `getExtensionVersion(Boolean)`
 
-Retorna a versão da extensão que o usuário está a usar.
+Retorna a versão da extensão que o usuário está usando.
 
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
@@ -261,11 +261,11 @@ presenceData.endTimestamp = timestamps[1];
 
 **Note:** The given `String` in querySelector is an example.
 
-## `PresenceData` Interface
+## Interface `presenceData`
 
 The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
 
-Esta interface está seguindo as váriaveis, todas elas são opcionais.
+Essa interface possui as seguintes variáveis, todas elas são opcionais.
 
 <table>
   <thead>
@@ -277,14 +277,14 @@ Esta interface está seguindo as váriaveis, todas elas são opcionais.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">detalhes</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Estado</td>
-      <td style="text-align:left">Segunda linha em sua presença.</td>
+      <td style="text-align:left">state</td>
+      <td style="text-align:left">Segunda linha da sua presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -292,16 +292,16 @@ Esta interface está seguindo as váriaveis, todas elas são opcionais.
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Define o tempo atual.<br>
         Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
-          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
-          contagem regressiva errada.
+          <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
+          contagem errada.
       </td>
-      <td style="text-align:left"><code>numero</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Define a duração completa.
-        <br>Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
+      <td style="text-align:left">Define a duração total.
+        <br>Usado se você quiser mostrar quantos <code>horas:minutos:segundos</code> faltam.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
@@ -309,21 +309,21 @@ Esta interface está seguindo as váriaveis, todas elas são opcionais.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Key</td>
-      <td style="text-align:left">Define o logotipo para a presença.</td>
+      <td style="text-align:left">largeImageKey</td>
+      <td style="text-align:left">Define o logo para a presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Chave</td>
-      <td style="text-align:left">Define o pequeno ícone ao lado da presença&apos;logo .</td>
+      <td style="text-align:left">smallImageKey</td>
+      <td style="text-align:left">Define o pequeno ícone ao lado do logo da presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">minhaImagemTexto</td>
-      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele irá colocar o cursor no ícone de
-        pequeno.</td>
+      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele passar o cursor no pequeno 
+        ícone.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -352,7 +352,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-Há poucos eventos disponíveis:
+Há alguns eventos disponíveis:
 
 #### `UpdateData`
 

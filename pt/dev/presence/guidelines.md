@@ -17,12 +17,12 @@ When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/P
 As regras gerais de desenvolvimento da presence são as seguintes:
 
 - Presences **deve** estar relacionado com o site de eleição.
-- Presenças **não** podem ser feitas para sites ilegais. (por exemplo, estresse, tráfico de drogas, pornografia infantil, etc.)
+- Presences **não** podem ser feitas para sites ilegais. (por exemplo, estresse, tráfico de drogas, pornografia infantil, etc.)
 - A estrutura do arquivo deve ser limpa e gerenciada, não inclui ficheiros que não são especificados. (por exemplo, vscode e pastas git, imagens e arquivos de texto, etc.)
 - Você precisa ter uma estrutura de arquivos correta, rascunhos **não são** permitidos.
-- Presenças para sites com (`.onion` TLDs) ou sites com domínios/hosts gratuitos (por exemplo, `.TK` [todos os domínios Freenom gratuitos], `.RF`, `GD`, etc) **não** são permitidos, Podem ser feitas excepções se for apresentada uma prova que demonstre que pagaram o domínio.
+- Presences para sites com (`.onion` TLDs) ou sites com domínios/hosts gratuitos (por exemplo, `.TK` [todos os domínios Freenom gratuitos], `.RF`, `GD`, etc) **não** são permitidos, Podem ser feitas excepções se for apresentada uma prova que demonstre que pagaram o domínio.
 - The domain of the presence must be at least 2 months old.
-- Presença que segmenta as páginas internas do navegador (como Chrome Web Store, `chrome://`, `sobre:` páginas, etc.) **não é** permitido, uma vez que exigem que uma flag experimental seja ativada no final do usuário e possa potencialmente causar danos aos seus navegadores.
+- Presence que segmenta as páginas internas do navegador (como Chrome Web Store, `chrome://`, `sobre:` páginas, etc.) **não é** permitido, uma vez que exigem que uma flag experimental seja ativada no final do usuário e possa potencialmente causar danos aos seus navegadores.
 - Presences com suporte para apenas um único subdomínio **não** serão permitidas, pois elas poderão parecer quebradas em outras páginas (como a página principal). Algumas exceções podem ser feitas para as páginas de Política e de Contacto (conteúdo que não é habitual ser usado) ou sites em que o conteúdo não está relacionado. (por exemplo, páginas de wiki)
 - Presences para rádios online apenas são permitidas se a rádio tiver pelo menos 100 ouvintes por semana e 15 em simultâneo.
 - Presences de baixa qualidade (ou com pouco contexto) **não** são permitidas (por exemplo, mostrar apenas uma logo e um texto, mas nunca os mudar denovo.)
@@ -64,7 +64,7 @@ presence
 > 
 > {.is-warning}
 
-Cada presença tem um arquivo de descriptor chamado `metadata.json`, a metadata têm um padrão rigoroso e um exemplo deste arquivo pode aparecer abaixo:
+Cada presence tem um arquivo de descriptor chamado `metadata.json`, a metadata têm um padrão rigoroso e um exemplo deste arquivo pode aparecer abaixo:
 
 ```json
 {
@@ -290,23 +290,23 @@ Algumas coisas que você deve saber após abrir uma pull request:
 - São necessários 2 revisores para fazer o merge de um pull request.
 - Se um pull request estiver inativo por um período de 14 dias, ele será rapidamente fechado.
 - Todas as verificações **devem ser** passadas para merge.
-- ⚠ Você **deve** fornecer novas, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presença funciona. _Você tem permissão para costurar capturas de tela juntos para visualizar o prazer._ Isso aplica-se tanto à criação quanto à modificação.
-- ⚠ Você também é **necessário** para incluir capturas de tela das configurações de presença na extensão, se fornecido. Um exemplo pode ser visto [aqui](https://imgur.com/a/OD3sj5R).
+- ⚠ Você **deve** fornecer novas, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presence funciona. _Você tem permissão para costurar capturas de tela juntos para visualizar o prazer._ Isso aplica-se tanto à criação quanto à modificação.
+- ⚠ Você também é **necessário** para incluir capturas de tela das configurações de presence na extensão, se fornecido. Um exemplo pode ser visto [aqui](https://imgur.com/a/OD3sj5R).
 
 ## `Verificações`
 
 ![Checks](https://i.imgur.com/BCDZQe9.png)
 
-Actualmente, uma presença atravessa 2 fases distintas de controlos. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Actualmente, uma presence atravessa 2 fases distintas de controlos. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
 - O `Codacy`é um bot que verifica a qualidade do código. Se você receber erros para novas issues, é **necessário** para corrigi-los.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Regras Adicionais`
 
-- **Sempre** certifique-se de iniciar sua presença na pasta mais apropriada, se seu nome começa com _qualquer_ letra latina, então ela deve estar abaixo da correspondência alfabética (para e. Exemplo: `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não-Latinos **deve** estar abaixo da pasta `#` (por exemplo, `#/巴哈姆特`) e números abaixo da pasta `0-9` (por exemplo, `0-9/4anime`).
+- **Sempre** certifique-se de iniciar sua presence na pasta mais apropriada, se seu nome começa com _qualquer_ letra latina, então ela deve estar abaixo da correspondência alfabética (para e. Exemplo: `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não-Latinos **deve** estar abaixo da pasta `#` (por exemplo, `#/巴哈姆特`) e números abaixo da pasta `0-9` (por exemplo, `0-9/4anime`).
 
-Depois de conhecer todas as diretrizes com as análises e verificações adequadas, sua presença estará na loja.
+Depois de conhecer todas as diretrizes com as análises e verificações adequadas, sua presence estará na loja.
 
 # Contribuições
 

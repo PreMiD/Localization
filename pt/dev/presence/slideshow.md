@@ -14,17 +14,17 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 A classe ` Slideshow ` é usada para definir vários ` PresenceData ` e "deslizar" por eles a cada x milissegundos (mínimo: 5000).
 
-Veja o método [`createSlideshow`](/dev/presence/class#createslideshow) na classe [`Presença`](/dev/presence/class) sobre como criar um `Slideshow`.
+Veja o método [`createSlideshow`](/dev/presence/class#createslideshow) na classe [`Presence`](/dev/presence/class) sobre como criar um `Slideshow`.
 
 ## Propriedades
 
 ### `currentSlide`
 
-Devolve um [`PresenceData`](/dev/presence/class#presencedata-interface) objeto do que a presença/diapositivo de corrente está a exibir.
+Devolve um [`PresenceData`](/dev/presence/class#presencedata-interface) objeto do que a presence/diapositivo de corrente está a exibir.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // O console registrará os detalhes dos dados de presença
+console.log(currentSlide.details) // O console registrará os detalhes dos dados de presence
 ```
 
 ## Métodos

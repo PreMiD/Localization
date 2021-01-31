@@ -50,7 +50,7 @@ No arquivo de configuração raiz você verá algo como este.
 | typeRoots                  | Pode ler mais sobre isso [aqui](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                                             |
 | esModuleInterop            | Emit __importStar e __importDefault helpers para compatibilidade com o ecossistema do babel e habilite --allowSyntheticDefaultImports para compatibilidade com os tipos de sistema. |
 
-## Configuração de Presença
+## Configuração de Presence
 
 ```javascript
 {

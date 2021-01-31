@@ -15,4 +15,4 @@ PreMiD** é um utilitário simples e configurável que permite mostrar o que voc
 
 # Principais recursos
 - Exibe seu serviço atual no Discord como seu status.
-- Concede controle total sobre as Presenças.
+- Concede controle total sobre as Presences.

@@ -1,5 +1,5 @@
 ---
-title: Desenvolvimento de Presenças
+title: Desenvolvimento de Presences
 description:
 published: true
 date: 2021-01-30T10:59:26.700Z
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> Todas as presenças agora são armazenadas aqui: https://github.com/PreMiD/Presences 
+> Todas as presences agora são armazenadas aqui: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Os utilizadores agora têm a capacidade de adicionar e remover manualmente as suas presenças favoritas através da interface do [site](https://premid.app/).
+A versão `2.x` introduz a [loja de presences](https://premid.app/store). Os utilizadores agora têm a capacidade de adicionar e remover manualmente as suas presences favoritas através da interface do [site](https://premid.app/).
 
-> Antes de começar, recomendamos que vejas as nossas diretrizes das presenças. 
+> Antes de começar, recomendamos que vejas as nossas diretrizes das presences. 
 > 
 > {.is-warning}
 
@@ -23,7 +23,7 @@ A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Os ut
 
 # Estrutura
 
-Toda as presença estão programadas em [TypeScript](https://www.typescriptlang.org/). O [TypeScript](https://www.typescriptlang.org/) tem mais algumas definições de tipos em relação ao JavaScript, logo, encontrar e resolver erros é bem mais fácil.
+Toda as presence estão programadas em [TypeScript](https://www.typescriptlang.org/). O [TypeScript](https://www.typescriptlang.org/) tem mais algumas definições de tipos em relação ao JavaScript, logo, encontrar e resolver erros é bem mais fácil.
 
 ## Instalação
 
@@ -149,14 +149,14 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presença do desenvolvedor. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
+      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do desenvolvedor. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presença do desenvolvedor. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
+      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do desenvolvedor. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
@@ -240,7 +240,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. Veja os catálogos válidos <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. Vê os catálogos válidos <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -265,7 +265,7 @@ Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu pr
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Uma matriz de definições que o usuário pode alterar.<br>
-      Leia mais sobre as configurações de presença, <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
+      Leia mais sobre as configurações de presence, <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -308,7 +308,7 @@ presence.on("UpdateData", async () => {
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*A chave (nome do arquivo) da imagem grande na presença. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*A chave (nome do arquivo) da imagem grande na presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageKey:
       "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
@@ -379,7 +379,7 @@ presence.on("iFrameData", (data) => {
 
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# A carregar a presença
+# A carregar a presence
 
 1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
@@ -399,7 +399,7 @@ The website you are developing on is automatically reloading every time you save
 
 # Arquivos explicados
 
-- [Classe de presença](/dev/presence/class)
+- [Classe de presence](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
 - [iFrame Class](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
