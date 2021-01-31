@@ -36,7 +36,7 @@
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "Presenças",
+		"message": "Presences",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Não há nenhuma presença adicionada",
+		"message": "Não há nenhuma presence adicionada",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -52,11 +52,11 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Carregar Presença",
+		"message": "Carregar Presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Loja de Presenças",
+		"message": "Loja de Presences",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -108,7 +108,7 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Parece que não tens uma conexão à internet! O PreMiD não vai conseguir mostrar presenças no momento.",
+		"message": "Parece que não tens uma conexão à internet! O PreMiD não vai conseguir mostrar presences no momento.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {

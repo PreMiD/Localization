@@ -63,10 +63,6 @@
     "message": "مخفی کردن دانلود ها",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "نسخه فعلی برای این پلتفرم {0} می باشد (این نسخه مخصوصا برای لینوکس می باشد و تاثیری روی دیگر پلتفرم ها ندارد).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "این نسخه مختص به لینوکس می باشد و شامل دیگر سیستم عامل ها نمی شود. نسخه اصلی برنامه {0} است",
     "description": "Tippy message of the version number when user is on Linux."
