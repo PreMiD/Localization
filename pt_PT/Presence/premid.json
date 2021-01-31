@@ -8,7 +8,7 @@
 		"description": "as in documents"
 	},
 	"premid.viewPresence": {
-		"message": "A ver presenças:",
+		"message": "A ver presences:",
 		"description": ""
 	},
 	"premid.pageHome": {
@@ -24,7 +24,7 @@
 		"description": "A page name // {0} will be replaced with the version number."
 	},
 	"premid.pagePresenceGuide": {
-		"message": "Diretrizes de presença",
+		"message": "Diretrizes de presence",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
