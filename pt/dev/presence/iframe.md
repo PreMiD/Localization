@@ -13,11 +13,11 @@ tags:
 
 ## Introdução
 
-Em alguns cenários, sua presença pode precisar acessar elementos dentro de `iframes`.
+Em alguns cenários, sua presence pode precisar acessar elementos dentro de `iframes`.
 
 O código que você escreve dentro do seu arquivo `iframe.ts` é injetado em cada iframe na página.
 
-Como as presenças, `iframes` têm suas próprias classes projetadas para atualizar dados automaticamente.
+Como as presences, `iframes` têm suas próprias classes projetadas para atualizar dados automaticamente.
 
 ```typescript
 let iframe = new iFrame();
@@ -30,13 +30,13 @@ iframe.on("UpdateData", async () =>
 ## Methods
 
 ### `enviar(objeto)`
-Envia dados para a presença. Usando este método a presença lançará um evento `iFrameData`.
+Envia dados para a presence. Usando este método a presence lançará um evento `iFrameData`.
 
 ### `getUrl()`
 Retorna a URL do `iframe`.
 
 ## Events
-Em `iframes`, os eventos funcionam da mesma forma que eles funcionam na `classe de presença`.
+Em `iframes`, os eventos funcionam da mesma forma que eles funcionam na `classe de presence`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
