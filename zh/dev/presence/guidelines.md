@@ -1,5 +1,5 @@
 ---
-title: 准则
+title: 指南
 description: Rules all presence developers must follow to have their presence added.
 published: true
 date: 2020-12-29T02:18:29.846Z
@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rule sets will keep us and our users from running into issues.
 
-# 设定
+# Creation
 
 The general rules of presence development are as follows:
 
@@ -198,7 +198,7 @@ A list of fields and their rules are listed below:
 
 - Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
 
-### **`设置`**
+### **`設定`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
