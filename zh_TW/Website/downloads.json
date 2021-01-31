@@ -63,10 +63,6 @@
     "message": "隱藏下載",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "該平台的當前版本為 {0} (此版本為Linux定制，不適用於其他平臺)。",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "此版本為Linux定制，不適用於其他系統。主程序的主要版本是{0}",
     "description": "Tippy message of the version number when user is on Linux."
