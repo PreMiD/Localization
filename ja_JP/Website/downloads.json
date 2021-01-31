@@ -63,10 +63,6 @@
     "message": "非表示にする",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "このプラットフォームの現在のバージョンは {0} です(このバージョンは Linux に固有で、他のプラットフォームには適用されません)。",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "このバージョンは Linux に固有で、他のシステムには適用されません。アプリケーションのメインバージョンは {0} です。",
     "description": "Tippy message of the version number when user is on Linux."
