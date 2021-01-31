@@ -64,7 +64,7 @@
     "description": "Little button on the downloads page for mobile users."
   },
   "downloads.warning.differentVersion": {
-    "message": "Current version of this platform is {0} (this version is specific to Linux, and doesn't apply to other platforms).",
+    "message": "Current version of this platform is {0} (this version is specific to Linux and doesn't apply to other platforms).",
     "description": "Tippy message of the Linux card."
   },
   "downloads.warning.differentVersion2": {
