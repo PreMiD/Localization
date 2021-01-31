@@ -1,6 +1,6 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Desenvolvedor de Presences",
+		"message": "Programador de Presences",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
