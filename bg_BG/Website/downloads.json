@@ -63,10 +63,6 @@
     "message": "Скриване на изтеглянията",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Сегашната версия на тази платформа е {0} (тази версия е направена за Linux, и не поддържа други платформи).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Тази версия е специално за Linux, и не поддържа други системи. Главната версия на програмата е {0}",
     "description": "Tippy message of the version number when user is on Linux."
