@@ -40,11 +40,11 @@
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Encontra **sua** presença",
+		"message": "Encontra **sua** presence",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Criamos a nossa extensão de uma maneira que te permite adicionar e usar presenças criadas por outros e geri-las na nossa extensão!",
+		"message": "Criamos a nossa extensão de uma maneira que te permite adicionar e usar presences criadas por outros e geri-las na nossa extensão!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -64,7 +64,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Gerenciamento de presença",
+		"message": "Gerenciamento de presence",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
