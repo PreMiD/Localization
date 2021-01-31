@@ -63,10 +63,6 @@
     "message": "Sembunyikan Unduhan",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Versi platform saat ini adalah {0} (versi ini hanya berlaku untuk Linux, tidak berlaku pada platform lain).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Versi ini khusus untuk Linux, dan tidak berlaku untuk sistem lain. Versi utama aplikasi adalah {0}",
     "description": "Tippy message of the version number when user is on Linux."
