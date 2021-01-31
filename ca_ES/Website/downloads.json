@@ -50,5 +50,17 @@
   "downloads.mobile.hideDownloads": {
     "message": "Ocultar descarregues",
     "description": "Little button on the downloads page for mobile users."
+  },
+  "downloads.warning.title": {
+    "message": "Avís",
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+  },
+  "downloads.button.done": {
+    "message": "Complert",
+    "description": "Button on the page when trying to download with adblocker on."
+  },
+  "downloads.adsbox.thankyou.title": {
+    "message": "Gràcies!",
+    "description": "Title of the advertisement section box."
   }
 }
