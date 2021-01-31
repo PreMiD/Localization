@@ -63,10 +63,6 @@
     "message": "Versteek Aflaaie",
     "description": "Little button on the downloads page for mobile users."
   },
-  "downloads.warning.differentVersion": {
-    "message": "Die huidige weergawe van hierdie platform is {0} (hierdie weergawe is spesifieke by Linux, en is nie van toepassing op ander platforms nie).",
-    "description": "Tippy message of the Linux card."
-  },
   "downloads.warning.differentVersion2": {
     "message": "Hierdie weergawe is spesifiek na Linux en en is nie van toepassing op ander stelsels nie. Die hoofweergawe van die toepassing is {0}",
     "description": "Tippy message of the version number when user is on Linux."
