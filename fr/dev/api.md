@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versioning
-> L'API v2 a été dépréciée et sera supprimée dans un avenir proche. Please use v3 for any future request to prevent issues. 
+> L'API v2 a été dépréciée et sera supprimée dans un avenir proche. Veuillez utiliser la v3 pour toute future requête afin d'éviter des problèmes. 
 > 
 > {.is-danger}
 
