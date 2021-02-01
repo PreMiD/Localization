@@ -1,6 +1,6 @@
 ---
 title: API
-description: Acesse os recursos e execute ações usando a API do PreMiD
+description: Aceder a recursos e realizar acções utilizando o API PreMiD
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
@@ -10,20 +10,20 @@ dateCreated: 2020-06-11T18:03:59.010Z
 
 # API
 
-> URL Base: https://api.premid.app 
+> URL de base: https://api.premid.app 
 > 
 > {.is-info}
 
-## Versionamento da API
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+## API Versioning
+> A API v2 foi descontinuada e será removida num futuro próximo. Usa a v3 para quaisquer pedidos futuros para evitar problemas. 
 > 
 > {.is-danger}
 
-O PreMiD expõe versões diferentes da nossa API. Você pode especificar a versão incluindo-a no caminho de solicitação como `https://api.premid.app/v{version_number}`. Omitir o número da versão na rota, roteará requisições para a versão padrão atual (marcado abaixo em conformidade).
+PreMiD expõe versões diferentes da nossa API. Você pode especificar a versão incluindo-a no caminho de solicitação como `https://api.premid.app/v{version_number}`. Omitir o número da versão da rota roteará requisições para a versão padrão atual (marcado abaixo em conformidade).
 
 ## Encriptação
 
-Todos os serviços e protocolos de camada HTTP (por exemplo, http) dentro da API do PreMiD usa TLS 1.2.
+Todos os serviços e protocolos de camada HTTP (por exemplo, http) dentro do PreMiD API usa TLS 1.2.
 
 # Documentação
 > Atualmente em construção! 
@@ -31,6 +31,6 @@ Todos os serviços e protocolos de camada HTTP (por exemplo, http) dentro da API
 > {.is-danger}
 
 **Escolha a versão da API:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *descontinuada*](/dev/api/v2)
+- [v3 *ativa*](/dev/api/v3)
 {.links-list}
