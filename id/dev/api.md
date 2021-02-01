@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Versi API
-> API v2 sudah tidak digunakan lagi dan akan dihapus dalam waktu dekat. Harap gunakan v3 untuk permintaan apa pun di masa mendatang guna mencegah masalah di masa mendatang. 
+> API v2 sudah usang dan akan dihapus dalam waktu dekat. Harap gunakan v3 untuk permintaan apa pun guna mencegah masalah di masa mendatang. 
 > 
 > {.is-danger}
 
