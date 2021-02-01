@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.119Z
 > {.is-info}
 
 ## API-Versionierung
-> API v2 ist veraltet und wird in naher Zukunft entfernt. Please use v3 for any future request to prevent issues. 
+> API v2 ist veraltet und wird in naher Zukunft entfernt. Bitte verwenden Sie v3 für jede zukünftige Anfrage, um Probleme zu vermeiden. 
 > 
 > {.is-danger}
 
