@@ -2,7 +2,7 @@
 title: API
 description: Доступ к ресурсам и выполнение действий с помощью PreMiD API
 published: true
-date: 2021-01-29T11:48:45.412Z
+date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:59.010Z
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Версия API
-> API v2 устарел и будет удален в ближайшем будущем. Пожалуйста, используйте v3 для любого будущего запроса для предотвращения возникновения проблем в будущем. 
+> API v2 устарел и будет удален в ближайшем будущем. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
