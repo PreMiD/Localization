@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "En train de cuire des pancakes...;En train de placer des conteneurs...;En train d'analyser votre adresse IP...;UwU;En train de casser des règles...",
+    "message": "En train de faire des pancakes...;En train de placer des conteneurs...;En train d'analyser votre adresse IP...;UwU;En train d'enfreindre des règles...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
