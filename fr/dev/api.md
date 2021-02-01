@@ -2,7 +2,7 @@
 title: API
 description: Accéder aux ressources et effectuer des actions à l'aide de l'API PreMiD
 published: true
-date: 2021-01-29T11:48:45.412Z
+date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:59.010Z
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versioning
-> L'API v2 a été dépréciée et sera supprimée dans un avenir proche. Veuillez utiliser la v3 pour toute requête afin d'éviter des problèmes dans le futur. 
+> L'API v2 a été dépréciée et sera supprimée dans un avenir proche. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 

@@ -17,7 +17,7 @@ De `Presence` klasse is erg handig omdat deze over basismethoden beschikt die we
 Wanneer u een klasse aanmaakt, dient u de eigenschap `clientId` te specificeren.
 
 ```typescript
-const presence = new Presence({
+const presence = new presence({
   clientId: "514271496134389561" // Voorbeeld clientId
 });
 ```
@@ -75,7 +75,7 @@ const slideshow = presence.createSlideshow();
 Dit wordt aanbevolen om gelijk te doen wanneer je de `Presence` klasse maakt:
 
 ```typescript
-const presence = new Presence({
+const presence = new presence({
     clientId: "514271496134389561" // Voorbeeld clientId
   }),
   slideshow = presence.createSlideshow();
@@ -103,7 +103,7 @@ const pauseString = strings.pause; // Retourneert: Paused
 
 Sinds v2.2.0 van de extensie kunt u nu de strings van een bepaalde taal krijgen. Dit werkt goed met de nieuw toegevoegde `multiLanguage` instelling optie.
 
-We raden je aan om de volgende code te gebruiken, zodat de PresenceData automatisch wordt bijgewerkt als als de gebruiker de geselecteerde taal verandert;
+We raden je aan om de volgende code te gebruiken, zodat de presenceData automatisch wordt bijgewerkt als als de gebruiker de geselecteerde taal verandert;
 
 ```typescript
 // Een interface van de strings die u krijgt (goed voor code kwaliteit en autocomplete).
@@ -331,7 +331,7 @@ Dit scherm volgt variabelen, ze zijn allemaal optioneel.
 </table>
 
 ```typescript
-const presenceData: PresenceData = {
+const presenceData: presenceData = {
   details: "Mijn titel",
   state: "Mijn beschrijving",
   largeImageKey: "service_logo",

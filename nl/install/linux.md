@@ -37,7 +37,7 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
 
 ## Over ons
 
-**PreMiD** is een eenvoudige configureerbare hulpprogramma dat de Discord's RP ( Rich Presence ) bibliotheek gebruikt, waarmee je kunt laten zien wat je doet op het web (en een paar programma's) in je Discord-profiel als **afspeelstatus**.
+**PreMiD** is een eenvoudige configureerbare hulpprogramma dat de Discord's RP ( Rich presence ) bibliotheek gebruikt, waarmee je kunt laten zien wat je doet op het web (en een paar programma's) in je Discord-profiel als **afspeelstatus**.
 
 <a name="stats"></a>
 

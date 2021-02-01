@@ -2,7 +2,7 @@
 title: API
 description: Aceder a recursos e realizar acções utilizando o API PreMiD
 published: true
-date: 2021-01-29T11:48:45.412Z
+date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:59.010Z
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versioning
-> A API v2 foi descontinuada e será removida num futuro próximo. Usa a v3 para quaisquer pedidos a partir de agora para prevenir problemas no futuro. 
+> A API v2 foi descontinuada e será removida num futuro próximo. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
