@@ -379,7 +379,7 @@ Buka konsol dalam folder anda dan ketik `tsc -w` untuk mengcompile `presence.ts`
 
 # Memuat presence
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Buka popup ekstensi di browser dan tahan tombol <kbd>Shift</kbd> pada keyboard anda.
 2. **Load Presence** akan muncul pada bagian presence.
 3. Klik sambil menahan tombol <kbd>Shift</kbd>.
 4. Pilih folder /dist dari presence anda.
