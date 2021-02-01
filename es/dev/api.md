@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Administración de versiones de la API
-> La v2 de la API está discontinuada y va a ser eliminada en un futuro cercano. Please use v3 for any future request to prevent issues. 
+> La v2 de la API está discontinuada y va a ser eliminada en un futuro cercano. Por favor, usa la v3 para cualquier solicitud futura para prevenir problemas. 
 > 
 > {.is-danger}
 

@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Pengurusan versi API
-> API v2 telah diperkecamkan dan akan dialih keluar pada masa akan datang. Please use v3 for any future request to prevent issues. 
+> API v2 telah diperkecamkan dan akan dialih keluar pada masa akan datang. Sila gunakan v3 untuk sebarang permintaan akan datang untuk mengelakkan isu. 
 > 
 > {.is-danger}
 
