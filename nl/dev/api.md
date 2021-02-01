@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versiebeheer
-> API v2 is verouderd en zal in de nabije toekomst worden verwijderd. Please use v3 for any future request to prevent issues. 
+> API v2 is verouderd en zal in de nabije toekomst worden verwijderd. Gebruik v3 voor toekomstige requests om problemen te voorkomen. 
 > 
 > {.is-danger}
 
