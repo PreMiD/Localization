@@ -40,7 +40,7 @@
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "Donner",
+		"message": "Faire un don",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
