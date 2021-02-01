@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Bevat basisgegevens over de Presence
+description: Bevat basisgegevens over de presence
 published: true
 date: 2020-12-26T15:03:41.542Z
 tags:
