@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versioning
-> A API v2 foi descontinuada e será removida num futuro próximo. Please use v3 for any future request to prevent issues. 
+> A API v2 foi descontinuada e será removida num futuro próximo. Usa a v3 para quaisquer pedidos futuros para evitar problemas. 
 > 
 > {.is-danger}
 
