@@ -380,7 +380,7 @@ presence.on("iFrameData", (данные) => {
 
 # Загрузка присутствия
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Откройте всплывающее окно расширения в браузере и удерживайте кнопку <kbd>Shift</kbd> на вашей клавиатуре.
 2. **Load Presence** появится в секции Prestions.
 3. Нажмите на неё, пока вы все еще держите кнопку <kbd>Shift</kbd>.
 4. Выберите папку /dist вашего присутствия.
