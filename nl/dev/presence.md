@@ -277,7 +277,7 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 ## Aan de slag
 
 ```typescript
-cosnt presence = new Presence({
+cosnt presence = new presence({
     clientId: "000000000000000000" //De client ID van de Applicatie gemaakt op https://discordapp.com/developers/applications
   }),
   strings = presence.getStrings({
@@ -307,11 +307,11 @@ presence.on("UpdateData", async () => {
 
     Het is aanbevolen om een andere functie buiten deze event-functie te maken die de variabelen zult veranderen en al het zware werk zal doen als je informatie roept vanuit een API*/
 
-  const presenceData: PresenceData = {
+  const presenceData: presenceData = {
     largeImageKey: 
-      "key", /*De sleutel (bestandsnaam) van de Grote Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
+      "key", /*De sleutel (bestandsnaam) van de Grote Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich presence sectie van jouw applicatie, genaamd Art Assets*/
     smallImageKey: 
-      "key", /*De sleutel (bestandsnaam) van de Kleine Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich Presence sectie van jouw applicatie, genaamd Art Assets*/
+      "key", /*De sleutel (bestandsnaam) van de Kleine Afbeelding op de presence. Deze worden geüpload en genoemd in de Rich presence sectie van jouw applicatie, genaamd Art Assets*/
     smallImageText: "Some hover text", //De tekst die wordt weergeven wanneer je eroverheen wijst
     details: "Browsing Page Name", //Het bovenste gedeelte van je presence
     state: "Reading section A", //Het onderste gedeelte van je presence
@@ -383,7 +383,7 @@ Open een console in je map en typ `tsc -w` om de `presence.ts` te compileren in 
 # Laden van de presence
 
 1. Open de extensie popup in de browser en houd de <kbd>Shift</kbd> knop op je toetsenbord ingedrukt.
-2. **Laad Presence** verschijnt in de Presences sectie.
+2. **Laad presence** verschijnt in de presences sectie.
 3. Klik erop terwijl je nog steeds de <kbd>Shift</kbd> knop ingedrukt houdt.
 4. Selecteer de map /dist van uw presence.
 
