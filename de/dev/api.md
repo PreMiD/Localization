@@ -2,7 +2,7 @@
 title: API
 description: Greife mit der PreMiD-API auf Ressourcen zu und führe Aktionen aus
 published: true
-date: 29.01.2021:48:45.412 Z
+date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:59.119Z
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.119Z
 > {.is-info}
 
 ## API-Versionierung
-> API v2 ist veraltet und wird in naher Zukunft entfernt. Bitte verwenden Sie v3 für jede zukünftige Anfrage, um Probleme in Zukunft zu vermeiden. 
+> API v2 ist veraltet und wird in naher Zukunft entfernt. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
