@@ -2,7 +2,7 @@
 title: API
 description: Akses resource dan bekerja menggunakan PreMiD API
 published: true
-date: 2021-01-29T11:48:45.412Z
+date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:59.010Z
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Versi API
-> API v2 sudah usang dan akan dihapus dalam waktu dekat. Harap gunakan v3 untuk permintaan apa pun guna mencegah masalah di masa mendatang. 
+> API v2 sudah usang dan akan dihapus dalam waktu dekat. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
