@@ -15,4 +15,4 @@ PreMiD is een eenvoudig, aanpasbaar hulpmiddel waarmee je kunt laten zien wat je
 
 # Kernfuncties
 - Toont je huidige webservice in Discord als je status.
-- Geeft volledige controle over Presences.
+- Geeft volledige controle over presences.
