@@ -2,7 +2,7 @@
 title: API
 description: Access resources and perform actions using the PreMiD API
 published: true
-date: 2021-01-29T11:48:45.412Z
+date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:59.010Z
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versioning
-> نسخه 2 API منسوخ شده است و در آینده‌ای نزدیک حذف خواهد شد. لطفا نسخه 3 را برای درخواست های آینده و جلوگیری از مشکلات پیش رو، استفاده نمایید. 
+> نسخه 2 API منسوخ شده است و در آینده‌ای نزدیک حذف خواهد شد. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
