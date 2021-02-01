@@ -24,7 +24,7 @@ Geeft als resultaat een [`PresenceData`](/dev/presence/class#presencedata-interf
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Zal de details van de PresenceData loggen
+console.log(currentSlide.details) // Zal de details van de presenceData loggen
 ```
 
 ## Methodes
