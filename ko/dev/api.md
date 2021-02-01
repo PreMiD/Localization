@@ -2,7 +2,7 @@
 title: API
 description: PreMid API를 사용하여 코드에 접속하고 기능들을 테스트하세요.
 published: true
-date: 2021-01-29T11:48:45.412Z
+date: 2021-02-01T12:36:44.713Z
 tags:
 editor: 마크다운
 dateCreated: 2020-06-11T18:03:59.010Z
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API 버전
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues in the future. 
+> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
