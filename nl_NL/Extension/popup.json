@@ -28,7 +28,7 @@
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "Titel Menubar",
+		"message": "Titel menubalk",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
@@ -40,11 +40,11 @@
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
-		"message": "Beheer",
+		"message": "Beheren",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Geen Presences toegevoegd",
+		"message": "Geen presences toegevoegd",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -52,7 +52,7 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Laad Presence",
+		"message": "Presence laden",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
@@ -60,7 +60,7 @@
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
-		"message": "Hulp Nodig?",
+		"message": "Hulp nodig?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
 	"popup.credits.error.heading": {
@@ -80,7 +80,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Verouderde App",
+		"message": "Verouderde app",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
@@ -88,7 +88,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
-		"message": "Verouderde Extensie",
+		"message": "Verouderde extensie",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
@@ -140,7 +140,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Video's & Streams",
+		"message": "Video's & streaming",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

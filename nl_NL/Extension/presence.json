@@ -8,7 +8,7 @@
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
-    "message": "Browsen...",
+    "message": "Bladeren...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {

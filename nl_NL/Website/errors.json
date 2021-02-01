@@ -32,7 +32,7 @@
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "dat de gebruiker heeft genoeg presences gemaakt en heeft de Presence developer rol in onze Discord server.",
+		"message": "dat de gebruiker heeft genoeg presences gemaakt en heeft de presence developer rol in onze Discord server.",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {

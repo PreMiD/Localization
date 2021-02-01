@@ -32,7 +32,7 @@
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
-		"message": "Rich Presence",
+		"message": "Rich presence",
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
