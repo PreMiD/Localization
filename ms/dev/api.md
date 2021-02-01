@@ -2,7 +2,7 @@
 title: API
 description: Capai sumber dan buat perlakuan menggunakan API PreMiD
 published: true
-date: 2021-01-29T11:48:45.412Z
+date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:59.010Z
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Pengurusan versi API
-> API v2 telah diperkecamkan dan akan dialih keluar pada masa akan datang. Sila gunakan v3 untuk sebarang permintaan akan datang untuk mengelakkan isu pada masa depan. 
+> API v2 telah diperkecamkan dan akan dialih keluar pada masa akan datang. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
