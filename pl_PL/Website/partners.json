@@ -135,6 +135,10 @@
 		"message": "Łatwo pokazuj swoim użytkownikom status w czasie rzeczywistym.",
 		"description": "Description for StatusPage."
 	},
+	"partners.partner.erisly": {
+		"message": "Bogini, która gra jako zabawny Discord Bot!",
+		"description": "Description for Erisly."
+	},
 	"partners.partner.reyfm": {
 		"message": "REYFM pozwala ci słuchać ponad 15 strumieni muzyki za darmo - nonstop. Z najlepszą i najnowszą muzyką tylko dla Ciebie!",
 		"description": "Description for REYFM."
