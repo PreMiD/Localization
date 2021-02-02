@@ -39,6 +39,10 @@
 		"message": "PreMiD এর জন্যে কাজ করো",
 		"description": "First part of the jobs page."
 	},
+	"jobs.header.description": {
+		"message": "তৈরি তো সবচেয়ে বড় Rich-Presence প্রোগ্রামকে সাহায্য করতে?",
+		"description": "The second part of the jobs page."
+	},
 	"jobs.openings.title": {
 		"message": "কাজের সুযোগ",
 		"description": "Text before the available job positions cards."
