@@ -19,9 +19,21 @@
 		"message": "বাতিল করো",
 		"description": "Cancel, button in the modal."
 	},
+	"jobs.modal.error": {
+		"message": "সকল স্থান পূরণ করো",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD হচ্ছে একটি ওপেন সোর্স প্রোজেক্ট, যার মানে আমরা একটি অলাভজনক টিম, প্রত্যেকটা ডোনেশন ও প্যাটরিয়ন এর টাকা আমাদের প্রোডাক্টে এর পিছনে ব্যয় হয়। PreMiD - তে কাজের আবেদন করার মাধ্যমে তুমি স্বীকার করো যে তুমি টিমে একজন স্বেচ্ছাকর্মী হিসেবে কাজ করছ, তোমার কাজের জন্য তোমাকে টাকা দেওয়া হবে না।",
+		"description": "Notice for applicants."
+	},
 	"jobs.guild.required": {
 		"message": "জয়েন করো আমাদের Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "অ্যাপ্লাই করার জন্যে তোমাকে আমাদের Discord সার্ভারে থাকতেই হবে। তা না হলে আমরা তোমার সাথে যোগাযোগ করতে পারব না যদি তুমি সিলেক্টেড হয়ে যাও!",
+		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
 		"message": "PreMiD এর জন্যে কাজ করো",
