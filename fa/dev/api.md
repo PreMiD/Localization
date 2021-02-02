@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versioning
-> نسخه 2 API منسوخ شده است و در آینده‌ای نزدیک حذف خواهد شد. Please use v3 for any future request to prevent issues. 
+> نسخه 2 API منسوخ شده است و در آینده‌ای نزدیک حذف خواهد شد. لطفا نسخه 3 را برای جلوگیری از مشکلات پیش رو در آینده، استفاده نمایید. 
 > 
 > {.is-danger}
 
