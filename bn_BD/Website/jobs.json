@@ -51,6 +51,14 @@
 		"message": "বড় সুবিধাগুলো",
 		"description": "Text before the benefits cards."
 	},
+	"jobs.benefit1.title": {
+		"message": "দেখা করো আমাদের সাথে",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "PreMiD - এর পিছনে থাকা মানুষদের সাথে কথা বলো।",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit3.title": {
 		"message": "সম্মান",
 		"description": "Benefit card title."
