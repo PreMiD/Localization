@@ -1,1 +1,58 @@
-{}
+{
+	"premid.viewPresence": {
+		"message": "Presence দেখছে:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "হোমপেজ",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "কন্ট্রিবিউটর",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "ডাউনলোড",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "স্টোর",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "পার্টনার",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "PreMiD সম্বন্ধে",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "সিস্টেম রিকোয়ারমেন্ট",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "ইন্সটলেশন",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "{0} এর জন্য ইন্সটল",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "সমস্যা সমাধান",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "শুরু করা যাক",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence ডেভেলপমেন্ট",
+		"description": "A page name"
+	}
+}

@@ -7,12 +7,32 @@
 		"message": "ব্রাউসিং...",
 		"description": ""
 	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "এপিসোড",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "ফোরাম",
+		"description": ""
+	},
 	"general.language": {
 		"message": "ভাষা",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "গান শুনছে",
+		"description": ""
+	},
 	"general.live": {
 		"message": "লাইভ",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "মাংগা",
 		"description": ""
 	},
 	"general.reading": {
