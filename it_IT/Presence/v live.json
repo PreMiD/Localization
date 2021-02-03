@@ -27,6 +27,14 @@
 		"message": "la pagina del negozio",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.recentUploads": {
+		"message": "Navigando attraverso i caricamenti recenti{0}dei loro follower",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "del canale di {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
 	"v live.channelHome": {
 		"message": "Visualizzando la home page",
 		"description": "Second part of the \"of {0}'s channel\" string"
@@ -42,6 +50,18 @@
 	"v live.channelStore": {
 		"message": "Visualizzando la pagina del negozio",
 		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "Visualizzazione della scheda \"{0}\"",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "Visualizzazione del prodotto di {0}",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.profileEdit": {
+		"message": "Modificando{0}il proprio profilo",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"v live.viewTheir": {
 		"message": "Visualizzando i loro",
