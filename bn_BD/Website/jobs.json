@@ -24,7 +24,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD হচ্ছে একটি ওপেন সোর্স প্রোজেক্ট, যার মানে আমরা একটি অলাভজনক টিম, প্রত্যেকটা ডোনেশন ও প্যাটরিয়ন এর টাকা আমাদের প্রোডাক্টে এর পিছনে ব্যয় হয়। PreMiD - তে কাজের আবেদন করার মাধ্যমে তুমি স্বীকার করো যে তুমি টিমে একজন স্বেচ্ছাকর্মী হিসেবে কাজ করছ, তোমার কাজের জন্য তোমাকে টাকা দেওয়া হবে না।",
+		"message": "PreMiD হচ্ছে একটি ওপেন সোর্স প্রোজেক্ট, যার মানে আমরা একটি অলাভজনক টিম, প্রত্যেকটা ডোনেশন ও প্যাটরিয়ন এর টাকা আমাদের প্রোডাক্ট এর পিছনে ব্যয় হয়। PreMiD - তে কাজের আবেদন করার মাধ্যমে তুমি স্বীকার করো যে তুমি টিমে একজন স্বেচ্ছাকর্মী হিসেবে কাজ করছ, তোমার কাজের জন্য তোমাকে টাকা দেওয়া হবে না।",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
@@ -36,7 +36,7 @@
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
-		"message": "PreMiD এর জন্যে কাজ করো",
+		"message": "PreMiD - এর জন্যে কাজ করো",
 		"description": "First part of the jobs page."
 	},
 	"jobs.header.description": {
@@ -79,12 +79,24 @@
 		"message": "PreMiD - কে সাপোর্ট",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "তোমার কন্ট্রিবিউশন এর মাধ্যমে এই প্রোজেক্টকে চালানো সম্ভব।",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "বিরতি",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
 		"message": "নিজের সময় নাও। এটি একটি স্বেচ্ছাকৃত কাজ।",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "আর্লি-অ্যাক্সেস",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "নতুন ফিচারগুলো টেস্ট করো অন্য কারোর আগে।",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
