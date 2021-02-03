@@ -51,8 +51,36 @@
 		"message": "API",
 		"description": "A page name"
 	},
+	"premid.pageApiVersion": {
+		"message": "v{0} API কে বোঝা",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
 	"premid.pagePresenceDev": {
 		"message": "Presence ডেভেলপমেন্ট",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Presence এর বিধি",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence ক্লাস",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "স্লাইডশো ক্লাস",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "iframe বোঝা",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "metadata.json কে কনফিগার করা",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScript কে কনফিগার করা",
 		"description": "A page name"
 	}
 }
