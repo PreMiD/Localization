@@ -1,4 +1,12 @@
 {
+	"premid.viewPage": {
+		"message": "পেজ দেখছে:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "ডকুমেন্টেশন",
+		"description": "as in documents"
+	},
 	"premid.viewPresence": {
 		"message": "Presence দেখছে:",
 		"description": ""
