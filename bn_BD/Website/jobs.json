@@ -50,5 +50,33 @@
 	"jobs.benefits.title": {
 		"message": "বড় সুবিধাগুলো",
 		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit3.title": {
+		"message": "সম্মান",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "পাওয়ারফুল Discord পারমিশন এবং একটি রঙিন রোল।",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "PreMiD - কে সাপোর্ট",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.title": {
+		"message": "বিরতি",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "নিজের সময় নাও। এটি একটি স্বেচ্ছাকৃত কাজ।",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "ধন্যবাদ অ্যাপ্লাই করার জন্য!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "তুমি এর আগেও অ্যাপ্লাই করেছ!",
+		"description": "Notification when you applied already."
 	}
 }
