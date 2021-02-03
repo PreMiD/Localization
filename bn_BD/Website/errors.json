@@ -1,6 +1,6 @@
 {
 	"store.search.notFound": {
-		"message": "আমরা সেই Presence - টা খুঁজে পাইনি...",
+		"message": "আমরা সেই Presence টা খুঁজে পাইনি...",
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
