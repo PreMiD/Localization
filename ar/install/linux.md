@@ -127,7 +127,7 @@ AppImage.*PreMiD/.
 
 # PackageCloud
 
-لقد أصدرنا حزم deb/rpm في مستودع الحزمة الخاص بنا. الرجاء زيارته على https://packagecloud.io/PreMiD/Linux وقم بتنزيل حزمة deb/rpm أو استخدم السكريبت التلقائي.
+لقد أصدرنا حزم deb/rpm في مستودع الحزمة الخاص بنا. الرجاء الزيارة على https://packagecloud.io/PreMiD/Linux وقم بتنزيل حزمة deb/rpm أو استخدم السكريبت التلقائي.
 
 من أجل **Ubuntu/Debian**:
 
