@@ -76,8 +76,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">الوصف</th>
-      <th style="text-align:left">اكتب</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">النوع</th>
+      <th style="text-align:left">اختياري</th>
     </tr>
   </thead>
   <tbody>
@@ -168,7 +168,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">يحدد ما إذا كان <code>iFrames</code> يستخدم</td>
+      <td style="text-align:left">يحدد ما إذا كان <code>يستخدم</code> iFrames</td>
       <td style="text-align:left"><code>قيمة منطقية</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
