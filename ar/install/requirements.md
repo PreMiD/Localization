@@ -25,7 +25,7 @@ dateCreated: 2020-06-11T18:04:21.843Z
 ### التخزين
 بريميد يأخذ حوالي **150 ميغابايت** من التخزين الفيزيائي. ومع ذلك، يوصى على الأقل ب **200 ميغابايت** من التخزين المخصص ل PreMiD.
 
-### الدخول إلى الإنترنت
+### صلاحية إستعمال الانترنيت
 A internet connection is required to run PreMiD. سيتحقق PreMiD تلقائيا من التحديثات الجديدة، اللغات، تحديثات الpresence، إلخ. من وقت لآخر.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
