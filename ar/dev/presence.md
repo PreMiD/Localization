@@ -274,7 +274,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 لقد صنعنا منشئ ملف `metadata.json` للكسلة [هنا](https://eggsy.xyz/projects/premid/mdcreator).
 
-## ابدء
+## البدء
 
 ```typescript
 const presence = new Presence({
