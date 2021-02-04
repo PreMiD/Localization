@@ -1,1 +1,10 @@
-{}
+{
+	"report.title": {
+		"message": "একটি বাগ রিপোর্ট করো",
+		"description": "Text to indicate the page."
+	},
+	"report.overview": {
+		"message": "বাগটা কী তার একটি পরিষ্কার এবং সংক্ষিপ্ত বিবরণ দাও।",
+		"description": "Text for the user to write a brief of the bug information."
+	}
+}

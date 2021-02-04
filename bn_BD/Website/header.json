@@ -44,7 +44,7 @@
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
-    "message": "একটি Bug রিপোর্ট করো",
+    "message": "একটি বাগ রিপোর্ট করো",
     "description": "Report a bug button"
   },
   "header.staff": {
