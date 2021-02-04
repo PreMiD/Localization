@@ -3,8 +3,32 @@
 		"message": "একটি বাগ রিপোর্ট করো",
 		"description": "Text to indicate the page."
 	},
+	"report.bugcount": {
+		"message": "{count}/3 রিপোর্ট বাকি",
+		"description": "Amount of bug reports user can send"
+	},
 	"report.overview": {
 		"message": "বাগটা কী তার একটি পরিষ্কার এবং সংক্ষিপ্ত বিবরণ দাও।",
 		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "তোমার অপারেটিং সিস্টেম এবং ভার্সন সিলেক্ট করো",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.button": {
+		"message": "রিপোর্ট",
+		"description": "Button to send the information inputed."
+	},
+	"report.success": {
+		"message": "বাগ সাবমিট করা হয়েছে",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "আরো তথ্য প্রয়োজন",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord অ্যাকাউন্ট ভেরিফাইড হতে হবে",
+		"description": "Users Discord not verified"
 	}
 }
