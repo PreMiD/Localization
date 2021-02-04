@@ -57,7 +57,7 @@ MacOS: `~/users/USER/~Library/Application Support/` وإحذف الملف `PreMi
 ### على توزيعات Ubuntu/Debian
 إذا قمت بتنزيل ديسكورد من خلال Snapcraft، لن يعمل RPC. يجب عليك حذف نسخة Snapcraft عن طريق كتابة `sudo snap remove discord` في وحدة التحكم، قم بتنزيل [نسخة ديسكورد للينكس](https://discordapp.com/api/download?platform=linux) ([أو ديسكورد كناري](https://discordapp.com/api/canary/download?platform=linux))، ثم إنتقل إلى المكان الذي قمت بتنزيل ديسكورد فيه (عادة `$HOME/Downloads`)، ثم ثبت الحزمة باستخدام `sudo dpkg -i discord-*.deb`.
 
-### McAfee اكتشف PreMiD كفيروس (ويندوز)
+### تم تحديد PreMiD على إنه فيروس من قبل McAfee (ويندوز)
 هذا إبلاغ كذب من McAfee ونحن قمنا بتبليغهم بهذه المسألة، في الوقت الحالي يمكنك استبعاد PreMiD من الفحص عن طريق الخطوات التالية:
 
 > وإذا لم تكن واثق من اتخاذ هذه الخطوات، لا تتردد في فتح تذكرة في [#support](https://discord.premid.app/) وسيكون أحد عملاء الدعم لدينا قادرا على مساعدتك! 
