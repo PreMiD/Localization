@@ -1,6 +1,6 @@
 ---
 title: TypeScript Configuration
-description: مساعد صغير في TypeScript
+description: مساعد صغير لـ TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:

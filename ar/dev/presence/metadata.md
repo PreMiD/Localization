@@ -131,7 +131,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>الإصدار</b></td>
-      <td style="text-align:left">نسخة من حضورك.</td>
+      <td style="text-align:left">نسخة الـ Presence الخاصك بك.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
