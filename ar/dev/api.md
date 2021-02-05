@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## نسخ و اصدارات ال API
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+> تم إهمال API v2 وسيتم إزالته في المستقبل القريب. الرجاء استخدام v3 لأي طلب مقبل لمنع المشكلات. 
 > 
 > {.is-danger}
 
@@ -31,6 +31,6 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-danger}
 
 **اختر نسخة API:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *مهمل*](/dev/api/v2)
+- [v2 *مفعل*](/dev/api/v3)
 {.links-list}
