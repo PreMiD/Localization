@@ -51,6 +51,10 @@
 		"message": "Được giới thiệu trên phương tiện truyền thông của chúng tôi.",
 		"description": "Description for the fifth benefit."
 	},
+	"partners.requirements.title": {
+		"message": "Yêu cầu",
+		"description": "Heading for the requirements."
+	},
 	"partners.requirements.first.title": {
 		"message": "Chúng tôi đang tìm kiếm điều gì?",
 		"description": "Heading for the first requirement."
