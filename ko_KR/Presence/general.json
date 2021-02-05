@@ -203,6 +203,10 @@
 		"message": "페이지 보는 중:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "영화 감상중",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "동영상 시청 중",
 		"description": ""
