@@ -203,6 +203,18 @@
 		"message": "Гледа страница:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Гледа филм",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Гледа сериал",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Гледа шоу",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Гледа видео",
 		"description": ""
