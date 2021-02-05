@@ -39,6 +39,10 @@
 		"message": "홈페이지",
 		"description": "Page name"
 	},
+	"twitch.wallet": {
+		"message": "지갑 보는중...",
+		"description": ""
+	},
 	"twitch.esports": {
 		"message": "E-스포츠 보는중...",
 		"description": ""
