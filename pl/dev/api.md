@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## Wersja API
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+> API v2 został wycofany i zostanie wkrótce usunięty. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
