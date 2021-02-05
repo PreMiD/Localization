@@ -1,1 +1,130 @@
-{}
+{
+	"twitch.downloads": {
+		"message": "Изтегления",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Позиции",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Турбо",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Партньори",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Прес център",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Сигурност",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Достъпност",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Избори за реклами",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Правила на общността",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Начална страница",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Гледа портфейл...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Гледа Esports...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Гледа хора които следва...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Гледа отбор:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Гледа своя инвентар с пускания...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Гледа активните къмпинги за пускания...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Гледа своите настройки...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Гледа своите приятели...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Гледа своите абонаменти...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Гледа скуад...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Модерира стриймър:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Активира код...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Къмпинг за създатели",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Запознаване с основите",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Сетъпва своя стрийм",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Вдигане на ниво",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Свържи и ангажирай",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Бъди възнаграден",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Музика в Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Живо учение",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Табло за създатели",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Управлява своя стрийм...",
+		"description": ""
+	}
+}
