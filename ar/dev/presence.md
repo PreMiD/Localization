@@ -337,7 +337,7 @@ Since v2.2.0 there are now Slideshows, this allows you to show multiple `Presenc
 
 ## لا يمكنك الحصول على بيانات معينة؟!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. لكنها ليست لها صلة في كل مرة. بعضها مخفي أو لم يتم استخدامه بفعالية. تحقق مما إذا بإمكانك استخراج، المعلومات التي تحتاجها، بدونها قبل قيامك بعمل غير ضروري.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
@@ -375,11 +375,11 @@ presence.on("iFrameData", (data) => {
 
 **Note:** This needs to be placed outside of the updateData event.
 
-## Compiling
+## تجميع
 
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Loading the presence
+# تحميل الوجود
 
 1. افتح الإضافة المنبثقة في المتصفح واضغط على زر <kbd>Shift</kbd> على لوحة المفاتيح الخاصة بك.
 2. **Load Presence** will appear in the Presences section.
@@ -388,11 +388,11 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 # Some helpful things
 
-## Hot-reloading
+## إعادة التحميل
 
-The website you are developing on is automatically reloading every time you save a file in your folder.
+الموقع الذي تقوم بتطويره يقوم تلقائياً بإعادة تحميل كل مرة تقوم بحفظ ملف في مجلدك.
 
-## Debugging
+## تصحيح الأخطاء
 
 - يمكنك وضع `console.log("اختبار")؛` بين التعليمات البرمجية الخاصة بك ومعرفة ما إذا كانت وحدة تحكم المتصفح الخاصة بك تعطيك المخرجات. إذا كان الجواب نعم، ثم حاول مرة أخرى بعد الدالة القادمة. إذا لم يكن فهناك خطأ أعلاه.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
@@ -400,7 +400,7 @@ The website you are developing on is automatically reloading every time you save
 # الملفات الموضحة
 
 - [فئة الpresence](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [فئة عرض الشريحة](/dev/presence/slideshow)
 - [فئة iFrame](/dev/presence/iframe)
 - [ملف بيانات التعريف](/dev/presence/metadata)
 - [إعدادات TypeScript](/dev/presence/tsconfig ""){.links-list}
