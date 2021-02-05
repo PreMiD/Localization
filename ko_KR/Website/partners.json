@@ -59,6 +59,10 @@
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit은 온라인 음악 라디오로 여러분의 취향에 맞는 곡을 찾기 위해 24시간동안 방송하도록 설계되어 있어요!",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "파트너에 지원하기",
 		"description": "Partnership application modal title."
