@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# الإرشادات
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. للبعض. قد تبدو هذه قواعد صارمة. However, the implementation of these rule sets will keep us and our users from running into issues.
+عند نشر Presences [مستودع GitHub](https://github.com/PreMiD/Presences)، نطلب منك اتباع مجموعة من المبادئ التوجيهية. للبعض. قد تبدو هذه قواعد صارمة. مع ذلك، فإن تنفيذ هذه القواعد سيمنعنا ويمنع المستخدمين من الوقوع في مشاكل.
 
 # إنشاء
 
@@ -146,7 +146,7 @@ presence
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- اسم الخدمة **يجب ان تكون** اسم دليل الـpresence. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
