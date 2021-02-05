@@ -19,6 +19,14 @@
 		"message": "রিপোর্ট",
 		"description": "Button to send the information inputed."
 	},
+	"report.toomany": {
+		"message": "তোমার অনেকগুলো চলমান রিপোর্ট রয়েছে। তোমার সাবমিট করা রিপোর্টগুলো রিভিও হওয়ার জন্য অপেক্ষা করো। রিপোর্টগুলো সাপ্তাহিক ভিত্তিতে চেক করা হয়, ধৈর্য ধরো।",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "তোমার অনেকগুলো চলমান রিপোর্ট রয়েছে।",
+		"description": "User has too many active reports"
+	},
 	"report.success": {
 		"message": "বাগ সাবমিট করা হয়েছে",
 		"description": "Success notification"
@@ -30,5 +38,9 @@
 	"report.error.unauth": {
 		"message": "Discord অ্যাকাউন্ট ভেরিফাইড হতে হবে",
 		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "চলমান বাগ",
+		"description": "Lists users active bugs"
 	}
 }

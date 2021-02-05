@@ -3,6 +3,10 @@
 		"message": "আরে না!",
 		"description": "The big text on maintenance page"
 	},
+	"maintenance.heading": {
+		"message": "দুর্ভাগ্যবশত আমরা কিছু প্রযুক্তিগত সমস্যা ভোগ করছি। আমরা শীঘ্রই ফিরে আসব। \nঅসুবিধার জন্য দুঃখিত।",
+		"description": "Heading on maintenance page"
+	},
 	"maintenance.heading2": {
 		"message": "পরে ফিরে এসো আরো তথ্যের জন্যে।",
 		"description": "Heading on maintenance page"
