@@ -106,7 +106,7 @@ Since v2.2.0 of the extension you can now get the strings of a certain language.
 We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// واجهة السلاسل التي تحصل عليها (جيدة لجودة التعليمات البرمجية و الإكمال التلقائي).
 interface LangStrings {
   play: string;
   pause: string;
