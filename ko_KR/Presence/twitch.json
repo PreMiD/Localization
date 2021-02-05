@@ -47,6 +47,10 @@
 		"message": "레벨 업",
 		"description": "Page name"
 	},
+	"twitch.campReward": {
+		"message": "보상을 받으세요.",
+		"description": "Page name"
+	},
 	"twitch.achievements": {
 		"message": "도전과제",
 		"description": "Part 2 of the string: \"Viewing their\""
@@ -74,5 +78,21 @@
 	"twitch.dropsSettings": {
 		"message": "드랍스 설정",
 		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.blogs": {
+		"message": "트위치 블로그",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "고객센터",
+		"description": "Page name"
+	},
+	"twitch.dev": {
+		"message": "트위치 개발자들",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "트위치 개발자 문서",
+		"description": "Page name"
 	}
 }
