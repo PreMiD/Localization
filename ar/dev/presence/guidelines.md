@@ -146,12 +146,12 @@ presence
 
 ### **`service`**
 
-- اسم الخدمة **يجب ان تكون** اسم دليل الـpresence. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- اسم الخدمة **يجب ان تكون** اسم دليل الـpresence. على سبيل المثال، إذا كان الـpresence واقع في `/websites/Y/YouTube/`، اسم الخدمة يجب ان تكون `YouTube`.
+- لا يمكنك **** استخدام عنوان url كاسم الخدمة ما لم يستخدم الموقع عنوان url كاسمه الرسمي. إذا كان الاسم غير وصفي و يمكن اعتباره غامضاً، فإن استخدام عنوان url هو **مطلوب**. (على سبيل المثال، `YouTube` مسموح به لأن هذا هو الاسم الرسمي و هو وصفي ، بينما `youtube.com` ليس كذلك. `Top` اسم غير وصفي، لذلك استحدام الرابط `top.gg` يكون **مطلوب**.)
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- **** فقط استخدم هذا في سيناريوهات حيث يقع الموقع تحت أسماء رسمية متعددة (على سبيل المثال، Pokémon و 포켓몬스터) أو لجعل من الأسهل البحث عن presence دون استخدام أحرف خاصة (على سبيل المثال Pokémon و Pokemon). *الإصدارات المختصرة* من أسماء الخدمة تقل عن `علامات`.
 
 ### **`description`**
 
