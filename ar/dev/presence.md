@@ -143,21 +143,21 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <th style="text-align:left">متغير</th>
       <th style="text-align:left">الوصف</th>
       <th style="text-align:left">النوع</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">إختياري</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. الاسم هو اسم المستخدم الخاص بك في ديسكورد بدون المعرف (#000000). يمكن نسخ معرف المستخدم <code></code> من ديسكورد عن طريق تمكين وضع المطور
+        والنقر الأيمن على ملفك الشخصي.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. الاسم هو اسم المستخدم الخاص بك في ديسكورد بدون المعرف (#000000). يمكن نسخ معرف المستخدم <code></code> من ديسكورد عن طريق تمكين وضع المطور
+        والنقر الأيمن على ملفك الشخصي.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
@@ -196,14 +196,14 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
-      <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      <td style="text-align:left">سلسلة تعبير عادية تستخدم لمطابقة عناوين urls.<br>
+      regExp أو المعروف أيضًا باسم Regex، يمكن استخدامه إذا كان الموقع يحتوي على عدة مجالات فرعية.<br>
+يمكنك استخدام regExp التالية من أجل:<br>
+<code>([a-z0-9]+)[.]نطاق[.]TLD"</code><br>
+TLD تقف لنطاق المستوى الأعلى لaxample: م .net<br> 
+<code>([a-z0-9]+)</code> يعني أي شيء من 0 إلى 9 .<br>
+        يمكنك الحصول على بداية سريعة من خلال مشاهدة هذا <a href="https://youtu.be/sXQxhojSdZM">الفيديو</a><br>
+        يمكنك اختبار regExp الخاص بك في <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
@@ -258,7 +258,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">يحدد ما إذا كان يجب أن يكون الملحق سجلات قراءة.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
@@ -277,38 +277,38 @@ dateCreated: 2020-06-11T18:04:02.843Z
 ## البدء
 
 ```typescript
-const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+const وجود = وجود جديد ({
+    العميل: "00000000000000000000000000" //معرف العميل للتطبيق الذي تم إنشاؤه في https://discordapp. om/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
-  });
+    وقفة مؤقتة: "presence.playback". تم الإنقاذ"
+    ////يمكنك استخدام هذا للحصول على المقاطع المترجمة في لغة المتصفح الخاصة بها
+  })؛
 
 /*
 
-function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+دالة myOutsideHeavyLiftingFunction(){
+    //grab وتجهيز جميع بياناتك هنا
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // عنصر الاستيلاء // /
+    // باي المكالمات //
+    // مجموعات متغيرة //
 }
 
-setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(myOutsideHeavyLiftingFunction, 10000)؛
+//تشغيل الدالة منفصلة عن حدث تحديث البيانات كل 10 ثوان للحصول على وتعيين المتغيرات التي يلتقطها تحديث البيانات
 
 */
 
-presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. يتم استدعاء هذا عدة مرات في الثانية حيثما أمكن.
+وجود. n("UpdateData", async () => {
+  /*UpdateData يطلق دائمًا، ولذلك يجب أن تستخدم كدورة تحديث أو "دك". يتم استدعاء هذا عدة مرات في الثانية حيثما أمكن.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    من المستحسن إنشاء وظيفة أخرى خارج وظيفة الحدث هذه التي ستغير القيم المتغيرة وتقوم بالرفع الثقيل إذا اتصلت ببيانات من API. /
 
   const presenceData: PresenceData = {
-    largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+    ImageKey:
+      "key" /*The key (اسم الملف) للصورة الكبيرة على الوجود. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageKey:
       "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
