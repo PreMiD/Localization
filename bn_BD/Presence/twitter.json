@@ -1,6 +1,18 @@
 {
+    "twitter.readTweet": {
+        "message": "পড়ছে টুইট:",
+        "description": ""
+    },
+    "twitter.viewDms": {
+        "message": "দেখছে তার মেসেজগুলো",
+        "description": ""
+    },
     "twitter.viewTweets": {
-        "message": "দেখছে টুইট যার:",
+        "message": "দেখছে টুইটগুলি:",
+        "description": ""
+    },
+    "twitter.viewTweetsWithReplies": {
+        "message": "দেখছে টুইটগুলি (রিপ্লাই এর সঙ্গে):",
         "description": ""
     },
     "twitter.viewLiked": {
