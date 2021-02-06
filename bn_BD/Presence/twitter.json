@@ -15,6 +15,10 @@
         "message": "দেখছে টুইটগুলি (রিপ্লাই এর সঙ্গে):",
         "description": ""
     },
+    "twitter.viewMedia": {
+        "message": "দেখছে মিডিয়া:",
+        "description": ""
+    },
     "twitter.viewLiked": {
         "message": "দেখছে পছন্দ করেছেন:",
         "description": ""
