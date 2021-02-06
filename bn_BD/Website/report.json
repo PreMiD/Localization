@@ -7,6 +7,10 @@
 		"message": "{count}/3 রিপোর্ট বাকি",
 		"description": "Amount of bug reports user can send"
 	},
+	"report.info": {
+		"message": "বাগ রিপোর্ট করা হচ্ছে সেইসব বাগের জন্য যা PreMiD এর ওয়েবসাইট এবং PreMiD এর Discord সার্ভারের মধ্যে। একটি Presence এর বাগ সেই Presence এর তৈরিকারক এর কাছে রিপোর্ট করতে হবে। বাগ শুধুমাত্র ইংরেজিতেই রিপোর্ট করতে হবে।",
+		"description": "Tells the user about submitting a bug"
+	},
 	"report.overview": {
 		"message": "বাগটা কী তার একটি পরিষ্কার এবং সংক্ষিপ্ত বিবরণ দাও।",
 		"description": "Text for the user to write a brief of the bug information."
