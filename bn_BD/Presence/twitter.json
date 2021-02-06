@@ -1,4 +1,8 @@
 {
+    "twitter.viewTweets": {
+        "message": "দেখছে টুইট যার:",
+        "description": ""
+    },
     "twitter.viewLiked": {
         "message": "দেখছে পছন্দ করেছেন:",
         "description": ""
