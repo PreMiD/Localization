@@ -72,11 +72,11 @@
 		"description": "Information section"
 	},
 	"footer.help.information.cookies": {
-		"message": "কুকিস",
+		"message": "কুকি",
 		"description": "meant to be 'Cookie Policy'"
 	},
 	"footer.help.information.privacy": {
-		"message": "প্রাইভেসি",
+		"message": "গোপনীয়তা",
 		"description": "meant to be 'Privacy Policy'"
 	},
 	"footer.help.information.terms": {
