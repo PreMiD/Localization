@@ -15,6 +15,10 @@
 		"message": "তোমার অপারেটিং সিস্টেম এবং ভার্সন সিলেক্ট করো",
 		"description": "Select Box for the user to select their operating system"
 	},
+	"report.browser": {
+		"message": "তোমার ব্রাউজার এবং ভার্সন সিলেক্ট করো - তুমি তোমার ভার্সন পাবে ফায়ারফক্সে about:support গিয়ে অথবা ক্রোমে chrome://help গিয়ে",
+		"description": "Select Box for the user to select their browser"
+	},
 	"report.button": {
 		"message": "রিপোর্ট",
 		"description": "Button to send the information inputed."
