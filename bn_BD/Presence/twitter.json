@@ -1,4 +1,24 @@
 {
+    "twitter.viewLiked": {
+        "message": "দেখছে পছন্দ করেছেন:",
+        "description": ""
+    },
+    "twitter.viewList": {
+        "message": "দেখছে তালিকাগুলি:",
+        "description": ""
+    },
+    "twitter.bookmarks": {
+        "message": "বুকমার্কগুলি",
+        "description": ""
+    },
+    "twitter.notifs": {
+        "message": "বিজ্ঞপ্তিসমূহ",
+        "description": ""
+    },
+    "twitter.explore": {
+        "message": "এক্সপ্লোর করুন",
+        "description": ""
+    },
     "twitter.settings": {
         "message": "কিছু সেটিংস চেঞ্জ করছে...",
         "description": ""
