@@ -13,7 +13,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > {.is-warning}
 
 ### Tải lại trang
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Bạn có thể nhấn <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) hoặc <kbd>CMD+R</kbd> (MacOS) trên bàn phím của bạn thay vì tìm kiếm nút tải lại.
 
 ### Are you using the Discord app?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
@@ -22,10 +22,10 @@ PreMiD does **not** work on the browser version of Discord, you must download th
 **Cái đặt người dùng** > **Hoạt động trong game** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Hãy chắc chắn là Discord đang KHÔNG hoạt động ở chế độ administrator
-Rất quan trọng. Discord RPC will not work if you run Discord as an administrator.
+Rất quan trọng. Discord RPC sẽ không hoạt động nếu bạn chạy Discord dưới quyền quản trị viên.
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### Bạn có đang sử dụng presence có nút cài đặt không?
+Nhiều presence (bao gồm `Twitch` và `SoundCloud`) đang bị ảnh hưởng bởi một lỗi bên trong tiện ích mở rộng. Lỗi này làm cho tiện ích mở rộng không lấy đúng giá trị mặc định của cài đặt.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
