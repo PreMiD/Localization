@@ -104,7 +104,7 @@
     "description": "Back button on the ads section"
   },
   "downloads.button.cancel": {
-    "message": "Annuleer",
+    "message": "Annuleren",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.okay": {
