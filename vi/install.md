@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Cài đặt
 description: Cách cài đặt PreMiD
 published: true
 date: 2020-11-10T17:54:28.896Z
@@ -12,14 +12,14 @@ dateCreated: 2020-06-11T18:03:51.119Z
 > 
 > {.is-info}
 
-> Nó **cần thiết** để tải cả **ứng dụng** và **tiện ích**! 
+> Bạn **cần phải** tải **ứng dụng** và **tiện ích mở rộng**! 
 > 
 > {.is-warning}
 
 **Chọn hệ điều hành:**
 - [Windows *7 hoặc trở lên*](/install/windows)
 - [MacOS *10.11 hoặc trở lên*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux *nhân v2.x hoặc trở lên*](/install/linux)
 {.links-list}
 
 **Chọn trình duyệt:**
