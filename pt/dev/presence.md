@@ -149,14 +149,14 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
-        programador e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. Name é teu nome de utilizador no Discord sem o identificador(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
+        programador e carregando com o botão direito no perfil do autor.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
+      <td style="text-align:left">Deve conter um objeto com <code>name</code> e <code>id</code> do programador da presence. Nome é teu nome de utilizador do Discord sem o identificador(#0000). Identificação <code>id</code> do utilizador pode ser copiada do Discord ativando o modo de
         programador e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
@@ -264,7 +264,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
-      <td style="text-align:left">Uma matriz de definições que o usuário pode alterar.<br>
+      <td style="text-align:left">Uma matriz de definições que o utilizador pode alterar.<br>
       Leia mais sobre as configurações de presence, <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
@@ -272,7 +272,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
   </tbody>
 </table>
 
-Nós fizemos um `metadata.json` criador de arquivos para os preguiçosos curiosos [aqui](https://eggsy.xyz/projects/premid/mdcreator).
+Fizemos um criador de ficheiros `metadata.json` para o pessoal preguiçoso [aqui](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Primeiros passos
 
@@ -302,9 +302,9 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData está sempre a disparar e, portanto, deve ser usado como ciclo de atualização ou "tick". Chama-se a isto várias vezes um segundo sempre que possível.
+  /*UpdateData está sempre a disparar e, portanto, deve ser usado como ciclo de atualização ou "tick". Isto é ativado várias vezes por segundo sempre que possível.
 
-    É recomendado configurar outra função fora desta função de evento que irá alterar os valores de variáveis e fazer o trabalho pesado se você chamar dados de uma API. */
+    É recomendado configurar outra função fora desta função de evento que irá alterar os valores das variáveis e fazer o trabalho pesado se precisares de dados de uma API. */
 
   const presenceData: PresenceData = {
     largeImageKey:
@@ -335,7 +335,7 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG. Fo
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
-## Não foi possível obter certos dados?!
+## Não conseguiste obter certos dados?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
@@ -379,7 +379,7 @@ presence.on("iFrameData", (data) => {
 
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# A carregar a presence
+# Carregar a presence
 
 1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
