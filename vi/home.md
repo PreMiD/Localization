@@ -25,15 +25,15 @@ Cài đặt PreMiD rất nhanh và dễ. Bạn có thể sử dụng nó trong k
 
 # Nhà phát triển
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[Bắt đầu](/dev) phát triển PreMiD là bước đầu tiên trước khi viết mã.
 
 - :computer: [API](/dev/api): Truy cập tài nguyên và thực hiện hành động bằng PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :wrench: [Phát triển Presence](/dev/presence): Học cách sử dụng hệ thống Presence của chúng tôi.
 
 # Đóng góp
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
-- :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :bug: [Báo lỗi](https://github.com/PreMiD): Giúp chúng tôi tiêu diệt những lỗi khó chịu.
+- :bulb: [Đề xuất tính năng mới](https://discord.premid.app/): Chúng tôi cần ý tưởng của bạn!
+- :heart: [Quyên góp](https://www.patreon.com/Timeraa): Hãy quyên góp hoặc làm nhà tài trợ cho dự án này!
+- :globe_with_meridians: [Phiên dịch](https://translate.premid.app): Hãy giúp những người dùng khác sử dụng PreMiD bằng ngôn ngữ của họ.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
