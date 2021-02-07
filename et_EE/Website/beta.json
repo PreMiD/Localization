@@ -10,5 +10,9 @@
 	"beta.description.2": {
 		"message": "Mida sa saad, kui sa registeerid?",
 		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Uusimad funktsioonid",
+		"description": "Features list"
 	}
 }
