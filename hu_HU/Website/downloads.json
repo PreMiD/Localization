@@ -63,6 +63,10 @@
     "message": "Letöltések elrejtése",
     "description": "Little button on the downloads page for mobile users."
   },
+  "downloads.warning.differentVersion": {
+    "message": "Jelenlegi verzió ezen a platformon {0} (ez a verzió csak Linux-ra érvényes, nem vonatkozik másik platformra).",
+    "description": "Tippy message of the Linux card."
+  },
   "downloads.warning.differentVersion2": {
     "message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}",
     "description": "Tippy message of the version number when user is on Linux."
@@ -80,7 +84,7 @@
     "description": "More info if the user doesn't alpha/beta access."
   },
   "downloads.latest.header": {
-    "message": "Korai verziók",
+    "message": "Korai kiadások",
     "description": "Header above alpha/beta download buttons."
   },
   "downloads.warning.title": {
@@ -100,7 +104,7 @@
     "description": "Back button on the ads section"
   },
   "downloads.button.cancel": {
-    "message": "Mégsem",
+    "message": "Mégse",
     "description": "Button on the modal of Opera/Edge browsers."
   },
   "downloads.button.okay": {
