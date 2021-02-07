@@ -156,8 +156,8 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Deve conter um objeto com <code>name</code> e <code>id</code> do programador da presence. Nome é teu nome de utilizador do Discord sem o identificador(#0000). Identificação <code>id</code> do utilizador pode ser copiada do Discord ativando o modo de
-        programador e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um objeto com <code>name</code> e <code>id</code> do programador da presence. Name é teu nome de utilizador no Discord sem o identificador(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
+        programador e carregando com o botão direito no perfil do autor.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -209,63 +209,63 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Versão da tua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link para o logotipo do teu serviço.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Link para a miniatura da tua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left">Valor <code>#HEX</code>. Recomendamos que uses a cor principal do serviço
+        que a tua presence suporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Arrays com etiquetas que irão ajudar os utilizadores a encontrar a tua presence no site.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. Vê os catálogos válidos <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
+      <td style="text-align:left">Uma string usada para representar a categoria a que a tua presence corresponde. Vê as categorias válidas <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Define se <code>iFrames</code> são usados.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Consulte regExp para obter mais informações.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Consulta regExp para obter mais informações.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Define se a extensão deve ou não ler registos.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
-      <td style="text-align:left">Uma matriz de definições que o utilizador pode alterar.<br>
-      Leia mais sobre as configurações de presence, <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
+      <td style="text-align:left">Um array de definições que o utilizador pode alterar.<br>
+      Sabe mais sobre as configurações de presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
