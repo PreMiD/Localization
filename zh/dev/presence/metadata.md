@@ -2,7 +2,7 @@
 title: 梅塔数据.json
 description: 包含关于Presence的基本数据
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -83,14 +83,14 @@ An example of that file can be found below.
   <tbody>
     <tr>
       <td style="text-align:left"><b>作者</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. 名称是您的 Discord 用户名，但没有标识符(#0000)。 用户 <code>id</code> 可以通过启用开发者
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). 用户 <code>id</code> 可以通过启用开发者
         模式和右键点击您的配置文件而从Discord复制.</td>
       <td style="text-align:left"><code>对象</code></td>
       <td style="text-align:left"><code>否</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>贡献者</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>数组&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>否</code></td>
@@ -263,7 +263,7 @@ The `multiLanguage` key can be set to the following:
 
 1. 打开个终端，然后在输入: `git clone https://github.com/PreMiD/Localization`
 2. Choose a folder of your choice.
-3. Open it in your code editor.
+3. 使用您的代码编辑器打开他。
 
 ##### Creating the file
 
@@ -334,38 +334,38 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <th style="text-align:left">类别</th>
       <th style="text-align:left">名称</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>动漫</b></td>
-      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left"><b>动漫</b></td>
       <td style="text-align:left">任何与动画相关的东西，从论坛到视频流平台。</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>游戏</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>游戏</b></td>
       <td style="text-align:left">任何具有相关内容的网站，比如 <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>音乐</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>音乐</b></td>
       <td style="text-align:left">这些是提供音乐相关内容的网站，无论是流媒体还是下载。</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>社交</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>社交</b></td>
       <td style="text-align:left">用于创建和分享内容或参与其他形式社会网络的网站。</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>视频</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>视频与直播</b></td>
       <td style="text-align:left">提供视频和流的网站。</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>其他</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>其他</b></td>
       <td style="text-align:left">任何不属于上文所列特定类别的行为。</td>
     </tr>
   </tbody>
