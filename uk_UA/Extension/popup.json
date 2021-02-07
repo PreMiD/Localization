@@ -87,12 +87,36 @@
 		"message": "Ваш додаток PreMiD застарів. Будь ласка, оновить для подальшого використання PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Застаріле розширення",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Ваше розширення застаріле. Оновіть його, щоб отримати останні функції, завантаживши його з нашого сайту.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Термінове оновлення",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Ми випустили термінове оновлення для розширення. Будь ласка, оновіть його для того, щоб продовжити використання PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Немає з’єднання з інтернетом!",
 		"description": "Shown when the user has no internet connection"
 	},
+	"popup.info.noInternet.message": {
+		"message": "Схоже, у вас немає інтернет-з'єднання! PreMiD не зможе показувати присутності на даний момент.",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.info.notConnectedDiscord": {
 		"message": "Відсутній зв’язок з Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD не вдалося підключитися до вашого Discord застосунку! Він встановлений і працює? *Troubleshooting*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
