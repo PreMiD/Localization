@@ -87,20 +87,36 @@
 		"message": "Sinu PreMiDi rakendus on vananenud. Palun uuenda, et PreMiDi kasutada.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Vananenud Laiendus",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Teie laiendus on vananenud. Palun uuendage see meie saidil, et saada uusimad võimalused.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Tähtis värskendus",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Me avaldasime tähtsa värskenduse laiendusele. Palun uuendage, et saaksite PreMiDi edasi kasutada.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Internetiühendust ei ole!",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Tuntud nagu sul ei ole interneti ühendust! PreMiD ei saa näitada presencesid praegusel momendil.",
+		"message": "Tundub, et te pole internetiga ühendatud! PreMiD ei saa näidata lisasid hetkel.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
-		"message": "Puudub Discord'i võrguühendus!",
+		"message": "Puudub Discordi ühendus!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD ei saanud ühendada enda Discord'i rakendusega!\nKas see on installitud ja käivitatud? *Parandamine*",
+		"message": "PreMiD ei saanud ühendada teie Discordi rakendusega!\nKas see on installitud ja käivitatud? *Parandamine*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
