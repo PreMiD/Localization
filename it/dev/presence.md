@@ -2,7 +2,7 @@
 title: Sviluppo Presence
 description:
 published: true
-date: 2021-01-30T10:59:26.700Z
+date: 2021-02-07T17:11:34.449Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -142,14 +142,14 @@ Copia il codice qui sopra e inseriscilo nel file `metadata.json`. Adesso è nece
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Dovrebbe contenere un Oggetto con il <code>nome</code> e l'<code>id</code> del contributore. Il nome è il tuo nome utente Discord senza l'identificatore (#0000). L'Id <code>dell'utente</code> può essere copiato da Discord abilitando la modalità
+      <td style="text-align:left">Dovrebbe contenere un Oggetto con il <code>nome</code> e l'<code>id</code> del contributore. <code>name</code> is your Discord username without the identifier(#0000). L'Id <code>dell'utente</code> può essere copiato da Discord abilitando la modalità
         dello sviluppatore e facendo clic destro sul tuo profilo.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Dovrebbe contenere un Oggetto con il <code>nome</code> e l'<code>id</code> del contributore. Il nome è il tuo nome utente Discord senza l'identificatore (#0000). L'Id <code>dell'utente</code> può essere copiato da Discord abilitando la modalità
+      <td style="text-align:left">Dovrebbe contenere un Oggetto con il <code>nome</code> e l'<code>id</code> del contributore. <code>name</code> is your Discord username without the identifier(#0000). L'Id <code>dell'utente</code> può essere copiato da Discord abilitando la modalità
         dello sviluppatore e facendo clic destro sul tuo profilo.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Si</code></td>
