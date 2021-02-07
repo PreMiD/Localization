@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -74,7 +74,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Kintamasis</th>
       <th style="text-align:left">Aprašymas</th>
       <th style="text-align:left">Tipas</th>
       <th style="text-align:left">Optional</th>
@@ -83,14 +83,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   <tbody>
     <tr>
       <td style="text-align:left"><b>autorius</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>pagalbininkai</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -245,7 +245,7 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### Introduction
+#### Įvadas
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Cloning the project
+##### Projekto klonavimas
 
 1. Atidarykite terminalą ir įrašykite: `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Pasirinkite jūsų norimą aplankalą.
+3. Atsidarykite jį su savo kodo redagavimo programa.
 
 ##### Creating the file
 
@@ -303,7 +303,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Methods
+### Metodika
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
@@ -334,7 +334,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <th style="text-align:left">Category</th>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Aprašymas</th>
     </tr>
   </thead>
   <tbody>
@@ -345,27 +345,27 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>žaidimai</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Žaidimai</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>muzika</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Muzika</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socialiniai</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Socialiniai</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Vaizdo įrašai ir tiesioginiai eteriai</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>kita</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Kita</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
   </tbody>
