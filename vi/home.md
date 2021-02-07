@@ -7,15 +7,15 @@ tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Một vài trang có thể chưa hoàn tất hoặc thiếu. 
+> Tài liệu này vẫn đang được chỉnh sửa! Một vài trang có thể chưa hoàn tất hoặc thiếu. 
 > 
 > {.is-warning}
 
 # Về PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :mag:[PreMiD là gì?](/about) Ý định của PreMiD và tại sau bạn nên dùng nó.
+- :link:[RPC là gì?](https://discordapp.com/rich-presence) Tất tần tật về Rich Presence và chức năng của nó.
 
-# Getting Started
+# Bắt đầu
 
 Cài đặt PreMiD rất nhanh và dễ. Bạn có thể sử dụng nó trong không lâu.
 
@@ -23,11 +23,11 @@ Cài đặt PreMiD rất nhanh và dễ. Bạn có thể sử dụng nó trong k
 - Làm theo [hướng dẫn cài đặt ](/install) dễ và nhanh chóng.
 - [Xử lý vấn đề](/troubleshooting) hướng dẫn bạn qua những giải pháp cho những vấn đề phổ biến.
 
-# Developers
+# Nhà phát triển
 
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
+- :computer: [API](/dev/api): Truy cập tài nguyên và thực hiện hành động bằng PreMiD API.
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
 # Đóng góp
