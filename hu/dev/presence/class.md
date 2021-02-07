@@ -270,7 +270,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Változó</th>
       <th style="text-align:left">Leírás</th>
       <th style="text-align:left">Típus</th>
     </tr>
