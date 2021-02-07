@@ -18,5 +18,13 @@
 	"netflix.profile": {
 		"message": "তার প্রোফাইল ম্যানেজ করছে",
 		"description": ""
+	},
+	"netflix.latest": {
+		"message": "দেখছে কী নতুন এবং{0}জনপ্রিয় নেটফ্লিক্সে",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "নিচ্ছে তার{0}রেফারেল লিংক",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	}
 }
