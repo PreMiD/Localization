@@ -2,5 +2,29 @@
 	"partners.why.benefit2.title": {
 		"message": "ভেরিফাইড হয়ে যাও",
 		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "মেটা-ট্যাগ ইন্টেগ্রেশন",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "অটোমেটিকভাবে তোমার Presence ব্যবহার করে যখন কেউ তোমার ওয়েবসাইটে যায়।",
+		"description": "Description for the third benefit."
+	},
+	"partners.requirements.title": {
+		"message": "যা প্রয়োজন",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "আমরা কিসের খোঁজ করছি?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.apply.button": {
+		"message": "অ্যাপ্লাই করো এখনই!",
+		"description": "Button to apply for partner."
+	},
+	"partners.sponsors.title": {
+		"message": "স্পন্সর",
+		"description": "Heading for sponsors."
 	}
 }

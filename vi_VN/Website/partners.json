@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Các đối tác",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "Tham gia và có cơ hội nhận được những lợi ích dành riêng cho đối tác để khoe bạn ngầu như thế nào.",
 		"description": "Description for page."
@@ -58,6 +62,10 @@
 	"partners.requirements.first.title": {
 		"message": "Chúng tôi đang tìm kiếm điều gì?",
 		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Chúng tôi theo dõi những cộng đồng lớn mạnh và những điều thú vị trên Internet. Tóm gọn là bạn đã dùng PreMiD và sẵn sàng để lan toả thêm nữa. Việc được chấp thuận vào chương trình này rất phụ thuộc và sẽ khác nhau với từng ứng cử viên.",
+		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
 		"message": "Tường lửa",
@@ -126,6 +134,10 @@
 	"partners.partner.statusPage": {
 		"message": "Dễ dàng báo trạng thái trang web của bạn đến người dùng theo giời gian thực.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Một nữ thần đóng vai trò là một Discord bot!",
+		"description": "Description for Erisly."
 	},
 	"partners.partner.crowdin": {
 		"message": "Dịch thuật nhanh chóng cho công ty công nghệ.",

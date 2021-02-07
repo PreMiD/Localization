@@ -59,6 +59,10 @@
 		"message": "Trợ giúp",
 		"description": "Help section"
 	},
+	"footer.help.troubleshooting": {
+		"message": "Gỡ rối",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
 	"footer.help.getsupport": {
 		"message": "Nhận trợ giúp",
 		"description": "Get Support -> redirects to Discord invite"
