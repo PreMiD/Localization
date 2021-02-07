@@ -74,7 +74,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Változó</th>
       <th style="text-align:left">Leírás</th>
       <th style="text-align:left">Típus</th>
       <th style="text-align:left">Választható</th>
