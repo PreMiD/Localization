@@ -2,7 +2,7 @@
 title: プレゼンスの開発
 description:
 published: true
-date: 2021-01-30T10:59:26.700Z
+date: 2021-02-07T17:11:34.449Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -149,13 +149,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 NameはあなたのDiscordタグから識別子(#0000)を取ったもので、 ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 <code>name</code> is your Discord username without the identifier(#0000). ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>不可</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 名前はあなたのDiscordタグから識別子(#0000)を取ったもので、 ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 <code>name</code> is your Discord username without the identifier(#0000). ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>可</code></td>
     </tr>

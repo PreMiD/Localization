@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Bevat basisgegevens over de presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -83,14 +83,14 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Moet een object bevatten met de <code>naam</code> en <code>id</code> van de presence-ontwikkelaar. Naam is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
+      <td style="text-align:left">Moet een object bevatten met de <code>naam</code> en <code>id</code> van de presence-ontwikkelaar. <code>naam</code> is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
         modus in te schakelen en de rechtermuisknop op je profiel te klikken.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>bijdragers</b></td>
-      <td style="text-align:left">Moet een object bevatten met de <code>naam</code> en <code>id</code> van de bijdrager. Naam is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
+      <td style="text-align:left">Moet een object bevatten met de <code>naam</code> en <code>id</code> van de bijdrager. <code>naam</code> is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
         modus in te schakelen en de rechtermuisknop op je profiel te klikken.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>

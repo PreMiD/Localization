@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Berisi data dasar tentang presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -83,14 +83,14 @@ Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Harus berisi sebuah Object dengan <code>name</code> dan <code>id</code> dari pengembang presence. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+      <td style="text-align:left">Harus berisi sebuah Object dengan <code>name</code> dan <code>id</code> dari pengembang presence. <code>name</code> is your Discord username without the identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari kontributor. Nama adalah username Discord anda tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+      <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari kontributor. <code>name</code> is your Discord username without the identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>

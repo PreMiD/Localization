@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -74,7 +74,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">متغير</th>
       <th style="text-align:left">الوصف</th>
       <th style="text-align:left">النوع</th>
       <th style="text-align:left">اختياري</th>
@@ -83,15 +83,15 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   <tbody>
     <tr>
       <td style="text-align:left"><b>المطور</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">يجب أن تحتوي على أوبجكت مع <code>إسم</code> و <code>أيدي</code> مطور الpresence. <code>name</code> is your Discord username without the identifier(#0000). يمكن نسخ معرف المستخدم <code></code> من ديسكورد عن طريق تمكين وضع المطور
+        والنقر الأيمن على ملفك الشخصي.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>المساهمون</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). يمكن نسخ معرف المستخدم <code></code> من ديسكورد عن طريق تمكين وضع المطور
+        والنقر الأيمن على ملفك الشخصي.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
@@ -103,9 +103,9 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>أسماء</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">كن قادر على البحث عن الpresence باستخدام اسم بديل. <br>
+      من المفترض أن تُستخدم في الpresences التي لها أسماء مختلفة بلغات مختلفة (مثل بوكيمون و 포켓 몬스터). <br>
+      يمكنك أيضًا استخدامه للpresences التي تحتوي على أحرف خاصة حتى لا تضطر إلى كتابتها (مثل Pokémon و Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
@@ -180,7 +180,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">يحدد ما إذا كان يجب أن يكون الملحق سجلات قراءة.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
@@ -245,7 +245,7 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### Introduction
+#### مقدمة
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Cloning the project
+##### استنساخ المشروع
 
 1. قم بفتح التيرمنال و اكتب `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. اختيار مجلد من اختيارك.
+3. افتح علي محرر الكود الخاص بك.
 
 ##### Creating the file
 
@@ -303,7 +303,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Methods
+### الطرق
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
@@ -334,7 +334,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <th style="text-align:left">Category</th>
       <th style="text-align:left">الأسم</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">الوصف</th>
     </tr>
   </thead>
   <tbody>
@@ -360,7 +360,7 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>مقاطع الفيديو والبثوث</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>

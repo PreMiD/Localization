@@ -2,7 +2,7 @@
 title: Métadonnées.json
 description: Contient des données basique sur la Presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -83,14 +83,14 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
   <tbody>
     <tr>
       <td style="text-align:left"><b>auteur</b></td>
-      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Objet</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributeurs</b></td>
-      <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du contributeur. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du contributeur. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Tableau&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>

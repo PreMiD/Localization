@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Obsahuje základné údaje o Prítomnosti
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -83,13 +83,13 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
   <tbody>
     <tr>
       <td style="text-align:left"><b>autor</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Meno je vaše Discord užívateľské meno bez identifikátoru(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
       <td style="text-align:left"><code>Objekt</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>prispievatelia</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Meno je vaše Discord užívateľské meno bez identifikátoru(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
       <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
@@ -105,7 +105,7 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>popis</b></td>
@@ -119,73 +119,73 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
       <td style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Reťazec regulárneho výrazu používaný na zhodovanie adries url.</td>
       <td style="text-align:left"><code>Reťazec</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>verzia</b></td>
       <td style="text-align:left">Verzia vašej prítomnosti.</td>
       <td style="text-align:left"><code>Reťazec</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Odkaz na službu&apos; s logotypom.</td>
       <td style="text-align:left"><code>Reťazec</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>náhľad</b></td>
       <td style="text-align:left">Odkaz na náhľad vašej prítomnosti.</td>
       <td style="text-align:left"><code>Reťazec</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>farba</b></td>
       <td style="text-align:left"><code>#HEX</code> hodnota. Odporúčame vám používať primárnu farbu služby        ktorá vaša prítomnosť podporuje.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>štítky</b></td>
       <td style="text-align:left">Pole so značkami, pomôže používateľom vyhľadávať vašu prítomnosť na webovej stránke.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>kategória</b></td>
       <td style="text-align:left">Reťazec použitý na označenie kategórie do ktorej patrí.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Určuje či je použitý <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Selektor regulárneho výrazu ktorý vyberá prvky iframe do ktorých sa má vložiť.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Áno</code></td>
     </tr>
   </tbody>
 </table>
@@ -242,7 +242,7 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### Introduction
+#### Úvod
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -300,7 +300,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Methods
+### Metódy
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
@@ -331,7 +331,7 @@ Ak vytvárate prítomnosť, musíte uviesť kategóriu do ktorej táto prítomno
     <tr>
       <th style="text-align:left">Kategória</th>
       <th style="text-align:left">Názov</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Popis</th>
     </tr>
   </thead>
   <tbody>
@@ -342,22 +342,22 @@ Ak vytvárate prítomnosť, musíte uviesť kategóriu do ktorej táto prítomno
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Hry</b></td>
       <td style="text-align:left">Akákoľvek webová stránka ktorá má obsah súvisiaci s hrami, ako napríklad <code>Kahoot</code> alebo <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Hudba</b></td>
       <td style="text-align:left">Toto sú webové stránky ktoré ponúkajú hudobný obsah, či už ide o streamovanie alebo sťahovanie.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Sociálne siete</b></td>
       <td style="text-align:left">Webové stránky ktoré sa používajú na vytváranie a zdieľanie obsahu alebo na účasť na iných formách sociálnych sietí.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Videá & Streamy</b></td>
       <td style="text-align:left">Webové stránky ktoré slúžia na poskytovanie videí a streamov.</td>
     </tr>
     <tr>
