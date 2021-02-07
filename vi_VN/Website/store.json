@@ -3,6 +3,10 @@
 		"message": "Tiện ích chưa được kết nối.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.creator": {
+		"message": "Tác giả",
+		"description": "Creator of a presence"
+	},
 	"store.cards.popular": {
 		"message": "Presence này rất phổ biến với người dùng.",
 		"description": "Presence card popular flame"
@@ -55,8 +59,16 @@
 		"message": "Danh mục",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "Tất cả",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Game",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Âm nhạc",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
