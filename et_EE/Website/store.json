@@ -3,6 +3,10 @@
 		"message": "Laiendus pole ühendatud.",
 		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
 	},
+	"store.cards.creator": {
+		"message": "Autor",
+		"description": "Creator of a presence"
+	},
 	"store.cards.popular": {
 		"message": "See Presence on väga populaarne kasutajate hulgas.",
 		"description": "Presence card popular flame"
@@ -55,8 +59,16 @@
 		"message": "Kategooriad",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "Kõik",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Mängud",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Muusika",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {

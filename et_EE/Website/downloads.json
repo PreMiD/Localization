@@ -1,6 +1,6 @@
 {
   "downloads.header.title": {
-    "message": "Aeg eputada.",
+    "message": "Aeg näidata.",
     "description": "Title"
   },
   "downloads.header.subtitle": {
@@ -79,6 +79,10 @@
     "message": "Oh ei, tundub, et teil ei ole ligipääs beeta versioonile :(",
     "description": "Error message if the user doesn't alpha/beta access."
   },
+  "downloads.error.noaccess.description": {
+    "message": "Sa saad liituda meie beeta programmiga **siin** tasuta. Tee kiiresti! Meil on ainult {0} kohta vabad",
+    "description": "More info if the user doesn't alpha/beta access."
+  },
   "downloads.latest.header": {
     "message": "Varased väljalasked",
     "description": "Header above alpha/beta download buttons."
@@ -99,6 +103,10 @@
     "message": "Tagasi",
     "description": "Back button on the ads section"
   },
+  "downloads.button.cancel": {
+    "message": "Tühista",
+    "description": "Button on the modal of Opera/Edge browsers."
+  },
   "downloads.button.okay": {
     "message": "Ok",
     "description": "Button on the modal of Opera/Edge browsers."
@@ -111,6 +119,10 @@
     "message": "Sisselogimine",
     "description": "Login button on the downloads page."
   },
+  "downloads.button.skipanyway": {
+    "message": "Jäta vahele",
+    "description": "Skip Anyway button on the ads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Tänan!",
     "description": "Title of the advertisement section box."
@@ -122,5 +134,13 @@
   "downloads.adsbox.disableAdblock": {
     "message": "Keelake oma reklaami blokeerimine",
     "description": "Message next to pepe."
+  },
+  "downloads.showbeta.message": {
+    "message": "Näita beeta allalaadimisi",
+    "description": ""
+  },
+  "downloads.showbeta.small": {
+    "message": "(pole vajalik, kui sa oled siin, et alla laadida tavalist rakendust)",
+    "description": "Small text under the show beta title."
   }
 }
