@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Mengandungi data asas mengenai Presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -83,14 +83,14 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Harus mengandungi objek Object dengan nilai nama <code>name</code> dan ID <code>id</code> milik pembangun Presence. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). Nombor <code>id</code> pengguna boleh disalin dari Discord dengan
+      <td style="text-align:left">Harus mengandungi objek Object dengan nilai nama <code>name</code> dan ID <code>id</code> milik pembangun Presence. <code>name</code> is your Discord username without the identifier(#0000). Nombor <code>id</code> pengguna boleh disalin dari Discord dengan
         membolehkan mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Harus mengandungi objek Object dengan nilai nama <code>name</code> dan ID <code>id</code> milik penyumbang. Nama merujuk kepada nama Discord anda tanpa pengenal pasti (#0000). Nombor <code>id</code> pengguna boleh disalin dari Discord dengan
+      <td style="text-align:left">Harus mengandungi objek Object dengan nilai nama <code>name</code> dan ID <code>id</code> milik penyumbang. <code>name</code> is your Discord username without the identifier(#0000). Nombor <code>id</code> pengguna boleh disalin dari Discord dengan
         membolehkan mod pembangun dan mengklik-kanan profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ya</code></td>
