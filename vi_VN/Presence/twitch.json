@@ -42,5 +42,73 @@
 	"twitch.wallet": {
 		"message": "Đang xem ví...",
 		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Đang xem Esports...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Đang xem đội:",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Đang xem cài đặt...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Đang xem danh sách bạn bè...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Đang xem dịch vụ đã đăng ký...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Đang xem Squad...",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Đang đổi một mã...",
+		"description": ""
+	},
+	"twitch.campLevel": {
+		"message": "Thăng cấp",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Nhận thưởng",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Nhạc trên Twitch",
+		"description": "Page name"
+	},
+	"twitch.viewTheir": {
+		"message": "Đang xem",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Thống kê kênh",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Thành tựu",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Danh sách người theo dõi",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clips",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Cài đặt kênh",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Cài đặt Quản lý",
+		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }
