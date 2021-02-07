@@ -156,11 +156,11 @@ presence
 ### **`description`**
 
 - **كل** presences **مطلوبة** للحصول على وصف باللغة الانجليزية بغض النظر عن اللغة المفضلة للموقع.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- **لا** تحاول وتترجم الوصف بنفسك إلا إذا كنت تعرف لهذه اللغة، فسوف يقوم المترجمون بتعديل البيانات الوصفية الهامة `metadata.json` وتغير الأوصاف عند الحد اللازم.
 
 ### **`url`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- العنوان **يجب** أن يكون سلسلة إذا الموقع يستخدم نطاق واحد فقط. إذا كان الموقع يستخدم عدة مرات، فإجعلها مصفوفة وحدد كل واحدة منها.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
 ### **`version`**
@@ -206,11 +206,11 @@ presence
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
+> الكود الذي تكتبه **يجب** أن يكون _مكتوباً جيداً_ و **يجب** أن يكون_مقروء_ وكل الجمل تكون صحيحة نحوياً (يمكن تجاهل الأخطاء النحوية على مواقع الويب). 
 > 
 > {.is-warning}
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> كل presence يتبع مجموعة من القواعد الصارمةالتي سيجرى التحقق منها خلال عملية الإستعراض. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
