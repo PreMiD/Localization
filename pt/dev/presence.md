@@ -125,7 +125,7 @@ Fizemos um criador de ficheiros `metadata.json` para o pessoal mais preguiçoso,
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. Agora tu precisas de editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter seus `metadata.json. `, se você não planeja usá-los, você precisa removê-los.
+Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas de editar os valores das propriedades. Tem em atenção que as seguintes propriedades são opcionais no teu ficheiro `metadata.json. `. Se não os pretendes usar, tens de os remover.
 
 - `contributors`
 - `altnames`
@@ -135,7 +135,7 @@ Please copy the code above and put it in your `metadata.json` file. Agora tu pre
 - `readLogs`
 - `settings`
 
-**Clarificando algumas predefinições de valor:**
+**Explicação de alguns valores predefinidos:**
 
 <table>
   <thead>
@@ -149,15 +149,15 @@ Please copy the code above and put it in your `metadata.json` file. Agora tu pre
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do desenvolvedor. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
-        desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
+        programador e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do desenvolvedor. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
-        desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. Nome é seu nome de usuário do Discord sem o identificador(#0000). Identificação <code>id</code> do usuário pode ser copiada do Discord ativando o modo de
+        programador e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -278,21 +278,21 @@ Nós fizemos um `metadata.json` criador de arquivos para os preguiçosos curioso
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //O ID do cliente da Aplicação criada em https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //O ID do cliente da aplicação criada em https://discordapp.com/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //pode usar isso para obter cordas traduzidas em seu idioma de navegador
+    //Podes usar isto para obter frases traduzidas no idioma do teu navegador
   });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Pegue e processe todos os seus dados aqui
+    //Define e processa todos os teus dados aqui
 
     // elementos //
-    // chamadas api //
+    // pedidos à api //
     // conjuntos variáveis //
 }
 
@@ -302,7 +302,7 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData está sempre a disparar e, portanto, deve ser usado como ciclo de atualização ou 'tique'. Chama-se a isto várias vezes um segundo sempre que possível.
+  /*UpdateData está sempre a disparar e, portanto, deve ser usado como ciclo de atualização ou "tick". Chama-se a isto várias vezes um segundo sempre que possível.
 
     É recomendado configurar outra função fora desta função de evento que irá alterar os valores de variáveis e fazer o trabalho pesado se você chamar dados de uma API. */
 
