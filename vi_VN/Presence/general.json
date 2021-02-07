@@ -203,13 +203,41 @@
 		"message": "Đang xem trang:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Đang xem phim",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Đang xem phim bộ",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Đang xem một bộ phim",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Đang xem video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Đang đợi video công chiếu",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Đang đợi video công chiếu",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Đang xem livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Đang đợi buổi phát trực tiếp bắt đầu",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Đang đợi buổi phát trực tiếp bắt đầu",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Đang xem:",
@@ -230,5 +258,21 @@
 	"general.cookie": {
 		"message": "Chính sách về Cookie",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Lặp lại tất cả bài hát",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Đang lặp lại",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Lịch sử sự cố",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Lịch sử hoạt động",
+		"description": "A page name of statuspages"
 	}
 }
