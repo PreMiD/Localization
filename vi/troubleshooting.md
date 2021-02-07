@@ -27,7 +27,7 @@ Rất quan trọng. Discord RPC sẽ không hoạt động nếu bạn chạy Di
 ### Bạn có đang sử dụng presence có nút cài đặt không?
 Nhiều presence (bao gồm `Twitch` và `SoundCloud`) đang bị ảnh hưởng bởi một lỗi bên trong tiện ích mở rộng. Lỗi này làm cho tiện ích mở rộng không lấy đúng giá trị mặc định của cài đặt.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Để giải quyết vấn đề này, bạn chỉ cần bật tắt cài đặt đầu tiên: ![presencesettings.gif](/presencesettings.gif)
 
 ### Khởi động lại trình duyệt của bạn
 Bạn có thể nhấn <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) hoặc <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS). (Tất nhiên là bạn phải khởi động lại trình duyệt rồi.)
@@ -36,26 +36,26 @@ Bạn có thể nhấn <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) hoặc <kbd>CMD</k
 ![quit.png](/quit.png) Bạn phải khởi động lại PreMiD sau đó.
 
 ### Tải lại/khởi động lại Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+Nhấn <kbd>CTRL+R</kbd> (Windows) hoặc <kbd>CMD+R</kbd> (MacOS) trên bàn phím của bạn để khởi động lại Discord một cách thủ công.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### Kiểm tra nếu như bạn có phần mềm diệt vi-rút hoặc tường lửa trên máy tính của bạn
+Đôi lúc phần mềm diệt vi-rút và tường lửa sẽ chặn các ứng dụng nếu chúng tạo/lưu trữ máy chủ hoặc chỉ là kết nối Internet. Chúng tôi đang sử dụng máy chủ cục bộ để nhận và truyền dữ liệu giữa ứng dụng của chúng tôi và tiện ích mở rộng, nếu bạn chặn tính năng truyền dữ liệu thì có thể bạn sẽ không dùng được PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Hãy tắt các tiện ích mở rộng khác
+Hãy tắt các tiện ích mở rộng khác và thử lại. Nếu được, hãy mở từng tiện ích một sau đó hãy cho chúng tôi biết tiện ích nào gây xung đột với PreMiD.
 
 ### Khởi động lại máy tính của bạn
-I hope you know how to restart a computer.
+Tôi mong là bạn biết cách khởi động lại máy tính.
 
 ### Cài đặt lại PreMiD
 Đôi khi các tệp có vấn đề... Hướng dẫn cài đặt có thể được tìm thấy [tại đây](/install).
 
 ### Gỡ cài đặt thủ công
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
+Hệ điều hành Windows:    `C:\Users\USER\AppData\Roaming\`` và xoá thư mục `PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`và xóa thư mục `PreMiD``.
 
-### On Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
+### Bản cài đặt cho Ubuntu/Debian
+Nếu bạn đã tải Discord qua Snapcraft, RPC sẽ không hoạt động. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download [Discord's Linux build](https://discordapp.com/api/download?platform=linux) ([or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
