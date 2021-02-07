@@ -125,7 +125,7 @@ Fizemos um criador de ficheiros `metadata.json` para o pessoal mais preguiçoso,
 }
 ```
 
-Copie o código acima e coloque-o em seu arquivo de `metadata.json`. Agora tu precisas de editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter seus `metadata.json. `, se você não planeja usá-los, você precisa removê-los.
+Please copy the code above and put it in your `metadata.json` file. Agora tu precisas de editar os valores das propriedades. Note que as seguintes propriedades são opcionais para ter seus `metadata.json. `, se você não planeja usá-los, você precisa removê-los.
 
 - `contributors`
 - `altnames`
