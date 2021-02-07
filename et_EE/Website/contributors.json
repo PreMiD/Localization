@@ -36,7 +36,7 @@
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
-		"message": "Kujundaja",
+		"message": "Disainer",
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
