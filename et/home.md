@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: Avaleht
+description: Ametlik dokumentatsioon
 published: true
 date: 2020-08-29T21:41:40.722Z
 tags:
