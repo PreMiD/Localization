@@ -83,14 +83,14 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
   <tbody>
     <tr>
       <td style="text-align:left"><b>autor</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. <code>name</code> is your Discord username without the identifier(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
+      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
         desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Objeto</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contribuidores(as)</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
         programador e carregando com o botão direito no perfil do autor.</td>
       <td style="text-align:left"><code>Matriz&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>

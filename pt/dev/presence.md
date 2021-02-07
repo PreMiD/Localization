@@ -149,7 +149,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. <code>name</code> is your Discord username without the identifier(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
+      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
         programador e carregando com o botão direito no perfil do autor.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
