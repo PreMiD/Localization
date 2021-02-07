@@ -1,1 +1,46 @@
-{}
+{
+	"twitch.downloads": {
+		"message": "Tải xuống",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Việc làm",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Đối tác",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Tin Tức",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Bảo mật",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Khả năng truy cập",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Lựa chọn quảng cáo",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Nguyên tắc cộng đồng",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Trang chủ",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Đang xem ví...",
+		"description": ""
+	}
+}
