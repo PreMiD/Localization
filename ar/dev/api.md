@@ -32,5 +32,5 @@ dateCreated: 2020-06-11T18:03:59.010Z
 
 **اختر نسخة API:**
 - [v2 *مهمل*](/dev/api/v2)
-- [v2 *مفعل*](/dev/api/v3)
+- [v3 *مفعل*](/dev/api/v3)
 {.links-list}
