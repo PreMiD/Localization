@@ -2,7 +2,7 @@
 title: Développement de la presence
 description:
 published: true
-date: 2021-01-30T10:59:26.700Z
+date: 2021-02-07T17:11:34.449Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -149,14 +149,14 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. Le nom est votre nom d'utilisateur Discord sans l'identifiant (#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
+      <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
