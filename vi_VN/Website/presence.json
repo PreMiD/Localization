@@ -7,6 +7,10 @@
 		"message": "Mô tả",
 		"description": "The title of the description section."
 	},
+	"presence.sections.changelog.title": {
+		"message": "Nhật ký thay đổi",
+		"description": "The title of the changelog section."
+	},
 	"presence.sections.information.title": {
 		"message": "Thông tin",
 		"description": "The title of the information section."
