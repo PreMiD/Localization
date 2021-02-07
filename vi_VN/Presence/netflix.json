@@ -1,1 +1,30 @@
-{}
+{
+	"netflix.viewSeries": {
+		"message": "Đang xem sê-ri",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewMovie": {
+		"message": "Xem phim",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewEpisode": {
+		"message": "Xem tập",
+		"description": "Used as the title for the button in Discord."
+	},
+	"netflix.viewList": {
+		"message": "Đang xem danh sách",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Đang quản lí hồ sơ",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Đang xem có gì mới và{0}thịnh hành trên Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Đang lấy link{0}giới thiệu của họ",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}
