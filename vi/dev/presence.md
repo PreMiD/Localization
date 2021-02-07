@@ -8,11 +8,11 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Tất cả presences hiện được chứa ở đây: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Phiên bản `2.x` đã thêm tính năng [cửa hàng presence](https://premid.app/store). Người dùng đã có thể thêm hoặc gỡ presences yêu thích của họ thông qua [website](https://premid.app/).
 
 > Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
