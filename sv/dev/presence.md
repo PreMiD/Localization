@@ -2,7 +2,7 @@
 title: Presence Utveckling
 description:
 published: true
-date: 2021-01-30T10:59:26.700Z
+date: 2021-02-07T17:11:34.449Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
@@ -149,14 +149,14 @@ Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste 
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. Namnet är ditt Discord-användarnamn utan identifieraren (#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
+      <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. <code>name</code> is your Discord username without the identifier(#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
         och högerklicka på din profil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nej</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. Namnet är ditt Discord-användarnamn utan identifieraren (#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
+      <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. <code>name</code> is your Discord username without the identifier(#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
         och högerklicka på din profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>
