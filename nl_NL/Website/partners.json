@@ -76,7 +76,7 @@
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "Solliciteer nu!",
+		"message": "Nu solliciteren!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
@@ -172,7 +172,7 @@
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
-		"message": "Niet u?",
+		"message": "Ben jij dit niet?",
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
@@ -224,7 +224,7 @@
 		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
-		"message": "Solliciteer",
+		"message": "Solliciteren",
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
