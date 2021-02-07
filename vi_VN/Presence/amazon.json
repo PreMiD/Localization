@@ -59,6 +59,10 @@
         "message": "Đang xem lịch sử của họ",
         "description": ""
     },
+    "amazon.store": {
+        "message": "Đang xem cửa hàng:",
+        "description": ""
+    },
     "amazon.primeVid": {
         "message": "Đang xem video Prime:",
         "description": ""
