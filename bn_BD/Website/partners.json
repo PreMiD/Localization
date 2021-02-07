@@ -26,5 +26,33 @@
 	"partners.sponsors.title": {
 		"message": "স্পন্সর",
 		"description": "Heading for sponsors."
+	},
+	"partners.apply.select.website": {
+		"message": "ওয়েবসাইট",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "অন্যান্য",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "নাম",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "উদাহরণ: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "লিংক",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "যেমন: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "ছবির লিংক: (550x300, শুধুমাত্র PNG)",
+		"description": "Do not change the sizes."
 	}
 }

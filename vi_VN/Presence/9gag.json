@@ -7,6 +7,10 @@
         "message": "Đang xem cái gì hot",
         "description": ""
     },
+    "9gag.trending": {
+        "message": "Đang xem cái gì thịnh hành",
+        "description": ""
+    },
     "9gag.fresh": {
         "message": "Đang xem có gì mới",
         "description": ""

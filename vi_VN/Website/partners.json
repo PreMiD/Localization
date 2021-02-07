@@ -139,6 +139,10 @@
 		"message": "Một nữ thần đóng vai trò là một Discord bot!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM cho phép bạn nghe hơn 15+ luồng phát nhạc trực tiếp miễn phí - không ngừng nghỉ. Với những bài nhạc hay và mới nhất chỉ dành cho bạn!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Dịch thuật nhanh chóng cho công ty công nghệ.",
 		"description": "Description for Crowdin."
@@ -150,6 +154,10 @@
 	"partners.partner.fastly": {
 		"message": "Đằng sau những tinh túy của trang web.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit là một đài phát âm nhạc trực tiếp được tạo ra để phát các bản hit hay nhất của bạn 24/7 và giúp cho bạn tìm ra được những bản hit trong tương lai.",
+		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Đăng ký cho đối tác",
@@ -170,6 +178,14 @@
 	"partners.apply.select.website": {
 		"message": "Website",
 		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Khác",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Tên",
+		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Ví dụ: PreMiD",
@@ -206,6 +222,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "Đăng ký",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Cảm ơn bạn đã ứng tuyển!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Xin hãy điền vào các trường trống.",
