@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -76,21 +76,21 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <th style="text-align:left">Variable</th>
       <th style="text-align:left">описание</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Вид</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>автор</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>сътрудници</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Cloning the project
+##### Клониране на проекта
 
 1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Избери папка по твой избор.
+3. Отвори го в твоя редактор на код.
 
 ##### Creating the file
 
@@ -333,40 +333,41 @@ When making your presence, you must specify a category which the presence falls 
   <thead>
     <tr>
       <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Име</th>
+      <th style="text-align:left">описание</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>аниме</b></td>
-      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left"><b>Аниме</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>игри</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Игри</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>музика
 </b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>музика
+</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>вечеринка</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>вечеринка</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Видеоклипове и потоци</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>друг</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Други</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
   </tbody>
