@@ -35,8 +35,12 @@
     "message": "Abilised",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Logi sisse",
+    "description": "Login Button"
+  },
   "header.lia": {
-    "message": "Logitud sisse kui",
+    "message": "Sisse logitud",
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
@@ -44,7 +48,7 @@
     "description": "Report a bug button"
   },
   "header.staff": {
-    "message": "Ülevaade",
+    "message": "Töölaud",
     "description": "Dashboard button"
   },
   "header.logout": {
