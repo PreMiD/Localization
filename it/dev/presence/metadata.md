@@ -2,7 +2,7 @@
 title: Metadario
 description: Contiene dati di base su Presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -74,7 +74,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabile</th>
       <th style="text-align:left">Descrizione</th>
       <th style="text-align:left">Tipo</th>
       <th style="text-align:left">Opzionale</th>
@@ -83,15 +83,15 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
   <tbody>
     <tr>
       <td style="text-align:left"><b>autore</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. Il nome utente di Discord è senza identificatore(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
+      <td style="text-align:left">Dovrebbe contenere un Oggetto con il <code>nome</code> e l'<code>id</code> del contributore. <code>name</code> is your Discord username without the identifier(#0000). L'id utente <code></code> può essere copiato da Discord abilitando la modalità
         dello sviluppatore e facendo click destro sul tuo profilo.</td>
       <td style="text-align:left"><code>Oggetto</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>collaboratori</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. Name is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). L'Id <code>dell'utente</code> può essere copiato da Discord abilitando la modalità
+        dello sviluppatore e facendo clic destro sul tuo profilo.</td>
       <td style="text-align:left"><code>Schieramento&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>sì</code></td>
     </tr>
@@ -103,11 +103,9 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left"><br>Destinato ad essere utilizzato per presences che hanno nomi diversi in lingue diverse (ad esempio Pokémon and 포켓몬스터).<br>Puoi anche usarlo per presences che hanno caratteri speciali in modo da non doverli digitare (ad esempio Pokémon e Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>descrizione</b></td>
@@ -127,7 +125,7 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Una stringa di espressione regolare usata per abbinare gli url.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>versione</b></td>
@@ -170,25 +168,25 @@ Questo esempio sembra davvero strano, eh? Non ti preoccupare, non è così diffi
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Definisce se <code>iFrame</code> sono usati</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Un selettore di espressione regolare che seleziona gli iframe da inserire.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Definisce se l'estensione debba leggere il registro.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Un array di settaggi che l'utente può cambiare</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Si</code></td>
     </tr>
   </tbody>
 </table>
@@ -245,7 +243,7 @@ Configura le impostazioni interattive in modo che gli utenti possano personalizz
 
 ### `multiLanguage`
 
-#### Introduction
+#### Introduzione
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +257,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Cloning the project
+##### Clonando il progetto
 
 1. Apri un terminale e digita `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Scegli una cartella a tua scelta.
+3. Aprilo nel tuo editor di codice.
 
 ##### Creating the file
 
@@ -303,7 +301,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Methods
+### Metodi
 
 Utilizzare i seguenti metodi per ottenere informazioni sulle impostazioni nei file della presenza:
 #### `getSetting(Stringa)`
@@ -334,7 +332,7 @@ Quando fai la tua presence, è necessario specificare una categoria in cui la pr
     <tr>
       <th style="text-align:left">Categoria</th>
       <th style="text-align:left">nome</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Descrizione</th>
     </tr>
   </thead>
   <tbody>
@@ -345,27 +343,27 @@ Quando fai la tua presence, è necessario specificare una categoria in cui la pr
     </tr>
     <tr>
       <td style="text-align:left"><b>giochi</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>Giochi</b></td>
       <td style="text-align:left">Qualsiasi sito web che abbia contenuti relativi al gioco, come <code>Kahoot</code> o <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musica</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>Musica</b></td>
       <td style="text-align:left">Questi sono siti web che offrono contenuti musicali, che si tratti di streaming o download.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>social</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>Social</b></td>
       <td style="text-align:left">Siti web utilizzati per la creazione e condivisione di contenuti o per la partecipazione ad altre forme di social networking.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Video</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Video & Dirette</b></td>
       <td style="text-align:left">Siti web che servono a fornire video e stream.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altro</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>Altro</b></td>
       <td style="text-align:left">Tutto ciò che non rientra in una specifica categoria sopra elencata.</td>
     </tr>
   </tbody>
