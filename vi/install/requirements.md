@@ -14,10 +14,10 @@ dateCreated: 2020-06-11T18:04:21.843Z
 > 
 > {.is-info}
 
-PreMiD chạy trên hầu hết mọi hệ thống. Điều này có nghĩa là nó chạy trên **Linux**, **macOS**, **Windows** cũng như một số Sửa đổi **Linux**.
+PreMiD chạy trên hầu hết mọi hệ thống. Điều này có nghĩa là nó chạy trên **Linux**, **macOS**, **Windows** cũng như một số phiên bản **Linux** được chỉnh sửa.
 
 ### CPU
-PreMiD chạy hoàn toàn tốt trên một lõi CPU.
+PreMiD chạy tốt trên CPU một lõi.
 
 ### RAM
 Các hệ thống Linux phải có **ít nhất 20 MB RAM** để chạy PreMiD. Các hệ thống Windows và macOS thường cần nhiều RAM hơn một chút.
