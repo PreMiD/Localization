@@ -4,7 +4,7 @@
 		"description": "Beta page title"
 	},
 	"beta.description.1": {
-		"message": "**PreMiDi Beeta** on saadaval kõigile!",
+		"message": "**PreMiD'i Beeta** on saadaval kõigile!",
 		"description": "Section description"
 	},
 	"beta.description.2": {
@@ -14,5 +14,33 @@
 	"beta.features.1": {
 		"message": "Uusimad funktsioonid",
 		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Saa ligipääs PreMiDi salajastele tekstikanalitele",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Tähtis roll meie Discordi serveris",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Valmis? Liitu {0} beeta testijaga!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Liitu nüüd!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Lahe! Sa oled nüüd meie beeta kasutaja!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Meie ahvid töötavad selle kallal, et saada sind kiiresti beeta serverisse. Aitäh registreerimast!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Tundub, et meil on kõik kohad täis.",
+		"description": "Shows when the beta slots are full."
 	}
 }
