@@ -92,7 +92,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "Tiện ích mở rộng của bạn đã lỗi thời. Vui lòng cập nhật để có được những tính năng mới nhất trên trang web của chúng tôi.",
+		"message": "Tiện ích mở rộng của bạn đã lỗi thời. Vui lòng cập nhật nó để nhận được những tính năng mới nhất bằng cách truy cập vào trang web của chúng tôi.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
