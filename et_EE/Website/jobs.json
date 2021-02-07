@@ -1,1 +1,18 @@
-{}
+{
+	"jobs.benefit1.title": {
+		"message": "Kohtu meiega",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.title": {
+		"message": "Toeta PreMiD'i",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Sinu abiga on võimalik seda projekti tööl hoida.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Aja ületamine",
+		"description": "Benefit card title."
+	}
+}
