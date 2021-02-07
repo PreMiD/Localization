@@ -2,7 +2,7 @@
 title: Metadata.json
 description: Contains basic data about the Presence
 published: true
-date: 2020-12-26T15:03:41.542Z
+date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:52.965Z
@@ -83,14 +83,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   <tbody>
     <tr>
       <td style="text-align:left"><b>מחבר</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. השם שלך בדיסקורד בלי מזהה (#0000) לדוגמא. User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>תורמים</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. השם שלך בדיסקורד בלי מזהה (#0000) לדוגמא. User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -258,11 +258,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Cloning the project
+##### שכפל את הפרויקט
 
 1. פתח מהסוף והקלד ` git clone https://github.com/PreMiD/Localization `.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. בחר תיקיה לפי בחירתך.
+3. פתח אותו בעורך הקוד שלך.
 
 ##### Creating the file
 
@@ -302,7 +302,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Methods
+### שיטות
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
@@ -333,38 +333,38 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <th style="text-align:left">קטגוריה</th>
       <th style="text-align:left">שם</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">תיאור</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>אנימה</b></td>
-      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left"><b>אנימה</b></td>
       <td style="text-align:left">כל דבר שקשור לאנימה, מהפורומים לשידור לייבים בפלטפורמות.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>משחקים</b></td>
-      <td style="text-align:left"><b>Games</b></td>
+      <td style="text-align:left"><b>משחקים</b></td>
       <td style="text-align:left">כל אתר שיש בו משחק שקשור לתוכן, כמו קהוט או סקריבל</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>מוזיקה</b></td>
-      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left"><b>מוזיקה</b></td>
       <td style="text-align:left">האתר האלה מציעים מוזיקה שקשורה לתוכן, או כאלה שאפשר לשדר אותם או להורדה.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>חברתי</b></td>
-        <td style="text-align:left"><b>Socials</b></td>
+        <td style="text-align:left"><b>חברתי</b></td>
       <td style="text-align:left">אתרים שמשתמשים לכוונה של יצירת או שיתוף תוכן או בשביל להשתתף בצורות אחרות של חברתיות.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>סרטונים & שידורים</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>אחר</b></td>
-      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left"><b>אחר</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
   </tbody>
