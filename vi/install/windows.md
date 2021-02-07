@@ -14,7 +14,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 1. Đến trang web của chúng tôi bằng cách nhấn vào [đây](https://premid.app/downloads).
 2. Chọn **Windows**.
 3. Mở bộ cài đặt.
-4. **Windows SmartScreen** sẽ xuất hiện, nếu bạn cài đặt PreMiD lần đầu tiên. Nhấp vào **Thông tin khác** và sau đó chọn **Chạy mọi cách**. > Điều này là do chúng tôi không có Chứng chỉ ký mã (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+4. **Windows SmartScreen** sẽ xuất hiện, nếu bạn cài đặt PreMiD lần đầu tiên. Nhấp vào **Thông tin khác** và sau đó chọn **Chạy mọi cách**. > Điều này là do chúng tôi không có Chứng chỉ ký mã (CSC). [Hỗ trợ chúng tôi](https://www.patreon.com/Timeraa) để tài trợ cho nó.{.is-info}
 
 Ứng dụng sẽ được chạy tự động. Kiểm tra biểu tượng trong khay hệ thống của bạn.
 
