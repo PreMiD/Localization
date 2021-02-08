@@ -17,7 +17,7 @@ A instalação da extensão é muito importante, pois o aplicativo não pode faz
 6. Selecione o arquivo **.xpi** que você baixou recentemente.
 7. Aceite a instalação clicando em **Adicionar**.
 
-> Do not forget to [add the **application**](/install). 
+> Não esqueça de [instalar o **aplicativo**](/install). 
 > 
 > {.is-warning}
 
