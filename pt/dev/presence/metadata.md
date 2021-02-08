@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contém dados básicos sobre a Presence
+description: Contém dados básicos sobre a Presença
 published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Se você quer publicar uma presença na loja e carregá-la através da extensão, você deve criar o arquivo `metadata.json` em sua pasta `dist`.
 
 An example of that file can be found below.
 
@@ -67,9 +67,9 @@ An example of that file can be found below.
 }
 ```
 
-## Entendendo os metadados
+## Compreendendo o metadata.json
 
-Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão difícil entender para que cada variável serve.
+Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão difícil entender para que cada variável serve.
 
 <table>
   <thead>
@@ -82,87 +82,84 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
-      <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). Identificação <code>de usuário</code> pode ser copiada do Discord ativando o modo de
-        desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> is your Discord username without the identifier(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Objeto</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contribuidores(as)</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
-        programador e carregando com o botão direito no perfil do autor.</td>
-      <td style="text-align:left"><code>Matriz&lt;Object&gt;</code></td>
+      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left"><code>Array&lt;Objeto&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>serviço</b></td>
-      <td style="text-align:left">O título do serviço que esta presence suporta.</td>
+      <td style="text-align:left"><b>service</b></td>
+      <td style="text-align:left">O título do serviço que esta presença suporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
-      <td style="text-align:left"><code>Matriz&lt;String&gt;</code></td>
+      <td style="text-align:left">Seja capaz de pesquisar a Presence usando um nome alternativo.<br>
+      Significa ser usado em Presences que têm nomes diferentes em línguas diferentes. (ex. Pokémon e 포켓몬스터).<br>
+      Você também pode usar isso para Presences que possuem caracteres especiais e você não precisa digitá-los (ex. Pokémon e Pokemon).</td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>descrição</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Ver categoria os idiomas de presence de uma lista. </td>
+      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Veja a categoria para idiomas de presença para uma lista. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>URL</b></td>
+      <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">URL of the service.<br>
       <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Isso só pode ser usado como um array quando houver mais de uma url.</b></td>
-      <td style="text-align:left"><code>String, Matriz&lt;String&gt;</code></td>
+      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Isso só pode ser usado como uma matriz quando houver mais de um Url.</b></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Uma string de expressão regular usada para combinar urls.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versão</b></td>
-      <td style="text-align:left">Versão da sua presence.</td>
+      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left">Versão da sua presença.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logotipo</b></td>
-      <td style="text-align:left">Vincular ao tipo de logotipo de serviço&apos;s.</td>
+      <td style="text-align:left"><b>logo</b></td>
+      <td style="text-align:left">Link para o logotipo do serviço.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link para sua miniatura de presence.</td>
+      <td style="text-align:left">Link para sua miniatura da presença.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>cor</b></td>
-      <td style="text-align:left"><code>Valor</code> #HEX. Recomendamos usar uma cor primária do serviço
-        que a sua presence suporta.</td>
+      <td style="text-align:left"><b>color</b></td>
+      <td style="text-align:left">Valor <code>#HEX</code>. Recomendamos usar uma cor primária do serviço que a sua presença suporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etiquetas</b></td>
-      <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presence no site.</td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presença no site.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Categoria</b></td>
-      <td style="text-align:left">Uma seqüência de caracteres usada para representar a categoria na qual a presence cai.</td>
+      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left">Uma string usada para representar a categoria na qual a presença cai.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -174,19 +171,19 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">Um seletor de expressão regular que seleciona iframes para injetar.</td>
+      <td style="text-align:left">Um seletor de expressão regular que seleciona <code>iFrames</code> para injetar.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Define se a extensão deve ou não ler registos.</td>
+      <td style="text-align:left">Define se a extensão deve estar lendo os logs.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Um conjunto de configurações que o usuário pode alterar</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -197,20 +194,20 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
 
 Se você quer aprender expressões regulares, aqui estão alguns sites.
 
-#### Aprender
+#### Aprendendo
 
 • [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Teste
+#### Testando
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Idiomas de presence
+## Idiomas de presença
 
 PreMiD é um serviço poliglota, o que significa que há uma infinidade de idiomas envolvidos para conectar usuários por todo o mundo. Uma lista completa de idiomas pode ser encontrada neste [endpoint da API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Configurações de presença
+Defina configurações interativas para que os usuários possam personalizar a presença!
 ```typescript
 "settings": [
   {
@@ -249,7 +246,7 @@ Setup interactive settings so users can customize the presence!
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
-#### Configuração
+#### Setup
 
 The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
 
@@ -259,11 +256,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Clonar o projeto
+##### Clonando o projeto
 
-1. Abrir um terminal e digitar `git clone https://github.com/PreMiD/Localization`.
-2. Escolhe uma pasta.
-3. Abre-a no editor de código.
+1. Abra o terminal e digite `git clone https://github.com/PreMiD/Localization`.
+2. Escolha uma pasta que preferir.
+3. Abra isso no seu editor de código.
 
 ##### Creating the file
 
@@ -305,29 +302,29 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 ### Métodos
 
-Use the following methods to get settings info in your presence files:
+Use os seguintes métodos para obter informações de configurações em seus arquivos de presença:
 #### `getSetting(String)`
-Returns value of setting.
+Retorna valor da configuração.
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
 ```
 
 #### `hideSetting(String)`
-Hides given setting.
+Oculta determinada configuração.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Substitua pdexID com o id da configuração
 ```
 
 #### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Mostra determinada configuração (somente funciona se a configuração já estava escondida).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Substitua pdexID com o id da configuração
 ```
 
-## Categorias de presence
+## Categorias de presença
 
-Ao fazer a sua presence, deve especificar uma categoria na qual a presence se encaixa. Esta é uma lista compilada das categorias que você pode usar.
+Ao fazer a sua presença, você deve especificar uma categoria na qual a presença cai. Esta é uma lista compilada das categorias que você pode usar.
 
 <table>
   <thead>
@@ -344,28 +341,28 @@ Ao fazer a sua presence, deve especificar uma categoria na qual a presence se en
       <td style="text-align:left">Tudo relacionado a anime, desde fóruns a plataformas de streaming de vídeo.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>jogos</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Jogos</b></td>
-      <td style="text-align:left">Qualquer site que possua conteúdo relacionado a jogos, como <code>Kahoot</code> ou <code>Skribbl.io</code></td>
+      <td style="text-align:left">Qualquer site que possua conteúdo relacionado a jogos, como <code>Kahoot</code> ou <code>Gartic</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>música</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Música</b></td>
       <td style="text-align:left">Estes são sites que oferecem conteúdo relacionado a música, seja streaming ou download.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>social</b></td>
-        <td style="text-align:left"><b>Social</b></td>
+      <td style="text-align:left"><b>socials</b></td>
+        <td style="text-align:left"><b>Redes Sociais</b></td>
       <td style="text-align:left">Sites que são usados para criar e compartilhar conteúdo ou para participar de outras formas de rede social.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>vídeos</b></td>
-        <td style="text-align:left"><b>Vídeos e Transmissões</b></td>
+      <td style="text-align:left"><b>videos</b></td>
+        <td style="text-align:left"><b>Vídeos e Streams</b></td>
       <td style="text-align:left">Sites que servem para fornecer vídeos e streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>outro</b></td>
-      <td style="text-align:left"><b>Outro</b></td>
+      <td style="text-align:left"><b>other</b></td>
+      <td style="text-align:left"><b>Outros</b></td>
       <td style="text-align:left">Qualquer coisa que não se enquadre em uma categoria específica listada acima.</td>
     </tr>
   </tbody>
