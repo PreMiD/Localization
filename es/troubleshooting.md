@@ -98,8 +98,8 @@ Deberías saber que <strong x-id="1">PreMiD</strong> se enlaza al puerto<strong 
 
 ### La AppImage de PreMiD no se inicia al iniciar sesión
 Como indicamos en nuestro ** repositorio de Linux **, la AppImage no se puede iniciar al iniciar sesión. Puedes añadirlo al autoarranque manualmente haciendo estos pasos:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+1. Crea un archivo llamado <strong x-id="1">rc.local</strong> en el directorio <code>/etc</code>.
+2. Abre este archivo en tu editor favorito y pega el siguiente código con algunas modificaciones:
 ```bash
 #! / bin / bash
 # Requerido para ejecutarse como / bin / bash (si usa zsh, etc. tú puedes cambiarlo.)
