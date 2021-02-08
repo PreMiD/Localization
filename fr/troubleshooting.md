@@ -81,7 +81,7 @@ C'est un faux positif de la part de McAfee et nous leur avons signalé le probl�
 10. McAfee devrait maintenant ignorer notre dossier, lancez simplement l'application et cela devrait marcher.
 
 ### Statut PreMiD buggé sur Discord !
-Ne vous inquiétez pas. Il suffis d'appuyer sur <strong x-id="1">ctrl+r</strong> en étant sur la fenêtre Discord.
+Ne vous inquiétez pas. Il suffit d'appuyer sur <strong x-id="1">CTRL+R</strong> en étant sur la fenêtre Discord.
 
 <a name="linux"></a>
 
@@ -90,7 +90,7 @@ Ne vous inquiétez pas. Il suffis d'appuyer sur <strong x-id="1">ctrl+r</strong>
 Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous devez désinstaller la version Snapcraft en utilisant la commande `sudo snap remove discord` dans un terminal, ensuite téléchargez **[Discord pour Linux](https://discordapp.com/api/download?platform=linux)** (**[ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**) et naviguez à l'emplacement où vous avez téléchargé Discord (généralement, il se trouve dans le dossier `$HOME/Downloads/`) puis installez le package en utilisant `sudo dpkg -i discord-*.deb`. Si l'AppImage ne fonctionne pas, vous devriez jeter un œil à nos autres packages **[ici](https://packagecloud.io/premid/linux)**.
 
 ### Distributions basées sur Arch Linux
-Les distributions basées sur Arch Linux devraient utilisé le paquet <code>premid</code> ou le paquet <code>premid-git</code>fournis dans l'AUR (Arch User Repository), (<em x-id="3">ATTENTION: Ce dépôt compile premid repuis notre code source.</em>). Si vous ne voulez pas installé un AUR manager (yay, etc.), vous pouvez utiliser notre AppImage qui est téléchargeable depuis notre <strong x-id="1"><a href="https://github.com/premid/linux/releases">dépôt Linux</a></strong>.
+Les distributions basées sur Arch Linux devraient utiliser le paquet <code>premid</code> ou le paquet <code>premid-git</code> fournis dans l'AUR (Arch User Repository), (<em x-id="3">ATTENTION : les paquets venant de l'AUR compilent premid directement depuis son code source.</em>). Si vous ne voulez pas installé un AUR manager (yay, etc.), vous pouvez utiliser notre AppImage qui est téléchargeable depuis notre <strong x-id="1"><a href="https://github.com/premid/linux/releases">dépôt Linux</a></strong>.
 <em x-id="3">Attention: le paquet dans l'<strong x-id="1">AUR</strong> n'est pas maintenu par nous (en tant que PreMiD), mais par d'autre personnes.</em>
 
 ### Port binding
