@@ -2,7 +2,7 @@
 title: 문제 해결
 description: 문제를 해결하기 위한 모든 것
 published: true
-date: 2021-01-03T14:12:34.320Z
+date: 2021-02-08T17:11:28.733Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,6 +12,14 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
+Included on this page:
+1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
+2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
+3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+
+<a name="general"></a>
+
+# General troubleshooting
 ### 페이지 새로고침
 새로고침 버튼을 누르는 대신 <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) 나 <kbd>CMD+R</kbd> (macOS) 를 눌러보십시오.
 
@@ -54,41 +62,66 @@ PreMiD는 디스코드 브라우저 버전에선 작동하지 **않습니다**, 
 Windows: `C:\Users\USER\AppData\Roaming\`` 에서 `PreMiD` 를 지우세요.
 MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세요``.
 
-### 데비안 / 우분투 배포판에서의 에러
-만약 디스코드를 Snapcraft를 통해 다운받았다면, RPC는 작동하지 않을거에요. Snapcraft 버전을 터미널에서 ` sudo snap remove discord `  를 통하여 삭제하고,
- 에서 디스코드의 리눅스 빌드를 다운받아주세요. ([디스코드 canary도 괜찮아요.](https://discordapp.com/api/canary/download?platform=linux)), 그리고 디스코드의 설치경로로 이동해주세요. (대부분`$HOME/Downloads 에 있답니다.`), 그다음,  `sudo dpkg -i discord-*.deb`. 코드를 통해서 패키지를 설치해주세요.</p> 
-
-
-
 ### McAfee 백신이 PreMiD를 바이러스로 오탐하는 경우 (윈도우)
-
 이 문제는 McAfee 의 오탐이며, 우리는 해당 이슈를 이미 제출하였습니다. 당장은 밑의 방법을 통하여 PreMiD 를 McAfee 의 탐지에서 제외할 수 있어요.
-
-
 
 > 만약 여러분이 해당 단계를 거치기 어려운 상황이라면, 언제든지 [#support](https://discord.premid.app/) 채널에서 티켓을 만드실수 있어요. 저희의 유능한 도우미들이 여러분을 도울수있을거에요. 
 > 
 > {.is-warning}
 
 1. McAfee 를 실행하고, 우측 상단에 있는 설정 아이콘을 클릭해주세요. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-
 2. " 격리된 목록 " 을 클릭해주세요 ( 우측 상단에서 두번째)
-
 3. 해당 파일을 확장하고, " settings.dat " 전에 있는 `>` 아이콘을 클릭해주세요.
 4. Restore을 누르기 전, 경로에 "AppData\Local\Temp\PreMiD" 가 있는지 확인해주세요. 만약 있다면, settings.dat 을 선택하고 Restore 버튼을 누릅니다. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-
 5. 복원후에 여러분은 " 격리된 목록 " 팝업을 종료하실수 있답니다, 그런 다음 우측 상단에 있는 설정 아이콘을 눌러주세요.
-
 6. 위에서 세번째에 있는 " 실시간 스캔 " 을 클릭해주세요.
 7. 확장하고 " 파일 추가 " 버튼을 눌러주세요.
 8. 파일 경로에서, "%appdata%" 를 작성하고 엔터 키를 눌러주세요. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-
 9. "PreMiD" 폴더를 열고, "PreMiD.exe" 파일을 더블클릭해서 열어주세요. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-
 10. McAfee가 이제 저희 파일을 무시하게 될거에요. 저희의 앱을 다시 실행하면, 정상적으로 작동할거에요.
 
+### PreMiD status bugged on discord!
+Don't worry. Just click **ctrl+r** keybind on your discord to restart it. After this it will not show!
 
+<a name="linux"></a>
 
-### 이것들로는 제 문제가 해결되지 않았습니다
+# Linux troubleshooting
+### Ubuntu/Debian based distros
+만약 디스코드를 Snapcraft를 통해 다운받았다면, RPC는 작동하지 않을거에요. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
+### Arch Linux based distros
+Arch Linux based distros should use AUR (Arch User Repository) package that is named `premid` or `premid-git` (*WARNING: This one builds premid from source*). If you don't want to install aur manager (yay etc.), you can check our AppImage that is downloadable from our **[Linux repository](https://github.com/premid/linux/releases)**. *Warning: **AUR** repo is not maintained by us, but by other people.*
+
+### Port binding
+You should know that **PreMiD** binds itself to port **3020** that is necessary for Extension and Application communication. If **PreMiD** shows you error about this port, you should check if something binds to port by writing to terminal `sudo lsof -i:3020` or `sudo netstat -tnlp | grep :3020`. If some application is binded to it you should kill it and try running `PreMiD` again.
+
+### PreMiD's AppImage doesn't launch at login?!?!
+As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually. Instruction how to do this:
+1. Make file named **rc.local** in `/etc` directory.
+2. Open this file in your favourite editor and paste-change this:
+```bash
+#!/bin/bash
+# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+
+# Example: /home/PreMiD/PreMiD*.AppImage
+<directory to appimage>/PreMiD*.AppImage
+
+exit 0
+```
+3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
+4. Restart your PC and PreMiD AppImage should launch at login.
+
+<a name="macos"></a>
+
+# MacOS troubleshooting
+### Error creating directory
+<img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
+
+If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually. Instruction how to do it:
+1. Open finder and open **Applications** folder.
+2. Right-click on blank space and click **Create folder**.
+3. Create folder named `PreMiD` (remember about upper-cased letters).
+4. Open installer again.
+
+# 이것들로는 제 문제가 해결되지 않았습니다
 [#support](https://discord.premid.app/)에서 티켓을 열어 주세요.
