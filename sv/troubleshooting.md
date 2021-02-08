@@ -2,7 +2,7 @@
 title: Felsökning
 description: Allt för att lösa ditt problem
 published: true
-date: 2021-02-08T18:44:27.435Z
+date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ Det här är ett falskt positivt resultat från McAfee och vi har rapporterat fe
 10. McAfee bör nu ignorera vår fil, nu är det bara att starta vårt programm och du bör vara klar!
 
 ### PreMiD status bugged on discord!
-Don't worry. Just press the <strong x-id="1">ctrl+r</strong> keybind while focused on your discord window to reload it.
+Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 
