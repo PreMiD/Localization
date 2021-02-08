@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Everything to solve your problem
 published: true
-date: 2021-02-08T17:09:14.572Z
+date: 2021-02-08T17:11:28.733Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -12,9 +12,9 @@ dateCreated: 2020-06-11T18:03:54.865Z
 {.is-warning}
 
 Included on this page:
-1. [General troubleshooting](#general)
-2. [Linux troubleshooting](#linux)
-3. [MacOS troubleshooting](#macos)
+1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
+2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
+3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 # General troubleshooting
