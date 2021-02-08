@@ -8,23 +8,23 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> নিশ্চিত করো যে তুমি এক্সটেনশনটি **এবং** অ্যাপ্লিকেশানটি ইন্সটল করেছ! 
 > 
 > {.is-warning}
 
-### Reload the page
+### ওয়েবপেজটি রিলোড করো
 You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
-### Are you using the Discord app?
+### তুমি কি Discord অ্যাপটি ব্যবহার করছ?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
 
-### Make sure that you have enabled Discord Game Activity in settings
+### নিশ্চিত করো যে তুমি সেটিংসে Discord গেম এক্টিভিটি অন রেখেছ
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Be sure Discord is running NOT as administrator
 Really important. Discord RPC will not work if you run Discord as an administrator.
 
-### Are you using a presence with settings?
+### তুমি কি সেটিংসের সাথে একটি Presence ব্যবহার করছ?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
