@@ -29,7 +29,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 1. Cài đặt [Git](https://git-scm.com/).
 2. Cài [Node](https://nodejs.org/en/) (có sẵn với [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Cài [TypeScript](https://www.typescriptlang.org/index.html#download-links) (mở terminal và nhập `npm install -g typescript`).
 
 ## Clone project
 
