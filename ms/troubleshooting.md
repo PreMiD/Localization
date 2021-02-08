@@ -12,14 +12,14 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+Disertakan di halaman ini:
+1. [Penyelesaian masalah umum](https://docs.premid.app/troubleshooting#general)
+2. [Penyelesaian masalah di Linux](https://docs.premid.app/troubleshooting#linux)
+3. [Penyelesaian masalah di MacOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# Penyelesaian masalah umum
 ### Muat semula halaman
 Anda boleh tekan <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) di papan kekunci anda juga di samping mencari butang muat semula.
 
@@ -80,49 +80,49 @@ Ini positif palsu daripada McAfee dan kami telah melaporkan isu ini kepada merek
 9. Buka folder "PreMiD" dan pilih fail "PreMiD.exe" dan klik Open / Buka. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. Sekarang McAfee patut abaikan fail kami, jadi lancarkan aplikasi kami dan anda boleh teruskan dari situ.
 
-### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+### Status PreMiD rosak di discord!
+Jangan risau. Tekan ikatan kekunci <kbd>CTRL+R</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) sambil kekalkan tetingkap discord anda dalam fokus untuk memuatkannya semula.
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-Jika anda memuat turun Discord melalui Snapcraft, RPC tidak akan berfungsi. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Penyelesaian masalah di Linux
+### Edaran berasaskan Ubuntu/Debian
+Jika anda memuat turun Discord melalui Snapcraft, RPC tidak akan berfungsi. Anda perlu nyahpasang versi Snapcraft dengan menjalankan `sudo snap remove discord` dekat terminal, muat turun **[binaan Discord untuk Linux](https://discordapp.com/api/download?platform=linux)** (**[atau binaan Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), kemudian pergi ke direktori di mana anda muat turun Discord tadi (selalunya `$HOME/Downloads`), kemudian pasangkan pakej menggunakan `sudo dpkg -i discord-*.deb`. Jika AppImage tidak berfungsi, anda patut pertimbangkan untuk menyemak pakej kami yang lain melalui **[pautan ini](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+### Edaran berasaskan Arch Linux
+Edaran berasaskan Arch Linux patut gunakan pakej AUR (Arch User Repository / Repositori Pengguna Arch) yang dinamakan <code>premid</code> atau <code>premid-git</code> (<em x-id="3">AMARAN: repositori yang kemudian membina premid terus dari kod sumber kami.</em>). Jika anda tidak ingin memasangkan pengurus AUR (seperti yay dll.), anda boleh dapatkan AppImage kami yang boleh dimuat turun daripada <strong x-id="1"><a href="https://github.com/premid/linux/releases">repositori Linux</a></strong> kami.
+<em x-id="3">Amaran: pakej di repositori <strong x-id="1">AUR</strong> tidak disenggara oleh kami (sebagai organisasi PreMiD), tetapi oleh orang lain.</em>
 
-### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+### Ikatan port
+Anda patut tahu <strong x-id="1">PreMiD</strong> mengikatkan dirinya di port nombor <strong x-id="1">3020</strong>. Perkara ini diperlukan untuk perhubungan di antara Sambungan dan Aplikasi. Jika <strong x-id="1">PreMiD</strong> menunjukkan ralat kepada anda mengenai port ini, anda patut periksa sama ada wujudnya benda lain yang diikatkan ke port 3020 dengan menjalankan <code>sudo lsof -i:3020</code> atau <code>sudo netstat -tnlp | grep :3020</code> dalam terminal anda. Jika ada proses yang diikatkan ke port tersebut, anda perlu bebaskan port tersebut dan jalankan <code>PreMiD</code> sekali lagi.
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### AppImage PreMiD tidak dilancarkan ketika log masuk
+Seperti yang kami nyatakan di **repositori Linux** kami, AppImage tidak boleh dilancarkan ketika log masuk. Anda boleh menambahnya ke automula secara manual dengan melakukan langkah ini:
+1. Cipta fail bernama <strong x-id="1">rc.local</strong> dalam direktori <code>/etc</code>.
+2. Buka fail ini dalam penyunting teks kegemaran anda dan tampalkan kod diberi dengan mengubah beberapa perkara:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# Mesti dijalankan sebagai /bin/bash (jika anda gunakan zsh dll. anda boleh mengubahnya.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
-<directory to appimage>/PreMiD*.AppImage
+# Contoh: /home/PreMiD/PreMiD*.AppImage
+<direktori ke appimage>/PreMiD*.AppImage
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Simpan fail dan chmod ia sebagai boleh laku `sudo chmod a+x /etc/rc.local`.
+4. Mulakan semula PC anda dan AppImage PreMiD patut dilancarkan ketika log masuk.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# Penyelesaian masalah di MacOS
+### Ralat mencipta direktori
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Jika anda mendapat ralat ini, ia bermakna akaun anda tidak mempunyai kebenaran Pentadbir dan anda perlu cipta folder secara manual dengan melakukan langkah ini:
+1. Buka finder dan buka folder **Applications**.
+2. Klik-kanan di ruangan kosong dan klik **Cipta folder**.
+3. Bagi folder ini letakkan nama `PreMiD` (pastikan yang mana perlu berhuruf besar).
+4. Buka pemasang lagi sekali.
 
 # Semua itu tidak selesaikan masalah saya
 Sila buka tiket dalam bahasa Inggeris di saluran [#support](https://discord.premid.app/) dalam Discord kami.
