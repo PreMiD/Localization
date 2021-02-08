@@ -81,7 +81,7 @@ Esto es un falso positivo de McAfee y les hemos informado del problema por ahora
 10. Ahora McAfee debe ignorar nuestro archivo, sólo tienes que abrir nuestra aplicación.
 
 ### ¡Estado de PreMiD bugeado en discord!
-No se preocupe. Simplemente presiona el atajo <strong x-id="1">ctrl+r</strong> mientras tienes el foco en tu ventana de discord para recargarla.
+No te preocupes. Simplemente presiona el atajo <strong x-id="1">ctrl+r</strong> mientras tienes el foco en tu ventana de discord para recargarla.
 
 <a name="linux"></a>
 
@@ -109,8 +109,8 @@ Como indicamos en nuestro ** repositorio de Linux **, la AppImage no se puede in
 
 exit 0
 ```
-3. Guarde el archivo y modifíquelo como ejecutable ` sudo chmod a + x /etc/rc.local `.
-4. Reinicie su PC y PreMiD AppImage debería iniciarse al iniciar sesión.
+3. Guarda el archivo y lo asíngalo como ejecutable `sudo chmod a+x /etc/rc.local`.
+4. Reinicia el PC, la AppImage de PreMiD debería iniciarse al iniciar sesión.
 
 <a name="macos"></a>
 
@@ -118,11 +118,11 @@ exit 0
 ### Error al crear el directorio
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Abra el buscador y abra la carpeta ** Aplicaciones **.
-2. Haga clic con el botón derecho en el espacio en blanco y haga clic en ** Crear carpeta **.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Abra el instalador nuevamente.
+Si recibes este error, significa que tu cuenta no tiene permisos de administrador. Necesitas crear la carpeta manualmente:
+1. Abre el buscador y abre la carpeta **Aplicaciones**.
+2. Haz clic derecho en un espacio en blanco y haz clic en **Crear carpeta**.
+3. Nombra a esta carpeta `PreMiD` (debes mantener las letras mayúsculas).
+4. Vuelve a abrir el instalador.
 
 # Esto no ha resuelto mi problema
-Abra un ticket en [ #support ](https://discord.premid.app/).
+Por favor abre un ticket en [#support](https://discord.premid.app/).
