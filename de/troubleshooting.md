@@ -2,7 +2,7 @@
 title: Fehlerbehebung
 description: Alles zur Lösung Ihres Problems
 published: true
-date: 2021-02-08T18:44:27.435Z
+date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ Das ist ein falsch-positiver von McAfee und wir haben das Problem ihnen gemeldet
 10. McAfee sollte nun unsere Datei ignorieren, starte einfach unsere Anwendung und dann sollte es funktionieren.
 
 ### PreMiD Status auf Discord ist fehlerhaft!
-Keine Sorge. Drücke einfach die Tastenkombination <strong x-id="1">Strg+r</strong>, während du auf den Discord-Fenster fokusiert bist, um es neu zu laden.
+Keine Sorge. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 
