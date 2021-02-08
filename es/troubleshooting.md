@@ -97,7 +97,7 @@ Distribuciones basadas en Arch Linux deben usar el paquete AUR (Arch User Reposi
 Deberías saber que <strong x-id="1">PreMiD</strong> se enlaza al puerto<strong x-id="1">3020</strong>. Esto es necesario para abrir una comunicación entre la Extensión y la Aplicación. Si <strong x-id="1">PreMiD</strong> muestra un error sobre este puerto, deberías comprobar si algo está vinculado al puerto 3020 ejecutando <code>sudo lsof -i:3020</code> o <code>sudo netstat -tnlp | grep :3020</code> en tu terminal. Si algún proceso está vinculado a él, debes liberar el puerto e intentar ejecutar <code>PreMiD</code> de nuevo.
 
 ### La AppImage de PreMiD no se inicia al iniciar sesión
-Como indicamos en nuestro ** repositorio de Linux **, la AppImage no se puede iniciar al iniciar sesión. You can add it to autostart manually by doing these steps:
+Como indicamos en nuestro ** repositorio de Linux **, la AppImage no se puede iniciar al iniciar sesión. Puedes añadirlo al autoarranque manualmente haciendo estos pasos:
 1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
 2. Open this file in your favourite editor and paste given code with changing some things:
 ```bash
