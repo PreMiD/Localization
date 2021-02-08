@@ -2,7 +2,7 @@
 title: Solución de problemas
 description: Todo para resolver tu problema
 published: true
-date: 2021-02-08T17:11:28.733Z
+date: 2021-02-08T18:44:27.435Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ Esto es un falso positivo de McAfee y les hemos informado del problema por ahora
 10. Ahora McAfee debe ignorar nuestro archivo, sólo tienes que abrir nuestra aplicación.
 
 ### ¡Estado de PreMiD bugeado en discord!
-No se preocupe. Usa el atajo de teclado **ctr+r** para recargar discord. ¡Después de esto no se muestra!
+No se preocupe. Just press the <strong x-id="1">ctrl+r</strong> keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 
@@ -90,15 +90,16 @@ No se preocupe. Usa el atajo de teclado **ctr+r** para recargar discord. ¡Despu
 Si descargaste Discord a través de Snapcraft, RPC no funcionará. Tienes que desinstalar la versión de Snapcraft ejecutando `sudo snap remove discord` en una terminal, descarga **[Discord para Linux](https://discordapp.com/api/download?platform=linux)** (**[o Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), luego navega hasta el directorio donde descargaste Discord (usualmente `$HOME/Descargas`). Finalmente instala el paquete ejecutando `sudo dpkg -i discord-*.deb`. Si la AppImage no funciona, deberías considerar revisar nuestros otros paquetes en **[este enlace](https://packagecloud.io/premid/linux)**.
 
 ### Distribuciones basadas en Arch Linux
-Las distribuciones basadas en Arch Linux deben usar el paquete AUR (Arch User Repository) llamado `premid` o `premid-git` (*ADVERTENCIA: Este compila premid desde el código fuente*). Si no desea instalar aur manager (yay, etc.), puede consultar nuestra AppImage que se puede descargar desde nuestro ** [ repositorio de Linux ](https://github.com/premid / linux / releases) **. * Advertencia: el repositorio ** AUR ** no lo mantenemos nosotros, sino otras personas. *
+Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
+<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
 
 ### Enlace de puerto
-Debe saber que ** PreMiD ** se une al puerto ** 3020 ** que es necesario para la comunicación de extensiones y aplicaciones. Si ** PreMiD ** muestra un error sobre este puerto, debe verificar si algo se une al puerto escribiendo en la terminal ` sudo lsof -i: 3020 ` o < código> sudo netstat -tnlp | grep: 3020 </code>.  Si alguna aplicación está vinculada a ella, debe eliminarla e intentar ejecutar ` PreMiD ` nuevamente.
+You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
 
-### AppImage de PreMiD no se inicia al iniciar sesión?!?!
-Como indicamos en nuestro ** repositorio de Linux **, AppImage no se puede iniciar al iniciar sesión. Puede agregarlo al inicio automático manualmente. Instrucción de cómo hacer esto:
-1. Cree un archivo llamado ** rc.local ** en el directorio ` / etc `.
-2. Abra este archivo en su editor favorito y pegue y cambie esto:
+### PreMiD's AppImage doesn't launch at login
+Como indicamos en nuestro ** repositorio de Linux **, AppImage no se puede iniciar al iniciar sesión. You can add it to autostart manually by doing these steps:
+1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
+2. Open this file in your favourite editor and paste given code with changing some things:
 ```bash
 #! / bin / bash
 # Requerido para ejecutarse como / bin / bash (si usa zsh, etc. tú puedes cambiarlo.)
@@ -117,10 +118,10 @@ salir 0
 ### Error al crear el directorio
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-Si recibe este error, significa que su cuenta no tiene permisos de administrador y necesita crear la carpeta manualmente. Instrucción de cómo hacerlo:
+If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
 1. Abra el buscador y abra la carpeta ** Aplicaciones **.
 2. Haga clic con el botón derecho en el espacio en blanco y haga clic en ** Crear carpeta **.
-3. Cree una carpeta llamada ` PreMiD ` (recuerde las letras en mayúsculas).
+3. To this folder assign `PreMiD` name (remember about upper-cased letters).
 4. Abra el instalador nuevamente.
 
 # Esto no ha resuelto mi problema
