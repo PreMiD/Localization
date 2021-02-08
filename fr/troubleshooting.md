@@ -12,14 +12,14 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+Inclus dans cette page :
+1. [Dépannage général](https://docs.premid.app/troubleshooting#general)
+2. [Dépannage sur Linux](https://docs.premid.app/troubleshooting#linux)
+3. [Dépannage sur MacOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# Dépannage général
 ### Recharger la page
 Vous pouvez aussi appuyer sur <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) ou <kbd>CMD+R</kbd> (MacOS) sur votre clavier au lieu de rechercher le bouton de rafraîchissement.
 
@@ -80,16 +80,16 @@ C'est un faux positif de la part de McAfee et nous leur avons signalé le probl�
 9. Ouvrez le dossier "PreMiD", sélectionnez le fichier "PreMiD.exe" et cliquez sur Ouvrir. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee devrait maintenant ignorer notre dossier, lancez simplement l'application et cela devrait marcher.
 
-### PreMiD status bugged on discord!
-Don't worry. Just click **ctrl+r** keybind on your discord to restart it. After this it will not show!
+### Statut PreMiD buggé sur Discord !
+Ne vous inquiétez pas. Faites juste le raccourci clavier **ctrl+r** sur Discord pour redémarrer le logiciel. Après avoir fait ça, le statut reviendra à la normale !
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Dépannage sur Linux
+### Distributions basées sur Ubuntu/Debian
+Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous devez désinstaller la version de Snapcraft en utilisant la commande `sudo snap remove discord` dans un terminal, ensuite téléchargez **[Discord pour Linux](https://discordapp.com/api/download?platform=linux)** (**[ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**) et naviguez à l'emplacement où vous avez téléchargé Discord (généralement, il se trouve à `$HOME/Downloads/`) puis installez le package en utilisant `sudo dpkg -i discord-*.deb`. Si AppImage ne marche pas, vous devriez jeter un œil à nos autres packages **[ici](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
+### Distributions basées sur Arch Linux
 Arch Linux based distros should use AUR (Arch User Repository) package that is named `premid` or `premid-git` (*WARNING: This one builds premid from source*). If you don't want to install aur manager (yay etc.), you can check our AppImage that is downloadable from our **[Linux repository](https://github.com/premid/linux/releases)**. *Warning: **AUR** repo is not maintained by us, but by other people.*
 
 ### Port binding
