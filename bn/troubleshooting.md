@@ -1,6 +1,6 @@
 ---
-title: সমস্যা দূর করা
-description: Everything to solve your problem
+title: সমস্যা সমাধান
+description: তোমার সমস্যা সমাধানের জন্য সবকিছু
 published: true
 date: 2021-01-03T14:12:34.320Z
 tags:
