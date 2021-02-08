@@ -90,27 +90,27 @@ Ne vous inquiétez pas. Il suffis d'appuyer sur <strong x-id="1">ctrl+r</strong>
 Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous devez désinstaller la version Snapcraft en utilisant la commande `sudo snap remove discord` dans un terminal, ensuite téléchargez **[Discord pour Linux](https://discordapp.com/api/download?platform=linux)** (**[ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**) et naviguez à l'emplacement où vous avez téléchargé Discord (généralement, il se trouve dans le dossier `$HOME/Downloads/`) puis installez le package en utilisant `sudo dpkg -i discord-*.deb`. Si l'AppImage ne fonctionne pas, vous devriez jeter un œil à nos autres packages **[ici](https://packagecloud.io/premid/linux)**.
 
 ### Distributions basées sur Arch Linux
-Les distributions basées sur Arch Linux devraient utilisé le paquet <code>premid</code> ou le paquet <code>premid-git</code>fournis dans l'AUR (Arch User Repository), (<em x-id="3">ATTENTION: Ce dépôt compile premid repuis notre code source.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+Les distributions basées sur Arch Linux devraient utilisé le paquet <code>premid</code> ou le paquet <code>premid-git</code>fournis dans l'AUR (Arch User Repository), (<em x-id="3">ATTENTION: Ce dépôt compile premid repuis notre code source.</em>). Si vous ne voulez pas installé un AUR manager (yay, etc.), vous pouvez utiliser notre AppImage qui est téléchargeable depuis notre <strong x-id="1"><a href="https://github.com/premid/linux/releases">dépôt Linux</a></strong>.
+<em x-id="3">Attention: le paquet dans l'<strong x-id="1">AUR</strong> n'est pas maintenu par nous (en tant que PreMiD), mais par d'autre personnes.</em>
 
 ### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+Vous devez savoir que <strong x-id="1">PreMiD</strong> s'attache au port <strong x-id="1">3020</strong>. Ceci est nécessaire pour que l'Extension et L'application communique. Si <strong x-id="1">PreMiD</strong> vous montre une erreur à propos de ce port, vous devez vérifier si un processus est attaché au port 3020 en lançant la commande <code>sudo lsof -i:3020</code> ou <code>sudo netstat -tnlp | grep :3020</code> dans votre terminal. Si une processus est attaché à ce dernier, vous devrez faire en sorte de libérer le port et relancer <code>PreMiD</code>.
 
-### PreMiD's AppImage doesn't launch at login
-Comme précisé dans notre **répertoire Linux**, AppImage ne peut pas être démarré lors de l'ouverture de session. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### L'AppImage de PreMiD ne se lance pas au démarrage
+Comme précisé dans notre **répertoire Linux**, AppImage ne peut pas être démarré lors de l'ouverture de session. Vous pouvez faire en sorte que cette dernière se lance au démarrage manuellement en suivant ces étapes:
+1. Crée un fichier nommé <strong x-id="1">rc.local</strong> dans le dossier <code>/etc/</code>.
+2. Ouvrez ce fichier dans votre éditeur favoris et collez-y le code en modifiant le dossier dans lequel L'AppImage est située:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# Nécessaire pour run s'exécuter en tant /bin/bash (if you use zsh etc. vous pouvez le changer.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
+# Exemple: /home/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Sauvegardez le fichier et rendez le exécutable avec la commande `sudo chmod a+x /etc/rc.local`.
+4. Redémarrez votre PC et l'AppImage de PreMiD devrais se lancer au démarrage.
 
 <a name="macos"></a>
 
