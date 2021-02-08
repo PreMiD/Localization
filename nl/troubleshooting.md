@@ -2,7 +2,7 @@
 title: Probleemoplossing
 description: Alles om je probleem op te lossen
 published: true
-date: 2021-02-08T17:11:28.733Z
+date: 2021-02-08T18:44:27.435Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ Dit is een valse positief van McAfee en we hebben hun hiervan op de hoogte geste
 10. McAfee zou nu ons bestand moeten negeren, lanceer gewoon onze applicatie en het zou nu gewoon moeten werken.
 
 ### PreMiD-status gebugd op discord!
-Geen zorgen. Gebruik simpelweg de sneltoets **ctrl+r** in discord om te herstarten. Hierna wordt hij nog steeds niet weergegeven!
+Geen zorgen. Just press the <strong x-id="1">ctrl+r</strong> keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 
@@ -90,15 +90,16 @@ Geen zorgen. Gebruik simpelweg de sneltoets **ctrl+r** in discord om te herstart
 Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download **[Discord's Linux-build](https://discordapp.com/api/download?platform=linux)** (**[of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), navigeer vervolgens naar de map die je Discord gedownload hebt naar (meestal `$HOME/Downloads`), daarna het installeren van het pakket met behulp van `sudo dpkg -i discord-*. eb`. Als AppImage niet werkt, overweeg dan om onze andere pakketten te gebruiken via **[deze link](https://packagecloud.io/premid/linux)**.
 
 ### Op Arch Linux gebaseerde distro's
-Op Arch Linux gebaseerde distro's moeten AUR (Arch User Repository) pakket gebruiken dat `premid` of `premid-git` heet (*WAARSCHUWING: Deze buildt premid vanuit bron*). Als je geen aur manager wilt installeren (yay etc.), kun je onze AppImage bekijken die kan worden gedownload op onze **[Linux-repository](https://github.com/premid/linux/releases)**. *Let op: **AUR**-repo wordt niet onderhouden door ons, maar door anderen.*
+Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
+<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
 
 ### Poort-binding
-Je moet weten dat **PreMiD** zichzelf bindt aan poort **3020**, wat nodig is voor communicatie tussen extensie en applicatie. Als **PreMiD** je een fout over deze poort laat zien, controleer dan of iets verbonden is met poort door `sudo lsof -i:3020` of `sudo netstat -tnlp ūgrep :3020` in te typen in de terminal. Als er een toepassing aan gekoppeld is, moet je deze beëindigen en `PreMiD` opnieuw proberen te starten.
+You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
 
-### PreMiDs AppImage start niet bij het inloggen?!?!
-Zoals we hebben aangegeven in onze **Linux-repository**, kan AppImage niet gestart worden tijdens het inloggen. Je kunt het zelf toevoegen aan autostart. Instructies om dit te behalen:
-1. Maak bestand genaamd **rc.local** in `/etc` map.
-2. Open dit bestand in je favoriete editor en plak/wijzig dit:
+### PreMiD's AppImage doesn't launch at login
+Zoals we hebben aangegeven in onze **Linux-repository**, kan AppImage niet gestart worden tijdens het inloggen. You can add it to autostart manually by doing these steps:
+1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
+2. Open this file in your favourite editor and paste given code with changing some things:
 ```bash
 #!/bin/bash
 # Vereist om uit te voeren als /bin/bash (als je zsh o.i.d. gebruikt kun je dit wijzigen.)
@@ -117,10 +118,10 @@ exit 0
 ### Fout bij aanmaken van map
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-Als je deze fout krijgt, betekent dit dat je account geen beheerdersrechten heeft en dat je handmatig een map moet aanmaken. Instructies om dit te behalen:
+If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
 1. Open de finder en open de map **Applicaties**.
 2. Rechtsklik op lege ruimte en klik op **Maak map**.
-3. Maak map met de naam `PreMiD` (let op de hoofdletters).
+3. To this folder assign `PreMiD` name (remember about upper-cased letters).
 4. Open installatieprogramma opnieuw.
 
 # Dat heeft mijn probleem niet opgelost
