@@ -1,0 +1,30 @@
+{
+  "hypixelapireborn.browsingMainPage": {
+    "message": "Browsing the main page...",
+    "description": ""
+  },
+  "hypixelapireborn.searchingFor": {
+    "message": "Searching for:",
+    "description": ""
+  },
+  "hypixelapireborn.viewing": {
+    "message": "Viewing:",
+    "description": ""
+  },
+  "hypixelapireborn.lookingFor": {
+    "message": "Looking for a",
+    "description": ""
+  },
+  "hypixelapireborn.class": {
+    "message": "Class",
+    "description": "\"Looking for a\" + this"
+  },
+  "hypixelapireborn.typedef": {
+    "message": "Typedef",
+    "description": "\"Looking for a\" + this"
+  },
+  "hypixelapireborn.method": {
+    "message": "Method",
+    "description": "\"Looking for a\" + this"
+  }
+}
