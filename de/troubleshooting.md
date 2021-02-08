@@ -81,7 +81,7 @@ Das ist ein falsch-positiver von McAfee und wir haben das Problem ihnen gemeldet
 10. McAfee sollte nun unsere Datei ignorieren, starte einfach unsere Anwendung und dann sollte es funktionieren.
 
 ### PreMiD Status auf Discord ist fehlerhaft!
-Keine Sorge. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+Keine Sorge. Drücke die Tastenkombination <kbd>STRG + R</kbd> (Windows) oder <kbd>CMD+R</kbd> (MacOS), während du das Fenster von Discord fokussiert hast, um es neu zu laden.
 
 <a name="linux"></a>
 
