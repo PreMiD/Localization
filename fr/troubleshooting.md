@@ -118,10 +118,10 @@ exit 0
 ### Erreur lors de la création du dossier
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-Si vous obtenez cette erreur, cela veux dire que votre compte n'a pas les permissions Administrateurs, vous devez donc crée un dossier manuellement en suivant ces étapes:
-1. Ouvrir Finder et ouvrir le dossier **Applications**.
-2. Faites un clique droit dans un espace vide et cliquez sur **Crée un dossier**.
-3. Assignez le nom `PreMiD` à ce dossier (n'oubliez pas de les lettres majuscules).
+Si vous obtenez cette erreur, cela veux dire que votre compte n'a pas les permissions administrateur, vous devez donc créer un dossier manuellement en suivant ces étapes :
+1. Ouvrez le Finder et allez dans le dossier **Applications**.
+2. Faites un clic droit dans un espace vide et cliquez sur **Créer un dossier**.
+3. Assignez le nom `PreMiD` à ce dossier (la casse est importante, n'oubliez pas les majuscules).
 4. Réouvrez l'installateur.
 
 # Cela n'a pas résolu mon problème
