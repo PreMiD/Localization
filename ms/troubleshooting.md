@@ -121,7 +121,7 @@ exit 0
 Jika anda mendapat ralat ini, ia bermakna akaun anda tidak mempunyai kebenaran Pentadbir dan anda perlu cipta folder secara manual dengan melakukan langkah ini:
 1. Buka finder dan buka folder **Applications**.
 2. Klik-kanan di ruangan kosong dan klik **Cipta folder**.
-3. Bagi folder ini letakkan nama `PreMiD` (pastikan yang mana perlu berhuruf besar).
+3. Bagi folder ini berikannya nama `PreMiD` (pastikan yang mana perlu berhuruf besar).
 4. Buka pemasang lagi sekali.
 
 # Semua itu tidak selesaikan masalah saya
