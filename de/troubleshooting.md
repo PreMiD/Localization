@@ -13,13 +13,13 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > {.is-warning}
 
 Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+1. [Allgemeine Fehlerbehebung](https://docs.premid.app/troubleshooting#general)
+2. [Fehlerbehebung für Linux](https://docs.premid.app/troubleshooting#linux)
+3. [Fehlerbehebung für MacOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# Allgemeine Fehlerbehebung
 ### Die Seite neu laden
 Statt nach dem Aktualisieren-Knopf zu suchen, kannst du <kbd>STRG+R</kbd>/<kbd>F5</kbd>(für Windows) oder <kbd>CMD+R</kbd>(für MacOS) auf deiner Tastatur eingeben.
 
@@ -80,16 +80,16 @@ Das ist ein falsch-positiver von McAfee und wir haben das Problem ihnen gemeldet
 9. Öffne den "PreMiD" Ordner und wähle die "PreMiD.exe" Datei aus und öffne sie. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee sollte nun unsere Datei ignorieren, starte einfach unsere Anwendung und dann sollte es funktionieren.
 
-### PreMiD status bugged on discord!
-Don't worry. Just click **ctrl+r** keybind on your discord to restart it. After this it will not show!
+### PreMiD Status auf Discord ist fehlerhaft!
+Keine Sorge. Drücke dazu in Discord auf die Tastenkombination **Strg+r**, um es neu zu starten. After this it will not show!
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht funktionieren. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Fehlerbehebung für Linux
+### Ubuntu/Debian basierte Distributionen
+Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht funktionieren. Du musst die Snapcraft Version deinstallieren, indem du `sudo snap remove discord` im Terminal eingibst. Lade als nächstes **[Discords Linux Build](https://discordapp.com/api/download?platform=linux)** herunter (**[oder Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**). Navigiere dann zu dem Verzeichnis, in welchem du Discord heruntergeladen hast (üblicherweise `$HOME/Downloads`) und installiere dann das Paket mit `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
+### Arch Linux basierte Distributionen
 Arch Linux based distros should use AUR (Arch User Repository) package that is named `premid` or `premid-git` (*WARNING: This one builds premid from source*). If you don't want to install aur manager (yay etc.), you can check our AppImage that is downloadable from our **[Linux repository](https://github.com/premid/linux/releases)**. *Warning: **AUR** repo is not maintained by us, but by other people.*
 
 ### Port binding
@@ -113,15 +113,15 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# Fehlerbehebung für MacOS
+### Fehler beim Anlegen des Ordners
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually. Instruction how to do it:
+Wenn du diesen Fehler erhältst, bedeutet dies, dass dein Konto keine Administratorrechte hat und du den Ordner manuell erstellen muss. Instruction how to do it:
 1. Open finder and open **Applications** folder.
 2. Right-click on blank space and click **Create folder**.
 3. Create folder named `PreMiD` (remember about upper-cased letters).
 4. Open installer again.
 
 # Das hat mein Problem nicht gelöst
-Please open a ticket in [#support](https://discord.premid.app/).
+Bitte eröffne ein Ticket unter [#support](https://discord.premid.app/).
