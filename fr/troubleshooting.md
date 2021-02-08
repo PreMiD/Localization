@@ -2,7 +2,7 @@
 title: Dépannage
 description: Tout pour résoudre votre problème
 published: true
-date: 2021-02-08T17:11:28.733Z
+date: 2021-02-08T18:44:27.435Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,24 +81,25 @@ C'est un faux positif de la part de McAfee et nous leur avons signalé le probl�
 10. McAfee devrait maintenant ignorer notre dossier, lancez simplement l'application et cela devrait marcher.
 
 ### Statut PreMiD buggé sur Discord !
-Ne vous inquiétez pas. Faites juste le raccourci clavier **ctrl+r** sur Discord pour redémarrer le logiciel. Après avoir fait ça, le statut reviendra à la normale !
+Ne vous inquiétez pas. Il suffis d'appuyer sur <strong x-id="1">ctrl+r</strong> en étant sur la fenêtre Discord.
 
 <a name="linux"></a>
 
 # Dépannage sur Linux
 ### Distributions basées sur Ubuntu/Debian
-Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous devez désinstaller la version de Snapcraft en utilisant la commande `sudo snap remove discord` dans un terminal, ensuite téléchargez **[Discord pour Linux](https://discordapp.com/api/download?platform=linux)** (**[ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**) et naviguez à l'emplacement où vous avez téléchargé Discord (généralement, il se trouve à `$HOME/Downloads/`) puis installez le package en utilisant `sudo dpkg -i discord-*.deb`. Si AppImage ne marche pas, vous devriez jeter un œil à nos autres packages **[ici](https://packagecloud.io/premid/linux)**.
+Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous devez désinstaller la version Snapcraft en utilisant la commande `sudo snap remove discord` dans un terminal, ensuite téléchargez **[Discord pour Linux](https://discordapp.com/api/download?platform=linux)** (**[ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**) et naviguez à l'emplacement où vous avez téléchargé Discord (généralement, il se trouve dans le dossier `$HOME/Downloads/`) puis installez le package en utilisant `sudo dpkg -i discord-*.deb`. Si l'AppImage ne fonctionne pas, vous devriez jeter un œil à nos autres packages **[ici](https://packagecloud.io/premid/linux)**.
 
 ### Distributions basées sur Arch Linux
-Les utilisateurs de distributions basées sur Arch Linux sont priés d'utiliser le package `premid` ou `premid-git` via AUR (Arch User Repository) (*ATTENTION : Le package `premid-git` installe PreMiD directement via le code source*). Si vous ne voulez pas installer AUR, vous pouvez aller voir PreMiD sur AppImage. Il est disponible depuis notre **[répertoire Linux](https://github.com/premid/linux/releases)**. *Attention : le répertoire **AUR** n'est pas entretenu par nous mais par d'autres personnes.*
+Les distributions basées sur Arch Linux devraient utilisé le paquet <code>premid</code> ou le paquet <code>premid-git</code>fournis dans l'AUR (Arch User Repository), (<em x-id="3">ATTENTION: Ce dépôt compile premid repuis notre code source.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
+<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
 
 ### Port binding
-You should know that **PreMiD** binds itself to port **3020** that is necessary for Extension and Application communication. If **PreMiD** shows you error about this port, you should check if something binds to port by writing to terminal `sudo lsof -i:3020` or `sudo netstat -tnlp | grep :3020`. If some application is binded to it you should kill it and try running `PreMiD` again.
+You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
 
-### PreMiD's AppImage doesn't launch at login?!?!
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually. Instruction how to do this:
-1. Make file named **rc.local** in `/etc` directory.
-2. Open this file in your favourite editor and paste-change this:
+### PreMiD's AppImage doesn't launch at login
+Comme précisé dans notre **répertoire Linux**, AppImage ne peut pas être démarré lors de l'ouverture de session. You can add it to autostart manually by doing these steps:
+1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
+2. Open this file in your favourite editor and paste given code with changing some things:
 ```bash
 #!/bin/bash
 # Required to run as /bin/bash (if you use zsh etc. you can change it.)
@@ -113,14 +114,14 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
+# Dépannage sur MacOS
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually. Instruction how to do it:
+If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
 1. Open finder and open **Applications** folder.
 2. Right-click on blank space and click **Create folder**.
-3. Create folder named `PreMiD` (remember about upper-cased letters).
+3. To this folder assign `PreMiD` name (remember about upper-cased letters).
 4. Open installer again.
 
 # Cela n'a pas résolu mon problème
