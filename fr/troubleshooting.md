@@ -115,14 +115,14 @@ exit 0
 <a name="macos"></a>
 
 # Dépannage sur MacOS
-### Error creating directory
+### Erreur lors de la création du dossier
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Si vous obtenez cette erreur, cela veux dire que votre compte n'a pas les permissions Administrateurs, vous devez donc crée un dossier manuellement en suivant ces étapes:
+1. Ouvrir Finder et ouvrir le dossier **Applications**.
+2. Faites un clique droit dans un espace vide et cliquez sur **Crée un dossier**.
+3. Assignez le nom `PreMiD` à ce dossier (n'oubliez pas de les lettres majuscules).
+4. Réouvrez l'installateur.
 
 # Cela n'a pas résolu mon problème
-Please open a ticket in [#support](https://discord.premid.app/).
+Veuillez ouvrir un ticket dans [#support](https://discord.premid.app/).
