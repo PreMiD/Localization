@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 Incluido en esta página:
 1. [Solución general de problemas](https://docs.premid.app/troubleshooting#general)
 2. [Solución de problemas para Linux](https://docs.premid.app/troubleshooting#linux)
-3. [Risoluzione dei problemi con MacOS](https://docs.premid.app/troubleshooting#macos)
+3. [Solución de problemas para MacOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
@@ -81,7 +81,7 @@ Esto es un falso positivo de McAfee y les hemos informado del problema por ahora
 10. Ahora McAfee debe ignorar nuestro archivo, sólo tienes que abrir nuestra aplicación.
 
 ### ¡Estado de PreMiD bugeado en discord!
-No se preocupe. Just press the <strong x-id="1">ctrl+r</strong> keybind while focused on your discord window to reload it.
+No se preocupe. Simplemente presiona el atajo <strong x-id="1">ctrl+r</strong> mientras tienes el foco en tu ventana de discord para recargarla.
 
 <a name="linux"></a>
 
@@ -90,14 +90,14 @@ No se preocupe. Just press the <strong x-id="1">ctrl+r</strong> keybind while fo
 Si descargaste Discord a través de Snapcraft, RPC no funcionará. Tienes que desinstalar la versión de Snapcraft ejecutando `sudo snap remove discord` en una terminal, descarga **[Discord para Linux](https://discordapp.com/api/download?platform=linux)** (**[o Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), luego navega hasta el directorio donde descargaste Discord (usualmente `$HOME/Descargas`). Finalmente instala el paquete ejecutando `sudo dpkg -i discord-*.deb`. Si la AppImage no funciona, deberías considerar revisar nuestros otros paquetes en **[este enlace](https://packagecloud.io/premid/linux)**.
 
 ### Distribuciones basadas en Arch Linux
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+Distribuciones basadas en Arch Linux deben usar el paquete AUR (Arch User Repository) llamado <code>premid</code> o <code>premid-git</code> (<em x-id="3">ADVERTENCIA: Este compila premid desde el código fuente</em>). Si no quieres instalar un administrador AUR (yay, etc.), puedes revisar nuestra AppImage y descargarla desde nuestro <strong x-id="1"><a href="https://github.com/premid/linux/releases">repositorio de Linux</a></strong>.
+<em x-id="3">Aviso: el paquete del repositorio <strong x-id="1">AUR</strong> no lo mantenemos nosotros (como organización PreMiD), sino por otras personas.</em>
 
 ### Enlace de puerto
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+Deberías saber que <strong x-id="1">PreMiD</strong> se enlaza al puerto<strong x-id="1">3020</strong>. Esto es necesario para abrir una comunicación entre la Extensión y la Aplicación. Si <strong x-id="1">PreMiD</strong> muestra un error sobre este puerto, deberías comprobar si algo está vinculado al puerto 3020 ejecutando <code>sudo lsof -i:3020</code> o <code>sudo netstat -tnlp | grep :3020</code> en tu terminal. Si algún proceso está vinculado a él, debes liberar el puerto e intentar ejecutar <code>PreMiD</code> de nuevo.
 
-### PreMiD's AppImage doesn't launch at login
-Como indicamos en nuestro ** repositorio de Linux **, AppImage no se puede iniciar al iniciar sesión. You can add it to autostart manually by doing these steps:
+### La AppImage de PreMiD no se inicia al iniciar sesión
+Como indicamos en nuestro ** repositorio de Linux **, la AppImage no se puede iniciar al iniciar sesión. You can add it to autostart manually by doing these steps:
 1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
 2. Open this file in your favourite editor and paste given code with changing some things:
 ```bash
