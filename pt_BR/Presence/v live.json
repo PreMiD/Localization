@@ -7,6 +7,14 @@
 		"message": "a nova página do vídeo",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.charts": {
+		"message": "a página de gráficos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "a próxima página",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"v live.channelList": {
 		"message": "a lista de canais",
 		"description": "Second part of the \"Browsing through\" string"
@@ -19,6 +27,10 @@
 		"message": "a página da loja",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.recentUploads": {
+		"message": "Navegando através de seus{0}seguidores recentemente uploads",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
 	"v live.ofChannel": {
 		"message": "do canal de {0}",
 		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
@@ -26,6 +38,14 @@
 	"v live.channelHome": {
 		"message": "Vendo a página inicial",
 		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Vendo a página de cronograma",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Vendo a \"minha\" página",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelStore": {
 		"message": "Vendo a página da loja",
