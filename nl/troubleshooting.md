@@ -2,7 +2,7 @@
 title: Probleemoplossing
 description: Alles om je probleem op te lossen
 published: true
-date: 2021-02-08T18:44:27.435Z
+date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ Dit is een valse positief van McAfee en we hebben hun hiervan op de hoogte geste
 10. McAfee zou nu ons bestand moeten negeren, lanceer gewoon onze applicatie en het zou nu gewoon moeten werken.
 
 ### PreMiD-status gebugd op discord!
-Geen zorgen. Just press the <strong x-id="1">ctrl+r</strong> keybind while focused on your discord window to reload it.
+Geen zorgen. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 

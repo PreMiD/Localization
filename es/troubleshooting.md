@@ -2,7 +2,7 @@
 title: Solución de problemas
 description: Todo para resolver tu problema
 published: true
-date: 2021-02-08T18:44:27.435Z
+date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ Esto es un falso positivo de McAfee y les hemos informado del problema por ahora
 10. Ahora McAfee debe ignorar nuestro archivo, sólo tienes que abrir nuestra aplicación.
 
 ### ¡Estado de PreMiD bugeado en discord!
-No te preocupes. Simplemente presiona el atajo <strong x-id="1">ctrl+r</strong> mientras tienes el foco en tu ventana de discord para recargarla.
+No te preocupes. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 

@@ -2,7 +2,7 @@
 title: Dépannage
 description: Tout pour résoudre votre problème
 published: true
-date: 2021-02-08T18:44:27.435Z
+date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ C'est un faux positif de la part de McAfee et nous leur avons signalé le probl�
 10. McAfee devrait maintenant ignorer notre dossier, lancez simplement l'application et cela devrait marcher.
 
 ### Statut PreMiD buggé sur Discord !
-Ne vous inquiétez pas. Il suffit d'appuyer sur <strong x-id="1">CTRL+R</strong> en étant sur la fenêtre Discord.
+Ne vous inquiétez pas. Appuyez sur <kbd>CTRL+R</kbd> (pour Windows) ou <kbd>CMD+R</kbd> (sur MacOS) tout en restant sur Discord pour recharger l'application.
 
 <a name="linux"></a>
 
@@ -91,7 +91,7 @@ Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous 
 
 ### Distributions basées sur Arch Linux
 Les distributions basées sur Arch Linux devraient utiliser le paquet <code>premid</code> ou le paquet <code>premid-git</code> fournis dans l'AUR (Arch User Repository), (<em x-id="3">ATTENTION : les paquets venant de l'AUR compilent premid directement depuis son code source.</em>). Si vous ne voulez pas installer un AUR manager (yay, etc.), vous pouvez utiliser notre AppImage qui est téléchargeable depuis notre <strong x-id="1"><a href="https://github.com/premid/linux/releases">dépôt Linux</a></strong>.
-<em x-id="3">Attention : le paquet dans l'<strong x-id="1">AUR</strong> n'est pas maintenu par nous (en tant que PreMiD), mais par d'autre personnes.</em>
+<em x-id="3">Attention : le paquet dans l'<strong x-id="1">AUR</strong> n'est pas entretenu par nous (en tant que PreMiD), mais par d'autre personnes.</em>
 
 ### Port binding
 Vous devez savoir que <strong x-id="1">PreMiD</strong> s'attache au port <strong x-id="1">3020</strong>. Ceci est nécessaire pour que l'Extension et L'application communique. Si <strong x-id="1">PreMiD</strong> vous montre une erreur à propos de ce port, vous devez vérifier si un processus est attaché au port 3020 en lançant la commande <code>sudo lsof -i:3020</code> ou <code>sudo netstat -tnlp | grep :3020</code> dans votre terminal. Si une processus est attaché à ce dernier, vous devrez faire en sorte de libérer le port et relancer <code>PreMiD</code>.

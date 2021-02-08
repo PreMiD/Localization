@@ -2,7 +2,7 @@
 title: Řešení problémů
 description: Vše k vyřešení vašeho problému
 published: true
-date: 2021-02-08T18:44:27.435Z
+date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ Ze strany McAfee je to chybné vyhodnocení a my jsme je o tom informovali. Proz
 10. McAfee by nyní měl ignorovat náš soubor, stačí spustit naši aplikaci a měli byste být v pořádku.
 
 ### PreMiD status bugged on discord!
-Don't worry. Just press the <strong x-id="1">ctrl+r</strong> keybind while focused on your discord window to reload it.
+Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 

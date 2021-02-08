@@ -2,7 +2,7 @@
 title: การแก้ปัญหา
 description: ทุกอย่างเพื่อใช้แก้ปัญหาของคุณ
 published: true
-date: 2021-02-08T18:44:27.435Z
+date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -80,7 +80,7 @@ Presence หลายอย่าง (พวก `Twitch` เเละ `SoundClon
 10. McAfee ควรละเว้นไฟล์ของเรา, รัน PreMiD เเละน่าจะปกติเเล้ว!
 
 ### PreMiD status bugged on discord!
-Don't worry. Just press the <strong x-id="1">ctrl+r</strong> keybind while focused on your discord window to reload it.
+Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 

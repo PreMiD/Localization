@@ -2,7 +2,7 @@
 title: 문제 해결
 description: 문제를 해결하기 위한 모든 것
 published: true
-date: 2021-02-08T18:44:27.435Z
+date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
@@ -81,7 +81,7 @@ MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세�
 10. McAfee가 이제 저희 파일을 무시하게 될거에요. 저희의 앱을 다시 실행하면, 정상적으로 작동할거에요.
 
 ### PreMiD status bugged on discord!
-Don't worry. Just press the <strong x-id="1">ctrl+r</strong> keybind while focused on your discord window to reload it.
+Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 
