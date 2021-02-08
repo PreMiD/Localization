@@ -60,7 +60,7 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 
 ### Requirements
 
-Tecnicamente, toda distribuição que pode executar o aplicativo Discord [ oficial](https://discordapp.com/download) **app** (não a web ou a versão instantânea) também pode executar o PreMiD; Como você deve ter notado nos últimos anos, algumas distribuições Linux começaram a abandonar o suporte para as arquiteturas de 32 bits (ia32/i686/i386/x86) e, como resultado, nós também abandonamos. Você pode, no entanto, tentar construir o aplicativo você mesmo se você precisar usá-lo em uma distribuição de 32 bits.</br> Já que atualmente usamos Electron como um motor (Discord também!), suas exigências também se aplicam a este aplicativo:
+Tecnicamente, toda distribuição que pode executar a aplicação Discord [ oficial](https://discordapp.com/download) **app** (não a web ou a versão instantânea) também pode executar o PreMiD; Como você deve ter notado nos últimos anos, algumas distribuições Linux começaram a abandonar o suporte para as arquiteturas de 32 bits (ia32/i686/i386/x86) e, como resultado, nós também abandonamos. Você pode, no entanto, tentar construir o aplicativo você mesmo se você precisar usá-lo em uma distribuição de 32 bits.</br> Já que atualmente usamos Electron como um motor (Discord também!), suas exigências também se aplicam a esta aplicação:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
@@ -86,7 +86,7 @@ Agradecimentos a:
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (e poucos outros caras que eu esqueci de seus nomes) por fornecer feedback sobre lançamentos noturnos.
 - @apriluwu para manter as compilações de Gentoo
-- @SlimShadyIAm e naka para manter os pacotes do Repositório do Usuário Arch
+- @SlimShadyIAm e naka para manter os pacotes do Repositório do Utilizador Arch
 - A comunidade do Electron para vários pacotes
 - Qualquer pessoa que alguma vez tenha contribuído para o projeto de uma forma ou de outra.
 
@@ -148,7 +148,7 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 
 ## Arch Linux based distributions
 
-Usa [Repositório do Usuário Arch](https://aur.archlinux.org/packages/premid);</br> Distribuições suportadas são _em si_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS e [cada um que suporta a instalação do AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
+Usa [Repositório do Utilizador Arch](https://aur.archlinux.org/packages/premid);</br> Distribuições suportadas são _em si_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS e [cada um que suporta a instalação do AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
@@ -178,7 +178,7 @@ pacaur -S premid
 # ... você consegue entender o ponto
 ```
 
-ou manualmente do [Repositório de Usuário Arch](https://aur.archlinux.org/packages/premid) se você sabe o que está fazendo.
+ou manualmente do [Repositório de Utilizador Arch](https://aur.archlinux.org/packages/premid) se você sabe o que está fazendo.
 
 <a name="archnotes"></a>
 

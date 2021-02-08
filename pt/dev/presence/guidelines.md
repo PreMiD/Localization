@@ -291,7 +291,7 @@ Algumas coisas que você deve saber após abrir uma pull request:
 - Se um pull request estiver inativo por um período de 14 dias, ele será rapidamente fechado.
 - Todas as verificações **devem ser** passadas para merge.
 - ⚠ Você **deve** fornecer novas, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presence funciona. _Você tem permissão para costurar capturas de tela juntos para visualizar o prazer._ Isso aplica-se tanto à criação quanto à modificação.
-- ⚠ Você também é **necessário** para incluir capturas de tela das configurações de presence na extensão, se fornecido. Um exemplo pode ser visto [aqui](https://imgur.com/a/OD3sj5R).
+- ⚠ Você também é **necessário** para incluir capturas de tela das definições de presence na extensão, se fornecido. Um exemplo pode ser visto [aqui](https://imgur.com/a/OD3sj5R).
 
 ## `Verificações`
 

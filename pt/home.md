@@ -19,7 +19,7 @@ editor: markdown
 
 O PreMiD é rapido e fácil de instalar. Deve estar pronto e a correr num piscar de olhos.
 
-- Certifique-se que leu os [requisitos do sistema](/install/requirements).
+- Certifica-te que leu os [requisitos do sistema](/install/requirements).
 - Siga o [guia de instalação](/install) rápido e simples.
 - [Resolução de problemas](/troubleshooting) guia-te pelas soluções para problemas comuns.
 

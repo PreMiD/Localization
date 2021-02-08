@@ -265,7 +265,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Um array de definições que o utilizador pode alterar.<br>
-      Sabe mais sobre as configurações de presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
+      Sabe mais sobre as definições de presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
