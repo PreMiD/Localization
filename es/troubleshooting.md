@@ -101,13 +101,13 @@ Como indicamos en nuestro ** repositorio de Linux **, la AppImage no se puede in
 1. Crea un archivo llamado <strong x-id="1">rc.local</strong> en el directorio <code>/etc</code>.
 2. Abre este archivo en tu editor favorito y pega el siguiente código con algunas modificaciones:
 ```bash
-#! / bin / bash
-# Requerido para ejecutarse como / bin / bash (si usa zsh, etc. tú puedes cambiarlo.)
+#!/bin/bash
+# Requerido para ejecutar como /bin/bash (si usas zsh etc. puedes cambiarlo.)
 
 # Ejemplo: /home/PreMiD/PreMiD*.AppImage
-& lt; directorio para appimage & gt; /PreMiD*.AppImage 
- 
-salir 0
+<directorio a la appimage>/PreMiD*.AppImage
+
+exit 0
 ```
 3. Guarde el archivo y modifíquelo como ejecutable ` sudo chmod a + x /etc/rc.local `.
 4. Reinicie su PC y PreMiD AppImage debería iniciarse al iniciar sesión.
