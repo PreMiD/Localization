@@ -15,11 +15,11 @@ dateCreated: 2020-06-11T18:03:54.865Z
 Incluido en esta página:
 1. [Solución general de problemas](https://docs.premid.app/troubleshooting#general)
 2. [Solución de problemas para Linux](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+3. [Risoluzione dei problemi con MacOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# Solución general de problemas
 ### Recarga la página
 Puedes presionar <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) en tu teclado en vez de buscar el botón de recargar.
 
@@ -80,48 +80,48 @@ Esto es un falso positivo de McAfee y les hemos informado del problema por ahora
 9. Abre la carpeta "PreMiD" y selecciona el archivo "PreMiD.exe" y haz clic en abrir. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. Ahora McAfee debe ignorar nuestro archivo, sólo tienes que abrir nuestra aplicación.
 
-### PreMiD status bugged on discord!
-Don't worry. Just click **ctrl+r** keybind on your discord to restart it. After this it will not show!
+### ¡Estado de PreMiD bugeado en discord!
+No se preocupe. Usa el atajo de teclado **ctr+r** para recargar discord. ¡Después de esto no se muestra!
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-Si descargaste Discord a través de Snapcraft, RPC no funcionará. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Solución de problemas para Linux
+### Distribuciones basadas en Ubuntu/Debian
+Si descargaste Discord a través de Snapcraft, RPC no funcionará. Tienes que desinstalar la versión de Snapcraft ejecutando `sudo snap remove discord` en una terminal, descarga **[Discord para Linux](https://discordapp.com/api/download?platform=linux)** (**[o Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), luego navega hasta el directorio donde descargaste Discord (usualmente `$HOME/Descargas`). Finalmente instala el paquete ejecutando `sudo dpkg -i discord-*.deb`. Si la AppImage no funciona, deberías considerar revisar nuestros otros paquetes en **[este enlace](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named `premid` or `premid-git` (*WARNING: This one builds premid from source*). If you don't want to install aur manager (yay etc.), you can check our AppImage that is downloadable from our **[Linux repository](https://github.com/premid/linux/releases)**. *Warning: **AUR** repo is not maintained by us, but by other people.*
+### Distribuciones basadas en Arch Linux
+Las distribuciones basadas en Arch Linux deben usar el paquete AUR (Arch User Repository) llamado `premid` o `premid-git` (*ADVERTENCIA: Este compila premid desde el código fuente*). Si no desea instalar aur manager (yay, etc.), puede consultar nuestra AppImage que se puede descargar desde nuestro ** [ repositorio de Linux ](https://github.com/premid / linux / releases) **. * Advertencia: el repositorio ** AUR ** no lo mantenemos nosotros, sino otras personas. *
 
-### Port binding
-You should know that **PreMiD** binds itself to port **3020** that is necessary for Extension and Application communication. If **PreMiD** shows you error about this port, you should check if something binds to port by writing to terminal `sudo lsof -i:3020` or `sudo netstat -tnlp | grep :3020`. If some application is binded to it you should kill it and try running `PreMiD` again.
+### Enlace de puerto
+Debe saber que ** PreMiD ** se une al puerto ** 3020 ** que es necesario para la comunicación de extensiones y aplicaciones. Si ** PreMiD ** muestra un error sobre este puerto, debe verificar si algo se une al puerto escribiendo en la terminal ` sudo lsof -i: 3020 ` o < código> sudo netstat -tnlp | grep: 3020 </code>.  Si alguna aplicación está vinculada a ella, debe eliminarla e intentar ejecutar ` PreMiD ` nuevamente.
 
-### PreMiD's AppImage doesn't launch at login?!?!
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually. Instruction how to do this:
-1. Make file named **rc.local** in `/etc` directory.
-2. Open this file in your favourite editor and paste-change this:
+### AppImage de PreMiD no se inicia al iniciar sesión?!?!
+Como indicamos en nuestro ** repositorio de Linux **, AppImage no se puede iniciar al iniciar sesión. Puede agregarlo al inicio automático manualmente. Instrucción de cómo hacer esto:
+1. Cree un archivo llamado ** rc.local ** en el directorio ` / etc `.
+2. Abra este archivo en su editor favorito y pegue y cambie esto:
 ```bash
-#!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+#! / bin / bash
+# Requerido para ejecutarse como / bin / bash (si usa zsh, etc. tú puedes cambiarlo.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
-<directory to appimage>/PreMiD*.AppImage
-
-exit 0
+# Ejemplo: /home/PreMiD/PreMiD*.AppImage
+& lt; directorio para appimage & gt; /PreMiD*.AppImage 
+ 
+salir 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Guarde el archivo y modifíquelo como ejecutable ` sudo chmod a + x /etc/rc.local `.
+4. Reinicie su PC y PreMiD AppImage debería iniciarse al iniciar sesión.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# Solución de problemas de MacOS
+### Error al crear el directorio
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually. Instruction how to do it:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. Create folder named `PreMiD` (remember about upper-cased letters).
-4. Open installer again.
+Si recibe este error, significa que su cuenta no tiene permisos de administrador y necesita crear la carpeta manualmente. Instrucción de cómo hacerlo:
+1. Abra el buscador y abra la carpeta ** Aplicaciones **.
+2. Haga clic con el botón derecho en el espacio en blanco y haga clic en ** Crear carpeta **.
+3. Cree una carpeta llamada ` PreMiD ` (recuerde las letras en mayúsculas).
+4. Abra el instalador nuevamente.
 
 # Esto no ha resuelto mi problema
-Please open a ticket in [#support](https://discord.premid.app/).
+Abra un ticket en [ #support ](https://discord.premid.app/).
