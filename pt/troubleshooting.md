@@ -35,7 +35,7 @@ Muito importante. O RPC do Discord não funcionará se o Discord tiver sido exec
 ### Estás a usar uma presence com definições?
 Muitas presences (incluindo a `Twitch` e o `SoundCloud`) são afetadas por um problema na extensão. Este problema faz com que a extensão não consiga encontrar os valores padrão das definições corretamente.
 
-Para resolver isto, tudo o que precisas de fazer é alterar a configuração mais importante: ![presencesettings.gif](/presencesettings.gif)
+Para resolver isto, tudo o que precisas de fazer é alterar a configuração mais acima: ![presencesettings.gif](/presencesettings.gif)
 
 ### Reiniciar o seu navegador
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) ou <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) faz um bom trabalho também. (Tem que iniciar o seu navegador outra vez obviamente.)
