@@ -90,16 +90,16 @@ Keine Sorge. Just press the <strong x-id="1">ctrl+r</strong> keybind while focus
 Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht funktionieren. Du musst die Snapcraft Version deinstallieren, indem du `sudo snap remove discord` im Terminal eingibst. Lade als nächstes **[Discords Linux Build](https://discordapp.com/api/download?platform=linux)** herunter (**[oder Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**). Navigiere dann zu dem Verzeichnis, in welchem du Discord heruntergeladen hast (üblicherweise `$HOME/Downloads`) und installiere dann das Paket mit `sudo dpkg -i discord-*.deb`. Wenn AppImage nicht funktioniert, solltest du unsere anderen Pakete durch **[diesen Link](https://packagecloud.io/premid/linux)** überprüfen.
 
 ### Arch Linux basierte Distributionen
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+Arch Linux basierte Distributionen sollten AUR (Arch User Repository) Pakete verwenden, die nach <code>premid</code> oder <code>premid-git</code> benannt sind (<em x-id="3">WARNUNG: Dieses Repository baut premid von unserem Quellcode auf.</em>). Wenn du keinen AUR-Manager (yay etc.) installieren möchtest, kannst du dir unseren AppImage ansehen, was man von unserer <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux-Repository</a></strong> herunterladen kann.
+<em x-id="3">Warnung: Das Paket im <strong x-id="1">AUR</strong> Repository wird nicht von uns (als PreMiD Organisation), sondern von anderen Personen verwaltet.</em>
 
 ### Port-Bindung
-Du solltest wissen, dass <strong x-id="1">PreMiD</strong> sich an den Port <strong x-id="1">3020</strong> bindet. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+Du solltest wissen, dass <strong x-id="1">PreMiD</strong> sich an den Port <strong x-id="1">3020</strong> bindet. Dies ist notwendig für die Erweiterung und die Kommunikation der Anwendung. Wenn <strong x-id="1">PreMiD</strong> dir einen Fehler über diesen Port anzeigt, solltest du überprüfen, ob etwas an den Port 3020 gebunden ist, indem du <code>sudo lsof -i:3020</code> oder <code>sudo netstat -tnlp | grep :3020</code> in deinem Terminal ausführst. Wenn ein Prozess damit verbunden ist, solltest du sicherstellen, dass du den Port freigibst und versuchst <code>PreMiD</code> erneut auszuführen.
 
-### PreMiD's AppImage doesn't launch at login
-Wie in unserem ** Linux-Repository ** angegeben, kann AppImage beim Anmelden nicht gestartet werden. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### PreMiD's AppImage startet nicht beim Anmelden
+Wie in unserem ** Linux-Repository ** angegeben, kann AppImage beim Anmelden nicht gestartet werden. Du kannst es manuell zum Autostart hinzufügen, indem du diese Schritte anwendest:
+1. Erstelle eine Datei mit dem Namen <strong x-id="1">rc.local</strong> im <code>/etc</code> Verzeichnis.
+2. Öffne diese Datei in deinem Lieblingseditor und füge den vorgegebenen Code ein, um einige Sachen abzuändern:
 ```bash
 #!/bin/bash
 # Wird benötigt um unter /bin/bash zu laufen (wenn zsh verwendet wird du kannst es ändern.)
@@ -116,10 +116,10 @@ Wie in unserem ** Linux-Repository ** angegeben, kann AppImage beim Anmelden nic
 ### Fehler beim Anlegen des Ordners
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Öffne und finde den **Anwendungen** Ordner.
+Wenn du diesen Fehler erhältst, bedeutet dies, dass dein Konto keine Administratorrechte hat und du den Ordner manuell erstellen muss, indem du diese Schritte durchführst:
+1. Öffne und finde den Ordner "**Anwendungen**".
 2. Rechtsklicke auf freier Fläche und drücke **Erstelle Ordner**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
+3. Weise diesen Ordner den Namen `PreMiD` zu (achte auf Groß- und Kleinschreibung).
 4. Öffne den Installer erneut.
 
 # Das hat mein Problem nicht gelöst
