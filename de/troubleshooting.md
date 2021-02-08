@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
+Auf dieser Seite enthalten:
 1. [Allgemeine Fehlerbehebung](https://docs.premid.app/troubleshooting#general)
 2. [Fehlerbehebung für Linux](https://docs.premid.app/troubleshooting#linux)
 3. [Fehlerbehebung für MacOS](https://docs.premid.app/troubleshooting#macos)
@@ -87,7 +87,7 @@ Keine Sorge. Drücke dazu in Discord auf die Tastenkombination **Strg+r**, um es
 
 # Fehlerbehebung für Linux
 ### Ubuntu/Debian basierte Distributionen
-Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht funktionieren. Du musst die Snapcraft Version deinstallieren, indem du `sudo snap remove discord` im Terminal eingibst. Lade als nächstes **[Discords Linux Build](https://discordapp.com/api/download?platform=linux)** herunter (**[oder Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**). Navigiere dann zu dem Verzeichnis, in welchem du Discord heruntergeladen hast (üblicherweise `$HOME/Downloads`) und installiere dann das Paket mit `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+Wenn du Discord über Snapcraft heruntergeladen hast, wird Discords RPC nicht funktionieren. Du musst die Snapcraft Version deinstallieren, indem du `sudo snap remove discord` im Terminal eingibst. Lade als nächstes **[Discords Linux Build](https://discordapp.com/api/download?platform=linux)** herunter (**[oder Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**). Navigiere dann zu dem Verzeichnis, in welchem du Discord heruntergeladen hast (üblicherweise `$HOME/Downloads`) und installiere dann das Paket mit `sudo dpkg -i discord-*.deb`. Wenn AppImage nicht funktioniert, solltest du unsere anderen Pakete durch **[diesen Link](https://packagecloud.io/premid/linux)** überprüfen.
 
 ### Arch Linux basierte Distributionen
 Arch Linux based distros should use AUR (Arch User Repository) package that is named `premid` or `premid-git` (*WARNING: This one builds premid from source*). If you don't want to install aur manager (yay etc.), you can check our AppImage that is downloadable from our **[Linux repository](https://github.com/premid/linux/releases)**. *Warning: **AUR** repo is not maintained by us, but by other people.*
