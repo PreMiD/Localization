@@ -30,7 +30,7 @@ PreMiD is snel en eenvoudig te installeren. Je zou binnen een tijdje klaar moete
 - :computer: [API](/dev/api): Toegang tot ressources en het uitvoeren van acties met behulp van de PreMiD API.
 - :wrench: [Presence Development](/dev/presence): Leer hoe je ons presence systeem gebruikt.
 
-# Draag bij
+# Bijdragen
 - :bug: [Rapporteer een Bug](https://github.com/PreMiD): Help ons de pesky bugs te verpletteren.
 - :bulb: [Stel een nieuwe functie voor](https://discord.premid.app/): We hebben je ideeën nodig!
 - :heart: [Doneer](https://www.patreon.com/Timeraa): Maak een kleine donatie of word een sponsor van dit geweldige project!

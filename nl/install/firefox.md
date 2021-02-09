@@ -8,7 +8,7 @@ tags:
 
 De installatie van de extensie is van groot belang, omdat de applicatie op zichzelf niets kan doen.
 
-# Installeer
+# Installeren
 1. Ga naar onze downloadpagina door [hier](https://premid.app/downloads) te klikken.
 2. Kies **Firefox**.
 3. Zoek naar `about:addons`.
