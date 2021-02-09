@@ -11,8 +11,8 @@ PreMiD ir vienkārša, konfigurējama programma, kas ļauj jums redzēt, ko jūs
 
 # Kāpēc tev vajadzētu lejupielādēt PreMiD
 - Viss mūsu projekts ir atvērtā pirmskoda! Mēs vēlamies strādāt ar saviem lietotājiem - nevis pret viņiem.
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+- Liela funkcija, ko sauc par SkatīšanāsBalles, nāk uz PreMiD. Ar spēļu ielūgumiem un vienlaicīgu skatīšanos un klausīšanos. Nodrošina [Discord](https://discordapp.com/).
 
-# Core features
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+# Galvenās funkcijas
+- Parāda jūsu pašreizējo tīmekļa pakalpojumu Diskordā, kā jūsu statusu.
+- Piešķir pilnīgu kontroli pār Presences.
