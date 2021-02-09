@@ -39,6 +39,10 @@
 		"message": "আমরা কিসের খোঁজ করছি?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.second.title": {
+		"message": "যা থাকা প্রয়োজন",
+		"description": "Heading for the second requirement."
+	},
 	"partners.apply.button": {
 		"message": "অ্যাপ্লাই করো এখনই!",
 		"description": "Button to apply for partner."
@@ -50,6 +54,14 @@
 	"partners.sponsors.title": {
 		"message": "স্পন্সর",
 		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD সম্ভব হতো না, এইসব অসাধারণ মানুষ ছাড়া।",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "এইভাবে অ্যানিমে দেখতে হয়।",
+		"description": "Description for AniFlix."
 	},
 	"partners.apply.select.website": {
 		"message": "ওয়েবসাইট",
