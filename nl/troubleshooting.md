@@ -90,8 +90,8 @@ Geen zorgen. Druk op de <kbd>CTRL+R</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) 
 Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download **[Discord's Linux-build](https://discordapp.com/api/download?platform=linux)** (**[of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), navigeer vervolgens naar de map waarin je Discord in geïnstalleerd is (meestal `$HOME/Downloads`), instaleer daarna het pakket met behulp van `sudo dpkg -i discord-*. eb`. Als AppImage niet werkt, overweeg dan om onze andere pakketten te gebruiken via **[deze link](https://packagecloud.io/premid/linux)**.
 
 ### Op Arch Linux gebaseerde distro's
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+Op Arch Linux gebaseerde distro's moeten AUR (Arch User Repository) pakket gebruiken dat <code>premid</code> of <code>premid-git</code> heet (<em x-id="3">WAARSCHUWING: Deze buildt premid vanuit broncode</em>). Als je geen AUR manager wilt installeren (yay etc.), kun je onze AppImage bekijken die kan worden gedownload op onze <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux-repository</a></strong>.
+<em x-id="3">Waarschuwing: het pakket in de <strong x-id="1">AUR</strong> repository wordt niet onderhouden door ons (PreMiD organisatie), maar door andere mensen.</em>
 
 ### Poort-binding
 You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
@@ -118,11 +118,11 @@ exit 0
 ### Fout bij aanmaken van map
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
+Als je deze fout krijgt, betekent dit dat je account geen beheerdersrechten heeft en dat je handmatig de map moet aanmaken:
 1. Open de finder en open de map **Applicaties**.
 2. Rechtsklik op lege ruimte en klik op **Maak map**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installatieprogramma opnieuw.
+3. Geef de map de naam `PreMiD` (let op de hoofdletters).
+4. Open het installatieprogramma opnieuw.
 
 # Dat heeft mijn probleem niet opgelost
 Open een ticket in [#support](https://discord.premid.app/).
