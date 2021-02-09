@@ -38,10 +38,10 @@ Many presences (including `Twitch` and `SoundCloud`) are affected by an extensio
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
 ### তোমার ব্রাউজারটি রিস্টার্ট করো
-<kbd>Alt</kbd>+<kbd>F4</kbd> (উইন্ডোজ) অথবা <kbd>CMD</kbd>+<kbd>Q</kbd> (ম্যাকওএস) এও ভালো কাজ করে। (You have to start your browser again obviously.)
+<kbd>Alt</kbd>+<kbd>F4</kbd> (উইন্ডোজ) অথবা <kbd>CMD</kbd>+<kbd>Q</kbd> (ম্যাকওএস) এও ভালো কাজ করে। (অবশ্য তোমাকে আবার তোমার ব্রাউজার স্টার্ট করতে হবে।)
 
 ### PreMiD (অ্যাপ্লিকেশান) রিস্টার্ট করো
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+![quit.png](/quit.png) তোমাকে পরে PreMiD রিস্টার্ট করতে হবে।
 
 ### Discord রিস্টার্ট করো
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
@@ -85,7 +85,7 @@ Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) k
 
 <a name="linux"></a>
 
-# Linux troubleshooting
+# লিনাক্স এর সমস্যা সমাধান
 ### Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
@@ -114,7 +114,7 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
+# ম্যাকওস এর সমস্যা সমাধান
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
