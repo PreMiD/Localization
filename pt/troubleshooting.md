@@ -98,31 +98,31 @@ Você deve saber que o <strong x-id="1">PreMiD</strong> se liga à porta <strong
 
 ### AppImage do PreMiD não inicia ao entrar
 Conforme falamos no repositório **Linux**, AppImage não pode ser iniciado no login. Você pode adicioná-lo para iniciar automaticamente manualmente seguindo estas etapas:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+1. Crie um arquivo nomeado <strong x-id="1">rc.local</strong> na pasta <code>/etc</code>.
+2. Abra este arquivo em seu editor favorito e cole o código fornecido com a alteração de algumas coisas:
 ```bash
-#!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+#!/bin /bash
+# Necessário para executar como /bin /bash (se você usar zsh etc. , você pode alterá-lo).
 
-# Example: /home/PreMiD/PreMiD*.AppImage
-<directory to appimage>/PreMiD*.AppImage
+# Exemplo: /home/PreMiD/PreMiD*.AppImage
+<directory to appimage></PreMiD*.AppImage
 
-exit 0
+sair 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Salve o arquivo e execute um chmod nele como executável `sudo chmod a+x /etc/rc.local`.
+4. Reinicie o seu PC, e PreMiD AppImage deve ser iniciado no login.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# Solução de problemas no MacOS
+### Erro na criação de pasta
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Se você receber esse erro, significa que sua conta não tem permissões de administrador e você precisa criar a pasta manualmente seguindo estas etapas:
+1. Abra o Finder e abra a pasta **Aplicativos**.
+2. Clique com o botão direito no espaço em branco e clique em **Criar pasta**.
+3. Para esta pasta de o nome de `PreMiD`(lembre-se das letras maiúsculas).
+4. Abra o instalador novamente.
 
 # Isso não resolveu o meu problema
 Por favor abra um ticket no [#support](https://discord.premid.app/).
