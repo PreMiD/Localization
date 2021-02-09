@@ -332,7 +332,7 @@ Você pode copiar isso no arquivo `presence.ts` e editar os valores. Configurar 
 
 Por exemplo, sugerimos que analisemos o código de presenças como: 1337x ou 9GAG. Para mais informações sobre a classe `Presence` clique [aqui](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Desde a v2.2.0 existem agora Slideshows, isto permite que você mostre múltiplas interfaces `PresenceData` em um intervalo, para mais informações sobre a classe `Slideshow` clique [aqui](/dev/presence/slideshow).
 
 ## Não consegue obter dados certos?!
 
