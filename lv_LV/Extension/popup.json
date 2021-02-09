@@ -2,5 +2,9 @@
 	"popup.navigation.settings": {
 		"message": "Iestatījumi",
 		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "Beigu titri",
+		"description": "Title of the 'credits' section at the navigation in the popup"
 	}
 }
