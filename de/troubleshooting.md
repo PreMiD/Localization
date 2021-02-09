@@ -117,7 +117,7 @@ Wie in unserem ** Linux-Repository ** angegeben, kann AppImage beim Anmelden nic
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
 Wenn du diesen Fehler erhältst, bedeutet dies, dass dein Konto keine Administratorrechte hat und du den Ordner manuell erstellen muss, indem du diese Schritte durchführst:
-1. Öffne und finde den Ordner "**Anwendungen**".
+1. Öffne mithilfe des Finder den Ordner **Programme**.
 2. Rechtsklicke auf freier Fläche und drücke **Erstelle Ordner**.
 3. Weise diesen Ordner den Namen `PreMiD` zu (achte auf Groß- und Kleinschreibung).
 4. Öffne den Installer erneut.
