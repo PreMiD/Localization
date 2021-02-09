@@ -6,5 +6,85 @@
 	"popup.navigation.credits": {
 		"message": "Beigu titri",
 		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "Iestatījumi",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "Vispārīgi",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "Apraksts",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "Iespējots",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Multivides vadīklas",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "Titula izvēlne",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "Automātiskā palaišana",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Presences",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "Pārvaldīt",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "Neviena Presence nepievienota",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "Gatavs",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Ielādēt Presence",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Presence Veikals",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Vajag palīdzību?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Ak vai!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "Kļūda ielādējot titrus",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Nav savienots",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD nevarēja savienoties ar tā aplikāciju! Vai tas ir ieinstalēts un palaists?\n*Problēmu novēršana*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Novecojusi Aplikācija",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Tava PreMiD aplikācija ir novecojusi. Lūdzu atjauniniet to, lai turpinātu izmantot PreMiD.",
+		"description": "Shown when application is outdated"
 	}
 }
