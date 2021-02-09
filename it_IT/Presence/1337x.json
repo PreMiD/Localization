@@ -1,6 +1,6 @@
 {
     "1337x.movieLibrary": {
-        "message": "Guardando la libreria film",
+        "message": "Ver la biblioteca de películas",
         "description": ""
     },
     "1337x.seriesLibrary": {
@@ -52,7 +52,7 @@
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "Guardando Torrent XXX",
+        "message": "Viendo XXX Torrents",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {
