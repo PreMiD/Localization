@@ -42,5 +42,21 @@
 	"home.features.presencesystem.heading": {
 		"message": "Atrodi **savu** presence",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Mēs izveidojām mūsu paplašinājumu tādā veidā, ka tas atļauj jums pievienot un izmantot Presences, kuras ir izveidojuši citi un pārvaldīt tās mūsu paplašinājumā!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Apmeklēt veikalu",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Vienkāršots lietotāja interfeiss",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Vai esat noguris no sarežģītiem lietotāju interfeisiem? Tas ir kādēļ mēs izveidojām un mēģinām saglabāt mūsu UI vienkāršu un noderīgu, cik iespējams, ar šādām svarīgām funkcijām:",
+		"description": "Features section description"
 	}
 }
