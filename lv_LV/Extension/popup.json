@@ -1,1 +1,6 @@
-{}
+{
+	"popup.navigation.settings": {
+		"message": "Iestatījumi",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	}
+}
