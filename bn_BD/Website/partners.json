@@ -1,4 +1,12 @@
 {
+	"partners.header.title": {
+		"message": "পার্টনার",
+		"description": "Heading for page."
+	},
+	"partners.why.benefit1.title": {
+		"message": "তোমার ফ্রি Presence",
+		"description": "Heading for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "ভেরিফাইড হয়ে যাও",
 		"description": "Heading for the second benefit."
@@ -62,6 +70,22 @@
 	"partners.partner.aniFlix": {
 		"message": "এইভাবে অ্যানিমে দেখতে হয়।",
 		"description": "Description for AniFlix."
+	},
+	"partners.apply.title": {
+		"message": "পার্টনারের জন্য অ্যাপ্লাই করো",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "{0} হিসেবে লগইন করা হয়েছে",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "তুমি না?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "একটা সিলেক্ট করো",
+		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
 		"message": "ওয়েবসাইট",
