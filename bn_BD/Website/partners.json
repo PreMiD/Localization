@@ -3,6 +3,10 @@
 		"message": "ভেরিফাইড হয়ে যাও",
 		"description": "Heading for the second benefit."
 	},
+	"partners.why.benefit2.description": {
+		"message": "আমাদের Discord সার্ভারে তোমাকে দেওয়া হবে একটি স্পেশাল রোল এবং বড় সম্মান।",
+		"description": "Description for the second benefit."
+	},
 	"partners.why.benefit3.title": {
 		"message": "মেটা-ট্যাগ ইন্টেগ্রেশন",
 		"description": "Heading for the third benefit."
@@ -10,6 +14,18 @@
 	"partners.why.benefit3.description": {
 		"message": "অটোমেটিকভাবে তোমার Presence ব্যবহার করে যখন কেউ তোমার ওয়েবসাইটে যায়।",
 		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "অমর হয়ে যাও",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "আমাদের পার্টনার পেজে একটি স্থান।",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "বিখ্যাত হও",
+		"description": "Heading for the fifth benefit."
 	},
 	"partners.requirements.title": {
 		"message": "যা প্রয়োজন",
