@@ -55,7 +55,7 @@ Disable all your addons and see if it works. If yes, try to enable your addons s
 ### তোমার কম্পিউটার রিস্টার্ট করো
 আমি আশা করি তুমি জানো কীভাবে একটি কম্পিউটারকে রিস্টার্ট করতে হয়।
 
-### PreMiD আবার ইন্সটল করা
+### PreMiD আবার ইন্সটল করো
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
