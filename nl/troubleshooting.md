@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Deze pagina omvat o.a.:
+Deze pagina bevat:
 1. [Algemene probleemoplossing](https://docs.premid.app/troubleshooting#general)
 2. [Linux-probleemoplossing](https://docs.premid.app/troubleshooting#linux)
 3. [MacOS-probleemoplossing](https://docs.premid.app/troubleshooting#macos)
