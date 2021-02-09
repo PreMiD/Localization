@@ -38,7 +38,7 @@ Many presences (including `Twitch` and `SoundCloud`) are affected by an extensio
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
 ### তোমার ব্রাউজারটি রিস্টার্ট করো
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+<kbd>Alt</kbd>+<kbd>F4</kbd> (উইন্ডোজ) অথবা <kbd>CMD</kbd>+<kbd>Q</kbd> (ম্যাকওএস) এও ভালো কাজ করে। (You have to start your browser again obviously.)
 
 ### PreMiD (অ্যাপ্লিকেশান) রিস্টার্ট করো
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
