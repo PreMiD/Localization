@@ -122,5 +122,29 @@
 	"popup.category.all": {
 		"message": "Viss",
 		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Mūzika",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Spēles",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Sociālie tīkli",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Video & Straumēšana",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Cits",
+		"description": "Category name shown when you open tags"
 	}
 }
