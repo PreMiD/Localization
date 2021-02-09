@@ -2,5 +2,9 @@
   "extension.description.short": {
     "message": "Tavs Rich Presence priekš web pakalpojumiem!",
     "description": "Short description in extension store"
+  },
+  "extension.description.full": {
+    "message": "TEV IR JĀIEINSTALĒ MŪSU OFICIĀLĀ APLIKĀCIJA LAI TĀ STRĀDĀTU\n   {0} {1}\n\nTu vari izmatot mēdiju taustiņus, lai kontrolētu šo pakalpojumu atskaņošanu. Kad tu skaties/klausies kaut ko ar kādu no mūsu atbalstītajiem pakalpojumiem, pārlūkprogrammas paplašinājums sūta video/dziesmas metadatus mūsu darbvirsmas klientam un PreMiD to procesē. PreMiD sūta informāciju uz Discord ar pareizo formu un tad automātiski uzliek tā statusu.\nAtbalstītie pakalpojumi\n   {2} Paskatieties {3}\n\nVajag palīdzību?\n   {4} {5}\n\nMūsu Discord serveris\n   {6} Runā ar cilvēkiem aiz PreMiD {7}\n\nMēs esam Atvērts pirmkods!\n   {9} Lieliskām lietām ir jābūt atvērtām publikai {10}",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
