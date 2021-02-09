@@ -1,1 +1,34 @@
-{}
+{
+	"footer.language": {
+		"message": "Valoda",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Gatavs izmantot PreMiD?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Pievienojies {0} lietotājiem šodien!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Uzstādīt",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Partneri",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Sekojiet Mums",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "Izstrādātāji",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "Dokumentācija",
+		"description": "Documentation -> redirects to docs.premid.app"
+	}
+}
