@@ -14,14 +14,14 @@ dateCreated: 2020-06-11T18:03:54.865Z
 
 এই পেজে আছে:
 1. [সাধারণ সমস্যা সমাধান](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+2. [লিনাক্স এর সমস্যা সমাধান](https://docs.premid.app/troubleshooting#linux)
+3. [ম্যাকওস এর সমস্যা সমাধান](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
 # সাধারণ সমস্যা সমাধান
 ### ওয়েবপেজটি রিলোড করো
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+তুমি তোমার কীবোর্ডের <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (উইন্ডোজ) অথবা <kbd>CMD+R</kbd> (ম্যাকওস) চাপ দিতে পারো রিফ্রেশ বাটন খোঁজার বদলে।
 
 ### তুমি কি Discord অ্যাপটি ব্যবহার করছ?
 PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
