@@ -43,6 +43,10 @@
 		"message": "অ্যাপ্লাই করো এখনই!",
 		"description": "Button to apply for partner."
 	},
+	"partners.apply.jobs": {
+		"message": "তুমি যদি বরং আগ্রহী হও PreMiD তে সরাসরি কাজের, তাহলে দেখতে পারো আমাদের **কাজের বিজ্ঞপ্তি**।",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "স্পন্সর",
 		"description": "Heading for sponsors."
