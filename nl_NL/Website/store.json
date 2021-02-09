@@ -20,7 +20,7 @@
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
-		"message": "Zoek presence",
+		"message": "Zoeken naar presence",
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
@@ -28,7 +28,7 @@
 		"description": "Button that will appear on hover after extension is installed."
 	},
 	"store.card.presence.remove": {
-		"message": "Verwijder presence",
+		"message": "Presence verwijderen",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
@@ -84,7 +84,7 @@
 		"description": "Category at the top"
 	},
 	"store.search": {
-		"message": "Zoek",
+		"message": "Zoeken",
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
