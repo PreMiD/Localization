@@ -4,7 +4,7 @@
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
-		"message": "Características",
+		"message": "Funcionalidades",
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
@@ -84,7 +84,7 @@
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Idioma do Site",
+		"message": "Idioma do site",
 		"description": "Tippy content of the language selector."
 	}
 }
