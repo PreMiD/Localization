@@ -27,6 +27,10 @@
 		"message": "বিখ্যাত হও",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "আমাদের সোশ্যাল মিডিয়ায় আসো।",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "যা প্রয়োজন",
 		"description": "Heading for the requirements."
