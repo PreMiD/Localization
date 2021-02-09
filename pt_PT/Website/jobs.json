@@ -24,7 +24,7 @@
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD é um projeto open-source (codigo aberto), o que significa que somos uma equipa sem fins lucrativos, cada doação ou dinheiro patrono volta para o produto. Ao candidatar-se a um emprego no PreMiD você reconhece que está se voluntariando na equipa, você não será pago pelo seu trabalho.",
+		"message": "O PreMiD é um projeto de código aberto, o que significa que somos uma equipa sem fins lucrativos. Cada doação ou dinheiro patrono será investido no produto. Ao te candidatares a um emprego no PreMiD reconheces que te estás a voluntariar para equipa e não serás pago pelo teu trabalho.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {

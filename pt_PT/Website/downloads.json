@@ -24,11 +24,11 @@
     "description": "Heading for installing the application"
   },
   "downloads.instructions.step_4": {
-    "message": "Recarregue este site e verifique se a extensão está conectada",
+    "message": "Recarrega este site e verifica se a extensão está conectada",
     "description": "I think you get what this is..."
   },
   "downloads.instructions.footer": {
-    "message": "Ainda tens problemas? {0}",
+    "message": "Ainda estás com problemas? {0}",
     "description": "{0} will be replaced with footer.link"
   },
   "downloads.instructions.footer.link": {
