@@ -93,11 +93,11 @@ Si vous avez téléchargé Discord via Snapcraft, RPC ne fonctionnera pas. Vous 
 Les distributions basées sur Arch Linux devraient utiliser le paquet <code>premid</code> ou le paquet <code>premid-git</code> fournis dans l'AUR (Arch User Repository), (<em x-id="3">ATTENTION : les paquets venant de l'AUR compilent premid directement depuis son code source.</em>). Si vous ne voulez pas installer un AUR manager (yay, etc.), vous pouvez utiliser notre AppImage qui est téléchargeable depuis notre <strong x-id="1"><a href="https://github.com/premid/linux/releases">dépôt Linux</a></strong>.
 <em x-id="3">Attention : le paquet dans l'<strong x-id="1">AUR</strong> n'est pas maintenu par nous (en tant que PreMiD), mais par d'autre personnes.</em>
 
-### Port binding
-Vous devez savoir que <strong x-id="1">PreMiD</strong> s'attache au port <strong x-id="1">3020</strong>. Ceci est nécessaire pour que l'Extension et L'application communique. Si <strong x-id="1">PreMiD</strong> vous montre une erreur à propos de ce port, vous devez vérifier si un processus est attaché au port 3020 en lançant la commande <code>sudo lsof -i:3020</code> ou <code>sudo netstat -tnlp | grep :3020</code> dans votre terminal. Si une processus est attaché à ce dernier, vous devrez faire en sorte de libérer le port et relancer <code>PreMiD</code>.
+### Liaison aux ports
+Vous devez savoir que <strong x-id="1">PreMiD</strong> se lie au port <strong x-id="1">3020</strong>. Ceci est nécessaire pour que l'Extension et L'application communique. Si <strong x-id="1">PreMiD</strong> vous montre une erreur à propos de ce port, vous devez vérifier si un processus est lié au port 3020 en exécutant la commande <code>sudo lsof -i:3020</code> ou <code>sudo netstat -tnlp | grep :3020</code> dans votre terminal. Si une processus est lié à ce dernier, vous devrez faire en sorte de libérer le port et relancer <code>PreMiD</code>.
 
 ### L'AppImage de PreMiD ne se lance pas au démarrage
-Comme précisé dans notre **répertoire Linux**, AppImage ne peut pas être démarré lors de l'ouverture de session. Vous pouvez faire en sorte que cette dernière se lance au démarrage manuellement en suivant ces étapes :
+Comme précisé dans notre **dépôt Linux**, AppImage ne peut pas être démarré lors de l'ouverture de session. Vous pouvez faire en sorte que cette dernière se lance au démarrage manuellement en suivant ces étapes :
 1. Créez un fichier nommé <strong x-id="1">rc.local</strong> dans le dossier <code>/etc/</code>.
 2. Ouvrez ce fichier dans votre éditeur favori et collez-y le code suivant en modifiant le dossier dans lequel l'AppImage est située :
 ```bash
@@ -119,7 +119,7 @@ exit 0
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
 Si vous obtenez cette erreur, cela veux dire que votre compte n'a pas les permissions administrateur, vous devez donc créer un dossier manuellement en suivant ces étapes :
-1. Ouvrez le Finder et allez dans le dossier **Applications**.
+1. Ouvrez Finder et ouvrez le dossier **Applications**.
 2. Faites un clic droit dans un espace vide et cliquez sur **Créer un dossier**.
 3. Assignez le nom `PreMiD` à ce dossier (la casse est importante, n'oubliez pas les majuscules).
 4. Réouvrez l'installateur.

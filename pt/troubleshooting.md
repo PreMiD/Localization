@@ -85,18 +85,18 @@ Não se preocupe! Pressione o atalho de teclado <kbd>CTRL + R</kbd> (Windows) ou
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-Se você tiver baixado o Discord pelo Snapcraft, o RPC não funcionará. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Solução de problemas no Linux
+### Para sistemas baseados em Ubuntu/Debian
+Se você tiver baixado o Discord pelo Snapcraft, o RPC não funcionará. Você tem que desinstalar a versão Snapcraft executando `sudo snap remove discord` em um terminal, baixe a **[compilação Linux do Discord](https://discordapp.com/api/download?platform=linux)** (**[ou Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), e navegue para a pasta em qual você baixou o Discord (geralmente `$HOME/Downloads`) e, em seguida, instale o pacote usando `sudo dpkg -i discord - *. deb`. Se AppImage não funcionar, você deve verificar nossos outros pacotes **[este link](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
+### Para sistemas baseados em Arch Linux
 Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
 <em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
 
 ### Port binding
 You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
 
-### PreMiD's AppImage doesn't launch at login
+### AppImage do PreMiD não inicia ao entrar
 As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
 1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
 2. Open this file in your favourite editor and paste given code with changing some things:
