@@ -58,5 +58,33 @@
 	"home.features.simpleInterface.description": {
 		"message": "Vai esat noguris no sarežģītiem lietotāju interfeisiem? Tas ir kādēļ mēs izveidojām un mēģinām saglabāt mūsu UI vienkāršu un noderīgu, cik iespējams, ar šādām svarīgām funkcijām:",
 		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Lietotnes un Paplašinājuma iestatījumi",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence pārvaldīšana",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Kārtot pēc kategorijas",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Ātrais atbalsts",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Kaut kas nepareizi darbojas, sūta tev daudz kļūdas vai vienkārši neiet? Mēs tev palīdzēsim atbrīvoties no šīm problēmām mūsu Discord serverī, mēs arī izveidojām mūsu pašu atbalsta sistēmu, kas pārliecināsies, ka tava problēma tiks atrisināta cik ātri iespējams.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Pievienojies mūsu Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Tīmekļa vietnes valoda",
+		"description": "Tippy content of the language selector."
 	}
 }
