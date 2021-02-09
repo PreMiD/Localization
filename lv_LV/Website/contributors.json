@@ -1,1 +1,78 @@
-{}
+{
+	"contributors.headings.staff": {
+		"message": "Personāls",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Atbalstītāji",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Tulkotāji",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.projectLeader": {
+		"message": "Projekta vadītājs",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Personāla Koordinators",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Marketinga Direktors",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Administrators",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Recenzents",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Izstrādātājs",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Dizainers",
+		"description": "'Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Moderators",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Atbalsta Aģents",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Pārstāvis",
+		"description": "'Representative' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Korektors",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Ziedotājs",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Atbalstītājs",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Tulkotājs",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Klikšķini, lai nokopētu lietotāja ID.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Lietotāja ID nokopēts!",
+		"description": "Notification after user ID was copied."
+	}
+}
