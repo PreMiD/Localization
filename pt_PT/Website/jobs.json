@@ -1,10 +1,10 @@
 {
 	"jobs.modal.title": {
-		"message": "Aplicar para {0}",
+		"message": "Candidatar a {0}",
 		"description": "Jobs apply modal title, {0} will be replaced with the job name."
 	},
 	"jobs.modal.step": {
-		"message": "Passo {0} para 2",
+		"message": "Passo {0} de 2",
 		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
 	},
 	"jobs.modal.buttons.next": {
@@ -20,7 +20,7 @@
 		"description": "Cancel, button in the modal."
 	},
 	"jobs.modal.error": {
-		"message": "Por favor, preencha todos os campos",
+		"message": "Preenche todos os campos",
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
@@ -32,7 +32,7 @@
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Para ser capaz de se inscrever, você tem que estar em nosso servidor Discord. Caso contrário, não poderemos entrar em contato com você caso seja selecionado!",
+		"message": "Para seres capaz de te candidatares, tens que estar no nosso servidor do Discord. Caso contrário, não poderemos entrar em contacto contigo caso sejas selecionado!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
@@ -52,19 +52,19 @@
 		"description": "Text before the benefits cards."
 	},
 	"jobs.benefit1.title": {
-		"message": "Conheça-nos",
+		"message": "Conhece-nos",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit1.description": {
-		"message": "Entre em contato com as pessoas por de trás do PreMiD.",
+		"message": "Entra em contacto com as pessoas por detrás do PreMiD.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit2.title": {
-		"message": "Sneak Peeks",
+		"message": "Informação Privilegiada",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
-		"message": "Dê uma olhada em nosso Desenvolvimento e Marketing.",
+		"message": "Dá uma olhadela no nosso desenvolvimento e marketing.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
@@ -76,35 +76,35 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
-		"message": "Suporta PreMiD",
+		"message": "Ajuda o PreMiD",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "Com a sua contribuição é possível executar este projeto.",
+		"message": "Com a tua contribuição é possível continuar este projeto.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
-		"message": "Tempo esgotado",
+		"message": "Tempo fora",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.description": {
-		"message": "Demore o tempo que quiser. Isto é trabalho voluntário.",
+		"message": "Demora o teu tempo. Isto é um trabalho voluntário.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
-		"message": "Acesso Antecipado",
+		"message": "Acesso antecipado",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "Teste novos recursos antes de qualquer outra pessoa.",
+		"message": "Testa novos recursos antes de qualquer outra pessoa.",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
-		"message": "Obrigado por se candidatar!",
+		"message": "Obrigado por te teres candidatado!",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
-		"message": "Você já se inscreveu antes!",
+		"message": "Já te candidataste antes!",
 		"description": "Notification when you applied already."
 	}
 }
