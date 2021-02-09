@@ -352,8 +352,8 @@ Se perceber que seus dados estão em um iFrame, você precisa fazer o seguinte:
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Obtenha todos os dados que você precisa do iframe, salve-os em variáveis
+  e os enviou usando iframe.send
   */
   iframe.send({
     //sending data
