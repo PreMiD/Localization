@@ -86,5 +86,41 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "Tava PreMiD aplikācija ir novecojusi. Lūdzu atjauniniet to, lai turpinātu izmantot PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Novecojis paplašinājums",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Jūsu paplašinājums ir novecojis. Lūdzu atjauniniet to, lai dabūtu jaunākās funkcijas, lejupielādējot to no mūsu saites.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Steidzams atjauninājums",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Mēs izlaidām steidzamu atjauninājumu prieks paplašinājuma. Lūdzu atjauniniet to, lai turpinātu lietot PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Nav interneta savienojums!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Izskatās, ka jums nav interneta savienojums! PreMiD nevarēs pašlaik parādīt presences.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Nav Discord savienojuma!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD nevarēja savienoties ar tavu Discord aplikāciju! Vai tas ir ieinstalēts un ieslēgts?\n*Problēmu novēršana*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "Viss",
+		"description": "Category name shown when you open tags"
 	}
 }
