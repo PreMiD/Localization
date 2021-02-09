@@ -12,14 +12,14 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
+এই পেজে আছে:
+1. [সাধারণ সমস্যা সমাধান](https://docs.premid.app/troubleshooting#general)
 2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
 3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# সাধারণ সমস্যা সমাধান
 ### ওয়েবপেজটি রিলোড করো
 You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
 
@@ -37,13 +37,13 @@ Many presences (including `Twitch` and `SoundCloud`) are affected by an extensio
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
-### Restart your browser
+### তোমার ব্রাউজারটি রিস্টার্ট করো
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
 
-### Restart PreMiD (Application)
+### PreMiD (অ্যাপ্লিকেশান) রিস্টার্ট করো
 ![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
-### Reload/restart Discord
+### Discord রিস্টার্ট করো
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
 ### Check if you have antivirus or firewall running on your computer
@@ -52,10 +52,10 @@ Sometimes antivirus programs and firewalls are blocking applications which are c
 ### Disable your addons
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### তোমার কম্পিউটার রিস্টার্ট করো
+আমি আশা করি তুমি জানো কীভাবে একটি কম্পিউটারকে রিস্টার্ট করতে হয়।
 
-### Reinstalling PreMiD
+### PreMiD আবার ইন্সটল করা
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
@@ -124,5 +124,5 @@ If you get this error, it means that your account doesn't have Administrator per
 3. To this folder assign `PreMiD` name (remember about upper-cased letters).
 4. Open installer again.
 
-# That has not solved my problem
-Please open a ticket in [#support](https://discord.premid.app/).
+# আমার সমস্যা সমাধান হয়নি
+একটি টিকেট খোলো [#support](https://discord.premid.app/) - এ।
