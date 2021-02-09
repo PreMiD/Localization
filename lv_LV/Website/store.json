@@ -46,5 +46,53 @@
 	"store.category.filters.allowAdult": {
 		"message": "Rādīt NSFW",
 		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Rādīt Presences, kuras patīk",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Rādīt pievienotās Presences",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Kategorijas",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Viss",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Spēles",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Mūzika",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sociālie tīkli",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Video & Straumēšana",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Cits",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Meklēt",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Aizpildīt",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Uzspied, lai noņemtu filtru",
+		"description": "Remove message for active search filters."
 	}
 }
