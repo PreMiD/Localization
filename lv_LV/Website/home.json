@@ -1,1 +1,46 @@
-{}
+{
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** ir vienkārša, konfigurējama programma, kas ļauj jums redzēt, ko jūs darāt internetā, jūsu Discord tagad spēlējiet statusā.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funkcijas",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Lejupielādes",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Spēlē spēli",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} atlikušais laiks",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} pagājis",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Atskaņo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Tiešraide",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Pārlūko...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Tu mīlēsi šīs funkcijas!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Atrodi **savu** presence",
+		"description": "Features section subheading"
+	}
+}
