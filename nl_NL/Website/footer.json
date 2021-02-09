@@ -12,7 +12,7 @@
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
-		"message": "Installeer",
+		"message": "Installeren",
 		"description": "Install button under the promotional message"
 	},
 	"footer.partners.heading": {
@@ -40,19 +40,19 @@
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "Doneer",
+		"message": "Doneren",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "Draag bij",
+		"message": "Bijdragen",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
-		"message": "Vertaal",
+		"message": "Vertalen",
 		"description": "Translate -> redirects to locilazation page"
 	},
 	"footer.supportus.jobs": {
-		"message": "Werk met ons samen!",
+		"message": "Met ons samenwerken!",
 		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
@@ -60,7 +60,7 @@
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
-		"message": "Probleemoplossingen",
+		"message": "Probleemoplossing",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {

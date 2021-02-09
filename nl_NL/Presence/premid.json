@@ -48,7 +48,7 @@
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
 	"premid.pageTroubleshooting": {
-		"message": "Probleemoplossingen",
+		"message": "Probleemoplossing",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
