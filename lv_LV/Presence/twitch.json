@@ -78,5 +78,9 @@
 	"twitch.squad": {
 		"message": "Skatās Sastāvu...",
 		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Uzrauga straumētāju:",
+		"description": ""
 	}
 }
