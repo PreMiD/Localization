@@ -87,42 +87,42 @@ This is a false positive from McAfee and we have reported the issue to them, for
 
 # اشکال‌زدایی لینوکس
 ### Distros های برپایه Ubuntu/Debian
-اگر شما دیسکورد را از طریق Snapcraft دانلود کرده‌اید، RPC کار نخواهد کرد. شما باید نسخه Snapcraft را با اجرای دستور `sudo snap remove discord` در ترمینال حذف کنید، **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[یا Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**) را دانلود کنید، سپس مستقیما به محل دایرکتوری دیسکورد بروید (معمولا `$HOME/Downloads`)، و بعد بسته را با دستور `sudo dpkg -i discord-*.deb` نصب کنید. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+اگر شما دیسکورد را از طریق Snapcraft دانلود کرده‌اید، RPC کار نخواهد کرد. شما باید نسخه Snapcraft را با اجرای دستور `sudo snap remove discord` در ترمینال حذف کنید، **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[یا Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**) را دانلود کنید، سپس مستقیما به محل دایرکتوری دیسکورد بروید (معمولا `$HOME/Downloads`)، و بعد بسته را با دستور `sudo dpkg -i discord-*.deb` نصب کنید. اگر AppImage کار نکرد، شما باید بسته های ما را با **[با این لینک](https://packagecloud.io/premid/linux)** چک کنید.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+### Distros های بر پایه Arch Linux
+Distros های بر پایه Arch Linux باید از بسته AUR (Arch User Repository) که نامیده شده <code>premid</code> یا <code>premid-git</code> استفاده کند (<em x-id="3"> اخطار: نسخه های ساخته شده این مخزن premid از منبع کد خودمان می باشد.</em>). اگر شما نمی خواهید مدیریت AUR را نصب کنید (هورا و...)، شما می توانید AppImage ما را که از طریق <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong> در معرض دانلود می باشد را چک نمایید.
+<em x-id="3">اخطار: ای بسته در <strong x-id="1">AUR</strong> repository تحت حمایت ما نمی باشد ( به عنوان تشکیلات PreMiD)، ولی در دست دیگر مردم می باشد.</em>
 
 ### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+شما باید بدانید که <strong x-id="1">PreMiD</strong> خودش را به پورت <strong x-id="1">3020</strong> تعیین می کند. این برای برقراری ارتباط بین افزونه و برنامه ضروری می باشد. اگر <strong x-id="1">PreMiD</strong> به شما خطاهایی مبطنی بر این پورت نشان می دهد، شما باید چک کنید که چیزی به پورت 3020 تعیین شده در حال اجرای <code>sudo lsof -i:3020</code> یا <code>sudo netstat -tnlp | grep :3020</code> در ترمینال شما هست یا نه. اگر بعضی پردازش ها روی این تعیین شده باشند شما باید از آزاد بودن پورت اطمینان حاصل کنید و سعی کنید که دوباره <code>PreMiD</code> را باز کنید.
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### PreMiD AppImage در حین ورود اجرا نمی شود
+همانطور که ما **Linux repository** خود را شروع نموده‌ایم، AppImage نمی تواند در ورود اجرا شود. شما می توانید به طور دستی این برنامه را به اجرای خودکار اضافه کنید با دنبال کردن مراحل زیر:
+1. فایلی را درست کنید و نامش را <strong x-id="1">rc.local</strong> بزارید در مسیر <code>/...</code>.
+2. این فایل را در ویرایشگر محبوبتان باز کنید و کد داده شده زیر را به آن اضافه کنید با انجام دادن یه سری تغییرات در آن:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# لازم است از این طریق اجرا شود /bin/bash (اگر شما از zsh استفاده می کنید و... شما می توانید تغییرش دهید.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
+مثال: /home/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. فایل را ذخیره کنید و chmod اش را به عنوان `sudo chmod a+x /etc/rc.local` اجرا کنید.
+4. کامپیوتر شخصی خود را ریستارت کنید و PreMiD AppImage باید هنگام ورود اجرا شود.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# اشکال‌زدایی MacOS
+### خطا در ساخت دایرکتوری
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+اگر شما این خطا را دریافت می کنید، بدان معناست که حساب شما دسترسی Administrator را ندارد و باید پوشه را به طور دستی با انجام مراحل زیر ایجاد کنید:
+1. Finder را باز کنید و پوشه **Applications** را باز کنید.
+2. روی فضای خالی راست کلیک کنید و روی **Create folder** بزنید.
+3. در این پوشه نام `PreMiD` را اضافه کنید (حروف بزرگ و کوچک مهم‌اند و بخاطر بسپارید).
+4. نصب کننده را دوباره باز کنید.
 
-# That has not solved my problem
-Please open a ticket in [#support](https://discord.premid.app/).
+# این نتوانست مشکل من را حل کند
+لطفا در [#support](https://discord.premid.app/) تیکت باز کنید.
