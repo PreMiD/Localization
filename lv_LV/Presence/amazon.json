@@ -50,5 +50,25 @@
     "amazon.wishlist": {
         "message": "vēlmju sarakstu",
         "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "dāvanu karšu sarakstu",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Skatās ieteikto",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Skatās savu vēsturi",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Skatās veikalu:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Skatās Prime Video:",
+        "description": ""
     }
 }

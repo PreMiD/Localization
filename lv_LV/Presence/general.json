@@ -198,5 +198,45 @@
 	"general.viewing": {
 		"message": "Skatās:",
 		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Skatās lapu:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Skatās filmu",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Skatās seriālu",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Skatās šovu",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Skatās video",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Gaida videoklipa pirmizrādi",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Gaida videoklipa pirmizrādi",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Skatās tiešraidi",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Gaida tiešraides sākumu",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Gaida tiešraides sākumu",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	}
 }
