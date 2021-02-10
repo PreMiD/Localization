@@ -164,11 +164,11 @@
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
-		"message": "Inscrever-se para parceiro",
+		"message": "Candidatura a parceiro",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "Inscrito como {0}",
+		"message": "Sessão iniciada como {0}",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -176,11 +176,11 @@
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
-		"message": "Por favor, selecione um",
+		"message": "Seleciona um",
 		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
-		"message": "Website",
+		"message": "Site",
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
@@ -224,7 +224,7 @@
 		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
-		"message": "Aplicar",
+		"message": "Candidatar",
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
@@ -232,7 +232,7 @@
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
-		"message": "Por favor, preencha todos os campos.",
+		"message": "Por favor preenche todos os campos.",
 		"description": "Error when a field isn't filled."
 	},
 	"partners.apply.error2": {
@@ -244,7 +244,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Você já se inscreveu para parceiro antes.",
+		"message": "Já te candidataste a parceiro.",
 		"description": "Error when already applied."
 	}
 }
