@@ -306,8 +306,8 @@ Use os seguintes métodos para obter informações de configurações em seus ar
 #### `getSetting(String)`
 Retorna valor da configuração.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); //Substitua pdexID pelo id da configuração
+console.log(setting); // Isto registrará o valor da configuração
 ```
 
 #### `hideSetting(String)`
