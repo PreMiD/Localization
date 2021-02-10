@@ -293,12 +293,12 @@ Visualização do arquivo:
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Depois de ter feito o arquivo com as strings, você pode criar um Pull Request no [Repositório Localization](https://github.com/PreMiD/Localization), na descrição você **deve** incluir um link para seu Pull Request da presence atualizada usando estas novas strings do [Repositório Presence](https://github.com/PreMiD/Presences).
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Keys padrões
+As keys que você não precisa definir são automaticamente definidas para o seguinte: `title`: "Language" **Nota**: Isto é traduzido para seu idioma padrão (idioma do navegador). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Configure no idioma do navegador se estiver disponível (100% traduzido), caso contrário, em inglês.** `values`: **Configure para os idiomas disponíveis (idiomas que têm isso 100% traduzido).**
 
-**Note:** These are in no way changeable.
+**Nota:** Estes não são de forma alguma alteráveis.
 
 ### Métodos
 
