@@ -33,7 +33,7 @@ PreMiD **nedarbojas** uz Discord pārlūkprogrammas versijas, jums ir jālejupie
 Ļoti svarīgi. Discord RPC nedarbosies, ja Discord palaidīsiet, kā administratoru.
 
 ### Vai izmantojat presence ar iestatījumiem?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+Daudzas presences (tostarp `Twitch` un `SoundCloud` tiek ietekmēti dēļ paplašinājuma kļūdas. Šīs kļūdas dēļ paplašinājums pareizi neuztver iestatījumu noklusējuma vērtības.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
 
