@@ -34,5 +34,45 @@
     "1337x.gamesTorrents": {
         "message": "Skatās Spēļu Torrentus",
         "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Skatās Filmu Torrentus",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Skatās Mūziku Torrentus",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Skatās Citus Torrentus",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Skatās TV Torrentus",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Skatās XXX Torrentus",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Kaut ko augšupielādē...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Lasa noteikumus",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Raksta 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Lasa par 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Skatās torrentu:",
+        "description": ""
     }
 }
