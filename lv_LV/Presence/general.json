@@ -1,1 +1,46 @@
-{}
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Pārlūko...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Sadaļa",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Rediģē:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Epizode",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forums",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Žanrs",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Valoda",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Klausās mūziku",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Klausītāji",
+		"description": ""
+	}
+}
