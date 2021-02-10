@@ -81,16 +81,16 @@ MacOS:`~/users/USER/~Library/Application Support/`un izdzēšat mapi`PreMiD``.
 10. McAfee tagad vajadzētu ignorēt mūsu failu, vienkārši palaidiet mūsu lietotni un jums visam vajadzētu iet labi.
 
 ### PreMiD statuss kļūdains Discord!
-Neuztraucies. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+Neuztraucies. Nospiediet taustiņus <kbd>CTRL+R</kbd> (Windows) vai <kbd>CMD+R</kbd> (MacOS) kamēr fokusējat uz jūsu Discord logu, lai to atkārtoti ielādētu.
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Linux problēmu novēršana
+### Ubuntu/Debian balstītas distribūcijas
+Ja Discord esat lejupielādējis izmantojot Snapcraft, RPC nedarbosies. Jums ir jāatinstalē Snapcraft versija, izpildot `sudo snap remove discord` terminālā. Lejupielādējiet **[Discord Linux būvējumu](https://discordapp.com/api/download?platform=linux)**(**[vai Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), pēc tam pārejiet uz direktoriju, kurā lejupielādējāt Discord (parasti `$HOME/Downloads`), pēc tam uzstādiet pakotni, izmantojot `sudo dpkg -i discord-*.dev`. Ja AppImage nedarbojas, apsveriet iespēju pārbaudīt citas mūsu paketes, izmantojot **[šo saiti](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
+### Arch Linux balstītas distribūcijas
+Arch Linux balstītām distribūcijām vajadzētu izmantot AUR (Arch User Repository) Paketi, kuras nosaukums ir <code>premid</code> vai <code>premid-git</code> (<em x-id="3">UZMANĪBU: Šis repozitorijs ir izveidots, izmantojot avota kodu.</em>). Ja nevēlaties instalēt AUR pārvaldnieku (yay utt.), varat apskatīt mūsu AppImage, kuru var lejupielādēt no mūsu <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repozitorija</a></strong>.
 <em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
 
 ### Port binding
