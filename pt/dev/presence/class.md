@@ -200,26 +200,26 @@ console.log(logs); // Isto registrará os últimos 100 logs (em uma array).
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Registra a mensagem fornecida no console em um formato baseado na presence no estilo `info`.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Isto registrará "test" no estilo correto.
 ```
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Registra a mensagem fornecida no console em um formato baseado na presence no estilo `success`.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Isto registrará "test" no estilo correto.
 ```
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Registra a mensagem fornecida no console em um formato baseado na presence no estilo `error`.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Isto registrará "test" no estilo correto.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
