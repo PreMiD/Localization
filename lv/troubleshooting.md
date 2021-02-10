@@ -1,6 +1,6 @@
 ---
-title: Troubleshooting
-description: Everything to solve your problem
+title: Problēmu novēršana
+description: Viss, lai atrisinātu jūsu problēmu
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,14 +8,14 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Pārliecinaties, vai esat uzstādījis paplašinājumu **un** aplikāciju! 
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+Iekļauts šajā lapā:
+1. [Vispārīgu problēmu novēršana](https://docs.premid.app/troubleshooting#general)
+2. [Linux problēmu novēršana](https://docs.premid.app/troubleshooting#linux)
+3. [MacOS problēmu novēršana](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
