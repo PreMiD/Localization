@@ -42,5 +42,49 @@
 	"general.listeners": {
 		"message": "Klausītāji",
 		"description": ""
+	},
+	"general.live": {
+		"message": "Tiešraide",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Preces",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Lapa",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Apstādināts",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Atskaņo",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Lasa DMs no:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Lasa par:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Lasa rakstu:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Lasa kanālā:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Lasa ziņas:",
+		"description": ""
 	}
 }
