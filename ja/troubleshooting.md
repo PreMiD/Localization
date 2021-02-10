@@ -79,7 +79,7 @@ Windowsの場合は、`C:\Users\ユーザー名\AppData\Roaming\ `に行き、`P
 9. "PreMiD"フォルダーを開き、"PreMiD.exe"を選択して開きます。 <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfeeがファイルを無視するので、あとは起動するだけです。
 
-### PreMiD status bugged on discord!
+### PreMiDのステータスが正常に表示されない時
 Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
