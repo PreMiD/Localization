@@ -86,5 +86,117 @@
 	"general.readingPost": {
 		"message": "Lasa ziņas:",
 		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Lasa pavedienu:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Lasa",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Meklē:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Kaut ko meklē...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Meklē",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Iepirkumu grozs",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Veikals",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Raksta DMs:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Raksta kanālā:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Skatās anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Skatās kategoriju:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Skatās kanālu:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Skatās epizodi:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Skatās žanru:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Skatās mājas lapu",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Skatās sarakstu ar:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Skatās manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Skatās lietotāju:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Skatās filmu:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Skatās atskaņošanas sarakstu:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Skatās produktu:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Skatās profilu:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Skatās seriālu:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Skatās šovu:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Skatās savu kontu",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Skatās pavedienu:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Skatās lietotāju:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Skatās:",
+		"description": ""
 	}
 }
