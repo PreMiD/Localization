@@ -81,7 +81,7 @@ This is a false positive from McAfee and we have reported the issue to them, for
 10. از الان به بعد McAfee دیگر نباید کاری به فایل هایمان داشته باشد، برنامه را دوباره باز کنید و از این به بعد همه چیز باید خوب پیش برود.
 
 ### وضعیت PreMiD در دیسکورد باگ خورده!
-نگران نباشید. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+نگران نباشید. دکمه های <kbd>CTRL+R</kbd> (Windows) یا <kbd>CMD+R</kbd> (MacOS) را هنگامی که روی پنجره دیسکورد خود متمرکز هستید را باهم فشار دهید تا صفحه دوباره بارگزاری شود.
 
 <a name="linux"></a>
 
