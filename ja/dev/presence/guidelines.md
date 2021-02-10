@@ -170,8 +170,8 @@ A list of fields and their rules are listed below:
 
 ### **`logo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- ロゴは`1:1`のアスペクト比を持つ、正方形の画像でなければなりません。
+- ロゴに使う画像はサイズを`512x512`(pixel)以上にしてください。 [waifu2x](http://waifu2x.udp.jp/)などのサイトで画像を大きくすることができます。
 
 ### **`thumbnail`**
 
