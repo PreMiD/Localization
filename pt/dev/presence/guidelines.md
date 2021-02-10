@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Diretrizes
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Para alguns, essas regras estritas podem parecer duras. However, the implementation of these rule sets will keep us and our users from running into issues.
+Ao publicar Presences em [nosso Repositório GitHub](https://github.com/PreMiD/Presences), nós exigimos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # Criação
 
