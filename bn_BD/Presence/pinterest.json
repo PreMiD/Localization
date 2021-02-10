@@ -1,1 +1,18 @@
-{}
+{
+    "pinterest.board": {
+        "message": "দেখছে বোর্ড:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "দেখছে একটি পিন",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "দেখছে তার ফলোইং",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "তার হোমপেজ এডিট করছে",
+        "description": ""
+    }
+}
