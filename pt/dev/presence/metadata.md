@@ -252,9 +252,9 @@ A configuração `multiLanguage` é um caso especial, não requer uma configura�
 
 A key `multiLanguage` pode ser ajustada para o seguinte:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: use isto se você só vai usar strings do arquivo `general.json` e do arquivo `<service>.json` do [Repositório Localization](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: nome do arquivo excluindo a extensão (.json) dentro do [Repositório Localization](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluindo o arquivo `general`, já que está sempre carregado). Somente os idiomas comuns de ambos os `general` e arquivo inserido serão listados. `Array<String>`: se você estiver usando mais de um arquivo dentro do [Repositório Localization](https://github.com/PreMiD/Localization/tree/master/src/Presence) você pode especificar todos os valores em um array (excluindo o arquivo `general`, já que ele está sempre carregado). Apenas idiomas comuns de todos os arquivos serão listados.
 
-#### Adding new strings
+#### Adicionando novas strings
 
 ##### Clonando o projeto
 
@@ -262,33 +262,33 @@ A key `multiLanguage` pode ser ajustada para o seguinte:
 2. Escolha uma pasta que preferir.
 3. Abra isso no seu editor de código.
 
-##### Creating the file
+##### Criação do arquivo
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Vá para a pasta `src`.
+2. Vá para a pasta `Presence`.
+3. Crie um arquivo chamado `<service>.json`. (Service é o **nome** (não uma URL) em letras minúsculas do serviço que você deseja dar suporte.)
 
-##### Adding the strings
+##### Adicionando as strings
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Cada `string` é um `Objeto` onde a partir do nome começa com o nome do serviço e depois o chamado stringName com um ponto entre eles.
 
-The stringName is a 1 word identifier of the message.
+O stringName é um identificador de 1 palavra da mensagem.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+O `Objeto` tem 2 propriedades; `message` e `description`. `message` é o texto que precisa ser traduzido. `description` é uma descrição da mensagem para ajudar nossos tradutores a entender o que eles estão traduzindo.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Nota:** Não adicione nenhuma frase duplicada. (Isso inclui strings do arquivo `general.json` mas não os outros arquivos.)
 
-Visualization of the the file:
+Visualização do arquivo:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Texto que precisa ser traduzido.",
+    "description": "Isso explica o que a mensagem acima é."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Texto que precisa ser traduzido.",
+    "description": "Isso explica o que a mensagem acima é."
   }
 }
 ```
