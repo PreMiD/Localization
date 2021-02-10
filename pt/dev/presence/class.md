@@ -136,8 +136,8 @@ if (oldLang !== newLang) {
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // resulta: Reproduzindo
+const pauseString = strings.pause; // resulta: Pausado
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Retorna uma variável a partir do site, se ela existir.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Isso irá registrar o "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -157,9 +157,9 @@ Retorna a versão da extensão que o usuário está usando.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Irá registrar 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Irá registrar 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -331,11 +331,11 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "Meu titulo",
+  state: "Minha descrição",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "Você me apontou, e agora?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
