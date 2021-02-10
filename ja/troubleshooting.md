@@ -84,9 +84,9 @@ Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) k
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-Snapcraftを使用してDiscordをダウンロードした場合、リッチプレゼンスは使えません。 You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Linuxユーザー向け
+### Ubuntu/Debian基準の環境では
+Snapcraftを使用してDiscordをダウンロードした場合、リッチプレゼンスは使えません。 その場合、コンソールでSnapcraft版Discordを `sudo snap remove discord` と実行してアンインストールし、[Discord Linux版](https://discordapp.com/api/download?platform=linux) (または[ Discord Canary Linux版](https://discordapp.com/api/canary/download?platform=linux)) をダウンロードした後、Discordをダウンロードした場所 (普通は`$HOME/Downloads`) に行き、 `sudo dpkg -i discord-*.deb` と実行してパッケージをインストールする必要がります。 If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
 ### Arch Linux based distros
 Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
@@ -113,7 +113,7 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
+# MacOSユーザー向け
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
@@ -124,4 +124,4 @@ If you get this error, it means that your account doesn't have Administrator per
 4. Open installer again.
 
 # 実行しても問題が解決しませんでしたか？
-Please open a ticket in [#support](https://discord.premid.app/).
+PreMiDのDiscordサーバー内の[#support](https://discord.premid.app/)でチケットを開いてください。
