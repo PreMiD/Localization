@@ -164,39 +164,39 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Retorna o valor da configuração.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); //Substitua pdexID pelo id da configuração
+console.log(setting); // Isto registrará o valor da configuração
 ```
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Esconde a configuração fornecida.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Substitua pdexID pelo id da configuração
 ```
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Mostra a configuração fornecida (Somente funciona se a configuração já estava escondida).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Substitua pdexID pelo id da configuração
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Retorna os logs do console do site.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Isto registrará os últimos 100 logs (em uma array).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Nota:** Requer que `readLogs` seja `true` no arquivo `metadata.json`.
 
 ### `info(String)`
 
