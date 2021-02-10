@@ -89,10 +89,10 @@ Retorna um objeto [`PresenceData`](/dev/presence/class#presencedata-interface) d
 
 Define os dados dos slides de acordo com os dados fornecidos.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Você deve fornecer uma interface `PresenceData` para obter todas as informações que por fim você deseja exibir em seu perfil.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Define o intervalo do slide de acordo com os dados fornecidos.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Você deve fornecer um `Número` que é a quantidade de tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
