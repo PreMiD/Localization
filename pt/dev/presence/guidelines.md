@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Diretrizes
 
-Ao publicar Presences em [nosso Repositório GitHub](https://github.com/PreMiD/Presences), nós exigimos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. However, the implementation of these rule sets will keep us and our users from running into issues.
+Ao publicar Presences em [nosso Repositório GitHub](https://github.com/PreMiD/Presences), nós exigimos que você siga um conjunto de diretrizes. Para alguns, essas regras estritas podem parecer duras. Entretanto, a implementação desses conjuntos de regras impedirá a nós e a nossos usuários de nos depararmos com problemas.
 
 # Criação
 
@@ -202,7 +202,7 @@ Uma lista de campos e de suas regras está listada abaixo:
 
 - Se você decidir fazer uma string de formato (por exemplo, `%song% por %artist%`), você tem que ter as variáveis cercadas por um simbolo de porcentagem em cada lado. Variáveis como `%var`, `var%`, ou `%%var%%` e qualquer coisa parecida, **não** são permitidas, para fins de padronização.
 - O nome das configurações **não** devem ser em letras maiúsculas. Por exemplo, nomes como `MOSTRAR STATUS DE NAVEGAÇÃO` **não** serão permitidas; mas, nomes como `Mostrar Status de Navegação` ou `Mostrar status de navegação` serão permitidas.
-- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
+- Adicionando strings personalizadas ao [Repositório de Localização](https://github.com/PreMiD/Localization) para serem usadas posteriormente dentro da configuração `multiLanguage` só é permitida se a presença já tiver sido liberada antes e tiver adquirido pelo menos 1000 usuários.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
