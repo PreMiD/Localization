@@ -1,1 +1,26 @@
-{}
+{
+    "youtube.upload": {
+        "message": "Kaut ko augšupielādē...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Skatās visus savus atskaņošanas sarakstus",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Skatās savus tiešraides notikumus",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Skatās savu tiešraides infopaneli",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Skatās savu audio bibliotēku",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Skatās savus videoklipus",
+        "description": ""
+    }
+}
