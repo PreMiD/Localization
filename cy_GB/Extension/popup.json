@@ -31,6 +31,10 @@
 		"message": "Bar Dewislen Teitl",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
+	"popup.setting.autoLaunch": {
+		"message": "Lansio yn automateg",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
 	"popup.buttons.help": {
 		"message": "Angen cymorth?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
