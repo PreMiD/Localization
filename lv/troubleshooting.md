@@ -102,24 +102,24 @@ Kā mēs norādījām mūsu **Linux repozitorijā**, AppImage nevar palaist, pie
 2. Atveriet šo failu iecienītākajā redaktorā un ielīmējiet norādīto kodu, mainot dažas lietas:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# Nepieciešams, lai palaistu kā /bin/bash (ja izmantojat zsh utt. jūs to varat mainīt.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
+# Piemērs: /home/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Saglabājiet failu un chmod to kā izpildāmo failu `sudo chmod a+x /etc/rc.local`.
+4. Restartējiet datoru un PreMiD AppImagine vajadzētu palaisties, pieslēdzoties.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# MacOS problēmu novēršana
+### Veidojot direktoriju, radās kļūda
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
+Ja jūs saņemiet šo kļūdu, tas nozīmē, ka jūsu kontam nav Administratora atļauju, un jums ir jāizveido mape manuāli, veicot šādas darbības:
+1. Atveriet meklētāju un atveriet **Applications** mapi.
 2. Right-click on blank space and click **Create folder**.
 3. To this folder assign `PreMiD` name (remember about upper-cased letters).
 4. Open installer again.
