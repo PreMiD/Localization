@@ -1,1 +1,18 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Skatās abonementus",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Skatās savu reklāmu priekšrocību",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Skatās savu atlikumu",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Skatās savas maksājuma metodes",
+        "description": ""
+    }
+}
