@@ -70,13 +70,13 @@ MacOS:`~/users/USER/~Library/Application Support/`un izdzēšat mapi`PreMiD``.
 > {.is-warning}
 
 1. Atveriet lietotni McAfee un augšējā labajā stūrī noklikšķiniet uz iestatījumu ikonas. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+2. Spied uz "Karantīnā ievietotie vienumi" (Otrais no augšas).
+3. Izvērsiet to un uzspiediet uz `>` ikonas pirms vienuma ar nosaukumu "settings.dat".
+4. Pārliecinieties, vai ceļā ir iekļauts "AppData\Local\Temp\PreMiD", ja tā, atlasiet to un nospiediet atjaunot. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Pēc tā atjaunošanas varat aizvērt uznirstošo logu "Karantīna ievietotie vienumi", pēc tam augšējā labajā stūrī vēlreiz nospiediet iestatījumu ikonu.
+6. Uzspiediet uz "Real-Time Scanning" (trešais no augšas).
+7. Izvērsiet to un uzspiediet uz "Add file".
+8. Failu pārvaldnieka URL joslā ierakstiet "%appdata%" un nospiediet Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
 9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee should now ignore our file, just launch our application and you should be good to go.
 
