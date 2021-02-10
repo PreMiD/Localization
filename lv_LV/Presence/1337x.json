@@ -1,1 +1,38 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Skatās filmu bibliotēku",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Skatās sēriju bibliotēku",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Skatās jaunākās epizodes",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Skatās top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Skatās tendences",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Skatās Anime Torrentus",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Skatās aplikāciju Torrentus",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Skatās Dokumentālo Filmu Torrentus",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Skatās Spēļu Torrentus",
+        "description": ""
+    }
+}
