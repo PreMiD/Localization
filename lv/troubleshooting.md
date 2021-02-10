@@ -77,11 +77,11 @@ MacOS:`~/users/USER/~Library/Application Support/`un izdzēšat mapi`PreMiD``.
 6. Uzspiediet uz "Real-Time Scanning" (trešais no augšas).
 7. Izvērsiet to un uzspiediet uz "Add file".
 8. Failu pārvaldnieka URL joslā ierakstiet "%appdata%" un nospiediet Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+9. Atveriet "PreMiD" mapi un atlasiet "PreMiD.exe" failu un uzspiediet uz atvērt. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. McAfee tagad vajadzētu ignorēt mūsu failu, vienkārši palaidiet mūsu lietotni un jums visam vajadzētu iet labi.
 
-### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+### PreMiD statuss kļūdains Discord!
+Neuztraucies. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 
