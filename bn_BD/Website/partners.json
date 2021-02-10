@@ -11,6 +11,10 @@
 		"message": "তোমার ফ্রি Presence",
 		"description": "Heading for the first benefit."
 	},
+	"partners.why.benefit1.description": {
+		"message": "আমাদের টিম তোমাকে দেবে তোমার সার্ভিসের একটি Presence।",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "ভেরিফাইড হয়ে যাও",
 		"description": "Heading for the second benefit."
@@ -58,6 +62,10 @@
 	"partners.apply.button": {
 		"message": "অ্যাপ্লাই করো এখনই!",
 		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "চলো আমরা একসাথে স্বর্গে যাই!",
+		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
 		"message": "তুমি যদি বরং আগ্রহী হও PreMiD তে সরাসরি কাজের, তাহলে দেখতে পারো আমাদের **কাজের বিজ্ঞপ্তি**।",
