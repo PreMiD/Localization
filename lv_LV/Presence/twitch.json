@@ -82,5 +82,17 @@
 	"twitch.modStreamer": {
 		"message": "Uzrauga straumētāju:",
 		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Aktivizē kodu...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Satura Veidotāju Nometne",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Iemācies Pamatus",
+		"description": "Page name"
 	}
 }
