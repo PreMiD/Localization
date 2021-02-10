@@ -91,15 +91,15 @@ Ja Discord esat lejupielādējis izmantojot Snapcraft, RPC nedarbosies. Jums ir 
 
 ### Arch Linux balstītas distribūcijas
 Arch Linux balstītām distribūcijām vajadzētu izmantot AUR (Arch User Repository) Paketi, kuras nosaukums ir <code>premid</code> vai <code>premid-git</code> (<em x-id="3">UZMANĪBU: Šis repozitorijs ir izveidots, izmantojot avota kodu.</em>). Ja nevēlaties instalēt AUR pārvaldnieku (yay utt.), varat apskatīt mūsu AppImage, kuru var lejupielādēt no mūsu <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repozitorija</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+<em x-id="3">Uzmanību: paketi <strong x-id="1">AUR</strong> repozitorijā nevis mēs uzturam (kā PreMiD organizācija), bet gan citi cilvēki.</em>
 
-### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+### Portu saistīšana
+Jums būtu jāzina, ka <strong x-id="1">PreMiD</strong> saista pats sevi ar portu <strong x-id="1">3020</strong>. Tas ir nepieciešams, lai Paplašinājums un Lietotne varētu komunicēt. Ja <strong x-id="1">PreMiD</strong> parāda kļūdu par šo portu, jums jāpārbauda, vai kaut kas ir saistīts ar 3020 portu, palaižot <code>sudo lsof -i:3020</code> vai <code>sudo netstat -tnlp | grep :3020</code> jūsu terminālā. Ja kāds process ir saistīts ar to, noteikti atbrīvojiet portu un mēģiniet palaist <code>PreMiD</code> vēlreiz.
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### PreMiD AppImage netiek palaists, pieslēdzoties
+Kā mēs norādījām mūsu **Linux repozitorijā**, AppImage nevar palaist, pieslēdzoties. Tu to vari pievienot automātiskai palaišanai, veicot šādas darbības:
+1. Izveidojiet failu <strong x-id="1">rc.local</strong> <code>/etc</code> direktorijā.
+2. Atveriet šo failu iecienītākajā redaktorā un ielīmējiet norādīto kodu, mainot dažas lietas:
 ```bash
 #!/bin/bash
 # Required to run as /bin/bash (if you use zsh etc. you can change it.)
