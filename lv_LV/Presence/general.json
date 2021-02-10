@@ -216,7 +216,7 @@
 		"description": ""
 	},
 	"general.watchingVid": {
-		"message": "Skatās video",
+		"message": "Skatās videoklipu",
 		"description": ""
 	},
 	"general.waitingVid": {
@@ -238,5 +238,41 @@
 	"general.waitingLiveThe": {
 		"message": "Gaida tiešraides sākumu",
 		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Skatās:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Vēlmju saraksts:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Privātuma politika",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Pakalpojuma noteikumi",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Sīkdatņu Politika",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Atkārto visas dziesmas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Atkārtošana",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Starpgadījumu vēsture",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Darbības vēsture",
+		"description": "A page name of statuspages"
 	}
 }
