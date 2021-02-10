@@ -83,6 +83,14 @@
 		"message": "এইভাবে অ্যানিমে দেখতে হয়।",
 		"description": "Description for AniFlix."
 	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings হচ্ছে একটি পরবর্তী প্রজন্মের PvP এরিনা গেম যা ব্রাউজারে খেলা যায়।",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.iLoot": {
+		"message": "গেমারের আয়ের প্ল্যাটফর্ম।",
+		"description": "Description for iLoot."
+	},
 	"partners.apply.title": {
 		"message": "পার্টনারের জন্য অ্যাপ্লাই করো",
 		"description": "Partnership application modal title."
