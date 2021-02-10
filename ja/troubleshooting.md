@@ -19,7 +19,7 @@ Included on this page:
 
 <a name="general"></a>
 
-# General troubleshooting
+# 基本的なトラブルシューティング
 ### ページを再読み込みする
 <kbd>Ctrl+R</kbd>/<kbd>F5</kbd>(Windows) か、<kbd>CMD+R</kbd>(MacOS) を押してみてください。もしくはリロード（再読み込み）ボタンを押してみてください。
 
@@ -117,11 +117,11 @@ exit 0
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
+このエラーが発生した場合は、フォルダーを手動で作成する必要があります。
 1. Open finder and open **Applications** folder.
 2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+3. 作成したフォルダーに、`PreMiD`と名前をつけてください。（大文字と小文字を区別するため、コピーして貼り付けることを推奨します。）
+4. インストーラーをもう一度開きます。
 
 # 実行しても問題が解決しませんでしたか？
 PreMiDのDiscordサーバー内の[#support](https://discord.premid.app/)でチケットを開いてください。
