@@ -224,7 +224,7 @@ presence.info("Test") // Isto registrará "test" no estilo correto.
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Retorna 2 `snowflake` timestamps em uma `Array` que pode ser usado para `startTimestamp` e `endTimestamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** A `String` fornecida no querySelector é um exemplo.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Retorna 2 `snowflake` timestamps em uma `Array` que pode ser usado para `startTimestamp` e `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** A `String` fornecida no querySelector é um exemplo.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Converte uma string com formato `HH:MM:SS`, `MM:SS` ou `SS` em um número inteiro (Não retorna snowflake timestamp).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -259,11 +259,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** A `String` fornecida no querySelector é um exemplo.
 
 ## Interface `presenceData`
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+A interface `presenceData` é recomendada quando você usar o método `setActivity()`.
 
 Essa interface possui as seguintes variáveis, todas elas são opcionais.
 
@@ -302,8 +302,7 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Define a duração total.
         <br>Usado se você quiser mostrar quantos <code>horas:minutos:segundos</code> faltam.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Você deve converter seu tempo em <code>timestamp</code> ou você receberá uma contagem regressiva errada.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -348,7 +347,7 @@ Os eventos permitem que você detecte e lide com algumas alterações ou chamada
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Faz algo quando os dados são atualizados.
 });
 ```
 
