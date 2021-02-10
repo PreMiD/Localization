@@ -50,27 +50,27 @@ PreMiD با نسخه های وب دیسکورد کار **نمی کند**، شم�
 بعضی مواقع برنامه های ضد ویروس یا دیوار آتش مانع اجرای برنامه هایی می شوند که درحال ساخت/میزبانی سرور هستند یا فقط درحال به اینترنت می باشند. ما از سرور محلی برای دریافت و انتقال اطلاعات بین برنامه و افزونه‌مان استفاده می کنیم، پس اگر شما دسترسی انتقال اطلاعات برنامه را بلاک کنید، احتمالا نمی توانید از PreMiD استفاده کنید.
 
 ### Disable your addons
-همه افزونه های خود را غیر فعال کنید و ببینید که کار می کند یا نه. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+همه افزونه های خود را غیر فعال کنید و ببینید که کار می کند یا نه. اگر بله، سعی کنید افزونه های خود را یکی یکی فعال کنید و امتحان کنید، و بعد به ما افزونه ای که PreMiD را خراب کرده به ما بگویید.
 
 ### Restarting your computer
-I hope you know how to restart a computer.
+امیدوارم بدونید که چطور میشه کامپیوتر رو ریستارت کرد.
 
 ### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+بعضی مواقع مشکل از فایل ها می‌باشد... آموزش برای نصب را می توانید از [اینجا](/install) بیابید.
 
 ### Manual removal
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+Windows:    `C:\Users\USER\AppData\Roaming\`` و حذف کنید پوشه`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`و حذف کنید پوشه`PreMiD``.
 
-### McAfee detected PreMiD as virus (Windows)
+### McAfee برنامه PreMiD را به عنوان ویروس شناسایی کرده (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
 > اگر مطمعن نیستید که این مراحل را انجام دهید، می توانید یک تیکت در [#support](https://discord.premid.app/) ایجاد کنید و یکی از پشتیبانان ما در دسترس برای کمک به شما خواهد بود! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
+1. برنامه McAfee را باز کنید و روی آیکن تنظیمات در سمت راست بالا کلیک کنید. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. روی "Quarantined Items" کلیک کنید (مورد دوم از بالا).
 3. Expand it, and click the `>` icon before an item with the name "settings.dat".
 4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
