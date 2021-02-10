@@ -380,7 +380,7 @@ Abra um console na sua pasta e digite `tsc -w` para compilar o `presence.ts` na 
 
 # Carregando a presença
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Clique no ícone da extensão e segure o botão <kbd>Shift</kbd> em seu teclado.
 2. O botão **Carregar presença** aparecerá na seção das Presenças.
 3. Clique nele enquanto estiver segurando o botão <kbd>Shift</kbd>.
 4. Selecione a pasta /dist da sua presença.
@@ -394,7 +394,7 @@ O site que você está desenvolvendo está recarregando automaticamente toda vez
 ## Depuração
 
 - Você pode colocar `console.log("Test");` entre seu código e ver se o console do seu navegador lhe dá essa saída. Se sim, então continue e tente novamente depois da próxima função. Se não, então há um erro acima.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Se isso não te ajudar, peça ajuda a um desenvolvedor de presenças no nosso [servidor do Discord](https://discord.premid.app/).
 
 # Arquivos explicados
 
