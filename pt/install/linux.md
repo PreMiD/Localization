@@ -18,12 +18,12 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
 
 - **[Sobre](#about)**
   - [Estatísticas](#stats)
-  - [Requirements](#requirements)
+  - [Requisitos](#requirements)
   - Exemplos (em breve)
   - Perguntas Frequentes (em breve)
   - Construção (em breve)
   - [Suporte](#support)
-  - [Credits](#credits)
+  - [Creditos](#credits)
   - [Licença](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _nunca_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMENDADO_)
@@ -41,7 +41,7 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
 
 <a name="stats"></a>
 
-### Stats
+### Estatísticas
 
 <table>
   <tr>

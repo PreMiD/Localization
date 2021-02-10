@@ -19,18 +19,18 @@ Iekļauts šajā lapā:
 
 <a name="general"></a>
 
-# General troubleshooting
-### Reload the page
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+# Vispārīgu problēmu novēršana
+### Pārlādējiet lapu
+Jūs varat nospiest <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) vai <kbd>CMD+R</kbd> (MacOS) uz tastatūras, nevis meklēt atsvaidzināšanas pogu.
 
-### Are you using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### Vai jūs izmantojat lietotni Discord?
+PreMiD **nedarbojas** uz Discord pārlūkprogrammas versijas, jums ir jālejupielāde lietotne [šeit](https://discord.com/download).
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Pārliecinaties, vai iestatījumos esat iespējojis Discord Spēļu Aktivitāti
+**Lietotaja Iestatījumi** > **Spēļu Aktivitāte** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Pārliecinaties, ka Discord NEIET, kā administrators
+Ļoti svarīgi. Discord RPC will not work if you run Discord as an administrator.
 
 ### Are you using a presence with settings?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
