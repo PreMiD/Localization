@@ -120,9 +120,9 @@ exit 0
 
 Ja jūs saņemiet šo kļūdu, tas nozīmē, ka jūsu kontam nav Administratora atļauju, un jums ir jāizveido mape manuāli, veicot šādas darbības:
 1. Atveriet meklētāju un atveriet **Applications** mapi.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+2. Ar peles labo pogu uzspiediet uz tukšas vietas un uzspiediet uz **Create folder**.
+3. Šai mapei piešķiriet `PreMiD` nosaukumu (atceries par lielajiem burtiem).
+4. Atver uzstādītāju atkal.
 
-# That has not solved my problem
-Please open a ticket in [#support](https://discord.premid.app/).
+# Tas neatrisināja manu problēmu
+Lūdzu atveriet biļeti [#support](https://discord.premid.app/).
