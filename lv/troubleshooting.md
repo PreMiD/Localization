@@ -30,9 +30,9 @@ PreMiD **nedarbojas** uz Discord pārlūkprogrammas versijas, jums ir jālejupie
 **Lietotaja Iestatījumi** > **Spēļu Aktivitāte** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Pārliecinaties, ka Discord NEIET, kā administrators
-Ļoti svarīgi. Discord RPC will not work if you run Discord as an administrator.
+Ļoti svarīgi. Discord RPC nedarbosies, ja Discord palaidīsiet, kā administratoru.
 
-### Are you using a presence with settings?
+### Vai izmantojat presence ar iestatījumiem?
 Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
 
 To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
