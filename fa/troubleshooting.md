@@ -12,14 +12,14 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+شامل شده در این صفحه:
+1. [اشکال‌زدایی کلی](https://docs.premid.app/troubleshooting#general)
+2. [اشکال‌زدایی لینوکس](https://docs.premid.app/troubleshooting#linux)
+3. [اشکال‌زدایی MacOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# اشکال‌زدایی کلی
 ### صفحه را مجددا بارگزاری کنید
 شما می توانید با فشردن <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) یا <kbd>CMD+R</kbd> (MacOS) در صفحه کلیدتان نیز بجای پیدا کردن دکمه بارگزاری مجدد، فشار دهید.
 
@@ -47,10 +47,10 @@ PreMiD با نسخه های وب دیسکورد کار **نمی کند**، شم�
 <kbd>CTRL+R</kbd> (Windows) یا <kbd>CMD+R</kbd> (MacOS) را روی صفحه کلید خود فشار دهید یا به طور دستی دیسکورد خود را مجددا باز نمایید.
 
 ### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+بعضی مواقع برنامه های ضد ویروس یا دیوار آتش مانع اجرای برنامه هایی می شوند که درحال ساخت/میزبانی سرور هستند یا فقط درحال به اینترنت می باشند. ما از سرور محلی برای دریافت و انتقال اطلاعات بین برنامه و افزونه‌مان استفاده می کنیم، پس اگر شما دسترسی انتقال اطلاعات برنامه را بلاک کنید، احتمالا نمی توانید از PreMiD استفاده کنید.
 
 ### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+همه افزونه های خود را غیر فعال کنید و ببینید که کار می کند یا نه. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
 
 ### Restarting your computer
 I hope you know how to restart a computer.
