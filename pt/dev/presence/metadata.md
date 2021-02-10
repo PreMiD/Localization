@@ -246,11 +246,11 @@ Defina configurações interativas para que os usuários possam personalizar a p
 
 A configuração `multiLanguage` é usada para permitir que os usuários selecionem manualmente o idioma em que querem que a presence seja mostrada. Isto requer que você use strings de nossa [API](https://api.premid.app/v2/langFile/presence/en), para informações sobre como adicionar strings clique [aqui](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Configuração
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+A configuração `multiLanguage` é um caso especial, não requer uma configuração `título` nem `icon` nem `valor` ou `valores` como outras configurações, mas requer mais algumas coisas para configurar!
 
-The `multiLanguage` key can be set to the following:
+A key `multiLanguage` pode ser ajustada para o seguinte:
 
 `true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
 
