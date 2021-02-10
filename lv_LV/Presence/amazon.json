@@ -14,5 +14,41 @@
     "amazon.payment": {
         "message": "Skatās savas maksājuma metodes",
         "description": ""
+    },
+    "amazon.address": {
+        "message": "Skatās savas adreses",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Skatās savus mājdzīvniekus",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Skatās visas kategorijas",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Skatās Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Skatās savu",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "pasūtījumu vēsturi",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "pasūtījuma informāciju",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "iepirkumu grozu",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "vēlmju sarakstu",
+        "description": "Part 2 of the string: \"Viewing their\""
     }
 }
