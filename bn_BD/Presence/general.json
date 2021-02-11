@@ -82,5 +82,41 @@
 	"general.viewing": {
 		"message": "দেখছে:",
 		"description": ""
+	},
+	"general.viewPage": {
+		"message": "দেখছে পেজ:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "দেখছে একটি মুভি",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "দেখছে একটি সিরিজ",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "দেখছে একটি শো",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "দেখছে একটি ভিডিও",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "অপেক্ষা করছে একটি ভিডিও প্রিমিয়ার হওয়ার",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "অপেক্ষা করছে ভিডিওটি প্রিমিয়ার হওয়ার",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "দেখছে একটি লাইভ স্ট্রিম",
+		"description": ""
+	},
+	"general.watching": {
+		"message": "দেখছে:",
+		"description": ""
 	}
 }
