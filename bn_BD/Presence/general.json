@@ -75,6 +75,22 @@
 		"message": "পড়ছে যার সম্পর্কে:",
 		"description": ""
 	},
+	"general.readingArticle": {
+		"message": "পড়ছে প্রবন্ধ:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "পড়ছে যে চ্যানেলে:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "পড়ছে পোস্ট:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "পড়ছে থ্রেড:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "পড়ছে",
 		"description": ""
@@ -100,11 +116,11 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "DM - এ যাকে টাইপ করছে:",
+		"message": "টাইপ করছে DM - এ যাকে:",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "যে চ্যানেলে টাইপ করছে:",
+		"message": "টাইপ করছে যে চ্যানেলে:",
 		"description": ""
 	},
 	"general.viewAnime": {
