@@ -7,8 +7,16 @@
 		"message": "ব্রাউসিং...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "অধ্যায়",
+		"description": ""
+	},
 	"general.dj": {
 		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "এডিট করছে:",
 		"description": ""
 	},
 	"general.episode": {
@@ -17,6 +25,10 @@
 	},
 	"general.forums": {
 		"message": "ফোরাম",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "ধরণ",
 		"description": ""
 	},
 	"general.language": {
@@ -35,12 +47,40 @@
 		"message": "মাংগা",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "মার্চেন্ডাইজ",
+		"description": ""
+	},
+	"general.page": {
+		"message": "পেজ",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "পসড",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "প্লেয়িং",
+		"description": ""
+	},
 	"general.reading": {
-		"message": "পড়া",
+		"message": "পড়ছে",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "সার্চ করছে:",
 		"description": ""
 	},
 	"general.search": {
-		"message": "কোঝা",
+		"message": "সার্চ করছে",
+		"description": ""
+	},
+	"general.store": {
+		"message": "স্টোর",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "দেখছে:",
 		"description": ""
 	}
 }
