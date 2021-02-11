@@ -115,8 +115,20 @@
 		"message": "দেখছে একটি লাইভ স্ট্রিম",
 		"description": ""
 	},
+	"general.waitingLive": {
+		"message": "অপেক্ষা করছে একটি লাইভ স্ট্রিম শুরু হওয়ার",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "অপেক্ষা করছে লাইভ স্ট্রিমটি শুরু হওয়ার",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
 	"general.watching": {
 		"message": "দেখছে:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "ইচ্ছেতালিকা:",
 		"description": ""
 	}
 }
