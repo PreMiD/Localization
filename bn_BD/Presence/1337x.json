@@ -7,8 +7,16 @@
         "message": "দেখছে সিরিজ লাইব্রেরি",
         "description": ""
     },
+    "1337x.latestEpisode": {
+        "message": "দেখছে লেটেস্ট এপিসোডগুলো",
+        "description": ""
+    },
     "1337x.top": {
         "message": "দেখছে সেরা 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "দেখছে কী ট্রেন্ডিং - এ",
         "description": ""
     },
     "1337x.animeTorrents": {
