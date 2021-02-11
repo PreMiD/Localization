@@ -12,42 +12,42 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+Inkludert på denne siden:
+1. [Generelle feilsøking](https://docs.premid.app/troubleshooting#general)
+2. [Linux feilsøking](https://docs.premid.app/troubleshooting#linux)
+3. [MacOS feilsøking](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# Generelle feilsøking
 ### Last inn siden på nytt
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+Du kan trykke <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på tastaturet ditt i stedet for å søke etter oppdateringsknappen.
 
-### Are you using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### Bruker du Discord-appen?
+PreMiD fungerer **ikke** på nettleserversjonen av Discord, du må laste ned [her](https://discord.com/download).
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Kontroller at du har aktivert Discord Game aktivitet i innstillinger
+**Brukerinnstillinger** > **Spillaktivitet** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Be sure Discord is running NOT as administrator
-Veldig viktig. Discord RPC will not work if you run Discord as an administrator.
+### Pass på at Discord ikke kjører som administrator
+Veldig viktig. Discord RPC vil ikke virke hvis du kjører Discord som administrator.
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### Bruker du en tilstedeværelse med innstillinger?
+Mange trykk (inkludert `Twitch` and `SoundCloud`) påvirkes av et problem med utvidelser. Dette problemet fører til at utvidelsen ikke setter inn standardverdiene for innstillingene korrekt.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+For å løse dette, er alt du må gjøre å slå på det øverste innstillingene: ![presencesettings.gif](/presencesettings.gif)
 
 ### Restart nettleseren din
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) gjør en god jobb også. (Du må starte nettleseren din igjen senere)
 
 ### Restart PreMiD (Applikasjonen)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+![quit.png](/quit.png) Du må starte PreMiD på nytt.
 
-### Reload/restart Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### Omslad/start Discord på nytt
+Trykk <kbd>CTRL+R</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på tastaturet eller restart Discord manuelt.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### Sjekk om du har antivirus eller brannmur som kjører på din datamaskin
+Noen ganger blokkerer antivirusprogrammer og brannmurer applikasjoner som er opprettende/verter servere eller bare kobler til Internett. Vi bruker en lokal server for å motta og passere data mellom vår app og utvidelse, så hvis du vil blokkere appens mulighet til å sende data du sannsynligvis ikke vil kunne bruke PreMiD.
 
 ### Disable your addons
 Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
