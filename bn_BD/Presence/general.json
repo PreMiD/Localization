@@ -39,6 +39,10 @@
 		"message": "গান শুনছে",
 		"description": ""
 	},
+	"general.listeners": {
+		"message": "শ্রোতা",
+		"description": ""
+	},
 	"general.live": {
 		"message": "লাইভ",
 		"description": ""
@@ -63,6 +67,14 @@
 		"message": "প্লেয়িং",
 		"description": ""
 	},
+	"general.readingDM": {
+		"message": "পড়ছে DMs যার থেকে:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "পড়ছে যার সম্পর্কে:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "পড়ছে",
 		"description": ""
@@ -71,8 +83,16 @@
 		"message": "সার্চ করছে:",
 		"description": ""
 	},
+	"general.searchSomething": {
+		"message": "কিছু একটা সার্চ করছে...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "সার্চ করছে",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "শপিং কার্ট",
 		"description": ""
 	},
 	"general.store": {
