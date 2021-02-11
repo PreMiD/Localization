@@ -15,11 +15,11 @@ dateCreated: 2020-06-11T18:03:54.865Z
 المدرجة في هذه الصفحة:
 1. [استكشاف الأخطاء وإصلاحها بشكل عام](https://docs.premid.app/troubleshooting#general)
 2. [استكشاف أخطاء Linux وإصلاحها](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+3. [استكشاف أخطاء MacOs وإصلاحها](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# استكشاف الأخطاء وإصلاحها بشكل عام
 ### أعد تحميل الصفحة
 يمكنك الضغط على <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أيضا بدلا من البحث على زر التحديث.
 
