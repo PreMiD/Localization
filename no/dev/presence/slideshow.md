@@ -14,85 +14,85 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 `Slideshow` klassen brukes for å angi flere `PresenceData` og "slide" gjennom dem hver x millisekunder (minimum: 5000).
 
-See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
+Se [`createSlideshow`](/dev/presence/class#createslideshow) metoden i [`Presence`](/dev/presence/class) klassen hvordan du oppretter en `lysbildefremvisning`.
 
-## Properties
+## Egenskaper
 
 ### `currentSlide`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of what the presence/current slide is displaying.
+Returnerer et [`PresenceData`](/dev/presence/class#presencedata-interface) objekt for hva perspektivet / gjeldende lysbilde viser.
 
 ```typescript
-const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+samme valutafondet = slideshow.currentSlide
+console.log(currentSlide.details) // Vil konsoll logge detaljene for PresenceData
 ```
 
-## Methods
+## Metoder
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Legg til en ny lysbilde til `lysbildefremvisning` i henhold til oppgitte data.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+Første parameter krever en `streng` som vil bli brukt som en unik identifikator for lysbildet.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Andre parameter krever en [`PresenceData` grensesnitt](/dev/presence/class#presencedata-interface) for å få all informasjon du vil vise i lysbildet.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Tredje parameter krever et `Nummer` som er tid i millisekunder (minimum: 5000) som dette lysbildet vil vise.
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Returnerer alle lysbilder lagret i `lysbildefremvisning` som en `liste` med [`SlideshowSlide`](#slideshowslide-class).
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Updates the slide of the given `id` according to provided data.
+Oppdaterer sliden til den oppgitte `id-en` basert på oppgitte data.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+Første parameter krever en `streng` som er den unike identifikatoren til lysbildet du vil oppdatere.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Andre parameter krever en [`PresenceData` grensesnitt](/dev/presence/class#presencedata-interface) for å få all informasjon du vil vise i lysbildet.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Tredje parameter krever et `Nummer` som er tid i millisekunder (minimum: 5000) som dette lysbildet vil vise.
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Returnerer en `Bolsk` som sier om lysbildet blir lagt til `lysbildefremvisning`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Sletter lysbildet med den angitte `id-` fra `lysbildefremvisningen`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+Første parameter krever en `streng` som er den unike identifikatoren til lysbildet du ønsker å slette.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Sletter alle lysbilder fra `Slideshow`.
 
-# SlideshowSlide Class
+# SlideshowSlide klasse
 
-## Introduction
+## Introduksjon
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+En `SlideshowSlide` er den interne representasjonen av hvert lysbilde på en `Slideshow`.
 
-## Properties
+## Egenskaper
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Returnerer en `streng` av Iden til lysbildet.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Returnerer et [`PresenceData`](/dev/presence/class#presencedata-interface) objekt for `PresenceData` lagret i lysbildet.
 
-## Methods
+## Metoder
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Angir lysbildefremvisning i henhold til oppgitte data.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Du må oppgi et `PresenceData` grensesnitt for å få all informasjon du til slutt vil vise i din profil.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Angir intervall for lysbildet i henhold til oppgitte data.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Du må angi et `tall` som er tiden i millisekunder (minimum: 5000) som dette lysbildet vil vise.
