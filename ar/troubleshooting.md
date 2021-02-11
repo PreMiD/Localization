@@ -12,9 +12,9 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
+المدرجة في هذه الصفحة:
+1. [استكشاف الأخطاء وإصلاحها بشكل عام](https://docs.premid.app/troubleshooting#general)
+2. [استكشاف أخطاء Linux وإصلاحها](https://docs.premid.app/troubleshooting#linux)
 3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
