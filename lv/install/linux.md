@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Darba uzsākšana ar PreMiD Linux instalāciju
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-The installation of the application is very important as the extension can not do anything by itself.
+Lietotnes uzstādīšana ir ļoti svarīga, jo paplašinājums pats par sevi neko nevar izdarīt.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Aur lietotāji, kuri izmanto DoomLerd paketi, jābūt drošiem, kā viņš saka. Mēs neiesakām to izmantot, bet, ja vēlaties, jūs to joprojām to varat izmantot. Paldies DoomLerd par to, ka viņš joprojām uztur aur repozitoriju. 
 > 
 > {.is-warning}
 
-## Table of Contents
+## Satura rādītājs
 
-- **[About](#about)**
-  - [Stats](#stats)
-  - [Requirements](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
-  - [Credits](#credits)
-  - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+- **[Par](#about)**
+  - [Statistika](#stats)
+  - [Prasības](#requirements)
+  - Piemēri (drīzumā)
+  - BUJ (drīzumā)
+  - Būvēšana (drīzumā)
+  - [Atbalsts](#support)
+  - [Beigu titri](#credits)
+  - [Licence](#license)
+- **[Snapcraft](#snapcraft)** (Pārāk garš;nelasīju : _nekad_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
   - [Installation instructions](#appimageinstall)
   - [Additional notes](#appimagenotes)
