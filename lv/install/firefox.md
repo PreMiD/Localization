@@ -9,15 +9,15 @@ tags:
 Paplašinājuma uzstādīšana ir ļoti svarīga, jo programma pati par sevi neko nevar izdarīt.
 
 # Uzstādīšana
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+1. Dodieties uz mūsu lejupielāžu lapu [uzspiežot šeit](https://premid.app/downloads).
+2. Izvēlieties **Firefox**.
+3. Meklējiet `about:addons`.
+4. Augšējā labajā stūrī uzspiediet uz mazās zobrata ikonas.
+5. Izvēlieties **Install add-on from file**.
+6. Atlasiet nesen lejupielādēto failu.
+7. Akceptējiet instalāciju, nospiežot **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> Neaizmirstiet [pievienot **lietotni**](/install). 
 > 
 > {.is-warning}
 
