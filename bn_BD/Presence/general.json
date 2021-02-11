@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "টাইপ করছে DM - এ যাকে:",
+		"message": "টাইপ করছে DMs - এ যাকে:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -128,7 +128,7 @@
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "দেখছে ক্যাটেগরি:",
+		"message": "দেখছে ক্যাটাগরি:",
 		"description": ""
 	},
 	"general.viewChannel": {
@@ -144,7 +144,7 @@
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "দেখছে হোম পেজ",
+		"message": "দেখছে হোমপেজ",
 		"description": ""
 	},
 	"general.viewList": {
