@@ -146,12 +146,12 @@ En liste over felt og deres regler står oppført nedenfor:
 
 ### **`service`**
 
-- Tjenestenavnet **må** være navnet på tilstedeværelse katalogen. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- Tjenestenavnet **må** være navnet på tilstedeværelse katalogen. For eksempel hvis det finnes tilstedeværelse på `/websites/Y/YouTube/`, må tjenestenavnet være `YouTube`.
+- Du **kan** bruke nettadressen som tjenestenavn med mindre nettstedet bruker url'en som sitt navn. Hvis navnet ikke er beskrivende og kan betraktes som en vage, ved hjelp av Url-en er **nødvendig**. (for eksempel `YouTube` er tillatt fordi det er offisiell navn og er beskrivende, mens `youtube.com` ikke er det. `Topp` er et ikke-beskrivende navn, så ved hjelp av url `topp.gg` er **nødvendig**.)
 
 ### **`altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- **Bare** bruk denne i scenerios hvor en nettside går under flere offisielle navn (f.eks Poke″mon og ε″″″″″″″″″εε″)-eller for å gjøre det enklere å søke i nærvær uten å bruke spesialtegn (f.eks. Pokeephalmon og Pokemon). *Forkortet* versjoner av tjenestenavn går under `tags`.
 
 ### **`description`**
 
