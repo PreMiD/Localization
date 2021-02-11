@@ -1,6 +1,6 @@
 ---
 title: Presence Klasse
-description: The main class for every PreMiD presence
+description: Hovedklassen for hver preMiD tilstedeværelse
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
@@ -12,219 +12,219 @@ dateCreated: 2020-06-11T18:04:42.004Z
 
 ## Introduksjon
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence` klassen er svært nyttig da den har grunnleggende metoder som vi trenger for å lage et nærvær.
 
-When you create a class you must specify `clientId` property.
+Når du oppretter en klasse må du angi `klientId` egenskapen.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // eksempel clientId
 });
 ```
 
-### Properties
+### Egenskaper
 
-There are three properties available for `Presence` class.
+Det er tre egenskaper tilgjengelig for `Presence` klasse.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. You can get it on your [applications page](https://discordapp.com/developers/applications).
+Denne egenskapen er nødvendig for å gjøre ditt nærings arbeid, fordi den bruker program-ID for å vise dets logo og eiendeler. Du kan få det på [applikasjoner siden](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+Når du setter `injectOnComplete` to `true` den første `UpdateData` -hendelsen for begge det `trykket. s` og `integrerte rammer. ts` filer vil kun bli avfyrt når siden er fullstendig lastet.
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+Når du setter `appMode` til `sann` og nærværet skulle sende en tom `PresenceData`, appen vil vise programmet (bilde og navn) på brukerens profil i stedet for ingenting.
 
-## Methods
+## Metoder
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Returnerer et `PresenceData` -objekt for hva tilstedeværelsen viser.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
-Sets your profile activity according to provided data.
+Angir din profilaktivitet i henhold til oppgitte data.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+Første parameter krever en [`PresenceData`](#presencedata-interface) grensesnitt eller et [`Slideshow`](/dev/presence/slideshow) klasse for å få all informasjon som du vil vise i profilen din.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `PresenceData`.
+Andre parameter definerer når tilstedeværelse spiller noe eller ikke. Bruk alltid `sann` hvis du gir tidsstempler i `PresenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Fjerner din nåværende aktivitet og tittel på verktøyet.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Denne metoden fungerer kun på Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Setter fellevennens tittel på menylinjen.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Oppretter en ny `lysbildefremvisning` klassen.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Det er foreslått å gjøre dette rett etter å ha opprettet `Presence` klassen:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Eksempel clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Du finner dokumentasjon for `Slideshow` klasse [her](/dev/presence/slideshow).
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension.
+En asynkronisk metode som lar deg få oversatt strenger fra utvidelse.
 
-You must provide `Object` with keys being the key for string, `keyValue` is the string value. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Du må oppgi `Object` med nøkler som nøkkel for streng, `nøkkelverdi` er strengverdien. En liste over oversatte strenger finnes på dette endepunktet: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Returnerer `Playing` og `Paused` strenger
+// fra utvidelsen.
 const strings = await presence.getStrings({
-  play: "general.playing",
-  pause: "general.paused"
+  play: "gener.playing",
+  pause: "generelle. aused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+konst playString = strenger.play; // resultat: Spiller
+samtidig-pauseString = strenger.pause; // resultat: Paused
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Siden v2.2.0 av utvidelsen kan du nå få strenger av et visst språk. Dette fungerer godt med den nylig lagt til `innstilling for multispråk`.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Vi foreslår at du bruker følgende kode, slik at det automatisk oppdaterer PresenceData hvis brukeren endrer det valgte språket;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Et grensesnitt av strengene du blir (bra for kodekvaliteten og autofullført).
 interface LangStrings {
-  play: string;
-  pause: string;
+  spill: streng;
+  pause: streng;
 }
 
-async function getStrings(): Promise<LangStrings> {
-  return presence.getStrings(
+asynkroniske funksjoner getstringer(): Promise<LangStrings> {
+  return presse. etStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
-      play: "general.playing",
+      // trådene du hopper etter, Sørg for at dette passer med ditt LangStrings grensesnitt.
+      spill: "generelt",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // IDen er IDen for flerspråklig innstilling.
     await presence.getSetting("ID")
   );
-}
 
-let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+
+la strenge: Promise<LangStrings> = getStrings(),
+  // IDen er ID for flerspråklig innstilling.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
-const newLang = await presence.getSetting("ID");
-if (oldLang !== newLang) {
+//! Følgende kode må være inne i oppdateringData hendelsen!
+// ID-en er ID-en til flerspråklig innstilling.
+const newLang = await presence. etSetting("ID");
+hvis (oldLang ! = newLang) {
   oldLang = newLang;
-  strings = getStrings();
+  strenger = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+konst playString = strenger. lay; // resultat: Leke
+konst pauseString = strenger.pause; // resultat: Paused
 ```
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Returnerer en variabel fra nettsiden hvis den eksisterer.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Dette vil logge "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
 
-Returns version of the extension the user is using.
+Returnerer versjonen av utvidelsen brukeren bruker.
 
 ```typescript
-getExtensionVersion(onlyNumeric?: boolean): string | number;
+getExtensionVersion(onlyNumeric?: boolean): strengnummer;
 
-const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+konst numerisk = presence.getExtensionVersion();
+konsoll. og(numerisk); // Will log 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(versjon); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Returverdien av innstillingen.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); /Replace pdexID med id for setting
+console.log(innstilling); // Dette vil logge verdien av innstillingen
 ```
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Utlegg gitt innstilling.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting(«pdexID»); // Erstatt pdexID med id for innstillingen
 ```
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Viser gitte innstillinger (fungerer bare hvis innstillingen allerede var utlegg).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting(«pdexID»); // Erstatt pdexID med id for innstillingen
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Returnerer loggene fra nettsidens konsoll.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Dette vil logge de siste 100 loggene (i en arra).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Merk:** krever `lesningslogger` for å være `sann` i filen `metadata.json`.
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Skriver ut den oppgitte meldingen i konsollen på et format basert på tilstedeværelsen i `info`.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Dette kommer til å logge "test" på riktig stil.
 ```
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Skriver ut den oppgitte meldingen i konsollen på et format basert på tilstedeværelsen i `suksess` stilen.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Test") // Dette kommer til å logge "test" på riktig stil.
 ```
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Skriver ut den oppgitte meldingen i konsollen på et format basert på tilstedeværelsen i `feilstilen`.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Test") // Dette vil logge "test" i riktig stilling.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Returnerer 2 `snøflak` tidsstempler i en `matrise` som kan brukes i `starttidsstempel` og `sluttstempel`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Note:** Den oppgitte `strengen` i querySelector er et eksempel.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Returnerer 2 `snøflak` tidsstempler i en `matrise` som kan brukes i `starttidsstempel` og `sluttstempel`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Note:** Den oppgitte `strengen` i querySelector er et eksempel.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Konverterer en streng med format `TT:MM:SS` eller `MM:SS` eller `SS` til et heltall (returnerer ikke snøflak tidsstempel).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -259,18 +259,18 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Note:** Den oppgitte `strengen` i querySelector er et eksempel.
 
-## `PresenceData` Interface
+## `PresenceData` Grensesnitt
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+`PresenceData` grensesnittet anbefales å bruke når du bruker `setActivity() ()` metode.
 
-This interface has following variables, all of them are optional.
+Dette grensesnittet har fulgt variabler, alle er valgfrie.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Beskrivelse</th>
       <th style="text-align:left">Type</th>
     </tr>
@@ -278,52 +278,52 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">detaljer</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Første linje i nærvær, vanligvis brukt som topptekst.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Andre linje i ditt nærvær.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definerer det nåværende tidspunktet.<br>
+        Brukes hvis du vil vise hvor mye <code>timer:minutter:sekunder</code> igjen.
+          <br>Du må konvertere tid til <code>tidsstempel</code> eller du vil få feil
+          nedtelling.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definerer hele varigheten.
+        <br>Brukes hvis du vil vise hvor mye <code>timer:minutter:sekunder</code> igjen.
+          <br>Du må konvertere tid til <code>tidsstempel</code> eller du vil få feil
+          nedtelling.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Definerer logoen for pressen.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Definerer det lille ikonet ved siden av nærvær&apos;s logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Definerer teksten som vises til brukeren når han holder musen for det lille
+        ikonet.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -333,10 +333,10 @@ This interface has following variables, all of them are optional.
 ```typescript
 const presenceData: PresenceData = {
   details: "My title",
-  state: "My description",
+  tilstand: "Min description",
   largeImageKey: "service_logo",
-  smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  small ImageKey: "small_service_icon",
+  smallImageText: "Du hovret meg, og hva nå? ,
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -344,20 +344,20 @@ const presenceData: PresenceData = {
 
 ## Events
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Hendelser lar deg oppdage og håndtere noen endringer eller samtaler som er gjort. Du kan abonnere på hendelser ved hjelp av `i` metode.
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Gjøre noe når data blir oppdatert.
 });
 ```
 
-There are few events available:
+Det er få hendelser tilgjengelig:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Denne hendelsen avfyres hver gang nærværet blir oppdatert.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Lodd når data mottas fra iFrame script.
