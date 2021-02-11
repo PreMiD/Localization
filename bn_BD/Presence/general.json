@@ -79,6 +79,86 @@
 		"message": "স্টোর",
 		"description": ""
 	},
+	"general.typeDM": {
+		"message": "DM - এ যাকে টাইপ করছে:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "যে চ্যানেলে টাইপ করছে:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "দেখছে অ্যানিমে:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "দেখছে ক্যাটেগরি:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "দেখছে চ্যানেল:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "দেখছে এপিসোড:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "দেখছে ধরণ:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "দেখছে হোম পেজ",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "দেখছে যেটার লিস্ট:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "দেখছে মাংগা:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "দেখছে মেম্বার:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "দেখছে মুভি:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "দেখছে প্লেলিস্ট:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "দেখছে প্রোডাক্ট:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "দেখছে যার প্রোফাইল:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "দেখছে সিরিজ:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "দেখছে শো:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "দেখছে তার অ্যাকাউন্ট",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "দেখছে থ্রেড:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "দেখছে ইউজার:",
+		"description": ""
+	},
 	"general.viewing": {
 		"message": "দেখছে:",
 		"description": ""
