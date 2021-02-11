@@ -1,1 +1,46 @@
-{}
+{
+	"beta.title": {
+		"message": "Vēlies jaunas iespējas?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** tagad ir pieejama visiem!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Ko tu iegūsi reģistrējoties?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Jaunākās funkcijas",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Pieeja PreMiD super slepanajiem teksta čatiem",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Speciāla loma mūsu diskord serverī",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Gatavs pievienoties? Pievienojies {0} citiem Beta testētājiem!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Reģistrējies tagad!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Forši! Tagad esi beta lietotājs!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Paldies par reģistrēšanos! Mūsu pērtiķi šobrīd strādā, lai sniegtu Tev beta programmu, cik vien ātri var!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Izskatās, ka mums vairs nav pieejamu brīvu beta testētāju vietu.",
+		"description": "Shows when the beta slots are full."
+	}
+}

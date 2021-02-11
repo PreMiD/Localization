@@ -46,5 +46,33 @@
 	"premid.pageInstallFor": {
 		"message": "Uzstādīšana priekš {0}",
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Problēmu novēršana",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Sākt",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence Izstrādātājs",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Presence Vadlīnijas",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence klase",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScript konfigurēšana",
+		"description": "A page name"
 	}
 }
