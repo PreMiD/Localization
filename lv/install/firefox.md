@@ -1,14 +1,14 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: Darba uzsākšana ar PreMiD Firefox instalāciju
 published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Paplašinājuma uzstādīšana ir ļoti svarīga, jo programma pati par sevi neko nevar izdarīt.
 
-# Install
+# Uzstādīšana
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Firefox**.
 3. Search for `about:addons`.
