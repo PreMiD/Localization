@@ -1,6 +1,6 @@
 ---
-title: API
-description: Access resources and perform actions using the PreMiD API
+title: Utvikler dokumentasjon (API)
+description: Få tilgang til ressurser og utføre handlinger ved hjelp av PreMiD API
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
@@ -15,22 +15,22 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versioning
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+> API v2 er foreldet og vil bli fjernet i nær fremtid. Vennligst bruk v3 for enhver fremtidig forespørsel for å forhindre problemer. 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD eksponerer forskjellige versjoner av vår API. Du kan spesifisere versjonen ved å inkludere den i forespørselsbanen som `https://api.premid.app/v{version_number}`. Ved å endre versjonsnummeret fra ruten vil forespørsler bli gitt til den gjeldende standardversjonen (merket nedenfor tilsvarende).
 
 ## Kryptering
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Alle HTTP-lagstjenester og -protokoller (f.eks. http) i PreMiD API-en bruker TLS 1.2.
 
 # Dokumentasjon
-> Currently under construction! 
+> For øyeblikket under bygging! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+**Velg API versjon:**
+- [v2 *foreldet*](/dev/api/v2)
+- [v3 *aktiv*](/dev/api/v3)
 {.links-list}
