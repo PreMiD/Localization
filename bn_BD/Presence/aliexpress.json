@@ -11,6 +11,14 @@
         "message": "ব্রাউজ করছে ছাড়গুলো",
         "description": ""
     },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "দেখছে তার রিসেন্টলিগুলো",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "দেখছে পণ্যগুলো",
+        "description": "Part 2 of 2"
+    },
     "aliexpress.theirAli": {
         "message": "দেখছে তার AliExpress",
         "description": ""
@@ -27,6 +35,10 @@
         "message": "দেখছে তার",
         "description": "Part 1 "
     },
+    "aliexpress.refunds": {
+        "message": "ফেরত এবং বিরোধগুলো",
+        "description": "Part 2 of \"Viewing their\""
+    },
     "aliexpress.deletedOrders": {
         "message": "ডিলিট করা অর্ডারগুলো",
         "description": "Part 2 of \"Viewing their\""
@@ -41,6 +53,14 @@
     },
     "aliexpress.address": {
         "message": "দেখছে তার ঠিকানা",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress সাহায্য কেন্দ্র",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress বিক্রয় কেন্দ্র",
         "description": ""
     }
 }
