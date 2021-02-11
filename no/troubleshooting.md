@@ -49,80 +49,80 @@ Trykk <kbd>CTRL+R</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på tastaturet 
 ### Sjekk om du har antivirus eller brannmur som kjører på din datamaskin
 Noen ganger blokkerer antivirusprogrammer og brannmurer applikasjoner som er opprettende/verter servere eller bare kobler til Internett. Vi bruker en lokal server for å motta og passere data mellom vår app og utvidelse, så hvis du vil blokkere appens mulighet til å sende data du sannsynligvis ikke vil kunne bruke PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Deaktiver dine addons
+Deaktiver alle dine tillegg og se om det fungerer. Hvis ja, prøv å aktivere addons steg-for-steg og fortell oss hvilke tillegg som har brutt PreMiD.
 
 ### Restart datamaskinen din
 Jeg håper du vet hvordan man restarter en datamaskin.
 
 ### Reinstaller PreMiD
-Noen ganger så er det noe galt med filene... Tutorials for the installation can be found [here](/install).
+Noen ganger så er det noe galt med filene... Øvinger i installasjonen kan bli funnet [her](/install).
 
 ### Manuell fjerning
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+Windows:    `C:\Users\USER\AppData\Roaming\`` og slett mappen`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`og slett mappen`PreMiD``.
 
-### McAfee detected PreMiD as virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+### McAavgift påvist PreMiD som virus (Windows)
+Dette er falsk positivt fra McAfee og vi har meldt saken inn til dem: for nå kan du utelukke PreMiD fra skanningen ved å gjøre følgende trinn:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
+> Hvis du ikke føler deg sikker på å ta disse trinnene, føler deg fri til å lage en sak i [#support](https://discord.premid.app/) og en av våre støttesagenter vil kunne hjelpe deg med! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+1. Åpne applikasjonen for McAfee og klikk på innstillinger-ikonet øverst til høyre. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Klikk "Quarantined Items" (Antatt fra toppen).
+3. Utvid det, og klikk på `>` ikonet før et element med navnet "settings.dat".
+4. Kontroller at stien inneholder "AppData\Local\Temp\PreMiD", hvis så velg den og trykk gjenoppretting. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Når det er gjenopprettet kan du lukke "Quarantined Items" opp, og trykke deretter på innstillingsikonet igjen øverst til høyre.
+6. Klikk på "realtidskanning" (Tredje fra toppen).
+7. Utvid det og klikk på "Legg til fil".
+8. Skriv "%appdata%" i URL-feltet i filadministreren og trykk Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Åpne mappen "PreMiD" og velg "PreMiD.exe" for å klikke på åpen. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. Nå bør McAfee ignorere filen vår, bare start søknaden vår og du bør være flink til å gå.
 
-### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+### PreMiD status bugged på discord!
+Ikke bekymre deg. Trykk på <kbd>CTRL+R</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) tastaturet mens du fokuserer på discord vinduet for å laste den på nytt.
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Linux feilsøking
+### Ubuntu/Debia-basert avstand
+Hvis du har lastet ned Discord gjennom Snapcraft, vil RPC ikke fungere. Du må avinstallere Snapcraft versjonen ved å utføre `sudo snap remove discord` på en terminal, last ned **[nødvendig Linux build](https://discordapp.com/api/download?platform=linux)** (**[eller Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), så går du til mappen du lastet ned Discord til (vanligvis `$HOME/Downloads`), deretter installere pakken ved å bruke `sudo dpkg -i discord-*. eb`. Dersom AppImage ikke fungerer, bør du vurdere å sjekke våre andre pakker med **[denne linken](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+### Arch Linux basert distroer
+Arch Linux-baserte distroer bør bruke pakken AUR (Arch User Repository) som heter <code>premid</code> eller <code>forhåndsinngående git</code> (<em x-id="3">ADVARSEL: dette depotet bygger premid fra vår kildekode.</em>). Hvis du ikke ønsker å installere en AUR manager yay osv. , du kan sjekke ut vårt AppImage som er nedlastbar fra vårt <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
+<em x-id="3">Advarsel: pakken i <strong x-id="1">AUR</strong> pakkebrønn vedlikeholdes ikke av oss (som preMiD organisasjon), men av andre personer.</em>
 
 ### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+Du bør vite at <strong x-id="1">PreMiD</strong> binder seg til porten <strong x-id="1">3020</strong>. Dette er nødvendig for utvidelsen og søknadskommunikatet. Hvis <strong x-id="1">PreMiD</strong> viser deg en feil vedrørende denne porten, du skal sjekke om noe er bindet med 3020 porten ved å kjøre <code>sudo lsof -i:3020</code> eller <code>sudo netstat -tnlp φ grep :3020</code> i terminalen din. Hvis noe av prosessen er bundet til den bør du sørge for å frigjøre porten og prøve å kjøre <code>PreMiD</code> igjen.
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### PreMiD's AppImage starter ikke på innlogging
+Som vi har angitt i vårt **Linux repository**, så kan ikke AppImage startes opp ved innlogging. Du kan legge den til manuelt ved å gjøre disse trinnene:
+1. Opprett en fil med navn <strong x-id="1">rc.local</strong> i <code>/etc</code> mappen.
+2. Åpne denne filen i ditt favoritt-redigeringsprogram og lim inn kode ved å endre noen ting:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# Kreves for å kjøre som /bin/bash (hvis du bruker zsh etc. du kan endre det.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
+# Eksempel: /hjem/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Lagre fil og chmod den som kjørbar `sudo chmod a+x /etc/rc.local`.
+4. Start PCen og PreMiD AppImage på nytt ved innlogging.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# MacOS feilsøking
+### Feil ved oppretting av mappe %s
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Dersom du får denne feilen betyr det at kontoen din ikke har administratorrettigheter og at du må opprette mappen manuelt ved å gjøre disse trinnene:
+1. Åpne finder og åpne **Programmer** mappen.
+2. Høyreklikk på tom plass, klikk **Opprett mappe**.
+3. Til denne mappen tildeler `PreMiD` navn (husk tidligere brukte bokstaver).
+4. Åpne installasjonsprogrammet på nytt.
 
 # Det har ikke løst mitt problem
-Please open a ticket in [#support](https://discord.premid.app/).
+Åpne en sak i [#support](https://discord.premid.app/).
