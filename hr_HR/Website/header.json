@@ -35,6 +35,10 @@
     "message": "Prinosnici",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Prijaviti se",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Prijavljeni ste kao",
     "description": "Indicates which user is logged in"
