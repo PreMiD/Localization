@@ -128,7 +128,35 @@
 		"description": ""
 	},
 	"general.wishlist": {
-		"message": "ইচ্ছেতালিকা:",
+		"message": "উইশলিস্ট:",
 		"description": ""
+	},
+	"general.privacy": {
+		"message": "গোপনীয়তা নীতি",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "পরিষেবার শর্তাবলী",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "কুকি নীতি",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "সব গান লুপ করছে",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "লুপে",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "ঘটনার রিপোর্ট",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "আপটাইম রিপোর্ট",
+		"description": "A page name of statuspages"
 	}
 }
