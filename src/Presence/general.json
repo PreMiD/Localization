@@ -107,6 +107,18 @@
 		"message": "Searching",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Writing",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Calling",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "In a call...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Shopping cart",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "On loop",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Viewing an incident",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Incident history",
 		"description": "A page name of statuspages"
@@ -274,5 +290,45 @@
 	"general.uptimeHistory": {
 		"message": "Uptime history",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "View Series",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "View Movie",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Watch Episode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Watch Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "View Channel",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Listen Along",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "View Page",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "View Song",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "View Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "View Profile",
+		"description": "Used as the title for the button in Discord."
 	}
 }
