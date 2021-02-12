@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Đang xem sê-ri",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Xem phim",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Xem tập",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Đang xem danh sách",
 		"description": "List as in their saved series/movies."
