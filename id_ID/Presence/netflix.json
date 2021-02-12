@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Menonton Serial",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Menonton Film",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Episode",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Melihat daftar serial/film yang disimpan",
 		"description": "List as in their saved series/movies."
