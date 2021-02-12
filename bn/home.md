@@ -7,17 +7,17 @@ tags:
 editor: markdown
 ---
 
-> এই ডকুমেন্টেশন এখনও এডিট করা হচ্ছে! Some pages may be incomplete or missing. 
+> এই ডকুমেন্টেশন এখনও এডিট করা হচ্ছে! কিছু পেজ হয়তো অসম্পূর্ণ অথবা নাও থাকতে পারে। 
 > 
 > {.is-warning}
 
 # PreMiD সম্বন্ধে
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :mag: [PreMiD কী?](/about) PreMiD এর পিছনের উদ্দেশ্য এবং কেন তোমাকে এটা ব্যবহার করা উচিত।
+- :link: [RPC কী?](https://discordapp.com/rich-presence) Rich Presence সম্বন্ধে সবকিছু এবং এটার ফাংশনগুলো।
 
 # শুরু করা যাক
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD ইন্সটল করা দ্রুত এবং সহজ। You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
