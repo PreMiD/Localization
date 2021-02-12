@@ -107,6 +107,18 @@
 		"message": "Recherche",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "En train d'écrire",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "En train d'appeler",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Dans un appel...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Panier",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "En boucle",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Regarde un incident",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Historique d'incidents",
 		"description": "A page name of statuspages"
@@ -285,6 +301,34 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Afficher l'épisode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Regarde une vidéo",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Regarde un salon",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Rejoindre l'écoute",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Regarde une page",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Regarde une chanson",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Regarde un album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Regarde un profil",
 		"description": "Used as the title for the button in Discord."
 	}
 }
