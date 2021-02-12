@@ -1,0 +1,18 @@
+{
+	"discord.friends": {
+		"message": "Гледа своите приятели...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Гледа своите настройки...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Търси в",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.merch.collection": {
+		"message": "Гледа колекция:",
+		"description": ""
+	}
+}
