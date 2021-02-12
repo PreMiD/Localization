@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Melihat Siri",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Melihat Filem",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Menonton Episod",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Melihat senarai miliknya",
 		"description": "List as in their saved series/movies."
