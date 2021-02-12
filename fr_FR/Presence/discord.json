@@ -144,11 +144,11 @@
 		"description": "{0} will be replaced with the name of the app."
 	},
 	"discord.devs.teamsBrowse": {
-		"message": "En train de parcourir ses Teams",
+		"message": "En train de parcourir ses équipes",
 		"description": ""
 	},
 	"discord.devs.teamsEdit": {
-		"message": "En train d'éditer la team : {0}",
+		"message": "En train d'éditer l'équipe : {0}",
 		"description": "{0} will be replaced with the name of the team."
 	},
 	"discord.devs.serversBrowse": {
