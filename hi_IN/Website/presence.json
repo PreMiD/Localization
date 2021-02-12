@@ -38,5 +38,9 @@
 	"presence.sections.information.supportedurls": {
 		"message": "समर्थित URL",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "योगदानकर्ता",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }
