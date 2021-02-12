@@ -87,6 +87,18 @@
 		"message": "Tá an t-iarratas PreMiD suiteáilte reatha as dáta! Nuashonraigh le do thoil chun leanúint ar aghaidh ag úsáid PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Síneadh atá as dáta",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Do Síneadh atá as dáta. Le do thoil a thabhairt cothrom le dáta sé a fháil ar a gnéithe is déanaí trí é a íoslódáil ón ár suíomh.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Práinneach a thabhairt cothrom le dáta",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
 	"popup.category.all": {
 		"message": "Gach",
 		"description": "Category name shown when you open tags"
