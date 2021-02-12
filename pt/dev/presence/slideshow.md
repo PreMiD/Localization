@@ -1,5 +1,5 @@
 ---
-title: Classe Slideshow
+title: Slideshow Class
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Classe Slideshow
+# Slideshow Class
 
 ## Introdução
 
@@ -20,52 +20,52 @@ Veja o método [`createSlideshow`](/dev/presence/class#createslideshow) na class
 
 ### `currentSlide`
 
-Retorna um objeto [`PresenceData`](/dev/presence/class#presencedata-interface) do que a presence/atual slide está exibindo.
+Devolve um [`PresenceData`](/dev/presence/class#presencedata-interface) objeto do que a presence/diapositivo de corrente está a exibir.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Irá registrar no console os detalhes do PresenceData
+console.log(currentSlide.details) // O console registrará os detalhes dos dados de presence
 ```
 
 ## Métodos
 
 ### `addSlide(String, PresenceData, Number)`
 
-Adiciona um novo slide ao `Slideshow` de acordo com os dados fornecidos.
+Adicione um novo slide ao ` Slideshow ` de acordo com os dados fornecidos.
 
-O primeiro parâmetro requer uma `String` que será usada como um identificador único para o slide.
+O primeiro parâmetro requer uma ` String ` que será usada como um identificador exclusivo para o slide.
 
-O segundo parâmetro requer uma [interface `PresenceData`](/dev/presence/class#presencedata-interface) para obter todas as informações que você deseja exibir no slide.
+O segundo parâmetro requer uma [ interface ` PresenceData ` ](/dev/presence/class#presencedata-interface) para obter todas as informações que você deseja exibir no slide.
 
-O terceiro parâmetro requer um `Número` que é a quantidade de tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
+O terceiro parâmetro requer um `Number` que é o tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
 
 ### `getSlides()`
 
-Retorna todos os slides salvos no `Slideshow` como um `Array` de [`SlideshowSlide`](#slideshowslide-class).
+Devolve todos os slides guardados na Apresentação de Diapositivos como Uma Matriz de SlideshowSlide.
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Atualiza o slide do `id` determinado de acordo com os dados fornecidos.
+Atualiza o slide do id dado de acordo com os dados fornecidos.
 
-O primeiro parâmetro requer uma `String` que é o identificador único do slide que você deseja atualizar.
+O primeiro parâmetro requer um `String` que é o identificador único do slide que pretende atualizar.
 
-O segundo parâmetro requer uma [interface `PresenceData`](/dev/presence/class#presencedata-interface) para obter todas as informações que você deseja exibir no slide.
+O segundo parâmetro requer um [`PresenceData` interface](/dev/presence/class#presencedata-interface) para obter toda a informação que pretende exibir no diapositivo.
 
-O terceiro parâmetro requer um `Número` que é a quantidade de tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
+O terceiro parâmetro requer um `Number` que é o tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
 
 ### `hasSlide(String)`
 
-Retorna um `Boolean` informando se o slide está adicionado ao `Slideshow`.
+Devolve um `Boolean` indicando se o slide é adicionado ao `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Deleta um slide com um `id` determinado no `Slideshow`.
+Elimina o slide com o dado `id` do `Slideshow`.
 
-O primeiro parâmetro requer uma `String` que é o identificador único do slide que você deseja deletar.
+O primeiro parâmetro requer um `String` que é o identificador único do slide que pretende eliminar.
 
 ### `deleteAllSlides()`
 
-Deleta todos os slides do `Slideshow`.
+Exclui todos os slides do `Slideshow`.
 
 # Classe Slideshow
 
@@ -81,18 +81,18 @@ Retorna uma `String` do id do slide.
 
 ### `data`
 
-Retorna um objeto [`PresenceData`](/dev/presence/class#presencedata-interface) do `PresenceData` salvo no slide.
+Retorna um [`PresenceData`](/dev/presence/class#presencedata-interface) objeto do `PresenceData` salvo no slide.
 
 ## Métodos
 
 ### `updateData(PresenceData)`
 
-Define os dados dos slides de acordo com os dados fornecidos.
+Define os dados de slides de acordo com os dados fornecidos.
 
-Você deve fornecer uma interface `PresenceData` para obter todas as informações que por fim você deseja exibir em seu perfil.
+Primeiro parámetro requer `presenceData` interface para conseguir toda a informação para ver o que vai apresentar no seu perfil.
 
 ### `updateInterval(Number)`
 
-Define o intervalo do slide de acordo com os dados fornecidos.
+Define o intervalo do slide de acordo com dados fornecidos.
 
-Você deve fornecer um `Número` que é a quantidade de tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
+Você deve fornecer um `Number` que é o tempo em milissegundos (mínimo: 5000) que este slide irá mostrar.
