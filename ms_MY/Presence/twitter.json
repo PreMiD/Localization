@@ -1,46 +1,46 @@
 {
-    "twitter.readTweet": {
-        "message": "Membaca kicauan:",
-        "description": ""
-    },
-    "twitter.viewDms": {
-        "message": "Melihat DM miliknya",
-        "description": ""
-    },
-    "twitter.viewTweets": {
-        "message": "Melihat kicauan:",
-        "description": ""
-    },
-    "twitter.viewTweetsWithReplies": {
-        "message": "Melihat kicauan (berserta balasan):",
-        "description": ""
-    },
-    "twitter.viewMedia": {
-        "message": "Melihat media:",
-        "description": ""
-    },
-    "twitter.viewLiked": {
-        "message": "Melihat senarai sukaan:",
-        "description": ""
-    },
-    "twitter.viewList": {
-        "message": "Melihat senarai:",
-        "description": ""
-    },
-    "twitter.bookmarks": {
-        "message": "Penanda buku",
-        "description": ""
-    },
-    "twitter.notifs": {
-        "message": "Pemberitahuan",
-        "description": ""
-    },
-    "twitter.explore": {
-        "message": "Terokai",
-        "description": ""
-    },
-    "twitter.settings": {
-        "message": "Mengubah beberapa tetapan...",
-        "description": ""
-    }
+	"twitter.readTweet": {
+		"message": "Membaca kicauan:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Melihat DM miliknya",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Melihat kicauan:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Melihat kicauan (berserta balasan):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Melihat media:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Melihat senarai sukaan:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Melihat senarai:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Penanda buku",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Pemberitahuan",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Terokai",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Mengubah beberapa tetapan...",
+		"description": ""
+	}
 }
