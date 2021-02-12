@@ -252,7 +252,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Consulta regExp para obter mais informações.</td>
+      <td style="text-align:left">Um seletor expressão regular que seleciona iframes para injetar em. Consulta regExp para obter mais informações.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
