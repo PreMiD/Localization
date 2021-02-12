@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Schaut Serien an",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Film ansehen",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Episode ansehen",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Schaut seine Liste an",
 		"description": "List as in their saved series/movies."
