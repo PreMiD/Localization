@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.inCall": {
-		"message": "Im Anruf...",
+		"message": "In einem Anruf...",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -297,6 +297,30 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Episode ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Schaut Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Betrachtet Kanal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Seite anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Song anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Album anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Profil anzeigen",
 		"description": "Used as the title for the button in Discord."
 	}
 }
