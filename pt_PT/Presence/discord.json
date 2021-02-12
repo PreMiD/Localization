@@ -1,0 +1,18 @@
+{
+	"discord.friends": {
+		"message": "A ver os seus amigos...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "A ver as suas definições...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "A pesquisar por",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.merch.collection": {
+		"message": "A ver coleções:",
+		"description": ""
+	}
+}

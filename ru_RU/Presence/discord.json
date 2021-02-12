@@ -1,0 +1,22 @@
+{
+	"discord.friends": {
+		"message": "Просмотр своих друзей...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Просмотр их настроек...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Смотрит через",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "Справочный центр",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Смотрит коллекции:",
+		"description": ""
+	}
+}

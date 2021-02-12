@@ -1,0 +1,22 @@
+{
+	"discord.friends": {
+		"message": "Arkadaşlarına bakıyor...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Ayarlara bakıyor...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Göz atıyor",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "Yardım Merkezi",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Koleksiyona bakıyor:",
+		"description": ""
+	}
+}

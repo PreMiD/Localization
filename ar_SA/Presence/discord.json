@@ -1,0 +1,22 @@
+{
+	"discord.friends": {
+		"message": "يشاهد إصدقائه...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "يشاهد إعداداته...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "يتصفح",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "مركز المساعدة",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "جاري مشاهدة مجموعة:",
+		"description": ""
+	}
+}

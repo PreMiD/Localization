@@ -1,0 +1,22 @@
+{
+	"discord.friends": {
+		"message": "Visar deras vänner...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Visar deras inställningar...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Bläddrar igenom",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "Hjälpcenter",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Visar kollektion:",
+		"description": ""
+	}
+}

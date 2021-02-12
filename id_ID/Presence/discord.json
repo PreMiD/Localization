@@ -1,0 +1,22 @@
+{
+	"discord.friends": {
+		"message": "Melihat teman mereka...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Melihat pengaturan mereka...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Menelusuri",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "Pusat Bantuan",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Melihat koleksi:",
+		"description": ""
+	}
+}

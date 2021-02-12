@@ -1,0 +1,18 @@
+{
+	"discord.friends": {
+		"message": "Đang xem danh sách bạn bè...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Đang xem cài đặt...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Đang duyệt qua",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.merch.collection": {
+		"message": "Đang xem bộ sưu tập:",
+		"description": ""
+	}
+}

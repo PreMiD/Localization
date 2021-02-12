@@ -1,0 +1,22 @@
+{
+	"discord.friends": {
+		"message": "Regarde ses amis...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Regarde ses paramètres...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Navigue à travers",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "Centre d’aide",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Visualisation de la collection:",
+		"description": ""
+	}
+}
