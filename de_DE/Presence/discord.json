@@ -11,8 +11,72 @@
 		"message": "Durchstöbert",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.safety": {
+		"message": "Sicherheits-Center",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "die Open-Source Seite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "Die Sicherheitsseite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "Die Moderationsseite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "Die Rich-Presence Seite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "Die Richtlinien",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Entwicklerportal",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Durchstöbert durch seine Apps",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Bearbeitet App: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Durchstöber durch seine Teams",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Bearbeitet Team: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Durchstöbert seine Server",
+		"description": ""
+	},
+	"discord.devs.docs": {
+		"message": "Liest die Dokumentation",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discord Status",
+		"description": ""
+	},
 	"discord.support": {
 		"message": "Hilfecenter",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord Blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord-Merchandise",
 		"description": ""
 	},
 	"discord.merch.collection": {
