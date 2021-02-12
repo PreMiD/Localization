@@ -1,4 +1,8 @@
 {
+	"namemc.upcomingNames": {
+		"message": "Viendo Próximos Nombres",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
 	"namemc.skinsTrending": {
 		"message": "Viendo Aspectos en Tendencia",
 		"description": "Skins is how you appear in the game."

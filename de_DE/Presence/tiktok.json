@@ -1,1 +1,10 @@
-{}
+{
+	"tiktok.viewing": {
+		"message": "Schaut sich ein TokTok von:",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "TikTok anzeigen",
+		"description": "Used as the title for the button in Discord."
+	}
+}

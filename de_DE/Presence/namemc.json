@@ -1,1 +1,6 @@
-{}
+{
+	"namemc.upcomingNames": {
+		"message": "Anstehende Namen anzeigen",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	}
+}
