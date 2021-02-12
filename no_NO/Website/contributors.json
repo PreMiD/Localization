@@ -27,6 +27,10 @@
 		"message": "Administrator",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.reviewer": {
+		"message": "Anmelder",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Utvikler",
 		"description": "'Developer' title for contributors and user pages."
