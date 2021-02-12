@@ -339,63 +339,63 @@ Siden v2.2. det er nå Slideshows, dette lar deg vise flere `PresenceData` grens
 
 Mange nettsteder bruker [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Disse html kodene kan inneholde flere kilder, som videoer. Men de er ikke relevante hver gang. Noen er skjult eller kun aktivt brukt. Sjekk om du kan hente informasjonen du trenger, uten dem før du gjør unødvendig arbeid.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Se etter dem i nettleserkonsollen (vær sikker på at du er på **elementene** fanen).
+2. Søk (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) eller <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Kjør `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
+Hvis du finner at dataene dine befinner seg i en iFrame må du gjøre følgende:
 
 1. Lag en `iframe.ts` fil.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+2. Angi iFrame til `sann` i metadatafilen din.
+3. Fyller inn iFrame filen din.
 
 ```typescript
 const iframe = new iFrame();
-iframe.on("UpdateData", async () => {
+iframe. n("Oppdateringsdata", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Få alle dataene du trenger for å lagre dem ved variablene
+  og deretter sende dem ved hjelp av iframe.send
   */
   iframe.send({
-    //sending data
+    //sending av data
     video: video,
-    time: video.duration
+    tid: video. varighet
   });
 });
 ```
 
-4. Making your presence file receive data from the iFrame file.
+4. Får tilgang fra presence filen til å motta data fra iFram-filen.
 
 ```typescript
-presence.on("iFrameData", (data) => {
+presence.på("iFrameData", (data) => {
   iFrameVideo = data.video;
-  currentTime = data.time;
+  gjeldende Tid = data.tid;
 });
 ```
 
-**Note:** This needs to be placed outside of the updateData event.
+**Merk:** Dette må plasseres utenfor oppdaterings-Data hendelsen.
 
-## Compiling
+## Kompilerer
 
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+Åpne en konsoll i mappen din og skriv `tsc -w` for å kompilere `presence.ts` i `/dist` mappen.
 
-# Loading the presence
+# Laster inn presencen
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+1. Åpne utvidelses-vinduet i nettleseren og hold <kbd>Shift</kbd> -knappen på tastaturet.
+2. **Last Presence** vil vises i Presence-seksjonen.
+3. Klikk på den mens du fortsatt holder <kbd>Shift</kbd> knappen.
+4. Velg /dist mappen for din presence.
 
-# Some helpful things
+# Noen nyttige ting
 
-## Hot-reloading
+## Hurtig-omlasting
 
-The website you are developing on is automatically reloading every time you save a file in your folder.
+Nettstedet du utvikler på, lastes automatisk opp hver gang du lagrer en fil i mappen din.
 
 ## Feilsøking
 
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Du kan sette `konsoll.log("Test");` mellom koden og se om nettleseren din gir deg dette utganget. Hvis ja, gå på og prøv igjen etter den neste funksjonen. Hvis ikke er det en feil over.
+- Hvis det ikke hjelper deg enten å spørre en presence utvikler om vår [Discord-server](https://discord.premid.app/) for hjelp.
 
 # Files explained
 
