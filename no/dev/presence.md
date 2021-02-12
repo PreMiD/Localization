@@ -337,7 +337,7 @@ Siden v2.2. det er nå Slideshows, dette lar deg vise flere `PresenceData` grens
 
 ## Kan ikke hente bestemte data?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Mange nettsteder bruker [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Disse html kodene kan inneholde flere kilder, som videoer. Men de er ikke relevante hver gang. Noen er skjult eller kun aktivt brukt. Sjekk om du kan hente informasjonen du trenger, uten dem før du gjør unødvendig arbeid.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
