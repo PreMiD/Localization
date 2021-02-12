@@ -1,12 +1,12 @@
 ---
 title: Firefox
-description: Kom igang med PreMiD installasjonen på Firefox
+description: Kommer igang med en PreMiD installasjonen på Firefox
 published: sant
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-Installasjonen av denne extensionen er veldig viktig grunnet applikasjonen ikke kan gjøre noe selv uten det.
+Installasjonen av denne utvidelsen er veldig viktig fordi applikasjonen ikke kan gjøre noe helt selv.
 
 # Installer
 1. Se nedlasting siden våres ved å  [klikke her](https://premid.app/downloads).
