@@ -1,6 +1,6 @@
 {
 	"twitter.readTweet": {
-		"message": "Leyendo tweet:",
+		"message": "Leyendo tweet de:",
 		"description": "after the \":\" it will say the username"
 	},
 	"twitter.viewDms": {
