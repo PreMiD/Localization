@@ -94,12 +94,12 @@ Op Arch Linux gebaseerde distro's moeten AUR (Arch User Repository) pakket gebru
 <em x-id="3">Waarschuwing: het pakket in de <strong x-id="1">AUR</strong> repository wordt niet onderhouden door ons (PreMiD organisatie), maar door andere mensen.</em>
 
 ### Poort-binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+U moet weten dat <strong x-id="1">PreMiD</strong> zichzelf bindt aan de poort <strong x-id="1">3020</strong>. Dit is nodig voor de communicatie tussen de extensie en de applicatie. Als <strong x-id="1">PreMiD</strong> een fout laat zien over deze port, moet u controleren of iets aan de 3020 poort is gebonden door <code>sudo lsof -i:3020</code> of <code>sudo netstat -tnlp, grep :3020</code> uit te voeren in uw terminal. Als er een proces aan verbonden is, zorg er dan voor dat u de poort vrijmaakt en probeer daarna opnieuw <code>PreMiD</code> te starten.
 
-### PreMiD's AppImage doesn't launch at login
-Zoals we hebben aangegeven in onze **Linux-repository**, kan AppImage niet gestart worden tijdens het inloggen. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### PreMiD's AppImage start niet bij het inloggen
+Zoals we hebben aangegeven in onze **Linux-repository**, kan AppImage niet gestart worden tijdens het inloggen. U kunt het handmatig toevoegen aan de automatische start door deze stappen te doen:
+1. Maak een bestand genaamd <strong x-id="1">rc.local</strong> in de <code>/etc</code> map.
+2. Open dit bestand in je favoriete editor en plak de gegeven code en verander enkele dingen:
 ```bash
 #!/bin/bash
 # Vereist om uit te voeren als /bin/bash (als je zsh o.i.d. gebruikt kun je dit wijzigen.)
