@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Skatās Seriālu",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Skatās Filmu",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Skatās Epizodi",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Skatās savu sarakstu",
 		"description": "List as in their saved series/movies."

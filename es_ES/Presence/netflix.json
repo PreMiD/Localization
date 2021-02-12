@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Viendo Series",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Viendo Película",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Viendo Episodio",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Viendo sus listas",
 		"description": "List as in their saved series/movies."

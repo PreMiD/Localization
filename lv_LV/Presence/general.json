@@ -274,5 +274,17 @@
 	"general.uptimeHistory": {
 		"message": "Darbības vēsture",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Skatās Seriālu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Skatās Filmu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Skatās Epizodi",
+		"description": "Used as the title for the button in Discord."
 	}
 }

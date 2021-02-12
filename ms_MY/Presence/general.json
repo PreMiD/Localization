@@ -274,5 +274,17 @@
 	"general.uptimeHistory": {
 		"message": "Sejarah masa hidup",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Melihat Siri",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Melihat Filem",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Menonton Episod",
+		"description": "Used as the title for the button in Discord."
 	}
 }

@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "مشاهده سری",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "مشاهده فیلم",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "دیدن قسمت",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "مشاهده لیست‌شان",
 		"description": "List as in their saved series/movies."

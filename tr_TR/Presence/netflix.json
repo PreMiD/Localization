@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Seriyi Göster",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Filmi Göster",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Bölümü İzle",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Listesine göz atıyor",
 		"description": "List as in their saved series/movies."

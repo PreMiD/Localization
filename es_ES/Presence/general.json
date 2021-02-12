@@ -274,5 +274,17 @@
 	"general.uptimeHistory": {
 		"message": "Historial del tiempo de funcionamiento",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Viendo Series",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Viendo Película",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Viendo Episodio",
+		"description": "Used as the title for the button in Discord."
 	}
 }

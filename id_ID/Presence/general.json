@@ -274,5 +274,17 @@
 	"general.uptimeHistory": {
 		"message": "Riwayat uptime",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Menonton Serial",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Menonton Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Episode",
+		"description": "Used as the title for the button in Discord."
 	}
 }
