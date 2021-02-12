@@ -274,5 +274,17 @@
 	"general.uptimeHistory": {
 		"message": "Historia czasu pracy",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Ogląda serial",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Ogląda film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Ogląda odcinek",
+		"description": "Used as the title for the button in Discord."
 	}
 }
