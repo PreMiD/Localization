@@ -1,46 +1,46 @@
 {
-    "twitter.readTweet": {
-      "message": "Reading tweet:",
-      "description": ""
-    },
-    "twitter.viewDms": {
-      "message": "Viewing their DMs",
-      "description": ""
-    },
-    "twitter.viewTweets": {
-      "message": "Viewing tweets of:",
-      "description": ""
-    },
-    "twitter.viewTweetsWithReplies": {
-      "message": "Viewing tweets (with replies) of:",
-      "description": ""
-    },
-    "twitter.viewMedia": {
-      "message": "Viewing media of:",
-      "description": ""
-    },
-    "twitter.viewLiked": {
-      "message": "Viewing liked by:",
-      "description": ""
-    },
-    "twitter.viewList": {
-      "message": "Viewing list:",
-      "description": ""
-    },
-    "twitter.bookmarks": {
-      "message": "Bookmarks",
-      "description": ""
-    },
-    "twitter.notifs": {
-      "message": "Notifications",
-      "description": ""
-    },
-    "twitter.explore": {
-      "message": "Explore",
-      "description": ""
-    },
-    "twitter.settings": {
-      "message": "Changing some settings...",
-      "description": ""
-    }
-} 
+	"twitter.readTweet": {
+		"message": "Reading tweet of:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Viewing their DMs",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Viewing tweets of:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Viewing tweets (with replies) of:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Viewing media of:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Viewing liked by:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Viewing list:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Bookmarks",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Notifications",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Explore",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Changing some settings...",
+		"description": ""
+	}
+}
