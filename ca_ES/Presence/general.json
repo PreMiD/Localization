@@ -1,1 +1,22 @@
-{}
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Ceracant...",
+		"description": ""
+	},
+	"general.live": {
+		"message": "En Viu",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Llegint",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Cercant",
+		"description": ""
+	}
+}
