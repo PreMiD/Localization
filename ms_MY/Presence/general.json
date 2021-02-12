@@ -107,6 +107,18 @@
 		"message": "Mencari",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Menulis",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Memanggil",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Dalam panggilan...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Troli membeli-belah",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "Dalam gelungan",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Melihat kejadian",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Sejarah kejadian",
 		"description": "A page name of statuspages"
@@ -285,6 +301,34 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Menonton Episod",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Menonton Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Melihat Saluran",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Mendengar Bersama",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Melihat Halaman",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Melihat Lagu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Melihat Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Melihat Profil",
 		"description": "Used as the title for the button in Discord."
 	}
 }
