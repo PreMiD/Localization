@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Погледни серий",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Погледни филм",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Гледай епизод",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Гледа своя списък",
 		"description": "List as in their saved series/movies."
