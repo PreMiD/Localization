@@ -274,5 +274,17 @@
 	"general.uptimeHistory": {
 		"message": "Çalışma süres geçmişi",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Seriyi Göster",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Filmi Göster",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Bölümü İzle",
+		"description": "Used as the title for the button in Discord."
 	}
 }
