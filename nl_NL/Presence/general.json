@@ -107,6 +107,18 @@
 		"message": "Bezig met zoeken",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Schrijven",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Bellen",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "In een gesprek...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Winkelwagen",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "Op herhaalmodus",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Bekijkt een incident",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Incidentengeschiedenis",
 		"description": "A page name of statuspages"
@@ -274,5 +290,45 @@
 	"general.uptimeHistory": {
 		"message": "Beschikbaarheidsgeschiedenis",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Serie bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Film bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Aflevering bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Bekijk Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Bekijk Kanaal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Luister Mee",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Bekijk Pagina",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Bekijk Nummer",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Bekijk Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Bekijk Profiel",
+		"description": "Used as the title for the button in Discord."
 	}
 }
