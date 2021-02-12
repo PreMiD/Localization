@@ -17,9 +17,9 @@ editor: markdown
 
 # শুরু করা যাক
 
-PreMiD ইন্সটল করা দ্রুত এবং সহজ। You should be up and running in no time.
+PreMiD ইন্সটল করা দ্রুত এবং সহজ। তুমি কাজ করা শুরু করে দিতে পারবে কিছুক্ষণের মধ্যেই।
 
-- Make sure you have read the [system requirements](/install/requirements).
+- নিশ্চিত করো যে তুমি [সিস্টেম রিকোয়ারমেন্টগুলো](/install/requirements) পড়েছ।
 - Follow the quick and simple [installation guide](/install).
 - [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
 
@@ -31,7 +31,7 @@ PreMiD ইন্সটল করা দ্রুত এবং সহজ। You s
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
 # কন্ট্রিবিউট
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
+- :bug: [বাগ রিপোর্ট করো](https://github.com/PreMiD): আমাদের সাহায্য করো সেইসব বাগগুলো ঠিক করতে।
 - :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
 - :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
 - :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
