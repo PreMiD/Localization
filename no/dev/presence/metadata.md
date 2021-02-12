@@ -86,7 +86,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>bidragsytere</b></td>
@@ -113,7 +113,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><b>beskrivelse</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
@@ -121,50 +121,50 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>versjon</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
         that your presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">A string used to represent the category the presence falls under.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
