@@ -386,7 +386,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# Some helpful things
+# Algumas coisas úteis
 
 ## Hot-reloading
 
