@@ -24,7 +24,7 @@
 		"description": "Skins is how you appear in the game."
 	},
 	"namemc.skinsTag": {
-		"message": "Regarde les skins avec le tag {0}",
+		"message": "Regarde les skins avec l'étiquette {0}",
 		"description": "Skins is how you appear in the game."
 	},
 	"namemc.viewSkin": {
@@ -56,7 +56,7 @@
 		"description": ""
 	},
 	"namemc.profileEdit": {
-		"message": "En train de changer les informations de leur{0}profil",
+		"message": "En train d'éditer les informations de leur{0}profil",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"namemc.viewFriends": {
