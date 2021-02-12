@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "Visa serier",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "Visa filmen",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "Visa Avsnitt",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "Visar deras lista",
 		"description": "List as in their saved series/movies."
