@@ -1,46 +1,46 @@
 {
-    "twitter.readTweet": {
-        "message": "กำลังอ่านทวิต:",
-        "description": ""
-    },
-    "twitter.viewDms": {
-        "message": "กำลังดูข้อความส่วนตัวของพวกเขา",
-        "description": ""
-    },
-    "twitter.viewTweets": {
-        "message": "กำลังดูทวีตของ :",
-        "description": ""
-    },
-    "twitter.viewTweetsWithReplies": {
-        "message": "กำลังดูทวีต (และการตอบกลับ) ของ :",
-        "description": ""
-    },
-    "twitter.viewMedia": {
-        "message": "กำลังดูสื่อของ :",
-        "description": ""
-    },
-    "twitter.viewLiked": {
-        "message": "กำลังดูการถูกใจของ :",
-        "description": ""
-    },
-    "twitter.viewList": {
-        "message": "กำลังดูลิสต์ :",
-        "description": ""
-    },
-    "twitter.bookmarks": {
-        "message": "บุ๊คมาร์ค",
-        "description": ""
-    },
-    "twitter.notifs": {
-        "message": "การแจ้งเตือน",
-        "description": ""
-    },
-    "twitter.explore": {
-        "message": "สำรวจ",
-        "description": ""
-    },
-    "twitter.settings": {
-        "message": "กำลังเปลี่ยนการตั้งค่า...",
-        "description": ""
-    }
+	"twitter.readTweet": {
+		"message": "กำลังอ่านทวิต:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "กำลังดูข้อความส่วนตัวของพวกเขา",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "กำลังดูทวีตของ :",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "กำลังดูทวีต (และการตอบกลับ) ของ :",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "กำลังดูสื่อของ :",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "กำลังดูการถูกใจของ :",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "กำลังดูลิสต์ :",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "บุ๊คมาร์ค",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "การแจ้งเตือน",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "สำรวจ",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "กำลังเปลี่ยนการตั้งค่า...",
+		"description": ""
+	}
 }
