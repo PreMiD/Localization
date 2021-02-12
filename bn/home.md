@@ -13,7 +13,7 @@ editor: markdown
 
 # PreMiD সম্বন্ধে
 - :mag: [PreMiD কী?](/about) PreMiD এর পিছনের উদ্দেশ্য এবং কেন তোমাকে এটা ব্যবহার করা উচিত।
-- :link: [RPC কী?](https://discordapp.com/rich-presence) Rich Presence সম্বন্ধে সবকিছু এবং এটার ফাংশনগুলো।
+- :link: [RPC কী?](https://discordapp.com/rich-presence) Rich Presence সম্বন্ধে সবকিছু এবং এর ফাংশনগুলো।
 
 # শুরু করা যাক
 
