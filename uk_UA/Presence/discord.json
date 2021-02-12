@@ -1,0 +1,10 @@
+{
+	"discord.browseThrough": {
+		"message": "Переглядає крізь",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.merch.collection": {
+		"message": "Переглядає колекцію",
+		"description": ""
+	}
+}
