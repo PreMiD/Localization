@@ -107,6 +107,18 @@
 		"message": "Suchen",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Schreiben",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Wird angerufen",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Im Anruf...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Warenkorb",
 		"description": ""
