@@ -1,10 +1,14 @@
 {
-    "twitter.notifs": {
-        "message": "Ilmoitukset",
-        "description": ""
-    },
-    "twitter.settings": {
-        "message": "Muuttamassa asetuksia...",
-        "description": ""
-    }
+	"twitter.viewDms": {
+		"message": "Katselee yksityisviestejään",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Ilmoitukset",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Muuttamassa asetuksia...",
+		"description": ""
+	}
 }
