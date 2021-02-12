@@ -274,5 +274,17 @@
 	"general.uptimeHistory": {
 		"message": "Systemverfügbarkeit",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Schaut Serien an",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Film ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Episode ansehen",
+		"description": "Used as the title for the button in Discord."
 	}
 }
