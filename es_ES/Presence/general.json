@@ -107,6 +107,18 @@
 		"message": "Buscando",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Escribiendo",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Llamando",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "En una llamada...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Cesta de la compra",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "En bucle",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Viendo una incidencia",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Historial de incidencias",
 		"description": "A page name of statuspages"
@@ -285,6 +301,34 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Viendo Episodio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Ver Vídeo",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Ver Canal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Escuchar a la Vez",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Ver Página",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Ver Canción",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Ver Álbum",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Ver Perfil",
 		"description": "Used as the title for the button in Discord."
 	}
 }
