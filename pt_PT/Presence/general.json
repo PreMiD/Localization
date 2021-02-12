@@ -107,6 +107,18 @@
 		"message": "A pesquisar",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Escrevendo",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Chamando",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Numa chamada...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Carrinho de compras",
 		"description": ""
@@ -203,13 +215,37 @@
 		"message": "A ver página: ",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Assistindo um filme",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Assistindo uma série",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Assistindo um show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "A assistir a um vídeo",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Esperando a estreia de um vídeo",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Esperando a estreia do vídeo",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "A assistir a uma transmissão em direto",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Esperando o início da transmissão ao vivo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
 	},
 	"general.watching": {
 		"message": "A assistir:",
