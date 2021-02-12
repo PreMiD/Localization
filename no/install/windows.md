@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Kommer i gang med en PreMID installasjon på Windows
+description: Kom i gang med en PreMiD installasjon på Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
@@ -11,10 +11,10 @@ tags:
 Installasjonen av denne extensionen er veldig viktig grunnet applikasjonen ikke kan gjøre noe selv uten det.
 
 # Installer
-1. Se nedlasting siden våres ved å [klikke her](https://premid.app/downloads).
+1. Gå til vår nedlastnings side ved å [klikke her](https://premid.app/downloads).
 2. Velg **Windows**.
 3. Åpne installasjonsprogrammet.
-4. **Windows SmartScreen** vil vises dersom du installerer PreMiD for første gang. Klikk på **Mer info** og velg **Kjør allikevel**. > Dette er fordi vi ikke har et signeringssertifikat (CSC). [Støtt oss](https://www.patreon.com/Timeraa) for å finansiere det.{.is-info}
+4. **Windows SmartScreen** vil vises dersom du installerer PreMiD for første gang. Klikk på **Mer info** og så velg **Kjør allikevel**. > Dette er fordi vi ikke har et signeringssertifikat (CSC). [Støtt oss](https://www.patreon.com/Timeraa) for å finansiere det.{.is-info}
 
 Applikasjonen vil starte automatisk. Sjekk for symbolet i verktøykassen din.
 
