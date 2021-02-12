@@ -1,0 +1,10 @@
+{
+	"discord.browseThrough": {
+		"message": "Brskanje po",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.merch.collection": {
+		"message": "Ogledovanje zbirko:",
+		"description": ""
+	}
+}
