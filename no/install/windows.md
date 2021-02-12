@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Kom i gang med en PreMiD installasjon på Windows
+description: Kommer i gang med en PreMID installasjon på Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
