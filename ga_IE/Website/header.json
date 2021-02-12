@@ -35,6 +35,10 @@
     "message": "Rannpháirtithe",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Logáil isteach",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Logáilte isteach mar",
     "description": "Indicates which user is logged in"
