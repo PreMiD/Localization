@@ -1,16 +1,4 @@
 {
-	"netflix.viewSeries": {
-		"message": "সিরিজটি দেখো",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewMovie": {
-		"message": "মুভিটি দেখো",
-		"description": "Used as the title for the button in Discord."
-	},
-	"netflix.viewEpisode": {
-		"message": "এপিসোডটি দেখো",
-		"description": "Used as the title for the button in Discord."
-	},
 	"netflix.viewList": {
 		"message": "দেখছে তার লিস্ট",
 		"description": "List as in their saved series/movies."
