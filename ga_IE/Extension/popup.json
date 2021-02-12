@@ -115,6 +115,10 @@
 		"message": "Gan aon nasc Discord!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "Ní raibh PreMiD in ann ceangal chun d’iarratas Discord! An bhfuil sé suiteáilte agus ag rith?* Fabhtcheartú*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Gach",
 		"description": "Category name shown when you open tags"

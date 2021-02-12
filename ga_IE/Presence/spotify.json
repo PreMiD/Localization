@@ -1,1 +1,10 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Amhráin faoi thrácht",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Podchraoltaí is fearr",
+		"description": ""
+	}
+}
