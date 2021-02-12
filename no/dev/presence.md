@@ -397,10 +397,10 @@ Nettstedet du utvikler på, lastes automatisk opp hver gang du lagrer en fil i m
 - Du kan sette `konsoll.log("Test");` mellom koden og se om nettleseren din gir deg dette utganget. Hvis ja, gå på og prøv igjen etter den neste funksjonen. Hvis ikke er det en feil over.
 - Hvis det ikke hjelper deg enten å spørre en presence utvikler om vår [Discord-server](https://discord.premid.app/) for hjelp.
 
-# Files explained
+# Filer forklart
 
 - [Presence Klasse](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [Lysbildefremvisningsklasse](/dev/presence/slideshow)
 - [iFrame Klasse](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Metadata fil](/dev/presence/metadata)
+- [TypeScript konfigurasjon](/dev/presence/tsconfig ""){.links-list}
