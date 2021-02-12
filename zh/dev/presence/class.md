@@ -1,6 +1,6 @@
 ---
-title: Presence 类
-description: 每个 PreMiD Presence 的主类
+title: Presence Class
+description: The main class for every PreMiD presence
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Presence 类
+# Presence Class
 
-## 一. 导言
+## 介紹
 
-`Presence` 类非常有用，因为它具有我们创建一个存在所需要的基本方法。
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-当你创建一个类时，你必须指定 `clientId` 属性。
+When you create a class you must specify `clientId` property.
 
 ```typescript
 const presence = new Presence({
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## 方法
+## Methods
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> 此方法仅适用于Mac OS。 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
@@ -270,38 +270,28 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">变量</th>
-      <th style="text-align:left">描述</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">說明</th>
+      <th style="text-align:left">種類</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">详细信息</td>
-      <td style="text-align:left">您在场的第一条线通常用作头部。</td>
-      <td style="text-align:left"><code>字符串</code>
+      <td style="text-align:left">詳細資料</td>
+      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">状态</td>
-      <td style="text-align:left">你们在场的第二线。</td>
+      <td style="text-align:left">state</td>
+      <td style="text-align:left">Second line in your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">定义当前时间。<br>
-        如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
-          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
-          倒计时。
-      </td>
-      <td style="text-align:left"><code>号码</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">定义整个持续时间。
-        <br>如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+      <td style="text-align:left">Defines the current time.<br>
+        Used if you want to display how much <code>hours:minutes:seconds</code> left.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
@@ -309,21 +299,31 @@ This interface has following variables, all of them are optional.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">大尺寸的图像密钥</td>
-      <td style="text-align:left">定义与会标识。</td>
+      <td style="text-align:left">endTimestamp</td>
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
+      </td>
+      <td style="text-align:left"><code>Number</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">largeImageKey</td>
+      <td style="text-align:left">Defines the logo for the presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">小图像密钥</td>
-      <td style="text-align:left">定义存在&apos;s 标志旁边的小图标。</td>
+      <td style="text-align:left">smallImageKey</td>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">小图像文本</td>
-      <td style="text-align:left">定义当用户悬停小的
-        图标时将显示的文本。</td>
+      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -342,7 +342,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## 事件
+## Events
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
