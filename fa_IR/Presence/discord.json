@@ -1,0 +1,22 @@
+{
+	"discord.friends": {
+		"message": "مشاهده دوستان...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "مشاهده تنظیمات‌...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "گشتن در",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "مرکز راهنمایی",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "نگاه کردن مجموعه:",
+		"description": ""
+	}
+}
