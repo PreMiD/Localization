@@ -274,5 +274,17 @@
 	"general.uptimeHistory": {
 		"message": "আপটাইম রিপোর্ট",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "সিরিজটি দেখো",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "মুভিটি দেখো",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "এপিসোডটি দেখো",
+		"description": "Used as the title for the button in Discord."
 	}
 }
