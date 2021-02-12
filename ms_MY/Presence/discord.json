@@ -1,11 +1,51 @@
 {
+	"discord.channelReading": {
+		"message": "Membaca di saluran:{0}{1} (Pelayan: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Menulis di saluran:{0}{1} (Pelayan: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "Membaca DM dari:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Menaip di DM ke:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Membaca di DM kumpulan:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Menaip di DM kumpulan:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
 	"discord.friends": {
 		"message": "Melihat senarai rakannya...",
 		"description": ""
 	},
+	"discord.nitro": {
+		"message": "Membaca mengenai Nitro...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "Sembang suara disambungkan dengan:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "Sembang suara disambungkan dengan:{0}{1} (Pelayan: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
 	"discord.settings": {
 		"message": "Melihat tetapannya...",
 		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Melihat tetapan pelayan:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
 	},
 	"discord.browseThrough": {
 		"message": "Melayari",
