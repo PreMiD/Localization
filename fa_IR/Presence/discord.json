@@ -88,11 +88,95 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.inspiration": {
-		"message": "صفحه الهام گرفته",
+		"message": "صفحه ایده الهام گرفته",
 		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "صفحه همکاران",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "صفحه اتاق خبری",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "صفحه همکاری",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "صفحه تائیدیه",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "صفحه بسته استریم",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "صفحه منبع باز",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "صفحه امنیت",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "صفحه مدیریت",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "صفحه Rich Presence",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "ضوابط و سیاست ها",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "پرتال توسعه دهندگان",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "گشتن در برنامه‌هایشان",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "ویرایش برنامه: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "گشتن در تیم هایشان",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "ویرایش تیم: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "گشتن در سرور هایشان",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "مشاهده دورنمای سرور: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "درحال خواندن مستندات",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "وضعیت دیسکورد",
+		"description": ""
 	},
 	"discord.support": {
 		"message": "مرکز راهنمایی",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "بلاگ دیسکورد",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "لوازم و تزیینات دیسکورد",
 		"description": ""
 	},
 	"discord.merch.collection": {
