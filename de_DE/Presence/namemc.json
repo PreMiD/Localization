@@ -2,5 +2,9 @@
 	"namemc.upcomingNames": {
 		"message": "Anstehende Namen anzeigen",
 		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
+	"namemc.viewSkin": {
+		"message": "Betrachtet einen Skin",
+		"description": "Skins is how you appear in the game."
 	}
 }
