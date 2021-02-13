@@ -108,11 +108,11 @@
 		"description": ""
 	},
 	"general.writing": {
-		"message": "Escrevendo",
+		"message": "A escrever",
 		"description": ""
 	},
 	"general.calling": {
-		"message": "Chamando",
+		"message": "A ligar",
 		"description": ""
 	},
 	"general.inCall": {
@@ -280,7 +280,7 @@
 		"description": ""
 	},
 	"general.incidentView": {
-		"message": "Vendo um incidente",
+		"message": "A ver um incidente",
 		"description": "A page name of statuspages"
 	},
 	"general.incidentHistory": {
@@ -292,7 +292,7 @@
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
-		"message": "Ver Series",
+		"message": "Ver série",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
@@ -328,7 +328,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewProfile": {
-		"message": "Ver Perfil",
+		"message": "Ver perfil",
 		"description": "Used as the title for the button in Discord."
 	}
 }
