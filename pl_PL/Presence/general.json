@@ -107,6 +107,18 @@
 		"message": "Wyszukiwanie",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Pisze",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Dzwoni",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "W rozmowie...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Koszyk",
 		"description": ""
