@@ -3,6 +3,10 @@
     "message": "Críochnaithe",
     "description": "Button on the page when trying to download with adblocker on."
   },
+  "downloads.button.login": {
+    "message": "Logáil isteach",
+    "description": "Login button on the downloads page."
+  },
   "downloads.adsbox.thankyou.title": {
     "message": "Go raibh maith agat!",
     "description": "Title of the advertisement section box."
