@@ -1,1 +1,22 @@
-{}
+{
+	"namemc.upcomingNames": {
+		"message": "দেখছে আসা নামগুলো",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
+	"namemc.skinsTrending": {
+		"message": "দেখছে ট্রেন্ডিং স্কিনগুলো",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTop": {
+		"message": "দেখছে টপ স্কিনগুলো",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsNew": {
+		"message": "দেখছে নতুন স্কিনগুলো",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsRandom": {
+		"message": "দেখছে র‍্যানডম স্কিনগুলো",
+		"description": "Skins is how you appear in the game."
+	}
+}
