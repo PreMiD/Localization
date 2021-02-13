@@ -107,6 +107,18 @@
 		"message": "সার্চ করছে",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "লিখছে",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "কল করছে",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "একটি কলে আছে...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "শপিং কার্ট",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "লুপে",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "দেখছে একটি ঘটনা",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "ঘটনার রিপোর্ট",
 		"description": "A page name of statuspages"
@@ -276,15 +292,23 @@
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
-		"message": "সিরিজটি দেখো",
+		"message": "দেখো সিরিজটি",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
-		"message": "মুভিটি দেখো",
+		"message": "দেখো মুভিটি",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
-		"message": "এপিসোডটি দেখো",
+		"message": "দেখো এপিসোডটি",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "দেখো ভিডিওটি",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "দেখো চ্যানেলটি",
 		"description": "Used as the title for the button in Discord."
 	}
 }
