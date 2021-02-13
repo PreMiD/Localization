@@ -1,23 +1,23 @@
 ---
 title: TypeScript Configuration
-description: A little helper for TypeScript
+description: TypeScript 的小助手
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
 ---
 
-# TypeScript Configuration
+# TypeScript 配置
 
 ## Introduction
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+当你下载并解压工作区时，你将看到一个名为 `tsconfig的文件。 s` 在 root 和存在文件夹中，此文件用于配置 **TypeScript** 编译器。 它已经为您配置了，所以不要担心这个问题。
 
-We just want to describe some settings that you should know.
+我们只想描述你应该知道的一些设置。
 
-## Root Configuration
+## Root配置
 
-In the root configuration file you will see something like this.
+在 root 配置文件中，你会看到类似的东西。
 
 ```javascript
 {
@@ -36,12 +36,12 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property                   | 說明                                                                                                                                                                  |
+| 财产                         | 描述                                                                                                                                                                  |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
-| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
-| target                     | Defines the JavaScript version you are compiling.                                                                                                                   |
-| removeComments             | Removing comments from compiled files.                                                                                                                              |
+| **compilerOptions**        | 用于配置编译器，大多数属性都位于这里。                                                                                                                                                 |
+| 模块                         | 您可以在这里阅读更多关于 [的信息](https://www.typescriptlang.org/docs/handbook/modules.html)。                                                                                      |
+| target                     | 定义您正在编译的 JavaScript 版本。                                                                                                                                             |
+| 删除评论                       | 从编译文件中删除评论。                                                                                                                                                         |
 | noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
 | noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
@@ -50,7 +50,7 @@ In the root configuration file you will see something like this.
 | typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
-## Presence Configuration
+## 存在配置
 
 ```javascript
 {
@@ -61,8 +61,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | 說明                                                                                     |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Property            | 描述                                                               |
+|:------------------- |:---------------------------------------------------------------- |
+| **扩展**              | 用于扩展基础 `tsconfig` 文件用于各种任务。                                      |
+| **compilerOptions** | 更多信息请参阅 [**Root 配置**](/dev/presence/tsconfig#root-configuration) |
+| outDir              | 定义编译文件的输出目录。                                                     |
