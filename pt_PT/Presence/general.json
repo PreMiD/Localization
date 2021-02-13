@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "Editando:",
+		"message": "A editar",
 		"description": ""
 	},
 	"general.episode": {
@@ -36,7 +36,7 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "A Ouvir Música",
+		"message": "A ouvir música",
 		"description": ""
 	},
 	"general.listeners": {
@@ -64,7 +64,7 @@
 		"description": ""
 	},
 	"general.playing": {
-		"message": "A Jogar",
+		"message": "A jogar",
 		"description": ""
 	},
 	"general.readingDM": {
@@ -112,7 +112,7 @@
 		"description": ""
 	},
 	"general.calling": {
-		"message": "A ligar",
+		"message": "Em chamada",
 		"description": ""
 	},
 	"general.inCall": {
@@ -264,7 +264,7 @@
 		"description": "A page name"
 	},
 	"general.terms": {
-		"message": "Termos de Serviço",
+		"message": "Termos e condições",
 		"description": "A page name"
 	},
 	"general.cookie": {
