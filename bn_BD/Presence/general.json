@@ -310,5 +310,25 @@
 	"general.buttonViewChannel": {
 		"message": "দেখো চ্যানেলটি",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "শোনো একসাথে",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "দেখো পেজটি",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "দেখো গানটি",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "দেখো অ্যালবামটি",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "দেখো প্রোফাইলটি",
+		"description": "Used as the title for the button in Discord."
 	}
 }
