@@ -314,5 +314,21 @@
 	"general.buttonListenAlong": {
 		"message": "Dengar Bersama",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Lihat Halaman",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Lihat Lagu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Lihat Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Lihat Profil",
+		"description": "Used as the title for the button in Discord."
 	}
 }
