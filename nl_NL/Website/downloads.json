@@ -136,7 +136,7 @@
     "description": "Message next to pepe."
   },
   "downloads.showbeta.message": {
-    "message": "Toon bèta-downloads",
+    "message": "Toon vroegtijdige releases",
     "description": ""
   },
   "downloads.showbeta.small": {
