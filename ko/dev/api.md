@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API 버전
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+> API v2는 더 이상 사용되지 않으므로 가까운 시일 내 제거될 예정입니다. 모든 요청에 v3를 사용하여 향후 발생할 문제를 방지하세요. 
 > 
 > {.is-danger}
 
@@ -31,6 +31,6 @@ PreMid API에 연관되어있는 모든 HTTP-layer 및 프로코톨(예시: http
 > {.is-danger}
 
 **API 버전을 선택하세요.**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *종료 예정*](/dev/api/v2)
+- [v3 *지원중*](/dev/api/v3)
 {.links-list}
