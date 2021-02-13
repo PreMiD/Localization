@@ -1,1 +1,6 @@
-{}
+{
+	"genius.lyrics": {
+		"message": "Betrachtet die Lyrics von:",
+		"description": "Song name will be listed after the \":\""
+	}
+}
