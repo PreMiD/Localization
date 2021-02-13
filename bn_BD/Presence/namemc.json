@@ -18,5 +18,17 @@
 	"namemc.skinsRandom": {
 		"message": "দেখছে র‍্যানডম স্কিনগুলো",
 		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTagged": {
+		"message": "দেখছে ট্যাগ করা স্কিন",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTag": {
+		"message": "দেখছে {0} ট্যাগের স্কিনগুলো",
+		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
+	},
+	"namemc.viewSkin": {
+		"message": "দেখছে একটি স্কিন",
+		"description": "Skins is how you appear in the game."
 	}
 }
