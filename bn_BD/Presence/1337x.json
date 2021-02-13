@@ -60,7 +60,7 @@
         "description": ""
     },
     "1337x.rules": {
-        "message": "নিয়মগুলো পড়ছে",
+        "message": "পড়ছে নিয়মগুলো",
         "description": ""
     },
     "1337x.writing": {
@@ -68,7 +68,7 @@
         "description": ""
     },
     "1337x.about": {
-        "message": "1337x সম্বন্ধে পড়ছে",
+        "message": "পড়ছে 1337x সম্বন্ধে",
         "description": ""
     },
     "1337x.viewTorrent": {

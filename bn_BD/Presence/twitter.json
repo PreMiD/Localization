@@ -1,6 +1,6 @@
 {
 	"twitter.readTweet": {
-		"message": "পড়ছে টুইট:",
+		"message": "পড়ছে যার টুইট:",
 		"description": "after the \":\" it will say the username"
 	},
 	"twitter.viewDms": {
