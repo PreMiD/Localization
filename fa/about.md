@@ -10,9 +10,9 @@ editor: markdown
 PreMiD یک ابزار ساده و قابل تنظیم است که به شما اجازه می دهد تا به دیگران به عنوان وضعیت دیسکورد نشان دهید که در اینترنت چه می کنید. همچنین از خیلی پلتفرم های مختلف پشتیبانی می کند و کاربران متفاوتی را به طور همزمان که درحال مشاهده یک محتوای یکسان هستند را در آپدیت های آینده پوشش می دهد.
 
 # برای چه شما باید PreMiD را دانلود کنید؟
-- Our whole project is open-source! We want to work with our users - not against them.
-- A big feature, called WatchParties, is coming to PreMiD. With game invitations and simultaneous watching and listening. Powered by [Discord](https://discordapp.com/).
+- تمام پروژه ما متن باز است! ما می خواهیم که با کاربران هایمان همکاری کنیم - نه اینکه علیه آنها باشیم.
+- یک ویژگی بزرگ به اسم WatchParties قرار است به PreMiD افزوده شود. با دعوت به بازی و مشاهده کنندگان و شنوندگان همزمان. قدرت گرفته از [Discord](https://discordapp.com/).
 
-# Core features
-- Displays your current web service in Discord as your status.
-- Grants full control over Presences.
+# ویژگی های اساسی
+- نمایش سرویس وب شما در وضعیت دیسکوردتان.
+- دسترسی کامل به کنترل محتوای Presence ها.
