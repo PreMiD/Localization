@@ -39,6 +39,34 @@
 		"message": "Angen cymorth?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Mae eich app PreMiD wedi dyddio. Diweddarwch ef er mwyn Parhau i Ddefnyddio PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Eich estyniad wedi dyddio",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Diweddariad brys",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Dim gysylltiad rhyngrwyd!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Mae'n ymddangos nad oes gennych gysylltiad rhyngrwyd! Ni fydd PreMiD yn gallu dangos ymddangosiad ar hyn o bryd.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Dim cysylltiad gyda Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "Nid oedd PreMiD yn gallu cysylltu â'ch Discord! A yw wedi'i osod ac yn rhedeg? * Datrys Problemau *",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Pob catagoriau",
 		"description": "Category name shown when you open tags"
@@ -49,6 +77,18 @@
 	},
 	"popup.category.music": {
 		"message": "Cerddoriaeth",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Gêmmau",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Cymdeithaseg",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Fideos a Ffrydiau",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
