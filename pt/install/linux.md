@@ -18,12 +18,12 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 
 - **[Sobre](#about)**
   - [Estatísticas](#stats)
-  - [Requirements](#requirements)
+  - [Requisitos](#requirements)
   - Exemplos (em breve)
   - FAQs (em breve)
   - Construção (em breve)
   - [Suporte](#support)
-  - [Credits](#credits)
+  - [Créditos](#credits)
   - [Licença](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMENDADA_)
