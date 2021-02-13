@@ -107,6 +107,14 @@
 		"message": "検索中",
 		"description": ""
 	},
+	"general.calling": {
+		"message": "発信中",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "通話中",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "ショッピングカート",
 		"description": ""
@@ -267,6 +275,10 @@
 		"message": "ループ中",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "発生した問題一覧を閲覧中",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "問題の履歴",
 		"description": "A page name of statuspages"
@@ -274,5 +286,25 @@
 	"general.uptimeHistory": {
 		"message": "アップタイム履歴",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "シリーズを閲覧中",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "映画を閲覧中",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "エピソード",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "動画を視聴",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "プロフィールを閲覧中",
+		"description": "Used as the title for the button in Discord."
 	}
 }
