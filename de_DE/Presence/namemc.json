@@ -18,5 +18,9 @@
 	"namemc.viewServer": {
 		"message": "Betrachtet Server:",
 		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "Betrachtet seinen Skin",
+		"description": ""
 	}
 }
