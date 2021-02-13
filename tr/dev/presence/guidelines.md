@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Yönergeler
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rule sets will keep us and our users from running into issues.
+[GitHub Depomuza](https://github.com/PreMiD/Presences) İçerik paylaşırken, bir takım yönergelere uymanız gerekir. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # Oluşturma
 
@@ -297,7 +297,7 @@ Bir pull request atmadan önce bilmeniz gereken şeyler:
 
 ## `Kontroller`
 
-![Checks](https://i.imgur.com/BCDZQe9.png)
+![Kontroller](https://i.imgur.com/BCDZQe9.png)
 
 Şu anda, bir servis, 2 adet otomatik doğrulama aşamasından geçmektedir. Bu doğrulamalar, inceleme ekibimizin kodunuzun çalışmaya hazır olup olmadığını anlamasını kolaylaştırır.
 
