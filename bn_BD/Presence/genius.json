@@ -1,1 +1,10 @@
-{}
+{
+	"genius.viewHome": {
+		"message": "দেখছে হোমপেজটি",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "দেখছে অ্যালবাম:",
+		"description": "Album of a song"
+	}
+}

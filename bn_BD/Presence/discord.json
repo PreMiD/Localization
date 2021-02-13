@@ -1,4 +1,12 @@
 {
+	"discord.friends": {
+		"message": "দেখছে তার বন্ধুদের...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "পড়ছে নাইট্রো সম্বন্ধে...",
+		"description": ""
+	},
 	"discord.merch.collection": {
 		"message": "দেখছে কালেকশন:",
 		"description": ""
