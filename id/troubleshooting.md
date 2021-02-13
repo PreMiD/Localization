@@ -94,15 +94,15 @@ Distro berbasis Arch Linux sebaiknya menggunakan paket AUR (Arch User Repository
 <em x-id="3">Peringatan: paket pada repository <strong x-id="1">AUR</strong> tidak dikelola oleh kami (sebagai organisasi PreMiD), tapi oleh orang lain.</em>
 
 ### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+Kamu harus tahu bahwa <strong x-id="1">PreMiD</strong> terikat pada port <strong x-id="1">3020</strong>. Ini dibutuhkan agar Ekstensi dan Aplikasi dapat berkomunikasi. Jika <strong x-id="1">PreMiD</strong> menampilkan error tentang port tersebut, kamu sebaiknya memeriksa jika ada sesuatu yang terikat pada port 3020 dengan menjalankan <code>sudo lsof -i:3020</code> atau <code>sudo netstat -tnlp | grep :3020</code> pada terminalmu. Jika suatu proses terikat pada port tersebut kamu harus memastikan port tersebut kosong dan coba menjalankan <code>PreMiD</code> lagi.
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### AppImage PreMiD tidak berjalan saat login
+Seperti yang telah kami tetapkan pada **Linux repository**, AppImage tidak bisa dijalankan saat login. Kamu dapat menambahkan autostart dengan melakukan langkah berikut:
+1. Buatlah file bernama <strong x-id="1">rc.local</strong> pada direktori <code>/etc</code>.
+2. Bukalah file tersebut menggunakan editor yang kamu sukai dan tempel kode yang telah diberikan dengan merubah beberapa hal:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# Dibutuhkan untuk menjalankan /bin/bash (jika kamu menggunakan zsh etc. you can change it.)
 
 # Example: /home/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
