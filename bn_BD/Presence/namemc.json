@@ -30,5 +30,25 @@
 	"namemc.viewSkin": {
 		"message": "দেখছে একটি স্কিন",
 		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "দেখছে কেপগুলো",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "দেখছে কেপ:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "দেখছে সার্ভারগুলো",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "দেখছে সার্ভার:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "দেখো সার্ভারটি",
+		"description": "Used as the title for the button in Discord."
 	}
 }
