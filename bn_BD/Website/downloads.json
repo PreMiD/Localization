@@ -56,11 +56,11 @@
     "description": "Downloads page warning when user is on mobile."
   },
   "downloads.mobile.showDownloads": {
-    "message": "ডাউনলোডস দেখাও",
+    "message": "ডাউনলোডগুলো দেখাও",
     "description": "Little button on the downloads page for mobile users."
   },
   "downloads.mobile.hideDownloads": {
-    "message": "ডাউনলোডস হাইড করাও",
+    "message": "ডাউনলোডগুলো হাইড করাও",
     "description": "Little button on the downloads page for mobile users."
   },
   "downloads.warning.differentVersion": {
@@ -72,7 +72,7 @@
     "description": "Tippy message of the version number when user is on Linux."
   },
   "downloads.error.login": {
-    "message": "লগইন করো ডাউনলোডসগুলো দেখার জন্যে।",
+    "message": "লগইন করো ডাউনলোডগুলো দেখার জন্যে।",
     "description": "Error message if the user is not logged in."
   },
   "downloads.error.noaccess.title": {
@@ -136,7 +136,7 @@
     "description": "Message next to pepe."
   },
   "downloads.showbeta.message": {
-    "message": "বেটা ডাউনলোডস দেখাও",
+    "message": "আর্লি রিলিসেস দেখাও",
     "description": ""
   },
   "downloads.showbeta.small": {
