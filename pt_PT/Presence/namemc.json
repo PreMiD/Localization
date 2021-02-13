@@ -50,5 +50,25 @@
 	"namemc.buttonViewServer": {
 		"message": "Ver servidor",
 		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "A ver \"Como reclamar o teu perfil\"",
+		"description": ""
+	},
+	"namemc.profileEdit": {
+		"message": "A editar as{0}informações do seu perfil",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"namemc.viewFriends": {
+		"message": "A ver os seus amigos",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "A ver as suas skins",
+		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "A ver os seus emojis de perfil",
+		"description": "You can have an emoji next to your name, you select it here."
 	}
 }
