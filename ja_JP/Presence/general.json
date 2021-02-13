@@ -107,6 +107,10 @@
 		"message": "検索中",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "執筆中",
+		"description": ""
+	},
 	"general.calling": {
 		"message": "発信中",
 		"description": ""
@@ -303,8 +307,28 @@
 		"message": "動画を視聴",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewChannel": {
+		"message": "チャンネルを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "一緒に聞く",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "ページを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "曲を表示",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "アルバムを見る",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewProfile": {
-		"message": "プロフィールを閲覧中",
+		"message": "プロフィールを見る",
 		"description": "Used as the title for the button in Discord."
 	}
 }
