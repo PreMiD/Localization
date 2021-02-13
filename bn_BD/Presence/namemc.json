@@ -50,5 +50,9 @@
 	"namemc.buttonViewServer": {
 		"message": "দেখো সার্ভারটি",
 		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "দেখছে কীভাবে প্রোফাইল নিতে হয়",
+		"description": ""
 	}
 }
