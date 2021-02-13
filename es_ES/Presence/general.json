@@ -308,27 +308,27 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Ver Canal",
+		"message": "Ver canal",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
-		"message": "Escuchar a la Vez",
+		"message": "Escuchar",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPage": {
-		"message": "Ver Página",
+		"message": "Ver página",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewSong": {
-		"message": "Ver Canción",
+		"message": "Ver música",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewAlbum": {
-		"message": "Ver Álbum",
+		"message": "Ver álbum",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewProfile": {
-		"message": "Ver Perfil",
+		"message": "Ver perfil",
 		"description": "Used as the title for the button in Discord."
 	}
 }
