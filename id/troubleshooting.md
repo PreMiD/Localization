@@ -13,13 +13,13 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > {.is-warning}
 
 Halaman ini meliputi:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+1. [Troubleshooting Umum](https://docs.premid.app/troubleshooting#general)
+2. [Troubleshooting Linux](https://docs.premid.app/troubleshooting#linux)
+3. [Troubleshooting MacOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# Troubleshooting Umum
 ### Muat ulang halaman
 Anda bisa menekan <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) pada keyboard daripada mencari tombol refresh.
 
@@ -81,11 +81,11 @@ Ini adalah false positive dari McAfee dan kami telah melaporkan masalah pada mer
 10. McAfee sekarang seharusnya sudah mengabaikan file kita, luncurkan saja aplikasi kita dan seharusnya baik-baik saja.
 
 ### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+Jangan khawatir. Tekan keybind <kbd>CTRL+R</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) selagi window discord terfokuskan untuk memuat ulang.
 
 <a name="linux"></a>
 
-# Linux troubleshooting
+# Troubleshooting Linux
 ### Ubuntu/Debian based distros
 JIka anda mengunduh Discord melewati Snapcraft, RPC tidak bekerja. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
