@@ -17,7 +17,7 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 6. Selecione o ficheiro que baixou recentemente.
 7. Aceita a instalação clicando em **Adicionar**.
 
-> Do not forget to [add the **application**](/install). 
+> Não se esqueça de [adicionar a **aplicação**](/install). 
 > 
 > {.is-warning}
 
