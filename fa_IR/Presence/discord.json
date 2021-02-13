@@ -63,6 +63,34 @@
 		"message": "گشتن در",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.download": {
+		"message": "صفحه دانلود",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "صفحه \"چرا دیسکورد؟\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "مرکز ایمنی",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "صفحه شغل‌ها",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "صفحه درباره",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "صفحه نام تجاری",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "صفحه الهام گرفته",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.support": {
 		"message": "مرکز راهنمایی",
 		"description": ""

@@ -1,7 +1,43 @@
 {
+	"discord.channelReading": {
+		"message": "Liest in:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Schreibt in:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "Liest PNs von:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Schreibt in PNs an:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Liest in Gruppen PN:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Schreibt in Gruppen PN:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
 	"discord.friends": {
 		"message": "Betrachtet Freunde...",
 		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Liest über Nitro...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "Sprachkanal verbunden mit:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "Sprachkanal verbunden in:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
 	},
 	"discord.settings": {
 		"message": "Betrachtet Einstellungen...",
@@ -13,6 +49,18 @@
 	},
 	"discord.safety": {
 		"message": "Sicherheits-Center",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "die Partner Seite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "die Verizifierzungs-Seite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "die StreamKit Seite",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.opensource": {
