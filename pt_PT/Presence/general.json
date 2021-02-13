@@ -96,11 +96,11 @@
 		"description": ""
 	},
 	"general.searchFor": {
-		"message": "A pesquisar por",
+		"message": "A procurar por",
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "A pesquisar algo...",
+		"message": "À procura de algo...",
 		"description": ""
 	},
 	"general.search": {
@@ -128,7 +128,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "A escrever em mensagens diretas para",
+		"message": "A escrever uma mensagem para",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -140,23 +140,23 @@
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "A ver categoria",
+		"message": "A ver a categoria",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "A ver canal",
+		"message": "A ver o canal",
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "A ver episódio",
+		"message": "A ver o episódio",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "A ver género",
+		"message": "A ver o género",
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "A ver página inicial",
+		"message": "A ver a página inicial",
 		"description": ""
 	},
 	"general.viewList": {
