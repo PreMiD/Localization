@@ -64,7 +64,7 @@
 		"description": "The first part of the next 17 strings"
 	},
 	"discord.download": {
-		"message": "halaman muat turun",
+		"message": "halaman Muat Turun",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.why": {
@@ -76,51 +76,51 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.jobs": {
-		"message": "kedudukan jawatan",
+		"message": "halaman Pekerjaan",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.company": {
-		"message": "halaman perihalan",
+		"message": "halaman Perihalan",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.branding": {
-		"message": "halaman penjenamaan",
+		"message": "halaman Penjenamaan",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.inspiration": {
-		"message": "halaman inspirasi",
+		"message": "halaman Inspirasi",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.college": {
-		"message": "halaman kolej",
+		"message": "halaman Kolej",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.newsroom": {
-		"message": "halaman bilik berita",
+		"message": "halaman Bilik Berita",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.partner": {
-		"message": "halaman rakan kongsi",
+		"message": "halaman Rakan Kongsi",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.verification": {
-		"message": "halaman pengesahan",
+		"message": "halaman Pengesahan",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.streamkit": {
-		"message": "halaman kit penstriman",
+		"message": "halaman StreamKit",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.opensource": {
-		"message": "halaman sumber terbuka",
+		"message": "halaman Sumber Terbuka",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.security": {
-		"message": "halaman keselamatan",
+		"message": "halaman Keselamatan",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.moderation": {
-		"message": "halaman pengawalan pelayan",
+		"message": "halaman Kawalan Pelayan",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.rpc": {
