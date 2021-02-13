@@ -68,27 +68,27 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "A ler mensagens diretas de:",
+		"message": "A ler mensagens de",
 		"description": ""
 	},
 	"general.readingAbout": {
-		"message": "A ler sobre:",
+		"message": "A ler sobre",
 		"description": ""
 	},
 	"general.readingArticle": {
-		"message": "A ler artigo:",
+		"message": "A ler o artigo",
 		"description": ""
 	},
 	"general.readingChannel": {
-		"message": "A ler no canal:",
+		"message": "A ler o canal",
 		"description": ""
 	},
 	"general.readingPost": {
-		"message": "A ler públicação:",
+		"message": "A ler a publicação",
 		"description": ""
 	},
 	"general.readingThread": {
-		"message": "A ler tópico:",
+		"message": "A ler o artigo",
 		"description": ""
 	},
 	"general.reading": {
@@ -96,7 +96,7 @@
 		"description": ""
 	},
 	"general.searchFor": {
-		"message": "A pesquisar por:",
+		"message": "A pesquisar por",
 		"description": ""
 	},
 	"general.searchSomething": {
@@ -128,31 +128,31 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "A escrever em mensagens diretas para:",
+		"message": "A escrever em mensagens diretas para",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "A escrever no canal:",
+		"message": "A escrever no canal",
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "A ver anime:",
+		"message": "A ver anime",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "A ver categoria:",
+		"message": "A ver categoria",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "A ver canal:",
+		"message": "A ver canal",
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "A ver episódio:",
+		"message": "A ver episódio",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "A ver género:",
+		"message": "A ver género",
 		"description": ""
 	},
 	"general.viewHome": {
@@ -160,39 +160,39 @@
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "A ver list de:",
+		"message": "A ver list de",
 		"description": ""
 	},
 	"general.viewManga": {
-		"message": "A ver manga:",
+		"message": "A ver manga",
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "A ver membro:",
+		"message": "A ver membro",
 		"description": ""
 	},
 	"general.viewMovie": {
-		"message": "A ver filme:",
+		"message": "A ver filme",
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "A ver lista de reprodução:",
+		"message": "A ver lista de reprodução",
 		"description": ""
 	},
 	"general.viewProduct": {
-		"message": "A ver produto:",
+		"message": "A ver produto",
 		"description": ""
 	},
 	"general.viewProfile": {
-		"message": "A ver perfil de:",
+		"message": "A ver perfil de",
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "Reproduzindo:",
+		"message": "Reproduzindo",
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "A ver série:",
+		"message": "A ver série",
 		"description": ""
 	},
 	"general.viewAccount": {
@@ -200,19 +200,19 @@
 		"description": ""
 	},
 	"general.viewThread": {
-		"message": "A ver tópico:",
+		"message": "A ver tópico",
 		"description": ""
 	},
 	"general.viewUser": {
-		"message": "A ver utilizador:",
+		"message": "A ver utilizador",
 		"description": ""
 	},
 	"general.viewing": {
-		"message": "A ver:",
+		"message": "A ver",
 		"description": ""
 	},
 	"general.viewPage": {
-		"message": "A ver página: ",
+		"message": "A ver página ",
 		"description": ""
 	},
 	"general.watchingMovie": {
@@ -252,11 +252,11 @@
 		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
-		"message": "A assistir:",
+		"message": "A assistir",
 		"description": ""
 	},
 	"general.wishlist": {
-		"message": "Lista de desejos:",
+		"message": "Lista de desejos",
 		"description": ""
 	},
 	"general.privacy": {
