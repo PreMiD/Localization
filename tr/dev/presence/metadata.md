@@ -246,7 +246,7 @@ PreMiD, dünya çapındaki kullanıcılarla etkileşimde bulunabilmek için geli
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Kurulum
 
 The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
 
@@ -262,10 +262,10 @@ The `multiLanguage` key can be set to the following:
 2. Seçtiğiniz bir klasör seçin.
 3. Kod düzenleyicisini açın.
 
-##### Creating the file
+##### Dosya Oluşturuluyor
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
+1. `src` klasörüne git.
+2. `Presence` klasörüne git.
 3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
 
 ##### Adding the strings
