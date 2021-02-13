@@ -143,7 +143,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <th style="text-align:left">변수</th>
       <th style="text-align:left">설명</th>
       <th style="text-align:left">유형</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">선택사항</th>
     </tr>
   </thead>
   <tbody>
