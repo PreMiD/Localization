@@ -260,7 +260,7 @@
 		"description": ""
 	},
 	"general.privacy": {
-		"message": "Política de Privacidade",
+		"message": "Política de privacidade",
 		"description": "A page name"
 	},
 	"general.terms": {
@@ -268,7 +268,7 @@
 		"description": "A page name"
 	},
 	"general.cookie": {
-		"message": "Politica de cookies",
+		"message": "Política de cookies",
 		"description": "A page name"
 	},
 	"general.repeatAll": {
@@ -276,7 +276,7 @@
 		"description": ""
 	},
 	"general.repeat": {
-		"message": "A repetir",
+		"message": "Em repetição",
 		"description": ""
 	},
 	"general.incidentView": {
