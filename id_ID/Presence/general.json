@@ -107,6 +107,18 @@
 		"message": "Mencari",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Menulis",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Memanggil",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Dalam panggilan...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Kereta belanja",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "Dalam putaran",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Melihat suatu kejadian",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Riwayat insiden",
 		"description": "A page name of statuspages"
@@ -285,6 +301,18 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Episode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Menonton Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Melihat Channel",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Dengar Bersama",
 		"description": "Used as the title for the button in Discord."
 	}
 }
