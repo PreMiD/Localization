@@ -98,31 +98,31 @@ Kamu harus tahu bahwa <strong x-id="1">PreMiD</strong> terikat pada port <strong
 
 ### AppImage PreMiD tidak berjalan saat login
 Seperti yang telah kami tetapkan pada **Linux repository**, AppImage tidak bisa dijalankan saat login. Kamu dapat menambahkan autostart dengan melakukan langkah berikut:
-1. Buatlah file bernama <strong x-id="1">rc.local</strong> pada direktori <code>/etc</code>.
-2. Bukalah file tersebut menggunakan editor yang kamu sukai dan tempel kode yang telah diberikan dengan merubah beberapa hal:
+1. Buat file bernama <strong x-id="1">rc.local</strong> pada direktori <code>/etc</code>.
+2. Buka file tersebut menggunakan editor yang kamu sukai dan tempel kode yang telah diberikan dengan merubah beberapa hal:
 ```bash
 #!/bin/bash
-# Dibutuhkan untuk menjalankan /bin/bash (jika kamu menggunakan zsh etc. you can change it.)
+# Dibutuhkan untuk menjalankan /bin/bash (jika kamu menggunakan zsh etc. kamu dapat merubahnya.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
+# contoh: /home/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Simpan file dan chmod sebagai executable `sudo chmod a+x /etc/rc.local`.
+4. Restart PCmu dan AppImage PreMiD akan berjalan saat login.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# Troubleshooting MacOS
+### Error membuat direktori
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Jika kamu mendapatkan error ini, itu berarti akunmu tidak memiliki akses Administrator dan kamu harus membuat folder secara manual dengan mengikuti langkah berikut:
+1. Buka finder dan buka folder **Applications**.
+2. Klik kanan pada bagian kosong dan klik **Create folder**.
+3. Pada folder tersebut masukkan nama `PreMiD` (perhatikan huruf kapital).
+4. Buka installer lagi.
 
 # Masalahku belum terselesaikan
-Please open a ticket in [#support](https://discord.premid.app/).
+Harap membuka tiket pada [#support](https://discord.premid.app/).
