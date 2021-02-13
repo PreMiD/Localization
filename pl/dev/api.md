@@ -10,16 +10,16 @@ dateCreated: 2020-06-11T18:03:59.010Z
 
 # API
 
-> Podstawowy adres URL: https://api.premid.app 
+> Podstawowy URL: https://api.premid.app 
 > 
 > {.is-info}
 
-## Wersja API
+## Wersje API
 > API v2 został wycofany i zostanie wkrótce usunięty. Aby uniknąć problemów, prosimy aby użyć v3. 
 > 
 > {.is-danger}
 
-PreMiD ujawnia różne wersje naszego API. Możesz określić wersję poprzez włączenie jej do ścieżki żądania, np. `https://api.premid.app/v{version_number}`. Pominięcie numeru wersji z trasy spowoduje przekierowanie żądań do bieżącej domyślnej wersji (odpowiednio zaznaczone poniżej).
+PreMiD używa kilku wersji API. Możesz określić wersję poprzez włączenie jej do ścieżki żądania, np. `https://api.premid.app/v{version_number}`. Pominięcie numeru wersji z zapytań spowoduje przekierowanie żądań do bieżącej domyślnej wersji (odpowiednio zaznaczone poniżej).
 
 ## Szyfrowanie
 
@@ -31,6 +31,6 @@ Wszystkie usługi i protokoły warstwy HTTP (np. http) w API PreMiD używają TL
 > {.is-danger}
 
 **Wybierz wersję API:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *przestarzałe*](/dev/api/v2)
+- [v3 *aktywne*](/dev/api/v3)
 {.links-list}
