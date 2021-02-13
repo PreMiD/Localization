@@ -7,6 +7,22 @@
 		"message": "Bu kanalda yazıyor:{0}{1} (Sunucu: {2})",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
 	},
+	"discord.dmReading": {
+		"message": "Şu kişiden gelen mesajları okuyor:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Şu kişiye mesaj yazıyor:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Şu gruptaki mesajları okuyor:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Şu gruba mesaj yazıyor:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
 	"discord.friends": {
 		"message": "Arkadaşlarına bakıyor...",
 		"description": ""
@@ -15,12 +31,20 @@
 		"message": "Nitro hakkında okuyor...",
 		"description": ""
 	},
+	"discord.voiceConnectedWith": {
+		"message": "Şu kişiler ile sesli sohbette:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
 	"discord.settings": {
 		"message": "Ayarlara bakıyor...",
 		"description": ""
 	},
+	"discord.invite": {
+		"message": "Davet linkine bakıyor:{0}{1} (Sunucu: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
 	"discord.buttonInvite": {
-		"message": "Davet Bağlantısını Gör",
+		"message": "Davet bağlantısını gör",
 		"description": "Used as the title for the button in Discord."
 	},
 	"discord.browseThrough": {
