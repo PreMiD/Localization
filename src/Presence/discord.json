@@ -64,7 +64,7 @@
 		"description": "The first part of the next 17 strings"
 	},
 	"discord.download": {
-		"message": "the downloads page",
+		"message": "the Downloads page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.why": {
@@ -80,51 +80,51 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.company": {
-		"message": "the about page",
+		"message": "the About page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.branding": {
-		"message": "the branding page",
+		"message": "the Branding page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.inspiration": {
-		"message": "the inspiration page",
+		"message": "the Inspiration page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.college": {
-		"message": "the college page",
+		"message": "the College page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.newsroom": {
-		"message": "the newsroom page",
+		"message": "the Newsroom page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.partner": {
-		"message": "the partner page",
+		"message": "the Partner page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.verification": {
-		"message": "the verification page",
+		"message": "the Verification page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.streamkit": {
-		"message": "the stream kit page",
+		"message": "the StreamKit page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.opensource": {
-		"message": "the open source page",
+		"message": "the Open Source page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.security": {
-		"message": "the security page",
+		"message": "the Security page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.moderation": {
-		"message": "the moderation page",
+		"message": "the Moderation page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.rpc": {
-		"message": "the rich presence page",
+		"message": "the Rich Presence page",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.policies": {
