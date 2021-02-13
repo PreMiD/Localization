@@ -1,30 +1,30 @@
 {
-  "downloads.instructions.heading": {
-    "message": "Kom i gang",
-    "description": "Displayed at Downloads page above steps"
-  },
-  "downloads.instructions.step_1": {
-    "message": "Installér PreMiD",
-    "description": "Heading for installing the application"
-  },
-  "downloads.appdownloading.header": {
-    "message": "Applikationen Download",
-    "description": "Header above application download buttons."
-  },
-  "downloads.extdownloading.header": {
-    "message": "Extension downloads",
-    "description": "Header above extension download buttons."
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det.",
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
-  },
-  "downloads.button.done": {
-    "message": "Færdig",
-    "description": "Button on the page when trying to download with adblocker on."
-  },
-  "downloads.adsbox.thankyou.title": {
-    "message": "Tak!",
-    "description": "Title of the advertisement section box."
-  }
+	"downloads.instructions.heading": {
+		"message": "Kom i gang",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Installér PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Applikationen Download",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Extension downloads",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.button.done": {
+		"message": "Færdig",
+		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "Tak!",
+		"description": "Title of the advertisement section box."
+	}
 }
