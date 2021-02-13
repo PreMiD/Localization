@@ -16,7 +16,7 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Sua Presence gratuita",
+		"message": "A tua Presence gratuita",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
@@ -84,7 +84,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Se estiver interessado num emprego direto no PreMiD, então veja as nossas **vagas de emprego**.",
+		"message": "Se estiveres interessado num emprego no PreMiD, vê as nossas **vagas de emprego**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -96,7 +96,7 @@
 		"description": "Description for sponsors."
 	},
 	"partners.partner.aniFlix": {
-		"message": "É assim que se assiste anime.",
+		"message": "É assim que se vê anime.",
 		"description": "Description for AniFlix."
 	},
 	"partners.partner.arenaOfKings": {
