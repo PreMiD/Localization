@@ -35,13 +35,13 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 
 <a name="about"></a>
 
-## About
+## Sobre
 
 **PreMiD** é um simples utilitário configurável que usa a biblioteca RP (Rich Presence) do Discord, que permite que você mostre o que está fazendo na web (e alguns programas) no seu perfil do Discord como **status de jogo**.
 
 <a name="stats"></a>
 
-### Stats
+### Estatísticas
 
 <table>
   <tr>
@@ -52,13 +52,13 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Todos os lançamentos"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Lançamentos do GitHub"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Última versão"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Lançamentos do GitHub"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Requirements
+### Requisitos
 
 Tecnicamente, toda distribuição que pode executar a aplicação Discord [ oficial](https://discordapp.com/download) **app** (não a web ou a versão instantânea) também pode executar o PreMiD; Como você deve ter notado nos últimos anos, algumas distribuições Linux começaram a abandonar o suporte para as arquiteturas de 32 bits (ia32/i686/i386/x86) e, como resultado, nós também abandonamos. Você pode, no entanto, tentar construir o aplicativo você mesmo se você precisar usá-lo em uma distribuição de 32 bits.</br> Já que atualmente usamos Electron como um motor (Discord também!), suas exigências também se aplicam a esta aplicação:
 
@@ -70,17 +70,17 @@ Não se sabe se versões antigas de outras distribuições o suportam, então ba
 
 <a name="support"></a>
 
-### Support
+### Suporte
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Entre em nosso Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Junte-se ao nosso Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### Créditos
 
 Agradecimentos a:
 
@@ -92,7 +92,7 @@ Agradecimentos a:
 
 <a name="license"></a>
 
-### License
+### Licença
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ O pacote AppImage é recomendado se o Discord funciona para você, mas para outr
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Instruções de instalação
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Notas adicionais
 
 Ou se você quiser tentar o PreMiD ou simplesmente não queira instalá-lo, este é o melhor, ele está sempre atualizado, mas _NÃO AUTO-INICIA COM O SISTEMA!</br>Se você se cansar de ter que abrir cada vez, use os outros pacotes (de acordo com a sua distribuição).
 
@@ -129,13 +129,13 @@ Ou se você quiser tentar o PreMiD ou simplesmente não queira instalá-lo, este
 
 We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
 
-For **Ubuntu/Debian**:
+Para **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-For **Fedora/CentOS/RedHat**:
+Para **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
@@ -152,7 +152,7 @@ Usa [Repositório do Utilizador Arch](https://aur.archlinux.org/packages/premid)
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Instruções de instalação
 
 ```bash
 # Usando yay (recomendada)
@@ -182,7 +182,7 @@ ou manualmente do [Repositório de Utilizador Arch](https://aur.archlinux.org/pa
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Notas adicionais
 
 Se seu distro usa o pacman, então você tem que instalar um dos auxiliares primeiro. Se você não tiver nenhum, Yay é o recomendo:
 
