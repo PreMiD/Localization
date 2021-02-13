@@ -11,8 +11,68 @@
 		"message": "A pesquisar por",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.download": {
+		"message": "a página de downloads",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "a página \"Porquê o Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "o centro de segurança",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "as vagas de emprego",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "a página Sobre",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "a página da marca",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "a página da inspiração",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "a página das faculdades",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "a página de notícias",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "a página de parceiros",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "a página de verificação",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "a página do StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "a página de código aberto",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "a página de segurança",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "a página de moderação",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.merch.collection": {
-		"message": "A ver coleções:",
+		"message": "A ver a coleção:",
 		"description": ""
 	}
 }
