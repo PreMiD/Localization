@@ -17,7 +17,7 @@ Uygulama, eklentisi olmadan çalışmayacağı için eklentinin de yüklü olmas
 6. İndirdiğiniz dosyayı bulun ve seçin.
 7. **Ekle**'ye tıklayarak kurulumu kabul edin.
 
-> Do not forget to [add the **application**](/install). 
+> [**Uygulamayı** eklemeyi](/install) unutmayın. 
 > 
 > {.is-warning}
 
