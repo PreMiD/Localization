@@ -107,6 +107,18 @@
 		"message": "Meklē",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Raksta",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Zvana",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Zvanā...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Iepirkumu grozs",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "Atkārtošana",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Skatās starpgadījumu",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Starpgadījumu vēsture",
 		"description": "A page name of statuspages"
@@ -285,6 +301,34 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Skatās Epizodi",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Skatīties Videoklipu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Skatīt Kanālu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Klausīties Līdzi",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Skatīt Lapu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Skatīt dziesmu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Skatīt Albumu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Skatīt Profilu",
 		"description": "Used as the title for the button in Discord."
 	}
 }
