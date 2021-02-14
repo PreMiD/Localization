@@ -48,7 +48,7 @@
 		"description": ""
 	},
 	"namemc.buttonViewServer": {
-		"message": "Bekijk Server",
+		"message": "Server bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"namemc.claim": {
@@ -56,7 +56,7 @@
 		"description": ""
 	},
 	"namemc.profileEdit": {
-		"message": "Bewerkt zijn/haar{0}profiel informatie",
+		"message": "Bewerkt {0}profielinformatie",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"namemc.viewFriends": {
@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"namemc.viewEmojis": {
-		"message": "Bekijkt zijn/haar profiel emoticons",
+		"message": "Bekijkt profielemoji's",
 		"description": "You can have an emoji next to your name, you select it here."
 	}
 }
