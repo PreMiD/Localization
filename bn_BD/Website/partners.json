@@ -59,6 +59,10 @@
 		"message": "আমরা কিসের খোঁজ করছি?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "আমরা ইন্টারনেটে চোখ রাখি বড় হওয়া কমিউনিটি এবং মজার জিনিসগুলোর প্রতি। ছোট কথায় তোমার এখনই PreMiD ব্যবহার করা উচিত এবং তৈরি হওয়া উচিত এটাকে আরো ইন্টারনেটে আসক্তদের কাছে ছড়ানো। প্রোগ্রামটিতে গ্রহণযোগ্যতা অত্যন্ত গুণগত এবং এক প্রার্থী থেকে পরবর্তী প্রার্থীর মধ্যে পরিবর্তিত হবে।",
+		"description": "Description for the first requirement."
+	},
 	"partners.requirements.second.title": {
 		"message": "যা থাকা প্রয়োজন",
 		"description": "Heading for the second requirement."
