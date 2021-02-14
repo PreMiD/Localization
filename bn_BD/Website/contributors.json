@@ -56,7 +56,7 @@
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
-		"message": "ডোনেটর",
+		"message": "অর্থ সাহায্যকারী",
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
