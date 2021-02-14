@@ -32,7 +32,7 @@ PreMiD ইন্সটল করা দ্রুত এবং সহজ। ত�
 
 # কন্ট্রিবিউট
 - :bug: [বাগ রিপোর্ট করো](https://github.com/PreMiD): আমাদের সাহায্য করো সেইসব বাগগুলো ঠিক করতে।
-- :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
+- :bulb: [একটি নতুন ফিচারের পরামর্শ দাও](https://discord.premid.app/): আমাদের প্রয়োজন তোমার চিন্তাগুলো!
 - :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
 - :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
 
