@@ -7,6 +7,10 @@
 		"message": "এই পরিবারের একজন সদস্য হও এবং কিছু পার্টনার বিশিষ্ট সুবিধা নাও।",
 		"description": "Description for page."
 	},
+	"partners.slideshow.description": {
+		"message": "এগুলো আমাদেরই",
+		"description": "Description for slideshow."
+	},
 	"partners.why.benefit1.title": {
 		"message": "তোমার ফ্রি Presence",
 		"description": "Heading for the first benefit."
