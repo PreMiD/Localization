@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "Leest de DM's van:",
+		"message": "Leest de privéberichten van:",
 		"description": ""
 	},
 	"general.readingAbout": {
@@ -128,7 +128,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Typt in DM's naar:",
+		"message": "Typt in privéberichten naar:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -304,31 +304,31 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "Bekijk Video",
+		"message": "Video bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Bekijk Kanaal",
+		"message": "Kanaal bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
-		"message": "Luister Mee",
+		"message": "Meeluisteren",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPage": {
-		"message": "Bekijk Pagina",
+		"message": "Pagina bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewSong": {
-		"message": "Bekijk Nummer",
+		"message": "Nummer bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewAlbum": {
-		"message": "Bekijk Album",
+		"message": "Album bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewProfile": {
-		"message": "Bekijk Profiel",
+		"message": "Profiel bekijken",
 		"description": "Used as the title for the button in Discord."
 	}
 }
