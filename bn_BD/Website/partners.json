@@ -202,5 +202,17 @@
 	"partners.apply.error1": {
 		"message": "সকল স্থান পূরণ করো।",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "সর্বোচ্চ 150 অক্ষর হতে হবে।",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "একটি লিংক অ্যাড করো (শুরু হতে হবে https:// দিয়ে এবং শেষ হবে .png দিয়ে)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "তুমি ইতিমধ্যেই অ্যাপ্লাই করেছ পার্টনারের জন্য।",
+		"description": "Error when already applied."
 	}
 }
