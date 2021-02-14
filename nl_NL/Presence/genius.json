@@ -4,7 +4,7 @@
 		"description": "Song name will be listed after the \":\""
 	},
 	"genius.viewLyrics": {
-		"message": "Bekijk Songtekst",
+		"message": "Songteksten bekijken",
 		"description": "Used as the title for the button in Discord."
 	},
 	"genius.viewHome": {
