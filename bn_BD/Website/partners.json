@@ -174,5 +174,25 @@
 	"partners.apply.form.imageLink": {
 		"message": "ছবির লিংক: (550x300, শুধুমাত্র PNG)",
 		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "উদাহরণ: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "বন্ধ করো",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "অ্যাপ্লাই",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "ধন্যবাদ অ্যাপ্লাই করার জন্য!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "সকল স্থান পূরণ করো।",
+		"description": "Error when a field isn't filled."
 	}
 }
