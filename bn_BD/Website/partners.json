@@ -64,7 +64,7 @@
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "আমরা ইন্টারনেটে চোখ রাখি বড় হওয়া কমিউনিটি এবং মজার জিনিসগুলোর প্রতি। ছোট কথায় তোমার এখনই PreMiD ব্যবহার করা উচিত এবং তৈরি হওয়া উচিত এটাকে আরো ইন্টারনেটে আসক্তদের কাছে ছড়ানো। প্রোগ্রামটিতে গ্রহণযোগ্যতা অত্যন্ত গুণগত এবং এক প্রার্থী থেকে পরবর্তী প্রার্থীর মধ্যে পরিবর্তিত হবে।",
+		"message": "আমরা ইন্টারনেটে চোখ রাখি বড় হওয়া কমিউনিটি এবং মজার জিনিসগুলোর প্রতি। ছোট কথায় তোমার এখনই PreMiD ব্যবহার করা উচিত এবং তৈরি হওয়া উচিত এটাকে আরো ইন্টারনেট আসক্তদের কাছে ছড়ানো। প্রোগ্রামটিতে গ্রহণযোগ্যতা অত্যন্ত গুণগত এবং এক প্রার্থী থেকে পরবর্তী প্রার্থীর মধ্যে পরিবর্তিত হবে।",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
@@ -96,11 +96,11 @@
 		"description": "Description for AniFlix."
 	},
 	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings হচ্ছে একটি পরবর্তী প্রজন্মের PvP এরিনা গেম যা ব্রাউজারে খেলা যায়।",
+		"message": "Arena of Kings হচ্ছে একটি পরবর্তী প্রজন্মের PvP এরিনা গেম যা ব্রাউজারে খেলা হয়।",
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
-		"message": "UpBeat হচ্ছে একটি অলাভজনক আন্তর্জাতিক রেডিও যা চেষ্টা করে বিরামহীন, ভালো কোয়ালিটির রেডিও এবং সংবাদের বিনোদন দিতে।",
+		"message": "UpBeat হচ্ছে একটি অলাভজনক আন্তর্জাতিক রেডিও যা চেষ্টা করে বিরামহীন, ভালো কোয়ালিটির রেডিও এবং সংবাদ বিনোদন দিতে।",
 		"description": "Description for UpBeatRadio."
 	},
 	"partners.partner.iLoot": {
@@ -112,7 +112,7 @@
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.discordTemplates": {
-		"message": "তৈরি করা শুরু করো তোমার নিজস্ব কমিউনিটি আমাদের দারুণ সব টেম্পলেট দিয়ে। তৈরি করো তোমার নিজস্ব রাজ্য।",
+		"message": "তৈরি করা শুরু করো তোমার নিজস্ব কমিউনিটি আমাদের দারুণ সব টেম্পলেট দিয়ে। তৈরি করো তোমার নিজের রাজ্য।",
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
