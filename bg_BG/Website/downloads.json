@@ -44,7 +44,7 @@
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
-		"message": "Предупреждение:",
+		"message": "Внимание:",
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
@@ -52,15 +52,15 @@
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
-		"message": "Знайте, че PreMiD не е поддържано на мобилни телефони.",
+		"message": "Знайте, че PreMiD не се поддържа от мобилни телефони.",
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
-		"message": "Показване на изтеглянията",
+		"message": "Покажи изтеглянията",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
-		"message": "Скриване на изтеглянията",
+		"message": "Скрии изтеглянията",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
@@ -76,27 +76,27 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Изглежда, че нямате достъп до алфа/бета версий :(",
+		"message": "Опа , изглежда, че нямате достъп до алфа/бета версий :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Можеш да се присъединиш към бета програмата **here** безплатно. Побързай! Имаме само още {0} свободни места",
+		"message": "Можеш да се присъединиш към бета програмата **тук** безплатно. Побързай! Имаме само още {0} свободни места",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Ранни версий",
+		"message": "Ранни версии",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
-		"message": "Предупреждение",
+		"message": "Внимание",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
 	"downloads.warning.message.opera": {
-		"message": "Трябва да изтеглиш **this** разширение за да изтеглиш PreMiD от Chrome уебмагазина.",
+		"message": "Трябва да изтеглиш **това** разширение за да изтеглиш PreMiD от Chrome магазина.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
-		"message": "Прескочи",
+		"message": "Пропусни",
 		"description": "Skip button on the ads section"
 	},
 	"downloads.button.back": {
@@ -136,11 +136,11 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "Покажи бета изтегляния",
+		"message": "Покажи ранни версии",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
-		"message": "(ненужно, ако си тук, за да изтеглиш нормалната програма)",
+		"message": "(не е нужно, ако си тук, за да изтеглиш нормалната програма)",
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
