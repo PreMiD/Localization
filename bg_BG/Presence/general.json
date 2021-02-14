@@ -232,11 +232,11 @@
 		"description": ""
 	},
 	"general.waitingLive": {
-		"message": "Чака за предаване на живо да започне",
+		"message": "Изчаква за предаване на живо да започне",
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
 	},
 	"general.waitingLiveThe": {
-		"message": "Чака за предаването на живо да започне",
+		"message": "Изчаква за предаването на живо да започне",
 		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
