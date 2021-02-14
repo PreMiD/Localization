@@ -171,6 +171,14 @@
 		"message": "যেমন: https://premid.app",
 		"description": "Link filed's placeholder."
 	},
+	"partners.apply.form.description": {
+		"message": "ডিসক্রিপশন: (সর্বোচ্চ 150 অক্ষর)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "বৈশিষ্ট্যযুক্ত বর্ণনা লেখ",
+		"description": "Description field's placeholder."
+	},
 	"partners.apply.form.imageLink": {
 		"message": "ছবির লিংক: (550x300, শুধুমাত্র PNG)",
 		"description": "Do not change the sizes."
