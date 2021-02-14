@@ -21,7 +21,7 @@ Deze pagina bevat:
 
 # Algemene probleemoplossing
 ### Pagina herladen
-U kunt ook op <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op het toetsenbord drukken in plaats van te zoeken naar de refresh knop.
+Je kunt ook op <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op het toetsenbord drukken in plaats van te zoeken naar de refresh knop.
 
 ### Gebruik je de Discord-app?
 PreMiD werkt **niet** met de browserversie van Discord, je moet de app [hier](https://discord.com/download) downloaden.
@@ -37,23 +37,23 @@ Veel presences (inclusief `Twitch` en `SoundCloud`) worden beïnvloed door een e
 
 Om dit op te lossen hoef je alleen maar de bovenste instelling om te schakelen: ![presencesettings.gif](/presencesettings.gif)
 
-### Herstart uw browser
+### Herstart je browser
 <kbd>ALT</kbd>+<kbd>F4</kbd> (Windows) of <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) doet ook goed werk. (Je moet je browser weer opstarten.)
 
 ### PreMiD herstarten (Applicatie)
-![quit.png](/quit.png) U moet PreMiD daarna opnieuw starten.
+![quit.png](/quit.png) Je moet PreMiD daarna opnieuw starten.
 
 ### Discord herladen/herstarten
 Druk op <kbd>CTRL+R</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) op je toetsenbord of start Discord handmatig opnieuw op.
 
-### Controleer of u antivirus of firewall draait op uw computer
+### Controleer of u antivirus of firewall draait op je computer
 Soms blokkeren antivirusprogramma's en firewalls toepassingen die maken/hosting servers maken of alleen verbinding maken met het internet. We gebruiken een lokale server voor het ontvangen en doorgeven van gegevens tussen onze app en extensie, dus als u de mogelijkheid van een app blokkeert om gegevens door te geven zal u waarschijnlijk PreMiD niet kunnen gebruiken.
 
 ### Uw addons uitschakelen
-Schakel al uw addons uit en kijk of het werkt. Zo ja, probeer uw addons stap voor stap in te schakelen en vertel ons welke addon PreMiD defect maakt.
+Schakel al je addons uit en kijk of het werkt. Zo ja, probeer je addons stap voor stap in te schakelen en vertel ons welke addon PreMiD defect maakt.
 
 ### Uw computer wordt opnieuw opstarten
-Ik hoop dat u weet hoe u een computer opnieuw moet starten.
+Ik hoop dat je weet hoe u een computer opnieuw moet starten.
 
 ### PreMiD opnieuw installeren
 Soms is er iets mis met de bestanden... Handleidingen voor de installatie kunnen [hier](/install) gevonden worden.
@@ -81,23 +81,23 @@ Dit is een valse positief van McAfee en we hebben hun hiervan op de hoogte geste
 10. McAfee zou nu ons bestand moeten negeren, lanceer gewoon onze applicatie en het zou nu gewoon moeten werken.
 
 ### PreMiD-status gebugd op discord!
-Geen zorgen. Druk op de <kbd>CTRL+R</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) toetsen terwijl de gefocust bent op je discord venster om het te herladen.
+Geen zorgen. Druk op de <kbd>CTRL+R</kbd> (Windows) of <kbd>CMD+R</kbd> (MacOS) toetsen terwijl de gefocust bent op je discord-venster om het te herladen.
 
 <a name="linux"></a>
 
 # Linux-probleemoplossing
 ### Op Ubuntu/Debian gebaseerde distro's
-Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download **[Discord's Linux-build](https://discordapp.com/api/download?platform=linux)** (**[of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), navigeer vervolgens naar de map waarin je Discord in geïnstalleerd is (meestal `$HOME/Downloads`), instaleer daarna het pakket met behulp van `sudo dpkg -i discord-*. eb`. Als AppImage niet werkt, overweeg dan om onze andere pakketten te gebruiken via **[deze link](https://packagecloud.io/premid/linux)**.
+Als je Discord hebt gedownload via Snapcraft, zal RPC niet werken. Je moet de Snapcraft-versie verwijderen door `sudo snap remove discord` uit te voeren op een terminal, download **[Discord's Linux-build](https://discordapp.com/api/download?platform=linux)** (**[of Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), navigeer vervolgens naar de map waarin je Discord in geïnstalleerd is (meestal `$HOME/Downloads`), instaleer daarna het pakket met behulp van `sudo dpkg -i discord-*. eb`. Als AppImage niet werkt, overweeg dan om onze andere pakketten te gebruiken via **[deze link](https://packagecloud.io/premid/linux)**.
 
 ### Op Arch Linux gebaseerde distro's
 Op Arch Linux gebaseerde distro's moeten AUR (Arch User Repository) pakket gebruiken dat <code>premid</code> of <code>premid-git</code> heet (<em x-id="3">WAARSCHUWING: Deze buildt premid vanuit broncode</em>). Als je geen AUR manager wilt installeren (yay etc.), kun je onze AppImage bekijken die kan worden gedownload op onze <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux-repository</a></strong>.
-<em x-id="3">Waarschuwing: het pakket in de <strong x-id="1">AUR</strong> repository wordt niet onderhouden door ons (PreMiD organisatie), maar door andere mensen.</em>
+<em x-id="3">Waarschuwing: het pakket in de <strong x-id="1">AUR</strong>-repository wordt niet onderhouden door ons (PreMiD-organisatie), maar door anderen.</em>
 
 ### Poort-binding
-U moet weten dat <strong x-id="1">PreMiD</strong> zichzelf bindt aan de poort <strong x-id="1">3020</strong>. Dit is nodig voor de communicatie tussen de extensie en de applicatie. Als <strong x-id="1">PreMiD</strong> een fout laat zien over deze port, moet u controleren of iets aan de 3020 poort is gebonden door <code>sudo lsof -i:3020</code> of <code>sudo netstat -tnlp, grep :3020</code> uit te voeren in uw terminal. Als er een proces aan verbonden is, zorg er dan voor dat u de poort vrijmaakt en probeer daarna opnieuw <code>PreMiD</code> te starten.
+Je moet weten dat <strong x-id="1">PreMiD</strong> zichzelf bindt aan de poort <strong x-id="1">3020</strong>. Dit is nodig voor de communicatie tussen de extensie en de applicatie. Als <strong x-id="1">PreMiD</strong> een fout laat zien over deze poort, moet je controleren of iets aan de 3020 poort is gebonden door <code>sudo lsof -i:3020</code> of <code>sudo netstat -tnlp, grep :3020</code> uit te voeren in je terminal. Als er een proces aan verbonden is, zorg er dan voor dat je de poort vrijmaakt en probeer daarna opnieuw <code>PreMiD</code> te starten.
 
-### PreMiD's AppImage start niet bij het inloggen
-Zoals we hebben aangegeven in onze **Linux-repository**, kan AppImage niet gestart worden tijdens het inloggen. U kunt het handmatig toevoegen aan de automatische start door deze stappen te doen:
+### PreMiDs AppImage start niet bij het inloggen
+Zoals we hebben aangegeven in onze **Linux-repository**, kan AppImage niet gestart worden tijdens het inloggen. Je kunt deze zelf toevoegen aan autostart door deze stappen te volgen:
 1. Maak een bestand genaamd <strong x-id="1">rc.local</strong> in de <code>/etc</code> map.
 2. Open dit bestand in je favoriete editor en plak de gegeven code en verander enkele dingen:
 ```bash
