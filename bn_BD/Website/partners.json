@@ -119,6 +119,18 @@
 		"message": "taiga হচ্ছে একটি Discord বট চেষ্টা করছে সমস্ত ফিচারগুলো একবারে দিতে যা প্রয়োজন হতে পারে!",
 		"description": "Description for taigabot."
 	},
+	"partners.partner.bitRock": {
+		"message": "সকল প্ল্যাটফর্মের ইন্সটলার তৈরিকারক যন্ত্র যা শক্তিশালী এবং সহজে ব্যবহার করা যায়।",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.wikijs": {
+		"message": "সবচেয়ে শক্তিশালী এবং প্রসারণসাধ্য একটি ওপেন সোর্স উইকি সফটওয়্যার।",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.fastly": {
+		"message": "ওয়েবের সেরার পিছনে।",
+		"description": "Description for Fastly."
+	},
 	"partners.apply.title": {
 		"message": "পার্টনারের জন্য অ্যাপ্লাই করো",
 		"description": "Partnership application modal title."
