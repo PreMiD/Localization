@@ -11,6 +11,10 @@
 		"message": "এগুলো আমাদেরই",
 		"description": "Description for slideshow."
 	},
+	"partners.why.title": {
+		"message": "কেমন হয় নরকের বদলে স্বর্গে যাওয়া?",
+		"description": "Heading for benefits."
+	},
 	"partners.why.benefit1.title": {
 		"message": "তোমার ফ্রি Presence",
 		"description": "Heading for the first benefit."
