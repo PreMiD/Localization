@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Presence izstrādāšana
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,22 +8,22 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Visas presences tagad tiek glabātas šeit: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Versija `2.x` iepazīstina[ presence veikalu](https://premid.app/store). Lietotājiet ir tagad iespēja manuāli pievienot un noņemt savas iecienītākās presences, caur lietotāja interfeisu [mājaslapā](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Pirms sākat, ir ļoti ieteicams apskatīt mūsu presence vadlīnijas. 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Vadlīnijas](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# Struktūra
 
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Visas presences ir kodētas [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
 

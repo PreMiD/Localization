@@ -23,14 +23,14 @@ PreMiD atklāj dažādas mūsu API versijas. Varat norādīt versiju, iekļaujot
 
 ## Šifrēšana
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+Visi HTTP slāņa pakalpojumi un protokoli (piemēram, http) PreMiD API ietvaros izmanto TLS 1.2.
 
-# Documentation
-> Currently under construction! 
+# Dokumentācija
+> Pašlaik tiek būvēta! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+**Izvēlieties API versiju:**
+- [v2 *novecojusī*](/dev/api/v2)
+- [v3 *aktīvā*](/dev/api/v3)
 {.links-list}
