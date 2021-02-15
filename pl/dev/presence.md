@@ -169,7 +169,7 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
       <td style="text-align:left">Służą do wyszukiwania presence używając alternatywnej nazwy.<br> 
-      Ma być używany dla presence, które mają różne nazwy w różnych językach (np.: Pokémon i 포켓몬스터).<br>
+      Ma być używany dla presence, które mają różne nazwy w różnych językach (np. Pokémon i 포켓몬스터).<br>
       Możesz tego użyć również dla presence posiadających znaki specjalne, więc nie musisz ich nawet wpisywać (np.: Pokémon i Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Tak</code></td>
@@ -219,7 +219,7 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link do miniaturki aktywności.</td>
+      <td style="text-align:left">Link do miniaturki presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
