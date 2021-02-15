@@ -28,11 +28,11 @@
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
-		"message": "그들이 좋아하는 팟캐스트",
+		"message": "좋아하는 팟캐스트",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
-		"message": "그들이 좋아하는 아티스트",
+		"message": "좋아하는 아티스트",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.albumLike": {
@@ -40,7 +40,7 @@
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.songsLike": {
-		"message": "그들이 좋아하는 곡",
+		"message": "좋아하는 노래",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.madeForYou": {

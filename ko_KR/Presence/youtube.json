@@ -32,15 +32,15 @@
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "을 훑어보는 중",
+        "message": "찾아보는 중",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "그들의 구독",
+        "message": "채널 구독정보",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "그들의 목록",
+        "message": "라이브러리",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
@@ -64,11 +64,11 @@
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "생방송 보는중",
+        "message": "생방송 이벤트 보는 중",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "대쉬보드 보는중",
+        "message": "대쉬보드 보는 중",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
@@ -76,7 +76,7 @@
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "영상 보는중",
+        "message": "영상 보는 중",
         "description": ""
     },
     "youtube.studio.editVideo": {
@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "그 사람의 것을 보는중",
+        "message": "보는 중",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
