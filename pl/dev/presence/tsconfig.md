@@ -11,9 +11,9 @@ editor: markdown
 
 ## Wprowadzenie
 
-Po pobraniu i rozpakowaniu obszaru roboczego, zobaczysz plik o nazwie `tsconfig. s` w folderach root i obecności, ten plik jest używany do konfigurowania kompilatora **TypeScript**. Jest już skonfigurowany dla Ciebie, więc nie martw się o to.
+Po pobraniu i rozpakowaniu obszaru roboczego, zobaczysz plik o nazwie `tsconfig.js` w folderach root i presence, ten plik jest używany do konfigurowania kompilatora **TypeScript**. Jest już dla Ciebie skonfigurowany, nie martw się o to.
 
-Chcemy tylko opisać ustawienia, które powinieneś wiedzieć.
+Chcemy tylko opisać kilka ustawień, o których powinieneś wiedzieć.
 
 ## Konfiguracja roota
 
@@ -41,7 +41,7 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 | **compilerOptions**        | Używane do konfigurowania kompilatora, większość właściwości znajduje się tutaj.                                                                                |
 | module                     | Więcej na ten temat znajdziesz [tu](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                 |
 | target                     | Określa wersję JavaScript, którą kompilujesz.                                                                                                                   |
-| removeComments             | Usuwanie komentarzy z skompilowanych plików.                                                                                                                    |
+| removeComments             | Usuwanie komentarzy ze skompilowanych plików.                                                                                                                   |
 | noEmitOnError              | Nie emituj danych wyjściowych, jeśli zgłoszono jakieś błędy.                                                                                                    |
 | noFallthroughCasesInSwitch | Zgłasza błędy dla przypadków awaryjnych w instrukcji switch.                                                                                                    |
 | noUnusedLocals             | Zgłasza błędy na nieużywanych lokalnych.                                                                                                                        |
@@ -61,7 +61,7 @@ W głównym pliku konfiguracyjnym zobaczysz coś takiego.
 }
 ```
 
-| Własność            | Opis                                                                                                     |
+| Właściwość          | Opis                                                                                                     |
 |:------------------- |:-------------------------------------------------------------------------------------------------------- |
 | **extends**         | Używane do rozszerzenia podstawowego pliku `tsconfig` dla różnych zadań.                                 |
 | **compilerOptions** | Zobacz [**Konfiguracja root**](/dev/presence/tsconfig#root-configuration) aby uzyskać więcej informacji. |

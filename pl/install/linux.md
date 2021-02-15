@@ -22,15 +22,15 @@ Instalacja aplikacji jest bardzo ważna, ponieważ rozszerzenie nie może zrobi�
   - Przykłady (wkrótce)
   - FAQ (wkrótce)
   - Budowa (wkrótce)
-  - [Wsparcie / pomoc](#support)
+  - [Wsparcie](#support)
   - [Podziękowania](#credits)
   - [Licencja](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _nigdy_ ™️)
 - **[Portable AppImage](#appimage)** (_ZALECANE_)
-  - [Instrukcje Instalacji](#appimageinstall)
+  - [Instrukcja instalacji](#appimageinstall)
   - [Dodatkowe uwagi](#appimagenotes)
 - [**Dystrybucje oparte na Red Hat Enterprise Linux (RHEL)**](#packagecloud)
-- [**Dystrybucje oparte na Debain i Ubuntu**](#packagecloud)
+- [**Dystrybucje oparte na Debian i Ubuntu**](#packagecloud)
 - [**Dystrybucje oparte na Arch Linuksie**](#arch)
 
 <a name="about"></a>
@@ -70,7 +70,7 @@ Nie wiadomo, czy starsze wersje innych dystrybucji go obsługują, więc po pros
 
 <a name="support"></a>
 
-### Wsparcie / pomoc
+### Wsparcie
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Dołącz do naszego Discorda!">
@@ -80,14 +80,14 @@ Nie wiadomo, czy starsze wersje innych dystrybucji go obsługują, więc po pros
 
 <a name="credits"></a>
 
-### Twórcy
+### Podziękowania
 
 Podziękowania dla:
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (i kilku innych, których imion zapomniałem) za przekazywanie opinii na temat wydań "nightly".
 - @apriluwu za obsługę kompilacji Gentoo
-- @SlimShadyIAm and naka za wcześniejsze utrzymanie pakietów Arch User Repository
-- The Electron community za różne pakiety
+- @SlimShadyIAm i naka za wcześniejsze utrzymanie pakietów Arch User Repository
+- Electron community za różne pakiety
 - Każdemu, kto kiedykolwiek w jakikolwiek sposób przyczynił się do projektu.
 
 <a name="license"></a>
@@ -127,7 +127,7 @@ Jeśli chcesz wypróbować PreMiD, albo po prostu nie chcesz go instalować, ten
 
 # PackageCloud
 
-Wydaliśmy paczki deb/rpm na naszym repozytorium paczek. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+Wydaliśmy paczki deb/rpm na naszym repozytorium pakietów. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
 
 Dla **Ubuntu/Debian**:
 

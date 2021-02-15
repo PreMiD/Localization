@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Zawiera podstawowe dane o Prezentacji
+description: Zawiera podstawowe dane o Presence
 published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-Jeśli chcesz opublikować swój status Presence w sklepie i załadować ją przez rozszerzenie, powinieneś utworzyć plik `metadata.json` w folderze `dist`.
+Jeśli chcesz opublikować swój status Presence w sklepie i załadować go przez rozszerzenie, powinieneś utworzyć plik `metadata.json` w folderze `dist`.
 
 An example of that file can be found below.
 
@@ -67,9 +67,9 @@ An example of that file can be found below.
 }
 ```
 
-## Zrozumienie metadana.json
+## Zrozumienie metadata.json
 
-Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zrozumieć, do czego służy każda zmienna.
+Ten przykład wygląda naprawdę dziwnie, prawda? Nie martw się, nie jest trudno zrozumieć, do czego służy każda zmienna.
 
 <table>
   <thead>
@@ -84,7 +84,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
     <tr>
       <td style="text-align:left"><b>autor</b></td>
       <td style="text-align:left">Powinien zawierać obiekt o <code>nazwie</code> i <code>id</code> współautora. <code>name</code> is your Discord username without the identifier(#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
-        i kliknięcie prawym przyciskiem myszy na Twoim profilu.</td>
+        i kliknięcie prawym przyciskiem myszy w Twoim profilu.</td>
       <td style="text-align:left"><code>Obiekt</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
@@ -96,7 +96,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">Tytuł usługi wspieranej przez tę obecność.</td>
+      <td style="text-align:left">Tytuł usługi wspieranej przez ten presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
@@ -110,7 +110,7 @@ Ten przykład wygląda naprawdę dziwnie, co? Nie martw się, nie jest trudno zr
     </tr>
     <tr>
       <td style="text-align:left"><b>opis</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do pliku metadanych. Wyświetl kategorię języków Presence dla listy. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do Twojego pliku metadanych. Wyświetl kategorię języków Presence dla listy. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
@@ -206,7 +206,7 @@ Jeśli chcesz nauczyć się regularnych wyrażeń, oto kilka stron internetowych
 
 ## Języki - Presence
 
-PreMiD to usługa poligraficzna, co oznacza, że istnieje wiele języków, które łączą użytkowników na całym świecie. Pełna lista języków znajduje się w tym [punkcie końcowym API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD to usługa wielojęzyczna, co oznacza, że istnieje wiele języków, które łączą użytkowników na całym świecie. Pełna lista języków znajduje się w tym [punkcie końcowym API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
 
 ## Ustawienia - Presence
 Skonfiguruj ustawienia interaktywne, aby użytkownicy mogli dostosować swój status Presence!
@@ -340,12 +340,12 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Wszystko związane z animem, od forów po platformy streamingu wideo.</td>
+      <td style="text-align:left">Wszystko związane z anime, od forów po platformy streamingu wideo.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>gry</b></td>
       <td style="text-align:left"><b>Gry</b></td>
-      <td style="text-align:left">Każda strona internetowa, która ma treści związane z grą, takie jak <code>Kahoot</code> lub <code>Skribbl.io</code></td>
+      <td style="text-align:left">Każda strona internetowa, która ma treści związane z grami, takie jak <code>Kahoot</code> lub <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>muzyka</b></td>
@@ -365,7 +365,7 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
     <tr>
       <td style="text-align:left"><b>inne</b></td>
       <td style="text-align:left"><b>Inne</b></td>
-      <td style="text-align:left">Każda z tych kategorii, które nie wchodzą w zakres określonej wyżej kategorii.</td>
+      <td style="text-align:left">Każda z tych kategorii, które nie wchodzą w zakres określonych wyżej kategorii.</td>
     </tr>
   </tbody>
 </table>
