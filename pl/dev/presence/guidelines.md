@@ -289,9 +289,9 @@ Kilka rzeczy, które powinieneś wiedzieć po otwarciu pull request:
 
 - It takes 2 reviewers to merge a pull request.
 - Jeśli w pull request nie ma aktywności przez 14 dni to zostanie on zamknięty.
-- Wszystkie testy **muszą** przejść aby pull request został zmergowany.
+- Wszystkie testy **muszą** przejść, aby pull request został zmergowany.
 - ⚠️ **musisz** podać nowe, niezmodyfikowane zrzuty ekranu (zrobione przez ciebie) pokazujące porównanie twojego profilu i strony internetowej, aby udowodnić, że twój status działa. _Możesz połaczyć zrzuty ekranu razem, aby były bardziej czytelne._ Dotyczy to zarówno tworzenia, jak i zmian.
-- ⚠️ Jesteś również **zobligowany** aby dołączyć zrzuty ekranu ustawień statusu w rozszerzeniu, jeśli zostały dodane. Przykład można zobaczyć [tutaj](https://imgur.com/a/OD3sj5R).
+- ⚠️ Jesteś również **zobligowany**, aby dołączyć zrzuty ekranu ustawień statusu w rozszerzeniu, jeśli zostały dostarczone. Przykład można zobaczyć [tutaj](https://imgur.com/a/OD3sj5R).
 
 ## `Testy`
 
