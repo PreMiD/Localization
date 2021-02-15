@@ -136,7 +136,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "베타버전 다운로드",
+		"message": "베타 버전 보기",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
