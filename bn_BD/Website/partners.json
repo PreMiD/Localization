@@ -111,6 +111,10 @@
 		"message": "SimLiveRadio হচ্ছে জার্মানি, অস্ট্রিয়া এবং সুইজারল্যান্ডে সিমুলেশন গেমগুলোর জন্য সবচেয়ে সফল বিনোদন এবং খবরের রেডিও!",
 		"description": "Description for SimLoveRadio."
 	},
+	"partners.partner.aniWatch": {
+		"message": "পাও যা তোমার। স্ট্রিম করো অ্যানিমে, মুভি, স্পেশাল এবং আরো অনেক কিছু। ফ্রি, কোন অ্যাড ছাড়া এবং হাই ডেফিনেশনে!",
+		"description": "Description for AniWatch."
+	},
 	"partners.partner.discordTemplates": {
 		"message": "তৈরি করা শুরু করো তোমার নিজস্ব কমিউনিটি আমাদের দারুণ সব টেম্পলেট দিয়ে। তৈরি করো তোমার নিজের রাজ্য।",
 		"description": "Description for DiscordTemplates."
