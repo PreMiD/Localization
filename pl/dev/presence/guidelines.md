@@ -64,7 +64,7 @@ presence
 > 
 > {.is-warning}
 
-Każdy presence posiada plik metadanych nazwany `metadata.json`. ten plik ma ścisły schemat. Jego przykład można znaleść poniżej:
+Każdy presence posiada plik metadanych nazwany `metadata.json`, ten plik ma ścisły schemat. Jego przykład można znaleźć poniżej:
 
 ```json
 {
@@ -142,7 +142,7 @@ Lista pól i ich zasad znajduje się poniżej:
 
 ### **`contributors`**
 
-- **Nie** dodawaj siebie jako współtwórce, ani nie dodawaj kogoś innego, dopóki nie pomógł w presence.
+- **Nie** dodawaj siebie jako współtwórcy, ani nie dodawaj kogoś innego, dopóki nie pomógł w presence.
 
 ### **`service`**
 
