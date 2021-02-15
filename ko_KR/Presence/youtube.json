@@ -12,7 +12,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "커뮤니티 보는 중",
+        "message": "커뮤니티 게시글 보는 중",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -44,15 +44,15 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "그들의 기록",
+        "message": "시청기록",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "그들의 구매내역",
+        "message": "구매내역",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "그들의 신고내역을 보는 중",
+        "message": "신고내역을 보는 중",
         "description": ""
     },
     "youtube.upload": {
@@ -60,7 +60,7 @@
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "그들의 모든 재생목록을 보는 중",
+        "message": "모든 재생목록을 보는 중",
         "description": ""
     },
     "youtube.viewLiveEvents": {
