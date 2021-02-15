@@ -318,5 +318,17 @@
 	"general.buttonViewPage": {
 		"message": "Просмотр страницы",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Просмотр песни",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Просмотр альбома",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Просмотреть профиль",
+		"description": "Used as the title for the button in Discord."
 	}
 }
