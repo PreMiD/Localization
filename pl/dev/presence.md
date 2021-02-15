@@ -185,10 +185,10 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
       <td style="text-align:left">Adres URL serwisu.<br><b>Przykład:</b><code>vk.com</code><br>
       <b>Ten adres URL musi pasować do adresu URL witryny, aby wykryć czy jest to strona do wprowadzenia skryptu.</b><br> <b>Nie</b> dodawaj <code>https://</code> lub <code>http://</code> wewnątrz adresu URL, ani ukośnika na końcu:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Uwaga</b>: Niektóre adresy URL mogą mieć  <code>www.</code> lub coś innego przed swoją domeną. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <b>Uwaga</b>: Niektóre adresy URL mogą mieć  <code>www.</code> lub coś innego przed swoją domeną. <b>NIE</b> zapomnij tego dodać!<br>
+      Możesz dodać wiele adresów URL w ten sposób:<br>
+      <code>["URL1", "URL2", "ITD."]</code><br>
+      Możesz również użyć wyrażeń regularnych znanych, jako Regex dla tego zadania, objaśnionego poniżej.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
@@ -207,13 +207,13 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Wersja twojego presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link do loga serwisu.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
@@ -225,8 +225,8 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left">Wartość <code>#HEX</code>. Zalecamy użycie podstawowego koloru usługi,
+         którą obsługuje Twój presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
@@ -397,8 +397,8 @@ Witryna, którą rozwijasz, automatycznie ładuje się ponownie za każdym razem
 
 # Wyjaśnienie plików
 
-- [Presence Class](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Klasa Presence](/dev/presence/class)
+- [Klasa pokazu slajdów](/dev/presence/slideshow)
+- [Klasa iFrame](/dev/presence/iframe)
 - [Plik Metadata](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Konfiguracja TypeScript](/dev/presence/tsconfig ""){.links-list}

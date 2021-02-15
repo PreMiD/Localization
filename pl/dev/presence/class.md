@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Presence Class
+# Klasa Presence
 
 ## Wprowadzanie
 
@@ -22,9 +22,9 @@ const presence = new Presence({
 });
 ```
 
-### Properties
+### Właściwości
 
-There are three properties available for `Presence` class.
+Istnieją trzy właściwości dla klasy `Presence`.
 
 #### `clientId`
 
