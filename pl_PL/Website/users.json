@@ -32,7 +32,7 @@
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Kliknij tutaj, aby wyświetlić presences, do których ten użytkownik się przyczynił.",
+		"message": "Kliknij tutaj, aby wyświetlić presence, do których ten użytkownik się przyczynił.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }
