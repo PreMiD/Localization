@@ -91,38 +91,38 @@ MacOS:`~/users/USER/~Library/Application Support/`и удалите папку`P
 
 ### Системные дистрибутивы на основе Linux
 Разработчики на основе Arch Linux должны использовать пакет AUR (Arch User Repository), который называется <code>premid</code> или <code>premidgit</code> (<em x-id="3">ПРЕДУПРЕЖДЕНИЕ: Эта сборка из репозитория премьера из нашего исходного кода.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+<em x-id="3">Предупреждение: пакет в репозитории <strong x-id="1">AUR</strong> не поддерживается нами (как в организации PreMiD), а другими людьми</em>
 
-### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+### Привязка портов
+Вы должны знать, что <strong x-id="1">PreMiD</strong> связывает себя с портом <strong x-id="1">3020</strong>. Это необходимо для расширения и приложения сообщение. Если <strong x-id="1">PreMiD</strong> показывает вам ошибку об этом порте, проверьте, привязано ли что-то к порту 3020, запустив <code>sudo lsof -i:3020</code> или <code>sudo netstat -tnlp | grep :3020</code> в терминале. Если какой-либо процесс привязан к нему, вы должны убедиться, что освободить порт и попробовать запустить <code>PreMiD</code> снова.
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### AppImage PreMiD не запускается при входе в систему
+Как мы отмечали в нашем **репозитории Linux**, AppImage не может быть запущен при входе в систему. Вы можете добавить его в автозапуск вручную, выполнив следующие действия:
+1. Сделать файл с именем <strong x-id="1">rc.local</strong> в каталоге <code>/etc</code>.
+2. Откройте этот файл в вашем любимом редакторе и вставьте данный код с изменением некоторых вещей:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# Требуется запустить как /bin/bash (если вы используете zsh etc. вы можете изменить его.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
+# Пример: /home/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
 
-exit 0
+Выход 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Сохраните файл и chmod как исполняемый `sudo chmod a+x /etc/rc.local`.
+4. Перезагрузите компьютер и PreMiD AppImage должны быть запущены при входе в систему.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# Устранение неполадок MacOS
+### Ошибка создания каталога
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Если вы получили эту ошибку, это означает, что ваша учетная запись не имеет прав администратора и вам необходимо создать папку вручную, выполнив следующие шаги:
+1. Откройте finder и откройте папку **Applications**.
+2. Щелкните правой кнопкой мыши на пустом месте и нажмите **Создать папку**.
+3. В эту папку назначьте `имя PreMiD` (запомните буквы в верхнем регистре).
+4. Открыть программу установки заново.
 
 # Это не решило мою проблему
-Please open a ticket in [#support](https://discord.premid.app/).
+Пожалуйста, оставьте заявку в [#support](https://discord.premid.app/).
