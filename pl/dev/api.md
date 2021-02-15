@@ -1,6 +1,6 @@
 ---
 title: API
-description: Uzyskuj dostęp do zasobów i wykonuj działania za pomocą PreMiD API
+description: Uzyskaj dostęp do zasobów i wykonuj działania za pomocą PreMiD API
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
@@ -10,12 +10,12 @@ dateCreated: 2020-06-11T18:03:59.010Z
 
 # API
 
-> Podstawowy URL: https://api.premid.app 
+> Podstawowy adres URL: https://api.premid.app 
 > 
 > {.is-info}
 
 ## Wersje API
-> API v2 został wycofany i zostanie wkrótce usunięty. Aby uniknąć problemów, prosimy aby użyć v3. 
+> API v2 jest przestarzałe i zostanie wkrótce usunięte. Aby uniknąć problemów, prosimy aby użyć v3. 
 > 
 > {.is-danger}
 

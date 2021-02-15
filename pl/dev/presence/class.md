@@ -14,7 +14,7 @@ dateCreated: 2020-06-11T18:04:42.004Z
 
 Klasa `Presence` jest bardzo przydatna, ponieważ posiada podstawowe metody, których potrzebujemy do stworzenia Presence.
 
-Podczas tworzenia klasy musisz określić właściwość `Id klienta`.
+Podczas tworzenia klasy musisz określić właściwość `ID klienta`.
 
 ```typescript
 const presence = new Presence({
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Zwróca wartość ustawienia.
+Zwraca wartość ustawienia.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -291,9 +291,9 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Definiuje aktualny czas.<br>
-        Używany, jeśli chcesz wyświetlić ile <code>godzin: minut: sekund</code> pozostało.
-          <br>Musisz skonwertować swój czas na <code>znacznik czasu</code> lub otrzymasz złe
-          odliczanie.
+        Używany, jeśli chcesz wyświetlić ile <code>godzin:minut:sekund</code> pozostało.
+          <br>Musisz skonwertować swój czas na <code>znacznik czasu</code> albo otrzymasz zły sposób
+          odliczania.
       </td>
       <td style="text-align:left"><code>Numer</code>
       </td>
@@ -310,20 +310,19 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
     </tr>
     <tr>
       <td style="text-align:left">duży klawisz mageImageKey</td>
-      <td style="text-align:left">Określa logo obecności.</td>
+      <td style="text-align:left">Określa logo presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Mały klucz mageKey</td>
-      <td style="text-align:left">Określa małą ikonę obok logo obecności&apos;s.</td>
+      <td style="text-align:left">Określa małą ikonę obok logo presence</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Mały tekst mageText</td>
-      <td style="text-align:left">Definiuje tekst, który będzie wyświetlany użytkownikowi, gdy najeźmie małą ikonę
-.</td>
+      <td style="text-align:left">Definiuje tekst, który będzie wyświetlany użytkownikowi, gdy najedzie na małą ikonę.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>

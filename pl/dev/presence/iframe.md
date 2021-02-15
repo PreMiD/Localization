@@ -13,11 +13,11 @@ tags:
 
 ## Wprowadzenie
 
-W niektórych scenariuszach Twoja obecność może wymagać dostępu do elementów wewnątrz `iframes`.
+W niektórych scenariuszach Twój presence może wymagać dostępu do elementów wewnątrz `iframes`.
 
 Kod, który zapisujesz wewnątrz pliku `iframe.ts` jest wstrzykiwany do każdego iframe na stronie.
 
-Podobnie jak obecności, `iframes` mają własne klasy zaprojektowane do automatycznej aktualizacji danych.
+Podobnie jak presence, `iframes` mają własne klasy zaprojektowane do automatycznej aktualizacji danych.
 
 ```typescript
 let iframe = new iFrame();
@@ -30,7 +30,7 @@ iframe.on("UpdateData", async () => {
 ## Metody
 
 ### `send(Object)`
-Wysyła dane do obecności. Użycie tej metody sprawi, że obecność będzie wydarzeniem `iFrameData`.
+Wysyła dane do presence. Użycie tej metody sprawi, że presence będzie wydarzeniem `iFrameData`.
 
 ### `getUrl()`
 Zwraca adres URL `iframe`.
