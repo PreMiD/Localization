@@ -107,6 +107,18 @@
 		"message": "Искать",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Написание",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Вызов",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "В процессе звонка...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Корзина",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "В петле",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Просмотр инцидента",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "История инцидентов",
 		"description": "A page name of statuspages"
@@ -285,6 +301,22 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Смотрит эпизод",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Посмотреть Видео",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Видеть каналы",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Слушать вместе",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Просмотр страницы",
 		"description": "Used as the title for the button in Discord."
 	}
 }
