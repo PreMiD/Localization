@@ -116,7 +116,7 @@
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.aniWatch": {
-		"message": "Zdobądź to, na co zasłużyłeś. Streamuj anime, filmy, hentai, promocje i nie tylko. Bezpłatnie, bez reklam i w wysokiej rozdzielczości!",
+		"message": "Zdobądź to, na co zasłużyłeś. Streamuj anime, filmy, hentai, specjale i nie tylko. Bezpłatnie, bez reklam i w wysokiej rozdzielczości!",
 		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
@@ -148,7 +148,7 @@
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
-		"message": "Najpotężniejsze i rozszerzone oprogramowanie Wiki open source.",
+		"message": "Najpotężniejsze i rozbudowane otwarte oprogramowanie Wiki.",
 		"description": "Description for WikiJS."
 	},
 	"partners.partner.packageCloud": {
@@ -192,7 +192,7 @@
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
-		"message": "Przykład: PreMiD",
+		"message": "Np: PreMiD",
 		"description": "Name field's placeholder."
 	},
 	"partners.apply.form.link": {
@@ -200,7 +200,7 @@
 		"description": "Link field."
 	},
 	"partners.apply.form.link.placeholder": {
-		"message": "Przykład: https://premid.app",
+		"message": "Np: https://premid.app",
 		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.description": {
