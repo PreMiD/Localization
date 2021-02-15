@@ -32,7 +32,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "ব্রাউজিং...",
+		"message": "ব্রাউজ করছে...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
