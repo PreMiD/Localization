@@ -127,13 +127,13 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `prispievatelia`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `nastavenia`
 
 **Clarifying some value presets:**
 
@@ -148,22 +148,22 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left"><b>autor</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
-      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>Objekt</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>prispievatelia</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Užívateľské <code>id</code> možno skopírovať z Discordu povolením mód vývojára         a kliknutím pravým tlačítkom na váš profil.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b></td>
+      <td style="text-align:left"><b>služba</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -175,9 +175,9 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>popis</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Váš popis musí mať hodnoty párov kľúčov ktoré označujú jazyk, a popis v tom konkrétnom jazyku. Urobte popisy s jazykmi <i>ktoré poznáte</i>, naši prekladatelia ich zmenia vo vašich metadata súborov.</td>
-      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>Objekt</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       You can add multiple URLs by doing the following:<br>
       <code>["URL1", "URL2", "ETC."]</code><br>
       You could also use regExp also known as Regex for this task, explained further below.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -202,43 +202,43 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>verzia</b></td>
       <td style="text-align:left">Verzia vašej prítomnosti.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Odkaz na službu&apos; s logotypom.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b></td>
+      <td style="text-align:left"><b>náhľad</b></td>
       <td style="text-align:left">Odkaz na náhľad vašej prítomnosti.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b></td>
+      <td style="text-align:left"><b>farba</b></td>
       <td style="text-align:left"><code>#HEX</code> hodnota. Odporúčame vám používať primárnu farbu služby        ktorá vaša prítomnosť podporuje.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>štítky</b></td>
       <td style="text-align:left">Pole so značkami, pomôže používateľom vyhľadávať vašu prítomnosť na webovej stránke.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left"><b>kategória</b></td>
       <td style="text-align:left">Reťazec použitý na označenie kategórie do ktorej patrí. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -250,20 +250,20 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Selektor regulárneho výrazu ktorý vyberá prvky iframe do ktorých sa má vložiť. See regExp for more info.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>nastavenia</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
   </tbody>

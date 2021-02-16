@@ -1,51 +1,51 @@
 ---
-title: Класс iFrame
+title: iFrame Class
 description:
 published: true
-date: 03 мая 2020г. 20:17:51
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# класс iFrame
-> iframe система с PreMiD проблематична и может иметь неожиданное поведение, использовать с осторожностью. 
+# iFrame Class
+> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
-## Введение
+## Introduction
 
-В некоторых сценариях вашему присутствию может потребоваться доступ к элементам внутри `iframes`.
+In some scenarios, your presence may need to access elements inside of `iframes`.
 
-Код, который вы пишете внутри файла `iframe.ts` , вводится в каждый iframe на странице.
+The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
-Как и присутствия, `iframes` имеют свои собственные классы, предназначенные для автоматического обновления данных.
+Like presences, `iframes` have their own classes designed to automatically update data.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Код идет здесь...
+    // Code goes here...
 });
 ```
 
-## Методы
+## Methods
 
-### `отправить(Объект)`
-Отправляет данные в присутствие. С помощью этого метода можно сделать наличие `iFrameData`.
+### `send(Object)`
+Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl()`
-Возвращает URL `iframe`.
+Returns the URL of the `iframe`.
 
-## Событие
-В `iframes`события работают аналогично тому, как они работают в классе `присутствия`.
+## Events
+In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Код идет здесь...
+    // Code goes here...
 });
 ```
 
-Список всех событий:
+Here is a list of all of the events:
 
-#### `Обновить данные`
+#### `UpdateData`
 
-Это событие запускается каждый раз, когда iframe обновляется.
+This event is fired every time the iframe is being updated.

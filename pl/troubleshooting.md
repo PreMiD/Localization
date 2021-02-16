@@ -1,14 +1,14 @@
 ---
 title: Rozwiązywanie problemów
-description: Wszystko do rozwiązania twojego problemu
-published: true
+description: Everything to solve your problem
+published: tak
 date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Upewnij się, że masz rozszerzenie **i** zainstalowaną aplikację! 
+> Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
 
@@ -81,7 +81,7 @@ Jest to fałszywy alarm ze strony McAfee i zgłosiliśmy im ten problem, na razi
 10. McAfee powinno teraz ignorować nasz plik. Po prostu uruchom aplikację i wszystko powinno być gotowe.
 
 ### PreMiD status bugged on discord!
-Nie martw się. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 

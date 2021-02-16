@@ -1,41 +1,41 @@
 ---
-title: Presence 开发
+title: Presence Development
 description:
-published: true
+published: 是
 date: 2021-02-07T17:11:34.449Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> 所有存在现在都存储在这里：https://github.com/PreMiD/Presences 
+> All presences are now stored here: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-版本 `2.x` 介绍了 [存在商店](https://premid.app/store)。 用户现在可以通过 [网站](https://premid.app/) 的用户界面手动添加和移除他们最喜欢的存在。
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> 在开始之前，强烈建议您查看我们的使用指南。 
+> Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
 > {.is-warning}
 
 - [指南](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# 目录结构
+# Structure
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## 安装
+## 下載
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. 安装 [TypeScript](https://www.typescriptlang.org/index.html#download-links) （打开您的终端，然后输入：`npm install -g typescript`）
+1. 下載 [Git](https://git-scm.com/)。
+2. 下載  <ahref="https://nodejs.org/en/">Node</a> (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Cloning the project
+## 複製專案
 
-1. 打开个终端，然后在输入: `git clone https://github.com/PreMiD/Presences`
-2. Choose a folder of your choice.
-3. 使用您的代码编辑器打开他。
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. 選擇你選取的資料夾
+3. 在你的編碼器開啟。
 
 ## Creating folders and files
 
@@ -127,13 +127,13 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `貢獻者`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `設定`
 
 **Clarifying some value presets:**
 
@@ -141,21 +141,21 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">描述</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">可选的</th>
+      <th style="text-align:left">說明</th>
+      <th style="text-align:left">種類</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left"><b>作者</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>貢獻者</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>說明</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -208,7 +208,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>版本</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -233,7 +233,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>標籤</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -263,7 +263,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>設定</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -274,7 +274,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## 入门指南
+## Getting started
 
 ```typescript
 const presence = new Presence({
@@ -399,8 +399,8 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 
-- [Presence 类](/dev/presence/class)
+- [Presence Class](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
 - [iFrame Class](/dev/presence/iframe)
-- [元数据文件](/dev/presence/metadata)
+- [Metadata File](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}

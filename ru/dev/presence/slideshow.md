@@ -1,5 +1,5 @@
 ---
-title: Класс слайд-шоу
+title: Slideshow Class
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,92 +8,91 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Класс слайд-шоу
+# Slideshow Class
 
-## Введение
+## Introduction
 
-Класс `слайдшоу` используется для установки нескольких `PresenceData` и "slide" через их каждые x миллисекунд (минимум: 5000).
+The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
 
-Смотрите метод [`createSlideshow`](/dev/presence/class#createslideshow) в классе [`Presence`](/dev/presence/class) о том, как создать `слайдшоу`.
+See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
 
-## Свойства
+## Properties
 
 ### `currentSlide`
 
-Возвращает объект [`PresenceData`](/dev/presence/class#presencedata-interface) из того, что сейчас показывают.
+Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of what the presence/current slide is displaying.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // Will console log the details of the PresenceData
 ```
 
-## Методы
+## Methods
 
 ### `addSlide(String, PresenceData, Number)`
 
-Добавить новый слайд в `Slideshow` согласно предоставленным данным.
+Add a new slide to the `Slideshow` according to provided data.
 
-Первый параметр требует `String` которая будет использоваться в качестве уникального идентификатора для слайда.
+First parameter requires a `String` that will be used as a unique identifier for the slide.
 
-Второй параметр требует интерфейса [`PresenceData`](/dev/presence/class#presencedata-interface) чтобы получить всю информацию, которую вы хотите показать на слайде.
+Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
 
-Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
+Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
 
 ### `getSlides()`
 
-Возвращает все слайды, сохраненные в `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
 
-### `updateSlide(String, PresenceData, Number)
-`
+### `updateSlide(String, PresenceData, Number)`
 
-Обновляет слайд данного `id` в соответствии с предоставленными данными.
+Updates the slide of the given `id` according to provided data.
 
-Первый параметр требует `String` которая является уникальным идентификатором слайда, который вы хотите обновить.
+First parameter requires a `String` that is the unique identifier of the slide you want to update.
 
-Второй параметр требует интерфейса [`PresenceData`](/dev/presence/class#presencedata-interface) чтобы получить всю информацию, которую вы хотите показать на слайде.
+Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
 
-Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
+Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
 
 ### `hasSlide(String)`
 
-Возвращает `Boolean` о добавлении слайда в `Slideshow`.
+Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Удаляет слайд с заданным `id` из `Slideshow`.
+Deletes the slide with the given `id` from the `Slideshow`.
 
-Первый параметр требует `String` которая является уникальным идентификатором слайда, который вы хотите обновить.
+First parameter requires a `String` that is the unique identifier of the slide you want to delete.
 
 ### `deleteAllSlides()`
 
-Удаляет все слайды из `Slideshow`.
+Deletes all slides from the `Slideshow`.
 
-# SlideshowSlide Класс
+# SlideshowSlide Class
 
-## Введение
+## Introduction
 
-`SlideshowSlide` — это внутреннее представление каждого слайда в `Slideshow`.
+A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
-## Свойства
+## Properties
 
 ### `id`
 
-Возвращает `String` для идентификатора слайда.
+Returns a `String` of the id of the slide.
 
 ### `data`
 
-Возвращает объект [`PresenceData`](/dev/presence/class#presencedata-interface) `PresenceData`, сохраненный в слайде.
+Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
 
-## Методы
+## Methods
 
 ### `updateData(PresenceData)`
 
-Устанавливает данные слайдов в соответствии с предоставленными данными.
+Sets the slides data according to provided data.
 
-Вы должны предоставить `PresenceData` интерфейс, чтобы получить всю информацию, которую вы хотите отображать в своем профиле.
+You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
 
 ### `updateInterval(Number)`
 
-Устанавливает интервал слайда в соответствии с предоставленными данными.
+Sets the interval of the slide according to provided data.
 
-Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
+You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.

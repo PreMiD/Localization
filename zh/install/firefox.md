@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: 开始在 Firefox 上安装PreMiD
+description: Getting started with a PreMiD installation on Firefox
 published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
@@ -10,14 +10,14 @@ tags:
 
 # 安装
 1. [点击这里](https://premid.app/downloads) 来转到我们的下载页面。
-2. 选择 **Firefox**。
-3. 搜索 `关于:addons`。
-4. 点击右上角的小装备图标。
-5. 选择 **从文件安装** 附加组件.
-6. 选择您最近下载的文件。
-7. 点击 **添加** 来接受安装。
+2. Choose **Firefox**.
+3. Search for `about:addons`.
+4. Click on the small gear icon in the upper right corner.
+5. Choose **Install add-on from file**.
+6. Select the file you downloaded recently.
+7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> 不要忘记 [安装 **应用程序**](/install)。 
 > 
 > {.is-warning}
 

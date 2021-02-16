@@ -1,51 +1,51 @@
 ---
-title: Klasa iFrame
+title: iFrame Class
 description:
-published: true
-date: 03.05.2020 20:17
+published: tak
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
 # iFrame Class
-> System iframe z PreMiD jest problematyczny i może powodować nieoczekiwane zdarzenia, używaj go ostrożnie. 
+> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
-## Wprowadzenie
+## Introduction
 
-W niektórych scenariuszach Twój presence może wymagać dostępu do elementów wewnątrz `iframes`.
+In some scenarios, your presence may need to access elements inside of `iframes`.
 
-Kod, który zapisujesz wewnątrz pliku `iframe.ts` jest wstrzykiwany do każdego iframe na stronie.
+The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
-Podobnie jak presence, `iframes` mają własne klasy zaprojektowane do automatycznej aktualizacji danych.
+Like presences, `iframes` have their own classes designed to automatically update data.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Tutaj wprowadź kod...
+    // Code goes here...
 });
 ```
 
-## Metody
+## Methods
 
 ### `send(Object)`
-Wysyła dane do presence. Użycie tej metody sprawi, że presence będzie wydarzeniem `iFrameData`.
+Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl()`
-Zwraca adres URL `iframe`.
+Returns the URL of the `iframe`.
 
 ## Wydarzenia
-W `iframe` zdarzenia działają podobnie jak w klasie `presence`.
+In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Tutaj wprowadzamy kod...
+    // Code goes here...
 });
 ```
 
-Oto lista wszystkich wydarzeń:
+Here is a list of all of the events:
 
 #### `UpdateData`
 
-To zdarzenie jest uruchamiane za każdym razem, gdy element iframe jest aktualizowany.
+This event is fired every time the iframe is being updated.

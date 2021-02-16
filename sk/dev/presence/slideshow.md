@@ -27,7 +27,7 @@ const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // Will console log the details of the PresenceData
 ```
 
-## Methods
+## Metódy
 
 ### `addSlide(String, PresenceData, Number)`
 
@@ -83,7 +83,7 @@ Returns a `String` of the id of the slide.
 
 Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
 
-## Methods
+## Metódy
 
 ### `updateData(PresenceData)`
 

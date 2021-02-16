@@ -110,7 +110,7 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>popis</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Váš popis musí mať hodnoty párov kľúčov ktoré označujú jazyk, a popis v tom konkrétnom jazyku. Urobte popisy s jazykmi <i>ktoré poznáte</i>, naši prekladatelia ich zmenia vo vašich metadata súborov. View the category for presence languages for a list. </td>
-      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>Objekt</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -148,19 +148,19 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>farba</b></td>
       <td style="text-align:left"><code>#HEX</code> hodnota. Odporúčame vám používať primárnu farbu služby        ktorá vaša prítomnosť podporuje.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>štítky</b></td>
       <td style="text-align:left">Pole so značkami, pomôže používateľom vyhľadávať vašu prítomnosť na webovej stránke.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Reťazec, Poradie&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>kategória</b></td>
       <td style="text-align:left">Reťazec použitý na označenie kategórie do ktorej patrí.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -172,19 +172,19 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Selektor regulárneho výrazu ktorý vyberá prvky iframe do ktorých sa má vložiť.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Reťazec</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>nastavenia</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
   </tbody>

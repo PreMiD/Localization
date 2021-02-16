@@ -1,20 +1,20 @@
 ---
-title: Klasa Presence
-description: Główna klasa dla każdej obecności PreMiD
-published: true
+title: Presence Class
+description: The main class for every PreMiD presence
+published: tak
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Klasa Presence
+# Presence Class
 
-## Wprowadzanie
+## Introduction
 
-Klasa `Presence` jest bardzo przydatna, ponieważ posiada podstawowe metody, których potrzebujemy do stworzenia Presence.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-Podczas tworzenia klasy musisz określić właściwość `ID klienta`.
+When you create a class you must specify `clientId` property.
 
 ```typescript
 const presence = new Presence({
@@ -22,9 +22,9 @@ const presence = new Presence({
 });
 ```
 
-### Właściwości
+### Properties
 
-Istnieją trzy właściwości dla klasy `Presence`.
+There are three properties available for `Presence` class.
 
 #### `clientId`
 
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Metody
+## Methods
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Ta metoda działa tylko na Mac OS. 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Zwraca wartość ustawienia.
+Returns value of setting.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -173,7 +173,7 @@ console.log(setting); // This will log the value of the setting
 
 ### `hideSetting(String)`
 
-Ukrywa podane ustawienie.
+Hides given setting.
 
 ```typescript
 presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -270,38 +270,28 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Zmienna</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Typ</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">szczegóły</td>
-      <td style="text-align:left">Pierwsza linia w twoim Presence, zazwyczaj używana jako nagłówek.</td>
-      <td style="text-align:left"><code>Ciąg znaków</code>
+      <td style="text-align:left">details</td>
+      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">stan</td>
-      <td style="text-align:left">Drugi wiersz w twoim Presence.</td>
+      <td style="text-align:left">state</td>
+      <td style="text-align:left">Second line in your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Definiuje aktualny czas.<br>
-        Używany, jeśli chcesz wyświetlić ile <code>godzin:minut:sekund</code> pozostało.
-          <br>Musisz skonwertować swój czas na <code>znacznik czasu</code> albo otrzymasz zły sposób
-          odliczania.
-      </td>
-      <td style="text-align:left"><code>Numer</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Określa cały czas trwania.
-        <br>Używane jeśli chcesz wyświetlić ile <code>godzin:minut:sekund</code> pozostało.
+      <td style="text-align:left">Defines the current time.<br>
+        Used if you want to display how much <code>hours:minutes:seconds</code> left.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
@@ -309,20 +299,31 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">duży klawisz mageImageKey</td>
-      <td style="text-align:left">Określa logo presence.</td>
+      <td style="text-align:left">endTimestamp</td>
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
+      </td>
+      <td style="text-align:left"><code>Number</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">largeImageKey</td>
+      <td style="text-align:left">Defines the logo for the presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Mały klucz mageKey</td>
-      <td style="text-align:left">Określa małą ikonę obok logo presence</td>
+      <td style="text-align:left">smallImageKey</td>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Mały tekst mageText</td>
-      <td style="text-align:left">Definiuje tekst, który będzie wyświetlany użytkownikowi, gdy najedzie na małą ikonę.</td>
+      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -341,7 +342,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## Wydarzenia
+## Events
 
 Zdarzenia umożliwiają wykrycie i obsługę pewnych zmian lub połączeń, które zostały wykonane. Możesz subskrybować wydarzenia za pomocą metody `on`.
 

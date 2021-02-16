@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Керівні принципи
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rule sets will keep us and our users from running into issues.
 
@@ -136,15 +136,15 @@ A list of fields and their rules are listed below:
 
 - The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`author`**
+### **`автор`**
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`contributors`**
+### **`учасники проєкту`**
 
 - Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
-### **`service`**
+### **`сервіс`**
 
 - The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
@@ -153,22 +153,22 @@ A list of fields and their rules are listed below:
 
 - **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`description`**
+### **`опис`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
-### **`url`**
+### **`URL-адреса`**
 
 - The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`version`**
+### **`версія`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
 
-### **`logo`**
+### **`логотип`**
 
 - The logo **must** be a square image with a `1:1` aspect ratio.
 - The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
@@ -177,19 +177,19 @@ A list of fields and their rules are listed below:
 
 - The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
 
-### **`color`**
+### **`колір`**
 
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
-### **`tags`**
+### **`теги`**
 
 - **All** presences are required to have at least _one_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
 - Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
 - You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
 
-### **`category`**
+### **`категорія`**
 
 - The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 - The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
@@ -293,7 +293,7 @@ A few things you should know after opening a pull request:
 - ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
 - ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
-## `Перевірка`
+## `Checks`
 
 ![Checks](https://i.imgur.com/BCDZQe9.png)
 
@@ -302,7 +302,7 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 - `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Додаткові правила`
+## `Additional Rules`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
