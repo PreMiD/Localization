@@ -1,6 +1,6 @@
 ---
 title: ガイドライン
-description: プレゼンスを公開するために必要なルール
+description: Rules all presence developers must follow to have their presence added.
 published: true
 date: 2020-12-29T02:18:29.846Z
 tags:
@@ -8,20 +8,20 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# ガイドライン
 
-[GitHub Repository](https://github.com/PreMiD/Presences)へプレゼンスを公開する際は、一連のガイドラインに従う必要があります。 厳しいように見えるかもしれませんが、 このガイドラインは、問題を回避するために作られています。
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # 作成
 
-プレゼンスのルールは以下のとおりです。
+The general rules of presence development are as follows:
 
-- プレゼンスは選択されたサイトに関連付けされている必要があります。
-- プレゼンスは不当なサイトに対して公開することはできません。 (ブラウザクラッシャーや、違法薬物の取引サイト、児童ポルノが公開されているサイトなど)
-- ファイル構造はきれいに管理されている必要があります。指定されていないファイルは含めないでください。 (vscodeやgit folder、画像・テキストなど)
-- 確実なファイル構造が必要です。下書きやテストは公開するには適していません。
-- .onionで終わるドメインや無料で取得できるドメイン/ホストを持つウェブサイトのためのプレゼンスは原則許可されていませんが、そのドメインのために料金を支払ったことが証明された場合は例外として認められます。
-- ドメインが取得されてから、2ヶ月以上立っていないwebサイトのプレゼンスは許可されていません。
+- Presences **must** be related to the website of choice.
+- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
+- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
+- You need to have a proper file structure, drafts are **not** allowed.
+- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
+- The domain of the presence must be at least 2 months old.
 - ブラウザの内部を指定するプレゼンスは許可されていません。（Chrome Web Store、`chrome://`、`about:` など。） これらを実装するには、試験中の機能(chrome://frags)を有効にする必要があり、ブラウザーやデータに大きなダメージを与える可能性があるからです。
 - 一つのサブドメインのみをサポートするプレゼンスは許可されていません。（ホームページなどで正常に表示されないことがあるため） 利用規約、連絡フォームなどのあまり使われないページや、他のコンテンツがメインのコンテンツに関連していないものは例外です。 (例えば、Wikiaなど)
 - オンラインラジオのプレゼンスは、週に100人のリスナーと、15人以上の同時接続数が必要です。
@@ -37,7 +37,7 @@ presence
 └── tsconfig.json
 ```
 
-`iframe.ts`ファイルを使用している場合は
+or if you're using a `iframe.ts` file:
 
 ```bash
 presence
@@ -138,35 +138,35 @@ A list of fields and their rules are listed below:
 
 ### **`author`**
 
-- IDの_value_（値）にはDiscordのユーザーIDを入力してください。 [開発者モード](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)を有効にすることで入手できます。 _application ID（プレゼンスに割り当てられるもの）では**ありません。**混同しないようにしてください。_
+- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
 ### **`contributors`**
 
-- 自分を「contributor」（協力した人、貢献者）として追加しないでください。他の誰かと協力した場合のみ追加できます。
+- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
 ### **`service`**
 
-- Presenceディレクトリの名前は、サービス名でなければなりません。 例えば、プレゼンスが`/websites/Y/YouTube/`にある場合、サービス名は`YouTube`でなければなりません。
-- webサイトがURLの名前を公式に使用していない場合は、URLをサービスの名前として使用することができません。 ただし、名前がない、もしくは曖昧であると判断された場合はURLを使用することが必要です。 （例えば、`YouTube`は正式名称であり、サービス名を表しているので適切です。 `YouTube.com`とすることはできません。 ですが、`Top`はサービス名を表していないので、適切ではありません。`top.gg`の記述を使用してください。）
+- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
-- 公式で複数の名前がある場合(例:"Pokémon"と"포켓몬스터")や、 特殊な文字が入っている(例:Pokémon and Pokemon)場合にのみ参照してください。 複数の名前を指定して、探すのを簡単にすることができます。 短縮されたサービス名は、`tags`に置いてください。
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
 ### **`description`**
 
-- すべてのプレゼンスは（Webサイトの言語にかかわらず）、英語での説明文が必要です。
-- その言語を知っていない場合は無理に翻訳しようとせずにそのままにしてください。 必要があるなら、PreMiDの翻訳者が`metadata.json`を編集します。
+- **All** presences are **required** to have an English description regardless of the website's prefered language.
+- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
 ### **`url`**
 
-- URLは、ウェブドメインが一つしかない場合はstring（文字列）である必要があります。 ドメインが複数ある場合は、これをarray（配列）にしてそれぞれを指定します。
-- プロトコルを入れないでください。(`http` や `https`など) パラメーターも入れないでください。(`www.google.com/search?gws_rd=ssl` などは `www.google.com`にする必要があります。)
+- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
 ### **`version`**
 
-- バージョン番号は[semantic versioning standards](https://semver.org)に従うようにしてください。 `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. （<新機能>.<大きなバグの修正>.<小さなバグや細かな修正>） `1.0.0.1`や`1.0`、`1`の他、 `1.0.0-BETA`と表記することや、バグの修正や小さい変更だけで`1.0.0`から `2.0.0`に変更することは許可されていません。
-- バージョンは、指定されていない限り`1.0.0`から始めるようにしてください。
+- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
+- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
 
 ### **`logo`**
 
@@ -184,8 +184,8 @@ A list of fields and their rules are listed below:
 
 ### **`tags`**
 
-- すべてのプレゼンスは_一つ以上_のタグを持つ必要があります。
-- Tagには空白やスラッシュ、引用符やUnicode文字を使用しないでください。また、すべて小文字にしてください。
+- **All** presences are required to have at least _one_ tag.
+- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
 - Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
 - You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
 
