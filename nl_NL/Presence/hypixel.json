@@ -12,7 +12,7 @@
         "description": "Forum categories they get notifications from"
     },
     "hypixel.dm": {
-        "message": "Bekijkt zijn/haar DM's",
+        "message": "Bekijkt zijn/haar privéberichten",
         "description": ""
     },
     "hypixel.game": {
