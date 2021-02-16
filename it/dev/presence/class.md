@@ -1,20 +1,20 @@
 ---
 title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
-published: true
+published: vero
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Presence Class
+# Classe Presenza
 
 ## Introduzione
 
-La classe `Presence` è molto utile poiché contiene i metodi di base di cui abbiamo bisogno per creare una presence.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-Quando crei una classe devi specificare la proprietà `clientId`.
+When you create a class you must specify `clientId` property.
 
 ```typescript
 const presence = new Presence({
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Metodi
+## Methods
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Questo metodo funziona solo su Mac OS. 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
@@ -101,7 +101,7 @@ const playString = strings.play; // result: Playing
 const pauseString = strings.pause; // result: Paused
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. Questo funziona bene con l'opzione di impostazione `multiLanguage` aggiunta anche di recente.
+Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
 
 We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
 
@@ -270,7 +270,7 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variabile</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Descrizione</th>
       <th style="text-align:left">Tipo</th>
     </tr>
@@ -278,29 +278,30 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">La prima linea nella tua presence, di solito è usata come titolo.</td>
-      <td style="text-align:left"><code>Stringa</code>
+      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">La seconda linea nellla tua presence.</td>
+      <td style="text-align:left">Second line in your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Definisce il tempo corrente.<br>
-        Utilizzato se vuoi mostrare quanti <code>hours:minutes:seconds</code> è rimasto.
-          <br>Devi convertire il tuo tempo ad un <code>timestamp</code> altrimenti otterrai un conto alla rovescia sbagliato.
+      <td style="text-align:left">Defines the current time.<br>
+        Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Definisce la durata totale.
-        <br>Utilizzato se vuoi mostrare quanti <code>hours:minutes:seconds</code> è rimasto.
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
@@ -309,19 +310,20 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Definisce il logo della presence.</td>
+      <td style="text-align:left">Defines the logo for the presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Definisce la piccola icona vicina al logo della presence.</td>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Definisce il testo che verrà mostrato all'utente quando posizionerà il puntatore sull'icona piccola.</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -340,7 +342,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## Eventi
+## Events
 
 Gli Eventi ti permettono di vedere e controllare alcuni cambiamenti o chiamate che sono state fatte. Puoi sottoscriverti ad eventi utilizzando il metodo `on`.
 
