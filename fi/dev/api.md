@@ -14,23 +14,23 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > 
 > {.is-info}
 
-## API-versiointi
+## API Versioning
 > API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
 PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
-## Salaus
+## Encryption
 
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
 # Dokumentointi
-> Tällä hetkellä rakenteilla! 
+> Currently under construction! 
 > 
 > {.is-danger}
 
-**Valitse API-versio:**
+**Choose the API version:**
 - [v2 *deprecated*](/dev/api/v2)
 - [v3 *active*](/dev/api/v3)
 {.links-list}
