@@ -30,7 +30,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
   - [Kurulum Talimatları](#appimageinstall)
   - [Ek notlar](#appimagenotes)
 - [**Red Hat Enterprise Linux (RHEL) tabanlı dağıtımlar**](#packagecloud)
-- [**Debian ve Ubuntu tabanlı dağıtımlar**](#packagecloud)
+- [**Debian and Ubuntu based distributions**](#packagecloud)
 - [**Arch Linux tabanlı dağıtımlar**](#arch)
 
 <a name="about"></a>
@@ -52,7 +52,7 @@ Eklenti, uygulaması olmadan bir işe yaramayacağı için uygulamanın da de y�
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Tüm Sürümler"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="En Son Sürüm"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub sürümleri"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="En son sürüm"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="GitHub sürümleri"></a></td>
   </tr>
 </table>
 
@@ -74,7 +74,7 @@ Diğer dağıtımların eski sürümlerinin destekleyip desteklemediği bilinmem
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Discord'umuza katıl!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Discord Sunucumuza Katıl!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Discord'umuza katıl!">
   </a>
 </div>
 
@@ -99,7 +99,7 @@ Teşekkürler:
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
-## Taşınabilir Uygulama Görüntüsü
+## Portable AppImage
 
 AppImage paketi eğer Discord uygulamanız çalışıyor, ama diğer PreMiD paketleri (.deb, .rpm, vb.) çalışmıyorsa önerilir.
 
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Ek Notlar
+### Ek notlar
 
 Sadece PreMiD'i denemek istiyorsanız veya kurmak istemiyorsanız, bu seçenek en iyisi, ayrıca her zaman güncel ama _SİSTEM AÇILINCA OTOMATİK BAŞLAMIYOR!_</br>Eğer her başlangıçta çalıştırmaktan yorulduysanız, (dağıtımınıza göre) diğer paketleri kullanın.
 
@@ -127,7 +127,7 @@ Sadece PreMiD'i denemek istiyorsanız veya kurmak istemiyorsanız, bu seçenek e
 
 # PackageCloud
 
-deb/rpm paketlerini, packagecloud depomuzda yayınlıyoruz. https://packagecloud.io/PreMiD/Linux adresini ziyaret ederek sana uygun olan deb/rpm paketini indirebilir veya otomatik bir kod kullanabilirsin.
+deb/rpm paketlerini, packagecloud depomuzda yayınlıyoruz. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
 
 **Ubuntu/Debian** için:
 
@@ -141,12 +141,12 @@ curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh 
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-Eğer komut çalışmazsa **deb/rpm** paketini packagecloud depomuzdan indirebilirsin veya bazı ayarları geçersiz kılın.
+If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux Tabanlı Dağıtımlar
+## Arch Linux tabanlı dağıtımlar
 
 [Arch User Repository](https://aur.archlinux.org/packages/premid) kullanır;</br> Desteklenen dağıtımlar: _dağıtımın kendisi_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS ve [AUR üzerinden kuruluma destek veren her bir dağıtım](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
@@ -175,14 +175,14 @@ pacaur -S premid
 ```
 
 ```bash
-(...) olayı anladınız
+# ... olayı anladınız
 ```
 
 veya ne yaptığınızı biliyorsanız, manuel olarak [Arch User Repository](https://aur.archlinux.org/packages/premid) üzerinden.
 
 <a name="archnotes"></a>
 
-### Ek Notlar
+### Ek notlar
 
 Dağıtımınız pacman kullanıyorsa, AUR depolarına ulaşmak için bir yardımcı kurmanız gereklidir. Eğer birine sahip değilseniz, Yay kullanmanız önerilir, şunu çalıştırın:
 
