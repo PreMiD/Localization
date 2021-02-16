@@ -1,23 +1,23 @@
 ---
-title: Početna stranica
-description: Zvanična dokumentacija za v2
-published: tačno
+title: Home
+description: Official Documentation for v2
+published: true
 date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
 
-> The documentation is still being edited! Neke stranice mogu biti nedovršene ili nedostaju. 
+> The documentation is still being edited! Some pages may be incomplete or missing. 
 > 
 > {.is-warning}
 
 # O PreMiD-u
-- :mag: [Šta je PreMiD?](/about) Namere koje stoje iza PreMiD-a i zašto biste ga trebali koristiti.
-- :link: [Šta je RPC?](https://discordapp.com/rich-presence) Sve o "Rich Presence" i njegovim funkcijama.
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
-# Početak
+# Getting Started
 
-PreMiD je brz i lak za instaliranje. You should be up and running in no time.
+PreMiD is quick and easy to install. You should be up and running in no time.
 
 - Make sure you have read the [system requirements](/install/requirements).
 - Follow the quick and simple [installation guide](/install).
