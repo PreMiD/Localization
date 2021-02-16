@@ -1,51 +1,51 @@
 ---
-title: iFrame klasė
+title: iFrame Class
 description:
 published: true
 date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# iFrame klasė
-> Iframe sistema su PreMiD yra problematiška ir gali sukelti netikėtų rezultatų, naudoti atsargiai. 
+# iFrame Class
+> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
 ## Įvadas
 
-Kai kuriuose scenarijuose, jūsų statusas gali reikalauti pasiekti elementus esančius `iframes` viduje.
+In some scenarios, your presence may need to access elements inside of `iframes`.
 
-Kodas kurį jūs rašote savo `iframe.ts` faile, būna įterptas į kiekvieną iframe svetainėje.
+The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
-Kaip ir statusai, `iframes` turi savo klases skirtas automatiškai atnaujinti duomenis.
+Like presences, `iframes` have their own classes designed to automatically update data.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Čia eina kodas...
+    // Code goes here...
 });
 ```
 
-## Metodika
+## Methods
 
 ### `send(Object)`
-Išsiunčia duomenis statusui. Naudojantis šiuo metodu, privers statusą išmesti `iFrameData` įvykį.
+Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl()`
-Grąžins žiniatinklio `iframe` adresą.
+Returns the URL of the `iframe`.
 
 ## Įvykiai
-`iframes`, įvykiai veikia panašiu būdu kaip jie veikia ir `statusų` klasėje.
+In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Čia eina kodas...
+    // Code goes here...
 });
 ```
 
-Štai visų įvykių sąrašas:
+Here is a list of all of the events:
 
 #### `UpdateData`
 
-Šis įvykis yra išaunamas kiekvieną kart kai iframe yra atnaujinamas.
+This event is fired every time the iframe is being updated.

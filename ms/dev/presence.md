@@ -133,7 +133,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `tetapan`
 
 **Menjelaskan beberapa nilai pratetap:**
 
@@ -177,7 +177,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>keterangan</b></td>
       <td style="text-align:left">Keterangan kecil mengenai Presence, anda boleh gunakan keterangan perkhidmatan sekiranya anda tidak tahu apa untuk ditulis. Keterangan anda mesti mempunyai nilai pasangan kekunci yang menyatakan bahasa terlibat, berserta keterangan dalam bahasa tersebut. Cipta keterangan dengan bahasa <i>yang anda tahu</i>, penterjemah kami akan buat perubahan ke fail metadata anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -208,7 +208,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>versi</b></td>
       <td style="text-align:left">Versi Presence anda.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -233,13 +233,13 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>tag</b></td>
       <td style="text-align:left">Tatasusunan dengan tag, ianya akan bantu pengguna mencari Presence anda di laman sesawang.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left"><b>kategori</b></td>
       <td style="text-align:left">Rentetan digunakan untuk mewakili kategori yang mana Presence berada. Lihat kategori yang sah <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">di sini</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -263,7 +263,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>tetapan</b></td>
       <td style="text-align:left">Tatasusunan tetapan yang pengguna boleh ubah.<br>
       Baca lanjut mengenai tetapan Presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">di sini</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

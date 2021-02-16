@@ -1,6 +1,6 @@
 ---
 title: API
-description: Piekļūstiet resursiem un veiciet darbības, izmantojot PreMiD API
+description: Access resources and perform actions using the PreMiD API
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
@@ -10,27 +10,27 @@ dateCreated: 2020-06-11T18:03:59.010Z
 
 # API
 
-> Bāzes URL: https://api.premid.app 
+> Base URL: https://api.premid.app 
 > 
 > {.is-info}
 
-## API versiju veidošana
-> API v2 versija ir novecojusi un tuvākajā nākotnē tiks noņemta. Lūdzu, izmantojiet v3 visiem turpmākajiem pieprasījumiem, lai novērstu problēmas. 
+## API Versioning
+> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
-PreMiD atklāj dažādas mūsu API versijas. Varat norādīt versiju, iekļaujot to pieprasījuma ceļā, piemēram, `https://api.premid.app/v{version_number}`. Izlaižot versijas numuru no maršruta, pieprasījumi tiks novirzīti uz pašreizējo noklusējuma versiju (attiecīgi atzīmēta zemāk).
+PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
-## Šifrēšana
+## Encryption
 
-Visi HTTP slāņa pakalpojumi un protokoli (piemēram, http) PreMiD API ietvaros izmanto TLS 1.2.
+All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
-# Dokumentācija
-> Pašlaik tiek būvēta! 
+# Documentation
+> Currently under construction! 
 > 
 > {.is-danger}
 
-**Izvēlieties API versiju:**
-- [v2 *novecojusī*](/dev/api/v2)
-- [v3 *aktīvā*](/dev/api/v3)
+**Choose the API version:**
+- [v2 *deprecated*](/dev/api/v2)
+- [v3 *active*](/dev/api/v3)
 {.links-list}

@@ -1,5 +1,5 @@
 ---
-title: פיתוח תוסף
+title: Presence Development
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,11 +8,11 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> כל הנוכחות מאוחסנות כעת כאן: https://github.com/PreMiD/Presences 
+> All presences are now stored here: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-גרסה `2.x` introduces the [presence store](https://premid.app/store). למשתמשים יש כעת אפשרות להוסיף ולהסיר ידנית את הנוכחות המועדפת עליהם דרך ממשק המשתמש של [website](https://premid.app/).
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
 > Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
@@ -29,15 +29,15 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 1. התקן [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. התקן [TypeScript](https://www.typescriptlang.org/index.html#download-links) (פתח מהסוף ו- `npm install -g typescript`).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## שכפל את הפרויקט
 
-1. פתח מהסוף והקלד ` git clone https://github.com/PreMiD/Presences `.
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 2. בחר תיקיה לפי בחירתך.
 3. פתח אותו בעורך הקוד שלך.
 
-## יצירת תיקיות וקבצים
+## Creating folders and files
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. צור תיקייה עם השם ** </ strong> (לא כתובת אתר) של השירות שאתה רוצה לתמוך בו.</li>
@@ -45,9 +45,9 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 4 צור תיקיה הנקראת `dist` בפנים.
 5 צור `metadata.json` קובץ בתוך `dist` תיקיה.</ol>
 
-## מילוי הקובץ tsconfig.json
+## Filling in the tsconfig.json file
 
-אנא הכנס את הקוד הבא לקובץ ` tsconfig.json `.
+Please put the following code inside of the `tsconfig.json` file.
 
 ```typescript
 {
@@ -58,11 +58,11 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 }
 ```
 
-למידע נוסף על תצורת TypeScript לחץ [ כאן ](/dev/presence/tsconfig).
+To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## מילוי הקובץ metadata.json
+## Filling in the metadata.json file
 
-יצרנו `metadata.json` יוצר קבצים לאנשים העצלנים [here](https://eggsy.xyz/projects/premid/mdcreator). עדיין מומלץ לקרוא זאת כדי שתדעו איך זה עובד.
+יצרנו `metadata.json` יוצר קבצים לאנשים העצלנים [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json
 {
@@ -125,17 +125,17 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 }
 ```
 
-אנא העתק את הקוד מעל והכנס אותו לקובץ ` metadata.json ` שלך. כעת עליך לערוך את ערכי המאפיינים. לידיעתך, המאפיינים הבאים הם אופציונליים בקובץ ` metadata.json ` שלך, אם אינך מתכנן להשתמש בהם עליך להסיר אותם.
+Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `תורמים`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `הגדרות`
 
-**בירור כמה הגדרות קבועות מראש:**
+**Clarifying some value presets:**
 
 <table>
   <thead>
@@ -148,14 +148,14 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left"><b>מחבר</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>תורמים</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>תיאור</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. תעשה תיאורים בלי השפות שאתה יודע, המתרגמים שלנו יעשו את השינויים לקובץ שלך.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -208,7 +208,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>גרסה</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -232,13 +232,13 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>תגים</b></td>
       <td style="text-align:left">מערך עם תגים, הם יעזרו למשתמשים לחפש את התוסף שלך באתר.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left"><b>קטגוריה</b></td>
       <td style="text-align:left">מחרוזת המשמשת לייצוג הקטגוריה שבה התוסף נמצא. עיין בקטגוריות החוקיות <a href="https://docs.premid.app/dev/presence/metadata#presence-categories"> כאן </a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -262,7 +262,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>הגדרות</b></td>
       <td style="text-align:left">מערך הגדרות שהמשתמש יכול לשנות. <br>
       קרא עוד על הגדרות התוספים <a href="https://docs.premid.app/dev/presence/metadata#presence-settings"> כאן </a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -273,7 +273,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 יצרנו `metadata.json` יוצר קבצים לאנשים העצלנים [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## מתחילים
+## Getting started
 
 ```typescript
 const presence = new Presence({
@@ -301,7 +301,7 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. זה נקרא כמה פעמים בשנייה במידת האפשר.
+  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
@@ -328,13 +328,13 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-באפשרותך להעתיק זאת לקובץ התוסף שלך ולערוך את הערכים. `presence.ts` הגדרת כל הערכים מתבצעת בתוך האירוע updataData.
+You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
 
 לדוגמאות אנו מציעים להסתכל על קוד התוסף כמו: 1337x או 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
-## לא מצליחים לקבל נתונים מסוימים ?!
+## Can't get certain data?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 

@@ -1,6 +1,6 @@
 ---
 title: API
-description: PreMiD APIを使用してリソースにアクセスし、アクションを実行する
+description: Access resources and perform actions using the PreMiD API
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:

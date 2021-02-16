@@ -1,16 +1,16 @@
 ---
-title: இருப்பு வகுப்பு
-description: ஒவ்வொரு PreMiD இருப்புக்கும் முக்கிய வகுப்பு
-published: இயக்கப்பட்டது
+title: Presence Class
+description: The main class for every PreMiD presence
+published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
-editor: மார்க் டவுன்
+editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# இருப்பு வகுப்பு
+# Presence Class
 
-## அறிமுகம்
+## Introduction
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 

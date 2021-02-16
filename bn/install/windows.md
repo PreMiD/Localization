@@ -1,5 +1,5 @@
 ---
-title: উইন্ডোজ
+title: Windows
 description: Getting started with a PreMiD installation on Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
@@ -10,7 +10,7 @@ tags:
 
 The installation of the application is very important as the extension can not do anything by itself.
 
-# Install
+# ইনস্টল
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **Windows**.
 3. Open the installer.

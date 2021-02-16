@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 
 # API
 
-> Alap URL: https://api.premid.app 
+> Base URL: https://api.premid.app 
 > 
 > {.is-info}
 
@@ -31,6 +31,6 @@ All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 
 > {.is-danger}
 
 **Choose the API version:**
-- [v2 *elavult*](/dev/api/v2)
+- [v2 *deprecated*](/dev/api/v2)
 - [v3 *aktív*](/dev/api/v3)
 {.links-list}

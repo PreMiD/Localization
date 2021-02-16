@@ -7,17 +7,17 @@ tags:
 ---
 
 # iFrame Třída
-> Systém iframe s PreMiD je problematický a může mít neočekávané chování, používat s opatrností. 
+> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
 ## Úvod
 
-V některých scénářích může být potřeba přistupovat k elementům uvnitř `iframů`.
+In some scenarios, your presence may need to access elements inside of `iframes`.
 
-Kód, který píšete uvnitř vašeho `iframe.ts` souboru se vloží do každého iframe na stránce.
+The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
-Stejně jako přítomnost, `iframy` mají své vlastní třídy určené k automatické aktualizaci dat.
+Like presences, `iframes` have their own classes designed to automatically update data.
 
 ```typescript
 let iframe = new iFrame();
@@ -27,20 +27,20 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methods
+## Metody
 
 ### `send(Object)`
-Odešle data do přítomnosti. Pomocí této metody se díky přítomnosti hodí událost `iFrameData`.
+Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl()`
-Vrátí URL adresu `iframe`.
+Returns the URL of the `iframe`.
 
 ## Events
-V `iframech`události fungují podobně jako v `přítomnosti`.
+In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code goes sem...
+    // Code goes here...
 });
 ```
 
@@ -48,4 +48,4 @@ Zde je seznam všech událostí:
 
 #### `UpdateData`
 
-Tato událost je vypálena pokaždé, když se aktualizuje iframe
+This event is fired every time the iframe is being updated.

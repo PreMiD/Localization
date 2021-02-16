@@ -1,5 +1,5 @@
 ---
-title: iFrame Klasse
+title: iFrame Class
 description:
 published: true
 date: 2020-05-03T20:17:51.982Z
@@ -11,7 +11,7 @@ tags:
 > 
 > {.is-danger}
 
-## Introduksjon
+## Introduction
 
 I noen scenarier trenger din tilstedeværelse kanskje å få tilgang til elementer innenfor `iframes`.
 
@@ -44,7 +44,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-Her er en liste over alle arrangementene:
+Here is a list of all of the events:
 
 #### `UpdateData`
 

@@ -16,7 +16,7 @@ The installation of the application is very important as the extension can not d
 
 ## Table of Contents
 
-- **[Tietoja](#about)**
+- **[About](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
   - Examples (soon)
@@ -74,7 +74,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Liity meidän Discordiin!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Liity meidän Discordiin!">
   </a>
 </div>
 

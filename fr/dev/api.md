@@ -1,7 +1,7 @@
 ---
 title: API
 description: Accéder aux ressources et effectuer des actions à l'aide de l'API PreMiD
-published: true
+published: oui
 date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown

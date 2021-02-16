@@ -153,7 +153,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 - Benutze dies **ausschließlich** in Szenarien, in denen eine Website mehrere offizielle Namen hat (beispielsweise Pokémon und 포켓몬스터) oder vereinfache die Suche der Presence durch Weglassen von Sonderzeichen (zum Beispiel Pokémon und Pokemon). *Verkürzte* Versionen von Services gehen unter `Tags`.
 
-### **`description`**
+### **`beschreibung`**
 
 - **Alle** Präsenzen müssen, **ohne Rücksicht** auf die bevorzugt Sprache der Webseite, eine englische Beschreibung haben^.
 - Versuche **nicht** die Seite selbst zu übersetzen, es sei denn du kennst diese Sprache. Übersetzer werden deine `metadata.json` modifizieren und falls nötig Änderungen an der Beschreibungen vornehmen.

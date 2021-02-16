@@ -10,7 +10,7 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 # Bildspelsklass
 
-## Introduktion
+## Introduction
 
 The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
 

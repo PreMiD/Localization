@@ -1,6 +1,6 @@
 ---
-title: Diretrizes
-description: Regras que todos os desenvolvedores de presence devem seguir para ter a sua presence adicionada.
+title: Guidelines
+description: Rules all presence developers must follow to have their presence added.
 published: true
 date: 2020-12-29T02:18:29.846Z
 tags:
@@ -10,18 +10,18 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Guidelines
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Para alguns, estas regras rígidas podem parecer duras. However, the implementation of these rule sets will keep us and our users from running into issues.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rule sets will keep us and our users from running into issues.
 
-# Criação
+# Creation
 
-As regras gerais de desenvolvimento da presence são as seguintes:
+The general rules of presence development are as follows:
 
-- Presences **deve** estar relacionado com o site de eleição.
-- Presences **não** podem ser feitas para sites ilegais. (por exemplo, estresse, tráfico de drogas, pornografia infantil, etc.)
-- A estrutura do ficheiro deve ser limpa e gerenciada, não inclui ficheiros que não são especificados. (por exemplo, vscode e pastas git, imagens e ficheiros de texto, etc.)
-- Você precisa ter uma estrutura de ficheiros correta, rascunhos **não são** permitidos.
-- Presences para sites com (`.onion` TLDs) ou sites com domínios/hosts gratuitos (por exemplo, `.TK` [todos os domínios Freenom gratuitos], `.RF`, `GD`, etc) **não** são permitidos, Podem ser feitas excepções se for apresentada uma prova que demonstre que pagaram o domínio.
-- O domínio da presença deve ter pelo menos 2 meses de idade.
+- Presences **must** be related to the website of choice.
+- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
+- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
+- You need to have a proper file structure, drafts are **not** allowed.
+- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
+- The domain of the presence must be at least 2 months old.
 - Presence que segmenta as páginas internas do navegador (como Chrome Web Store, `chrome://`, `sobre:` páginas, etc.) **não é** permitido, uma vez que exigem que uma flag experimental seja ativada no final do usuário e possa potencialmente causar danos aos seus navegadores.
 - Presences com suporte para apenas um único subdomínio **não** serão permitidas, pois elas poderão parecer quebradas em outras páginas (como a página principal). Algumas exceções podem ser feitas para as páginas de Política e de Contacto (conteúdo que não é habitual ser usado) ou sites em que o conteúdo não está relacionado. (por exemplo, páginas de wiki)
 - Presences para rádios online apenas são permitidas se a rádio tiver pelo menos 100 ouvintes por semana e 15 em simultâneo.
@@ -37,7 +37,7 @@ presence
 └── tsconfig.json
 ```
 
-ou se você estiver usando um ficheiro `iframe.ts:`
+or if you're using a `iframe.ts` file:
 
 ```bash
 presence
@@ -64,7 +64,7 @@ presence
 > 
 > {.is-warning}
 
-Cada presence tem um ficheiro de descriptor chamado `metadata.json`, a metadata têm um padrão rigoroso e um exemplo deste ficheiro pode aparecer abaixo:
+Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
 
 ```json
 {
@@ -136,11 +136,11 @@ A list of fields and their rules are listed below:
 
 - The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`author`**
+### **`autor`**
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`contributors`**
+### **`contribuidores(as)`**
 
 - Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
@@ -153,7 +153,7 @@ A list of fields and their rules are listed below:
 
 - **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`description`**
+### **`descrição`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
@@ -163,7 +163,7 @@ A list of fields and their rules are listed below:
 - The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`version`**
+### **`versão`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
@@ -182,7 +182,7 @@ A list of fields and their rules are listed below:
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
-### **`tags`**
+### **`etiquetas`**
 
 - **All** presences are required to have at least _one_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
@@ -244,7 +244,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.   - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
 -  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verificação
+# Verification
 
 > **Todos os** códigos contribuíram para a loja serão licenciados sob a `Mozilla Public License 2.0`. 
 > 
@@ -265,14 +265,14 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Revisores das Presences</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/ririxichan"><img src="https://github.com/ririxichan.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
-## `Restrições`
+## `Restrictions`
 
 Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
 
@@ -295,11 +295,11 @@ Algumas coisas que você deve saber após abrir uma pull request:
 
 ## `Verificações`
 
-![Checks](https://i.imgur.com/BCDZQe9.png)
+![Verificações](https://i.imgur.com/BCDZQe9.png)
 
 Actualmente, uma presence atravessa 2 fases distintas de controlos. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
-- O `Codacy`é um bot que verifica a qualidade do código. Se você receber erros para novas issues, é **necessário** para corrigi-los.
+- `Codacy` is a bot that checks for code quality. Se você receber erros para novas issues, é **necessário** para corrigi-los.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Regras Adicionais`
@@ -308,7 +308,7 @@ Actualmente, uma presence atravessa 2 fases distintas de controlos. All of these
 
 Depois de conhecer todas as diretrizes com as análises e verificações adequadas, sua presence estará na loja.
 
-# Contribuições
+# Contributions
 
 `A revisão 2` das diretrizes foi escrita e foi contribuída pelas seguintes pessoas:
 

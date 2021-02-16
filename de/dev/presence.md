@@ -133,7 +133,7 @@ Bitte kopiere den obigen Code und füge ihn in Deine `metadata.json` ein. Du mus
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `einstellungen`
 
 **Klarstellung einiger Wertvoreinstellungen:**
 
@@ -174,7 +174,7 @@ Dies kann auch genutzt werden für Presences, die spezielle Zeichen  haben, soda
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>beschreibung</b></td>
       <td style="text-align:left">Kurze Beschreibung der Presence, du kannst die Beschreibung des Dienstes verwenden, wenn dir die Ideen ausgehen. Deine Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache angeben und die Beschreibung in dieser bestimmten Sprache. Erstelle Beschreibungen mit den Sprachen <i>die du kennst</i>, unsere Übersetzer werden Änderungen an der Metadatendatei vornehmen.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nein</code></td>
@@ -259,7 +259,7 @@ Deine regExp kannst du auf <a href="https://regex101.com/">Regex101</a> testen.<
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>einstellungen</b></td>
       <td style="text-align:left">Ein Array von Einstellungen, die der Benutzer ändern kann.<br>
       Lese mehr über Presenceeinstellungen <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">hier</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

@@ -102,7 +102,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>alternatyvūs pavadinimai</b></td>
+      <td style="text-align:left"><b>altnames</b></td>
       <td style="text-align:left">Be able to search the presence using an alternative name.<br>
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
@@ -111,7 +111,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>aprašymas</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Jūsų aprašymas turi turėti raktine pora reikšmių kurie nurodo kalbą ir aprašymą ta nustatyta kalba. Kurkite aprašymus su kalbomis <i>kurias jūs žinote</i>, mūsų vertėjai padarys pakitimus jūsų metadata failui. View the category for presence languages for a list. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>nustatymai</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>

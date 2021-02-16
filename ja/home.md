@@ -7,12 +7,12 @@ tags:
 editor: markdown
 ---
 
-> このドキュメントは編集中です。 いくつかのページは完成していません。 
+> The documentation is still being edited! いくつかのページは完成していません。 
 > 
 > {.is-warning}
 
 # PreMiDについて
-- :mag: [PreMiDってなに？](/about) PreMiDについて解説しているページです。
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [RPCって？](https://discordapp.com/rich-presence) Rich Presence機能に関してです。
 
 # 使ってみる
@@ -23,7 +23,7 @@ PreMiDのインストールはとってもかんたん！ すぐに使えるよ�
 - [インストール](/install)のガイドに沿ってダウンロードしてください。
 - [トラブルシューティング](/troubleshooting)には、起動しない場合や機能しない場合の対処法が書かれています。
 
-# 開発者向け
+# 開発者
 
 [PreMiD開発入門](/dev)は何かを作る前にするべき最初の一歩です。
 

@@ -8,23 +8,23 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
-> قبل از بیشتر پیش رفتن، مطمئن شوید که سیستم شماحداقل [نیازها](/install/requirements) را دارد. 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-> **این ضروریه که** **هر دو** **برنامه** و **افزونه** را نصب کنید! 
+> **It is necessary** to install **both** the **application** and the **extension**! 
 > 
 > {.is-warning}
 
-**سیستم عامل خود را انتخاب کنید:**
-- [Windows *7 یا بالاتر*](/install/windows)
-- [macOS *10.11 یا بالاتر*](/install/macos)
-- [لینوکس *کرنل v2.x یا بالاتر*](/install/linux)
+**Choose your operating system:**
+- [Windows *7 or above*](/install/windows)
+- [macOS *10.11 or above*](/install/macos)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
-**مرورگر خود را انتخاب کنید:**
-- [Chromium *v76 یا بالاتر*](/install/chromium)
-- [Firefox *v69 یا بالاتر*](/install/firefox)
+**Choose your browser:**
+- [Chromium *v76 or above*](/install/chromium)
+- [Firefox *v69 or above*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}

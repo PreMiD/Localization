@@ -82,13 +82,13 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Sollte ein Objekt mit dem <code>name</code> und der <code>id</code> des Presence-Entwickler enthalten. <code>name</code> ist dein Discord-Benutzername ohne den Identifikator (#0000). Benutzer <code>id</code> kann aus Discord kopiert werden, indem der Entwicklermodus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>mitwirkende</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Sollte ein Objekt mit dem <code>name</code> und der <code>id</code> des Mitwirkenden enthalten. <code>name</code> ist dein Discord-Benutzername ohne den Identifikator (#0000). Benutzer <code>id</code> kann aus Discord kopiert werden, indem der Entwicklermodus aktiviert und mit der rechten Maustaste auf Ihr Profil geklickt wird.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>
@@ -157,7 +157,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       <td style="text-align:left"><code>Nein</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kategorie</b></td>
+      <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Eine Zeichenfolge, die die Kategorie darstellt, unter die die Anwesenheit fällt.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nein</code></td>
@@ -181,7 +181,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>einstellungen</b></td>
       <td style="text-align:left">Eine Reihe von Einstellungen, die der Nutzer ändern kann.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>

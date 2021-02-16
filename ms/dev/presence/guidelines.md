@@ -153,7 +153,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 
 - **Hanya** gunakan ini dalam senario di mana laman sesawang menggunakan beberapa nama rasmi berlainan (spt. Pokémon and 포켓몬스터) atau untuk memudahkan pencarian Presence tanpa menggunakan aksara istimewa (spt. Pokémon dan Pokemon). Versi *kependekan* nama perkhidmatan diletakkan di bawah `tags`.
 
-### **`description`**
+### **`keterangan`**
 
 - **Semua** Presence **mesti** mempunyai keterangan bahasa Inggeris tanpa mengira bahasa keutamaan laman sesawang.
 - **Jangan** cuba untuk terjemah keterangan dengan sendiri melainkan anda tahu bahasa tersebut, penterjemah akan ubah `metadata.json` anda dan ubah keterangan jika diperlukan.
@@ -163,7 +163,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 - URL **mestilah** dalam bentuk rentetan sekiranya laman sesawang hanya gunakan satu domain. Jika laman sesawang menggunakan beberapa domain, letakkan nilai sebagai tatasusunan dan nyatakan setiap satunya.
 - **Jangan** sertakan protokol di dalam URL (sbg. cth., `http` atau `https`), dan jangan sertakan parameter pertanyaan (sbg. cth., `www.google.com/search?gws_rd=ssl` yang mana sepatutnya ditulis sebagai `www.google.com`)
 
-### **`version`**
+### **`versi`**
 
 - Sentiasa pastikan nombor versi mengikut [piawaian pemversian semantik](https://semver.org), yang diterjemah ke skema berikut: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>` (&lt;CIRI-BAHARU&gt;.&lt;PEMBAIKIAN-PEPIJAT-BESAR&gt;.&lt;PEMBAIKIAN-PEPIJAT-KECIL-ATAU-PERUBAHAN-METADATA&gt;). Pemversian lain seperti `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` atau mengubah `1.0.0` ke `2.0.0` untuk pembaikian pepijat/perubahan kecil **tidak** dibenarkan.
 - Versi **mestilah** bermula dengan `1.0.0` melainkan diberitahu sebaliknya, versi lain **tidak** akan dibenarkan.
@@ -182,14 +182,14 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 - Warna **mestilah** nilai perenambelasan di antara `#000000` dan `#FFFFFF`.
 - Rentetan warna **mestilah** diawalkan dengan simbol tanda pagar.
 
-### **`tags`**
+### **`tag`**
 
 - **Semua** Presence mesti mempunyai sekurang-kurangnya _sebuah_ tag.
 - Tag **tidak** patut ada sebarang selang, tanda palang, tanda petik tunggal/ganda, aksara Unicode, dan mestilah berhuruf kecil.
 - Tag **sepatutnya** menyertakan nama perkhidmatan alternatif untuk memudahkan carian (sbg. cth., jika Presence untuk Amazon menyertakan sokongan AWS, ia perlu ada tag seperti `amazon-web-services` dan `aws`)
 - Anda **perlu** tambah tag `NSFW` sekiranya Presence tersebut adalah untuk laman sesawang dewasa (NSFW 18+).
 
-### **`category`**
+### **`kategori`**
 
 - Kategori **mestilah** di kalangan kategori yang disenaraikan dalam [pendokumenan](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
 - Presence mestilah menggunakan kategori yang serasi dengan kandungan laman sesawang. (sbg. cth., jangan gunakan `anime` apabila laman sesawang tiada kaitan dengan anime).

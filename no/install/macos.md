@@ -13,8 +13,8 @@ tags:
 The installation of the application is very important as the extension can not do anything by itself.
 
 # Installer
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Velg **OS X**.
+1. Gå til våre nedlastnings side ved å [Klikke her](https://premid.app/downloads).
+2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
 5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
@@ -24,7 +24,7 @@ The installation of the application is very important as the extension can not d
 
 Applikasjonen vil starte automatisk. Check for the symbol in your menu bar.
 
-> Ikke glem å [legge til** utvidelsen**](/install). 
+> Do not forget to [add the **extension**](/install). 
 > 
 > {.is-warning}
 

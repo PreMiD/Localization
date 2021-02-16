@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Vrátí hodnotu nastavení.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -277,31 +277,31 @@ Toto rozhraní má následující proměnné, žádná z nich není povinná.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Podrobnosti</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">První řádek ve vaší presence, obvykle používaný jako záhlaví.</td>
       <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">stav</td>
+      <td style="text-align:left">state</td>
       <td style="text-align:left">Druhý řádek ve vaší presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Definuje aktuální čas.<br>
         Používá se, pokud chcete zobrazit, kolik <code>hodin:minut:sekund</code> zbývá.
-          <br>Aby odpočítávání fungovalo správně, musí být čas nejprve
-          převeden na <code>timestamp</code>.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
-      <td style="text-align:left"><code>Číslo</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Definuje dobu trvání.
-        <br>Používá se, pokud chcete zobrazit kolik <code>hodin:minut:sekund</code> zbývá.
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
@@ -310,21 +310,21 @@ Toto rozhraní má následující proměnné, žádná z nich není povinná.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Definuje logo pro presenci.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Určuje malou ikonu vedle loga&apos;s.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Malý obrázek</td>
-      <td style="text-align:left">Definuje text, který se zobrazí uživateli, když se dotkne malé ikony
-.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
+      <td style="text-align:left"><code>Řetězec</code>
       </td>
     </tr>
   </tbody>
@@ -342,7 +342,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## Události
+## Events
 
 Události Vám umožňují detekovat a reagovat na některé uskutečněné změny či volání. Události můžete zaznamenávat pomocí metody `on`.
 

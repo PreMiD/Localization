@@ -1,5 +1,5 @@
 ---
-title: Presence 개발
+title: Presence Development
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,46 +8,46 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> 모든 Presence들은 이곳에 저장되어 있습니다. https://github.com/PreMiD/Presences 
+> All presences are now stored here: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-버전 `2.x`에는 [Presence 상점](https://premid.app/store) 기능이 추가됩니다. 사용자들은 이제 저희 [홈페이지](https://premid.app/) 에서 자신이 좋아하는 Presence를 좋아요 표시할 수 있습니다.
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> 시작하기 전에, 우리의 이용 약관을 꼭 확인하는 것을 추천해요. 
+> Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
 > {.is-warning}
 
 - [지침](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# 구조
+# Structure
 
-모든 Presence들은 [TypeScript](https://www.typescriptlang.org/)에 코딩되어 있어요. [TypeScript](https://www.typescriptlang.org/)는 JavaScript에 비해 더 구체적인 정보를 담고 있어, 버그를 찾아내어 고치는 것이 쉬워요.
+All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## 설치하기
 
-1. [Git](https://git-scm.com/) 설치하기
-2. [Node](https://nodejs.org/en/)  ( [npm](https://www.npmjs.com/) 와 함께 ) 설치하기
-3. [TypeScript](https://www.typescriptlang.org/index.html#download-links) 설치하기 (터미널 실행 후 "`npm install -g typescript`" 입력하기)
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Presence 복사하기
 
-1. 터미널을 열어 `git clone https://github.com/PreMiD/Presences`를 입력하세요.
-2. 원하는 폴더를 선택하세요.
-3. 이것을 당신의 코드 편집기로 실행하세요.
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
-## 폴더 및 파일 생성하기
+## Creating folders and files
 
-1. `websites` 폴더로 이동한 후 지원하고 싶은 서비스의 첫 **알파벳** (URL 아님)을 가진 폴더로 이동하세요.
-2. 지원하고 싶은 서비스의 **이름**(URL 아님)을 폴더 명으로 하는 폴더를 만드세요.
-3. 폴더 안에 `presence.ts`파일과 `tsconfig.json`파일을 생성하세요.
-4. 안에 `dist`라는 이름의 폴더를 만드세요.
-5. `dist` 폴더 안에 `metadata.json`파일을 생성하세요.
+1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+2. Create a folder with the **name** (not an URL) of the service you want to support.
+3. Create a `presence.ts` and a `tsconfig.json` file inside.
+4. Create a folder named `dist` inside.
+5. Create a `metadata.json` file inside the `dist` folder.
 
-## tsconfig.json 파일에 입력하기
+## Filling in the tsconfig.json file
 
-`tsconfig.json` 파일 안에 다음 코드를 입력해주세요.
+Please put the following code inside of the `tsconfig.json` file.
 
 ```typescript
 {
@@ -58,11 +58,11 @@ dateCreated: 2020-06-11T18:04:02.843Z
 }
 ```
 
-TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/presence/tsconfig)를 클릭하세요.
+To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## metadata.json 파일에 입력하기
+## Filling in the metadata.json file
 
-게으른 녀석들을 위해 우리가 `metadata.json`파일 생성기를 만들었어요. [여기를 클릭하세요](https://eggsy.xyz/projects/premid/mdcreator). 그래도 어떻게 작동하는지 알아보기 위해 다음을 읽어보기를 추천해요.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json
 {
@@ -125,17 +125,17 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
 }
 ```
 
-다음 코드를 복사해 `metadata.json` 파일에 붙여 넣으세요. 이제 속성 값을 수정해야 해요. 참고로 다음 속성들은 당신의 `metadata.json` 파일에 선택 사항이기 때문에, 만약 쓰지 않을 것이라면 지워주세요.
+Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `기여자`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `설정`
 
-**다음은 변수들에 대한 설명입니다:**
+**Clarifying some value presets:**
 
 <table>
   <thead>
@@ -143,19 +143,19 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <th style="text-align:left">변수</th>
       <th style="text-align:left">설명</th>
       <th style="text-align:left">유형</th>
-      <th style="text-align:left">선택사항</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left"><b>제작자</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>기여자</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>설명</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -208,7 +208,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>버전</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -233,7 +233,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>태그</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -263,7 +263,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>설정</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -274,7 +274,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
 
 게으른 녀석들을 위해 우리가 `metadata.json`파일 생성기를 만들었어요. [여기를 클릭하세요](https://eggsy.xyz/projects/premid/mdcreator).
 
-## 시작하기
+## Getting started
 
 ```typescript
 const presence = new Presence({
@@ -335,19 +335,19 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG. Fo
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
-## 특정 데이터를 얻을 수 없나요?
+## Can't get certain data?!
 
-많은 웹사이트들이 [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames))를 사용중이에요. 이러한 HTML 태그들은 비디오와 같은 다양한 소스들을 포함하고 있을 수 있어요. 하지만 항상 그런 것은 아니랍니다. 어떤 것들은 숨겨져 있거나 비활성화 되어있어요. 무모한 삽질을 하기 전에 당신이 필요한 정보들을 추출 할 수 있는지 확인해보세요.
+A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
-1. 브라우저 콘솔에서 확인하기 (**Elements**탭에서 찾아봐요).
-2. 검색하기 (<kbd>CTRL</kbd>+<kbd>F</kbd> (윈도우) or <kbd>CMD</kbd>+<kbd>F</kbd> (macOS)).
-3. `document.querySelectorAll("iframe")` 실행하기.
+1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
+2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Execute `document.querySelectorAll("iframe")`.
 
-만약 당신의 데이터가 iFrame안에 있다면 다음을 수행하세요.
+If you find that your data is in a iFrame you need to do the following:
 
-1. `iframe.ts` 파일 생성하기
-2. 메타데이터 파일에서 iFrame을 `true`로 설정하기
-3. iFrame 파일을 다음 코드로 채우기
+1. Create a `iframe.ts` file.
+2. Set iFrame to `true` in your metadata file.
+3. Filling in your iFrame file.
 
 ```typescript
 const iframe = new iFrame();
@@ -364,7 +364,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-4. presence 파일이 iFrame 파일의 데이터를 받을 수 있도록 설정하기
+4. Making your presence file receive data from the iFrame file.
 
 ```typescript
 presence.on("iFrameData", (data) => {
@@ -373,31 +373,31 @@ presence.on("iFrameData", (data) => {
 });
 ```
 
-**확인:** 이것은 updateData 이벤트 밖에 있어야 해요.
+**Note:** This needs to be placed outside of the updateData event.
 
-## 컴파일링
+## Compiling
 
-`presence.ts`를 `/dist` 폴더에 컴파일하기 위해 당신의 폴더에서 콘솔을 연 후 `tsc -w`를 입력하세요.
+Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# presence 불러오기
+# Loading the presence
 
 1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Presence 불러오기**가 Presences 항목에 뜰 거에요.
-3. <kbd>Shift</kbd> 버튼을 누른 채로 클릭하세요.
-4. presence의 /dist 폴더를 선택하세요.
+2. **Load Presence** will appear in the Presences section.
+3. Click on it while you are still holding the <kbd>Shift</kbd> button.
+4. Select the /dist folder of your presence.
 
-# 유용한 기능들
+# Some helpful things
 
-## Hot-reloading (핫-리로딩)
+## Hot-reloading
 
-현재 개발하고 있는 웹사이트가 당신이 폴더에 파일을 저장할 때마다 자동으로 다시 로딩합니다.
+The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## 디버깅
+## Debugging
 
-- 당신의 코드들 사이에 `console.log("Test");`를 넣어 브라우저 콘솔이 그 결과를 출력하는 지 알 수 있습니다. 만약 한다면 다음 함수로 넘어가 다시 시도해보세요. 만약 하지 않는다면 앞에서 오류가 생긴 거예요.
-- 만약 이 방법으로 해결되지 않았다면 우리의 [디스코드 서버](https://discord.premid.app/)에 있는 presence 개발자에게 물어볼 수 있어요.
+- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
+- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
-# 파일 설명
+# Files explained
 
 - [Presence Class](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)

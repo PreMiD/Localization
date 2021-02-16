@@ -1,6 +1,6 @@
 ---
 title: Felsökning
-description: Allt för att lösa ditt problem
+description: Everything to solve your problem
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Se till att du har tillägget **och** programmet installerat! 
+> Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
 
@@ -46,24 +46,24 @@ För att lösa det här, allt du behöver göra är att växla den översta inst
 ### Ladda om/starta om Discord
 Tryck <kbd>CTRL+R</kbd> (Windows) eller <kbd>CMD+R</kbd> (MacOS) på ditt tangentbord eller starta om Discord manuellt.
 
-### Kontrollera om du har antivirus eller brandvägg som körs på din dator
+### Check if you have antivirus or firewall running on your computer
 Ibland så blockar antivirusprogram och brandväggar applikationer som skapar/hanterar servrar eller applikationer som bara ansluter till internet. Vi använder en lokal server för att ta emot och ge data mellan vår app och tillägg, så om du blockerar appens förmåga att ge data så kommer du troligen inte kunna använda PreMiD.
 
-### Inaktivera dina tillägg
+### Disable your addons
 Inaktivera dina tillägg och se om det fungerar. Om det gör det, försök att aktivera dina tillägg steg för steg och berätta för oss vilket tillägg det var som orsakade PreMiD att inte fungera.
 
-### Starta om datorn
+### Restarting your computer
 Jag hoppas att du vet hur man startar om en dator.
 
-### Installera om PreMiD
+### Reinstalling PreMiD
 Ibland är det något fel med filerna... Handledningar för installationen finns [här](/install).
 
-### Manuell borttagning
+### Manual removal
 Windows:    `C:\Users\USER\AppData\Roaming\`` och ta bort mappen`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`och ta bort mappen`PreMiD``.
 
 ### McAfee upptäckte PreMiD som virus (Windows)
-Det här är ett falskt positivt resultat från McAfee och vi har rapporterat felet till de, just nu kan du exkludera PreMiD från skanningen genom att göra följande steg:
+This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
 > Om du inte känner dig säker på att ta dessa steg, tveka inte att skapa ett ärende i [#support](https://discord.premid.app/) och en av våra supportombud kommer att kunna hjälpa dig! 
 > 

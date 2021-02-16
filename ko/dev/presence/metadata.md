@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>설정</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -307,7 +307,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
-설정 값을 반환합니다.
+Returns value of setting.
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting

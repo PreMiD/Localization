@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-info}
 
-Verze `2.x` zavádí [obchod s přítomností](https://premid.app/store). Uživatelé mají nyní možnost ručně přidávat a odebírat své oblíbené přítomnosti prostřednictvím uživatelského rozhraní stránky [](https://premid.app/).
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
 > Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
@@ -21,7 +21,7 @@ Verze `2.x` zavádí [obchod s přítomností](https://premid.app/store). Uživa
 - [Pokyny](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Struktura
+# Structure
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
@@ -33,11 +33,11 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## Klonování projektu
 
-1. Otevřete terminál a napište `git clone https://github.com/PreMiD/Presences`.
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 2. Vyberte složku dle vašeho výběru.
 3. Otevřete ji ve svém editoru kódu.
 
-## Vytváření složek a souborů
+## Creating folders and files
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
@@ -47,7 +47,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## Vyplňování souboru tsconfig.json
 
-Do souboru `tsconfig.json` vložte následující kód.
+Please put the following code inside of the `tsconfig.json` file.
 
 ```typescript
 {
@@ -127,13 +127,13 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `přispěvatelé`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `nastavení`
 
 **Clarifying some value presets:**
 
@@ -148,24 +148,24 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left"><b>autor</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
-      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>Objekt</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>přispěvatelé</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Uživatele <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Pole&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b></td>
+      <td style="text-align:left"><b>služba</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
@@ -173,13 +173,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left">Be able to search the presence using an alternative name.<br>
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
-      <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Pole&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>popis</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
-      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>Objekt</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
@@ -204,36 +204,36 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>verze</b></td>
       <td style="text-align:left">Verze vaší přítomnosti.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Odkaz na službu&apos; s logotypem.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>thumbnail</b></td>
+      <td style="text-align:left"><b>náhled</b></td>
       <td style="text-align:left">Odkaz na náhled vašeho stavu.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b></td>
+      <td style="text-align:left"><b>barva</b></td>
       <td style="text-align:left"><code>#HEX</code> hodnota. We recommend to use a primary color of the service
         that your presence supports.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>štítky</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ne</code></td>
@@ -241,7 +241,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
@@ -253,20 +253,20 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Řetězec</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>nastavení</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Pole&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
   </tbody>

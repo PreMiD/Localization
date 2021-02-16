@@ -1,12 +1,12 @@
 ---
 title: فئة iFrame
 description:
-published: true
+published: صحيح
 date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# iFrame Class
+# فئة iFrame
 > نظام iframe مع PreMiD |قد يتعرض لمشاكل ويمكن أن يكون له سلوك غير متوقع، استخدمه بحذر. 
 > 
 > {.is-danger}

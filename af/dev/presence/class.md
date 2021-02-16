@@ -1,6 +1,6 @@
 ---
-title: Aanwesigheidsklas
-description: Die hoofklas vir elke PreMiD-teenwoordigheid
+title: Presence Class
+description: The main class for every PreMiD presence
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Aanwesigheidsklas
+# Presence Class
 
-## Inleiding
+## Introduction
 
-Die `Aanwesigheid` klas is baie handig, aangesien dit basiese metodes het wat ons benodig om 'n teenwoordigheid te skep.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-Wanneer u 'n klas skep, moet u dit spesifiseer `kliënt-Id` eiendom.
+When you create a class you must specify `clientId` property.
 
 ```typescript
 const presence = new Presence({
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Metodes
+## Methods
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Hierdie metode werk slegs op Mac OS. 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
@@ -270,7 +270,7 @@ Hierdie koppelvlak het die volgende veranderlikes, wat almal opsioneel is.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Veranderlik</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Beskrywing</th>
       <th style="text-align:left">Soort</th>
     </tr>
@@ -278,29 +278,30 @@ Hierdie koppelvlak het die volgende veranderlikes, wat almal opsioneel is.
   <tbody>
     <tr>
       <td style="text-align:left">besonderhede</td>
-      <td style="text-align:left">Die eerste reël in u teenwoordigheid, gewoonlik as koptekst gebruik.</td>
+      <td style="text-align:left">The first line in your presence, usually used as header.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Tweede reël in u teenwoordigheid.</td>
+      <td style="text-align:left">Second line in your presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Defines the current time.<br>
-        Word gebruik as u wil wys hoeveel <code>ure:minute:sekondes</code> links.
-          <br>U moet u tyd omskakel na <code>tydstempel</code> of jy sal verkeerd wees countdown.
+        Used if you want to display how much <code>hours:minutes:seconds</code> left.
+          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
+          countdown.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Definieer die volle duur.
-        <br>Word gebruik as u wil wys hoeveel <code>ure:minute:sekondes</code> links.
+      <td style="text-align:left">Defines the full duration.
+        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
           <br>You must convert your time to <code>timestamp</code> or you will get a wrong
           countdown.
       </td>
@@ -309,19 +310,20 @@ Hierdie koppelvlak het die volgende veranderlikes, wat almal opsioneel is.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Definieer die logo vir die teenwoordigheid.</td>
+      <td style="text-align:left">Defines the logo for the presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Definieer die klein ikoon langs die teenwoordigheid&apos;s logo.</td>
+      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Definieer die teks wat aan die gebruiker getoon sal word wanneer hy die klein bietjie sal hou ikoon.</td>
+      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
+        icon.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>

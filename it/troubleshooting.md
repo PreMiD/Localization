@@ -1,14 +1,14 @@
 ---
 title: Risoluzione problemi
-description: Tutto per risolvere il tuo problema
-published: true
+description: Everything to solve your problem
+published: vero
 date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Assicurati di avere l'estensione **e** l'applicazione installata! 
+> Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
 
@@ -90,7 +90,7 @@ Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) k
 Se hai scaricato Discord attraverso Snapcraft, RPC non funzionerà. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
 ### Arch Linux based distros
-Las distribuciones basadas en Arch Linux deben usar el paquete AUR (Arch User Repository) que se llama <code mark = "crwd-mark"> premid </code> o <code mark = "crwd-mark"> premid-git </code> ( <em x-id = "3" mark = "crwd-mark"> ADVERTENCIA: Este repositorio crea premid a partir de nuestro código fuente. </em>). Si no desea instalar un administrador AUR (yay, etc.), puede consultar nuestra AppImage que se puede descargar desde nuestro <strong x-id = "1" mark = "crwd-mark"> <a href = " https://github.com/premid/linux/releases">Repositorio de Linux </a> </strong>.
+Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
 <em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
 
 ### Port binding

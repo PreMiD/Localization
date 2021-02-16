@@ -1,51 +1,51 @@
 ---
-title: Kelas iFrame
+title: iFrame Class
 description:
 published: true
 date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# Kelas iFrame
-> Sistem iframe pada PreMiD kadang bermasalah dan dapat berperilaku tidak terduga, gunakan dengan hati-hati. 
+# iFrame Class
+> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
 ## Perkenalan
 
-Dalam beberapa skenario, presence Anda mungkin perlu mengakses elemen di dalam `iframes`.
+In some scenarios, your presence may need to access elements inside of `iframes`.
 
-Kode yang Anda tulis di dalam file `iframe.ts` Anda akan disuntikkan ke setiap iframe pada halaman.
+The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
-Seperti presence, `iframes` memiliki kelasnya tersendiri yang dirancang untuk memperbarui data secara otomatis.
+Like presences, `iframes` have their own classes designed to automatically update data.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Kode disini...
+    // Code goes here...
 });
 ```
 
 ## Metode
 
 ### `send(Object)`
-Mengirim data ke presence. Menggunakan metode ini akan membuat presence melemparkan acara `iFrameData`.
+Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl()`
-Mengembalikan URL `iframe`.
+Returns the URL of the `iframe`.
 
 ## Acara
-Di `iframes`, acara bekerja sama dengan cara kerjanya di kelas `presence`.
+In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Kode disini...
+    // Code goes here...
 });
 ```
 
-Berikut adalah daftar semua acara:
+Here is a list of all of the events:
 
 #### `UpdateData`
 
-Event ini akan diluncurkan setiap kali iframe diperbarui.
+This event is fired every time the iframe is being updated.

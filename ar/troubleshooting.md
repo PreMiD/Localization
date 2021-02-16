@@ -1,25 +1,25 @@
 ---
 title: إصلاح الاخطاء
 description: كل شيء لحل مشكلتك
-published: true
+published: صحيح
 date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> تأكد من أن لديك الملحق **و** التطبيق مثبتين! 
+> Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
 
-المدرجة في هذه الصفحة:
-1. [استكشاف الأخطاء وإصلاحها بشكل عام](https://docs.premid.app/troubleshooting#general)
-2. [استكشاف أخطاء Linux وإصلاحها](https://docs.premid.app/troubleshooting#linux)
-3. [استكشاف أخطاء MacOs وإصلاحها](https://docs.premid.app/troubleshooting#macos)
+Included on this page:
+1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
+2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
+3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# استكشاف الأخطاء وإصلاحها بشكل عام
+# General troubleshooting
 ### أعد تحميل الصفحة
 يمكنك الضغط على <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أيضا بدلا من البحث على زر التحديث.
 
@@ -46,7 +46,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 ### أعد تشغيل Discord
 إضغط على <kbd>CTRL+R</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أو أعد تشغيل دسكورد يدويا.
 
-### تحقق مما إذا كان برنامج مكافحة الفيروسات أو جدار الحماية مشتغل في الجهاز
+### Check if you have antivirus or firewall running on your computer
 في بعض الأحيان تمنع برامج مكافحة الفيروسات وجدران الحماية التطبيقات التي تصنع خوادم أو تستضيفها أو تتصل فقط بالإنترنت. نحن نستخدم خادم محلي لتلقي البيانات ونقلها بين تطبيقنا وملحقنا، لذلك إذا كنت ستمنع قدرة التطبيق على نقل البيانات فلن تتمكن على الأرجح من استخدام PreMiD.
 
 ### قم تعطيل الإضافات الخاصة بك
@@ -63,9 +63,9 @@ dateCreated: 2020-06-11T18:03:54.865Z
 MacOS: `~/users/USER/~Library/Application Support/` وإحذف الملف `PreMiD``.
 
 ### تم تحديد PreMiD على إنه فيروس من قبل McAfee (ويندوز)
-هذا إبلاغ كذب من McAfee ونحن قمنا بتبليغهم بهذه المسألة، في الوقت الحالي يمكنك استبعاد PreMiD من الفحص عن طريق الخطوات التالية:
+This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
-> وإذا لم تكن واثق من اتخاذ هذه الخطوات، لا تتردد في فتح تذكرة في [#support](https://discord.premid.app/) وسيكون أحد عملاء الدعم لدينا قادرا على مساعدتك! 
+> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
 > 
 > {.is-warning}
 

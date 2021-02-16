@@ -1,7 +1,7 @@
 ---
 title: API
-description: Accedi alle fonti ed esegui azioni usando l'API di PreMiD
-published: true
+description: Access resources and perform actions using the PreMiD API
+published: vero
 date: 2021-02-01T12:36:44.713Z
 tags:
 editor: markdown

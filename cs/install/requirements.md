@@ -1,6 +1,6 @@
 ---
 title: Požadavky
-description: Předpoklady k instalaci PreMiD
+description: Prerequisites to install PreMiD
 published: true
 date: 2021-01-17T22:43:28.543Z
 tags:
@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
-# Systémové požadavky
+# System Requirements
 
-> Tyto údaje se týkají pouze žádosti. 
+> This data relate to the application only. 
 > 
 > {.is-info}
 
-PreMiD běží prakticky na libovolném systému. To znamená, že běží na **Linuxu**, **macOS**, **Windows** a některých **úpravách Linuxu**.
+PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
 ### CPU
-PreMiD běží naprosto v pořádku na jednom jádru CPU.
+PreMiD runs perfectly fine on a single CPU core.
 
 ### RAM
 Linux by měl mít **alespoň 20MB RAM** , aby mohl spustit PreMiD. Windows a macOS systémy obvykle vyžadují trochu více RAM.
 
 ### Úložiště
-PreMiD zabírá přibližně **150 MB** fyzického úložiště. Doporučuje se však alespoň **200 MB** úložiště určeného pro PreMiD.
+PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
 ### Přístup k internetu
-A internet connection is required to run PreMiD. PreMiD bude automaticky kontrolovat nové aktualizace, jazyky, aktualizace Presence atd. čas od času do času.
+A internet connection is required to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

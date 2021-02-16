@@ -83,13 +83,13 @@ An example of that file can be found below.
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 <code>name</code>はあなたのDiscordタグから識別子(#0000)を取ったもので、 <code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 <code>name</code> is your Discord username without the identifier(#0000). <code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>不可</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">プレゼンスの開発者の<code>name</code>と、ユーザーの<code>id</code>をObjectに含む必要があります。 <code>name</code>はあなたのDiscordタグから識別子(#0000)を取ったもので、 ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). ユーザーの<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできます。</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>可</code></td>
     </tr>
@@ -182,7 +182,7 @@ An example of that file can be found below.
       <td style="text-align:left"><code>可</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>設定</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>可</code></td>
@@ -304,7 +304,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
-設定の値を返します。
+Returns value of setting.
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting

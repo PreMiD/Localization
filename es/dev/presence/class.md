@@ -304,7 +304,7 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
         <br>Utilizado si deseas mostrar cuantas <code>horas:minutos:segundos</code> quedan.
           <br>Debes convertir la marca de tiempo a <code>timestamp</code> u obtendrás una cuenta atrás errónea.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>

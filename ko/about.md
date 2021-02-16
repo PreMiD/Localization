@@ -1,6 +1,6 @@
 ---
-title: PreMiD에 대하여
-description: PreMiD의 주요 기능들.
+title: About PreMiD
+description: The core features of PreMiD
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:

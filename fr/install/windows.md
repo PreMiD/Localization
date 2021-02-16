@@ -1,7 +1,7 @@
 ---
 title: Windows
 description: Installation de l'application PreMiD sur Windows
-published: true
+published: oui
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---

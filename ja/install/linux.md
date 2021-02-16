@@ -14,30 +14,30 @@ dateCreated: 2020-06-11T18:04:14.124Z
 > 
 > {.is-warning}
 
-## 目次
+## Table of Contents
 
 - **[概要](#about)**
   - [Stats](#stats)
-  - [Requirements](#requirements)
-  - 例(作成中)
-  - よくある質問(作成中)
+  - [必要条件](#requirements)
+  - Examples (soon)
+  - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [Credits](#credits)
-  - [ライセンス](#license)
-- **[Snapcraft](#snapcraft)** (要約:_ない_)
+  - [貢献者](#credits)
+  - [License](#license)
+- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [インストール手順](#appimageinstall)
-  - [その他のメモ](#appimagenotes)
+  - [Installation instructions](#appimageinstall)
+  - [Additional notes](#appimagenotes)
 - [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
 - [**Debian and Ubuntu based distributions**](#packagecloud)
 - [**Arch Linuzをベースにしたディストリビューション**](#arch)
 
 <a name="about"></a>
 
-## About
+## 概要
 
-**PreMiD**はDiscordのRP ( Rich Presence ) 機能を使用したシンプルで設定可能なユーティリティで、あなたのDiscordプロフィールに**プレイ中の状態**としてウェブ上で何をしているか（そしていくつかのプログラム）を表示することができます。
+**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
 <a name="stats"></a>
 
@@ -46,8 +46,8 @@ dateCreated: 2020-06-11T18:04:14.124Z
 <table>
   <tr>
     <th>Deployment</th>
-    <th>累計ダウンロード数</th>
-    <th>最新のリリース</th>
+    <th>Total downloads</th>
+    <th>Latest release</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
@@ -58,7 +58,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="requirements"></a>
 
-### Requirements
+### 必要条件
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -74,25 +74,25 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Discordに参加する!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Discordに参加する!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### 貢献者
 
-クレジット:
+Thanks to :
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (それとちょっとの名前を忘れてしまった人) /フィードバックを提供してくれました。
 - @apriluwu /Gentoo buildを維持してくれてます。
-- @SlimShadyIAm, naka /ArchユーザーのResipotoryのパッケージをメンテナンスしてました。
+- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
 - Erectron community /パッケージを作るのに協力してくれました。
 - あとプロジェクトに関わってくれた人全員。
 
 <a name="license"></a>
 
-### ライセンス
+### License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -146,7 +146,7 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Arch Linuzをベースにしたディストリビューション
 
 Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
@@ -155,7 +155,7 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 ### Installation instructions
 
 ```bash
-# Using yay (推奨)
+# Using yay (recommended)
 yay -S premid
 ```
 

@@ -1,6 +1,6 @@
 ---
 title: Pokyny
-description: Pravidla, která musí všichni vývojáři dodržovat, aby byla jejich presence přidána.
+description: Rules all presence developers must follow to have their presence added.
 published: true
 date: 2020-12-29T02:18:29.846Z
 tags:
@@ -8,23 +8,23 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Guidelines
+# Pokyny
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Některým se tato přísná pravidla mohou zdát přísná, However, the implementation of these rule sets will keep us and our users from running into issues.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # Vytváření
 
-Základní pravidla vyvíjení presence jsou následující:
+The general rules of presence development are as follows:
 
-- Presence se **musí** vztahovat k vybranému webu.
-- Presence **nesmí** být vytvářena pro nelegální weby (například stresory, obchod s drogami, dětská pornografie a podobně...).
-- Struktura souboru musí být čistá a udržována. Nepřikládejte soubory, které nejsou specifikovány (například vscode a git složky, obrázky, textové soubory a podobně).
-- Musíte mít řádnou strukturu souboru, koncepty **nejsou** povoleny.
-- Presence pro webové stránky s TLD `.onion` nebo stránky s doménou/hostingem zdarma (například `.TK` (Všechny Freenom domény), `.RF`, `.GD`) **není povolena**, ale mohou být uděleny výjimky, pokud bude poskytnut důkaz že za doménu bylo zaplaceno.
-- Doména Presence musí být nejméně 2 měsíce stará
+- Presences **must** be related to the website of choice.
+- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
+- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
+- You need to have a proper file structure, drafts are **not** allowed.
+- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
+- The domain of the presence must be at least 2 months old.
 - Presence, které cílí na interní stránky prohlížeče (jako je internetový obchod Chrome, stránky `chrome://`, stránky `about:` a podobně...) **nejsou** povoleny, jelikož po uživatelovi vyžadují aktivování zkušebních funkcí a mohli by potencionálně způsobit škodu na jejich prohlížečích.
 - Presence podporující jedinou subdoménu **nebudou** povoleny, jelikož se na ostatních stránkách (například na domovské stránce) mohou zdát rozbité. Mohou být uděleny výjimky pro stránky s kontakty nebo se zásadami o ochraně osobních údajů (obsah, který není často využíván), či pro stránky, jejž obsah je nepodstatný (například wikia stránky).
-- Presence pro online rádio je povolená pouze, když má 100 týdeních posluchačů a minimálně 15 v jeden moment současně
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
 - Presence nízké kvality (nebo ty s nedostatečným obsahem) **nejsou** povoleny (například zobrazení loga a textu bez další změny).
 - Zahrnutí složky `dist` a souborů `presence.ts`, `iframe.ts` a `metadata.json` je povinné a rozvržení souborů musí odpovídat následujícímu schématu:
 
@@ -37,7 +37,7 @@ presence
 └── tsconfig.json
 ```
 
-nebo pokud používáte soubor `iframe.ts`:
+or if you're using a `iframe.ts` file:
 
 ```bash
 presence
@@ -52,19 +52,19 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
 
-> Pro pohodlí našich vývojářů presencí jsme poskytli schéma, které mohou použít pro kontrolu integrity souboru `metadata`. Tento krok je zcela dobrovolný a není vyžadován během procesu kontroly. 
+> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process. 
 > 
 > {.is-info}
 
-> Je důrazně doporučeno zorganizovat Váš `metadata` soubor dle níže zobrazeného vzoru. Pole s jménem služby, popisky, tagy a pole s nastavením musí být bez gramatických chyb. Cokoliv co nebude zorganizováno dle specifikací **nebude** povoleno. 
+> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted. 
 > 
 > {.is-warning}
 
-> Presence webových stránek s explicitním obsahem **musí** mít tag `nsfw` a logo/thumbnail **nesmí** zobrazovat obsah těchto stránek. 
+> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content. 
 > 
 > {.is-warning}
 
-Každá presence má soubor `metadata.json` s popiskami. Tyto metadata mají striktní formát, který nalznete níže:
+Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
 
 ```json
 {
@@ -122,109 +122,109 @@ Každá presence má soubor `metadata.json` s popiskami. Tyto metadata mají str
 }
 ```
 
-> Pokud je pole v [dokumentaci](https://docs.premid.app/en/dev/presence/metadata) označeno jako nepovinné a Vaše presence pro něj využívá výchozí hodnotu, nezahrnujte ho do souboru `metadata` (například presence s podporou iframe nepotřebuje pole `iframe`). 
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.) 
 > 
 > {.is-warning}
 
-> Všechny obrázky v souboru `metadata` musí být nahrány na hostingu `i.imgur.com`. Využívání obsahu z webových stránek **není** povoleno, jelikož tyto stránky mohou měnit cesty k těmto souborům a soubory samotné. 
+> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
 > 
 > {.is-warning}
 
-Seznam polí a jejich pravidla jsou uvedena níže:
+A list of fields and their rules are listed below:
 
 ### **`$schema`**
 
-- _Klíč_ schema **musí** obsahovat znak dolaru na jeho začátku. Tento znak naznačí Vašemu textovému editoru, že se snažíte ověřit Váš JSON soubor oproti modelu. _Jak bylo již dříve zmíněno, schema nemusíte zahrnovat. Pokud ho ale zahrnete, musíte toto brát v potaz._
+- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`author`**
+### **`autor`**
 
-- _Hodnota_ ID **musí** být Vaše Discord snowflake ID. Můžete ho získat aktivováním [developer módu](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Prosím, **nepleťte** si toto s ID Vaší aplikace, které je pouze pro Vaší presenci._
+- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`contributors`**
+### **`přispěvatelé`**
 
-- **Nepřidávejte** sebe jako contributora. **Nepřidávejte** jako contributora někoho, kdo s vývojem presence nepomáhal.
+- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
-### **`service`**
+### **`služba`**
 
-- Jméno služby **musí** být jménem složky presence. Například, pokud je presence umístěna ve složce `/websites/Y/YouTube/`, jméno služby musí také být `YouTube`.
-- URL **nemůžete** použít jako název služby, dokud služba nevyužívá její URL jakož oficiální název. Pokud jméno není dostatečně deskriptivní a může být považováno jako vágní, je **zapotřebí** použít URL (například, `YouTube` je povoleno, protože je to oficiální jméno a je deskriptivní, zatímco `youtube.com` není. `Top` není deskriptivní jméno, takže je **nutné** použít URL `top.gg`
+- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
+- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
 
 ### **`altnames`**
 
-- Toto používejte **pouze** v případě, pokud stránka využívá více oficiálních jmen (například Pokémon a 포켓몬스터), nebo pokud to umožňuje snazší vyhledání presence bez speciálních znaků (například Pokémon a Pokemon). *Zkrácená* jména služby patří pod `tags`.
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`description`**
+### **`popis`**
 
-- **Všechny** presence **musí** mít anglický popis, nehledě na jazyk webové stránky.
-- **Nesnažte** se popisek překládat sami, dokud daný jazyk neovládáte. Pokud to bude nutné, překladatelé upraví Váš `metadata.json` soubor a změní popisek sami.
+- **All** presences are **required** to have an English description regardless of the website's prefered language.
+- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
 
 ### **`url`**
 
-- Pokud webová stránka používá pouze jednu doménu, URL **musí** být řetězec. Pokud webová stránka využívá více domén, řetězec změňte na pole a vypište každou doménu.
-- **Nezahrnujte** protokoly do URL (například `http` nebo `https`) a do URL nezahrnujte parametry dotazu (například, `www.google.com/search?gws_rd=ssl` by mělo být `www.google.com`)
+- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`version`**
+### **`verze`**
 
-- Vždy se ujistěte že číslo verze je dle [sémantického standartu verzování](https://semver.org), které se řídí následujícím schématem: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Cokoli jiného jako `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA`nebo změna `1.0.0` na `2.0.0` při opravě malé chyby/malé změny **není** povoleno.
-- Verzování **musí** vždy začínat s verzí `1.0.0`, dokud nebylo řečeno jinak. Jiné verzování **nebude** povoleno.
+- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
+- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
 
 ### **`logo`**
 
-- Logo **musí** být čtvercový obrázek s poměrem stran `1:1`.
-- Obrázek **musí** mít minimální rozlišení `512x512` pixelů. Obrázek může zvětšit pomocí nástroje jako je [waifu2x](http://waifu2x.udp.jp/).
+- The logo **must** be a square image with a `1:1` aspect ratio.
+- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
-### **`thumbnail`**
+### **`náhled`**
 
-- Thumbnail by **měl** být jako [široká promo karta](https://i.imgur.com/3QfIc5v.jpg) nebo [snímek obrazovky](https://i.imgur.com/OAcBmwW.png), pokud to první **není** dostupné.
+- The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
 
-### **`color`**
+### **`barva`**
 
-- Barva **musí** být hexadecimální hodnota mezi `#000000` a `#FFFFFF`.
-- Řetezec s barvou **musí** být předsazen hash symbolem.
+- The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
+- The color string **must** be prepended with a hash symbol.
 
-### **`tags`**
+### **`štítky`**
 
-- **Všechny** presence musí mít alespoň _jeden_ tag.
-- Tagy **nesmí** obsahovat žádné mezery, lomítka, uvozovky, Unicode znaky a měli by vždy být napsány s malými písmeny.
-- Tagy by **měli** obsahovat alternativní jména služby, aby bylo presence snazší dohledat (Například, pokud presence Amazonu má podporu AWS, měla by mít tagy jako `amazon-web-services` a `aws`).
-- ProMáte **povinnost** zahrnout `NSFW` tag, pokud presence je pro NSFW stránku.
+- **All** presences are required to have at least _one_ tag.
+- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+- Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
+- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
 
 ### **`category`**
 
-- Kategorie **musí** být jedna ze seznamu v [dokumentaci](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
-- Presence musí používat kategorii, která se shoduje s obsahem webové stránky (Například, nepoužívejte `anime` pokud stránka nemá s anime nic společného).
+- The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
 
 ### **`regExp`** <br /> **`iFrameRegExp`**
 
-- Regulární výrazy **musí** být platné. Prosím, otestuje Vaše výrazy s nástroji, které jsou sepsané v [dokumentaci](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`nastavení`**
 
-- Pokud se rozhodnete vytvořit formátovaný řetězec (například `%song% od %artist%`), musíte proměnné obalit s značkou procenta na obou stranách. Proměnné jako `%var`, `var%` nebo `%%var%%` a podobné **nejsou** povoleny z důvodu standardizace.
-- Jména nastavení **nesmí** být napsána velkými písmeny. Například, jména jako `SHOW BROWSING STATUS` **nejsou** povolena, ale jména jako `Show Browsing Status` nebo `Show browsing status` povolena jsou.
+- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
+- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 - Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
 
 ## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
 
-> Kód, který napíšete, **musí** být _přehledný_, _čitelný_ a všechny řetězce musí být gramaticky správně (gramatické chyby na webových stránkách mohou být ignorovány). 
+> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
 > 
 > {.is-warning}
 
-> Každá Presence se řídí přísnými pravidly, které se budou kontrolovat během procesu ověřování Presence Několik doporučení můžete vidět dole - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
+> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
-Zde je seznam pravidel, která musíte při psaní Vašeho souboru `presence.ts` dodržet:
+Here is a list of rules you must follow when writing your `presence.ts` file:
 
-- Pro předejitím vzácným chybám **vždy** před deklarováním jiných proměnných deklarujte novou instanci `Presence` třídy. Toto není vyžadováno designem, takže to v budoucnu můžete odstranit.
-- **Nikdy** nepoužívejte vlastní funkce, pokud [jsou dostupné jejich nativní varianty](https://docs.premid.app/dev/presence#files-explained). Tímto se ujišťuje, že změny v rozšíření se budou aplikovat i na Vaší presenci. Můžete používat cokoli jiného potřebujete, dokud to nenajdete v dokumentaci.
-- Je **zakázáno** programovat presenci pro stránku a nepřidat podporu pro její primární jazyk (například, programovat YouTube presenci s podporou Portugalštiny a Japonštiny ale ne Angličtiny samotné).
-- Pole `smallImageKey` a `smallImageText` jsou zamýšlena pro poskytování dodatečného/sekundárního obsahu (jako je `přehrávání/pauza` pro webové stránky, `prohlížení` pro normální stránky a ostatní), ne pro reklamování Discord profilů nebo cokoli jiného, co nesouvicí s PreMiD.
-- **Nemáte** povoleno přistupovat k `localStorage`.
-- Při přistupování k souborům cookie pro uložená data prosím přidejte ke klíči předponu `PMD_`.
-- Pro `premid.app` nebo pro API webu presence můžete využívat pouze HTTP/HTTPS požadavky. Při používání externích domén budete muset vysvětlit proč.
-- Po deklaraci data objectu presence **nenastavujte** pole v data objectu presence na undefined, namísto toho použijte klíčové slovo `delete` (například, namísto použití `data.startTimestamp = undefined` použijte `delete data.startTimestamp`).
-- Je **zakázáno** programování presence, která mění funkčnost dané webové stránky. Toto se vztahuje na přidání, smazání nebo modifikování DOM prvků.
+- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
+- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
+- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+- You are **not** allowed to access `localStorage`.
+- When accessing cookies for stored data, please prefix the key with `PMD_`.
+- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
 ## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
 
@@ -232,7 +232,7 @@ Zde je seznam pravidel, která musíte při psaní Vašeho souboru `presence.ts`
 > 
 > {.is-warning}
 
-# Úpravy
+# Modification
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
 > 
@@ -244,9 +244,9 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.   - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
 -  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Ověření
+# Verification
 
-> **Všechen** napsaný kód bude zalicencován pod licencí `Mozilla Public License 2.0` 
+> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
 > 
 > {.is-info}
 
@@ -308,7 +308,7 @@ Currently, a presence goes through 2 separate stages of checks. All of these che
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Příspěvky
+# Contributions
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 

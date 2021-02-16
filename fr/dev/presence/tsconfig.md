@@ -1,7 +1,7 @@
 ---
 title: Configuration TypeScript
 description: Un peu d'aide pour TypeScript
-published: true
+published: oui
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
@@ -36,12 +36,12 @@ Dans le fichier de configuration racine, vous verrez quelque chose comme ça.
 }
 ```
 
-| Propriété                       | Description                                                                                                                                                                                          |
+| Property                        | Description                                                                                                                                                                                          |
 |:------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**             | Utilisé pour configurer le compilateur, la plupart des propriétés se trouvent ici.                                                                                                                   |
 | module                          | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                             |
 | target                          | Définit la version JavaScript que vous compilez.                                                                                                                                                     |
-| Supprimer les commentaires      | Suppression des commentaires des fichiers compilés.                                                                                                                                                  |
+| removeComments                  | Suppression des commentaires des fichiers compilés.                                                                                                                                                  |
 | noEmitOnError                   | Ne pas émettre de sorties si des erreurs ont été signalées.                                                                                                                                          |
 | pas de casse dans les cassettes | Signaler les erreurs pour les cas de repli dans l'instruction switch.                                                                                                                                |
 | noUnusedLocals                  | Signaler des erreurs sur les locales inutilisées.                                                                                                                                                    |
@@ -63,6 +63,6 @@ Dans le fichier de configuration racine, vous verrez quelque chose comme ça.
 
 | Propriétés          | Description                                                                                                |
 |:------------------- |:---------------------------------------------------------------------------------------------------------- |
-| **Étendre**         | Utilisé pour étendre le fichier de base `tsconfig` pour diverses tâches.                                   |
+| **extends**         | Utilisé pour étendre le fichier de base `tsconfig` pour diverses tâches.                                   |
 | **compilerOptions** | Voir [**Configuration de la racine**](/dev/presence/tsconfig#root-configuration) pour plus d'informations. |
 | outDir              | Définit le répertoire de sortie des fichiers compilés.                                                     |

@@ -1,6 +1,6 @@
 ---
-title: Avaleht
-description: Ametlik dokumentatsioon
+title: Home
+description: Official Documentation for v2
 published: true
 date: 2020-08-29T21:41:40.722Z
 tags:
@@ -23,7 +23,7 @@ PreMiD is quick and easy to install. You should be up and running in no time.
 - Follow the quick and simple [installation guide](/install).
 - [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
 
-# Developers
+# Arendajad
 
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 

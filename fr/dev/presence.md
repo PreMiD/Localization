@@ -1,7 +1,7 @@
 ---
 title: Développement de la presence
 description:
-published: true
+published: oui
 date: 2021-02-07T17:11:34.449Z
 tags:
 editor: markdown
@@ -127,13 +127,13 @@ Nous avons fait un créateur de fichier `metadata.json` pour les paresseux [ici]
 
 Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json`. Vous devez maintenant modifier les valeurs des propriétés. Veuillez noter que les propriétés suivantes sont optionnelles à avoir dans vos métadonnées `. son` fichier, si vous ne prévoyez pas de les utiliser, vous devez les supprimer.
 
-- `contributors`
+- `contributeurs`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `réglages`
 
 **Clarification de certaines valeurs prédéfinies :**
 
@@ -148,21 +148,21 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left"><b>auteur</b></td>
       <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>contributeurs</b></td>
       <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>service</b></td>
+      <td style="text-align:left"><b>Service</b></td>
       <td style="text-align:left">Le titre du service que cette présence supporte.<br>
       (Doit être du même nom que le dossier où tout se trouve)</td>
       <td style="text-align:left"><code>String</code></td>
@@ -183,7 +183,7 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>url</b></td>
+      <td style="text-align:left"><b>Url</b></td>
       <td style="text-align:left">URL du service.<br><b>Exemple :</b><code>vk.com</code><br>
         <b>Cette URL doit correspondre à l'URL du site car elle détectera si oui ou non c'est le site Web auquel il faut injecter le script.</b><br> 
 <b>Ne pas</b> ajouter <code>https://</code> ou <code>http://</code> à l'intérieur de l'URL ni un slash à la fin :
@@ -192,7 +192,7 @@ Veuillez copier le code ci-dessus et le mettre dans votre fichier `metadata.json
       Vous pouvez ajouter plusieurs URL en faisant ce qui suit :<br>
       <code>["URL1", "URL2", "ETC. ]</code><br>
       Vous pouvez également utiliser regExp aussi connu sous le nom de Regex pour cette tâche, expliqué plus loin ci-dessous.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
@@ -215,7 +215,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>logo</b></td>
+      <td style="text-align:left"><b>Logo</b></td>
       <td style="text-align:left">Lien vers le logo du service.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Non</code></td>
@@ -227,7 +227,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>color</b></td>
+      <td style="text-align:left"><b>couleur</b></td>
       <td style="text-align:left">Valeur <code>#HEX</code>. Nous vous recommandons d'utiliser une des couleur primaire du service
         que votre presence supporte.</td>
       <td style="text-align:left"><code>String</code></td>
@@ -236,11 +236,11 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
     <tr>
       <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Tableau avec des tags, ils aideront les utilisateurs à rechercher votre presence sur le site Web.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left"><b>Catégorie</b></td>
       <td style="text-align:left">Une chaîne utilisée pour représenter la catégorie à laquelle appartient la presence. Voir les catergories valides <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">ici</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Non</code></td>
@@ -264,7 +264,7 @@ regExp ou aussi connu sous le nom de Regex, peut être utilisé si un site Web a
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>réglages</b></td>
       <td style="text-align:left">Un tableau de paramètres que l'utilisateur peut modifier.<br>
       En savoir plus sur les paramètres de présence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">ici</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

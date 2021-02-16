@@ -1,6 +1,6 @@
 ---
 title: 요구사항
-description: PreMiD 를 설치하기 위한 조건
+description: Prerequisites to install PreMiD
 published: true
 date: 2021-01-17T22:43:28.543Z
 tags:

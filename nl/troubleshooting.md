@@ -98,7 +98,7 @@ Je moet weten dat <strong x-id="1">PreMiD</strong> zichzelf bindt aan de poort <
 
 ### PreMiDs AppImage start niet bij het inloggen
 Zoals we hebben aangegeven in onze **Linux-repository**, kan AppImage niet gestart worden tijdens het inloggen. Je kunt deze zelf toevoegen aan autostart door deze stappen te volgen:
-1. Maak een bestand genaamd <strong x-id="1">rc.local</strong> in de <code>/etc</code> map.
+1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
 2. Open dit bestand in je favoriete editor en plak de gegeven code en verander enkele dingen:
 ```bash
 #!/bin/bash

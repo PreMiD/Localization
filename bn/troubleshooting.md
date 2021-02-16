@@ -41,7 +41,7 @@ To solve this, all you have to do is toggle the topmost setting: ![presencesetti
 <kbd>Alt</kbd>+<kbd>F4</kbd> (উইন্ডোজ) অথবা <kbd>CMD</kbd>+<kbd>Q</kbd> (ম্যাকওএস) এও ভালো কাজ করে। (অবশ্য তোমাকে আবার তোমার ব্রাউজার স্টার্ট করতে হবে।)
 
 ### PreMiD (অ্যাপ্লিকেশান) রিস্টার্ট করো
-![quit.png](/quit.png) তোমাকে পরে PreMiD রিস্টার্ট করতে হবে।
+![quit.png](/quit.png) You have to restart PreMiD afterwards.
 
 ### Discord রিস্টার্ট করো
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.

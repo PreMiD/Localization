@@ -46,7 +46,7 @@ When setting `appMode` to `true` and the presence were to send an empty `Presenc
 
 
 
-## שיטות
+## Methods
 
 
 
@@ -76,7 +76,7 @@ Clears your current activity and the tray title.
 
 
 
-> שיטה זו פועלת רק ב- Mac OS. 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 

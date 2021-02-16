@@ -1,24 +1,24 @@
 ---
 title: Chromium
-description: PreMiD-asennuksen aloittaminen Chromium-pohjaisilla selaimilla
+description: Getting started with a PreMiD installation on Chromium-based browsers
 published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-Laajennuksen asentaminen on erittäin tärkeää, koska sovellus ei voi tehdä mitään itsenään.
+The installation of the extension is very important as the application can not do anything by itself.
 
 # Asenna
-### Chrome, Edge, jne.
-1. Mene meidän lataus sivulle [klikkaamalla tästä](https://premid.app/downloads).
-2. Valitse **Chromium**.
-3. Paina **Lisää Chromeen**.
+### Chrome, Edge, etc.
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+2. Choose **Chromium**.
+3. Click on **Add to Chrome**.
 
 ### Opera
-1. Lisää **[Asenna Chrome Laajennukset](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Lisää [laajennuksemme](https://premid.app/downloads).
+1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. Add [our extension](https://premid.app/downloads).
 
-> Älä unohda [lisätä ****sovellusta](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 

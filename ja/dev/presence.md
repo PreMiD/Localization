@@ -12,18 +12,18 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-info}
 
-バージョン`2.x`で[プレゼンスストア](https://premid.app/store)が追加されました。 [サイトから](https://premid.app/)好きなプレゼンスを入れたり、お気に入りのプレゼンスを追加できます。
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> 始める前に、プレゼンスガイドラインを見ることをおすすめします。 
+> Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
 > {.is-warning}
 
-- [プレゼンスガイドライン](https://docs.premid.app/dev/presence/guidelines)
+- [ガイドライン](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# 構造
+# Structure
 
-すべてのプレゼンスは[TypeScript](https://www.typescriptlang.org/)で書かれています。 [TypeScript](https://www.typescriptlang.org/) はJavascriptよりちょっといい感じの定義を使用しているので、バグを見つけたり修正したりするのが簡単です。
+All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## インストール
 
@@ -35,7 +35,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 1. ターミナルを開き `git clone https://github.com/PreMiD/Presences` と入力する
 2. 任意のフォルダーを選択する
-3. ソースコードエディタで開く
+3. Open it in your code editor.
 
 ## フォルダーとファイルを作成する
 
@@ -133,7 +133,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `設定`
 
 **一部の値の内容を説明します:**
 
@@ -149,13 +149,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 <code>name</code> is your Discord username without the identifier(#0000). ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). <code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>不可</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 <code>name</code> is your Discord username without the identifier(#0000). ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). <code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>可</code></td>
     </tr>
@@ -260,7 +260,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>可</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>設定</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

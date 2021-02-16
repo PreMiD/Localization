@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>innstillinger</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### Cloning the project
+##### Lukker prosjektet
 
 1. Åpne en terminal og skriv `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Velg en mappe for ditt valg.
+3. Åpne i kodeeditoren din.
 
 ##### Creating the file
 

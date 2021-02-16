@@ -1,6 +1,6 @@
 ---
-title: Zahtjevi
-description: Preduvjeti za instaliranje PreMiD-a
+title: Requirements
+description: Prerequisites to install PreMiD
 published: true
 date: 2021-01-17T22:43:28.543Z
 tags:
@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
-# Zahtjevi Sustava
+# System Requirements
 
-> Ovi podaci odnose se samo na program. 
+> This data relate to the application only. 
 > 
 > {.is-info}
 
-PreMiD radi na gotovo svim sustavima. To znači da radi na **Linux-u**, **macOS-u**, **Windows-u** i na nekim **Modifikacijama Linux-a**.
+PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
 ### CPU
-PreMiD savršeno radi na procesorima koji imaju jednu jezgru.
+PreMiD runs perfectly fine on a single CPU core.
 
 ### RAM
-Linux sistemi trebaju **najmanje 20MB ram-a** da pokrenu PreMiD. Windows i macOS sistemi obično <br> trebaju mala više RAM-a.
+Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
 
-### Prostor za pohranu
-PreMiD zauzima oko **150MB** prostora. Međutim **200MB** prostora je preporučeno za pokretanje PreMiD-a.
+### Storage
+PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
-### Pristup Internetu
-A internet connection is required to run PreMiD. PreMiD automatski provjera ima li novih ažuriranja, jezika, ažuriranje Presence-a, itd. s vremena na vrijeme.
+### Internet Access
+A internet connection is required to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

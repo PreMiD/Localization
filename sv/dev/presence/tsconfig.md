@@ -1,23 +1,23 @@
 ---
 title: TypeScript Configuration
-description: Lite hjälpare för TypeScript
+description: A little helper for TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
 ---
 
-# Konfiguration av typskript
+# TypeScript Configuration
 
 ## Introduction
 
-När du laddade ner och packade upp arbetsytan, kommer du att se en fil som heter `tsconfig. s` i rot- och närvaromappar, denna fil används för att konfigurera kompilatorn **TypeScript**. Det är redan konfigurerat för dig, så oroa dig inte för det.
+When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
-Vi vill bara beskriva vissa inställningar som du bör veta.
+We just want to describe some settings that you should know.
 
-## Root konfiguration
+## Root Configuration
 
-I rotkonfigurationsfilen ser du något liknande.
+In the root configuration file you will see something like this.
 
 ```javascript
 {
@@ -36,12 +36,12 @@ I rotkonfigurationsfilen ser du något liknande.
 }
 ```
 
-| Egenskap                   | Beskrivning                                                                                                                                                         |
+| Property                   | Beskrivning                                                                                                                                                         |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Används för att konfigurera kompilatorn, de flesta av fastigheterna finns här.                                                                                      |
-| modul                      | Du kan läsa mer om det [här](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                            |
-| target                     | Definierar den JavaScript-version som du kompilerar.                                                                                                                |
-| ta bortKommentarer         | Tar bort kommentarer från kompilerade filer.                                                                                                                        |
+| **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
+| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
+| target                     | Defines the JavaScript version you are compiling.                                                                                                                   |
+| removeComments             | Removing comments from compiled files.                                                                                                                              |
 | noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
 | noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
@@ -50,7 +50,7 @@ I rotkonfigurationsfilen ser du något liknande.
 | typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
-## Konfiguration av Presence
+## Presence Configuration
 
 ```javascript
 {
@@ -61,8 +61,8 @@ I rotkonfigurationsfilen ser du något liknande.
 }
 ```
 
-| Property            | Beskrivning                                                                                   |
-|:------------------- |:--------------------------------------------------------------------------------------------- |
-| **utökningar**      | Används för att utöka databasen `tsconfig` -filen för olika uppgifter.                        |
-| **compilerOptions** | Se [**Root-konfigurationen**](/dev/presence/tsconfig#root-configuration) för mer information. |
-| outDir              | Definierar utdatakatalog för kompilerade filer.                                               |
+| Property            | Beskrivning                                                                            |
+|:------------------- |:-------------------------------------------------------------------------------------- |
+| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
+| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
+| outDir              | Defines the output directory for compiled files.                                       |

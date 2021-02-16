@@ -16,7 +16,7 @@ The installation of the application is very important as the extension can not d
 
 ## Table of Contents
 
-- **[Info](#about)**
+- **[About](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
   - Examples (soon)

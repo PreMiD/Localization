@@ -1,6 +1,6 @@
 ---
 title: macOS
-description: Začínáme s instalací PreMiD na macOS
+description: Getting started with a PreMiD installation on macOS
 published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
@@ -14,15 +14,15 @@ The installation of the application is very important as the extension can not d
 
 # Instalace
 1. Jděte na naši stránku ke stažení [kliknutím zde](https://premid.app/downloads).
-2. Vyberte **OS X**.
-3. V případě potřeby rozbalte archiv.
-4. Otevřete instalační program.
-5. **bezpečnostní upozornění** se objeví, pokud nainstalujete PreMiD poprvé. Přejděte do nastavení **** > **Zabezpečení** > **Generál** > **Otevřete každopádně**. [Více informací](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) o nepodepsaných aplikacích.
-> Důvodem je, že nemáme certifikát pro podpis kódu (CSC). [Podpořte nás](https://www.patreon.com/Timeraa) k jeho financování.{.is-info}
-6. Po výzvě vyberte otevřený soubor.
-7. Povolit přístup k připojení prostřednictvím **Firewall** a ovládat **Systémové události** , když je k tomu vyzván.
+2. Choose **OS X**.
+3. Extract the archive if necessary.
+4. Open the installer.
+5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
+> Důvodem je, že nemáme certifikát pro podpis kódu (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+6. Choose open when prompted.
+7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-Aplikace se spustí automaticky. Zkontrolujte symbol ve Vašem panelu nabídek.
+Aplikace se spustí automaticky. Check for the symbol in your menu bar.
 
 > Nezapomeňte [přidat **rozšíření**](/install). 
 > 

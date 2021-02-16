@@ -1,6 +1,6 @@
 ---
 title: Hibaelhárítás
-description: Minden ami megoldja a problémát
+description: Everything to solve your problem
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Győződj meg arról, hogy a bővítmény **és** az alkalmazás is egyaránt telepítésre került! 
+> Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
 

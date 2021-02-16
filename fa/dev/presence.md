@@ -62,7 +62,7 @@ To learn more about TypeScript configuration click [here](/dev/presence/tsconfig
 
 ## Filling in the metadata.json file
 
-ما فایل ساز `metadata.json` برای رفقای تنبل [اینجا](https://eggsy.xyz/projects/premid/mdcreator) قرار دادیم. It's still suggested to read this through so you know how it works.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json
 {
@@ -127,13 +127,13 @@ To learn more about TypeScript configuration click [here](/dev/presence/tsconfig
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `مشارکت کننده‌ها`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `تنظيمات`
 
 **Clarifying some value presets:**
 
@@ -148,15 +148,15 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>نام</code> درواقع نام‌کاربری دیسکورد شما بدون شناسه(#0000) می‌باشد. User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left"><b>سازنده</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>نام</code> درواقع نام‌کاربری دیسکورد شما بدون شناسه(#0000) می‌باشد. User <code>id</code> can be copied from Discord by enabling developer
+      <td style="text-align:left"><b>مشارکت کننده‌ها</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -177,7 +177,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>شرح</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -208,7 +208,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>نسخه</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -233,7 +233,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>تگ‌ها</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -263,7 +263,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>تنظيمات</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -381,7 +381,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 # Loading the presence
 
-1. بنجره بازشو افزونه را در مرورگر خود باز کنید و دکمه <kbd>Shift</kbd> را از روی صفحه کلید خود نگه دارید.
+1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.

@@ -14,45 +14,45 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 > 
 > {.is-warning}
 
-## Tabela de Conteúdos
+## Table of Contents
 
-- **[Sobre](#about)**
-  - [Estatísticas](#stats)
+- **[About](#about)**
+  - [Stats](#stats)
   - [Requisitos](#requirements)
-  - Exemplos (em breve)
-  - FAQs (em breve)
-  - Construção (em breve)
-  - [Suporte](#support)
+  - Examples (soon)
+  - FAQs (soon)
+  - Building (soon)
+  - [Support](#support)
   - [Créditos](#credits)
-  - [Licença](#license)
+  - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMENDADA_)
-  - [Instruções de instalação](#appimageinstall)
-  - [Notas adicionais](#appimagenotes)
+  - [Installation instructions](#appimageinstall)
+  - [Additional notes](#appimagenotes)
 - [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
 - [**Debian and Ubuntu based distributions**](#packagecloud)
 - [**Arquitetura de distribuições baseadas em Linux**](#arch)
 
 <a name="about"></a>
 
-## Sobre
+## About
 
-**PreMiD** é um simples utilitário configurável que usa a biblioteca RP (Rich Presence) do Discord, que permite que você mostre o que está fazendo na web (e alguns programas) no seu perfil do Discord como **status de jogo**.
+**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
 <a name="stats"></a>
 
-### Estatísticas
+### Stats
 
 <table>
   <tr>
     <th>Deployment</th>
-    <th>Downloads</th>
-    <th>Última versão</th>
+    <th>Total downloads</th>
+    <th>Latest release</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Todos os lançamentos"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Última versão"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Lançamentos do GitHub"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
@@ -60,21 +60,21 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 
 ### Requisitos
 
-Tecnicamente, toda distribuição que pode executar a aplicação Discord [ oficial](https://discordapp.com/download) **app** (não a web ou a versão instantânea) também pode executar o PreMiD; Como você deve ter notado nos últimos anos, algumas distribuições Linux começaram a abandonar o suporte para as arquiteturas de 32 bits (ia32/i686/i386/x86) e, como resultado, nós também abandonamos. Você pode, no entanto, tentar construir o aplicativo você mesmo se você precisar usá-lo em uma distribuição de 32 bits.</br> Já que atualmente usamos Electron como um motor (Discord também!), suas exigências também se aplicam a esta aplicação:
+Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-Não se sabe se versões antigas de outras distribuições o suportam, então basta manter sua distribuição atualizada e usar **LTS (Long-Term Support)** libera se sua distribuição oferecer, como eles são mais estáveis (evite lançamentos alfa).
+It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
 
 <a name="support"></a>
 
-### Suporte
+### Support
 
 <div>
-  <a target="_blank" href="https://discord.premid.app/" title="Entre em nosso Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Junte-se ao nosso Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
@@ -82,17 +82,17 @@ Não se sabe se versões antigas de outras distribuições o suportam, então ba
 
 ### Créditos
 
-Agradecimentos a:
+Thanks to :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (e poucos outros caras que eu esqueci de seus nomes) por fornecer feedback sobre lançamentos noturnos.
-- @apriluwu para manter as compilações de Gentoo
-- @SlimShadyIAm e naka para manter os pacotes do Repositório do Utilizador Arch
-- A comunidade do Electron para vários pacotes
-- Qualquer pessoa que alguma vez tenha contribuído para o projeto de uma forma ou de outra.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
+- @apriluwu for maintaining the Gentoo builds
+- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
+- The Electron community for various packages
+- Anyone else who has ever contributed to the project in any way.
 
 <a name="license"></a>
 
-### Licença
+### License
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,20 +105,20 @@ O pacote AppImage é recomendado se o Discord funciona para você, mas para outr
 
 <a name="appimageinstall"></a>
 
-### Instruções de instalação
+### Installation instructions
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
 ```
 
 ```bash
-# Apenas duplo-clique ou execute
+# Just double-click it or run
 ./PreMiD*.AppImage
 ```
 
 <a name="appimagenotes"></a>
 
-### Notas adicionais
+### Additional notes
 
 Ou se você quiser tentar o PreMiD ou simplesmente não queira instalá-lo, este é o melhor, ele está sempre atualizado, mas _NÃO AUTO-INICIA COM O SISTEMA!</br>Se você se cansar de ter que abrir cada vez, use os outros pacotes (de acordo com a sua distribuição).
 
@@ -129,13 +129,13 @@ Ou se você quiser tentar o PreMiD ou simplesmente não queira instalá-lo, este
 
 We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
 
-Para **Ubuntu/Debian**:
+For **Ubuntu/Debian**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-Para **Fedora/CentOS/RedHat**:
+For **Fedora/CentOS/RedHat**:
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
@@ -146,13 +146,13 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Arquitetura de distribuições baseadas em Linux
 
 Usa [Repositório do Utilizador Arch](https://aur.archlinux.org/packages/premid);</br> Distribuições suportadas são _em si_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS e [cada um que suporta a instalação do AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Instruções de instalação
+### Installation instructions
 
 ```bash
 # Usando yay (recomendada)
@@ -182,7 +182,7 @@ ou manualmente do [Repositório de Utilizador Arch](https://aur.archlinux.org/pa
 
 <a name="archnotes"></a>
 
-### Notas adicionais
+### Additional notes
 
 Se seu distro usa o pacman, então você tem que instalar um dos auxiliares primeiro. Se você não tiver nenhum, Yay é o recomendo:
 

@@ -1,7 +1,7 @@
 ---
 title: Dépannage
 description: Tout pour résoudre votre problème
-published: true
+published: oui
 date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown

@@ -28,7 +28,7 @@ PreMiD ইন্সটল করা দ্রুত এবং সহজ। ত�
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 
 - :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
-- :wrench: [Presence ডেভেলপমেন্ট](/dev/presence): শিখো কীভাবে আমাদের Presence সিস্টেম ব্যবহার করতে হয়।
+- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
 # কন্ট্রিবিউট
 - :bug: [একটি বাগ রিপোর্ট করো](https://github.com/PreMiD): আমাদের সাহায্য করো সেইসব বাগগুলো ঠিক করতে।

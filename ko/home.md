@@ -1,10 +1,10 @@
 ---
-title: 홈
-description: 공식 문서 v2
+title: Home
+description: Official Documentation for v2
 published: true
 date: 2020-08-29T21:41:40.722Z
 tags:
-editor: 마크다운
+editor: markdown
 ---
 
 > 이 문서는 계속하여 수정되고 있습니다! 몇몇 페이지는 아직 미완성이거나 비어있을 수 있어요. 

@@ -19,7 +19,7 @@ Included on this page:
 
 <a name="general"></a>
 
-# 基本的なトラブルシューティング
+# General troubleshooting
 ### ページを再読み込みする
 <kbd>Ctrl+R</kbd>/<kbd>F5</kbd>(Windows) か、<kbd>CMD+R</kbd>(MacOS) を押してみてください。もしくはリロード（再読み込み）ボタンを押してみてください。
 
@@ -62,7 +62,7 @@ PreMiD以外の拡張機能をオフにして、動くか見てみましょう�
 Windowsの場合は、`C:\Users\ユーザー名\AppData\Roaming\ `に行き、`PreMiD`を削除してください。 見つからない場合は、`Win+R`を押して、`%appdata%`と入力してからPreMiDを削除してください。 MacOSの場合は`~/users/USER/~Library/Application Support/`に行き、` PreMiD`` `を削除してください。
 
 ### McAfeeがPreMiDをウイルスとして検出する場合(windows)
-これはMcAfeeの誤った検出であり、すでに報告済の問題です。 PreMiDをスキャンから除外するには、以下のステップを踏んでください。
+This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
 > 実行するのに自信がない場合は、[#support](https://discord.premid.app/)でチケットを作ることも可能です。サポートがお手伝いします。 
 > 
@@ -79,14 +79,14 @@ Windowsの場合は、`C:\Users\ユーザー名\AppData\Roaming\ `に行き、`P
 9. "PreMiD"フォルダーを開き、"PreMiD.exe"を選択して開きます。 <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfeeがファイルを無視するので、あとは起動するだけです。
 
-### PreMiDのステータスが正常に表示されない時
+### PreMiD status bugged on discord!
 Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
 
 <a name="linux"></a>
 
-# Linuxユーザー向け
-### Ubuntu/Debian基準の環境では
-Snapcraftを使用してDiscordをダウンロードした場合、リッチプレゼンスは使えません。 その場合、コンソールでSnapcraft版Discordを `sudo snap remove discord` と実行してアンインストールし、[Discord Linux版](https://discordapp.com/api/download?platform=linux) (または[ Discord Canary Linux版](https://discordapp.com/api/canary/download?platform=linux)) をダウンロードした後、Discordをダウンロードした場所 (普通は`$HOME/Downloads`) に行き、 `sudo dpkg -i discord-*.deb` と実行してパッケージをインストールする必要がります。 If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Linux troubleshooting
+### Ubuntu/Debian based distros
+Snapcraftを使用してDiscordをダウンロードした場合、リッチプレゼンスは使えません。 You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
 ### Arch Linux based distros
 Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
@@ -113,15 +113,15 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOSユーザー向け
+# MacOS troubleshooting
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-このエラーが発生した場合は、フォルダーを手動で作成する必要があります。
+If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
 1. Open finder and open **Applications** folder.
 2. Right-click on blank space and click **Create folder**.
-3. 作成したフォルダーに、`PreMiD`と名前をつけてください。（大文字と小文字を区別するため、コピーして貼り付けることを推奨します。）
-4. インストーラーをもう一度開きます。
+3. To this folder assign `PreMiD` name (remember about upper-cased letters).
+4. Open installer again.
 
 # 実行しても問題が解決しませんでしたか？
-PreMiDのDiscordサーバー内の[#support](https://discord.premid.app/)でチケットを開いてください。
+Please open a ticket in [#support](https://discord.premid.app/).

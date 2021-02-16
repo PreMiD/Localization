@@ -1,6 +1,6 @@
 ---
 title: Xử lý sự cố
-description: Mọi thứ để giúp bạn xử lý sự cố
+description: Everything to solve your problem
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Hãy chắc là bạn có cả tiện ích mở rộng **và** ứng dụng tải về! 
+> Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
 
@@ -23,7 +23,7 @@ Included on this page:
 ### Tải lại trang
 Bạn có thể nhấn <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) hoặc <kbd>CMD+R</kbd> (MacOS) trên bàn phím của bạn thay vì tìm kiếm nút tải lại.
 
-### Bạn có đang sử dụng phiên bản ứng dụng của Discord không?
+### Are you using the Discord app?
 PreMiD sẽ **không** hoạt động trên phiên bản trình duyệt web của Discord, vui lòng tải xuống phiên bản ứng dụng [tại đây](https://discord.com/download).
 
 ### Hãy chắc chắn là bạn đã cho phép Hoạt động trong game trong Discord trong cài đặt
@@ -32,7 +32,7 @@ PreMiD sẽ **không** hoạt động trên phiên bản trình duyệt web củ
 ### Hãy chắc chắn là Discord đang KHÔNG hoạt động ở chế độ administrator
 Rất quan trọng. Discord RPC sẽ không hoạt động nếu bạn chạy Discord dưới quyền quản trị viên.
 
-### Bạn có đang sử dụng presence có nút cài đặt không?
+### Are you using a presence with settings?
 Nhiều presence (bao gồm `Twitch` và `SoundCloud`) đang bị ảnh hưởng bởi một lỗi bên trong tiện ích mở rộng. Lỗi này làm cho tiện ích mở rộng không lấy đúng giá trị mặc định của cài đặt.
 
 Để giải quyết vấn đề này, bạn chỉ cần bật tắt cài đặt đầu tiên: ![presencesettings.gif](/presencesettings.gif)
@@ -46,10 +46,10 @@ Bạn có thể nhấn <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) hoặc <kbd>CMD</k
 ### Tải lại/khởi động lại Discord
 Nhấn <kbd>CTRL+R</kbd> (Windows) hoặc <kbd>CMD+R</kbd> (MacOS) trên bàn phím của bạn để khởi động lại Discord một cách thủ công.
 
-### Kiểm tra nếu như bạn có phần mềm diệt vi-rút hoặc tường lửa trên máy tính của bạn
+### Check if you have antivirus or firewall running on your computer
 Đôi lúc phần mềm diệt vi-rút và tường lửa sẽ chặn các ứng dụng nếu chúng tạo/lưu trữ máy chủ hoặc chỉ là kết nối Internet. Chúng tôi đang sử dụng máy chủ cục bộ để nhận và truyền dữ liệu giữa ứng dụng của chúng tôi và tiện ích mở rộng, nếu bạn chặn tính năng truyền dữ liệu thì có thể bạn sẽ không dùng được PreMiD.
 
-### Hãy tắt các tiện ích mở rộng khác
+### Disable your addons
 Hãy tắt các tiện ích mở rộng khác và thử lại. Nếu được, hãy mở từng tiện ích một sau đó hãy cho chúng tôi biết tiện ích nào gây xung đột với PreMiD.
 
 ### Khởi động lại máy tính của bạn
@@ -63,9 +63,9 @@ Hệ điều hành Windows:    `C:\Users\USER\AppData\Roaming\`` và xoá thư m
 MacOS:`~/users/USER/~Library/Application Support/`và xóa thư mục `PreMiD``.
 
 ### McAfee phát hiện PreMiD là vi-rút (Windows)
-Đây là một cảnh báo sai từ McAfee và chúng tôi đã báo cáo vấn đề này tới họ, hiện tại bạn có thể loại trừ PreMiD khỏi quá trình quét qua các bước sau:
+This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
 
-> Nếu bạn vẫn còn chần chừ, đừng ngần ngại tạo ticket hỗ trợ tại [#support](https://discord.premid.app/) và một trong những Người Trợ giúp của chúng tôi sẽ giúp bạn! 
+> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
 > 
 > {.is-warning}
 

@@ -18,17 +18,17 @@ Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Örnek bir clientId alanı
+  clientId: "514271496134389561" // Example clientId
 });
 ```
 
-### Özellikler
+### Properties
 
-`Presence` sınıfı için kullanılabilen üç özellik vardır.
+There are three properties available for `Presence` class.
 
 #### `clientId`
 
-Bu özellik, oynuyor etkinliğinizin çalışmasını sağlamak için gereklidir, çünkü logosunu ve idnizi görüntülemek için uygulama kimliğinizi kullanır. Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
+This property is required to make your presence work, because it uses your application id to display its logo and assets. Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
 
 #### `injectOnComplete`
 
@@ -50,7 +50,7 @@ Verilen verilerle profilinizi ayarlar.
 
 First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Eğer `PresenceData` içerisinde zaman belirttiyseniz, her zaman `true` kullanın.
+İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Always use `true` if you provide timestamps in `PresenceData`.
 
 ### `clearActivity()`
 
@@ -66,7 +66,7 @@ Menüdeki durum yazısını ayarlar.
 
 ### `createSlideshow()`
 
-Yeni bir `Slideshow` sınıfı oluşturur.
+Creates a new `Slideshow` class.
 
 ```typescript
 const slideshow = presence.createSlideshow();
@@ -76,18 +76,18 @@ It is suggested to do this right after creating the `Presence` class:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Örnek bir clientId
+    clientId: "514271496134389561" // Example clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-`Slideshow` sınıfı için belgeleri [burada](/dev/presence/slideshow) bulabilirsiniz.
+You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
 
 ### `getStrings(Object)`
 
 Eklentiden belli çevirilere ulaşabileceğiniz asenkron yöntem.
 
-Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Çevirilmiş yazıların listesine bu endpoint üzerinden erişebilirsiniz: `https://api.premid.app/v2/langFile/presence/en/`
+Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // `Oynatılıyor` ve `Durduruldu` çevirilerini
@@ -97,11 +97,11 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // sonuç: Oynuyor
-const pauseString = strings.pause; // sonuç: Duraklatıldı
+const playString = strings.play; // result: Playing
+const pauseString = strings.pause; // result: Paused
 ```
 
-Eklentinin v2.2.0 sürümünden bu yana, artık belirli bir dilin string(lerini) alabilirsiniz. Bu, yeni eklenmiş `multiLanguage` ayar seçenği ile de düzgün çalışıyor.
+Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
 
 We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
 
@@ -136,8 +136,8 @@ if (oldLang !== newLang) {
   strings = getStrings();
 }
 
-const playString = strings.play; // sonuç: Oynuyor
-const pauseString = strings.pause; // sonuç: Duraklatıldı
+const playString = strings.play; // result: Playing
+const pauseString = strings.pause; // result: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // Değişkenin içeriğini gösterecektir
+console.log(pageVar); // This will log the "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -157,9 +157,9 @@ Kullanıcının kullandığı eklentinin sürümünü verir.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // 210 kaydeder
+console.log(numeric); // Will log 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // 2.1.0 kaydeder
+console.log(version); // Will log 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -176,12 +176,12 @@ console.log(setting); // This will log the value of the setting
 Belirtilen ayarı gizler.
 
 ```typescript
-presence.hideSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
+presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 ```
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Belirtilen ayarı gösterir (sadece önceden gizlenmişse çalışacaktır).
 
 ```typescript
 presence.showSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
@@ -189,14 +189,14 @@ presence.showSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
 
 ### `getLogs()`
 
-Web sitesinin konsol kayıtlarını getirir.
+Returns the logs of the websites console.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // Bu, en yeni 100 logu konsola loglar (bir array içinde).
+console.log(logs); // This will log the latest 100 logs (in an array).
 ```
 
-**Not:** `metadata.json` dosyasında `readLogs` un `true` olmasını gerektirir.
+**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
 
 ### `info(String)`
 
@@ -232,7 +232,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Not:** querySelector da verilen `String` bir örnektir.
+**Note:** The given `String` in querySelector is an example.
 
 ### `getTimestamps(Number, Number)`
 
@@ -301,8 +301,7 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">Uzunluğu belirler.
         <br>Bitiş zamanını belirlerseniz kaç <code>saat:dakika:saniye</code> kaldığını profilde gösterebilirsiniz.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Zamanınızı <code>timestamp</code> formatına çevirmelisiniz, diğer türlü hesaplamalar yanlış sonuç verecektir.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -330,11 +329,11 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "Benim başlığım",
-  state: "Benim açıklamam",
+  details: "My title",
+  state: "My description",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "Benim üzerime geldin, ne oldu şimdi?",
+  smallImageText: "You hovered me, and what now?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -346,7 +345,7 @@ Eventler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmeniz
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Veri güncellenince bir şeyler yap.
+  // Do something when data gets updated.
 });
 ```
 

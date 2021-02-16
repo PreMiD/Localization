@@ -150,13 +150,13 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Servis geliştiricisinin <code>isim</code> ve <code>id</code> bilgileri bulunan bir Obje içermelidir. <code>isim</code> Discord kullanıcı adınızın etiketiniz (#0000) olmayan halidir. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
+      <td style="text-align:left">Servis geliştiricisinin <code>isim</code> ve <code>id</code> bilgileri bulunan bir Obje içermelidir. <code>name</code> is your Discord username without the identifier(#0000). Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Hayır</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Servis geliştiricisinin <code>name</code> ve <code>id</code> bilgileri bulunan bir Object içermelidir. <code>isim</code> Discord kullanıcı adınızın etiketiniz (#0000) olmayan halidir. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
+      <td style="text-align:left">Servis geliştiricisinin <code>name</code> ve <code>id</code> bilgileri bulunan bir Object içermelidir. <code>name</code> is your Discord username without the identifier(#0000). Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Evet</code></td>
     </tr>

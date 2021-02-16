@@ -133,7 +133,7 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `ajustes`
 
 **Aclarando unos valores predefinidos:**
 
@@ -187,7 +187,7 @@ Por favor copia el código anterior y ponlo en tu archivo `metadata.json`. Ahora
 Puedes añadir multiples URLs haciendo lo siguiente:<br>
 <code>["URL1", "URL2", "ETC."]</code><br>
 También podrías usar regExp (También conocido como Regex), las cuales son explicadas más adelante.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
@@ -230,7 +230,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array con etiquetas, estas ayudarán a los usuarios a buscar tu presence en la web.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Cadena, array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
@@ -258,7 +258,7 @@ TLD significa Top Level Domain, por ejemplo: .com .net<br>
       <td style="text-align:left"><code>Sí</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>ajustes</b></td>
       <td style="text-align:left">Un array con configuraciones del usuario puede cambiar.<br>
       Lee más acerca configuración de presencias <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aquí</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

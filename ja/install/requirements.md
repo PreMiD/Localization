@@ -26,6 +26,6 @@ Linuxの場合、**20MB以上のメモリ容量が**PreMiDを動かすために�
 PreMiDは**150MB**の容量を使用します。 快適に動作させるためには、**200MB**程度の空き容量が必要です。
 
 ### インターネット接続
-PreMiDを動作させるためには、インターネット接続が必要です。 PreMiDやPresenceのアップデートをしたり、新しい言語を追加する際に使用します。 　
+A internet connection is required to run PreMiD. PreMiDやPresenceのアップデートをしたり、新しい言語を追加する際に使用します。 　
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

@@ -1,30 +1,30 @@
 ---
 title: Installazione
-description: Come installare PreMiD
-published: true
+description: How to install PreMiD
+published: vero
 date: 2020-11-10T17:54:28.896Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
-> Prima di proseguire, assicurati che il tuo sistema soddisfi tutti i [requisiti](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-> **È necessario** installare **sia** l'applicazione **** che l'estensione ****! 
+> **It is necessary** to install **both** the **application** and the **extension**! 
 > 
 > {.is-warning}
 
-**Scegli il tuo sistema operativo:**
-- [Windows *7 o superiore*](/install/windows)
-- [macOS *10.11 o superiore*](/install/macos)
-- [Linux *kernel v2.x o superiore *](/install/linux)
+**Choose your operating system:**
+- [Windows *7 or above*](/install/windows)
+- [macOS *10.11 or above*](/install/macos)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
-**Scegli il tuo browser:**
-- [Chromium *v76 o superiore*](/install/chromium)
-- [Firefox *v69 o superiore*](/install/firefox)
+**Choose your browser:**
+- [Chromium *v76 or above*](/install/chromium)
+- [Firefox *v69 or above*](/install/firefox)
 {.links-list}
 
 ![](https://a.icons8.com/ajlQdsfa/FZhYWV/svg.svg) {.align-abstopright}
