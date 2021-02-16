@@ -16,11 +16,11 @@
 		"description": "Text for the user to write a brief of the bug information."
 	},
 	"report.os": {
-		"message": "Selecteer uw besturingssysteem en versie",
+		"message": "Selecteer je besturingssysteem en versie",
 		"description": "Select Box for the user to select their operating system"
 	},
 	"report.browser": {
-		"message": "Selecteer uw browser en versie - U kunt de versie verkrijgen door about:support te bezoeken op Firefox of chrome://help",
+		"message": "Selecteer je browser en versie - Je kunt de versie verkrijgen door about:support te bezoeken op Firefox of chrome://help",
 		"description": "Select Box for the user to select their browser"
 	},
 	"report.description": {
@@ -32,11 +32,11 @@
 		"description": "Button to send the information inputed."
 	},
 	"report.toomany": {
-		"message": "U heeft te veel actieve rapporten. Wacht tot uw ingediende rapporten zijn beoordeeld. Rapporten worden op wekelijkse basis gecontroleerd, heb A.U.B. geduld.",
+		"message": "Je hebt te veel actieve rapporten. Wacht tot je ingediende rapporten zijn beoordeeld. Rapporten worden op wekelijkse basis gecontroleerd, heb A.U.B. geduld.",
 		"description": "User has too many active reports"
 	},
 	"report.toomany.alert": {
-		"message": "U heeft te veel actieve rapporten.",
+		"message": "Je hebt te veel actieve rapporten.",
 		"description": "User has too many active reports"
 	},
 	"report.success": {
