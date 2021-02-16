@@ -1,7 +1,7 @@
 ---
 title: Classe Presence
 description: La classe principale pour chaque presence PreMiD
-published: true
+published: oui
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
@@ -171,7 +171,7 @@ const setting = await presence.getSetting("pdexID"); //Remplacer pdexID avec l'i
 console.log(setting); // Cela affichera dans la console la valeur du paramètre
 ```
 
-### `hideSetting(String)`
+### `masquer (chaîne de caractères)`
 
 Masque le paramètre donné.
 
@@ -179,7 +179,7 @@ Masque le paramètre donné.
 presence.hideSetting("pdexID"); // Remplacer pdexID par l'id du paramètre
 ```
 
-### `showSetting(String)`
+### `montreParamètres(chaîne de caractères)`
 
 Affiche le paramètre spécifié (Ne fonctionne que si le paramètre est déjà masqué).
 
@@ -277,13 +277,13 @@ Les variables de cette interface sont les suivantes, toutes sont optionnelles.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Détails</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">La première ligne de votre présence, généralement utilisée comme en-tête.</td>
-      <td style="text-align:left"><code>Chaîne de caractères</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Etat</td>
+      <td style="text-align:left">state</td>
       <td style="text-align:left">Deuxième ligne de votre présence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
@@ -294,7 +294,7 @@ Les variables de cette interface sont les suivantes, toutes sont optionnelles.
         Utilisé si vous voulez afficher combien d'<code>heures:minutes:secondes</code> sont restantes.
           <br>Vous devez convertir votre <code>timestamp</code> ou vous obtiendrez un compte à rebours erroné.
       </td>
-      <td style="text-align:left"><code>Numéros</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
@@ -307,19 +307,19 @@ Les variables de cette interface sont les suivantes, toutes sont optionnelles.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">clé d'image-grande</td>
+      <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Définit le logo de la présence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">petite clé ImageKey</td>
+      <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Définit la petite icône à côté du logo.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Texte de petite image</td>
+      <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Définit le texte qui sera affiché à l'utilisateur quand il survolera la petite icône
 .</td>
       <td style="text-align:left"><code>String</code>
