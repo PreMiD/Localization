@@ -232,12 +232,24 @@
 		"description": ""
 	},
 	"general.waitingVid": {
-		"message": "等待視頻開始首播",
+		"message": "等待影片開始首播",
 		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "等待該影片開始首播",
+		"description": "\"the\" video, as in the video title is specified)"
 	},
 	"general.watchingLive": {
 		"message": "正在觀看直播",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "等待直播開始",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "等待該直播的開始",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "正在觀看:",
@@ -267,6 +279,10 @@
 		"message": "循環中",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "查看某次事件",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "事件記錄",
 		"description": "A page name of statuspages"
@@ -274,5 +290,45 @@
 	"general.uptimeHistory": {
 		"message": "運行時間記錄",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "瀏覽系列",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "瀏覽電影",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "觀看劇集",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "觀看影片",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "瀏覽頻道",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "聆聽着",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "查看頁面",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "瀏覽歌曲",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "瀏覽專輯",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "查看設定檔",
+		"description": "Used as the title for the button in Discord."
 	}
 }
