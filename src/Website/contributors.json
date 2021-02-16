@@ -27,9 +27,13 @@
 		"message": "Administrator",
 		"description": "'Administrator' title for contributors and user pages."
 	},
-		"contributors.roles.reviewer": {
+	"contributors.roles.reviewer": {
 		"message": "Reviewer",
 		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Localization Manager",
+		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
 		"message": "Developer",
