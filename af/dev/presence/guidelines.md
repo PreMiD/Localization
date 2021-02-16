@@ -1,6 +1,6 @@
 ---
-title: Riglyne
-description: Reëls wat alle ontwikkelaars van teenwoordigheid moet volg om hul teenwoordigheid by te voeg.
+title: Guidelines
+description: Rules all presence developers must follow to have their presence added.
 published: true
 date: 2020-12-29T02:18:29.846Z
 tags:
@@ -10,16 +10,16 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Guidelines
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Vir sommige mense kan hierdie streng reëls streng lyk. However, the implementation of these rule sets will keep us and our users from running into issues.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rule sets will keep us and our users from running into issues.
 
-# Skepping
+# Creation
 
-Die algemene reëls vir die ontwikkeling van teenwoordigheid is soos volg:
+The general rules of presence development are as follows:
 
-- Aanwesighede ** moet ** verband hou met die gekose webwerf.
-- Aanwesighede **kan nie** gemaak word vir onwettige webwerwe. (for e.g., stressors, drug marketing, child pornography, etc.)
-- Die lêerstruktuur moet skoon en bestuur word, en bevat nie lêers wat nie gespesifiseer is nie. (vir bv. vscode- en git-vouers, beeld- en tekslêers, ens.)
-- U moet die regte lêerstruktuur hê, maar konsepte is **nie** toegelaat.
+- Presences **must** be related to the website of choice.
+- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
+- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
+- You need to have a proper file structure, drafts are **not** allowed.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
 - The domain of the presence must be at least 2 months old.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
@@ -140,7 +140,7 @@ A list of fields and their rules are listed below:
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`contributors`**
+### **`bydraers`**
 
 - Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
@@ -153,7 +153,7 @@ A list of fields and their rules are listed below:
 
 - **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`description`**
+### **`beskrywing`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
