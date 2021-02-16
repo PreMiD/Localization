@@ -1,5 +1,5 @@
 ---
-title: Statusų kūrimas
+title: Presence Development
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,36 +8,36 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> Visi statusai yra dabar laikomi čia: https://github.com/PreMiD/Presences 
+> All presences are now stored here: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Versija `2.x` Pristato[statusų parduotuvę](https://premid.app/store). Naudotojai dabar turi pasirinkimą savankiškai pridėti arba išimti jų mėgstamus statusus per vartotojų valdymo panele [svetainėje](https://premid.app/).
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> Prieš pradedant, yra labai siūloma, kad jūs peržvelgtumėte mūsų statusų rekomendacijos formas. 
+> Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
 > {.is-warning}
 
 - [Gairės](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Struktūra
+# Structure
 
-Visi statusai yra sukoduoti naudojantis [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) Turi ekstra dalykėlių prieš JavaScript, tad taisyti ir atpažinti klaidas yra daug lengviau.
+All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Instaliacija
 
 1. Įdiegkite [Git](https://git-scm.com/).
 2. Įdiegkite [Node](https://nodejs.org/en/) (atkeliauja kartu su [npm](https://www.npmjs.com/)).
-3. Įdiegkite [TypeScript](https://www.typescriptlang.org/index.html#download-links) (atidarykite terminalą ir įrašykite: `npm install -g typescript`).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Projekto klonavimas
 
-1. Atidarykite terminalą ir įrašykite: `git clone https://github.com/PreMiD/Presences`.
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 2. Pasirinkite jūsų norimą aplankalą.
 3. Atsidarykite jį su savo kodo redagavimo programa.
 
-## Aplankalų ir failų kūrimas
+## Creating folders and files
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Sukurkite aplankalą su **vardu** (ne su svetainės URL) paslaugos kurią jūs norite palaikyti.
@@ -45,9 +45,9 @@ Visi statusai yra sukoduoti naudojantis [TypeScript](https://www.typescriptlang.
 4. Sukurkite aplankalą su pavadinimu `dist` viduje.
 5. Sukurkite `metadata.json` failą `dist` aplankalo viduje.
 
-## Užpildant tsconfig.json failą
+## Filling in the tsconfig.json file
 
-Prašome įrašyti šį kodą `tsconfig.json` failo viduje.
+Please put the following code inside of the `tsconfig.json` file.
 
 ```typescript
 {
@@ -58,11 +58,11 @@ Prašome įrašyti šį kodą `tsconfig.json` failo viduje.
 }
 ```
 
-Kad sužinoti daugiau apie TypeScript konfigūracija spauskite [čia](/dev/presence/tsconfig).
+To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## Užpildant metadata.json failą
+## Filling in the metadata.json file
 
-Mes sukūremė `metadata.json` failo kūrėją tingiems žmonėms [čia](https://eggsy.xyz/projects/premid/mdcreator). Bet yra rekomenduojama peržvelgtį šį failą, kad jūs žinotumėte kaip jis veikia.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json
 {
@@ -125,17 +125,17 @@ Mes sukūremė `metadata.json` failo kūrėją tingiems žmonėms [čia](https:/
 }
 ```
 
-Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` failą. Jūs dabar turite redaguoti jų ypatybes. Norime, kad atsižvelgtumėtė tai, kad šios ypatybės yra pasirinktinos turėti jūsų `metadata.json` failę, jeigu jūs neplanuojate jų naudoti, tuomet juos ištrinkite.
+Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `pagalbininkai`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `nustatymai`
 
-**Kai kurių iš anksto nustatytų reikšmių išaiškinimas:**
+**Clarifying some value presets:**
 
 <table>
   <thead>
@@ -148,14 +148,14 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left"><b>autorius</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>pagalbininkai</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>aprašymas</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Jūsų aprašymas turi turėti raktine pora reikšmių kurie nurodo kalbą ir aprašymą ta nustatyta kalba. Kurkite aprašymus su kalbomis <i>kurias jūs žinote</i>, mūsų vertėjai padarys pakitimus jūsų metadata failui.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -208,7 +208,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>versija</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -233,7 +233,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>žymos</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -263,7 +263,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>nustatymai</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
