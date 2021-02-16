@@ -31,6 +31,10 @@
 		"message": "Verificateur",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "Lokalisatiebeheerder",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Ontwikkelaar",
 		"description": "'Developer' title for contributors and user pages."
