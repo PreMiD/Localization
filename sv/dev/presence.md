@@ -8,46 +8,46 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> Alla närvaron lagras nu här: https://github.com/PreMiD/Presences 
+> All presences are now stored here: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introducerar [närvarobutik](https://premid.app/store). Användare har nu möjlighet att manuellt lägga till och ta bort sina favoritnärvaron genom användargränssnittet på [webbplats](https://premid.app/).
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> Innan du börjar rekommenderas det att du tittar på våra riktlinjer för presences. 
+> Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
 > {.is-warning}
 
-- [Riktlinjer](https://docs.premid.app/dev/presence/guidelines)
+- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Struktur
+# Structure
 
-All presences är kodade i [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) har några extra kryddiga typdefinitioner över JavaScript, så fastställande och identifiering av buggar är mycket lättare.
+All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
 
-1. Installera [Git](https://git-scm.com/).
-2. Installera [Node](https://nodejs.org/en/) (levereras med [npm](https://www.npmjs.com/)).
-3. Installera [TypeScript](https://www.typescriptlang.org/index.html#download-links) (öppna en terminal och skriv `npm install -g typescript`).
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Kloning av projektet
+## Cloning the project
 
-1. Öppna en terminal och skriv `git clone https://github.com/PreMiD/Presences`.
-2. Välj en valfri mapp.
-3. Öppna den i din kodredigerare.
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
-## Skapa mappar och filer
+## Creating folders and files
 
-1. Gå in i mappen `websites` och gå sedan in i mappen med den första bokstaven i **namnet** (inte en URL) i tjänsten du vill stödja.
-2. Skapa en mapp med **namnet** (inte en URL) för tjänsten du vill stödja.
-3. Skapa en `presence.ts`- och en `tsconfig.json` -fil inuti.
-4. Skapa en mapp som heter `dist` inuti.
-5. Skapa en `metadata.json` -fil i mappen `dist`.
+1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+2. Create a folder with the **name** (not an URL) of the service you want to support.
+3. Create a `presence.ts` and a `tsconfig.json` file inside.
+4. Create a folder named `dist` inside.
+5. Create a `metadata.json` file inside the `dist` folder.
 
-## Ifyllning av tsconfig.json-filen
+## Filling in the tsconfig.json file
 
-Vänligen ange följande kod i `tsconfig.json` -filen.
+Please put the following code inside of the `tsconfig.json` file.
 
 ```typescript
 {
@@ -58,37 +58,37 @@ Vänligen ange följande kod i `tsconfig.json` -filen.
 }
 ```
 
-För att läsa mer om TypeScript-konfiguration, klicka [här](/dev/presence/tsconfig).
+To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## Ifylling av metadata.json-filen
+## Filling in the metadata.json file
 
-Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://eggsy.xyz/projects/premid/mdcreator). Det rekommenderas fortfarande att du läser igenom detta så du vet hur det fungerar.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "ANVÄNDARNAMN",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "ANVÄNDARNAMN",
+      "name": "USER",
       "id": "ID"
     }
   ],
-  "service": "TJÄNST",
-  "altnames": ["TJÄNST"],
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "BESKRIVNING"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
   "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["TAGG1", "TAGG2"],
-  "category": "KATEGORI",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://e
     },
     {
       "id": "ID",
-      "title": "VISNINGSTITEL",
-      "icon": "FONTAWESOME-ICON",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -109,15 +109,15 @@ Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://e
       "if": {
         "ID": true
       },
-      "title": "VISNINGSTITEL",
-      "icon": "FONTAWESOME-IKON",
-      "value": "\"%song%\" av  %artist%",
-      "placeholder": "använd %song% eller  %artist%"
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "VISNINGSTITEL",
-      "icon": "FONTAWESOME-IKON",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -125,156 +125,156 @@ Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://e
 }
 ```
 
-Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste nu redigera värden för egenskaperna. Observera att följande egenskaper är valfria att ha i din `metadata.json`-fil, om du inte planerar att använda dem måste du ta bort dem.
+Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `medverkande`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `inställningar`
 
-**Förtydligande av vissa värde-förinställningar:**
+**Clarifying some value presets:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variabel</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Beskrivning</th>
       <th style="text-align:left">Typ</th>
-      <th style="text-align:left">Valfri</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. <code>name</code> is your Discord username without the identifier(#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
-        och högerklicka på din profil.</td>
+      <td style="text-align:left"><b>skapare</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. <code>name</code> is your Discord username without the identifier(#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
-        och högerklicka på din profil.</td>
+      <td style="text-align:left"><b>medverkande</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">Titeln på tjänsten som denna presence stöder.<br>
-      (måste vara samma namn som mappen där allt är i)</td>
+      <td style="text-align:left">The title of the service that this presence supports.<br>
+      (Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Möjligheten att söka för presencet med hjälp av ett annat namn.<br>
-      Tänkt att användas för presences som har olika namn på olika språk (t.ex. Poke<unk> mon och <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ).<br>
-      Du kan också använda den för presences som har specialtecken så att du inte behöver skriva in dessa (t.ex. Poke<unk> mon och Pokemon).</td>
+      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
+      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Liten beskrivning av presencet, du kan använda beskrivningen av tjänsten om du inte har några idéer. Din beskrivning måste innehålla nyckelparvärden som anger språket och beskrivningen i det specifika språket. Gör beskrivningar med språk <i>som du känner till</i>, våra översättare kommer att göra ändringar i din metadatafil.</td>
+      <td style="text-align:left"><b>beskrivning</b></td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL för tjänsten.<br><b>Exempel:</b><code>vk.com</code><br>
-      <b>Denna URL måste matcha webbadressen till webbplatsen eftersom den kommer att upptäcka om detta är webbplatsen att injicera skriptet på.</b><br> Lägg <b>INTE</b> till <code>https://</code> eller <code>http://</code> i URL:en eller ett snedstreck i slutet:
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Obs</b>: Vissa webbadresser kan ha <code>www.</code> eller någonting annat framför sin domän. Glöm inte <b></b> att lägga till det!<br>
-      Du kan lägga till flera webbadresser genom att göra följande:<br>
-      <code>["URL1", "URL2", "ETC. ]</code><br>
-      Du kan också använda regExp (även kända som Regex) för denna uppgift, förklaras vidare nedan.</td>
+      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+      You can add multiple URLs by doing the following:<br>
+      <code>["URL1", "URL2", "ETC."]</code><br>
+      You could also use regExp also known as Regex for this task, explained further below.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">En regular expression som används för att matcha webbadresser.<br>
-      regExp eller även känd som Regex, kan användas om en webbplats har flera underdomäner.<br>
-      Du kan använda följande regExp för det:<br>
-      <code>([a-z0-9]+)[.]domän[.]TLD"</code><br>
-      TLD står för toppdomänen, till exempel: .com .net (men ange inte punkten).<br>
-      <code>([a-z0-9]+)</code> betyder allt från a till z och från 0 till 9.<br>
-      Du kan få en snabb start genom att titta på denna <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      Du kan testa din regExp på <a href="https://regex101.com/">Regex101</a>.</td>
+      <td style="text-align:left">A regular expression string used to match urls.<br>
+      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
+      You could use the following regExp for that:<br>
+      <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
+      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
+      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
+      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
+      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Version av din presence.</td>
+      <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Länk till tjänst&apos;s logotyp.</td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Länka till din presence-miniatyrbild.</td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code>-värde. Vi rekommenderar att använd färgen på tjänsten
-        som ditt presence stöder som primär färg.</td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array med taggar, de kommer att hjälpa användare att söka efter ditt presence på webbplatsen.</td>
+      <td style="text-align:left"><b>taggar</b></td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">En sträng som används för att representera kategorin presencet faller inom. Se de giltiga katergorierna <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">här</a>.</td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Nej</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Anger om <code>iFrames</code> används.</td>
+      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">En regular expression som väljer iframes att injicera i. Se regExp för mer info.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Bestämmer om tillägget ska läsa loggar.</td>
+      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
-      <td style="text-align:left">En array av inställningar som användaren kan ändra.<br>
-      Läs mer om presence-inställningar <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">här</a>.</td>
+      <td style="text-align:left"><b>inställningar</b></td>
+      <td style="text-align:left">An array of settings the user can change.<br>
+      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
 
-Vi har skapat en `metadata.json`-filskapare för lata männsikor [här](https://eggsy.xyz/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Kom igång
+## Getting started
 
 ```typescript
 const presence = new Presence({
