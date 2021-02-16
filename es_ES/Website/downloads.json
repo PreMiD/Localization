@@ -135,10 +135,6 @@
 		"message": "Por favor, deshabilita Adblock",
 		"description": "Message next to pepe."
 	},
-	"downloads.showbeta.message": {
-		"message": "Mostrar descargas beta",
-		"description": ""
-	},
 	"downloads.showbeta.small": {
 		"message": "(no necesario si únicamente deseas descargar la versión normal)",
 		"description": "Small text under the show beta title."
