@@ -1,18 +1,22 @@
 {
-	"premid.viewPage": {
-		"message": "Katsoo sivua:",
-		"description": ""
+	"premid.pageContributors": {
+		"message": "Osallistujat",
+		"description": "A page name"
 	},
-	"premid.docs": {
-		"message": "Dokumentaatio",
-		"description": "as in documents"
+	"premid.pageStore": {
+		"message": "Kauppa",
+		"description": "A page name"
 	},
-	"premid.viewPresence": {
-		"message": "Katsoo presenceä:",
-		"description": ""
+	"premid.partners": {
+		"message": "Yhteistyökumppanit",
+		"description": "A page name"
 	},
-	"premid.pageHome": {
-		"message": "Kotisivu",
+	"premid.pageTroubleshooting": {
+		"message": "Apua",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Precence-luokka",
 		"description": "A page name"
 	}
 }
