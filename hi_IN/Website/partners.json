@@ -1,1 +1,10 @@
-{}
+{
+	"partners.header.title": {
+		"message": "साझेदार",
+		"description": "Heading for page."
+	},
+	"partners.apply.select.other": {
+		"message": "अन्य",
+		"description": "Select 'Other' category."
+	}
+}
