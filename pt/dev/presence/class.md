@@ -1,6 +1,6 @@
 ---
-title: Classe de presence
-description: A classe principal para cada presence do PreMiD
+title: Classe Presence
+description: A classe principal para cada presença do PreMiD
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
@@ -8,105 +8,105 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Classe de presence
+# Classe Presence
 
 ## Introdução
 
-A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presence.
+A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
 
 Ao criar uma classe você deve especificar a propriedade `clientId`.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // Exemplo de clientId
 });
 ```
 
-### Properties
+### Propriedades
 
-There are three properties available for `Presence` class.
+Existem 3 propriedades disponíveis para a classe `Presence`.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. You can get it on your [applications page](https://discordapp.com/developers/applications).
+Este propriedade é obrigatória para sua presença funcionar, pois utilizamos o seu Application ID para exibir a logo e os assets. Você pode obter sua Application ID na [página de aplicativos](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+Quando a propriedade `injectOnComplete` estiver definida para `true` o primeiro evento `UpdateData` para ambos os arquivos`presence.ts` e `iframe.ts` só será disparado quando a página carregar completamente.
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+Quando a propriedade `appMode`: estiver definida para `true` e a presença enviar um objeto `PresenceData` vazio, o app irá exibir a aplicação (imagem e nome) no perfil do usuário em vez de não exibir nada.
 
 ## Métodos
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Retorna um objeto `PresenceData` do que a presença está exibindo.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
-Define a atividade do teu perfil de acordo com os dados fornecidos.
+Define a atividade do seu perfil de acordo com os dados fornecidos.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+O primeiro parâmetro requer uma interface[`PresenceData`](#presencedata-interface) ou uma classe [`Slideshow`](/dev/presence/slideshow) para obter todas as informações que você deseja exibir em seu perfil.
 
-O segundo parâmetro define quando a presence está reproduzindo algo ou não. Always use `true` if you provide timestamps in `PresenceData`.
+O segundo parâmetro define quando a presença está reproduzindo algo ou não. Sempre utilize `true` se você estiver utilizando timestamps na `PresenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Limpa sua atividade e o título atual.
 
 ### `setTrayTitle(String)`
 
-> Este método funciona somente no Mac OS. 
+> Este método funciona apenas no Mac OS. 
 > 
 > {.is-warning}
 
-Defina o título tray na Menubar.
+Define o título da bandeja no Menubar.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Cria uma nova classe `Slideshow`.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+É sugerido fazer isso logo após a criação da classe `Presence`:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Examplo de clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Você pode encontrar a documentação da classe `Slideshow` [aqui](/dev/presence/slideshow).
 
-### `getStrings(Object)`
+### `getStrings(Objeto)`
 
-An asyncronous method that allows you to get translated strings from extension.
+Um método assíncrono que permite que você pegue strings traduzidas da extensão.
 
-Você deve providenciar `Object` com as chaves sendo uma chave para a linha, `keyValue` é o valor da linha. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Você deve fornecer o `Objeto` com as chaves sendo a chave para string, `keyValue` é o valor da string. Uma lista de strings traduzidas pode ser encontrada utilizada este endpoint: `https://api.premid.app/v2/langFile/presence/pt-br`
 
 ```typescript
-// Retorna `Jogando` e `Pausado` linhas
-// da extensão.
+// Retorna strings `Jogando` e `Pausado`
+// a partir da extensão.
 const strings = await presence.getStrings({
   play: "general.playing",
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // resultado: Jogando
+const pauseString = strings.pause; // resultado: Pausado
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Desde a versão 2.2.0 da extensão você pode obter as strings de uma determinada língua. Isso funciona bem com a opção de configuração também recém-adicionada `multiLanguage`.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Sugerimos que você use o seguinte código para que ele atualize automaticamente os dados da Presença se o usuário alterar o idioma selecionado;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Uma interface das strings que você está recebendo (boa para qualidade de código e autocomplete).
 interface LangStrings {
   play: string;
   pause: string;
@@ -115,116 +115,116 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // As strings que você está recebendo, certifique-se de que isto se encaixa com sua interface LangStrings.
       play: "general.playing",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // O ID é o ID da configuração multiLanguage.
     await presence.getSetting("ID")
   );
 }
 
 let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+  // O ID é o ID da configuração multiLanguage.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+//! O seguinte código deve estar dentro do evento updateData!
+// O ID é o ID da configuração multiLanguage.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
   strings = getStrings();
 }
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // resulta: Reproduzindo
+const pauseString = strings.pause; // resulta: Pausado
 ```
 
 ### `getPageletiable(String)`
 
-Retorna a váriavel do site caso exista.
+Retorna uma variável a partir do site, se ela existir.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Isso irá registrar o "Variable content"
 ```
 
 ### `getExtensionVersion(Boolean)`
 
-Retorna a versão da extensão que o usuário está a usar.
+Retorna a versão da extensão que o usuário está usando.
 
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // Irá registrar 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // Irá registrar 2.1.0
 ```
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Retorna o valor da configuração.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); //Substitua pdexID pelo id da configuração
+console.log(setting); // Isto registrará o valor da configuração
 ```
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Esconde a configuração fornecida.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Substitua pdexID pelo id da configuração
 ```
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Mostra a configuração fornecida (Somente funciona se a configuração já estava escondida).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Substitua pdexID pelo id da configuração
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Retorna os logs do console do site.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Isto registrará os últimos 100 logs (em uma array).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Nota:** Requer que `readLogs` seja `true` no arquivo `metadata.json`.
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Registra a mensagem fornecida no console em um formato baseado na presence no estilo `info`.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Isto registrará "test" no estilo correto.
 ```
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Registra a mensagem fornecida no console em um formato baseado na presence no estilo `success`.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Isto registrará "test" no estilo correto.
 ```
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Registra a mensagem fornecida no console em um formato baseado na presence no estilo `error`.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Isto registrará "test" no estilo correto.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Retorna 2 `snowflake` timestamps em uma `Array` que pode ser usado para `startTimestamp` e `endTimestamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** A `String` fornecida no querySelector é um exemplo.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Retorna 2 `snowflake` timestamps em uma `Array` que pode ser usado para `startTimestamp` e `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** A `String` fornecida no querySelector é um exemplo.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Converte uma string com formato `HH:MM:SS`, `MM:SS` ou `SS` em um número inteiro (Não retorna snowflake timestamp).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -259,13 +259,13 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nota:** A `String` fornecida no querySelector é um exemplo.
 
-## `PresenceData` Interface
+## Interface `presenceData`
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+A interface `presenceData` é recomendada quando você usar o método `setActivity()`.
 
-Esta interface está seguindo as váriaveis, todas elas são opcionais.
+Essa interface possui as seguintes variáveis, todas elas são opcionais.
 
 <table>
   <thead>
@@ -277,14 +277,14 @@ Esta interface está seguindo as váriaveis, todas elas são opcionais.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">detalhes</td>
-      <td style="text-align:left">A primeira linha da sua presence, geralmente usada como cabeçalho.</td>
+      <td style="text-align:left">details</td>
+      <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Estado</td>
-      <td style="text-align:left">Segunda linha em sua presence.</td>
+      <td style="text-align:left">state</td>
+      <td style="text-align:left">Segunda linha da sua presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -292,38 +292,37 @@ Esta interface está seguindo as váriaveis, todas elas são opcionais.
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Define o tempo atual.<br>
         Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
-          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
-          contagem regressiva errada.
+          <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
+          contagem errada.
       </td>
-      <td style="text-align:left"><code>numero</code>
+      <td style="text-align:left"><code>Número</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Define a duração completa.
-        <br>Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Define a duração total.
+        <br>Usado se você quiser mostrar quantos <code>horas:minutos:segundos</code> faltam.
+          <br>Você deve converter seu tempo em <code>timestamp</code> ou você receberá uma contagem regressiva errada.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Key</td>
-      <td style="text-align:left">Define o logotipo para a presence.</td>
+      <td style="text-align:left">largeImageKey</td>
+      <td style="text-align:left">Define o logo para a presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Chave</td>
-      <td style="text-align:left">Define o pequeno ícone ao lado da presence&apos;logo .</td>
+      <td style="text-align:left">smallImageKey</td>
+      <td style="text-align:left">Define o pequeno ícone ao lado do logo da presença.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">minhaImagemTexto</td>
-      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele irá colocar o cursor no ícone de
-        pequeno.</td>
+      <td style="text-align:left">smallImageText</td>
+      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele passar o cursor no pequeno 
+        ícone.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -332,11 +331,11 @@ Esta interface está seguindo as váriaveis, todas elas são opcionais.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "Meu titulo",
+  state: "Minha descrição",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "Você me apontou, e agora?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -348,15 +347,15 @@ Os eventos permitem que você detecte e lide com algumas alterações ou chamada
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Faz algo quando os dados são atualizados.
 });
 ```
 
-Há poucos eventos disponíveis:
+Há alguns eventos disponíveis:
 
 #### `UpdateData`
 
-Este evento é disparado toda vez que a presence é atualizada.
+Este evento é disparado toda vez que a presença é atualizada.
 
 #### `iFrameData`
 
