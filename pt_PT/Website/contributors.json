@@ -31,6 +31,10 @@
 		"message": "Revisor do GitHub",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "Gestor de localização",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Programador",
 		"description": "'Developer' title for contributors and user pages."
@@ -68,7 +72,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Clique para copiar o ID do utilizador.",
+		"message": "Clica para copiar o ID do utilizador.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
