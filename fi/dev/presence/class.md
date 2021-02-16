@@ -10,11 +10,11 @@ dateCreated: 2020-06-11T18:04:42.004Z
 
 # Precence-luokka
 
-## Johdanto
+## Introduction
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-Kun luot luokan, sinun täytyy määrittää `clientId` ominaisuus.
+When you create a class you must specify `clientId` property.
 
 ```typescript
 const presence = new Presence({
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Menetelmät
+## Methods
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> Tämä menetelmä toimii vain Mac OS:ssä. 
+> This method works only on Mac OS. 
 > 
 > {.is-warning}
 
@@ -270,7 +270,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Muuttuja</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Kuvaus</th>
       <th style="text-align:left">Tyyppi</th>
     </tr>
