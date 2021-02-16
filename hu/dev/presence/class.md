@@ -1,5 +1,5 @@
 ---
-title: Presence Osztály
+title: Presence Class
 description: The main class for every PreMiD presence
 published: true
 date: 2021-01-04T18:22:24.312Z
@@ -22,7 +22,7 @@ const presence = new Presence({
 });
 ```
 
-### Tulajdonságok
+### Properties
 
 There are three properties available for `Presence` class.
 
@@ -270,9 +270,9 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Változó</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Leírás</th>
-      <th style="text-align:left">Típus</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
