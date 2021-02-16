@@ -1,14 +1,1 @@
-{
-	"twitter.readTweet": {
-		"message": "Tviti oxuyur:",
-		"description": "after the \":\" it will say the username"
-	},
-	"twitter.viewTweets": {
-		"message": "Tvitlərə baxır:",
-		"description": ""
-	},
-	"twitter.viewTweetsWithReplies": {
-		"message": "Tvitlərə (cavablarla) baxır:",
-		"description": ""
-	}
-}
+{}
