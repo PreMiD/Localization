@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Tải PreMiD trên Linux
+description: Getting started with a PreMiD installation on Linux
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể hoạt động một mình.
+The installation of the application is very important as the extension can not do anything by itself.
 
 > Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
 > 
@@ -23,7 +23,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [Credits](#credits)
+  - [Tác giả](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -35,7 +35,7 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 <a name="about"></a>
 
-## About
+## Về
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
@@ -74,13 +74,13 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Tham gia Discord của chúng tôi!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Tham gia Discord của chúng tôi!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### Tác giả
 
 Thanks to :
 
