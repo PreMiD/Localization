@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Classe de Slideshow
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Classe de Slideshow
 
 ## Introdução
 
@@ -27,7 +27,7 @@ const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // Will console log the details of the PresenceData
 ```
 
-## Methods
+## Métodos
 
 ### `addSlide(String, PresenceData, Number)`
 
@@ -83,7 +83,7 @@ Returns a `String` of the id of the slide.
 
 Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
 
-## Methods
+## Métodos
 
 ### `updateData(PresenceData)`
 
