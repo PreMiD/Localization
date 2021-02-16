@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Darba uzsākšana ar PreMiD Linux instalāciju
+description: Getting started with a PreMiD installation on Linux
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
@@ -8,46 +8,46 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-Lietotnes uzstādīšana ir ļoti svarīga, jo paplašinājums pats par sevi neko nevar izdarīt.
+The installation of the application is very important as the extension can not do anything by itself.
 
-> Aur lietotāji, kuri izmanto DoomLerd paketi, jābūt drošiem, kā viņš saka. Mēs neiesakām to izmantot, bet, ja vēlaties, jūs to joprojām to varat izmantot. Paldies DoomLerd par to, ka viņš joprojām uztur aur repozitoriju. 
+> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
 > 
 > {.is-warning}
 
-## Satura rādītājs
+## Table of Contents
 
-- **[Par](#about)**
-  - [Statistika](#stats)
-  - [Prasības](#requirements)
-  - Piemēri (drīzumā)
-  - BUJ (drīzumā)
-  - Būvēšana (drīzumā)
-  - [Atbalsts](#support)
-  - [Beigu titri](#credits)
-  - [Licence](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _nekad_ ™️)
-- **[ Pārnēsājamais AppImage](#appimage)** (_IETEICAMS_)
-  - [Instalēšanas instrukcija](#appimageinstall)
-  - [Papildu piezīmes](#appimagenotes)
-- [**Red hat Enterprise Linux (RHEL) balstītas distribūcijas**](#packagecloud)
-- [**Debian un Ubuntu balstītas distribūcijas**](#packagecloud)
-- [**Arch Linux balstītas distribūcijas**](#arch)
+- **[About](#about)**
+  - [Stats](#stats)
+  - [Requirements](#requirements)
+  - Examples (soon)
+  - FAQs (soon)
+  - Building (soon)
+  - [Support](#support)
+  - [Credits](#credits)
+  - [License](#license)
+- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
+  - [Installation instructions](#appimageinstall)
+  - [Additional notes](#appimagenotes)
+- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
+- [**Debian and Ubuntu based distributions**](#packagecloud)
+- [**Arch Linux based distributions**](#arch)
 
 <a name="about"></a>
 
-## Par
+## About
 
-**PreMiD** ir vienkārša, konfigurējama programma, kas izmanto Discord RP ( RIch Presence) bibliotēku, kas ļauj jums redzēt, ko jūs darāt internetā ( un dažās lietotnēs ) jūsus Discord profilā, kā **spēlē statusu**.
+**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
 <a name="stats"></a>
 
-### Statistika
+### Stats
 
 <table>
   <tr>
-    <th>Izvietošana</th>
-    <th>Kopējais lejupielāžu skaits</th>
-    <th>Jaunākais izlaidums</th>
+    <th>Deployment</th>
+    <th>Total downloads</th>
+    <th>Latest release</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
@@ -58,9 +58,9 @@ Lietotnes uzstādīšana ir ļoti svarīga, jo paplašinājums pats par sevi nek
 
 <a name="requirements"></a>
 
-### Prasības
+### Requirements
 
-Tehniski, katra distribūcija, kas var palaist Discord [oficiālo](https://discordapp.com/download) **lietotni** (nevis interneta vai snap versiju) var palaist arī PreMiD;</br> Kā jūs, iespējams, pamanījāt pēdējos gados, dažas Linux disitribūcijas sāka beigt atbalstīt 32-bit (ia32/i686/i386/x86) arhitektūras, kā rezultātā mēs arī to izdarījām. Jūs varat mēģināt pats izveidot lietotni, ja jums to ļoti vajag izmantot to uz 32-bit distribūcijas.</br> Tā kā šobrīd izmantojam Electron kā motoru (arī Discord to izmanto!), tā prasības attiecas arī uz šo lietotni:
+Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
