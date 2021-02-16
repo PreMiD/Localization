@@ -1,18 +1,1 @@
-{
-    "facebook.call": {
-        "message": "通話中:",
-        "description": ""
-    },
-    "facebook.vcall": {
-        "message": "視訊通話中:",
-        "description": ""
-    },
-    "facebook.savedVids": {
-        "message": "儲存影片",
-        "description": ""
-    },
-    "facebook.added": {
-        "message": "最近新增",
-        "description": ""
-    }
-}
+{}
