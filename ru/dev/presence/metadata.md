@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Содержит основные данные о присутствии
+description: Contains basic data about the Presence
 published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
@@ -10,205 +10,207 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-Если вы хотите опубликовать присутствие в магазине и загрузить его через расширение, вы должны создать файла `metadata.json` в папке `dist`.
+If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
 
-Пример этого файла можно найти ниже.
+An example of that file can be found below.
 
 ```typescript
 {
   "author": {
-    "name": "ПОЛЬЗОВАТЕЛЬ",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "ПОЛЬЗОВАТЕЛЬ",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "СЕРВИС",
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "ОПИСАНИЕ"
+    "en": "DESCRIPTION"
   },
-  "url": "ССЫЛКА",
+  "url": "URL",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
-  "version": "ВЕРСИЯ",
-  "logo": "ССЫЛКА",
-  "thumbnail": "ССЫЛКА",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#45A8FC",
   "tags": ["TAG1", "TAG2"],
-  "category": "КАТЕГОРИИ",
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
-        { 
-            "id": "ID",
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
-            "value": true
-        },
-        {
-            "id": "ID",
-            "if": {
-                "ID": true
-            },
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
-            "value": "\"%song%\" by %artist%",
-            "placeholder": "use %song% or %artist%"
-        },
-        {
-            "id": "ID",
-            "title": "ВИДИМЫЙ ЗАГОЛОВОК",
-            "icon": "ИКОНКА",
-            "value": 0,
-            "values": ["1", "2", "etc."]
-        }
-    ]
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": true
+    },
+    {
+      "id": "ID",
+      "if": {
+        "ID": true
+      },
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
+    },
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": 0,
+      "values": ["1", "2", "etc."]
+    }
+  ]
 }
 ```
 
-## Описание файла metadata.json
+## Understanding the metadata.json
 
-Этот пример выглядит странно, да? Не волнуйтесь, это не так трудно понять для каждой переменной.
+That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Переменная</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Описание</th>
       <th style="text-align:left">Тип</th>
-      <th style="text-align:left">Необязательно</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
-        режим и правый клик на вашем профиле.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
-        режим и правый клик на вашем профиле.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">Название услуги, которую поддерживает это присутствие.</td>
+      <td style="text-align:left">The title of the service that this presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Уметь искать присутствие, используя альтернативное имя.<br>
-      Предназначен для использования для присутствий с разными названиями на разных языках. (e.g. Pokémon and 포켓몬스터).<br>
-      Вы также можете использовать его для присутствий со специальными символами, поэтому вам не нужно их вводить (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
+      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Описание сервиса <b>НЕ</b> присутствия. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. Можно посмотреть список категорию для языков присутствия. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. Можно посмотреть список категорию для языков присутствия. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL сервиса.<br><b>Пример:</b><code>vk.com</code><br>
-        <b>Этот URL должен совпадать с URL сайта, так как он будет использоваться для определения сайта для вставки скрипта. Это может быть использовано в качестве массива только при наличии более URL's.</b></td>
+      <td style="text-align:left">URL of the service.<br>
+      <b>Example:</b><code>vk.com</code><br>
+      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Это может быть использовано в качестве массива только при наличии более URL's.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">Строка регулярного выражения, используемая для сопоставления Url-адресов.</td>
+      <td style="text-align:left">A regular expression string used to match urls.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Версия вашего присутствия.</td>
+      <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Ссылка на сервис&apos;с логотипом</td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Ссылка на миниатюру вашего присутствия.</td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> значение. Мы рекомендуем использовать основной цвет сервиса
-        , который поддерживает ваше присутствие.</td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Массив меток, они помогут пользователям найти ваше присутствие на сайте.</td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">Строка, используемая для представления категории присутствия.</td>
+      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Нет</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Определяет, используются ли <code>iFrames</code></td>
+      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
+      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Массив настроек, которые пользователь может изменить</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Да</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
 
-## Регулярные выражения (Regex)
+## Regular Expressions
 
-Если вы хотите изучать регулярные выражения, вот несколько сайтов.
+If you want to learn regular expressions, here are a few websites.
 
-#### Обучение
+#### Learning
 
-• [Быстрый Стартер Видео](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Информация о регулярных выражениях](https://www.regular-expressions.info/tutorial.html)
+• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Проверка
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Языки присутствия
+## Presence languages
 
-PreMiD - это полиусиленный сервис, что означает наличие множества языков, способных подключить пользователей по всему миру. Полный список языков можно найти на [конечной точке API](https://api.premid.app/v2/langFile/list). Чтобы настроить свое присутствие еще больше, вы можете позволить пользователям выбрать язык отображения присутствия см. [`multiLanguage`](#multilanguage) для больше.
+PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
 
-## Настройки присутствия
-Настройте интерактивные настройки, чтобы пользователи могли настраивать присутствие!
+## Presence settings
+Setup interactive settings so users can customize the presence!
 ```typescript
 "settings": [
   {
@@ -218,7 +220,7 @@ PreMiD - это полиусиленный сервис, что означает
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON", //Example "fas fa-info"
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
     "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
@@ -227,141 +229,144 @@ PreMiD - это полиусиленный сервис, что означает
       "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
     "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME FREE ICON",
+    "icon": "FONTAWESOME ICON",
     "value": 0, //Default value of the selector
     "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
+  }
+]
 ```
 
 ### `multiLanguage`
 
-#### Введение
+#### Introduction
 
-Параметр `мультиЯзык` используется для того, чтобы позволить пользователям вручную выбрать язык, на котором они хотят присутствовать. Это требует использования строк из нашего [API](https://api.premid.app/v2/langFile/presence/en), для информации о том, как добавлять строки нажмите [здесь](/dev/presence/metadata/adding-new-strings).
+The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
-#### Настройки
+#### Setup
 
-Параметр `многоязычность` является особым случаем, не требует заголовка `` и `иконки` и не `значения` или `значения` как и другие параметры, но это требует дополнительных настроек!
+The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
 
-Клавиша `многоязычность` может быть изменена на следующее:
+The `multiLanguage` key can be set to the following:
 
-`true`: используйте это, если вы собираетесь использовать только строки `общего характера. son` файл и файл `<service>.json` в [Репозиторий локализации](https://github.com/PreMiD/Localization/tree/master/src/Presence). `строка`: имя файла, исключая расширение (. son) внутри [Репозитория локализации](https://github.com/PreMiD/Localization/tree/master/src/Presence) (за исключением `общего файла`, так как он всегда загружается). Будут показаны только общие языки `общего` и введенного файла. `Array<String>`: если вы используете более одного файла внутри [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) вы можете указать все значения в массиве (за исключением `general` файл, так как он всегда загружен). Будут показаны только общие языки всех файлов.
+`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
 
-#### Добавление новых строк
+#### Adding new strings
 
-##### Клонирование проекта
+##### Cloning the project
 
-1. Откройте терминал и введите `git clone https://github.com/PreMiD/Localization`.
-2. Выберите папку по вашему выбору.
-3. Откройте его в редакторе кода.
+1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
-##### Создание файла DjVu
+##### Creating the file
 
-1. Перейдите в папку `src`.
-2. Перейдите в папку `src`.
-3. Создайте файл с именем `<service>.json`. (Создайте папку с **именем** (не URL) сервиса, который вы хотите поддерживать.)
+1. Go into the `src` folder.
+2. Go into the `Presence` folder.
+3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
 
-##### Добавление строк
+##### Adding the strings
 
-Каждая `строка` — это объект ``, где от имени начинается с названия службы, а затем так называемое stringName с точкой между ними.
+Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
 
-Имя строки является идентификатором 1 слова сообщения.
+The stringName is a 1 word identifier of the message.
 
-`Объект` имеет 2 свойства; `сообщение` и `описание`. `сообщение` - это текст, который необходимо перевести. `описание` это описание сообщения, чтобы помочь нашим переводчикам понять, что они переводят.
+The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
 
-**Note:** Не добавляйте повторяющиеся строки. (Это включает строки из файла `general.json`, но не из других файлов.)
+**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
 
-Визуализация файла:
+Visualization of the the file:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Текст, который нужно перевести.",
-    "description": "Это объясняет, что сообщение выше."
+    "message": "Text that needs to be translated.",
+    "description": "This explains what the message above is."
   },
   "<service>.<stringName>": {
-    "message": "Текст, который нужно перевести.",
-    "description": "Это объясняет, что сообщение выше."
+    "message": "Text that needs to be translated.",
+    "description": "This explains what the message above is."
   }
+}
 ```
 
-После того, как вы полностью сделали файл со строками, вы можете создать Pull Request в [Репозиторий локализации](https://github.com/PreMiD/Localization), в описании, которое вы **должны** включить ссылку на ваш Pull Request of the presence updated using these new strings from [Presence Repository](https://github.com/PreMiD/Presences).
+After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
 
-#### Ключи по умолчанию
-Ключи, которые вы не должны были установить, автоматически устанавливаются на следующее: `заголовок`: "Язык" **Примечание:** Это переведено на язык по умолчанию (язык браузера). `значок`: "fas fa-language" ([Предварительный просмотр](https://fontawesome.com/icons/language)) `значение`: **Установите на их язык браузера, если он доступен (100% переведен), иными словами, английский язык.** `значения`: **Установка на доступные языки (языки, на которых переводятся на 100%).**
+#### Default keys
+The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
 
-**Примечание:** Они ни в коей мере не изменяются.
+**Note:** These are in no way changeable.
 
-### Методы
+### Methods
 
 Используйте следующие методы для получения информации о настройках в файлах присутствия:
 #### `getSetting(String)`
-Возвращает значение настройки.
+Returns value of setting.
 ```typescript
-var setting = await presence.getSetting("pdexID"); // Заменить pdexID идентификатором параметра
-console.log(setting); // Сообщается установка в логи
+const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
+console.log(setting); // This will log the value of the setting
 ```
 
 #### `hideSetting(String)`
-Скрывает указанные настройки.
+Hides given setting.
 ```typescript
-presence.hideSetting("pdexID"); // Заменить pdexID идентификатором настройки
+presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 #### `showSetting(String)`
-Показывают данные настройки (работает только если настройка была скрыта).
+Shows given setting (Only works if the setting was already hidden).
 ```typescript
-presence.showSetting("pdexID"); // Заменить pdexID идентификатором настройки
+presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
-## Категории присутствия
+## Presence categories
 
 При создании вашего присутствия, вы должны указать категорию, в которой находится присутствие. Это список категорий, которые вы можете использовать.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Категория</th>
-      <th style="text-align:left">Наименование</th>
+      <th style="text-align:left">Category</th>
+      <th style="text-align:left">Name</th>
       <th style="text-align:left">Описание</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>anime</b></td>
-      <td style="text-align:left"><b>Аниме</b></td>
-      <td style="text-align:left">Все что относится к аниме, от форумов до платформ потокового видео.</td>
+      <td style="text-align:left"><b>Anime</b></td>
+      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Игры</b></td>
-      <td style="text-align:left">Любой сайт, имеющий связанный с игрой контент, например <code>Kahoot</code> или <code>Skribbl.io</code></td>
+      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-      <td style="text-align:left"><b>Музыка</b></td>
-      <td style="text-align:left">Это веб-сайты, которые предлагают контент, связанный с музыкой, будь то трансляция или загрузка.</td>
+      <td style="text-align:left"><b>Music</b></td>
+      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Соц. сети</b></td>
-      <td style="text-align:left">Сайты, которые используются для создания и обмена контентом или для участия в других формах социальных сетей.</td>
+        <td style="text-align:left"><b>Socials</b></td>
+      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Видео и Стримы</b></td>
-      <td style="text-align:left">Веб-сайты, которые служат цели предоставления видео и потоков.</td>
+      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-      <td style="text-align:left"><b>Прочее</b></td>
-      <td style="text-align:left">Все, что не относится к конкретной категории, перечисленной выше.</td>
+      <td style="text-align:left"><b>Other</b></td>
+      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
   </tbody>
 </table>
