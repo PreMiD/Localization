@@ -1,6 +1,6 @@
 ---
 title: Probleemoplossing
-description: Alles om u probleem op te los
+description: Everything to solve your problem
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
