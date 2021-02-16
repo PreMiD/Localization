@@ -2,7 +2,7 @@
 title: Chromium
 description: Chromium 기반 브라우저에 PreMiD 설치를 시작해봐요.
 published: true
-date: 2020-04-22 20시 13분 7초
+date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
