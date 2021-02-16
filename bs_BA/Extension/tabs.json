@@ -3,10 +3,6 @@
     "message": "Popis izmjena",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
-  "tab.button.wiki": {
-    "message": "Wiki",
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
-  },
   "tab.installed.heading": {
     "message": "Hvala vam",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
@@ -19,17 +15,9 @@
     "message": "Počni koristiti {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
-  "donate": {
-    "message": "Doniraj",
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
-  },
   "tab.installed.error": {
     "message": "nismo mogli konektovati na aplikaciju dali je već instaliran?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.link.troubleshooting": {
-    "message": "Rešavanje problema",
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
     "message": "Instaliraj aplikaciju",
