@@ -1,51 +1,51 @@
 ---
-title: Classe iFrame
+title: iFrame Class
 description:
-published: true
+published: vero
 date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
 # iFrame Class
-> Il sistema iframe con PreMiD è problematico e può avere un comportamento inaspettato, utilizzare con attenzione. 
+> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
 > 
 > {.is-danger}
 
 ## Introduzione
 
-In alcuni scenari, la tua presence può avere bisogno di accedere ad elementi posizionati dentro `iframe`.
+In some scenarios, your presence may need to access elements inside of `iframes`.
 
-Il codice che scrivi dentro il tuo file `iframe.ts` verrà iniettato in ogni iframe della pagina.
+The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
-Come le presence, gli `iframe` hanno le loro classi progettate per aggiornare i dati automaticamente.
+Like presences, `iframes` have their own classes designed to automatically update data.
 
 ```typescript
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Il codice va qui...
+    // Code goes here...
 });
 ```
 
 ## Metodi
 
 ### `send(Object)`
-Manda dati alla presence. Usare questo metodo permetterà alla presence di lanciare un evento `iFrameData`.
+Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
 
 ### `getUrl()`
-Ritorna l'URL dell'`iframe`.
+Returns the URL of the `iframe`.
 
 ## Eventi
-Negli `iframe` gli eventi funzionano similmente a come funzionano nella classe della `Presence`.
+In `iframes`, events work similarly to the way they work in the `presence` class.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Il codice va qui...
+    // Code goes here...
 });
 ```
 
-Qui c'è una lista di tutti gli eventi:
+Here is a list of all of the events:
 
 #### `UpdateData`
 
-Questo evento è lanciato ogni volta che un iframe viene aggiornato.
+This event is fired every time the iframe is being updated.
