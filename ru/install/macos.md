@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Начните установку с PreMiD на macOS
+description: Getting started with a PreMiD installation on macOS
 published: true
-date: 12 февраля 2020г. 22:08:37
+date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Прежде чем продолжить, убедитесь, что ваша система соответствует [требованиям](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-Установка приложения очень важна, так как расширение не может делать ничего самостоятельно.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Установить
-1. Перейдите на нашу страницу загрузок, нажав [здесь](https://premid.app/downloads).
-2. Выберите **ОС X**.
-3. При необходимости извлечь архив.
-4. Откройте установщик.
-5. Появится **предупреждение безопасности** , если вы установите PreMiD впервые. Зайдите в свои **Настройки** > **Безопасность** > **Общая** > **Открыть в любом случае**. [Узнайте больше](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) о неподписанных приложениях.
-> Это потому, что у нас нет сертификата подписи кода (CSC). [Поддержите нас,](https://www.patreon.com/Timeraa) чтобы пополнить его.{.is-info}
-6. Выбирать открытые, когда появится запрос.
-7. Предоставить доступ к соединениям через **Брандмауэр** и управлять **системными событиями** при появлении запроса.
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+2. Choose **OS X**.
+3. Extract the archive if necessary.
+4. Open the installer.
+5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
+> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+6. Choose open when prompted.
+7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-Приложение будет запущено автоматически. Отметьте символ в строке меню.
+The application will start automatically. Check for the symbol in your menu bar.
 
-> Не забудьте [добавить расширение ****](/install). 
+> Do not forget to [add the **extension**](/install). 
 > 
 > {.is-warning}
 
