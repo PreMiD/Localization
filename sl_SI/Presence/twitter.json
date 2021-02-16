@@ -1,8 +1,4 @@
 {
-	"twitter.readTweet": {
-		"message": "Branje tweet-a:",
-		"description": "after the \":\" it will say the username"
-	},
 	"twitter.viewDms": {
 		"message": "Ogledovanje njegovih DM-jev",
 		"description": ""

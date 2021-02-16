@@ -3,12 +3,8 @@
         "message": "A ver gag:",
         "description": ""
     },
-    "9gag.hot": {
-        "message": "A ver o que está em brasa",
-        "description": ""
-    },
-    "9gag.fresh": {
-        "message": "A ver o que está fresco",
+    "9gag.trending": {
+        "message": "A ver as tendências",
         "description": ""
     },
     "9gag.tag": {

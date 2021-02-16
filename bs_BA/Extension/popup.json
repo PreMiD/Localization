@@ -43,42 +43,6 @@
 		"message": "Upravljajte",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
-	"popup.presences.noPresences": {
-		"message": "Nema prisustva dodato",
-		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
-	},
-	"popup.presences.done": {
-		"message": "Gotovo",
-		"description": "Done button"
-	},
-	"popup.presences.load": {
-		"message": "Učitaj Prisutnost",
-		"description": "Load Presence button"
-	},
-	"popup.buttons.presenceStore": {
-		"message": "Trgovina prisutnosti",
-		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
-	},
-	"popup.buttons.help": {
-		"message": "Treba pomoći?",
-		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
-	},
-	"popup.credits.error.heading": {
-		"message": "Oh ne!",
-		"description": "Title of the error message (located at the 'credits' tab in the popup)"
-	},
-	"popup.credits.error.message": {
-		"message": "Greška prilikom učitavanja kredita",
-		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
-	},
-	"popup.info.notConnected": {
-		"message": "Nije povezano",
-		"description": "Shown when the extension can't connect to the application"
-	},
-	"popup.info.notConnected.message": {
-		"message": "PreMiD se nije uspio povezati na aplikaciju! Da li je instalirano i uključeno? *Rješavanje problema*",
-		"description": "Shown when the extension can't connect to the application"
-	},
 	"popup.info.unsupportedAppVersion": {
 		"message": "Zastarjela aplikacija",
 		"description": "Shown when application is outdated"
@@ -105,14 +69,6 @@
 	},
 	"popup.category.all": {
 		"message": "Sve",
-		"description": "Category name shown when you open tags"
-	},
-	"popup.category.anime": {
-		"message": "Anime",
-		"description": "Category name shown when you open tags"
-	},
-	"popup.category.music": {
-		"message": "Muzika",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.games": {

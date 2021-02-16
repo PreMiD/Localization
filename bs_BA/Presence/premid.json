@@ -1,18 +1,34 @@
 {
-	"premid.viewPage": {
-		"message": "Stranica za pregled:",
-		"description": ""
+	"premid.pageContributors": {
+		"message": "Saradnici",
+		"description": "A page name"
 	},
-	"premid.docs": {
-		"message": "Dokumenti",
-		"description": "as in documents"
+	"premid.pageDownloads": {
+		"message": "Preuzimanja",
+		"description": "A page name"
 	},
-	"premid.viewPresence": {
-		"message": "Prisutnost pregleda:",
-		"description": ""
+	"premid.pageStore": {
+		"message": "Prodavnica",
+		"description": "A page name"
 	},
-	"premid.pageHome": {
-		"message": "Početna stranica",
+	"premid.partners": {
+		"message": "Partneri",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "O PreMiD-u",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Prvi koraci",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Razvoj presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Klasa prisutnosti",
 		"description": "A page name"
 	}
 }

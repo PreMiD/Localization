@@ -123,14 +123,6 @@
 		"message": "我们通过广告来维持我们的团队和服务器，以为您提供最好的用户体验！",
 		"description": "Message of the advertisement section box."
 	},
-	"downloads.showbeta.message": {
-		"message": "显示 Beta 版本",
-		"description": ""
-	},
-	"downloads.showbeta.small": {
-		"message": "（如果你在这里下载了普通的应用程序，请无视）",
-		"description": "Small text under the show beta title."
-	},
 	"downloads.skipanyway.message1": {
 		"message": "我不想关闭广告拦截。",
 		"description": "Skip anyway messages (changes everytime you click it)."

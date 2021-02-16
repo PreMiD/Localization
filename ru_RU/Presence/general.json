@@ -7,289 +7,33 @@
 		"message": "Смотрит...",
 		"description": ""
 	},
-	"general.chapter": {
-		"message": "Глава",
-		"description": ""
-	},
-	"general.dj": {
-		"message": "DJ",
-		"description": ""
-	},
-	"general.editing": {
-		"message": "Редактирует:",
-		"description": ""
-	},
 	"general.episode": {
 		"message": "Эпизод",
-		"description": ""
-	},
-	"general.forums": {
-		"message": "Форумы",
-		"description": ""
-	},
-	"general.genre": {
-		"message": "Жанр",
 		"description": ""
 	},
 	"general.language": {
 		"message": "Язык",
 		"description": "For choosing a language"
 	},
-	"general.listeningMusic": {
-		"message": "Слушает музыку",
-		"description": ""
-	},
-	"general.listeners": {
-		"message": "Слушатели",
-		"description": ""
-	},
 	"general.live": {
 		"message": "Прямой эфир",
-		"description": ""
-	},
-	"general.manga": {
-		"message": "Манга",
-		"description": ""
-	},
-	"general.merch": {
-		"message": "Товары",
-		"description": ""
-	},
-	"general.page": {
-		"message": "Страница",
-		"description": ""
-	},
-	"general.paused": {
-		"message": "Приостановлено",
-		"description": ""
-	},
-	"general.playing": {
-		"message": "Играет",
-		"description": ""
-	},
-	"general.readingDM": {
-		"message": "Читает ЛС от:",
-		"description": ""
-	},
-	"general.readingAbout": {
-		"message": "Читает:",
-		"description": ""
-	},
-	"general.readingArticle": {
-		"message": "Читает статью:",
-		"description": ""
-	},
-	"general.readingChannel": {
-		"message": "Читает в канале:",
-		"description": ""
-	},
-	"general.readingPost": {
-		"message": "Читает поста:",
-		"description": ""
-	},
-	"general.readingThread": {
-		"message": "Читает темы:",
 		"description": ""
 	},
 	"general.reading": {
 		"message": "Читать",
 		"description": ""
 	},
-	"general.searchFor": {
-		"message": "Ищет:",
-		"description": ""
-	},
-	"general.searchSomething": {
-		"message": "Ищет что-нибудь...",
-		"description": ""
-	},
 	"general.search": {
 		"message": "Искать",
-		"description": ""
-	},
-	"general.writing": {
-		"message": "Написание",
-		"description": ""
-	},
-	"general.calling": {
-		"message": "Вызов",
-		"description": ""
-	},
-	"general.inCall": {
-		"message": "В процессе звонка...",
-		"description": ""
-	},
-	"general.shopCart": {
-		"message": "Корзина",
 		"description": ""
 	},
 	"general.store": {
 		"message": "Магазин",
 		"description": ""
 	},
-	"general.typeDM": {
-		"message": "Печатает в ЛС для:",
-		"description": ""
-	},
-	"general.typeChannel": {
-		"message": "Печатает в канале:",
-		"description": ""
-	},
-	"general.viewAnime": {
-		"message": "Смотрит аниме:",
-		"description": ""
-	},
-	"general.viewCategory": {
-		"message": "Смотрит категорию:",
-		"description": ""
-	},
-	"general.viewChannel": {
-		"message": "Смотрит канал:",
-		"description": ""
-	},
-	"general.viewEpisode": {
-		"message": "Смотрит эпизод:",
-		"description": ""
-	},
-	"general.viewGenre": {
-		"message": "Смотрит раздел:",
-		"description": ""
-	},
-	"general.viewHome": {
-		"message": "Смотрит домашней страницы",
-		"description": ""
-	},
-	"general.viewList": {
-		"message": "Смотрит список:",
-		"description": ""
-	},
-	"general.viewManga": {
-		"message": "Смотрит манга:",
-		"description": ""
-	},
-	"general.viewMember": {
-		"message": "Смотрит пользователя:",
-		"description": ""
-	},
-	"general.viewMovie": {
-		"message": "Смотрит кино:",
-		"description": ""
-	},
-	"general.viewPlaylist": {
-		"message": "Смотрит плейлиста:",
-		"description": ""
-	},
-	"general.viewProduct": {
-		"message": "Смотрит продукта:",
-		"description": ""
-	},
-	"general.viewProfile": {
-		"message": "Смотрит профиля:",
-		"description": ""
-	},
-	"general.viewSeries": {
-		"message": "Смотрит серии:",
-		"description": ""
-	},
-	"general.viewShow": {
-		"message": "Смотрит шоу:",
-		"description": ""
-	},
-	"general.viewAccount": {
-		"message": "Смотрит учетной записи",
-		"description": ""
-	},
-	"general.viewThread": {
-		"message": "Смотрит темы:",
-		"description": ""
-	},
-	"general.viewUser": {
-		"message": "Смотрит пользователя:",
-		"description": ""
-	},
-	"general.viewing": {
-		"message": "Смотрит:",
-		"description": ""
-	},
 	"general.viewPage": {
 		"message": "Смотрит страницу:",
 		"description": ""
-	},
-	"general.watchingMovie": {
-		"message": "Смотрит фильм",
-		"description": ""
-	},
-	"general.watchingSeries": {
-		"message": "Смотрит серию",
-		"description": ""
-	},
-	"general.watchingShow": {
-		"message": "Cмотрит шоу",
-		"description": ""
-	},
-	"general.watchingVid": {
-		"message": "Просмотр видео",
-		"description": ""
-	},
-	"general.waitingVid": {
-		"message": "В ожидании премьеры видео",
-		"description": "For privacy reasons (\"A\" video, as in not specified)"
-	},
-	"general.waitingVidThe": {
-		"message": "В ожидании премьеры видео",
-		"description": "\"the\" video, as in the video title is specified)"
-	},
-	"general.watchingLive": {
-		"message": "Смотрит трансляцию",
-		"description": ""
-	},
-	"general.waitingLive": {
-		"message": "Ожидается, что прямая трансляция начнется",
-		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
-	},
-	"general.waitingLiveThe": {
-		"message": "Ожидается, что прямая трансляция начнется",
-		"description": "\"the\" livestream, as in the livestream title is specified)"
-	},
-	"general.watching": {
-		"message": "Смотрит:",
-		"description": ""
-	},
-	"general.wishlist": {
-		"message": "Избранное:",
-		"description": ""
-	},
-	"general.privacy": {
-		"message": "Политика конфиденциальности",
-		"description": "A page name"
-	},
-	"general.terms": {
-		"message": "Пользовательское соглашение",
-		"description": "A page name"
-	},
-	"general.cookie": {
-		"message": "Политика cookies",
-		"description": "A page name"
-	},
-	"general.repeatAll": {
-		"message": "Зацикливание всех песен",
-		"description": ""
-	},
-	"general.repeat": {
-		"message": "В петле",
-		"description": ""
-	},
-	"general.incidentView": {
-		"message": "Просмотр инцидента",
-		"description": "A page name of statuspages"
-	},
-	"general.incidentHistory": {
-		"message": "История инцидентов",
-		"description": "A page name of statuspages"
-	},
-	"general.uptimeHistory": {
-		"message": "История рабочего времени",
-		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
 		"message": "Смотрит серию",
@@ -301,34 +45,6 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Смотрит эпизод",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchVideo": {
-		"message": "Посмотреть Видео",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewChannel": {
-		"message": "Видеть каналы",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonListenAlong": {
-		"message": "Слушать вместе",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPage": {
-		"message": "Просмотр страницы",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewSong": {
-		"message": "Просмотр песни",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewAlbum": {
-		"message": "Просмотр альбома",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewProfile": {
-		"message": "Просмотреть профиль",
 		"description": "Used as the title for the button in Discord."
 	}
 }

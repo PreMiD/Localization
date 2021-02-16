@@ -15,10 +15,6 @@
 		"message": "مدیر پروژه",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
-	"contributors.roles.staffCoordinator": {
-		"message": "هماهنگ‌ساز کارکنان",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
 	"contributors.roles.marketingDirector": {
 		"message": "رئیاست بازاریابی",
 		"description": "'Marketing Director' title for contributors and user pages."

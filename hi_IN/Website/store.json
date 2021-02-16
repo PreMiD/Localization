@@ -1,22 +1,26 @@
 {
-	"store.message.error": {
-		"message": "एक्सटेंशन कनेक्ट नहीं है",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	"store.category.all": {
+		"message": "सभी",
+		"description": "Category at the top"
 	},
-	"store.cards.creator": {
-		"message": "लेखक",
-		"description": "Creator of a presence"
+	"store.category.games": {
+		"message": "खेल",
+		"description": "Category at the top"
 	},
-	"store.cards.popular": {
-		"message": "यह Presence उपयोगकर्ताओं के आसपास बहुत लोकप्रिय है।",
-		"description": "Presence card popular flame"
+	"store.category.music": {
+		"message": "संगीत",
+		"description": "Category at the top"
 	},
-	"store.cards.partner": {
-		"message": "भागीदारी Presence",
-		"description": "Presence card partner flame"
+	"store.category.socials": {
+		"message": "सामाजिक",
+		"description": "Category at the top"
 	},
-	"store.cards.extraStepsRequired": {
-		"message": "इस presence के लिए अतिरिक्त चरणों की आवश्यकता होती है, कृपया अधिक जानकारी के लिए इसके पृष्ठ की जाँच करें।",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	"store.category.videos": {
+		"message": "वीडियो और स्ट्रीम",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "अन्य",
+		"description": "Category at the top"
 	}
 }

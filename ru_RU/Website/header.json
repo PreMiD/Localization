@@ -1,8 +1,4 @@
 {
-  "header.language": {
-    "message": "Русский",
-    "description": "Replace English with the name of YOUR language!"
-  },
   "header.languageNotification.title": {
     "message": "Мы поддерживаем ваш язык, использовать его?",
     "description": "Heading of the language notification when user has different language."
@@ -34,25 +30,5 @@
   "header.contributors": {
     "message": "Участники",
     "description": "Contributors tab"
-  },
-  "header.login": {
-    "message": "Войти",
-    "description": "Login Button"
-  },
-  "header.lia": {
-    "message": "Вы вошли как",
-    "description": "Indicates which user is logged in"
-  },
-  "header.rab": {
-    "message": "Сообщить об ошибке",
-    "description": "Report a bug button"
-  },
-  "header.staff": {
-    "message": "Обзор",
-    "description": "Dashboard button"
-  },
-  "header.logout": {
-    "message": "Выйти",
-    "description": "Logout button"
   }
 }

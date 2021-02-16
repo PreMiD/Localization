@@ -1,1 +1,10 @@
-{}
+{
+	"partners.header.title": {
+		"message": "Partneri",
+		"description": "Heading for page."
+	},
+	"partners.apply.select.other": {
+		"message": "Ostalo",
+		"description": "Select 'Other' category."
+	}
+}

@@ -1,4 +1,12 @@
 {
+	"store.cards.creator": {
+		"message": "Autor",
+		"description": "Creator of a presence"
+	},
+	"store.category.all": {
+		"message": "Sve",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Igre",
 		"description": "Category at the top"
@@ -8,15 +16,11 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Videa i Stimovi",
+		"message": "Videi & Strimovi",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
 		"message": "Ostalo",
 		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Pretraga",
-		"description": "Placeholder for presence search"
 	}
 }

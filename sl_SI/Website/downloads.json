@@ -127,10 +127,6 @@
 		"message": "Prosim onemogočite vaš adblock",
 		"description": "Message next to pepe."
 	},
-	"downloads.showbeta.message": {
-		"message": "Pokaži beta prenose",
-		"description": ""
-	},
 	"downloads.showbeta.small": {
 		"message": "(ni potrebe če ste tukaj samo za prenesitev normalne aplikacije)",
 		"description": "Small text under the show beta title."

@@ -1,182 +1,18 @@
 {
-	"discord.channelReading": {
-		"message": "Чтение на канале:{0}{1} (сервер: {2})",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
-	},
-	"discord.channelTyping": {
-		"message": "Чтение на канале:{0}{1} (сервер: {2})",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
-	},
-	"discord.dmReading": {
-		"message": "Чтение DM от:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
-	},
-	"discord.dmTyping": {
-		"message": "Печатать личные сообщения на:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
-	},
-	"discord.dmGroupReading": {
-		"message": "Чтение в групповой DM:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
-	},
-	"discord.dmGroupTyping": {
-		"message": "Чтение в групповой DM:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
-	},
 	"discord.friends": {
 		"message": "Просмотр своих друзей...",
 		"description": ""
-	},
-	"discord.nitro": {
-		"message": "Чтение о Nitro...",
-		"description": ""
-	},
-	"discord.voiceConnectedWith": {
-		"message": "Голосовая связь с:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
-	},
-	"discord.voiceConnectedTo": {
-		"message": "Голос подключен к:{0}{1} (сервер: {2})",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
 	},
 	"discord.settings": {
 		"message": "Просмотр их настроек...",
 		"description": ""
 	},
-	"discord.serverSettings": {
-		"message": "Просмотр настроек{0}сервера: {1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
-	},
-	"discord.invite": {
-		"message": "Просмотр пригласительной ссылки:{0}{1} (Сервер: {2})",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
-	},
-	"discord.inviteServer": {
-		"message": "Просмотр пригласительной ссылки{0}сервера: {1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
-	},
-	"discord.buttonInvite": {
-		"message": "Просмотр ссылки на приглашение",
-		"description": "Used as the title for the button in Discord."
-	},
 	"discord.browseThrough": {
 		"message": "Смотрит через",
 		"description": "The first part of the next 17 strings"
 	},
-	"discord.download": {
-		"message": "страница загрузок",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.why": {
-		"message": "страница \"Почему Discord?\"",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.safety": {
-		"message": "центр Безопасности",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.jobs": {
-		"message": "страница вакансий",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.company": {
-		"message": "страница \"О нас\"",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.branding": {
-		"message": "страница брендинга",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.inspiration": {
-		"message": "вдохновляющая страница",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.college": {
-		"message": "страница колледжа",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.newsroom": {
-		"message": "страница новостей",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.partner": {
-		"message": "на странице партнера",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.verification": {
-		"message": "страница верификации",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.streamkit": {
-		"message": "страница StreamKit",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.opensource": {
-		"message": "страница с открытым исходным кодом",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.security": {
-		"message": "страница безопасности",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.moderation": {
-		"message": "страница модерации",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.rpc": {
-		"message": "страница Rich Presence",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.policies": {
-		"message": "политики",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.devs.portal": {
-		"message": "Портал для разработчиков",
-		"description": ""
-	},
-	"discord.devs.appsBrowse": {
-		"message": "Просмотр через их приложения",
-		"description": ""
-	},
-	"discord.devs.appsEdit": {
-		"message": "Редактирование приложения: {0}",
-		"description": "{0} will be replaced with the name of the app."
-	},
-	"discord.devs.teamsBrowse": {
-		"message": "Просмотр через их команды",
-		"description": ""
-	},
-	"discord.devs.teamsEdit": {
-		"message": "Редактирование команды: {0}",
-		"description": "{0} will be replaced with the name of the team."
-	},
-	"discord.devs.serversBrowse": {
-		"message": "Просмотр на серверах",
-		"description": ""
-	},
-	"discord.devs.serversEdit": {
-		"message": "Просмотр информации о сервере: {0}",
-		"description": "{0} will be replaced with the name of the server."
-	},
-	"discord.devs.docs": {
-		"message": "Прочитать документацию",
-		"description": ""
-	},
-	"discord.status": {
-		"message": "Статус Discord",
-		"description": ""
-	},
 	"discord.support": {
 		"message": "Справочный центр",
-		"description": ""
-	},
-	"discord.blog": {
-		"message": "Блог Discord",
-		"description": ""
-	},
-	"discord.merch": {
-		"message": "Соединение Discord",
 		"description": ""
 	},
 	"discord.merch.collection": {
