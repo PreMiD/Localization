@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Yönergeler
 
-[GitHub Depomuza](https://github.com/PreMiD/Presences) İçerik paylaşırken, bir takım yönergelere uymanız gerekir. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rule sets will keep us and our users from running into issues.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rule sets will keep us and our users from running into issues.
 
 # Oluşturma
 
@@ -212,7 +212,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 > 
 > {.is-warning}
 
-> **Her mevcudiyet, inceleme süreci sırasında kontrol edilecek katı bir linting kural setini takip etmektedir.**,. Aşağıda bir kaç öneri görülebilir. - [TypeScript eklentisinin sıkı tip kontrolü için önerileri](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ ESlint Önerileri](https://eslint.org/docs/rules) 
+> Each presence follows a strict linting ruleset which will be checked during the review process. Aşağıda bir kaç öneri görülebilir. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
 > 
 > {.is-info}
 
@@ -244,7 +244,7 @@ Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yaz
 
 - Bir servisi baştan aşağıya yazmak ve yapımcısının adını değiştirme yetkisine sahip **değilsiniz**. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya bir ay içerisinde herhangi bir değişiklik yapmadıysa, bir Gözden Geçiren ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
 - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Servis Onaylayıcısı ile iletişime geçebilirsiniz.   - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir inceleyici ile iletişime geçebilirsiniz.
--  Herhangi biri hataları düzeltmek için düzeltme sağlayabilir; ancak ** gerekmeyen değişiklikleri yapmak için ** yapmayın **. Geçerli değişiklikler arasında genel düzeltmeler (kod ve yazım hataları), eklemeler (açıklamalar ve etiketler), eksik dosyalar vb. Yer alır. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.</li> </ul>
+-  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Geçerli değişiklikler arasında genel düzeltmeler (kod ve yazım hataları), eklemeler (açıklamalar ve etiketler), eksik dosyalar vb. Yer alır. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
 
 # Onaylanma
 
