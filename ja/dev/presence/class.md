@@ -18,7 +18,7 @@ dateCreated: 2020-06-11T18:04:42.004Z
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // clientIdの例
+  clientId: "514271496134389561" // Example clientId
 });
 ```
 
@@ -50,7 +50,7 @@ Returns a `PresenceData` object of what the presence is displaying.
 
 First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 `PresenceData`にTimestamp（時間）を提供する場合は、`true`にしてください。
+2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 Always use `true` if you provide timestamps in `PresenceData`.
 
 ### `clearActivity()`
 
@@ -263,7 +263,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ## `PresenceData` インターフェース
 
-`setActivity()`メゾットを使用している場合は、`PresenceData`インターフェースを使用することをおすすめします。
+The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
 
 このインターフェースには以下の変数があり、これらすべては指定しなくても構いません。
 
@@ -301,8 +301,7 @@ presenceData.endTimestamp = timestamps[1];
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">全体の長さを指定します
         <br><code>hours:minutes:seconds</code> の形式で残り時間を表示するのに使用します
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>時間を <code>timestamp</code> に変換しなければ、誤った時間が表示されます
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
@@ -330,11 +329,11 @@ presenceData.endTimestamp = timestamps[1];
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "タイトル",
-  state: "説明",
+  details: "My title",
+  state: "My description",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "カーソルを合わせましたね。で、何か？",
+  smallImageText: "You hovered me, and what now?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
 };
@@ -346,7 +345,7 @@ const presenceData: PresenceData = {
 
 ```typescript
 presence.on("UpdateData", async () => {
-  //データが更新された時に特定の動作をする
+  // Do something when data gets updated.
 });
 ```
 
