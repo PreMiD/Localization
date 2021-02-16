@@ -1,23 +1,23 @@
 ---
 title: Firefox
-description: 開始在FireFox上安裝PreMiD
-published: 是
+description: Getting started with a PreMiD installation on Firefox
+published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-安裝擴充功能非常重要，因為單靠本地程式是無法做任何事的。
+安装扩展程序非常重要，因为应用程序本身无法做任何事情。
 
-# 安裝
-1. [點此](https://premid.app/downloads) 前往我們的下載頁面
-2. 選擇 **FireFox**
-3. 搜尋 `about:addons`
-4. 點擊右上角的小齒輪圖標。
-5. 選擇 **從檔案安裝擴充套件**
-6. 選擇你剛剛下載的檔案
-7. 點擊 **新增** 以確認載入
+# 安装
+1. [点击这里](https://premid.app/downloads) 来转到我们的下载页面。
+2. Choose **Firefox**.
+3. Search for `about:addons`.
+4. Click on the small gear icon in the upper right corner.
+5. Choose **Install add-on from file**.
+6. Select the file you downloaded recently.
+7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> 不要忘记 [安装 **应用程序**](/install)。 
 > 
 > {.is-warning}
 
