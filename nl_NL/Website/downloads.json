@@ -92,7 +92,7 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
 	"downloads.warning.message.opera": {
-		"message": "U moet **deze** extensie installeren om PreMiD te installeren van Chrome Webstore.",
+		"message": "Je moet **deze** extensie installeren om PreMiD te installeren van Chrome Webstore.",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
@@ -132,7 +132,7 @@
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Schakel uw adblock alstublieft uit",
+		"message": "Schakel je adblock alstublieft uit",
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
