@@ -1,18 +1,1 @@
-{
-	"spotify.featured": {
-		"message": "精选歌曲",
-		"description": ""
-	},
-	"spotify.charts": {
-		"message": "正在查看歌曲排行榜",
-		"description": ""
-	},
-	"spotify.madeForYou": {
-		"message": "“为你推荐”",
-		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
-	},
-	"spotify.download": {
-		"message": "正在下载 Spotify",
-		"description": ""
-	}
-}
+{}
