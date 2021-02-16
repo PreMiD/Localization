@@ -52,11 +52,11 @@ presence
 
 ## [**metadata.json**](https://docs.premid.app/nl/dev/presence/metadata)
 
-> Voor het gemak van onze presence ontwikkelaars, hebben we een schema gegeven dat u kunt gebruiken om de integriteit van uw `metadata` bestand te valideren. Dit is geheel optioneel en niet nodig tijdens het review proces. 
+> Voor het gemak van onze presence ontwikkelaars, hebben we een schema gegeven dat je kunt gebruiken om de integriteit van je `metadata` bestand te valideren. Dit is geheel optioneel en niet nodig tijdens het review proces. 
 > 
 > {.is-info}
 
-> Het wordt ten zeerste aanbevolen om uw `metadata` bestand in de onderstaande indeling te ordenen, en dat moet u hebben  grammaticaal correct, correcte servicenamen, beschrijvingen, tags en instellingsvelden. Alles wat niet aan de specificaties voldoet **zal niet** toegestaan zijn. 
+> Het wordt ten zeerste aanbevolen om je `metadata` bestand in de onderstaande indeling te ordenen, en dat moet je hebben  grammaticaal correct, correcte servicenamen, beschrijvingen, tags en instellingsvelden. Alles wat niet aan de specificaties voldoet **zal niet** toegestaan zijn. 
 > 
 > {.is-warning}
 
@@ -122,7 +122,7 @@ Elke presence heeft een beschrijvingsbestand genaamd `metadata.json`, de metadat
 }
 ```
 
-> Als een veld als optioneel wordt vermeld in de [documentatie](https://docs.premid.app/en/dev/presence/metadata) en uw presence gebruikt de standaardwaarde ervoor, neem deze niet op in het ` metadata ` -bestand. (bijv. een presence zonder iframe ondersteuning heeft het veld `iframe` niet nodig.) 
+> Als een veld als optioneel wordt vermeld in de [documentatie](https://docs.premid.app/en/dev/presence/metadata) en je presence gebruikt de standaardwaarde ervoor, neem deze niet op in het ` metadata ` -bestand. (bijv. een presence zonder iframe ondersteuning heeft het veld `iframe` niet nodig.) 
 > 
 > {.is-warning}
 
@@ -134,11 +134,11 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`$schema`**
 
-- De schema _key_ **moet** een dollarteken aan het begin ervan bevatten, dit geeft aan dat je je JSON-bestand wilt valideren tegen een model. _Zoals eerder gezegd, hoeft u geen schema toe te voegen, maar als u het toevoegt, moet u dit in aanmerking nemen._
+- De schema _key_ **moet** een dollarteken aan het begin ervan bevatten, dit geeft aan dat je je JSON-bestand wilt valideren tegen een model. _Zoals eerder gezegd, hoeft u geen schema toe te voegen, maar als u het toevoegt, moet je dit in aanmerking nemen._
 
 ### **`author`**
 
-- De ID _waarde_ **moet** uw Discord "snowflake" ID zijn. Je kunt het krijgen door de [ontwikkelaarsmodus](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) in te schakelen. _Verwar dit **niet** met uw applicatie-ID, die alleen voor uw presence is._
+- De ID _waarde_ **moet** je Discord "snowflake" ID zijn. Je kunt het krijgen door de [ontwikkelaarsmodus](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) in te schakelen. _Verwar dit **niet** met je applicatie-ID, die alleen voor je presence is._
 
 ### **`contributors`**
 
@@ -147,7 +147,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`service`**
 
 - De servicenaam **moet** de naam van de presence map zijn. Als de presence zich bijvoorbeeld bevindt op `/websites/Y/YouTube/`moet de servicenaam `YouTube` zijn.
-- U kunt **niet** de URL gebruiken als de servicenaam, tenzij de website de URL als officiële naam gebruikt. Als de naam niet beschrijvend is en als vaag kan worden beschouwd, is het gebruik van de URL **verplicht**. (Bijv.: `YouTube` is toegestaan omdat dat de officiële naam is en beschrijvend is, terwijl `youtube.com` niet is toegestaan. `Top` is een niet-beschrijvende naam, dus het gebruik van de url `top.gg` is **vereist**.)
+- Je kunt **niet** de URL gebruiken als de servicenaam, tenzij de website de URL als officiële naam gebruikt. Als de naam niet beschrijvend is en als vaag kan worden beschouwd, is het gebruik van de URL **verplicht**. (Bijv.: `YouTube` is toegestaan omdat dat de officiële naam is en beschrijvend is, terwijl `youtube.com` niet is toegestaan. `Top` is een niet-beschrijvende naam, dus het gebruik van de url `top.gg` is **vereist**.)
 
 ### **`altnames`**
 
@@ -156,7 +156,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`description`**
 
 - **Alle** presences zijn **verplicht** om een Engelse beschrijving te hebben, ongeacht de taal van de website.
-- Probeer **niet** de beschrijving zelf te vertalen, tenzij u die taal kent, onze vertalers zullen uw `metadata.json` aanpassen en vertalen de beschrijvingen indien nodig.
+- Probeer **niet** de beschrijving zelf te vertalen, tenzij u die taal kent, onze vertalers zullen je `metadata.json` aanpassen en vertalen de beschrijvingen indien nodig.
 
 ### **`url`**
 
@@ -166,7 +166,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`version`**
 
 - Zorg er altijd voor dat het versienummer [semantische versienormen](https://semver.org) volgt, die naar het volgende schema vertaalt: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Iets anders zoals `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` of verander `1.0.0` naar `2.0.` op een bug fix/small change is **niet** toegestaan.
-- De versie van uw metadata **moet** starten met `1.0.0` tenzij gespecificeerd, elke andere versie zal **niet** zijn toegestaan.
+- De versie van je metadata **moet** starten met `1.0.0` tenzij gespecificeerd, elke andere versie zal **niet** zijn toegestaan.
 
 ### **`logo`**
 
@@ -217,14 +217,14 @@ Hieronder vindt u een lijst met velden en hun regels:
 Hier is een lijst met regels die je moet volgen bij het schrijven van je `presence.ts` bestand:
 
 - Verklaar **altijd** een nieuw instance van de `Presence` klasse voor een andere variabele om zeldzame problemen te voorkomen; Dit is geen vereiste voor ontwerp, zodat het in de toekomst kan worden geschrapt.
-- Gebruik **nooit** aangepaste functies wanneer [native varianten beschikbaar zijn](https://docs.premid.app/dev/presence#files-explained); dit zorgt ervoor dat fixes op extensie niveau ook van toepassing zijn op uw presences. Je kunt gebruik maken van alles wat je nodig hebt als je ze niet in de documenten kunt vinden.
+- Gebruik **nooit** aangepaste functies wanneer [native varianten beschikbaar zijn](https://docs.premid.app/dev/presence#files-explained); dit zorgt ervoor dat fixes op extensie niveau ook van toepassing zijn op je presences. Je kunt gebruik maken van alles wat je nodig hebt als je ze niet in de documenten kunt vinden.
 - Het is **verboden** om presences voor een website te coderen zonder ondersteuning toe te voegen aan de hoofdtaal (bijvoorbeeld, een YouTube presence gecodeerd met steun voor Portugees en Japans, maar niet voor Engels zelf.)
-- De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra/secundaire context te bieden (zoals `afspelen/gepauzeerd` voor videosites, `bladeren` voor reguliere sites) niet voor het adverteren van uw Discord profile of iets wat niet gerelateerd is aan PreMiD.
-- U heeft **geen** toegang tot `localStorage`.
+- De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra/secundaire context te bieden (zoals `afspelen/gepauzeerd` voor videosites, `bladeren` voor reguliere sites) niet voor het adverteren van je Discord profile of iets wat niet gerelateerd is aan PreMiD.
+- Je hebt **geen** toegang tot `localStorage`.
 - Bij het openen van cookies voor opgeslagen gegevens, gebruik dan de prefix `PMD_` voor de key.
 - Je mag alleen HTTP/HTTPS verzoeken naar `premid.app` of de website API van de presence maken. Als je externe domeinen gebruikt, moet je uitleggen waarom het nodig is.
 - Velden **niet** instellen in het presenceData object dat ongedefinieerd wordt nadat het is gedeclareerd, gebruik het `delete` sleutelwoord. (bijvoorbeeld, gebruik `delete data.startTimestamp` in plaats van `data.startTimestamp = undefined`)
-- U bent **niet** toegestaan om presences te schrijven die de functionaliteiten van een bepaalde website wijzigen. Dit omvat de aanvulling, schrapping of wijziging van DOM-elementen.
+- Je bent **niet** toegestaan om presences te schrijven die de functionaliteiten van een bepaalde website wijzigen. Dit omvat de aanvulling, schrapping of wijziging van DOM-elementen.
 
 ## [**tsconfig.json**](https://docs.premid.app/nl/dev/presence/tsconfig)
 
@@ -234,13 +234,13 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 
 # Wijzigen
 
-> U **moet** de versie in de **metadata** wijzigen om een hogere waarde te hebben van de vorige versie bij wijzigingen in de **presence.ts**, **iframe.ts** of **metadata.json**. 
+> Je **moet** de versie in de **metadata** wijzigen om een hogere waarde te hebben van de vorige versie bij wijzigingen in de **presence.ts**, **iframe.ts** of **metadata.json**. 
 > 
 > {.is-warning}
 
 In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een lijst met regels die je **moet** volgen tijdens het wijzigen van presences.
 
-- U bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. Als de presence-auteur van de officiële server is verbannen of niet de vereiste wijzigingen heeft aangebracht binnen een maand, kunt u contact opnemen met een verificateur om te zien of u de presence kunt herschrijven.
+- Je bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. Als de presence-auteur van de officiële server is verbannen of niet de vereiste wijzigingen heeft aangebracht binnen een maand, kunt u contact opnemen met een verificateur om te zien of u de presence kunt herschrijven.
 - Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een verificateur voor meer informatie over dit onderwerp.   - Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een verificateur voor meer informatie over dit onderwerp.
 -  Iedereen kan hotfixes aanbieden om bugs op te lossen, maar breng **geen** wijzigingen aan als die **niet** nodig zijn. Geldige wijzigingen omvatten algemene fixes (code en typos), toevoegingen (beschrijvingen en tags), ontbrekende bestanden, etc. Verander **niet** de afbeeldingen als ze niet verouderd zijn en in specificaties vallen.
 
@@ -254,7 +254,7 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 > 
 > {.is-info}
 
-> Houd er rekening mee dat de beoordelaars vrijwillig werken en andere repositories beheren naast deze, uw pull-aanvraag wordt mogelijk niet gereviewd tot uren of zelfs dagen nadat deze is aangemaakt. 
+> Houd er rekening mee dat de beoordelaars vrijwillig werken en andere repositories beheren naast deze, je pull-aanvraag wordt mogelijk niet gereviewd tot uren of zelfs dagen nadat deze is aangemaakt. 
 > 
 > {.is-warning}
 
@@ -262,7 +262,7 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 > 
 > {.is-warning}
 
-Het belangrijkste proces van de ontwikkeling van uw presence, is uw presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze verificateurs zullen bevestigen dat jouw presence voldoet aan de normen en zal deze aan de winkel toevoegen.
+Het belangrijkste proces van de ontwikkeling van je presence, is je presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze verificateurs zullen bevestigen dat jouw presence voldoet aan de normen en zal deze aan de winkel toevoegen.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Presence beoordelaars</h2>
@@ -279,7 +279,7 @@ Herhalende overtredingen zoals het breken van richtlijnen, het spammen van pull 
 In dit scenario zullen de volgende wijzigingen plaatsvinden:
 
 - Presences onder je beheer zullen worden overgedragen naar de PreMiD bot of een andere gebruiker (Verificateurs beslissing). De applicatie-id voor elke presence wordt opnieuw gemaakt onder de naam van de nieuwe eigenaar.
-- Al uw issues en pull-aanvragen (presence toevoegingen, presence aanpassen, enz.) die zijn gecreëerd na het verbod zullen worden gesloten.
+- Al je issues en pull-aanvragen (presence toevoegingen, presence aanpassen, enz.) die zijn gecreëerd na het verbod zullen worden gesloten.
 - Tickets die onder je naam zijn gemaakt met betrekking tot presence-ontwikkeling worden verwijderd.
 
 
@@ -290,23 +290,23 @@ Enkele dingen die je moet weten voordat je een pull request opent:
 - Er zijn 2 reviewers nodig om een pull-aanvraag samen te voegen.
 - Als een pull-aanvraag voor een periode van 14 dagen niet actief is, zal deze worden gesloten.
 - Alle controles **moeten** voldaan zijn voordat er gemerged kan worden.
-- ⚠ U **moet** nieuw, ongewijzigde screenshots (gemaakt door jou) geven die een zijdelings vergelijking van je profiel en de website tonen om te bewijzen dat je presence werkt. _Je mag screenshots samen stikken zodat het makkelijker te bekijken is._ Dit geldt zowel voor het aanmaken van je presence als voor aanpassing in de presence.
+- ⚠ Je **moet** nieuw, ongewijzigde screenshots (gemaakt door jou) geven die een zijdelings vergelijking van je profiel en de website tonen om te bewijzen dat je presence werkt. _Je mag screenshots samen stikken zodat het makkelijker te bekijken is._ Dit geldt zowel voor het aanmaken van je presence als voor aanpassing in de presence.
 - ⚠️ Je bent ook **verplicht** om schermafbeeldingen te maken van eventuele presence-instellingen. Een voorbeeld kan je [hier](https://imgur.com/a/OD3sj5R) zien.
 
 ## `Controles`
 
 ![Controles](https://i.imgur.com/BCDZQe9.png)
 
-Op dit moment wordt de presence in twee afzonderlijke fasen gecontroleerd. Al deze controles helpen de verificateurs te bepalen of uw presence geschikt is voor implementatie.
+Op dit moment wordt de presence in twee afzonderlijke fasen gecontroleerd. Al deze controles helpen de verificateurs te bepalen of je presence geschikt is voor implementatie.
 
 - `Codacy` is een bot die controleert op de kwaliteit van de code. Als je ooit fouten ontvangt voor nieuwe problemen, **moet** je ze oplossen.
-- `Schema Validation` zal uw `metadata.json` bestand scannen op fouten (bijvoorbeeld ontbrekende velden, ongeldige waarde types, etc.). Als je ooit nieuwe problemen ziet, ben je ook **verplicht** om die op te lossen. Het toevoegen van een schemaveld aan je `metadata.json` bestand zal je tekstverwerker (indien ondersteund) toestaan om deze fouten te tonen tijdens de ontwikkeling van je presence.
+- `Schema Validation` zal je `metadata.json` bestand scannen op fouten (bijvoorbeeld ontbrekende velden, ongeldige waarde types, etc.). Als je ooit nieuwe problemen ziet, ben je ook **verplicht** om die op te lossen. Het toevoegen van een schemaveld aan je `metadata.json` bestand zal je tekstverwerker (indien ondersteund) toestaan om deze fouten te tonen tijdens de ontwikkeling van je presence.
 
 ## `Aanvullende Regels`
 
 - Zorg er **altijd** voor dat je presence in de meest geschikte map begint, als de naam begint met een Latijnse letter dan moet het onder de alfabetische overeenkomst vallen (bijv. `D/dアニメストア` of `G/Google`). Alle andere Unicode/niet-Latijnse tekens **moeten** onder de map `#` staan (bijvoorbeeld `#/巴哈姆特`) en nummers onder de `0-9` map (bijvoorbeeld `0-9/4anime`).
 
-Nadat u aan alle richtlijnen voldoet en uw presence ten minste twee keer is geëvalueerd, wordt uw presence toegevoegd aan de winkel.
+Nadat je aan alle richtlijnen voldoet en je presence ten minste twee keer is geëvalueerd, wordt je presence toegevoegd aan de winkel.
 
 # Bijdrages
 
