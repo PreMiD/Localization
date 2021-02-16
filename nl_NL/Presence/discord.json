@@ -131,33 +131,17 @@
 		"message": "het beleid",
 		"description": "Second part of the \"Browsing through\" string"
 	},
-	"discord.devs.portal": {
-		"message": "Developer portaal",
-		"description": ""
-	},
 	"discord.devs.appsBrowse": {
 		"message": "Bladert door apps",
 		"description": ""
-	},
-	"discord.devs.appsEdit": {
-		"message": "Bewerkt app: {0}",
-		"description": "{0} will be replaced with the name of the app."
 	},
 	"discord.devs.teamsBrowse": {
 		"message": "Bladert door teams",
 		"description": ""
 	},
-	"discord.devs.teamsEdit": {
-		"message": "Bewerkt team: {0}",
-		"description": "{0} will be replaced with the name of the team."
-	},
 	"discord.devs.serversBrowse": {
 		"message": "Bladert door servers",
 		"description": ""
-	},
-	"discord.devs.serversEdit": {
-		"message": "Bekijkt de inzichten van server: {0}",
-		"description": "{0} will be replaced with the name of the server."
 	},
 	"discord.devs.docs": {
 		"message": "Leest de documentatie",
@@ -169,14 +153,6 @@
 	},
 	"discord.support": {
 		"message": "Hulpcentrum",
-		"description": ""
-	},
-	"discord.blog": {
-		"message": "Discord Blog",
-		"description": ""
-	},
-	"discord.merch": {
-		"message": "Discord Merch",
 		"description": ""
 	},
 	"discord.merch.collection": {
