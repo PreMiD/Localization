@@ -98,7 +98,7 @@ An example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>сервіс</b></td>
       <td style="text-align:left">Назва служби, яку підтримує ця присутність.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -112,7 +112,7 @@ An example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>опис</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Ваш опис має бути з ключових значень, які вказують на мову, а також опис цієї конкретної мови. Створюйте описи мовами <i>, яких ви знаєте</i>, наші перекладачі будуть вносити зміни до вашого файлу метаданих. View the category for presence languages for a list. </td>
-      <td style="text-align:left"><code>Object</code></td>
+      <td style="text-align:left"><code>Об'єкт</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -126,44 +126,44 @@ An example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Стрічка регулярного виразу, яка використовується для пошуку адрес.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>версія</b></td>
       <td style="text-align:left">Версія вашої присутності.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>логотип</b></td>
       <td style="text-align:left">Посилання на сервіс&apos;logotype.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Посилання на мініатюру присутності.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>колір</b></td>
       <td style="text-align:left"><code>#HEX</code> значення. Ми рекомендуємо використовувати основний колір служби
         , який ваша присутність.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>теги</b></td>
       <td style="text-align:left">Масив із мітками, вони допоможуть користувачам шукати вашу присутність на сайті.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>категорія</b></td>
       <td style="text-align:left">Рядок, який використовується для представлення категорії, на яку падає присутність.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -175,19 +175,19 @@ An example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Селектор регулярних виразів, який вибирає iframes для впровадження параметрів.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>налаштування</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
-      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Масив&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
   </tbody>
