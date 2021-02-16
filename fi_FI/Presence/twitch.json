@@ -1,1 +1,6 @@
-{}
+{
+	"twitch.partners": {
+		"message": "Yhteistyökumppanit",
+		"description": "Page name"
+	}
+}
