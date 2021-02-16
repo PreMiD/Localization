@@ -1,4 +1,8 @@
 {
+	"store.cards.creator": {
+		"message": "Muallif",
+		"description": "Creator of a presence"
+	},
 	"store.category.games": {
 		"message": "O'yinlar",
 		"description": "Category at the top"
@@ -6,17 +10,5 @@
 	"store.category.socials": {
 		"message": "Ijtimoiy",
 		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Videolar va Nashrlar",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Boshqa",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Qidiruv",
-		"description": "Placeholder for presence search"
 	}
 }
