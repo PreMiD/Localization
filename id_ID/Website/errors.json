@@ -1,46 +1,6 @@
 {
-	"store.search.notFound": {
-		"message": "Kami tidak bisa menemukan Presence tersebut...",
-		"description": "Search result text when nothing's found"
-	},
-	"error.code.404": {
-		"message": "Maaf, kami tidak menemukan halaman tersebut.",
-		"description": "Error (404) message"
-	},
-	"error.code.4": {
-		"message": "Kamu mencari Presence yang tidak ada atau sudah dihapus.",
-		"description": "Error (4) message"
-	},
-	"error.code.500": {
-		"message": "Terjadi eror pada server internal.",
-		"description": "Error (500) message"
-	},
-	"error.page.details": {
-		"message": "Detail",
-		"description": "'Details' text on error page container"
-	},
-	"error.page.button": {
-		"message": "Kembali ke homepage",
-		"description": "Button on the error page"
-	},
 	"user.notFound.heading": {
 		"message": "Pengguna tersebut tidak dapat ditemukan. Coba pastikan",
 		"description": "Error when user couldn't be found."
-	},
-	"user.notFound.message1": {
-		"message": "user id yang kamu cari benar.",
-		"description": "Check user ID message."
-	},
-	"user.notFound.message2": {
-		"message": "user telah membuat cukup Presence dan mendapatkan role Pengembang Presence pada server Discord kami.",
-		"description": "Check the presence amount of the developer created message."
-	},
-	"user.notFound.message3": {
-		"message": "jika pengguna lain juga mengalami masalah yang sama pada server Discord kami.",
-		"description": "Check if the error is also happening to others message."
-	},
-	"user.notFound.message4": {
-		"message": "Jika kamu yakin ini adalah kesalahan, harap hubungi kami pada [server Discord kami].",
-		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
