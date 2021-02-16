@@ -1,10 +1,10 @@
 {
-	"twitch.jobs": {
-		"message": "職位",
+	"twitch.downloads": {
+		"message": "下載",
 		"description": "Page name"
 	},
-	"twitch.press": {
-		"message": "新聞中心",
+	"twitch.partners": {
+		"message": "合作夥伴",
 		"description": "Page name"
 	}
 }
