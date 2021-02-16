@@ -107,6 +107,10 @@
 		"message": "搜索中",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "改寫",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "購物車",
 		"description": ""
