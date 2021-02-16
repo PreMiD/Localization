@@ -1,39 +1,39 @@
 ---
-title: Домашний
-description: Официальная документация для v2
+title: Home
+description: Official Documentation for v2
 published: true
 date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
 ---
 
-> Документация все еще дополняется! Некоторые страницы могут быть неполными или отсутствующими. 
+> The documentation is still being edited! Some pages may be incomplete or missing. 
 > 
 > {.is-warning}
 
-# О PreMiD
-- :mag: [Что такое PreMiD?](/about) Намерения, стоящие за PreMiD и почему вы должны его использовать.
-- :link: [Что такое RPC?](https://discordapp.com/rich-presence) Все о Rich Presence и его функциях.
+# About PreMiD
+- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
-# Начало
+# Getting Started
 
-PreMiD — быстрый и простой в установке. Вы должны быть в курсе и работать в кратчайшие сроки.
+PreMiD is quick and easy to install. You should be up and running in no time.
 
-- Убедитесь, что вы прочитали [системные требования](/install/requirements).
-- Следуйте быстрому и простому [руководству по установке](/install).
-- [Устранение неполадок](/troubleshooting) поможет вам в решении общих проблем.
+- Make sure you have read the [system requirements](/install/requirements).
+- Follow the quick and simple [installation guide](/install).
+- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
 
 # Разработчикам
 
-[Начните](/dev) для разработки PreMiD это ваш первый шаг перед написанием кода.
+[Getting Started](/dev) for PreMiD development is your first step before coding some things.
 
-- :computer: [API](/dev/api): Доступ к ресурсам и выполнение действий, используя PreMiD API.
-- :wrench: [Разработка Presence](/dev/presence): Научитесь использовать нашу систему Presence.
+- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
+- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
 # Внесите вклад
-- :bug: [Сообщить об ошибке](https://github.com/PreMiD): Помогите нам разобрать эти ложные ошибки.
+- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
 - :bulb: [Предложите Новую Возможность](https://discord.premid.app/): Нам нужны ваши идеи!
-- :heart: [Пожертвовать](https://www.patreon.com/Timeraa): Сделайте небольшое пожертвование или станьте спонсором этого замечательного проекта!
-- :globe_with_meridians: [Локали](https://translate.premid.app): Разрешить другим пользователям использовать PreMiD на родном языке.
+- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
+- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
