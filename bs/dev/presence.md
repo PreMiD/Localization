@@ -12,36 +12,34 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-info}
 
-Verzija ` 2.x ` uvodi trgovinu [ prisutnosti ](https://premid.app/store). Korisnici sada mogu ručno dodavati i uklanjati svoje omiljene prezentacije putem korisničkog sučelja [ web stranice ](https://premid.app/).
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> Prije početka, visoko je preporučljivo da pogledate naše smjernice o prisutnosti. 
+> Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
 > {.is-warning}
 
 - [Smjernice](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Strukture
+# Structure
 
-Sve prisutnosti su kodirane u [TypeScript](https://www.typescriptlang.org/). [ TypeScript ](https://www.typescriptlang.org/) ima neke ekstra pikantne definicije tipa preko JavaScripta, pa je ispravljanje i identifikacija grešaka mnogo jednostavnija.
+All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installation
 
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (dolazi sa [npm](https://www.npmjs.com/)).
-3. Instalirajte [ TypeScript ](https://www.typescriptlang.org/index.html#download-links) (otvorite terminal i ` npm install -g typecript `).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Kloniranje projekta
 
-1. Otvorite terminal i upišite ` git clone https://github.com/PreMiD/Presences </code.</li>
-<li>Izaberite folder po vašem izboru.</li>
-<li>Otvorite ga u uređivaču koda.</li>
-</ol>
+1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+2. Izaberite folder po vašem izboru.
+3. Otvorite ga u uređivaču koda.
 
-<h2 spaces-before="0">Pravljenje foldera i fajlova</h2>
+## Creating folders and files
 
-<ol start="1">
-<li>Go in the <code>websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Napravite folder sa ** ime ** (nije URL) usluge koju želite podržati.
 3. Kreirajte ` presence.ts ` i datoteku ` tsconfig.json `.
 4. Kreirajte folder pod nazivom ` dist ` inside.
@@ -129,13 +127,13 @@ Napravili smo `metadata.json` kreator datoteka za lijene ljude [ovdje](https://e
 
 Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate urediti vrijednosti svojstava. Imajte na umu da sljedeća svojstva su neobavezna vašoj `metadata.json` datoteci, ako ih ne planirate koristiti, morate ih ukloniti.
 
-- `contributors`
+- `saradnici`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `podešavanja`
 
 **Clarifying some value presets:**
 
@@ -150,14 +148,14 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left"><b>autor</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>saradnici</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -179,7 +177,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>deskripcija</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -210,7 +208,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>verzija</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -235,7 +233,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>tagovi</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -265,7 +263,7 @@ Kopirajte gornji kod i stavite ga u datoteku `metadata.json`. Sada morate uredit
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>podešavanja</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
