@@ -1,23 +1,23 @@
 ---
-title: Venster
-description: Aan die begin met 'n PreMiD-installasie op Windows
+title: Windows
+description: Getting started with a PreMiD installation on Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
-> Voordat u verder gaan, moet u seker maak dat u stelsel aan al die [ vereistes](/install/requirements).{.is-info}
+> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
 
-Die installering van die uitbreiding is baie belangrik, aangesien die toepassing niks op sigself kan doen nie.
+The installation of the application is very important as the extension can not do anything by itself.
 
-# Installeer
+# Install
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. **Kies Chromium**.
-3. Maak die installeerder oop.
-4. **Windows SmartScreen** sal verskyn as u PreMiD vir die eerste keer installeer. Klik op **Meer inligting** en kies dan **Hardloop in elk geval**. > Dit is omdat ons nie 'n Code Signing Certificate (CSC) het nie. [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+2. Choose **Windows**.
+3. Open the installer.
+4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-Die aansoek sal outomaties begin. Soek na die simbool in u stelselbakkie.
+The application will start automatically. Check for the symbol in your system tray.
 
-> Moenie vergeet om te [voeg die **aansoek**](/install).{.is-warning}
+> Do not forget to [add the **extension**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
