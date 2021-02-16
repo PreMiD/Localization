@@ -31,6 +31,10 @@
 		"message": "Pengulas",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "Pengurus Penyetempatan",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Pembangun",
 		"description": "'Developer' title for contributors and user pages."
