@@ -1,7 +1,7 @@
 ---
 title: Firefox
 description: Installation de l'extension PreMiD sur Firefox
-published: true
+published: oui
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
