@@ -108,7 +108,7 @@
 		"description": ""
 	},
 	"general.writing": {
-		"message": "改寫",
+		"message": "改寫中",
 		"description": ""
 	},
 	"general.calling": {
@@ -128,7 +128,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "正在私訊:",
+		"message": "正在私訊給:",
 		"description": ""
 	},
 	"general.typeChannel": {
