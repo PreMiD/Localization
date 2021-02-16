@@ -1,14 +1,14 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
-published: 是
+title: Presence 类
+description: 每个 PreMiD Presence 的主类
+published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Presence Class
+# Presence 类
 
 ## Introduction
 
@@ -271,13 +271,13 @@ This interface has following variables, all of them are optional.
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
-      <th style="text-align:left">種類</th>
+      <th style="text-align:left">描述</th>
+      <th style="text-align:left">Type</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">詳細資料</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
       <td style="text-align:left"><code>String</code>
       </td>
