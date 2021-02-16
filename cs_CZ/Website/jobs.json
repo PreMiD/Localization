@@ -1,8 +1,4 @@
 {
-	"jobs.modal.title": {
-		"message": "Požádát o {0}",
-		"description": "Jobs apply modal title, {0} will be replaced with the job name."
-	},
 	"jobs.modal.step": {
 		"message": "Krok {0} ze 2",
 		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
@@ -23,25 +19,9 @@
 		"message": "Vyplň prosím všechna pole",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD je open-source projekt, což znamená, že jsme neziskový tým, každý dar nebo patreon peníze se vrací zpět do produktu. Podáním žádosti o pracovní pozici v PreMiD potvrzujete, že se dobrovolně zapojujete do týmu, nebudete za svou práci placeni.",
-		"description": "Notice for applicants."
-	},
-	"jobs.guild.required": {
-		"message": "Připojte se k našemu Discordu",
-		"description": "Title of the modal the user will see if it's not in Discord server."
-	},
-	"jobs.guild.explanation": {
-		"message": "Abyste se mohli ucházet o toto místo, musíte být členem našeho Discord serveru. Jinak vás nebudeme moci kontaktovat, pokud vás vybereme!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
 	"jobs.header.title": {
 		"message": "Práce pro PreMiD",
 		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "Jste připraven pomoct největšímu Rich-Presence programu?",
-		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Volná pracovní místa",
@@ -51,60 +31,20 @@
 		"message": "Vysoké výhody",
 		"description": "Text before the benefits cards."
 	},
-	"jobs.benefit1.title": {
-		"message": "Seznamte se s námi",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit1.description": {
-		"message": "Spojte se s lidmi za PreMiD.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit2.title": {
 		"message": "Nakouknutí",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit2.description": {
-		"message": "Podívejte se na náš rozvoj a marketing.",
-		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
 		"message": "Ucta",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit3.description": {
-		"message": "Výkonná Discord oprávnění a barevná role.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit4.title": {
 		"message": "Podpořit PreMiD",
 		"description": "Benefit card title."
 	},
-	"jobs.benefit4.description": {
-		"message": "S vašimi příspěvky je možné tento projekt nechat běžet.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit5.title": {
 		"message": "Čas vypršel",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit5.description": {
-		"message": "Vezměte si svůj čas. Jedná se o dobrovolnou práci.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit6.title": {
-		"message": "Předběžný přístup",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Zkoušejte nové funkce před kýmkoliv jiným.",
-		"description": "Benefit card description."
-	},
-	"jobs.success.applied": {
-		"message": "Děkujeme vám za přihlášku!",
-		"description": "Notification when applying."
-	},
-	"jobs.errors.alreadyApplied": {
-		"message": "Již jste podali žádost!",
-		"description": "Notification when you applied already."
 	}
 }
