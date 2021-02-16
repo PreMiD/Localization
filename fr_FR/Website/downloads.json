@@ -135,10 +135,6 @@
 		"message": "Veuillez désactiver votre bloqueur de publicités",
 		"description": "Message next to pepe."
 	},
-	"downloads.showbeta.message": {
-		"message": "Afficher les téléchargements bêta",
-		"description": ""
-	},
 	"downloads.showbeta.small": {
 		"message": "(pas nécessaire si vous êtes seulement ici pour télécharger l'application normale)",
 		"description": "Small text under the show beta title."
