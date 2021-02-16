@@ -69,7 +69,7 @@ An example of that file can be found below.
 
 ## Understanding the metadata.json
 
-Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțelegi rolul fiecărei variabile.
+That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
 
 <table>
   <thead>
@@ -86,20 +86,20 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>Nu</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contribuitori</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Da</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Nu</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
@@ -113,7 +113,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left"><b>descriere</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>Nu</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
@@ -185,7 +185,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left"><code>Da</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>setări</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Da</code></td>
@@ -346,7 +346,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>jocuri</b></td>
       <td style="text-align:left"><b>Jocuri</b></td>
-      <td style="text-align:left">Orice website care are conținut legat de jocuri, precum <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>muzică</b></td>
@@ -366,7 +366,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>altele</b></td>
       <td style="text-align:left"><b>Altele</b></td>
-      <td style="text-align:left">Orice nu se încadreaza în categoriile de mai sus.</td>
+      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
   </tbody>
 </table>
