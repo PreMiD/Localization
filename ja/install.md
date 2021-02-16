@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **OSを選ぶ:**
 - [Windows * 7かそれ以上 *](/install/windows)
 - [macOS *10.11 かそれ以上*](/install/macos)
-- [Linux *v2.x以上のカーネル*](/install/linux)
+- [Linux *kernel with v2.x or above*](/install/linux)
 {.links-list}
 
 **ブラウザを選ぶ:**
