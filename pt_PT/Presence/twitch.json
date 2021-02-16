@@ -200,7 +200,7 @@
 		"description": ""
 	},
 	"twitch.blogArchive": {
-		"message": "A ver o arquivo do blog de {0}",
+		"message": "A ver o ficheiro do blog de {0}",
 		"description": "{0} will be replaced with the year"
 	}
 }
