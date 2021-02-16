@@ -3,10 +3,6 @@
 		"message": "Baixar",
 		"description": "Page name"
 	},
-	"twitch.jobs": {
-		"message": "Trabalhe conosco",
-		"description": "Page name"
-	},
 	"twitch.turbo": {
 		"message": "Turbo",
 		"description": "Page name"
@@ -123,140 +119,8 @@
 		"message": "Painel de controle do criador",
 		"description": "Page name"
 	},
-	"twitch.dashboardManage": {
-		"message": "Gerenciando a stream dele...",
-		"description": ""
-	},
-	"twitch.manageRoles": {
-		"message": "Gerenciando as regras da sua comunidade...",
-		"description": ""
-	},
-	"twitch.produce": {
-		"message": "No Editor de Vídeo...",
-		"description": ""
-	},
 	"twitch.viewTheir": {
 		"message": "Visualizando suas",
 		"description": "Part 1 of the next 10 strings"
-	},
-	"twitch.channelAnaly": {
-		"message": "Analytics do Canal",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.streamSum": {
-		"message": "Resumo da stream",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.achievements": {
-		"message": "Conquistas",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.activity": {
-		"message": "Atividade da Comunidade",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.followList": {
-		"message": "Lista de Seguidores",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.colls": {
-		"message": "Coleções",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.clips": {
-		"message": "Clipes",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.channelSettings": {
-		"message": "Configurações do Canal",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.moderationSettings": {
-		"message": "Configurações da Moderação",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.dropsSettings": {
-		"message": "Configurações de Drops",
-		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.tools": {
-		"message": "Visualizando as ferramentas de streaming",
-		"description": ""
-	},
-	"twitch.extensions": {
-		"message": "Visualizando as extensões",
-		"description": ""
-	},
-	"twitch.brand": {
-		"message": "Lendo sobre a Twitch Brand...",
-		"description": ""
-	},
-	"twitch.brandReal": {
-		"message": "Mantendo a Twitch real",
-		"description": "Page name"
-	},
-	"twitch.brandMadness": {
-		"message": "Trazendo um método para nossa (amada) loucura",
-		"description": "Page name"
-	},
-	"twitch.brandExpression": {
-		"message": "Maximizando nossa expressão",
-		"description": "Page name"
-	},
-	"twitch.brandTogether": {
-		"message": "Trazendo tudo junto",
-		"description": "Page name"
-	},
-	"twitch.brandWatch": {
-		"message": "Assistindo a evolução da marca da Twitch",
-		"description": "Watching as in watching a video"
-	},
-	"twitch.blogs": {
-		"message": "Blogs da Twitch",
-		"description": ""
-	},
-	"twitch.blogArchive": {
-		"message": "Visualizando o arquivo do Blog {0}",
-		"description": "{0} will be replaced with the year"
-	},
-	"twitch.blogBrowse": {
-		"message": "Navegando pelos últimos posts do blog...",
-		"description": ""
-	},
-	"twitch.help": {
-		"message": "Central de Ajuda",
-		"description": "Page name"
-	},
-	"twitch.helpTopic": {
-		"message": "Visualizando tópico:",
-		"description": ""
-	},
-	"twitch.helpTopicCatalog": {
-		"message": "Navegando pelo catálogo de tópicos...",
-		"description": ""
-	},
-	"twitch.affiliate": {
-		"message": "Programa de Afiliados da Twitch",
-		"description": "Page name"
-	},
-	"twitch.dev": {
-		"message": "Desenvolvedores da Twitch",
-		"description": "Page name"
-	},
-	"twitch.devDocs": {
-		"message": "Documentação do Desenvolvedor da Twitch",
-		"description": "Page name"
-	},
-	"twitch.devProduct": {
-		"message": "Produtos para Desenvolvedores da Twitch",
-		"description": "Page name"
-	},
-	"twitch.devShowcase": {
-		"message": "Histórias de sucesso da comunidade",
-		"description": "Page name"
-	},
-	"twitch.devSupport": {
-		"message": "Recursos úteis",
-		"description": "Page name"
 	}
 }

@@ -1,16 +1,4 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD** adalah utilitas simpel yang memungkinkan kamu menampilkan apa yang sedang kamu lakukan di web pada status now playing Discord.",
-		"description": "First phrase that users read on our website"
-	},
-	"home.introduction.button.features": {
-		"message": "Fitur",
-		"description": "Introduction button"
-	},
-	"home.introduction.button.downloads": {
-		"message": "Unduhan",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
 	"home.examples.playingagame": {
 		"message": "Bermain game",
 		"description": "Discord Rich Presence -> Playing a game"
@@ -19,12 +7,8 @@
 		"message": "{0} tersisa",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.timestamp2": {
-		"message": "{0} berlalu",
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
 	"home.examples.status.playing": {
-		"message": "Putar kembali",
+		"message": "Memutar",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
@@ -39,25 +23,9 @@
 		"message": "Kamu akan menyukai fitur ini!",
 		"description": "Features section"
 	},
-	"home.features.presencesystem.heading": {
-		"message": "Temukan presence kamu",
-		"description": "Features section subheading"
-	},
-	"home.features.presencesystem.description": {
-		"message": "Kami membuat ekstensi sedemikian rupa agar kamu dapat menggunakan Presence yang dibuat oleh pengguna lain dan mengaturnya dengan mudah pada ekstensi kami!",
-		"description": "Features section description"
-	},
-	"home.features.presencesystem.button": {
-		"message": "Kunjungi toko",
-		"description": "Features section button"
-	},
 	"home.features.simpleInterface.heading": {
 		"message": "Tampilan pengguna yang sederhana",
 		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description": {
-		"message": "Bosan dengan tampilan yang rumit? Itu sebabnya kami membuat dan berusaha menjadikan tampilan kami simpel dan seberguna mungkin dengan fitur seperti:",
-		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Pengaturan Ekstensi dan Aplikasi",
@@ -67,24 +35,8 @@
 		"message": "Manajemen presence",
 		"description": "Features section description point"
 	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Urutkan berdasar kategori",
-		"description": "Features section description point"
-	},
 	"home.features.quickSupport.heading": {
 		"message": "Dukungan cepat",
 		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.description": {
-		"message": "Sesuatu bermasalah, mendapat banyak eror atau sama sekali tidak bekerja? Kami akan membantu untuk menyelesaikan masalah tersebut pada server Discord kami, kami juga telah membuat sistem support yang akan memastikan masalahmu terselesaikan.",
-		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Bergabung Discord kami",
-		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Bahasa situs web",
-		"description": "Tippy content of the language selector."
 	}
 }

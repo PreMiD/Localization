@@ -24,7 +24,7 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "Reproduzindo de volta",
+		"message": "Reproduzindo",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
@@ -80,7 +80,7 @@
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "Entre em nosso Discord",
+		"message": "Junte-se ao nosso Discord",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {

@@ -27,32 +27,8 @@
     "message": "Toko",
     "description": "Store tab"
   },
-  "header.downloads": {
-    "message": "Unduhan",
-    "description": "Downloads tab"
-  },
   "header.contributors": {
     "message": "Kontributor",
     "description": "Contributors tab"
-  },
-  "header.login": {
-    "message": "Login",
-    "description": "Login Button"
-  },
-  "header.lia": {
-    "message": "Masuk sebagai",
-    "description": "Indicates which user is logged in"
-  },
-  "header.rab": {
-    "message": "Laporkan bug",
-    "description": "Report a bug button"
-  },
-  "header.staff": {
-    "message": "Dashboard",
-    "description": "Dashboard button"
-  },
-  "header.logout": {
-    "message": "Keluar",
-    "description": "Logout button"
   }
 }
