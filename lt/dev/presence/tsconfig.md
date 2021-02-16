@@ -1,23 +1,23 @@
 ---
 title: TypeScript Configuration
-description: Mažas pagalbininkas TypeScript naudojimui
+description: A little helper for TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
 ---
 
-# TypeScript konfiguracija
+# TypeScript Configuration
 
 ## Įvadas
 
-Kai jūs parsisiunčiate ir atpakuojate savo darbovietę, jūs pamatysitę failą pavadinimu`tsconfig.js` root ir presence aplankaluose, šis failas yra naudojamas konfigūruojant **TypeScript** kompiliuotoją. Jis jums jau yra sukonfigūruotas, tad dėl to jaudintis nereikia.
+When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
-Mes norime paaiškinti keletą nustatymų kuriuos jūs turėtumėte žinoti.
+We just want to describe some settings that you should know.
 
-## Root Konfigūracija
+## Root Configuration
 
-Root konfigūracijos faile jūs pamatysite kažką panašaus į tai.
+In the root configuration file you will see something like this.
 
 ```javascript
 {
