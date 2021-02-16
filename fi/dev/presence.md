@@ -21,7 +21,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 - [Guidelines](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Rakenne
+# Structure
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
@@ -37,7 +37,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 2. Valitse haluamasi kansio.
 3. Avaa se koodieditorissa.
 
-## Kansioiden ja tiedostojen luominen
+## Creating folders and files
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
@@ -45,7 +45,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 4. Create a folder named `dist` inside.
 5. Create a `metadata.json` file inside the `dist` folder.
 
-## tsconfig.js-tiedoston täyttäminen
+## Filling in the tsconfig.json file
 
 Please put the following code inside of the `tsconfig.json` file.
 
@@ -60,9 +60,9 @@ Please put the following code inside of the `tsconfig.json` file.
 
 To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
 
-## metadata.json-tiedoston täyttäminen
+## Filling in the metadata.json file
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). On silti suositeltavaa, että lukee tämän läpi, jotta tiedät, miten se toimii.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json
 {
@@ -125,15 +125,15 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. Nyt sinun täytyy muokata ominaisuuksien arvoja. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `osallistujat`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `asetukset`
 
 **Clarifying some value presets:**
 
@@ -155,7 +155,7 @@ Please copy the code above and put it in your `metadata.json` file. Nyt sinun t�
       <td style="text-align:left"><code>Ei</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>osallistujat</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ Please copy the code above and put it in your `metadata.json` file. Nyt sinun t�
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left"><b>kuvaus</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ei</code></td>
@@ -208,7 +208,7 @@ Please copy the code above and put it in your `metadata.json` file. Nyt sinun t�
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>versio</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ei</code></td>
@@ -233,7 +233,7 @@ Please copy the code above and put it in your `metadata.json` file. Nyt sinun t�
       <td style="text-align:left"><code>Ei</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left"><b>tagit</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ei</code></td>
@@ -263,7 +263,7 @@ Please copy the code above and put it in your `metadata.json` file. Nyt sinun t�
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>asetukset</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -274,7 +274,7 @@ Please copy the code above and put it in your `metadata.json` file. Nyt sinun t�
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Näin pääset alkuun
+## Getting started
 
 ```typescript
 const presence = new Presence({
@@ -329,7 +329,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-You can copy this into your `presence.ts` file and edit the values. Kaikkien arvojen asettaminen tapahtuu updataData-tapahtuman sisällä.
+You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
 
 For examples we suggest to look at the code of presences like: 1337x or 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
@@ -337,17 +337,17 @@ Since v2.2.0 there are now Slideshows, this allows you to show multiple `Presenc
 
 ## Can't get certain data?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Nämä html-tagit voivat sisältää useita lähteitä, kuten videoita. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Suorita `document.querySelectorAll("iframe")`.
+3. Execute `document.querySelectorAll("iframe")`.
 
 If you find that your data is in a iFrame you need to do the following:
 
-1. Luo `iframe.ts` tiedosto.
+1. Create a `iframe.ts` file.
 2. Set iFrame to `true` in your metadata file.
-3. iFrame-tiedoston täyttäminen.
+3. Filling in your iFrame file.
 
 ```typescript
 const iframe = new iFrame();
