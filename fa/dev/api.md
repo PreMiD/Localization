@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Versioning
-> نسخه 2 API منسوخ شده است و در آینده‌ای نزدیک حذف خواهد شد. لطفا نسخه 3 را برای جلوگیری از مشکلات پیش رو در آینده، استفاده نمایید. 
+> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
@@ -31,6 +31,6 @@ All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 
 > {.is-danger}
 
 **Choose the API version:**
-- [v2 *منسوخ شده*](/dev/api/v2)
-- [v3 *فعال*](/dev/api/v3)
+- [v2 *deprecated*](/dev/api/v2)
+- [v3 *active*](/dev/api/v3)
 {.links-list}
