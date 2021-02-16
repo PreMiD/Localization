@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Presence 开发
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,36 +8,36 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> 所有Discord自定義狀態商店都在這裡: https://github.com/PreMiD/Presences 
+> 所有存在现在都存储在这里：https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+版本 `2.x` 介绍了 [存在商店](https://premid.app/store)。 用户现在可以通过 [网站](https://premid.app/) 的用户界面手动添加和移除他们最喜欢的存在。
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> 在开始之前，强烈建议您查看我们的使用指南。 
 > 
 > {.is-warning}
 
 - [指南](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# 結構
+# 目录结构
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## 下載
+## 安装
 
-1. 下載 [Git](https://git-scm.com/)。
-2. 下載  <ahref="https://nodejs.org/en/">Node</a> (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. 安装 [TypeScript](https://www.typescriptlang.org/index.html#download-links) （打开您的终端，然后输入：`npm install -g typescript`）
 
-## 複製專案
+## Cloning the project
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. 選擇你選取的資料夾
-3. 在你的編碼器開啟。
+1. 打开个终端，然后在输入: `git clone https://github.com/PreMiD/Presences`
+2. Choose a folder of your choice.
+3. 使用您的代码编辑器打开他。
 
-## 創建資料夾和文件
+## Creating folders and files
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
@@ -141,9 +141,9 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
-      <th style="text-align:left">種類</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">描述</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">可选的</th>
     </tr>
   </thead>
   <tbody>
@@ -274,7 +274,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Getting started
+## 入门指南
 
 ```typescript
 const presence = new Presence({
@@ -379,28 +379,28 @@ presence.on("iFrameData", (data) => {
 
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# 載入自定義狀態
+# Loading the presence
 
 1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# 一些對你有幫助的東西
+# Some helpful things
 
 ## Hot-reloading
 
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## 除錯
+## Debugging
 
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Files explained
 
-- [Presence Class](/dev/presence/class)
+- [Presence 类](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)
 - [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
+- [元数据文件](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
