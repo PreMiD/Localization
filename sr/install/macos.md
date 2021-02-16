@@ -1,20 +1,20 @@
 ---
 title: macOS
-description: Prvi koraci sa PreMiD instalacijom na macOS
-published: tačno
+description: Getting started with a PreMiD installation on macOS
+published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Pre nego što krenemo dalje, budite sigurni da Vaš sistem ispunjava sve [zahteve](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
 Instalacija aplikacije je veoma bitna jer ekstenzija ne može sama učiniti ništa.
 
-# Instaliranje
+# Install
 1. Idite na našu stranicu za preuzimanja [klikom ovde](https://premid.app/downloads).
-2. Izaberite **OS X**.
+2. Choose **OS X**.
 3. Extract the archive if necessary.
 4. Open the installer.
 5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
