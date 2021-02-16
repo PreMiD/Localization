@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 Servisinizi mağazaya eklemek ve test edebilmek için `dist` klasörünün içine bir `metadata.json` dosyası oluşturmalısınız.
 
-Bu dosyanın bir örneği aşağıda bulunabilir.
+An example of that file can be found below.
 
 ```typescript
 {
@@ -101,9 +101,7 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Durum bilgisini alternatif bir ad kullanarak arayabilir.
-      Farklı dillerde farklı adlara sahip mevcudiyetler için kullanılmak anlamına gelir (ör. Pokémon ve 포켓 몬스터).
-      Ayrıca, özel karakterlere sahip varlıklar için de kullanabilirsiniz, böylece bunları yazmak zorunda kalmazsınız (örneğin Pokémon ve Pokemon).</td>
+      <td style="text-align:left">Servisi ararken alternatif isimlerle aranabilmesi için kullanabileceğiniz alan. Farklı dillerde farklı şekilde yazılan (örneğin Pokémon ve 포켓몬스터) servisler ve isminde özel karakter içeren servisler için kullanılabilir.</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Evet</code></td>
     </tr>
@@ -115,9 +113,9 @@ Bu örnekler biraz zor mu gözüküyor? Endişe etmeyin, değişkenlerin ne işe
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">Hizmetin URL'si. <br>
-       <b> Örnek:</b><code>vk.com</code> <br>
-       <b> Bu url, komut dosyasının enjekte edileceği web sitesinin nerede olduğunu tespit etmek için kullanılacağı için web sitesinin url'si ile eşleşmelidir. Bu alan, sadece birden fazla girdi olması durumunda Array olarak kullanılmalıdır.</b></td>
+      <td style="text-align:left">URL of the service.<br>
+      <b>Example:</b><code>vk.com</code><br>
+      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Bu alan, sadece birden fazla girdi olması durumunda Array olarak kullanılmalıdır.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Hayır</code></td>
     </tr>
@@ -204,7 +202,7 @@ Regex hakkında daha fazla bilgi almak istiyorsanız aşağıdaki sitelere göz 
 
 ## Servis Dilleri
 
-PreMiD, dünya çapındaki kullanıcılarla etkileşimde bulunabilmek için geliştirilmiş bir servistir. Bu yüzden birden çok dili destekler. Desteklenen bilgileri [buradaki](https://api.premid.app/v2/langFile/list) bağlantı üzerinde bulabilirsiniz. Durumunuzu daha da özelleştirmek için kullanıcıların iletişim durumu görüntüleme dilini seçmelerine izin verebilirsiniz, daha fazlası için [` multiLanguage `](#multilanguage) 'a bakın.
+PreMiD, dünya çapındaki kullanıcılarla etkileşimde bulunabilmek için geliştirilmiş bir servistir. Bu yüzden birden çok dili destekler. Desteklenen bilgileri [buradaki](https://api.premid.app/v2/langFile/list) bağlantı üzerinde bulabilirsiniz. To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
 
 ## Servis ayarları
 İnteraktif ayarlar oluşturarak kullanıcıların servisinizi düzenlemesini sağlayın!
@@ -246,7 +244,7 @@ PreMiD, dünya çapındaki kullanıcılarla etkileşimde bulunabilmek için geli
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
-#### Kurulum
+#### Setup
 
 The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
 
@@ -259,13 +257,13 @@ The `multiLanguage` key can be set to the following:
 ##### Projeyi klonlama
 
 1. Bir konsol açın ve `git clone https://github.com/PreMiD/Localization` yazın.
-2. Seçtiğiniz bir klasör seçin.
-3. Kod düzenleyicisini açın.
+2. Bir klasör seçin.
+3. Klasörü kullandığınız editör ile açın.
 
-##### Dosya Oluşturuluyor
+##### Creating the file
 
-1. `src` klasörüne git.
-2. `Presence` klasörüne git.
+1. Go into the `src` folder.
+2. Go into the `Presence` folder.
 3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
 
 ##### Adding the strings
@@ -342,7 +340,7 @@ Bir servis oluştururken, servisin bulunacağı geçerli bir kategori belirtmeli
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-      <td style="text-align:left"><b>Oyunlar</b></td>
+      <td style="text-align:left"><b>Oyun</b></td>
       <td style="text-align:left">Oyunlarla alakası olan tüm siteler, <code>Kahoot</code> veya <code>Skribbl.io</code> gibi.</td>
     </tr>
     <tr>
@@ -357,7 +355,7 @@ Bir servis oluştururken, servisin bulunacağı geçerli bir kategori belirtmeli
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videolar ve Akışlar</b></td>
+        <td style="text-align:left"><b>Video & Yayın</b></td>
       <td style="text-align:left">Özellikle video yayınlamak için oluşturulmuş platformlar.</td>
     </tr>
     <tr>
