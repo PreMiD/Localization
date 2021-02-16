@@ -1,6 +1,6 @@
 ---
 title: API
-description: Få tillgång till resurser och utför åtgärder med PreMiD API
+description: Access resources and perform actions using the PreMiD API
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
