@@ -59,10 +59,6 @@
 		"message": "{0} 의 제품을 보는 중",
 		"description": "{0} will be replaced with the name of the publisher of the product"
 	},
-	"v live.viewTheir": {
-		"message": "그사람의 것을 보는 중",
-		"description": "The first part of the next 6 strings"
-	},
 	"v live.profile": {
 		"message": "프로필 페이지",
 		"description": "The second part of the \"Viewing their\" string"

@@ -107,18 +107,6 @@
 		"message": "Bezig met zoeken",
 		"description": ""
 	},
-	"general.writing": {
-		"message": "Schrijven",
-		"description": ""
-	},
-	"general.calling": {
-		"message": "Bellen",
-		"description": ""
-	},
-	"general.inCall": {
-		"message": "In een gesprek...",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Winkelwagen",
 		"description": ""

@@ -1,10 +1,1 @@
-{
-  "extension.description.short": {
-    "message": "Rich Presence za web usluge!",
-    "description": "Short description in extension store"
-  },
-  "extension.description.full": {
-    "message": "MORATE INSTALIRATI NAŠU SLUŽBENU APLIKACIJU DA SVE RADI\n   {0} {1}\n\nMožete koristiti svoje medijske tipke za kontrolu reprodukcije ovih usluga. Kada nešto gledate/slušate s nekom od naših podržanih servisa, proširenje preglednika šalje metapodate videozapisa/pjesma našem desktop klijentu i PreMiD ih obrađuje. PreMiD šalje informacije Discord-u i automatski ih metne kao tvoj status.\nPodržane usluge\n   {2} Pogledajte {3}\n\nTrebate pomoć?\n   {4} {5}\n\nNaš Discord server\n   {6} Razgovarajte s ljudima koji su stvorili PreMiD {7}\n\nMi smo Open Source!\n   {9} Sjajne stvari trebaju biti otvorene za javnost {10}",
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
-  }
-}
+{}
