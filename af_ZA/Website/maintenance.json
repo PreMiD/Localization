@@ -1,10 +1,1 @@
-{
-	"maintenance.statuspage": {
-		"message": "Status bladsy",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discord Bediener",
-		"description": "Discord Server link on maintenance page"
-	}
-}
+{}
