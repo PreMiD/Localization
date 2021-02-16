@@ -6,18 +6,18 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-نصب افزونه مرورگر به اندازه نصب خود برنامه خیلی خیلی مهمه و برنامه بدون افزونه مرورگر هیچ کاری نمی تونه برای شما انجام بده.
+The installation of the extension is very important as the application can not do anything by itself.
 
 # نصب
-1. از طریق [این لینک](https://premid.app/downloads) به صفحه دانلود بروید.
-2. **Firefox** را انتخاب کنید.
-3. عبارت `about:addons` را جستجو کنید.
-4. روی آیکون کوچک چرخ دنده سمت بالا گوشه راست کلیک کنید.
-5. **نصب افزونه از فایل** را انتخاب کنید.
-6. فایلی را که اخیرا دانلود کرده بودید را انتخاب کنید.
-7. نصب را قبول کنید و روی **اضافه کردن** کلیک کنید.
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+2. Choose **Firefox**.
+3. Search for `about:addons`.
+4. Click on the small gear icon in the upper right corner.
+5. Choose **Install add-on from file**.
+6. Select the file you downloaded recently.
+7. Accept the installation by clicking on **Add**.
 
-> فراموش نکنید [**برنامه** را هم نصب کنید](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 
