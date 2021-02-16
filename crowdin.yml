@@ -3,3 +3,5 @@ files:
     ignore:
       - /%two_letters_code%/
     translation: /%two_letters_code%/**/%original_file_name%
+  - source: /en/**/*.md
+    translation: /%locale%/**/%original_file_name%
