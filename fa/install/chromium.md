@@ -6,19 +6,19 @@ date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-نصب افزونه مرورگر به اندازه نصب خود برنامه خیلی خیلی مهمه و برنامه بدون افزونه مرورگر هیچ کاری نمی تونه برای شما انجام بده.
+The installation of the extension is very important as the application can not do anything by itself.
 
 # نصب
-### Chrome،Edge، و...
-1. از طریق [این لینک](https://premid.app/downloads) به صفحه دانلود بروید.
-2. **Chromium** را انتخاب کنید.
-3. گزینه **اضافه کردن به Chrome** را بزنید.
+### Chrome, Edge, etc.
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+2. Choose **Chromium**.
+3. Click on **Add to Chrome**.
 
 ### Opera
-1. **[نصب کننده افزونه های Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)** را اضافه کنید.
-2. [افزونه ما را](https://premid.app/downloads) اضافه کنید.
+1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. Add [our extension](https://premid.app/downloads).
 
-> فراموش نکنید [**برنامه** را هم نصب کنید](/install). 
+> Do not forget to [add the **application**](/install). 
 > 
 > {.is-warning}
 
