@@ -1,1 +1,22 @@
-{}
+{
+	"premid.pageContributors": {
+		"message": "योगदानकर्ता",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "डाउन्लोड",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "स्टोर",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "साझेदार",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "ट्रबलशूटिंग",
+		"description": "A page name"
+	}
+}
