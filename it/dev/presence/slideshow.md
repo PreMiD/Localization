@@ -1,7 +1,7 @@
 ---
 title: Slideshow Class
 description:
-published: true
+published: vero
 date: 2020-12-25T00:47:38.111Z
 tags:
 editor: markdown
@@ -10,7 +10,7 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 # Slideshow Class
 
-## Introduction
+## Introduzione
 
 The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
 
@@ -69,7 +69,7 @@ Deletes all slides from the `Slideshow`.
 
 # SlideshowSlide Class
 
-## Introduction
+## Introduzione
 
 A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
