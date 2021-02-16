@@ -1,6 +1,6 @@
 ---
 title: API
-description: גישה למשאבים וביצוע פעולות באמצעות PreMiD API
+description: Access resources and perform actions using the PreMiD API
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
@@ -14,23 +14,23 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > 
 > {.is-info}
 
-## גרסאות API
+## API Versioning
 > API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
 > 
 > {.is-danger}
 
-PreMiD חושף גרסאות שונות של ה-API שלנו. תוכל לציין גרסה על ידי הכללתה בנתיב הבקשה כמו `https://api.premid.app/v{version_number}`. השמטת מספר הגרסה מהמסלול תנתב בקשות לגרסת ברירת המחדל הנוכחית (מסומנת בהמשך בהתאם).
+PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
-## הצפנה
+## Encryption
 
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
 # תיעוד
-> כרגע תחת בנייה! 
+> Currently under construction! 
 > 
 > {.is-danger}
 
-**בחר בגרסת ה- API:**
+**Choose the API version:**
 - [v2 *deprecated*](/dev/api/v2)
 - [v3 *active*](/dev/api/v3)
 {.links-list}
