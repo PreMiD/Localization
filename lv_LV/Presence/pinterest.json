@@ -1,18 +1,1 @@
-{
-    "pinterest.board": {
-        "message": "Skatās dēli:",
-        "description": ""
-    },
-    "pinterest.pin": {
-        "message": "Skatās piespraudi",
-        "description": ""
-    },
-    "pinterest.follow": {
-        "message": "Skatās sekotājus",
-        "description": ""
-    },
-    "pinterest.home": {
-        "message": "Rediģē mājaslapu",
-        "description": ""
-    }
-}
+{}

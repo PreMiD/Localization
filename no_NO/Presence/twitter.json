@@ -1,8 +1,4 @@
 {
-	"twitter.readTweet": {
-		"message": "Leser tweet:",
-		"description": "after the \":\" it will say the username"
-	},
 	"twitter.viewDms": {
 		"message": "Ser deres direkte meldinger",
 		"description": ""
@@ -13,10 +9,6 @@
 	},
 	"twitter.viewTweetsWithReplies": {
 		"message": "Ser tweeten (med svar) til:",
-		"description": ""
-	},
-	"twitter.viewMedia": {
-		"message": "Ser media av:",
 		"description": ""
 	},
 	"twitter.viewLiked": {

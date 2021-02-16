@@ -63,10 +63,6 @@
 		"message": "Nascondi i Download",
 		"description": "Little button on the downloads page for mobile users."
 	},
-	"downloads.warning.differentVersion": {
-		"message": "La version attuale di questa piattaforma è {0} (questa versione è specifica per Linux, e non si applica ad altre piattaforme).",
-		"description": "Tippy message of the Linux card."
-	},
 	"downloads.warning.differentVersion2": {
 		"message": "Questa versione è specifica per Linux e non si applica ad altri sistemi. La versione principale dell'applicazione è {0}",
 		"description": "Tippy message of the version number when user is on Linux."
@@ -104,7 +100,7 @@
 		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
-		"message": "Annulla",
+		"message": "Cancella",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
@@ -119,10 +115,6 @@
 		"message": "Accedi",
 		"description": "Login button on the downloads page."
 	},
-	"downloads.button.skipanyway": {
-		"message": "Salta comunque",
-		"description": "Skip Anyway button on the ads page."
-	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Grazie!",
 		"description": "Title of the advertisement section box."
@@ -134,10 +126,6 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Per favore disattiva il tuo adblock",
 		"description": "Message next to pepe."
-	},
-	"downloads.showbeta.message": {
-		"message": "Mostra i download delle beta",
-		"description": ""
 	},
 	"downloads.showbeta.small": {
 		"message": "(non necessario se sei qui solo per scaricare la applicazione normale)",

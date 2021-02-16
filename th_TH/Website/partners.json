@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "พาร์ทเนอร์",
+		"message": "ผู้ร่วมมือ",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -224,7 +224,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "ขอบคุณสำหรับการติดตั้ง",
+		"message": "ขอบคุณที่มาร่วมกับเรา!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
