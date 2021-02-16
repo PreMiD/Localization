@@ -1,6 +1,6 @@
 ---
 title: Windows
-description: Bắt đầu với cài đặt PreMiD trên Windows
+description: Getting started with a PreMiD installation on Windows
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
@@ -12,12 +12,12 @@ Việc cài đặt tiện ích rất quan trọng vì ứng dụng không thể 
 
 # Cài đặt
 1. Đến trang web của chúng tôi bằng cách nhấn vào [đây](https://premid.app/downloads).
-2. Chọn **Windows**.
+2. Choose **Windows**.
 3. Mở bộ cài đặt.
-4. **Windows SmartScreen** sẽ xuất hiện, nếu bạn cài đặt PreMiD lần đầu tiên. Nhấp vào **Thông tin khác** và sau đó chọn **Chạy mọi cách**. > Điều này là do chúng tôi không có Chứng chỉ ký mã (CSC). [Hỗ trợ chúng tôi](https://www.patreon.com/Timeraa) để tài trợ cho nó.{.is-info}
+4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 
-Ứng dụng sẽ được chạy tự động. Kiểm tra biểu tượng trong khay hệ thống của bạn.
+Ứng dụng sẽ được chạy tự động. Check for the symbol in your system tray.
 
-> Đừng quên [thêm**sự mở rộng**](/install).{.is-warning}
+> Do not forget to [add the **extension**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
