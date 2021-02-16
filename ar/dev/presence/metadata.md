@@ -1,7 +1,7 @@
 ---
 title: Metadata.json
 description: Contains basic data about the Presence
-published: true
+published: صحيح
 date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
@@ -96,13 +96,13 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>خدمة</b></td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>أسماء</b></td>
+      <td style="text-align:left"><b>altnames</b></td>
       <td style="text-align:left">كن قادر على البحث عن الpresence باستخدام اسم بديل. <br>
       من المفترض أن تُستخدم في الpresences التي لها أسماء مختلفة بلغات مختلفة (مثل بوكيمون و 포켓 몬스터). <br>
       يمكنك أيضًا استخدامه للpresences التي تحتوي على أحرف خاصة حتى لا تضطر إلى كتابتها (مثل Pokémon و Pokemon).</td>
@@ -111,81 +111,81 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>الوصف</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. يجب أن يحتوي الوصف الخاص بك على قيم أزواج رئيسية تشير إلى اللغة، والوصف في تلك اللغة المحددة. اصنع وصفاً باللغات <i>التي تعرفها</i>، سوف يقوم مترجمونا بإجراء تغييرات على ملف البيانات الوصفية الخاص بك. View the category for presence languages for a list. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>رابط</b></td>
+      <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">URL of the service.<br>
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
-      <td style="text-align:left"><code>السلسلة، الأصطفاف&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>الإصدار</b></td>
       <td style="text-align:left">نسخة الـ Presence الخاصك بك.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الشعار</b></td>
+      <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">رابط الخدمة&apos;لـ شعار</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>صورة المصغرة</b></td>
       <td style="text-align:left">رابط للصورة المصغره لالpresence الخاص بك.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>لون</b></td>
-      <td style="text-align:left">قيمة <code>#HEX</code>. نوصي باستخدام لون أساسي من الخدمة
-        التي يدعمها وجودك.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left">قيمة <code>#HEX</code>. We recommend to use a primary color of the service
+        that your presence supports.</td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>التصنيفات</b></td>
-      <td style="text-align:left">مصفوفة مع العلامات، ستساعد المستخدمين على البحث عن وجودك على الموقع.</td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الفئة</b></td>
-      <td style="text-align:left">وتندرج تحت هذا البند سلسلة تستخدم لتمثيل الفئة التي يوجد فيها.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><b>category</b></td>
+      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">يحدد ما إذا كان <code>يستخدم</code> iFrames</td>
-      <td style="text-align:left"><code>قيمة منطقية</code></td>
+      <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">محدد تعبير عادي يحدد إطارات ifram للحقن.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">يحدد ما إذا كان يجب أن يكون الملحق سجلات قراءة.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>نص</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>الإعدادات</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>نعم</code></td>
