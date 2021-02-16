@@ -67,6 +67,10 @@
 		"message": "Kérlek tiltsd le az adblock-ot",
 		"description": "Message next to pepe."
 	},
+	"downloads.showbeta.message": {
+		"message": "Korai kiadások megjelenítése",
+		"description": ""
+	},
 	"downloads.skipanyway.message1": {
 		"message": "Nem adakozok.",
 		"description": "Skip anyway messages (changes everytime you click it)."
