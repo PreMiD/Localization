@@ -1,31 +1,31 @@
 ---
-title: 需求
-description: 安裝PreMiD的需求
-published: true
+title: Requirements
+description: Prerequisites to install PreMiD
+published: 是
 date: 2021-01-17T22:43:28.543Z
 tags:
 editor: 標記
 dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
-# 系統需求
+# System Requirements
 
-> 這個資料只涉及申請的部分 
+> This data relate to the application only. 
 > 
 > {.is-info}
 
-PreMiD幾乎能在各種系統上運行 這代表它能在**Linux**、**MacOS**、**Windows** 甚至是一些**Linux Modifications**上運行
+PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
 ### CPU
-PreMiD 能在單核CPU上完美運行
+PreMiD runs perfectly fine on a single CPU core.
 
-### 記憶體
-Linux系統至少需要**20 MB**的記憶體來運行PreMiD ，而Windows和MacOS系統通常需要相對更多一些
+### RAM
+Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
 
-### 儲存空間
-PreMiD大約需要**150MB**的硬體儲存空間 ，然而會比較建議PreMiD能有**200MB**的專用空間
+### Storage
+PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
-### 網路通行
-A internet connection is required to run PreMiD. ，PreMiD會一直自動確認新的更新、語言、狀態功能更新 等...
+### Internet Access
+A internet connection is required to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
