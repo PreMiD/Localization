@@ -1,18 +1,1 @@
-{
-    "pinterest.board": {
-        "message": "A ver borda:",
-        "description": ""
-    },
-    "pinterest.pin": {
-        "message": "A ver um pin",
-        "description": ""
-    },
-    "pinterest.follow": {
-        "message": "A ver seus seguidores",
-        "description": ""
-    },
-    "pinterest.home": {
-        "message": "Editando sua página inicial",
-        "description": ""
-    }
-}
+{}
