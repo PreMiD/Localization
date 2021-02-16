@@ -1,6 +1,6 @@
 ---
 title: Trieda Prítomnosti
-description: Hlavná trieda pre každú prítomnosť PreMiD
+description: The main class for every PreMiD presence
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
@@ -10,11 +10,11 @@ dateCreated: 2020-06-11T18:04:42.004Z
 
 # Trieda Prítomnosti
 
-## Úvod
+## Introduction
 
-Trieda `Presence` je veľmi užitočná, pretože má základné metódy, ktoré potrebujeme k vytvoreniu prítomnosti.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-Pri vytváraní triedy musíte zadať `klientské Id`.
+When you create a class you must specify `clientId` property.
 
 ```typescript
 const presence = new Presence({
@@ -270,7 +270,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Premenná</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Popis</th>
       <th style="text-align:left">Typ</th>
     </tr>
@@ -285,7 +285,7 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
     <tr>
@@ -311,13 +311,13 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Reťazec</code>
       </td>
     </tr>
     <tr>
@@ -342,7 +342,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## Udalosti
+## Events
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 
