@@ -38,9 +38,5 @@
 	"thankyou.description": {
 		"message": "הקופים שלנו עובדים על להכניס אותך לתוכנית הבטא שלנו בהקדם האפשרי. תודה על שנרשמת!",
 		"description": "Thank You page description"
-	},
-	"error.noslots": {
-		"message": "נראה שאין לנו מקומות פנויים בבטא.",
-		"description": "Shows when the beta slots are full."
 	}
 }
