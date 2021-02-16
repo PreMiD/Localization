@@ -1,1 +1,10 @@
-{}
+{
+	"twitch.partners": {
+		"message": "Partneriai",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Pagrindinis puslapis",
+		"description": "Page name"
+	}
+}
