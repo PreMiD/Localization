@@ -1,5 +1,5 @@
 ---
-title: TypeScript Configuration
+title: การกำหนดค่าไฟล์ Typescript
 description: ตัวช่วยเล็กๆ สำหรับ Typescript
 published: true
 date: 2020-08-05T16:25:22.812Z
@@ -36,7 +36,7 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| คุณสมบัติ                  | คำอธิบาย                                                                                                                                                            |
+| Property                   | คำอธิบาย                                                                                                                                                            |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
 | module                     | คุณสามารถอ่านข้อมูลเพิ่มเติมได้ [ที่นี่](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                |
