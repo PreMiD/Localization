@@ -63,68 +63,12 @@
 		"message": "Navigue à travers",
 		"description": "The first part of the next 17 strings"
 	},
-	"discord.download": {
-		"message": "la page des téléchargements",
-		"description": "Second part of the \"Browsing through\" string"
-	},
 	"discord.why": {
 		"message": "la page \"Pourquoi Discord ?\"",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.safety": {
 		"message": "la page \"Sécurité\"",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.jobs": {
-		"message": "la page des métiers",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.company": {
-		"message": "la page \"À propos\"",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.branding": {
-		"message": "la page \"Marque\"",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.inspiration": {
-		"message": "la page des inspirations",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.college": {
-		"message": "la page des communautés universitaires",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.newsroom": {
-		"message": "l'espace actualités",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.partner": {
-		"message": "la page du programme partenaire de Discord",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.verification": {
-		"message": "la page de certification des serveurs",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.streamkit": {
-		"message": "la page StreamKit",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.opensource": {
-		"message": "la page sur l'open source",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.security": {
-		"message": "la page de la chasse au bugs",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.moderation": {
-		"message": "la page de la modération",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.rpc": {
-		"message": "la page des Rich Presences",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.policies": {
