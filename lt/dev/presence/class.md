@@ -1,6 +1,6 @@
 ---
-title: Presence klasė
-description: Pagrindinė klasė kiekvieno PreMiD presence
+title: Presence Class
+description: The main class for every PreMiD presence
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
@@ -8,27 +8,27 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Presence klasė
+# Presence Class
 
-## Įvadas
+## Introduction
 
-`Presence` klasė yra labai naudinga, nes joje yra pagrindiniai metodai, kurių mums reikia norint sukurti presence.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-Kurdami klasę turite nurodyti ` klientoID ` ypatybę.
+When you create a class you must specify `clientId` property.
 
 ```typescript
-let presence = new Presence({
-    clientId: "514271496134389561" // Pavyzdinis clientId
+const presence = new Presence({
+  clientId: "514271496134389561" // Example clientId
 });
 ```
 
-### Savybės
+### Properties
 
-`Presence` klasė turi tris savybės.
+There are three properties available for `Presence` class.
 
 #### `clientId`
 
-Ši savybė reikalinga kad jūsų presence veiktų, nes ji naudoja jūsų aplikacijos id kad rodyti savo logotipą ir ištelkius. Galite jį gauti [ programų puslapyje ](https://discordapp.com/developers/applications).
+This property is required to make your presence work, because it uses your application id to display its logo and assets. Galite jį gauti [ programų puslapyje ](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Metodika
+## Methods
 
 ### `getActivity()`
 
@@ -270,7 +270,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Kintamasis</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Aprašymas</th>
       <th style="text-align:left">Tipas</th>
     </tr>
