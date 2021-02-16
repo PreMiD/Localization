@@ -34,9 +34,5 @@
     "youtube.studio.viewTheir": {
         "message": "查看他们的",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
-    "youtube.studio.channelComments": {
-        "message": "频道评论",
-        "description": "Part two of \"Viewing their\""
     }
 }
