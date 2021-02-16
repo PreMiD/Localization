@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "Partners",
+		"message": "Partner",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -186,10 +186,6 @@
 	"partners.apply.select.other": {
 		"message": "Altro",
 		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Nome",
-		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Es: PreMiD",
