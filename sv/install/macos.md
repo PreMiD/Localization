@@ -1,30 +1,30 @@
 ---
 title: macOS
-description: Komma igång med en PreMiD-installation på macOS
+description: Getting started with a PreMiD installation on macOS
 published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Innan du går vidare, se till att ditt system uppfyller alla [krav](/install/requirements). 
+> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
 > 
 > {.is-info}
 
-Installationen av programmet är mycket viktigt eftersom tillägget inte kan göra något av sig själv.
+The installation of the application is very important as the extension can not do anything by itself.
 
 # Installera
-1. Gå till vår nedladdningssida genom att [klicka här](https://premid.app/downloads).
-2. Välj **OS X**.
-3. Extrahera arkivet vid behov.
-4. Öppna installationsprogrammet.
-5. En **säkerhetsvarning** kommer att visas om du installerar PreMiD för första gången. Gå till dina **inställningar** > **Säkerhet** > **Allmänt** > **Öppna ändå**. [Läs mer](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) om osignerade applikationer.
-> Detta beror på att vi inte har ett kodsigneringsintyg (CSC). [Stöd oss](https://www.patreon.com/Timeraa) för att finansiera den.{.is-info}
-6. Välj öppna när du blir ombedd.
-7. Bevilja åtkomst till anslutningar via **brandvägg** och kontrollera **systemhändelser** när du blir ombedd.
+1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+2. Choose **OS X**.
+3. Extract the archive if necessary.
+4. Open the installer.
+5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
+> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+6. Choose open when prompted.
+7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-Programmet startar automatiskt. Sök efter symbolen i menyraden.
+The application will start automatically. Check for the symbol in your menu bar.
 
-> Glöm inte att [lägga till tillägget ****](/install). 
+> Do not forget to [add the **extension**](/install). 
 > 
 > {.is-warning}
 
