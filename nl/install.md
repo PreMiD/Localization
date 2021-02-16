@@ -16,13 +16,13 @@ dateCreated: 2020-06-11T18:03:51.119Z
 > 
 > {.is-warning}
 
-**Kies uw besturingssysteem:**
+**Kies je besturingssysteem:**
 - [Windows *7 of hoger*](/install/windows)
 - [macOS *10.11 of hoger*](/install/macos)
 - [Linux*-kernel met v2.x of hoger*](/install/linux)
 {.links-list}
 
-**Kies uw browser:**
+**Kies je browser:**
 - [Chromium *v76 of hoger*](/install/chromium)
 - [Firefox *v69 of hoger*](/install/firefox)
 {.links-list}

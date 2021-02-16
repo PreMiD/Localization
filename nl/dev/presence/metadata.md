@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-Als u een presence in de winkel wilt publiceren en deze wilt laden via de extensie, dan moet u de `metadata.json` bestand in uw `dist` map aanmaken.
+Als u een presence in de winkel wilt publiceren en deze wilt laden via de extensie, dan moet je de `metadata.json` bestand in je `dist` map aanmaken.
 
 Een voorbeeld van dat bestand kan hieronder worden gevonden.
 
@@ -111,7 +111,7 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Beschrijving van de service <b>NIET</b> de presence. Je beschrijving moet key waarden bevatten die de taal en de beschrijving in die specifieke taal aangeven. Maak beschrijvingen met de talen <i>die u kent</i>, onze vertalers zullen wijzigingen aanbrengen in uw metadata bestand. Bekijk de categorie voor de presence talen voor een lijst. </td>
+      <td style="text-align:left">Beschrijving van de service <b>NIET</b> de presence. Je beschrijving moet key waarden bevatten die de taal en de beschrijving in die specifieke taal aangeven. Maak beschrijvingen met de talen <i>die u kent</i>, onze vertalers zullen wijzigingen aanbrengen in je metadata bestand. Bekijk de categorie voor de presence talen voor een lijst. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
@@ -150,13 +150,13 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> waarde. We raden u aan een primaire kleur van de service
-        te gebruiken die uw presence ondersteunt.</td>
+        te gebruiken die je presence ondersteunt.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array met tags, ze helpen gebruikers uw presence op de website te vinden.</td>
+      <td style="text-align:left">Array met tags, ze helpen gebruikers je presence op de website te vinden.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
@@ -247,7 +247,7 @@ Interactieve instellingen instellen zodat gebruikers de presence kunnen aanpasse
 
 #### Introductie
 
-De `multiLanguage` instelling wordt gebruikt om gebruikers in staat te stellen handmatig de taal te selecteren waarin de presence word weergegeven. Hiervoor moet u strings van onze [API](https://api.premid.app/v2/langFile/presence/en) gebruiken, voor informatie over hoe je strings kunt toevoegen klik [hier](/dev/presence/metadata/adding-new-strings).
+De `multiLanguage` instelling wordt gebruikt om gebruikers in staat te stellen handmatig de taal te selecteren waarin de presence word weergegeven. Hiervoor moet je strings van onze [API](https://api.premid.app/v2/langFile/presence/en) gebruiken, voor informatie over hoe je strings kunt toevoegen klik [hier](/dev/presence/metadata/adding-new-strings).
 
 #### Set-up
 
@@ -263,13 +263,13 @@ De `multiLanguage` key kan als volgt worden ingesteld:
 
 1. Open een terminal en typ `git clone https://github.com/PreMiD/Localization`.
 2. Kies een map van je keuze.
-3. Open het in uw code editor.
+3. Open het in je code editor.
 
 ##### Bestand aanmaken
 
 1. Ga in de map `src`.
 2. Ga in de map `Presence`.
-3. Maak een bestand genaamd `<service>.json`. (Service is de **naam** (geen URL) in kleine letters van de service die u wilt ondersteunen.)
+3. Maak een bestand genaamd `<service>.json`. (service is de **naam** (geen URL) in kleine letters van de service die u wilt ondersteunen.)
 
 ##### De tekenreeksen toevoegen
 
@@ -296,7 +296,7 @@ Visualisatie van het bestand:
 }
 ```
 
-Nadat u het bestand met strings volledig hebt gemaakt, kunt u een pull-aanvraag maken op de [Localization Repository](https://github.com/PreMiD/Localization), in de beschrijving **moet** u een link naar uw pull-aanvraag van de bijgewerkte presence uit de [Presence Repository](https://github.com/PreMiD/Presences) toevoegen die met behulp van deze nieuwe strings is gemaakt.
+Nadat je het bestand met strings volledig hebt gemaakt, kunt u een pull-aanvraag maken op de [Localization Repository](https://github.com/PreMiD/Localization), in de beschrijving **moet** u een link naar je pull-aanvraag van de bijgewerkte presence uit de [Presence Repository](https://github.com/PreMiD/Presences) toevoegen die met behulp van deze nieuwe strings is gemaakt.
 
 #### Standaard keys
 De keys die je niet hebt hoeven instellen zijn automatisch ingesteld op het volgende: `title`: "Language" **Opmerking:** Dit wordt vertaald naar hun standaard taal (browsertaal). `icon`: "fas fa-language" ([Voorbeeld](https://fontawesome.com/icons/language)) `value`: **Word ingesteld naar de taal van de browser in als deze beschikbaar is (100% vertaald), anders Engels.** `values`: **Word ingesteld op de beschikbare talen (talen die het 100% vertaald hebben).**

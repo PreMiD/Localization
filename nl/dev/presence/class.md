@@ -28,7 +28,7 @@ Er zijn drie eigenschappen beschikbaar voor de `Presence` klasse.
 
 #### `clientId`
 
-Deze eigenschap is vereist om uw presence te laten werken, omdat uw client-id gebruikt word om het logo en de assets te weergeven. Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applications) krijgen.
+Deze eigenschap is vereist om je presence te laten werken, omdat je client-id gebruikt word om het logo en de assets te weergeven. Je kunt het op je [applicatiepagina](https://discordapp.com/developers/applications) krijgen.
 
 #### `injectOnComplete`
 
@@ -46,7 +46,7 @@ Geeft als resultaat een `PresenceData` object van wat de presence die wordt weer
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
-Stelt uw profielactiviteit in volgens de verstrekte gegevens.
+Stelt je profielactiviteit in volgens de verstrekte gegevens.
 
 De eerste parameter vereist een [`PresenceData`](#presencedata-interface) interface of een [`Slideshow`](/dev/presence/slideshow) klasse om alle informatie te krijgen die je wilt weergeven in je profiel.
 
@@ -87,7 +87,7 @@ Je kunt de documentatie voor de `Slideshow` klasse [hier](/dev/presence/slidesho
 
 Een asynrone methode waarmee u vertaalde strings uit de extensie kunt krijgen.
 
-U moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. Op dit eindpunt kan een lijst van vertaalde tekenreeksen worden gevonden: `https://api.premid.app/v2/langFile/presence/en/`
+Je moet `Object` opgeven met sleutels die de sleutel voor teksten zijn, `keyValue` is de waarde van de tekst. Op dit eindpunt kan een lijst van vertaalde tekenreeksen worden gevonden: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // Retourneert `Playing` en `Paused` strings
@@ -115,7 +115,7 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // De strings die je krijgt, zorg ervoor dat dit past bij uw LangStrings interface.
+      // De strings die je krijgt, zorg ervoor dat dit past bij je LangStrings interface.
       play: "general.playing",
       pause: "general.paused"
     },
@@ -151,7 +151,7 @@ console.log(pageVar); // Dit zal de "Variabele content" loggen
 
 ### `getExtensionVersion(Boolean)`
 
-Geeft als resultaat de extensie versie die de gebruiker gebruikt.
+Geeft als resultaat de extensie-versie die de gebruiker gebruikt.
 
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
@@ -278,13 +278,13 @@ Dit scherm volgt variabelen, ze zijn allemaal optioneel.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">De eerste regel in uw presence, meestal gebruikt als header.</td>
+      <td style="text-align:left">De eerste regel in je presence, meestal gebruikt als header.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Tweede regel in uw presence.</td>
+      <td style="text-align:left">Tweede regel in je presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
