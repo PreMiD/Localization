@@ -1,5 +1,5 @@
 ---
-title: Tilstedeværelses Utvikling
+title: Presence Development
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,28 +8,28 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> Alle posisjoner er nå lagret her: https://github.com/PreMiD/Presences 
+> All presences are now stored here: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Versjon `2.x` introduserer [nåværende butikk](https://premid.app/store). Brukere har nå muligheten til å manuelt legge til og fjerne deres favorittuttrykk gjennom brukergrensesnittet [nettstedet](https://premid.app/).
+Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> Før du begynner er det sterkt anbefalt å se på våre retningslinjer for nærvær. 
+> Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
 > {.is-warning}
 
 - [Retningslinjer](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Struktur
+# Structure
 
-All tilstedeværelse er kodet i [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) har noen ekstra krydderdefinisjoner over JavaScript, så det er enklere å fikse og identifisere feil.
+All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## Installasjon
 
 1. Installer [Git](https://git-scm.com/).
 2. Installer [Node](https://nodejs.org/en/) (følger med [npm](https://www.npmjs.com/)).
-3. Installer [TypeScript](https://www.typescriptlang.org/index.html#download-links) (åpne en terminal og `npm install -g typescript`).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Lukker prosjektet
 
@@ -39,9 +39,9 @@ All tilstedeværelse er kodet i [TypeScript](https://www.typescriptlang.org/). [
 
 ## Oppretting av mapper og filer
 
-1. Gå i `nettsider` mappen og gå deretter inn i mappen med den første bokstaven **navn** (ikke en URL) i tjenesten du vil støtte.
+1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Lag en mappe med **navnet** (ikke en URL) av tjenesten du vil støtte.
-3. Opprett en `forhåndspresence.ts` og en `tsconfig.json` fil inni.
+3. Create a `presence.ts` and a `tsconfig.json` file inside.
 4. Lag en mappe kalt `dist` inni mappen.
 5. Lag en `metadata.json` fil inni `dist` mappen.
 
@@ -62,7 +62,7 @@ For å lære mer om TypeScript konfigurasjon klikk [her](/dev/presence/tsconfig)
 
 ## Fyll inn metadata.json filen
 
-Vi har laget en `metadata.json` filutviklingsansvarlig for late repos [her](https://eggsy.xyz/projects/premid/mdcreator). Det er fremdeles foreslått å lese dette gjennom, slik at du vet hvordan det fungerer.
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
 
 ```json
 {
@@ -125,217 +125,217 @@ Vi har laget en `metadata.json` filutviklingsansvarlig for late repos [her](http
 }
 ```
 
-Kopier koden ovenfor og legg den i `metadata.json` -filen. Nå må du endre verdiene for egenskapene. Merk at følgende egenskaper er valgfrie for i dine `metadataer. sønn` -fil, hvis du ikke planlegger å bruke dem, må du fjerne dem.
+Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `contributors`
+- `bidragsytere`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `settings`
+- `innstillinger`
 
-**Klargjør noen verdi-forhåndsinnstillinger:**
+**Clarifying some value presets:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variabel</th>
+      <th style="text-align:left">Variable</th>
       <th style="text-align:left">Beskrivelse</th>
       <th style="text-align:left">Type</th>
-      <th style="text-align:left">Valgfritt</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Bør inneholde et objekt med <code>navnet</code> og <code>id</code> av tilstedeværelsesutvikleren. <code>navnet</code> er ditt Discord brukernavn uten identifikator(#0000). Bruker <code>-id</code> kan kopieres fra Discord ved å aktivere utvikler
-        -modus og høyre-klikke på profilen din.</td>
+      <td style="text-align:left"><b>forfatter</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Bør inneholde et objekt med <code>navnet</code> og <code>id</code> av tilstedeværelsesutvikleren. <code>navnet</code> er ditt Discord brukernavn uten identifikator(#0000). Bruker <code>-id</code> kan kopieres fra Discord ved å aktivere utvikler
-        -modus og høyre-klikke på profilen din.</td>
+      <td style="text-align:left"><b>bidragsytere</b></td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
+        mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">Tittelen på tjenesten som denne tilstedeværelsen støtter.<br>
-      (Bruk ikke samme navn som mappen hvor alt er in)</td>
+      <td style="text-align:left">The title of the service that this presence supports.<br>
+      (Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Kan søke i søket med et alternativt navn.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Poke″mon og ε″″″″″εεεεεεεε″″)<br>
-      Du kan også bruke den for trykk som har spesialtegn så du ikke trenger å skrive den inn (e.. Pokes mon og Pokemon).</td>
+      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
+      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Liten beskrivelse av tilstedeværelse, du kan bruke beskrivelsen av tjenesten hvis du er ute av ideer. Beskrivelsen må ha nøkkelpar-verdier som viser språket og beskrivelsen på det bestemte språket. Gjør beskrivelser med språkene <i>som du vet</i>, da vil oversettere våre gjøre endringer i metadatafilen din.</td>
+      <td style="text-align:left"><b>beskrivelse</b></td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL-adressen til tjenesten.<br><b>Eksempel:</b><code>vk. om</code><br>
-      <b>Denne nettadressen må samsvare med nettadressen til nettstedet for å finne ut om dette er nettstedet som skal injisere skriptet til.</b><br> Dører <b>IKKE</b> legg til <code>https://</code> eller <code>http://</code> inni nettadressen eller en skråstrek bakfra:
-      <code>https://premid. pp/</code> -> <code>formidt. pp</code><br>
-      <b>merknad</b>: Noen nettadresser kan ha <code>www.</code> eller noe annet foran domenet. IKKE <b></b> glem å legge til!<br>
-      Du kan legge til flere nettadresser ved å gjøre følgende:<br>
-      <code>["URL1", "URL2", "ETC]</code><br>
-      Du kan også bruke regExp også kjent som Regex for denne aktiviteten, står nærmere utsagn.</td>
+      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
+      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <code>https://premid.app/</code> -> <code>premid.app</code><br>
+      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+      You can add multiple URLs by doing the following:<br>
+      <code>["URL1", "URL2", "ETC."]</code><br>
+      You could also use regExp also known as Regex for this task, explained further below.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">En vanlig uttrykkstreng som brukes til å matche nettadresser.<br>
-      regExp eller også kjent som Regex, kan brukes hvis et nettsted har flere underdomener.<br>
-      Du kan bruke følgende regExp for følgende:<br>
-      <code>([a-z0-9]+)[.]domenet[.]TLD"</code><br>
-      TLD stående for domenet på toppnivå: . om .net (men ikke gå inn i prikken).<br>
-      <code>([a-z0-9]+)</code> betyr hva som helst fra en til z og fra 0 til 9.<br>
-      Du kan få en rask start ved å se denne <a href="https://youtu.be/sXQxhojSdZM">videoen</a><br>
-      Du kan teste din regExp på <a href="https://regex101.com/">Regex101</a>.</td>
+      <td style="text-align:left">A regular expression string used to match urls.<br>
+      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
+      You could use the following regExp for that:<br>
+      <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
+      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
+      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
+      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
+      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Versjon av ditt nærvær.</td>
+      <td style="text-align:left"><b>versjon</b></td>
+      <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Lenke til tjeneste&apos;s logotype.</td>
+      <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Kobling til ditt nærings miniatyrbilde.</td>
+      <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> verdi. Vi anbefaler å bruke en primærfarge på tjenesten
-        som ditt nærings støtter dette.</td>
+      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
+        that your presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Liste over tagger, som vil hjelpe brukere med å søke etter din tilstedeværelse på nettstedet.</td>
+      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">En strengstreng som brukes til å representere kategorien faller inn under innholdet. Se gyldige gnagere <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">her</a>.</td>
+      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Definerer om <code>iFrames</code> brukes.</td>
+      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">En vanlig uttrykksvelger som velger ut iframes for å injisere i. Se regExp for mer info.</td>
+      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Angir om utvidelsen skal lese logger.</td>
+      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
-      <td style="text-align:left">En liste med innstillinger som brukeren kan endre.<br>
-      Les mer om innstillinger for tilstedeværelse <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">her</a>.</td>
+      <td style="text-align:left"><b>innstillinger</b></td>
+      <td style="text-align:left">An array of settings the user can change.<br>
+      Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Ja</code></td>
+      <td style="text-align:left"><code>Yes</code></td>
     </tr>
   </tbody>
 </table>
 
-Vi har laget en `metadata.json` filutviklingsansvarlig for late repos [her](https://eggsy.xyz/projects/premid/mdcreator).
+We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Komme i gang
+## Getting started
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000" ////klient-ID opprettet på https://discordapp. om/developers/applications
+    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
   }),
-  strenger = presence.getStrings({
+  strings = presence.getStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback. aused"
-    ///Du kan bruke dette for å få oversatte strenger i nettleserspråket
+    pause: "presence.playback.paused"
+    //You can use this to get translated strings in their browser language
   });
 
 /*
 
-funksjon myOutsideHeavyLiftingFunction(){
-    ///Grab og behandle alle dataene dine her
+function myOutsideHeavyLiftingFunction(){
+    //Grab and process all your data here
 
-    // elementgrab //
-    / api kaller //
-    // variabel set //
+    // element grabs //
+    // api calls //
+    // variable sets //
 }
 
-settInterval(myOutOutOutOutOutyLiftingFunction, 10000);
-//Kjør funksjonen atskilt fra UpdateData eventet, hvert 10. sekund for å få og velge variablene som UpdateData plukker opp
+setInterval(myOutsideHeavyLiftingFunction, 10000);
+//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
 
 */
 
-trykk. n("UpdateData", async () => {
-  /*UpdateData skyter alltid, og bør derfor brukes som din oppdateringssyklus, eller `tick`. Dette kalles flere ganger så langt.
+presence.on("UpdateData", async () => {
+  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
 
-    Det anbefales å sette opp en annen funksjon utenfor denne hendelsesfunksjonen, som vil endre variable verdier og det tunge løft hvis du ringer data fra en API. /
+    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
-  presenceData: PresenceData = {
+  const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*Nøkkelen (filnavn) på det store bildet for pressen. Dette blir lastet opp og navngitt i Rich Presence delen av applikasjonen din, kalt Art Assets*/,
-    small ImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. Dette er lastet opp og heter i Rich Presence delen av programmet, kalt Kunstressurser */,
-    liten ImageText: "Some hover text", //Teksten som vises når du hovrer over det lille bildet
-    detaljer: "Sursing Page Name", //The upper section of the presence text
-    state: "Lese avsnitt A", //Nedre del av tilstedeværelse tekst
-    startTimestamp: 1577232000, /unix epoch tidsstempel for når du skal begynne å telle fra
-    tidsstempel: 1577151472000 //Hvis du vil vise Tid Venstre i stedet for Elapsed, dette er unix epoch tidsstempel der tidtakeren slutter
-  }; /*Eventuelt kan du angi en storgeImageKey her og endre resten som variabler underegenskaper, for eksempel presenceSata. ype = "blahblah"; skriv eksempler: detaljering, tilstand etc.*/
+      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+    smallImageKey:
+      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
+    details: "Browsing Page Name", //The upper section of the presence text
+    state: "Reading section A", //The lower section of the presence text
+    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
+    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
+  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
 
-  hvis (tilstedeværelseData. etails == null) {
-    /Dette vil fyre hvis du ikke angir tilstedeværelsesdetaljer
-    trykk. etTrayTitle(); //Clears dekselets tittel for mac brukere
-    tilstedeværelse. etAktivitet (); /*oppdater tilstedeværelsen uten data, derfor tømmer den og gjør det store bildet til Discord applikasjonsikonet, og teksten Discord applikasjonsnavn*/
+  if (presenceData.details == null) {
+    //This will fire if you do not set presence details
+    presence.setTrayTitle(); //Clears the tray title for mac users
+    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
   } else {
-    ///Dette vil skyte hvis du setter inn detaljer om tilstedeværelsen
-    presse. etActivity(presenceData); //Oppdater tilstedeværelsen med alle verdiene fra presenceData-objektet
+    //This will fire if you set presence details
+    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
   }
 });
 ```
 
-Du kan kopiere dette til din `forhåndsinnstilling. ts` fil og endre verdiene. Å angi alle verdiene er ferdig inne i data hendelsen.
+You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
 
-For eksempler foreslår vi å se på pressekoden som: 1337x eller 9GAG. For mer informasjon om `Presence` klassen [her](/dev/presence/class).
+For examples we suggest to look at the code of presences like: 1337x or 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
-Siden v2.2. det er nå Slideshows, dette lar deg vise flere `PresenceData` grensesnitt på et intervall, for mer informasjon klikk om `Slideshow` klasse [her](/dev/presence/slideshow).
+Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
-## Kan ikke hente bestemte data?!
+## Can't get certain data?!
 
 Mange nettsteder bruker [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Disse html kodene kan inneholde flere kilder, som videoer. Men de er ikke relevante hver gang. Noen er skjult eller kun aktivt brukt. Sjekk om du kan hente informasjonen du trenger, uten dem før du gjør unødvendig arbeid.
 
