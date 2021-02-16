@@ -1,1 +1,10 @@
-{}
+{
+	"twitch.downloads": {
+		"message": "Allalaadimised",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerid",
+		"description": "Page name"
+	}
+}
