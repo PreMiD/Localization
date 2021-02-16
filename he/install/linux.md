@@ -19,11 +19,11 @@ The installation of the application is very important as the extension can not d
 - **[About](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
-  - דוגמאות (בקרוב)
-  - שאלות נפוצות (בקרוב)
+  - Examples (soon)
+  - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [Credits](#credits)
+  - [תודות](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -46,7 +46,7 @@ The installation of the application is very important as the extension can not d
 <table>
   <tr>
     <th>Deployment</th>
-    <th>סה"כ הורדות</th>
+    <th>Total downloads</th>
     <th>Latest release</th>
   </tr>
   <tr>
@@ -74,15 +74,15 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="הצטרף לדיסקורד שלנו!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="הצטרף לדיסקורד שלנו!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### תודות
 
-תודה ל :
+Thanks to :
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
 - @apriluwu for maintaining the Gentoo builds
