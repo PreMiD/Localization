@@ -1,6 +1,6 @@
 ---
 title: API
-description: Pristupite izvorima i izvodite radnje pomoću PreMiD API-ja
+description: Access resources and perform actions using the PreMiD API
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
@@ -19,18 +19,18 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > 
 > {.is-danger}
 
-PreMiD izlaže različite verzije našeg API-ja. Verziju možete odrediti dodavanjem u putanju zahtjeva poput ` https://api.premid.app/v{version_number} `. Ako izostavite broj verzije s rute, zahtjevi će se preusmjeriti na trenutnu zadanu verziju (u skladu s tim označenu dolje).
+PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
-## Enkripcija
+## Encryption
 
-Sve usluge i protokoli HTTP nivoa (npr. Http) unutar PreMiD API-ja koriste TLS 1.2.
+All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
 # Dokumentacija
-> Trenutacno pod izradom! 
+> Currently under construction! 
 > 
 > {.is-danger}
 
-**Izaberite API verziju:**
+**Choose the API version:**
 - [v2 *deprecated*](/dev/api/v2)
 - [v3 *active*](/dev/api/v3)
 {.links-list}
