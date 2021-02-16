@@ -1,18 +1,22 @@
 {
-	"premid.viewPage": {
-		"message": "Lehe vaatamine:",
-		"description": ""
+	"premid.pageContributors": {
+		"message": "Abilised",
+		"description": "A page name"
 	},
-	"premid.docs": {
-		"message": "Dokumendid",
-		"description": "as in documents"
+	"premid.pageDownloads": {
+		"message": "Allalaadimised",
+		"description": "A page name"
 	},
-	"premid.viewPresence": {
-		"message": "Presence'i vaatamine:",
-		"description": ""
+	"premid.pageStore": {
+		"message": "Pood",
+		"description": "A page name"
 	},
-	"premid.pageHome": {
-		"message": "Koduleht",
+	"premid.partners": {
+		"message": "Partnerid",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Veaotsimine",
 		"description": "A page name"
 	}
 }
