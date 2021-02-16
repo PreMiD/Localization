@@ -34,9 +34,5 @@
 	"general.viewPage": {
 		"message": "Stranica za pregled:",
 		"description": ""
-	},
-	"general.cookie": {
-		"message": "Politika kolačića",
-		"description": "A page name"
 	}
 }
