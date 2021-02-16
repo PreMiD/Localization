@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 
 # API
 
-> Základní adresa URL: https://api.premid.app 
+> Base URL: https://api.premid.app 
 > 
 > {.is-info}
 
@@ -19,11 +19,11 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > 
 > {.is-danger}
 
-PreMiD vystavuje různé verze našeho API. Můžete specifikovat verzi tak, že ji vložíte do adresy, jako je `https://api.premid.app/v{version_number}`. Zrušení čísla verze z trasy bude směrovat požadavky na aktuální výchozí verzi (odpovídajícím způsobem označeno níže).
+PreMiD vystavuje různé verze našeho API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
 
 ## Šifrování
 
-Všechny služby a protokoly HTTP (např. http) v rámci PreMiD API používají TLS 1.2.
+All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
 # Dokumentace
 > Momentálně ve výstavbě! 
