@@ -1,18 +1,18 @@
 ---
-title: Tentang PreMiD
-description: Fitur utama dari PreMiD
+title: About PreMiD
+description: The core features of PreMiD
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown
 ---
 
-PreMiD adalah utilitas simpel yang memungkinkan kamu menampilkan apa yang sedang kamu lakukan di web pada status now playing Discord. PreMiD mendukung banyak platform dan akan mendukung nonton bersama di update yang akan datang.
+PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status. It supports many different platforms and will support multiple users watching the same content simultaneously in an upcoming update.
 
-# Kenapa kamu harus mengunduh PreMiD
+# Why you should download PreMiD
 - Semua proyek kami open-source! Kami ingin bekerja dengan pengguna kami - bukan menentang mereka.
 - Fitur hebat, WatchParties, akan datang ke PreMiD. Dengan undangan game serta menonoton dan mendengarkan sekaligus. Powered by[ Discord](https://discordapp.com/).
 
-# Fitur utama
-- Menampilkan website yang anda gunakan sebagai status di Discord.
-- Memberi kontrol penuh terhadap Presence.
+# Core features
+- Displays your current web service in Discord as your status.
+- Grants full control over Presences.
