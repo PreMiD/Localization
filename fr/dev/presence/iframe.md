@@ -1,8 +1,8 @@
 ---
 title: Classe iFrame
 description:
-published: true
-date: 2020-05-07T20:17:51.869Z
+published: oui
+date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
@@ -23,13 +23,13 @@ Tout comme les présences, `iframes` ont leurs propres classes conçues pour met
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Le code va ici...
+    // Code goes here...
 });
 ```
 
 ## Méthodes
 
-### `send(Objet)`
+### `send(Object)`
 Envoie des données à la présence. L'utilisation de cette méthode fera que la présence lancera un événement `iFrameData`.
 
 ### `getUrl()`
@@ -40,12 +40,12 @@ En `iframes`, les événements fonctionnent de la même façon que la classe `pr
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Le code va ici...
+    // Code goes here...
 });
 ```
 
 Voici une liste de tous les événements :
 
-#### `Mettre à jour les données`
+#### `UpdateData`
 
 Cet événement est déclenché chaque fois que l'iframe est mis à jour.
