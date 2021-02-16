@@ -1,43 +1,43 @@
 ---
 title: Linux
 description: Per iniziare con un'installazione di PreMiD su Linux
-published: true
+published: vero
 date: 2020-11-10T18:06:56.520Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-L'installazione dell'applicazione è molto importante, poiché l'estensione non può fare nulla da sola.
+The installation of the application is very important as the extension can not do anything by itself.
 
-> Gli utenti di Aur che usano il pacchetto di DoomLerd dovrebbero essere sicuri come dice lui. Non ti consigliamo di usarlo, ma se vuoi puoi comunque usarlo. Grazie a DoomLerd per aver gestito aur repo. 
+> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
 > 
 > {.is-warning}
 
-## Pagina dei Contenuti
+## Table of Contents
 
-- **[Info su](#about)**
-  - [Statistiche](#stats)
+- **[About](#about)**
+  - [Stats](#stats)
   - [Requirements](#requirements)
-  - Esempi (Soon™)
-  - FAQ (soon™)
-  - Build (soon™)
-  - [Supporto](#support)
-  - [Credits](#credits)
-  - [Licenze](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _M A I_ ™️)
+  - Examples (soon)
+  - FAQs (soon)
+  - Building (soon)
+  - [Support](#support)
+  - [Crediti](#credits)
+  - [License](#license)
+- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RACCOMANDATO_)
-  - [Istruzioni per Installare](#appimageinstall)
-  - [Note aggiuntive](#appimagenotes)
+  - [Installation instructions](#appimageinstall)
+  - [Additional notes](#appimagenotes)
 - [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Distribuzioni basate su Debian e Ubuntu**](#packagecloud)
+- [**Debian and Ubuntu based distributions**](#packagecloud)
 - [**Distribuzioni basate su Arch Linux**](#arch)
 
 <a name="about"></a>
 
 ## About
 
-**PreMiD** è semplice, utilità configurabile che utilizza la libreria RP di Discord ( Rich Presence ) che ti permette di mostrare ciò che stai facendo sul web ( e alcuni programmi ) nel tuo profilo di Discord come **stato di gioco**.
+**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
 <a name="stats"></a>
 
@@ -46,13 +46,13 @@ L'installazione dell'applicazione è molto importante, poiché l'estensione non 
 <table>
   <tr>
     <th>Deployment</th>
-    <th>Numero di Download</th>
-    <th>Ultima Release</th>
+    <th>Total downloads</th>
+    <th>Latest release</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="Tutte le release"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Versioni di Github"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
@@ -60,35 +60,35 @@ L'installazione dell'applicazione è molto importante, poiché l'estensione non 
 
 ### Requirements
 
-Tecnicamente ogni distribuzione in grado di eseguire l'app [ufficiale](https://discordapp.com/download) **di Discord** (non il web o la versione istantanea) può funzionare anche PreMiD;</br> Come potresti aver notato negli ultimi anni, alcune distribuzioni Linux hanno iniziato a eliminare il supporto per le architetture a 32 bit (ia32/i686/i386/x86) e di conseguenza, anche noi. Comunque, Puoi provare a crearti l'app da solo se hai tanto di una distribuzione a 32-bit. </br> Visto che usiamo Elector come engine (Anche Discord lo usa!), questi sono i requisiti minimi:
+Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-Non è noto se le vecchie versioni di altre distribuzioni lo supportano, quindi mantieni la tua distribuzione aggiornata e utilizza **LTS (Supporto a Lungo Termine)** release se la tua distribuzione li offre, visto che sono più stabili (evita versioni alfa).
+It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
 
 <a name="support"></a>
 
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.premid.app/" title="Unisciti al nostro Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
     <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### Credits
+### Crediti
 
-Grazie mille a:
+Thanks to :
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) per i feedback sulle versioni beta.
-- @apriluwu per la manuntenzione del Gentoo Builds
-- @SlimShadyIAm and naka per aver mantenuto i pachetti Arch User Repository
-- La community di Electron per i vari pacchetti
-- E tutti coloro che hanno contribuito al progetto in qualsiasi modo.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
+- @apriluwu for maintaining the Gentoo builds
+- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
+- The Electron community for various packages
+- Anyone else who has ever contributed to the project in any way.
 
 <a name="license"></a>
 
@@ -112,7 +112,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Basta fare doppio clic su di esso o eseguire
+# Just double-click it or run
 ./PreMiD*.AppImage
 ```
 
@@ -146,7 +146,7 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Distribuzioni basate su Arch Linux
 
 Usa [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Le distribuzioni supportate sono _stesse_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS e [ciascuno che supporta l'installazione da AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
