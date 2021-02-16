@@ -1,1 +1,14 @@
-{}
+{
+    "youtube.trending": {
+        "message": "দেখছে কী ট্রেন্ডিং - এ",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "কিছু একটা আপলোড করছে...",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "দেখছে তার",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    }
+}

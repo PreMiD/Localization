@@ -87,32 +87,12 @@
 		"message": "Sizning PreMiD ilovangiz eskirgan. PreMiD'dan foydalanishni davom ettirish uchun yangilang.",
 		"description": "Shown when application is outdated"
 	},
-	"popup.category.all": {
-		"message": "Hammasi",
-		"description": "Category name shown when you open tags"
-	},
-	"popup.category.anime": {
-		"message": "Anime",
-		"description": "Category name shown when you open tags"
-	},
-	"popup.category.music": {
-		"message": "Musiqa",
-		"description": "Category name shown when you open tags"
-	},
 	"popup.category.games": {
 		"message": "O'yinlar",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
 		"message": "Ijtimoiy",
-		"description": "Category name shown when you open tags"
-	},
-	"popup.category.videos": {
-		"message": "Videolar va Nashrlar",
-		"description": "Category name shown when you open tags"
-	},
-	"popup.category.other": {
-		"message": "Boshqa",
 		"description": "Category name shown when you open tags"
 	}
 }

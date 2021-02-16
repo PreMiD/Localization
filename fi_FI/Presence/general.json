@@ -7,184 +7,32 @@
 		"message": "Selaa...",
 		"description": ""
 	},
-	"general.chapter": {
-		"message": "Luku",
-		"description": ""
-	},
-	"general.dj": {
-		"message": "DJ",
-		"description": ""
-	},
-	"general.editing": {
-		"message": "Muokkaa:",
-		"description": ""
-	},
 	"general.episode": {
 		"message": "Jakso",
-		"description": ""
-	},
-	"general.forums": {
-		"message": "Foorumi",
-		"description": ""
-	},
-	"general.genre": {
-		"message": "Genre",
 		"description": ""
 	},
 	"general.language": {
 		"message": "Kieli",
 		"description": "For choosing a language"
 	},
-	"general.listeningMusic": {
-		"message": "Kuuntelee musiikkia",
-		"description": ""
-	},
-	"general.listeners": {
-		"message": "Kuuntelijat",
-		"description": ""
-	},
 	"general.live": {
 		"message": "Suora",
-		"description": ""
-	},
-	"general.manga": {
-		"message": "Manga",
-		"description": ""
-	},
-	"general.merch": {
-		"message": "Merch",
-		"description": ""
-	},
-	"general.page": {
-		"message": "Sivu",
-		"description": ""
-	},
-	"general.paused": {
-		"message": "Keskeytetty",
-		"description": ""
-	},
-	"general.playing": {
-		"message": "Toistaa",
 		"description": ""
 	},
 	"general.reading": {
 		"message": "Lukee",
 		"description": ""
 	},
-	"general.searchFor": {
-		"message": "Etsii:",
-		"description": ""
-	},
-	"general.searchSomething": {
-		"message": "Etsii jotain...",
-		"description": ""
-	},
 	"general.search": {
 		"message": "Etsii",
-		"description": ""
-	},
-	"general.shopCart": {
-		"message": "Ostoskori",
 		"description": ""
 	},
 	"general.store": {
 		"message": "Kauppa",
 		"description": ""
 	},
-	"general.typeChannel": {
-		"message": "Kirjoittaa kanavalle:",
-		"description": ""
-	},
-	"general.viewAnime": {
-		"message": "Katsoo anime:",
-		"description": ""
-	},
-	"general.viewCategory": {
-		"message": "Katsoo katergoriaa:",
-		"description": ""
-	},
-	"general.viewChannel": {
-		"message": "Katso kanavaa:",
-		"description": ""
-	},
-	"general.viewEpisode": {
-		"message": "Katsoo jaksoa:",
-		"description": ""
-	},
-	"general.viewGenre": {
-		"message": "Katsoo genreä:",
-		"description": ""
-	},
-	"general.viewHome": {
-		"message": "Katsoo etusivua",
-		"description": ""
-	},
-	"general.viewMember": {
-		"message": "Katsoo jäsentä:",
-		"description": ""
-	},
-	"general.viewMovie": {
-		"message": "Katsoo elokuvaa:",
-		"description": ""
-	},
-	"general.viewPlaylist": {
-		"message": "Katsoo soittolistaa:",
-		"description": ""
-	},
-	"general.viewProduct": {
-		"message": "Katsoo tuotetta:",
-		"description": ""
-	},
-	"general.viewProfile": {
-		"message": "Katselee profiilia:",
-		"description": ""
-	},
-	"general.viewSeries": {
-		"message": "Katsoo sarjaa:",
-		"description": ""
-	},
-	"general.viewShow": {
-		"message": "Katsoo ohjelmaa:",
-		"description": ""
-	},
-	"general.viewUser": {
-		"message": "Katsoo käyttäjää:",
-		"description": ""
-	},
-	"general.viewing": {
-		"message": "Katsoo:",
-		"description": ""
-	},
 	"general.viewPage": {
 		"message": "Katsoo sivua:",
 		"description": ""
-	},
-	"general.watchingVid": {
-		"message": "Katsoo videota",
-		"description": ""
-	},
-	"general.watchingLive": {
-		"message": "Katsoo livestriimiä",
-		"description": ""
-	},
-	"general.watching": {
-		"message": "Katsoo:",
-		"description": ""
-	},
-	"general.wishlist": {
-		"message": "Toivelista:",
-		"description": ""
-	},
-	"general.privacy": {
-		"message": "Yksityisyyskäytäntö",
-		"description": "A page name"
-	},
-	"general.terms": {
-		"message": "Käyttöehdot",
-		"description": "A page name"
-	},
-	"general.cookie": {
-		"message": "Evästekäytäntö",
-		"description": "A page name"
 	}
 }

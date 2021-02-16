@@ -1,1 +1,6 @@
-{}
+{
+	"maintenance.big": {
+		"message": "Ωχ όχι!",
+		"description": "The big text on maintenance page"
+	}
+}

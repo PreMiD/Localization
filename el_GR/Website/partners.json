@@ -1,1 +1,10 @@
-{}
+{
+	"partners.header.title": {
+		"message": "Συνεργάτες",
+		"description": "Heading for page."
+	},
+	"partners.apply.select.other": {
+		"message": "Άλλα",
+		"description": "Select 'Other' category."
+	}
+}

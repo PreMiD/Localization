@@ -1,1 +1,10 @@
-{}
+{
+    "amazon.viewTheir": {
+        "message": "দেখছে তার",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.store": {
+        "message": "দেখছে স্টোর:",
+        "description": ""
+    }
+}

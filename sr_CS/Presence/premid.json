@@ -1,18 +1,14 @@
 {
-	"premid.viewPage": {
-		"message": "Gleda stranu:",
-		"description": ""
+	"premid.pageAbout": {
+		"message": "O PreMiD-u",
+		"description": "A page name"
 	},
-	"premid.docs": {
-		"message": "Dokumentacija",
-		"description": "as in documents"
+	"premid.pageSysReq": {
+		"message": "Sistemski zahtevi",
+		"description": "A page name"
 	},
-	"premid.viewPresence": {
-		"message": "Gleda prisustvo:",
-		"description": ""
-	},
-	"premid.pageHome": {
-		"message": "Glavna strana",
+	"premid.pageTroubleshooting": {
+		"message": "Rešavanje problema",
 		"description": "A page name"
 	}
 }

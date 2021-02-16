@@ -279,10 +279,6 @@
 		"message": "Auf Schleife",
 		"description": ""
 	},
-	"general.incidentView": {
-		"message": "Sieht sich ein Vorfall an",
-		"description": "A page name of statuspages"
-	},
 	"general.incidentHistory": {
 		"message": "Störungsverlauf",
 		"description": "A page name of statuspages"
@@ -309,10 +305,6 @@
 	},
 	"general.buttonViewChannel": {
 		"message": "Betrachtet Kanal",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonListenAlong": {
-		"message": "Hört zu",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPage": {
