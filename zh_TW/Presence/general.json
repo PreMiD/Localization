@@ -111,6 +111,14 @@
 		"message": "改寫",
 		"description": ""
 	},
+	"general.calling": {
+		"message": "呼叫中",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "在通話中",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "購物車",
 		"description": ""
@@ -205,6 +213,18 @@
 	},
 	"general.viewPage": {
 		"message": "正在檢視頁面:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "正在觀看電影",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "正在觀看一系列節目",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "正在觀看演出",
 		"description": ""
 	},
 	"general.watchingVid": {
