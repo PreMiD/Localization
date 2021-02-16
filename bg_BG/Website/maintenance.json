@@ -3,14 +3,6 @@
 		"message": "О, не!",
 		"description": "The big text on maintenance page"
 	},
-	"maintenance.heading": {
-		"message": "За съжаление ние преживяваме технически затруднения. Ще се върнем скоро. Съжаляваме за неудобството.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Моля, върнете се по-късно за повече информация.",
-		"description": "Heading on maintenance page"
-	},
 	"maintenance.message": {
 		"message": "Докато нашите специални разработчици не поправят това, не се колебайте да разгледате тук!",
 		"description": "Message on maintenance page"
