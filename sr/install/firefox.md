@@ -1,15 +1,15 @@
 ---
 title: Firefox
 description: Prvi koraci sa PreMiD instalacijom na Firefox-u
-published: tačno
+published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Instalacija ekstenzije je veoma bitna jer aplikacija ne može sama učiniti ništa.
 
 # Instaliranje
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Idite na našu stranicu za preuzimanja [klikom ovde](https://premid.app/downloads).
 2. Izaberite **Firefox**.
 3. Ukucajte `about:addons`.
 4. Kliknite na malu ikonu zupčanika u gornjem desnom uglu.
@@ -17,7 +17,7 @@ The installation of the extension is very important as the application can not d
 6. Izaberite datoteku koju ste nedavno preuzeli.
 7. Prihvatite instalaciju klikom na **Dodaj**.
 
-> Do not forget to [add the **application**](/install). 
+> Ne zaboravite da [dodate **aplikaciju**](/install). 
 > 
 > {.is-warning}
 
