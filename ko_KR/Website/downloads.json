@@ -63,10 +63,6 @@
 		"message": "다운로드 숨기기",
 		"description": "Little button on the downloads page for mobile users."
 	},
-	"downloads.warning.differentVersion": {
-		"message": "현재 플랫폼 버전은 {0} 입니다. (이 버전은 리눅스에만 적용되며 다른 플랫폼에는 적용되지 않습니다).",
-		"description": "Tippy message of the Linux card."
-	},
 	"downloads.warning.differentVersion2": {
 		"message": "이 버전은 Linux용으로 제작되었습니다. 이 버전은 {0} 입니다.",
 		"description": "Tippy message of the version number when user is on Linux."
@@ -118,10 +114,6 @@
 	"downloads.button.login": {
 		"message": "로그인",
 		"description": "Login button on the downloads page."
-	},
-	"downloads.button.skipanyway": {
-		"message": "일단 건너뛰기",
-		"description": "Skip Anyway button on the ads page."
 	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "감사합니다!",
