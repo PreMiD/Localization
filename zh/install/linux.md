@@ -1,29 +1,29 @@
 ---
 title: Linux
 description: Getting started with a PreMiD installation on Linux
-published: 是
+published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-安裝本地程式非常重要，因為單靠擴充功能是無法做任何事的。
+The installation of the application is very important as the extension can not do anything by itself.
 
 > Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
 > 
 > {.is-warning}
 
-## 內容目錄
+## Table of Contents
 
 - **[About](#about)**
-  - [目前狀態](#stats)
+  - [Stats](#stats)
   - [Requirements](#requirements)
-  - 例子(等待更新)
+  - Examples (soon)
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [特別感謝](#credits)
+  - [制作人员名单](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -41,7 +41,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="stats"></a>
 
-### 目前狀態
+### Stats
 
 <table>
   <tr>
@@ -73,14 +73,14 @@ It is unknown whether older versions of other distributions support it, so just 
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.premid.app/" title="加入我們的 Discord 服務器!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="加入我們的 Discord 服務器!">
+  <a target="_blank" href="https://discord.premid.app/" title="加入我们的 Discord 服务器!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="加入我们的 Discord 服务器!">
   </a>
 </div>
 
 <a name="credits"></a>
 
-### 特別感謝
+### 制作人员名单
 
 Thanks to :
 
