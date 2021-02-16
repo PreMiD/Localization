@@ -11,61 +11,13 @@
 		"message": "Penerjemah",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.projectLeader": {
-		"message": "Pemimpin Proyek",
-		"description": "'Project Leader' title for contributors and user pages."
-	},
-	"contributors.roles.staffCoordinator": {
-		"message": "Koordinator Staf",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
-	"contributors.roles.marketingDirector": {
-		"message": "Direktur Pemasaran",
-		"description": "'Marketing Director' title for contributors and user pages."
-	},
 	"contributors.roles.administrator": {
 		"message": "Administrator",
 		"description": "'Administrator' title for contributors and user pages."
 	},
-	"contributors.roles.reviewer": {
-		"message": "Reviewer",
-		"description": "'Reviewer' title for contributors and user pages."
-	},
-	"contributors.roles.developer": {
-		"message": "Pengembang",
-		"description": "'Developer' title for contributors and user pages."
-	},
 	"contributors.roles.designer": {
 		"message": "Desainer",
 		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderator",
-		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.supportAgent": {
-		"message": "Agen Support",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.representative": {
-		"message": "Perwakilan",
-		"description": "'Representative' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "Korektor",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
-	"contributors.roles.donator": {
-		"message": "Donatur",
-		"description": "'Donator' title for contributors page."
-	},
-	"contributors.roles.booster": {
-		"message": "Booster",
-		"description": "'Booster' title for contributors page and user pages."
-	},
-	"contributors.roles.translator": {
-		"message": "Penerjemah",
-		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
 		"message": "Klik untuk menyalin ID pengguna.",
