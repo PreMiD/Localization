@@ -1,7 +1,7 @@
 ---
-title: Métadonnées.json
+title: Metadata.json
 description: Contient des données basique sur la Presence
-published: true
+published: oui
 date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
@@ -85,14 +85,14 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><b>auteur</b></td>
       <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
-      <td style="text-align:left"><code>Objet</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributeurs</b></td>
       <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du contributeur. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
-      <td style="text-align:left"><code>Tableau&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
@@ -157,7 +157,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Tableau avec des tags, ils aideront les utilisateurs à rechercher votre présence sur le site Web.</td>
-      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
@@ -185,7 +185,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>réglages</b></td>
       <td style="text-align:left">Un tableau de paramètres que l'utilisateur peut modifier</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
@@ -359,7 +359,7 @@ Lorsque vous faites votre présence, vous devez spécifier une catégorie sous l
       <td style="text-align:left">Les sites Web qui sont utilisés dans le but de créer et de partager du contenu ou de participer à d'autres formes de réseau social.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>vidéos</b></td>
+      <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Vidéos & Streams</b></td>
       <td style="text-align:left">Sites Web qui servent à fournir des vidéos et des streams.</td>
     </tr>
