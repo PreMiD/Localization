@@ -24,11 +24,11 @@ const presence = new Presence({
 
 ### الخصائص
 
-هناك ثلاث خصائص متاحة لفئة `Presence`.
+There are three properties available for `Presence` class.
 
 #### `clientId`
 
-هذه الخاصية مطلوبة لجعل presence يعمل ، لأنه يستخدم معرف التطبيق الخاص بك لعرض شعاره. يمكنك الحصول عليه من [ صفحة التطبيقات ](https://discordapp.com/developers/applications).
+This property is required to make your presence work, because it uses your application id to display its logo and assets. يمكنك الحصول عليه من [ صفحة التطبيقات ](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
@@ -106,7 +106,7 @@ Since v2.2.0 of the extension you can now get the strings of a certain language.
 We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
 
 ```typescript
-// واجهة السلاسل التي تحصل عليها (جيدة لجودة التعليمات البرمجية و الإكمال التلقائي).
+// An interface of the strings you are getting (good for code quality and autocomplete).
 interface LangStrings {
   play: string;
   pause: string;
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+إرجاع قيمة الإعدادات.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -285,7 +285,7 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
     <tr>
       <td style="text-align:left">الحالة</td>
       <td style="text-align:left">السطر الثاني في الpresence الخاص بك.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
     <tr>
@@ -302,29 +302,29 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
       <td style="text-align:left">endTimestamp</td>
       <td style="text-align:left">يحدد المدة الكاملة.
         <br>يستخدم إذا كنت ترغب في عرض كم <code>ساعات:دقائق:ثوان</code> متبقية.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>يجب عليك تحويل وقتك إلى <code>timestamp</code> أو ستحصل على
+          عد تنازلي خاطئ.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>عدد</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">يحدد الشعار الخاص بالpresence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">يحدد الرمز الصغير بجوار شعارال presence&apos;s.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">يحدد النص الذي سيتم عرضه للمستخدم عندما يكون على الرمز
         الصغير.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>نص</code>
       </td>
     </tr>
   </tbody>
