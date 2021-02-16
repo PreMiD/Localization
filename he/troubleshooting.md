@@ -1,6 +1,6 @@
 ---
 title: פתרון תקלות
-description: הכל כדי לפתור את הבעיה שלך
+description: Everything to solve your problem
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> וודא שיש לך את התוסף ** ו ** את היישום מותקנים! 
+> Make sure you have the extension **and** the application installed! 
 > 
 > {.is-warning}
 
@@ -46,10 +46,10 @@ To solve this, all you have to do is toggle the topmost setting: ![presencesetti
 ### טען/הפעל מחדש את Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
-### בדוק אם במחשב שלך פועל אנטי-וירוס או חומת אש
+### Check if you have antivirus or firewall running on your computer
 לפעמים יישומי אנטי-וירוס וחומות אש חוסמות יישומים שיוצרים/מאחרים שרתים או מתחברים לאינטרנט. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### השבת את התוספים שלך
+### Disable your addons
 השבת את כל התוספים שלך ובדוק אם זה עובד. אם כן, נסה להפעיל את התוספים שלך שלב אחר שלב וספר לנו איזה תוסף שבר את PreMiD.
 
 ### Restarting your computer
@@ -58,7 +58,7 @@ I hope you know how to restart a computer.
 ### Reinstalling PreMiD
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
-### הסדרה ידנית
+### Manual removal
 Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
 MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
 
