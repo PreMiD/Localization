@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Партнери",
+		"description": "Heading for page."
+	},
 	"partners.header.description": {
 		"message": "Приєднайтесь до FAM і отримуй переваги від партнера тільки для того, щоб показати скільки у вас халатів.",
 		"description": "Description for page."
@@ -50,6 +54,10 @@
 	"partners.why.benefit5.description": {
 		"message": "Рекомендовано нашими соціальними мережами.",
 		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Вимоги",
+		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
 		"message": "Що ми шукаємо?",
@@ -147,10 +155,6 @@
 		"message": "За найкращими веб-сторінками.",
 		"description": "Description for Fastly."
 	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit це ваша онлайн радіостанція, створена щоб грати кращі хіти 24/7 і щоб ви відкрили для себе майбутні хіти.",
-		"description": "Description for OnlyHit."
-	},
 	"partners.apply.title": {
 		"message": "Застосувати до партнера",
 		"description": "Partnership application modal title."
@@ -170,6 +174,14 @@
 	"partners.apply.select.website": {
 		"message": "Вебсайт",
 		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Інше",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Ім'я",
+		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Наприклад: PreMiD",
@@ -206,6 +218,10 @@
 	"partners.apply.form.button.apply": {
 		"message": "Застосувати",
 		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Дякуємо, що подали заявку!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Будь ласка, заповніть усі поля.",
