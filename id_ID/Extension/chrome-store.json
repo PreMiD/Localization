@@ -1,10 +1,1 @@
-{
-  "extension.description.short": {
-    "message": "Rich Presence Anda untuk Layanan Web!",
-    "description": "Short description in extension store"
-  },
-  "extension.description.full": {
-    "message": "ANDA HARUS MENGINSTALL APLIKASI RESMI KAMI UNTUK MEMBUATNYA BEKERJA\n   {0}{1}\n\nAnda bisa menggunakan tombo media untuk mengatur pemutaran dari layanan-layanan yang didukung. Ketika anda menonton/mendengar sesuatu di salah satu layanan yang kami dukung, ekstensi pada browser web mengirim metadata dari video/lagu ke aplikasi desktop kami dan PreMiD memprosesnya. PreMiD mengirim informasi ke Discord dengan format yang tepat dan mengubah statusnya.\n\nLayanan yang didukung\n   {2} Lihat {3}\n\nButuh bantuan?\n   {4} {5}\n\nServer Discord Kami\n   {6} Hubungi orang-orang dibalik PreMiD {7}\n\nAplikasi kami Open Source!\n   {9} Sesuatu yang hebat seharusnya dapat diakses oleh publik {10}",
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
-  }
-}
+{}
