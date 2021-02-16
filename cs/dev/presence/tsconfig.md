@@ -1,23 +1,23 @@
 ---
 title: TypeScript Configuration
-description: Malý pomocník pro TypeScript
+description: A little helper for TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
 ---
 
-# Konfigurace TypeSkriptu
+# TypeScript Configuration
 
 ## Úvod
 
-Po stažení a rozbalení pracovního prostoru uvidíte soubor nazvaný `tsconfig.js` v kořenových a přítomných složkách, tento soubor se používá ke konfiguraci kompilátoru **TypeSkript**. Již je pro vás nakonfigurován, takže nemějte obavy.
+When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
 
-Chceme pouze popsat některá nastavení, která byste měli vědět.
+We just want to describe some settings that you should know.
 
-## Konfigurace Root
+## Root Configuration
 
-V kořenovém konfiguračním souboru uvidíte něco podobného.
+In the root configuration file you will see something like this.
 
 ```javascript
 {
@@ -36,12 +36,12 @@ V kořenovém konfiguračním souboru uvidíte něco podobného.
 }
 ```
 
-| Vlastnosti                 | Popis                                                                                                                                                               |
+| Property                   | Popis                                                                                                                                                               |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Používá se ke konfiguraci kompilátoru, většina vlastností je umístěna zde.                                                                                          |
-| module                     | Více o tom si můžete přečíst [zde](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                      |
-| target                     | Definuje verzi JavaScriptu, kterou kompilujete.                                                                                                                     |
-| removeComments             | Odstraňování komentářů z kompilovaných souborů.                                                                                                                     |
+| **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
+| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
+| target                     | Defines the JavaScript version you are compiling.                                                                                                                   |
+| removeComments             | Removing comments from compiled files.                                                                                                                              |
 | noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
 | noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
 | noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
@@ -50,7 +50,7 @@ V kořenovém konfiguračním souboru uvidíte něco podobného.
 | typeRoots                  | Více o tom si můžete přečíst [zde](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                      |
 | esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
 
-## Nastavení Presenc
+## Presence Configuration
 
 ```javascript
 {
@@ -61,8 +61,8 @@ V kořenovém konfiguračním souboru uvidíte něco podobného.
 }
 ```
 
-| Property            | Popis                                                                                 |
-|:------------------- |:------------------------------------------------------------------------------------- |
-| **extends**         | Používá se pro rozšíření základního `tsconfig` souboru pro různé úkoly.               |
-| **compilerOptions** | Více informací viz [**Konfigurace Root**](/dev/presence/tsconfig#root-configuration). |
-| outDir              | Definuje výstupní adresář pro kompilované soubory.                                    |
+| Property            | Popis                                                                                  |
+|:------------------- |:-------------------------------------------------------------------------------------- |
+| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
+| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
+| outDir              | Defines the output directory for compiled files.                                       |
