@@ -1,10 +1,22 @@
 {
+	"store.cards.creator": {
+		"message": "Autor",
+		"description": "Creator of a presence"
+	},
 	"store.category.heading": {
 		"message": "Kategórie",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "Všetko",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Hry",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Hudba",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
@@ -18,9 +30,5 @@
 	"store.category.other": {
 		"message": "Ostatné",
 		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Hľadať",
-		"description": "Placeholder for presence search"
 	}
 }
