@@ -3,22 +3,6 @@
 		"message": "Anstehende Namen anzeigen",
 		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
 	},
-	"namemc.skinsTrending": {
-		"message": "Schaut sich trendige Skins an",
-		"description": "Skins is how you appear in the game."
-	},
-	"namemc.skinsTop": {
-		"message": "Schaut sich Top Skins an",
-		"description": "Skins is how you appear in the game."
-	},
-	"namemc.skinsNew": {
-		"message": "Schaut sich neue Skins an",
-		"description": "Skins is how you appear in the game."
-	},
-	"namemc.skinsRandom": {
-		"message": "Schaut sich zufällige Skins an",
-		"description": "Skins is how you appear in the game."
-	},
 	"namemc.viewSkin": {
 		"message": "Betrachtet einen Skin",
 		"description": "Skins is how you appear in the game."
@@ -29,10 +13,6 @@
 	},
 	"namemc.viewCape": {
 		"message": "Betrachtet Umhang:",
-		"description": ""
-	},
-	"namemc.servers": {
-		"message": "Betrachtet Server",
 		"description": ""
 	},
 	"namemc.viewServer": {
