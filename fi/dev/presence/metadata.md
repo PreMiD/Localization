@@ -69,7 +69,7 @@ An example of that file can be found below.
 
 ## Understanding the metadata.json
 
-Näyttääkö tuo esimerkki todella oudolta? Älä huoli, ei ole vaikeaa ymmärtää, mikä jokaisen muuttujan tarkoitus on.
+That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
 
 <table>
   <thead>
@@ -77,7 +77,7 @@ Näyttääkö tuo esimerkki todella oudolta? Älä huoli, ei ole vaikeaa ymmärt
       <th style="text-align:left">Muuttuja</th>
       <th style="text-align:left">Kuvaus</th>
       <th style="text-align:left">Tyyppi</th>
-      <th style="text-align:left">Valinnainen</th>
+      <th style="text-align:left">Optional</th>
     </tr>
   </thead>
   <tbody>
@@ -86,7 +86,7 @@ Näyttääkö tuo esimerkki todella oudolta? Älä huoli, ei ole vaikeaa ymmärt
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>Ei</code></td>
+      <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>osallistujat</b></td>
@@ -161,7 +161,7 @@ Näyttääkö tuo esimerkki todella oudolta? Älä huoli, ei ole vaikeaa ymmärt
       <td style="text-align:left"><code>Ei</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kategoria</b></td>
+      <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">A string used to represent the category the presence falls under.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ei</code></td>
@@ -185,7 +185,7 @@ Näyttääkö tuo esimerkki todella oudolta? Älä huoli, ei ole vaikeaa ymmärt
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left"><b>asetukset</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -193,15 +193,15 @@ Näyttääkö tuo esimerkki todella oudolta? Älä huoli, ei ole vaikeaa ymmärt
   </tbody>
 </table>
 
-## Säännölliset lausekeet (Regular Expressions)
+## Regular Expressions
 
 If you want to learn regular expressions, here are a few websites.
 
-#### Oppiminen
+#### Learning
 
 • [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
-#### Testaus
+#### Testing
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
@@ -307,20 +307,20 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
-Palauttaa asetuksen arvon.
+Returns value of setting.
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
 console.log(setting); // This will log the value of the setting
 ```
 
 #### `hideSetting(String)`
-Piilottaa annetun asetuksen.
+Hides given setting.
 ```typescript
 presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 #### `showSetting(String)`
-Näyttää annetun asetuksen (Toimii vain, jos asetus oli jo piilotettu).
+Shows given setting (Only works if the setting was already hidden).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
@@ -346,17 +346,17 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>pelit</b></td>
       <td style="text-align:left"><b>Pelit</b></td>
-      <td style="text-align:left">Mikä tahansa sivusto, jolla on peleihin liittyvää sisältöä, kuten <code>Kahoot</code> tai <code>Skribbl.io</code></td>
+      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>musiikki</b></td>
       <td style="text-align:left"><b>Musiikki</b></td>
-      <td style="text-align:left">Nämä ovat sivustoja, jotka tarjoavat musiikkiin liittyvää sisältöä, olipa se suoratoistoa tai latausta.</td>
+      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>sosiaaliset</b></td>
         <td style="text-align:left"><b>Sosiaaliset</b></td>
-      <td style="text-align:left">Sivustot, joita käytetään sisällön luomiseen ja jakamiseen tai muihin sosiaalisen verkostoitumisen muotoihin osallistumiseen.</td>
+      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
@@ -366,7 +366,7 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>muu</b></td>
       <td style="text-align:left"><b>Muu</b></td>
-      <td style="text-align:left">Kaikki, jotka eivät kuulu johonkin edellä mainittuun luokkaan.</td>
+      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
   </tbody>
 </table>
