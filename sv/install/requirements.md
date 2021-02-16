@@ -1,6 +1,6 @@
 ---
-title: Krav
-description: Förutsättningar för att installera PreMiD
+title: Requirements
+description: Prerequisites to install PreMiD
 published: true
 date: 2021-01-17T22:43:28.543Z
 tags:
@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
-# Systemkrav
+# System Requirements
 
-> Dessa uppgifter avser endast ansökan. 
+> This data relate to the application only. 
 > 
 > {.is-info}
 
-PreMiD körs på praktiskt taget alla system. Detta innebär att det körs på **Linux**, **macOS**, **Windows** samt några **Linuxändringar**.
+PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
 
 ### CPU
-PreMiD går alldeles utmärkt på en enda CPU-kärna.
+PreMiD runs perfectly fine on a single CPU core.
 
 ### RAM
-Linux-system bör ha **minst 20 MB RAM** för att köra PreMiD. Fönstren och macOS kräver oftast lite mer RAM.
+Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
 
-### Lagring
-PreMiD tar ca **150MB** av fysisk lagring. Minst **200MB** lagringsutrymme dedikerat till PreMiD rekommenderas.
+### Storage
+PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
 
-### Åtkomst till Internet
-A internet connection is required to run PreMiD. PreMiD söker automatiskt efter nya uppdateringar, språk, Presence-uppdateringar etc. från tid till annan.
+### Internet Access
+A internet connection is required to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
