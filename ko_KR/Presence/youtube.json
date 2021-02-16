@@ -23,10 +23,6 @@
         "message": "다음 채널을 보는 중:",
         "description": ""
     },
-    "youtube.searchChannel": {
-        "message": "채널 {0} 안에서 검색 중",
-        "description": "{0} will be replaced with the channel name"
-    },
     "youtube.trending": {
         "message": "무엇이 유행인지 보는중",
         "description": ""
