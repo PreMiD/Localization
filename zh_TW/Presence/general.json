@@ -231,6 +231,10 @@
 		"message": "正在觀看影片",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "等待視頻開始首播",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
 	"general.watchingLive": {
 		"message": "正在觀看直播",
 		"description": ""
