@@ -14,7 +14,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
 
-> Voordat u aan de slag gaat, is het zeer aan te raden om onze presence richtlijnen te bekijken. 
+> Voordat je aan de slag gaat, is het zeer aan te raden om onze presence richtlijnen te bekijken. 
 > 
 > {.is-warning}
 
@@ -35,7 +35,7 @@ Alle presences zijn gecodeerd in [TypeScript](https://www.typescriptlang.org/). 
 
 1. Open een terminal en typ `git clone https://github.com/PreMiD/Presences`.
 2. Kies een map van je keuze.
-3. Open het in uw code editor.
+3. Open het in je code editor.
 
 ## Mappen en bestanden maken
 
@@ -62,7 +62,7 @@ Om meer te leren over TypeScript configuratie, klik [hier](/dev/presence/tsconfi
 
 ## Het metadata.json bestand invullen
 
-We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.xyz/projects/premid/mdcreator). Het wordt nog steeds aangeraden dit door te lezen, zodat u weet hoe het werkt.
+We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](https://eggsy.xyz/projects/premid/mdcreator). Het wordt nog steeds aangeraden dit door te lezen, zodat je weet hoe het werkt.
 
 ```json
 {
@@ -125,7 +125,7 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 }
 ```
 
-Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U moet nu de waarden van de eigenschappen bewerken. Houd er rekening mee dat de volgende eigenschappen optioneel in uw `metadata.json` bestand staan, als u niet van plan bent om ze te gebruiken, dan moet u ze verwijderen.
+Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. Je moet nu de waarden van de eigenschappen bewerken. Houd er rekening mee dat de volgende eigenschappen optioneel in je `metadata.json` bestand staan, als u niet van plan bent om ze te gebruiken, dan moet je ze verwijderen.
 
 - `contributors`
 - `altnames`
@@ -178,7 +178,7 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Kleine beschrijving van de presence, je kunt een beschrijving van de service gebruiken als je geen ideeën hebt. Je beschrijving moet key waarden bevatten die de taal en de beschrijving in die specifieke taal aangeven. Maak beschrijvingen met de talen <i>die u kent</i>, onze vertalers zullen wijzigingen aanbrengen in uw metadata bestand.</td>
+      <td style="text-align:left">Kleine beschrijving van de presence, je kunt een beschrijving van de service gebruiken als je geen ideeën hebt. Je beschrijving moet key waarden bevatten die de taal en de beschrijving in die specifieke taal aangeven. Maak beschrijvingen met de talen <i>die u kent</i>, onze vertalers zullen wijzigingen aanbrengen in je metadata bestand.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
@@ -188,9 +188,9 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
         <b>Deze URL moet de URL van de website zijn, aangezien dit er voor zorgt of de script word ingeladen of niet.</b><br> Voeg <b>NIET</b> <code>https://</code> of <code>http://</code> toe in de URL, ook niet een slash aan het einde:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
       <b>Opmerking</b>: Sommige URLs hebben <code>www.</code> of iets anders voor hun domain naam. Vergeet <b>NIET</b> dat toe te voegen!<br>
-      U kunt meerdere URL's toevoegen door het volgende te doen:<br>
+      Je kunt meerdere URL's toevoegen door het volgende te doen:<br>
       <code>["URL1", "URL2", "ETC.]</code><br>
-      U kunt ook regExp ook bekend als Regex voor deze taak gebruiken. verder hieronder uitgelegd.</td>
+      Je kunt ook regExp ook bekend als Regex voor deze taak gebruiken. verder hieronder uitgelegd.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
@@ -198,18 +198,18 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Een reguliere expressie die word gebruikt om URLs te vergelijken.<br>
       regExp ook bekend als Regex, kan worden gebruikt als een website meerdere subdomeinen heeft.<br>
-      U kunt de volgende regExp daarvoor gebruiken:<br>
+      Je kunt de volgende regExp daarvoor gebruiken:<br>
       <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
       TLD staat voor Top Level Domain bijvoorbeeld: .com .net (maar zonder de dot)<br> 
       <code>([a-z0-9]+)</code> betekent alles van a tot z en van 0 tot 9.<br>
       Je kunt een handleiding video kijken <a href="https://youtu.be/sXQxhojSdZM">hier</a><br>
-      Je kunt uw regExp testen bij <a href="https://regex101.com/">Regex101</a>.</td>
+      Je kunt je regExp testen bij <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Versie van uw presence.</td>
+      <td style="text-align:left">Versie van je presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
@@ -228,13 +228,13 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. U mo
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> waarde. We raden u aan een primaire kleur van de service
-        te gebruiken die uw presence ondersteunt.</td>
+        te gebruiken die je presence ondersteunt.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array met tags, ze helpen gebruikers uw presence op de website te vinden.</td>
+      <td style="text-align:left">Array met tags, ze helpen gebruikers je presence op de website te vinden.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
@@ -347,7 +347,7 @@ Veel websites gebruiken [iframes](https://developer.mozilla.org/en-US/docs/Web/H
 Als je vindt dat je gegevens zich in iFrame bevinden, moet je het volgende doen:
 
 1. Maak een `iframe.ts` bestand aan.
-2. Stel iFrame in op `true` in uw metadata bestand.
+2. Stel iFrame in op `true` in je metadata bestand.
 3. Vul je iFrame bestand in.
 
 ```typescript
@@ -385,7 +385,7 @@ Open een console in je map en typ `tsc -w` om de `presence.ts` te compileren in 
 1. Open de extensie popup in de browser en houd de <kbd>Shift</kbd> knop op je toetsenbord ingedrukt.
 2. **Laad presence** verschijnt in de presences sectie.
 3. Klik erop terwijl je nog steeds de <kbd>Shift</kbd> knop ingedrukt houdt.
-4. Selecteer de map /dist van uw presence.
+4. Selecteer de map /dist van je presence.
 
 # Enkele nuttige dingen
 
