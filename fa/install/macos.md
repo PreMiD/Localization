@@ -10,9 +10,9 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+نصب برنامه خیلی مهم است زیرا افزونه نمی تواند به تنهایی کاری انجام دهد.
 
-# Install
+# نصب
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
 2. Choose **OS X**.
 3. Extract the archive if necessary.
