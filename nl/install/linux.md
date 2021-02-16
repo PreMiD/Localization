@@ -60,7 +60,7 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
 
 ### Vereisten
 
-Technisch gezien kan elke distributie die Discord's [officiële](https://discordapp.com/download) **app** (niet de web of de snap versie) ook PreMiD gebruiken;</br> Zoals u wellicht de afgelopen jaren hebt opgemerkt sommige Linux-distributies begonnen steun voor de 32-bit (ia32/i686/i386/x86) architecturen te laten vallen, en als gevolg daarvan deden wij dat ook. Je kunt de app echter zelf proberen te bouwen als je op een distributie van 32 bits zit.</br> Sinds we momenteel Electron gebruiken als motor (Discord doet dit ook!), gelden de vereisten ook voor deze app:
+Technisch gezien kan elke distributie die Discord's [officiële](https://discordapp.com/download) **app** (niet de web of de snap-versie) ook PreMiD gebruiken;</br> Zoals u wellicht de afgelopen jaren hebt opgemerkt sommige Linux-distributies begonnen steun voor de 32-bit (ia32/i686/i386/x86) architecturen te laten vallen, en als gevolg daarvan deden wij dat ook. Je kunt de app echter zelf proberen te bouwen als je op een distributie van 32 bits zit.</br> Sinds we momenteel Electron gebruiken als motor (Discord doet dit ook!), gelden de vereisten ook voor deze app:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
