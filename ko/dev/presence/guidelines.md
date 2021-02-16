@@ -1,6 +1,6 @@
 ---
-title: 지침
-description: 모든 presence 개발자들이 자신의 presence를 추가하려면 따라야하는 규칙입니다.
+title: Guidelines
+description: Rules all presence developers must follow to have their presence added.
 published: true
 date: 2020-12-29T02:18:29.846Z
 tags:
@@ -8,22 +8,22 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# 지침
+# Guidelines
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. 그러나, 이 규칙을 시행함으로서 우리의 사용자들이 문제에 빠지지 않도록 방지합니다.
+When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. However, the implementation of these rule sets will keep us and our users from running into issues.
 
-# 생성
+# Creation
 
-Presence 개발자들이 지켜야할 기본적인 규칙은 다음과 같습니다.
+The general rules of presence development are as follows:
 
-- Presences가 **무조건**당신이 선택한 웹 사이트와 관련이 있어야만 합니다.
-- Presence는 불법 웹사이트용으로 만들어져서는 **안됩니다.** (예:스트레스 요인, 마약,아동 포르노, 등)
-- 파일구조를 정리하고 관리해야하며, 지정되지 않은 파일은 포함하면 안됩니다. (예: vscode 및 git 폴더, 사진과 텍스트 파일등)
-- 올바른 파일 구조여야합니다. 초안은 허용되지 **않습니다.**
+- Presences **must** be related to the website of choice.
+- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
+- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
+- You need to have a proper file structure, drafts are **not** allowed.
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- Presence의 도메인이 생성된지 적어도 2달이 지나야합니다.
+- The domain of the presence must be at least 2 months old.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- 다른 페이지(홈페이지)때문에 단일 하위 도메인만 지원하는 Presences는 허용되지  **않습니다.**. as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (예 : 위키 페이지)
+- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
 - Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
@@ -37,7 +37,7 @@ presence
 └── tsconfig.json
 ```
 
-또는 `iframe.ts` 파일을 사용하는 경우:
+or if you're using a `iframe.ts` file:
 
 ```bash
 presence
@@ -136,11 +136,11 @@ A list of fields and their rules are listed below:
 
 - The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`author`**
+### **`제작자`**
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`contributors`**
+### **`기여자`**
 
 - Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
@@ -153,7 +153,7 @@ A list of fields and their rules are listed below:
 
 - **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
 
-### **`description`**
+### **`설명`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
@@ -163,7 +163,7 @@ A list of fields and their rules are listed below:
 - The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`version`**
+### **`버전`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
@@ -182,7 +182,7 @@ A list of fields and their rules are listed below:
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
-### **`tags`**
+### **`태그`**
 
 - **All** presences are required to have at least _one_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
