@@ -1,7 +1,7 @@
 ---
 title: Metadata.json
 description: Contains basic data about the Presence
-published: 是
+published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown
@@ -75,8 +75,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">說明</th>
-      <th style="text-align:left">種類</th>
+      <th style="text-align:left">描述</th>
+      <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>
   </thead>
@@ -89,7 +89,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>貢獻者</b></td>
+      <td style="text-align:left"><b>贡献者</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -110,7 +110,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>說明</b></td>
+      <td style="text-align:left"><b>描述</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -155,7 +155,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>標籤</b></td>
+      <td style="text-align:left"><b>标签</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>設定</b></td>
+      <td style="text-align:left"><b>设置</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -245,7 +245,7 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### 介紹
+#### Introduction
 
 The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
 
@@ -259,11 +259,11 @@ The `multiLanguage` key can be set to the following:
 
 #### Adding new strings
 
-##### 複製專案
+##### Cloning the project
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
-2. 選擇你選取的資料夾
-3. 在你的編碼器開啟。
+1. 打开个终端，然后在输入: `git clone https://github.com/PreMiD/Localization`
+2. Choose a folder of your choice.
+3. 使用您的代码编辑器打开他。
 
 ##### Creating the file
 
@@ -333,24 +333,24 @@ When making your presence, you must specify a category which the presence falls 
   <thead>
     <tr>
       <th style="text-align:left">Category</th>
-      <th style="text-align:left">名稱</th>
-      <th style="text-align:left">說明</th>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>動漫</b></td>
-      <td style="text-align:left"><b>動漫</b></td>
+      <td style="text-align:left"><b>动漫</b></td>
+      <td style="text-align:left"><b>动漫</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>遊戲</b></td>
-      <td style="text-align:left"><b>遊戲</b></td>
+      <td style="text-align:left"><b>游戏</b></td>
+      <td style="text-align:left"><b>游戏</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>音樂</b></td>
-      <td style="text-align:left"><b>音樂</b></td>
+      <td style="text-align:left"><b>音乐</b></td>
+      <td style="text-align:left"><b>音乐</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
@@ -360,12 +360,12 @@ When making your presence, you must specify a category which the presence falls 
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>視訊串流</b></td>
+        <td style="text-align:left"><b>视频与直播</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>其它</b></td>
-      <td style="text-align:left"><b>其它</b></td>
+      <td style="text-align:left"><b>其他</b></td>
+      <td style="text-align:left"><b>其他</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
   </tbody>
