@@ -1,7 +1,7 @@
 ---
 title: macOS
-description: Per iniziare con un'installazione di PreMiD su macOS
-published: true
+description: Getting started with a PreMiD installation on macOS
+published: vero
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
@@ -14,17 +14,17 @@ The installation of the application is very important as the extension can not d
 
 # Installa
 1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Scegli **OS X**.
-3. Estrarre l'archivio se necessario.
-4. Apri l'installatore
-5. Apparirà un **avviso di sicurezza** , se installi PreMiD per la prima volta. Vai alle tue **Preferenze** > **Sicurezza** > **Generale** > **Apri comunque**. [Scopri di più](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) sulle applicazioni non firmate.
-> Questo perché non abbiamo un certificato di firma del codice (CSC). [Supportaci](https://www.patreon.com/Timeraa) per finanziarlo.{.is-info}
-6. Scegli l'apertura quando richiesto.
-7. Concedi l'accesso alle connessioni attraverso **Firewall** e controlla **Eventi di Sistema** quando richiesto.
+2. Choose **OS X**.
+3. Extract the archive if necessary.
+4. Open the installer.
+5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
+> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+6. Choose open when prompted.
+7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-L'applicazione si avvierà automaticamente. Controlla il simbolo nella barra dei menu.
+The application will start automatically. Check for the symbol in your menu bar.
 
-> Non dimenticare di [aggiungere l'estensione ****](/install). 
+> Do not forget to [add the **extension**](/install). 
 > 
 > {.is-warning}
 
