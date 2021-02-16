@@ -1,7 +1,7 @@
 ---
 title: 疑難解答
 description: Everything to solve your problem
-published: true
+published: 是
 date: 2021-02-08T21:30:58.603Z
 tags:
 editor: markdown
