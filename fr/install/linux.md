@@ -1,7 +1,7 @@
 ---
 title: Linux
 description: Installation de l'application PreMiD sur Linux
-published: true
+published: oui
 date: 2020-11-10T18:06:56.520Z
 tags:
 editor: markdown
