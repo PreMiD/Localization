@@ -15,7 +15,7 @@ A instalação da aplicação é muito importante, uma vez que a extensão não 
 # Instalar
 1. Vá á nossa página de transferência [clicando aqui](https://premid.app/downloads).
 2. Escolha **OS X**.
-3. Extraia o arquivo, se necessário.
+3. Extraia o ficheiro, se necessário.
 4. Abra o instalador.
 5. Um **alerta de segurança** aparecerá, se instalar o PreMiD pela primeira vez. Vá em suas **Preferências** > **Security** > **General** > **Open Anyway**. [Aprenda mais](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) sobre aplicações não assinadas.
 > Isto é porque não temos um Certificado de Assinatura de Código (CSC). [Apoie-nos](https://www.patreon.com/Timeraa) para financiá-lo.{.is-info}

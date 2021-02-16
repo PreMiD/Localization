@@ -308,7 +308,7 @@ presence.on("UpdateData", async () => {
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*A chave (nome do arquivo) da imagem grande na presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*A chave (nome do ficheiro) da imagem grande na presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageKey:
       "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
     smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
@@ -397,7 +397,7 @@ The website you are developing on is automatically reloading every time you save
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
-# Arquivos explicados
+# Ficheiros explicados
 
 - [Classe de presence](/dev/presence/class)
 - [Slideshow Class](/dev/presence/slideshow)

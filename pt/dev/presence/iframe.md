@@ -15,7 +15,7 @@ tags:
 
 Em alguns cenários, sua presence pode precisar acessar elementos dentro de `iframes`.
 
-O código que você escreve dentro do seu arquivo `iframe.ts` é injetado em cada iframe na página.
+O código que você escreve dentro do seu ficheiro `iframe.ts` é injetado em cada iframe na página.
 
 Como as presences, `iframes` têm suas próprias classes projetadas para atualizar dados automaticamente.
 

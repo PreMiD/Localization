@@ -11,13 +11,13 @@ editor: markdown
 
 ## Introdução
 
-Quando você baixou e descompactou a área de trabalho, você verá um arquivo chamado `tsconfig. s` no diretório raiz e de pressão, este arquivo é usado para configurar o compilador **TypeScript**. Já está configurado para você, então não se preocupe com isso.
+Quando você baixou e descompactou a área de trabalho, você verá um ficheiro chamado `tsconfig. s` no diretório raiz e de pressão, este ficheiro é usado para configurar o compilador **TypeScript**. Já está configurado para você, então não se preocupe com isso.
 
 Queremos apenas descrever algumas definições que o senhor deputado deve conhecer.
 
 ## Configuração Raiz
 
-No arquivo de configuração raiz você verá algo como este.
+No ficheiro de configuração raiz você verá algo como este.
 
 ```javascript
 {
@@ -41,7 +41,7 @@ No arquivo de configuração raiz você verá algo como este.
 | **compilerOptions**        | Usado para configurar o compilador, a maioria das propriedades estão localizadas aqui.                                                                                                  |
 | Módulo                     | Você pode ler mais sobre isso [aqui](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                        |
 | target                     | Define a versão de JavaScript que você está compilando.                                                                                                                                 |
-| removerComentários         | Removendo comentários de arquivos compilados.                                                                                                                                           |
+| removerComentários         | Removendo comentários de ficheiros compilados.                                                                                                                                          |
 | noEmitOnError              | Não emitir saídas se algum erro for reportado.                                                                                                                                          |
 | noFallthroughCasesInSwitch | Reportar erros para casos alternativos na instrução do comando.                                                                                                                         |
 | noUnusedLocals             | Relatar erros nos locais não utilizados.                                                                                                                                                |
@@ -63,6 +63,6 @@ No arquivo de configuração raiz você verá algo como este.
 
 | Propriedade         | Descrição                                                                                                   |
 |:------------------- |:----------------------------------------------------------------------------------------------------------- |
-| **estende**         | Usado para estender o arquivo base `tsconfig` para várias tarefas.                                          |
+| **estende**         | Usado para estender o ficheiro base `tsconfig` para várias tarefas.                                         |
 | **compilerOptions** | Consulte [**Configuração do root**](/dev/presence/tsconfig#root-configuration) para obter mais informações. |
-| diretório externo   | Define o diretório de saída para arquivos compilados.                                                       |
+| diretório externo   | Define o diretório de saída para ficheiros compilados.                                                      |

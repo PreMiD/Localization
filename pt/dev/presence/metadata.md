@@ -111,7 +111,7 @@ Esse exemplo parece realmente estranho, né? Não se preocupe, não é tão dif�
     </tr>
     <tr>
       <td style="text-align:left"><b>descrição</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Ver categoria os idiomas de presence de uma lista. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu ficheiro de metadados. Ver categoria os idiomas de presence de uma lista. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
