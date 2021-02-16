@@ -16,14 +16,14 @@ The installation of the application is very important as the extension can not d
 
 ## Table of Contents
 
-- **[Više o](#about)**
+- **[About](#about)**
   - [Stats](#stats)
   - [Requirements](#requirements)
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [Credits](#credits)
+  - [Zahvale](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -80,7 +80,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="credits"></a>
 
-### Credits
+### Zahvale
 
 Thanks to :
 
