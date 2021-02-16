@@ -1,6 +1,6 @@
 ---
-title: Lớp hiện diện
-description: Lớp chính cho mọi sự hiện diện của PreMiD
+title: Presence Class
+description: The main class for every PreMiD presence
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
 ---
 
-# Lớp hiện diện
+# Presence Class
 
-## Giới thiệu
+## Introduction
 
-Lớp `Presence` rất hữu ích vì nó có các phương thức cơ bản mà chúng ta cần để tạo sự hiện diện.
+The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-Khi bạn tạo một lớp, bạn phải chỉ định thuộc tính `clientId`.
+When you create a class you must specify `clientId` property.
 
 ```typescript
 const presence = new Presence({
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Phương pháp
+## Methods
 
 ### `getActivity()`
 
