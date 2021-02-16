@@ -127,7 +127,7 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 
 Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. Je moet nu de waarden van de eigenschappen bewerken. Houd er rekening mee dat de volgende eigenschappen optioneel in je `metadata.json` bestand staan, als u niet van plan bent om ze te gebruiken, dan moet je ze verwijderen.
 
-- `contributors`
+- `bijdragers`
 - `altnames`
 - `regExp`
 - `iframe`
@@ -155,7 +155,7 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. Je m
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left"><b>bijdragers</b></td>
       <td style="text-align:left">Moet een object bevatten met de <code>naam</code> en <code>id</code> van de presence-ontwikkelaar. <code>naam</code> is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
         modus in te schakelen en de rechtermuisknop op je profiel te klikken.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -208,7 +208,7 @@ Kopieer de bovenstaande code en plaats deze in het `metadata.json` bestand. Je m
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left"><b>versie</b></td>
       <td style="text-align:left">Versie van je presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nee</code></td>
