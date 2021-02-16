@@ -16,7 +16,7 @@ De installatie van de applicatie is van groot belang, omdat de extensie op zichz
 3. Open het installatieprogramma.
 4. Er verschijnt een **beveiligingswaarschuwing** als je PreMiD voor de eerste keer installeert. Klik op **Meer Info** en selecteer **toch uitvoeren**. Dit komt omdat we geen Code Signing Certificaat (CSC) hebben. [Ondersteun ons](https://www.patreon.com/Timeraa) om het te financieren.{.is-info}
 
-De applicatie start automatisch. Controleer op het symbool in uw menubalk.
+De applicatie start automatisch. Controleer op het symbool in je menubalk.
 
 > Vergeet niet [de **extensie**](/install)toe te voegen.{.is-warning}
 
