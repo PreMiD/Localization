@@ -1,5 +1,5 @@
 ---
-title: Presence Guidelines
+title: Diretrizes das presences
 description: Rules all presence developers must follow to have their presence added.
 published: true
 date: 2021-02-17T14:50:24.048Z
