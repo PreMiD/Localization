@@ -1,16 +1,16 @@
 ---
 title: API
 description: Access resources and perform actions using the PreMiD API
-published: 是
+published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
-editor: 標記
+editor: markdown
 dateCreated: 2020-06-11T18:03:59.010Z
 ---
 
 # API
 
-> 基礎網址: https://api.premid.app 
+> Base URL: https://api.premid.app 
 > 
 > {.is-info}
 
@@ -25,7 +25,7 @@ PreMiD exposes different versions of our API. You can specify version by includi
 
 All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
 
-# 相關文章
+# 帮助文档
 > Currently under construction! 
 > 
 > {.is-danger}
