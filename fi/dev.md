@@ -1,26 +1,26 @@
 ---
-title: Alkuun Pääseminen
+title: Getting Started
 description: A little advise for those who got into coding recently
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> Lähdekoodieditori on pakollinen. Suosittelemme käyttämään Visual Studio Codea. 
+> A source code editor is required. We recommend Visual Studio Code. 
 > 
 > {.is-info}
 
 # Installing the requirements
-1. Asenna [Git](https://git-scm.com/).
-2. Asenna [Node](https://nodejs.org/en/) (mukana tulee [npm](https://www.npmjs.com/)).
-3. Asenna [TypeScript](https://www.typescriptlang.org/index.html#download-links) (avaa terminaali ja kirjoita `npm install -g typescript`).
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
-# Projektin Kloonaaminen
-1. Avaa terminaali ja kirjoita `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Valitse haluamasi kansio.
-3. Avaa se koodieditorissa.
+# Cloning the project
+1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
-# Riippuvuuksien asennus
+# Installing dependencies
 > Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
 > 
 > {.is-warning}
