@@ -31,6 +31,10 @@
 		"message": "রিভিউয়ার",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "অনুবাদ ম্যানেজার",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "ডেভেলপার",
 		"description": "'Developer' title for contributors and user pages."
