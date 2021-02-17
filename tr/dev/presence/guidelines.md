@@ -1,14 +1,14 @@
 ---
-title: Yönergeler
+title: Servis Kılavuzu
 description: Her geliştiricinin, servisinin eklenebilmesi için takip etmeleri gereken kurallar.
 published: true
-date: 2020-12-29T02:18:29.846Z
+date: 2021-02-17T14:50:24.048Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
-# Yönergeler
+# Guidelines
 
 When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rule sets will keep us and our users from running into issues.
 
@@ -268,9 +268,8 @@ Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekle
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Servis İnceleyicileri</h2>
-  <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
-  <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
-  <a href="https://github.com/ririxichan"><img src="https://github.com/ririxichan.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+  
+  <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="50px" style="max-width:100%; border-radius: 50%;"/></a>     <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="50px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
