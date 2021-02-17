@@ -9,7 +9,7 @@ tags:
 A instalação da aplicação é muito importante, uma vez que a extensão não consegue fazer nada por si mesma.
 
 # Instalar
-1. Vá á nossa página de transferência [clicando aqui](https://premid.app/downloads).
+1. Vai à nossa página de downloads [clicando aqui](https://premid.app/downloads).
 2. Escolha **Firefox**.
 3. Pesquise por `about:addons`.
 4. Clique no icon da engrenagem pequena no canto superior direito.
