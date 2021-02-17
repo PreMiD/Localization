@@ -1,1 +1,30 @@
-{}
+{
+	"merch.title": {
+		"message": "স্বাগতম অফিসিয়াল **PreMiD** মার্চেন্ডাইজ স্টোরে!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "খোঁজ তোমার **স্টাইল**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**তোমার ফিট বাছাই করো**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "কার্ট এ যোগ করো",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "কোনো সমস্যা দেখছ আমাদের স্টোরে অথবা একটা অর্ডারে? যোগাযোগ করো {0}কাস্টমার সাপোর্টে{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} যোগ করা হয়েছে তোমার কার্টে",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "তোমার কার্টে যোগ করার জন্য কোনো আইটেম নেই",
+		"description": "Error message when no size selected"
+	}
+}
