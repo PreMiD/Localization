@@ -1,42 +1,42 @@
 ---
-title: 시작하기
-description: 코딩을 최근에 시작한분들께 전하는 작은 조언
+title: Getting Started
+description: A little advise for those who got into coding recently
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> 코드 편집기가 필요합니다. 저희는 Visual Studio Code를 사용하는 걸 추천합니다. 
+> A source code editor is required. We recommend Visual Studio Code. 
 > 
 > {.is-info}
 
-# 요구사항 설치하기
-1. [Git](https://git-scm.com/) 설치하기
-2. [Node](https://nodejs.org/en/) 설치하기 ([npm](https://www.npmjs.com/)에 포함되어 있음)
-3. [TypeScript](https://www.typescriptlang.org/index.html#download-links) 설치하기 (터미널 실행 후 "`npm install -g typescript`" 입력하기)
+# Installing the requirements
+1. Install [Git](https://git-scm.com/).
+2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
-# Presence 복사하기
-1. 터미널 실행 후 "`git clone URL`" 입력하기. **당신이 기여하고자 하는 repo의 URL로 변경하세요** 예시: `git clone https://github.com/PreMiD/PreMiD`.
-2. 원하는 폴더를 선택하세요.
-3. 이것을 당신의 코드 편집기로 실행하세요.
+# Cloning the project
+1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+2. Choose a folder of your choice.
+3. Open it in your code editor.
 
-# 중요 프로그램 설치하기
-> Node package manager(Npm)을 먼저 설치하였는지 확인하세요. 만약 당신이 [Node](https://nodejs.org/en/) 를 설치 하였다면 Npm이 자동으로 설치됩니다. 
+# Installing dependencies
+> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
 > 
 > {.is-warning}
 
-- 프로젝트의 터미널을 여시고 "`npm i`"를 입력하세요.
-- 중요 프로그램을 설치하려면 "`npm update`"를 입력하세요.
+- Open a terminal in your repository and type `npm i`.
+- To update the dependencies type `npm update`.
 
-> 조심하세요! 중요 프로그램을 업데이트하는 행동은 에러가 많이 생길 수 있습니다! 이를 방지하기 위해서는 -testing이 필요합니다. 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
-# 여러분의 비전을 코딩하기
-기본적인 툴은 삭제 또는 변경하지 말아주세요. 저희는  저희의 프로젝트에 문제가 생기는 걸 원하지 않습니다. 복잡한 형식의 파일들은 지원되지 않을 수도 있습니다.
+# Coding your vision
+Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
 
-# 당신의 꿈을 지원하기
-당신이 지원하는 [GitHub Repositories](https://github.com/PreMiD/)에서 저희에게 Pull Request를 보내세요. 저희가 직접 당신의 프로젝트를 보관하겠습니다. 만약 당신이 처음으로 Pull Request를 만드신다면,  [이곳](https://help.github.com/en/articles/creating-a-pull-request)을 방문해 보세요!
+# Submitting your dream
+Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
-# 인증받기
-저희의 목표는 사용자들과 협력하여 일하는 것이기 때문에, 가능한 친절하고, 책임을 지시면서도, 가장 많은 정보를 전달할 수 있게 도와주세요. GitHub에서 리뷰를 받으려면 저의 [Discord 서버](https://discord.gg/WvfVZ8T)에서 개발자를 멘션하세요. 만약 Discord가 처음이시라면, [이곳](https://support.discordapp.com/hc/en-us/articles/360033931551-Getting-Started)을 읽어보세요. 리뷰는 코드의 퀄리티, 중요 코드의 기능 등등을 평가합니다.
+# Getting approved
+Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
