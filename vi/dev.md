@@ -1,6 +1,6 @@
 ---
-title: Bắt đầu
-description: Lời khuyên nhỏ cho người vừa học lập trình
+title: Getting Started
+description: A little advise for those who got into coding recently
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
