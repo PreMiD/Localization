@@ -18,10 +18,10 @@ tags:
 # Het project klonen
 1. Open een terminal en typ `git clone URL`. **Vervang URL door de repository link waaraan u wilt bijdragen** bijv. `git clone https://github.com/PreMiD/PreMiD`.
 2. Kies een map van je keuze.
-3. Open het in uw code editor.
+3. Open het in je code editor.
 
 # Afhankelijkheden installeren
-> Zorg ervoor dat u eerst [npm](https://www.npmjs.com/) (Node Package Manager) hebt geïnstalleerd. Het heeft automatisch zichzelf geïnstalleerd als u [Node](https://nodejs.org/en/) heeft geïnstalleerd. 
+> Zorg ervoor dat je eerst [npm](https://www.npmjs.com/) (Node Package Manager) hebt geïnstalleerd. Het heeft automatisch zichzelf geïnstalleerd als u [Node](https://nodejs.org/en/) heeft geïnstalleerd. 
 > 
 > {.is-warning}
 
