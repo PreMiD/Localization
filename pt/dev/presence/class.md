@@ -62,7 +62,7 @@ Clears your current activity and the tray title.
 > 
 > {.is-warning}
 
-Defina o título tray na Menubar.
+Define o título na barra de menus.
 
 ### `createSlideshow()`
 
