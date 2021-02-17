@@ -10,5 +10,13 @@
 	"merch.fit": {
 		"message": "**তোমার ফিট বাছাই করো**",
 		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "কার্ট এ যোগ করো",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "কোনো সমস্যা দেখছ আমাদের স্টোরে অথবা একটা অর্ডারে? যোগাযোগ করো {0}কাস্টমার সাপোর্টে{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
 	}
 }
