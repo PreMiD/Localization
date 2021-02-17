@@ -85,20 +85,20 @@ You can find the documentation for the `Slideshow` class [here](/dev/presence/sl
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension.
+Um método assíncrono que te permite obter as frases traduzidas da extensão.
 
 Você deve providenciar `Object` com as chaves sendo uma chave para a linha, `keyValue` é o valor da linha. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
-// Retorna `Jogando` e `Pausado` linhas
+// Retorna as frases `A tocar` e `Em pausa`
 // da extensão.
 const strings = await presence.getStrings({
   play: "general.playing",
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // resultado: A tocar
+const pauseString = strings.pause; // resultado: Em pausa
 ```
 
 Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
