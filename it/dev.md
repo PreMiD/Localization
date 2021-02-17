@@ -1,7 +1,7 @@
 ---
 title: Primi passi
 description: Un piccolo consiglio per coloro che di recente hanno iniziato a programmare
-published: true
+published: vero
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
@@ -18,7 +18,7 @@ tags:
 # Clonando il progetto
 1. Apri un terminale e digita `git clone URL`. **Sostituire l'URL con il link del repository a cui vuoi contribuire** es. `git clone https://github.com/PreMiD/PreMiD`.
 2. Scegli una cartella a tua scelta.
-3. Aprilo nel tuo editor di codice.
+3. Open it in your code editor.
 
 # Installazione dipendenze
 > Assicurati di aver installato prima [npm](https://www.npmjs.com/) (Gestore Pacchetti Node). Si è installato automaticamente se hai installato [Node](https://nodejs.org/en/). 
@@ -28,7 +28,7 @@ tags:
 - Apri un terminale nel tuo repository e digita `npm i`.
 - Per aggiornare le dipendenze digita `npm update`.
 
-> Sii consapevole che aggiornare le dipendenze potrebbe rompere molto, o no - è necessario un test! 
+> Be aware that updating the dependencies could break a lot, or not - testing is required! 
 > 
 > {.is-danger}
 
