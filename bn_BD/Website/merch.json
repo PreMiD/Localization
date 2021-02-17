@@ -1,1 +1,14 @@
-{}
+{
+	"merch.title": {
+		"message": "স্বাগতম অফিসিয়াল **PreMiD** মার্চেন্ডাইজ স্টোরে!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "খোঁজ তোমার **স্টাইল**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**তোমার ফিট বাছাই করো**",
+		"description": "Product sizes"
+	}
+}
