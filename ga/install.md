@@ -1,7 +1,7 @@
 ---
 title: Installation
 description: How to install PreMiD
-published: fíor
+published: true
 date: 2020-11-10T17:54:28.896Z
 tags:
 editor: markdown
