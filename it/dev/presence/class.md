@@ -1,7 +1,7 @@
 ---
 title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
-published: vero
+published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown
