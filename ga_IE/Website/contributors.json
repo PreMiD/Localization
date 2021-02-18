@@ -11,9 +11,53 @@
 		"message": "Aistritheoirí",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Ceannaire Tionscadail",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Comhordaitheoir Foirne",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Stiúrthóir Margaíochta",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Riarthóir",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Athbhreithneoir",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Bainisteoir Logánú",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Forbróir",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Dearthóir",
+		"description": "'Designer' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Modhnóir",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Gníomhaire Tacaíochta",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Ionadaí",
+		"description": "'Representative' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Léitheoir profaí",
+		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
 		"message": "Deontóir",
@@ -26,5 +70,13 @@
 	"contributors.roles.translator": {
 		"message": "Aistritheoir",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Cliceáil chun ID an úsáideora a chóipeáil.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Cóipeáladh ID an Úsáideora!",
+		"description": "Notification after user ID was copied."
 	}
 }
