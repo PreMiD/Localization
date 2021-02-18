@@ -1,1 +1,106 @@
-{}
+{
+	"jobs.modal.title": {
+		"message": "Déan iarratas ar {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Céim {0} de 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Ar Aghaidh",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Bí páirteach",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Cealaigh",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Comhlánaigh gach réimse le do thoil",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "Is tionscadal foinse oscailte é PreMiD, rud a chiallaíonn gur foireann neamhbhrabúis muid, téann gach síntiús nó airgead pátrún ar ais isteach sa táirge. Trí iarratas a dhéanamh ar phost i PreMiD, admhaíonn tú go bhfuil tú ag obair go deonach san fhoireann, ní íocfar tú as do chuid oibre.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Tar isteach inár Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Le go mbeidh tú in ann iarratas a dhéanamh caithfidh tú a bheith inár bhfreastalaí Discord. Seachas sin ní bheimid in ann teagmháil a dhéanamh leat má roghnaítear thú!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Obair do PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "An bhfuil tú réidh le cuidiú leis an gclár Láithreacht-Shaibhir is mó?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Oscailtí Poist",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Sochair Ard-Dheiridh",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Buail linn",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Téigh i dteagmháil leis na daoine taobh thiar de PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.description": {
+		"message": "Féach ar ár bhForbairt agus Margaíocht.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Onóir",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Ceadanna Discord Cumhachtacha agus ról ildaite.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Tacaigh le PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Le do chuidiú is féidir an tionscadal seo a reáchtáil.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Sos",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Tóg do chuid ama. Is obair dheonach í seo.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Rochtain-Luath",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Déan tástáil ar ghnéithe nua roimh aon duine eile.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Go raibh maith agat as iarratas a dhéanamh!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Chuir tú isteach cheana cheana!",
+		"description": "Notification when you applied already."
+	}
+}
