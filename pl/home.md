@@ -1,7 +1,7 @@
 ---
 title: Strona główna
 description: Oficjalna dokumentacja v2
-published: tak
+published: true
 date: 2020-08-29T21:41:40.722Z
 tags:
 editor: markdown
