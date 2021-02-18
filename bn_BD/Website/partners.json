@@ -139,6 +139,10 @@
 		"message": "একজন দেবী যিনি মজার Discord বট এর মতো খেলেন!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.crowdin": {
+		"message": "টেক কোম্পানিগুলোর জন্য দ্রুত স্থানীয়করণ।",
+		"description": "Description for Crowdin."
+	},
 	"partners.partner.wikijs": {
 		"message": "সবচেয়ে শক্তিশালী এবং প্রসারণসাধ্য একটি ওপেন সোর্স উইকি সফটওয়্যার।",
 		"description": "Description for WikiJS."
