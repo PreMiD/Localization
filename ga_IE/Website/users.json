@@ -1,1 +1,38 @@
-{}
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Forbróir Presence",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Fíoraitheoir Presence",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Forbróir Presence Tábhachtach",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Cruthaithe {0} presences.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Forbróir Presence Duine cliste",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Cruthaithe os cionn 100 Presences!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Úsáideoir [Presences/ranníocaíochtaí]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Cliceáil anseo chun na Presences a chruthaigh an t-úsáideoir seo a thaispeáint.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Cliceáil anseo chun na presences a chuidigh an t-úsáideoir seo leo a thaispeáint.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
+}
