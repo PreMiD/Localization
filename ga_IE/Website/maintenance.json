@@ -3,6 +3,14 @@
 		"message": "Ó níl!",
 		"description": "The big text on maintenance page"
 	},
+	"maintenance.heading": {
+		"message": "Ar an drochuair tá roinnt deacrachtaí teicniúla againn. Fillfimid go gairid. Leithscéal as an míchaoithiúlacht.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Tar ar ais níos déanaí le haghaidh tuilleadh faisnéise.",
+		"description": "Heading on maintenance page"
+	},
 	"maintenance.message": {
 		"message": "Go dtí go socraíonn ár bhforbróirí speisialta é seo, is féidir leat breathnú anseo!",
 		"description": "Message on maintenance page"
