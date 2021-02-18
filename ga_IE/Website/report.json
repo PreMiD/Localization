@@ -1,1 +1,58 @@
-{}
+{
+	"report.title": {
+		"message": "Tuairisc a thabhairt ar fhabht",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Tuarascálacha fágtha",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Tá fabhtanna tuairiscithe le haghaidh fabhtanna laistigh den láithreán PreMiD agus an Freastalaí Discord PreMiD. Tá fabhtanna le haghaidh presence le tuairisciú do chruthaitheoir na presence. Ná tuairisc ach fabhtanna i mBéarla.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Tabhair tuairisc shoiléir bheacht ar cad é an fabht.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Roghnaigh do Chóras Oibriúcháin agus Leagan",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Roghnaigh do Bhrabhsálaí agus Leagan - Is féidir leat an leagan a fháil trí chuairt a thabhairt about:support ar Firefox nó chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Cuir nasc ar fáil le sampla beo nó le sraith céimeanna gan athbhrí chun an fabht seo a atáirgeadh.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Tuarascáil",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Tá an iomarca tuairiscí gníomhacha agat. Fan go ndéanfar athbhreithniú ar do thuairiscí a cuireadh isteach. Seiceáiltear tuairiscí ar bhonn seachtainiúil, bí foighneach.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Tá an iomarca tuairiscí gníomhacha agat.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Fabht Curtha isteach",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Tuilleadh faisnéise ag teastáil",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Is gá cuntas neamhord a fhíorú",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Fabhtanna Gníomhacha",
+		"description": "Lists users active bugs"
+	}
+}
