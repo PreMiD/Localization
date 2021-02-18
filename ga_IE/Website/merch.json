@@ -1,1 +1,30 @@
-{}
+{
+	"merch.title": {
+		"message": "Fáilte go dtí an siopa earraí oifigiúil **PreMiD**!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Faigh do **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Roghnaigh do chuid oiriúnach**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Cuir le cart",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "An bhfuil fadhbanna agat lenár stór nó le hordú? Téigh i dteagmháil lenár {0}tacaíocht do chustaiméirí{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} curtha le do cart",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Gan Mír le cur le do cart",
+		"description": "Error message when no size selected"
+	}
+}
