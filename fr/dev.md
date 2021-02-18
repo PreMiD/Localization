@@ -1,7 +1,7 @@
 ---
 title: Commencer
 description: Un petit conseil pour ceux qui ont commencé le codage récemment
-published: oui
+published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
