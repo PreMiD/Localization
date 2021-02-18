@@ -1,1 +1,46 @@
-{}
+{
+	"store.search.notFound": {
+		"message": "Ní raibh muid in ann teacht ar an Presence sin...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Tá brón orm, ní raibh muid in ann teacht ar an leathanach sin.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Tá tú ag lorg Presence nach bhfuil ann nó a scriosadh.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Tharla earráid Freastalaí Inmheánach.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Sonraí",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Siar chuig an leathanach baile",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Ní raibh an t-úsáideoir sin le fáil. Déan iarracht a dhéanamh cinnte",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "go bhfuil Aitheantas an Úsáideora atá á lorg agat ceart.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "gur chruthaigh an t-úsáideoir dóthain Presences agus go bhfuil ról an Fhorbróra Presences aige inár bhfreastalaí Discord.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "má tá an cheist chéanna ag daoine eile ar ár bhfreastalaí Discord.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Má chreideann tú gur botún a bhí anseo, déan teagmháil linn ag [ár bhfreastalaí Discord].",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}
