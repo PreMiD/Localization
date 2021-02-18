@@ -1,7 +1,7 @@
 ---
 title: macOS
 description: Installation de PreMiD sur macOS
-published: oui
+published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
 ---
