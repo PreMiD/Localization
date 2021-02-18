@@ -39,6 +39,10 @@
 		"message": "Betrachtet Server:",
 		"description": ""
 	},
+	"namemc.viewFriends": {
+		"message": "Betrachtet seine Freunde",
+		"description": ""
+	},
 	"namemc.viewSkins": {
 		"message": "Betrachtet seinen Skin",
 		"description": ""
