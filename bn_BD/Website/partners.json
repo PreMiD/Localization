@@ -71,6 +71,10 @@
 		"message": "যা থাকা প্রয়োজন",
 		"description": "Heading for the second requirement."
 	},
+	"partners.requirements.second.description": {
+		"message": "আমরা বর্তমানে বিভিন্ন ধরণের কমিউনিটিদের নিচ্ছি আমাদের পার্টনার প্রোগ্রামে। যে কারোরই নজরে আসার সুযোগ থাকা উচিত। Twitch স্ট্রিমারদের কমপক্ষে 500 জন ফলোয়ার এবং কমপক্ষে 10 জন ভিউয়ার থাকতে হবে প্রত্যেক স্ট্রিমে। তোমার অবশ্যই প্রতি সপ্তাহে কমপক্ষে একবার স্ট্রিমিং করা উচিত।",
+		"description": "Description for the second requirement."
+	},
 	"partners.apply.button": {
 		"message": "অ্যাপ্লাই করো এখনই!",
 		"description": "Button to apply for partner."
@@ -126,6 +130,10 @@
 	"partners.partner.bitRock": {
 		"message": "সকল প্ল্যাটফর্মের ইন্সটলার তৈরিকারক যন্ত্র যা শক্তিশালী এবং সহজে ব্যবহার করা যায়।",
 		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "সহজে তোমার ইউজারদের দাও রিয়েল-টাইম স্ট্যাটাস।",
+		"description": "Description for StatusPage."
 	},
 	"partners.partner.wikijs": {
 		"message": "সবচেয়ে শক্তিশালী এবং প্রসারণসাধ্য একটি ওপেন সোর্স উইকি সফটওয়্যার।",
