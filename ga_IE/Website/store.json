@@ -1,7 +1,63 @@
 {
+	"store.message.error": {
+		"message": "Níl an síneadh ceangailte.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.cards.creator": {
 		"message": "Údar",
 		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Tá an-tóir ar an Presence seo i measc úsáideoirí.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Presence Chomhpháirtithe",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Teastaíonn céimeanna breise ón presence seo, féach ar a leathanach le haghaidh tuilleadh faisnéise.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Presence Cuardaigh",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Cuir Presence leis",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Bain Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Cumasaítear an Presence seo go huathoibríoch nuair a thugann sé cuairt ar a láithreán.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Scagairí",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "An chuid is mó a úsáidtear ar dtús",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Taispeáin NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Níor thaitin ach Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Taispeáin curtha Presences leis",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Catagóirí",
+		"description": "Category heading"
 	},
 	"store.category.all": {
 		"message": "Gach",
@@ -26,5 +82,17 @@
 	"store.category.other": {
 		"message": "Eile",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Cuardaigh",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Iontráil",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Cliceáil chun scagaire a bhaint",
+		"description": "Remove message for active search filters."
 	}
 }
