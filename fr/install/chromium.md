@@ -1,7 +1,7 @@
 ---
 title: Chromium
 description: Installation de l'application PreMiD sur les navigateurs basé sur Chromium
-published: oui
+published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
 ---

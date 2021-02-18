@@ -1,7 +1,7 @@
 ---
 title: Linux
 description: Per iniziare con un'installazione di PreMiD su Linux
-published: vero
+published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
 editor: markdown

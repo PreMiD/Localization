@@ -1,7 +1,7 @@
 ---
 title: Presence Class
 description: The main class for every PreMiD presence
-published: tak
+published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
 editor: markdown

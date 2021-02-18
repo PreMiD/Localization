@@ -1,7 +1,7 @@
 ---
 title: Linux
 description: ابدأ بتثبيت PreMiD على لينكس
-published: صحيح
+published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
 editor: markdown

@@ -1,7 +1,7 @@
 ---
 title: 關於 PreMiD
 description: The core features of PreMiD
-published: 是
+published: true
 date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown

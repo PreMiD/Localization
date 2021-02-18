@@ -1,7 +1,7 @@
 ---
 title: Metadata.json
 description: Contains basic data about the Presence
-published: tak
+published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
 editor: markdown

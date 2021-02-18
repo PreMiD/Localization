@@ -1,7 +1,7 @@
 ---
 title: Règlement de Presence
 description: Règles que tous les développeurs de presence doivent suivre pour avoir leur presence ajoutée.
-published: oui
+published: true
 date: 2021-02-17T14:50:24.048Z
 tags:
 editor: markdown

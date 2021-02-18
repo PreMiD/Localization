@@ -1,7 +1,7 @@
 ---
 title: Presence Development
 description:
-published: fíor
+published: true
 date: 2021-02-07T17:11:34.449Z
 tags:
 editor: markdown

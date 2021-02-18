@@ -1,7 +1,7 @@
 ---
 title: Firefox
 description: 開始在FireFox上安裝PreMiD
-published: 是
+published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
 ---

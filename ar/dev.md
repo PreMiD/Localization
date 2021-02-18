@@ -1,7 +1,7 @@
 ---
 title: الإبتداء
 description: نصيحة صغيرة لأولئك الذين حصلوا على البرمجة مؤخرا
-published: صحيح
+published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
