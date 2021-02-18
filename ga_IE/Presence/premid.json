@@ -27,6 +27,10 @@
 		"message": "Stór",
 		"description": "A page name"
 	},
+	"premid.partners": {
+		"message": "Comhpháirtithe",
+		"description": "A page name"
+	},
 	"premid.pageAbout": {
 		"message": "Maidir le PreMiD",
 		"description": "A page name"
