@@ -103,6 +103,30 @@
 		"message": "la page du programme partenaire de Discord",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.verification": {
+		"message": "la page de verification",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "la page StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "la page sur l'open source",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "la page sécurité",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "la page modération",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "la page des Rich Presences",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.policies": {
 		"message": "la politique de confidentialité",
 		"description": "Second part of the \"Browsing through\" string"
