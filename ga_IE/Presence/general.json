@@ -31,6 +31,10 @@
 		"message": "Seánra",
 		"description": ""
 	},
+	"general.language": {
+		"message": "Teanga",
+		"description": "For choosing a language"
+	},
 	"general.listeningMusic": {
 		"message": "Ag éisteacht le ceoil",
 		"description": ""

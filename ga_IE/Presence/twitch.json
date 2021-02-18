@@ -3,6 +3,10 @@
 		"message": "Íoslódálacha",
 		"description": "Page name"
 	},
+	"twitch.partners": {
+		"message": "Comhpháirtithe",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "Leathanach baile",
 		"description": "Page name"

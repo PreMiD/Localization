@@ -1,7 +1,27 @@
 {
+	"home.introduction.paragraph": {
+		"message": "Is fóntais shimplí, chumraithe é **PreMiD** a ligeann duit a bhfuil á dhéanamh agat ar an ngréasán a thaispeáint i do Discord anois ag imirt stádais.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Gnéithe",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Íoslódálacha",
 		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Ag imirt cluiche",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} fágtha",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} caite",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
 		"message": "Ag imirt ar ais",
@@ -14,5 +34,57 @@
 	"home.examples.status.browsing": {
 		"message": "Ag brabhsáil...",
 		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Beidh grá agat ar na gnéithe seo!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Faigh **do** presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Chruthaíomar ár síneadh ar bhealach a ligeann duit Presences a chruthaigh daoine eile a chur leis agus a úsáid agus iad a bhainistiú inár síneadh!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Tabhair cuairt ar an siopa",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Comhéadan úsáideora simplí",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Tuirseach de chomhéadain úsáideora casta? Sin an fáth gur chruthaíomar agus a dhéanaimid iarracht ár Chomhéadain a choinneáil chomh simplí agus chomh húsáideach agus is féidir le gnéithe tábhachtacha mar:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Socruithe Feidhmchláir agus Síneadh",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Bainistíocht Presence",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sórtáil de réir catagóire",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Tacaíocht thapa",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Tá rud éigin briste, ag cur tonna earráidí chugat nó gan a bheith ag obair? Cabhróimid leat fáil réidh leis na saincheisteanna sin ar ár bhfreastalaí Discord, chruthaíomar ár gcóras tacaíochta féin freisin a chinnteoidh go réiteofar do shaincheist a luaithe is féidir.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Tar isteach inár Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Teanga an láithreáin ghréasáin",
+		"description": "Tippy content of the language selector."
 	}
 }
