@@ -100,7 +100,7 @@
 		"description": "Back button on the ads section"
 	},
 	"downloads.button.cancel": {
-		"message": "Cancella",
+		"message": "Annulla",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.okay": {
@@ -115,6 +115,10 @@
 		"message": "Accedi",
 		"description": "Login button on the downloads page."
 	},
+	"downloads.button.skipanyway": {
+		"message": "Salta comunque",
+		"description": "Skip Anyway button on the ads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Grazie!",
 		"description": "Title of the advertisement section box."
@@ -126,6 +130,10 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Per favore disattiva il tuo adblock",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Mostra le versioni beta",
+		"description": ""
 	},
 	"downloads.showbeta.small": {
 		"message": "(non necessario se sei qui solo per scaricare la applicazione normale)",
