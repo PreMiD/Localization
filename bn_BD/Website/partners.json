@@ -147,6 +147,10 @@
 		"message": "ওয়েবের সেরার পিছনে।",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit হচ্ছে তোমার অনলাইন মিউজিক রেডিও স্টেশন যা বাজায় সেরা গানগুলো 24/7 এবং আবিষ্কার করায় ভবিষ্যৎের গানগুলো প্রথমে।",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "পার্টনারের জন্য অ্যাপ্লাই করো",
 		"description": "Partnership application modal title."
