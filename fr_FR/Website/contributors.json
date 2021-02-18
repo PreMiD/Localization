@@ -31,6 +31,10 @@
 		"message": "Examinateur",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "Responsable des localisations",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Développeur",
 		"description": "'Developer' title for contributors and user pages."
