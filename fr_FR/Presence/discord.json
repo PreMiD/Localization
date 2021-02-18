@@ -63,12 +63,44 @@
 		"message": "Navigue à travers",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.download": {
+		"message": "la page des téléchargements",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.why": {
 		"message": "la page \"Pourquoi Discord ?\"",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.safety": {
 		"message": "la page \"Sécurité\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "la page des emplois",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "la page à propos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "la page \"Marque\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "la page des inspirations",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "la page des communautés universitaires",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "l'espace actualités",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "la page du programme partenaire de Discord",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.policies": {
