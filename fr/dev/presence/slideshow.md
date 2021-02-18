@@ -1,7 +1,7 @@
 ---
 title: Classe Slideshow
 description:
-published: oui
+published: true
 date: 2020-12-25T00:47:38.111Z
 tags:
 editor: markdown
