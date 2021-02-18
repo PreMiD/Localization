@@ -1,15 +1,95 @@
 {
+	"footer.language": {
+		"message": "Teanga",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Réidh le PreMiD a úsáid?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Bí le {0} úsáideoir inniu!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Suiteáil",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Comhpháirtithe",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Lean orainn",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "Forbróirí",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "Doiciméadú",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Láithreacht Shaibhir",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "Tacaigh linn",
+		"description": "Support us section"
+	},
 	"footer.supportus.donate": {
 		"message": "Síntiús",
 		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "Cur",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "Aistrigh",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Oibrigh linn!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "Cabhrú",
+		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
 		"message": "Fabhtcheartú",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
+	"footer.help.getsupport": {
+		"message": "Faigh Cabhair",
+		"description": "Get Support -> redirects to Discord invite"
+	},
 	"footer.help.information": {
 		"message": "Eolas",
 		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "Fianáin",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "Príobháideacht",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "Téarmaí",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "Níos mó",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "Stádas",
+		"description": "Status -> redirects to status.premid.app"
 	},
 	"footer.more.wiki": {
 		"message": "Vici",
@@ -18,5 +98,13 @@
 	"footer.copyright.line1": {
 		"message": "{0} le {1}",
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "Suíomh Gréasáin á chothabháil ag {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Cliceáil anseo chun an chuid eile dár gcomhpháirtithe & urraitheoirí a fheiceáil.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
