@@ -31,6 +31,22 @@
 		"message": "Bekijkt een skin",
 		"description": "Skins is how you appear in the game."
 	},
+	"namemc.capes": {
+		"message": "Bekijkt capes",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "Bekijkt cape:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Bekijkt servers",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Bekijkt server:",
+		"description": ""
+	},
 	"namemc.buttonViewServer": {
 		"message": "Server bekijken",
 		"description": "Used as the title for the button in Discord."
@@ -42,6 +58,14 @@
 	"namemc.profileEdit": {
 		"message": "Bewerkt {0}profielinformatie",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"namemc.viewFriends": {
+		"message": "Bekijkt vrienden",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "Bekijkt eigen skins",
+		"description": ""
 	},
 	"namemc.viewEmojis": {
 		"message": "Bekijkt profielemoji's",
