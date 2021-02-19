@@ -28,19 +28,19 @@
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
-		"message": "podcasts die hij/ze leuk vindt",
+		"message": "gelikete podcasts",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
-		"message": "artiesten die hij/ze leuk vindt",
+		"message": "gelikete artiesten",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.albumLike": {
-		"message": "albums die hij/ze leuk vindt",
+		"message": "gelikete albums",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.songsLike": {
-		"message": "liedjes die hij/ze leuk vindt",
+		"message": "gelikete nummers",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.madeForYou": {
