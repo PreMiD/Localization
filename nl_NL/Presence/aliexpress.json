@@ -12,7 +12,7 @@
         "description": ""
     },
     "aliexpress.recentlyViewProducts1": {
-        "message": "Bekijkt zijn/haar recent",
+        "message": "Bekijkt recent",
         "description": "Part 1 of 2"
     },
     "aliexpress.recentlyViewProducts2": {
@@ -20,7 +20,7 @@
         "description": "Part 2 of 2"
     },
     "aliexpress.theirAli": {
-        "message": "Bekijkt zijn/haar AliExpress",
+        "message": "Bekijkt eigen AliExpress",
         "description": ""
     },
     "aliexpress.feedback": {
@@ -28,11 +28,11 @@
         "description": ""
     },
     "aliexpress.orders": {
-        "message": "Bekijkt zijn/haar bestellingen",
+        "message": "Bekijkt bestellingen",
         "description": ""
     },
     "aliexpress.viewTheir": {
-        "message": "Bekijkt zijn/haar",
+        "message": "Bekijkt eigen",
         "description": "Part 1 "
     },
     "aliexpress.refunds": {
@@ -48,11 +48,11 @@
         "description": ""
     },
     "aliexpress.coupons": {
-        "message": "Bekijkt zijn/haar coupons",
+        "message": "Bekijkt eigen coupons",
         "description": ""
     },
     "aliexpress.address": {
-        "message": "Bekijkt zijn/haar adres",
+        "message": "Bekijkt eigen adres",
         "description": ""
     },
     "aliexpress.helpCenter": {
