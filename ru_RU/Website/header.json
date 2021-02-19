@@ -1,4 +1,8 @@
 {
+  "header.language": {
+    "message": "Русский",
+    "description": "Replace English with the name of YOUR language!"
+  },
   "header.languageNotification.title": {
     "message": "Мы поддерживаем ваш язык, использовать его?",
     "description": "Heading of the language notification when user has different language."
