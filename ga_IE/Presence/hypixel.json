@@ -1,1 +1,22 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "Ag féachaint ar liosta na foirne",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Ag féachaint ar a gcuid snáitheanna faire",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Ag féachaint ar a bhfóraim faire",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Ag féachaint ar a gcuid DManna",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Cluiche féachana:",
+        "description": ""
+    }
+}
