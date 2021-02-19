@@ -195,8 +195,44 @@
 		"message": "Nasc",
 		"description": "Link field."
 	},
+	"partners.apply.form.description": {
+		"message": "Cur síos: (150 carachtar ar a mhéad)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Cur síos le feiceáil",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Nasc íomhá: (550x300, PNG amháin)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Dún",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Cuir iarratas isteach",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Go raibh maith agat as iarratas a dhéanamh!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Comhlánaigh na réimsí go léir le do thoil.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Tuairisc uasta 150 carachtar.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Cuir nasc leis le do thoil (caithfear tosú le https:// agus críochnaigh le .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Chuir tú isteach ar pháirtí cheana féin.",
+		"description": "Error when already applied."
 	}
 }
