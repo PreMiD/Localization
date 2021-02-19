@@ -13,7 +13,7 @@ tags:
 
 ## Introduction
 
-In some scenarios, your presence may need to access elements inside of `iframes`.
+I roinnt cásanna, b’fhéidir go mbeidh ar do presence rochtain a fháil ar eilimintí taobh istigh de` iframes`.
 
 The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
 
