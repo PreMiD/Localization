@@ -40,7 +40,7 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Meest gebruikte eerst",
+		"message": "Populairste eerst tonen",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
@@ -48,11 +48,11 @@
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "Alleen favoriete presences",
+		"message": "Alleen favorieten tonen",
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
-		"message": "Toon toegevoegde presences",
+		"message": "Toegevoegde presences tonen",
 		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
