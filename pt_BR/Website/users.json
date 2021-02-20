@@ -1,38 +1,38 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Desenvolvedor de Presenças",
+		"message": "Desenvolvedor de Presences",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Verificador de Presenças",
+		"message": "Verificador de Presences",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Desenvolvedor Importante de Presenças",
+		"message": "Desenvolvedor Importante de Presences",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
-		"message": "Criou {0} presença(s).",
+		"message": "Criou {0} presences.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Desenvolvedor de Presenças Génio",
+		"message": "Desenvolvedor de Presences Génio",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Mais de 100 presenças criadas!",
+		"message": "Mais de 100 presences criadas!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "[Presenças/Contribuições] do usuário(a)",
+		"message": "[Presences/Contribuições] do usuário(a)",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
-		"message": "Clique aqui para mostrar as presenças que este usuário(a) criou.",
+		"message": "Clique aqui para mostrar as presences que este usuário(a) criou.",
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Clique aqui para mostrar as presenças que este usuário(a) contribuiu.",
+		"message": "Clique aqui para mostrar as presences que este usuário(a) contribuiu.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }
