@@ -1,1 +1,70 @@
-{}
+{
+	"downloads.header.title": {
+		"message": "Laiks izrādīties.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Izmanto PreMiD tagad, lai izrādītos draugiem, ko tu dari, varbūt tu atradīsi kādu ar līdzīgām interesēm.",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Sāc",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Lejupielādē PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Uzstādi mūsu aplikāciju",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Pievieno mūsu paplašinājumu jūsu pārlūkprogrammai",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Pārlādējiet šo saiti un pārbaudiet vai paplašinājums ir savienots",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "Joprojām problēmas? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Mēs esam te, lai palīdzētu!",
+		"description": "Link to our discord"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Aplikācija",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Paplašinājums",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "Uzmanību:",
+		"description": "First part of the message."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} Nav uzstādītājs priekš šīs operētājsistēmas. Tas nozīmē, ka tam nav profesionāla atbalsta.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "Lūdzu esi informēs, ka PreMiD nav atbalstīs uz mobilajiem telefoniem.",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "Rādīt Lejupielādes",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "Slēpt Lejupielādes",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "Pašreizējā versija šai platformai ir {0} (šī versija ir konkrēti Linux un neattiecas uz citām platformām).",
+		"description": "Tippy message of the Linux card."
+	}
+}
