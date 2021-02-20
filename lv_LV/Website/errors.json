@@ -1,1 +1,14 @@
-{}
+{
+	"store.search.notFound": {
+		"message": "Mēs nevarējām atrast šo Presence...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Atvaino, neizdevās atrast šo lapu.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Jūs meklējat neesošu vai izdzēstu Presence.",
+		"description": "Error (4) message"
+	}
+}
