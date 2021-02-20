@@ -1,1 +1,10 @@
-{}
+{
+	"store.search": {
+		"message": "Meklēt",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.removeFilter": {
+		"message": "Uzspied, lai noņemtu filtru",
+		"description": "Remove message for active search filters."
+	}
+}
