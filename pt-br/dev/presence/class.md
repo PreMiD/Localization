@@ -1,6 +1,6 @@
 ---
 title: Classe Presence
-description: A classe principal para cada presença do PreMiD
+description: A classe principal para cada presence do PreMiD
 published: true
 date: 2021-01-04T18:22:24.312Z
 tags:
@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:42.004Z
 
 ## Introdução
 
-A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presença.
+A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presence.
 
 Ao criar uma classe você deve especificar a propriedade `clientId`.
 
@@ -50,7 +50,7 @@ Define a atividade do seu perfil de acordo com os dados fornecidos.
 
 First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-O segundo parâmetro define quando a presença está reproduzindo algo ou não. Always use `true` if you provide timestamps in `PresenceData`.
+O segundo parâmetro define quando a presence está reproduzindo algo ou não. Always use `true` if you provide timestamps in `PresenceData`.
 
 ### `clearActivity()`
 
@@ -278,13 +278,13 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">A primeira linha da sua presença, geralmente usada como cabeçalho.</td>
+      <td style="text-align:left">A primeira linha da sua presence, geralmente usada como cabeçalho.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Segunda linha da sua presença.</td>
+      <td style="text-align:left">Segunda linha da sua presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -310,13 +310,13 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Define o logo para a presença.</td>
+      <td style="text-align:left">Define o logo para a presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Define o pequeno ícone ao lado do logo da presença.</td>
+      <td style="text-align:left">Define o pequeno ícone ao lado do logo da presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
@@ -356,7 +356,7 @@ Há alguns eventos disponíveis:
 
 #### `UpdateData`
 
-Este evento é disparado toda vez que a presença é atualizada.
+Este evento é disparado toda vez que a presence é atualizada.
 
 #### `iFrameData`
 
