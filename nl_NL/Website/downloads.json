@@ -84,7 +84,7 @@
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Vroegtijdige Releases",
+		"message": "Vroege versies",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
@@ -140,7 +140,7 @@
 		"description": ""
 	},
 	"downloads.showbeta.small": {
-		"message": "(niet nodig als u alleen hier bent om de normale applicatie te downloaden)",
+		"message": "(niet nodig als je hier bent om de normale applicatie te downloaden)",
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
