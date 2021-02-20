@@ -118,5 +118,49 @@
 	"downloads.button.login": {
 		"message": "Pieslēgties",
 		"description": "Login button on the downloads page."
+	},
+	"downloads.button.skipanyway": {
+		"message": "Tomēr Izlaist",
+		"description": "Skip Anyway button on the ads page."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "Paldies!",
+		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Mēs izmantojam reklāmas, lai atbalstītu savu komandu un uzturētu serverus, lai piedāvātu jums vislabāko lietotāja pieredzi!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Lūdzu atspējojiet adblock",
+		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Parādīt beta izlaidumus",
+		"description": ""
+	},
+	"downloads.skipanyway.message1": {
+		"message": "Es negribu atbalstīt.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "Vai esat pārliecināts?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Patiešām?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "L-lūdzu atbalsti :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Man tevi vajag :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Labi, labi...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
 	}
 }
