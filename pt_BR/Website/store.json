@@ -8,31 +8,31 @@
 		"description": "Creator of a presence"
 	},
 	"store.cards.popular": {
-		"message": "Esta presença é muito popular entre os usuários.",
+		"message": "Esta presence é muito popular entre os usuários.",
 		"description": "Presence card popular flame"
 	},
 	"store.cards.partner": {
-		"message": "Presença parceira",
+		"message": "Presence parceira",
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
-		"message": "Esta presença requer passos adicionais para funcionar, por favor, verifique sua página para mais informações.",
+		"message": "Esta presence requer passos adicionais para funcionar, por favor, verifique sua página para mais informações.",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
-		"message": "Pesquisar presença",
+		"message": "Pesquisar presence",
 		"description": "Search bar text when nothing is stated"
 	},
 	"store.card.presence.add": {
-		"message": "Adicionar presença",
+		"message": "Adicionar presence",
 		"description": "Button that will appear on hover after extension is installed."
 	},
 	"store.card.presence.remove": {
-		"message": "Remover presença",
+		"message": "Remover presence",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
-		"message": "Esta Presença é automaticamente habilitada ao visitar o site.",
+		"message": "Esta Presence é automaticamente habilitada ao visitar o site.",
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
@@ -40,7 +40,7 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Mostrar mais usados primeiro",
+		"message": "Mais usadas primeiro",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
@@ -48,11 +48,11 @@
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
-		"message": "Apenas presenças curtidas",
+		"message": "Apenas presences curtidas",
 		"description": "Liked presences only checkbox"
 	},
 	"store.filters.added": {
-		"message": "Mostrar presenças adicionadas",
+		"message": "Mostrar presences adicionadas",
 		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
