@@ -139,6 +139,10 @@
 		"message": "Parādīt beta izlaidumus",
 		"description": ""
 	},
+	"downloads.showbeta.small": {
+		"message": "(nav nepieciešams, ja jūs esat tikai šeit, lai lejupielādētu normālo aplikāciju)",
+		"description": "Small text under the show beta title."
+	},
 	"downloads.skipanyway.message1": {
 		"message": "Es negribu atbalstīt.",
 		"description": "Skip anyway messages (changes everytime you click it)."
