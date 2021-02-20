@@ -1,1 +1,10 @@
-{}
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Presence Izstrādātājs",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Presence verificētājs",
+		"description": "'Presence Verifier' title for user pages."
+	}
+}
