@@ -24,7 +24,23 @@
 		"description": "Features list"
 	},
 	"beta.register.text": {
-		"message": "Esi tam gatavs? Pievienojies {0} citiem Beta testētājiem!",
+		"message": "Esi tam gatavs? Pievienojies {0} citiem Beta Testētājiem!",
 		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Reģistrējies tagad!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Forši! Tagad esi beta lietotājs!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Mūsu pērtiķi strādā pie tā, lai jūs pēc iespējas ātrāk iekļūtu mūsu beta programmā. Paldies, ka reģistrējāties!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Izskatās, ka mums vairs nav pieejamas beta testētāju vietas.",
+		"description": "Shows when the beta slots are full."
 	}
 }
