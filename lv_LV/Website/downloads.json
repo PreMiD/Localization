@@ -66,5 +66,25 @@
 	"downloads.warning.differentVersion": {
 		"message": "Pašreizējā versija šai platformai ir {0} (šī versija ir konkrēti Linux un neattiecas uz citām platformām).",
 		"description": "Tippy message of the Linux card."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "Šī versija ir konkrēti Linux, un neattiecas uz citām sistēmām. Aplikācijas galvenā versija ir {0}",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Lūdzu pieslēdzieties, lai redzētu šīs lejupielādes.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Ak vai, izskatās, ka jums nav alpha/beta pieejas :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Tu vari pievienoties mūsu beta programmai **šeit** bez maksas. Pasteidzies! Mums ir tikai {0} vietas pieejamas",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Agrīnie Izlaidumi",
+		"description": "Header above alpha/beta download buttons."
 	}
 }
