@@ -2,5 +2,69 @@
 	"partners.header.title": {
 		"message": "Partneri",
 		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Pievienojies ģimenei un iegūsti tikai partneriem paredzētas priekšrocības, lai parādītu cik daudz preces tev ir.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Šie jau pieder mums",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Kā būtu ar došanos debesīs elles vietā?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Tava bezmaksas Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Mūsu komanda nodrošinās jūsu pakalpojuma Presence.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Kļūstiet verificēts",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Īpaša loma un liels gods jums tiks piešķirts mūsu Discord serverī.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-tag integrācija",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Automātiski izmanto jūsu Presence, kad kāds apmeklē jūsu Vietni.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Tiec iemūžināts",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Šķebinoša vieta mūsu partneru lapā.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Esi slavens",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Piedāvāts mūsu sociālajos mēdijos.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Prasības",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Ko mēs meklējam?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Mēs sekojam līdzi augošajām kopienām un aizraujošajām lietām internetā. TL;DR jums jau vajadzētu izmantot PreMiD un būt gatavam to izplatīt vēl vairāk interneta ķēmiem. Pieņemšana programma ir ārkārtīgi kvalitatīva, un ta katram kandidātam būs atšķirīga.",
+		"description": "Description for the first requirement."
 	}
 }
