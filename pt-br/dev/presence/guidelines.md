@@ -24,7 +24,7 @@ As regras gerais de desenvolvimento de presences são as seguintes:
 - O domínio da presence deve ter pelo menos 2 meses.
 - Presences sobre páginas internas de navegadores (como a Chrome Web Store, `chrome://`, páginas `about:`, etc) **não são** permitidas por requererem uma bandeira experimental a ser ativada no lado do usuário e que poderia potencialmente causar dano aos seus navegadores.
 - Presences com suporte apenas para um único subdomínio **não serão** permitidas, visto que elas podem parecer quebradas em outras páginas (como a página principal), exceções podem ser feitas para as páginas de políticas e de contato (conteúdo que não é usado com frequência) ou sites onde o outro conteúdo não é relacionado. (por exemplo, páginas da Wikia)
-- Presenças de rádios on-line só são permitidas se o rádio tiver pelo menos 100 ouvintes semanais e 15 simultâneos.
+- Presences de rádios on-line só são permitidas se o rádio tiver pelo menos 100 ouvintes semanais e 15 simultâneos.
 - Presences de baixa qualidade (ou com pouco contexto) **não são** permitidos (por exemplo, apenas mostrar uma logo e um texto mas nunca mudá-los de novo.)
 - Incluir a pasta `dist`, o arquivo `presence.ts`, o arquivo `iframe.ts` e o arquivo `metadata.json` é mandatório, então o resultado seria o que está representado no seguinte esquema:
 
@@ -60,7 +60,7 @@ presence
 > 
 > {.is-warning}
 
-> Presenças de websites que tenham conteúdo explícito **devem** ter a tag `nsfw`, e o logo/thumbnail **não** deve conter nenhum desses conteúdos. 
+> Presences de websites que tenham conteúdo explícito **devem** ter a tag `nsfw`, e o logo/thumbnail **não** deve conter nenhum desses conteúdos. 
 > 
 > {.is-warning}
 
@@ -142,7 +142,7 @@ Uma lista de campos e de suas regras está listada abaixo:
 
 ### **`contributors`**
 
-- **Não** se adicione como contribuidor, e não adicione outra pessoa como contribuidora, a menos que ela tenha ajudado com a presença.
+- **Não** se adicione como contribuidor, e não adicione outra pessoa como contribuidora, a menos que ela tenha ajudado com a presence.
 
 ### **`service`**
 
@@ -186,8 +186,8 @@ Uma lista de campos e de suas regras está listada abaixo:
 
 - **Todas** presences precisam ter pelo menos _uma_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
-- Tags **devem** preferencialmente incluir nomes de serviços alternativos para facilitar a busca (p. ex., se uma presença da Amazon tiver incluído o suporte pra AWS, teria suas tags como `amazon-web-services` e `aws`)
-- Você é **obrigado** a adicionar uma tag `NSFW` se a presença for para um site NSFW.
+- Tags **devem** preferencialmente incluir nomes de serviços alternativos para facilitar a busca (p. ex., se uma presence da Amazon tiver incluído o suporte pra AWS, teria suas tags como `amazon-web-services` e `aws`)
+- Você é **obrigado** a adicionar uma tag `NSFW` se a presence for para um site NSFW.
 
 ### **`category`**
 
@@ -290,20 +290,20 @@ Algumas coisas que você deve saber após abrir uma pull request:
 - Se um pull request estiver inativo por um período de 14 dias, ele será fechado.
 - Todas as verificações **devem** ser passadas para juntar o pull request.
 - ⚠️ Você **deve** fornecer novo, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presence funciona. _Você tem permissão para costurar capturas de tela juntos para visualizar para deixar mais fácil._ Isso aplica-se tanto à criação quanto à modificação.
-- ⚠️ Também é **necessário** incluir capturas de tela das configurações da presença na extensão, se fornecido. Um exemplo pode ser vito [aqui](https://imgur.com/a/OD3sj5R).
+- ⚠️ Também é **necessário** incluir capturas de tela das configurações da presence na extensão, se fornecido. Um exemplo pode ser vito [aqui](https://imgur.com/a/OD3sj5R).
 
 ## `Verificações`
 
 ![Verificações](https://i.imgur.com/BCDZQe9.png)
 
-Atualmente, uma presença deve passar por 2 fases de checagem. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Atualmente, uma presence deve passar por 2 fases de checagem. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
 - `Codacy` is a bot that checks for code quality. Se você receber erros por novas issues, é **necessário** corrigi-los.
 - `Schema Validation` vai escanear seu arquivo `metadata.json` por qualquer erros (por exemplo, campos ausentes, tipos de valores inválidos, etc.). Se você ver novas issues, também será **necessário** corrigi-los. Adicionar um campo de esquema ao seu arquivo `metadata.json` permitirá que seu editor de texto (se suportado) mostre esses erros durante o desenvolvimento.
 
 ## `Notas Adicionais`
 
-- Certifique-se sempre de iniciar sua presença na pasta mais apropriada, se seu nome começa com qualquer letra latina então deve estar sob sua correspondência alfabética ( ex. `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não latinos **Devem** estar sob a pasta "#" ( ex. `#/巴哈姆特`) e números sob a pasta "0-9" ( ex. `0-9/4anime`).
+- Certifique-se sempre de iniciar sua presence na pasta mais apropriada, se seu nome começa com qualquer letra latina então deve estar sob sua correspondência alfabética ( ex. `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não latinos **Devem** estar sob a pasta "#" ( ex. `#/巴哈姆特`) e números sob a pasta "0-9" ( ex. `0-9/4anime`).
 
 Após atender a todas as diretrizes e ter sua Presence revisada pelo menos duas vezes, sua Presence será fundida com a loja.
 
