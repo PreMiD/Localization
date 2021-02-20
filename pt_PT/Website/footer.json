@@ -88,7 +88,7 @@
 		"description": "More section"
 	},
 	"footer.more.status": {
-		"message": "Estado",
+		"message": "Estado do serviço",
 		"description": "Status -> redirects to status.premid.app"
 	},
 	"footer.more.wiki": {
