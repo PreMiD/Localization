@@ -3,6 +3,10 @@
 		"message": "Meklēt",
 		"description": "Placeholder for presence search"
 	},
+	"store.search.filters": {
+		"message": "Aizpildīt",
+		"description": "Little message next to the keys of search filters on the store."
+	},
 	"store.search.removeFilter": {
 		"message": "Uzspied, lai noņemtu filtru",
 		"description": "Remove message for active search filters."
