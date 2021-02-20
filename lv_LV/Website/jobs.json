@@ -62,5 +62,17 @@
 	"jobs.benefit5.title": {
 		"message": "Pārtraukumi",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Izmēģini jaunās funkcijas viens no pirmajiem.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Paldies par pieteikšanos!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Jau esiet pieteicies!",
+		"description": "Notification when you applied already."
 	}
 }
