@@ -2,5 +2,17 @@
   "header.language": {
     "message": "Latviešu",
     "description": "Replace English with the name of YOUR language!"
+  },
+  "header.login": {
+    "message": "Pieslēgties",
+    "description": "Login Button"
+  },
+  "header.staff": {
+    "message": "Info panelis",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Izlogoties",
+    "description": "Logout button"
   }
 }

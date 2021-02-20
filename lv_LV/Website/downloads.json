@@ -86,5 +86,37 @@
 	"downloads.latest.header": {
 		"message": "Agrīnie Izlaidumi",
 		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "Uzmanību",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.opera": {
+		"message": "Jums vajag uzstādīt **šo** paplašinājumu, lai varētu uzstādīt PreMiD no Chrome interneta veikala.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "Izlaist",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Atpakaļ",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "Atcelt",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "Labi",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "Gatavs",
+		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.button.login": {
+		"message": "Pieslēgties",
+		"description": "Login button on the downloads page."
 	}
 }
