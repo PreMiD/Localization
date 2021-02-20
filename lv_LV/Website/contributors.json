@@ -1,1 +1,42 @@
-{}
+{
+	"contributors.headings.staff": {
+		"message": "Personāls",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Atbalstītāji",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Tulki",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.projectLeader": {
+		"message": "Projekta vadītājs",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Personāla Koordinators",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Mārketinga Direktors",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Administrators",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Recenzents",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Lokalizācijas Vadītājs",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Izstrādātājs",
+		"description": "'Developer' title for contributors and user pages."
+	}
+}
