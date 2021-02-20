@@ -8,7 +8,7 @@
 		"description": "as in documents"
 	},
 	"premid.viewPresence": {
-		"message": "Visualizando presença:",
+		"message": "Visualizando presence:",
 		"description": ""
 	},
 	"premid.pageHome": {
@@ -56,7 +56,7 @@
 		"description": "A page name"
 	},
 	"premid.pagePresenceDev": {
-		"message": "Desenvolvimento de Presenças",
+		"message": "Desenvolvimento de Presences",
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
