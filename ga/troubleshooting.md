@@ -59,8 +59,7 @@ Tá súil agam go bhfuil a fhios agat conas ríomhaire a atosú.
 Uaireanta bíonn rud éigin cearr leis na comhaid... Is féidir ranganna teagaisc don tsuiteáil a fháil [anseo](/install).
 
 ### Baint láimhe
-Windows:  `C:\Users\USER\AppData\Roaming\`` agus scrios an fillteán`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`agus scrios an fillteán`PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### Bhraith McAfee PreMiD mar víreas (Windows)
 Is dearfach bréagach é seo ó McAfee agus chuireamar an cheist in iúl dóibh, go dtí seo is féidir leat PreMiD a eisiamh ón scanadh trí na céimeanna seo a leanas a dhéanamh:
