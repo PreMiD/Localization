@@ -307,6 +307,10 @@
 		"message": "Menonton Video",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchStream": {
+		"message": "Tonton Strim",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewChannel": {
 		"message": "Melihat Saluran",
 		"description": "Used as the title for the button in Discord."
