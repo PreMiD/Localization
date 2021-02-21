@@ -2,7 +2,7 @@
 title: Classe Presenza
 description: La classe principale per ogni presence PreMiD
 published: true
-date: 2021-01-04T18:22:24.312Z
+date: 2021-02-21T18:28:45.568Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:42.004Z
@@ -327,6 +327,12 @@ Questa interfaccia ha le seguenti variabili, sono tutte opzionali.
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
+        <tr>
+      <td style="text-align:left">buttons</td>
+      <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -339,6 +345,16 @@ const presenceData: PresenceData = {
   smallImageText: "You hovered me, and what now?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
+  buttons: [
+    {
+            label: "Test button1",
+            url: "https://premid.app/"
+        },
+        {
+            label: "Test button2",
+            url: "https://premid.app/contributors"
+        }
+    ]
 };
 ```
 
