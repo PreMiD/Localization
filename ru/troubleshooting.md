@@ -59,8 +59,7 @@ Alt+F4 (Windows) или CMD+Q (MacOS) тоже отлично работают. 
 Иногда с файлами что-то не так... Уроки по установке можно найти [здесь](/install).
 
 ### Ручное удаление
-Windows: `C:\Users\USER\AppData\Roaming\`` и удалите папку`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`и удалите папку`PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee обнаружил PreMiD как вирус (Windows)
 Это ложное положительное впечатление от компании McAfee и мы сообщили им об этой проблеме. теперь вы можете исключить PreMiD из сканирования, выполнив следующие действия:
