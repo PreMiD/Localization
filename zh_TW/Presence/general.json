@@ -131,8 +131,48 @@
 		"message": "正在私訊給:",
 		"description": ""
 	},
+	"general.typeChannel": {
+		"message": "在頻道輸入中:",
+		"description": ""
+	},
 	"general.viewAnime": {
 		"message": "正在看動畫:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "查看類別:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "檢視頻道:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "正在觀看集數:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "查看類別:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "正在檢視主頁",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "正在檢視列表:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "正在閱讀漫畫:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "正在瀏覽使用者:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "正在觀看電影:",
 		"description": ""
 	},
 	"general.viewPage": {
@@ -185,6 +225,10 @@
 	},
 	"general.buttonWatchVideo": {
 		"message": "觀看影片",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "觀看直播",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
