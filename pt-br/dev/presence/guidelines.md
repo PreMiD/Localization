@@ -241,7 +241,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
 
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.   - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contact a reviewer for more information about this subject.
+- Se você fizer modificações a um presence e mudar pelo menos um **quarto** do código base da presence, você é permitido a adicionar si mesmo como um contribuidor. Contacte a um verificador para mais informação sobre esse assunto.   - Se você fizer modificações a um Presence e mudar pelo menos um **quarto** da codebase do Presence, você é permitido a adicionar si mesmo como um contribuidor. Contact a reviewer for more information about this subject.
 -  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. **Não** altere imagens se elas não estiverem desatualizadas e estiverem nas espeficicações.
 
 # Verificação
@@ -258,7 +258,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 > 
 > {.is-warning}
 
-> **Sempre** tem uma bifurcação atualizada antes de criar sua pull request. This will help limit false positives from the checks. 
+> **Sempre** tenha um fork atualizado antes de criar seu pull request. This will help limit false positives from the checks. 
 > 
 > {.is-warning}
 
@@ -289,7 +289,7 @@ Algumas coisas que você deve saber após abrir uma pull request:
 - São necessários 2 revisores para implementar uma pull request.
 - Se um pull request estiver inativo por um período de 14 dias, ele será fechado.
 - Todas as verificações **devem** ser passadas para juntar o pull request.
-- ⚠️ Você **deve** fornecer novo, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presence funciona. _Você tem permissão para costurar capturas de tela juntos para visualizar para deixar mais fácil._ Isso aplica-se tanto à criação quanto à modificação.
+- ⚠️ Você **deve** fornecer novo, capturas de tela sem alterações (tiradas por você) mostrando uma comparação lado a lado do seu perfil e do site para provar que sua presence funciona. _Você pode colar screenshots juntas para uma visualização prazerosa._ Isso se aplica tanto à criação quanto à modificação.
 - ⚠️ Também é **necessário** incluir capturas de tela das configurações da presence na extensão, se fornecido. Um exemplo pode ser vito [aqui](https://imgur.com/a/OD3sj5R).
 
 ## `Verificações`
@@ -303,7 +303,7 @@ Atualmente, uma presence deve passar por 2 fases de checagem. All of these check
 
 ## `Notas Adicionais`
 
-- Certifique-se sempre de iniciar sua presence na pasta mais apropriada, se seu nome começa com qualquer letra latina então deve estar sob sua correspondência alfabética ( ex. `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não latinos **Devem** estar sob a pasta "#" ( ex. `#/巴哈姆特`) e números sob a pasta "0-9" ( ex. `0-9/4anime`).
+- **Nunca** se esqueça de iniciar sua presence na pasta mais apropriada, se seu nome começa com _qualquer_ letra latina, então deve estar sob sua correspondência alfabética (ex.: `D/dアニメストア` ou `G/Google`). Quaisquer outros caracteres Unicode/não-Latinos **devem** estar sob a pasta `#` (ex.: `#/巴哈姆特`) e números sob a pasta `0-9` (ex.: `0-9/4anime`).
 
 Após atender a todas as diretrizes e ter sua Presence revisada pelo menos duas vezes, sua Presence será fundida com a loja.
 
