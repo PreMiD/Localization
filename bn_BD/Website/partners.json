@@ -151,6 +151,10 @@
 		"message": "সবচেয়ে শক্তিশালী এবং প্রসারণসাধ্য একটি ওপেন সোর্স উইকি সফটওয়্যার।",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "একটি সমন্বিত, সহজে ব্যবহার করা যায় এমন একটি ইন্টারফেস তোমার কাজের জন্য।",
+		"description": "Description for PackageCloud."
+	},
 	"partners.partner.fastly": {
 		"message": "ওয়েবের সেরার পিছনে।",
 		"description": "Description for Fastly."
