@@ -139,6 +139,10 @@
 		"message": "একজন দেবী যিনি মজার Discord বট এর মতো খেলেন!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM শুনতে দেয় তোমাকে 15+ মিউজিক স্ট্রিমগুলো ফ্রিতে - ননস্টপ। সেরা এবং লেটেস্ট গান শুধু তোমার জন্যে!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "টেক কোম্পানিগুলোর জন্য দ্রুত স্থানীয়করণ।",
 		"description": "Description for Crowdin."
