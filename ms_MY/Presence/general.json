@@ -300,11 +300,11 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
-		"message": "Menonton Episod",
+		"message": "Tonton Episod",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "Menonton Video",
+		"message": "Tonton Video",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchStream": {
@@ -312,7 +312,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Melihat Saluran",
+		"message": "Lihat Saluran",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
