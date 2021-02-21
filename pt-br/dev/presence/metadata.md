@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contém dados básicos sobre a Presença
+description: Contém dados básicos sobre a Presence
 published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-Se você quer publicar uma presença na loja e carregá-la através da extensão, você deve criar o arquivo `metadata.json` em sua pasta `dist`.
+Se você quer publicar uma presence na loja e carregá-la através da extensão, você deve criar o arquivo `metadata.json` em sua pasta `dist`.
 
 An example of that file can be found below.
 
@@ -95,7 +95,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">O título do serviço que esta presença suporta.</td>
+      <td style="text-align:left">O título do serviço que esta presence suporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -109,7 +109,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Veja a categoria para idiomas de presença para uma lista. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Veja a categoria para idiomas de presence para uma lista. </td>
       <td style="text-align:left"><code>Objeto</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -129,7 +129,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Versão da sua presença.</td>
+      <td style="text-align:left">Versão da sua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -141,25 +141,25 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link para sua miniatura da presença.</td>
+      <td style="text-align:left">Link para sua miniatura da presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left">Valor <code>#HEX</code>. Recomendamos usar uma cor primária do serviço que a sua presença suporta.</td>
+      <td style="text-align:left">Valor <code>#HEX</code>. Recomendamos usar uma cor primária do serviço que a sua presence suporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presença no site.</td>
+      <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presence no site.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">Uma string usada para representar a categoria na qual a presença cai.</td>
+      <td style="text-align:left">Uma string usada para representar a categoria na qual a presence cai.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -202,12 +202,12 @@ Se você quer aprender expressões regulares, aqui estão alguns sites.
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Idiomas de presença
+## Idiomas de presence
 
 PreMiD é um serviço poliglota, o que significa que há uma infinidade de idiomas envolvidos para conectar usuários por todo o mundo. Uma lista completa de idiomas pode ser encontrada neste [endpoint da API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
 
-## Configurações de presença
-Defina configurações interativas para que os usuários possam personalizar a presença!
+## Configurações de presence
+Defina configurações interativas para que os usuários possam personalizar a presence!
 ```typescript
 "settings": [
   {
@@ -302,7 +302,7 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 ### Métodos
 
-Use os seguintes métodos para obter informações de configurações em seus arquivos de presença:
+Use os seguintes métodos para obter informações de configurações em seus arquivos de presence:
 #### `getSetting(String)`
 Retorna valor da configuração.
 ```typescript
@@ -322,9 +322,9 @@ Mostra determinada configuração (somente funciona se a configuração já esta
 presence.showSetting("pdexID"); //Substitua pdexID com o id da configuração
 ```
 
-## Categorias de presença
+## Categorias de presence
 
-Ao fazer a sua presença, você deve especificar uma categoria na qual a presença cai. Esta é uma lista compilada das categorias que você pode usar.
+Ao fazer a sua presence, você deve especificar uma categoria na qual a presence cai. Esta é uma lista compilada das categorias que você pode usar.
 
 <table>
   <thead>

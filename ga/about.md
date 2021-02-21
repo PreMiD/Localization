@@ -1,7 +1,7 @@
 ---
 title: Maidir le PreMiD
 description: Príomhghnéithe PreMiD
-published: fíor
+published: true
 date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown

@@ -1,6 +1,6 @@
 ---
 title: Fabhtcheartú
-description: Everything to solve your problem
+description: Gach rud chun d'fhadhb a réiteach
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,84 +8,84 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Déan cinnte go bhfuil an síneadh **agus** an feidhmchlár suiteáilte agat! 
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+San áireamh ar an leathanach seo:
+1. [Fabhtcheartú ginearálta](https://docs.premid.app/troubleshooting#general)
+2. [Fabhtcheartú Linux](https://docs.premid.app/troubleshooting#linux)
+3. [Fabhtcheartú MacOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
-### Reload the page
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+# Fabhtcheartú ginearálta
+### Athlódáil an leathanach
+Is féidir leat <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) nó <kbd>CMD+R</kbd> (MacOS) a bhrú ar do mhéarchlár freisin in ionad an cnaipe athnuachana a chuardach.
 
-### Are you using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### An bhfuil an aip Discord á úsáid agat?
+Ní oibríonn PreMiD **ní** ar leagan an bhrabhsálaí de Discord, ní mór duit an aip [a íoslódáil anseo](https://discord.com/download).
 
-### Make sure that you have enabled Discord Game Activity in settings
+### Déan cinnte go bhfuil Gníomhaíocht Cluiche Discord cumasaithe agat i suíomhanna
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Bí cinnte nach bhfuil Discord ag rith NÍL mar riarthóir
+Tá sé an-tábhachtach. Ní oibreoidh Discord RPC má ritheann tú Discord mar riarthóir.
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### An bhfuil tú ag úsáid láithreacht le socruithe?
+Bíonn tionchar ag saincheist síneadh ar go leor presences (lena n-áirítear ` Twitch ` agus ` SoundCloud `). Cuireann an tsaincheist seo faoi deara nach bhfaigheann an síneadh luachanna réamhshocraithe socruithe i gceart.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Chun é seo a réiteach, níl le déanamh agat ach an suíomh is fearr a scoránaigh: ![presencesettings.gif](/presencesettings.gif)
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Atosaigh do bhrabhsálaí
+Déanann <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) nó <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) jab maith freisin. (Caithfidh tú do bhrabhsálaí a thosú arís ar ndóigh.)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### Atosaigh PreMiD (Feidhmchlár)
+![quit.png](/quit.png) Caithfidh tú PreMiD a atosú ina dhiaidh sin.
 
-### Reload/restart Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### Discord athlódáil/atosú
+Brúigh <kbd>CTRL+R</kbd> (Windows) nó <kbd>CMD+R</kbd> (MacOS) ar do mhéarchlár nó atosaigh Discord de láimh.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### Seiceáil an bhfuil frithvíreas nó balla dóiteáin ag rith ar do ríomhaire
+Uaireanta bíonn cláir frithvíreas agus ballaí dóiteáin ag cur bac ar fheidhmchláir atá ag cruthú/ag óstáil freastalaithe nó díreach ag nascadh leis an idirlíon. Táimid ag úsáid freastalaí áitiúil chun sonraí a fháil agus a phasáil idir ár n-aip agus ár síneadh, mar sin má chuirfidh tú bac ar chumas an aip sonraí a rith is dócha nach mbeidh tú in ann PreMiD a úsáid.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Díchumasaigh do síntí
+Díchumasaigh do chuid síntí go léir agus féach an bhfuil sé ag obair. Má tá, déan iarracht do chuid síntí a chumasú céim ar chéim agus inis dúinn cén síneadh a bhris PreMiD.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### Ag atosú do ríomhaire
+Tá súil agam go bhfuil a fhios agat conas ríomhaire a atosú.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### PreMiD a athshuiteáil
+Uaireanta bíonn rud éigin cearr leis na comhaid... Is féidir ranganna teagaisc don tsuiteáil a fháil [anseo](/install).
 
-### Manual removal
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### Baint láimhe
+Windows:  `C:\Users\USER\AppData\Roaming\`` agus scrios an fillteán`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`agus scrios an fillteán`PreMiD``.
 
-### McAfee detected PreMiD as virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+### Bhraith McAfee PreMiD mar víreas (Windows)
+Is dearfach bréagach é seo ó McAfee agus chuireamar an cheist in iúl dóibh, go dtí seo is féidir leat PreMiD a eisiamh ón scanadh trí na céimeanna seo a leanas a dhéanamh:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
+> Mura mbraitheann tú muiníneach as na céimeanna seo a ghlacadh, bíodh leisce ort ticéad a dhéanamh i [#support](https://discord.premid.app/) agus beidh duine dár nGníomhairí Tacaíochta in ann cabhrú leat! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+1. Oscail feidhmchlár McAfee agus cliceáil deilbhín na socruithe ar thaobh na láimhe deise. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Cliceáil "Míreanna Coraintín" (An dara ceann ón mbarr).
+3. Leathnaigh é, agus cliceáil an `>` deilbhín roimh earra leis an ainm "settings.dat" air.
+4. Déan cinnte go bhfuil "AppData\Local\Temp\PreMiD" ar an gcosán, más ea, roghnaigh é agus brúigh athshlánú. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Tar éis é a athshlánú is féidir leat an aníos "Míreanna Coraintín" a dhúnadh, ansin brúigh deilbhín na socruithe arís ar thaobh na láimhe deise.
+6. Cliceáil "Scanadh Fíor-ama" (An tríú ón mbarr).
+7. Leathnaigh é agus cliceáil "Cuir comhad leis".
+8. Clóscríobh "%appdata%" i mbarra URL an bhainisteora comhaid agus brúigh Iontráil. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Oscail an fillteán "PreMiD" agus roghnaigh an comhad "PreMiD.exe" agus cliceáil oscailte. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. Ba cheart do McAfee neamhaird a dhéanamh dár gcomhad anois, gan ach ár bhfeidhmchlár a lainseáil agus ba cheart go mbeifeá go maith chun dul.
 
-### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+### Stádas PreMiD bugged ar discord!
+Ná bíodh imní ort. Ná bíodh imní ort. Brúigh an eochaircheap <kbd>CTRL+R</kbd> (Windows) nó <kbd>CMD+R</kbd> (MacOS) agus tú dírithe ar d’fhuinneog neamhord chun í a athlódáil.
 
 <a name="linux"></a>
 
-# Linux troubleshooting
+# Fabhtcheartú Linux
 ### Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
@@ -114,7 +114,7 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
+# Fabhtcheartú MacOS
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 

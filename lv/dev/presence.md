@@ -141,7 +141,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Apraksts</th>
       <th style="text-align:left">Type</th>
       <th style="text-align:left">Optional</th>
     </tr>

@@ -1,5 +1,5 @@
 ---
-title: Desenvolvimento de Presenças
+title: Desenvolvimento de Presences
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> Todas as presenças agora são armazenadas aqui: https://github.com/PreMiD/Presences 
+> Todas as presences agora são armazenadas aqui: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-A versão `2.x` introduz a [loja de presenças](https://premid.app/store). Usuários agora têm a capacidade de adicionar e remover manualmente suas Presenças favoritas através da interface de usuário do [site](https://premid.app/).
+A versão `2.x` introduz a [loja de presences](https://premid.app/store). Usuários agora têm a capacidade de adicionar e remover manualmente suas Presences favoritas através da interface de usuário do [site](https://premid.app/).
 
-> Antes de começar, é altamente recomendado que você olhe as nossas diretrizes de presença. 
+> Antes de começar, é altamente recomendado que você olhe as nossas diretrizes de presence. 
 > 
 > {.is-warning}
 
@@ -207,7 +207,7 @@ TLD significa Top Level Domain (Domínio de Primeiro Nível) por exemplo: .com .
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Versão da sua presença.</td>
+      <td style="text-align:left">Versão da sua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -219,25 +219,25 @@ TLD significa Top Level Domain (Domínio de Primeiro Nível) por exemplo: .com .
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link para sua miniatura da presença.</td>
+      <td style="text-align:left">Link para sua miniatura da presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left">Valor <code>#HEX</code>. Recomendamos usar uma cor primária do serviço que a sua presença suporta.</td>
+      <td style="text-align:left">Valor <code>#HEX</code>. Recomendamos usar uma cor primária do serviço que a sua presence suporta.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presença no site.</td>
+      <td style="text-align:left">Array com tags, eles ajudarão os usuários a pesquisar sua presence no site.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">Uma string usada para representar a categoria na qual a presença cai. Veja as categorias válidas <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
+      <td style="text-align:left">Uma string usada para representar a categoria na qual a presence cai. Veja as categorias válidas <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">aqui</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -262,7 +262,7 @@ TLD significa Top Level Domain (Domínio de Primeiro Nível) por exemplo: .com .
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Uma matriz de configurações que o usuário pode alterar. <br>
-      Leia mais sobre as configurações de presença <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui </a>.</td>
+      Leia mais sobre as configurações de presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui </a>.</td>
       <td style="text-align:left"><code>Array&lt;Objeto&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -328,7 +328,7 @@ presence.on("UpdateData", async () => {
 
 Você pode copiar isso no arquivo `presence.ts` e editar os valores. Configurar todos os valores é feito dentro do evento updateData.
 
-Por exemplo, sugerimos que analisemos o código de presenças como: 1337x ou 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Por exemplo, sugerimos que analisemos o código de presences como: 1337x ou 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
@@ -361,7 +361,7 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-4. Faça com que seu arquivo de presença receba dados do arquivo iFrame.
+4. Faça com que seu arquivo de presence receba dados do arquivo iFrame.
 
 ```typescript
 presence.on("iFrameData", (data) => {
@@ -376,12 +376,12 @@ presence.on("iFrameData", (data) => {
 
 Abra um console na sua pasta e digite `tsc -w` para compilar o `presence.ts` na pasta `/dist`.
 
-# Carregando a presença
+# Carregando a presence
 
 1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
-2. O botão **Carregar presença** aparecerá na seção das Presenças.
+2. O botão **Carregar presence** aparecerá na seção das Presences.
 3. Clique nele enquanto estiver segurando o botão <kbd>Shift</kbd>.
-4. Selecione a pasta /dist da sua presença.
+4. Selecione a pasta /dist da sua presence.
 
 # Algumas coisas úteis
 
