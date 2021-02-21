@@ -2,5 +2,9 @@
     "1337x.trending": {
         "message": "A ver as tendências",
         "description": ""
+    },
+    "1337x.upload": {
+        "message": "A enviar algo...",
+        "description": ""
     }
 }
