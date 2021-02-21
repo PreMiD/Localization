@@ -307,6 +307,10 @@
 		"message": "Skatīties Videoklipu",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchStream": {
+		"message": "Skatīties Tiešraidi",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewChannel": {
 		"message": "Skatīt Kanālu",
 		"description": "Used as the title for the button in Discord."

@@ -40,7 +40,7 @@
     "description": "Login Button"
   },
   "header.lia": {
-    "message": "Logado(a) como",
+    "message": "Logado como",
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
