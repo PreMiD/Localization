@@ -1,4 +1,28 @@
 {
+    "youtube.ad": {
+        "message": "A ver um anúncio",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "A navegar os vídeos",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "A navegar as listas de reprodução",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "A ver posts da comunidade",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "do canal",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "A ler sobre o canal",
+        "description": ""
+    },
     "youtube.trending": {
         "message": "A ver as tendências",
         "description": ""
