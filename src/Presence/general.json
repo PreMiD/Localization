@@ -307,6 +307,10 @@
 		"message": "Watch Video",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchStream": {
+		"message": "Watch Stream",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewChannel": {
 		"message": "View Channel",
 		"description": "Used as the title for the button in Discord."
