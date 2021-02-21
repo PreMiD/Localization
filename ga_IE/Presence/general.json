@@ -307,6 +307,10 @@
 		"message": "Féach Físeán",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchStream": {
+		"message": "Féach ar an Sruth",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewChannel": {
 		"message": "Féach ar Mhuir nIocht",
 		"description": "Used as the title for the button in Discord."
