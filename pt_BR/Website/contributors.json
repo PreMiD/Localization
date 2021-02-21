@@ -52,7 +52,7 @@
 		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
-		"message": "Revisor(a)",
+		"message": "Revisor",
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
