@@ -59,8 +59,7 @@ Kami harap anda tahu caranya.
 Terkadang ada sesuatu yang salah dengan filenya... Tutorial untuk instalasi bisa dilihat [disini](/install).
 
 ### Penghapusan manual
-Windows:    `C:\Users\USER\AppData\Roaming\`` dan hapus folder `PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`dan hapus folder`PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee mendeteksi PreMiD sebagai virus (Windows)
 Ini adalah false positive dari McAfee dan kami telah melaporkan masalah pada mereka, untuk saat ini kamu bisa mengecualikan PreMiD dari scan dengan melakukan langkah berikut:
