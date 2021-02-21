@@ -59,8 +59,7 @@ Jeg håper du vet hvordan man restarter en datamaskin.
 Noen ganger så er det noe galt med filene... Tutorials for the installation can be found [here](/install).
 
 ### Manuell fjerning
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
