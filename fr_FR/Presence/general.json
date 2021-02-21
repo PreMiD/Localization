@@ -307,6 +307,10 @@
 		"message": "Regarde une vidéo",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchStream": {
+		"message": "Regarder la diffusion en direct",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewChannel": {
 		"message": "Regarde un salon",
 		"description": "Used as the title for the button in Discord."
