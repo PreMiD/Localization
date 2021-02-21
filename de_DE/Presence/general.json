@@ -292,7 +292,7 @@
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
-		"message": "Schaut Serien an",
+		"message": "Serie anschauen",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
@@ -304,15 +304,15 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "Schaut Video",
+		"message": "Video anschauen",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Betrachtet Kanal",
+		"message": "Kanal anzeigen",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
-		"message": "Hört zu",
+		"message": "Anhören",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPage": {
