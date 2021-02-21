@@ -59,8 +59,7 @@ Jag hoppas att du vet hur man startar om en dator.
 Ibland är det något fel med filerna... Handledningar för installationen finns [här](/install).
 
 ### Manual removal
-Windows:    `C:\Users\USER\AppData\Roaming\`` och ta bort mappen`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`och ta bort mappen`PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee upptäckte PreMiD som virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
