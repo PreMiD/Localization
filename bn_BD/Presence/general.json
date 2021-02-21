@@ -307,6 +307,10 @@
 		"message": "দেখো ভিডিওটি",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchStream": {
+		"message": "দেখো স্ট্রিমটি",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewChannel": {
 		"message": "দেখো চ্যানেলটি",
 		"description": "Used as the title for the button in Discord."
