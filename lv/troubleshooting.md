@@ -1,6 +1,6 @@
 ---
-title: Troubleshooting
-description: Everything to solve your problem
+title: Problēmu novēršana
+description: Viss, lai atrisinātu jūsu problēmu
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,55 +8,55 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Pārliecināties, vai esat uzstādījis paplašinājumu **un** aplikāciju! 
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+Iekļauts šajā lapā:
+1. [Vispārīgu problēmu novēršana](https://docs.premid.app/troubleshooting#general)
+2. [Linux problēmu novēršana](https://docs.premid.app/troubleshooting#linux)
+3. [MacOS problēmu novēršana](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
-### Reload the page
-You can press <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard too instead of searching for the refresh button.
+# Vispārīgu problēmu novēršana
+### Pārlādējiet lapu
+Jūs varat nospiest <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) vai <kbd>CMD+R</kbd> (MacOS) uz tastatūras, nevis meklēt atsvaidzināšanas pogu.
 
-### Are you using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### Vai jūs izmantojat lietotni Discord?
+PreMiD **nedarbojas** uz Discord pārlūkprogrammas versijas, jums ir jāuzstāda lietotne [šeit](https://discord.com/download).
 
-### Make sure that you have enabled Discord Game Activity in settings
-**User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
+### Pārliecināties, vai iestatījumos esat iespējojis Discord Spēļu Aktivitāti
+**Lietotaja Iestatījumi** > **Spēļu Aktivitāte** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Be sure Discord is running NOT as administrator
-Really important. Discord RPC will not work if you run Discord as an administrator.
+### Pārliecināties, ka Discord NEIET, kā administrators
+Ļoti svarīgi. Discord RPC nedarbosies, ja Discord palaidīsiet, kā administratoru.
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### Vai izmantojat presence ar iestatījumiem?
+Daudzas presences (tostarp `Twitch` un `SoundCloud`) tiek ietekmēti dēļ paplašinājuma kļūdas. Šīs kļūdas dēļ paplašinājums pareizi neuztver iestatījumu noklusējuma vērtības.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+Lai to atrisinātu, viss, kas jums ir jāizdara, ir jāpārslēdz visaugstāko iestatījumu: ![presencesettings.gif](/presencesettings.gif)
 
-### Restart your browser
-<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) does a good job too. (You have to start your browser again obviously.)
+### Restartējiet savu pārlūkprogrammu
+<kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) vai <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) dara arī labu darbu. (Jums, protams, arī jāpalaiž pārlūkprogrammu pa jaunu.)
 
-### Restart PreMiD (Application)
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+### Restartējiet PreMiD (Lietotni)
+![quit.png](/quit.png) Pēc tam jums ir jārestartē PreMiD.
 
-### Reload/restart Discord
-Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
+### Pārlādējiet/restartējiet Discord
+Nospiediet <kbd>CTRL+R</kbd> (Windows) vai <kbd>CMD+R</kbd> (MacOS) uz tastatūras vai restartējiet Discord manuāli.
 
-### Check if you have antivirus or firewall running on your computer
-Sometimes antivirus programs and firewalls are blocking applications which are creating/hosting servers or just connecting to the internet. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
+### Pārbaudiet, vai datorā darbojas antivīruss vai ugunsmūris
+Dažreiz pretvīrusu programmas un ugunsmūri bloķē lietotnes, kuras veido/mitina serverus vai vienkārši izveido savienojumu ar internetu. Mēs izmantojam lokālo serveri, lai saņemtu un pārsūtītu datus starp mūsu lietotni un paplašinājumu, tādēļ, ja jūs bloķēsiet lietotnes spēju pārsūtīt datus, visticamāk, nevarēsiet izmantot PreMiD.
 
-### Disable your addons
-Disable all your addons and see if it works. If yes, try to enable your addons step-by-step and tell us which addon broke PreMiD.
+### Atspējojiet savus paplašinājumus
+Atspējojiet visus savus paplašinājumus un pārbaudiet, vai tas darbojas. Ja jā, mēģiniet soli pa solim iespējot savus paplašinājumus un pastāstiet mums, kurš paplašinājums traucēja PreMiD.
 
-### Restarting your computer
-I hope you know how to restart a computer.
+### Restartējiet datoru
+Es ceru, ka jūs zināt, kā restartēt datoru.
 
-### Reinstalling PreMiD
-Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
+### Pārinstalējat PreMiD
+Dažreiz failos ir kaut kas nepareizs... Tutorials for the installation can be found [here](/install).
 
 ### Manual removal
 Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
@@ -85,7 +85,7 @@ Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) k
 
 <a name="linux"></a>
 
-# Linux troubleshooting
+# Linux problēmu novēršana
 ### Ubuntu/Debian based distros
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
@@ -114,7 +114,7 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
+# MacOS problēmu novēršana
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
