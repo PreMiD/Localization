@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Pārliecināties, vai esat uzstādījis paplašinājumu **un** aplikāciju! 
+> Pārliecinieties, vai esat uzstādījis paplašinājumu **un** aplikāciju! 
 > 
 > {.is-warning}
 
@@ -26,10 +26,10 @@ Jūs varat nospiest <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) vai <kbd>CMD+R</kb
 ### Vai jūs izmantojat lietotni Discord?
 PreMiD **nedarbojas** uz Discord pārlūkprogrammas versijas, jums ir jāuzstāda lietotne [šeit](https://discord.com/download).
 
-### Pārliecināties, vai iestatījumos esat iespējojis Discord Spēļu Aktivitāti
+### Pārliecinieties, vai iestatījumos esat iespējojis Discord Spēļu Aktivitāti
 **Lietotaja Iestatījumi** > **Spēļu Aktivitāte** ![gameactivity_edited.png](/gameactivity_edited.png)
 
-### Pārliecināties, ka Discord NEIET, kā administrators
+### Pārliecinieties, ka Discord NEIET, kā administrators
 Ļoti svarīgi. Discord RPC nedarbosies, ja Discord palaidīsiet, kā administratoru.
 
 ### Vai izmantojat presence ar iestatījumiem?
@@ -56,45 +56,45 @@ Atspējojiet visus savus paplašinājumus un pārbaudiet, vai tas darbojas. Ja j
 Es ceru, ka jūs zināt, kā restartēt datoru.
 
 ### Pārinstalējat PreMiD
-Dažreiz failos ir kaut kas nepareizs... Tutorials for the installation can be found [here](/install).
+Dažreiz failos ir kaut kas nepareizs... Uzstādīšanas pamācības var atrast [šeit](/install).
 
-### Manual removal
-Windows:    `C:\Users\USER\AppData\Roaming\`` and delete the folder`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`and delete the folder`PreMiD``.
+### Manuālā noņemšana
+Windows:    `C:\Users\USER\AppData\Roaming\`` un izdzēšiet mapi`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`un izdzēsiet mapi`PreMiD``.
 
-### McAfee detected PreMiD as virus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+### McAfee atklāja PreMiD kā vīrusu (Windows)
+Šis ir nepatiess pozitīvs no Mcafee, un mēs esam viņiem ziņojuši par šo problēmu, pagaidām jūs varat izslēgt PreMiD no skenēšanas, veicot šādas darbības:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
+> Ja nejūtaties pārliecināts veicot šīs darbības, droši izveidojiet biļeti [#support](https://discord.premid.app/) un viens no mūsu Atbalsta Aģentiem varēs tev palīdzēt! 
 > 
 > {.is-warning}
 
-1. Open the McAfee application and click the settings icon in the top right. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
-2. Click "Quarantined Items" (Second from the top).
-3. Expand it, and click the `>` icon before an item with the name "settings.dat".
-4. Make sure the path includes "AppData\Local\Temp\PreMiD", if so select it and press restore. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
-5. After it is restored you can close the "Quarantined Items" popup, then press the settings icon again in the top right.
-6. Click "Real-Time Scanning" (Third from the top).
-7. Expand it and click "Add file".
-8. Type "%appdata%" in the URL bar of the file manager and press Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
-9. Open the "PreMiD" folder and select the "PreMiD.exe" file and click open. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
-10. McAfee should now ignore our file, just launch our application and you should be good to go.
+1. Atveriet lietotni McAfee un augšējā labajā stūrī noklikšķiniet uz iestatījumu ikonas. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
+2. Spied uz "Karantīnā ievietotie vienumi" (Otrais no augšas).
+3. Izvērsiet to un uzspiediet uz `>` ikonas pirms vienuma ar nosaukumu "settings.dat".
+4. Pārliecinieties, vai ceļā ir iekļauts "AppData\Local\Temp\PreMiD", ja tā, atlasiet to un nospiediet atjaunot. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+5. Pēc tā atjaunošanas varat aizvērt uznirstošo logu "Quarantined Items", pēc tam augšējā labajā stūrī vēlreiz nospiediet iestatījumu ikonu.
+6. Uzspiediet uz "Real-Time Scanning" (trešais no augšas).
+7. Izvērsiet to un uzspiediet uz "Add file".
+8. Failu pārvaldnieka URL joslā ierakstiet "%appdata%" un nospiediet Enter. <img src="https://i.imgur.com/2bchwLe.png" width="500px" style="max-width:100%;" />
+9. Atveriet "PreMiD" mapi un atlasiet "PreMiD.exe" failu un uzspiediet uz atvērt. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
+10. McAfee tagad vajadzētu ignorēt mūsu failu, vienkārši palaidiet mūsu lietotni un jums visam vajadzētu iet labi.
 
-### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+### PreMiD statuss kļūdains Discord!
+Neuztraucies. Nospiediet taustiņus <kbd>CTRL+R</kbd> (Windows) vai <kbd>CMD+R</kbd> (MacOS) kamēr fokusējat uz jūsu Discord logu, lai to atkārtoti ielādētu.
 
 <a name="linux"></a>
 
 # Linux problēmu novēršana
-### Ubuntu/Debian based distros
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+### Ubuntu/Debian balstītas distribūcijas
+Ja Discord esat lejupielādējis izmantojot Snapcraft, RPC nedarbosies. Jums ir jāuzstāda Snapcraft versija, izpildot `sudo snap remove discord` terminālā. Lejupielādējiet **[Discord Linux būvējumu](https://discordapp.com/api/download?platform=linux)**(**[vai Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), pēc tam pārejiet uz direktoriju, kurā lejupielādējāt Discord (parasti `$HOME/Downloads`), pēc tam uzstādiet pakotni, izmantojot `sudo dpkg -i discord-*.dev`. Ja AppImage nedarbojas, apsveriet iespēju pārbaudīt citas mūsu paketes, izmantojot **[šo saiti](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+### Arch Linux balstītas distribūcijas
+Arch Linux balstītām distribūcijām vajadzētu izmantot AUR (Arch User Repository) Paketi, kuras nosaukums ir <code>premid</code> vai <code>premid-git</code> (<em x-id="3">UZMANĪBU: Šis repozitorijs ir izveidots, izmantojot avota kodu.</em>). Ja nevēlaties instalēt AUR pārvaldnieku (yay utt.), varat apskatīt mūsu AppImage, kuru var lejupielādēt no mūsu <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repozitorija</a></strong>.
+<em x-id="3">Uzmanību: paketi <strong x-id="1">AUR</strong> repozitorijā nevis mēs uzturam (kā PreMiD organizācija), bet gan citi cilvēki.</em>
 
-### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+### Portu saistīšana
+Jums būtu jāzina, ka <strong x-id="1">PreMiD</strong> saista pats sevi ar portu <strong x-id="1">3020</strong>. Tas ir nepieciešams, lai Paplašinājums un Lietotne varētu komunicēt. Ja <strong x-id="1">PreMiD</strong> parāda kļūdu par šo portu, jums jāpārbauda, vai kaut kas ir saistīts ar 3020 portu, palaižot <code>sudo lsof -i:3020</code> vai <code>sudo netstat -tnlp | grep :3020</code> jūsu terminālā. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
 
 ### PreMiD's AppImage doesn't launch at login
 As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
