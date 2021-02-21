@@ -59,7 +59,7 @@ Presence หลายอย่าง (พวก `Twitch` เเละ `SoundClon
 บางครั้งมีบางอย่างผิดปกติกับไฟล์ ตัวอย่างสำหรับการติดตั้งดูได้[ที่นี่](/install)
 
 ### ลบข้อมูลด้วยตัวเอง
-สำหรับระบบปฎิบัติการ Windows: ไปที่    ` C:\Users\USER\AppData\Roaming\`` ` และลบโฟลเดอร์ `PreMiD` ออกไป <br>ระบบปฎิบัติการ MacOS: ไปที่ `~/users/USER/~Library/Application Support/<code> และลบโฟลเดอร์ `PreMiD ออกไป
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee ตรวจจับ PreMiD เป็นไวรัส (Windows)
 นี้คือข้อมูลที่ผิดของ McAfee ทางเราได้เเจ้งปัญหานี้ไปเเล้ว สําหรับตอนนี้คุณสามารถรัน PreMiD จากการสเเกนโดยการทําขั้นตอนต่อไปนี้

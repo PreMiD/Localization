@@ -59,8 +59,7 @@ Tikiuosi žinote kaip perkrauti savo kompiuterį.
 Taipogi kartais įvyksta problemų su PreMiD failais... Įdiegimo pamokos gali būti randamos [čia](/install).
 
 ### Savarankiškas ištrynimas
-Windows:    `C:\Users\Vartotojas\AppData\Roaming\`` ir ištrinkite aplankalą `PreMiD`.
-MacOS:`~/users/Vartotojas/~Library/Application Support/`ir ištrinkite aplankalą `PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:

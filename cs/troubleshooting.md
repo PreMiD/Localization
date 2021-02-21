@@ -59,8 +59,7 @@ Doufám, že víte, jak restartovat počítač.
 Někdy je něco se soubory špatně... Návody pro instalaci naleznete [zde](/install).
 
 ### Ruční odstranění
-Windows:    `C:\Users\UZIVATEL\AppData\Roaming\`` a smažte složku`PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`a smažte složku`PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee detekoval PreMiD jako virus (na Windows)
 Ze strany McAfee je to chybné vyhodnocení a my jsme je o tom informovali. Prozatím můžete vyloučit PreMiD ze skenování pomocí následujících kroků:

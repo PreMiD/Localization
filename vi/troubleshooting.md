@@ -59,8 +59,7 @@ Tôi mong là bạn biết cách khởi động lại máy tính.
 Đôi khi các tệp có vấn đề... Hướng dẫn cài đặt có thể được tìm thấy [tại đây](/install).
 
 ### Gỡ cài đặt thủ công
-Hệ điều hành Windows:    `C:\Users\USER\AppData\Roaming\`` và xoá thư mục `PreMiD`.
-MacOS:`~/users/USER/~Library/Application Support/`và xóa thư mục `PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee phát hiện PreMiD là vi-rút (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:

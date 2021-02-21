@@ -59,8 +59,7 @@ Included on this page:
 في بعض الأحيان يكون شيء خاطئ في الملفات... يمكنك العثور على طريقة التثبيت [هنا](/install).
 
 ### إزالة يدوياً
-ويندوز: `C:\Users\USER\AppData\Roaming\`` وإحذف الملف `PreMiD`.
-MacOS: `~/users/USER/~Library/Application Support/` وإحذف الملف `PreMiD``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### تم تحديد PreMiD على إنه فيروس من قبل McAfee (ويندوز)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:

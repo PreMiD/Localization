@@ -59,8 +59,7 @@ PreMiD는 디스코드 브라우저 버전에선 작동하지 **않습니다**, 
 간혹 파일에 문제가 있는 경우가 있어요... 설치와 관련된 도움말은 [여기](/install)에서 찾아보실 수 있어요.
 
 ### 수동 제거
-Windows: `C:\Users\USER\AppData\Roaming\`` 에서 `PreMiD` 를 지우세요.
-MacOS:`~/users/USER/~Library/Application Support/` 에서 `PreMiD 를 지우세요``.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee 백신이 PreMiD를 바이러스로 오탐하는 경우 (윈도우)
 이 문제는 McAfee 의 오탐이며, 우리는 해당 이슈를 이미 제출하였습니다. 당장은 밑의 방법을 통하여 PreMiD 를 McAfee 의 탐지에서 제외할 수 있어요.
