@@ -86,7 +86,7 @@ Ná bíodh imní ort. Ná bíodh imní ort. Brúigh an eochaircheap <kbd>CTRL+R<
 <a name="linux"></a>
 
 # Fabhtcheartú Linux
-### Ubuntu/Debian based distros
+### Distros bunaithe ar Ubuntu/Debian
 If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
 ### Arch Linux based distros
@@ -109,8 +109,8 @@ As we stated in our **Linux repository**, AppImage can't be launched at login. Y
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Sábháil comhad agus chmod é mar inrite `sudo chmod a+x /etc/rc.local`.
+4. Atosaigh do ríomhaire agus ba chóir PreMiD AppImage a sheoladh ag logáil isteach.
 
 <a name="macos"></a>
 
