@@ -75,6 +75,10 @@
 		"message": "Hızlı destek",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Bir şeyler aksatılıyor, size tonlarca hata gönderiyor veya basitçe çalışmıyor mu? Discord sunucumuzda bu sorunlardan kurtulmanıza yardımcı olacağız, ayrıca sorunun en kısa sürede çözülmesini sağlayacak kendi destek sistemimizi oluşturduk.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Discord'umuza Katıl",
 		"description": "Features section button"
