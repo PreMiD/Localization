@@ -47,6 +47,10 @@
 		"message": "Viendo los ajustes{0}del servidor: {1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
 	},
+	"discord.invite": {
+		"message": "Viendo enlace de invitación:{0}{1} (Servidor: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
 	"discord.browseThrough": {
 		"message": "Buscando a través de",
 		"description": "The first part of the next 17 strings"
