@@ -75,6 +75,10 @@
 		"message": "Supporto veloce",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "C'è qualcosa che è glitchato, ti manda tanti errori o semplicemente non funziona? Ti aiuteremo a risolvere questi problemi sul nostro server Discord, abbiamo anche creato il nostro sistema di supporto personale che assicurerà che il problema venga risolto il più presto possibile.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Unisciti al nostro Discord",
 		"description": "Features section button"

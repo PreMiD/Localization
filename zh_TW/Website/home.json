@@ -75,6 +75,10 @@
 		"message": "快速的客服",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "一些奇怪的事情發生了，給你一堆錯誤信息或單純只是無法運作? 我們在Discord伺服器將給予你協助，我們同時還創立了獨特的協助系統，它將保證你的問題能盡快解決。",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "加入我們的 Discord 服務器",
 		"description": "Features section button"

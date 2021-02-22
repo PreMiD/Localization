@@ -75,6 +75,10 @@
 		"message": "Snelle ondersteuning",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Is er iets kapot, krijg je een heleboel foutmeldingen of werkt het gewoon niet? We verhelpen deze problemen graag in onze Discord-server. We hebben daar ons eigen ondersteuningssysteem dat ervoor zorgt dat je probleem zo snel mogelijk opgelost wordt.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Word lid van onze Discord",
 		"description": "Features section button"

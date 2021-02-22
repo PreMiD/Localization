@@ -75,6 +75,10 @@
 		"message": "素早いサポート",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "何かがバグってたり、大量のエラーが出たりしたら…？\nDiscordサーバーで問題を解決する手助けをします。",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Discordに参加する",
 		"description": "Features section button"

@@ -75,6 +75,10 @@
 		"message": "Ātrais atbalsts",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Kaut kas nepareizi darbojas, sūta tev daudz kļūdas vai vienkārši neiet? Mēs tev palīdzēsim atbrīvoties no šīm problēmām mūsu Discord serverī, mēs arī izveidojām mūsu pašu atbalsta sistēmu, kas pārliecināsies, ka tava problēma tiks atrisināta cik ātri iespējams.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Pievienojies mūsu Discord",
 		"description": "Features section button"
