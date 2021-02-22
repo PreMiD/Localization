@@ -106,5 +106,9 @@
 	"general.buttonWatchVideo": {
 		"message": "動画を見る",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "チャンネルを見る",
+		"description": "Used as the title for the button in Discord."
 	}
 }
