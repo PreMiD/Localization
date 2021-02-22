@@ -75,6 +75,10 @@
 		"message": "دعم سريع",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "شيء معطل، يرسل لك أطنان من الأخطاء أو ببساطة لا يعمل؟ سوف نساعدك على التخلص من هذه المشكلات على سيرفر ديسكورد الخاص بنا، كما أننا أنشأنا نظام الدعم الخاص بنا والذي سيتأكد من حل مشكلتك بأسرع ما يمكن.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "انضم إلى Discord الخاص بنا",
 		"description": "Features section button"
