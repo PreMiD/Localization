@@ -76,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Something is glitched, sending you tons of errors or simply not working? We will help you to get rid of those issues on our Discord server, we also created our very own support system that will make sure your issue get's resolved as soon as possible.",
+		"message": "Something is glitched, sending you tons of errors or simply not working? We will help you get rid of those issues on our Discord server. We also created our very own support system that will make sure your issue gets resolved as soon as possible.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
