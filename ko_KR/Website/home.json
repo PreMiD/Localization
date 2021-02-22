@@ -75,10 +75,6 @@
 		"message": "빠른 지원",
 		"description": "Features section subheading"
 	},
-	"home.features.quickSupport.description": {
-		"message": "무언가 문제가 있어, 프로그램이 작동하지 않거나 많은 오류가 발생하나요? 우리의 Discord 서버에서 이런 문제를 해결할 수 있도록 도와드릴 수 있으며, 또한 문제가 최대한 빨리 해결될 수 있도록 자체 지원 시스템을 구축하였습니다.",
-		"description": "Features section description"
-	},
 	"home.features.quickSupport.button": {
 		"message": "우리의 디스코드에 참여하세요",
 		"description": "Features section button"
