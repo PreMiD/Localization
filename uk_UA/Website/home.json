@@ -75,6 +75,10 @@
 		"message": "Швидка підтримка",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "Щось є зламаним, надсилаючи вам тони помилок або просто не працює? Ми допоможемо вам позбутися цих помилок на нашому Discord сервері, ми також створили нашу власну систему підтримки, це дозволить вирішити вашу проблему якнайшвидше.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Приєднуйтеся до нашого Discord",
 		"description": "Features section button"
