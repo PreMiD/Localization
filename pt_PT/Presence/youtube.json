@@ -31,6 +31,10 @@
         "message": "A ver as tendências",
         "description": ""
     },
+    "youtube.browsingThrough": {
+        "message": "A ver",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.subscriptions": {
         "message": "as suas subscrições",
         "description": "Part two of \"Browsing through\""
@@ -51,8 +55,40 @@
         "message": "A enviar algo...",
         "description": ""
     },
+    "youtube.viewAllPlaylist": {
+        "message": "A ver as suas playlists",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "A ver os seus eventos ao vivo",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "A ver o seu painel em tempo real",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "A ver a sua biblioteca de som",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "A ver os seus vídeos",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "A editar o vídeo",
+        "description": ""
+    },
     "youtube.studio.videoAnalytics": {
         "message": "A ver as estatísticas do vídeo",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "A ver os comentários do vídeo",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "A ver as traduções do vídeo",
         "description": ""
     },
     "youtube.studio.viewTheir": {
@@ -74,5 +110,9 @@
     "youtube.studio.artistPage": {
         "message": "a sua página de artista",
         "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "A ver o seu painel",
+        "description": ""
     }
 }
