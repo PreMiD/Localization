@@ -75,10 +75,6 @@
 		"message": "การช่วยเหลือที่รวดเร็ว",
 		"description": "Features section subheading"
 	},
-	"home.features.quickSupport.description": {
-		"message": "มีบางอย่างพังเหรอ? เราจะช่วยคุณในการแก้ปัญหาเหล่านั้นผ่านทางเซิร์ฟเวอร์ Discord ของเรา นอกจากนี้ เราได้สร้างระบบรายงานปัญหาที่จะทำให้คุณมั่นใจได้ว่าปัญหาเหล่านั้นจะถูกแก้ไขอย่างรวดเร็วที่สุด",
-		"description": "Features section description"
-	},
 	"home.features.quickSupport.button": {
 		"message": "มาร่วม Discord ของเรา",
 		"description": "Features section button"

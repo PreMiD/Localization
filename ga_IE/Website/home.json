@@ -75,10 +75,6 @@
 		"message": "Tacaíocht thapa",
 		"description": "Features section subheading"
 	},
-	"home.features.quickSupport.description": {
-		"message": "Tá rud éigin briste, ag cur tonna earráidí chugat nó gan a bheith ag obair? Cabhróimid leat fáil réidh leis na saincheisteanna sin ar ár bhfreastalaí Discord, chruthaíomar ár gcóras tacaíochta féin freisin a chinnteoidh go réiteofar do shaincheist a luaithe is féidir.",
-		"description": "Features section description"
-	},
 	"home.features.quickSupport.button": {
 		"message": "Tar isteach inár Discord",
 		"description": "Features section button"
