@@ -51,6 +51,10 @@
         "message": "as suas compras",
         "description": "Part two of \"Browsing through\""
     },
+    "youtube.reportHistory": {
+        "message": "A ver o seu histórico de denúncias",
+        "description": ""
+    },
     "youtube.upload": {
         "message": "A enviar algo...",
         "description": ""
@@ -88,7 +92,7 @@
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "A ver as traduções do vídeo",
+        "message": "A ver as legendas do vídeo",
         "description": ""
     },
     "youtube.studio.viewTheir": {
