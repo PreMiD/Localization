@@ -1,11 +1,51 @@
 {
+	"discord.channelReading": {
+		"message": "Leyendo en el canal:{0}{1} (Servidor: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Escribiendo en el canal:{0}{1} (Servidor: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "Leyendo MDs de:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Escribiendo MDs a:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Leyendo MDs del{0}grupo: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Escribiendo MDs en{0}grupo: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
 	"discord.friends": {
 		"message": "Revisando sus amigos...",
 		"description": ""
 	},
+	"discord.nitro": {
+		"message": "Leyendo sobre Nitro...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "En llamada con:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "En llamada en:{0}{1} (Servidor: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
 	"discord.settings": {
 		"message": "Revisando sus configuraciones...",
 		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Viendo los ajustes{0}del servidor: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
 	},
 	"discord.browseThrough": {
 		"message": "Buscando a través de",
