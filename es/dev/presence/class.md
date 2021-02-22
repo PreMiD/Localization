@@ -328,7 +328,7 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
     </tr>
         <tr>
       <td style="text-align:left">buttons</td>
-      <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
+      <td style="text-align:left">Array de botones, máximo 2, label es el texto del botón y url el enlace.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>
@@ -337,20 +337,20 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
-  largeImageKey: "service_logo",
-  smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  details: "Mi título",
+  state: "Mi descripción",
+  largeImageKey: "logo_servicio",
+  smallImageKey: "icono_servicio_pequño",
+  smallImageText: "Has puesto el cursor sobre mí, ¿ahora que?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734
   buttons: [
     {
-            label: "Test button1",
+            label: "Botón de prueba1",
             url: "https://premid.app/"
         },
         {
-            label: "Test button2",
+            label: "Botón de prueba2",
             url: "https://premid.app/contributors"
         }
     ]
