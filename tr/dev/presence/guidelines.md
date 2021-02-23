@@ -1,16 +1,23 @@
 ---
 title: Servis Kılavuzu
-description: Her geliştiricinin, servisinin eklenebilmesi için takip etmeleri gereken kurallar.
+description: Rules that all presence developers must follow to have their presence added.
 published: true
-date: 2021-02-17T14:50:24.048Z
+date: 2021-02-23T01:08:58.632Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
+<div align="center">
+    <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
+    <h3 style="font-size: 2rem; margin-bottom: 0">Servis Kılavuzu</h3>
+    <h4 style="margin-top: 0">Revision 3</h4>
+    <br />
+</div>
+
 # Guidelines
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rule sets will keep us and our users from running into issues.
+When publishing Presences to this GitHub, we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Oluşturma
 
@@ -24,15 +31,18 @@ Servis geliştirmenin genel kuralları aşağıdaki gibidir:
 - Servisin alan adı en az 2 aylık olmalıdır.
 - Tarayıcılara yerleşik sayfalar için yapılan servislere izin verilmemektedir (örneğin, Chrome Web Mağazası, `chrome://`, `about:` sayfaları gibi). Bu sayfalara kod enjekte edebilmek gelişmiş bir ayar aktifleştirmeyi gerektirdiği ve tarayıcılara zarar verebileceğinden dolayı **yasaktır**.
 - Yalnızca tek bir sayfa için desteğe sahip varlıklara izin **verilmeyecektir**, çünkü diğer sayfalar için bozuk görünebilirler (örneğin ana sayfa), politika ve iletişim sayfaları (sık kullanılmayan içerik) veya sitelerin diğer ilgisiz içerikleri. (ör. viki sayfaları)
-- Çevrim içi radyoların servislerinin eklenebilmesi için haftalık 100 ve aynı anda 15 dinleyicisi olmalıdır.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
 - Düşük kaliteli (veya tek bir işlev gerçekleştiren) servislere **izin verilmemektedir**. Örneğin sadece sitenin simgesini ve hiçbir zaman değişmeyen bir yazı göstermek.)
-- ` dist ` klasörü, ` presence.ts ` dosyası, ` iframe.ts ` dosyası ve ` metadata.json ` dosyası zorunludur sonuç aşağıdaki şemada temsil edilenler olacaktır:
+- With the `buttons` release, we require some guidelines for them:
+  - Redirects to main page are prohibited.
+  - Promoting websites by them is prohibited.
+  - They can't show addinational data when you can't show them in `state` or `details`.
+- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
 presence
 ├── dist
-│   ├── metadata.json
-│   └── presence.js
+│   └── metadata.json
 ├── presence.ts
 └── tsconfig.json
 ```
@@ -42,95 +52,86 @@ veya eğer `iframe.ts` kullanıyorsanız:
 ```bash
 presence
 ├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
+│   └── metadata.json
 ├── presence.ts
 ├── iframe.ts
 └── tsconfig.json
 ```
 
-## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
+## [**metadata.json**](/dev/presence/metadata)
 
-> `metadata` dosyasınızın doğruluğunu kontrol ettirip geliştiricilere kolaylık sağlamak amacıyla sizlere bir şema sunuyoruz. Bu tamamen isteğe bağlıdır ve inceleme işlemi sırasında gerekli değildir. 
-> 
-> {.is-info}
+> `metadata` dosyasınızın doğruluğunu kontrol ettirip geliştiricilere kolaylık sağlamak amacıyla sizlere bir şema sunuyoruz. Bu tamamen isteğe bağlıdır ve inceleme işlemi sırasında gerekli değildir.
 
-> `metadata` dosyanızı burada gösterildiği şekilde organize etmeniz şiddetle tavsiye edilir. Bu dosyadaki servis isimleri, açıklamalar, etiketler ve ayarlar yazım kurallarına uygun olarak yazılmalıdır. Düzgün bir şekilde biçimlendirmemiş hiçbir şey kabul edilmeyecektir. 
-> 
-> {.is-warning}
+> `metadata` dosyanızı burada gösterildiği şekilde organize etmeniz şiddetle tavsiye edilir. Bu dosyadaki servis isimleri, açıklamalar, etiketler ve ayarlar yazım kurallarına uygun olarak yazılmalıdır. Düzgün bir şekilde biçimlendirmemiş hiçbir şey kabul edilmeyecektir.
 
-> Çıplaklık içeren sitelerin servisleri **mutlaka** `nsfw` etiketi içermelidir, ayrıca servisin resmi veya ekran görüntüsü bu içerikleri kesinlikle **barındırmamalıdır**. 
-> 
-> {.is-warning}
+> Çıplaklık içeren sitelerin servisleri **mutlaka** `nsfw` etiketi içermelidir, ayrıca servisin resmi veya ekran görüntüsü bu içerikleri kesinlikle **barındırmamalıdır**.
 
 Her servisin kendine ait açıklayıcı bir `metadata.json` dosyası vardır, bu dosya sistem tarafından okunarak ayarlar yapılır. Bu dosyanın bir örneği:
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "KULLANICI ADI",
+    "name": "USER",
     "id": "ID"
   },
-  "contributors": [{
-    "name": "KULLANICI ADI",
-    "id": "ID"
-  }],
-  "service": "SERVİS İSMİ",
-  "altnames": ["ALTERNATİF SERVİS İSMİ"],
+  "contributors": [
+    {
+      "name": "USER",
+      "id": "ID"
+    }
+  ],
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "AÇIKLAMA",
-    "tr": "TÜRKÇE AÇIKLAMA"
+    "en": "DESCRIPTION"
   },
-  "url": "LİNK",
-  "version": "SÜRÜM",
-  "logo": "LOGO LİNKİ",
-  "thumbnail": "KÜÇÜK RESİM LİNKİ",
+  "url": "URL",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#HEX000",
-  "tags": ["ETİKET1", "ETİKET2"],
-  "category": "KATEGORİ",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
+  "readLogs": false,
   "settings": [
-        { 
-            "id": "ID",
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
-            "value": true
-        },
-        {
-            "id": "ID",
-            "if": {
-                "ID": true
-            },
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
-            "value": "\"%şarkı%\", %sanatçı%",
-            "placeholder": "%şarkı% ve %sanatçı% kullanabilirsiniz"
-        },
-        {
-            "id": "ID",
-            "title": "BAŞLIK",
-            "icon": "FONTAWESOME FREE SİMGESİ",
-            "value": 0,
-            "values": ["1", "2", "vb."]
-        }
-    ]
-}
+    {
+      "id": "multiLanguage",
+      "multiLanguage": true
+    }
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": true
+    },
+    {
+      "id": "ID",
+      "if": {
+        "ID": true
+      },
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
+    },
+    {
+      "id": "ID",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME FREE ICON",
+      "value": 0,
+      "values": ["1", "2", "etc."]
     }
   ]
 }
 ```
 
-> Eğer bu alanlardan biri [dokümanda](https://docs.premid.app/en/dev/presence/metadata) opsiyonel olarak işaretlenmişse ve değeriniz, varsayılan değer ile aynıysa, `metadata` dosyanızda bu değeri belirtmeyin (örneğin, iframe kullanmayan servislerin `iframe` alanına sahip olmaması gerekir 
-> 
-> {.is-warning}
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (örneğin, iframe kullanmayan servislerin `iframe` alanına sahip olmaması gerekir
 
-> `metadata` dosyasında ki tüm görseller `i.imgur.com` da barındırılmak zorundadır. Sitenin kendisinde barındırılan resimlerin kullanımına **izin verilmemektedir**, çünkü bu resimler istemsiz de olsa bazen değişiklik gösterebilir. 
-> 
-> {.is-warning}
+> `metadata` dosyasında ki tüm görseller `i.imgur.com` da barındırılmak zorundadır. Sitenin kendisinde barındırılan resimlerin kullanımına **izin verilmemektedir**, çünkü bu resimler istemsiz de olsa bazen değişiklik gösterebilir.
 
 Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
@@ -142,7 +143,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 - Buradaki ID, Discord'daki kullanıcı ID'niz **olmalıdır**. ID'nizi öğrenmek için açmanız gerek geliştirici ayarlarını nasıl açacağınızı [buraya](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) tıklayarak öğrenebilirsiniz. _Lütfen bunu sadece servisiniz için kullanılacak olan uygulama ID'si ile **karıştırmayın**._
 
-### **`contributors`**
+### **`*contributors`**
 
 - Kendinizi bir katkı sağlayan kişi olarak eklemeyin, eğer servisi yapmanızda kimse yardımcı olmadıysa, bu alana kimseyi eklemeyin.
 
@@ -150,10 +151,11 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 - Servisin ismi, servisin içinde bulunduğu klasörle aynı isimde **olmalıdır**. Örneğin, eğer servisiniz `/website/Y/YouTube` yolunda bulunuyorsa, servisinizin ismi `YouTube` olmalıdır.
 - Eğer site, adresini resmi ismi olarak kullanmıyorsa servis ismi olarak sitenin bağlantı adresini **kullanamazsınız**. Eğer isim tanımlayıcı değilse ve belirsiz sayılabilecek ise, bağlantı adresini kullanmak **gereklidir**. (örneğin, `youtube.com` kabul edilmez iken, `YouTube` kabul edilir çünkü bu resmi ve tanımlayıcı bir isimdir. `Top` tanımlayıcı bir isim olmadığından dolayı `top.gg` bağlantısını kullanmak **gereklidir**).
+- If service has some explicit branding rules of their name, you should follow them.
 
-### **`altnames`**
+### **`*altnames`**
 
-- Bunu **sadece** bir internet sitesinin resmi olarak birden fazla ismi olduğunda (örneğin, Pokémon ve 포켓몬스터) veya servis isminin içerisinde özel karekterlerin olduğu servislerde aramayı kolaylaştırmak için (örneğin, Pokémon ve Pokemon) kullanın. *Kısaltılmış* servis isimleri `tags` alanının altına yazılmalıdır.
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
 
 ### **`description`**
 
@@ -193,131 +195,138 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ### **`category`**
 
-- Seçtiğiniz kategori, [bu doküman yazısında](https://docs.premid.app/en/dev/presence/metadata#presence-categories) belirtilen kategorilerden birisi **olmalıdır**.
+- The category **must** be one of the following listed on the [documentation](/dev/presence/metadata#presence-categories).
 - Servis, servisin sitesinin içeriğine uyan bir kategori kullanmalıdır. (örneğin, servisin sitesi anime ile alakalı değilse `anime` kullanamazsınız).
 
-### **`regExp`** <br /> **`iFrameRegExp`**
+### **`*regExp`** <br /> **`*iFrameRegExp`**
 
-- Regex verisi **mutlaka** geçerli olmalıdır. Lütfen buraya yazdığınız değeri, [doküman sayfamızda](https://docs.premid.app/en/dev/presence/metadata#testing) belirtilen araçlarla deneyip çalıştığına emin olun.
+- Regex verisi **mutlaka** geçerli olmalıdır. Please test your expressions with the tools listed on the [documentation](/dev/presence/metadata#testing).
+
+### **`readLogs`**
+
+- Must be `boolean` value (e.g. `true` or `false`).
+- Enables logs for your presence.
+
+### **`warning`**
+
+- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
+- Example of presence using this metadata variable is `VLC`.
 
 ### **`settings`**
 
-- Eğer bir değişken belirlerseniz (örneğin, `%sarki% -%sanatci%`), bu değişkenleri yüzde işaretleri arasına almalısınız. `%var`, `var%`, ya da `%%var%%` şeklinde yazılan değişkenlerin hiçbiri, standartlar gereği kabul edilmeyecektir.
-- Ayarların adlarının hepsi büyük harfle **olmamalıdır**. Örneğin, `GÖZ ATMA DURUMUNU GÖSTER` kabul **edilmeyecektir**; fakat, `Göz Atma Durumunu Göster` ya da `Göz atma durumunu göster` kabul edilecektir.
-- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
+- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
+- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- If you are using multiLanguage option you should know:
+  - **Bolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
+  - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
+  - **Array<String>** type value (e.g. `["youtube.json", "vlive.json"]`) will specify name of files that you want get strings from.
 
-## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
+## [**presence.ts**](/dev/presence/class)
 
-> Kodunuz okunabilir ve anlaşılır **olmalıdır**, yazım hatalarına  dikkat etmeli ve kurallara uyulmalıdır. Sitede bulunan yazım hataları göz ardı edilebilir. 
-> 
-> {.is-warning}
+> Kodunuz okunabilir ve anlaşılır **olmalıdır**, yazım hatalarına  dikkat etmeli ve kurallara uyulmalıdır. Sitede bulunan yazım hataları göz ardı edilebilir.
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. Aşağıda bir kaç öneri görülebilir. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
-> 
-> {.is-info}
+> Each presence follows a strict linting ruleset which will be checked during the review process. Aşağıda bir kaç öneri görülebilir. [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Recommendations](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
 
 `presence.ts` dosyanızı yazarken izlemeniz gereken kuralların listesi:
 
-- `Presence` sınıfının tanımını, nadir görülen hatalardan kurtulmak için, **her zaman** herhangi bir değişkenden önce belirtin; bu bir kural olmadığı için ileride bu listeden kaldırılabilir.
-- [Eklentinin içerisinde bulunan fonksiyonlar](https://docs.premid.app/dev/presence#files-explained) ile yapabileceğiniz şeyi kendi fonksiyonlarınızı yazarak **yapmayın**; bu şekilde eklenti ile iletişimde sorun çekmezsiniz. Dokümanda görmediğiniz herhangi bir fonksiyonu kendiniz yazmakta özgürsünüz.
-- Servislere, yapıldığı internet sitesinin ana dilinin eklenmemesi **yasaktır**, mesela YouTube'un Türkçe ve İspanyolca kodlanması ancak İngilizceyi desteklememesi gibi
-- `smallImageKey` ve `smallImageText` alanları, ek/ikincil bilgiler koyabileceğiniz (oynatılıyor/durduruldu gibi) kısımlardır. Burada bir Discord hesabının reklamını yapamaz, PreMiD ile alakasız herhangi bir şey kullanamazsınız.
-- `localStorage`'a erişmenize **izin verilmemektedir**.
-- Çerezlerden bilgi alışverişi yaparken, çerezlerin başına her zaman `PMD_` ekini koyun.
-- `premid.app` ya da servisin sitesinin API'sine sadece HTTP/HTTPS istekleri yapabilirsiniz. Eğer farklı bir alan adına istek atıyorsanız, nedenini açıklamanız gerekir.
-- Veri objesinin üzerindeki verileri "undefined" veya "null" olarak ayarlamak yerine `delete` aracını kullanın. (örneğin, `data.startTimestamp = undefined` yerine `delete data.startTimestamp` kullanın)
-- Verilen bir sitenin işlevselliğini değiştirecek servisler yazmanıza izin **verilmez**. Bu DOM elementlerinin eklenmesi, silinmesi, ya da değiştirilmesini de kapsar.
+- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
+- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
+- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
+- You are **not** allowed to access `localStorage`.
+- When accessing cookies for stored data, please prefix the key with `PMD_`.
+- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary. Only allowed API to make request is [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
-## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
+## [**tsconfig.json**](/dev/presence/tsconfig)
 
-> `tsconfig.json` dosyasını [doküman](https://docs.premid.app/en/dev/presence/tsconfig) sayfasında gösterilenin dışında herhangi bir şekilde düzenlemeyin. 
-> 
-> {.is-warning}
+> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
 
-# Yapılandırma
+## Modification
 
-> **presence.ts**, **iframe.ts**  veya **metadata.json** dosyalarından herhangi birine değişiklik yaparken, **metadata** dosyanızda belirtilen sürüm numarasını, daha üst bir sayıya güncellemelisiniz. 
-> 
-> {.is-warning}
+> **presence.ts**, **iframe.ts**  veya **metadata.json** dosyalarından herhangi birine değişiklik yaparken, **metadata** dosyanızda belirtilen sürüm numarasını, daha üst bir sayıya güncellemelisiniz.
 
 Bazı durumlarda, servisler beklenmedik şekilde tepkiler verebileceği veya yazılan kodun daha iyi bir şekilde yazılabileceği durumlar olabilir. Aşağıdan **KESİNLİKLE** dikkat edilmesi gereken servis düzenleme kurallarını görebilirsiniz.
 
-- Bir servisi baştan aşağıya yazmak ve yapımcısının adını değiştirme yetkisine sahip **değilsiniz**. Eğer servisin yapımcısı resmi sunucumuzdan yasaklanmış veya bir ay içerisinde herhangi bir değişiklik yapmadıysa, bir Gözden Geçiren ile iletişime geçip servis üzerinde değişiklik yapma talebinde bulunabilirsiniz.
-- Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir Servis Onaylayıcısı ile iletişime geçebilirsiniz.   - Eğer düzenleme yaptığınız servisin **çeyreğini** düzenlediyseniz, kendinizi o servise bir "katılımcı" olarak ekleyebilirsiniz. Bu konu hakkında daha detaylı bilgi alabilmek için bir inceleyici ile iletişime geçebilirsiniz.
--  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Geçerli değişiklikler arasında genel düzeltmeler (kod ve yazım hataları), eklemeler (açıklamalar ve etiketler), eksik dosyalar vb. Yer alır. Resimler eğer geçerliliğini yitirmemiş veya kalitesi düşük değilse, değiştirmeyin.
+- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
+- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
+- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Onaylanma
+# Verification
 
-> Katkıda bulunulan kodların **hepis** `Mozilla Public License 2.0` adı altında saklanacaktır. 
-> 
-> {.is-info}
+> Katkıda bulunulan kodların **hepis** `Mozilla Public License 2.0` adı altında saklanacaktır.
 
-> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. Tüm inceleyicilerin profilinde `Reviewer` rolü vardır. 
-> 
-> {.is-info}
+> Eğer biriyle iletişime geçmek istiyorsanız, lütfen resmi Discord sunucumuzu kullanın. Tüm inceleyicilerin profilinde `Reviewer` rolü vardır.
 
-> Lütfen inceleme ekibimizdeki üyelerin gönüllü olarak çalıştığını ve diğer işlerinin yanında bu işi yaptığını unutmayın, bu nedenle servis isteğiniz gönderildikten saatler, hatta belki günler sonra bile hâlâ onaylanma bekliyor olabilir. 
-> 
-> {.is-warning}
+> Lütfen inceleme ekibimizdeki üyelerin gönüllü olarak çalıştığını ve diğer işlerinin yanında bu işi yaptığını unutmayın, bu nedenle servis isteğiniz gönderildikten saatler, hatta belki günler sonra bile hâlâ onaylanma bekliyor olabilir.
 
-> Bir pull request atmadan önce klon deponuzun güncel olduğuna **emin olun**. Bu, yanlış pozitiflerin denetlenmesini sınırlamaya yardımcı olacaktır. 
-> 
-> {.is-warning}
+> Bir pull request atmadan önce klon deponuzun güncel olduğuna **emin olun**. Bu, yanlış pozitiflerin denetlenmesini sınırlamaya yardımcı olacaktır.
 
 Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekletmektir. Bu, GitHub üzerinde bulunan `PreMiD/Presences` deposuna atacağınız bir [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) ile yapılır. Yorumcularımız, servisinin standartlara uygun olduğunu doğrulayacak ve mağazaya ekleyecektir.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Servis İnceleyicileri</h2>
-  
-  <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="50px" style="max-width:100%; border-radius: 50%;"/></a>     <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="50px" style="max-width:100%; border-radius: 50%;"/></a>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+  <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+  <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
-## `Kısıtlamalar`
+## `Restrictions`
 
 Talimatları çiğneme, servis paylaşma işlemini durmadan tekrar etme, tehditler veya uygunsuz davranış gibi tekrarlayan aktivitelerde bulunmak sizi servis oluşturma sisteminden yasaklatacaktır.
 
 Bu durumda, şu değişiklikler olur:
 
-- Yönetiminiz altındaki servisler (inceleyici kararına bağlı olarak) ya PreMiD botuna, ya da başka bir kullanıcıya transfer edilecektir. Her servis için uygulama kimliği yeni sahibin adı altında yeniden oluşturulacaktır.
-- Tüm hata bildirimleriniz ve servis paylaşımlarınız (servis oluşturma, başka bir servise katkıda bulunma vs.) kapatılacak ve geçersiz sayılacaktır.
-- Sizin adınıza oluşturulmuş servis geliştiriciliği hakkındaki biletler silinecektir.
+- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
+- Tickets created under your name regarding presence development will be deleted.
 
-
-## `İnceleme`
+## `Reviewing`
 
 Bir pull request atmadan önce bilmeniz gereken şeyler:
 
-- Pull request'inizin birleştirilmesi, ekipten 2 kişinin onayıyla gerçekleşir.
-- Eğer bir pull request, 14 günden daha uzun bir süre boyunca inaktif olursa, otomatik olarak kapatılacaktır.
-- Birleştirme için isteğinizin tüm isteklerden geçmesi **gereklidir**.
-- ⚠️ İsteğinize, kendinizin çektiği, sitenin ve profilinizin yan yana gözüktüğü bir ekran görüntüsü ekleyerek servisinizin çalıştığını **kanıtlamalısınız**. _Oluşturma ve düzenleme içinde de ekran görüntüleri belirtebilirsiniz_. Bu izin, hem servisi oluştururken, hem de servisi güncellerken kullanılabilir.
-- ⚠️ Eğer ayarlar sekmesini kullanıyorsanız, ayrıca buranın da bir ekran görüntüsünü atmanız **gereklidir**. [Buradan](https://imgur.com/a/OD3sj5R) bir örneğine ulaşabilirsiniz.
+- It takes 2 reviewers to merge a pull request.
+- If a pull request is inactive for a period of 7 days, it will be promptly closed.
+- All checks **must** be passed in order to merge.
+- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
-## `Kontroller`
+## `Checks`
 
-![Kontroller](https://i.imgur.com/BCDZQe9.png)
+![Checks](https://i.imgur.com/oqAakOc.png)
 
-Şu anda, bir servis, 2 adet otomatik doğrulama aşamasından geçmektedir. Bu doğrulamalar, inceleme ekibimizin kodunuzun çalışmaya hazır olup olmadığını anlamasını kolaylaştırır.
+Currently, a presence goes through 3 separate stages of checks. Bu doğrulamalar, inceleme ekibimizin kodunuzun çalışmaya hazır olup olmadığını anlamasını kolaylaştırır.
 
-- `DeepScan` kod kalitesini kontrol eden bir otomattır. Hata almanız durumunda, aldığınız hatayı düzeltmekle **yükümlüsünüz**.
-- `Schmea Validation` ise `metadata.json` dosyanızı tarayıp, hatalı veya eksik veriler olup olmadığını kontrol etmek için vardır. Eğer burada da bir hata ile karşılaşırsanız, o hatayı da düzeltmelisiniz. `metadata.json` dosyanıza bir şema değeri eklemek, kodlama sırasında (eğer destekliyorsa) editörünüzün size hatalarını belirtmesini sağlar.
+- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
+- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
+- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Ek Kurallar`
+## `Additional Rules`
 
-- Servisiniz **her zaman** en uygun klasörde bulundurun. Servisinizin ismi bir Latin karakteriyle başlıyorsa, servisinizi o karaktere karşılık gereken klasörün içine koyun (örneğin, `D/dアニメストア` veya `G/Google`). Geriye kalan tüm unicode/Latin olmayan karakterler `#` klasörünün içine konulmalıdır (örneğin, `/#/巴哈姆特` gibi), numara ile başlayanlar ise `0-9` klasöründe olmalıdır (örneğin, `/0-9/4anime`).
+- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
 Tüm yönergeleri uygun gözden geçirmeler ve kontrollerle karşıladıktan sonra, servisiniz mağazaya eklenecektir.
 
+# Suggestions
+If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
+
 # Katkılar
 
-Bu kılavuzun `ikinci nesli` aşağıdaki şahıslar tarafından hazırlanmıştır:
+`Revision 3` of the guidelines was written and was contributed to by the following individuals:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Birinci nesli` ise aşağıdaki kişiler tarafından yönetilmiştir:
+`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+
+<div>
+<a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+</div>
+
+`Revision 1` was maintained by the following individuals:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
