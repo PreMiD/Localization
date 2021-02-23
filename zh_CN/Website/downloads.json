@@ -63,6 +63,10 @@
 		"message": "隐藏下载",
 		"description": "Little button on the downloads page for mobile users."
 	},
+	"downloads.warning.differentVersion": {
+		"message": "当前适用于 Linux 的 PreMiD 版本是 {0} (注意：这是 Linux 专用版本，不适用于其他系统)。",
+		"description": "Tippy message of the Linux card."
+	},
 	"downloads.warning.differentVersion2": {
 		"message": "此版本是 Linux 的专用版本，不适用于其他系统。应用程序的版本是 {0}",
 		"description": "Tippy message of the version number when user is on Linux."
@@ -115,6 +119,10 @@
 		"message": "登录",
 		"description": "Login button on the downloads page."
 	},
+	"downloads.button.skipanyway": {
+		"message": "跳过",
+		"description": "Skip Anyway button on the ads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "感谢你!",
 		"description": "Title of the advertisement section box."
@@ -122,6 +130,18 @@
 	"downloads.adsbox.thankyou.message": {
 		"message": "我们通过广告来维持我们的团队和服务器，以为您提供最好的用户体验！",
 		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "请暂时停用您的广告拦截程序。",
+		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "显示先遣测试版本",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "（如果你只想下载普通版本，请无视）",
+		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
 		"message": "我不想关闭广告拦截。",
