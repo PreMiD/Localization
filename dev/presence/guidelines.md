@@ -2,7 +2,7 @@
 title: Presence Guidelines
 description: Rules that all presence developers must follow to have their presence added.
 published: true
-date: 2021-02-23T01:08:46.998Z
+date: 2021-02-23T01:08:58.632Z
 tags: 
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
