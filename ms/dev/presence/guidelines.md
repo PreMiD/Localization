@@ -299,8 +299,8 @@ Beberapa perkara anda patut tahu sebelum membuka permintaan tarikan:
 
 Ketika ini, sesebuah Presence melalui 3 peringkat semakan yang berlainan. Kesemua semakan ini membantu pengulas untuk menentukan sama ada Presence anda sesuai untuk dikerahkan.
 
-- `Codacy` ialah bot yang memeriksa kualiti kod. Jika anda menerima ralat untuk isu baharu, anda **diwajibkan** membaikinya. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
-- `DeepScan` is a bot that checks for code quality. Jika anda menerima ralat untuk isu baharu, anda **diwajibkan** membaikinya.
+- `Codacy` ialah bot yang memeriksa kualiti kod. Jika anda menerima ralat untuk isu baharu, anda **diwajibkan** membaikinya. (_AMARAN: Bot Codacy akan diperkecamkan tidak lama lagi dan anda akan hanya perlu semak ralat dari DeepScan!_)
+- `DeepScan` ialah bot yang memeriksa kualiti kod. Jika anda menerima ralat untuk isu baharu, anda **diwajibkan** membaikinya.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
 ## `Additional Rules`
