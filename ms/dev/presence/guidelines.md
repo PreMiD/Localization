@@ -1,6 +1,6 @@
 ---
 title: Garis Panduan Presence
-description: Rules that all presence developers must follow to have their presence added.
+description: Peraturan yang kesemua pembangun Presence perlu ikut untuk membolehkan Presence mereka ditambah.
 published: true
 date: 2021-02-23T01:08:58.632Z
 tags:
@@ -11,13 +11,13 @@ dateCreated: 2020-06-11T18:04:45.733Z
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
     <h3 style="font-size: 2rem; margin-bottom: 0">Garis Panduan Presence</h3>
-    <h4 style="margin-top: 0">Revision 3</h4>
+    <h4 style="margin-top: 0">Semakan 3</h4>
     <br />
 </div>
 
 # Garis Panduan
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Bagi sesetengah orang, peraturan ketat ini nampak agak kejam. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Apabila menerbitkan Presence ke Github ini, kami memerlukan anda mengikut beberapa panduan yang ditetapkan. Bagi sesetengah orang, peraturan ketat ini nampak agak kejam. Namun, pelaksanaan set peraturan ini akan bantu kami dan pengguna kami untuk mengelakkan terjadinya isu.
 
 # Penciptaan
 
@@ -31,13 +31,13 @@ Peraturan am pembangunan Presence adalah seperti berikut:
 - Domain bagi Presence mestilah berusia sekurang-kurangnya 2 bulan.
 - Presence yang mensasarkan halaman pelayar dalaman (seperti Kedai Web Chrome, `chrome://`, halaman `about:`, dll) **tidak** dibenarkan kerana mereka perlukan bendera uji kaji untuk dibolehkan di pihak pengguna dan mampu menyebabkan kerosakan pada pelayar mereka.
 - Presence dengan sokongan hanya untuk subdomain tunggal **tidak** akan dibenarkan, kerana ia akan tampak rosak untuk halaman lain (seperti halaman utama), pengecualian boleh dibuat untuk halaman polisi dan perhubungan (kandungan yang tidak kerap digunakan) atau laman di mana kandungan lainnya tidak mempunyai kaitan. (sbg. cth., laman wikia)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
+- Presence untuk radio dalam talian hanya dibenarkan sekiranya radio tersebut mempunyai sekurang-kurangnya 100 pendengar mingguan dan 15 pendengar serempak dan mesti mempunyai ciri lain daripada setakat menunjukkan tajuk lagu/album dll.
 - Presence kualiti rendah (atau yang mana dengan konteks kecil) adalah **tidak** dibenarkan (sbg. cth., hanya menunjukkan logo dan tulisan tetapi tidak mengubahnya lagi.)
-- With the `buttons` release, we require some guidelines for them:
-  - Redirects to main page are prohibited.
-  - Promoting websites by them is prohibited.
-  - They can't show addinational data when you can't show them in `state` or `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Dengan terbitan `buttons`, kami memerlukan beberapa garis panduan untuknya:
+  - Lencongan ke laman utama tidak dibenarkan.
+  - Promosi laman sesawang menggunakannya tidak dibenarkan.
+  - Ia tidak boleh menunjukkan data tambahan apabila anda tidak boleh tunjukkannya di `state` atau `details`.
+- Penyertaan folder `dist`, fail `presence.ts`, fail `iframe.ts`, dan fail `metadata.json` adalah diwajibkan supaya hasilnya nanti serupa seperti apa yang diwakilkan dalam skema berikut:
 
 ```bash
 presence
@@ -129,7 +129,7 @@ Setiap Presence mempunyai fail pemerihal dipanggil `metadata.json`, metadata ter
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (sbg. cth., sebuah Presence tanpa sokongan iframe tidak perlukan medan `iframe`.)
+> Sekiranya sesuatu medan disenaraikan sebagai pilihan dalam [pendokumenan](https://docs.premid.app/en/dev/presence/metadata) atau jika ada tanda `*` pada kekunci tersebut, dan Presence anda menggunakan nilai lalai untuknya, jangan sertakannya dalam fail `metadata`. (sbg. cth., sebuah Presence tanpa sokongan iframe tidak perlukan medan `iframe`.)
 
 > Semua imej dalam fail `metadata` mestilah dihoskan di `i.imgur.com`. Penggunaan kandungan yang dihoskan di laman sesawang **tidak** dibenarkan kerana laluan dan fail boleh berubah tanpa jangkaan.
 
@@ -151,7 +151,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 
 - Nama perkhidmatan **mestilah** sama dengan nama direktori Presence tersebut. Sebagai contoh, jika Presence berada di `/websites/Y/YouTube/`, maka nama perkhidmatannya mestilah `YouTube`.
 - Anda **tidak boleh** gunakan URL sebagai nama perkhidmatan melainkan laman sesawang itu sendiri menggunakan URL sebagai nama rasminya. Jika nama tidak deskriptif dan boleh dianggap kabur, penggunaan URL sebagai nama **diperlukan**. (sbg. cth., `YouTube` dibenarkan kerana ianya nama rasmi dan deskriptif, manakala `youtube.com` tidak dibenarkan. `Top` pula bukan nama yang deskriptif, jadi penggunaan URL `top.gg` adalah **diperlukan**.)
-- If service has some explicit branding rules of their name, you should follow them.
+- Jika perkhidmatan mempunyai peraturan penjenamaan khusus mengenai nama mereka, anda patut mengikut peraturan tersebut.
 
 ### **`*altnames`**
 
