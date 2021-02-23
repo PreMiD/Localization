@@ -1,16 +1,23 @@
 ---
 title: Presence قوانين الـ
-description: قواعد جميع مطوري الpresence يجب أن يتم اتباعها لإضافة الpresence الخاصة بهم.
+description: Rules that all presence developers must follow to have their presence added.
 published: صحيح
-date: 2021-02-17T14:50:24.048Z
+date: 2021-02-23T01:08:58.632Z
 tags:
 editor: markdown
 dateCreated: 2020-06-11T18:04:45.733Z
 ---
 
+<div align="center">
+    <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
+    <h3 style="font-size: 2rem; margin-bottom: 0">Presence قوانين الـ</h3>
+    <h4 style="margin-top: 0">Revision 3</h4>
+    <br />
+</div>
+
 # Guidelines
 
-When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/Presences), we require you to follow a set of guidelines. للبعض. قد تبدو هذه قواعد صارمة. مع ذلك، فإن تنفيذ هذه القواعد سيمنعنا ويمنع المستخدمين من الوقوع في مشاكل.
+When publishing Presences to this GitHub, we require you to follow a set of guidelines. للبعض. قد تبدو هذه قواعد صارمة. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # إنشاء
 
@@ -24,15 +31,18 @@ When publishing Presences to [our GitHub Repository](https://github.com/PreMiD/P
 - The domain of the presence must be at least 2 months old.
 - الpresences التي تستهدف صفحات المتصفح الداخلية (مثل متجر ويب كروم، `كروم://`، `عن:` صفحات، وما إلى ذلك) هي **غير مسموحة** لأنها تتطلب أن يتم تمكين العلم التجريبي في نهاية المستخدم ويمكن أن تسبب ضرراً للمتصفحات الخاصة بهم.
 - الpresences المدعومة لنطاق فرعي واحد فقط **لن** يسمح بها، حيث أنها قد تبدو مكسورة لصفحات أخرى (مثل الصفحة الرئيسية)، يمكن وضع استثناءات لصفحات السياسات وجهات الاتصال (المحتوى الذي لا يستخدم في كثير من الأحيان) أو المواقع التي لا يرتبط بها المحتوى الآخر. (على سبيل المثال، صفحات ويكا)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
 - الpresences رديئة الجودة (أو الpresences ذات السياق الصغير) **غير** مسموح بها (مثلا، التي تعرض الشعار والنص فقط ولكن دون تغييره مرة أخرى.)
-- بما في ذلك مجلد `dist`, و ملفات `presence.ts`, `iframe.ts` و `metadata.json` الزاميين بحيث تكون الننتيجة ما يتم تمثيله في المخطط التالي:
+- With the `buttons` release, we require some guidelines for them:
+  - Redirects to main page are prohibited.
+  - Promoting websites by them is prohibited.
+  - They can't show addinational data when you can't show them in `state` or `details`.
+- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
 presence
 ├── dist
-│   ├── metadata.json
-│   └── presence.js
+│   └── metadata.json
 ├── presence.ts
 └── tsconfig.json
 ```
@@ -42,33 +52,25 @@ presence
 ```bash
 presence
 ├── dist
-│   ├── metadata.json
-│   ├── presence.js
-│   └── iframe.js
+│   └── metadata.json
 ├── presence.ts
 ├── iframe.ts
 └── tsconfig.json
 ```
 
-## [**metadata.json**](https://docs.premid.app/en/dev/presence/metadata)
+## [**metadata.json**](/dev/presence/metadata)
 
-> من أجل مصلحة مطوري presence الخاص بنا، لقد قدمنا مخططا يمكنك استخدامه للتحقق من سلامة ملف `البيانات الوصفية`. وهذا أمر اختياري تماما، ولا لزوم له أثناء عملية الاستعراض. 
-> 
-> {.is-info}
+> من أجل مصلحة مطوري presence الخاص بنا، لقد قدمنا مخططا يمكنك استخدامه للتحقق من سلامة ملف `البيانات الوصفية`. وهذا أمر اختياري تماما، ولا لزوم له أثناء عملية الاستعراض.
 
-> من المستحسن بشدة أن تقوم بتنظيم ملف `بيانات التعريف` الخاص بك بالشكل الموضح أدناه، ويجب أن يكون لديك أسماء الخدمة والأوصاف والعلامات والحقول الصحيحة نحوياً. أي شيء غير منظم حسب المواصفات **لن** يسمح به. 
-> 
-> {.is-warning}
+> من المستحسن بشدة أن تقوم بتنظيم ملف `بيانات التعريف` الخاص بك بالشكل الموضح أدناه، ويجب أن يكون لديك أسماء الخدمة والأوصاف والعلامات والحقول الصحيحة نحوياً. أي شيء غير منظم حسب المواصفات **لن** يسمح به.
 
-> الpresences لمواقع الويب التي تتملك محتوى جنسي **يجب** عليها أن تمتلك رمز `غ ر ل (غير لائق للعمل)"nfsw"`, و شعارها/صورتها المصغرة **لا** يجب عليها أن تحتوي على هذا المحتوى. 
-> 
-> {.is-warning}
+> الpresences لمواقع الويب التي تتملك محتوى جنسي **يجب** عليها أن تمتلك رمز `غ ر ل (غير لائق للعمل)"nfsw"`, و شعارها/صورتها المصغرة **لا** يجب عليها أن تحتوي على هذا المحتوى.
 
 كل presence لديه ملف وصفي يسمى `metadata.json`، البيانات الوصفية لها معيار صارم، ويمكن أن يظهر أدناه مثال لهذا الملف:
 
 ```json
 {
-  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
     "name": "USER",
     "id": "ID"
@@ -94,7 +96,12 @@ presence
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
+  "readLogs": false,
   "settings": [
+    {
+      "id": "multiLanguage",
+      "multiLanguage": true
+    }
     {
       "id": "ID",
       "title": "DISPLAY TITLE",
@@ -122,13 +129,9 @@ presence
 }
 ```
 
-> إذا كان الحقل مدرجاً كخيار في [المستندات](https://docs.premid.app/en/dev/presence/metadata) ويستخدم الpresence القيمة الافتراضية له، لا تضمنها في ملف `البيانات الوصفية`. (على سبيل المثال، presence بدون دعم iframe لن يحتاج إلى الحقل `iframe`) 
-> 
-> {.is-warning}
+> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (على سبيل المثال، presence بدون دعم iframe لن يحتاج إلى الحقل `iframe`)
 
-> يجب استضافة جميع الصور في ملف `بيانات التعريف` في `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly. 
-> 
-> {.is-warning}
+> يجب استضافة جميع الصور في ملف `بيانات التعريف` في `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly.
 
 A list of fields and their rules are listed below:
 
@@ -140,7 +143,7 @@ A list of fields and their rules are listed below:
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
-### **`المساهمون`**
+### **`*contributors`**
 
 - Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
 
@@ -148,10 +151,11 @@ A list of fields and their rules are listed below:
 
 - The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
 - You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- If service has some explicit branding rules of their name, you should follow them.
 
-### **`altnames`**
+### **`*altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터) or to make it easier to search the presence without using special characters (e.g. Pokémon and Pokemon). *Shortened* versions of service names go under `tags`.
+- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
 
 ### **`الوصف`**
 
@@ -191,28 +195,37 @@ A list of fields and their rules are listed below:
 
 ### **`category`**
 
-- The category **must** be one of the following listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- The category **must** be one of the following listed on the [documentation](/dev/presence/metadata#presence-categories).
 - The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
 
-### **`regExp`** <br /> **`iFrameRegExp`**
+### **`*regExp`** <br /> **`*iFrameRegExp`**
 
-- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](https://docs.premid.app/en/dev/presence/metadata#testing).
+- Regular expressions **must** be valid. Please test your expressions with the tools listed on the [documentation](/dev/presence/metadata#testing).
+
+### **`readLogs`**
+
+- Must be `boolean` value (e.g. `true` or `false`).
+- Enables logs for your presence.
+
+### **`warning`**
+
+- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
+- Example of presence using this metadata variable is `VLC`.
 
 ### **`الإعدادات`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
-- Adding custom strings to the [Localization Repository](https://github.com/PreMiD/Localization) to later be used within the `multiLanguage` setting is only allowed if the presence has already been released before and has aquired at least 1000 users.
+- If you are using multiLanguage option you should know:
+  - **Bolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
+  - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
+  - **Array<String>** type value (e.g. `["youtube.json", "vlive.json"]`) will specify name of files that you want get strings from.
 
-## [**presence.ts**](https://docs.premid.app/en/dev/presence/class)
+## [**presence.ts**](/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored). 
-> 
-> {.is-warning}
+> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored).
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. - [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [ESlint Recommendations](https://eslint.org/docs/rules) 
-> 
-> {.is-info}
+> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Recommendations](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
 
 Here is a list of rules you must follow when writing your `presence.ts` file:
 
@@ -222,52 +235,41 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
 - When accessing cookies for stored data, please prefix the key with `PMD_`.
-- You may only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary.
+- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary. Only allowed API to make request is [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
 - Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 - You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
-## [**tsconfig.json**](https://docs.premid.app/en/dev/presence/tsconfig)
+## [**tsconfig.json**](/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](https://docs.premid.app/en/dev/presence/tsconfig). 
-> 
-> {.is-warning}
+> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
 
-# Modification
+## Modification
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**. 
-> 
-> {.is-warning}
+> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**.
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
 
 - You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a verifier for more information about this subject.   - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
--  Anyone may provide hotfixes to fix bugs; however, do **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
+- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
+- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
-# التحقق
+# Verification
 
-> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`. 
-> 
-> {.is-info}
+> **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
-> إذا كنت بحاجة إلى الاتصال بشخص ما، يرجى استخدام خادم الديسكورد الرسمي. All reviewers will have the `Reviewer` role on their profile. 
-> 
-> {.is-info}
+> إذا كنت بحاجة إلى الاتصال بشخص ما، يرجى استخدام خادم الديسكورد الرسمي. All reviewers will have the `Reviewer` role on their profile.
 
-> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created. 
-> 
-> {.is-warning}
+> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created.
 
-> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from the checks. 
-> 
-> {.is-warning}
+> **Always** have an up-to-date fork before creating your pull request. This will help limit false positives from the checks.
 
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
-  
-  <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="50px" style="max-width:100%; border-radius: 50%;"/></a>     <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="50px" style="max-width:100%; border-radius: 50%;"/></a>
+  <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+  <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+  <a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
@@ -281,33 +283,42 @@ In this scenerio, the following changes will occur:
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
 - Tickets created under your name regarding presence development will be deleted.
 
-
 ## `Reviewing`
 
 A few things you should know after opening a pull request:
 
 - It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 14 days, it will be promptly closed.
+- If a pull request is inactive for a period of 7 days, it will be promptly closed.
 - All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure._ This applies for both creation and modification.
+- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 - ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
 ## `التحققات`
 
-![التحققات](https://i.imgur.com/BCDZQe9.png)
+![التحققات](https://i.imgur.com/oqAakOc.png)
 
-Currently, a presence goes through 2 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Currently, a presence goes through 3 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
-- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
+- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
+- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `قواعد إضافية`
+## `Additional Rules`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
+# Suggestions
+If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
+
 # Contributions
+
+`Revision 3` of the guidelines was written and was contributed to by the following individuals:
+
+<div>
+<a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+</div>
 
 `Revision 2` of the guidelines was written and was contributed to by the following individuals:
 
