@@ -15,6 +15,14 @@
 		"message": "管理员",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.reviewer": {
+		"message": "审查员",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "开发者",
+		"description": "'Developer' title for contributors and user pages."
+	},
 	"contributors.roles.designer": {
 		"message": "设计师",
 		"description": "'Designer' title for contributors and user pages."
@@ -26,6 +34,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "客服",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "社区代表",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "校对",
