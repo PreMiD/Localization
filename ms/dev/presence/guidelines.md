@@ -301,32 +301,32 @@ Ketika ini, sesebuah Presence melalui 3 peringkat semakan yang berlainan. Kesemu
 
 - `Codacy` ialah bot yang memeriksa kualiti kod. Jika anda menerima ralat untuk isu baharu, anda **diwajibkan** membaikinya. (_AMARAN: Bot Codacy akan diperkecamkan tidak lama lagi dan anda akan hanya perlu semak ralat dari DeepScan!_)
 - `DeepScan` ialah bot yang memeriksa kualiti kod. Jika anda menerima ralat untuk isu baharu, anda **diwajibkan** membaikinya.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Schema Validation` akan mengimbas fail `metadata.json` untuk sebarang ralat (sbg. cth., medan yang tercicir, jenis nilai yang tidak sah, dll.). Jika anda nampak sebarang isu baharu, anda juga **diwajibkan** untuk membaikinya. Penambahan medan skema ke fail `metadata.json` anda akan membolehkan penyunting teks anda (jika disokong) untuk menunjukkan ralat-ralat ini kepada anda ketika pembangunan.
 
-## `Additional Rules`
+## `Peraturan Tambahan`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- **Sentiasa** pastikan anda mulakan Presence anda dalam folder yang sesuai, sekiranya namanya bermula dengan _sebarang_ huruf Rumi maka ia mestilah berada di bawah padanan abjadnya (sbg. cth., `D/dアニメストア` atau `G/Google`). Sebarang aksara Unicode/bukan-Rumi yang lain **mesti** berada di bawah folder `#` (sbg. cth., `#/巴哈姆特`) dan nombor berada di bawah folder `0-9` (sbg. cth., `0-9/4anime`).
 
 Setelah mematuhi kesemua garis panduan dengan ulasan dan semakan yang wajar, Presence anda akan dicantumkan dengan kedai.
 
-# Suggestions
-If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
+# Cadangan
+Jika anda mempunyai cadangan berkaitan garis panduan kami, anda patut hubungi kami @ [pelayan discord PreMiD](https://discord.premid.app) dan kami akan memeriksanya!
 
 # Sumbangan
 
-`Revision 3` of the guidelines was written and was contributed to by the following individuals:
+Semakan `Revision 3` garis panduan ditulis dan disumbangkan oleh individu berikut:
 
 <div>
 <a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+Semakan `Revision 2` garis panduan ditulis dan disumbangkan oleh individu berikut:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+Semakan `Revision 1` telah diselenggara oleh individu berikut:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
