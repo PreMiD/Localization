@@ -337,20 +337,20 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "Mi título",
-  state: "Mi descripción",
-  largeImageKey: "logo_servicio",
-  smallImageKey: "icono_servicio_pequño",
-  smallImageText: "Has puesto el cursor sobre mí, ¿ahora que?",
+  details: "My title",
+  state: "My description",
+  largeImageKey: "service_logo",
+  smallImageKey: "small_service_icon",
+  smallImageText: "You hovered me, and what now?",
   startTimestamp: 1564444631188,
-  endTimestamp: 1564444634734
+  endTimestamp: 1564444634734,
   buttons: [
     {
-            label: "Botón de prueba1",
+            label: "Test button1",
             url: "https://premid.app/"
         },
         {
-            label: "Botón de prueba2",
+            label: "Test button2",
             url: "https://premid.app/contributors"
         }
     ]
