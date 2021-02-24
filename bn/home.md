@@ -20,12 +20,12 @@ editor: markdown
 PreMiD ইন্সটল করা দ্রুত এবং সহজ। তুমি কাজ করা শুরু করে দিতে পারবে কিছুক্ষণের মধ্যেই।
 
 - নিশ্চিত করো যে তুমি [সিস্টেম রিকোয়ারমেন্টগুলো](/install/requirements) পড়েছ।
-- Follow the quick and simple [installation guide](/install).
+- অনুসরণ করো আমাদের দ্রুত এবং সহজ [ইন্সটলেশন গাইড](/install)।
 - [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
 
 # ডেভেলপার
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+PreMiD ডেভেলপমেন্টের জন্য [শুরু করা যাক](/dev) হচ্ছে তোমার প্রথম ধাপ কোন কিছু কোড করার আগে।
 
 - :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
 - :wrench: [Presence ডেভেলপমেন্ট](/dev/presence): শিখো কীভাবে আমাদের Presence সিস্টেম ব্যবহার করতে হয়।
