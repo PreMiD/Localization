@@ -11,7 +11,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
     <h3 style="font-size: 2rem; margin-bottom: 0">Règlement de Presence</h3>
-    <h4 style="margin-top: 0">Revision 3</h4>
+    <h4 style="margin-top: 0">Révision 3</h4>
     <br />
 </div>
 
@@ -33,10 +33,10 @@ Les règles générales de développement de presence sont les suivantes:
 - Les presences prenant en charge seulement une page **ne seront pas** autorisées, car elles pourraient sembler cassées pour d'autres pages (comme la page d'accueil), des exceptions peuvent être faites pour les pages de politique de confidentialité et de contact (contenu qui n'est pas souvent utilisé) ou alors sites où l'autre contenu n'est pas lié. (par exemple, les pages wikia)
 - Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
 - Les presences de faible qualité (ou celles n'ayant qu'un seul contexte) **ne sont pas autorisées** (par exemple : Afficher uniquement un logo et du texte et ne plus jamais les changer.)
-- With the `buttons` release, we require some guidelines for them:
-  - Redirects to main page are prohibited.
-  - Promoting websites by them is prohibited.
-  - They can't show addinational data when you can't show them in `state` or `details`.
+- Avec la mise à jour des `boutons`, nous demandons de suivre certaines directives:
+  - Les redirections vers la page d'accueil sont interdites.
+  - La promotion de sites internet est interdite.
+  - Ils ne peuvent pas afficher des données additionnelles quand vous ne pouvez pas les afficher dans le `state` ou dans `details`.
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
