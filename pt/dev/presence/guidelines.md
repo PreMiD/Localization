@@ -1,6 +1,6 @@
 ---
 title: Diretrizes das presences
-description: Rules that all presence developers must follow to have their presence added.
+description: Regras que todos os programadores de presences devem seguir para que a sua presence seja adicionada.
 published: true
 date: 2021-02-24T22:23:11.142Z
 tags:
@@ -10,14 +10,14 @@ dateCreated: 2021-02-23T07:57:42.414Z
 
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
-    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Guidelines</h3>
-    <h4 style="margin-top: 0">Revision 3</h4>
+    <h3 style="font-size: 2rem; margin-bottom: 0">Diretrizes das presences</h3>
+    <h4 style="margin-top: 0">Revisão 3</h4>
     <br />
 </div>
 
 # Guidelines
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Ao publicar Presences no [Repositório de Presences](https://github.com/PreMiD/Presences/), és obrigado a seguir um conjunto de diretrizes. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Creation
 
