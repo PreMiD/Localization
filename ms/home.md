@@ -27,7 +27,7 @@ PreMiD sangat cepat dan mudah untuk dipasang. Anda akan mulakannya dalam masa ya
 
 [Mulakan](/dev) untuk pembangunan ialah langkah pertama anda sebelum mencipta kod sesuatu.
 
-- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
+- :computer: [API](/dev/api): Capai sumber dan lakukan tindakan menggunakan API PreMiD.
 - :wrench:[Pembangunan Presence](/dev/presence): Belajar cara menggunakan sistem Presence kami.
 
 # Sumbang
