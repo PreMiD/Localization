@@ -59,7 +59,7 @@ J'espère que vous savez comment redémarrer un ordinateur.
 Parfois, il y a quelque chose qui ne va pas avec les fichiers... Les tutoriels pour l'installation peuvent être trouvés [ici](/install).
 
 ### Suppression manuelle
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows: Écrivez `%appdata%` et supprimez le dossier `PreMiD`. MacOS :`~/users/USER/~Library/Application Support/`et supprimez le dossier`PreMiD`.
 
 ### McAfee a détecté PreMiD comme un virus (Windows)
 C'est un faux positif de la part de McAfee et nous leur avons signalé le problème, pour l'instant, vous pouvez exclure PreMiD de l'analyse en effectuant les étapes suivantes :
