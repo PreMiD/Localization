@@ -17,7 +17,7 @@ dateCreated: 2021-02-23T07:57:42.414Z
 
 # Richtlijnen
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Voor sommigen lijken deze strenge regels misschien zwaar. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Bij het publiceren van presences op [onze GitHub-repository](https://github.com/PreMiD/Presences/), vereisen we dat je een aantal richtlijnen volgt. Voor sommigen lijken deze strenge regels misschien zwaar. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Aanmaak
 
@@ -31,7 +31,7 @@ De algemene regels voor de ontwikkeling van een presence zijn:
 - Het domein van de presence moet minimaal 2 maanden oud zijn.
 - Presences die gericht zijn op interne browser pagina's (zoals Chrome Web Store, `chrome://`, `about:` pagina's, etc.) zijn **niet** toegestaan, omdat zij een experimentele vlag ingeschakeld moeten hebben, en omdat het mogelijk schade kan toebrengen aan hun browsers.
 - Presences met ondersteuning alleen voor een enkel doel zullen **niet** toegestaan worden, omdat ze mogelijk gebroken lijken voor andere pagina's (zoals de homepagina), uitzonderingen kunnen worden gemaakt voor beleid en contactpagina's (inhoud die niet vaak gebruikt wordt) of sites waar de andere inhoud niet gerelateerd is. (bijvoorbeeld wikia-pagina's)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
+- Presences voor online radio's zijn alleen toegestaan als de radio ten minste 100 wekelijkse luisteraars en 15 gelijktijdige luisteraars heeft. Ook moet het enkele functies hebben en niet alleen album en titel.
 - Lage kwaliteit presences (of degenen met weinig context) zijn **niet** toegestaan (bijvb: alleen een logo en tekst tonen maar het verandert later nooit meer.)
 - With the `buttons` release, we require some guidelines for them:
   - Redirects to main page are prohibited.

@@ -17,7 +17,7 @@ dateCreated: 2021-02-23T07:57:42.414Z
 
 # Instructions
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles nous empêchera et empêchera les utilisateurs de faire face à des problèmes.
+Lors de la publication de Presences sur [notre dépôt GitHub](https://github.com/PreMiD/Presences), nous vous demandons de suivre un ensemble de règles. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles nous empêchera et empêchera les utilisateurs de faire face à des problèmes.
 
 # Création
 
@@ -31,7 +31,7 @@ Les règles générales de développement de presence sont les suivantes:
 - Le domaine de la Presence doit avoir au moins 2 mois.
 - Les presences qui ciblent les pages internes du navigateur (comme Chrome Web Store, les pages `chrome://`, `about:`, etc) **ne sont pas** autorisés car elles nécessitent un drapeau expérimental à activer du côté de l'utilisateur et peuvent potentiellement causer des dommages à leurs navigateurs.
 - Les presences prenant en charge seulement une page **ne seront pas** autorisées, car elles pourraient sembler cassées pour d'autres pages (comme la page d'accueil), des exceptions peuvent être faites pour les pages de politique de confidentialité et de contact (contenu qui n'est pas souvent utilisé) ou alors sites où l'autre contenu n'est pas lié. (par exemple, les pages wikia)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
+- Les Presences pour les radios en ligne ne sont autorisées que si la radio a au moins 100 auditeurs hebdomadaires et 15 concurrents, ainsi que des fonctionnalités autre que du simple affichage des nom des albums/titres, etc.
 - Les presences de faible qualité (ou celles n'ayant qu'un seul contexte) **ne sont pas autorisées** (par exemple : Afficher uniquement un logo et du texte et ne plus jamais les changer.)
 - Avec la mise à jour des `boutons`, nous demandons de suivre certaines directives:
   - Les redirections vers la page d'accueil sont interdites.
@@ -235,13 +235,13 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 - Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme `playing/pause` pour des sites de vidéos, `navigation` pour des sites réguliers et d'autres cas) non pas pour promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
 - Vous n'êtes **pas autorisé** à accéder à `localStorage`.
 - Lors de l'accès aux cookies pour les données stockées, veuillez préfixez la clé avec `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary. Only allowed API to make request is [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
+- Vous ne pouvez faire des requêtes HTTP/HTTPS qu'à `premid.app` ou à l'API du site web concerné par la Presence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire. La seule API autorisée à faire des requêtes est la [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+- **Ne** définissez **pas** de champs dans l'objet presence par undefined, utilisez plutôt le mot-clé `delete`. (par ex., utilisez `delete data.startTimestamp` au lieu de `data.startTimestamp = undefined`)
+- Vous n'êtes **pas** autorisé à écrire des Presences qui modifient la fonctionnalité d'un site Web donné. Cela inclut l'ajout, la suppression ou la modification des éléments du DOM.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
+> N'écrivez **pas** votre propre fichier `tsconfig.json`, utilisez ce qui a été fourni dans la [documentation](/dev/presence/tsconfig).
 
 ## Modification
 
@@ -249,9 +249,9 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 
 Dans certaines situations, les presences peuvent se comporter de manière inattendue ou peuvent utiliser quelques modifications mineures pour améliorer leurs fonctionnalités. Voici une liste compilée que vous **devez** suivre pour modifier des presences.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
+- Vous n'êtes **pas** autorisé à réécrire une Presence ou à modifier son auteur. Si l'auteur de la présence a été banni du serveur officiel ou n'a pas apporté les modifications requises dans une période d'un mois, vous pouvez contacter un vérificateur pour voir si vous pouvez réécrire la presence.
+- Si vous apportez des modifications à une presence et modifiez au moins un **quart** de la base de code de la presence, vous êtes autorisé à vous ajouter en tant que contributeur. Contactez un vérificateur pour plus d'informations à ce sujet.
+- N'importe qui peut fournir des correctifs pour corriger les bugs ; cependant, **n'essayez pas** d'apporter des modifications au code n'ayant **pas** besoin d'être corrigé. Les modifications valides incluent les corrections générales (code et typos), les ajouts (descriptions et balises), les fichiers manquants, etc. Ne changez **pas** les images si elles ne sont pas obsolètes et sont dans les spécifications.
 
 # Verification
 
@@ -266,7 +266,7 @@ Dans certaines situations, les presences peuvent se comporter de manière inatte
 Le processus le plus important dans développement d'une Presence est d'avoir votre Présence sur le magasin. Ceci est fait en faisant un [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) sur sur le repository GitHub `PreMiD/Presences`. Nos évaluateurs confirmeront que votre presence est conforme aux normes et celle-ci sera ajouté au magasin.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Vérificateurs de Presences</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -279,25 +279,25 @@ Les infractions répétitives telles que le non-respect des directives, le spam 
 
 Dans ce scénario, les changements suivants se produiront :
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Les Presences que vous gérez seront transférée au bot PreMiD ou à un autre utilisateur sur décision du vérificateur. L'ID de l'application pour chaque Presence sera recrée sous le nom du nouveau propriétaire.
+- Toute vos issues et pull requests (création de presence, contribution de presence, etc.) créées après le bannissement seront rapidement fermées.
+- Les tickets créés sous votre nom concernant le développement de la presence seront supprimés.
 
-## `Reviewing`
+## `Vérifications`
 
 Quelques choses que vous devriez savoir après avoir ouvert un pull request :
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- Il faut 2 examinateurs pour fusionner un pull request.
+- Si une pull request est inactive pendant une période de 7 jours, elle sera rapidement fermée.
+- Toutes les vérifications **doivent être passées** pour pouvoir fusionner.
+- ⚠️ Vous **devez** fournir de nouvelles et intactes captures d'écrans (prises par vous) montrant une comparaison côte à côte entre votre profil et le site web pour prouver que votre presence fonctionne. _Vous êtes autorisé à assembler des captures d'écran pour une satisfaction visuelle_ Ceci s'applique à la fois pour la création et la modification.
+- ⚠️ Vous êtes également **tenu** d'inclure des captures d'écran des paramètres de Presence dans l'extension, si fourni. Voici un exemple qui peut être vu : [ici](https://imgur.com/a/OD3sj5R).
 
 ## `Vérifications`
 
 ![Vérifications](https://i.imgur.com/oqAakOc.png)
 
-Currently, a presence goes through 3 separate stages of checks. Toutes ces vérifications aident les évaluateurs à déterminer si votre presence est apte au déploiement.
+Actuellement, une Presence passe par trois étapes distinctes de vérification. Toutes ces vérifications aident les évaluateurs à déterminer si votre presence est apte au déploiement.
 
 - `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
 - `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.

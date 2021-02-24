@@ -17,7 +17,7 @@ dateCreated: 2021-02-23T07:57:42.414Z
 
 # ガイドライン
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+[Presences Repository](https://github.com/PreMiD/Presences)へプレゼンスを公開する際は、一連のガイドラインに従う必要があります。 To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # 作成
 
