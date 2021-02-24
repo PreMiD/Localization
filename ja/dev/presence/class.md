@@ -335,11 +335,11 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "タイトル",
+  state: "説明",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "カーソルを合わせましたね。で、何か？",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734,
   buttons: [
