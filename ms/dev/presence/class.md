@@ -338,20 +338,20 @@ Antara muka ini mempunyai pemboleh ubah berikut, kesemuanya pilihan.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "Tajuk saya",
-  state: "Keterangan saya",
-  largeImageKey: "logo_perkhidmatan",
-  smallImageKey: "ikon_perkhidmatan_kecil",
-  smallImageText: "Anda lalukan tetikus atas saya, jadi nak buat apa sekarang?",
+  details: "My title",
+  state: "My description",
+  largeImageKey: "service_logo",
+  smallImageKey: "small_service_icon",
+  smallImageText: "You hovered me, and what now?",
   startTimestamp: 1564444631188,
-  endTimestamp: 1564444634734
+  endTimestamp: 1564444634734,
   buttons: [
     {
-            label: "Butang cubaan 1",
+            label: "Test button1",
             url: "https://premid.app/"
         },
         {
-            label: "Butang cubaan 2",
+            label: "Test button2",
             url: "https://premid.app/contributors"
         }
     ]
