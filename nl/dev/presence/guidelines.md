@@ -1,6 +1,6 @@
 ---
 title: Presence-richtlijnen
-description: Rules that all presence developers must follow to have their presence added.
+description: Regels die alle presence-ontwikkelaars moeten volgen om hun presence te laten toevoegen.
 published: true
 date: 2021-02-23T01:08:58.632Z
 tags:

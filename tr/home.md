@@ -27,7 +27,7 @@ PreMiD kurulumu hızlı ve kolaydır. Kısa sürede hazır ve çalışır durumd
 
 PreMiD için geliştirmeye [başlamak](/dev) bazı şeyleri kodlamadan önceki ilk adımınızdır.
 
-- :computer: [API](/dev/api): PreMiD API'sini kullanarak kaynaklara erişin ve eylemler gerçekleştirin.
+- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
 - :wrench: [Servis Geliştirme](/dev/presence): Servis oluşturma sistemimizin nasıl kullanacağınızı öğrenin.
 
 # Katkıda Bulun

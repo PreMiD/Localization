@@ -13,26 +13,26 @@ editor: markdown
 
 # PreMiD সম্বন্ধে
 - :mag: [PreMiD কী?](/about) PreMiD এর পিছনের উদ্দেশ্য এবং কেন তোমাকে এটা ব্যবহার করা উচিত।
-- :link: [RPC কী?](https://discordapp.com/rich-presence) Rich Presence সম্বন্ধে সবকিছু এবং এর ফাংশনগুলো।
+- :link: [RPC কী?](https://discordapp.com/rich-presence) Rich Presence সম্বন্ধে সবকিছু এবং এর ফাংশনগুলি।
 
 # শুরু করা যাক
 
 PreMiD ইন্সটল করা দ্রুত এবং সহজ। তুমি কাজ করা শুরু করে দিতে পারবে কিছুক্ষণের মধ্যেই।
 
-- নিশ্চিত করো যে তুমি [সিস্টেম রিকোয়ারমেন্টগুলো](/install/requirements) পড়েছ।
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- নিশ্চিত করো যে তুমি [সিস্টেম রিকোয়ারমেন্টগুলি](/install/requirements) পড়েছ।
+- অনুসরণ করো আমাদের দ্রুত এবং সহজ [ইন্সটলেশন গাইড](/install)।
+- [সমস্যা সমাধান](/troubleshooting) তোমাকে সমাধান দেয় সাধারণ সমস্যাগুলির।
 
 # ডেভেলপার
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+PreMiD ডেভেলপমেন্টের জন্য [শুরু করা যাক](/dev) হচ্ছে তোমার প্রথম ধাপ কোন কিছু কোড করার আগে।
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
+- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
 - :wrench: [Presence ডেভেলপমেন্ট](/dev/presence): শিখো কীভাবে আমাদের Presence সিস্টেম ব্যবহার করতে হয়।
 
 # কন্ট্রিবিউট
-- :bug: [একটি বাগ রিপোর্ট করো](https://github.com/PreMiD): আমাদের সাহায্য করো সেইসব বাগগুলো ঠিক করতে।
-- :bulb: [একটি নতুন ফিচারের পরামর্শ দাও](https://discord.premid.app/): আমাদের প্রয়োজন তোমার চিন্তাগুলো!
+- :bug: [একটি বাগ রিপোর্ট করো](https://github.com/PreMiD): আমাদের সাহায্য করো সেইসব বাগগুলি ঠিক করতে।
+- :bulb: [একটি নতুন ফিচারের পরামর্শ দাও](https://discord.premid.app/): আমাদের প্রয়োজন তোমার চিন্তাগুলি!
 - :heart: [দান করো](https://www.patreon.com/Timeraa): একটি ছোট অর্থ সাহায্য করো অথবা একজন স্পন্সর হয়ে যাও এই অসাধারণ প্রজেক্টের!
 - :globe_with_meridians: [অনুবাদ](https://translate.premid.app): অন্যান্য ইউজারদের তাদের মাতৃভাষায় PreMiD ব্যবহার করতে দাও।
 

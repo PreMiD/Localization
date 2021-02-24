@@ -27,7 +27,7 @@ PreMiD is quick and easy to install. You should be up and running in no time.
 
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
+- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
 # Đóng góp
