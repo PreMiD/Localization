@@ -231,10 +231,10 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 
 - **Toujours** déclarer une nouvelle instance de la classe `Presence` avant toute autre variable afin d'éviter des problèmes rares qui peuvent survenir; ce n'est pas une exigence de conception, il est donc possible qu'elle soit supprimée dans le futur.
 - **Ne jamais** utiliser des fonctions personnalisées lorsque [des variantes natives sont disponibles](https://docs.premid.app/dev/presence#files-explained); cela permet de s'assurer que les corrections au niveau de l'extension s'appliquent également à vos presences. Vous êtes libre d'utiliser ce dont vous avez besoin si vous ne les trouvez pas listés dans la documentation.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-- You are **not** allowed to access `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
+- Il est **interdit** de coder des Presences pour un site sans implémenter le support de son langage primare (par exemple, la Presence YouTube codée avec support pour le Portugais et le Japonais, mais pas l'Anglais en lui-même.)
+- Les champs `smallImageKey` et `smallImageText` sont destinés à fournir un contexte supplémentaire/secondaire (comme `playing/pause` pour des sites de vidéos, `navigation` pour des sites réguliers et d'autres cas) non pas pour promouvoir des profils Discord ou quoi que ce soit qui ne soit non lié à PreMiD.
+- Vous n'êtes **pas autorisé** à accéder à `localStorage`.
+- Lors de l'accès aux cookies pour les données stockées, veuillez préfixez la clé avec `PMD_`.
 - You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary. Only allowed API to make request is [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
 - Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 - You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
