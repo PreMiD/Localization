@@ -2,10 +2,10 @@
 title: プレゼンスガイドライン
 description: Rules that all presence developers must follow to have their presence added.
 published: true
-date: 2021-02-23T01:08:58.632Z
+date: 2021-02-24T22:23:11.142Z
 tags:
 editor: markdown
-dateCreated: 2020-06-11T18:04:45.733Z
+dateCreated: 2021-02-23T07:57:42.414Z
 ---
 
 <div align="center">
@@ -17,7 +17,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # ガイドライン
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # 作成
 
@@ -31,7 +31,7 @@ The general rules of presence development are as follows:
 - The domain of the presence must be at least 2 months old.
 - ブラウザの内部を指定するプレゼンスは許可されていません。（Chrome Web Store、`chrome://`、`about:` など。） これらを実装するには、試験中の機能(chrome://frags)を有効にする必要があり、ブラウザーやデータに大きなダメージを与える可能性があるからです。
 - 一つのサブドメインのみをサポートするプレゼンスは許可されていません。（ホームページなどで正常に表示されないことがあるため） 利用規約、連絡フォームなどのあまり使われないページや、他のコンテンツがメインのコンテンツに関連していないものは例外です。 (例えば、Wikiaなど)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
 - 低品質のプレゼンスは許可されていません。例えば、ロゴとサイト名だけ表示して、その後は一切表示が変わらないプレゼンスなどです。
 - With the `buttons` release, we require some guidelines for them:
   - Redirects to main page are prohibited.
