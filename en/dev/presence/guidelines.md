@@ -2,10 +2,10 @@
 title: Presence Guidelines
 description: Rules that all presence developers must follow to have their presence added.
 published: true
-date: 2021-02-23T01:08:58.632Z
+date: 2021-02-24T22:23:11.142Z
 tags: 
 editor: markdown
-dateCreated: 2020-06-11T18:04:45.733Z
+dateCreated: 2021-02-23T07:57:42.414Z
 ---
 
 <div align="center">
@@ -17,7 +17,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Guidelines
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Creation
 
@@ -31,7 +31,7 @@ The general rules of presence development are as follows:
 - The domain of the presence must be at least 2 months old.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
 - Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
 - With the `buttons` release, we require some guidelines for them:
   - Redirects to main page are prohibited.
