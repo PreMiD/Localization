@@ -440,7 +440,7 @@ const presenceData: PresenceData = {
   smallImageKey: "small_service_icon",
   smallImageText: "You hovered me, and what now?",
   startTimestamp: 1564444631188,
-  endTimestamp: 1564444634734
+  endTimestamp: 1564444634734,
   buttons: [
     {
             label: "Test button1",
