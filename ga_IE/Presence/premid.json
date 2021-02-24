@@ -38,5 +38,9 @@
 	"premid.pageTroubleshooting": {
 		"message": "Fabhtcheartú",
 		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Cumraigh metadata.json",
+		"description": "A page name"
 	}
 }
