@@ -2,10 +2,10 @@
 title: Servis Kılavuzu
 description: Rules that all presence developers must follow to have their presence added.
 published: true
-date: 2021-02-23T01:08:58.632Z
+date: 2021-02-24T22:23:11.142Z
 tags:
 editor: markdown
-dateCreated: 2020-06-11T18:04:45.733Z
+dateCreated: 2021-02-23T07:57:42.414Z
 ---
 
 <div align="center">
@@ -17,7 +17,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Guidelines
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Oluşturma
 
@@ -31,7 +31,7 @@ Servis geliştirmenin genel kuralları aşağıdaki gibidir:
 - Servisin alan adı en az 2 aylık olmalıdır.
 - Tarayıcılara yerleşik sayfalar için yapılan servislere izin verilmemektedir (örneğin, Chrome Web Mağazası, `chrome://`, `about:` sayfaları gibi). Bu sayfalara kod enjekte edebilmek gelişmiş bir ayar aktifleştirmeyi gerektirdiği ve tarayıcılara zarar verebileceğinden dolayı **yasaktır**.
 - Yalnızca tek bir sayfa için desteğe sahip varlıklara izin **verilmeyecektir**, çünkü diğer sayfalar için bozuk görünebilirler (örneğin ana sayfa), politika ve iletişim sayfaları (sık kullanılmayan içerik) veya sitelerin diğer ilgisiz içerikleri. (ör. viki sayfaları)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
 - Düşük kaliteli (veya tek bir işlev gerçekleştiren) servislere **izin verilmemektedir**. Örneğin sadece sitenin simgesini ve hiçbir zaman değişmeyen bir yazı göstermek.)
 - With the `buttons` release, we require some guidelines for them:
   - Redirects to main page are prohibited.

@@ -2,10 +2,10 @@
 title: Wytyczne dotyczące presence
 description: Rules that all presence developers must follow to have their presence added.
 published: true
-date: 2021-02-23T01:08:58.632Z
+date: 2021-02-24T22:23:11.142Z
 tags:
 editor: markdown
-dateCreated: 2020-06-11T18:04:45.733Z
+dateCreated: 2021-02-23T07:57:42.414Z
 ---
 
 <div align="center">
@@ -17,7 +17,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Wytyczne
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Dla niektórych te ścisłe zasady mogą wydawać się surowe. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Dla niektórych te ścisłe zasady mogą wydawać się surowe. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Tworzenie
 
@@ -31,7 +31,7 @@ The general rules of presence development are as follows:
 - The domain of the presence must be at least 2 months old.
 - Status kierowane na wewnętrzne strony przeglądarki (takie jak Chrome Web Store, `chrome://`, strony `about:`, itp.) **są niedozwolone**, ponieważ wymagają włączenia eksperymentalnej flagi po stronie użytkowników i mogą potencjalnie spowodować uszkodzenie ich przeglądarki.
 - Statusy wspierające tylko jedną sub-domenę **są niedozwolone** ponieważ mogą nie działać na innych stronach (takich jak strona główna), wyjątek mogą stanowić strony kontaktowe lub z polityką prywatności (czyli takie które nie są często używae) lub strony gdzie inna zawartość jest niezwiązana z sub-domeną. (np. strony wiki)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
 - Statusy o niskiej jakości (lub z małą ilością danych) **są niedozwolone** (np. pokazywanie logo i tekstu i nie zmienianie go już więcej)
 - With the `buttons` release, we require some guidelines for them:
   - Redirects to main page are prohibited.

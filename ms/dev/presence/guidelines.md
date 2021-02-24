@@ -2,10 +2,10 @@
 title: Garis Panduan Presence
 description: Peraturan yang kesemua pembangun Presence perlu ikut untuk membolehkan Presence mereka ditambah.
 published: true
-date: 2021-02-23T01:08:58.632Z
+date: 2021-02-24T22:23:11.142Z
 tags:
 editor: markdown
-dateCreated: 2020-06-11T18:04:45.733Z
+dateCreated: 2021-02-23T07:57:42.414Z
 ---
 
 <div align="center">
@@ -17,7 +17,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Garis Panduan
 
-Apabila menerbitkan Presence ke Github ini, kami memerlukan anda mengikut beberapa panduan yang ditetapkan. Bagi sesetengah orang, peraturan ketat ini nampak agak kejam. Namun, pelaksanaan set peraturan ini akan bantu kami dan pengguna kami untuk mengelakkan terjadinya isu.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Bagi sesetengah orang, peraturan ketat ini nampak agak kejam. Namun, pelaksanaan set peraturan ini akan bantu kami dan pengguna kami untuk mengelakkan terjadinya isu.
 
 # Penciptaan
 
@@ -31,7 +31,7 @@ Peraturan am pembangunan Presence adalah seperti berikut:
 - Domain bagi Presence mestilah berusia sekurang-kurangnya 2 bulan.
 - Presence yang mensasarkan halaman pelayar dalaman (seperti Kedai Web Chrome, `chrome://`, halaman `about:`, dll) **tidak** dibenarkan kerana mereka perlukan bendera uji kaji untuk dibolehkan di pihak pengguna dan mampu menyebabkan kerosakan pada pelayar mereka.
 - Presence dengan sokongan hanya untuk subdomain tunggal **tidak** akan dibenarkan, kerana ia akan tampak rosak untuk halaman lain (seperti halaman utama), pengecualian boleh dibuat untuk halaman polisi dan perhubungan (kandungan yang tidak kerap digunakan) atau laman di mana kandungan lainnya tidak mempunyai kaitan. (sbg. cth., laman wikia)
-- Presence untuk radio dalam talian hanya dibenarkan sekiranya radio tersebut mempunyai sekurang-kurangnya 100 pendengar mingguan dan 15 pendengar serempak dan mesti mempunyai ciri lain daripada setakat menunjukkan tajuk lagu/album dll.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
 - Presence kualiti rendah (atau yang mana dengan konteks kecil) adalah **tidak** dibenarkan (sbg. cth., hanya menunjukkan logo dan tulisan tetapi tidak mengubahnya lagi.)
 - Dengan terbitan `buttons`, kami memerlukan beberapa garis panduan untuknya:
   - Lencongan ke laman utama tidak dibenarkan.
