@@ -27,7 +27,7 @@ PreMid سريع وسهل التثبيت. يجب أن تكون جاهز وتعم�
 
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 
-- :computer: [API](/dev/api): Access ressources and perform actions using the PreMiD API.
+- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
 # ساهم
