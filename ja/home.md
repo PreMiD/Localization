@@ -27,7 +27,7 @@ PreMiDのインストールはとってもかんたん！ すぐに使えるよ�
 
 [PreMiD開発入門](/dev)は何かを作る前にするべき最初の一歩です。
 
-- :computer: [API](/dev/api): PreMiDのAPIを使って、リソースにアクセスしたりアクションを実行
+- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
 - :wrench: [Presence Development](/dev/presence): PreMiDのプレゼンスシステムの使い方を学ぶ
 
 # 貢献する
