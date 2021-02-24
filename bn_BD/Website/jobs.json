@@ -44,11 +44,11 @@
 		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
-		"message": "কাজের সুযোগগুলো",
+		"message": "কাজের সুযোগগুলি",
 		"description": "Text before the available job positions cards."
 	},
 	"jobs.benefits.title": {
-		"message": "বড় সুবিধাগুলো",
+		"message": "বড় সুবিধাগুলি",
 		"description": "Text before the benefits cards."
 	},
 	"jobs.benefit1.title": {
@@ -96,7 +96,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
-		"message": "নতুন ফিচারগুলো টেস্ট করো অন্য কারোর আগে।",
+		"message": "নতুন ফিচারগুলি টেস্ট করো অন্য কারোর আগে।",
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {

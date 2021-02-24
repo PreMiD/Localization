@@ -4,7 +4,7 @@
 		"description": "after the \":\" it will say the username"
 	},
 	"twitter.viewDms": {
-		"message": "দেখছে তার মেসেজগুলো",
+		"message": "দেখছে তার মেসেজগুলি",
 		"description": ""
 	},
 	"twitter.viewTweets": {

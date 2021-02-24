@@ -8,7 +8,7 @@
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "এগুলো আমাদেরই",
+		"message": "এগুলি আমাদেরই",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -64,7 +64,7 @@
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "আমরা ইন্টারনেটে চোখ রাখি বড় হওয়া কমিউনিটি এবং মজার জিনিসগুলোর প্রতি। ছোট কথায় তোমার এখনই PreMiD ব্যবহার করা উচিত এবং তৈরি হওয়া উচিত এটাকে আরো ইন্টারনেট আসক্তদের কাছে ছড়ানো। প্রোগ্রামটিতে গ্রহণযোগ্যতা অত্যন্ত গুণগত এবং এক প্রার্থী থেকে পরবর্তী প্রার্থীর মধ্যে পরিবর্তিত হবে।",
+		"message": "আমরা ইন্টারনেটে চোখ রাখি বড় হওয়া কমিউনিটি এবং মজার জিনিসগুলির প্রতি। ছোট কথায় তোমার এখনই PreMiD ব্যবহার করা উচিত এবং তৈরি হওয়া উচিত এটাকে আরো ইন্টারনেট আসক্তদের কাছে ছড়ানো। প্রোগ্রামটিতে গ্রহণযোগ্যতা অত্যন্ত গুণগত এবং এক প্রার্থী থেকে পরবর্তী প্রার্থীর মধ্যে পরিবর্তিত হবে।",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
@@ -112,7 +112,7 @@
 		"description": "Description for iLoot."
 	},
 	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio হচ্ছে জার্মানি, অস্ট্রিয়া এবং সুইজারল্যান্ডে সিমুলেশন গেমগুলোর জন্য সবচেয়ে সফল বিনোদন এবং খবরের রেডিও!",
+		"message": "SimLiveRadio হচ্ছে জার্মানি, অস্ট্রিয়া এবং সুইজারল্যান্ডে সিমুলেশন গেমগুলির জন্য সবচেয়ে সফল বিনোদন এবং খবরের রেডিও!",
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.aniWatch": {
@@ -124,7 +124,7 @@
 		"description": "Description for DiscordTemplates."
 	},
 	"partners.partner.taigaBot": {
-		"message": "taiga হচ্ছে একটি Discord বট চেষ্টা করছে সমস্ত ফিচারগুলো একবারে দিতে যা প্রয়োজন হতে পারে!",
+		"message": "taiga হচ্ছে একটি Discord বট চেষ্টা করছে সমস্ত ফিচারগুলি একবারে দিতে যা প্রয়োজন হতে পারে!",
 		"description": "Description for taigabot."
 	},
 	"partners.partner.bitRock": {
@@ -140,11 +140,11 @@
 		"description": "Description for Erisly."
 	},
 	"partners.partner.reyfm": {
-		"message": "REYFM শুনতে দেয় তোমাকে 15+ মিউজিক স্ট্রিমগুলো ফ্রিতে - ননস্টপ। সেরা এবং লেটেস্ট গান শুধু তোমার জন্যে!",
+		"message": "REYFM শুনতে দেয় তোমাকে 15+ মিউজিক স্ট্রিমগুলি ফ্রিতে - ননস্টপ। সেরা এবং লেটেস্ট গান শুধু তোমার জন্যে!",
 		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
-		"message": "টেক কোম্পানিগুলোর জন্য দ্রুত স্থানীয়করণ।",
+		"message": "টেক কোম্পানিগুলির জন্য দ্রুত স্থানীয়করণ।",
 		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
@@ -160,7 +160,7 @@
 		"description": "Description for Fastly."
 	},
 	"partners.partner.onlyhit": {
-		"message": "OnlyHit হচ্ছে তোমার অনলাইন মিউজিক রেডিও স্টেশন যা বাজায় সেরা গানগুলো 24/7 এবং আবিষ্কার করায় ভবিষ্যৎের গানগুলো প্রথমে।",
+		"message": "OnlyHit হচ্ছে তোমার অনলাইন মিউজিক রেডিও স্টেশন যা বাজায় সেরা গানগুলি 24/7 এবং আবিষ্কার করায় ভবিষ্যৎের গানগুলি প্রথমে।",
 		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
