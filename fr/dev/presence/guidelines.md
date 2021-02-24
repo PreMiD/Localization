@@ -215,22 +215,22 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 ### **`réglages`**
 
 - Si vous décidez de faire un imprimer formaté (par exemple : `%song% par %artist%`), les variables doivent être encerclé d'un "%" de part et d'autre. Les variables comme `%var`, `var%` ou `%%var%%` ne sont **pas** autorisé dans l'intérêt de respecter la standardisation.
-- Le nom des paramètres ne doit **pas** être en lettres capitales. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
-- If you are using multiLanguage option you should know:
-  - **Bolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
-  - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
-  - **Array<String>** type value (e.g. `["youtube.json", "vlive.json"]`) will specify name of files that you want get strings from.
+- Le nom des paramètres ne doit **pas** être en lettres capitales. Par exemple, les nom comme `AFFICHER LE STATUT DE NAVIGATION` ne seront **pas** autorisé; en revanche, les nom tel que `Afficher le Statut de Navigation` ou `Afficher le statut de navigation` sont autorisé.
+- Si vous utilisez l'option multiLanguage, vous devez savoir que:
+  - Une valeur de type **booléenne** n'activera que les chaînes de caractères de [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) du dépôt de traduction ou du fichier de la Presence (par exemple: si la nom de la présence est YouTube, l'extension prendra les chaînes de caractères du fichier `youtube.json`.)
+  - Une valeur de type **String** (par exemple `youtube.json`) spécifiera le nom du fichier dont vous voulez obtenir les chaînes de caractères.
+  - Une valeur de type **Array<String>** (par exemple `["youtube.json", "vlive.json"]`) spécifiera le nom des fichiers dont vous voulez obtenir les chaînes de caractères.
 
 ## [**presence.ts**](/dev/presence/class)
 
 > Le code que vous écrivez **doit** être _bien écrit_ et **doit** être _lisible_ et toutes les chaînes doivent être grammaticalement correctes (les erreurs de grammaire sur les sites Web peuvent être ignorées).
 
-> Chaque presence suit un ensemble de règles strictes qui seront vérifiées pendant le processus de vérification. Quelques recommandations peuvent être consultées ci-dessous. [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Recommendations](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
+> Chaque presence suit un ensemble de règles strictes qui seront vérifiées pendant le processus de vérification. Quelques recommandations peuvent être consultées ci-dessous. - [Recommandations relatives au plugin TypeScript pour la vérification stricte des types](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [Recommandations ESlint](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
 
 Voici une liste de règles que vous devez suivre lors de l'écriture de votre fichier `presence.ts` :
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- **Toujours** déclarer une nouvelle instance de la classe `Presence` avant toute autre variable afin d'éviter des problèmes rares qui peuvent survenir; ce n'est pas une exigence de conception, il est donc possible qu'elle soit supprimée dans le futur.
+- **Ne jamais** utiliser des fonctions personnalisées lorsque [des variantes natives sont disponibles](https://docs.premid.app/dev/presence#files-explained); cela permet de s'assurer que les corrections au niveau de l'extension s'appliquent également à vos presences. Vous êtes libre d'utiliser ce dont vous avez besoin si vous ne les trouvez pas listés dans la documentation.
 - It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
