@@ -337,21 +337,21 @@ Dit scherm volgt variabelen, ze zijn allemaal optioneel.
 </table>
 
 ```typescript
-const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+const presenceData: presenceData = {
+  details: "Mijn titel",
+  state: "Mijn beschrijving",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "Je hebt me bekeken, en wat nu?" ,
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734,
   buttons: [
     {
-            label: "Test button1",
+            label: "Testknop 1",
             url: "https://premid.app/"
         },
         {
-            label: "Test button2",
+            label: "Testknop 2",
             url: "https://premid.app/contributors"
         }
     ]
