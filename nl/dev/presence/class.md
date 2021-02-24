@@ -329,7 +329,7 @@ Dit scherm volgt variabelen, ze zijn allemaal optioneel.
     </tr>
         <tr>
       <td style="text-align:left">buttons</td>
-      <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
+      <td style="text-align:left">Array van buttons, max. 2, label is de knoptekst, en url is de link.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>
