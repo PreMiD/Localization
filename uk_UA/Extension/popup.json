@@ -115,6 +115,10 @@
 		"message": "Відсутній зв’язок з Discord!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD не вдалося підключитися до вашого Discord застосунку! Він встановлений і працює? *Troubleshooting*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Усе",
 		"description": "Category name shown when you open tags"
