@@ -59,7 +59,7 @@ PreMiD以外の拡張機能をオフにして、動くか見てみましょう�
 たまにファイルが壊れていたりする場合があります… [ここで](/install)再インストールの方法が確認できます。
 
 ### 手動で削除する
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windowsの場合は、`C:\Users\ユーザー名\AppData\Roaming\ `に行き、`PreMiD`を削除してください。 見つからない場合は、`Win+R`を押して、`%appdata%`と入力してからPreMiDを削除してください。 MacOSの場合は`~/users/USER/~Library/Application Support/`に行き、` PreMiD`` `を削除してください。
 
 ### McAfeeがPreMiDをウイルスとして検出する場合(windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
