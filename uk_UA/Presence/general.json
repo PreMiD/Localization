@@ -230,5 +230,9 @@
 	"general.cookie": {
 		"message": "Політика використання Cookie",
 		"description": "A page name"
+	},
+	"general.buttonViewProfile": {
+		"message": "Переглянути профіль",
+		"description": "Used as the title for the button in Discord."
 	}
 }
