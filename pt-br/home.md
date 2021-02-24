@@ -27,7 +27,7 @@ PreMiD é rápido e fácil de instalar. Você deverá estar funcionando logo, lo
 
 [Primeiros passos](/dev) para o desenvolvimento no PreMiD é o seu primeiro passo antes de desenvolver algumas coisas.
 
-- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
+- :computer: [API](/dev/api): Acesse recursos e performe ações usando a API do PreMiD.
 - :wrench: [Desenvolvimento de Presences](/dev/presence): Aprenda como usar nosso sistema de Presences.
 
 # Contribua

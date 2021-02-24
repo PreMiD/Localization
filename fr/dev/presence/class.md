@@ -336,13 +336,23 @@ Les variables de cette interface sont les suivantes, toutes sont optionnelles.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "Mon titre",
-  state: "Ma description",
-  largeImageKey: "logo_service,
-  smallImageKey: "petit_logo_service",
-  smallImageText: "Vous m'avez survoler, et maintenant ?",
+  details: "My title",
+  state: "My description",
+  largeImageKey: "service_logo",
+  smallImageKey: "small_service_icon",
+  smallImageText: "You hovered me, and what now?",
   startTimestamp: 1564444631188,
-  endTimestamp: 1564444634734
+  endTimestamp: 1564444634734,
+  buttons: [
+    {
+            label: "Test button1",
+            url: "https://premid.app/"
+        },
+        {
+            label: "Test button2",
+            url: "https://premid.app/contributors"
+        }
+    ]
 };
 ```
 
