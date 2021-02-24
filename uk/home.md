@@ -27,7 +27,7 @@ PreMiD є швидким і простим для встановлення. Ви
 
 [Початок розробки для PreMiD](/dev) — це ваш перший крок перед програмуванням деяких речей.
 
-- :computer: [API](/dev/api): Доступ до джерел та виконання дій за допомогою PreMiD API.
+- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
 - :wrench: [Розробка оголошень](/dev/presence): Дізнайтеся, як використовувати нашу систему присутностей.
 
 # Зробіть внесок
