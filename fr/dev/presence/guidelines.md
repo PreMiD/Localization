@@ -1,11 +1,11 @@
 ---
 title: Règlement de Presence
-description: Rules that all presence developers must follow to have their presence added.
+description: Règles que tous les développeurs de Presence doivent suivre pour avoir leur Presence ajoutée.
 published: true
-date: 2021-02-23T01:08:58.632Z
+date: 2021-02-24T22:23:11.142Z
 tags:
 editor: markdown
-dateCreated: 2020-06-11T18:04:45.733Z
+dateCreated: 2021-02-23T07:57:42.414Z
 ---
 
 <div align="center">
@@ -17,7 +17,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Instructions
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Pour certains, ces règles strictes peuvent paraître sévères. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Pour certains, ces règles strictes peuvent paraître sévères. Cependant, la mise en œuvre de ces règles nous empêchera et empêchera les utilisateurs de faire face à des problèmes.
 
 # Création
 
@@ -31,13 +31,13 @@ Les règles générales de développement de presence sont les suivantes:
 - Le domaine de la Presence doit avoir au moins 2 mois.
 - Les presences qui ciblent les pages internes du navigateur (comme Chrome Web Store, les pages `chrome://`, `about:`, etc) **ne sont pas** autorisés car elles nécessitent un drapeau expérimental à activer du côté de l'utilisateur et peuvent potentiellement causer des dommages à leurs navigateurs.
 - Les presences prenant en charge seulement une page **ne seront pas** autorisées, car elles pourraient sembler cassées pour d'autres pages (comme la page d'accueil), des exceptions peuvent être faites pour les pages de politique de confidentialité et de contact (contenu qui n'est pas souvent utilisé) ou alors sites où l'autre contenu n'est pas lié. (par exemple, les pages wikia)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
 - Les presences de faible qualité (ou celles n'ayant qu'un seul contexte) **ne sont pas autorisées** (par exemple : Afficher uniquement un logo et du texte et ne plus jamais les changer.)
 - Avec la mise à jour des `boutons`, nous demandons de suivre certaines directives:
   - Les redirections vers la page d'accueil sont interdites.
   - La promotion de sites internet est interdite.
   - Ils ne peuvent pas afficher des données additionnelles quand vous ne pouvez pas les afficher dans le `state` ou dans `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Inclure le dossier `dist`, les fichiers `presence.ts`, `iframe.ts` et `metadata.json` sont obligatoire afin que le résultat corrésponde à ce qui est représenté dans le schéma suivant :
 
 ```bash
 presence
@@ -151,11 +151,11 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 - Le nom du service **doit être** le nom du répertoire de presence. Par exemple, si la presence est située à `/websites/Y/YouTube/`, le nom du service doit être `YouTube`.
 - Vous **ne pouvez pas** utiliser l'url comme nom de service à moins que le site utilise l'url comme nom officiel. Si le nom n'est pas descriptif et peut être considéré comme vague, l'utilisation de l'url est **obligatoire**. (par exemple, `YouTube` est autorisé car c'est le nom officiel et est descriptif, alors que `youtube.com` ne l'est pas. `Top` est un nom non descriptif, donc l'utilisation de l'url `top.gg` est **requise**.)
-- If service has some explicit branding rules of their name, you should follow them.
+- Si le service a des règles de marques explicites pour leur nom, vous devriez les suivre.
 
 ### **`*altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- Utilisez **seulement** ceci dans les scénarios où un site Web comporte plusieurs noms officiels (par ex. Pokémon et 포켓몬스터). Les *abréviations* du nom du service vont dans `tags`.
 
 ### **`description`**
 
@@ -195,27 +195,27 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 ### **`catégorie`**
 
-- The category **must** be one of the following listed on the [documentation](/dev/presence/metadata#presence-categories).
+- La catégorie **doit** être l'une des catégories suivantes listées sur la [documentation](/dev/presence/metadata#presence-categories).
 - La présence doit être dans une catégorie qui correspond au contenu du site web. (par exemple, n'utilisez pas `anime` lorsque le site n'est pas lié aux animes).
 
 ### **`*regExp`** <br /> **`*iFrameRegExp`**
 
-- Les expressions régulières **doivent** être valides. Please test your expressions with the tools listed on the [documentation](/dev/presence/metadata#testing).
+- Les expressions régulières **doivent** être valides. Veuillez tester vos expressions avec les outils listés sur la [documentation](/dev/presence/metadata#testing).
 
 ### **`readLogs`**
 
-- Must be `boolean` value (e.g. `true` or `false`).
-- Enables logs for your presence.
+- Doit être une valeur `booléenne` (par exemple: `true` ou `false`).
+- Active les logs de votre presence.
 
-### **`warning`**
+### **`attention`**
 
-- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
-- Example of presence using this metadata variable is `VLC`.
+- Active l'icône warning pour notifier l'utilisateur que cette Presence nécéssite plus d'étapes que le simple ajout de cette présence.
+- Un exemple de Presence utilisant cette variable de métadonnées est `VLC`.
 
 ### **`réglages`**
 
-- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Si vous décidez de faire un imprimer formaté (par exemple : `%song% par %artist%`), les variables doivent être encerclé d'un "%" de part et d'autre. Les variables comme `%var`, `var%` ou `%%var%%` ne sont **pas** autorisé dans l'intérêt de respecter la standardisation.
+- Le nom des paramètres ne doit **pas** être en lettres capitales. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 - If you are using multiLanguage option you should know:
   - **Bolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
   - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
