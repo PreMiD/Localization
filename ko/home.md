@@ -27,7 +27,7 @@ PreMiD 설치는 빠르고 쉽습니다. 집중하시고, 시작합니다!
 
 [시작하기](/dev) PreMiD 를 개발하기 전 첫 단계
 
-- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
+- :computer:[API](/dev/api): PreMiD API를 사용하여 자료에 접근하고 작업을 수행하세요.
 - :wrench:[Presence 개발](/dev/presence): 우리의 Presence 체계를 어떻게 사용하는지 배우기.
 
 # 기여하기
