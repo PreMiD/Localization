@@ -2,10 +2,10 @@
 title: Normas de las Presence
 description: Rules that all presence developers must follow to have their presence added.
 published: verdadero
-date: 2021-02-23T01:08:58.632Z
+date: 2021-02-24T22:23:11.142Z
 tags:
 editor: markdown
-dateCreated: 2020-06-11T18:04:45.733Z
+dateCreated: 2021-02-23T07:57:42.414Z
 ---
 
 <div align="center">
@@ -17,7 +17,7 @@ dateCreated: 2020-06-11T18:04:45.733Z
 
 # Directrices
 
-When publishing Presences to this GitHub, we require you to follow a set of guidelines. Para algunos, estás reglas pueden parecer estrictas. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Para algunos, estás reglas pueden parecer estrictas. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Creación
 
@@ -31,7 +31,7 @@ Las reglas generales del desarrollo de una Presence son las siguientes:
 - El dominio de la presence debe tener al menos una antigüedad de 2 meses.
 - Presences que tienen como destino páginas internas del navegador (como Chrome Web Store, `chrome://`, páginas `about:`, etc.) **no** están permitidas ya que requieren que se habilite una configuración experimental en el lado del usuario y podría causar daños al navegador.
 - Las Presences con soporte para un solo subdominio **no** se permitirán, ya que pueden parecer rotas para otras páginas (como la página de inicio), se pueden hacer excepciones para la política y las paginas de contacto (contenido que no se usa con frecuencia) o sitios donde el otro contenido no este relacionado. (por ejemplo, paginas de wikia)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features than only showing album/song title etc.
+- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
 - Las presences de baja calidad (o las que tienen poco contexto) ** no ** están permitidas (p. ej., mostrar solo un logotipo y texto pero nunca volver a cambiarlo)
 - With the `buttons` release, we require some guidelines for them:
   - Redirects to main page are prohibited.
