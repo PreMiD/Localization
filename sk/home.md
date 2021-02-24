@@ -27,16 +27,10 @@ PreMiD je rýchly a ľahko sa inštaluje. Mali by ste byť v prevádzke hneď.
 
 [Začíname](/dev) pre výrobu PreMiDu váš prvý krok pred kódovaním stoja niektoré veci.
 
-- :computer:
-
-: Získajte prístup k zdrojom a vykonávajte akcie pomocou rozhrania API PreMiDu.</li> 
-  
-  - :wrench:[Vývoj Prítomnosti](/dev/presence): Naučte sa používať náš prezenčný systém.</ul> 
-
-
+- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
+- :wrench:[Vývoj Prítomnosti](/dev/presence): Naučte sa používať náš prezenčný systém.
 
 # Prispieť
-
 - :bug:[ Nahláste Chybu](https://github.com/PreMiD): Pomôžte nám rozdrviť tie otravné chyby.
 - :bulb:[Navrhnite Nové Funkcie](https://discord.premid.app/): Potrebujeme vaše nápady!
 - :heart:[Prispejte](https://www.patreon.com/Timeraa): Poskytnite malý dar alebo sa staňte sa sponzorom tohto úžasného projektu!
