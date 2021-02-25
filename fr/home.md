@@ -2,9 +2,10 @@
 title: Accueil
 description: Document officiel pour la v2
 published: true
-date: 2020-08-29T21:41:40.722Z
+date: 2021-02-24T23:22:41.678Z
 tags:
 editor: markdown
+dateCreated: 2020-06-11T18:03:47.172Z
 ---
 
 > La documentation est toujours en cours de modification ! Certaines pages peuvent être incomplètes ou manquantes. 
