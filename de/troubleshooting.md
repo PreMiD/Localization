@@ -59,7 +59,7 @@ Wir hoffen, dass du weißt wie du deinen Computer neustartest.
 Manchmal stimmt etwas nicht mit den Dateien... Anleitungen für die Installation findest du [hier](/install).
 
 ### Manuelles Löschen
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows: Öffne den Pfad `C:\Users\USER\AppData\Roaming` und lösche den Ordner `PreMiD`. MacOS: `~/users/USER/~Library/Application Support/` und lösche den Ordner `PreMiD`.
 
 ### McAfee erkennt PreMiD als Virus (Windows)
 Das ist ein falsch-positiver von McAfee und wir haben das Problem ihnen gemeldet, fürs Erste kannst du PreMiD vom Scan ausschliessen indem du folgende Schritte ausführst:
