@@ -1,1 +1,122 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Ag breathnú ar fhógra faoi láthair",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Ag brabhsáil trí fhíseáin",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Ag brabhsáil trí seinmliostaí",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Ag féachaint ar phoist phobail",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "den chainéal:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Ag léamh faoin gcainéal:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Ag cuardach trí chainéal: {0} le haghaidh:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Ag féachaint ar a bhfuil ag titim amach",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Ag brabhsáil tríd",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "a síntiúis",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "a leabharlann",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "a stair",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "a gceannach",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Ag féachaint ar stair a dtuairisce",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Rud a uaslódáil...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Ag féachaint ar a gcuid seinmliostaí go léir",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Ag féachaint ar a n-imeachtaí beo",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Ag féachaint ar a n-painéal beo",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Ag féachaint ar an leabharlann fuaime",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Ag féachaint ar a gcuid físeáin",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Físeán eagarthóireachta:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Anailísíocht físe a fheiceáil:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Ag féachaint ar thráchtanna físe:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Ag féachaint ar aistriúcháin ar fhíseán:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Ag féachaint ar a gcuid",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "anailísíocht cainéil",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "tráchtanna cainéil",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "aistriúcháin cainéil",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "leathanach ealaíontóra",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Ag féachaint ar a n-painéal",
+        "description": ""
+    }
+}
