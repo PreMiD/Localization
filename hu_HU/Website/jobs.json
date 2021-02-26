@@ -1,4 +1,8 @@
 {
+	"jobs.modal.buttons.cancel": {
+		"message": "Mégse",
+		"description": "Cancel, button in the modal."
+	},
 	"jobs.benefit6.title": {
 		"message": "Korai hozzáférés",
 		"description": "Benefit card title."
