@@ -1,1 +1,10 @@
-{}
+{
+	"v live.browseThrough": {
+		"message": "Ag brabhsáil tríd",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "Ag féachaint ar a gcuid",
+		"description": "The first part of the next 6 strings"
+	}
+}
