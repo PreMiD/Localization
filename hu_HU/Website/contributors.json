@@ -27,6 +27,10 @@
 		"message": "Moderátor",
 		"description": "'Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.donator": {
+		"message": "Támogató",
+		"description": "'Donator' title for contributors page."
+	},
 	"contributors.roles.booster": {
 		"message": "Booster",
 		"description": "'Booster' title for contributors page and user pages."

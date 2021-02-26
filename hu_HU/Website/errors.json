@@ -1,4 +1,8 @@
 {
+	"error.page.details": {
+		"message": "Részletek",
+		"description": "'Details' text on error page container"
+	},
 	"user.notFound.heading": {
 		"message": "Ez a felhasználó nem található. Próbálj megbizonyosodni a következőkről",
 		"description": "Error when user couldn't be found."
