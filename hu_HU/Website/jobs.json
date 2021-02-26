@@ -1,4 +1,8 @@
 {
+	"jobs.modal.buttons.next": {
+		"message": "Következő",
+		"description": "Next button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Mégse",
 		"description": "Cancel, button in the modal."
