@@ -1,1 +1,6 @@
-{}
+{
+	"thankyou.title": {
+		"message": "Szuper! Most már béta felhasználó vagy!",
+		"description": "Thank You page title"
+	}
+}
