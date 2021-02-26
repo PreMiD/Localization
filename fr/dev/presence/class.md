@@ -2,10 +2,10 @@
 title: Classe Presence
 description: La classe principale pour chaque presence PreMiD
 published: true
-date: 2021-02-21T18:28:45.568Z
+date: 2021-02-26T20:42:26.910Z
 tags:
 editor: markdown
-dateCreated: 2020-06-11T18:04:42.004Z
+dateCreated: 2021-02-21T21:13:14.449Z
 ---
 
 # Classe Presence
@@ -136,8 +136,8 @@ if (oldLang !== newLang) {
   strings = getStrings();
 }
 
-const playString = strings.play; // Résultat: Joue
-const pauseString = strings.pause; // Résultat: En pause
+const playString = (await strings).play, // result: Playing
+  pauseString = (await strings).pause; // result: Paused
 ```
 
 ### `getPageletiable(String)`
