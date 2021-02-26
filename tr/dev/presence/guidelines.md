@@ -2,10 +2,10 @@
 title: Servis Kılavuzu
 description: Rules that all presence developers must follow to have their presence added.
 published: true
-date: 2021-02-24T22:23:11.142Z
+date: 2021-02-26T21:45:36.174Z
 tags:
 editor: markdown
-dateCreated: 2021-02-23T07:57:42.414Z
+dateCreated: 2021-02-24T22:30:46.792Z
 ---
 
 <div align="center">
@@ -217,7 +217,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 - If you are using multiLanguage option you should know:
-  - **Bolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
+  - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
   - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
   - **Array<String>** type value (e.g. `["youtube.json", "vlive.json"]`) will specify name of files that you want get strings from.
 
