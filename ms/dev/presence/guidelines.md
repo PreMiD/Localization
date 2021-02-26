@@ -2,10 +2,10 @@
 title: Garis Panduan Presence
 description: Peraturan yang kesemua pembangun Presence perlu ikut untuk membolehkan Presence mereka ditambah.
 published: true
-date: 2021-02-24T22:23:11.142Z
+date: 2021-02-26T21:45:36.174Z
 tags:
 editor: markdown
-dateCreated: 2021-02-23T07:57:42.414Z
+dateCreated: 2021-02-24T22:30:46.792Z
 ---
 
 <div align="center">
@@ -217,7 +217,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 - Jika anda memutuskan untuk membuat rentetan format (sbg. cth., `%song% by %artist%`), anda mesti meletakkan pemboleh ubah yang diapit dengan tanda peratus di kedua-dua sisi. Pemboleh ubah seperti `%var`, `var%`, atau `%%var%%` dan lain-lain yang serupa **tidak** dibenarkan untuk tujuan pemiawaian.
 - Nama tetapan **tidak** patut berhuruf besar semata-mata. Sebagai contoh, nama seperti `SHOW BROWSING STATUS` itu **tidak** akan dibenarkan; tetapi, nama seperti `Show Browsing Status` atau `Show browsing status` dibenarkan.
 - Jika anda menggunakan pilihan multiLanguage, anda patut tahu:
-  - Nilai jenis **Bolean** hanya membolehkan rentetan daripada [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) di repositori Penyetempatan atau daripada fail Presence (cth. apabila nama Presence ialah YouTube, sambungan akan dapatkan rentetan daripada fail `youtube.json` juga.)
+  - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
   - Nilai jenis rentetan **String** (cth. `youtube.json`) akan menyatakan nama fail yang mana anda ingin dapatkan rentetan tersebut.
   - Nilai jenis tatasusunan **Array<String>** (cth. `["youtube.json", "vlive.json"]`) akan menyatakan nama bagi kesemua fail berkaitan yang anda ingin dapatkan rentetan tersebut.
 
