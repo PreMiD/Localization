@@ -2,10 +2,10 @@
 title: Règlement de Presence
 description: Règles que tous les développeurs de Presence doivent suivre pour avoir leur Presence ajoutée.
 published: true
-date: 2021-02-24T22:23:11.142Z
+date: 2021-02-26T21:45:36.174Z
 tags:
 editor: markdown
-dateCreated: 2021-02-23T07:57:42.414Z
+dateCreated: 2021-02-24T22:30:46.792Z
 ---
 
 <div align="center">
@@ -217,7 +217,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 - Si vous décidez de faire un imprimer formaté (par exemple : `%song% par %artist%`), les variables doivent être encerclé d'un "%" de part et d'autre. Les variables comme `%var`, `var%` ou `%%var%%` ne sont **pas** autorisé dans l'intérêt de respecter la standardisation.
 - Le nom des paramètres ne doit **pas** être en lettres capitales. Par exemple, les nom comme `AFFICHER LE STATUT DE NAVIGATION` ne seront **pas** autorisé; en revanche, les nom tel que `Afficher le Statut de Navigation` ou `Afficher le statut de navigation` sont autorisé.
 - Si vous utilisez l'option multiLanguage, vous devez savoir que:
-  - Une valeur de type **booléenne** n'activera que les chaînes de caractères de [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) du dépôt de traduction ou du fichier de la Presence (par exemple: si la nom de la présence est YouTube, l'extension prendra les chaînes de caractères du fichier `youtube.json`.)
+  - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
   - Une valeur de type **String** (par exemple `youtube.json`) spécifiera le nom du fichier dont vous voulez obtenir les chaînes de caractères.
   - Une valeur de type **Array<String>** (par exemple `["youtube.json", "vlive.json"]`) spécifiera le nom des fichiers dont vous voulez obtenir les chaînes de caractères.
 
