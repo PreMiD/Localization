@@ -10,5 +10,9 @@
 	"twitch.home": {
 		"message": "Leathanach baile",
 		"description": "Page name"
+	},
+	"twitch.viewTheir": {
+		"message": "Ag féachaint ar a gcuid",
+		"description": "Part 1 of the next 10 strings"
 	}
 }
