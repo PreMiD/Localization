@@ -19,6 +19,14 @@
 		"message": "Schaut sich zufällige Skins an",
 		"description": "Skins is how you appear in the game."
 	},
+	"namemc.skinsTagged": {
+		"message": "Schaut sich getaggte Skins an",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTag": {
+		"message": "Schaut sich Skins mit dem Tag {0} an",
+		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
+	},
 	"namemc.viewSkin": {
 		"message": "Betrachtet einen Skin",
 		"description": "Skins is how you appear in the game."
@@ -39,6 +47,18 @@
 		"message": "Betrachtet Server:",
 		"description": ""
 	},
+	"namemc.buttonViewServer": {
+		"message": "Schaut Server an",
+		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "Schaut wie man sein Profil beansprucht",
+		"description": ""
+	},
+	"namemc.profileEdit": {
+		"message": "Bearbeitet seine {0} Profilinfo",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
 	"namemc.viewFriends": {
 		"message": "Betrachtet seine Freunde",
 		"description": ""
@@ -46,5 +66,9 @@
 	"namemc.viewSkins": {
 		"message": "Betrachtet seinen Skin",
 		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "Schaut sich seine Profilemojis an",
+		"description": "You can have an emoji next to your name, you select it here."
 	}
 }
