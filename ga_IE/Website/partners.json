@@ -107,17 +107,9 @@
 		"message": "Is raidió idirnáisiúnta neamhbhrabúis é UpBeat a dhéanann a dhícheall siamsaíocht gan stad agus raidió agus nuachta ar ardchaighdeán a sholáthar.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "An t-ardán tuillimh gamer.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "Is é SimLiveRadio an raidió infotainment is rathúla do chluichí insamhalta sa Ghearmáin, san Ostair agus san Eilvéis!",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Faigh an rud atá ceart agatsa. Anime, Scannáin, Hentai, Speisialta srutha agus go leor eile. Saor in aisce, gan aon fhógraí agus i sainmhíniú ard!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Tosaigh ag cruthú do phobail féin lenár dteimpléid uamhnach. Tóg do ríocht féin.",
