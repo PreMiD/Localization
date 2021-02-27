@@ -79,6 +79,66 @@
 		"message": "Подайте заявку прямо сейчас!",
 		"description": "Button to apply for partner."
 	},
+	"partners.apply.disclaimer": {
+		"message": "Давай вместе отправимся на небеса!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Если Вас интересует непосредственная работа в PreMiD, то ознакомьтесь с нашими **объявлениями о работе**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Спонсоры",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD был бы невозможен без этих удивительных людей.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Вот как вы смотрите аниме.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings-это быстро развивающаяся PvP-арена следующего поколения, в которую можно играть в браузере.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat-это некоммерческое Международное радио, которое стремится обеспечить непрерывное, качественное радио и новостные развлечения.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.iLoot": {
+		"message": "Платформа для заработка геймеров.",
+		"description": "Description for iLoot."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio - это самое успешное информационно-развлекательное радио для симуляторов игр в Германии, Австрии и Швейцарии!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.aniWatch": {
+		"message": "Получите то, что принадлежит вам по праву. Потоковое аниме, фильмы, хентай, специальные предложения и многое другое. Бесплатно, без всякой рекламы и в высоком разрешении!",
+		"description": "Description for AniWatch."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Начните создавать свое собственное сообщество с нашими замечательными шаблонами. Постройте свое собственное королевство.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga — это бот Discord, который пытается предложить все функции, которые вам могут понадобиться сразу!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Мощный и простой в использовании кросс-платформенный инструмент для создания установщика.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Легко сообщать своим пользователям о состоянии в реальном времени.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Богиня, которая играет в качестве веселого бота Discord!",
+		"description": "Description for Erisly."
+	},
 	"partners.apply.select.other": {
 		"message": "Прочее",
 		"description": "Select 'Other' category."
