@@ -14,5 +14,21 @@
 	"twitch.viewTheir": {
 		"message": "A ver os seus",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.blogBrowse": {
+		"message": "A ver os últimos posts no blog...",
+		"description": ""
+	},
+	"twitch.helpTopic": {
+		"message": "A ver o tópico",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "A ver o catálogo de tópicos",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Programa de Afiliação da Twitch",
+		"description": "Page name"
 	}
 }
