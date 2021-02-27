@@ -1,6 +1,6 @@
 ---
 title: PreMiD সম্বন্ধে
-description: The core features of PreMiD
+description: PreMiD এর মূল ফিচারগুলি
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:
