@@ -32,15 +32,15 @@
         "description": ""
     },
     "aliexpress.viewTheir": {
-        "message": "A ver os seus",
+        "message": "A ver",
         "description": "Part 1 "
     },
     "aliexpress.refunds": {
-        "message": "Reembolsos e disputas",
+        "message": "Os seus reembolsos e disputas",
         "description": "Part 2 of \"Viewing their\""
     },
     "aliexpress.deletedOrders": {
-        "message": "encomendas eliminadas",
+        "message": "as suas encomendas eliminadas",
         "description": "Part 2 of \"Viewing their\""
     },
     "aliexpress.trade": {
