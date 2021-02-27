@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "あなたの言語をサポートしています。切り替えますか？",
+    "message": "このサイトは日本語に対応しています。切り替えますか？",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -12,7 +12,7 @@
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "いいえ",
+    "message": "No, thanks",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
