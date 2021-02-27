@@ -1,6 +1,10 @@
 {
+	"twitter.readTweet": {
+		"message": "Lendo um tweet:",
+		"description": "after the \":\" it will say the username"
+	},
 	"twitter.viewDms": {
-		"message": "Vendo suas mensagens diretas",
+		"message": "Visualizando suas mensagens diretas",
 		"description": ""
 	},
 	"twitter.viewTweets": {
@@ -11,8 +15,16 @@
 		"message": "Vendo tweets (com respostas) de:",
 		"description": ""
 	},
+	"twitter.viewMedia": {
+		"message": "Vendo imagens de:",
+		"description": ""
+	},
 	"twitter.viewLiked": {
 		"message": "Visualizando curtidas por:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Visualizando lista:",
 		"description": ""
 	},
 	"twitter.bookmarks": {
@@ -21,6 +33,14 @@
 	},
 	"twitter.notifs": {
 		"message": "Notificações",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Explorando",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Mudando algumas configurações...",
 		"description": ""
 	}
 }
