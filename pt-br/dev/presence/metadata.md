@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 Se você quer publicar uma presence na loja e carregá-la através da extensão, você deve criar o arquivo `metadata.json` em sua pasta `dist`.
 
-An example of that file can be found below.
+Um exemplo desse arquivo pode ser encontrado abaixo.
 
 ```typescript
 {
@@ -83,13 +83,13 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> is your Discord username without the identifier(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> é seu nome de usuário Discord sem o identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Objeto</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um Object com o <code>nome</code> e <code>id</code> do contribuidor. <code>name</code> é seu nome de usuário Discord sem o identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Objeto&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -109,7 +109,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Veja a categoria para idiomas de presence para uma lista. </td>
+      <td style="text-align:left">Descrição do serviço <b>NÃO</b> da presence. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Veja a categoria para idiomas de presence para uma lista. </td>
       <td style="text-align:left"><code>Objeto</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
