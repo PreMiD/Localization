@@ -236,7 +236,7 @@ Ini senarai peraturan yang perlu diikuti semasa menulis fail `presence.ts` anda:
 - Anda **tidak** dibenarkan mencapai `localStorage`.
 - Apabila mencapai kuki untuk data disimpan, sila namakan kekunci dengan awalan `PMD_`.
 - Anda hanya boleh lakukan permintaan HTTP/HTTPS ke `premid.app` atau API laman sesawang Presence. Jika anda menggunakan domain luaran, anda akan diminta menjelaskan kenapa ianya diperlukan. API yang dibenarkan untuk membuat permintaan hanyalah [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- **Jangan** tetapkan medan dalam objek data Presence sebagai tak tertakrif setelah ianya diisytiharkan, sebaliknya gunakanlah kata kunci `delete`. (sbg. cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
+- Do **not** set fields in the presenceData object to undefined after it has been declared, use the `delete` keyword instead. (sbg. cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
 - Anda **tidak** dibenarkan untuk menulis Presence yang mengubah kefungsian laman sesawang yang berkaitan. Ini termasuk penambahan, pemadaman, atau perubahan unsur DOM.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
