@@ -27,11 +27,11 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## ইন্সটলেশন
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. ইন্সটল করো [Git](https://git-scm.com/)।
+2. ইন্সটল করো [Node](https://nodejs.org/en/) ([npm](https://www.npmjs.com/) এর সাথে আসে)।
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Cloning the project
+## প্রোজেক্টটিকে ক্লোন করা
 
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
 2. Choose a folder of your choice.
