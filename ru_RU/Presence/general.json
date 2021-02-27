@@ -23,12 +23,44 @@
 		"message": "Форумы",
 		"description": ""
 	},
+	"general.genre": {
+		"message": "Жанр",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Язык",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Слушает музыку",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Слушатели",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Прямой эфир",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Манга",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Мерч",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Страница",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Приостановлено",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Играет",
 		"description": ""
 	},
 	"general.reading": {
