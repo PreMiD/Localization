@@ -79,10 +79,6 @@
 		"message": "UpBeatは非営利の国際ラジオです。ノンストップのエンターテイメントや、ニュースを提供しています。",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "ゲーマーのためのお小遣いサイト。",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.bitRock": {
 		"message": "強力で使いやすいクロスプラットフォームインストーラー作成ツール。",
 		"description": "Description for BitRock."

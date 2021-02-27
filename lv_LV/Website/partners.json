@@ -107,17 +107,9 @@
 		"message": "UpBeat ir bezpeļņas starptautisks radio, kas cenšas nodrošināt nepārtrauktu, kvalitatīvu radio un ziņu izklaidi.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "Spēlētāju pelnīšanas platforma.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio ir visveiksmīgākais informācijas un izklaides radio simulācijas spēlēm Vācijā, Austrijā un Šveicē!",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Iegūstiet to, kas jums ir likumīgs. Straumējiet Anime, Filmas, Hentai, Īpašos piedāvājumus un citu saturu. Bezmaksas, bez reklāmām un augstā izšķirtspējā!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Sāciet veidot savu kopienu, izmantojot mūsu lieliskās veidnes. Veidojiet savu valstību.",

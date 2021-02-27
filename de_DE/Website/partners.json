@@ -107,17 +107,9 @@
 		"message": "UpBeat ist ein gemeinnütziges internationales Radio, das sich um qualitativ hochwertige Radio- und Nachrichtenunterhaltung bemüht.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "Die Verdienst-Plattform für Gamer.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio ist das erfolgreichste Infotainment-Radio für Simulationsspiele in Deutschland, Österreich und der Schweiz!",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Holen Sie sich, was Ihnen rechtmäßig gehört. Streame Anime, Filme, Hentai, Specials und mehr. Kostenlos, ohne Werbung und in HD-Qualität!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Beginne deine eigene Community mit unseren tollen Vorlagen zu erstellen. Baue dein eigenes Königreich.",
