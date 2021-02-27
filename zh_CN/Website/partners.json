@@ -107,10 +107,6 @@
 		"message": "UpBeat 是一家非营利性的国际电台，它努力提供不停、优质的广播和娱乐新闻。",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "玩家赚取收入的平台。",
-		"description": "Description for iLoot."
-	},
 	"partners.apply.title": {
 		"message": "申请成为合作伙伴",
 		"description": "Partnership application modal title."
