@@ -187,8 +187,64 @@
 		"message": "Прочее",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "Имя",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Старый: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Ссылка",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Старый: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Описание: (максимум 150 символов)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Описание избранного",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Ссылка на изображение: (только 550x300, PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Старый: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Закрыть",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Применить",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Спасибо, что подали заявку!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Пожалуйста, заполните все поля.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "В описании максимум 150 символов.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Пожалуйста, добавьте ссылку (должна начинаться с https:// и заканчиваться .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Вы уже подали заявку на партнерство.",
+		"description": "Error when already applied."
 	}
 }
