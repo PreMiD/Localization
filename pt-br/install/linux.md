@@ -23,7 +23,7 @@ A instalação do aplicativo é muito importante, já que a extensão não pode 
   - Perguntas Frequentes (em breve)
   - Construção (em breve)
   - [Suporte](#support)
-  - [Créditos](#credits)
+  - [Creditos](#credits)
   - [Licença](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _nunca_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMENDADO_)
@@ -80,7 +80,7 @@ Não se sabe se versões antigas de outras distribuições o suportam, por isso 
 
 <a name="credits"></a>
 
-### Créditos
+### Creditos
 
 Agradecimentos para :
 
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Notas adicionais
+### Notas Adicionais
 
 Se você quer experimentar o PreMiD ou simplesmente não quer instalá-lo, este é o melhor, está sempre atualizado mas _NÃO AUTO-INICIE COM O SISTEMA!_</br>Se você ficar cansado de ter que abrir cada vez, use os outros pacotes (de acordo com sua distribuição).
 
@@ -182,7 +182,7 @@ ou manualmente do [Repositório de Usuários Arch](https://aur.archlinux.org/pac
 
 <a name="archnotes"></a>
 
-### Notas adicionais
+### Notas Adicionais
 
 Se sua distribuição usa pacman, você deve instalar um dos ajudantes primeiro. Se você não tiver nenhum, é recomendado o Yay, execute :
 
