@@ -107,17 +107,9 @@
 		"message": "UpBeat, aralıksız, kaliteli radyo hizmeti sunani kâr amacı gütmeyen bir internet radyosudur.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "Oyuncu kazanç platformu.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio simülasyon oyunlarında Almanya, Avusturya ve İsviçrede bulunan oyuncuların dinlediği en popüler radyolardan biridir.",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Senin olana sahip ol. Anime, film, hentai, özel içerikler ve dahası. Ücretsiz, reklamız ve yüksek kalitede!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Sitemizdeki ücretsiz şablonlarla kendi topluluğunuzu kurun ve eğlenin.",
