@@ -6,7 +6,7 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> আরো দূরে যাওয়ার আগে, নিশ্চিত করো যে তোমার সিস্টেম সব [রিকোয়ারমেন্টগুলি](/install/requirements) পূরণ করে। 
 > 
 > {.is-info}
 
