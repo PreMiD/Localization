@@ -139,6 +139,50 @@
 		"message": "Богиня, которая играет в качестве веселого бота Discord!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM - это платформа, которая транслирует для вас лучшую и новейшую музыку, где вы можете слушать более 15 музыкальных потоков бесплатно и без перерыва!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Гибкая локализация для технологических компаний.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Самое мощное и расширяемое программное обеспечение с открытым исходным кодом Вики.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Единый, дружественный для разработчиков интерфейс для всех ваших артефактов.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "За лучшим в сети.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit- это ваша онлайн-музыкальная радиостанция, созданная для воспроизведения ваших лучших песен 24/7 и для того, чтобы вы сначала открыли свои будущие хиты.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.apply.title": {
+		"message": "Подать заявку на партнерство",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Вы вошли как {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Это не вы?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Пожалуйста, выберите один из",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Сайт",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Прочее",
 		"description": "Select 'Other' category."
