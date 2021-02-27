@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Przeglądanie subskrypcji",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "Przegląda swoje preferencje reklamowe",
         "description": ""
