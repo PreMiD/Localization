@@ -11,6 +11,10 @@
 		"message": "Переводчики",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.supportAgent": {
+		"message": "Агент поддержки",
+		"description": "'Support Agent' title for contributors and user pages."
+	},
 	"contributors.cards.copyUserId": {
 		"message": "Нажмите, чтобы скопировать ID пользователя.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
