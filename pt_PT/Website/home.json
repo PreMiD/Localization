@@ -55,6 +55,10 @@
 		"message": "Interface de utilizador simples",
 		"description": "Features section subheading"
 	},
+	"home.features.simpleInterface.description": {
+		"message": "Cansado de interfaces complicadas? É por isso é que criamos e tentamos manter a nossa extensão o mais simples e útil possível com funcionalidades importantes como:",
+		"description": "Features section description"
+	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Definições para a aplicação e a extensão",
 		"description": "Features section description point"
@@ -70,6 +74,10 @@
 	"home.features.quickSupport.heading": {
 		"message": "Suporte rápido",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Algo não está a funcionar, a mandar-te imensos erros ou simplesmente não funciona? Podemos ajudar-te a livrares-te desses problemas no nosso servidor do Discord. Também criamos o nosso próprio sistema de suporte que irá garantir que o teu problema fica resolvido o mais rápido possível.",
+		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
 		"message": "Entra no nosso discord",
