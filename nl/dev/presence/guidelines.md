@@ -11,13 +11,13 @@ dateCreated: 2021-02-24T22:30:46.792Z
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
     <h3 style="font-size: 2rem; margin-bottom: 0">Presence-richtlijnen</h3>
-    <h4 style="margin-top: 0">Revision 3</h4>
+    <h4 style="margin-top: 0">Revisie 3</h4>
     <br />
 </div>
 
 # Richtlijnen
 
-Bij het publiceren van presences op [onze GitHub-repository](https://github.com/PreMiD/Presences/), vereisen we dat je een aantal richtlijnen volgt. Voor sommigen lijken deze strenge regels misschien zwaar. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Bij het publiceren van presences op [onze GitHub-repository](https://github.com/PreMiD/Presences/), vereisen we dat je een aantal richtlijnen volgt. Voor sommigen lijken deze strenge regels misschien zwaar. Deze regels zullen er echter voor zorgen dat wij en onze gebruikers geen onnodige problemen tegenkomen.
 
 # Aanmaak
 
@@ -243,7 +243,7 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 
 > Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
 
-## Modification
+## Aanpassingen
 
 > Je **moet** de versie in de **metadata** wijzigen om een hogere waarde te hebben van de vorige versie bij wijzigingen in de **presence.ts**, **iframe.ts** of **metadata.json**.
 
