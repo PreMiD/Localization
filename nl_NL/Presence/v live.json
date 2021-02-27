@@ -3,6 +3,10 @@
 		"message": "Bladert door",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.newVid": {
+		"message": "de nieuwe video's pagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"v live.charts": {
 		"message": "de pagina met grafieken",
 		"description": "Second part of the \"Browsing through\" string"
