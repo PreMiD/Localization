@@ -1,1 +1,10 @@
-{}
+{
+	"user.roles.presenceVerifier": {
+		"message": "Верификатор присутствия",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Важный разработчик присутствия",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	}
+}
