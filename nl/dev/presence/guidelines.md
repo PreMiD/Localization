@@ -236,7 +236,7 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 - Je hebt **geen** toegang tot `localStorage`.
 - Bij het gebruiken van cookies voor opgeslagen gegevens, gebruik dan de prefix `PMD_` voor de key.
 - Je mag alleen HTTP-/HTTPS-verzoeken naar `premid.app` of de website-API van de presence maken. Als je externe domeinen gebruikt, moet je uitleggen waarom dat nodig is. De enige toegestane API om een request te maken is de [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- Do **not** set fields in the presence data object to undefined after it has been declared, use the `delete` keyword instead. (bijv. gebruik `delete data.startTimestamp` in plaats van `data.startTimestamp = undefined`)
+- Do **not** set fields in the presenceData object to undefined after it has been declared, use the `delete` keyword instead. (bijv. gebruik `delete data.startTimestamp` in plaats van `data.startTimestamp = undefined`)
 - Je bent **niet** toegestaan om presences te schrijven die de functionaliteiten van een bepaalde website wijzigen. Dit omvat het toevoegen, verwijderen en wijzigen van DOM-elementen.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
