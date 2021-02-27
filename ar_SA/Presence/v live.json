@@ -3,10 +3,6 @@
 		"message": "يتصفح من خلال",
 		"description": "The first part of the next 6 strings"
 	},
-	"v live.newVid": {
-		"message": "صفحة الفيديوهات الجديدة",
-		"description": "Second part of the \"Browsing through\" string"
-	},
 	"v live.charts": {
 		"message": "صفحة الجداول",
 		"description": "Second part of the \"Browsing through\" string"

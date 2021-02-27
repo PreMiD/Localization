@@ -3,10 +3,6 @@
 		"message": "Araştırıyor",
 		"description": "The first part of the next 6 strings"
 	},
-	"v live.newVid": {
-		"message": "yeni videolar sayfası",
-		"description": "Second part of the \"Browsing through\" string"
-	},
 	"v live.charts": {
 		"message": "grafikler sayfası",
 		"description": "Second part of the \"Browsing through\" string"

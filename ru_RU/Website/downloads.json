@@ -75,6 +75,42 @@
 		"message": "Войдите в систему, чтобы увидеть эти загрузки.",
 		"description": "Error message if the user is not logged in."
 	},
+	"downloads.error.noaccess.title": {
+		"message": "Кажется, у вас нет доступа к альфа/бета версии :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "Вы можете присоединиться к бета-программе **здесь** бесплатно. Поспешите! У нас есть еще {0} слотов",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Ранние выпуски",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "Внимание",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.warning.message.opera": {
+		"message": "Вы должны установить **это** расширение для установки PreMiD с веб-магазина Chrome.",
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
+	},
+	"downloads.button.skip": {
+		"message": "Пропустить",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Назад",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "Отменить",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "Хорошо",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Готово",
 		"description": "Button on the page when trying to download with adblocker on."
