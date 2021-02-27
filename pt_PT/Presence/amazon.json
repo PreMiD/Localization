@@ -1,4 +1,8 @@
 {
+    "amazon.subscriptions": {
+        "message": "A ver as suas subscrições",
+        "description": ""
+    },
     "amazon.adprefs": {
         "message": "A ver as suas preferências de anúncios",
         "description": ""
