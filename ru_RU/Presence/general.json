@@ -63,12 +63,60 @@
 		"message": "Играет",
 		"description": ""
 	},
+	"general.readingDM": {
+		"message": "Чтение DM от:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Чтение о:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Чтение статьи:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Читает в канале:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Читает поста:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Читает темы:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Читать",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "Ищет:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Поиск что-нибудь...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "Искать",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Написание",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Вызов",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "В процессе звонка...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Корзина покупок",
 		"description": ""
 	},
 	"general.store": {
