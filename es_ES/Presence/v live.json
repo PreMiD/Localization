@@ -3,6 +3,10 @@
 		"message": "Buscando a través de",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.newVid": {
+		"message": "la página de vídeos nuevos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"v live.charts": {
 		"message": "la página de gráficos",
 		"description": "Second part of the \"Browsing through\" string"
