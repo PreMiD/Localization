@@ -149,13 +149,13 @@ Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. A
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> is your Discord username without the identifier(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> é seu nome de usuário no Discord sem seu identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Objeto</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> is your Discord username without the identifier(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
+      <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> é seu nome de usuário no Discord sem seu identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Objeto&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -274,63 +274,65 @@ Nós fizemos um `metadata.json` criador de arquivos para os preguiçosos [aqui](
 ## Primeiros passos
 
 ```typescript
-const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
-  }),
-  strings = presence.getStrings({
+var presence = new Presence({
+    clientId: "000000000000000000", //O client ID do Aplicativo criado no https://discordapp.com/developers/applications
+    mediaKeys: false //Ativar o uso e detecção de pressionamentos de teclas de mídia
+}),
+
+strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
-  });
+    //Você pode usar isso para obter strings traduzidas
+});
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Pegue e processe todos os seus dados aqui
+
 
     // element grabs //
     // api calls //
     // variable sets //
 }
 
-setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(10000, myOutsideHeavyLiftingFunction); 
+//Execute a função separada do evento UpdateData a cada 10 segundos para obter e definir as variáveis ​​que o UpdateData seleciona
 
 */
 
+
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. Isso é chamado várias vezes por segundo, sempre que possível.
+    /*UpdateData está sempre disparando e, portanto, deve ser usado como seu ciclo de atualização ou `tick`. Isso é chamado várias vezes por segundo, sempre que possível.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    É recomendável configurar outra função fora desta função de evento que irá alterar os valores das variáveis e fazer o levantamento pesado se você chamar dados de uma API.*/
 
-  const presenceData: PresenceData = {
-    largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+    var presenceData: presenceData = {
+        largeImageKey: "key", /*A key (nome do arquivo) da Imagem Grande sobre a presence. Estes são enviados e nomeados na seção Rich Presence do seu aplicativo, chamado Arte de Arquitetura*/
+        smallImageKey: "chave", /*A chave (nome do arquivo) da imagem grande na presence. Estes são enviados e nomeados na seção Rich Presence de sua aplicação, chamada Art Assets*/,
+    smallImageText: "Some hover text", //O texto que é exibido ao cobrir sobre a pequena imagem
+    details: "Browsing Page Name", //A seção superior do texto da presence
+    state: "Reading section A", //A seção inferior do texto da presence
+    startTimestamp: 1577232000, //O unix epoch timestamp para quando começar a contar a partir
+    endTimestamp: 1577151472000 //Se você quiser mostrar o Time Left em vez de Elapsed, este é o unix epoch timestamp em que o timer termina
+  }; /*Opcionalmente você pode definir aqui uma largeImageKey e alterar o resto como sub-propriedades variáveis, por exemplo presenceData.type = "blahblah"; exemplos de type: details, state, etc..*/
 
   if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+    //Isto irá disparar se você não definir details da presence
+    presence.setTrayTitle(); //Limpa o tray title para usuários Mac
+    presence.setActivity(); /*Atualizar a presence sem dados, portanto limpando-a e tornando a imagem grande o ícone do Aplicativo Discord, e o texto o nome do Aplicativo Discord*/
   } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    //Isto irá disparar se você definir details da presence
+    presence.setActivity(presenceData); //Atualizar a presence com todos os valores do presenceData object
   }
 });
 ```
 
 Você pode copiar isso no arquivo `presence.ts` e editar os valores. Configurar todos os valores é feito dentro do evento updateData.
 
-Por exemplo, sugerimos que analisemos o código de presences como: 1337x ou 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Por exemplo, sugerimos que analisemos o código de presences como: 1337x ou 9GAG. Para mais informações sobre a classe `Presence` clique [aqui](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Desde a v2.2.0 existem agora Slideshows, isto permite que você mostre múltiplas interfaces `PresenceData` em um intervalo, para mais informações sobre a classe `Slideshow` clique [aqui](/dev/presence/slideshow).
 
 ## Não consegue obter dados certos?!
 
@@ -350,8 +352,8 @@ Se perceber que seus dados estão em um iFrame, você precisa fazer o seguinte:
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Obtenha todos os dados que você precisa do iframe, salve-os em variáveis
+  e os enviou usando iframe.send
   */
   iframe.send({
     //sending data
@@ -378,7 +380,7 @@ Abra um console na sua pasta e digite `tsc -w` para compilar o `presence.ts` na 
 
 # Carregando a presence
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Clique no ícone da extensão e segure o botão <kbd>Shift</kbd> em seu teclado.
 2. O botão **Carregar presence** aparecerá na seção das Presences.
 3. Clique nele enquanto estiver segurando o botão <kbd>Shift</kbd>.
 4. Selecione a pasta /dist da sua presence.
@@ -392,7 +394,7 @@ O site que você está desenvolvendo está recarregando automaticamente toda vez
 ## Depuração
 
 - Você pode colocar `console.log("Test");` entre seu código e ver se o console do seu navegador lhe dá essa saída. Se sim, então continue e tente novamente depois da próxima função. Se não, então há um erro acima.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Se isso não te ajudar, peça ajuda a um desenvolvedor de presences no nosso [servidor do Discord](https://discord.premid.app/).
 
 # Arquivos explicados
 
