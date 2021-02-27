@@ -11,9 +11,53 @@
 		"message": "Переводчики",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Лидер проекта",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Координатор персонала",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Директор по маркетингу",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Администратор",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Рецензент",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Менеджер по переводу",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Разработчик",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Дизайнер",
+		"description": "'Designer' title for contributors and user pages."
+	},
+	"contributors.roles.moderator": {
+		"message": "Модератор",
+		"description": "'Moderator' title for contributors and user pages."
+	},
 	"contributors.roles.supportAgent": {
 		"message": "Агент поддержки",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.donator": {
+		"message": "Донатер",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Бустер",
+		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.cards.copyUserId": {
 		"message": "Нажмите, чтобы скопировать ID пользователя.",
