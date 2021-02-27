@@ -51,6 +51,10 @@
         "message": "再生リストを閲覧中",
         "description": ""
     },
+    "youtube.studio.viewVideos": {
+        "message": "投稿した動画一覧を閲覧中",
+        "description": ""
+    },
     "youtube.studio.channelAnalytics": {
         "message": "チャンネルアナリティクス",
         "description": "Part two of \"Viewing their\""
