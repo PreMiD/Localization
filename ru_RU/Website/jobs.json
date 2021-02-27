@@ -70,5 +70,41 @@
 	"jobs.benefit3.title": {
 		"message": "Честь",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Мощные права на Discord и цветная роль.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Поддержка PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Благодаря вашему вкладу можно запустить этот проект.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Тайм-аут",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Займите свое время, это добровольная работа.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Ранний доступ",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Протестируйте новые функции что-нибудь.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Спасибо, что подали заявку!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Вы уже подали заявку ранее!",
+		"description": "Notification when you applied already."
 	}
 }
