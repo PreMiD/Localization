@@ -33,11 +33,11 @@ De algemene regels voor de ontwikkeling van een presence zijn:
 - Presences met ondersteuning alleen voor een enkel doel zullen **niet** toegestaan worden, omdat ze mogelijk gebroken lijken voor andere pagina's (zoals de homepagina), uitzonderingen kunnen worden gemaakt voor beleid en contactpagina's (inhoud die niet vaak gebruikt wordt) of sites waar de andere inhoud niet gerelateerd is. (bijvoorbeeld wikia-pagina's)
 - Presences voor online radio's zijn alleen toegestaan als de radio ten minste 100 wekelijkse luisteraars en 15 gelijktijdige luisteraars heeft. Ook moet het enkele functies hebben en niet alleen album en titel.
 - Lage kwaliteit presences (of degenen met weinig context) zijn **niet** toegestaan (bijvb: alleen een logo en tekst tonen maar het verandert later nooit meer.)
-- With the `buttons` release, we require some guidelines for them:
-  - Redirects to main page are prohibited.
-  - Promoting websites by them is prohibited.
-  - They can't show addinational data when you can't show them in `state` or `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Met de opkomst van `knoppen` hebben we wat richtlijnen toegevoegd:
+  - Omleidingen naar de hoofdpagina zijn verboden.
+  - Websites promoten via knoppen is verboden.
+  - Ze kunnen geen aanvullende info die niet meer past in `state` of `details` weergeven.
+- De map `dist` en de bestanden `presence.ts`, `iframe.ts` en `metadata.json` moeten worden meegeleverd, dus het resultaat zou als volgt moeten zijn:
 
 ```bash
 presence
@@ -151,7 +151,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 - De servicenaam **moet** de naam van de presence map zijn. Als de presence zich bijvoorbeeld bevindt op `/websites/Y/YouTube/`moet de servicenaam `YouTube` zijn.
 - Je kunt **niet** de URL gebruiken als de servicenaam, tenzij de website de URL als officiële naam gebruikt. Als de naam niet beschrijvend is en als vaag kan worden beschouwd, is het gebruik van de URL **verplicht**. (Bijv.: `YouTube` is toegestaan omdat dat de officiële naam is en beschrijvend is, terwijl `youtube.com` niet is toegestaan. `Top` is een niet-beschrijvende naam, dus het gebruik van de url `top.gg` is **vereist**.)
-- If service has some explicit branding rules of their name, you should follow them.
+- Als de dienst expliciete regels voor hun merknaam heeft, moeten deze worden opgevolgd.
 
 ### **`*altnames`**
 
@@ -204,10 +204,10 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`readLogs`**
 
-- Must be `boolean` value (e.g. `true` or `false`).
-- Enables logs for your presence.
+- Moet `boolean` waarde zijn (bijvoorbeeld `true` or `false`).
+- Schakelt logs in voor je presence.
 
-### **`warning`**
+### **`waarschuwing`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
