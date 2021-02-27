@@ -82,5 +82,9 @@
 	"home.features.quickSupport.button": {
 		"message": "Присоединяйтесь к нашему Discord серверу",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Язык",
+		"description": "Tippy content of the language selector."
 	}
 }
