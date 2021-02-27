@@ -22,5 +22,37 @@
 	"report.browser": {
 		"message": "Выберите ваш браузер и версию - Вы можете получить версию, посетив поддержку:Firefox или chrome://help",
 		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Предоставьте ссылку на живой пример или недвусмысленный набор шагов для воспроизведения этой ошибки.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Отчет",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "У вас слишком много активных отчетов. Дождитесь рассмотрения отправленных отчетов. Еженедельная проверка отчетов, будьте терпеливы.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "У вас слишком много активных отчетов.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Ошибка отправлена",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Требуется больше информации",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Учетная запись Discord должна быть подтверждена",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Активные ошибки",
+		"description": "Lists users active bugs"
 	}
 }

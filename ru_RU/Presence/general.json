@@ -7,8 +7,20 @@
 		"message": "Смотрит...",
 		"description": ""
 	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Редактирование:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Эпизод",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Форумы",
 		"description": ""
 	},
 	"general.language": {
