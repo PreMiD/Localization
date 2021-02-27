@@ -1,6 +1,6 @@
 ---
 title: শুরু করা যাক
-description: A little advise for those who got into coding recently
+description: একটি ছোট পরামর্শ তাদের জন্য যারা কোডিং এর মধ্যে সম্প্রতি ঢুকেছেন
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
@@ -10,12 +10,12 @@ tags:
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+# রিকোয়ারমেন্টগুলি ইন্সটল করা
+1. ইন্সটল করো [Git](https://git-scm.com/)।
+2. ইন্সটল করো [Node](https://nodejs.org/en/) ([npm](https://www.npmjs.com/) এর সাথে আসে)।
+3. ইন্সটল করো [TypeScript](https://www.typescriptlang.org/index.html#download-links) (একটি টার্মিনাল ওপেন করো এবং টাইপ করো `npm install -g typescript`)।
 
-# Cloning the project
+# প্রোজেক্টটিকে ক্লোন করা
 1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
 2. Choose a folder of your choice.
 3. Open it in your code editor.
