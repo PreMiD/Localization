@@ -115,13 +115,33 @@
 		"message": "Готово",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "Войти",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.button.skipanyway": {
+		"message": "Все равно пропустить",
+		"description": "Skip Anyway button on the ads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Благодарим вас!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Мы используем рекламу для поддержки нашей команды и поддержки наших серверов, чтобы предложить вам наилучший пользовательский опыт!",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "Пожалуйста, отключите блокировщик рекламы",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Показать бета-загрузки",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(не нужно, если вы здесь только для загрузки обычного приложения)",
+		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
 		"message": "Я не хочу поддержать.",
