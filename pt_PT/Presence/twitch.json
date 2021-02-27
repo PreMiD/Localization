@@ -29,6 +29,26 @@
 	},
 	"twitch.affiliate": {
 		"message": "Programa de Afiliação da Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Programadores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Documentação para programadores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produtos para programadores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Histórias de sucesso da comunidade",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Recursos úteis",
 		"description": "Page name"
 	}
 }

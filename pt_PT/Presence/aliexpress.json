@@ -42,5 +42,25 @@
     "aliexpress.deletedOrders": {
         "message": "encomendas eliminadas",
         "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "Centro de trocas do AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "A ver os seus cupões",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "A ver a sua morada",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Centro de ajuda do AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Centro de vendas do AliExpress",
+        "description": ""
     }
 }

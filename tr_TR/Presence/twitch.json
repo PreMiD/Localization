@@ -237,7 +237,7 @@
 	},
 	"twitch.affiliate": {
 		"message": "Twitch Ortaklık Programı",
-		"description": "Page name"
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
 	},
 	"twitch.dev": {
 		"message": "Twitch Geliştiricileri",

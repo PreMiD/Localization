@@ -1,4 +1,12 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** — это простая, настраиваемая утилита, позволяющая вам показать, что вы делаете в сети в вашем статусе Discord.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Свойства",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Загрузки ",
 		"description": "Downloads button -> redirects to /downloads page"
