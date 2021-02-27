@@ -236,7 +236,7 @@ Voici une liste de règles que vous devez suivre lors de l'écriture de votre fi
 - Vous n'êtes **pas autorisé** à accéder à `localStorage`.
 - Lors de l'accès aux cookies pour les données stockées, veuillez préfixez la clé avec `PMD_`.
 - Vous ne pouvez faire des requêtes HTTP/HTTPS qu'à `premid.app` ou à l'API du site web concerné par la Presence. Si vous utilisez des domaines externes, vous devrez expliquer pourquoi cela est nécessaire. La seule API autorisée à faire des requêtes est la [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- **Ne** définissez **pas** de champs dans l'objet presence par undefined, utilisez plutôt le mot-clé `delete`. (par ex., utilisez `delete data.startTimestamp` au lieu de `data.startTimestamp = undefined`)
+- Do **not** set fields in the presenceData object to undefined after it has been declared, use the `delete` keyword instead. (par ex., utilisez `delete data.startTimestamp` au lieu de `data.startTimestamp = undefined`)
 - Vous n'êtes **pas** autorisé à écrire des Presences qui modifient la fonctionnalité d'un site Web donné. Cela inclut l'ajout, la suppression ou la modification des éléments du DOM.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
