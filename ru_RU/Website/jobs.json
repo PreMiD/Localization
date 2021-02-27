@@ -34,5 +34,41 @@
 	"jobs.guild.explanation": {
 		"message": "Чтобы подать заявку, Вы должны вступить на наш сервер Discord. Иначе мы не сможем связаться с вами, если Вы были выбраны!",
 		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Работа для PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Готовы ли Вы помочь крупнейшей программе Rich-Presence?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Вакансии",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Высокие преимущества",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Встречайте нас",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Свяжитесь с людьми за PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Крайние пики",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Ознакомьтесь с нашим маркетингом и разработкой.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Честь",
+		"description": "Benefit card title."
 	}
 }
