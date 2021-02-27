@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Đang xem dịch vụ đã đăng ký",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "Đang xem quảng cáo của họ",
         "description": ""
