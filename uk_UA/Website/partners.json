@@ -107,17 +107,9 @@
 		"message": "UpBeat — це некомерційне міжнародне радіо, яке прагне забезпечити безупинне, якісне радіо та новини.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "Ігрова платформа для заробітку.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio — це найуспішніше інформаційне радіо для ігор у жанрі симуляції в Німеччині, Австрії та Швейцарії!",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Отримайте що справедливо для вас. Потокове Аніме, Фільми, Гентай, Особливе та багато іншого. Безкоштовно, без рекламних оголошень і у високій роздільній здатності!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Почніть створювати власну спільноту з нашими дивовижними шаблонами. Побудуйте своє власне королівство.",
