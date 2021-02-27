@@ -204,18 +204,18 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 ### **`readLogs`**
 
-- Must be `boolean` value (e.g. `true` or `false`).
+- Muss ein `boolean` Wert sein (z.B. `true` oder `false`).
 - Aktiviert Logs für deine Presence.
 
 ### **`Warnung`**
 
-- **Immer** eine neue Instanz der `Presence`-Klasse vor allen anderen Variablen deklarieren, um seltene Fehler zu vermeiden, die eventuell auftreten; dies ist kein vorgesehenes Kriterium, weshalb es in der Zukunft entfernt werden könnte.
+- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Beispiel für eine solche Presence, die diese Metadaten-Variable benutzt, ist `VLC`.
 
-### **`einstellungen`**
+### **`Einstellungen`**
 
-- Es ist dir **nicht** erlaubt eine Presence zu überarbeiten or dessen Autor zu verändern. Wenn der Presence-Autor von dem offiziellen Server gesperrt wurde oder die erforderlichen Änderungen innerhalb eines Monats nicht vorgenommen hat, kannst du dich an einen Prüfer wenden, um zu sehen, ob du die Presence neu schreiben darfst.
-- Wenn du Änderungen an einer Presence vornimmst und mindestens ein ** Viertel** der Codebasis der Presence änderst, darfst du dich sich selbst als Mitwirkender hinzufügen. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
+- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 - Wenn du die Mehrsprachen-Option verwendest, solltest du wissen:
   - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
   - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
