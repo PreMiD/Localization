@@ -6,5 +6,21 @@
 	"report.bugcount": {
 		"message": "Осталось {count}/3 отчёта",
 		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Сообщить об ошибках можно на сайте PreMiD и на сервере Discord PreMiD. Об ошибках в присутствии сообщается создателю присутствия. Сообщите об ошибках только на английском языке.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Предоставьте ясное и краткое описание того, что является ошибкой.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Выберите вашу операционную систему и версию",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Выберите ваш браузер и версию - Вы можете получить версию, посетив поддержку:Firefox или chrome://help",
+		"description": "Select Box for the user to select their browser"
 	}
 }
