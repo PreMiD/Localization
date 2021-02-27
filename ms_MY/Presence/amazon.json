@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Melihat langganan",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "Melihat keutamaan iklan miliknya",
         "description": ""

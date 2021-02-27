@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Abonnementen bekijken",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "Bekijkt zijn/haar adprefs",
         "description": ""

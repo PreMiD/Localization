@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Regarde les abonnements",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "Visualisation de leurs adprefs",
         "description": ""

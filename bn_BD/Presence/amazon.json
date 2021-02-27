@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "দেখছে সাবস্ক্রিবশনগুলি",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "দেখছে তার অ্যাড সেটিংস",
         "description": ""

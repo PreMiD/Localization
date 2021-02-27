@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Ogledovanje naročnin",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "Ogledovanje njegovih oglaševalskih nastavitvih",
         "description": ""
