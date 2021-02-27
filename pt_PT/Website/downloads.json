@@ -67,6 +67,10 @@
 		"message": "A versão atual desta plataforma é {0} (esta versão é específica para Linux e não aplica-se a outras plataformas).",
 		"description": "Tippy message of the Linux card."
 	},
+	"downloads.warning.differentVersion2": {
+		"message": "Esta versão é específica do Linux e não se aplica a outros sistemas. A versão da aplicação principal é {0}",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
 	"downloads.error.login": {
 		"message": "Inicia sessão para veres estes downloads.",
 		"description": "Error message if the user is not logged in."
