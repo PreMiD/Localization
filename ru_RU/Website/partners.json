@@ -3,8 +3,24 @@
 		"message": "Партнеры",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "Присоединяйтесь к фаму и получите некоторые преимущества только для партнеров, чтобы показать сколько у вас хватает.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Они уже принадлежат нам",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Как насчет того, чтобы пойти на небо вместо ад?",
+		"description": "Heading for benefits."
+	},
 	"partners.apply.select.other": {
 		"message": "Прочее",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.success": {
+		"message": "Спасибо, что подали заявку!",
+		"description": "Success message when applying."
 	}
 }
