@@ -123,6 +123,10 @@
 		"message": "Магазин",
 		"description": ""
 	},
+	"general.typeDM": {
+		"message": "Печатать личные сообщения на:",
+		"description": ""
+	},
 	"general.viewPage": {
 		"message": "Смотрит страницу:",
 		"description": ""
