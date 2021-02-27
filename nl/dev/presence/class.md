@@ -97,8 +97,8 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // Retourneert: Playing
-const pauseString = strings.pause; // Retourneert: Paused
+const playString = strings.play; // Geeft: Playing
+const pauseString = strings.pause; // Geeft: Paused
 ```
 
 Sinds v2.2.0 van de extensie kunt u nu de strings van een bepaalde taal krijgen. Dit werkt goed met de nieuw toegevoegde `multiLanguage` instelling optie.
@@ -136,8 +136,8 @@ if (oldLang !== newLang) {
   strings = getStrings();
 }
 
-const playString = (await strings).play, // result: Playing
-  pauseString = (await strings).pause; // result: Paused
+const playString = (await strings).play, // Geeft: Playing
+  pauseString = (await strings).pause; // Geeft: Paused
 ```
 
 ### `getPageletiable(String)`
