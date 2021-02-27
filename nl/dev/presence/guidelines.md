@@ -249,9 +249,9 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 
 In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een lijst met regels die je **moet** volgen tijdens het wijzigen van presences.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
+- Je bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. Als de presence-auteur van de officiële server verbannen is of binnen een maand nog niet de vereiste wijzigingen aangebracht heeft, kun je contact opnemen met een beoordelaar om te kijken of je de presence kunt herschrijven.
+- Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence-code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een beoordelaar voor meer informatie hierover.
+- Iedereen kan hotfixes aanbieden om bugs op te lossen, maar breng **geen** wijzigingen aan als die **niet** nodig zijn. Geldige wijzigingen omvatten algemene fixes (code en typfouten), toevoegingen (beschrijvingen en tags), ontbrekende bestanden, etc. Verander **geen** afbeeldingen als ze niet verouderd zijn en voldoen aan vereisten.
 
 # Verification
 
@@ -266,7 +266,7 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 Het belangrijkste proces van de ontwikkeling van je presence, is je presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze verificateurs zullen bevestigen dat jouw presence voldoet aan de normen en zal deze aan de winkel toevoegen.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence-beoordelaars</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Alanexei"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -280,32 +280,32 @@ Herhalende overtredingen zoals het breken van richtlijnen, het spammen van pull 
 In dit scenario zullen de volgende wijzigingen plaatsvinden:
 
 - Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Al je issues en pull-aanvragen (presence-toevoegingen en -wijzigingen, enz.) die zijn gecreëerd na het verbod zullen worden gesloten.
+- Tickets die onder je naam zijn gemaakt met betrekking tot presence-ontwikkeling worden verwijderd.
 
 ## `Reviewing`
 
 Enkele dingen die je moet weten voordat je een pull request opent:
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- Er zijn 2 reviewers nodig om een pull-aanvraag samen te voegen.
+- Als een pull-aanvraag 7 dagen lang inactief is, zal deze worden gesloten.
+- Alle controles **moeten** voldaan zijn voordat er samengevoegd kan worden.
+- ⚠️ Je **moet** nieuwe, onaangepaste schermafbeeldingen (gemaakt door jou) meesturen die je profiel en de website naast elkaar tonen om te bewijzen dat je presence werkt. _Je mag schermafbeeldingen samennemen voor verhoogd kijkgemak_ Dit geldt zowel voor het aanmaken van je presence als voor latere aanpassingen.
+- ⚠️ Je bent ook **verplicht** om schermafbeeldingen te maken van eventuele presence-instellingen. Een voorbeeld kan je [hier](https://imgur.com/a/OD3sj5R) bekijken.
 
 ## `Controles`
 
 ![Controles](https://i.imgur.com/oqAakOc.png)
 
-Currently, a presence goes through 3 separate stages of checks. Al deze controles helpen de verificateurs te bepalen of je presence geschikt is voor implementatie.
+Op dit moment wordt de presence in drie afzonderlijke fasen gecontroleerd. Al deze controles helpen de verificateurs te bepalen of je presence geschikt is voor implementatie.
 
-- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Codacy` is een bot die controleert op de kwaliteit van code. Als je ooit fouten ontvangt voor nieuwe problemen, **moet** je ze oplossen. (_WAARSCHUWING: de Codacy-bot wordt binnenkort niet meer ondersteund en je hebt alleen controlefouten van DeepScan!_)
+- `DeepScan` is een bot die controleert op de kwaliteit van code. Als je ooit fouten ontvangt voor nieuwe problemen, **moet** je ze oplossen.
+- `Schema Validation` zal je `metadata.json` bestand scannen op fouten (bijvoorbeeld ontbrekende velden, ongeldige waarde types, etc.). Als je ooit nieuwe problemen ziet, ben je ook **verplicht** om die op te lossen. Het toevoegen van een schemaveld aan je `metadata.json` bestand zal je tekstverwerker (indien ondersteund) toestaan om deze fouten te tonen tijdens de ontwikkeling van je presence.
 
-## `Additional Rules`
+## `Aanvullende regels`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- Zorg er **altijd** voor dat je presence in de meest geschikte map begint, als de naam begint met een Latijnse letter dan moet het onder de alfabetische overeenkomst vallen (bijv. `D/dアニメストア` of `G/Google`). Alle andere Unicode/niet-Latijnse tekens **moeten** onder de map `#` staan (bijvoorbeeld `#/巴哈姆特`) en nummers onder de `0-9` map (bijvoorbeeld `0-9/4anime`).
 
 Nadat je aan alle richtlijnen voldoet en je presence ten minste twee keer is geëvalueerd, wordt je presence toegevoegd aan de winkel.
 
@@ -320,13 +320,13 @@ If you have some suggestions about our guidelines, you should contact us @ [PreM
 <a href="https://github.com/Alanexei"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`Revisie 2` van de richtlijnen is geschreven en is bijgedragen door de volgende personen:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`Revisie 1` werd onderhouden door de volgende personen:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
