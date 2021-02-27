@@ -107,17 +107,9 @@
 		"message": "UpBeat হচ্ছে একটি অলাভজনক আন্তর্জাতিক রেডিও যা চেষ্টা করে বিরামহীন, ভালো কোয়ালিটির রেডিও এবং সংবাদ বিনোদন দিতে।",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "গেমারের আয়ের প্ল্যাটফর্ম।",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio হচ্ছে জার্মানি, অস্ট্রিয়া এবং সুইজারল্যান্ডে সিমুলেশন গেমগুলির জন্য সবচেয়ে সফল বিনোদন এবং খবরের রেডিও!",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "পাও যা তোমার। স্ট্রিম করো অ্যানিমে, মুভি, স্পেশাল এবং আরো অনেক কিছু। ফ্রি, কোনো অ্যাড ছাড়া এবং হাই ডেফিনেশনে!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "তৈরি করা শুরু করো তোমার নিজস্ব কমিউনিটি আমাদের দারুণ সব টেম্পলেট দিয়ে। তৈরি করো তোমার নিজের রাজ্য।",
