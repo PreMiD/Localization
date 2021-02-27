@@ -107,17 +107,9 @@
 		"message": "UpBeat je neprofitna globalna radio postaja, kjer lahko poslušate non-stop kakovostne radio postaje in novice.",
 		"description": "Description for UpBeatRadio."
 	},
-	"partners.partner.iLoot": {
-		"message": "Platforma za zaslužek igralcev.",
-		"description": "Description for iLoot."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio je najbolj uspešna informativna radio postaja za simulacijske igre v Nemčiji, Avstriji in Švici!",
 		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.aniWatch": {
-		"message": "Pridobite, kar je vaše. Streamanje Anime-jev, Film-i, Hentai-jev, Speciali in še več. Brezplačno, brez oglasov in v visoki ločljivosti!",
-		"description": "Description for AniWatch."
 	},
 	"partners.partner.discordTemplates": {
 		"message": "Začni zgraditi svojo skupnost z našim odličnih predlogah. Zgradi svoje kraljestvo.",
