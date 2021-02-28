@@ -34,5 +34,13 @@
 	"twitter.notifs": {
 		"message": "Уведомления",
 		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Обнаружить",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Изменяет некоторых настроек...",
+		"description": ""
 	}
 }
