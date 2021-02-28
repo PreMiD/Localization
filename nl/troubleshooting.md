@@ -59,7 +59,7 @@ Ik hoop dat je weet hoe u een computer opnieuw moet starten.
 Soms is er iets mis met de bestanden... Handleidingen voor de installatie kunnen [hier](/install) gevonden worden.
 
 ### Handmatige verwijdering
-Windows: Typ `%appdata%` in de bestandsverkenner en verwijder de map `PreMiD`. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows: Typ `%appdata%` in de bestandsverkenner en verwijder de map `PreMiD`. MacOS: `~/users/USER/~Library/Application Support/` en verwijder de map `PreMiD`.
 
 ### McAfee heeft PreMiD gedetecteerd als virus (Windows)
 Dit is een valse positief van McAfee en we hebben hun hiervan op de hoogte gesteld. Voor nu kunt u PreMiD van de scan uitsluiten door de volgende stappen te doen:
