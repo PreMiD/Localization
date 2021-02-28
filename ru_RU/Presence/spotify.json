@@ -34,5 +34,25 @@
 	"spotify.artistsLike": {
 		"message": "артисты, которые им нравятся",
 		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "альбомы, которые им нравятся",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "музыки, которые им нравятся",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Сделано для вас\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "плейлисты",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Скачивает Spotify",
+		"description": ""
 	}
 }
