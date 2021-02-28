@@ -26,5 +26,25 @@
     "1337x.appTorrents": {
         "message": "Смотрит приложения торрентов",
         "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Просмотр документов торрентов",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Смотрит игр торрентов",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Смотрит кино торрентов",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Смотрит музыки торрентов",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Смотрит других торрентов",
+        "description": ""
     }
 }
