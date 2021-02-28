@@ -1,1 +1,30 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Смотрит библиотеки фильмов",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Просмотр библиотеки серии",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Смотрит последних серий",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Смотрит топ-100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Смотрит трендового",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Смотрит Аниме Торрентов",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Смотрит приложения торрентов",
+        "description": ""
+    }
+}
