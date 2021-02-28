@@ -7,6 +7,10 @@
 		"message": "Смотрит...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Глава",
+		"description": ""
+	},
 	"general.dj": {
 		"message": "DJ",
 		"description": ""
@@ -239,6 +243,54 @@
 		"message": "Смотрит трансляцию",
 		"description": ""
 	},
+	"general.waitingLive": {
+		"message": "Ожидается, что прямая трансляция начнется",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Ожидается, что прямая трансляция начнется",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Отслеживание:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Избранное:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Политика конфиденциальности",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Пользовательское соглашение",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Зацикливание всех песен",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "В петле",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Просмотр инцидента",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "История инцидентов",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "История рабочего времени",
+		"description": "A page name of statuspages"
+	},
 	"general.buttonViewSeries": {
 		"message": "Смотрит серию",
 		"description": "Used as the title for the button in Discord."
@@ -249,6 +301,38 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Смотрит эпизод",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Посмотреть Видео",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Смотреть видео",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Видеть каналы",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Слушать вместе",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Просмотр страницы",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Просмотр песни",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Просмотр альбома",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Просмотреть профиль",
 		"description": "Used as the title for the button in Discord."
 	}
 }
