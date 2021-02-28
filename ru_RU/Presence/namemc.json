@@ -1,1 +1,74 @@
-{}
+{
+	"namemc.upcomingNames": {
+		"message": "Просмотр предстоящих имен",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
+	"namemc.skinsTrending": {
+		"message": "Просмотр популярных скинов",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTop": {
+		"message": "Просмотр верхних скинов",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsNew": {
+		"message": "Просмотр новых скинов",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsRandom": {
+		"message": "Просмотр случайных скинов",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTagged": {
+		"message": "Просмотр тегов скинов",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTag": {
+		"message": "Просмотр скинов с тегом {0}",
+		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
+	},
+	"namemc.viewSkin": {
+		"message": "Просмотр скина",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "Просмотр шапки",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "Просмотр заголовка:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Просмотр серверов",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Просмотр серверов:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Просмотр сервера",
+		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "Просмотр как забрать свой профиль",
+		"description": ""
+	},
+	"namemc.profileEdit": {
+		"message": "Редактирование информации о профиле{0}",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"namemc.viewFriends": {
+		"message": "Просмотр своих друзей",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "Просмотр скинов",
+		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "Просмотр эмодзи в профиле",
+		"description": "You can have an emoji next to your name, you select it here."
+	}
+}
