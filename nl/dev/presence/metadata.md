@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-Als u een presence in de winkel wilt publiceren en deze wilt laden via de extensie, dan moet je de `metadata.json` bestand in je `dist` map aanmaken.
+Als je een presence naar de bibliotheek wilt publiceren en deze wilt kunnen laden via de extensie, dan moet je het bestand `metadata.json` in je `dist` map aanmaken.
 
 Een voorbeeld van dat bestand kan hieronder worden gevonden.
 

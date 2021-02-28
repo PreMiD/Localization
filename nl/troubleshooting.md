@@ -71,7 +71,7 @@ Dit is een valse positief van McAfee en we hebben hun hiervan op de hoogte geste
 1. Open de McAfee-applicatie en klik op het instellingen-icoon in de rechterbovenhoek. <img src="https://i.imgur.com/rPLZn6c.png" width="500px" style="max-width:100%;" />
 2. Klik op "Quarantined Items" (Tweede van boven).
 3. Breid het uit en klik op het `>` pictogram voor een item met de naam "settings.dat".
-4. Zorg ervoor dat het pad "AppData\Local\Temp\PreMiD" bevat, als dit zo is, selecteer hem en druk op Herstellen. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
+4. Zorg ervoor dat het pad "AppData\Local\Temp\PreMiD" bevat. Als dit zo is, selecteer deze dan en druk op Herstellen. <img src="https://i.imgur.com/9nvHmiI.png" width="500px" style="max-width:100%;" />
 5. Nadat het is hersteld, kunt u de "Quarantined Items" pop-up sluiten, en vervolgens opnieuw op het instellingen icoon in de rechterbovenhoek drukken.
 6. Klik op "Real-Time scanning" (Derde van bovenaan).
 7. Breid het uit en klik op "Bestand toevoegen".
