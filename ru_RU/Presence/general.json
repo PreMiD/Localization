@@ -127,6 +127,78 @@
 		"message": "Печатать личные сообщения на:",
 		"description": ""
 	},
+	"general.typeChannel": {
+		"message": "Печатает в канале:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Смотрит аниме:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Смотрит категорию:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Смотрит канал:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Смотрит эпизод:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Просмотр жанра:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Смотрит домашней страницы",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Смотрит список:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Смотрит манга:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Просмотр участника:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Смотрит кино:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Смотрит плейлиста:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Смотрит продукта:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Смотрит профиля:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Смотрю сериал:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Смотрит шоу:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Смотрит учетной записи",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Смотрит темы:",
+		"description": ""
+	},
 	"general.viewPage": {
 		"message": "Смотрит страницу:",
 		"description": ""
