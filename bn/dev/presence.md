@@ -34,8 +34,8 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 ## প্রোজেক্টটিকে ক্লোন করা
 
 1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. তোমার পছন্দের একটি ফোল্ডার বাছাই করো।
+3. তোমার কোড এডিটর দিয়ে এটিকে ওপেন করো।
 
 ## Creating folders and files
 
