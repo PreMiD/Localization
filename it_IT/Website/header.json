@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Supportiamo la tua lingua, vuoi cambiare?",
+    "message": "Supportiamo la tua lingua, vuoi cambiarla?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -24,7 +24,7 @@
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Negozio",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
