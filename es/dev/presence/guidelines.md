@@ -155,7 +155,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`*altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
 
 ### **`description`**
 
