@@ -155,7 +155,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 
 ### **`*altnames`**
 
-- **Hanya** gunakan ini dalam senario di mana laman sesawang menggunakan beberapa nama rasmi berlainan (spt. Pokémon dan 포켓몬스터). Versi _kependekan_ nama perkhidmatan diletakkan di bawah `tags`.
+- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). Versi _kependekan_ nama perkhidmatan diletakkan di bawah `tags`.
 
 ### **`keterangan`**
 
