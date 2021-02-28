@@ -249,24 +249,24 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 
 In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele kleine veranderingen gebruiken om de functionaliteit te verbeteren. Hier is een lijst met regels die je **moet** volgen tijdens het wijzigen van presences.
 
-- Je bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. Als de presence-auteur van de officiële server verbannen is of binnen een maand nog niet de vereiste wijzigingen aangebracht heeft, kun je contact opnemen met een beoordelaar om te kijken of je de presence kunt herschrijven.
-- Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence-code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een beoordelaar voor meer informatie hierover.
+- Je bent **niet** toegestaan om een presence te herschrijven of de auteur aan te passen. Als de presence-auteur van de officiële server verbannen is of binnen een maand nog niet de vereiste wijzigingen aangebracht heeft, kun je contact opnemen met een controleur om te kijken of je de presence kunt herschrijven.
+- Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence-code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een controleur voor meer informatie hierover.
 - Iedereen kan hotfixes aanbieden om bugs op te lossen, maar breng **geen** wijzigingen aan als die **niet** nodig zijn. Geldige wijzigingen omvatten algemene fixes (code en typfouten), toevoegingen (beschrijvingen en tags), ontbrekende bestanden, etc. Verander **geen** afbeeldingen als ze niet verouderd zijn en voldoen aan vereisten.
 
 # Verification
 
 > **Alle** code die aan de winkel is bijgedragen zal een licentie krijgen onder de `Mozilla Public License 2.0`.
 
-> Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. Alle verificateurs hebben de rol `Reviewer` op hun profiel.
+> Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. Alle verificateurs hebben de rol `Controleur` op hun profiel.
 
-> Houd er rekening mee dat de beoordelaars vrijwillig werken en andere repositories beheren naast deze, je pull-aanvraag wordt mogelijk niet gereviewd tot uren of zelfs dagen nadat deze is aangemaakt.
+> Houd er rekening mee dat controleurs vrijwillig werken en naast deze mogelijk andere repository's beheren. Het kan dus langer dan een paar uur of zelfs een paar dagen duren voordat je pull-aanvraag wordt gecontroleerd nadat je hem aanmaakt.
 
 > Heb **altijd** een up-to-date fork voordat je een pull-aanvraag aanmaakt. Dit zal valse positieven van checks te beperken.
 
-Het belangrijkste proces van de ontwikkeling van je presence, is je presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze verificateurs zullen bevestigen dat jouw presence voldoet aan de normen en zal deze aan de winkel toevoegen.
+Het belangrijkste proces van de ontwikkeling van je presence, is je presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze controleurs zullen bevestigen dat je presence voldoet aan onze normen. Daarna kan deze worden toegevoegd aan de winkel.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence-beoordelaars</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Presencecontroleurs</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Alanexei"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
@@ -279,7 +279,7 @@ Herhalende overtredingen zoals het breken van richtlijnen, het spammen van pull 
 
 In dit scenario zullen de volgende wijzigingen plaatsvinden:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
+- Presences onder je beheer zullen worden overgedragen naar de PreMiD-bot of een andere gebruiker (besluit van controleur). The application id for each presence will be recreated under the new owner's name.
 - Al je issues en pull-aanvragen (presence-toevoegingen en -wijzigingen, enz.) die zijn gecreëerd na het verbod zullen worden gesloten.
 - Tickets die onder je naam zijn gemaakt met betrekking tot presence-ontwikkeling worden verwijderd.
 
@@ -287,7 +287,7 @@ In dit scenario zullen de volgende wijzigingen plaatsvinden:
 
 Enkele dingen die je moet weten voordat je een pull request opent:
 
-- Er zijn 2 reviewers nodig om een pull-aanvraag samen te voegen.
+- Er zijn 2 controleurs nodig om een pull-aanvraag samen te voegen.
 - Als een pull-aanvraag 7 dagen lang inactief is, zal deze worden gesloten.
 - Alle controles **moeten** voldaan zijn voordat er samengevoegd kan worden.
 - ⚠️ Je **moet** nieuwe, onaangepaste schermafbeeldingen (gemaakt door jou) meesturen die je profiel en de website naast elkaar tonen om te bewijzen dat je presence werkt. _Je mag schermafbeeldingen samennemen voor verhoogd kijkgemak_ Dit geldt zowel voor het aanmaken van je presence als voor latere aanpassingen.
