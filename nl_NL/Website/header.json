@@ -24,7 +24,7 @@
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "Winkel",
+    "message": "Bibliotheek",
     "description": "Store tab"
   },
   "header.downloads": {
