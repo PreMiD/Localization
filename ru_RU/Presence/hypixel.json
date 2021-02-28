@@ -1,1 +1,22 @@
-{}
+{
+    "hypixel.staff": {
+        "message": "Просмотр списка персонала",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Смотрит посмотренных тем",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Смотрит посмотренных форумов",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Смотрит личные сообщения",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Просмотр игры:",
+        "description": ""
+    }
+}
