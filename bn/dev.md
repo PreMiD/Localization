@@ -6,7 +6,7 @@ date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> একটি কোড এডিটর প্রয়োজন। আমরা পরামর্শ দেই Visual Studio Code এর। 
 > 
 > {.is-info}
 
@@ -16,27 +16,27 @@ tags:
 3. ইন্সটল করো [TypeScript](https://www.typescriptlang.org/index.html#download-links) (একটি টার্মিনাল ওপেন করো এবং টাইপ করো `npm install -g typescript`)
 
 # প্রোজেক্টটিকে ক্লোন করা
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+1. একটি টার্মিনাল ওপেন করো এবং টাইপ করো `git clone URL` **URL এর বদলে সেই রিপোজিটরির লিংক দাও যেটাতে তুমি কন্ট্রিবিউট করতে চাও** যেমন: `git clone https://github.com/PreMiD/PreMiD`
+2. তোমার পছন্দের একটি ফোল্ডার বাছাই করো।
+3. তোমার কোড এডিটর দিয়ে এটিকে ওপেন করো।
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# ডিপেন্ডেন্সিগুলি ইন্সটল করা
+> নিশ্চিত করো যে তুমি [npm](https://www.npmjs.com/) (Node Package Manager) ইন্সটল করেছ প্রথমে। এটি অটোমেটিকভাবে ইন্সটল হয়ে গেছে যদি তুমি [Node](https://nodejs.org/en/) ইন্সটল করে থাকো। 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- একটি টার্মিনাল ওপেন করো তোমার রিপোজিটরিতে এবং টাইপ করো `npm i`
+- ডিপেন্ডেন্সিগুলি আপডেট করতে টাইপ করো `npm update`
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> সচেতন থাকো যে ডিপেন্ডেন্সিগুলিকে আপডেট করলে এটি ভেঙ্গে যেতে পারে, অথবা নাও হতে পারে - পরীক্ষা করা প্রয়োজন! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# তোমার কল্পনাকে কোড করা
+দয়া করে গঠনটি বজায় রাখো। আমরা আমাদের প্রোজেক্টটিকে এলোমেলো করতে চাই না। বিশৃঙ্খল ফাইলগুলি নেওয়া হবে না।
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# তোমার স্বপ্ন জমা দেওয়া
+শুধু একটি পুল রিকোয়েস্ট খোলো আমাদের যেকোনো [গিটহাব রিপোজিটরিতে](https://github.com/PreMiD/) যেটাতে তুমি কন্ট্রিবিউট করতে চাও। আমরা সেটার খেয়াল রাখব, চিন্তা করো না। এটা যদি হয় তোমার প্রথমবার পুল রিকোয়েস্ট তৈরি করা, দেখে নাও এই [টিউটোরিয়ালটি](https://help.github.com/en/articles/creating-a-pull-request)।
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# গ্রহণ করা
+আমাদের মূল উদ্দেশ্য হচ্ছে ইউজারদের কাজ করা তাই চেষ্টা করো যতটা সম্ভব বন্ধুসুলভ, শ্রদ্ধাশীল এবং তথ্যপূর্ণ হতে। শুধু একজন ডেভেলপারকে পিং করো আমাদের [Discord সার্ভারে](https://discord.gg/WvfVZ8T) সেটা গিটহাবে রিভিউ করতে, বা না। নির্ভর করে কোডের কোয়ালিটি, অ্যাসেটগুলির রুপ এবং সাধারণ কার্যকারিতার উপর।
