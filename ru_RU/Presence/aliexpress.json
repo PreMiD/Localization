@@ -50,5 +50,17 @@
     "aliexpress.coupons": {
         "message": "Смотрит купонов",
         "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Смотрит адреса",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Справочный центр AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Центр продажи AliExpress",
+        "description": ""
     }
 }
