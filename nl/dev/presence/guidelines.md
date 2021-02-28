@@ -29,7 +29,7 @@ De algemene regels voor de ontwikkeling van een presence zijn:
 - Je moet een juiste bestandsstructuur hebben, concepten zijn **niet** toegestaan.
 - Presences voor websites met (`.onion` TLD's) of websites met gratis domeinen/hosts (zoals `.TK` [alle gratis Freenom domeinen], `.RF`, `GD`, etc.) zijn **niet** toegestaan, uitzonderingen kunnen gemaakt worden als er bewijs is laten zien dat er betaald is voor een domein.
 - Het domein van de presence moet minimaal 2 maanden oud zijn.
-- Presences die gericht zijn op interne browser pagina's (zoals Chrome Web Store, `chrome://`, `about:` pagina's, etc.) zijn **niet** toegestaan, omdat zij een experimentele vlag ingeschakeld moeten hebben, en omdat het mogelijk schade kan toebrengen aan hun browsers.
+- Presences die gericht zijn op interne browserpagina's (zoals de Chrome Web Store, `chrome://`- en `about:`-pagina's, etc.) zijn **niet** toegestaan, omdat zij een experimentele flag ingeschakeld moeten hebben, en omdat het mogelijk schade kan toebrengen aan browsers.
 - Presences met ondersteuning alleen voor een enkel doel zullen **niet** toegestaan worden, omdat ze mogelijk gebroken lijken voor andere pagina's (zoals de homepagina), uitzonderingen kunnen worden gemaakt voor beleid en contactpagina's (inhoud die niet vaak gebruikt wordt) of sites waar de andere inhoud niet gerelateerd is. (bijvoorbeeld wikia-pagina's)
 - Presences voor online radio's zijn alleen toegestaan als de radio ten minste 100 wekelijkse luisteraars en 15 gelijktijdige luisteraars heeft. Ook moet het enkele functies hebben en niet alleen album en titel.
 - Lage kwaliteit presences (of degenen met weinig context) zijn **niet** toegestaan (bijvb: alleen een logo en tekst tonen maar het verandert later nooit meer.)
@@ -129,7 +129,7 @@ Elke presence heeft een beschrijvingsbestand genaamd `metadata.json`, de metadat
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (bijv. een presence zonder iframe ondersteuning heeft het veld `iframe` niet nodig.)
+> Als een veld als optioneel wordt vermeld in de [documentatie](https://docs.premid.app/en/dev/presence/metadata) of er staat `*` er naast en je presence gebruikt de standaardwaarde ervoor, typ deze dan niet in het `metadata`-bestand. (bijv. een presence zonder iframe ondersteuning heeft het veld `iframe` niet nodig.)
 
 > Alle afbeeldingen in het `metadata` bestand moeten worden gehost op `i.imgur.com`. Het gebruik van inhoud op de website zelf is **niet** toegestaan, omdat het ongewillig de paden en bestanden kan wijzigen.
 
@@ -255,7 +255,7 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 
 # Verification
 
-> **Alle** code die aan de winkel is bijgedragen zal een licentie krijgen onder de `Mozilla Public License 2.0`.
+> **Alle** bijgedragen code in de bibliotheek wordt gelicenseerd onder de `Mozilla Public License 2.0`.
 
 > Als je contact wilt opnemen met iemand, gebruik dan onze officiële Discord server. Alle verificateurs hebben de rol `Controleur` op hun profiel.
 
@@ -263,7 +263,7 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 
 > Heb **altijd** een up-to-date fork voordat je een pull-aanvraag aanmaakt. Dit zal valse positieven van checks te beperken.
 
-Het belangrijkste proces van de ontwikkeling van je presence, is je presence in de store krijgen. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze controleurs zullen bevestigen dat je presence voldoet aan onze normen. Daarna kan deze worden toegevoegd aan de winkel.
+Het belangrijkste proces van de ontwikkeling van je presence is de publicatie naar de bibliotheek. Dit wordt gedaan door een [pull-aanvraag](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) op GitHub te maken in de `PreMiD/Presences` repository. Onze controleurs zullen bevestigen dat je presence voldoet aan onze normen. Daarna kan deze worden toegevoegd aan de bibliotheek.
 
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Presencecontroleurs</h2>
@@ -307,7 +307,7 @@ Op dit moment wordt de presence in drie afzonderlijke fasen gecontroleerd. Al de
 
 - Zorg er **altijd** voor dat je presence in de meest geschikte map begint, als de naam begint met een Latijnse letter dan moet het onder de alfabetische overeenkomst vallen (bijv. `D/dアニメストア` of `G/Google`). Alle andere Unicode/niet-Latijnse tekens **moeten** onder de map `#` staan (bijvoorbeeld `#/巴哈姆特`) en nummers onder de `0-9` map (bijvoorbeeld `0-9/4anime`).
 
-Nadat je aan alle richtlijnen voldoet en je presence ten minste twee keer is geëvalueerd, wordt je presence toegevoegd aan de winkel.
+Nadat je aan alle richtlijnen hebt voldaan en je presence tenminste twee keer is gecontroleerd, wordt je presence toegevoegd aan de bibliotheek.
 
 # Suggestions
 If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
