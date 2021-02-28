@@ -8,11 +8,11 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> Alle presences worden hier bewaard: https://github.com/PreMiD/Presences 
+> Alle presences worden hier opgeslagen: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Versie `2.x` introduceert de [presence winkel](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
+Versie `2.x` introduceert de [presencebibliotheek](https://premid.app/store). Gebruikers kunnen nu handmatig hun favoriete presences toevoegen en verwijderen via de gebruikersinterface op de [website](https://premid.app/).
 
 > Voordat je aan de slag gaat, is het zeer aan te raden om onze presence richtlijnen te bekijken. 
 > 
