@@ -46,5 +46,33 @@
     "1337x.otherTorrents": {
         "message": "Смотрит других торрентов",
         "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Смотрит ТВ торрентов",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Смотрит XXX торрентов",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Что-то загружается...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Читает правила",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Записывает в 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Читает о 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Смотрит торрент:",
+        "description": ""
     }
 }
