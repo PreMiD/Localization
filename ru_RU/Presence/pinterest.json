@@ -10,5 +10,9 @@
     "pinterest.follow": {
         "message": "Смотрит подписчиков",
         "description": ""
+    },
+    "pinterest.home": {
+        "message": "Редактирует на домашней страницы",
+        "description": ""
     }
 }
