@@ -155,7 +155,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`*altnames`**
 
-- **Only** use this in scenerios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- Gebruik dit **alleen** wanneer je gekozen website meerdere officiële namen heeft (bijv. Pokémon en 포켓몬스터). _Verkorte_ versies van servicenamen gaan onder `tags`.
 
 ### **`description`**
 
@@ -195,12 +195,12 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`category`**
 
-- The category **must** be one of the following listed on the [documentation](/dev/presence/metadata#presence-categories).
+- De categorie **moet** vermeld staan in de [documentatie](/dev/presence/metadata#presence-categories).
 - De presence moet een categorie gebruiken die overeenkomt met de inhoud van de website. (bijvoorbeeld, gebruik niet `anime` wanneer de website niet gerelateerd is aan anime).
 
 ### **`*regExp`** <br /> **`*iFrameRegExp`**
 
-- Regelmatige expressies **moeten** geldig zijn. Please test your expressions with the tools listed on the [documentation](/dev/presence/metadata#testing).
+- Regelmatige expressies **moeten** geldig zijn. Test je expressions met de tools in de [documentatie](/dev/presence/metadata#testing).
 
 ### **`readLogs`**
 
@@ -209,13 +209,13 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 ### **`waarschuwing`**
 
-- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
+- Zet het waarschuwingspictogram aan om de gebruiker aan te geven dat deze presence meerdere stappen vereist dan alleen de presence toe te voegen.
 - Een voorbeeld van een presence met deze metadatavariabele is `VLC`.
 
 ### **`settings`**
 
-- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Als je besluit om een indelingsstring te maken (bijvoorbeeld `%song% by %artist%`), moet je de variabelen omgeven door een procentteken aan beide zijden. Variabelen zoals `%var`, `var%`, of `%%var%%` en alles ertussenin, zijn **niet** toegestaan omwille van normalisatie.
+- De namen van de instellingen mogen **niet** in alle hoofdletters staan. Namen zoals `LAAT BROWSING STATUS ZIEN` zullen **niet** toegestaan zijn; Namen zoals `Laat Browsing Status Zien` of `Laat browsing status zien` zijn echter toegestaan.
 - Als je de optie multiLanguage gebruikt, moet je het volgende weten:
   - Waarde met het type **Boolean** zal alleen tekenreeksen van [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) van de lokalisatierepo of het presence-bestand (bijv. als de presence-naam YouTube is, zal de extensie ook tekenreeksen ophalen uit `youtube.json`) ophalen.
   - Waarde met het type **String** (bijv. `youtube.json`) geeft de bestandsnaam voor het ophalen van tekenreeksen op.
@@ -225,13 +225,13 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 > De code die u schrijft **moet** _goed geschreven_ en **moet** leesbaar zijn __ en alle strings moeten grammatisch correct zijn (fouten van grammatica op websites kunnen worden genegeerd).
 
-> Elke presence volgt een strikte linting regel-set, die tijdens het beoordelingsproces zal worden gecontroleerd. Er zijn hier enkele aanbevelingen te zien. [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint-aanbevelingen](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
+> Elke presence volgt een strikte linting regel-set, die tijdens het beoordelingsproces zal worden gecontroleerd. Er zijn hier enkele aanbevelingen te zien. [TypeScript Plugin Aanbevelingen voor Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint-aanbevelingen](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
 
 Hier is een lijst met regels die je moet volgen bij het schrijven van je `presence.ts` bestand:
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
+- Verklaar **altijd** een nieuw instance van de `Presence` klasse voor een andere variabele om zeldzame problemen te voorkomen; Dit is geen vereiste volgens het ontwerp, zodat het in de toekomst kan worden geschrapt.
 - Gebruik **nooit** aangepaste functies wanneer [native varianten beschikbaar zijn](https://docs.premid.app/dev/presence#files-explained); dit zorgt ervoor dat fixes op extensie-niveau ook van toepassing zijn op je presences. Je kunt gebruik maken van alles wat je nodig hebt als je het niet in de documenten kunt vinden.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
+- Het is **verboden** om presences voor een website te coderen zonder ondersteuning toe te voegen aan de hoofdtaal (bijvoorbeeld, een YouTube presence gecodeerd met steun voor Portugees en Japans, maar niet voor Engels zelf.)
 - De velden `smallImageKey` en `smallImageText` zijn bedoeld om extra/secundaire context te bieden (zoals `afspelen/gepauzeerd` voor videosites, `bladeren` voor reguliere sites) en niet voor het adverteren van je Discord-profiel of iets wat niet gerelateerd is aan PreMiD.
 - Je hebt **geen** toegang tot `localStorage`.
 - Bij het gebruiken van cookies voor opgeslagen gegevens, gebruik dan de prefix `PMD_` voor de key.
@@ -241,7 +241,7 @@ Hier is een lijst met regels die je moet volgen bij het schrijven van je `presen
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
+> Schrijf **niet** je eigen `tsconfig.json` bestand, gebruik wat geleverd is in deze [documentatie](/dev/presence/tsconfig).
 
 ## Aanpassingen
 
@@ -253,7 +253,7 @@ In sommige situaties kunnen presences onverwacht gedrag vertonen of enkele klein
 - Als je wijzigingen aanbrengt in de presence en ten minste een **kwart** van de presence-code wijzigt mag je jezelf toevoegen als bijdrager. Neem contact op met een controleur voor meer informatie hierover.
 - Iedereen kan hotfixes aanbieden om bugs op te lossen, maar breng **geen** wijzigingen aan als die **niet** nodig zijn. Geldige wijzigingen omvatten algemene fixes (code en typfouten), toevoegingen (beschrijvingen en tags), ontbrekende bestanden, etc. Verander **geen** afbeeldingen als ze niet verouderd zijn en voldoen aan vereisten.
 
-# Verification
+# Verificatie
 
 > **Alle** bijgedragen code in de bibliotheek wordt gelicenseerd onder de `Mozilla Public License 2.0`.
 
@@ -273,17 +273,17 @@ Het belangrijkste proces van de ontwikkeling van je presence is de publicatie na
   <br />
 </div>
 
-## `Restrictions`
+## `Beperkingen`
 
 Herhalende overtredingen zoals het breken van richtlijnen, het spammen van pull requests, dreigementen of ongepast gedrag kan leiden tot verbanning van het maken van presences.
 
 In dit scenario zullen de volgende wijzigingen plaatsvinden:
 
-- Presences onder je beheer zullen worden overgedragen naar de PreMiD-bot of een andere gebruiker (besluit van controleur). The application id for each presence will be recreated under the new owner's name.
+- Presences onder je beheer zullen worden overgedragen naar de PreMiD-bot of een andere gebruiker (besluit van controleur). De applicatie-id voor elke presence wordt opnieuw gemaakt onder de naam van de nieuwe eigenaar.
 - Al je issues en pull-aanvragen (presence-toevoegingen en -wijzigingen, enz.) die zijn gecreëerd na het verbod zullen worden gesloten.
 - Tickets die onder je naam zijn gemaakt met betrekking tot presence-ontwikkeling worden verwijderd.
 
-## `Reviewing`
+## `Controle`
 
 Enkele dingen die je moet weten voordat je een pull request opent:
 
@@ -293,7 +293,7 @@ Enkele dingen die je moet weten voordat je een pull request opent:
 - ⚠️ Je **moet** nieuwe, onaangepaste schermafbeeldingen (gemaakt door jou) meesturen die je profiel en de website naast elkaar tonen om te bewijzen dat je presence werkt. _Je mag schermafbeeldingen samennemen voor verhoogd kijkgemak_ Dit geldt zowel voor het aanmaken van je presence als voor latere aanpassingen.
 - ⚠️ Je bent ook **verplicht** om schermafbeeldingen te maken van eventuele presence-instellingen. Een voorbeeld kan je [hier](https://imgur.com/a/OD3sj5R) bekijken.
 
-## `Controles`
+## `Checks`
 
 ![Controles](https://i.imgur.com/oqAakOc.png)
 
@@ -309,12 +309,12 @@ Op dit moment wordt de presence in drie afzonderlijke fasen gecontroleerd. Al de
 
 Nadat je aan alle richtlijnen hebt voldaan en je presence tenminste twee keer is gecontroleerd, wordt je presence toegevoegd aan de bibliotheek.
 
-# Suggestions
-If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
+# Suggesties
+Als u enkele suggesties hebt over onze richtlijnen, kun je contact met ons opnemen @ [PreMiD discord server](https://discord.premid.app) en wij zullen deze bekijken!
 
 # Bijdrages
 
-`Revision 3` of the guidelines was written and was contributed to by the following individuals:
+`Revisie 3` van de richtlijnen is geschreven en is bijgedragen door de volgende personen:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
