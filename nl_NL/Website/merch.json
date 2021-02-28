@@ -1,6 +1,6 @@
 {
 	"merch.title": {
-		"message": "Welkom bij de officiële **PreMiD** Merchandise-winkel!",
+		"message": "Welkom bij de officiële merchandisewinkel van**PreMiD**!",
 		"description": "Merch store title"
 	},
 	"merch.swag": {
@@ -16,7 +16,7 @@
 		"description": "Add product to cart"
 	},
 	"merch.help": {
-		"message": "Ondervindt u problemen met onze winkel of met een bestelling? Neem contact op met onze {0}klantenservice{1}",
+		"message": "Heb je problemen met onze bibliotheek of een bestelling? Neem contact op met {0}ondersteuning{1}",
 		"description": "Link to customer support, {0}{1} is the replacement for the link"
 	},
 	"merch.item.added": {
