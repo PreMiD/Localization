@@ -1,1 +1,18 @@
-{}
+{
+    "youtube.trending": {
+        "message": "Смотрит трендового",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Смотрит через",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.upload": {
+        "message": "Что-то загружается...",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Смотрит",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    }
+}

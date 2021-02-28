@@ -32,7 +32,7 @@
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Para te poderes candidatar tens que estar no nosso servidor do Discord, caso contrário, não poderemos entrar em contacto contigo se fores selecionado!",
+		"message": "Para te poderes candidatar tens que estar no nosso servidor de Discord, caso contrário, não poderemos entrar em contacto contigo se fores selecionado!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {

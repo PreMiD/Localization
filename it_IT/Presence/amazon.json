@@ -1,1 +1,10 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Visualizzando i propri abbonamenti",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Visualizzando le proprie preferenze pubblicitarie",
+        "description": ""
+    }
+}
