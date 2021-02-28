@@ -1,4 +1,8 @@
 {
+    "amazon.subscriptions": {
+        "message": "Viendo sus suscripciones",
+        "description": ""
+    },
     "amazon.adprefs": {
         "message": "Viendo sus preferencias de anuncios",
         "description": ""
