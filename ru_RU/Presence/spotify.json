@@ -1,1 +1,38 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Избранные песни",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Лучшие подкасты",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Смотрит графиков",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Просмотр жанров",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Просмотр последних релизов",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Ищет новых песен",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Смотрит через",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "подкасты, которые им нравятся",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "артисты, которые им нравятся",
+		"description": "\"Browsing through\" + this"
+	}
+}
