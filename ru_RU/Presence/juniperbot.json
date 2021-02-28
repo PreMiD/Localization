@@ -22,5 +22,21 @@
     "juniperbot.servers": {
         "message": "Выбирает сервер",
         "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Смотрит список команд.",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Смотрит статистику бота.",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Изменяет карточку рейтинга.",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Чтение о cookies сайта",
+        "description": "Reading about the site's cookies"
     }
 }
