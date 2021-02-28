@@ -135,8 +135,48 @@
 		"message": "Портал для разработчиков",
 		"description": ""
 	},
+	"discord.devs.appsBrowse": {
+		"message": "Просмотр через их приложения",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Редактирование приложения: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Просмотр через их команды",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Редактирование команды: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Просмотр на серверах",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Просмотр информации о сервере: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Прочитать документацию",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Статус Discord",
+		"description": ""
+	},
 	"discord.support": {
 		"message": "Справочный центр",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Блог Discord",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Соединение Discord",
 		"description": ""
 	},
 	"discord.merch.collection": {
