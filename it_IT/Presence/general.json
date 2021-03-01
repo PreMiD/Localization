@@ -107,6 +107,18 @@
 		"message": "Cercando",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Scrivendo",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Chiamando",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "In una chiamata...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Carrello d'acquisto",
 		"description": ""
@@ -285,6 +297,38 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Guarda episodio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Guarda il video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Guarda la diretta",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Guarda il canale",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Ascolta assieme",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Guarda la pagina",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Visualizza brano",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Visualizza Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Mostra Profilo",
 		"description": "Used as the title for the button in Discord."
 	}
 }

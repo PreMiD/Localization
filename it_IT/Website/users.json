@@ -4,11 +4,11 @@
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Verificatore Presenze",
+		"message": "Esaminatore Presence",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Sviluppatore importante di Presenze",
+		"message": "Sviluppatore importante di Presence",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
