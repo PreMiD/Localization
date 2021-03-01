@@ -4,11 +4,11 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Unisciti alla famiglia e ottieni alcuni vantaggi solo per i partner per mostrare quanto swag hai.",
+		"message": "Unisciti alla famiglia e ottieni alcuni vantaggi riservati ai partner per mostrare quanto sei swag.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Questi già appartengono a noi",
+		"message": "Questi già ci appartengono",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -178,6 +178,10 @@
 	"partners.apply.select.other": {
 		"message": "Altro",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nome",
+		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Es: PreMiD",
