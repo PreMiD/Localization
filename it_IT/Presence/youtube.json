@@ -1,10 +1,10 @@
 {
     "youtube.ad": {
-        "message": "Guardando una pubblicità",
+        "message": "Attualmente guardando un annuncio",
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Navigando tra i videos",
+        "message": "Navigando tra i video",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
@@ -61,6 +61,58 @@
     },
     "youtube.viewAllPlaylist": {
         "message": "Visualizzando tutte le proprie playlist",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Visualizzando i propri eventi live",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Visualizzando la libreria audio",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Visualizzando i propri video",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Modificando il video:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Visualizzando le statistiche del video:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Visualizzando i commenti del video:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Visualizzando le traduzioni del video:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Visualizzando i propri",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "statistiche del canale",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "commenti del canale",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "traduzioni del canale",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "pagina dell'artista",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Visualizzando la propria dashboard",
         "description": ""
     }
 }
