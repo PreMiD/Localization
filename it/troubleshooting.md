@@ -19,7 +19,7 @@ Included on this page:
 
 <a name="general"></a>
 
-# General troubleshooting
+# Risoluzione problemi generali
 ### Ricarica la pagina
 Puoi anche premere <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) o <kbd>CMD+R</kbd> (MacOS) sulla tua tastiera invece di cercare il pulsante di aggiornamento.
 
