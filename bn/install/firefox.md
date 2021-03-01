@@ -1,6 +1,6 @@
 ---
 title: Firefox
-description: Getting started with a PreMiD installation on Firefox
+description: শুরু করা যাক PreMiD ইন্সটলেশন ফায়ারফক্সে
 published: true
 date: 2020-02-12T22:08:32.409Z
 tags:
@@ -10,12 +10,12 @@ tags:
 
 # ইনস্টল
 1. আমাদের ডাউনলোড পেজে যাও [এখানে ক্লিক করে](https://premid.app/downloads)।
-2. Choose **Firefox**.
-3. Search for `about:addons`.
-4. Click on the small gear icon in the upper right corner.
-5. Choose **Install add-on from file**.
-6. Select the file you downloaded recently.
-7. Accept the installation by clicking on **Add**.
+2. সিলেক্ট করো **ফায়ারফক্স**।
+3. `about:addons` খোঁজ।
+4. ক্লিক করো গিয়ার আইকনে যেটা উপরের ডান পাশে।
+5. সিলেক্ট করো **Install add-on from file**
+6. সিলেক্ট করো ফাইলটি যেটি ইতিমধ্যে ডাউনলোড করেছ।
+7. **Add** - এ ক্লিক করে ইন্সটল করো।
 
 > ভুলে যেও না [ইন্সটল করতে ****অ্যাপ্লিকেশানটি](/install)। 
 > 
