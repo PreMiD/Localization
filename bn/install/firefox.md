@@ -6,10 +6,10 @@ date: 2020-02-12T22:08:32.409Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+এক্সটেনশনটির ইন্সটলেশন খুবই গুরুত্বপূর্ণ কেননা অ্যাপ্লিকেশানটি নিজ থেকে কিছুই করতে পারেনা।
 
 # ইনস্টল
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. আমাদের ডাউনলোড পেজে যাও [এখানে ক্লিক করে](https://premid.app/downloads)।
 2. Choose **Firefox**.
 3. Search for `about:addons`.
 4. Click on the small gear icon in the upper right corner.
@@ -17,7 +17,7 @@ The installation of the extension is very important as the application can not d
 6. Select the file you downloaded recently.
 7. Accept the installation by clicking on **Add**.
 
-> Do not forget to [add the **application**](/install). 
+> ভুলে যেও না [ইন্সটল করতে ****অ্যাপ্লিকেশানটি](/install)। 
 > 
 > {.is-warning}
 
