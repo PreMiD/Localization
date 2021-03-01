@@ -36,7 +36,7 @@ iframe.on("UpdateData", async () => {
 Возвращает URL `iframe`.
 
 ## Событие
-In `iframes`, events work similarly to the way they work in the `presence` class.
+В `iframes`события работают аналогично тому, как они работают в классе `присутствия`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
@@ -44,8 +44,8 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-Here is a list of all of the events:
+Список всех событий:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Это событие запускается каждый раз, когда iframe обновляется.
