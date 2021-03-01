@@ -26,5 +26,9 @@
     "9gag.store": {
         "message": "Смотрит страницы магазина",
         "description": ""
+    },
+    "9gag.collection": {
+        "message": "Смотрит коллекции:",
+        "description": ""
     }
 }

@@ -1,14 +1,66 @@
 {
+    "youtube.ad": {
+        "message": "Сейчас смотрит рекламу",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Смотрит видео",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Смотрит плейлисты",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Смотрит посты сообщества",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "каналов:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Читает о канале:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Ищет по каналу: {0} для:",
+        "description": "{0} will be replaced with the channel name"
+    },
     "youtube.trending": {
-        "message": "Смотрит трендового",
+        "message": "Смотрит тренды",
         "description": ""
     },
     "youtube.browsingThrough": {
         "message": "Смотрит через",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.subscriptions": {
+        "message": "подписки",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "их история",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "их покупки",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Смотрит истории отчетов",
+        "description": ""
+    },
     "youtube.upload": {
         "message": "Что-то загружается...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Смотрит все их плейлисты",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Смотрит мероприятий на эфир",
         "description": ""
     },
     "youtube.studio.viewTheir": {
