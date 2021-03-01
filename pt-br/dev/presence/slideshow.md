@@ -67,7 +67,7 @@ O primeiro parâmetro requer uma `String` que é o identificador único do slide
 
 Deleta todos os slides do `Slideshow`.
 
-# SlideshowSlide Class
+# Classe Slideshow
 
 ## Introdução
 
