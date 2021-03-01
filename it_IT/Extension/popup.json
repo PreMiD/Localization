@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD non è stato in grado di connettersi alla sua applicazione Discord! È la application installato e funzionante? *risoluzione problemi*",
+		"message": "PreMiD non è stato in grado di connettersi alla tua applicazione Discord! È installata ed in esecuzione? *Risoluzione problemi*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
