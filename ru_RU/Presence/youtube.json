@@ -63,6 +63,26 @@
         "message": "Смотрит мероприятий на эфир",
         "description": ""
     },
+    "youtube.viewLiveDashboard": {
+        "message": "Просмотр их информационной панели",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Смотрит аудио библиотеки",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Смотрит своих видео",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Редактирует видео:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Смотрит аналитику видео:",
+        "description": ""
+    },
     "youtube.studio.viewTheir": {
         "message": "Смотрит",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
