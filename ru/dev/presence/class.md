@@ -278,58 +278,56 @@ presenceData.endTimestamp = timestamps[1];
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Первая строка в вашем presence, обычно используется в качестве заголовка.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Вторая линия вашего presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Определяет текущее время.<br>
+        Используется, если вы хотите отобразить, сколько <code>часов:минут:секунд</code> осталось.
+          <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчёт.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Определяет полную продолжительность.
+        <br>Используется если вы хотите отображать сколько <code>часов:минут:секунды</code> слева.
+          <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчёт.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Определяет логотип для присутствия.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Определяет маленький значок рядом с наличием&apos;с логотипа.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Определяет текст, который будет показан пользователю, когда он наведет маленький значок
+.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
         <tr>
       <td style="text-align:left">buttons</td>
-      <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
+      <td style="text-align:left">Массив кнопок, макс. 2, метка является текстом кнопки, а url это ссылка.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>
@@ -338,21 +336,21 @@ presenceData.endTimestamp = timestamps[1];
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "Моё название",
+  state: "Мое описание",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "Вы меня подогнали, и что сейчас? ,
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734,
-  buttons: [
+  кнопок: [
     {
-            label: "Test button1",
-            url: "https://premid.app/"
+            ярлык: "Test button1",
+            url: "https://premid. pp/"
         },
         {
-            label: "Test button2",
-            url: "https://premid.app/contributors"
+            метка: "Кнопка тестирования2",
+            url: "https://premid. pp/contributors"
         }
     ]
 };
@@ -363,8 +361,8 @@ const presenceData: PresenceData = {
 События позволяют вам обнаруживать и обрабатывать некоторые изменения или вызовы. Вы можете подписаться на события с помощью метода `on`.
 
 ```typescript
-presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+presence.on("Данные обновить", асинхронный () => {
+    // Выполняйте что-то, когда данные обновляются.
 });
 ```
 
