@@ -11,6 +11,10 @@
 		"message": "Navigando attraverso",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.jobs": {
+		"message": "la pagina Lavora con noi",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.support": {
 		"message": "Centro assistenza",
 		"description": ""
