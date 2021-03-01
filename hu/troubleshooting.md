@@ -113,7 +113,7 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
+# MacOS hibaelhárítás
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
