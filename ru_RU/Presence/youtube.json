@@ -39,6 +39,10 @@
         "message": "подписки",
         "description": "Part two of \"Browsing through\""
     },
+    "youtube.library": {
+        "message": "их библиотека",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.history": {
         "message": "их история",
         "description": "Part two of \"Browsing through\""
@@ -83,8 +87,36 @@
         "message": "Смотрит аналитику видео:",
         "description": ""
     },
+    "youtube.studio.videoComments": {
+        "message": "Смотрит комментарии под видео:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Смотрит переводы видео:",
+        "description": ""
+    },
     "youtube.studio.viewTheir": {
         "message": "Смотрит",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "аналитика канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "комментарии канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "переводы каналов",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "страница исполнителя",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Смотрит панель инструментов",
+        "description": ""
     }
 }
