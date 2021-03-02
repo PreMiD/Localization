@@ -297,15 +297,15 @@ presence
 
 ![Checks](https://i.imgur.com/oqAakOc.png)
 
-Currently, a presence goes through 3 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+В настоящее время presence проходит 3 отдельных этапа проверки. Все эти элементы управления помогают проверяющим определить, подходит ли ваше присутствие для развертывания.
 
-- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Codacy` это бот, проверяющий качество кода. Если вы когда-либо получаете ошибки по новым проблемам, Вым **необходимо** их исправить. (_ПРЕДУПРЕЖДЕНИЕ: Кодировка бота скоро пропадет и вам нужно будет проверить ошибки только из DeepScan!_)
+- `DeepScan` - это бот, который проверяет качество кода. Если вы когда-либо получаете ошибки по новым проблемам, Вым **необходимо ** их исправить.
+- `Проверка схемы` просканирует файл `metadata.json` для любых ошибок (например, отсутствующие поля, недопустимые типы значений и т.д.). Если вы когда-нибудь увидите какие-либо новые проблемы, Вам также **необходимо** исправить их. Добавление поля схемы в файл `metadata.json` позволит вашему текстовому редактору (если поддерживается) показать вам эти ошибки во время разработки.
 
-## `Additional Rules`
+## `Дополнительные правила`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- **Всегда** убеждайтесь, что вы запускаете ваше presence в наиболее подходящей папке, если его имя начинается с _любой_ Латинской буквы, то он должен находиться в его алфавитном матче (например, `D/dアニメストア` or `G/Google`). Любые другие Unicode / нелатинские символы **должны** находиться в папке `#` (например, `#/巴哈姆特`) и номера в папке `0-9` (например, `0-9/4anime`).
 
 После того, как вы соблюдаете все руководящие принципы с соответствующими проверками, ваше presence будет объединено с магазином.
 
