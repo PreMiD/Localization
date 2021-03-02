@@ -255,9 +255,9 @@ presence
 
 # Верификация
 
-> ** Весь ** код, добавленный в магазин, будет лицензирован в соответствии с `Mozilla Public License 2.0`.
+> **Весь** код, добавленный в магазин, будет лицензирован в соответствии с `Mozilla Public License 2.0`.
 
-> Если вам нужно связаться с кем-либо, пожалуйста, используйте наш официальный сервер Discord. All reviewers will have the `Reviewer` role on their profile.
+> Если вам нужно связаться с кем-либо, пожалуйста, используйте наш официальный сервер Discord. Все рецензенты будут иметь `Reviewer` роль на их профиле.
 
 > Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created.
 
