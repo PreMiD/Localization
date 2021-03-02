@@ -227,10 +227,10 @@ presence
 
 > Каждое присутствие следует строгой линейке правил, которые будут проверяться в ходе процесса проверки. Несколько предложений можно найти ниже. [Рекомендации плагина TypeScript для проверки строгих типов](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Рекомендации](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
 
-Here is a list of rules you must follow when writing your `presence.ts` file:
+Вот список правил, которые вы должны соблюдать при написании файла `presence.ts`:
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
+- **Всегда** объявляйте новый экземпляр класса `Presence` перед любой другой переменной, чтобы избежать редких проблем, которые могут возникнуть; это не является обязательным требованием по дизайну, поэтому оно может быть удалено в будущем.
+- **Никогда** не используйте пользовательские функции, когда [доступны собственные варианты](https://docs.premid.app/dev/presence#files-explained) это гарантирует, что исправления на уровне расширения также применимы к вашим presences. Вы можете использовать всё, что вам нужно, если вы не найдете их в документации.
 - It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
 - The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
 - You are **not** allowed to access `localStorage`.
