@@ -1,6 +1,6 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: শুরু করা যাক PreMiD ইন্সটলেশন ম্যাকওএসের
 published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
@@ -10,19 +10,19 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+অ্যাপ্লিকেশানটির ইন্সটলেশন খুবই গুরুত্বপূর্ণ কেননা এক্সটেনশনটি নিজ থেকে কিছুই করতে পারেনা।
 
 # ইনস্টল
 1. আমাদের ডাউনলোড পেজে যাও [এখানে ক্লিক করে](https://premid.app/downloads)।
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+2. সিলেক্ট করো **OS X**
+3. আর্কাইভটি এক্সট্রাক্ট করো যদি প্রয়োজন হয়।
+4. ইন্সটলারটি ওপেন করো।
+5. একটি **সিকিউরিটি অ্যালার্ট** আসবে, যদি তুমি প্রথমবার PreMiD করতে যাও। যাও **Preferences** > **Security** > **General** > **Open Anyway**. [আরো জানো](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) সাইনবিহীন অ্যাপ্লিকেশান সম্বন্ধে।
+> এটার কারণ হচ্ছে আমাদের কাছে কোড সাইনিং সার্টিফিকেট (CSC) নেই। [সাপোর্ট করো আমাদের](https://www.patreon.com/Timeraa) এটার জন্য টাকা যোগাতে।{.is-info}
+6. সিলেক্ট করো যখন চাওয়া হবে।
+7. অ্যাক্সেস দাও কানেকশনগুলিকে **ফায়ারওয়াল** দ্বারা এবং কন্ট্রোল করো **সিস্টেম ইভেন্টগুলি** যখন চাওয়া হবে।
 
-The application will start automatically. Check for the symbol in your menu bar.
+অ্যাপ্লিকেশানটি অটোমেটিকভাবে স্টার্ট হয়ে যাবে। তোমার মেনু বারে চিহ্নটি চেক করো।
 
 > ভুলে যেও না [অ্যাড করতে **এক্সটেনশনটি**](/install)। 
 > 
