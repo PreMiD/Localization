@@ -234,9 +234,9 @@ presence
 - **Запрещается** кодировать presence для сайта без добавления поддержки его основного языка (например, presence на YouTube закодировано с поддержкой только для Португальского и Японского, но не самого Английского языка.)
 - Поле `smallImageKey` и `smallImageText` предназначено для придания/вторичного контекста (например, `playing/paused` для видео-сайтов, `browsing` для обычных сайтов и других случаев) не рекламировать профили Discord или что-либо, не связанное с PreMiD.
 - Вам **не разрешено** получить доступ к `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary. Only allowed API to make request is [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- Do **not** set fields in the presenceData object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
+- При доступе к файлам cookie для сохраненных данных, пожалуйста, префишите ключ с помощью `PMD_`.
+- Многие из вас делают HTTP/HTTPS запросы только к `premid.app` или API веб-сайта presence. Если вы используете внешние домены, вам нужно будет объяснить, почему это необходимо. Только API для запроса [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+- Делать **не** установите для полей в объекте данных присутствия значение undefined после его объявления, используйте `delete` ключевое слово вместо этого. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
 - You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
