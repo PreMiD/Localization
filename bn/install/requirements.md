@@ -1,5 +1,5 @@
 ---
-title: Requirements
+title: রিকোয়ারমেন্টগুলি
 description: Prerequisites to install PreMiD
 published: true
 date: 2021-01-17T22:43:28.543Z
