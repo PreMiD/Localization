@@ -236,8 +236,8 @@ presence
 - Вам **не разрешено** получить доступ к `localStorage`.
 - При доступе к файлам cookie для сохраненных данных, пожалуйста, префишите ключ с помощью `PMD_`.
 - Многие из вас делают HTTP/HTTPS запросы только к `premid.app` или API веб-сайта presence. Если вы используете внешние домены, вам нужно будет объяснить, почему это необходимо. Только API для запроса [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- Делать **не** установите для полей в объекте данных присутствия значение undefined после его объявления, используйте `delete` ключевое слово вместо этого. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
+- Делать **не** установите для полей в объекте данных присутствия значение undefined после его объявления, используйте `delete` ключевое слово вместо этого. (например, используйте `delete data.startTimestamp` вместо `data.startTimestamp = undefined`)
+- Ты **не** разрешено писать присутствия, которые изменяют функциональность данного сайта. Это включает добавление, удаление или модификацию элементов DOM.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
 
