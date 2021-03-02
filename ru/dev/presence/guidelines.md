@@ -295,7 +295,7 @@ presence
 
 ## `Проверки`
 
-![Checks](https://i.imgur.com/oqAakOc.png)
+![Проверки](https://i.imgur.com/oqAakOc.png)
 
 В настоящее время presence проходит 3 отдельных этапа проверки. Все эти элементы управления помогают проверяющим определить, подходит ли ваше присутствие для развертывания.
 
@@ -309,24 +309,24 @@ presence
 
 После того, как вы соблюдаете все руководящие принципы с соответствующими проверками, ваше presence будет объединено с магазином.
 
-# Suggestions
-If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
+# Предложения
+Если у вас есть предложения по нашим правилам, вы должны связаться с нами @ [discord server PreMiD](https://discord.premid.app) и мы проверим их!
 
-# Вклад
+# взносы
 
-`Revision 3` of the guidelines was written and was contributed to by the following individuals:
+`Пересмотр 3` руководящих принципов был написан и был представлен следующими лицами:
 
 <div>
 <a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`Пересмотр 2` руководящих принципов был написан и был представлен следующими лицами:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`Пересмотр 1` обслуживали следующие лица:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
