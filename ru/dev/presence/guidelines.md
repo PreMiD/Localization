@@ -155,7 +155,7 @@ presence
 
 ### **`*altnames`**
 
-- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- Используйте это **только** тогда, когда веб-сайт имеет несколько официальных называний (например, Pokémon и 포켓몬스터) или упростить поиск presence без использования специальных символов (например, Pokémon и Pokemon). _Сокращенные_ версии названий сервисов идут под `tags`.
 
 ### **`description`**
 
@@ -191,31 +191,31 @@ presence
 - **Все** presences должны иметь по крайней мере _один_ тег.
 - Теги должны **не** включать пробелы, косые, одинарные/двойные кавычки, символы Unicode, и всегда должны быть строчными буквами.
 - Теги **должны** предпочтительно включать альтернативные имена сервисов, чтобы облегчить поиск (например если presence Amazon включало поддержку AWS, у него были бы такие теги, как `amazon-web-services` и `aws`)
-- Вы ** обязаны ** добавить тег ` NSFW `, если он предназначен для веб-сайта NSFW.
+- Вы **обязаны ** добавить тег ` NSFW `, если он предназначен для веб-сайта NSFW.
 
 ### **`category`**
 
-- The category **must** be one of the following listed on the [documentation](/dev/presence/metadata#presence-categories).
-- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
+- Категория **должна** быть одной из следующих, перечисленных в [документации](/dev/presence/metadata#presence-categories).
+- Наличие должно использовать категорию, которая соответствует содержанию веб-сайта. (например, не используйте `аниме` не имеет отношения к сайту аниме).
 
 ### **`*regExp`** <br /> **`*iFrameRegExp`**
 
-- Регулярные выражения **должны** быть действительными. Please test your expressions with the tools listed on the [documentation](/dev/presence/metadata#testing).
+- Регулярные выражения **должны** быть действительными. Пожалуйста, протестируйте свои выражения с инструментами, перечисленными в [документации](/dev/presence/metadata#testing).
 
 ### **`readLogs`**
 
-- Must be `boolean` value (e.g. `true` or `false`).
-- Enables logs for your presence.
+- Должно быть `логическое значение` (например, `true` или `false`).
+- Включает журналы для вашего присутствия.
 
-### **`warning`**
+### **`внимание`**
 
-- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
-- Example of presence using this metadata variable is `VLC`.
+- Включает предупреждающий значок для запроса пользователю, что этому присутствию требуется больше шагов, чем только добавление присутствия.
+- Пример присутствия, используя эту переменную метаданных, - `VLC`.
 
 ### **`settings`**
 
-- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
-- The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- Если вы решите сделать строку формата (например: `%song% от %artist%`), вы должны иметь переменные окружённый знаком процента с любой стороны. Переменные, такие как `%var`, `var%`, или `%%var%%` и всё что между ними, являются **не** допускаемым в целях стандартизации.
+- Название настроек **не** будьте со всеми заглавными буквами. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
 - If you are using multiLanguage option you should know:
   - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
   - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
