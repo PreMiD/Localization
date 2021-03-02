@@ -137,21 +137,21 @@ presence
 
 ### **`$schema`**
 
-- Ключ _схемы_ **должен** содержать знак доллара в начале его действия, это предупредит ваш текстовый редактор, что вы хотите проверить ваш JSON-файл на модель. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- Ключ _схемы_ **должен** содержать знак доллара в начале его действия, это предупредит ваш текстовый редактор, что вы хотите проверить ваш JSON-файл на модель. _Как уже говорилось ранее, вам не нужно включать схему, но если вы включите её, то вы должны принять это во внимание_
 
 ### **`author`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- ID _значение_ **должно** быть вашим Discord snowflake ID. Вы можете получить это включив [режим разработчика](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _ Пожалуйста ** не** путайте это с ID приложения, который предназначен только для вашего presence._
 
 ### **`*contributors`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **не** добавляйте себя в качестве автора и не добавляйте кого-нибудь в качестве автора, если только они не помогли с presence.
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
-- If service has some explicit branding rules of their name, you should follow them.
+- Имя службы **должно** быть именем каталога presence. Например, если presence находится на `/websites/Y/YouTube/`, название сервиса должно быть `YouTube`.
+- **не может** использовать url в качестве имени сервиса, если сайт не использует его в качестве официального имени. Если имя не описано и может считаться расплывчатым, то использование url **обязательно**. (например, `YouTube` разрешен, потому что это официальное имя и описание, в то время как `youtube.com` нет. `Топ` это неописательное имя, поэтому с помощью url `top.gg` требуется ****.)
+- Если у службы есть некоторые прямые правила брендинга их имени, вы должны следовать им.
 
 ### **`*altnames`**
 
