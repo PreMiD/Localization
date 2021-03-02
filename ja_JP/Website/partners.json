@@ -111,6 +111,10 @@
 		"message": "申請する",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "応募していただき、ありがとうございます！",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error3": {
 		"message": "リンクを追加してください (https:// で始まり .png で終わる必要があります。)",
 		"description": "Error when image link is entered wrong."
