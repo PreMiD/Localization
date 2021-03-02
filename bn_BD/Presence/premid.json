@@ -36,7 +36,7 @@
 		"description": "A page name"
 	},
 	"premid.pageSysReq": {
-		"message": "সিস্টেম রিকোয়ারমেন্ট",
+		"message": "সিস্টেম রিকোয়ারমেন্টগুলি",
 		"description": "A page name"
 	},
 	"premid.pageInstall": {
