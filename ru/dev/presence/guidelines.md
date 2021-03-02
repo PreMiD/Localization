@@ -259,41 +259,41 @@ presence
 
 > Если вам нужно связаться с кем-либо, пожалуйста, используйте наш официальный сервер Discord. Все рецензенты будут иметь `Reviewer` роль на их профиле.
 
-> Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created.
+> Обратите внимание, что рецензенты добровольно участвуют в работе других репозиториев и управляют ими. Кроме того, ваш запрос на вытягивание не может быть рассмотрен в течение нескольких часов или дней после его создания.
 
-> ** Всегда ** имейте актуальную ветвь перед созданием запроса. This will help limit false positives from the checks.
+> **Всегда** имейте актуальную ветвь перед созданием запроса. Это поможет ограничить количество ложных срабатываний от контролей.
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+Наиболее важным процессом развития presence является получение Вашего presence в магазине. Это делается путем создания [запроса](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) на GitHub в хранилище `PreMiD/Presences`. Наши рецензенты проверит, что ваше присутствие соответствует стандартам, и подтолкнут к магазину.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Рецензенты активов</h2>
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
-## `Restrictions`
+## `Ограничения`
 
-Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+Повторяющиеся преступления, такие как нарушение правил, рассылка спама, угрозы или несоответствующее поведение, будут препятствовать вашему творчеству.
 
-In this scenerio, the following changes will occur:
+В этом сценарии происходят следующие изменения:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
+- Присутствия под вашим управлением будут переданы боту PreMiD или другому пользователю (решение проверяющего). Идентификатор приложения для каждой сущности воссоздается под новым именем владельца.
+- Все ваши проблемы и запросы на снятие средств, созданные после запрета (создание активов, вклад активов и т. д.) будет немедленно закрыт.
+- Билеты, созданные на ваше имя для разработки актива, будут удалены.
 
-## `Reviewing`
+## `Проверяется`
 
 Несколько вещей, которые вы должны знать после открытия запроса:
 
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- Требуется 2 рецензента, чтобы объединить запрос.
+- Если запрос неактивен в течение 7 дней, он будет незамедлительно закрыт.
+- Все проверки **должны** быть пройдены для объединения.
+- ⚠️ Вы **должны** предоставить новые, без изменений скриншоты (сделанные вами), показывающие параллельное сравнение вашего профиля и веб-сайта, чтобы доказать, что ваше presence работает. _Вам разрешено склеивать скриншоты для удобства просмотра_ Это относится как к созданию, так и к модификации.
+- ⚠️ И Вы тоже **требуемый** чтобы включить скриншоты настроек присутствия в расширение, если оно поставляется. Можно привести пример [здесь](https://imgur.com/a/OD3sj5R).
 
-## `Checks`
+## `Проверки`
 
 ![Checks](https://i.imgur.com/oqAakOc.png)
 
