@@ -109,7 +109,7 @@ An example of that file can be found below.
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけ説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後に編集します。 View the category for presence languages for a list. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけで説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後で編集します。 View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>不可</code></td>
     </tr>
