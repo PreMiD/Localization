@@ -1,6 +1,6 @@
 ---
 title: Руководство по присутствию
-description: Rules that all presence developers must follow to have their presence added.
+description: Правила, которым должны следовать все разработчики presence, чтобы добавить свое presence.
 published: true
 date: 2021-02-26T21:45:36.174Z
 tags:
@@ -11,33 +11,33 @@ dateCreated: 2021-02-24T22:30:46.792Z
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
     <h3 style="font-size: 2rem; margin-bottom: 0">Руководство по присутствию</h3>
-    <h4 style="margin-top: 0">Revision 3</h4>
+    <h4 style="margin-top: 0">Пересмотр 3</h4>
     <br />
 </div>
 
-# Guidelines
+# Рекомендации
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Для некоторых эти строгие правила могут показаться тяжелыми. However, the implementation of these rulesets will keep us and the users from running into any issues.
+При публикации презентаций в [наш репозиторий GitHub](https://github.com/PreMiD/Presences), мы требуем, чтобы вы следовали набору правил. Для некоторых эти строгие правила могут показаться суровыми. Однако реализация этих наборов правил убережет нас и наших пользователей от проблем.
 
-# Creation
+# Создание
 
-The general rules of presence development are as follows:
+Основные правила развития presence заключаются в следующем:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- The domain of the presence must be at least 2 months old.
+- Presences **должны** быть связанным с выбранным веб-сайтом.
+- Presences **не могут** быть сделаны для незаконных веб-сайтов. (например, стрессоры, маркетинг наркотиков, детская порнография и т.д.)
+- Структура файла должна быть чистой и управляемой, не включать файлы, которые не указаны. (например, папки vscode и git, файлы изображений и текста и т. д.)
+- Вы должны иметь правильную структуру файла, черновики **не** разрешены.
+- Presences для веб-сайтов (`.onion` TLD) или веб-сайтов с бесплатными доменами/хостами (для e.., `.TK` [все бесплатные домены Freenom], `.RF`, `GD`, и т. д.) **не разрешены**, исключения могут быть сделаны, если представлено доказательство того, что они заплатили за домен.
+- Возраст домена присутствия должен быть не менее 2 месяцев.
 - Presences которые нацелены на внутренние страницы браузера (например, веб-магазин Chrome, ` chrome: // `, ` about: ` и т. д.) ** не разрешены **, поскольку они требуют, чтобы экспериментальный флаг был включен на стороне пользователя и потенциально мог повредить их браузеры.
 - Presences с поддержкой только одного субдомена ** не будет ** разрешено, так как они могут показаться неработающими для других страниц (например, домашняя страница), исключения могут быть сделаны для политики и контактных страниц (контент, который используется не часто) или сайтов, где другой контент не связан. (например, страницы википедии)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
+- Presences для онлайн-радио разрешено только в том случае, если у радио есть не менее 100 еженедельных слушателей и 15 одновременно.
 - Presences низкого качества (или с небольшим контекстом) ** не **разрешено (например, только показывая логотип и текст, но никогда не меняя его)
-- With the `buttons` release, we require some guidelines for them:
-  - Redirects to main page are prohibited.
-  - Promoting websites by them is prohibited.
-  - They can't show addinational data when you can't show them in `state` or `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Релиз `с кнопками`, нам необходимы некоторые рекомендации для них:
+  - Перенаправление на главную страницу запрещено.
+  - Рекламные сайты запрещены законом.
+  - Они не могут показывать дополнительные данные, когда вы не можете показать их в `состоянии` или `подробности`.
+- Включая папку `dist`, `presence.ts` файл, `iframe.ts` файл, и `metadata.json` файл является обязательным, поэтому результатом будет то, что представлено в следующей схеме:
 
 ```bash
 presence
@@ -47,7 +47,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+или если вы используете `iframe.ts` файл:
 
 ```bash
 presence
@@ -60,9 +60,9 @@ presence
 
 ## [**metadata.json**](/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process.
+> Для удобства наших разработчиков presence, мы предоставили схему, которую вы можете использовать для проверки целостности вашего `metadata` файла. Это совершенно необязательно и не требуется в процессе проверки.
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted.
+> Настоятельно рекомендуется организовать ваш `metadata` файл в формате, показанном ниже, и вы должны иметь грамматически правильные названия служб, описания, теги и поля настроек. Anything not organized to specifications will **not** be permitted.
 
 > Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content.
 
