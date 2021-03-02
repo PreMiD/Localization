@@ -243,14 +243,14 @@ presence
 
 > Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
 
-## Modification
+## Модификация
 
-> Вы ** должны ** изменить версию в ** metadata ** на более высокое значение по сравнению с предыдущей версией при внесении изменений либо в **sence.ts **, ** iframe.ts ** или ** metadata.json**.
+> Вы **должны** изменить версию в **metadata** на более высокое значение по сравнению с предыдущей версией при внесении изменений либо в **presence.ts**, **iframe.ts** или **metadata.json**.
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+В некоторых ситуациях presence может вести себя неожиданно или использовать незначительные изменения для улучшения своей функциональности. Вот список правил, которым вы **должны** следовать при изменении presences.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
+- Вы **не** можете переписать свой presence или сменить его автора. Если составитель статуса был забанен на официальном сервере или не внес необходимые изменения в течение месяца, вы можете связаться с рецензентом, чтобы узнать, можете ли вы изменить статус.
+- Если вы вносите изменения в presence и изменяете не менее **четверти** кодовой базы presence's, вы можете добавить себя в качестве участника. Contact a reviewer for more information about this subject.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
 # Verification
