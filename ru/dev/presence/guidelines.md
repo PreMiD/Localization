@@ -225,7 +225,7 @@ presence
 
 > Код, который вы пишете **, должен ** быть _хорошо написанным_ и ** должен ** быть _ читабельным_, и все строки должны быть грамматически правильными (грамматические ошибки на сайтах можно игнорировать).
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Recommendations](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
+> Каждое присутствие следует строгой линейке правил, которые будут проверяться в ходе процесса проверки. Несколько предложений можно найти ниже. [Рекомендации плагина TypeScript для проверки строгих типов](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Рекомендации](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
 
 Here is a list of rules you must follow when writing your `presence.ts` file:
 
