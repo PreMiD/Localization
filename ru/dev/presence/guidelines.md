@@ -215,11 +215,11 @@ presence
 ### **`settings`**
 
 - Если вы решите сделать строку формата (например: `%song% от %artist%`), вы должны иметь переменные окружённый знаком процента с любой стороны. Переменные, такие как `%var`, `var%`, или `%%var%%` и всё что между ними, являются **не** допускаемым в целях стандартизации.
-- Название настроек **не** будьте со всеми заглавными буквами. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
-- If you are using multiLanguage option you should know:
-  - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
-  - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
-  - **Array<String>** type value (e.g. `["youtube.json", "vlive.json"]`) will specify name of files that you want get strings from.
+- Название настроек **не** будьте со всеми заглавными буквами. Например, такие имена как `ПОКАЗАТЬ СТАТУС ПРОСМОТРА` будем **не** быть разрешенным; однако такие имена, как `Показать статус просмотра` или `Показать статус просмотра` разрешены.
+- Если вы используете многоязычную опцию, вы должны знать:
+  - **Bolean** значение типа будет включать только строки из [`общих. son`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) из репозитория локализации или из файла присутствия (e.. когда имя присутствия является YouTube, расширение будет получать строки из `youtube.json` тоже.)
+  - **Строка** значения типа (например, `youtube.json`) укажет имя файла, из которого вы хотите получить строки.
+  - **Массив<String>** значение типа (например, `["youtube.json", "vlive.json"]`) укажет имя файлов, из которых вы хотите получить строки.
 
 ## [**presence.ts**](/dev/presence/class)
 
