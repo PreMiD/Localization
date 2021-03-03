@@ -103,6 +103,18 @@
 		"message": "Arena of Kings é um jogo de arena PvP em ritmo rápido de nova geração que pode ser jogado no navegador.",
 		"description": "Description for Arena of Kings."
 	},
+	"partners.partner.upBeat": {
+		"message": "O UpBeat é uma rádio internacional sem fins lucrativos que se esforça para fornecer rádio, entretenimento e notícias de qualidade.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.fastly": {
+		"message": "Por trás do melhor da internet.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "O OnlyHit é a tua estação de rádio online feita para tocar os melhores sons 24 por dia e fazer com que descubras os teus próximos sons favoritos.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.apply.title": {
 		"message": "Candidatura a parceiro",
 		"description": "Partnership application modal title."
