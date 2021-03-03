@@ -10,21 +10,21 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 Установка приложения очень важна, так как расширение не может делать ничего самостоятельно.
 
-> По его словам, пользователи Aur, использующие пакет DoomLerd, должны быть в безопасности. Мы не рекомендуем его использовать, но при желании вы можете его использовать. Thanks to DoomLerd for handling aur repo still. 
+> По его словам, пользователи Aur, использующие пакет DoomLerd, должны быть в безопасности. Мы не рекомендуем его использовать, но при желании вы можете его использовать. Спасибо DoomLerd за обработку aur repo. 
 > 
 > {.is-warning}
 
-## Table of Contents
+## Содержание
 
-- **[About](#about)**
-  - [Stats](#stats)
-  - [Requirements](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+- **[О программе](#about)**
+  - [Статистики](#stats)
+  - [Требования](#requirements)
+  - Примеры (скоро)
+  - Гайды (скоро)
+  - Построение (скоро)
+  - [Поддержка](#support)
   - [Команда](#credits)
-  - [License](#license)
+  - [Лицензия](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Портативная AppImage](#appimage)** (_РЕКОМЕНДУЕТСЯ_)
   - [Installation instructions](#appimageinstall)
@@ -35,13 +35,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 <a name="about"></a>
 
-## About
+## О программе
 
 **PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
 
 <a name="stats"></a>
 
-### Stats
+### Статистики
 
 <table>
   <tr>
@@ -70,7 +70,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Поддержка
 
 <div>
   <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
@@ -92,7 +92,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Лицензия
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
