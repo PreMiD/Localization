@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Разработчик присутствия
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,27 +8,27 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Все присутствия теперь хранятся здесь: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Версия `2.x` представляет [магазин присутствия](https://premid.app/store). Пользователи теперь имеют возможность вручную добавлять и удалять свои любимые присутствия через пользовательский интерфейс [сайта](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Перед началом работы настоятельно рекомендуется ознакомиться с нашими правилами. 
 > 
 > {.is-warning}
 
 - [Рекомендации](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# Структура
 
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+Все присутствие кодируется в [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) имеет некоторые острые определения типов на JavaScript, так что исправление и идентификация ошибок проще.
 
-## Installation
+## Установка
 
-1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+1. Установить [Иди](https://git-scm.com/).
+2. Установить [узел](https://nodejs.org/en/) (поставляется с [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## Cloning the project
@@ -403,4 +403,4 @@ The website you are developing on is automatically reloading every time you save
 - [Slideshow Class](/dev/presence/slideshow)
 - [Класс iFrame](/dev/presence/iframe)
 - [Файл Метаданных](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Настройка TypeScript](/dev/presence/tsconfig ""){.links-list}
