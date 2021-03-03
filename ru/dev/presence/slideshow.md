@@ -55,19 +55,19 @@ console.log(currentSlide.details) // Укажет консоль регистр�
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Возвращает `Boolean` о добавлении слайда в `слайдшоу`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Удаляет слайд с заданным `id` из `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+Первый параметр требует `String` которая является уникальным идентификатором слайда, который вы хотите обновить.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Удаляет все слайды из `Slideshow`.
 
-# SlideshowSlide Class
+# SlideshowSlide Класс
 
 ## Введение
 
@@ -81,18 +81,18 @@ Returns a `String` of the id of the slide.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Возвращает объект [`PresenceData`](/dev/presence/class#presencedata-interface) `PresenceData`, сохраненный в слайде.
 
 ## Методы
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Устанавливает данные слайдов в соответствии с предоставленными данными.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Вы должны предоставить `PresenceData` интерфейс, чтобы получить всю информацию, которую вы хотите отображать в своем профиле.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Устанавливает интервал слайда в соответствии с предоставленными данными.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Вы должны предоставить `Number` это количество времени в миллисекундах (минимум: 5000), которое будет показывать этот слайд.
