@@ -29,25 +29,25 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 1. Установить [Иди](https://git-scm.com/).
 2. Установить [узел](https://nodejs.org/en/) (поставляется с [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+3. Установка [TypeScript](https://www.typescriptlang.org/index.html#download-links) (откройте терминал и введите `npm install -g typescript`).
 
-## Cloning the project
+## Клонирование проекта
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+1. Откройте терминал и введите `git clone https://github.com/PreMiD/Presences`.
+2. Выберите папку по вашему выбору.
+3. Откройте его в редакторе кода.
 
-## Creating folders and files
+## Создание папок и файлов
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Идите в `websites` папку, а затем перейдите в папку с первой буквой **name** (не URL-адрес) службы, которую вы хотите поддерживать.
 2. Создайте папку с **именем** (не URL) сервиса, который вы хотите поддерживать.
 3. Создайте `presence.ts` и файл `tsconfig.json` внутри.
 4. Создайте папку с именем `dist` внутри.
 5. Создайте файл `metadata.json` внутри папки `dist`.
 
-## Filling in the tsconfig.json file
+## Заполнение файла tsconfig.json
 
-Please put the following code inside of the `tsconfig.json` file.
+Пожалуйста, поместите следующий код в файл `tsconfig.json`.
 
 ```typescript
 {
@@ -58,11 +58,11 @@ Please put the following code inside of the `tsconfig.json` file.
 }
 ```
 
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+Чтобы узнать больше о настройке TypeScript, нажмите [здесь](/dev/presence/tsconfig).
 
-## Filling in the metadata.json file
+## Заполнение файла metadata.json
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+Мы сделали `metadata.json` создатель файлов для ленивых [Вот](https://eggsy.xyz/projects/premid/mdcreator). Все еще предлагается прочитать это, чтобы вы знали, как это работает.
 
 ```json
 {
@@ -125,7 +125,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Пожалуйста, скопируйте код выше и поместите его в файл `metadata.json`. Теперь нужно изменить значения свойств. Пожалуйста, обратите внимание, что следующие свойства необязательны для использования в метаданных `. son` файл, если вы не планируете его использовать.
 
 - `contributors`
 - `altnames`
@@ -135,7 +135,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `readLogs`
 - `settings`
 
-**Clarifying some value presets:**
+**Уточнение некоторых конфигураций значений:**
 
 <table>
   <thead>
@@ -143,67 +143,67 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <th style="text-align:left">Переменная</th>
       <th style="text-align:left">Описание</th>
       <th style="text-align:left">Тип</th>
-      <th style="text-align:left">Опционально</th>
+      <th style="text-align:left">Необязательно</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
+      <td style="text-align:left">Должен содержать Object с <code>name</code> и <code>id</code> участника. имя пользователя Discord без идентификатора (#0000). Пользователь <code>id</code> может быть скопирован из Discord, включив разработчик
         режим и правый клик на вашем профиле.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Название службы, поддерживаемой этим присутствием.<br>
+      (Должно быть таким же именем, как папка, в которой находится все)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Уметь искать присутствие, используя альтернативное имя.<br>
+      Предназначен для использования для присутствий с разными названиями на разных языках. (e.g. Pokémon and 포켓몬스터).<br>
+      Вы также можете использовать его для присутствий со специальными символами, поэтому вам не нужно их вводить (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
+      <td style="text-align:left">Небольшое описание присутствия, вы можете использовать описание услуги, если у вас нет идей. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-      <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <td style="text-align:left">URL службы.<br><b>Пример:</b><code>vk. om</code><br>
+        <b>Этот URL должен соответствовать URL сайта, так как он определит, является ли это сайт инъекцией скрипта.</b><br> Do <b>NOT</b> add <code>https://</code> или <code>http://</code> внутри URL или слэш в конце:
+<code>https://premid. pp/</code> -> <code>premid.app</code><br>
+<b>Примечание</b>: Некоторые URL могут иметь <code>www.</code> или что-то еще перед их доменом. Делать <b>не</b> забудьте добавить!<br>
+Вы можете добавить несколько URL-адресов, выполнив следующие действия:<br>
+<code>["URL1", "URL2", "ETC."]</code><br>
+Вы также можете использовать regExp, также известное как Regex, для этой задачи, более подробно объясненное ниже.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
+      <td style="text-align:left">Строка регулярного выражения, используемая для сопоставления URL-адресов.<br>
+      regExp или также известный как Regex, можно использовать, если веб-сайт имеет несколько поддоменов.<br>
+      Для этого вы можете использовать следующий regExp:<br>
       <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      TLD standing for Top Level Domain для примера: .com .net (но не вводите точку).<br>
+      <code>([a-z0-9]+)</code> означает что угодно от a до z и от 0 до 9.<br>
+      Вы можете быстро начать, посмотрев это <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
+      Вы можете проверить свой regExp на <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
@@ -215,7 +215,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Ссылка на сервис&apos;с логотипом</td>
+      <td style="text-align:left">Ссылка на сервис&apos;с логотипом.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
@@ -272,7 +272,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Мы сделали `metadata.json` создатель файлов для ленивых [Вот](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Getting started
 
