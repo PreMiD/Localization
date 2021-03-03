@@ -59,7 +59,7 @@ Es ceru, ka jūs zināt, kā restartēt datoru.
 Dažreiz failos ir kaut kas nepareizs... Uzstādīšanas pamācības var atrast [šeit](/install).
 
 ### Manuālā noņemšana
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows: Uzraksti `%appdata%` failu pārlūkā un izdzēsiet `PreMiD` mapi. MacOS: `~/users/USER/~Library/Application Support/` un izdzēsiet `PreMiD` mapi.
 
 ### McAfee atklāja PreMiD kā vīrusu (Windows)
 Šis ir nepatiess pozitīvs no Mcafee, un mēs esam viņiem ziņojuši par šo problēmu, pagaidām jūs varat izslēgt PreMiD no skenēšanas, veicot šādas darbības:
