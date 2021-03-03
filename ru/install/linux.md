@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Начнём установку PreMiD на Linux
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-The installation of the application is very important as the extension can not do anything by itself.
+Установка приложения очень важна, так как расширение не может делать ничего самостоятельно.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> По его словам, пользователи Aur, использующие пакет DoomLerd, должны быть в безопасности. Мы не рекомендуем его использовать, но при желании вы можете его использовать. Thanks to DoomLerd for handling aur repo still. 
 > 
 > {.is-warning}
 
