@@ -279,6 +279,10 @@
 		"message": "In loop",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Visualizzando un imprevisto",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Cronologia degli incidenti",
 		"description": "A page name of statuspages"
