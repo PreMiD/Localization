@@ -227,8 +227,8 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> значение. Мы рекомендуем использовать основной цвет сервиса
-        , который поддерживает ваше присутствие.</td>
+      <td style="text-align:left"><code>#HEX</code> значение. Рекомендуем использовать основной цвет услуги.
+        что ваше присутствие поддерживает.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
@@ -246,19 +246,19 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Определяет, используются ли <code>iFrames</code>.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into. Подробнее см. в regExp.</td>
+      <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для инъекции. Подробнее см. в regExp.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
@@ -274,16 +274,16 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 Мы сделали `metadata.json` создатель файлов для ленивых [Вот](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Getting started
+## Начало работы
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "0000000000000000" //ID клиента приложения, созданного на https://discordapp. om/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
-    pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
+    пауза: "presence.playback. выключено"
+    //Вы можете использовать это для перевода строк на их языке браузера
   });
 
 /*
@@ -293,109 +293,108 @@ function myOutsideHeavyLiftingFunction(){
 
     // element grabs //
     // api calls //
-    // variable sets //
+    // переменные наборы
 }
 
-setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+setInterval(myOutsideHeavyLiftingFunction, США);
+//Запуск функции отделяется от события UpdateData каждые 10 секунд, чтобы получить и установить переменные, которые UpdateData берет
 
 */
 
-presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+. n("UpdateData", async () => {
+  /*UpdateData всегда стреляет, и поэтому следует использовать как ваш цикл обновления, или `tick`. Это вызывается несколько раз в секунду, когда это возможно.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Рекомендуется настроить другую функцию вне этой функции события, которая изменит значения переменных и выполнит тяжелый подъем при вызове данных с API. /
 
-  const presenceData: PresenceData = {
+  Const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+      "key" /*Ключ (имя файла) Большого изображения на наличии. Они загружаются и называются в разделе Rich Presence вашего приложения, который называется Art Assets.*/
+        smallImageKey: "key", /*Ключ (имя файла) большого изображения о наличии. Эти файлы загружены и названы в разделе Rich Presence вашего приложения, под названием Art Assets*/,
+    smallImageText: "Некоторого наведении текста", //Текст, который отображается при наведении курсора на маленькое изображение
+    подробности: "Имя страницы просмотра", //Верхняя часть текста присутствия
+    состояния: "Чтение секции А", //Нижняя часть текста о присутствии
+    startTimestamp: 1577232000, //Отметка времени эпохи unix для начала подсчета времени с
+    на время окончания времени: 1577151472000 //Если вы хотите отобразить время осталось вместо устаревших, это метка времени unix эпохи, в которой таймер заканчивается
+  }; /*При необходимости вы можете установить здесь largeImageKey и изменить остальные в качестве субсвойств переменной, например presenceSata. Type = "blahblah"; тип примеров: подробности, состояние и т.д.*/
 
-  if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
+  если (presenceData. etails == null) {
+    //Это вызовет вызов, если вы не указали детали присутствия
+    присутствия. etTrayTitle(); //Очищает заголовок для mac пользователей
+    etActivity(); /*Обновите присутствие без данных, поэтому очистите его и сделайте большое изображение значком приложения Discord, и текст названия приложения Discord*/
   } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
+    //Это вызовет выстрел, если вы установите детали присутствия
+    присутствия. etActivity(presenceData); //Обновление присутствия всеми значениями из объекта присутствияData
   }
 });
 ```
 
-You can copy this into your `presence.ts` file and edit the values. Setting all the values is done inside of the updataData event.
+Вы можете скопировать это в `присутствие.` файл и изменить значения. Установка всех значений производится внутри события updataData.
 
-Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Для примеров, мы предлагаем ознакомиться с кодом присутствия: 1337x или 9GAG. Для получения дополнительной информации о классе `Presence` нажмите [здесь](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Начиная с версии 2.2. есть слайд-шоу, это позволяет показать несколько интерфейсов `PresenceData` на интервале, для получения дополнительной информации нажмите на `Слайд-шоу` класс [здесь](/dev/presence/slideshow).
 
-## Can't get certain data?!
+## Не удается получить определенные данные?!
 
-A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
+Многие веб-сайты используют [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Эти html-теги могут содержать несколько источников, таких как видео. Но они не актуальны каждый раз. Некоторые скрыты или просто неактивно используемые. Проверьте, можно ли извлечь нужную информацию без необходимости выполнения ненужной работы.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
-3. Execute `document.querySelectorAll("iframe")`.
+1. Проверить их в консоли браузера (убедитесь, что вы находитесь на вкладке **Элементы**).
+2. Поиск (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) или <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+3. Выполнить `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
+Если вы обнаружили, что ваши данные находятся в iFrame вам необходимо сделать следующее:
 
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+1. Создайте файл `iframe.ts`.
+2. Установите iFrame в `true` в вашем файле метаданных.
+3. Заполнение файла iFrame.
 
 ```typescript
 const iframe = new iFrame();
-iframe.on("UpdateData", async () => {
+iframe. n("Обновить данные", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Получить все необходимые данные из iFrame сохранить их в переменных
+  и затем послать их с помощью iframe. end
   */
-  iframe.send({
-    //sending data
-    video: video,
-    time: video.duration
+  iframe. end({
+    //отправка данных
+    видео: видео,
+    раз: видео. Продолжительность
   });
 });
 ```
 
-4. Making your presence file receive data from the iFrame file.
+4. Создание файла присутствия позволяет получать данные из файла iFrame .
 
 ```typescript
-presence.on("iFrameData", (data) => {
+presence.on("iFrameData", (данные) => {
   iFrameVideo = data.video;
   currentTime = data.time;
 });
 ```
 
-**Note:** This needs to be placed outside of the updateData event.
+**Примечание:** Это должно быть расположено вне события updateData.
 
-## Compiling
+## Компиляция
 
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+Откройте консоль в вашей папке и введите `tsc -w` для компиляции `присутствия.ts` в папку `/dist`.
 
-# Loading the presence
+# Загрузка присутствия
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+1. Откройте всплывающее окно расширения в браузере и удерживайте кнопку <kbd>Shift</kbd> на вашей клавиатуре.
+2. **Load Presence** появится в секции Prestions.
+3. Нажмите на неё, пока вы все еще держите кнопку <kbd>Shift</kbd>.
+4. Выберите папку /dist вашего присутствия.
 
-# Some helpful things
+# Полезные советы
 
-## Hot-reloading
+## Горячая загрузка
 
-The website you are developing on is automatically reloading every time you save a file in your folder.
+Веб-сайт, на котором вы находитесь, автоматически перезагружается каждый раз, когда вы сохраняете файл в вашей папке.
 
-## Debugging
+## Отладка
 
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Вы можете поместить `console.log("Тест");` между вашим кодом и посмотреть, выводит ли консоль вашего браузера. Если да, то войдите и повторите попытку после следующей функции. Если нет, то произошла ошибка выше.
+- Если это тоже не поможет вам, то наш [Сервер Discord](https://discord.premid.app/) Для помощи.
 
 # Files explained
 
