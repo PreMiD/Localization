@@ -4,7 +4,7 @@ description: Prerequisites to install PreMiD
 published: true
 date: 2021-01-17T22:43:28.543Z
 tags:
-editor: 마크다운
+editor: markdown
 dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
