@@ -25,7 +25,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
   - [Поддержка](#support)
   - [Команда](#credits)
   - [Лицензия](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+- **[Snapcraft](#snapcraft)** (TL;DR : _никогда_ ™️)
 - **[Портативная AppImage](#appimage)** (_РЕКОМЕНДУЕТСЯ_)
   - [Installation instructions](#appimageinstall)
   - [Additional notes](#appimagenotes)
