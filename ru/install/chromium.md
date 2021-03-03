@@ -11,14 +11,14 @@ tags:
 # Установить
 ### Chrome, Edge и т. д.
 1. Перейдите на нашу страницу загрузок, нажав [здесь](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+2. Выберите **Chromium**.
+3. Нажмите **Добавить в Chrome**.
 
-### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+### Опера
+1. Добавить **[Установить расширения Chrome](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. Добавьте [наше расширение](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Не забудьте [установить **приложение**](/install). 
 > 
 > {.is-warning}
 
