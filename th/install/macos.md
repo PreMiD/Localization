@@ -18,13 +18,13 @@ tags:
 3. Extract the archive if necessary.
 4. เปิดไฟล์ติดตั้งที่ดาวน์โหลดแล้ว
 5. A **security alert** will appear, if you install PreMiD for the first time. Go into your **Preferences** > **Security** > **General** > **Open Anyway**. [Learn more](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) about unsigned applications.
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+> This is because we do not have a Code Signing Certificate (CSC). [สนับสนุนพวกเรา](https://www.patreon.com/Timeraa){.is-info}
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
 แอปพลิเคชันจะเริ่มต้นโดยอัตโนมัติ Check for the symbol in your menu bar.
 
-> Do not forget to [add the **extension**](/install). 
+> อย่าลืม [เพิ่ม**ส่วนขยาย**](/install) 
 > 
 > {.is-warning}
 
