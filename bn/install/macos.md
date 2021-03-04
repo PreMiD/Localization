@@ -1,6 +1,6 @@
 ---
 title: macOS
-description: শুরু করা যাক PreMiD ইন্সটলেশন ম্যাকওএসের
+description: শুরু করা যাক PreMiD ইন্সটলেশন ম্যাকওএস - এ
 published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
