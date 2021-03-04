@@ -27,46 +27,46 @@ dateCreated: 2020-06-11T18:04:14.124Z
   - [Лицензия](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _никогда_ ™️)
 - **[Портативная AppImage](#appimage)** (_РЕКОМЕНДУЕТСЯ_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
+  - [Инструкция по установке](#appimageinstall)
+  - [Дополнительно](#appimagenotes)
+- [**Дистрибутивы на базе Red Hat Enterprise Linux (RHEL)**](#packagecloud)
+- [**Дистрибутивы на базе Debian и Ubuntu**](#packagecloud)
 - [**Системные дистрибутивы на основе Linux**](#arch)
 
 <a name="about"></a>
 
 ## О программе
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** - простой, настраиваемая утилита, которая использует библиотеку Discord RP (Rich Presence), которая позволяет показать что вы делаете в Интернете (и несколько программ) в вашем профиле Discord как **играющий статус**.
 
 <a name="stats"></a>
 
-### Статистики
+### Статистика
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Развертывание</th>
+    <th>Общее число загрузок</th>
+    <th>Последние релизы</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Последние релизы"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
 <a name="requirements"></a>
 
-### Requirements
+### Требования
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Технически каждый дистрибутив, который может запускать [официальное](https://discordapp.com/download) **приложение** (не веб или привязка) может запускать PreMiD;</br> Как вы можете заметить в последние годы, некоторые дистрибутивы Linux начали отказываться от поддержки архитектур (ia32/i686/i386/x86) и, как следствие, мы также сделали это. Однако вы можете попробовать создать приложение самостоятельно, если вам отчаянно нужно использовать его на 32-битном распределении.</br> Поскольку мы в настоящее время используем Electron в качестве движка (Discord тоже!), его требования также применимы к этому приложению:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+Не известно, поддерживают ли старые версии других дистрибутивов, так что просто обновите ваш дистрибутив и используйте релизы **LTS (Long-Term Support)** если ваш дистрибутив предлагает его, , так как они более стабильны (избегайте альфа-релизов).
 
 <a name="support"></a>
 
@@ -105,7 +105,7 @@ Thanks to :
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Инструкция по установке
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Дополнительно
 
 Либо если вы хотите попробовать PreMiD или просто не хотите его установить, это самый лучший, он всегда в курсе, но DOESN'T AUTO-START С СИСТЕМНЫМИ!</br>Если вы устали открывать его каждый раз, используйте другие пакеты (в зависимости от вашего дистрибутива).
 
@@ -152,7 +152,7 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Инструкция по установке
 
 ```bash
 # Использование yay (рекомендуется)
@@ -182,7 +182,7 @@ pakku -S premid
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Дополнительно
 
 Если ваш дистрибутив использует pacman, то вы должны сначала установить одного из помощников. Если у вас нет такого, рекомендуется запустить Yay:
 
