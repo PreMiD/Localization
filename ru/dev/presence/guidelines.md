@@ -241,7 +241,7 @@ presence
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
+> **нет** пишите свой собственный файл `tsconfig.json`, используйте то, что было предоставлено в [документации](/dev/presence/tsconfig).
 
 ## Модификация
 
