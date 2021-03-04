@@ -31,6 +31,10 @@
 		"message": "ผู้ตรวจทาน",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "ผู้จัดการการแปลภาษา",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "ผู้พัฒนา",
 		"description": "'Developer' title for contributors and user pages."
