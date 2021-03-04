@@ -1,6 +1,6 @@
 ---
 title: রিকোয়ারমেন্টগুলি
-description: Prerequisites to install PreMiD
+description: PreMiD ইন্সটল করার পূর্বশর্তগুলি
 published: true
 date: 2021-01-17T22:43:28.543Z
 tags:
@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:21.843Z
 ---
 
-# System Requirements
+# সিস্টেম রিকোয়ারমেন্টগুলি
 
-> This data relate to the application only. 
+> এইসব তথ্যগুলি শুধুমাত্র অ্যাপ্লিকেশান এর সাথে সম্পর্কিত। 
 > 
 > {.is-info}
 
-PreMiD runs on virtually any system. This means it runs on **Linux**, **macOS**, **Windows** as well as some **Linux Modifications**.
+PreMiD কার্যত যেকোনো সিস্টেমেই চলে। এর মানে হচ্ছে এটা **লিনাক্স**, **ম্যাকওএস**, **উইন্ডোজ** এর পাশাপাশি কিছু **লিনাক্স পরিবর্তনসমূহতে** চলে।
 
-### CPU
-PreMiD runs perfectly fine on a single CPU core.
+### প্রসেসর
+PreMiD পুরোপুরি ঠিক চলে একটি প্রসেসর কোরে।
 
-### RAM
-Linux systems should have **at least 20MB of RAM** to run PreMiD. Windows and macOS systems usually require a bit more RAM.
+### র‍্যাম
+লিনাক্স সিস্টেমগুলির **কমপক্ষে 20 এমবি র‍্যাম** থাকা উচিত PreMiD চালানোর জন্যে। উইন্ডোজ এবং ম্যাকওএস সিস্টেমগুলির সাধারণত একটু বেশি র‍্যাম এর প্রয়োজন হয়।
 
-### Storage
-PreMiD takes about **150MB** of physical storage. However at least **200MB** of storage dedicated to PreMiD is recommended.
+### স্টোরেজ
+PreMiD **150 এমবি** হার্ড ডিস্ক স্টোরেজ নেয়। যাহোক কমপক্ষে PreMiD এর জন্য **200 এমবি** স্টোরেজ আমরা পরামর্শ করি।
 
-### Internet Access
-A internet connection is required to run PreMiD. PreMiD will automatically check for new updates, languages, Presence updates, etc. from time to time.
+### ইন্টারনেট অ্যাক্সেস
+একটি ইন্টারনেট কানেকশন প্রয়োজন PreMiD চালানোর জন্যে। PreMiD অটোমেটিকভাবে চেক করবে নতুন আপডেট এর জন্য, ভাষা, Presence আপডেট ইত্যাদি মাঝে মাঝে।
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}
