@@ -1,17 +1,17 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Начало работы
+description: Немного советы для тех, кто недавно попал в кодировку
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Требуется редактор исходного кода. Мы рекомендуем код Visual Studio. 
 > 
 > {.is-info}
 
-# Installing the requirements
-1. Install [Git](https://git-scm.com/).
+# Установка требований
+1. Загружать [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
