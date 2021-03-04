@@ -1,23 +1,23 @@
 ---
-title: Windows
-description: Getting started with a PreMiD installation on Windows
+title: উইন্ডোজ
+description: শুরু করা যাক PreMiD ইন্সটলেশন উইন্ডোজে
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> আরো দূরে যাওয়ার আগে, নিশ্চিত করো যে তোমার সিস্টেম সব [রিকোয়ারমেন্টগুলি](/install/requirements) পূরণ করে।{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+অ্যাপ্লিকেশানটির ইন্সটলেশন খুবই গুরুত্বপূর্ণ কেননা এক্সটেনশনটি নিজ থেকে কিছুই করতে পারেনা।
 
 # ইনস্টল
 1. আমাদের ডাউনলোড পেজে যাও [এখানে ক্লিক করে](https://premid.app/downloads)।
-2. Choose **Windows**.
+2. সিলেক্ট করো **উইন্ডোজ**।
 3. ইন্সটলারটি ওপেন করো।
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [সাপোর্ট করো আমাদের](https://www.patreon.com/Timeraa) এটার জন্য টাকা যোগাতে।{.is-info}
+4. **Windows SmartScreen** আসবে, যদি তুমি প্রথমবার PreMiD করতে যাও। ক্লিক করো **More Info** এবং তারপর সিলেক্ট করো **Run Anyway**. > এটার কারণ হচ্ছে আমাদের কাছে কোড সাইনিং সার্টিফিকেট (CSC) নেই। [সাপোর্ট করো আমাদের](https://www.patreon.com/Timeraa) এটার জন্য টাকা যোগাতে।{.is-info}
 
-অ্যাপ্লিকেশানটি অটোমেটিকভাবে স্টার্ট হয়ে যাবে। Check for the symbol in your system tray.
+অ্যাপ্লিকেশানটি অটোমেটিকভাবে স্টার্ট হয়ে যাবে। তোমার সিস্টেম ট্রেতে চিহ্নটি চেক করো।
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> ভুলে যেও না [অ্যাড করতে **এক্সটেনশনটি**](/install)।{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}
