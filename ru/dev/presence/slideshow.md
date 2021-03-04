@@ -71,13 +71,13 @@ console.log(currentSlide.details) // Укажет консоль регистр�
 
 ## Введение
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+`SlideshowSlide` — это внутреннее представление каждого слайда в `слайд-шоу`.
 
 ## Свойства
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Возвращает `String` для идентификатора слайда.
 
 ### `data`
 
