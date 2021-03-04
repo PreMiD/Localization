@@ -12,18 +12,18 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-info}
 
-เวอร์ชัน `2.x` แนะนำให้ใช้ Presence จาก[ร้านค้า](https://premid.app/store) Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+เวอร์ชัน `2.x` แนะนำให้ใช้ Presence จาก[ร้านค้า](https://premid.app/store) และตอนนี้ผู้ใช้สามารถเพิ่มและลบ Presence ที่ชื่นชอบได้ผ่านทางหน้า[เว็บไซต์](https://premid.app/)
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> ก่อนที่จะเริ่ม, ขอแนะนำอย่างสูงเลยว่าให้คุณไปดูคู่มือ presence ของเราก่อน. 
 > 
 > {.is-warning}
 
 - [แนวทาง](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# โครงสร้าง
 
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+โค้ดของ presence ทั้งหมดเขียนอยู่ในภาษา [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) เป็นประเภทในการกำหนดค่ามากกว่า JavaScript, ตั้งนั้นการแก้และวินิจฉัยบัคจะเป็นอะไรที่ง่ายกว่ามาก.
 
 ## การติดตั้ง
 
@@ -33,13 +33,13 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## การโคลนโปรเจ็ค
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. เปิดโปรแกรม Terminal และพิมพ์ `git clone https://github.com/PreMiD/Presences`.
 2. เลือกโฟลเดอร์ที่คุณต้องการ
 3. เปิดในโปรแกรมแก้ไขโค้ด
 
-## Creating folders and files
+## การสร้างโฟลเดอร์และไฟล์
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. ไปที่โฟลเดอร์ `websites` จากนั้นไปที่ โฟลเดอร์ ที่มีอักษรตัวแรกเหมือนกับ **ชื่อ** ( ไม่ใช่ URL) เซอร์วิสที่คุณอยากเพิ่ม.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
 3. Create a `presence.ts` and a `tsconfig.json` file inside.
 4. Create a folder named `dist` inside.
@@ -47,7 +47,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## Filling in the tsconfig.json file
 
-Please put the following code inside of the `tsconfig.json` file.
+โปรดใส่โค้คต่อไปนี้ภายในไฟล์ `tsconfig.json`
 
 ```typescript
 {
@@ -274,7 +274,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 
 We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
 
-## Getting started
+## เริ่มต้นกันเลย
 
 ```typescript
 const presence = new Presence({
@@ -335,12 +335,12 @@ For examples we suggest to look at the code of presences like: 1337x or 9GAG. Fo
 
 Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
 
-## Can't get certain data?!
+## รับข้อมูลบางอย่างไม่ได้?!
 
 A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). These html tags can contain multiple sources such as videos. But they're not relevant every time. Some are hidden or just not actively used. Check if you can extract, the information you need, without them before you do unnecessary work.
 
 1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
-2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
+2. ค้นหา (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) หรือ <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Execute `document.querySelectorAll("iframe")`.
 
 If you find that your data is in a iFrame you need to do the following:
@@ -379,7 +379,7 @@ presence.on("iFrameData", (data) => {
 
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Loading the presence
+# กำลังโหลด presence
 
 1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
@@ -392,9 +392,9 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## Debugging
+## การแก้ไขจุดบกพร่อง
 
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
+- คุณสามารถใส่ `console.log("Test");`  ภายในโค้ดของคุณและดูว่า Console Browser ของคุณให้ผลลัพธ์นั้นหรือไม่ ถ้าใช่ให้ไปลองอีกครั้งหลังฟังก์ชันถัดไป ถ้าไม่ใช่แสดงว่ามีข้อผิดพลาดอยู่ด้านบน
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
 # Files explained
