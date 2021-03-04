@@ -11,6 +11,10 @@
 		"message": "หน้าหลัก",
 		"description": "Page name"
 	},
+	"twitch.viewSettings": {
+		"message": "กำลังดูการตั้งค่าของตัวเอง...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "กําลังดูไฟล์",
 		"description": "Part 1 of the next 10 strings"
