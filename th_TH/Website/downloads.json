@@ -63,6 +63,10 @@
 		"message": "ซ่อนการดาวน์โหลด",
 		"description": "Little button on the downloads page for mobile users."
 	},
+	"downloads.warning.differentVersion": {
+		"message": "เวอร์ชั่นปัจจุบันบนระบบปฏิบัตินี้คือ {0} (เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะ Linux และไม่สามารถใช้งานกับระบบปฏิบัติการอื่นได้)",
+		"description": "Tippy message of the Linux card."
+	},
 	"downloads.warning.differentVersion2": {
 		"message": "เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น เวอร์ชั่นหลักของโปรแกรมคือเวอร์ชั่น {0}",
 		"description": "Tippy message of the version number when user is on Linux."
@@ -115,6 +119,10 @@
 		"message": "เข้าสู่ระบบ",
 		"description": "Login button on the downloads page."
 	},
+	"downloads.button.skipanyway": {
+		"message": "ฉันจะข้าม ^_^",
+		"description": "Skip Anyway button on the ads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "ขอบคุณ!",
 		"description": "Title of the advertisement section box."
@@ -122,6 +130,14 @@
 	"downloads.adsbox.thankyou.message": {
 		"message": "เราใช้โฆษณาเพื่อสนับสนุนทีมและดูแลเซิร์ฟเวอร์ของเรา เพื่อมอบประสบการณ์การใช้งานที่ดีที่สุดแก่คุณ!",
 		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "กรุณาปิด Adblock ของคุณ",
+		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "แสดงการเปิดตัวก่อนกำหนด",
+		"description": ""
 	},
 	"downloads.showbeta.small": {
 		"message": "(ไม่ต้องการถ้าคุณเเค่ดาวน์โหลดเเอพทั่วไป)",
