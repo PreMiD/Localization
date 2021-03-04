@@ -18,11 +18,11 @@ dateCreated: 2020-06-11T18:03:47.172Z
 
 # Приступая к работе
 
-PreMiD устанавливается быстро и легко. You should be up and running in no time.
+PreMiD устанавливается быстро и легко. Вы должны быть запущены в кратчайшие сроки.
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- Убедитесь, что вы прочитали [системные требования](/install/requirements).
+- Следуйте быстрому и простому [руководству по установке](/install).
+- [Устранение неполадок](/troubleshooting) поможет вам в решении общих проблем.
 
 # Разработчикам
 
