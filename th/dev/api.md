@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## เวอร์ชัน API
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+> API เวอร์ชั่นที่ 2 ได้ถูกเลิกใช้แล้วและจะถูกลบในอนาคตอันไกล้นี้. โปรดใช้ เวอร์ชั่นที่ 3 ในการส่งคำขอในอนาคตเพื่อป้องกันปัญหาต่างๆ. 
 > 
 > {.is-danger}
 
@@ -31,6 +31,6 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-danger}
 
 **เลือกเวอร์ชัน API:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *เลิกใช้แล้ว*](/dev/api/v2)
+- [v3 *ใช้งานอยู่*](/dev/api/v3)
 {.links-list}
