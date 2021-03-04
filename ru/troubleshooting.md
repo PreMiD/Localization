@@ -1,6 +1,6 @@
 ---
 title: Решение проблем
-description: Everything to solve your problem
+description: Всё для решения вашей проблемы
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -59,7 +59,8 @@ Alt+F4 (Windows) или CMD+Q (MacOS) тоже отлично работают. 
 Иногда с файлами что-то не так... Уроки по установке можно найти [здесь](/install).
 
 ### Ручное удаление
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows: `C:\Users\USER\AppData\Roaming\`` и удалите папку`PreMiD`.
+MacOS: <code>~/users/USER/~Library/Application Support/` и удалите папку `PreMiD`.
 
 ### McAfee обнаружил PreMiD как вирус (Windows)
 Это ложное положительное впечатление от компании McAfee и мы сообщили им об этой проблеме. теперь вы можете исключить PreMiD из сканирования, выполнив следующие действия:
@@ -123,5 +124,5 @@ Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. 
 3. В эту папку назначьте `имя PreMiD` (запомните буквы в верхнем регистре).
 4. Открыть программу установки заново.
 
-# That has not solved my problem
+# Это не решило мою проблему
 Пожалуйста, оставьте заявку в [#support](https://discord.premid.app/).
