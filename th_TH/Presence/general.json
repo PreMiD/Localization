@@ -107,6 +107,18 @@
 		"message": "กำลังค้นหา...",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "การเขียน",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "กำลังโทร",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "อยู่ในสาย...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "ตะกร้าสินค้า",
 		"description": ""
@@ -203,13 +215,41 @@
 		"message": "กำลังดูเพจในส่วน:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "กำลังดูหนัง",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "กำลังดูซีรี่ย์",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "กำลังดูการแสดง",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "กำลังดูวีดีโอ",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "กำลังรอให้วิดีโอเปิดตัว",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "กำลังรอให้วิดีโอเปิดตัว",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "กำลังดูถ่ายทอดสด:",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "กำลังรอให้สตรีมแบบสดเริ่มต้นขึ้น",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "กำลังรอการถ่ายทอดสด",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "กำลังดู:",
@@ -230,5 +270,69 @@
 	"general.cookie": {
 		"message": "นโยบายเกี่ยวกับคุกกี้",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "วนซ้ำเพลงทั้งหมด",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "วนซ้ำ",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "กำลังดูเหตุการณ์",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "ประวัติเหตุการณ์",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "ประวัติการทำงาน",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "ดูซีรี่ย์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "ดูหนัง",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "ดูตอน",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "ดูวิดีโอ",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "ดูสตรีม",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "ดูช่อง",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "ฟังไปพร้อมกัน",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "ดูหน้า",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "ดูเพลง",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "ดูอัลบั้ม",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "ดูโปรไฟล์",
+		"description": "Used as the title for the button in Discord."
 	}
 }
