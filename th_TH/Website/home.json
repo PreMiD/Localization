@@ -28,11 +28,11 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
-		"message": "ไลฟ์",
+		"message": "สด",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "กำลังหา...",
+		"message": "กำลังค้นหา...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -80,7 +80,7 @@
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "มาร่วม Discord ของเรา",
+		"message": "เข้าร่วม Discord ของเรา",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
