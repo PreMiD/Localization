@@ -1,4 +1,8 @@
 {
+    "amazon.subscriptions": {
+        "message": "ดูสถานะการสมัครเป็นสมาชิก",
+        "description": ""
+    },
     "amazon.adprefs": {
         "message": "กำลังดูการตั้งค่าโฆษณาของเขา",
         "description": ""
