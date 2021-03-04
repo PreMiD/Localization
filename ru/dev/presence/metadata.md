@@ -111,7 +111,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Описание сервиса <b>НЕ</b> присутствия. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. View the category for presence languages for a list. </td>
+      <td style="text-align:left">Описание сервиса <b>НЕ</b> присутствия. Ваше описание должно иметь значения пары ключей, которые указывают на язык, и описание на этом языке. Сделайте описания языков <i>, которые вы знаете</i>, наши переводчики внесут изменения в ваш файл метаданных. Можно посмотреть список категорию для языков присутствия. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
@@ -185,7 +185,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
     </tr>
     <tr>
       <td style="text-align:left"><b>settings</b></td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left">Массив настроек, которые пользователь может изменить</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
@@ -303,7 +303,7 @@ PreMiD - это полиусиленный сервис, что означает
 
 ### Методы
 
-Use the following methods to get settings info in your presence files:
+Используйте следующие методы для получения информации о настройках в файлах присутствия:
 #### `getSetting(String)`
 Возвращает значение настройки.
 ```typescript

@@ -26,15 +26,15 @@ PreMiD устанавливается быстро и легко. Вы долж�
 
 # Разработчикам
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[Начните](/dev) для разработки PreMiD это ваш первый шаг перед написанием кода.
 
-- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): Доступ к ресурсам и выполнение действий, используя PreMiD API.
+- :wrench: [Разработка Presence](/dev/presence): Научитесь использовать нашу систему Presence.
 
 # Внесите вклад
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
+- :bug: [Сообщить об ошибке](https://github.com/PreMiD): Помогите нам разобрать эти ложные ошибки.
 - :bulb: [Предложите Новую Возможность](https://discord.premid.app/): Нам нужны ваши идеи!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :heart: [Пожертвовать](https://www.patreon.com/Timeraa): Сделайте небольшое пожертвование или станьте спонсором этого замечательного проекта!
+- :globe_with_meridians: [Локали](https://translate.premid.app): Разрешить другим пользователям использовать PreMiD на родном языке.
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
