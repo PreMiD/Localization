@@ -1,8 +1,4 @@
 {
-	"netflix.viewList": {
-		"message": "กำลังดูซีรีย์และหนังที่บันทึกไว้ของเขา",
-		"description": "List as in their saved series/movies."
-	},
 	"netflix.profile": {
 		"message": "กำลังจัดการโปรไฟล์",
 		"description": ""
