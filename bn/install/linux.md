@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-The installation of the application is very important as the extension can not do anything by itself.
+অ্যাপ্লিকেশানটির ইন্সটলেশন খুবই গুরুত্বপূর্ণ কেননা এক্সটেনশনটি নিজ থেকে কিছুই করতে পারেনা।
 
 > Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
 > 
