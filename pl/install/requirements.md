@@ -1,7 +1,7 @@
 ---
 title: Wymaganie
 description: Wymagania do instalacji PreMiD
-published: tak
+published: true
 date: 2021-01-17T22:43:28.543Z
 tags:
 editor: markdown
