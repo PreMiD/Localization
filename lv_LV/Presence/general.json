@@ -334,5 +334,13 @@
 	"general.buttonViewProfile": {
 		"message": "Skatīt Profilu",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Apskatīt Mākslinieku",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Skatīt Atskaņošanas Sarakstu",
+		"description": "Used as the title for the button in Discord."
 	}
 }
