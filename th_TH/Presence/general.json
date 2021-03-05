@@ -334,5 +334,13 @@
 	"general.buttonViewProfile": {
 		"message": "ดูโปรไฟล์",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "ดูศิลปิน",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "ดูเพลย์ลิสต์",
+		"description": "Used as the title for the button in Discord."
 	}
 }
