@@ -175,7 +175,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 ### **`logo`**
 
 - Logo **mestilah** imej segi empat sama dengan nisbah bidang `1:1`.
-- Imej **mestilah** mempunyai resolusi sekurang-kurangnya `512x512` piksel. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- Imej **mestilah** mempunyai resolusi sekurang-kurangnya `512x512` piksel. Anda boleh membesarkan saiznya menggunakan alatan seperti [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
@@ -217,7 +217,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 - Jika anda memutuskan untuk membuat rentetan format (sbg. cth., `%song% by %artist%`), anda mesti meletakkan pemboleh ubah yang diapit dengan tanda peratus di kedua-dua sisi. Pemboleh ubah seperti `%var`, `var%`, atau `%%var%%` dan lain-lain yang serupa **tidak** dibenarkan untuk tujuan pemiawaian.
 - Nama tetapan **tidak** patut berhuruf besar semata-mata. Sebagai contoh, nama seperti `SHOW BROWSING STATUS` itu **tidak** akan dibenarkan; tetapi, nama seperti `Show Browsing Status` atau `Show browsing status` dibenarkan.
 - Jika anda menggunakan pilihan multiLanguage, anda patut tahu:
-  - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
+  - Nilai jenis **Boolean** hanya membolehkan rentetan daripada [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) di repositori Penyetempatan atau daripada fail Presence (cth. apabila nama Presence ialah YouTube, sambungan akan dapatkan rentetan daripada fail `youtube.json` juga.)
   - Nilai jenis rentetan **String** (cth. `youtube.json`) akan menyatakan nama fail yang mana anda ingin dapatkan rentetan tersebut.
   - Nilai jenis tatasusunan **Array<String>** (cth. `["youtube.json", "vlive.json"]`) akan menyatakan nama bagi kesemua fail berkaitan yang anda ingin dapatkan rentetan tersebut.
 
@@ -236,7 +236,7 @@ Ini senarai peraturan yang perlu diikuti semasa menulis fail `presence.ts` anda:
 - Anda **tidak** dibenarkan mencapai `localStorage`.
 - Apabila mencapai kuki untuk data disimpan, sila namakan kekunci dengan awalan `PMD_`.
 - Anda hanya boleh lakukan permintaan HTTP/HTTPS ke `premid.app` atau API laman sesawang Presence. Jika anda menggunakan domain luaran, anda akan diminta menjelaskan kenapa ianya diperlukan. API yang dibenarkan untuk membuat permintaan hanyalah [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- Do **not** set fields in the presenceData object to undefined after it has been declared, use the `delete` keyword instead. (sbg. cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
+- **Jangan** tetapkan medan dalam objek presenceData sebagai tak tertakrif setelah ianya diisytiharkan, sebaliknya gunakanlah kata kunci `delete`. (sbg. cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
 - Anda **tidak** dibenarkan untuk menulis Presence yang mengubah kefungsian laman sesawang yang berkaitan. Ini termasuk penambahan, pemadaman, atau perubahan unsur DOM.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
