@@ -136,8 +136,8 @@ if (oldLang !== newLang) {
   strings = getStrings();
 }
 
-const playString = (await strings).play, // result: Playing
-  pauseString = (await strings).pause; // result: Paused
+const playString = (await strings).play, // hasilnya: Bermain
+  pauseString = (await strings).pause; // hasilnya: Dijedakan
 ```
 
 ### `getPageletiable(String)`
