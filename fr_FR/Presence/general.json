@@ -312,7 +312,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Voir la chaîne",
+		"message": "Afficher la chaîne",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
@@ -333,6 +333,14 @@
 	},
 	"general.buttonViewProfile": {
 		"message": "Regarde un profil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Afficher l'artiste",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Afficher la playlist",
 		"description": "Used as the title for the button in Discord."
 	}
 }
