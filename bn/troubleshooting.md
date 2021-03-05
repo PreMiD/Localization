@@ -24,7 +24,7 @@ dateCreated: 2020-06-11T18:03:54.865Z
 তুমি তোমার কীবোর্ডের <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (উইন্ডোজ) অথবা <kbd>CMD+R</kbd> (ম্যাকওস) চাপ দিতে পারো রিফ্রেশ বাটন খোঁজার বদলে।
 
 ### তুমি কি Discord অ্যাপটি ব্যবহার করছ?
-Discord এর ব্রাউজার ভার্সনে PreMiD কাজ করে **না**, তোমাকে অবশ্যই অ্যাপটা ডাউনলোড করতে হবে [এখানে](https://discord.com/download)।
+Discord - এর ব্রাউজার ভার্সনে PreMiD কাজ করে **না**, তোমাকে অবশ্যই অ্যাপটা ডাউনলোড করতে হবে [এখানে](https://discord.com/download)।
 
 ### নিশ্চিত করো যে তুমি সেটিংসে Discord গেম এক্টিভিটি অন রেখেছ
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
