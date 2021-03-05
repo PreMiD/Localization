@@ -334,5 +334,13 @@
 	"general.buttonViewProfile": {
 		"message": "Ver perfil",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Ver Artista",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Ver lista de reproducción",
+		"description": "Used as the title for the button in Discord."
 	}
 }
