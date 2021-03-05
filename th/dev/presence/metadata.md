@@ -131,7 +131,7 @@ An example of that file can be found below.
     </tr>
     <tr>
       <td style="text-align:left"><b>เวอร์ชัน</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">เวอร์ชั่น presence ของคุณ</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
