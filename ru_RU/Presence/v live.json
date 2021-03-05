@@ -43,6 +43,10 @@
 		"message": "Просмотр страницы расписания",
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
+	"v live.channelMy": {
+		"message": "Просмотр \"мой\" страницы",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.channelStore": {
 		"message": "Просмотр страницы магазина",
 		"description": "Second part of the \"of {0}'s channel\" string"
