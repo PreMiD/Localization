@@ -334,5 +334,13 @@
 	"general.buttonViewProfile": {
 		"message": "দেখো প্রোফাইলটি",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "দেখো আর্টিস্টকে",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "দেখো প্লেলিস্টটি",
+		"description": "Used as the title for the button in Discord."
 	}
 }
