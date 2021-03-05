@@ -110,5 +110,13 @@
 	"general.buttonViewChannel": {
 		"message": "チャンネルを見る",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "アーティストを表示",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "プレイリストを見る",
+		"description": "Used as the title for the button in Discord."
 	}
 }
