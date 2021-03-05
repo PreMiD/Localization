@@ -8,7 +8,7 @@
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Estes já nos pertencem a nós",
+		"message": "Estes já nos pertencem",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -110,6 +110,42 @@
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio é a rádio de infotainment mais bem-sucedida para jogos de simulação na Alemanha, Áustria e Suíça!",
 		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Começa a criar a tua própria comunidade com os nossos incríveis modelos. Constrói o teu próprio reino.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "O taiga é um Bot do Discord que te tenta oferecer todos os recursos de que podes precisar!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Uma ferramenta poderosa e fácil de utilizar na criação de instaladores entre plataformas.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Comunica facilmente com os teus utilizadores em tempo real.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Uma deusa que joga como um divertido Bot do Discord!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "O REYFM permite-te ouvir mais de 15 categorias de música grátis e sem parar. Com a melhor e mais recente música só para ti!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Solução de localização ágil para empresas de tecnologia.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "O mais poderoso e expansível software de Wiki de código aberto.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Uma interface para programadores unificada e amigável para todos os teus artefactos.",
+		"description": "Description for PackageCloud."
 	},
 	"partners.partner.fastly": {
 		"message": "Por trás do melhor da internet.",
