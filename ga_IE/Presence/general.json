@@ -334,5 +334,13 @@
 	"general.buttonViewProfile": {
 		"message": "Féach ar Phróifíl",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Féach ar Ealaíontóra",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Féach ar Seinmliosta",
+		"description": "Used as the title for the button in Discord."
 	}
 }
