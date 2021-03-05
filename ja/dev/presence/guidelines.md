@@ -175,7 +175,7 @@ A list of fields and their rules are listed below:
 ### **`logo`**
 
 - ロゴは`1:1`のアスペクト比を持つ、正方形の画像でなければなりません。
-- ロゴに使う画像はサイズを`512x512`(pixel)以上にしてください。 [waifu2x](http://waifu2x.udp.jp/)などのサイトで画像を大きくすることができます。
+- ロゴに使う画像はサイズを`512x512`(pixel)以上にしてください。 You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 

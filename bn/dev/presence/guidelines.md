@@ -1,5 +1,5 @@
 ---
-title: Presence এর বিধি
+title: Presence - এর বিধি
 description: Rules that all presence developers must follow to have their presence added.
 published: true
 date: 2021-02-26T21:45:36.174Z
@@ -10,7 +10,7 @@ dateCreated: 2021-02-24T22:30:46.792Z
 
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
-    <h3 style="font-size: 2rem; margin-bottom: 0">Presence এর বিধি</h3>
+    <h3 style="font-size: 2rem; margin-bottom: 0">Presence - এর বিধি</h3>
     <h4 style="margin-top: 0">Revision 3</h4>
     <br />
 </div>
@@ -175,7 +175,7 @@ A list of fields and their rules are listed below:
 ### **`logo`**
 
 - The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize the imagine using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 

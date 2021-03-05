@@ -6,7 +6,7 @@ date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> একটি কোড এডিটর প্রয়োজন। আমরা পরামর্শ দেই Visual Studio Code এর। 
+> একটি কোড এডিটর প্রয়োজন। আমরা পরামর্শ দেই Visual Studio Code - এর। 
 > 
 > {.is-info}
 
@@ -16,7 +16,7 @@ tags:
 3. ইন্সটল করো [TypeScript](https://www.typescriptlang.org/index.html#download-links) (একটি টার্মিনাল ওপেন করো এবং টাইপ করো `npm install -g typescript`)
 
 # প্রোজেক্টটিকে ক্লোন করা
-1. একটি টার্মিনাল ওপেন করো এবং টাইপ করো `git clone URL` **URL এর বদলে সেই রিপোজিটরির লিংক দাও যেটাতে তুমি কন্ট্রিবিউট করতে চাও** যেমন: `git clone https://github.com/PreMiD/PreMiD`
+1. একটি টার্মিনাল ওপেন করো এবং টাইপ করো `git clone URL` **URL - এর বদলে সেই রিপোজিটরির লিংক দাও যেটাতে তুমি কন্ট্রিবিউট করতে চাও** যেমন: `git clone https://github.com/PreMiD/PreMiD`
 2. তোমার পছন্দের একটি ফোল্ডার বাছাই করো।
 3. তোমার কোড এডিটর দিয়ে এটিকে ওপেন করো।
 

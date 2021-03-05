@@ -175,7 +175,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`logo`**
 
 - Logo, `1:1` en boy oranına sahip kare bir resim **olmalıdır**.
-- Resim en az `512x512` piksel çözünürlüğünde olmalıdır. [waifu2x](http://waifu2x.udp.jp/) gibi araçlar kullanarak resminizi boyutlandırabilirsiniz.
+- Resim en az `512x512` piksel çözünürlüğünde olmalıdır. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 

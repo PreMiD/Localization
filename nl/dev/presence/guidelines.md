@@ -175,7 +175,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`logo`**
 
 - Het logo **moet** vierkante afbeelding zijn met een `1:1` beeldverhouding.
-- De afbeelding is **vereist** om een minimale resolutie van `512x512` pixels te hebben. Je kunt je afbeelding vergroten met behulp van een tool als [waifu2x](http://waifu2x.udp.jp/).
+- De afbeelding is **vereist** om een minimale resolutie van `512x512` pixels te hebben. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 

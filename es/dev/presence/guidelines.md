@@ -175,7 +175,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`logo`**
 
 - El logo **debe** ser una imagen cuadrada con una relación de aspecto `1:1`.
-- La imagen **requiere** una resolución mínima de `512x512` píxeles. Puedes aumentar el tamaño de la imagen usando una herramienta como [waifu2x](http://waifu2x.udp.jp/).
+- La imagen **requiere** una resolución mínima de `512x512` píxeles. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
