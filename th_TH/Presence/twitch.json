@@ -7,6 +7,10 @@
 		"message": "ผู้ร่วมมือ",
 		"description": "Page name"
 	},
+	"twitch.security": {
+		"message": "ความปลอดภัย",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "หน้าหลัก",
 		"description": "Page name"
