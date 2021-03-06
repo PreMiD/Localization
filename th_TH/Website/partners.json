@@ -131,10 +131,6 @@
 		"message": "เทพธิดาที่เล่นเป็น Discord Bot เเบบสนุกสนาน!",
 		"description": "Description for Erisly."
 	},
-	"partners.partner.reyfm": {
-		"message": "REYFM มาฟังเพลงออนไลน์ที่มีมากกว่า 15 ประเภทในที่เดียวกันฟรีๆ - non-stop. กับเพลงที่มีคุณภาพและใหม่ล่าสุดเพื่อคุณโดยเฉพาะ!",
-		"description": "Description for REYFM."
-	},
 	"partners.partner.crowdin": {
 		"message": "การเเปลภาษาเเบบว่องไวสําหรับบริษัทเทคโนโลยี!",
 		"description": "Description for Crowdin."
