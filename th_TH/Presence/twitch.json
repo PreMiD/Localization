@@ -20,11 +20,19 @@
 		"description": ""
 	},
 	"twitch.viewTheir": {
-		"message": "กําลังดูไฟล์",
+		"message": "กําลังเรียกดู",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.achievements": {
+		"message": "รางวัลความสำเร็จของเขา",
+		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.clips": {
 		"message": "คลิป",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "กำตั้งค่าช่องของเขา",
 		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }
