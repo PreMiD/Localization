@@ -28,7 +28,7 @@
 		"description": "A page name"
 	},
 	"premid.partners": {
-		"message": "ผู้ร่วมมือ",
+		"message": "พาร์ทเนอร์",
 		"description": "A page name"
 	},
 	"premid.pageAbout": {
@@ -67,12 +67,28 @@
 		"message": "การพัฒนา Presence",
 		"description": "A page name"
 	},
+	"premid.pagePresenceGuide": {
+		"message": "แนวทางในการสร้าง Presence",
+		"description": "A page name"
+	},
 	"premid.pagePresenceClass": {
 		"message": "คลาส Presence",
 		"description": "A page name"
 	},
+	"premid.pageSlideshowClass": {
+		"message": "คลาส Slideshow",
+		"description": "A page name"
+	},
 	"premid.pageIframe": {
 		"message": "เข้าใจการทำงานของ iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "การกำหนดค่า metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "การกำหนดค่า TypeScript",
 		"description": "A page name"
 	}
 }
