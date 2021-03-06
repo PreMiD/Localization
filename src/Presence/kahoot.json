@@ -1,78 +1,78 @@
 {
 	"kahoot.buttonJoinGame": {
-		"message": "Join Game:",
-		"description": "Button to be displayed in Discord"
+		"message": "Join Game: {0}",
+		"description": "Used as the title for the button in Discord."
 	},
     "kahoot.joiningGame": {
         "message": "Joining Game...",
-        "description": ""
+        "description": "Used when a user is joining a Kahoot Game."
     },
     "kahoot.waiting": {
         "message": "Waiting to Start...",
-        "description": ""
+        "description": "Used when a user is waiting for a Kahoot Game to start"
     },
     "kahoot.gameStarting": {
         "message": "Game Starting!",
-        "description": ""
+        "description": "Used when a Kahoot Game is starting"
     },
     "kahoot.playing": {
         "message": "Playing...",
-        "description": ""
+        "description": "Used as the first line when a user is answering a question"
     },
     "kahoot.questionLoading": {
         "message": "Next Question Loading...",
-        "description": ""
+        "description": "Used when the next question is loading"
     },
     "kahoot.incorrectAnswer": {
         "message": "Incorrect Answer",
-        "description": ""
+        "description": "Used when the user answered incorrectly on a question"
     },
     "kahoot.correctAnswer": {
         "message": "Correct Answer",
-        "description": ""
+        "description": "Used when the user anwered correct on a question"
     },
     "kahoot.resultsQuestion": {
         "message": "Looking at Results:",
-        "description": ""
+        "description": "Used when a user is looking at the results of the question they just answered"
     },
     "kahoot.contentBlockView": {
         "message": "Looking at Content:",
-        "description": ""
+        "description": "Used when a user is looking at content in a Kahoot Lesson"
     },
     "kahoot.gameOver": {
         "message": "Game Over",
-        "description": ""
+        "description": "Used when the Game is finished"
     },
     "kahoot.gameCreate": {
         "message": "Creating a Game...",
-        "description": ""
+        "description": "Used when a Kahoot Host is creating a Game"
     },
     "kahoot.loadingPage": {
         "message": "Loading Page...",
-        "description": ""
+        "description": "Used when a page is loading"
     },
     "kahoot.waitingStart": {
         "message": "Waiting to Start...",
-        "description": ""
+        "description": "Used when the host is waiting to start the game"
     },
     "kahoot.firstPlace": {
-        "message": "First Place:",
-        "description": "To be used with a PlayerName after it"
+        "message": "First Place: {0}",
+        "description": "Used to display who was first place in a game"
     },
     "kahoot.points": {
-        "message": "Points:",
-        "description": "To be used with the amount of points after it"
+        "message": "Points: {0}",
+        "description": "Used to display how many points a user has"
     },
     "kahoot.questionsCorrect": {
-        "message": "Questions Correct:",
-        "description": "To be used with the amount they got correct"
+        "message": "Questions Correct: {0}",
+        "description": "Used to display how many questions a user got correct"
     },
     "kahoot.contentShowing": {
         "message": "Showing Content:",
-        "description": ""
+        "description": "Used when the host is showing content from a Kahoot Lesson"
     },
     "kahoot.questionShowing": {
-        "message": "Question:",
-        "description": "To be used with a question number after it"
+        "message": "Question: {0}",
+        "description": "Used to show what question is currently showing (both host and user)"
     }
 }
