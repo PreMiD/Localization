@@ -3,6 +3,10 @@
         "message": "หน้าหลัก",
         "description": "Home page of the site"
     },
+    "juniperbot.leaderboard": {
+        "message": "กําลังดูการจัดอันดับของเซิฟเวอร์",
+        "description": "Guild leaderboard page"
+    },
     "juniperbot.serverdashname": {
         "message": "เซิร์ฟเวอร์: {0}",
         "description": "Guild name"
@@ -14,5 +18,13 @@
     "juniperbot.commands": {
         "message": "กำลังดูรายการคำสั่งทั้งหมด",
         "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.usercard": {
+        "message": "ปรับเเต่งเเรงค์การ์ด",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "กำลังอ่านเกี่ยวกับคุกกี้ของไซต์",
+        "description": "Reading about the site's cookies"
     }
 }
