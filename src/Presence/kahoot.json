@@ -74,5 +74,25 @@
     "kahoot.questionShowing": {
         "message": "Question: {0}",
         "description": "Used to show what question is currently showing (both host and user)"
+    },
+    "kahoot.stPlace": {
+        "message": "1st place",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2nd place",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3rd place",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "Top {0}",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{0} of {1}",
+        "description": "Used in the context of questions (i.e 1 of 3)"
     }
 }
