@@ -204,13 +204,13 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`readLogs`**
 
-- Must be `boolean` value (e.g. `true` or `false`).
+- Debe ser un valor `boolean` (por ejemplo `true` o `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`advertencia`**
 
-- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
-- Example of presence using this metadata variable is `VLC`.
+- Habilita un icono de advertencia indicando al usuario que la presence requiere de pasos adicionales además de añadirla.
+- Una presence de ejemplo usando esta variable de metadata es `VLC`.
 
 ### **`ajustes`**
 
