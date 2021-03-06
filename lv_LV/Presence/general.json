@@ -342,5 +342,9 @@
 	"general.buttonViewPlaylist": {
 		"message": "Skatīt Atskaņošanas Sarakstu",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Skatīt Apraidi",
+		"description": "Used as the title for the button in Discord."
 	}
 }
