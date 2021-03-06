@@ -342,5 +342,9 @@
 	"general.buttonViewPlaylist": {
 		"message": "Afficher la playlist",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Afficher le podcast",
+		"description": "Used as the title for the button in Discord."
 	}
 }
