@@ -4,7 +4,31 @@
 		"description": "The first part of the next 6 strings"
 	},
 	"v live.viewTheir": {
-		"message": "กําลังดูไฟล์",
+		"message": "กําลังดู",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "หน้าโปรไฟล์ของเขา",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "วิดีโอที่เขาดูแล้ว",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "การซื้อล่าสุดของเขา",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "ยอดเหรียญคงเหลือของเขา",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "อุปกรณ์ที่เขาเชื่อมต่อไว้ทั้งหมด",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "ช่องที่เขาติดตาม",
+		"description": "The second part of the \"Viewing their\" string"
 	}
 }
