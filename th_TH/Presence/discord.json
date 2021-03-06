@@ -63,6 +63,10 @@
 		"message": "กำลังเรียกดู",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.download": {
+		"message": "หน้า ดาวน์โหลด",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.why": {
 		"message": "หน้า \"ทำไมต้อง Discord?\"",
 		"description": "Second part of the \"Browsing through\" string"
@@ -93,6 +97,10 @@
 	},
 	"discord.status": {
 		"message": "สถานะ Discord",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "ศูนย์ช่วยเหลือ",
 		"description": ""
 	},
 	"discord.merch.collection": {
