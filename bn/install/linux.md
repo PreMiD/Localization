@@ -23,7 +23,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
   - FAQs (soon)
   - Building (soon)
   - [Support](#support)
-  - [ক্রেডিট](#credits)
+  - [কৃতিত্ব](#credits)
   - [License](#license)
 - **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
@@ -80,7 +80,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="credits"></a>
 
-### ক্রেডিট
+### কৃতিত্ব
 
 ধন্যবাদ জানাই:
 
