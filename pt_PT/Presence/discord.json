@@ -63,12 +63,20 @@
 		"message": "A ver",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.download": {
+		"message": "a página de downloads",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.why": {
 		"message": "a página \"Porquê o Discord?\"",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.safety": {
 		"message": "o centro de segurança",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "as vagas de emprego",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.policies": {
