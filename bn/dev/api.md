@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: রিসোর্স অ্যাক্সেস করো এবং কাজ করো PreMiD - এর API ব্যবহার করে
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
@@ -14,23 +14,23 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > 
 > {.is-info}
 
-## API Versioning
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+## API ভার্সনগুলি
+> API v2 এর যত্ন নেওয়া হচ্ছে না এবং ভবিষ্যতে সরিয়ে ফেলা হবে। v3 ব্যবহার করো ভবিষ্যতে কোনো সমস্যা এড়াতে। 
 > 
 > {.is-danger}
 
-PreMiD exposes different versions of our API. You can specify version by including it in the request path like `https://api.premid.app/v{version_number}`. Omitting the version number from the route will route requests to the current default version (marked below accordingly).
+PreMiD আমাদের API এর বিভিন্ন ভার্সন দেয়। তুমি নির্দিষ্ট করতে পারো ভার্সনটি এর রিকোয়েস্ট প্যাথে যোগ করে যেমন `https://api.premid.app/v{version_number}`. রুট থেকে ভার্সন নম্বরটি না দিলে রুটটি রিকোয়েস্ট করবে বর্তমান ডিফল্ট ভার্সনে (সেই অনুযায়ী নীচে চিহ্নিত)।
 
-## Encryption
+## এনক্রিপশন
 
-All HTTP-layer services and protocols (e.g. http) within the PreMiD API use TLS 1.2.
+PreMiD API এর সব HTTP লেয়ার সার্ভিস এবং প্রোটোকল (যেমন http) ব্যবহার করে TLS 1.2
 
 # ডকুমেন্টেশন
-> Currently under construction! 
+> বর্তমানে নির্মাণাধীন! 
 > 
 > {.is-danger}
 
-**Choose the API version:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+**API ভার্সনটি বাছাই করো:**
+- [v2 *যত্ন নেওয়া হচ্ছে না*](/dev/api/v2)
+- [v3 *সচল*](/dev/api/v3)
 {.links-list}
