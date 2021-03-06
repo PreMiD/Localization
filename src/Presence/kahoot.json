@@ -73,7 +73,7 @@
     },
     "kahoot.questionNumber": {
         "message": "Question: {0}",
-        "description": "Used to show what question is currently showing (both host and user). {0} is \"Question number of total questions\""
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
     },
     "kahoot.questionShowing": {
         "message": "Showing Question:",
@@ -97,6 +97,6 @@
     },
     "kahoot.of": {
         "message": "{0} of {1}",
-        "description": "Used in the context of questions (i.e 1 of 3)"
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
     }
 }
