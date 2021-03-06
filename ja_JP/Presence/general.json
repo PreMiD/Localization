@@ -334,5 +334,9 @@
 	"general.buttonViewPlaylist": {
 		"message": "プレイリストを見る",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "ポッドキャストを見る",
+		"description": "Used as the title for the button in Discord."
 	}
 }
