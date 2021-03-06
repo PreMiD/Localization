@@ -64,7 +64,7 @@
 		"description": ""
 	},
 	"general.playing": {
-		"message": "เล่น",
+		"message": "กำลังเล่น",
 		"description": ""
 	},
 	"general.readingDM": {
@@ -333,6 +333,18 @@
 	},
 	"general.buttonViewProfile": {
 		"message": "ดูโปรไฟล์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "ดูศิลปิน",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "ดูเพลย์ลิสต์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "ดูพ็อดคาสท์",
 		"description": "Used as the title for the button in Discord."
 	}
 }
