@@ -2,10 +2,10 @@
 title: Garis Panduan Presence
 description: Peraturan yang kesemua pembangun Presence perlu ikut untuk membolehkan Presence mereka ditambah.
 published: true
-date: 2021-02-26T21:45:36.174Z
+date: 2021-03-06T15:01:04.274Z
 tags:
 editor: markdown
-dateCreated: 2021-02-24T22:30:46.792Z
+dateCreated: 2021-02-26T21:54:41.573Z
 ---
 
 <div align="center">
@@ -216,10 +216,10 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 
 - Jika anda memutuskan untuk membuat rentetan format (sbg. cth., `%song% by %artist%`), anda mesti meletakkan pemboleh ubah yang diapit dengan tanda peratus di kedua-dua sisi. Pemboleh ubah seperti `%var`, `var%`, atau `%%var%%` dan lain-lain yang serupa **tidak** dibenarkan untuk tujuan pemiawaian.
 - Nama tetapan **tidak** patut berhuruf besar semata-mata. Sebagai contoh, nama seperti `SHOW BROWSING STATUS` itu **tidak** akan dibenarkan; tetapi, nama seperti `Show Browsing Status` atau `Show browsing status` dibenarkan.
-- Jika anda menggunakan pilihan multiLanguage, anda patut tahu:
+- If you are using `multiLanguage` option you should know:
   - Nilai jenis **Boolean** hanya membolehkan rentetan daripada [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) di repositori Penyetempatan atau daripada fail Presence (cth. apabila nama Presence ialah YouTube, sambungan akan dapatkan rentetan daripada fail `youtube.json` juga.)
-  - Nilai jenis rentetan **String** (cth. `youtube.json`) akan menyatakan nama fail yang mana anda ingin dapatkan rentetan tersebut.
-  - Nilai jenis tatasusunan **Array<String>** (cth. `["youtube.json", "vlive.json"]`) akan menyatakan nama bagi kesemua fail berkaitan yang anda ingin dapatkan rentetan tersebut.
+  - **String** type value (e.g. `youtube`) will specify name of file that you want get strings from.
+  - **Array<String>** type value (e.g. `["youtube", "vlive"]`) will specify name of files that you want get strings from.
 
 ## [**presence.ts**](/dev/presence/class)
 
