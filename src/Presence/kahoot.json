@@ -75,6 +75,10 @@
         "message": "Question: {0}",
         "description": "Used to show what question is currently showing (both host and user)"
     },
+    "kahoot.questionShow": {
+        "message": "Showing Question:",
+        "description": "Used when the host is showing a question"
+    },
     "kahoot.stPlace": {
         "message": "1st place",
         "description": "Used in the context of 1st place"
