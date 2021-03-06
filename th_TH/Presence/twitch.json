@@ -7,16 +7,32 @@
 		"message": "ผู้ร่วมมือ",
 		"description": "Page name"
 	},
+	"twitch.security": {
+		"message": "ความปลอดภัย",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "หน้าหลัก",
 		"description": "Page name"
 	},
-	"twitch.viewSettings": {
-		"message": "กำลังดูการตั้งค่าของตัวเอง...",
+	"twitch.viewFriends": {
+		"message": "กำลังดูเพื่อนของเขา...",
 		"description": ""
 	},
 	"twitch.viewTheir": {
-		"message": "กําลังดูไฟล์",
+		"message": "กําลังเรียกดู",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.achievements": {
+		"message": "รางวัลความสำเร็จของเขา",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "คลิป",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "กำตั้งค่าช่องของเขา",
+		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }

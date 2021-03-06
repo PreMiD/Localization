@@ -1,4 +1,8 @@
 {
+    "amazon.subscriptions": {
+        "message": "Betrachtet Abonnements",
+        "description": ""
+    },
     "amazon.adprefs": {
         "message": "Betrachtet seine Werbepräferenzen",
         "description": ""
