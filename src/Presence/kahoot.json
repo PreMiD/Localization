@@ -1,7 +1,7 @@
 {
     "kahoot.buttonJoinGame": {
 	"message": "Join Game: {0}",
-	"description": "Used as the title for the button in Discord."
+	"description": "Used as the title for the button in Discord. {0} is the Game ID"
     },
     "kahoot.joiningGame": {
         "message": "Joining Game...",
@@ -57,11 +57,11 @@
     },
     "kahoot.firstPlace": {
         "message": "First Place: {0}",
-        "description": "Used to display who was first place in a game"
+        "description": "Used to display who was first place in a game. {0} is a player name"
     },
     "kahoot.points": {
         "message": "Points: {0}",
-        "description": "Used to display how many points a user has"
+        "description": "Used to display how many points a user has. {0} is the number of points"
     },
     "kahoot.questionsCorrect": {
         "message": "Questions Correct: {0}",
@@ -71,11 +71,11 @@
         "message": "Showing Slide:",
         "description": "Used when the host is showing a slide from a Kahoot without a need to answer"
     },
-    "kahoot.questionShowing": {
+    "kahoot.questionNumber": {
         "message": "Question: {0}",
-        "description": "Used to show what question is currently showing (both host and user)"
+        "description": "Used to show what question is currently showing (both host and user). {0} is \"Question number of total questions\""
     },
-    "kahoot.questionShow": {
+    "kahoot.questionShowing": {
         "message": "Showing Question:",
         "description": "Used when the host is showing a question"
     },
