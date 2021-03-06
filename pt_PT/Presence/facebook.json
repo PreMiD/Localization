@@ -2,5 +2,33 @@
     "facebook.call": {
         "message": "Em chamada com",
         "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Numa videochamada com",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "alguém... (utilizador escondido)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "A escrever uma mensagem",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "A ler sobre o utilizador",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "A ver a comunidade de",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "A ver as fotos de",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "A ver as publicações de",
+        "description": ""
     }
 }
