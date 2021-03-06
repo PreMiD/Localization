@@ -2,10 +2,10 @@
 title: Presence-richtlijnen
 description: Regels die alle presence-ontwikkelaars moeten volgen om hun presence te laten toevoegen.
 published: true
-date: 2021-02-26T21:45:36.174Z
+date: 2021-03-06T15:01:04.274Z
 tags:
 editor: markdown
-dateCreated: 2021-02-24T22:30:46.792Z
+dateCreated: 2021-02-26T21:54:41.573Z
 ---
 
 <div align="center">
@@ -216,10 +216,10 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 - Als je besluit om een indelingsstring te maken (bijvoorbeeld `%song% by %artist%`), moet je de variabelen omgeven door een procentteken aan beide zijden. Variabelen zoals `%var`, `var%`, of `%%var%%` en alles ertussenin, zijn **niet** toegestaan omwille van normalisatie.
 - De namen van de instellingen mogen **niet** in alle hoofdletters staan. Namen zoals `LAAT BROWSING STATUS ZIEN` zullen **niet** toegestaan zijn; Namen zoals `Laat Browsing Status Zien` of `Laat browsing status zien` zijn echter toegestaan.
-- Als je de optie multiLanguage gebruikt, moet je het volgende weten:
+- If you are using `multiLanguage` option you should know:
   - Waarde met het type **Boolean** zal alleen tekenreeksen van [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) van de lokalisatierepo of het presence-bestand (bijv. als de presence-naam YouTube is, zal de extensie ook tekenreeksen ophalen uit `youtube.json`) ophalen.
-  - Waarde met het type **String** (bijv. `youtube.json`) geeft de bestandsnaam voor het ophalen van tekenreeksen op.
-  - Waarde met het type **Array** (bijv. `["youtube.json", "vlive.json"]`) geeft de bestandsnamen voor het ophalen van tekenreeksen op.
+  - Waarde met het type **String** (bijv. `youtube`) geeft de bestandsnaam voor het ophalen van tekenreeksen op.
+  - Waarde met het type **Array<String>** (bijv. `["youtube", "vlive"]`) geeft de bestandsnamen voor het ophalen van tekenreeksen op.
 
 ## [**presence.ts**](/dev/presence/class)
 
