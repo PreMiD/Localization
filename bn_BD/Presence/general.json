@@ -60,7 +60,7 @@
 		"description": ""
 	},
 	"general.paused": {
-		"message": "পসড",
+		"message": "থামা",
 		"description": ""
 	},
 	"general.playing": {
@@ -341,6 +341,10 @@
 	},
 	"general.buttonViewPlaylist": {
 		"message": "দেখো প্লেলিস্টটি",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "দেখো পডকাস্টটি",
 		"description": "Used as the title for the button in Discord."
 	}
 }
