@@ -125,7 +125,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 }
 ```
 
-โปรดคัดลอกโค้ดด้านบนและใส่ไปในไฟล์ `metadata.json`. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+โปรดคัดลอกโค้ดด้านบนและใส่ไปในไฟล์ `metadata.json`. และตอนนี้คุณก็สามารถเปลี่ยนค่าต่างๆได้แล้ว. โปรดทราบไว้ว่าค่าด้านล่างทั้งหมดนี้ไม่จำเป็นต้องมีในไฟล์ `metadata.json` ของคุณ, ถ้าคุณไม่คิดที่จะใช้พวกมันคุณต้องนำพวกมันออก.
 
 - `contributors`
 - `altnames`
