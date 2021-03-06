@@ -9,7 +9,7 @@
     },
     "kahoot.waiting": {
         "message": "Waiting to Start...",
-        "description": "Used when a user is waiting for a Kahoot Game to start"
+        "description": "Used when the user is waiting for a Kahoot Game to start"
     },
     "kahoot.gameStarting": {
         "message": "Game Starting!",
@@ -50,10 +50,6 @@
     "kahoot.loadingPage": {
         "message": "Loading Page...",
         "description": "Used when a page is loading"
-    },
-    "kahoot.waitingStart": {
-        "message": "Waiting to Start...",
-        "description": "Used when the host is waiting to start the game"
     },
     "kahoot.firstPlace": {
         "message": "First Place: {0}",
