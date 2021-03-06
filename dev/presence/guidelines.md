@@ -2,7 +2,7 @@
 title: Presence Guidelines
 description: Rules that all presence developers must follow to have their presence added.
 published: true
-date: 2021-03-06T15:00:18.515Z
+date: 2021-03-06T15:01:04.274Z
 tags: 
 editor: markdown
 dateCreated: 2021-02-26T21:54:41.573Z
@@ -216,7 +216,7 @@ A list of fields and their rules are listed below:
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
-- If you are using multiLanguage option you should know:
+- If you are using `multiLanguage` option you should know:
   - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
   - **String** type value (e.g. `youtube`) will specify name of file that you want get strings from.
   - **Array<String>** type value (e.g. `["youtube", "vlive"]`) will specify name of files that you want get strings from.
