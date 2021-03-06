@@ -37,7 +37,7 @@ Las reglas generales del desarrollo de una Presence son las siguientes:
   - No están permitidas redirecciones a páginas de inicio.
   - No está permitido promover sitios web por medio de ello.
   - No puede mostrar información adicional cuando esta no puede ser mostrada en las propiedades `state` o `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Incluyendo la carpeta `dist`, los archivos `presence.ts`, `iframe.ts` y `metadata.json` son obligatorios. Obteniendo algo como el siguiente esquema:
 
 ```bash
 presence
@@ -129,7 +129,7 @@ Cada presence tiene un archivo para describirla llamado `metadata.json`, el meta
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (por ejemplo, una presence sin soporte para iframe no debe contener el campo `iframe`.)
+> Si un campo está estipulado como opcional en la [documentación](https://docs.premid.app/en/dev/presence/metadata) o está marcado con un `*` al lado de la clave y tu presence usa el valor por defecto para ella, no la incluyas en el archivo `metadata`. (por ejemplo, una presence sin soporte para iframe no debe contener el campo `iframe`.)
 
 > Todas las imágenes en el archivo de `metadata` deben estar alojadas en `i.imgur.com`. Usar contenido alojado en el sitio web **no** está permitido, ya que pueden cambiar su ubicación sin querer.
 
@@ -151,11 +151,11 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 - El nombre del servicio **debe** ser el nombre del directorio de la presence. Por ejemplo, si la presence esta ubicada en `/websites/Y/YouTube/`, el nombre del servicio debe ser `YouTube`.
 - **No puedes** usar la url como el nombre del servicio al menos que el sitio web use la url como su nombre oficial. Si el nombre no es descriptivo y puede ser considerado impreciso, usar la url es **requerido**. (Por ejemplo: `YouTube` es permitido porque este es el nombre oficial y es descriptivo, mientras que `youtube.com` no lo es. `Top` es un nombre no descriptivo, así que usar la url `top.gg` es **requerido**.)
-- If service has some explicit branding rules of their name, you should follow them.
+- Si el servicio contiene algunas reglas explicitas en su nombre, usted debe seguirlas.
 
 ### **`*altnames`**
 
-- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- Usa esto **solo** en el caso de que el sitio web aparezca bajo distintos nombres (e.j. Pokémon ó 포켓몬스터) para buscar mas fácil la presence sin usar caracteres especiales (e.j. Pokémon ó Pokemon). Versiones *acortadas* del servicio aparecerán como `etiquetas`.
 
 ### **`description`**
 
@@ -175,7 +175,7 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`logo`**
 
 - El logo **debe** ser una imagen cuadrada con una relación de aspecto `1:1`.
-- La imagen **requiere** una resolución mínima de `512x512` píxeles. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- La imagen **requiere** una resolución mínima de `512x512` píxeles. Puedes aumentar el tamaño de la imagen usando una herramienta como [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
@@ -195,12 +195,12 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 ### **`category`**
 
-- The category **must** be one of the following listed on the [documentation](/dev/presence/metadata#presence-categories).
+- La categoría **debe** ser una de las siguientes listadas en la [documentación](https://docs.premid.app/es/dev/presence/metadata#categorias-de-una-presencia).
 - La presence debe utilizar una categoría que coincida con el contenido del sitio web. (por ejemplo, no utilices `anime` cuando el sitio web no esté relacionado con anime).
 
 ### **`*regExp`** <br /> **`*iFrameRegExp`**
 
-- Las expresiones regulares **deben** ser válidas. Please test your expressions with the tools listed on the [documentation](/dev/presence/metadata#testing).
+- Las expresiones regulares **deben** ser válidas. Por favor pruebe sus expresiones con las herramientas listadas en la [documentación](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`readLogs`**
 
