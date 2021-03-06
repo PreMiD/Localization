@@ -35,8 +35,8 @@
         "message": "Looking at Results:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
-    "kahoot.contentBlockView": {
-        "message": "Looking at Content:",
+    "kahoot.slideViewing": {
+        "message": "Looking at Slide:",
         "description": "Used when a user is looking at content in a Kahoot Lesson"
     },
     "kahoot.gameOver": {
