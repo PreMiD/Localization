@@ -63,9 +63,29 @@
 		"message": "กำลังเรียกดู",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.download": {
+		"message": "หน้าดาวน์โหลด",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "หน้า \"ทำไมต้อง Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.company": {
 		"message": "เกี่ยวกับ",
 		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "หน้าความปลอดภัย",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.appsEdit": {
+		"message": "กำลังแก้ไขแอป: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsEdit": {
+		"message": "กำลังแก้ไขทีม: {0}",
+		"description": "{0} will be replaced with the name of the team."
 	},
 	"discord.status": {
 		"message": "สถานะ Discord",
