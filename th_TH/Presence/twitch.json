@@ -15,10 +15,6 @@
 		"message": "หน้าหลัก",
 		"description": "Page name"
 	},
-	"twitch.viewSettings": {
-		"message": "กำลังดูการตั้งค่าของตัวเอง...",
-		"description": ""
-	},
 	"twitch.viewFriends": {
 		"message": "กำลังดูเพื่อนของเขา...",
 		"description": ""
