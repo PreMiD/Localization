@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 
 # API
 
-> Base URL: https://api.premid.app 
+> মূল URL: https://api.premid.app 
 > 
 > {.is-info}
 
