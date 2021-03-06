@@ -1,0 +1,78 @@
+{
+	"kahoot.buttonJoinGame": {
+		"message": "Join Game:",
+		"description": "Button to be displayed in Discord"
+	},
+    "kahoot.joiningGame": {
+        "message": "Joining Game...",
+        "description": ""
+    },
+    "kahoot.waiting": {
+        "message": "Waiting to Start...",
+        "description": ""
+    },
+    "kahoot.gameStarting": {
+        "message": "Game Starting!",
+        "description": ""
+    },
+    "kahoot.playing": {
+        "message": "Playing...",
+        "description": ""
+    },
+    "kahoot.questionLoading": {
+        "message": "Next Question Loading...",
+        "description": ""
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "Incorrect Answer",
+        "description": ""
+    },
+    "kahoot.correctAnswer": {
+        "message": "Correct Answer",
+        "description": ""
+    },
+    "kahoot.resultsQuestion": {
+        "message": "Looking at Results:",
+        "description": ""
+    },
+    "kahoot.contentBlockView": {
+        "message": "Looking at Content:",
+        "description": ""
+    },
+    "kahoot.gameOver": {
+        "message": "Game Over",
+        "description": ""
+    },
+    "kahoot.gameCreate": {
+        "message": "Creating a Game...",
+        "description": ""
+    },
+    "kahoot.loadingPage": {
+        "message": "Loading Page...",
+        "description": ""
+    },
+    "kahoot.waitingStart": {
+        "message": "Waiting to Start...",
+        "description": ""
+    },
+    "kahoot.firstPlace": {
+        "message": "First Place:",
+        "description": "To be used with a PlayerName after it"
+    },
+    "kahoot.points": {
+        "message": "Points:",
+        "description": "To be used with the amount of points after it"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "Questions Correct:",
+        "description": "To be used with the amount they got correct"
+    },
+    "kahoot.contentShowing": {
+        "message": "Showing Content:",
+        "description": ""
+    },
+    "kahoot.questionShowing": {
+        "message": "Question:",
+        "description": "To be used with a question number after it"
+    }
+}
