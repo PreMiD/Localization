@@ -334,5 +334,13 @@
 	"general.buttonViewProfile": {
 		"message": "Profiel bekijken",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Artiest bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Afspeellijst bekijken",
+		"description": "Used as the title for the button in Discord."
 	}
 }
