@@ -3,6 +3,10 @@
         "message": "หน้าหลัก",
         "description": "Home page of the site"
     },
+    "juniperbot.serverdashname": {
+        "message": "เซิร์ฟเวอร์: {0}",
+        "description": "Guild name"
+    },
     "juniperbot.servers": {
         "message": "กำลังเลือกเซิร์ฟเวอร์",
         "description": "Server selection page"
