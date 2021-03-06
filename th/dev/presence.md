@@ -14,7 +14,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 เวอร์ชัน `2.x` แนะนำให้ใช้ Presence จาก[ร้านค้า](https://premid.app/store) และตอนนี้ผู้ใช้สามารถเพิ่มและลบ Presence ที่ชื่นชอบได้ผ่านทางหน้า[เว็บไซต์](https://premid.app/)
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> ก่อนที่จะเริ่ม, ขอแนะนำอย่างสูงเลยว่าให้คุณไปดูแนวทางในการสร้าง Presence ของเราก่อน. 
 > 
 > {.is-warning}
 
@@ -41,11 +41,11 @@ dateCreated: 2020-06-11T18:04:02.843Z
 
 1. ไปที่โฟลเดอร์ `websites` จากนั้นไปที่ โฟลเดอร์ ที่มีอักษรตัวแรกเหมือนกับ **ชื่อ** ( ไม่ใช่ URL) เซอร์วิสที่คุณอยากเพิ่ม.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a `presence.ts` and a `tsconfig.json` file inside.
-4. Create a folder named `dist` inside.
-5. Create a `metadata.json` file inside the `dist` folder.
+3. สร้างไฟล์ `presence.ts` และ `tsconfig.json` ข้างใน
+4. สร้างโฟลเดอร์ชื่อว่า `dist` ข้างใน
+5. สร้างไฟล์ `metadata.json` ข้างในโฟลเดอร์ `dist`
 
-## Filling in the tsconfig.json file
+## ป้อนข้อมูลในไฟล์ tsconfig.json
 
 โปรดใส่โค้คต่อไปนี้ภายในไฟล์ `tsconfig.json`
 
@@ -58,11 +58,11 @@ dateCreated: 2020-06-11T18:04:02.843Z
 }
 ```
 
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+ถ้าต้องการที่จะเรียนรู้เพิ่มเติมเกี่ยวกับ Typescript คลิก [ที่นี่](/dev/presence/tsconfig)
 
-## Filling in the metadata.json file
+## ป้อนข้อมูลในไฟล์ metadata.json
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+เราได้ทำตัวสร้างไฟล์ `metadata.json` ไว้สำหรับคนขี้เกียจแล้ว [กดตรงนี้เลย](https://eggsy.xyz/projects/premid/mdcreator) แต่เราก็ยังคงแนะนำให้อ่านทั้งหมดนี้, เพื่อที่คุณจะได้รู้ว่ามันทำงานอย่างไร.
 
 ```json
 {
@@ -125,7 +125,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+โปรดคัดลอกโค้ดด้านบนและใส่ไปในไฟล์ `metadata.json`. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
 - `contributors`
 - `altnames`
@@ -215,13 +215,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">เชื่อมโยงไปยังโลโก้ของบริการ</td>
+      <td style="text-align:left">ลิ้งไปยังโลโก้ของบริการ</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">เชื่อมโยงไปยังภาพขนาดย่อของ presence ของคุณ</td>
+      <td style="text-align:left">ลิ้งไปยังภาพขนาดย่อของ presence ของคุณ</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
@@ -272,7 +272,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+เราได้ทำตัวสร้างไฟล์ `metadata.json` ไว้สำหรับคนขี้เกียจแล้ว [กดตรงนี้เลย](https://eggsy.xyz/projects/premid/mdcreator)
 
 ## เริ่มต้นกันเลย
 
