@@ -1,6 +1,6 @@
 ---
 title: Normas de las Presence
-description: Rules that all presence developers must follow to have their presence added.
+description: Reglas que todos los desarrolladores de Presences deben seguir para que su Presence sea añadida.
 published: verdadero
 date: 2021-02-26T21:45:36.174Z
 tags:
@@ -11,13 +11,13 @@ dateCreated: 2021-02-24T22:30:46.792Z
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
     <h3 style="font-size: 2rem; margin-bottom: 0">Normas de las Presence</h3>
-    <h4 style="margin-top: 0">Revision 3</h4>
+    <h4 style="margin-top: 0">Revisión 3</h4>
     <br />
 </div>
 
 # Directrices
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Para algunos, estás reglas pueden parecer estrictas. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Al publicar Presences en [nuestro repositorio de GitHub](https://github.com/PreMiD/Presences), necesitamos que sigas un conjunto de reglas. Para algunos, estás reglas pueden parecer estrictas. Sin embargo, la implementación de estos conjuntos de reglas nos impedirá a nosotros y a los usuarios encontrarse con cualquier problema.
 
 # Creación
 
@@ -31,12 +31,12 @@ Las reglas generales del desarrollo de una Presence son las siguientes:
 - El dominio de la presence debe tener al menos una antigüedad de 2 meses.
 - Presences que tienen como destino páginas internas del navegador (como Chrome Web Store, `chrome://`, páginas `about:`, etc.) **no** están permitidas ya que requieren que se habilite una configuración experimental en el lado del usuario y podría causar daños al navegador.
 - Las Presences con soporte para un solo subdominio **no** se permitirán, ya que pueden parecer rotas para otras páginas (como la página de inicio), se pueden hacer excepciones para la política y las paginas de contacto (contenido que no se usa con frecuencia) o sitios donde el otro contenido no este relacionado. (por ejemplo, paginas de wikia)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
+- Las Presences para radios en línea sólo están permitidas si la radio tiene al menos 100 oyentes semanales y 15 simultáneos. Además de esto debe tener alguna características extra aparte de mostrar el título del álbum/canción, etc.
 - Las presences de baja calidad (o las que tienen poco contexto) ** no ** están permitidas (p. ej., mostrar solo un logotipo y texto pero nunca volver a cambiarlo)
-- With the `buttons` release, we require some guidelines for them:
-  - Redirects to main page are prohibited.
-  - Promoting websites by them is prohibited.
-  - They can't show addinational data when you can't show them in `state` or `details`.
+- Requerimos algunas pautas con el lanzamiento de los `buttons`:
+  - No están permitidas redirecciones a páginas de inicio.
+  - No está permitido promover sitios web por medio de ello.
+  - No puede mostrar información adicional cuando esta no puede ser mostrada en las propiedades `state` o `details`.
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
 ```bash
