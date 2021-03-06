@@ -2,10 +2,10 @@
 title: Presence-Richtlinien
 description: Regeln, die alle Entwickler beachten müssen, damit ihre Presences hinzugefügt werden.
 published: true
-date: 2021-02-26T21:45:36.174Z
+date: 2021-03-06T15:01:04.274Z
 tags:
 editor: markdown
-dateCreated: 2021-02-24T22:30:46.792Z
+dateCreated: 2021-02-26T21:54:41.573Z
 ---
 
 <div align="center">
@@ -216,10 +216,10 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 - Wenn du dich dafür entscheidest, ein String-Format (zum Beispiel `%song% von %artist%`), müssen die Variablen von einem Prozentzeichen auf beiden Seiten umgeben sein. Variablen wie `%var`,`var%` oder `%%var%%` und alles dazwischen sind **nicht** erlaubt wegen der Standardisierung.
 - Der Name der Einstellungen muss **nicht** ausschließlich in Großbuchstaben sein. Zum Beispiel Namen wie `SHOW BROWSING STATUS` sind **nicht** erlaubt; jedenfalls sind Namen wie `Show Browsing Status` oder `Show browsing status` erlaubt.
-- Wenn du die Mehrsprachen-Option verwendest, solltest du wissen:
+- If you are using `multiLanguage` option you should know:
   - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
-  - **String** type value (e.g. `youtube.json`) will specify name of file that you want get strings from.
-  - **Array<String>** type value (e.g. `["youtube.json", "vlive.json"]`) will specify name of files that you want get strings from.
+  - **String** type value (e.g. `youtube`) will specify name of file that you want get strings from.
+  - **Array<String>** type value (e.g. `["youtube", "vlive"]`) will specify name of files that you want get strings from.
 
 ## [**presence.ts**](/dev/presence/class)
 
