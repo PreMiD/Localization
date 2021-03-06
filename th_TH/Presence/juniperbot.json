@@ -1,1 +1,14 @@
-{}
+{
+    "juniperbot.mainpage": {
+        "message": "หน้าหลัก",
+        "description": "Home page of the site"
+    },
+    "juniperbot.servers": {
+        "message": "กำลังเลือกเซิร์ฟเวอร์",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "กำลังดูรายการคำสั่งทั้งหมด",
+        "description": "Page with the list of bot's commands"
+    }
+}
