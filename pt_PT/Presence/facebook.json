@@ -1,6 +1,6 @@
 {
     "facebook.call": {
-        "message": "Em chamada com",
+        "message": "Numa chamada com:",
         "description": ""
     },
     "facebook.vcall": {
@@ -16,7 +16,7 @@
         "description": ""
     },
     "facebook.userAbout": {
-        "message": "A ler sobre o utilizador",
+        "message": "A ler sobre",
         "description": ""
     },
     "facebook.userCommunity": {
@@ -29,6 +29,22 @@
     },
     "facebook.userPosts": {
         "message": "A ver as publicações de",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "A ver a loja de",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "A ver os amigos de",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "A ver os vídeos de",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "A ver",
         "description": ""
     }
 }
