@@ -124,4 +124,4 @@ exit 0
 4. เปิดตัวติดตั้งอีกครั้ง
 
 # นั่นไม่ได้แก้ปัญหาของฉัน
-Please open a ticket in [#support](https://discord.premid.app/).
+กรุณาเปิด ticket ใน [#support](https://discord.premid.app/).
