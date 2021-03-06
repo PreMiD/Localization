@@ -59,7 +59,7 @@ Presence หลายอย่าง (พวก `Twitch` เเละ `SoundClon
 บางครั้งมีบางอย่างผิดปกติกับไฟล์ ตัวอย่างสำหรับการติดตั้งดูได้[ที่นี่](/install)
 
 ### ลบข้อมูลด้วยตัวเอง
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows: เขียน `%appdata%` ลงในแถบที่อยู่ของ File Explorer จากนั้นลบโฟลเดอร์ `PreMiD` ออกไป MacOS: ไปที่ `~/users/USER/~Library/Application Support/` จากนั้นลบโฟลเดอร์ `PreMiD` ออกไป
 
 ### McAfee ตรวจจับ PreMiD เป็นไวรัส (Windows)
 นี้คือข้อมูลที่ผิดของ McAfee ทางเราได้เเจ้งปัญหานี้ไปเเล้ว สําหรับตอนนี้คุณสามารถรัน PreMiD จากการสเเกนโดยการทําขั้นตอนต่อไปนี้
@@ -117,11 +117,11 @@ exit 0
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
+ถ้าคุณพบเจอข้อผิดพลาดนี้นั้นหมายความว่าบัญชีผู้ใช้ของคุณไม่มีสิทธิผู้ดูแลและคุณต้องสร้างโฟลเดอร์ด้วยตนเองโดยการทำตามขั้นตอนดังนี้:
+1. เปิด Finder จากนั้นเปิดโฟลเดอร์ **Applications**
+2. คลิกขวาบนพื้นที่ว่างจากนั้นคลิก **สร้างโฟลเดอร์**
 3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+4. เปิดตัวติดตั้งอีกครั้ง
 
 # นั่นไม่ได้แก้ปัญหาของฉัน
 Please open a ticket in [#support](https://discord.premid.app/).
