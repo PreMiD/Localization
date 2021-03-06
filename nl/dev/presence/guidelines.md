@@ -216,7 +216,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 
 - Als je besluit om een indelingsstring te maken (bijvoorbeeld `%song% by %artist%`), moet je de variabelen omgeven door een procentteken aan beide zijden. Variabelen zoals `%var`, `var%`, of `%%var%%` en alles ertussenin, zijn **niet** toegestaan omwille van normalisatie.
 - De namen van de instellingen mogen **niet** in alle hoofdletters staan. Namen zoals `LAAT BROWSING STATUS ZIEN` zullen **niet** toegestaan zijn; Namen zoals `Laat Browsing Status Zien` of `Laat browsing status zien` zijn echter toegestaan.
-- If you are using `multiLanguage` option you should know:
+- Als je de `multiLanguage` optie gebruikt, moet je het volgende weten:
   - Waarde met het type **Boolean** zal alleen tekenreeksen van [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) van de lokalisatierepo of het presence-bestand (bijv. als de presence-naam YouTube is, zal de extensie ook tekenreeksen ophalen uit `youtube.json`) ophalen.
   - Waarde met het type **String** (bijv. `youtube`) geeft de bestandsnaam voor het ophalen van tekenreeksen op.
   - Waarde met het type **Array<String>** (bijv. `["youtube", "vlive"]`) geeft de bestandsnamen voor het ophalen van tekenreeksen op.
