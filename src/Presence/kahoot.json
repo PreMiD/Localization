@@ -67,9 +67,9 @@
         "message": "Questions Correct: {0}",
         "description": "Used to display how many questions a user got correct"
     },
-    "kahoot.contentShowing": {
-        "message": "Showing Content:",
-        "description": "Used when the host is showing content from a Kahoot Lesson"
+    "kahoot.slideShowing": {
+        "message": "Showing Slide:",
+        "description": "Used when the host is showing a slide from a Kahoot without a need to answer"
     },
     "kahoot.questionShowing": {
         "message": "Question: {0}",
