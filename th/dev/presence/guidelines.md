@@ -1,5 +1,5 @@
 ---
-title: Presence Guidelines
+title: แนวทางในการสร้าง Presence
 description: Rules that all presence developers must follow to have their presence added.
 published: true
 date: 2021-02-26T21:45:36.174Z
@@ -10,14 +10,14 @@ dateCreated: 2021-02-24T22:30:46.792Z
 
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
-    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Guidelines</h3>
+    <h3 style="font-size: 2rem; margin-bottom: 0">แนวทางในการสร้าง Presence</h3>
     <h4 style="margin-top: 0">Revision 3</h4>
     <br />
 </div>
 
 # แนวทาง
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. สำหรับบางคนกฎนี้อาจเข้มงวดและรุนแรงเกินไป However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. สำหรับบางคนกฎนี้อาจเข้มงวดและรุนแรงเกินไป อย่างไรก็ตามการดำเนินการตามกฎเหล่านี้จะทำให้เราและผู้ใช้จะไม่พบเจอปัญหาใด ๆ
 
 # การสร้าง
 
@@ -207,7 +207,7 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`คำเตือน`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
@@ -297,22 +297,22 @@ A few things you should know after opening a pull request:
 
 ![Checks](https://i.imgur.com/oqAakOc.png)
 
-Currently, a presence goes through 3 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+ปัจจุบัน, Presence จะต้องผ่านการตรวจสอบ 3 ขั้นตอน. All of these checks help the reviewers determine whether your presence is suitable for deployment.
 
-- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
+- `Codacy` คือบอทที่จะตรวจสอบคุณภาพของโค้ด. หากคุณพบว่ามีข้อผิดพลาดเกิดขี้น, คุณ**จำเป็น**ต้องแก้ไขพวกมัน. (_คำเตือน: บอท Codacy จะถูกเลิกใช้เร็วๆนี้และคุณจะต้องดูข้อผิดพลาดจาก DeepScan เท่านั้น!_)
+- `DeepScan` คือบอทที่จะตรวจสอบคุณภาพของโค้ด. หากคุณพบว่ามีข้อผิดพลาดเกิดขี้น, คุณ**จำเป็น**ต้องแก้ไขพวกมัน.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Additional Rules`
+## `กฎเพิ่มเติม`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Suggestions
+# ข้อเสนอแนะ
 If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
 
-# Contributions
+# ผู้ที่มีส่วนช่วยเหลือทั้งหมด
 
 `Revision 3` of the guidelines was written and was contributed to by the following individuals:
 
