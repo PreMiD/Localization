@@ -12,7 +12,7 @@
 		"description": "Error (4) message"
 	},
 	"error.code.500": {
-		"message": "ইন্টারনাল সার্ভারে Error ঘটেছে।",
+		"message": "ইন্টারনাল সার্ভারে ত্রুটি ঘটেছে।",
 		"description": "Error (500) message"
 	},
 	"error.page.details": {
