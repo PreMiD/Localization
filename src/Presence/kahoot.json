@@ -1,8 +1,8 @@
 {
-	"kahoot.buttonJoinGame": {
-		"message": "Join Game: {0}",
-		"description": "Used as the title for the button in Discord."
-	},
+    "kahoot.buttonJoinGame": {
+	"message": "Join Game: {0}",
+	"description": "Used as the title for the button in Discord."
+    },
     "kahoot.joiningGame": {
         "message": "Joining Game...",
         "description": "Used when a user is joining a Kahoot Game."
