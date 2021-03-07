@@ -216,10 +216,10 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 
 - Jika anda memutuskan untuk membuat rentetan format (sbg. cth., `%song% by %artist%`), anda mesti meletakkan pemboleh ubah yang diapit dengan tanda peratus di kedua-dua sisi. Pemboleh ubah seperti `%var`, `var%`, atau `%%var%%` dan lain-lain yang serupa **tidak** dibenarkan untuk tujuan pemiawaian.
 - Nama tetapan **tidak** patut berhuruf besar semata-mata. Sebagai contoh, nama seperti `SHOW BROWSING STATUS` itu **tidak** akan dibenarkan; tetapi, nama seperti `Show Browsing Status` atau `Show browsing status` dibenarkan.
-- If you are using `multiLanguage` option you should know:
+- Jika anda menggunakan pilihan `multiLanguage`, anda patut tahu:
   - Nilai jenis **Boolean** hanya membolehkan rentetan daripada [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) di repositori Penyetempatan atau daripada fail Presence (cth. apabila nama Presence ialah YouTube, sambungan akan dapatkan rentetan daripada fail `youtube.json` juga.)
-  - **String** type value (e.g. `youtube`) will specify name of file that you want get strings from.
-  - **Array<String>** type value (e.g. `["youtube", "vlive"]`) will specify name of files that you want get strings from.
+  - Nilai jenis rentetan **String** (cth. `youtube`) akan menyatakan nama fail yang mana anda ingin dapatkan rentetan tersebut.
+  - Nilai jenis tatasusunan **Array<String>** (cth. `["youtube", "vlive"]`) akan menyatakan nama bagi kesemua fail berkaitan yang anda ingin dapatkan rentetan tersebut.
 
 ## [**presence.ts**](/dev/presence/class)
 
