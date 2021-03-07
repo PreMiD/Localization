@@ -215,11 +215,11 @@ Hieronder vindt u een lijst met velden en hun regels:
 ### **`settings`**
 
 - Als je besluit om een indelingsstring te maken (bijvoorbeeld `%song% by %artist%`), moet je de variabelen omgeven door een procentteken aan beide zijden. Variabelen zoals `%var`, `var%`, of `%%var%%` en alles ertussenin, zijn **niet** toegestaan omwille van normalisatie.
-- The name of the settings must **not** be in all capital letters. Namen zoals `LAAT BROWSING STATUS ZIEN` zullen **niet** toegestaan zijn; Namen zoals `Laat Browsing Status Zien` of `Laat browsing status zien` zijn echter toegestaan.
-- If you are using the `multiLanguage` option it can have the following types:
-  - **Boolean** type which will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from the Localization repo or from the presence file (e.g. when the name of the presence is YouTube, the extension will get strings from `youtube.json` too.)
-  - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
-  - **Array<String>** type (e.g. `["youtube", "discord"]`) which will specify the name of the files that you want to get strings from.
+- De namen van de instellingen mogen **niet** in alle hoofdletters staan. Namen zoals `LAAT BROWSING STATUS ZIEN` zullen **niet** toegestaan zijn; Namen zoals `Laat Browsing Status Zien` of `Laat browsing status zien` zijn echter toegestaan.
+- Als je de `multiLanguage` optie gebruikt, moet je het volgende weten:
+  - Waarde met het type **Boolean** zal alleen tekenreeksen van [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) van de lokalisatierepo of het presence-bestand (bijv. als de presence-naam YouTube is, zal de extensie ook tekenreeksen ophalen uit `youtube.json`) ophalen.
+  - Waarde met het type **String** (bijv. `youtube`) geeft de bestandsnaam voor het ophalen van tekenreeksen op.
+  - Waarde met het type **Array<String>** (bijv. `["youtube", "discord"]`) geeft de bestandsnamen voor het ophalen van tekenreeksen op.
 
 ## [**presence.ts**](/dev/presence/class)
 
