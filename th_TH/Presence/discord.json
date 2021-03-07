@@ -103,6 +103,14 @@
 		"message": "ศูนย์ช่วยเหลือ",
 		"description": ""
 	},
+	"discord.blog": {
+		"message": "บล็อกของ Discord",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "สินค้าของ Discord",
+		"description": ""
+	},
 	"discord.merch.collection": {
 		"message": "กำลังดูคอลเล็กชั่น:",
 		"description": ""
