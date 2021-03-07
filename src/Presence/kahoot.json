@@ -36,8 +36,8 @@
         "description": "Used when a user is looking at the results of the question they just answered"
     },
     "kahoot.slideViewing": {
-        "message": "Looking at Slide:",
-        "description": "Used when a user is looking at content in a Kahoot Lesson"
+        "message": "Looking at Slide with Content:",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
     },
     "kahoot.gameOver": {
         "message": "Game Over",
@@ -64,8 +64,8 @@
         "description": "Used to display how many questions a user got correct"
     },
     "kahoot.slideShowing": {
-        "message": "Showing Slide:",
-        "description": "Used when the host is showing a slide from a Kahoot without a need to answer"
+        "message": "Showing Slide with Content:",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "Question: {0}",
