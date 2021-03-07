@@ -1,1 +1,26 @@
-{}
+{
+    "kahoot.buttonJoinGame": {
+        "message": "Присоединиться к игре: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.joiningGame": {
+        "message": "Присоединение к игре...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.waiting": {
+        "message": "Ожидание начала...",
+        "description": "Used when the user is waiting for a Kahoot Game to start"
+    },
+    "kahoot.gameStarting": {
+        "message": "Игра начинается!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "Играет...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.questionLoading": {
+        "message": "Следующая загрузка вопросов...",
+        "description": "Used when the next question is loading"
+    }
+}
