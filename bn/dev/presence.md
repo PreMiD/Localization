@@ -27,7 +27,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## ইন্সটলেশন
 
-1. ইন্সটল করো [Git](https://git-scm.com/)।
+1. ইন্সটল করো [Git](https://git-scm.com/).
 2. ইন্সটল করো [Node](https://nodejs.org/en/) ([npm](https://www.npmjs.com/) এর সাথে আসে)।
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
