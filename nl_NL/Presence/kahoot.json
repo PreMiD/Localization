@@ -35,10 +35,6 @@
         "message": "Bekijkt de resultaten:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
-    "kahoot.slideViewing": {
-        "message": "Bekijkt dia:",
-        "description": "Used when a user is looking at content in a Kahoot Lesson"
-    },
     "kahoot.gameOver": {
         "message": "Spel afgelopen",
         "description": "Used when the Game is finished"
@@ -62,10 +58,6 @@
     "kahoot.questionsCorrect": {
         "message": "Vragen juist: {0}",
         "description": "Used to display how many questions a user got correct"
-    },
-    "kahoot.slideShowing": {
-        "message": "Toont dia:",
-        "description": "Used when the host is showing a slide from a Kahoot without a need to answer"
     },
     "kahoot.questionNumber": {
         "message": "Vraag: {0}",
