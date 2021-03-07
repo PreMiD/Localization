@@ -216,9 +216,9 @@ Una lista de los campos y sus reglas están listadas abajo:
 
 - Si decides formatear un string (p.e., `%song% por%artist%`), debes rodear las variables por símbolos de porcentaje en cada lado. Variables como `%var`, `var%`, `%%var%%` o cualquier cosa intermedia **no** está permitido por el bien de la estandarización.
 - El nombre de la configuración **no** debe estar completamente en mayúsculas. Por ejemplo, nombre como `MOSTRAR ESTADO` **no** serán permitidos. En cambio nombre como `Mostrar Estado` o `Mostrar estado` sí están permitidos.
-- If you are using `multiLanguage` option you should know:
+- Si estás usando la opción `multiLanguage` deberías saber:
   - Un valor de tipo **boolean** habilitará sólo strings de [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) del repositorio de Localization o del archivo de la presence (p.e. cuando el nombre de la presence es YouTube, la extensión obtendrá también valores de `youtube.json`)
-  - **String** type value (e.g. `youtube`) will specify name of file that you want get strings from.
+  - Un valor de tipo **string** (p.e `youtube`) especifica el nombre del archivo del cual se obtendrán los strings.
   - **Array<String>** type value (e.g. `["youtube", "vlive"]`) will specify name of files that you want get strings from.
 
 ## [**presence.ts**](/dev/presence/class)
