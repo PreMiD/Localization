@@ -1,6 +1,6 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Presence Ontwikkelaar",
+		"message": "Presenceontwikkelaar",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
@@ -8,7 +8,7 @@
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Belangrijke presence Ontwikkelaar",
+		"message": "Belangrijke presenceontwikkelaar",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
@@ -16,11 +16,11 @@
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Geniale presence Ontwikkelaar",
+		"message": "Geniale presenceontwikkelaar",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
-		"message": "Heeft meer dan 100 presences gemaakt!",
+		"message": "Meer dan 100 presences gemaakt!",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
