@@ -167,6 +167,10 @@
 		"message": "Viewing manga:",
 		"description": ""
 	},
+	"general.viewCharacter": {
+		"message": "Viewing character:",
+		"description": ""
+	},
 	"general.viewMember": {
 		"message": "Viewing member:",
 		"description": ""
