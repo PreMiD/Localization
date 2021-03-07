@@ -1,6 +1,6 @@
 {
     "kahoot.buttonJoinGame": {
-        "message": "เข้าเกม: {0}",
+        "message": "เข้าร่วมเกม: {0}",
         "description": "Used as the title for the button in Discord. {0} is the Game ID"
     },
     "kahoot.joiningGame": {
