@@ -216,9 +216,9 @@ presence
 
 - Если вы решите сделать строку формата (например: `%song% от %artist%`), вы должны иметь переменные окружённый знаком процента с любой стороны. Переменные, такие как `%var`, `var%`, или `%%var%%` и всё что между ними, являются **не** допускаемым в целях стандартизации.
 - Название настроек **не** будьте со всеми заглавными буквами. Например, такие имена как `ПОКАЗАТЬ СТАТУС ПРОСМОТРА` будем **не** быть разрешенным; однако такие имена, как `Показать статус просмотра` или `Показать статус просмотра` разрешены.
-- If you are using the `multiLanguage` option it can have the following types:
+- Если вы используете опцию `мультиязычный` он может иметь следующие типы:
   - **Bolean** значение типа будет включать только строки из [`общих. son`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) из репозитория локализации или из файла присутствия (e.. когда имя присутствия является YouTube, расширение будет получать строки из `youtube.json` тоже.)
-  - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
+  - **String** (например, `youtube`), в котором будет указано имя файлов, из которых вы хотите получить строки.
   - **Array<String>** type (e.g. `["youtube", "discord"]`) which will specify the name of the files that you want to get strings from.
 
 ## [**presence.ts**](/dev/presence/class)
