@@ -46,5 +46,17 @@
     "facebook.browse": {
         "message": "A ver",
         "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "os vídeos gravados",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "os adicionados recentemente",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "A ver o tempo de hoje",
+        "description": ""
     }
 }
