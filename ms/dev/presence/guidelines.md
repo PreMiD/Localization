@@ -219,7 +219,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 - Jika anda menggunakan pilihan `multiLanguage`, anda patut tahu:
   - Nilai jenis **Boolean** hanya membolehkan rentetan daripada [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) di repositori Penyetempatan atau daripada fail Presence (cth. apabila nama Presence ialah YouTube, sambungan akan dapatkan rentetan daripada fail `youtube.json` juga.)
   - Nilai jenis rentetan **String** (cth. `youtube`) akan menyatakan nama fail yang mana anda ingin dapatkan rentetan tersebut.
-  - Nilai jenis tatasusunan **Array<String>** (cth. `["youtube", "vlive"]`) akan menyatakan nama bagi kesemua fail berkaitan yang anda ingin dapatkan rentetan tersebut.
+  - Nilai jenis tatasusunan **Array<String>** (cth. `["youtube", "discord"]`) akan menyatakan nama bagi kesemua fail berkaitan yang anda ingin dapatkan rentetan tersebut.
 
 ## [**presence.ts**](/dev/presence/class)
 

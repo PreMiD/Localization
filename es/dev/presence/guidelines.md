@@ -215,11 +215,11 @@ Una lista de los campos y sus reglas están listadas abajo:
 ### **`ajustes`**
 
 - Si decides formatear un string (p.e., `%song% por%artist%`), debes rodear las variables por símbolos de porcentaje en cada lado. Variables como `%var`, `var%`, `%%var%%` o cualquier cosa intermedia **no** está permitido por el bien de la estandarización.
-- El nombre de la configuración **no** debe estar completamente en mayúsculas. Por ejemplo, nombre como `MOSTRAR ESTADO` **no** serán permitidos. En cambio nombre como `Mostrar Estado` o `Mostrar estado` sí están permitidos.
-- Si estás usando la opción `multiLanguage` deberías saber:
-  - Un valor de tipo **boolean** habilitará sólo strings de [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) del repositorio de Localization o del archivo de la presence (p.e. cuando el nombre de la presence es YouTube, la extensión obtendrá también valores de `youtube.json`)
-  - Un valor de tipo **string** (p.e `youtube`) especifica el nombre del archivo del cual se obtendrán los strings.
-  - **Array<String>** type value (e.g. `["youtube", "vlive"]`) will specify name of files that you want get strings from.
+- The name of the settings must **not** be in all capital letters. Por ejemplo, nombre como `MOSTRAR ESTADO` **no** serán permitidos. En cambio nombre como `Mostrar Estado` o `Mostrar estado` sí están permitidos.
+- If you are using the `multiLanguage` option it can have the following types:
+  - **Boolean** type which will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from the Localization repo or from the presence file (e.g. when the name of the presence is YouTube, the extension will get strings from `youtube.json` too.)
+  - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
+  - **Array<String>** type (e.g. `["youtube", "discord"]`) which will specify the name of the files that you want to get strings from.
 
 ## [**presence.ts**](/dev/presence/class)
 

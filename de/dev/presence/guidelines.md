@@ -216,10 +216,10 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 - Wenn du dich dafür entscheidest, ein String-Format (zum Beispiel `%song% von %artist%`), müssen die Variablen von einem Prozentzeichen auf beiden Seiten umgeben sein. Variablen wie `%var`,`var%` oder `%%var%%` und alles dazwischen sind **nicht** erlaubt wegen der Standardisierung.
 - Der Name der Einstellungen muss **nicht** ausschließlich in Großbuchstaben sein. Zum Beispiel Namen wie `SHOW BROWSING STATUS` sind **nicht** erlaubt; jedenfalls sind Namen wie `Show Browsing Status` oder `Show browsing status` erlaubt.
-- If you are using `multiLanguage` option you should know:
-  - **Boolean** type value will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from Localization repo or from presence file (e.g. when presence name is YouTube, extension will get strings from `youtube.json` too.)
-  - **String** type value (e.g. `youtube`) will specify name of file that you want get strings from.
-  - **Array<String>** type value (e.g. `["youtube", "vlive"]`) will specify name of files that you want get strings from.
+- If you are using the `multiLanguage` option it can have the following types:
+  - **Boolean** type which will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from the Localization repo or from the presence file (e.g. when the name of the presence is YouTube, the extension will get strings from `youtube.json` too.)
+  - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
+  - **Array<String>** type (e.g. `["youtube", "discord"]`) which will specify the name of the files that you want to get strings from.
 
 ## [**presence.ts**](/dev/presence/class)
 
