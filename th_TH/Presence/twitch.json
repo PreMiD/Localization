@@ -15,9 +15,17 @@
 		"message": "หน้าหลัก",
 		"description": "Page name"
 	},
+	"twitch.viewSettings": {
+		"message": "กำลังดูการตั้งค่าของเขา...",
+		"description": ""
+	},
 	"twitch.viewFriends": {
 		"message": "กำลังดูเพื่อนของเขา...",
 		"description": ""
+	},
+	"twitch.campMusic": {
+		"message": "เพลงบน Twitch",
+		"description": "Page name"
 	},
 	"twitch.viewTheir": {
 		"message": "กําลังเรียกดู",
