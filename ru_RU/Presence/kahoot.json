@@ -22,5 +22,13 @@
     "kahoot.questionLoading": {
         "message": "Следующая загрузка вопросов...",
         "description": "Used when the next question is loading"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "Неправильный ответ",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "Правильный ответ",
+        "description": "Used when the user anwered correct on a question"
     }
 }
