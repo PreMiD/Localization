@@ -342,5 +342,9 @@
 	"general.buttonViewPlaylist": {
 		"message": "Lihat Senarai Main",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Lihat Audio Siar",
+		"description": "Used as the title for the button in Discord."
 	}
 }
