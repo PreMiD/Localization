@@ -7,6 +7,10 @@
 		"message": "Parceiros",
 		"description": "Page name"
 	},
+	"twitch.home": {
+		"message": "Página inicial",
+		"description": "Page name"
+	},
 	"twitch.viewDropsInv": {
 		"message": "A ver o seu inventário de drops...",
 		"description": ""
