@@ -84,15 +84,15 @@
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Viendo analíticas de video:",
+        "message": "Viendo analíticas del video:",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Viendo comentarios de video:",
+        "message": "Viendo los comentarios del video:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "Viendo traducciones de video:",
+        "message": "Viendo las traducciones del video:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
