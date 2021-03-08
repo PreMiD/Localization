@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
-> Antes de nada, verifica que el equipo cumple todos los [requisitos](/install/requirements). 
+> Antes de nada, verifica que tu sistema cumpla todos los [requisitos](/install/requirements). 
 > 
 > {.is-info}
 
@@ -22,7 +22,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 - [Kernel Linux *v2.x o superior*](/install/linux)
 {.links-list}
 
-**Escoge un navegador:**
+**Escoge tu navegador:**
 - [Chromium*v76 o superior*](/install/chromium)
 - [Firefox *v69 o superior*](/install/firefox)
 {.links-list}
