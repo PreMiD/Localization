@@ -13,7 +13,7 @@
   },
   "google classroom.assignmentPrivate": {
     "message": "Viewing an assignment",
-    "description": "Displayed when the user is viewing an assignment and their privacy mode is on"
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.assignment": {
     "message": "Viewing an assignment in:",
@@ -25,7 +25,7 @@
   },
   "google classroom.classworkPrivate": {
     "message": "Viewing classwork",
-    "description": "Displayed when a user is viewing classwork and their privacy mode is on"
+    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.classwork": {
     "message": "Viewing classwork of:",
@@ -33,7 +33,7 @@
   },
   "google classroom.classmembersPrivate": {
     "message": "Viewing class members",
-    "description": "Displayed when a user is viewing class members and their privacy mode is on"
+    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.classmembers": {
     "message": "Vewing class members of:",
