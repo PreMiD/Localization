@@ -4,7 +4,7 @@
     "description": "Short description in extension store"
   },
   "extension.description.full": {
-    "message": "TIENES QUE INSTALAR NUESTRA APLICACIÓN OFICIAL PARA QUE FUNCIONE\n    {0} {1}\n\nPuedes usar tus teclas multimedia para controlar la reproducción de estos servicios. Cuando veas/escuches algo con uno de nuestros servicios compatibles, la extensión del navegador envía los metadatos del video/canción a nuestro cliente de escritorio y PreMiD lo procesa. PreMiD envía la información a Discord con la forma correcta y luego establece automáticamente tu estado.\nServicios soportados\n    {2} Echa un vistazo a {3}\n\n¿Necesitas ayuda?\n   {4} {5}\n\nNuestro servidor de Discord\n   {6} Habla con la gente detrás de PreMiD{7}\n\n¡Somos Open Source!\n   {9} Las cosas geniales deberían estar abiertas al público{10}",
+    "message": "TIENES QUE INSTALAR NUESTRA APLICACIÓN OFICIAL PARA QUE FUNCIONE\n    {0} {1}\n\nPuedes usar tus teclas multimedia para controlar la reproducción de estos servicios. Cuando veas o escuches algo con uno de nuestros servicios compatibles, la extensión del navegador envía los metadatos del video o canción a nuestro cliente de escritorio y PreMiD lo procesa. PreMiD envía la información a Discord con la forma correcta y luego establece automáticamente tu estado.\nServicios soportados\n    {2} Echa un vistazo a {3}\n\n¿Necesitas ayuda?\n   {4} {5}\n\nNuestro servidor de Discord\n   {6} Habla con la gente detrás de PreMiD{7}\n\n¡Somos Open Source!\n   {9} Las cosas geniales deberían estar abiertas al público{10}",
     "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
