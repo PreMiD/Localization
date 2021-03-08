@@ -1,0 +1,16 @@
+pull_request_rules:
+  - name: Automatic merge when the pull request has been approved.
+    conditions:
+      - base=documentation
+      - "#approved-reviews-by>=2"
+      - status-success=deepcode-ci-bot
+    actions:
+      merge:
+        method: squash
+  - name: Automatic merge when the pull request is made by SeMiD.
+    conditions:
+      - base=documentation
+      - author=SeMiD
+    actions:
+      merge:
+        method: squash
