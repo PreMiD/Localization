@@ -16,11 +16,11 @@
         "description": ""
     },
     "facebook.userAbout": {
-        "message": "Leyendo sobre usuario:",
+        "message": "Leyendo sobre el usuario:",
         "description": ""
     },
     "facebook.userCommunity": {
-        "message": "Viendo comunidad de usuario:",
+        "message": "Viendo la comunidad de usuario:",
         "description": ""
     },
     "facebook.userPics": {
@@ -28,7 +28,7 @@
         "description": ""
     },
     "facebook.userPosts": {
-        "message": "Viendo publicaciones de usuario:",
+        "message": "Viendo publicaciones del usuario:",
         "description": ""
     },
     "facebook.userShop": {
@@ -40,7 +40,7 @@
         "description": ""
     },
     "facebook.userVids": {
-        "message": "Viendo videos de usuario:",
+        "message": "Viendo videos del usuario:",
         "description": ""
     },
     "facebook.browse": {
