@@ -1,6 +1,6 @@
 {
 	"report.title": {
-		"message": "Informar de un fallo",
+		"message": "Informar de un error",
 		"description": "Text to indicate the page."
 	},
 	"report.bugcount": {
