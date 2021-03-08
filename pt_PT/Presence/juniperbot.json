@@ -1,4 +1,8 @@
 {
+    "juniperbot.mainpage": {
+        "message": "Página principal",
+        "description": "Home page of the site"
+    },
     "juniperbot.leaderboard": {
         "message": "A ver as classificações do servidor:",
         "description": "Guild leaderboard page"
