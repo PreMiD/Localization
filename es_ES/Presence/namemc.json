@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"namemc.viewEmojis": {
-		"message": "Viendo sus emojis de perfil",
+		"message": "Viendo sus emojis del perfil",
 		"description": "You can have an emoji next to your name, you select it here."
 	}
 }
