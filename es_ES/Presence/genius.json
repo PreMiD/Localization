@@ -8,11 +8,11 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"genius.viewHome": {
-		"message": "Viendo la página de inicio",
+		"message": "Viendo la página principal",
 		"description": ""
 	},
 	"genius.viewAlbum": {
-		"message": "Viendo álbum:",
+		"message": "Viendo el álbum:",
 		"description": "Album of a song"
 	}
 }
