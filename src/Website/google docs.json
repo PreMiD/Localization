@@ -45,7 +45,7 @@
     },
     "google docs.browsingingSlide": {
         "message": "Browsing presentation",
-        "description": "Displayed when the user is browsing their Google Slides"
+        "description": "Displayed when the user is browsing their Google presentation"
     }
 
 }
