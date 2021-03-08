@@ -1,0 +1,46 @@
+{
+  "google classroom.home": {
+    "message": "Homepage",
+    "description": "Displayed when the user is on the home page"
+  },
+  "google classroom.calendar": {
+    "message": "Viewing the calendar",
+    "description": "Displayed when the user viewing their calendar"
+  },
+  "google classroom.todo": {
+    "message": "Viewing to-do list",
+    "description": "Displayed when the user is viewing their to-do list"
+  },
+  "google classroom.assignmentPrivate": {
+    "message": "Viewing an assignment",
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on"
+  },
+  "google classroom.assignment": {
+    "message": "Viewing an assignment in",
+    "description": "Displayed when the user is viewing an assignment"
+  },
+  "google classroom.class": {
+    "message": "Viewing class",
+    "description": "Displayed when a user is viewing a class"
+  },
+  "google classroom.classworkPrivate": {
+    "message": "Viewing classwork",
+    "description": "Displayed when a user is viewing classwork and their privacy mode is on"
+  },
+  "google classroom.classwork": {
+    "message": "Viewing classwork of",
+    "description": "Displayed when a user is viewing classwork"
+  },
+  "google classroom.classmembersPrivate": {
+    "message": "Viewing class members",
+    "description": "Displayed when a user is viewing class members and their privacy mode is on"
+  },
+  "google classroom.classmembers": {
+    "message": "Vewing class members of",
+    "description": "Displayed when a user is viewing class members"
+  },
+  "google classroom.settings": {
+    "message": "Configuring settings",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
+  }
+}
