@@ -37,11 +37,11 @@
     },
     "google docs.editingSlide": {
         "message": "Editing a presentation",
-        "description": "Displayed when the user is editing a Google Slide"
+        "description": "Displayed when the user is editing a Google presentation"
     },
     "google docs.viewingSlide": {
         "message": "Viewing a presentation",
-        "description": "Displayed when the user is editing a Google Slide"
+        "description": "Displayed when the user is viewing a Google presentation"
     },
     "google docs.browsingingSlide": {
         "message": "Browsing presentation",
