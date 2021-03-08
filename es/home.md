@@ -26,7 +26,7 @@ PreMiD es fácil y rápido de instalar. Terminarás en un abrir y cerrar de ojos
 
 # Desarrolladores
 
-Tienes una guiía de [primeros pasos](/dev) antes de comenzar con el desarrollo de PreMiD.
+Tienes una guía de [primeros pasos](/dev) antes de comenzar con el desarrollo de PreMiD.
 
 - :computer: [API](/dev/api): Accede a recursos y realiza acciones por medio de la API de PreMiD.
 - :wrench: [Desarrollo de Presences](/dev/presence): Aprende a usar nuestro sistema de Presences.
