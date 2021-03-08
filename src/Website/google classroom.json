@@ -1,8 +1,4 @@
 {
-  "google classroom.home": {
-    "message": "Homepage",
-    "description": "Displayed when the user is on the home page"
-  },
   "google classroom.calendar": {
     "message": "Viewing the calendar",
     "description": "Displayed when the user viewing their calendar"
