@@ -277,7 +277,7 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 ## Aan de slag
 
 ```typescript
-cosnt presence = new presence({
+const presence = new presence({
     clientId: "000000000000000000" //De client ID van de Applicatie gemaakt op https://discordapp.com/developers/applications
   }),
   strings = presence.getStrings({
