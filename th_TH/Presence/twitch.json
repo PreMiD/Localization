@@ -11,6 +11,10 @@
 		"message": "ความปลอดภัย",
 		"description": "Page name"
 	},
+	"twitch.guidelines": {
+		"message": "หลักเกณฑ์ของชุมชน",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "หน้าหลัก",
 		"description": "Page name"
