@@ -377,7 +377,7 @@ presence.on("iFrameData", (data) => {
 
 ## Compiling
 
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+เปิด console ในโฟลเดอร์ของคุณแล้วพิมพ์ `tsc -w` เพื่อ compile `presence.ts` เข้าไปโฟลเดอร์ `/dist`.
 
 # Loading the presence
 
