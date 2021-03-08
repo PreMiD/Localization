@@ -20,7 +20,7 @@
         "description": "Displayed when the user is viewing a Google Form"
     },
     "google docs.browsingForm": {
-        "message": "Browsing Forms",
+        "message": "Browsing forms",
         "description": "Displayed when the user is browsing their Google Forms"
     },
     "google docs.editingSheet": {
