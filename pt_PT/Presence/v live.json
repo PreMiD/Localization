@@ -11,6 +11,10 @@
 		"message": "a página de gráficos",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.channelHome": {
+		"message": "A ver a página principal",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.profileEdit": {
 		"message": "A editar{0}o seu perfil",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
