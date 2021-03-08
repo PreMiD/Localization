@@ -44,7 +44,7 @@
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
-    "message": "Reportar un Bug",
+    "message": "Reportar un error",
     "description": "Report a bug button"
   },
   "header.staff": {
