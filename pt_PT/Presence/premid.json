@@ -1,4 +1,8 @@
 {
+	"premid.pageHome": {
+		"message": "Página inicial",
+		"description": "A page name"
+	},
 	"premid.pageContributors": {
 		"message": "Contribuidores",
 		"description": "A page name"
