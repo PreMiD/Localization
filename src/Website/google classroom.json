@@ -16,7 +16,7 @@
     "description": "Displayed when the user is viewing an assignment and their privacy mode is on"
   },
   "google classroom.assignment": {
-    "message": "Viewing an assignment in",
+    "message": "Viewing an assignment in:",
     "description": "Displayed when the user is viewing an assignment"
   },
   "google classroom.class": {
@@ -28,7 +28,7 @@
     "description": "Displayed when a user is viewing classwork and their privacy mode is on"
   },
   "google classroom.classwork": {
-    "message": "Viewing classwork in",
+    "message": "Viewing classwork of:",
     "description": "Displayed when a user is viewing classwork"
   },
   "google classroom.classmembersPrivate": {
@@ -36,7 +36,7 @@
     "description": "Displayed when a user is viewing class members and their privacy mode is on"
   },
   "google classroom.classmembers": {
-    "message": "Vewing class members in",
+    "message": "Vewing class members of:",
     "description": "Displayed when a user is viewing class members"
   },
   "google classroom.settings": {
