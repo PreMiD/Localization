@@ -68,7 +68,7 @@
 		"description": "The first part of the next 6 strings"
 	},
 	"v live.profile": {
-		"message": "página de perfil",
+		"message": "página del perfil",
 		"description": "The second part of the \"Viewing their\" string"
 	},
 	"v live.watched": {
