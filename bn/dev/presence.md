@@ -141,7 +141,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <thead>
     <tr>
       <th style="text-align:left">Variable</th>
-      <th style="text-align:left">ডিসক্রিপশন</th>
+      <th style="text-align:left">বিবরণ</th>
       <th style="text-align:left">ধরন</th>
       <th style="text-align:left">Optional</th>
     </tr>
