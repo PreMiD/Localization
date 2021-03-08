@@ -8,7 +8,7 @@
     "description": "Displayed when the user viewing their calendar"
   },
   "google classroom.todo": {
-    "message": "Viewing to-do list",
+    "message": "Viewing to do list",
     "description": "Displayed when the user is viewing their to-do list"
   },
   "google classroom.assignmentPrivate": {
