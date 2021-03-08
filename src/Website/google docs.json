@@ -36,15 +36,15 @@
         "description": "Displayed when the user is browsing their Google Sheets"
     },
     "google docs.editingSlide": {
-        "message": "Editing a slidesheet",
+        "message": "Editing a presentation",
         "description": "Displayed when the user is editing a Google Slide"
     },
     "google docs.viewingSlide": {
-        "message": "Viewing a slidesheet",
+        "message": "Viewing a presentation",
         "description": "Displayed when the user is editing a Google Slide"
     },
     "google docs.browsingingSlide": {
-        "message": "Browsing slidesheets",
+        "message": "Browsing presentation",
         "description": "Displayed when the user is browsing their Google Slides"
     }
 
