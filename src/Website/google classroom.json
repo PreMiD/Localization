@@ -17,7 +17,7 @@
   },
   "google classroom.assignment": {
     "message": "Viewing an assignment in:",
-    "description": "Displayed when the user is viewing an assignment. Following this line, it will display their class name"
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"
   },
   "google classroom.class": {
     "message": "Viewing class",
@@ -29,7 +29,7 @@
   },
   "google classroom.classwork": {
     "message": "Viewing classwork of:",
-    "description": "Displayed when a user is viewing classwork. Following this line, it will display their class name"
+    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class"
   },
   "google classroom.classmembersPrivate": {
     "message": "Viewing class members",
@@ -37,7 +37,7 @@
   },
   "google classroom.classmembers": {
     "message": "Vewing class members of:",
-    "description": "Displayed when a user is viewing class members. Following this line, it will display their class name"
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
   },
   "google classroom.settings": {
     "message": "Configuring settings",
