@@ -7,9 +7,17 @@
 		"message": "Pengaturan",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
+	"popup.headings.general": {
+		"message": "Umum",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
 	"popup.headings.description": {
 		"message": "Keterangan",
 		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "Aktif",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
 		"message": "Title Menubar",
@@ -19,6 +27,10 @@
 		"message": "Presence",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
+	"popup.presences.manage": {
+		"message": "Kelola",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
 	"popup.presences.done": {
 		"message": "Selesai",
 		"description": "Done button"
@@ -26,6 +38,14 @@
 	"popup.presences.load": {
 		"message": "Muat Presence",
 		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Toko Presence",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Butuh Bantuan?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
 	"popup.credits.error.heading": {
 		"message": "Oh tidak!",
@@ -47,6 +67,14 @@
 		"message": "PreMiD kamu belum diperbarui. Mohon melakukan pembaruan untuk lanjut menggunakan PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.noInternet": {
+		"message": "Tidak ada koneksi internet!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Sepertinya kamu tidak terhubung ke internet! PreMiD tidak bisa menampilkan presence pada saat ini.",
+		"description": "Shown when the user has no internet connection"
+	},
 	"popup.category.all": {
 		"message": "Semua",
 		"description": "Category name shown when you open tags"
@@ -61,6 +89,10 @@
 	},
 	"popup.category.socials": {
 		"message": "Sosial",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Video dan Stream",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

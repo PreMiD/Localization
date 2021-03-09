@@ -1,4 +1,8 @@
 {
+	"error.page.details": {
+		"message": "Detail",
+		"description": "'Details' text on error page container"
+	},
 	"user.notFound.heading": {
 		"message": "Pengguna tersebut tidak dapat ditemukan. Coba pastikan",
 		"description": "Error when user couldn't be found."

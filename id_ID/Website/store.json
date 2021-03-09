@@ -19,6 +19,10 @@
 		"message": "Sosial",
 		"description": "Category at the top"
 	},
+	"store.category.videos": {
+		"message": "Video dan Stream",
+		"description": "Category at the top"
+	},
 	"store.category.other": {
 		"message": "Lainnya",
 		"description": "Category at the top"

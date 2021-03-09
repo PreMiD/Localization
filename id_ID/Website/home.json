@@ -35,6 +35,10 @@
 		"message": "Manajemen presence",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Urutkan berdasar kategori",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Dukungan cepat",
 		"description": "Features section subheading"
