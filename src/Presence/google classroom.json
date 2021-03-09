@@ -1,6 +1,6 @@
 {
   "google classroom.calendar": {
-    "message": "Viewing the calendar",
+    "message": "Viewing their calendar",
     "description": "Displayed when the user viewing their calendar"
   },
   "google classroom.todo": {
