@@ -329,7 +329,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-Anda bisa menyalinnya ke file `presence.ts` dan merubah value nya. Pengaturan semua value dilakukan pada event updateData.
+Anda bisa menyalinnya ke file `presence.ts` dan mengubah valuenya. Pengaturan semua value dilakukan pada event updateData.
 
 Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
