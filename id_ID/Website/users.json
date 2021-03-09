@@ -1,1 +1,6 @@
-{}
+{
+	"user.importantPresenceDev.message2": {
+		"message": "Membuat {0} presence.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	}
+}
