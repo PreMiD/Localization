@@ -1,1 +1,10 @@
-{}
+{
+  "google classroom.calendar": {
+    "message": "Просмотр их календаря",
+    "description": "Displayed when the user viewing their calendar"
+  },
+  "google classroom.todo": {
+    "message": "Просмотр их списка дел",
+    "description": "Displayed when the user is viewing their to-do list"
+  }
+}
