@@ -32,7 +32,7 @@
         "description": ""
     },
     "facebook.userShop": {
-        "message": "Viendo tienda de usuario:",
+        "message": "Viendo la tienda del usuario:",
         "description": ""
     },
     "facebook.userFriends": {
@@ -56,7 +56,7 @@
         "description": ""
     },
     "facebook.weather": {
-        "message": "Ver el tiempo de hoy",
+        "message": "Viendo el tiempo de hoy",
         "description": ""
     }
 }
