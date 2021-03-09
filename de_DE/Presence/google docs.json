@@ -35,15 +35,15 @@
 		"message": "Durchsucht Tabellen",
 		"description": "Displayed when the user is browsing their Google Sheets"
 	},
-	"google docs.editingSlide": {
+	"google docs.editingPresentation": {
 		"message": "Bearbeitet eine Präsentation",
 		"description": "Displayed when the user is editing a Google presentation"
 	},
-	"google docs.viewingSlide": {
+	"google docs.viewingPresentation": {
 		"message": "Betrachtet eine Präsentation",
 		"description": "Displayed when the user is viewing a Google presentation"
 	},
-	"google docs.browsingSlide": {
+	"google docs.browsingPresentation": {
 		"message": "Durchsucht Präsentationen",
 		"description": "Displayed when the user is browsing their Google presentation"
 	}
