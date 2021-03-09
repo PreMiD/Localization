@@ -59,6 +59,10 @@
 		"message": "Informasi",
 		"description": "Information section"
 	},
+	"footer.help.information.cookies": {
+		"message": "Cookies",
+		"description": "meant to be 'Cookie Policy'"
+	},
 	"footer.help.information.privacy": {
 		"message": "Privasi",
 		"description": "meant to be 'Privacy Policy'"
