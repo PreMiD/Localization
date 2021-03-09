@@ -8,27 +8,27 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> সব Presences এখন রাখা আছে এখানে: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
 Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> শুরু করার আগে, এটা পরামর্শিত যে তুমি আমাদের Presence - এর বিধি দেখো। 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [বিধি](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# গঠন
 
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+সব Presence কোড করা হয়েছে [TypeScript](https://www.typescriptlang.org/) - এ। [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## ইন্সটলেশন
 
 1. ইন্সটল করো [Git](https://git-scm.com/).
-2. ইন্সটল করো [Node](https://nodejs.org/en/) ([npm](https://www.npmjs.com/) এর সাথে আসে)।
+2. ইন্সটল করো [Node](https://nodejs.org/en/) (সাথে আসে [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
 ## প্রোজেক্টটিকে ক্লোন করা
