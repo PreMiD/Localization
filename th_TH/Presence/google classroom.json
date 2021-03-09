@@ -1,8 +1,4 @@
 {
-  "google classroom.calendar": {
-    "message": "กำลังดูปฏิทิน",
-    "description": "Displayed when the user viewing their calendar"
-  },
   "google classroom.todo": {
     "message": "กำลังดูรายสิ่งที่ต้องทำของเขา",
     "description": "Displayed when the user is viewing their to-do list"
