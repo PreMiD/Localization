@@ -15,6 +15,14 @@
 		"message": "Title Menubar",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
+	"popup.headings.presences": {
+		"message": "Presence",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.load": {
+		"message": "Muat Presence",
+		"description": "Load Presence button"
+	},
 	"popup.info.unsupportedAppVersion": {
 		"message": "Aplikasi Usang",
 		"description": "Shown when application is outdated"
