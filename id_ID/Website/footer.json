@@ -31,6 +31,10 @@
 		"message": "Dukung Kami",
 		"description": "Support us section"
 	},
+	"footer.supportus.donate": {
+		"message": "Donasi",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
 	"footer.supportus.contribute": {
 		"message": "Kontribusi",
 		"description": "Contribute -> redirects to github.com/premid"
