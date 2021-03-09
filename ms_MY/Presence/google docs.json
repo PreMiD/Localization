@@ -35,15 +35,15 @@
 		"message": "Melayari lembaran hamparan",
 		"description": "Displayed when the user is browsing their Google Sheets"
 	},
-	"google docs.editingSlide": {
+	"google docs.editingPresentation": {
 		"message": "Menyunting persembahan",
 		"description": "Displayed when the user is editing a Google presentation"
 	},
-	"google docs.viewingSlide": {
+	"google docs.viewingPresentation": {
 		"message": "Melihat persembahan",
 		"description": "Displayed when the user is viewing a Google presentation"
 	},
-	"google docs.browsingSlide": {
+	"google docs.browsingPresentation": {
 		"message": "Melayari persembahan",
 		"description": "Displayed when the user is browsing their Google presentation"
 	}
