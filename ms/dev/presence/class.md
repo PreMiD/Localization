@@ -72,7 +72,7 @@ Mencipta kelas `Slideshow` yang baharu.
 const slideshow = presence.createSlideshow();
 ```
 
-Ianya digalakkan untuk melakukan perkara ini sebaik mencipta kelas `Presence`:
+Ia digalakkan untuk melakukan perkara ini sebaik mencipta kelas `Presence`:
 
 ```typescript
 const presence = new Presence({
