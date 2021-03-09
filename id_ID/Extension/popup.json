@@ -15,6 +15,30 @@
 		"message": "Title Menubar",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
+	"popup.headings.presences": {
+		"message": "Presence",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.done": {
+		"message": "Selesai",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Muat Presence",
+		"description": "Load Presence button"
+	},
+	"popup.credits.error.heading": {
+		"message": "Oh tidak!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Tidak terhubung",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD tidak dapat terhubung ke aplikasi! Sudahkah PreMiD terpasang dan berjalan? *Troubleshooting*",
+		"description": "Shown when the extension can't connect to the application"
+	},
 	"popup.info.unsupportedAppVersion": {
 		"message": "Aplikasi Usang",
 		"description": "Shown when application is outdated"
@@ -25,6 +49,22 @@
 	},
 	"popup.category.all": {
 		"message": "Semua",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Musik",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Sosial",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Lainnya",
 		"description": "Category name shown when you open tags"
 	}
 }

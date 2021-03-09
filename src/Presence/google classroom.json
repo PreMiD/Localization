@@ -32,7 +32,7 @@
     "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.classmembers": {
-    "message": "Vewing class members of:",
+    "message": "Viewing class members of:",
     "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
   },
   "google classroom.settings": {
