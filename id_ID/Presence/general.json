@@ -67,12 +67,40 @@
 		"message": "Melihat anggota:",
 		"description": ""
 	},
+	"general.watching": {
+		"message": "Menonton:",
+		"description": ""
+	},
 	"general.buttonViewSeries": {
 		"message": "Lihat Serial",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
 		"message": "Lihat Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Lihat Lagu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Lihat Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Lihat Profil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Lihat Artis",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Lihat Daftar Putar",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Lihat Podcast",
 		"description": "Used as the title for the button in Discord."
 	}
 }
