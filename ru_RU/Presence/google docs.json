@@ -1,0 +1,50 @@
+{
+	"google docs.editingDoc": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.viewingDoc": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.browsingDoc": {
+		"messages": "",
+		"description": ""
+	},
+	"google docs.editingForm": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.viewingForm": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.browsingForm": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.editingSheet": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.viewingSheet": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.browsingSheet": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.editingSlide": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.viewingSlide": {
+		"message": "",
+		"description": ""
+	},
+	"google docs.browsingSlide": {
+		"message": "",
+		"description": ""
+	}
+}
