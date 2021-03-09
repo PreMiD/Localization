@@ -245,7 +245,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 
 ## Modification
 
-> Anda **harus** merubah versi di **metadata** menjadi lebih tinggi dari versi sebelumnya ketika membuat perubahan pada **presence.ts**,**iframe** atau **metadata**.
+> Anda **harus** mengubah versi di **metadata** menjadi lebih tinggi dari versi sebelumnya ketika membuat perubahan pada **presence.ts**,**iframe** atau **metadata**.
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
 
