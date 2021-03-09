@@ -1,18 +1,46 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
 	"general.browsing": {
 		"message": "Menelusuri...",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
 		"description": ""
 	},
 	"general.episode": {
 		"message": "Episode",
 		"description": ""
 	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Bahasa",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Mendengarkan musik",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Pendengar",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Live",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Halaman",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Membaca DM dari:",
 		"description": ""
 	},
 	"general.reading": {
@@ -25,6 +53,10 @@
 	},
 	"general.store": {
 		"message": "Toko",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Melihat anggota:",
 		"description": ""
 	},
 	"general.buttonViewSeries": {
