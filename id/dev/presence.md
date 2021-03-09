@@ -125,7 +125,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus merubah value dari properti tersebut. Harap diingat bahwa properti berikut adalah opsional dalam file `metadata.json` anda, jika anda tidak berniat menggunakannya anda harus menghapusnya.
+Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus mengubah value dari properti tersebut. Harap diingat bahwa properti berikut adalah opsional dalam file `metadata.json` anda, jika anda tidak berniat menggunakannya anda harus menghapusnya.
 
 - `contributors`
 - `altnames`
@@ -329,7 +329,7 @@ presence.on("UpdateData", async () => {
 });
 ```
 
-Anda bisa menyalinnya ke file `presence.ts` dan merubah value nya. Pengaturan semua value dilakukan pada event updateData.
+Anda bisa menyalinnya ke file `presence.ts` dan mengubah valuenya. Pengaturan semua value dilakukan pada event updateData.
 
 Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
 
