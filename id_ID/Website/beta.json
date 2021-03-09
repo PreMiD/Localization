@@ -2,5 +2,9 @@
 	"beta.title": {
 		"message": "Mau fitur-fitur baru?",
 		"description": "Beta page title"
+	},
+	"beta.register.button": {
+		"message": "Daftar sekarang!",
+		"description": "Sign up button text"
 	}
 }
