@@ -20,7 +20,7 @@
     "description": "Displayed when a user is viewing a class"
   },
   "google classroom.classworkPrivate": {
-    "message": "দেখছে একটি C.W.",
+    "message": "দেখছে একটি ক্লাসওয়ার্ক",
     "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.classwork": {
