@@ -1,4 +1,8 @@
 {
+	"maintenance.big": {
+		"message": "Oh tidak!",
+		"description": "The big text on maintenance page"
+	},
 	"maintenance.message": {
 		"message": "Sambil pengembang memperbaiki ini, kamu dapat melihat ini!",
 		"description": "Message on maintenance page"
