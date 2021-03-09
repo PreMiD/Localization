@@ -24,7 +24,7 @@
     "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.classwork": {
-    "message": "দেখছে C.W. যে ক্লাসের:",
+    "message": "দেখছে ক্লাসওয়ার্ক যে ক্লাসের:",
     "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class"
   },
   "google classroom.classmembersPrivate": {
