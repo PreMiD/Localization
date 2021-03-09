@@ -1,8 +1,4 @@
 {
-  "google classroom.calendar": {
-    "message": "Bekijkt de agenda",
-    "description": "Displayed when the user viewing their calendar"
-  },
   "google classroom.todo": {
     "message": "Bekijkt eigen todo-lijst",
     "description": "Displayed when the user is viewing their to-do list"
