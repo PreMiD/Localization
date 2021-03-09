@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD tidak mampu menyambung ke aplikasinya! Adakah ianya dipasang dan dijalankan? *Selesaikan masalah*",
+		"message": "PreMiD tidak mampu menyambung ke aplikasinya! Adakah ia dipasang dan dijalankan? *Selesaikan masalah*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD tidak mampu menyambung ke aplikasi Discord anda! Adakah ianya dipasang dan dijalankan? *Selesaikan masalah*",
+		"message": "PreMiD tidak mampu menyambung ke aplikasi Discord anda! Adakah ia dipasang dan dijalankan? *Selesaikan masalah*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
