@@ -6,5 +6,9 @@
 	"partners.requirements.second.description": {
 		"message": "Kami saat ini menerima berbagai jenis upaya dalam program kemitraan kami. Siapa pun harus memiliki kesempatan untuk diperhatikan. Penyiar kedutan harus memiliki setidaknya 500 pengikut dan setidaknya 10 pemirsa bersamaan. Anda harus streaming setidaknya 1 kali per minggu.",
 		"description": "Description for the second requirement."
+	},
+	"partners.apply.select.other": {
+		"message": "Lainnya",
+		"description": "Select 'Other' category."
 	}
 }
