@@ -12,7 +12,7 @@ tags:
 
 # রিকোয়ারমেন্টগুলি ইন্সটল করা
 1. ইন্সটল করো [Git](https://git-scm.com/)।
-2. ইন্সটল করো [Node](https://nodejs.org/en/) ([npm](https://www.npmjs.com/) এর সাথে আসে)।
+2. ইন্সটল করো [Node](https://nodejs.org/en/) (সাথে আসে [npm](https://www.npmjs.com/)).
 3. ইন্সটল করো [TypeScript](https://www.typescriptlang.org/index.html#download-links) (একটি টার্মিনাল ওপেন করো এবং টাইপ করো `npm install -g typescript`)
 
 # প্রোজেক্টটিকে ক্লোন করা

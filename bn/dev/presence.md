@@ -8,46 +8,46 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> সব Presences এখন রাখা আছে এখানে: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
 Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> শুরু করার আগে, এটা পরামর্শিত যে তুমি আমাদের Presence - এর বিধি দেখো। 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [বিধি](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# গঠন
 
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+সব Presence কোড করা হয়েছে [TypeScript](https://www.typescriptlang.org/) - এ। [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
 ## ইন্সটলেশন
 
 1. ইন্সটল করো [Git](https://git-scm.com/).
-2. ইন্সটল করো [Node](https://nodejs.org/en/) ([npm](https://www.npmjs.com/) এর সাথে আসে)।
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
+2. ইন্সটল করো [Node](https://nodejs.org/en/) (সাথে আসে [npm](https://www.npmjs.com/)).
+3. ইন্সটল করো [TypeScript](https://www.typescriptlang.org/index.html#download-links) (একটি টার্মিনাল ওপেন করো এবং টাইপ করো `npm install -g typescript`).
 
 ## প্রোজেক্টটিকে ক্লোন করা
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. একটি টার্মিনাল ওপেন করো এবং টাইপ করো `git clone https://github.com/PreMiD/Presences`.
 2. তোমার পছন্দের একটি ফোল্ডার বাছাই করো।
 3. তোমার কোড এডিটর দিয়ে এটিকে ওপেন করো।
 
-## Creating folders and files
+## ফোল্ডার এবং ফাইল তৈরি করা
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
-2. Create a folder with the **name** (not an URL) of the service you want to support.
-3. Create a `presence.ts` and a `tsconfig.json` file inside.
-4. Create a folder named `dist` inside.
-5. Create a `metadata.json` file inside the `dist` folder.
+1. `websites` ফোল্ডারে যাও এবং যে Presence তুমি তৈরি করতে চাও তার **নামের** (URL না) প্রথম অক্ষরের ফোল্ডারে যাও।
+2. যে Presence তুমি তৈরি করতে চাও তার **নাম** (URL না) দিয়ে একটি ফোল্ডার তৈরি করো।
+3. ভিতরে একটি `presence.ts` এবং একটি `tsconfig.json` ফাইল তৈরি করো।
+4. `dist` নামের একটি ফোল্ডার তৈরি করো।
+5. একটি `metadata.json` ফাইল তৈরি করো `dist` ফোল্ডার এর ভিতরে।
 
-## Filling in the tsconfig.json file
+## tsconfig.json ফাইলটি পূরণ করা
 
-Please put the following code inside of the `tsconfig.json` file.
+নিচের কোডটি `tsconfig.json` ফাইলে দাও।
 
 ```typescript
 {
@@ -58,11 +58,11 @@ Please put the following code inside of the `tsconfig.json` file.
 }
 ```
 
-To learn more about TypeScript configuration click [here](/dev/presence/tsconfig).
+TypeScript কনফিগারেশন সম্পর্কে আরো জানতে ক্লিক করো [এখানে](/dev/presence/tsconfig)।
 
-## Filling in the metadata.json file
+## metadata.json ফাইলটি পূরণ করা
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). It's still suggested to read this through so you know how it works.
+অলস মানুষদের জন্য আমরা তৈরি করেছি `metadata.json` ফাইল তৈরিকারক [এখানে](https://eggsy.xyz/projects/premid/mdcreator)। তবুও এটা পড়া উচিত তাহলে তুমি বুঝবে এটা কীভাবে কাজ করে।
 
 ```json
 {
@@ -125,7 +125,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+উপরের কোডটি কপি করো এবং তোমার `metadata.json` ফাইলে পেস্ট করো। তোমাকে এখন প্রপার্টিগুলির মানগুলি এডিট করতে হবে। মনে রাখো যে নিচের প্রপার্টিগুলি অপশনাল তোমার `metadata.json` ফাইলে, যদি তুমি সেগুলো না ব্যবহার করার চিন্তা করো তাহলে তোমাকে সেগুলো রিমুভ করতে হবে।
 
 - `contributors`
 - `altnames`
@@ -135,15 +135,15 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `readLogs`
 - `সেটিংস`
 
-**Clarifying some value presets:**
+**কিছু মান প্রিসেটগুলিকে স্পষ্ট করা:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">ভেরিয়েবল</th>
       <th style="text-align:left">বিবরণ</th>
       <th style="text-align:left">ধরন</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">অপশনাল</th>
     </tr>
   </thead>
   <tbody>
@@ -152,21 +152,21 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>হ্যাঁ</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
@@ -174,13 +174,13 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>হ্যাঁ</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
@@ -192,7 +192,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <code>["URL1", "URL2", "ETC."]</code><br>
       You could also use regExp also known as Regex for this task, explained further below.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
@@ -205,104 +205,104 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>হ্যাঁ</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Link to service&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Link to your presence thumbnail.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
         that your presence supports.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>না</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
       <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>হ্যাঁ</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>হ্যাঁ</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>হ্যাঁ</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>সেটিংস</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>হ্যাঁ</code></td>
     </tr>
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+অলস মানুষদের জন্য আমরা তৈরি করেছি `metadata.json` ফাইল তৈরিকারক [এখানে](https://eggsy.xyz/projects/premid/mdcreator)।
 
-## Getting started
+## শুরু করা যাক
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //অ্যাপ্লিকেশান এর ক্লায়েন্ট আইডি যেটা তৈরি করা হয়েছে https://discordapp.com/developers/applications - তে
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
+    //তুমি এটা ব্যবহার করতে পারো অনুবাদ করা স্ট্রিংগুলি পেতে ইউজারের ব্রাউজারের ভাষা অনুযায়ী
   });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //নাও এবং তোমার সব ডাটা এখানে প্রসেস করো
 
-    // element grabs //
-    // api calls //
-    // variable sets //
+    // এলিমেন্ট নেয় //
+    // API কল করে //
+    // ভেরিয়েবল সেট করে //
 }
 
 setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//ফাংশনটিকে UpdateData ইভেন্ট থেকে আলাদা চালাও প্রতি 10 সেকেন্ড অন্তর ভেরিয়েবলগুলি সেট করতে যেগুলো UpdateData নেয়
 
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+  /*UpdateData সবসময় কাজ করছে, এবং সুতরাং তোমার রিফ্রেশ চক্র হিসেবে কাজ করবে This is called several times a second where possible.
 
     It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
 
@@ -375,32 +375,32 @@ presence.on("iFrameData", (data) => {
 
 **Note:** This needs to be placed outside of the updateData event.
 
-## Compiling
+## কম্পাইলিং
 
-Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
+`presence.ts` ফাইলটিকে `/dist` ফোল্ডারে কম্পাইল করার জন্য একটি কনসোল ওপেন করো তোমার ফোল্ডারে এবং টাইপ করো `tsc -w`
 
-# Loading the presence
+# Presence - টিকে লোড করা
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+1. এক্সটেনশনটি ওপেন করো ব্রাউজারে এবং <kbd>Shift</kbd> বাটনটি চেপে রাখো তোমার কীবোর্ডের।
+2. **Presence লোড করাও** আসবে Presences সেকশনে।
+3. <kbd>Shift</kbd> বাটনটিতে চেপে রাখা অবস্থাতেই এটিতে ক্লিক করো।
+4. /dist ফোল্ডারটি সিলেক্ট করো তোমার Presence - এর।
 
-# Some helpful things
+# কিছু সহায়ক জিনিস
 
-## Hot-reloading
+## হট রিলোডিং
 
-The website you are developing on is automatically reloading every time you save a file in your folder.
+যে ওয়েবসাইট এর উপর ভিত্তি করে Presence - টি তৈরি করছ সেটি অটোমেটিকভাবে রিলোড হচ্ছে প্রত্যেক সময় তুমি একটি ফাইল সেভ করো তোমার ফোল্ডারে।
 
-## Debugging
+## ডিবাগিং
 
-- You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- তুমি তোমার কোড এর মাঝখানে `console.log("Test");` দিতে পারো এবং দেখতে পারো যদি তোমার ব্রাউজার কনসোল তোমাকে সেই আউটপুটটি দেয়। যদি দেয়, তাহলে পরের ফাংশনের পরে আবার চেষ্টা করো। যদি না দেয়, তাহলে উপরে একটি সমস্যা আছে।
+- যদি তাও তোমাকে সাহায্য না করে তাহলে একজন Presence ডেভেলপারকে জিজ্ঞেস করতে পারো আমাদের [Discord সার্ভারে](https://discord.premid.app/) সাহায্যের জন্যে।
 
-# Files explained
+# ফাইলগুলি ব্যাখ্যা করা
 
 - [Presence ক্লাস](/dev/presence/class)
 - [স্লাইডশো ক্লাস](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
-- [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [iFrame ক্লাস](/dev/presence/iframe)
+- [মেটাডাটা ফাইল](/dev/presence/metadata)
+- [TypeScript কনফিগারেশন](/dev/presence/tsconfig ""){.links-list}
