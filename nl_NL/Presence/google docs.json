@@ -42,5 +42,9 @@
 	"google docs.viewingSlide": {
 		"message": "Bekijkt een presentatie",
 		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingSlide": {
+		"message": "Bladert door presentaties",
+		"description": "Displayed when the user is browsing their Google presentation"
 	}
 }
