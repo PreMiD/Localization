@@ -119,7 +119,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">URL perkhidmatan.<br>
         <b>Contoh:</b><code>vk.com</code><br>
-        <b>URL ini mesti padan dengan URL laman sesawang kerana ia akan digunakan untuk mengesan sama ada ianya laman sesawang untuk suntikkan skrip atau bukan. Ini hanya boleh digunakan sebagai tatasusunan apabila terdapatnya lebih dari satu URL.</b></td>
+        <b>URL ini mesti padan dengan URL laman sesawang kerana ia akan digunakan untuk mengesan sama ada ini laman sesawang untuk suntikkan skrip atau bukan. Ini hanya boleh digunakan sebagai tatasusunan apabila terdapatnya lebih dari satu URL.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
@@ -156,7 +156,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
     </tr>
     <tr>
       <td style="text-align:left"><b>tag</b></td>
-      <td style="text-align:left">Tatasusunan dengan tag, ianya akan bantu pengguna mencari Presence anda di laman sesawang.</td>
+      <td style="text-align:left">Tatasusunan dengan tag, ia akan bantu pengguna mencari Presence anda di laman sesawang.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
@@ -299,7 +299,7 @@ Penggambaran fail:
 Setelah anda mencipta sepenuhnya fail dengan rentetan tersebut, anda boleh cipta Permintaan Tarikan di [Repositori Penyetempatan](https://github.com/PreMiD/Localization), dalam keterangan tersebut anda **mesti** sertakan pautan ke Permintaan Tarikan bagi Presence yang dikemaskini menggunakan rentetan-rentetan baharu ini dari [Repositori Presence](https://github.com/PreMiD/Presences).
 
 #### Kekunci lalai
-Kekunci yang anda tidak perlu tetapkan akan ditetapkan secara automatik menjadi: `title`: "Language" **Nota:** Ini diterjemah ke bahasa lalai pengguna (bahasa yang ditetapkan di pelayar). `icon`: "fas fa-language" ([Pralihat](https://fontawesome.com/icons/language)) `value`: **Tetapkan ke bahasa pelayar pengguna jika ianya tersedia (100% diterjemah), jika tidak ianya ditetapkan ke bahasa Inggeris.** `values`: **Tetapkan ke bahasa-bahasa yang tersedia (bahasa-bahasa yang telah pun 100% diterjemah).**
+Kekunci yang anda tidak perlu tetapkan akan ditetapkan secara automatik menjadi: `title`: "Language" **Nota:** Ini diterjemah ke bahasa lalai pengguna (bahasa yang ditetapkan di pelayar). `icon`: "fas fa-language" ([Pralihat](https://fontawesome.com/icons/language)) `value`: **Tetapkan ke bahasa pelayar pengguna jika ia tersedia (100% diterjemah), jika tidak ianya ditetapkan ke bahasa Inggeris.** `values`: **Tetapkan ke bahasa-bahasa yang tersedia (bahasa-bahasa yang telah pun 100% diterjemah).**
 
 **Nota:** Ini semua tidak akan dapat diubah dalam apa jua cara.
 
