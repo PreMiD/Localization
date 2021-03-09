@@ -62,7 +62,7 @@ presence
 
 > Untuk kemudahan para pembangun Presence kami, kami telah sediakan skema yang anda boleh gunakan untuk mengesahkan kewibawaan fail `metadata` anda. Ini kesemuanya pilihan dan tidak diperlukan ketika proses ulasan.
 
-> Ianya amat digalakkan untuk anda kemaskan fail `metadata` dalam format yang ditunjukkan di bawah, dan anda mesti mempunyai nama perkhidmatan, keterangan, tag dan medan tetapan yang betul tatabahasanya. Apa-apa yang tidak dikemaskan mengikut spesifikasi **tidak** akan dibenarkan.
+> Ia amat digalakkan untuk anda kemaskan fail `metadata` dalam format yang ditunjukkan di bawah, dan anda mesti mempunyai nama perkhidmatan, keterangan, tag dan medan tetapan yang betul tatabahasanya. Apa-apa yang tidak dikemaskan mengikut spesifikasi **tidak** akan dibenarkan.
 
 > Presence untuk laman sesawang yang mempunyai kandungan dewasa **mesti** mempunyai tag `nsfw`, dan logo/lakaran kecil berkaitan **tidak** boleh mengandungi kandungan sebegini.
 
@@ -150,7 +150,7 @@ Senarai medan dan peraturan berkaitan disenaraikan di bawah:
 ### **`service`**
 
 - Nama perkhidmatan **mestilah** sama dengan nama direktori Presence tersebut. Sebagai contoh, jika Presence berada di `/websites/Y/YouTube/`, maka nama perkhidmatannya mestilah `YouTube`.
-- Anda **tidak boleh** gunakan URL sebagai nama perkhidmatan melainkan laman sesawang itu sendiri menggunakan URL sebagai nama rasminya. Jika nama tidak deskriptif dan boleh dianggap kabur, penggunaan URL sebagai nama **diperlukan**. (sbg. cth., `YouTube` dibenarkan kerana ianya nama rasmi dan deskriptif, manakala `youtube.com` tidak dibenarkan. `Top` pula bukan nama yang deskriptif, jadi penggunaan URL `top.gg` adalah **diperlukan**.)
+- Anda **tidak boleh** gunakan URL sebagai nama perkhidmatan melainkan laman sesawang itu sendiri menggunakan URL sebagai nama rasminya. Jika nama tidak deskriptif dan boleh dianggap kabur, penggunaan URL sebagai nama **diperlukan**. (sbg. cth., `YouTube` dibenarkan kerana ia nama rasmi dan deskriptif, manakala `youtube.com` tidak dibenarkan. `Top` pula bukan nama yang deskriptif, jadi penggunaan URL `top.gg` adalah **diperlukan**.)
 - Jika perkhidmatan mempunyai peraturan penjenamaan khusus mengenai nama mereka, anda patut mengikut peraturan tersebut.
 
 ### **`*altnames`**
@@ -235,8 +235,8 @@ Ini senarai peraturan yang perlu diikuti semasa menulis fail `presence.ts` anda:
 - Medan `smallImageKey` dan `smallImageText` bertujuan untuk menyediakan konteks tambahan/sekunder (seperti `playing/paused` untuk laman video, `browsing` untuk laman biasa, dan kegunaan lain) bukan untuk mempromosikan profil Discord atau apa-apa yang tidak berkaitan dengan PreMiD.
 - Anda **tidak** dibenarkan mencapai `localStorage`.
 - Apabila mencapai kuki untuk data disimpan, sila namakan kekunci dengan awalan `PMD_`.
-- Anda hanya boleh lakukan permintaan HTTP/HTTPS ke `premid.app` atau API laman sesawang Presence. Jika anda menggunakan domain luaran, anda akan diminta menjelaskan kenapa ianya diperlukan. API yang dibenarkan untuk membuat permintaan hanyalah [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- **Jangan** tetapkan medan dalam objek presenceData sebagai tak tertakrif setelah ianya diisytiharkan, sebaliknya gunakanlah kata kunci `delete`. (sbg. cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
+- Anda hanya boleh lakukan permintaan HTTP/HTTPS ke `premid.app` atau API laman sesawang Presence. Jika anda menggunakan domain luaran, anda akan diminta menjelaskan kenapa ia diperlukan. API yang dibenarkan untuk membuat permintaan hanyalah [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+- **Jangan** tetapkan medan dalam objek presenceData sebagai tak tertakrif setelah ia diisytiharkan, sebaliknya gunakanlah kata kunci `delete`. (sbg. cth., gunakan `delete data.startTimestamp` dan bukannya `data.startTimestamp = undefined`)
 - Anda **tidak** dibenarkan untuk menulis Presence yang mengubah kefungsian laman sesawang yang berkaitan. Ini termasuk penambahan, pemadaman, atau perubahan unsur DOM.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
@@ -251,7 +251,7 @@ Dalam sesetengah keadaan, Presence mungkin berkelakuan luar jangkaan atau diubah
 
 - Anda **tidak** dibenarkan untuk menulis semula sesebuah Presence atau mengubah penulisnya. Sekiranya penulis Presence telah diharamkan daripada pelayan rasmi atau masih belum membuat perubahan di dalam sebulan, anda boleh hubungi pengulas untuk tanya sama ada anda boleh menulis semula Presence tersebut.
 - Jika anda mengubah suai sesebuah Presence dan mengubah sekurang-kurangnya **satu suku** daripada pangkalan kod Presence tersebut, anda dibenarkan menambah diri sendiri sebagai penyumbang. Hubungi pengulas untuk maklumat lanjut mengenai perkara ini.
-- Sesiapa pun boleh sediakan pembaikian segera untuk membaiki pepijat; namun begitu, cuba untuk **tidak** membuat perubahan yang **tidak** diperlukan. Pengubahsuaian yang sah termasuk pembaikian umum (kod dan tipo), penambahan (keterangan dan tag), fail yang tercicir, dll. **Jangan** tukar imej jika ianya tidak ketinggalan zaman dan masih mengikut spesifikasi.
+- Sesiapa pun boleh sediakan pembaikian segera untuk membaiki pepijat; namun begitu, cuba untuk **tidak** membuat perubahan yang **tidak** diperlukan. Pengubahsuaian yang sah termasuk pembaikian umum (kod dan tipo), penambahan (keterangan dan tag), fail yang tercicir, dll. **Jangan** tukar imej jika ia tidak ketinggalan zaman dan masih mengikut spesifikasi.
 
 # Pengesahan
 
@@ -259,7 +259,7 @@ Dalam sesetengah keadaan, Presence mungkin berkelakuan luar jangkaan atau diubah
 
 > Jika anda perlu menghubungi seseorang, sila gunakan pelayan Discord rasmi kami. Kesemua pengulas akan mempunyai peranan `Reviewer` di profil mereka.
 
-> Sila ingat bahawa pengulas membuat kerja secara sukarela dan menguruskan repositori lain di samping yang ini, permintaan tarikan anda mungkin tidak diulas sehingga berlalunya beberapa jam atau hari setelah ianya dicipta.
+> Sila ingat bahawa pengulas membuat kerja secara sukarela dan menguruskan repositori lain di samping yang ini, permintaan tarikan anda mungkin tidak diulas sehingga berlalunya beberapa jam atau hari setelah ia dicipta.
 
 > **Sentiasa** pastikan cabangan anda mutakhir sebelum mencipta permintaan tarikan anda. Ini akan bantu mengehadkan positif palsu daripada semakan.
 
@@ -289,7 +289,7 @@ Beberapa perkara anda patut tahu sebelum membuka permintaan tarikan:
 
 - Ia memerlukan 2 orang pengulas untuk mencantumkan permintaan tarikan.
 - Jika permintaan tarikan tidak aktif untuk tempoh 7 hari, ia akan ditutup dengan segera.
-- Kesemua pemeriksaan **mestilah** lulus untuk membolehkan ianya dicantumkan.
+- Kesemua pemeriksaan **mestilah** lulus untuk membolehkan ia dicantumkan.
 - ⚠️ Anda **mesti** berikan tangkapan layar baharu, tidak tersunting (diambil oleh anda sendiri) yang menunjukkan perbandingan profil anda dan laman sesawang untuk membuktikan Presence anda berfungsi. _Anda dibenarkan untuk menggabungkan tangkapan layar untuk menyenangkan pandangan_ Ini digunapakai untuk kedua-dua penciptaan dan pengubahsuaian.
 - ⚠️ Anda juga **perlu** sertakan tangkapan layar tetapan Presence di dalam sambungan sekiranya dibekalkan. Contoh boleh dilihat di [sini](https://imgur.com/a/OD3sj5R).
 
