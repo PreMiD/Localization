@@ -15,6 +15,10 @@
 		"message": "Mitra",
 		"description": "Partner section"
 	},
+	"footer.followUs.heading": {
+		"message": "Ikuti Kami",
+		"description": "Follow Us section"
+	},
 	"footer.developers.heading": {
 		"message": "Pengembangan",
 		"description": "Developer section"
