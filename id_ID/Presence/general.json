@@ -43,6 +43,14 @@
 		"message": "Membaca DM dari:",
 		"description": ""
 	},
+	"general.readingAbout": {
+		"message": "Membaca tentang:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Membaca artikel:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Membaca",
 		"description": ""
@@ -60,15 +68,11 @@
 		"description": ""
 	},
 	"general.buttonViewSeries": {
-		"message": "Menonton Serial",
+		"message": "Lihat Serial",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
-		"message": "Menonton Film",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewEpisode": {
-		"message": "Episode",
+		"message": "Lihat Film",
 		"description": "Used as the title for the button in Discord."
 	}
 }
