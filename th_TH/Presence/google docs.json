@@ -42,5 +42,9 @@
 	"google docs.viewingPresentation": {
 		"message": "กำลังดูสไลด์",
 		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "กำลังค้นหาสไลด์",
+		"description": "Displayed when the user is browsing their Google presentation"
 	}
 }
