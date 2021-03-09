@@ -30,12 +30,12 @@ PreMiD **tidak** bekerja pada discord versi browser, kamu harus mengunduh aplika
 **User Settings** > **Game Activity** ![gameactivity_edited.png](/gameactivity_edited.png)
 
 ### Pastikan Discord TIDAK berjalan sebagai administrator
-Sangat penting. Discor RPC tidak akan bekerja jika anda membuka Discrod sebagai administrator.
+Sangat penting. Discord RPC tidak akan bekerja jika anda membuka Discord sebagai administrator.
 
 ### Apakah kamu menggunakan Presence dengan pengaturan?
 Banyak presence (termasuk `Twitch` dan `SoundCloud`) terpengaruh oleh masalah ekstensi. Masalah ini menyebabkan ekstensi tidak mendapat value default dari setting dengan benar.
 
-Untuk memecahkan ini, kamu hanya butuh untuk menyalakan pilihan pengaturan paling atas: ![presencesettings.gif](/presencesettings.gif)
+Untuk mengatasi ini, kamu hanya butuh untuk menyalakan pilihan pengaturan paling atas: ![presencesettings.gif](/presencesettings.gif)
 
 ### Mulai ulang browser
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) bekerja juga. (Sudah jelas anda harus membukanya lagi.)
@@ -80,7 +80,7 @@ Ini adalah false positive dari McAfee dan kami telah melaporkan masalah pada mer
 10. McAfee sekarang seharusnya sudah mengabaikan file kita, luncurkan saja aplikasi kita dan seharusnya baik-baik saja.
 
 ### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+Don't worry. Tekan tombol <kbd>CTRL+R</kbd> (Windows) atau <kbd>CMD+R</kbd> (MacOS) selagi jendela Discord terbuka untuk memuat ulang.
 
 <a name="linux"></a>
 
