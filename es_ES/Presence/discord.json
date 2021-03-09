@@ -1,6 +1,6 @@
 {
 	"discord.channelReading": {
-		"message": "Leyendo en el canal:{0}{1} (Servidor: {2})",
+		"message": "Leyendo el canal:{0}{1} (Servidor: {2})",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
 	},
 	"discord.channelTyping": {
@@ -60,7 +60,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"discord.browseThrough": {
-		"message": "Buscando a través de",
+		"message": "Navegando a través de",
 		"description": "The first part of the next 17 strings"
 	},
 	"discord.download": {
