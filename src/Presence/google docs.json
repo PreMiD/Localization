@@ -46,5 +46,17 @@
 	"google docs.browsingSlide": {
 		"message": "Browsing presentations",
 		"description": "Displayed when the user is browsing their Google presentation"
+	},
+	"google docs.editingPresentation": {
+		"message": "Editing a presentation",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Viewing a presentation",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Browsing presentations",
+		"description": "Displayed when the user is browsing their Google presentation"
 	}
 }
