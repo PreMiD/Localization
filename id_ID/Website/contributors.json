@@ -19,6 +19,14 @@
 		"message": "Desainer",
 		"description": "'Designer' title for contributors and user pages."
 	},
+	"contributors.roles.moderator": {
+		"message": "Moderator",
+		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Penerjemah",
+		"description": "'Translator' title for contributors page."
+	},
 	"contributors.cards.copyUserId": {
 		"message": "Klik untuk menyalin ID pengguna.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
