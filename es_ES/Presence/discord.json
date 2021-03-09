@@ -64,7 +64,7 @@
 		"description": "The first part of the next 17 strings"
 	},
 	"discord.download": {
-		"message": "página de descarga",
+		"message": "la página de descargas",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.why": {
@@ -76,7 +76,7 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.jobs": {
-		"message": "las posiciones de trabajo",
+		"message": "la página de empleos",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.company": {
