@@ -30,5 +30,13 @@
   "google classroom.classmembersPrivate": {
     "message": "Просмотреть участников класса",
     "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classmembers": {
+    "message": "Просмотр участников классов:",
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
+  },
+  "google classroom.settings": {
+    "message": "Настройка настроек",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
   }
 }
