@@ -234,7 +234,7 @@ Sila salin kod di atas dan letakkannya di dalam fail `metadata.json` anda. Kini 
     </tr>
     <tr>
       <td style="text-align:left"><b>tag</b></td>
-      <td style="text-align:left">Tatasusunan dengan tag, ianya akan bantu pengguna mencari Presence anda di laman sesawang.</td>
+      <td style="text-align:left">Tatasusunan dengan tag, ia akan bantu pengguna mencari Presence anda di laman sesawang.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
@@ -304,7 +304,7 @@ setInterval(myOutsideHeavyLiftingFunction, 10000);
 presence.on("UpdateData", async () => {
   /*UpdateData sentiasa dijalankan, oleh itu ia patut digunakan sebagai kitaran segar semula anda, atau `tick`. Ini dipanggil beberapa kali sesaat apabila boleh.
 
-    Ianya disyorkan untuk menetapkan fungsi lain di luar fungsi peristiwa ini yang akan mengubah nilai pemboleh ubah dan membuat kerja yang lebih berat jika anda memanggil data daripada sesuatu API.*/
+    Ia disyorkan untuk menetapkan fungsi lain di luar fungsi peristiwa ini yang akan mengubah nilai pemboleh ubah dan membuat kerja yang lebih berat jika anda memanggil data daripada sesuatu API.*/
 
   const presenceData: PresenceData = {
     largeImageKey:
