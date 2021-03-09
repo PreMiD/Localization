@@ -15,6 +15,10 @@
 		"message": "{0} Tidak ada installer untuk sistem operasi ini. Ini berarti tidak ada bantuan profesional untuk ini.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.button.done": {
+		"message": "Selesai",
+		"description": "Button on the page when trying to download with adblocker on."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Terima Kasih!",
 		"description": "Title of the advertisement section box."
