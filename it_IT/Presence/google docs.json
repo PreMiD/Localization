@@ -35,15 +35,15 @@
 		"message": "Sfogliando tra i fogli di calcolo",
 		"description": "Displayed when the user is browsing their Google Sheets"
 	},
-	"google docs.editingSlide": {
+	"google docs.editingPresentation": {
 		"message": "Modificando una presentazione",
 		"description": "Displayed when the user is editing a Google presentation"
 	},
-	"google docs.viewingSlide": {
+	"google docs.viewingPresentation": {
 		"message": "Visualizzando una presentazione",
 		"description": "Displayed when the user is viewing a Google presentation"
 	},
-	"google docs.browsingSlide": {
+	"google docs.browsingPresentation": {
 		"message": "Sfogliando tra le presentazioni",
 		"description": "Displayed when the user is browsing their Google presentation"
 	}

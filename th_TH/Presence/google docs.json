@@ -35,11 +35,11 @@
 		"message": "กำลังค้นหาสเปรดชีต",
 		"description": "Displayed when the user is browsing their Google Sheets"
 	},
-	"google docs.editingSlide": {
+	"google docs.editingPresentation": {
 		"message": "กำลังแก้ไขสไลด์",
 		"description": "Displayed when the user is editing a Google presentation"
 	},
-	"google docs.viewingSlide": {
+	"google docs.viewingPresentation": {
 		"message": "กำลังดูสไลด์",
 		"description": "Displayed when the user is viewing a Google presentation"
 	}
