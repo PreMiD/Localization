@@ -35,15 +35,15 @@
 		"message": "Bladert door spreadsheets",
 		"description": "Displayed when the user is browsing their Google Sheets"
 	},
-	"google docs.editingSlide": {
+	"google docs.editingPresentation": {
 		"message": "Bewerkt een presentatie",
 		"description": "Displayed when the user is editing a Google presentation"
 	},
-	"google docs.viewingSlide": {
+	"google docs.viewingPresentation": {
 		"message": "Bekijkt een presentatie",
 		"description": "Displayed when the user is viewing a Google presentation"
 	},
-	"google docs.browsingSlide": {
+	"google docs.browsingPresentation": {
 		"message": "Bladert door presentaties",
 		"description": "Displayed when the user is browsing their Google presentation"
 	}
