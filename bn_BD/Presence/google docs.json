@@ -35,11 +35,11 @@
 		"message": "ব্রাউজ করছে স্প্রেডশিটগুলি",
 		"description": "Displayed when the user is browsing their Google Sheets"
 	},
-	"google docs.editingSlide": {
+	"google docs.editingPresentation": {
 		"message": "একটি প্রেজেন্টেশন এডিট করছে",
 		"description": "Displayed when the user is editing a Google presentation"
 	},
-	"google docs.viewingSlide": {
+	"google docs.viewingPresentation": {
 		"message": "একটি প্রেজেন্টেশন দেখছে",
 		"description": "Displayed when the user is viewing a Google presentation"
 	}
