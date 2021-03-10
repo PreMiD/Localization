@@ -3,6 +3,14 @@
 		"message": "Penulis",
 		"description": "Creator of a presence"
 	},
+	"store.category.filters.allowAdult": {
+		"message": "Tampilkan NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.heading": {
+		"message": "Kategori",
+		"description": "Category heading"
+	},
 	"store.category.all": {
 		"message": "Semua",
 		"description": "Category at the top"
