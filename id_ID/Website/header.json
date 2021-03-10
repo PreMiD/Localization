@@ -27,6 +27,10 @@
     "message": "Toko",
     "description": "Store tab"
   },
+  "header.downloads": {
+    "message": "Unduhan",
+    "description": "Downloads tab"
+  },
   "header.contributors": {
     "message": "Kontributor",
     "description": "Contributors tab"

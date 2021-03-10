@@ -15,6 +15,22 @@
 		"message": "{0} Tidak ada installer untuk sistem operasi ini. Ini berarti tidak ada bantuan profesional untuk ini.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.button.skip": {
+		"message": "Lewati",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Kembali",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "Batal",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "Oke",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Selesai",
 		"description": "Button on the page when trying to download with adblocker on."
