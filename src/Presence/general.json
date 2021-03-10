@@ -12,8 +12,8 @@
 		"description": ""
 	},
 	"general.downloadVia": {
-		"message": "Download via",
-		"description": ""
+		"message": "Download using {0}",
+		"description": "Used for download services, can be used in discord buttons for example to link external services"
 	},
 	"general.dj": {
 		"message": "DJ",
