@@ -55,6 +55,10 @@
 		"message": "Oh tidak!",
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
+	"popup.credits.error.message": {
+		"message": "Kesalahan saat memuat kredit",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
 	"popup.info.notConnected": {
 		"message": "Tidak terhubung",
 		"description": "Shown when the extension can't connect to the application"
@@ -82,6 +86,10 @@
 	"popup.info.noInternet.message": {
 		"message": "Sepertinya kamu tidak terhubung ke internet! PreMiD tidak bisa menampilkan presence pada saat ini.",
 		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD tidak bisa terhubung ke aplikasi Discord! Sudahkah PreMiD terinstal dan berjalan?\n*Troubleshooting*",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "Semua",
