@@ -1,4 +1,8 @@
 {
+	"home.introduction.button.downloads": {
+		"message": "Unduhan",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
 	"home.examples.playingagame": {
 		"message": "Bermain game",
 		"description": "Discord Rich Presence -> Playing a game"
@@ -22,6 +26,10 @@
 	"home.features.heading": {
 		"message": "Kamu akan menyukai fitur ini!",
 		"description": "Features section"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Kunjungi toko",
+		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
 		"message": "Tampilan pengguna yang sederhana",
