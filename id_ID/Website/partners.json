@@ -10,5 +10,17 @@
 	"partners.apply.select.other": {
 		"message": "Lainnya",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nama",
+		"description": "Name filed."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Contoh: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Tutup",
+		"description": "Modal close button."
 	}
 }
