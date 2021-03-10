@@ -11,6 +11,10 @@
 		"message": "DJ",
 		"description": ""
 	},
+	"general.editing": {
+		"message": "Mengedit:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Episode",
 		"description": ""
@@ -35,8 +39,16 @@
 		"message": "Live",
 		"description": ""
 	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
 	"general.page": {
 		"message": "Halaman",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Bermain",
 		"description": ""
 	},
 	"general.readingDM": {
@@ -57,6 +69,10 @@
 	},
 	"general.search": {
 		"message": "Mencari",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Dalam panggilan...",
 		"description": ""
 	},
 	"general.store": {
