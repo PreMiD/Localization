@@ -23,6 +23,14 @@
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
+	"contributors.roles.donator": {
+		"message": "Donatur",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
 	"contributors.roles.translator": {
 		"message": "Penerjemah",
 		"description": "'Translator' title for contributors page."
