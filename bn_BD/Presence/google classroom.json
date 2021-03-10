@@ -1,4 +1,8 @@
 {
+  "google classroom.calendar": {
+    "message": "দেখছে তার ক্যালেন্ডারটি",
+    "description": "Displayed when the user viewing their calendar"
+  },
   "google classroom.todo": {
     "message": "দেখছে তার To-Do লিস্ট",
     "description": "Displayed when the user is viewing their to-do list"
