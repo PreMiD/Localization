@@ -17,7 +17,7 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 2. Pilih **OS X**.
 3. Sarikan arkib jika diperlukan.
 4. Buka pemasang.
-5. Sejenis **amaran keselamatan** mungkin muncul sekiranya anda memasang PreMiD untuk kali pertama. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
+5. Sejenis **amaran keselamatan** mungkin muncul sekiranya anda memasang PreMiD untuk kali pertama. Jika ia muncul, ikut langkah di bahagian [Benarkan app daripada pemaju yang tidak dikenal pasti](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
 > Hal ini kerana kami tidak mempunyai Sijil Tandatangan Kod (Code Signing Certificate, CSC). [Sokong kami](https://www.patreon.com/Timeraa) untuk memberi dana aplikasi ini.{.is-info}
 6. Pilih buka apabila diberitahu.
 7. Berikan capaian ke sambungan menerusi **Tembok Api** dan kawal **Peristiwa Sistem** apabila diberitahu.
@@ -30,14 +30,14 @@ Aplikasi akan bermula secara automatiknya. Periksa simbol di bar menu anda.
 
 ![](https://img.icons8.com/color/2x/mac-logo.png) {.align-abstopright}
 
-## Allow apps from unidentified developers
-Steps for macOS BigSur (11.0+):
-1. Right click on our installer.
-2. Click open in the dropdown menu.
-3. Click open in popup.
+## Benarkan app daripada pemaju yang tidak dikenal pasti
+Langkah untuk macOS BigSur (11.0+):
+1. Klik kanan pada fail pemasang kami.
+2. Klik buka dalam menu lungsur.
+3. Klik buka dalam tetingkap timbul.
 
-Steps for older macOS versions:
-1. Open System Preferences.
-2. Go to the Security & Privacy tab.
-3. Click on the lock and enter your password or scan your fingerprint so you can make changes.
-4. Change the setting for 'Allow apps downloaded from' to 'App Store and identified developers' from just 'App Store'.
+Langkah untuk versi macOS yang lama:
+1. Buka Keutamaan Sistem.
+2. Pergi ke tab Keselamatan & Privasi.
+3. Klik pada kunci dan masukkan kata laluan anda atau imbas cap jari anda supaya anda mampu membuat perubahan.
+4. Tukarkan tetapan untuk 'Benarkan app daripada' kepada 'App Store dan pembangun dikenal pasti' menggantikan 'App Store' semata-mata.
