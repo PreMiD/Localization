@@ -127,13 +127,13 @@ Fizemos um criador de ficheiros `metadata.json` para o pessoal mais preguiçoso,
 
 Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas de editar os valores das propriedades. Tem em atenção que as seguintes propriedades são opcionais no teu ficheiro `metadata.json. `. Se não os pretendes usar, tens de os remover.
 
-- `contribuidores(as)`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `definições`
+- `settings`
 
 **Explicação de alguns valores predefinidos:**
 
@@ -148,14 +148,14 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
         programador e carregando com o botão direito no perfil do autor.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contribuidores(as)</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Deve conter um objeto com <code>name</code> e <code>id</code> do programador da presence. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). O <code>id</code> teu de utilizador pode ser copiado do Discord ativando o modo de
         programador e carregando com o botão direito no teu perfil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>descrição</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
@@ -208,7 +208,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versão</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Versão da tua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
@@ -233,7 +233,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etiquetas</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Arrays com etiquetas que irão ajudar os utilizadores a encontrar a tua presence no site.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
@@ -263,7 +263,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>definições</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Um array de definições que o utilizador pode alterar.<br>
       Sabe mais sobre as definições de presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">aqui</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
