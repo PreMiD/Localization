@@ -133,7 +133,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `الإعدادات`
+- `settings`
 
 **توضيح بعض قيم الخصائص:**
 
@@ -165,7 +165,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الوصف</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. يجب أن يحتوي الوصف الخاص بك على قيم أزواج رئيسية تشير إلى اللغة، والوصف في تلك اللغة المحددة. اصنع وصفاً باللغات <i>التي تعرفها</i>، سوف يقوم مترجمونا بإجراء تغييرات على ملف البيانات الوصفية الخاص بك.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>لا</code></td>
@@ -204,36 +204,36 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الإصدار</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">نسخة من حضورك.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">رابط الخدمة&apos;لـ شعار</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>صورة المصغرة</b></td>
+      <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">رابط للصورة المصغره لالpresence الخاص بك.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>لون</b></td>
+      <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left">قيمة <code>#HEX</code>. نوصي باستخدام لون أساسي من الخدمة
         التي يدعمها وجودك.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>التصنيفات</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">مصفوفة مع العلامات، ستساعد المستخدمين على البحث عن وجودك على الموقع.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>لا</code></td>
@@ -241,7 +241,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">وتندرج تحت هذا البند سلسلة تستخدم لتمثيل الفئة التي يوجد فيها. مشاهدة الأخاديد الصالحة <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">هنا</a>.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>لا</code></td>
     </tr>
     <tr>
@@ -253,17 +253,17 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">محدد تعبير عادي يحدد إطارات ifram للحقن. انظر regExp لمزيد من المعلومات.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>نص</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>نعم</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>الإعدادات</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">مجموعة من الإعدادات التي يمكن للمستخدم تغييرها.<br>
       اقرأ المزيد حول إعدادات الحضور <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">هنا</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
