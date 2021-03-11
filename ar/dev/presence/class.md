@@ -279,13 +279,13 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
     <tr>
       <td style="text-align:left">التفاصيل</td>
       <td style="text-align:left">السطر الأول في الpresence الخاص بك، وعادة ما يستخدم كعنوان.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">الحالة</td>
       <td style="text-align:left">السطر الثاني في الpresence الخاص بك.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -311,20 +311,20 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">يحدد الشعار الخاص بالpresence.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">يحدد الرمز الصغير بجوار شعارال presence&apos;s.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">يحدد النص الذي سيتم عرضه للمستخدم عندما يكون على الرمز
         الصغير.</td>
-      <td style="text-align:left"><code>نص</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
         <tr>
