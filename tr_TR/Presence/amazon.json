@@ -1,4 +1,8 @@
 {
+    "amazon.subscriptions": {
+        "message": "Aboneliklere göz atıyor",
+        "description": ""
+    },
     "amazon.adprefs": {
         "message": "Reklamcılık tercihlerine bakıyor",
         "description": ""
