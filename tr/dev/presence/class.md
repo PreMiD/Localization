@@ -189,42 +189,42 @@ presence.showSetting("pdexID"); // PdexID'yi ayarın id'si ile değiştirin
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+İnternet sitesinin konsol kayıtlarının çıktısını döndürür.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Bu, son 100 kaydın (array içerisinde) çıktısını verir.
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Not:** Bu ayar, `metadata.json` dosyasında `readLogs` ayarının `true` olmasını gerektirir.
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Girilen mesajı konsola `info` (bilgi) tarzında konsola yazdırır.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Test") // Belirtilen tarzda "Test" mesajını konsola yazdırır.
 ```
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Girilen mesajı konsola `success` (başarılı) tarzında konsola yazdırır.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Test") // Belirtilen tarzda "Test" mesajını konsola yazdırır.
 ```
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Girilen mesajı konsola `error` (hata) tarzında konsola yazdırır.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Test") // Belirtilen tarzda "Test" mesajını konsola yazdırır.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+`startTimestamp` ve `endTimestamp` değerleri olarak kullanabileceğiniz bir `Array` formatında 2 adet `snowflake` zaman verisi döndürür.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Not:** querySelector da verilen `String` bir örnektir.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+`startTimestamp` ve `endTimestamp` değerleri olarak kullanabileceğiniz bir `Array` formatında 2 adet `snowflake` zaman verisi döndürür.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Not:** querySelector da verilen `String` bir örnektir.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Metin şeklindeki zaman verisini (`HH:MM:SS` VEYA `MM:SS` VEYA `SS`) sayı verisinde döndürür (snowflake zaman verisine değil).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -259,11 +259,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Not:** querySelector da verilen `String` bir örnektir.
 
 ## `PresenceData` Arayüzü
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+`PresenceData` arayüzünün, `setActivity()` metodunu kullandığınız her zaman kullanılması önerilir.
 
 Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani zorunlu değildir.
 
@@ -335,20 +335,20 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
-  largeImageKey: "service_logo",
-  smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  details: "Benim başlığım",
+  state: "Benim açıklamam",
+  largeImageKey: "servisin_simgesi",
+  smallImageKey: "ufak_servis_simgesi",
+  smallImageText: "Benim üzerime geldin, ne oldu şimdi?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734,
   buttons: [
     {
-            label: "Test button1",
+            label: "Test tuşu1",
             url: "https://premid.app/"
         },
         {
-            label: "Test button2",
+            label: "Test tuşu2",
             url: "https://premid.app/contributors"
         }
     ]
@@ -361,7 +361,7 @@ Eventler belirli zamanlarda bilgi gönderir ve birçok şeyi kontrol edebilmeniz
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Veri güncellenince bir şeyler yap.
 });
 ```
 
