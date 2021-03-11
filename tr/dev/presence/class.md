@@ -103,10 +103,10 @@ const pauseString = strings.pause; // sonuç: Duraklatıldı
 
 Eklentinin v2.2.0 sürümünden bu yana, artık belirli bir dilin çevirilerini alabilirsiniz. Bu, yeni eklenmiş `multiLanguage` ayar seçeneği ile de düzgün çalışıyor.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Kullanıcı dili değiştirdiğinde PresenceData verisini otomatik olarak güncelleyebilmesi için aşağıdaki kodu kullanmanızı öneririz;
 
 ```typescript
-// An interface of the strings you are getting (good for code quality and autocomplete).
+// Çevirilerde kullanabileceğiniz (kod kalitesi ve otomatik tamamlama için iyi olacak) bir arayüz.
 interface LangStrings {
   play: string;
   pause: string;
@@ -115,21 +115,21 @@ interface LangStrings {
 async function getStrings(): Promise<LangStrings> {
   return presence.getStrings(
     {
-      // The strings you are getting, make sure this fits with your LangStrings interface.
+      // İstediğiniz çevirilerin verisi, dönen verinin LangStrings arayüzünüze uygun olduğundan emin olun.
       play: "general.playing",
       pause: "general.paused"
     },
-    // The ID is the ID of the multiLanguage setting.
+    // Buradaki ID, multiLanguage ayarındaki ID'dir.
     await presence.getSetting("ID")
   );
 }
 
 let strings: Promise<LangStrings> = getStrings(),
-  // The ID is the ID of the multiLanguage setting.
+  // Buradaki ID, multiLanguage ayarındaki ID'dir.
   oldLang: string = await presence.getSetting("ID");
 
-//! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+//! Aşağıdaki kod updateData olayının (event) içerisinde olmalıdır!
+// Buradaki ID, multiLanguage ayarındaki ID'dir.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
