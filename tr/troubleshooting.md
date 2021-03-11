@@ -12,14 +12,14 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+Bu sayfanın içerikleri:
+1. [Genel sorun giderme](https://docs.premid.app/troubleshooting#general)
+2. [Linux sorun giderme](https://docs.premid.app/troubleshooting#linux)
+3. [MacOS sorun giderme](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# Genel sorun giderme
 ### Sayfayı yenileyin
 Windows'daysanız <kbd>CTRL+R</kbd>/<kbd>F5</kbd>, Mac üzerindeyseniz ise <kbd>CMD+R</kbd> tuşlarını kullanarak sayfayı yenileyebilirsiniz.
 
@@ -59,7 +59,7 @@ Bir bilgisayarın nasıl yeniden başlatılacağını bildiğinizi umuyoruz.
 Bazen dosyalarda bir sorun olabiliyor... Kurulum için gerekli adımları [buradan](/install) öğrenebilirsiniz.
 
 ### Manuel kaldırma
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows: Dosya gezginine `%appdata%` yazın ve açılan yerden `PreMiD` klasörünü silin. MacOS: `~/users/USER/~Library/ApplicationSupport/` konumuna girin ve `PreMiD` klasörünü silin.
 
 ### McAfee PreMiD'i virüs olarak tespit etti (Windows)
 Bu sorun McAfee'nin PreMiD'e yanlış sonuç vermesinden kaynaklıdır, sorunu çözmeleri için onlarla iletişime geçtik, şimdilik siz aşağıdaki adımları takip ederek PreMiD'i tarama dışı bırakabilirsiniz:
@@ -79,49 +79,50 @@ Bu sorun McAfee'nin PreMiD'e yanlış sonuç vermesinden kaynaklıdır, sorunu �
 9. "PreMiD" klasörünü açın ve "PreMiD.exe" dosyasını seçin ve aç'a tıklayın. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee şimdi dosyamızı göz ardı etmeli, uygulamayı çalıştırın ve kullanmaya başlayın.
 
-### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+### PreMiD durumu Discord'da yanlış görünüyor!
+Endişelenme. Yenilemek için Discord penceresi açıkken <kbd>CTRL+R</kbd> (Windows) veya <kbd>CMD+R</kbd> (MacOS) tuşlarına basın.
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-Eğer Discord'u Snapcraft üzerinden indirdiyseniz, RPC özellikleri çalışmayacaktır. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Linux sorun giderme
+### Ubuntu/Debian tabanlı dağıtımlar
+Eğer Discord'u Snapcraft üzerinden indirdiyseniz, RPC özellikleri çalışmayacaktır. Önce bir uçbirimde `sudo snap remove discord` komutunu çalıştırarak Snapcraft sürümünü silmeniz, **[Discord'un Linux Sürümünü](https://discordapp.com/api/download?platform=linux)** (**[veya Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), indirmeniz, sonra da Discord'u indirdiğiniz klasöre gidip (genellikle `$HOME/Downloads`), `sudo dpkg -i discord-*.deb` komutunu çalıştırarak kurmanız gerekir. Eğer AppImage işe yaramazsa, **[bu adresdeki](https://packagecloud.io/premid/linux)** diğer paketlerimize göz atmanız gerekir.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+### Arch Linux Tabanlı Dağıtımlar
+Arch Linux tabanlı dağıtımlarda <code>premid</code> or <code>premid-git</code> adlı AUR (Arch User Reposity) paketi kullanılmalıdır. (<em x-id="3">UYARI: Bu depo premid'i direk kaynak kodundan derler.</em>). Eğer bir AUR yöneticisi (yay vb.) yüklemek istemiyorsanız, <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux depomuzdan</a></strong> indirebileceğiniz AppImage paketimize göz atın.
+<em x-id="3">Uyarı: <strong x-id="1">AUR</strong> deposundaki paket biz (PreMiD kuruluşu) yerine başkaları tarafından sağlanmaktadır.</em>
 
-### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+### Port ilişkilendirme
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+<strong x-id="1">PreMiD</strong> kendisini <strong x-id="1">3020</strong> portuna ilişkilendirir. Bu, uygulama ve eklentinin iletişim kurması için gereklidir. Eğer <strong x-id="1">PreMiD</strong> bu portla ilgili bir hata gösteriyorsa, bir uçbirimde<code>sudo lsof -i:3020</code> veya <code>sudo netstat -tnlp | grep :3020</code> çalıştırarak 3020 portuna ilişkilendirilmiş başka bir işlem olup olmadığını kontrol edin. Eğer bu porta ilişkilendirilmiş bir işlem varsa portu boşaltmasını sağlayın ve <code>PreMiD'i</code> yeniden başlatın.
+
+### PreMiD AppImage ile kurulduğunda oturum açarken başlamıyor
+**Linux depomuzda** açıkladığımız gibi, AppImage oturum açıldığında başlatılamaz. Bu adımları izleyerek otomatik başlamasını kendiniz sağlayabilirsiniz:
+1. <code>/etc</code> klasöründe <strong x-id="1">rc.local</strong> adında bir dosya oluşturun.
+2. Bu dosyayı istediğiniz düzenleyici ile açıp bazı değişiklikler yaparak aşağıdaki kodu yapıştırın:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# /bin/bash olarak çalıştırmak için gereklidir (eğer zsh vb. kullanıyorsanız değiştirebilirsiniz.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
-<directory to appimage>/PreMiD*.AppImage
+# Örnek: /home/PreMiD/PreMiD*.AppImage
+<appimage klasörü>/PreMiD*.AppImage
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Dosyayı kaydedin ve chmod ile çalıştırma izni verin `sudo chmod a+x /etc/rc.local`.
+4. Bilgisayarınızı yeniden başlattığınızda PreMiD AppImage giriş yaptığınızda otomatik başlar.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# MacOS sorun giderme
+### Klasör oluşturmada hata
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Eğer bu hatayı alıyorsanız, bu hesabınızın Yönetici izinlerine sahip olmadığı anlamına gelir ve klasörü bu adımları izleyerek kendiniz oluşturmanız gerekir:
+1. Finder'ı açın ve **Uygulamalar** klasörünü bulun.
+2. Boş bir yere sağ tıklayın be **Klasör oluştur**'a tıklayın.
+3. Bu klasöre `PreMiD` adını verin (küçük büyük harfe dikkat edin).
+4. Yükleyiciyi yeniden başlatın.
 
 # Bunların hiçbiri sorununuzu çözmediyse
-Please open a ticket in [#support](https://discord.premid.app/).
+Destek kanalımızda ([#support](https://discord.premid.app/)) yardım isteyin.
