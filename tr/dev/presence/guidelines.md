@@ -1,6 +1,6 @@
 ---
 title: Servis Kılavuzu
-description: Rules that all presence developers must follow to have their presence added.
+description: Her geliştiricinin, servisinin eklenebilmesi için takip etmeleri gereken kurallar.
 published: true
 date: 2021-03-06T15:01:04.274Z
 tags:
