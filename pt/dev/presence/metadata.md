@@ -77,19 +77,19 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Variável</th>
       <th style="text-align:left">Descrição</th>
       <th style="text-align:left">Tipo</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Opcional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Deve conter um objeto com o <code>name</code> e <code>id</code> na presence do programador. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contribuidores(as)</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> é teu nome de utilizador no Discord sem o identificador(#0000). O <code>id</code> do utilizador pode ser copiado do Discord ativando o modo de
         programador e carregando com o botão direito no perfil do autor.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -110,7 +110,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>descrição</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. Ver categoria os idiomas de presence de uma lista. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
@@ -130,8 +130,8 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versão</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left">A versão da tua presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -155,7 +155,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etiquetas</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>definições</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
