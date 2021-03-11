@@ -360,7 +360,7 @@ Saat membuat presence, anda harus menentukan kategori dimana presence berada. Be
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Videos & Streams</b></td>
+        <td style="text-align:left"><b>Video dan Stream</b></td>
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
