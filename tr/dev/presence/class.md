@@ -28,15 +28,15 @@ There are three properties available for `Presence` class.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
+Bu özellik, oynuyor etkinliğinizin çalışmasını sağlamak için gereklidir, çünkü logosunu ve ID'nizi görüntülemek için uygulama kimliğinizi kullanır. Bunlardan bir tane alabilmek için [uygulamalar sayfası](https://discordapp.com/developers/applications)ndan servisiniz için bir uygulama oluşturmalısınız.
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+`injectOnComplete` ayarını `true` olarak ayarlarken, `presence.ts` ve `iframe.ts` için ilk `UpdateData` olayı, sadece sayfa tamamen yüklendiğinde çalıştırılacaktır.
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+`appMode` ayarını `true` olarak ayarladıktan sonra, boş bir `PresenceData` verisi gönderildiğinde, uygulama hiçbir şey yerine uygulamanızın ismini ve resmini gösterecektir.
 
 ## Metodlar
 
@@ -48,9 +48,9 @@ Geçerli durumun bilgisini içeren `PresenceData` verisi döner.
 
 Verilen verilerle profilinizi ayarlar.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+İlk parametre, servisin profilde gözükmesi için, bir [`PresenceData`](#presencedata-interface) verisi veya bir [`Slideshow`](/dev/presence/slideshow) verisi gerektirir.
 
-İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Always use `true` if you provide timestamps in `PresenceData`.
+İkinci parametre ise bir şeyin oynatılıp oynatılmadığını belirtir. Eğer `PresenceData` içerisinde zaman belirttiyseniz, her zaman `true` kullanın.
 
 ### `clearActivity()`
 
@@ -66,28 +66,28 @@ Menüdeki durum yazısını ayarlar.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Yeni bir `Slideshow` sınıfı oluşturur.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Bunu `Presence` sınıfını oluşturduktan hemen sonra yapmanız önerilir:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Örnek bir clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+`Slideshow` sınıfı için dokümanlara [buradan](/dev/presence/slideshow) ulaşabilirsiniz.
 
 ### `getStrings(Object)`
 
 Eklentiden belli çevirilere ulaşabileceğiniz asenkron yöntem.
 
-Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Çeviriyi saklamak istediğiniz anahtarı ve çevirinin bulunduğu objedeki anahtar kodunu da yanına yazmalısınız. Çevrilmiş yazıların listesine bu endpoint üzerinden erişebilirsiniz: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
 // `Oynatılıyor` ve `Durduruldu` çevirilerini
@@ -97,11 +97,11 @@ const strings = await presence.getStrings({
   pause: "general.paused"
 });
 
-const playString = strings.play; // result: Playing
-const pauseString = strings.pause; // result: Paused
+const playString = strings.play; // sonuç: Oynuyor
+const pauseString = strings.pause; // sonuç: Duraklatıldı
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Eklentinin v2.2.0 sürümünden bu yana, artık belirli bir dilin çevirilerini alabilirsiniz. Bu, yeni eklenmiş `multiLanguage` ayar seçeneği ile de düzgün çalışıyor.
 
 We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
 
@@ -136,8 +136,8 @@ if (oldLang !== newLang) {
   strings = getStrings();
 }
 
-const playString = (await strings).play, // result: Playing
-  pauseString = (await strings).pause; // result: Paused
+const playString = strings.play; // sonuç: Oynuyor
+const pauseString = strings.pause; // sonuç: Duraklatıldı
 ```
 
 ### `getPageletiable(String)`
@@ -146,7 +146,7 @@ Eğer varsa sayfadaki bir değişkenin içeriğini gösterir.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
-console.log(pageVar); // This will log the "Variable content"
+console.log(pageVar); // Değişkenin içeriğini gösterecektir
 ```
 
 ### `getExtensionVersion(Boolean)`
@@ -157,9 +157,9 @@ Kullanıcının kullandığı eklentinin sürümünü verir.
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // 210 çıktısı verir
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // 2.1.0 çıktısı verir
 ```
 
 ### `getSetting(String)`
@@ -167,8 +167,8 @@ console.log(version); // Will log 2.1.0
 Bir ayarın değerini döner.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); // pdexID'yi ayarın ID'si ile değiştirin
+console.log(setting); // Seçeneğin değerinin çıktısını verecektir
 ```
 
 ### `hideSetting(String)`
@@ -176,7 +176,7 @@ console.log(setting); // This will log the value of the setting
 Belirtilen ayarı gizler.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // pdexID'yi ayarın ID'si ile değiştirin
 ```
 
 ### `showSetting(String)`
