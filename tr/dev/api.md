@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## API Sürümleri
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+> API v2 kullanım ömrünü tamamlamış ve yakında kaldırılacaktır. Gelecekte herhangi bir sorunu önlemek için çağrılarda v3 kullanın. 
 > 
 > {.is-danger}
 
@@ -31,6 +31,6 @@ PreMiD API'de bulunan HTTP ve buna ait tüm protokoller TLS 1.2 şifreleme siste
 > {.is-danger}
 
 **API sürümünü seçin:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *kullanım ömrü doldu*](/dev/api/v2)
+- [v3 *aktif*](/dev/api/v3)
 {.links-list}
