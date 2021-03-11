@@ -67,32 +67,32 @@ Slide'ın `Slideshow` olarak eklenip eklenilmediği bilgisini `Boolean` türünd
 
 `Slideshow`'dan tüm slide'ları siler.
 
-# SlideshowSlide Class
+# SlideshowSlide Sınıfı
 
 ## Tanıtım
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+`SlideshowSlide`, `Slideshow` sınıfında bulunan tüm slide'lardır.
 
 ## Özellikler
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Slide'ın ID'sini barındıran bir `String`'dir.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Slide'a kaydedilmiş `PresenceData` verisine sahip [`PresenceData`](/dev/presence/class#presencedata-interface) objesidir.
 
 ## Metodlar
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Slide'ı belirtilen veri ile ayarlar.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Profilinizde göstermek istediğiniz veriyi barındıran bir `PresenceData` arayüzü sağlamalısınız.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Belirtilen slide'ın süresini ayarlar.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Slide'ın görüntüleneceği milisaniye cinsindeki süreyi (en az 5000) `Number` olarak belirtmelisiniz.
