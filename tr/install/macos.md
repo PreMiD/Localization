@@ -31,13 +31,13 @@ Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol 
 ![](https://img.icons8.com/color/2x/mac-logo.png) {.align-abstopright}
 
 ## Tanımlanamayan geliştiricilerin uygulamalarına izin ver
-Steps for macOS BigSur (11.0+):
-1. Right click on our installer.
-2. Click open in the dropdown menu.
-3. Click open in popup.
+macOS BigSur (11.0+) için adımlar:
+1. Yükleyicimize sağ tıklayın.
+2. Açılan menüden Aç seçeneğini seçin.
+3. Açılır pencerede Aç'ı tıklayın.
 
-Steps for older macOS versions:
-1. Open System Preferences.
-2. Go to the Security & Privacy tab.
-3. Click on the lock and enter your password or scan your fingerprint so you can make changes.
-4. Change the setting for 'Allow apps downloaded from' to 'App Store and identified developers' from just 'App Store'.
+Daha eski macOS sürümleri için adımlar:
+1. Sistem Ayarları'nı açın.
+2. Güvenlik & Gizlilik sekmesine girin.
+3. Kilit işaretine tıklayın, şifrenizi girin veya parmak izinizi okutarak değişiklik yapma kilidini açın.
+4. 'App Store'dan indirilen uygulamalara izin ver' ayarını 'App Store'dan ve yalnızca' App Store'dan 'tanımlanan geliştiricilere' değiştirin.

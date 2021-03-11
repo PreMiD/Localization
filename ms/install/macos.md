@@ -17,7 +17,7 @@ Pemasangan aplikasi amat penting kerana sambungan tidak mampu membuat apa-apa de
 2. Pilih **OS X**.
 3. Sarikan arkib jika diperlukan.
 4. Buka pemasang.
-5. A **security alert** may appear if you're installing PreMiD for the first time. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
+5. Sejenis **amaran keselamatan** mungkin muncul sekiranya anda memasang PreMiD untuk kali pertama. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
 > Hal ini kerana kami tidak mempunyai Sijil Tandatangan Kod (Code Signing Certificate, CSC). [Sokong kami](https://www.patreon.com/Timeraa) untuk memberi dana aplikasi ini.{.is-info}
 6. Pilih buka apabila diberitahu.
 7. Berikan capaian ke sambungan menerusi **Tembok Api** dan kawal **Peristiwa Sistem** apabila diberitahu.
