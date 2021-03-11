@@ -12,60 +12,60 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 ## Tanıtım
 
-The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
+`Slideshow` sınıfı, her x milisaniyede bir (minimum: 5000) birden çok `PresenceData` ve "kaydırmak" için kullanılır.
 
-See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
+Bir `Slideshow` nasıl oluşturulacağını öğrenmek için [`Presence`](/dev/presence/class) sınıfındaki [`createSlideshow`](/dev/presence/class#createslideshow) yöntemine bakın.
 
-## Properties
+## Özellikler
 
 ### `currentSlide`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of what the presence/current slide is displaying.
+Geçerli slide'ın sahip olduğu [`PresenceData`](/dev/presence/class#presencedata-interface) object'ini döner.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+console.log(currentSlide.details) // PresenceData verisinin çıktısını verecektir
 ```
 
 ## Metodlar
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Girilen veriye bağlı olarak yeni bir `Slideshow` ekler.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+İlk parametre, slide'ı belirtecek benzersiz bir `String` olmalıdır.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+İkinci parametre, slide'da göstermek istediğiniz [`PresenceData` arayüzü](/dev/presence/class#presencedata-interface) bilgisini içermelidir.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Üçüncü parametre, slide'ın görüntüleneceği süreyi milisaniye (en az 5000) şeklindeki bir `Number`'dır.
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Bir `Array` formatında [`SlideshowSlide`](#slideshowslide-class) sınıfına sahip `Slideshow` olarak kaydedilen verileri döner.
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Updates the slide of the given `id` according to provided data.
+Verilen `id`'ye sahip slide'ı günceller.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+İlk parametre, güncellemek istediğiniz slide'ı belirtecek benzersiz bir `String` olmalıdır.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+İkinci parametre, slide'da göstermek istediğiniz [`PresenceData` arayüzü](/dev/presence/class#presencedata-interface) bilgisini içermelidir.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Üçüncü parametre, slide'ın görüntüleneceği süreyi milisaniye (en az 5000) şeklindeki bir `Number`'dır.
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Slide'ın `Slideshow` olarak eklenip eklenilmediği bilgisini `Boolean` türünde döner.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+`Slideshow` olarak belirtilen `id`'ye sahip slide'ı siler.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+İlk parametre, silmek istediğiniz slide'ı belirtecek benzersiz bir `String` olmalıdır.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+`Slideshow`'dan tüm slide'ları siler.
 
 # SlideshowSlide Class
 
@@ -73,7 +73,7 @@ Deletes all slides from the `Slideshow`.
 
 A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
-## Properties
+## Özellikler
 
 ### `id`
 
