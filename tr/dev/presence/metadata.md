@@ -252,21 +252,21 @@ The `multiLanguage` key can be set to the following:
 
 `true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
 
-#### Adding new strings
+#### Yeni çeviriler ekleme
 
 ##### Projeyi klonlama
 
 1. Bir konsol açın ve `git clone https://github.com/PreMiD/Localization` yazın.
-2. Bir klasör seçin.
-3. Klasörü kullandığınız editör ile açın.
+2. İstediğiniz bir klasörü seçin.
+3. Kod düzenleyicinizde açın.
 
-##### Creating the file
+##### Dosyayı oluşturma
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. `src` klasörüne gidin.
+2. `Presence` klasörüne gidin.
+3. `servis.json` adında bir dosya açın. (Servis **isimdir** (URL değildir) ve küçük harflerle yazılmış olmalıdır.)
 
-##### Adding the strings
+##### Çevirileri ekleme
 
 Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
 
