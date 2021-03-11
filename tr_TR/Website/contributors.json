@@ -31,6 +31,10 @@
 		"message": "İnceleyen",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "Yerelleştirme Yöneticisi",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Geliştirici",
 		"description": "'Developer' title for contributors and user pages."
