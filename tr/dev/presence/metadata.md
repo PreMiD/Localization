@@ -304,8 +304,8 @@ Ayarlara servisinizin içinden ulaşabilmek için aşağıdaki metodları kullan
 #### `getSetting(String)`
 Bir ayarın versini döner.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); // pdexID'yi ayarın ID'si ile değiştirin
+console.log(setting); // Ayarın değerinin çıktısını verecektir
 ```
 
 #### `hideSetting(String)`
@@ -340,27 +340,27 @@ Bir servis oluştururken, servisin bulunacağı geçerli bir kategori belirtmeli
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
-      <td style="text-align:left"><b>Oyun</b></td>
+      <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Oyunlarla alakası olan tüm siteler, <code>Kahoot</code> veya <code>Skribbl.io</code> gibi.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
-      <td style="text-align:left"><b>Müzik</b></td>
+      <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Müzik konusunda içerik barındıran siteler, ister yayınlama ister indirme platformları olabilir.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
-        <td style="text-align:left"><b>Sosyal</b></td>
+        <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Oluşturma veya paylaşma gibi basit sosyal medya ilkelerine sahip siteler.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
-        <td style="text-align:left"><b>Video & Yayın</b></td>
+        <td style="text-align:left"><b>Videos & Streams</b></td>
       <td style="text-align:left">Özellikle video yayınlamak için oluşturulmuş platformlar.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
-      <td style="text-align:left"><b>Diğer</b></td>
+      <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Yukarıdaki kategorilerden hiç birine uygun olmayan her şey.</td>
     </tr>
   </tbody>
