@@ -11,13 +11,13 @@ dateCreated: 2021-02-26T21:54:41.573Z
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
     <h3 style="font-size: 2rem; margin-bottom: 0">Servis Kılavuzu</h3>
-    <h4 style="margin-top: 0">Revision 3</h4>
+    <h4 style="margin-top: 0">Revizyon 3</h4>
     <br />
 </div>
 
-# Guidelines
+# Yönergeler
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Bazıları için bu kurallar katı görünebilir. However, the implementation of these rulesets will keep us and the users from running into any issues.
+[GitHub Depomuza](https://github.com/PreMiD/Presences/) İçerik paylaşırken, bir takım yönergelere uymanız gerekir. Bazıları için bu kurallar katı görünebilir. Ama bu kurallar aslında bizim ve kullanıcılarımız sorunlar yaşamasını önlemek için vardır.
 
 # Oluşturma
 
@@ -31,13 +31,13 @@ Servis geliştirmenin genel kuralları aşağıdaki gibidir:
 - Servisin alan adı en az 2 aylık olmalıdır.
 - Tarayıcılara yerleşik sayfalar için yapılan servislere izin verilmemektedir (örneğin, Chrome Web Mağazası, `chrome://`, `about:` sayfaları gibi). Bu sayfalara kod enjekte edebilmek gelişmiş bir ayar aktifleştirmeyi gerektirdiği ve tarayıcılara zarar verebileceğinden dolayı **yasaktır**.
 - Yalnızca tek bir sayfa için desteğe sahip varlıklara izin **verilmeyecektir**, çünkü diğer sayfalar için bozuk görünebilirler (örneğin ana sayfa), politika ve iletişim sayfaları (sık kullanılmayan içerik) veya sitelerin diğer ilgisiz içerikleri. (ör. viki sayfaları)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
+- Çevrimiçi radyoların servislerinin eklenebilmesi için en az haftalık 100 ve aktif 15 dinleyicisi olmalıdır.
 - Düşük kaliteli (veya tek bir işlev gerçekleştiren) servislere **izin verilmemektedir**. Örneğin sadece sitenin simgesini ve hiçbir zaman değişmeyen bir yazı göstermek.)
-- With the `buttons` release, we require some guidelines for them:
-  - Redirects to main page are prohibited.
-  - Promoting websites by them is prohibited.
-  - They can't show addinational data when you can't show them in `state` or `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- `buttons` yayınlanmasıyla, şu yönergelere uyulmasını istiyoruz:
+  - Ana sayfaya yönlendirmeler yasak.
+  - Bu özelliği kullanarak site reklamları yapmak yasak.
+  - `state` veya `details` bölümlerinde bir şey göstermezken bunları ayarlamak mümkün değildir.
+- ` dist ` klasörü, ` presence.ts ` dosyası, ` iframe.ts ` dosyası ve ` metadata.json ` dosyası zorunludur sonuç aşağıdaki şemada temsil edilenler olacaktır:
 
 ```bash
 presence
@@ -129,7 +129,7 @@ Her servisin kendine ait açıklayıcı bir `metadata.json` dosyası vardır, bu
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (örneğin, iframe kullanmayan servislerin `iframe` alanına sahip olmaması gerekir
+> Eğer bu alanlardan biri [dokümanda](https://docs.premid.app/en/dev/presence/metadata) opsiyonel olarak işaretlenmişse ve değeriniz, varsayılan değer ile aynıysa, `metadata` dosyanızda bu değeri belirtmeyin (örneğin, iframe kullanmayan servislerin `iframe` alanına sahip olmaması gerekir
 
 > `metadata` dosyasında ki tüm görseller `i.imgur.com` da barındırılmak zorundadır. Sitenin kendisinde barındırılan resimlerin kullanımına **izin verilmemektedir**, çünkü bu resimler istemsiz de olsa bazen değişiklik gösterebilir.
 
@@ -151,11 +151,11 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 - Servisin ismi, servisin içinde bulunduğu klasörle aynı isimde **olmalıdır**. Örneğin, eğer servisiniz `/website/Y/YouTube` yolunda bulunuyorsa, servisinizin ismi `YouTube` olmalıdır.
 - Eğer site, adresini resmi ismi olarak kullanmıyorsa servis ismi olarak sitenin bağlantı adresini **kullanamazsınız**. Eğer isim tanımlayıcı değilse ve belirsiz sayılabilecek ise, bağlantı adresini kullanmak **gereklidir**. (örneğin, `youtube.com` kabul edilmez iken, `YouTube` kabul edilir çünkü bu resmi ve tanımlayıcı bir isimdir. `Top` tanımlayıcı bir isim olmadığından dolayı `top.gg` bağlantısını kullanmak **gereklidir**).
-- If service has some explicit branding rules of their name, you should follow them.
+- Eğer servis, ismi konusunda özel kurallar gerektiriyorsa, onlara uyulmalıdır.
 
 ### **`*altnames`**
 
-- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- Bunu **sadece** bir internet sitesinin resmi olarak birden fazla ismi olduğunda (örneğin, Pokémon ve 포켓몬스터) veya servis isminin içerisinde özel karekterlerin olduğu servislerde aramayı kolaylaştırmak için (örneğin, Pokémon ve Pokemon) kullanın. *Kısaltılmış* servis isimleri `tags` alanının altına yazılmalıdır.
 
 ### **`description`**
 
@@ -175,7 +175,7 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 ### **`logo`**
 
 - Logo, `1:1` en boy oranına sahip kare bir resim **olmalıdır**.
-- Resim en az `512x512` piksel çözünürlüğünde olmalıdır. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- Resim en az `512x512` piksel çözünürlüğünde olmalıdır. [waifu2x](http://waifu2x.udp.jp/) gibi araçlar kullanarak resminizi boyutlandırabilirsiniz.
 
 ### **`thumbnail`**
 
@@ -195,22 +195,22 @@ Bazı alanlar ve alanların kuralları aşağıda belirtilmiştir.
 
 ### **`category`**
 
-- The category **must** be one of the following listed on the [documentation](/dev/presence/metadata#presence-categories).
+- Seçtiğiniz kategori, [bu doküman yazısında](/dev/presence/metadata#presence-categories) belirtilen kategorilerden birisi **olmalıdır**.
 - Servis, servisin sitesinin içeriğine uyan bir kategori kullanmalıdır. (örneğin, servisin sitesi anime ile alakalı değilse `anime` kullanamazsınız).
 
 ### **`*regExp`** <br /> **`*iFrameRegExp`**
 
-- Regex verisi **mutlaka** geçerli olmalıdır. Please test your expressions with the tools listed on the [documentation](/dev/presence/metadata#testing).
+- Regex verisi **mutlaka** geçerli olmalıdır. Lütfen buraya yazdığınız değeri, [doküman sayfamızda](https://docs.premid.app/en/dev/presence/metadata#testing) belirtilen araçlarla deneyip çalıştığına emin olun.
 
 ### **`readLogs`**
 
-- Must be `boolean` value (e.g. `true` or `false`).
-- Enables logs for your presence.
+- Bir `boolean` değeri kullanmalıdır (örn. `true` ya da `false`).
+- Servisiniz için kayıtları aktifleştirir.
 
 ### **`warning`**
 
-- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
-- Example of presence using this metadata variable is `VLC`.
+- Sadece servisi eklemek yerine ek adımlar gerektiren servisler için bir uyarı işareti göstermeyi aktifleştirir.
+- Bu seçeneği kullanan örnek bir servis: `VLC`
 
 ### **`settings`**
 
