@@ -82,23 +82,23 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
-      <td style="text-align:left"><code>Objekt</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>přispěvatelé</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). Uživatelské <code>id</code> lze zkopírovat z Discordu povolením módu vývojáře
         a kliknutím pravým tlačítkem myši na tvůj profil.</td>
-      <td style="text-align:left"><code>Pole&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>služba</b></td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Název služby, kterou tato presence podporuje.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
@@ -106,13 +106,13 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left">Be able to search the presence using an alternative name.<br>
       Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
       You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
-      <td style="text-align:left"><code>Pole&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>popis</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat. View the category for presence languages for a list. </td>
-      <td style="text-align:left"><code>Objekt</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
@@ -126,36 +126,36 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">A regular expression string used to match urls.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>verze</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Verze vaší přítomnosti.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Odkaz na službu&apos; s logotypem.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>náhled</b></td>
+      <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Odkaz na náhled vašeho stavu.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>barva</b></td>
+      <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> hodnota. We recommend to use a primary color of the service
         that your presence supports.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>štítky</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ne</code></td>
@@ -163,7 +163,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">A string used to represent the category the presence falls under.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
@@ -175,19 +175,19 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>Řetězec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>nastavení</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
-      <td style="text-align:left"><code>Pole&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
   </tbody>
