@@ -294,9 +294,9 @@ Dosyanın örnek bir görüntüsü:
 Çevirilerinizi tamamen ekledikten sonra [Localization deposuna](https://github.com/PreMiD/Localization) bir Pull Request atabilirsiniz, bunun içerisinde de **mutlaka** bu çevirileri kullandığınız yeni servis güncellemenizin olduğu [Presence deposundaki](https://github.com/PreMiD/Presences) Pull Request'inizin bağlantısı olmalıdır.
 
 #### Varsayılan anahtarlar
-Ayarlamanız gerekmeyen anahtarlar otomatik olarak aşağıdaki gibi ayarlanır: `title`: "Language" **Not:** Bu başlık, kullanıcının tarayıcısının diline uygun olarak değişecektir. `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+Ayarlamanız gerekmeyen anahtarlar otomatik olarak aşağıdaki gibi ayarlanır: `title`: "Language" **Not:** Bu başlık, kullanıcının tarayıcısının diline uygun olarak değişecektir. `icon` "fas fa-language" ([Önizleme](https://fontawesome.com/icons/language)) `value`: **Eğer çevirisi %100 ise kullanıcının tarayıcısının dili seçeneğini alır, eğer değilse İngilizce olur.** `values`: **Çevirisi %100 tamamlanmış olan dillere ayarlanır.**
 
-**Note:** These are in no way changeable.
+**Not:** Bunlar hiçbir şekilde değiştirilemez.
 
 ### Metodlar
 
