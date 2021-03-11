@@ -18,13 +18,13 @@ Bir sınıf oluştururken `clientId` alanını mutlaka belirtmelisiniz.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // Örnek bir clientId alanı
 });
 ```
 
 ### Özellikler
 
-There are three properties available for `Presence` class.
+`Presence` sınıfı için kullanılabilen üç özellik vardır.
 
 #### `clientId`
 
@@ -326,7 +326,7 @@ Bu arayüz, aşağıdaki alanları kullanabilir, bunların hepsi opsiyonel yani 
     </tr>
         <tr>
       <td style="text-align:left">buttons</td>
-      <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
+      <td style="text-align:left">Buton array'ı, en fazla 2, label butonun metni, url ise bağlantıdır.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>

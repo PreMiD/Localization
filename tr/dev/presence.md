@@ -150,13 +150,13 @@ Yukarıdaki kodu kopyalayın ve `metadata.json` dosyanıza yapıştırın. Bunda
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Servis geliştiricisinin <code>isim</code> ve <code>id</code> bilgileri bulunan bir Obje içermelidir. <code>name</code> is your Discord username without the identifier(#0000). Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
+      <td style="text-align:left">Servis geliştiricisinin <code>isim</code> ve <code>id</code> bilgileri bulunan bir Obje içermelidir. <code>name</code> Discord kullanıcı adınızın etiketiniz (#0000) olmayan halidir. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Hayır</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Servis geliştiricisinin <code>name</code> ve <code>id</code> bilgileri bulunan bir Object içermelidir. <code>name</code> is your Discord username without the identifier(#0000). Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
+      <td style="text-align:left">Servis geliştiricisinin <code>name</code> ve <code>id</code> bilgileri bulunan bir Object içermelidir. <code>name</code> Discord kullanıcı adınızın etiketiniz (#0000) olmayan halidir. Kullanıcı <code>id</code>'leri Discord'da geliştirici modunu aktifleştirerek alınabilir.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Evet</code></td>
     </tr>
@@ -375,7 +375,7 @@ Klasörünüzün içindeyken bir terminal açın ve kodunuzu `dist` klasörüne 
 
 # Servisi test etme
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
+1. Eklenti penceresini açın ve klavyenizdeki <kbd>Shift</kbd> tuşuna basılı tutun.
 2. Servisler kısmının hemen sağında **Servis Yükle** yazısı çıkacaktır.
 3. <kbd>Shift</kbd>'e basılı tutarken bu yazıya tıklayın.
 4. Servisinizin dist klasörünü bulun ve seçin.
