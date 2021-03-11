@@ -89,7 +89,7 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
       <td style="text-align:left"><code>Nee</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>bijdragers</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Moet een object bevatten met de <code>naam</code> en <code>id</code> van de bijdrager. <code>naam</code> is je Discord gebruikersnaam zonder identificatie(#0000). Gebruiker <code>id</code> kan worden gekopieerd van Discord door de ontwikkelaar
         modus in te schakelen en de rechtermuisknop op je profiel te klikken.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -130,7 +130,7 @@ Dat voorbeeld lijkt erg vreemd, toch? Maak je geen zorgen, het is niet zo moeili
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versie</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Je presence-versie.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nee</code></td>

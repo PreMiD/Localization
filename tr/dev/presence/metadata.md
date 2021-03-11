@@ -268,33 +268,33 @@ Kullanıcıların servisi istedikleri dilde göstermeyi seçebilmelerini sağlay
 
 ##### Çevirileri ekleme
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Her `string` bir `Object` türündedir ve aralarında nokta olacak şekilde önce servisin ismi, peşinden de stringName gelecek şekilde belirtilir.
 
-The stringName is a 1 word identifier of the message.
+stringName tek kelime olacak şekilde mesajı anlatan bir anahtardır.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+`Object` toplamda iki özelliğe sahiptir; `message` ve `description`. `message` çevrilmesi gereken yazıdır. `description` çevirmenlerin anlamasında yardımcı olacak mesajınızdır.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Not:** Aynı çeviriyi birden fazla kere eklemeyin. (Buna `general.json` dosyasındakiler dahildir, fakat diğer dosyalardakiler dahil değildir.)
 
-Visualization of the the file:
+Dosyanın örnek bir görüntüsü:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Çevrilmesi gereken yazı.",
+    "description": "Yukarıdaki mesaj hakkında bilgilendirme veren yazı."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Çevrilmesi gereken yazı.",
+    "description": "Yukarıdaki mesaj hakkında bilgilendirme veren yazı."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Çevirilerinizi tamamen ekledikten sonra [Localization deposuna](https://github.com/PreMiD/Localization) bir Pull Request atabilirsiniz, bunun içerisinde de **mutlaka** bu çevirileri kullandığınız yeni servis güncellemenizin olduğu [Presence deposundaki](https://github.com/PreMiD/Presences) Pull Request'inizin bağlantısı olmalıdır.
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Varsayılan anahtarlar
+Ayarlamanız gerekmeyen anahtarlar otomatik olarak aşağıdaki gibi ayarlanır: `title`: "Language" **Not:** Bu başlık, kullanıcının tarayıcısının diline uygun olarak değişecektir. `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
 
 **Note:** These are in no way changeable.
 
