@@ -17,7 +17,7 @@ tags:
 2. সিলেক্ট করো **OS X**
 3. আর্কাইভটি এক্সট্রাক্ট করো যদি প্রয়োজন হয়।
 4. ইন্সটলারটি ওপেন করো।
-5. একটি **সিকিউরিটি অ্যালার্ট** আসবে, যদি তুমি প্রথমবার PreMiD ইন্সটল করতে যাও। If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
+5. একটি **সিকিউরিটি অ্যালার্ট** আসবে, যদি তুমি প্রথমবার PreMiD ইন্সটল করতে যাও। যাও **Preferences** > **Security** > **General** > **Open Anyway**.
 > এটার কারণ হচ্ছে আমাদের কাছে কোড সাইনিং সার্টিফিকেট (CSC) নেই। [সাপোর্ট করো আমাদের](https://www.patreon.com/Timeraa) এটার জন্য টাকা যোগাতে।{.is-info}
 6. সিলেক্ট করো যখন চাওয়া হবে।
 7. অ্যাক্সেস দাও কানেকশনগুলোকে **ফায়ারওয়াল** দ্বারা এবং কন্ট্রোল করো **সিস্টেম ইভেন্টগুলো** যখন চাওয়া হবে।
