@@ -83,7 +83,7 @@ const presence = new Presence({
 
 You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
 
-### `getStrings(Об'єкт)`
+### `getStrings(Object)`
 
 An asyncronous method that allows you to get translated strings from extension.
 
@@ -277,15 +277,15 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">подробиці</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">Перший рядок присутності, зазвичай використовується як заголовок.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">положення</td>
+      <td style="text-align:left">state</td>
       <td style="text-align:left">Другий рядок у вашій присутності.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -295,7 +295,7 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
           <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
 .
       </td>
-      <td style="text-align:left"><code>Номер</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
@@ -305,26 +305,26 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
           <br>Ви повинні конвертувати час на <code>позначку</code> або ви отримаєте неправильний відлік
 .
       </td>
-      <td style="text-align:left"><code>Номер</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Визначає логотип для присутності.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">маленький ключ зображення</td>
+      <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Визначає маленьку іконку поруч з присутністю&apos;s логотип.</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Визначає текст, який буде відображатися користувачеві, коли він буде наводитись до малої піктограми
 .</td>
-      <td style="text-align:left"><code>Рядок</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
         <tr>
@@ -358,7 +358,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## Події
+## Events
 
 Події дозволяють виявити і обробляти деякі зміни, або виклики, які були зроблені. Ви можете підписатись на події, використовуючи `on` метод.
 
