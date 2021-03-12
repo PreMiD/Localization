@@ -140,7 +140,7 @@ const playString = (await strings).play, // result: Playing
   pauseString = (await strings).pause; // result: Paused
 ```
 
-### `getPageLetiable(String)`
+### `getPageletiable(String)`
 
 คืนค่าตัวแปรจากเว็บไซต์ถ้ามันมีอยู่จริง
 
@@ -277,7 +277,7 @@ presenceData.endTimestamp = timestamps[1];
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">ราย​ละเอียด</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">บรรทัดแรกใน presence มักจะใช้เป็น Header</td>
       <td style="text-align:left"><code>String</code>
       </td>
@@ -357,7 +357,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## เหตุการณ์
+## Events
 
 เหตุการณ์อนุญาตให้คุณตรวจจับและจัดการการเปลี่ยนแปลงหรือเรียกสิ่งที่เกิดขึ้น คุณสามารถติดตามเหตุการณ์โดยใช้วิธี `on`
 
