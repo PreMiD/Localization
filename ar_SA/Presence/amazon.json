@@ -1,4 +1,8 @@
 {
+    "amazon.subscriptions": {
+        "message": "يشاهد الاشتراكات",
+        "description": ""
+    },
     "amazon.adprefs": {
         "message": "يشاهد الإعلانات الخاصة بهم",
         "description": ""
