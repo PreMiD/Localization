@@ -23,7 +23,7 @@ Ako prítomnosti, `iframes` má svoju triedu určenú na automatickú aktualizá
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Kód ide sem...
+    // Code goes here...
 });
 ```
 
@@ -40,7 +40,7 @@ Vo `iframe`, udalostiach pracujú podobným spôsobom ako pracujú v triede `pr�
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Kód ide sem...
+    // Code goes here...
 });
 ```
 
