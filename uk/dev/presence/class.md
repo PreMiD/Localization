@@ -330,7 +330,7 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
         <tr>
       <td style="text-align:left">buttons</td>
       <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
-      <td style="text-align:left"><code>Масив&lt;Object&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>
   </tbody>
@@ -370,7 +370,7 @@ presence.on("UpdateData", async () => {
 
 Є мало доступних подій:
 
-#### `Оновлення даних`
+#### `UpdateData`
 
 Ця подія вистрілюється щоразу, коли присутність оновлюється.
 

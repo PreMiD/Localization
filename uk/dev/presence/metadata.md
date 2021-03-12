@@ -82,21 +82,21 @@ An example of that file can be found below.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>автор</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Користувач <code>id</code> може бути скопійований з Discord, увімкнувши режим розробника
         і правою кнопкою миші в вашому профілі.</td>
-      <td style="text-align:left"><code>Об'єкт</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>учасники проєкту</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). Користувач <code>id</code> може бути скопійований з Discord, увімкнувши режим розробника
         і правою кнопкою миші в вашому профілі.</td>
-      <td style="text-align:left"><code>Масив&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>сервіс</b></td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Назва служби, яку підтримує ця присутність.</td>
       <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
@@ -110,17 +110,17 @@ An example of that file can be found below.
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>опис</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Ваш опис має бути з ключових значень, які вказують на мову, а також опис цієї конкретної мови. Створюйте описи мовами <i>, яких ви знаєте</i>, наші перекладачі будуть вносити зміни до вашого файлу метаданих. View the category for presence languages for a list. </td>
-      <td style="text-align:left"><code>Об'єкт</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>URL-адреса</b></td>
+      <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">URL of the service.<br>
       <b>Example:</b><code>vk.com</code><br>
       <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
-      <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -130,13 +130,13 @@ An example of that file can be found below.
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>версія</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Версія вашої присутності.</td>
       <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>логотип</b></td>
+      <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Посилання на сервіс&apos;logotype.</td>
       <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
@@ -148,20 +148,20 @@ An example of that file can be found below.
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>колір</b></td>
+      <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> значення. Ми рекомендуємо використовувати основний колір служби
         , який ваша присутність.</td>
       <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>теги</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Масив із мітками, вони допоможуть користувачам шукати вашу присутність на сайті.</td>
-      <td style="text-align:left"><code>Стрічка, масив&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>категорія</b></td>
+      <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Рядок, який використовується для представлення категорії, на яку падає присутність.</td>
       <td style="text-align:left"><code>Рядок</code></td>
       <td style="text-align:left"><code>Ні</code></td>
@@ -187,7 +187,7 @@ An example of that file can be found below.
     <tr>
       <td style="text-align:left"><b>налаштування</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
-      <td style="text-align:left"><code>Масив&lt;Object&gt;</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
   </tbody>
@@ -339,32 +339,32 @@ presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>аніме</b></td>
+      <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Аніме</b></td>
       <td style="text-align:left">Все, що пов'язане з анімацією, з форумів до відео-платформ.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ігри</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Ігри</b></td>
       <td style="text-align:left">Будь-який сайт, який має пов'язаний з грою, наприклад <code>Кахуот</code> або <code>Скорбл.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>музика</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Музика</b></td>
       <td style="text-align:left">Це веб-сайти, які пропонують контент, пов'язаний з музикою, чи це трансляцію чи завантаження.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>соціальне</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Соціальне</b></td>
       <td style="text-align:left">Веб-сайти, які використовуються для створення та обміну контентом, або для участі в інших соціальних мережах.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>відео</b></td>
+      <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Відео & прямі трансляції</b></td>
       <td style="text-align:left">Веб-сайти, які служать цілі визначення відео та потоків.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>інше</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Інше</b></td>
       <td style="text-align:left">Все, що не належить до конкретної категорії, вказаної вище.</td>
     </tr>

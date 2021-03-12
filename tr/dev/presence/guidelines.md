@@ -268,7 +268,7 @@ Servis geliştirmenin en önemli aşamalarından biri servisinizi mağazaya ekle
 <div>
   <h2 style="font-size: 2rem; margin-bottom: 0;">Servis İnceleyicileri</h2>
   
-  <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+  <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/StrikerFRFX"><img src="https://github.com/StrikerFRFX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
@@ -316,7 +316,7 @@ Eğer kılavuzu geliştirebilmemiz için aklınızda bir öneri varsa, bize [Pre
 Kılavuzun `Revziyon 3` sürümü aşağıdaki şahıslar tarafından yazılmış ve katkıda bulunulmuştur:
 
 <div>
-<a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
+<a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
 Bu kılavuzun `Revizyon 2` sürümü aşağıdaki şahıslar tarafından hazırlanmıştır:
