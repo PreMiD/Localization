@@ -18,7 +18,7 @@ Installasjonen av denne extensionen er veldig viktig på fordi applikasjonen ikk
 1. Legg til **[Installer Chrome Extensjoner](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
 2. Legg til [vår utvidelse](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Ikke glem å [legge til** applikasjonen**](/install). 
 > 
 > {.is-warning}
 
