@@ -339,24 +339,23 @@ When making your presence, you must specify a category which the presence falls 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>аниме</b></td>
+      <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Аниме</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>игри</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Игри</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>музика
-</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>музика
 </b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>вечеринка</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>вечеринка</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
@@ -366,7 +365,7 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>друг</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Други</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
