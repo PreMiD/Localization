@@ -16,7 +16,7 @@
 		"description": "Features list"
 	},
 	"beta.features.2": {
-		"message": "PreMiD - এর অতীব গোপন টেক্সট চ্যানেলগুলিতে অ্যাক্সেস",
+		"message": "PreMiD - এর অতীব গোপন টেক্সট চ্যানেলগুলোতে অ্যাক্সেস",
 		"description": "Features list"
 	},
 	"beta.features.3": {
@@ -36,7 +36,7 @@
 		"description": "Thank You page title"
 	},
 	"thankyou.description": {
-		"message": "আমাদের বানরগুলি কাজ করছে আমাদের বেটা প্রোগ্রামে যত দ্রুত সম্ভব ঢোকানোর। ধন্যবাদ রেজিস্টার করার জন্যে!",
+		"message": "আমাদের বানরগুলো কাজ করছে আমাদের বেটা প্রোগ্রামে যত দ্রুত সম্ভব ঢোকানোর। ধন্যবাদ রেজিস্টার করার জন্যে!",
 		"description": "Thank You page description"
 	},
 	"error.noslots": {
