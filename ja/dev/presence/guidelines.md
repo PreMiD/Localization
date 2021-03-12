@@ -212,7 +212,7 @@ A list of fields and their rules are listed below:
 - プレゼンスを使用するときに追加のステップが必要になるプレゼンスには、警告アイコンを付ける必要があります。
 - Example of presence using this metadata variable is `VLC`.
 
-### **`設定`**
+### **`settings`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
