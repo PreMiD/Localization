@@ -1,5 +1,5 @@
 ---
-title: Presence Guidelines
+title: شرایط و ضوابط Presence ها
 description: Rules that all presence developers must follow to have their presence added.
 published: true
 date: 2021-03-06T15:01:04.274Z
@@ -10,14 +10,14 @@ dateCreated: 2021-02-26T21:54:41.573Z
 
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
-    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Guidelines</h3>
+    <h3 style="font-size: 2rem; margin-bottom: 0">شرایط استفاده Presence ها</h3>
     <h4 style="margin-top: 0">Revision 3</h4>
     <br />
 </div>
 
 # Guidelines
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+وقتی یک Presences را در [رپو گیت هاب ما](https://github.com/PreMiD/Presences) منتشر می شود، ما شما را ملزم به دنبال کردن از یک سری قوانین می دانیم. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
 # Creation
 
@@ -175,7 +175,7 @@ A list of fields and their rules are listed below:
 ### **`logo`**
 
 - The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- The image is **required** to have a minimum resolution of `512x512` pixels. شما می توانید اندازه‌اش را بزرگ تر کنید با استفاده از ابزاری شبیه [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
@@ -207,7 +207,7 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`هشدار`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
@@ -216,10 +216,10 @@ A list of fields and their rules are listed below:
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
-- If you are using the `multiLanguage` option it can have the following types:
+- اگر شما از گزینه `multiLanguage`(چند زبانه) استفاده می کنید، باید بدانید که:
   - **Boolean** type which will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from the Localization repo or from the presence file (e.g. when the name of the presence is YouTube, the extension will get strings from `youtube.json` too.)
-  - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
-  - **Array<String>** type (e.g. `["youtube", "discord"]`) which will specify the name of the files that you want to get strings from.
+  - نوع مقدار رشته **String** (برای مثال `youtube`) نام فایلی را که می خواهید رشته ها را از آنجا بگیرید مشخص خواهد کرد.
+  - نوع مقدار آرایه **Array<String>** (برای مثال `["youtube", "discord"]`) نام فایلی را که می خواهید رشته ها را از آنجا بگیرید مشخص خواهد کرد.
 
 ## [**presence.ts**](/dev/presence/class)
 
@@ -257,7 +257,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
-> If you need to contact someone, please use our official Discord server. All reviewers will have the `Reviewer` role on their profile.
+> اگر شما به کمک دیگران نیازمندید، لطفا از طریق سرور رسمی دیسکورد ما تماس بگیرید. تمام بازبین ها نقش `بازبین` در پروفایل‌شان دارند.
 
 > Please keep in mind that the reviewers work voluntarily and manage other repositories in addition to this one, your pull request may not get reviewed until hours or even days after it has been created.
 
