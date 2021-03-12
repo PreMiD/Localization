@@ -82,14 +82,14 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>skapare</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> kan kopieras från Discord genom att aktivera utvecklarläget
         och högerklicka på din profil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nej</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>medverkande</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
         och högerklicka på din profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -110,7 +110,7 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>beskrivning</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Din beskrivning måste innehålla nyckelparvärden som anger språket, och beskrivningen i det specifika språket. Gör beskrivningar med språken <i>som du känner</i>, våra översättare kommer att göra ändringar i din metadatafil. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nej</code></td>
@@ -155,7 +155,7 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
       <td style="text-align:left"><code>Nej</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>taggar</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array med taggar, kommer de att hjälpa användare att söka din närvaro på webbplatsen.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nej</code></td>
@@ -185,7 +185,7 @@ Det exemplet ser verkligen konstigt ut, va? Oroa er inte, det är inte så svår
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>inställningar</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>
@@ -344,17 +344,17 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Allt relaterat till anime, från forum till videoströmmande plattformar.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>spel</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Spel</b></td>
       <td style="text-align:left">Alla webbplatser som har spelrelaterat innehåll, som <code>Kahoot</code> eller <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>musik</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Musik</b></td>
       <td style="text-align:left">Detta är webbplatser som erbjuder musikrelaterat innehåll, oavsett om det är streaming eller nedladdning.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socialt</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Socialt</b></td>
       <td style="text-align:left">Webbplatser som används för att skapa och dela innehåll eller för att delta i andra former av socialt nätverk.</td>
     </tr>
@@ -364,7 +364,7 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Webbplatser som tjänar syftet att tillhandahålla videor och strömmar.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>annat</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Annat</b></td>
       <td style="text-align:left">Allt som inte faller under en specifik kategori som anges ovan.</td>
     </tr>
