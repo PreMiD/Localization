@@ -266,13 +266,13 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Revisores das Presences</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Revisores de Presences</h2>
   
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/StrikerFRFX"><img src="https://github.com/StrikerFRFX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
-## `Analisando`
+## `Restrições`
 
 Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
 
