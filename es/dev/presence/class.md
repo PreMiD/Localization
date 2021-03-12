@@ -133,11 +133,11 @@ let strings: Promise<LangStrings> = getStrings(),
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
-  strings = getStrings();
+  strings = await getStrings();
 }
 
-const playString = (await strings).play, // result: Playing
-  pauseString = (await strings).pause; // result: Paused
+const playString = strings.play; // resultado: Playing
+const pauseString = strings.pause; // resultado: Paused
 ```
 
 ### `getPageletiable(String)`
@@ -337,20 +337,20 @@ Esta interfaz tiene siguientes variables, todas son opcionales.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
-  largeImageKey: "service_logo",
-  smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  details: "Mi título",
+  state: "Mi descripción",
+  largeImageKey: "logo_servicio",
+  smallImageKey: "icono_servicio_pequño",
+  smallImageText: "Has puesto el cursor sobre mí, ¿ahora que?",
   startTimestamp: 1564444631188,
-  endTimestamp: 1564444634734,
+  endTimestamp: 1564444634734
   buttons: [
     {
-            label: "Test button1",
+            label: "Botón de prueba1",
             url: "https://premid.app/"
         },
         {
-            label: "Test button2",
+            label: "Botón de prueba2",
             url: "https://premid.app/contributors"
         }
     ]
