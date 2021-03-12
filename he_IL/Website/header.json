@@ -34,5 +34,25 @@
   "header.contributors": {
     "message": "תורמים",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "התחבר",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "נכנסת בשם",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "דווח על באג",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "לוח בקרה",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "יציאה מהמערכת",
+    "description": "Logout button"
   }
 }
