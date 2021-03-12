@@ -8,18 +8,18 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:51.119Z
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> تأكد من وجود [المتطلبات الكافية](/install/requirements) لتشغيله على جهازك. 
 > 
 > {.is-info}
 
-> **It is necessary** to install **both** the **application** and the **extension**! 
+> **من الضروري** تثبيت ** التطبيق ** و **الملحق**! 
 > 
 > {.is-warning}
 
 **اختر نظام التشغيل الخاص بك:**
 - [ويندوز *7 أو أعلى*](/install/windows)
 - [*macOS 10.11 أو أعلى*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [لينكس *نواة مع v2.x أو أعلى*](/install/linux)
 {.links-list}
 
 **اختر المتصفح الخاص بك:**
