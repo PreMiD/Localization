@@ -6,25 +6,25 @@ date: 2020-02-12T22:08:37.439Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements). 
+> Før du går lenger, har du sikret deg om at systemet ditt oppfyller alle [kravene](/install/requirements). 
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Installasjonen av denne extensionen er veldig viktig grunnet applikasjonen ikke kan gjøre noe selv uten det.
 
 # Installer
 1. Gå til våre nedlastnings side ved å [Klikke her](https://premid.app/downloads).
-2. Choose **OS X**.
+2. Velg **OS X**.
 3. Extract the archive if necessary.
-4. Open the installer.
+4. Åpne installasjonsprogrammet.
 5. A **security alert** may appear if you're installing PreMiD for the first time. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+> This is because we do not have a Code Signing Certificate (CSC). [Støtt oss](https://www.patreon.com/Timeraa) for å finansiere det.{.is-info}
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
 Applikasjonen vil starte automatisk. Check for the symbol in your menu bar.
 
-> Do not forget to [add the **extension**](/install). 
+> Ikke glem å [legge til** utvidelsen**](/install). 
 > 
 > {.is-warning}
 
