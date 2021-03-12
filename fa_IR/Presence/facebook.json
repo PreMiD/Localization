@@ -1,1 +1,62 @@
-{}
+{
+    "facebook.call": {
+        "message": "در تماس با:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "در تماس تصویری با:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "شخصی...(کاربری پنهان)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "نوشتن پیام",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "خواندن درباره کاربر:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "مشاهده انجمن کاربر:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "نگاه کردن تصاویر توسط کاربر:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "نگاه کردن پست های کاربر:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "نگاه کردن فروشگاه کاربر:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "نگاه کردن دوستان کاربر:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "نگاه کردن فیلم های توسط کاربر:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "گشتن در:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "فیلم های ذخیره شده",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "اخیراً افزوده شده",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "بازدید آب و هوای امروز",
+        "description": ""
+    }
+}

@@ -127,6 +127,10 @@
 		"message": "Vennligst velg en",
 		"description": "Select default placeholder."
 	},
+	"partners.apply.select.other": {
+		"message": "Andre",
+		"description": "Select 'Other' category."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Lukk",
 		"description": "Modal close button."

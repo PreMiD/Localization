@@ -1,7 +1,59 @@
 {
+	"store.message.error": {
+		"message": "Tillägget är inte anslutet.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.cards.creator": {
 		"message": "Skapare",
 		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Den här Precensen är väldigt populär bland användare.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Partnerad Precense",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Den här precensen kräver extra steg, vänligen kontrollera dess sida för mer information.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Sök Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Lägg till Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Ta bort Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Den här Presencen aktiveras automatiskt när du besöker dess webbplats.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Filter",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Mest använda först",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Visa NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Bara gillade Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Visa tillagda Presences",
+		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
 		"message": "Kategorier",
@@ -34,5 +86,13 @@
 	"store.search": {
 		"message": "Sök",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Ange",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klicka för att ta bort filter",
+		"description": "Remove message for active search filters."
 	}
 }

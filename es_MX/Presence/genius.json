@@ -1,0 +1,18 @@
+{
+	"genius.lyrics": {
+		"message": "Viendo lyrics de:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Ver Letra",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Viendo la página principal",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Viendo el álbum:",
+		"description": "Album of a song"
+	}
+}

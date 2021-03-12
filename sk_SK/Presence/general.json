@@ -7,24 +7,252 @@
 		"message": "Prehľadáva...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Kapitola",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Upravuje:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Epizóda",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Fóra",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Žáner",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Jazyk",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Počúva hudbu",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Poslucháči",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Naživo",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Tovar",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Stránka",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Pozastavené",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Práve hrá",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Číta si správy od:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Číta si o:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Číta si článok:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Číta si v kanáli:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Číta si:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Číta si:",
 		"description": ""
 	},
 	"general.reading": {
 		"message": "Číta",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "Vyhľadáva si:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Vyhľadáva niečo...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "Hľadá",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Nákupný košík",
 		"description": ""
 	},
 	"general.store": {
 		"message": "Obchod",
 		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Píše spravu užívateľovi:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Píše v kanáli:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Pozerá anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Pozerá kategóriu:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Prezerá kanál:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Pozerá epizódu:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Pozerá žáner:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Pozerá domácu stránku",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Pozerá list:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Pozerá mangu:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Prezerá si užívateľa:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Pozerá film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Prezerá si playlist:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Prezerá si produkt:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Prezerá si profil užívateľa:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Pozerá seriál:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Pozerá show:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Prezerá si ich účet",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Prezerá si:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Pozerá:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Pozerá si video",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Čaká na premiéru videa",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Čaká na premiéru videa",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Pozerá vysielanie",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Čaká na začiatok vysielania",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Čaká na začiatok vysielania",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Pozerá:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Zoznam prianí:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Zásady ochrany osobných údajov",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Podmienky služieb",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Zásady cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Opakuje všetky pesničky",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Opakovanie",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "História nehôd",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "História prevádzkyschopnosti",
+		"description": "A page name of statuspages"
 	}
 }

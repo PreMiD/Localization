@@ -24,15 +24,15 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "در حال پخش",
+		"message": "درحال پخش",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
-		"message": "زنده",
+		"message": "پخش زنده",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "مرور کردن...",
+		"message": "گشتن...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {

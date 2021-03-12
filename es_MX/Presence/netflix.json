@@ -1,0 +1,18 @@
+{
+	"netflix.viewList": {
+		"message": "Viendo sus listas",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Gestionando sus perfiles",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Viendo que es nuevo{0}y popular en Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Obteniendo su enlace{0}de referido",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}
