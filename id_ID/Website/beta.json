@@ -3,6 +3,10 @@
 		"message": "Mau fitur-fitur baru?",
 		"description": "Beta page title"
 	},
+	"beta.features.1": {
+		"message": "Fitur-fitur terbaru",
+		"description": "Features list"
+	},
 	"beta.register.button": {
 		"message": "Daftar sekarang!",
 		"description": "Sign up button text"

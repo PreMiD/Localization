@@ -3,6 +3,10 @@
 		"message": "Detail",
 		"description": "'Details' text on error page container"
 	},
+	"error.page.button": {
+		"message": "Kembali ke halaman awal",
+		"description": "Button on the error page"
+	},
 	"user.notFound.heading": {
 		"message": "Pengguna tersebut tidak dapat ditemukan. Coba pastikan",
 		"description": "Error when user couldn't be found."
