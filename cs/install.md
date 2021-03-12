@@ -19,7 +19,7 @@ dateCreated: 2020-06-11T18:03:51.119Z
 **Vyberte operační systém:**
 - [Windows *7 nebo vyšší*](/install/windows)
 - [macOS *10.11 nebo vyšší*](/install/macos)
-- [Linux *kernel with v2.x or above*](/install/linux)
+- [Linux *kernel v2.x nebo vyšší*](/install/linux)
 {.links-list}
 
 **Vyberte svůj prohlížeč:**
