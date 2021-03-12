@@ -1,6 +1,6 @@
 ---
 title: Hibaelhárítás
-description: Everything to solve your problem
+description: Minden ami megoldja a problémát
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,14 +8,14 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> Győződj meg arról, hogy a bővítmény **és** az alkalmazás is egyaránt telepítésre került! 
 > 
 > {.is-warning}
 
 Included on this page:
 1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+2. [Linux hibaelhárítás](https://docs.premid.app/troubleshooting#linux)
+3. [MacOS hibaelhárítás](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
@@ -101,9 +101,9 @@ As we stated in our **Linux repository**, AppImage can't be launched at login. Y
 2. Open this file in your favourite editor and paste given code with changing some things:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# Required to run as /bin/bash (if you use zsh etc. megváltoztathatod.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
+# Példa: /home/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
 
 exit 0
