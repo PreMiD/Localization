@@ -11,6 +11,10 @@
 		"message": "Nästa",
 		"description": "Next button in the modal."
 	},
+	"jobs.modal.buttons.join": {
+		"message": "Gå med",
+		"description": "Join Discord button in the modal."
+	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Avbryt",
 		"description": "Cancel, button in the modal."
@@ -23,9 +27,21 @@
 		"message": "PreMiD är ett projekt med öppen källkod, vilket innebär att vi är ett ideellt team, varje donation eller patreonpengar går tillbaka till produkten. Genom att ansöka om en anställning hos PreMiD bekräftar du att du är volontär i teamet kommer du inte att få betalt för ditt arbete.",
 		"description": "Notice for applicants."
 	},
+	"jobs.guild.required": {
+		"message": "Gå med i vår Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "För att kunna ansöka så måste du gå med i vår Discord-server. Annars kan vi inte kontakta dig ifall du blir vald!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Arbeta för PreMiD",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Är du redo att hjälpa det största Rich-Presence programmet?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Lediga jobb",
@@ -63,6 +79,10 @@
 		"message": "Stötta PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "Med ditt bidrag är det möjligt att driva det här projektet.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "Timeout",
 		"description": "Benefit card title."
@@ -74,6 +94,10 @@
 	"jobs.benefit6.title": {
 		"message": "Förhandstillgång",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Testa nya funktioner före någon annan.",
+		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
 		"message": "Tack för din ansökan!",
