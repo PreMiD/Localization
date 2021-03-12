@@ -4,15 +4,15 @@
 		"description": "after the \":\" it will say the username"
 	},
 	"twitter.viewDms": {
-		"message": "দেখছে তার মেসেজগুলি",
+		"message": "দেখছে তার মেসেজগুলো",
 		"description": ""
 	},
 	"twitter.viewTweets": {
-		"message": "দেখছে টুইটগুলি:",
+		"message": "দেখছে টুইটগুলো:",
 		"description": ""
 	},
 	"twitter.viewTweetsWithReplies": {
-		"message": "দেখছে টুইটগুলি (রিপ্লাই এর সঙ্গে):",
+		"message": "দেখছে টুইটগুলো (রিপ্লাই এর সঙ্গে):",
 		"description": ""
 	},
 	"twitter.viewMedia": {
@@ -24,11 +24,11 @@
 		"description": ""
 	},
 	"twitter.viewList": {
-		"message": "দেখছে তালিকাগুলি:",
+		"message": "দেখছে তালিকাগুলো:",
 		"description": ""
 	},
 	"twitter.bookmarks": {
-		"message": "বুকমার্কগুলি",
+		"message": "বুকমার্কগুলো",
 		"description": ""
 	},
 	"twitter.notifs": {
