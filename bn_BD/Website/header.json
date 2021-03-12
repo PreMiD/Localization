@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "পিঠা গরম করছি...;কনটেইনারগুলি রাখছি...;তোমার আইপি অ্যাড্রেস খুটে খুটে দেখছি...;UwU;নিয়ম ভাঙছি...",
+    "message": "পিঠা গরম করছি...;কনটেইনারগুলো রাখছি...;তোমার আইপি অ্যাড্রেস খুটে খুটে দেখছি...;UwU;নিয়ম ভাঙছি...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
