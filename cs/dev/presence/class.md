@@ -292,38 +292,38 @@ Toto rozhraní má následující proměnné, žádná z nich není povinná.
       <td style="text-align:left">startTimestamp</td>
       <td style="text-align:left">Definuje aktuální čas.<br>
         Používá se, pokud chcete zobrazit, kolik <code>hodin:minut:sekund</code> zbývá.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+          <br>Aby odpočítávání fungovalo správně, musí být čas nejprve
+          převeden na <code>timestamp</code>.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definuje dobu trvání.
+        <br>Používá se, pokud chcete zobrazit kolik <code>hodin:minut:sekund</code> zbývá.
+          <br>Aby odpočítávání fungovalo správně, musí být čas nejprve
+          převeden na <code>timestamp</code>.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Definuje logo pro presenci.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Určuje malou ikonu vedle loga&apos;s.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Definuje text, který se zobrazí uživateli, když se dotkne malé ikony
+.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
