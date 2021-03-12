@@ -1,0 +1,98 @@
+{
+	"v live.browseThrough": {
+		"message": "Navegando a través de",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "la página de vídeos nuevos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "la página de gráficos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "la página de próximos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "la lista de canales",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "la página de eventos",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "la página de la tienda",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Navegando por subidas{0}recientes de sus seguidores",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "del canal {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Revisando la página principal",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Viendo la programación",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Revisando la página \"my\"",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Revisando la página de la tienda",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "Viendo el tablón \"{0}\"",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "Viendo producto de {0}",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.profileEdit": {
+		"message": "Editando su{0}propio perfil",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.viewTheir": {
+		"message": "Revisando sus",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "página del perfil",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "vídeos vistos",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "compras recientes",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "balance de monedas",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "dispositivos conectados",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "canales seguidos",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Leyendo las políticas",
+		"description": ""
+	}
+}
