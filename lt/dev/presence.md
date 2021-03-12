@@ -127,13 +127,13 @@ Mes sukūremė `metadata.json` failo kūrėją tingiems žmonėms [čia](https:/
 
 Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` failą. Jūs dabar turite redaguoti jų ypatybes. Norime, kad atsižvelgtumėtė tai, kad šios ypatybės yra pasirinktinos turėti jūsų `metadata.json` failę, jeigu jūs neplanuojate jų naudoti, tuomet juos ištrinkite.
 
-- `pagalbininkai`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `nustatymai`
+- `settings`
 
 **Kai kurių iš anksto nustatytų reikšmių išaiškinimas:**
 
@@ -148,14 +148,14 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autorius</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>pagalbininkai</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>aprašymas</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Jūsų aprašymas turi turėti raktine pora reikšmių kurie nurodo kalbą ir aprašymą ta nustatyta kalba. Kurkite aprašymus su kalbomis <i>kurias jūs žinote</i>, mūsų vertėjai padarys pakitimus jūsų metadata failui.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -208,7 +208,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versija</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -233,7 +233,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>žymos</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -263,7 +263,7 @@ Prašome nukopijuoti kodą esanį aukščiau ir įdėti jį į `metadata.json` f
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>nustatymai</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
