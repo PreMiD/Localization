@@ -330,7 +330,7 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
         <tr>
       <td style="text-align:left">buttons</td>
       <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
-      <td style="text-align:left"><code>Array&lt;Objeto&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>
   </tbody>

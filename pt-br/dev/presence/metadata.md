@@ -90,7 +90,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Deve conter um Object com o <code>nome</code> e <code>id</code> do contribuidor. <code>name</code> é seu nome de usuário Discord sem o identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
-      <td style="text-align:left"><code>Array&lt;Objeto&gt;</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
     <tr>
@@ -184,7 +184,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     <tr>
       <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Um conjunto de configurações que o usuário pode alterar</td>
-      <td style="text-align:left"><code>Array&lt;Objeto&gt;</code></td>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
   </tbody>
