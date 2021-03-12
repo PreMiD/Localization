@@ -1,6 +1,6 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: Prvi koraci s PreMiD instalacijom na macOS-u
 published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
@@ -10,21 +10,21 @@ tags:
 > 
 > {.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalacija programa je jako važno jer proširenje ne može ništa učiniti samo.
 
-# Install
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** may appear if you're installing PreMiD for the first time. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
-6. Choose open when prompted.
-7. Grant access to connections through **Firewall** and control **System Events** when prompted.
+# Instalacija
+1. Idite na našu stranicu za preuzimanje [klikom ovdje](https://premid.app/downloads).
+2. Izaberite **OS X**.
+3. Extreact-iraj arhivu ako potrebno.
+4. Otvori instaler.
+5. Pojavit će se **sigurnosno upozorenje**, ako prvi put instaliraš PreMiD. Idi u svoje **Postavke** > **Sigurnost** > **Općenito** > **Otvori svejedno**.
+> To je zato što nemamo Code Signing Certificate (CSC). [Podržite nas](https://www.patreon.com/Timeraa) da to financiramo.{.is-info}
+6. Izaberi otvori kad se prikaže.
+7. Omogućite pristup vezama putem ** Firewall-a ** i kontrolu ** System Events-a ** kad se zatraži.
 
-The application will start automatically. Check for the symbol in your menu bar.
+Aplikacija će se pokrenuti automatski. Provjeri simbol na menu baru.
 
-> Do not forget to [add the **extension**](/install). 
+> Ne zaboravite [ dodati ** proširenje**](/install). 
 > 
 > {.is-warning}
 
