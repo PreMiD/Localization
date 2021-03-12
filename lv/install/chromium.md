@@ -6,11 +6,11 @@ date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Paplašinājuma uzstādīšana ir ļoti svarīga, jo programma pati par sevi neko nevar izdarīt.
 
 # Uzstādīt
 ### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. Dodieties uz mūsu lejupielāžu lapu [uzspiežot šeit](https://premid.app/downloads).
 2. Choose **Chromium**.
 3. Click on **Add to Chrome**.
 
@@ -18,7 +18,7 @@ The installation of the extension is very important as the application can not d
 1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
 2. Add [our extension](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Neaizmirstiet [pievienot **lietotni**](/install). 
 > 
 > {.is-warning}
 
