@@ -133,7 +133,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `समायोजन`
+- `settings`
 
 **Clarifying some value presets:**
 
@@ -177,7 +177,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>विवरण</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -263,7 +263,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>समायोजन</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
