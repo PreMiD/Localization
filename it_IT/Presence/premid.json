@@ -1,30 +1,54 @@
 {
+	"premid.viewPage": {
+		"message": "Visualizzando pagina:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Documenti",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Guardando presenza:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Home page",
+		"description": "A page name"
+	},
 	"premid.pageContributors": {
-		"message": "Collaboratori",
+		"message": "Contributori",
 		"description": "A page name"
 	},
 	"premid.pageDownloads": {
-		"message": "Download",
+		"message": "Downloads",
 		"description": "A page name"
 	},
 	"premid.pageStore": {
-		"message": "Store",
+		"message": "Negozio",
 		"description": "A page name"
 	},
 	"premid.partners": {
-		"message": "Partner",
+		"message": "Partners",
 		"description": "A page name"
 	},
 	"premid.pageAbout": {
-		"message": "Informazioni su PreMiD",
+		"message": "Riguardo PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Requisiti di sistema",
 		"description": "A page name"
 	},
 	"premid.pageInstall": {
 		"message": "Installazione",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "Installazione per {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
-		"message": "Risoluzione problemi",
+		"message": "Risoluzione dei problemi",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
@@ -35,8 +59,36 @@
 		"message": "API",
 		"description": "A page name"
 	},
+	"premid.pageApiVersion": {
+		"message": "Comprendere la v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Sviluppo della presenza",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Linee guida per la presenza",
+		"description": "A page name"
+	},
 	"premid.pagePresenceClass": {
 		"message": "Classe Presenza",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Classe Slideshow",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Comprendere iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Configurando metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Configurando il TypeScript",
 		"description": "A page name"
 	}
 }
