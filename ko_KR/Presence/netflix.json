@@ -1,1 +1,18 @@
-{}
+{
+	"netflix.viewList": {
+		"message": "목록 보기",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "프로필 관리",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Netflix에서 새로운 기능과 {0}의 인기 보기",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "{0} 참조 링크 가져오기",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}
