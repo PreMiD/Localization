@@ -8,12 +8,12 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:47.172Z
 ---
 
-> The documentation is still being edited! 某些頁面可能未完成或缺失 
+> 此文檔還在編輯狀態中。 某些頁面可能未完成或缺失 
 > 
 > {.is-warning}
 
 # 關於 PreMiD
-- :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
+- :mag: [什麼是 PreMiD?](/about) PreMiD背後的運作原理以及為什麼要使用它。
 - :link: [什麼是RPC?](https://discordapp.com/rich-presence) 所有關於豐富狀態以及它的功能。
 
 # 開始使用
@@ -28,13 +28,13 @@ PreMiD 是一個快捷和容易安裝的插件。 你可以隨時開啟並運行
 
 PreMiD[開發入門](/dev) 是對某些事情進行編碼之前的第一步。
 
-- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer:[API](/dev/api): 使用PreMiD API的資源和狀態行動
+- :wrench:[擴充功能研發](/dev/presence): 了解如何使用我們的擴充功能系統
 
 # 貢獻
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
+- :bug: [舉報Bug](https://github.com/PreMiD): 幫助我們抓住那些臭蟲
 - :bulb:[提供新功能的想法](https://discord.premid.app/): 我們需要你的點子!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :heart:[捐助](https://www.patreon.com/Timeraa): 做一個小小的捐款或成為這個神奇計畫的金主!
+- :globe_with_meridians:[語言環境](https://translate.premid.app): 讓其他使用者能在他們的語言下使用PreMiD
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}
