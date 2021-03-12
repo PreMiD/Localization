@@ -1,1 +1,10 @@
-{}
+{
+	"spotify.bestPodcasts": {
+		"message": "Parhaat podcastit",
+		"description": ""
+	},
+	"spotify.playlists": {
+		"message": "soittolistojaan",
+		"description": "\"Browsing through\" + this"
+	}
+}
