@@ -1,42 +1,42 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Memulai
+description: Sedikit masukan bagi mereka yang baru memulai coding
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
 ---
 
-> A source code editor is required. We recommend Visual Studio Code. 
+> Membutuhkan editor source code. Kami sarankan Visual Studio Code. 
 > 
 > {.is-info}
 
-# Installing the requirements
+# Hal-hal yang perlu diinstal
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
-3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
+2. Install [Node](https://nodejs.org/en/) (disertai [npm](https://www.npmjs.com/)).
+3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan ketik `npm install -g typescript`).
 
-# Cloning the project
-1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+# Mengcloning project
+1. Buka terminal dan ketik `git clone URL`. **Ganti URL dengan link repository yang ingin anda bantu to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
+2. Pilih folder pilihanmu.
+3. Buka di editor kodemu.
 
-# Installing dependencies
-> Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+# Menginstal dependencies
+> Pastikan anda sudah menginstal [npm](https://www.npmjs.com/) (Node Package Manager) terlebih dahulu. Akan otomatis terinstal jika sudah menginstal [Node](https://nodejs.org/en/) . 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Buka terminal di repositorymu dan ketik `npm i`.
+- Untuk memperbarui dependencies ketik `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Harap diingat memperbarui dependencies bisa merusak banyak, atau tidak - percobaan dibutuhkan! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Mengkode pandanganmu
+Harap jaga strukturnya. Kami tidak ingin project kami berantakan. File berantakan akan ditolak.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Menyampaikan impianmu
+Buka Pull Request pada salah satu [GitHub repositories](https://github.com/PreMiD/) kami yang ingin anda bantu. Akan kami urus, jangan khawatir. Jika ini pertama kali anda membuat pull request, lihatlah ini [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Mendapat persetujuan
+Tujuan utama kami adalah bekerja bersama pengguna jadi usahakan jadilah ramah, hormat dan informatif. Ping Developer kami di [Server Discord](https://discord.gg/WvfVZ8T) untuk mendapat review, atau tidak. Bergantung pada kualitas kode, tampilan aset dan fungsi reguler.
