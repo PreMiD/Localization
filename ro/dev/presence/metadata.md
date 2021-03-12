@@ -82,14 +82,14 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nu</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contribuitori</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -110,7 +110,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left"><code>Da</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>descriere</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nu</code></td>
@@ -130,7 +130,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left"><code>Da</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versiune</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nu</code></td>
@@ -155,7 +155,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left"><code>Nu</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>etichete</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nu</code></td>
@@ -185,7 +185,7 @@ Acest exemplu arată ciudat, huh? Nu te îngrijora, nu e complicat să înțeleg
       <td style="text-align:left"><code>Da</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>setări</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Da</code></td>
@@ -344,17 +344,17 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>jocuri</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Jocuri</b></td>
       <td style="text-align:left">Orice website care are conținut legat de jocuri, precum <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>muzică</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Muzică</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sociale</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sociale</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
@@ -364,7 +364,7 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>altele</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Altele</b></td>
       <td style="text-align:left">Orice nu se încadreaza în categoriile de mai sus.</td>
     </tr>
