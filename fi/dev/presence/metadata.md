@@ -89,7 +89,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>osallistujat</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -110,7 +110,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kuvaus</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ei</code></td>
@@ -130,7 +130,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versio</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ei</code></td>
@@ -155,7 +155,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Ei</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tagit</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ei</code></td>
@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>asetukset</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
