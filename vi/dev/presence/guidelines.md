@@ -1,5 +1,5 @@
 ---
-title: Presence Guidelines
+title: Nguyên tắc Presence
 description: Rules that all presence developers must follow to have their presence added.
 published: true
 date: 2021-03-06T15:01:04.274Z
@@ -10,7 +10,7 @@ dateCreated: 2021-02-26T21:54:41.573Z
 
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
-    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Guidelines</h3>
+    <h3 style="font-size: 2rem; margin-bottom: 0">Nguyên tắc Presence</h3>
     <h4 style="margin-top: 0">Revision 3</h4>
     <br />
 </div>
@@ -207,7 +207,7 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`cảnh báo`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
