@@ -31,7 +31,7 @@ Uygulama otomatik olarak başlayacaktır. Menü çubuğunuzdaki simgeyi kontrol 
 ![](https://img.icons8.com/color/2x/mac-logo.png) {.align-abstopright}
 
 ## Tanımlanamayan geliştiricilerin uygulamalarına izin ver
-macOS BigSur (11.0+) için adımlar:
+macOS Big Sur (11.0+) için adımlar:
 1. Yükleyicimize sağ tıklayın.
 2. Açılan menüden Aç seçeneğini seçin.
 3. Açılır pencerede Aç'ı tıklayın.

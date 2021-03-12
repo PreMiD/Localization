@@ -31,7 +31,7 @@ Aplikasi akan bermula secara automatiknya. Periksa simbol di bar menu anda.
 ![](https://img.icons8.com/color/2x/mac-logo.png) {.align-abstopright}
 
 ## Benarkan app daripada pemaju yang tidak dikenal pasti
-Langkah untuk macOS BigSur (11.0+):
+Langkah untuk macOS Big Sur (11.0+):
 1. Klik kanan pada fail pemasang kami.
 2. Klik buka dalam menu lungsur.
 3. Klik buka dalam tetingkap timbul.
