@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Pengembangan Presence
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -8,38 +8,38 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> Semua presence disimpan disini: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Versi `2.x` memperkenalkan [toko presence](https://premid.app/store). Pengguna sekarang bisa menambah dan menghapus presence favorit lewat tampilan pengguna [website](https://premid.app/).
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> Sebelum memulai, sangat dianjurkan untuk melihat aturan presence kami. 
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Aturan](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Struktur
 
 Semua presence ditulis dalam [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) memiliki tipe definisi tambahan dari JavaScript, jadi identifikasi dan perbaikan bug menjadi lebih mudah.
 
-## Installation
+## Instalasi
 
 1. Install [Git](https://git-scm.com/).
-2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
+2. Install [Node](https://nodejs.org/en/) (sudah disertai [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (buka terminal dan `npm install -g typescript`).
 
-## Cloning the project
+## Mengkloning project
 
 1. Buka terminal dan ketik `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Pilih folder pilihanmu.
+3. Buka di editor kodemu.
 
 ## Membuat folder dan file
 
-1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
+1. Pergi ke folder `website` kemudian pergi ke folder dengan huruf pertama dari **nama** (bukan URL) dari layanan yang ingin didukung.
 2. Buat folder dengan **nama** (bukan URL) dari layanan yang diinginkan.
 3. Buatlah file `presence.ts` dan `tsconfig.json`.
 4. Buatlah folder dinamakan `dist` didalamnya.
@@ -62,7 +62,7 @@ Untuk mempelajari lebih lanjut tentang konfgurasi TypeScript klik [disini](/dev/
 
 ## Mengisi file metadata.json
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator). Dianjurkan untuk membaca secara seksama agar anda mengerti bagaimana caranya.
+Kami telah membuat pembuat file `metadata.json` untuk para pemalas [disini](https://eggsy.xyz/projects/premid/mdcreator). Dianjurkan untuk membaca secara seksama agar anda mengerti bagaimana caranya.
 
 ```json
 {
@@ -140,125 +140,123 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meng
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Deskripsi</th>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Tipe</th>
+      <th style="text-align:left">Opsional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Harus berisi sebuah Object dengan <code>name</code> dan <code>id</code> dari pengembang presence. <code>name</code> adalah username Discordmu tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan mode
+        developer dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Harus berisi sebuah Object dengan <code>name</code> dan <code>id</code> dari pengembang presence. <code>name</code> adalah username Discordmu tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan mode
+        developer dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">Judul dari layanan harus didukung oleh presence ini.<br>
+      (Harus bernama sama dengan folder dimana semua file berada)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Dapat mencari presence menggunakan nama alternatif.<br>
+      Dimaksudkan untuk presence yang memiliki nama yang berbeda di bahasa lain (misal Pokémon dan 포켓몬스터).<br>
+      Kamu juga dapat menggunakannya untuk presence yang memilki karakter spesial jadi kamu tidak harus mengetik simbol tersebut (misal Pokémon dan Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left"><b>deskripsi</b></td>
+      <td style="text-align:left">Sedikit deskripsi dari presence, kamu dapat menggunakan deskripsi dari layanan tersebut jika kehabisan ide. Deskripsi harus memiliki key pair values yang menandakan bahasa, dan deskripsi dengan bahasa tersebut. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan mengubah file metadata anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
-      <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
+      <td style="text-align:left">URL dari layanan.<br><b>Contoh:</b><code>vk.com</code><br>
+      <b>URL ini harus sama dengan URL pada website karena akan mendeteksi apakah ini adalah website yang akan di injeksikan skrip atau tidak. </b><br> <b>JANGAN</b> menambahkan <code>https://</code> atau <code>http://</code> didalam URL atau garis miring diakhir:      <code>https://premid.app/</code>-> <code>premid.app</code><br>
+      <b>Catatan</b>:Beberapa URL mungkin memiliki <code>www.</code> atau lainnya didepan domainnya. <b>JANGAN</b> lupa menambahkannya<br>
+      Kamu dapat menambahkan beberapa URL dengan melakukan hal berikut:<br>
       <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      Kamu juga dapat menggunakan regExp juga dikenal sebagai Regex untuk hal ini, dijelaskan dibawah ini.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.<br>
-      regExp or also known as Regex, can be used if a website has multiple subdomains.<br>
-      You could use the following regExp for that:<br>
+      <td style="text-align:left">Sebuah string regular expression yang digunakan untuk mencocokkan url.<br>
+      regExp atau Regex, dapat digunakan jika sebuah website memiliki beberapa subdomain.<br>
+      Kamu dapat menggunakan regExp berikut ini untuk itu:<br>
       <code>([a-z0-9]+)[.]domain[.]TLD"</code><br>
-      TLD standing for Top Level Domain for axample: .com .net (but do not enter the dot).<br>
-      <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
-      You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
-      You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
+      TLD adalah singkatan dari Top Level Domain contohnya: .com .net ( jangan masukkan titik).<br>
+      <code>([a-z0-9]+)</code> berarti apapun dari a sampai z dan dari 0 sampai 9.<br>
+      Kamu dapat mendapatkan permulaan singkat dengan menonton <a href="https://youtu.be/sXQxhojSdZM">video</a> ini.<br>
+      Kamu dapat menguji regExpmu pada <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><b>versi</b></td>
+      <td style="text-align:left">Versi dari presencemu.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link ke logotype dari layanan.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Link ke thumbnail presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> value. Kami sarankan untuk menggunakan warna utama layanan        yang didukung oleh presence anda.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tag</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Array dengan tag, ini akan membantu pengguna untuk mencari presencemu pada website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. Lihat semua kategori valid <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">disini</a>.</td>
+      <td style="text-align:left">String yang digunakan untuk mewakili kategori yang dimilki presence. Lihat semua kategori valid <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">disini</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Menentukan apakah <code>iFrames</code> digunakan.</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Lihat regExp untuk informasi lebih lanjut.</td>
+      <td style="text-align:left">Penentu regular expression yang memilih iframe yang di inject. Lihat regExp untuk informasi lebih lanjut.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Menentukan apakah ekstensi harus membaca log.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -272,24 +270,24 @@ Salin kode diatas dan tempel pada file `metadata.json`. Sekarang anda harus meng
   </tbody>
 </table>
 
-We've made a `metadata.json` file creator for the lazy peeps [here](https://eggsy.xyz/projects/premid/mdcreator).
+Kami telah membuat `metadata.json` file creator bagi mereka yang malas [disini](https://eggsy.xyz/projects/premid/mdcreator).
 
 ## Memulai
 
 ```typescript
 const presence = new Presence({
-    clientId: "000000000000000000" //The client ID of the Application created at https://discordapp.com/developers/applications
+    clientId: "000000000000000000" //Client ID dari aplikasi yang dibuat di https://discordapp.com/developers/applications
   }),
   strings = presence.getStrings({
     play: "presence.playback.playing",
     pause: "presence.playback.paused"
-    //You can use this to get translated strings in their browser language
+    //Kamu dapat menggunakan ini untuk mendapatkan string yang sudah diterjemahkan pada bahasa browser mereka
   });
 
 /*
 
 function myOutsideHeavyLiftingFunction(){
-    //Grab and process all your data here
+    //Ambil dan proses semua datamu disini
 
     // element grabs //
     // api calls //
@@ -297,74 +295,74 @@ function myOutsideHeavyLiftingFunction(){
 }
 
 setInterval(myOutsideHeavyLiftingFunction, 10000);
-//Run the function separate from the UpdateData event every 10 seconds to get and set the variables which UpdateData picks up
+//Jalankan fungsi terpisah dari event UpdateData setiap 10 detik untuk mendapatkan dan menyiapkan variabel yang diambil oleh UpdateData
 
 */
 
 presence.on("UpdateData", async () => {
-  /*UpdateData is always firing, and therefore should be used as your refresh cycle, or `tick`. This is called several times a second where possible.
+  /*UpdateData selalu dijalankan, oleh karena itu lebih baik digunakan sebagai refresh cycle , atau 'tick`. Ini dinamakan beberapa kali dalam sedetik jika mungkin.
 
-    It is recommended to set up another function outside of this event function which will change variable values and do the heavy lifting if you call data from an API.*/
+    Disarankan untuk mengatur function lainnya diluar event function tersebut yang akan mengubah isi variable dan melakukan kerja keras jika anda memanggil data dari sebuah API.*/
 
   const presenceData: PresenceData = {
     largeImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
+      "key" /*Key (nama file) dari Lare Image di presence. Ini di unggah dan dinamai di Rich Presence dari aplikasi anda, disebut Art Assets*/,
     smallImageKey:
-      "key" /*The key (file name) of the Large Image on the presence. These are uploaded and named in the Rich Presence section of your application, called Art Assets*/,
-    smallImageText: "Some hover text", //The text which is displayed when hovering over the small image
-    details: "Browsing Page Name", //The upper section of the presence text
-    state: "Reading section A", //The lower section of the presence text
-    startTimestamp: 1577232000, //The unix epoch timestamp for when to start counting from
-    endTimestamp: 1577151472000 //If you want to show Time Left instead of Elapsed, this is the unix epoch timestamp at which the timer ends
-  }; /*Optionally you can set a largeImageKey here and change the rest as variable subproperties, for example presenceSata.type = "blahblah"; type examples: details, state, etc.*/
+      "key" /*Key (nama file) dari Large Image di presence. Berikut adalah yang diupload dan dinamai pada bagian Rich Presence dari aplikasimu, bernama Art Assets*/
+        smallImageText: "Some hover text", //Teks yang akan terlihat ketika hover pada gambar kecil
+        details: "Browsing Page Name", //Bagian atas dari teks presence
+        state: "Reading section A", //Bagian bawah dari teks presence
+        startTimestamp: 1577232000, //Unix epoch timestamp untuk mulai menghitung
+        endTimestamp: 1577151472000 //Jika anda ingin menampilkan waktu tersisa dari pada waktu berlalu, ini adalah unix epoch timestamp dimana hitung mundur selesai
+    }; /*Secara opsional anda dapat mengatur largeimagekey disini dan merubahnya sebagai subproperti variabel, contohnya presenceSata.type = "serahlo"; contoh type: details, state, etc.*/
 
-  if (presenceData.details == null) {
-    //This will fire if you do not set presence details
-    presence.setTrayTitle(); //Clears the tray title for mac users
-    presence.setActivity(); /*Update the presence with no data, therefore clearing it and making the large image the Discord Application icon, and the text the Discord Application name*/
-  } else {
-    //This will fire if you set presence details
-    presence.setActivity(presenceData); //Update the presence with all the values from the presenceData object
-  }
+    if (presenceData.details == null) {
+        //Ini akan dijalankan jika anda tidak mengatur detail presence
+        presence.setTrayTitle(); //Bersihkan tray title untuk pengguna mac
+        presence.setActivity(); /*Update presence tanpa data, akan membersihkannya dan membuat gambar besar menjadi gambar Aplikasi Discord, dan teks menjadi nama Aplikasi Discord*/
+    } else {
+        //Ini akan dijalankan jika anda mengatur detail dari presence
+        presence.setActivity(presenceData); //Update presence dengan semua value dari presenceData object
+    }
 });
 ```
 
 Anda bisa menyalinnya ke file `presence.ts` dan mengubah valuenya. Pengaturan semua value dilakukan pada event updateData.
 
-Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG. For more information about the `Presence` class click [here](/dev/presence/class).
+Contohnya kami sarankan unutuk melihat kode presence dari: 1337x or 9GAG. Untuk informasi lebih lanjut tentang kelas `Presence` klik [di sini](/dev/presence/class).
 
-Since v2.2.0 there are now Slideshows, this allows you to show multiple `PresenceData` interfaces on an interval, for more information click about the `Slideshow` class [here](/dev/presence/slideshow).
+Sejak v2.2.0 sekarang ada Slideshow, ini memungkinkan anda menampilkan beberapa `PresenceData` antarmuka pada suatu interval, untuk info lebih lanjut klik tentang kelas `Slideshow` [disini](/dev/presence/slideshow).
 
 ## Tidak bisa mendapat data tertentu?!
 
 Banyak website menggunakan [iframes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) ([Inlineframes](https://en.wikipedia.org/wiki/HTML_element#Frames)). Tag html tersebut bisa berisi beberapa sumber seperti video. Tapi mereka kadang tidak relevan. Beberapa hanya tersembunyi atau tidak sering dipakai. Periksa jika anda bisa ekstrak, informasi yang dibutuhkan, tanpa infromasi tersebut sebelum melakukan pekerjaan sia-sia.
 
-1. Check for them in your browsers console (be sure that you are on the **Elements** tab).
+1. Periksa didalam konsol browser (pastikan anda berada pada tab **Elements**).
 2. Cari (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) atau <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Jalankan `document.querySelectorAll("iframe")`.
 
 Jika data anda ditemukan pada iFrame anda harus melakukan hal berikut:
 
-1. Create a `iframe.ts` file.
-2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+1. Buatlah file `iframe.ts`.
+2. Atur iFrame menjadi `true` pada file metadata.
+3. Isi file iFrame anda.
 
 ```typescript
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  Dapatkan semua data yang kamu butuhkan dari iFrame, simpan mereka dalam variable
+  dan kirim mereka menggunakan iframe.send 
   */
   iframe.send({
-    //sending data
+    //mengirim data
     video: video,
     time: video.duration
   });
 });
 ```
 
-4. Making your presence file receive data from the iFrame file.
+4. Membuat file presence anda menerima data dari file iFrame.
 
 ```typescript
 presence.on("iFrameData", (data) => {
@@ -381,10 +379,10 @@ Buka konsol dalam folder anda dan ketik `tsc -w` untuk mengcompile `presence.ts`
 
 # Memuat presence
 
-1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
-2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+1. Buka popup ekstensi di browser dan tahan tombol <kbd>Shift</kbd> pada keyboard anda.
+2. **Load Presence** akan muncul pada bagian presence.
+3. Klik sambil menahan tombol <kbd>Shift</kbd>.
+4. Pilih folder /dist dari presence anda.
 
 # Beberapa hal berguna
 
@@ -395,12 +393,12 @@ Website yang anda sedang anda kembangkan akan otomatis reload setiap anda menyim
 ## Debugging
 
 - Anda dapat memberi `console.log("Test");` diantara kode dan melihat apakah konsol browser memberi output tersebut. Jika iya lanjutkan dan ulangi pada function selanjutnya. Jika tidak berarti terdapat eror diatas.
-- If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
+- Jika itu tidak membantumu, tanyakan pada pengembang presence di [server Discord](https://discord.premid.app/) kami untuk bantuan.
 
 # File dijelaskan
 
-- [Presence Class](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Kelas Presence](/dev/presence/class)
+- [Kelas Slideshow](/dev/presence/slideshow)
+- [Kelas iFrame](/dev/presence/iframe)
 - [File Metadata](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Konfigurasi TypeScript](/dev/presence/tsconfig ""){.links-list}
