@@ -12,9 +12,9 @@ dateCreated: 2021-02-21T21:13:14.449Z
 
 ## Introdução
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+A classe `Presence` é muito útil, já que tem métodos básicos que precisamos para criar uma presence.
 
-When you create a class you must specify `clientId` property.
+Ao criar uma classe você deve especificar a propriedade `clientId`.
 
 ```typescript
 const presence = new Presence({
@@ -22,7 +22,7 @@ const presence = new Presence({
 });
 ```
 
-### Properties
+### Propriedades
 
 There are three properties available for `Presence` class.
 
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Methods
+## Métodos
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Este método funciona somente no Mac OS. 
 > 
 > {.is-warning}
 
@@ -278,52 +278,52 @@ Esta interface está seguindo as váriaveis, todas elas são opcionais.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">A primeira linha da sua presence, geralmente usada como cabeçalho.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Segunda linha em sua presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Define o tempo atual.<br>
+        Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
+          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
+          contagem regressiva errada.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Define a duração completa.
+        <br>Usado se você quiser mostrar quantas <code>horas:minutos:segundos</code> restantes.
+          <br>Você deve converter seu tempo em <code>horário</code> ou receberá uma
+          contagem regressiva errada.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Define o logotipo para a presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Define o pequeno ícone ao lado da presence&apos;logo .</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Define o texto que será exibido ao usuário quando ele irá colocar o cursor no ícone de
+        pequeno.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
