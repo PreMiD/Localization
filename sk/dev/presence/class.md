@@ -279,13 +279,13 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">details</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
-      <td style="text-align:left"><code>Reťazec</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
       <td style="text-align:left">Second line in your presence.</td>
-      <td style="text-align:left"><code>Reťazec</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -311,13 +311,13 @@ This interface has following variables, all of them are optional.
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Defines the logo for the presence.</td>
-      <td style="text-align:left"><code>Reťazec</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
-      <td style="text-align:left"><code>Reťazec</code>
+      <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
@@ -330,7 +330,7 @@ This interface has following variables, all of them are optional.
         <tr>
       <td style="text-align:left">buttons</td>
       <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
-      <td style="text-align:left"><code>Poradie&lt;Objekt&gt;</code>
+      <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>
   </tbody>
