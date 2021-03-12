@@ -10,13 +10,13 @@ dateCreated: 2020-12-25T00:44:42.803Z
 
 # Slideshow Class
 
-## Introduction
+## Įvadas
 
 The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
 
 See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
 
-## Properties
+## Savybės
 
 ### `currentSlide`
 
@@ -27,7 +27,7 @@ const currentSlide = slideshow.currentSlide
 console.log(currentSlide.details) // Will console log the details of the PresenceData
 ```
 
-## Methods
+## Metodika
 
 ### `addSlide(String, PresenceData, Number)`
 
@@ -69,11 +69,11 @@ Deletes all slides from the `Slideshow`.
 
 # SlideshowSlide Class
 
-## Introduction
+## Įvadas
 
 A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
-## Properties
+## Savybės
 
 ### `id`
 
@@ -83,7 +83,7 @@ Returns a `String` of the id of the slide.
 
 Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
 
-## Methods
+## Metodika
 
 ### `updateData(PresenceData)`
 
