@@ -51,8 +51,8 @@ dateCreated: 2020-06-11T18:04:14.124Z
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="최신 버전"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="모든 릴리즈들"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="최신 버전"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github 버전"></a></td>
   </tr>
 </table>
 
@@ -60,21 +60,21 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ### 시스템 사양
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+공식적으로 디스코드를 실행할 수 있는 모든 [공식](https://discordapp.com/download) **앱** (웹 및 스냅 버전 제외) 에서도 PreMiD를 실행할 수 있어요.</br> 눈치 채셨을수도 있는데, 지난 몇년간 리눅스가 32비트(ia32/i686/i386/x86) 아키텍쳐의 지원을 중단하기 시작했어요. 그래서 우리도 그랬어요. 그러나, 만약 32비트를 꼭 사용해야 하신다면, 직접 이 앱을 빌드하셔서 사용하실 수 있어요.</br>저희가 Electron 엔진을 사용한 이래로 (디스코드도 이것을 사용해요!), 이 요구사항 역시 이 앱에 적용됩니다 :
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
 - Debian ≥ 8
 
-It is unknown whether older versions of other distributions support it, so just keep your distribution updated and use **LTS (Long-Term Support)** releases if your distribution offers them, as they're more stable (avoid alpha releases).
+이전의 배포 버전이 지원하는지 여부를 알 수 없기에, 배포판을 최신 상태로 유지하고 **LTS (장기간 지원)** 배포 버전을 지원하는 경우, 그것을 사용하시는게 더 안정적이에요 (알파 배포판은 지양해주세요).
 
 <a name="support"></a>
 
 ### 지원
 
 <div>
-  <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="저희 디스코드에 참여하세요!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="우리의 Discord에 참여하세요!">
   </a>
 </div>
 
@@ -82,26 +82,26 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### 제작진
 
-Thanks to :
+도움을 주신 분들:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
-- @apriluwu for maintaining the Gentoo builds
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
-- The Electron community for various packages
-- Anyone else who has ever contributed to the project in any way.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (그리고 제가 이름을 까먹은 몇몇 친구들) nightly 릴리즈에 피드백을 준 사람들
+- Gentoo 빌드를 유지해주신 @apriluwu님
+- 이전에 아치 유저 Repo패키지를 @SlimShadyIAm님과 naka님
+- 다양한 패키지를 제공해주신 Electron 커뮤니티
+- 그리고 이 프로젝트에 기여한 모든 이들
 
 <a name="license"></a>
 
-### 라이센스
+### 라이선스
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
+[![FOSSA 상태](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
 <img src="https://i.imgur.com/ACAxtmA.png" width="100" height="100" align="right"></img>
 <a name="snapcraft"></a>
 
 ## 포터블 AppImage
 
-The AppImage package is the recommended one if Discord works for you but other PreMiD packages (.deb, .rpm, etc) don't.
+AppImage 패키지는 디스코드는 작동하지만 다른 PreMiD 패키지 (.dev, .rpm 등등)이 작동하지 않는 경우 권장됩니다.
 
 <a name="appimageinstall"></a>
 
@@ -112,7 +112,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 ```
 
 ```bash
-# Just double-click it or run
+# 이것을 더블클릭 하거나 실행하세요
 ./PreMiD*.AppImage
 ```
 
@@ -120,28 +120,28 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 ### 추가 사항
 
-Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
+PreMiD를 사용하고 싶거나 설치하고 싶지 않은 경우, 이것이 가장 좋습니다. 항상 최신 상태이지만 _ 시스템으로 자동 시작하지 마십시오! _ </br> 매번 열고 다른 패키지를 사용하십시오 (배포에 따라).
 
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/master/.github/packagecloud.png" width="100" height="100" align="right"></img>
 <a name="packagecloud"></a>
 
-# PackageCloud
+# 패키지 클라우드
 
-We released deb/rpm packages at our packagecloud repo. Please visit it at https://packagecloud.io/PreMiD/Linux and download your deb/rpm package or use automatic script.
+우리는 패키지 클라우드 리포에서 deb/rpm 패키지를 출시했다. https://packagecloud.io/PreMiD/Linux에서 방문하여 deb/rpm 패키지를 다운로드하거나 자동 스크립트를 사용하십시오.
 
-For **Ubuntu/Debian**:
+** Ubuntu / Debian </ strong>의 경우 :</p>
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.deb.sh | sudo bash
 ```
 
-For **Fedora/CentOS/RedHat**:
+** Fedora / CentOS / RedHat </ strong>의 경우 :</p>
 
 ```bash
 curl -s https://packagecloud.io/install/repositories/PreMiD/Linux/script.rpm.sh | sudo bash
 ```
 
-If command doesn't work, download **deb/rpm** file from our packagecloud repo or override settings.
+명령이 작동하지 않으면 packagecloud repo에서 ** deb / rpm </ strong> 파일을 다운로드하거나 설정을 재정의합니다.</p>
 
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
@@ -175,7 +175,7 @@ pacaur -S premid
 ```
 
 ```bash
-# ... you get the point
+# ... 당신은 요점을 얻습니다
 ```
 
 또는 뭘 해야할 지 안다면 [Arch User Repository](https://aur.archlinux.org/packages/premid)에서 수동 설치하세요.
@@ -184,7 +184,7 @@ pacaur -S premid
 
 ### 추가 사항
 
-If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
+배포판에서 pacman을 사용하는 경우 먼저 도우미 중 하나를 설치해야합니다. 없는 경우 Yay가 권장됩니다.
 
 ```bash
 git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
@@ -194,4 +194,4 @@ git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 yay -S premid
 ```
 
-Other AUR/Pacman helpers work as well, although each one's functionality is different so you may face issues while using them.
+다른 AUR / Pacman 도우미도 작동하지만 각 도우미의 기능은 다르므로 사용하는 동안 문제가 발생할 수 있습니다.
