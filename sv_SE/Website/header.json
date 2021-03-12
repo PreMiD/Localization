@@ -34,5 +34,25 @@
   "header.contributors": {
     "message": "Medverkande",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Logga in",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Inloggad som",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Rapportera fel",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Instrumentpanel",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Logga ut",
+    "description": "Logout button"
   }
 }
