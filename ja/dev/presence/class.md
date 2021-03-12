@@ -18,7 +18,7 @@ dateCreated: 2021-02-21T21:13:14.449Z
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // clientIdの例
 });
 ```
 
@@ -50,7 +50,7 @@ Returns a `PresenceData` object of what the presence is displaying.
 
 First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 Always use `true` if you provide timestamps in `PresenceData`.
+2つ目のパラメーターではプレゼンスが何かをプレイ中かどうかを定義します。 `PresenceData`にTimestamp（時間）を提供する場合は、`true`にしてください。
 
 ### `clearActivity()`
 
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+設定の値を返します。
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -263,7 +263,7 @@ presenceData.endTimestamp = timestamps[1];
 
 ## `PresenceData` インターフェース
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+`setActivity()`メゾットを使用している場合は、`PresenceData`インターフェースを使用することをおすすめします。
 
 このインターフェースには以下の変数があり、これらすべては指定しなくても構いません。
 
@@ -361,7 +361,7 @@ const presenceData: PresenceData = {
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  //データが更新された時に特定の動作をする
 });
 ```
 
