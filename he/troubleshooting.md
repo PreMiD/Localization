@@ -1,6 +1,6 @@
 ---
 title: פתרון תקלות
-description: Everything to solve your problem
+description: הכל כדי לפתור את הבעיה שלך
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> וודא שיש לך את התוסף ** ו ** את היישום מותקנים! 
 > 
 > {.is-warning}
 
@@ -46,10 +46,10 @@ To solve this, all you have to do is toggle the topmost setting: ![presencesetti
 ### טען/הפעל מחדש את Discord
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
 
-### Check if you have antivirus or firewall running on your computer
+### בדוק אם במחשב שלך פועל אנטי-וירוס או חומת אש
 לפעמים יישומי אנטי-וירוס וחומות אש חוסמות יישומים שיוצרים/מאחרים שרתים או מתחברים לאינטרנט. We are using a local server to receive and pass data between our app and extension, so if you will block app's ability to pass data you probably will not be able to use PreMiD.
 
-### Disable your addons
+### השבת את התוספים שלך
 השבת את כל התוספים שלך ובדוק אם זה עובד. אם כן, נסה להפעיל את התוספים שלך שלב אחר שלב וספר לנו איזה תוסף שבר את PreMiD.
 
 ### Restarting your computer
@@ -58,7 +58,7 @@ I hope you know how to restart a computer.
 ### Reinstalling PreMiD
 Sometimes there is something wrong with the files... Tutorials for the installation can be found [here](/install).
 
-### Manual removal
+### הסדרה ידנית
 Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
 
 ### McAfee זיהה את PreMiD כוירוס (Windows)
