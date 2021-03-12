@@ -1,1 +1,14 @@
-{}
+{
+	"report.title": {
+		"message": "Tilkynna galla",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 tilkynningar eftir",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Að tilkynna galla er hægt á PreMiD heimasíðunni og PreMiD Discord server-inum. Gallar fyrir presence þurfa að vera tilkynnt til eigandan af því presence. Tilkynntu bara galla á ensku.",
+		"description": "Tells the user about submitting a bug"
+	}
+}
