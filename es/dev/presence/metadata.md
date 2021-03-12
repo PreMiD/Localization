@@ -17,17 +17,17 @@ A continuación se muestra un ejemplo de este archivo.
 ```typescript
 {
   "author": {
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "USUARIO",
+    "name": "USER",
     "id": "ID"
   }],
-  "service": "SERVICIO",
-  "altnames": ["SERVICIO"],
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIPCCION (en ingles)"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
   "regExp": "REGEXP",
@@ -36,14 +36,14 @@ A continuación se muestra un ejemplo de este archivo.
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#45A8FC",
-  "tags": ["ETIQUETA1", "ETIQUETA2"],
-  "category": "CATEGORIA",
+  "tags": ["TAG1", "TAG2"],
+  "category": "CATEGORY",
   "iframe": false,
   "settings": [
     {
       "id": "ID",
-      "title": "NOMBRE A MOSTRAR",
-      "icon": "ETIQUETA FONTAWESOME ICON",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -51,17 +51,17 @@ A continuación se muestra un ejemplo de este archivo.
       "if": {
         "ID": true
       },
-      "title": "NOMBRE A MOSTRAR",
-      "icon": "ICONO FONTAWESOME",
-      "value": "\"%song%\" por %artist%",
-      "placeholder": "usa %song% o %artist%"
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "NOMBRE A MOSTRAR",
-      "icon": "ICONO FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
-      "values": ["Opción 1", "Opción 2", "etc."]
+      "values": ["1", "2", "etc."]
     }
   ]
 }
@@ -210,30 +210,30 @@ PreMiD es un servicio polígloto, lo que significa que hay una gran cantidad de 
 "settings": [
   {
     "id": "ID",
-    "multiLanguage": true //Ver https://docs.premid.app/dev/presence/metadata#multilanguage
+    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
   },
   {
     "id": "ID",
-    "title": "NOMBRE A MOSTRAR",
-    "icon": "ICONO FONTAWESOME", //Ejemplo "fas fa-info"
-    "value": true //Valor booleano para cambiar el estado por defecto del switch
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
+    "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
     "id": "ID",
     "if": {
-      "ID": true //Este botón será mostrado si otro ajuste equivale a uno de los siguientes valores: true, false, 0, 1, etc.
+      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
-    "title": "NOMBRE A MOSTRAR",
-    "icon": "ICONO FONTAWESOME",
-    "value": "\"%song%\" por %artist%", //Pon un string para indicar que este campo es de tipo texto, donde puedes indicar el texto que quieras.
-    "placeholder": "usa %song% o %artist%" //Cuando el campo esté vacío se mostrará este texto de fondo
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON",
+    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
-    "title": "NOMBRE A MOSTRAR",
-    "icon": "ICONO FONTAWESOME",
-    "value": 0, //Valor por defecto del selector
-    "values": ["Valor 1", "Valor 2", "etc."] //Convertirá este ajuste en un selector con las siguientes opciones disponibles entre las que elegir
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON",
+    "value": 0, //Default value of the selector
+    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
   }
 ]
 ```
@@ -339,17 +339,17 @@ Cuando haces tu Presence, debes especificar de que categoría es. Esta es una li
       <td style="text-align:left">Cualquier cosa relacionada con el anime, desde los foros hasta las plataformas de streaming de vídeo.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>juegos</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Games</b></td>
       <td style="text-align:left">Cualquier sitio web que tenga contenido relacionado con juegos como <code>Kahoot</code> o <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>música</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Music</b></td>
       <td style="text-align:left">Estos son sitios web que ofrecen contenido relacionado con la música, ya sea streaming o descarga.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sociales</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Socials</b></td>
       <td style="text-align:left">Sitios web que se utilizan con el propósito de crear y compartir contenido o para participar en otras formas de redes sociales.</td>
     </tr>
@@ -359,7 +359,7 @@ Cuando haces tu Presence, debes especificar de que categoría es. Esta es una li
       <td style="text-align:left">Sitios web que sirven con propósito de proporcionar videos y streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>otro</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Other</b></td>
       <td style="text-align:left">Cualquier cosa que no caiga dentro de una categoría específica enumerada arriba.</td>
     </tr>
