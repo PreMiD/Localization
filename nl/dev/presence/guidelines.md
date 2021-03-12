@@ -212,7 +212,7 @@ Hieronder vindt u een lijst met velden en hun regels:
 - Zet het waarschuwingspictogram aan om de gebruiker aan te geven dat deze presence meerdere stappen vereist dan alleen de presence toe te voegen.
 - Een voorbeeld van een presence met deze metadatavariabele is `VLC`.
 
-### **`settings`**
+### **`instellingen`**
 
 - Als je besluit om een indelingsstring te maken (bijvoorbeeld `%song% by %artist%`), moet je de variabelen omgeven door een procentteken aan beide zijden. Variabelen zoals `%var`, `var%`, of `%%var%%` en alles ertussenin, zijn **niet** toegestaan omwille van normalisatie.
 - De namen van de instellingen mogen **niet** in alle hoofdletters staan. Namen zoals `LAAT BROWSING STATUS ZIEN` zullen **niet** toegestaan zijn; Namen zoals `Laat Browsing Status Zien` of `Laat browsing status zien` zijn echter toegestaan.
