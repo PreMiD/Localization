@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Első lépések
 description: A little advise for those who got into coding recently
 published: true
 date: 2020-04-09T14:21:58.246Z
@@ -10,7 +10,7 @@ tags:
 > 
 > {.is-info}
 
-# Installing the requirements
+# A követelmények telepítése
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
