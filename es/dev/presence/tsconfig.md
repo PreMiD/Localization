@@ -36,7 +36,7 @@ En el archivo de configuración raíz verás algo como esto.
 }
 ```
 
-| Propiedad                  | Descripción                                                                                                                                                                               |
+| Property                   | Descripción                                                                                                                                                                               |
 |:-------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Utilizado para configurar el compilador, la mayoría de las propiedades se encuentran aquí.                                                                                                |
 | module                     | Puedes leer más sobre eso [aquí](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                              |
@@ -63,6 +63,6 @@ En el archivo de configuración raíz verás algo como esto.
 
 | Propiedad           | Descripción                                                                                   |
 |:------------------- |:--------------------------------------------------------------------------------------------- |
-| **extensión**       | Utilizado para extender el archivo base `tsconfig` para varias tareas.                        |
+| **extends**         | Utilizado para extender el archivo base `tsconfig` para varias tareas.                        |
 | **compilerOptions** | Ver [**configuración base**](/dev/presence/tsconfig#root-configuration) para más información. |
-| outdir              | Define el directorio de salida para archivos compilados.                                      |
+| outDir              | Define el directorio de salida para archivos compilados.                                      |
