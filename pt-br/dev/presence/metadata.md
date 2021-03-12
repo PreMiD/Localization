@@ -115,9 +115,9 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Isso só pode ser usado como um array quando houver mais de um url.</b></td>
+      <td style="text-align:left">URL do serviço.<br>
+      <b>Exemplo:</b><code>vk.com</code><br>
+      <b>Esta url deve corresponder à url do site, pois será usada para detectar onde quer que seja ou não o site para injetar o script. Isso só pode ser usado como um array quando houver mais de um url.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -196,7 +196,7 @@ Se você quer aprender expressões regulares, aqui estão alguns sites.
 
 #### Aprendendo
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+[Iniciador de vídeos rápido ](https://youtu.be/sXQxhojSdZM) [RegexOne](https://regexone.com/) [Informação de expressões regulares](https://www.regular-expressions.info/tutorial.html)
 
 #### Testando
 
@@ -204,7 +204,7 @@ Se você quer aprender expressões regulares, aqui estão alguns sites.
 
 ## Idiomas de presence
 
-PreMiD é um serviço poliglota, o que significa que há uma infinidade de idiomas envolvidos para conectar usuários por todo o mundo. Uma lista completa de idiomas pode ser encontrada neste [endpoint da API](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD é um serviço poliglota, o que significa que há uma infinidade de idiomas envolvidos para conectar usuários por todo o mundo. Uma lista completa de idiomas pode ser encontrada neste [endpoint da API](https://api.premid.app/v2/langFile/list). Para customizar ainda mais sua presence, você pode permitir que os usuários selecionem seu idioma de exibição da presence veja [`multiLanguage`](#multilanguage) para mais.
 
 ## Configurações de presence
 Defina configurações interativas para que os usuários possam personalizar a presence!
@@ -244,17 +244,17 @@ Defina configurações interativas para que os usuários possam personalizar a p
 
 #### Introdução
 
-The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+A configuração `multiLanguage` é usada para permitir que os usuários selecionem manualmente o idioma em que querem que a presence seja mostrada. Isto requer que você use strings de nossa [API](https://api.premid.app/v2/langFile/presence/en), para informações sobre como adicionar strings clique [aqui](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Configuração
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+A configuração `multiLanguage` é um caso especial, não requer uma configuração `título` nem `icon` nem `valor` ou `valores` como outras configurações, mas requer mais algumas coisas para configurar!
 
-The `multiLanguage` key can be set to the following:
+A key `multiLanguage` pode ser ajustada para o seguinte:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: use isto se você só vai usar strings do arquivo `general.json` e do arquivo `<service>.json` do [Repositório Localization](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: nome do arquivo excluindo a extensão (.json) dentro do [Repositório Localization](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluindo o arquivo `general`, já que está sempre carregado). Somente os idiomas comuns de ambos os `general` e arquivo inserido serão listados. `Array<String>`: se você estiver usando mais de um arquivo dentro do [Repositório Localization](https://github.com/PreMiD/Localization/tree/master/src/Presence) você pode especificar todos os valores em um array (excluindo o arquivo `general`, já que ele está sempre carregado). Apenas idiomas comuns de todos os arquivos serão listados.
 
-#### Adding new strings
+#### Adicionando novas strings
 
 ##### Clonando o projeto
 
@@ -262,43 +262,43 @@ The `multiLanguage` key can be set to the following:
 2. Escolha uma pasta que preferir.
 3. Abra isso no seu editor de código.
 
-##### Creating the file
+##### Criação do arquivo
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Vá para a pasta `src`.
+2. Vá para a pasta `Presence`.
+3. Crie um arquivo chamado `<service>.json`. (Service é o **nome** (não uma URL) em letras minúsculas do serviço que você deseja dar suporte.)
 
-##### Adding the strings
+##### Adicionando as strings
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Cada `string` é um `Objeto` onde a partir do nome começa com o nome do serviço e depois o chamado stringName com um ponto entre eles.
 
-The stringName is a 1 word identifier of the message.
+O stringName é um identificador de 1 palavra da mensagem.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+O `Objeto` tem 2 propriedades; `message` e `description`. `message` é o texto que precisa ser traduzido. `description` é uma descrição da mensagem para ajudar nossos tradutores a entender o que eles estão traduzindo.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Nota:** Não adicione nenhuma frase duplicada. (Isso inclui strings do arquivo `general.json` mas não os outros arquivos.)
 
-Visualization of the the file:
+Visualização do arquivo:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Texto que precisa ser traduzido.",
+    "description": "Isso explica o que a mensagem acima é."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Texto que precisa ser traduzido.",
+    "description": "Isso explica o que a mensagem acima é."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Depois de ter feito o arquivo com as strings, você pode criar um Pull Request no [Repositório Localization](https://github.com/PreMiD/Localization), na descrição você **deve** incluir um link para seu Pull Request da presence atualizada usando estas novas strings do [Repositório Presence](https://github.com/PreMiD/Presences).
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Keys padrões
+As keys que você não precisa definir são automaticamente definidas para o seguinte: `title`: "Language" **Nota**: Isto é traduzido para seu idioma padrão (idioma do navegador). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Configure no idioma do navegador se estiver disponível (100% traduzido), caso contrário, em inglês.** `values`: **Configure para os idiomas disponíveis (idiomas que têm isso 100% traduzido).**
 
-**Note:** These are in no way changeable.
+**Nota:** Estes não são de forma alguma alteráveis.
 
 ### Métodos
 
@@ -306,8 +306,8 @@ Use os seguintes métodos para obter informações de configurações em seus ar
 #### `getSetting(String)`
 Retorna valor da configuração.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); //Substitua pdexID pelo id da configuração
+console.log(setting); // Isto registrará o valor da configuração
 ```
 
 #### `hideSetting(String)`
