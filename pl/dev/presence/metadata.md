@@ -82,14 +82,14 @@ Ten przykład wygląda naprawdę dziwnie, prawda? Nie martw się, nie jest trudn
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Powinien zawierać obiekt o <code>nazwie</code> i <code>id</code> współautora. <code>nazwa</code> to Twoja nazwa użytkownika Discord bez identyfikatora(#0000). Użytkownik <code>id</code> może zostać skopiowany z Discorda poprzez włączenie trybu programisty
         i kliknięcie prawym przyciskiem myszy w Twoim profilu.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>współtwórcy</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>nazwa</code> to Twoja nazwa użytkownika Discord bez identyfikatora(#0000). <code>Id</code> użytkownika można skopiować z Discorda włączając tryb programisty i klikając prawym przyciskiem myszy na swój profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Tak</code></td>
@@ -109,7 +109,7 @@ Ten przykład wygląda naprawdę dziwnie, prawda? Nie martw się, nie jest trudn
       <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>opis</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do Twojego pliku metadanych. Wyświetl kategorię języków Presence dla listy. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nie</code></td>
@@ -129,7 +129,7 @@ Ten przykład wygląda naprawdę dziwnie, prawda? Nie martw się, nie jest trudn
       <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>wersja</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Wersja twojej obecności.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
@@ -154,7 +154,7 @@ Ten przykład wygląda naprawdę dziwnie, prawda? Nie martw się, nie jest trudn
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tagi</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Tablica z tagami, pomoże użytkownikom wyszukać Twoje presence na stronie.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nie</code></td>
@@ -184,7 +184,7 @@ Ten przykład wygląda naprawdę dziwnie, prawda? Nie martw się, nie jest trudn
       <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ustawienia</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Szereg ustawień, które użytkownik może zmienić</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Tak</code></td>
@@ -343,17 +343,17 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
       <td style="text-align:left">Wszystko związane z anime, od forów po platformy streamingu wideo.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>gry</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Gry</b></td>
       <td style="text-align:left">Każda strona internetowa, która ma treści związane z grami, takie jak <code>Kahoot</code> lub <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>muzyka</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Muzyka</b></td>
       <td style="text-align:left">Są to strony internetowe oferujące treści związane z muzyką, czy to strumieniowe, czy pobierane.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>media społecznościowe</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Media Społecznościowe</b></td>
       <td style="text-align:left">Strony internetowe wykorzystywane do tworzenia i udostępniania treści lub do udziału w innych formach sieci społecznościowych.</td>
     </tr>
@@ -363,7 +363,7 @@ Tworząc swój Presence, musisz określić kategorię, do której należy. To je
       <td style="text-align:left">Strony internetowe służące do dostarczania filmów i strumieni.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>inne</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Inne</b></td>
       <td style="text-align:left">Każda z tych kategorii, które nie wchodzą w zakres określonych wyżej kategorii.</td>
     </tr>

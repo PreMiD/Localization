@@ -36,7 +36,7 @@ V koreni konfiguračného súboru uvidíte niečo takéto podobné.
 }
 ```
 
-| Vlastnosť                  | Popis                                                                                                                                                               |
+| Property                   | Popis                                                                                                                                                               |
 |:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Používaný na konfiguráciu kompiliera, väčšina vlastností sa nachádza tu.                                                                                            |
 | module                     | Môžete si prečítať viacej o tom [tu](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                    |
@@ -61,7 +61,7 @@ V koreni konfiguračného súboru uvidíte niečo takéto podobné.
 }
 ```
 
-| Vlastnosť           | Popis                                                                                            |
+| Property            | Popis                                                                                            |
 |:------------------- |:------------------------------------------------------------------------------------------------ |
 | **extends**         | Používa sa na rozšírenie základného súboru `tsconfig` na rôzne úlohy.                            |
 | **compilerOptions** | Pozrite [**Koreň Konfigurácie**](/dev/presence/tsconfig#root-configuration) pre viac informácii. |

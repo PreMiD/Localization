@@ -127,13 +127,13 @@ Stworzyliśmy dla leniwych kreator plików `metadata.json` [tutaj](https://eggsy
 
 Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytować wartości właściwości. Pamiętaj, że następujące właściwości są opcjonalne w pliku `metadata.json`, jeśli nie planujesz ich używać, powinieneś je usunąć.
 
-- `współtwórcy`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `ustawienia`
+- `settings`
 
 **Wyjaśnienie niektórych ustawień wartości:**
 
@@ -148,13 +148,13 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autor</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Powinien zawierać obiekt o <code>nazwie</code> i <code>id</code> współautora. <code>nazwa</code> to Twoja nazwa użytkownika Discord bez identyfikatora(#0000). <code>Id</code> użytkownika można skopiować z Discorda włączając tryb programisty i klikając prawym przyciskiem myszy na swój profil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>współtwórcy</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Powinien zawierać obiekt o <code>nazwie</code> i <code>id</code> współautora. <code>nazwa</code> to Twoja nazwa użytkownika Discord bez identyfikatora(#0000). <code>Id</code> użytkownika można skopiować z Discorda włączając tryb programisty i klikając prawym przyciskiem myszy na swój profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Tak</code></td>
@@ -175,7 +175,7 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
       <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>opis</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Mały opis obecności, możesz użyć opisu usługi, jeśli nie masz pomysłów. Twój opis musi zawierać kluczowe wartości wskazujące język oraz opis w tym konkretnym języku. Twórz opisy z językami <i>, które znasz</i>, nasi tłumacze wprowadzą zmiany do twojego pliku metadanych.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nie</code></td>
@@ -206,7 +206,7 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
       <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>wersja</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Wersja twojego presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
@@ -231,7 +231,7 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tagi</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Tablica z tagami, pomoże użytkownikom wyszukać Twoje presence na stronie.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nie</code></td>
@@ -261,7 +261,7 @@ Skopiuj powyższy kod i umieść go w pliku `metadata.json`. Teraz musisz edytow
       <td style="text-align:left"><code>Tak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ustawienia</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Zestaw ustawień, które użytkownik może zmienić. <br>
       Przeczytaj więcej o ustawieniach Presence <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">tutaj</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

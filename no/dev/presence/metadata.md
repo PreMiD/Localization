@@ -82,14 +82,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>forfatter</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Bør inneholde et objekt med <code>navnet</code> og <code>id</code> av tilstedeværelsesutvikleren. <code>navnet</code> er ditt Discord brukernavn uten identifikator(#0000). Bruker <code>-id</code> kan kopieres fra Discord ved å aktivere utvikler
         -modus og høyre-klikke på profilen din.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>bidragsytere</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>navnet</code> er ditt Discord brukernavn uten identifikator(#0000). Bruker <code>-id</code> kan kopieres fra Discord ved å aktivere utvikler
         -modus og høyre-klikke på profilen din.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -110,7 +110,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>beskrivelse</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Beskrivelsen må ha nøkkelpar-verdier som viser språket og beskrivelsen på det bestemte språket. Gjør beskrivelser med språkene <i>som du vet</i>, da vil oversettere våre gjøre endringer i metadatafilen din. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nei</code></td>
@@ -130,7 +130,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versjon</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Versjon av ditt nærvær.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>innstillinger</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -344,17 +344,17 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>spill</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Spill</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>musikk</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Musikk</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sosialer</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sosiale Medier</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
@@ -364,7 +364,7 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>annet</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Andre</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>

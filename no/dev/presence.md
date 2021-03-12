@@ -127,13 +127,13 @@ Vi har laget en `metadata.json` filutviklingsansvarlig for late repos [her](http
 
 Kopier koden ovenfor og legg den i `metadata.json` -filen. Nå må du endre verdiene for egenskapene. Merk at følgende egenskaper er valgfrie for i dine `metadataer. sønn` -fil, hvis du ikke planlegger å bruke dem, må du fjerne dem.
 
-- `bidragsytere`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `innstillinger`
+- `settings`
 
 **Klargjør noen verdi-forhåndsinnstillinger:**
 
@@ -148,14 +148,14 @@ Kopier koden ovenfor og legg den i `metadata.json` -filen. Nå må du endre verd
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>forfatter</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Bør inneholde et objekt med <code>navnet</code> og <code>id</code> av tilstedeværelsesutvikleren. <code>navnet</code> er ditt Discord brukernavn uten identifikator(#0000). Bruker <code>-id</code> kan kopieres fra Discord ved å aktivere utvikler
         -modus og høyre-klikke på profilen din.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>bidragsytere</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Bør inneholde et objekt med <code>navnet</code> og <code>id</code> av tilstedeværelsesutvikleren. <code>navnet</code> er ditt Discord brukernavn uten identifikator(#0000). Bruker <code>-id</code> kan kopieres fra Discord ved å aktivere utvikler
         -modus og høyre-klikke på profilen din.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ Kopier koden ovenfor og legg den i `metadata.json` -filen. Nå må du endre verd
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>beskrivelse</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Liten beskrivelse av tilstedeværelse, du kan bruke beskrivelsen av tjenesten hvis du er ute av ideer. Beskrivelsen må ha nøkkelpar-verdier som viser språket og beskrivelsen på det bestemte språket. Gjør beskrivelser med språkene <i>som du vet</i>, da vil oversettere våre gjøre endringer i metadatafilen din.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nei</code></td>
@@ -208,7 +208,7 @@ Kopier koden ovenfor og legg den i `metadata.json` -filen. Nå må du endre verd
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versjon</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Versjon av ditt nærvær.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
@@ -263,7 +263,7 @@ Kopier koden ovenfor og legg den i `metadata.json` -filen. Nå må du endre verd
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>innstillinger</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">En liste med innstillinger som brukeren kan endre.<br>
       Les mer om innstillinger for tilstedeværelse <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">her</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

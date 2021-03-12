@@ -182,7 +182,7 @@ An example of that file can be found below.
       <td style="text-align:left"><code>可</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>設定</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>可</code></td>

@@ -139,7 +139,7 @@ En liste over felt og deres regler står oppført nedenfor:
 
 - Skjemaet _nøkkel_ **må** inneholde et dollar tegn ved begynnelsen av det Dette vil signalisere redigeringsprogrammet ditt som du ønsker å validere JSON-filen din mot en modell. _Som tidligere oppgitt trenger du ikke å ta med en ordning, men hvis du inkluderer den må du ta hensyn til._
 
-### **`forfatter`**
+### **`author`**
 
 - IDen _verdi_ **må** være Discord snowflake ID. Du kan få det ved å aktivere [utviklermodus](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Vær snill å **ikke** forveksle dette med din program-ID, som bare er for ditt nærvær._
 
@@ -157,7 +157,7 @@ En liste over felt og deres regler står oppført nedenfor:
 
 - **Bare** bruk denne i scenerios hvor en nettside går under flere offisielle navn (f.eks Poke″mon og ε″″″″″″″″″εε″)-eller for å gjøre det enklere å søke i nærvær uten å bruke spesialtegn (f.eks. Pokeephalmon og Pokemon). *Forkortet* versjoner av tjenestenavn går under `tags`.
 
-### **`beskrivelse`**
+### **`description`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
@@ -167,7 +167,7 @@ En liste over felt og deres regler står oppført nedenfor:
 - The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`versjon`**
+### **`version`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
@@ -212,7 +212,7 @@ En liste over felt og deres regler står oppført nedenfor:
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
 
-### **`innstillinger`**
+### **`settings`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
