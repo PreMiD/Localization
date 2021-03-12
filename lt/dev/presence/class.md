@@ -277,7 +277,7 @@ This interface has following variables, all of them are optional.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">detalizuotai</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
       <td style="text-align:left"><code>String</code>
       </td>
@@ -358,7 +358,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## Įvykiai
+## Events
 
 Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
 

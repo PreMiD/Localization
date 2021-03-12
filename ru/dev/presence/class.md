@@ -140,7 +140,7 @@ const playString = strings.play; // result: Играет
 const pauseString = strings.pause; // result: Остановлен
 ```
 
-### `getPageletiable(Строка)`
+### `getPageletiable(String)`
 
 Возвращает переменную с сайта, если она существует.
 
