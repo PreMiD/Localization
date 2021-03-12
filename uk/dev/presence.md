@@ -133,7 +133,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `налаштування`
+- `settings`
 
 **Пояснення деяких пресетів значень:**
 
@@ -165,7 +165,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -204,32 +204,32 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <code>([a-z0-9]+)</code> means anything from a to z and from 0 to 9.<br>
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Версія вашої присутності.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Посилання на сервіс&apos;logotype.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Посилання на мініатюру присутності.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> значення. Ми рекомендуємо використовувати основний колір служби
         , який ваша присутність.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -241,7 +241,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Рядок, який використовується для представлення категорії, на яку падає присутність. Перегляньте припустимі обстеження <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">тут</a>.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ні</code></td>
     </tr>
     <tr>
@@ -253,17 +253,17 @@ dateCreated: 2020-06-11T18:04:02.843Z
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Селектор регулярних виразів, який вибирає iframes для впровадження параметрів. Перегляньте regExp для отримання додаткової інформації.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>Рядок</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Так</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>налаштування</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
