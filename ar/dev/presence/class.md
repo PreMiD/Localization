@@ -83,7 +83,7 @@ const presence = new Presence({
 
 You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
 
-### `getStrings(كائن)`
+### `getStrings(Object)`
 
 طريقة غير غريبة تسمح لك بالحصول على المقاطع المترجمة من الإضافة.
 
@@ -277,13 +277,13 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">التفاصيل</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">السطر الأول في الpresence الخاص بك، وعادة ما يستخدم كعنوان.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">الحالة</td>
+      <td style="text-align:left">state</td>
       <td style="text-align:left">السطر الثاني في الpresence الخاص بك.</td>
       <td style="text-align:left"><code>String</code>
       </td>
@@ -295,7 +295,7 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
           <br>يجب عليك تحويل وقتك إلى <code>timestamp</code> أو ستحصل على
           عد تنازلي خاطئ.
       </td>
-      <td style="text-align:left"><code>عدد</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
@@ -305,7 +305,7 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
           <br>يجب عليك تحويل وقتك إلى <code>timestamp</code> أو ستحصل على
           عد تنازلي خاطئ.
       </td>
-      <td style="text-align:left"><code>عدد</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
@@ -358,7 +358,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## أحداث
+## Events
 
 تتيح لك الأحداث الكشف عن بعض التغييرات أو المكالمات التي أجريت والتعامل معها. يمكنك الاشتراك في الأحداث باستخدام طريقة `on`.
 
