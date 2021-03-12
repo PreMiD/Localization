@@ -24,7 +24,7 @@
 		"description": "Select Box for the user to select their browser"
 	},
 	"report.description": {
-		"message": "একটি ভিডিও এর লিংক দাও অথবা পরিষ্কারভাবে ধাপগুলি লেখ যে কীভাবে বাগটি তুমি তৈরি করেছ।",
+		"message": "একটি ভিডিও এর লিংক দাও অথবা পরিষ্কারভাবে ধাপগুলো লেখ যে কীভাবে বাগটি তুমি তৈরি করেছ।",
 		"description": "Text for the user to write information about the bug."
 	},
 	"report.button": {
@@ -32,11 +32,11 @@
 		"description": "Button to send the information inputed."
 	},
 	"report.toomany": {
-		"message": "তোমার অনেকগুলি চলমান রিপোর্ট রয়েছে। তোমার সাবমিট করা রিপোর্টগুলি রিভিও হওয়ার জন্য অপেক্ষা করো। রিপোর্টগুলি সাপ্তাহিক ভিত্তিতে চেক করা হয়, ধৈর্য ধরো।",
+		"message": "তোমার অনেকগুলো চলমান রিপোর্ট রয়েছে। তোমার সাবমিট করা রিপোর্টগুলো রিভিও হওয়ার জন্য অপেক্ষা করো। রিপোর্টগুলো সাপ্তাহিক ভিত্তিতে চেক করা হয়, ধৈর্য ধরো।",
 		"description": "User has too many active reports"
 	},
 	"report.toomany.alert": {
-		"message": "তোমার অনেকগুলি চলমান রিপোর্ট রয়েছে।",
+		"message": "তোমার অনেকগুলো চলমান রিপোর্ট রয়েছে।",
 		"description": "User has too many active reports"
 	},
 	"report.success": {
