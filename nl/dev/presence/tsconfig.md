@@ -36,7 +36,7 @@ In het root configuratiebestand ziet u zoiets als deze.
 }
 ```
 
-| Eigenschappen              | Beschrijving                                                                                                                                                                        |
+| Property                   | Beschrijving                                                                                                                                                                        |
 |:-------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **compilerOptions**        | Gebruikt voor het configureren van de compiler, de meeste eigenschappen bevinden zich hier.                                                                                         |
 | module                     | Je kunt er meer over lezen [hier](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                       |
