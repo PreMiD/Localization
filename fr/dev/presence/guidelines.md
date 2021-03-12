@@ -139,7 +139,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 - La _clé_ de schéma **doit** inclure un signe dollar au début de celui-ci, cela signalera à votre éditeur de texte que vous voulez valider votre fichier JSON par rapport à un modèle. _Comme indiqué précédemment, vous n'avez pas besoin d'inclure un schéma, mais si vous l'incluez, vous devez en tenir compte._
 
-### **`auteur`**
+### **`author`**
 
 - La _valeur_ de l'ID **doit** être votre ID snowflake Discord. Vous pouvez l'obtenir en activant le [mode développeur](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Veuillez **ne pas confondre** ceci avec l'ID de votre d'application, qui n'est que pour votre presence._
 
@@ -147,7 +147,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 - **Ne vous ajoutez pas** en tant que contributeur, et n'ajoutez personne en tant que contributeur à moins qu'il ait aidé au développement de la presence.
 
-### **`Service`**
+### **`service`**
 
 - Le nom du service **doit être** le nom du répertoire de presence. Par exemple, si la presence est située à `/websites/Y/YouTube/`, le nom du service doit être `YouTube`.
 - Vous **ne pouvez pas** utiliser l'url comme nom de service à moins que le site utilise l'url comme nom officiel. Si le nom n'est pas descriptif et peut être considéré comme vague, l'utilisation de l'url est **obligatoire**. (par exemple, `YouTube` est autorisé car c'est le nom officiel et est descriptif, alors que `youtube.com` ne l'est pas. `Top` est un nom non descriptif, donc l'utilisation de l'url `top.gg` est **requise**.)
@@ -162,7 +162,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 - **Toutes** les presences **doivent** avoir une description anglaise quelle que soit la langue préférée du site web.
 - N'essayez pas de traduire la description vous-même **** à moins que vous ne connaissiez cette langue, les traducteurs modifieront votre `metadata.json` et modifieront les descriptions si nécessaire.
 
-### **`Url`**
+### **`url`**
 
 - L'url **doit être** une chaîne de caractères si le site n'utilise qu'un seul domaine. Si le site Web en utilise plusieurs, faites un tableau et spécifiez chacune des chaînes de caractères.
 - **N'incluez pas** les protocoles dans l'url (par exemple, `http` or `https` ), et ne pas inclure les paramètres de la requête dans l'url (par exemple, `www.google.com/search?gws_rd=ssl` qui devrait être `www.google.com/`)
@@ -172,7 +172,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 - Toujours s'assurer que le numéro de version suit [les normes de version](https://semver.org), se traduisant par le schéma suivant : `<NOUVELLE FONCTIONNALITÉ>.<ÉNORME-CORRECTION DE BUGS>.<PETITE CORRECTION DE BUGS OU CHANGEMENT DES MÉTADONNÉES>`. Toute autre chose comme `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` ou changer `1.0.0` à `2.0.` sur une correction de bug/ petit changement **n'est pas** autorisé.
 - La version **doit** toujours commencé à `1.0.0` à moins que l'on vous dise le contraire, les autres versions ne seront **pas** autorisés.
 
-### **`Logo`**
+### **`logo`**
 
 - Le logo **doit** être une image carrée de `1:1` comme aspect de ratio.
 - La résolution minimale **requise** est de `512x512` pixels. Vous pouvez l'agrandir en utilisant un outil comme [waifu2x](http://waifu2x.udp.jp/).
@@ -181,7 +181,7 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 
 - La vignette **devrait** préférablement être une [ large carte promotionnelle](https://i.imgur.com/3QfIc5v.jpg) ou une [capture d'écran](https://i.imgur.com/OAcBmwW.png) si la première option **n'est pas **disponible.
 
-### **`couleur`**
+### **`color`**
 
 - La couleur **doit être** une valeur hexadécimale entre `#000000` et `#FFFFFF`.
 - La chaîne de couleur **doit** être précédée d'un symbole de hachage.
@@ -212,14 +212,14 @@ Une liste de champs et leurs règles sont listées ci-dessous:
 - Active l'icône warning pour notifier l'utilisateur que cette Presence nécéssite plus d'étapes que le simple ajout de cette présence.
 - Un exemple de Presence utilisant cette variable de métadonnées est `VLC`.
 
-### **`réglages`**
+### **`settings`**
 
 - Si vous décidez de faire un imprimer formaté (par exemple : `%song% par %artist%`), les variables doivent être encerclé d'un "%" de part et d'autre. Les variables comme `%var`, `var%` ou `%%var%%` ne sont **pas** autorisé dans l'intérêt de respecter la standardisation.
 - Le nom des paramètres ne doit **pas** être en lettres capitales. Par exemple, les nom comme `AFFICHER LE STATUT DE NAVIGATION` ne seront **pas** autorisé; en revanche, les nom tel que `Afficher le Statut de Navigation` ou `Afficher le statut de navigation` sont autorisé.
-- If you are using the `multiLanguage` option it can have the following types:
+- Si vous utilisez l'option multiLanguage, vous devez savoir que:
   - Une valeur de type **booléenne** n'activera que les chaînes de caractères de [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) du dépôt de traduction ou du fichier de la Presence (par exemple: si le nom de la présence est YouTube, l'extension prendra les chaînes de caractères du fichier `youtube.json`.)
-  - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
-  - **Array<String>** type (e.g. `["youtube", "discord"]`) which will specify the name of the files that you want to get strings from.
+  - Une valeur de type **String** (par exemple `youtube.json`) spécifiera le nom du fichier dont vous voulez obtenir les chaînes de caractères.
+  - Une valeur de type **Array<String>** (par exemple `["youtube", "discord"]`) spécifiera le nom des fichiers dont vous voulez obtenir les chaînes de caractères.
 
 ## [**presence.ts**](/dev/presence/class)
 
