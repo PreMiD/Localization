@@ -1,5 +1,5 @@
 ---
-title: Presence Class
+title: Presence klase
 description: The main class for every PreMiD presence
 published: true
 date: 2021-02-26T20:42:26.910Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-02-21T21:13:14.449Z
 ---
 
-# Presence Class
+# Presence klase
 
 ## Introduction
 
