@@ -1,13 +1,13 @@
 ---
 title: PreMiDについて
-description: The core features of PreMiD
+description: PreMiDの基本的な機能
 published: true
 date: 2020-09-01T22:07:41.029Z
 tags:
 editor: markdown
 ---
 
-PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status. 多くのプラットフォームで対応している他、アップデートで新たな機能を追加する予定もあります。
+PreMiDはブラウザ内で何をしているかをDiscordのゲームプレイステータスに表示できるようにするアプリです。 多くのプラットフォームで対応している他、アップデートで新たな機能を追加する予定もあります。
 
 # PreMiDをダウンロードする理由
 - 全てのプロジェクトがオープンソースです！ ユーザーのために働いています。
