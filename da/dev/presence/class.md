@@ -10,7 +10,7 @@ dateCreated: 2021-02-21T21:13:14.449Z
 
 # Tilstedeværelse Klasse
 
-## Introduction
+## Introduktion
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
