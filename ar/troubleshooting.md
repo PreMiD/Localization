@@ -8,18 +8,18 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> تأكد من أن لديك الإضافة **و** تم تثبيت التطبيق! 
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+المدرجة في هذه الصفحة:
+1. [استكشاف الأخطاء وإصلاحها بشكل عام](https://docs.premid.app/troubleshooting#general)
+2. [استكشاف أخطاء لينكس وإصلاحها](https://docs.premid.app/troubleshooting#linux)
+3. [استكشاف أخطاء ماك أوأس وإصلاحها](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# استكشاف الأخطاء وإصلاحها بشكل عام
 ### أعد تحميل الصفحة
 يمكنك الضغط على <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أيضا بدلا من البحث على زر التحديث.
 
@@ -46,7 +46,7 @@ Included on this page:
 ### أعد تشغيل Discord
 إضغط على <kbd>CTRL+R</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (MacOS) على لوحة المفاتيح أو أعد تشغيل دسكورد يدويا.
 
-### Check if you have antivirus or firewall running on your computer
+### تحقق مما إذا كان برنامج مكافحة الفيروسات أو جدار الحماية مشتغل في الجهاز
 في بعض الأحيان تمنع برامج مكافحة الفيروسات وجدران الحماية التطبيقات التي تصنع خوادم أو تستضيفها أو تتصل فقط بالإنترنت. نحن نستخدم خادم محلي لتلقي البيانات ونقلها بين تطبيقنا وملحقنا، لذلك إذا كنت ستمنع قدرة التطبيق على نقل البيانات فلن تتمكن على الأرجح من استخدام PreMiD.
 
 ### قم تعطيل الإضافات الخاصة بك
@@ -59,12 +59,13 @@ Included on this page:
 في بعض الأحيان يكون شيء خاطئ في الملفات... يمكنك العثور على طريقة التثبيت [هنا](/install).
 
 ### إزالة يدوياً
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+ويندوز: `C:\Users\USER\AppData\Roaming\`` وإحذف الملف `PreMiD`.
+ماك أوأس: `~/users/USER/~Library/Application Support/` وإحذف الملف `PreMiD``.
 
 ### تم تحديد PreMiD على إنه فيروس من قبل McAfee (ويندوز)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+هذا إبلاغ كذب من McAfee ونحن قمنا بتبليغهم بهذه المسألة، في الوقت الحالي يمكنك استبعاد PreMiD من الفحص عن طريق الخطوات التالية:
 
-> If you do not feel confident taking these steps, feel free to make a ticket in [#support](https://discord.premid.app/) and one of our Support Agents will be able to help you out! 
+> وإذا لم تكن واثق من اتخاذ هذه الخطوات، لا تتردد في فتح تذكرة في [#support](https://discord.premid.app/) وسيكون أحد عملاء الدعم لدينا قادرا على مساعدتك! 
 > 
 > {.is-warning}
 
@@ -79,13 +80,13 @@ This is a false positive from McAfee and we have reported the issue to them, for
 9. افتح مجلد "PreMiD" وحدد ملف "PreMiD.exe" وانقر على فتح. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. يجب أن يتجاهل McAfee ملفنا، فقط ابدأ تطبيقنا وينبغي أن تكون جيداً للذهاب.
 
-### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+### حالة بريميد معطلة في ديسكورد!
+لا تقلق. أضغط علي <kbd>CTRL+R</kbd> (ويندوز) أو <kbd>CMD+R</kbd> (ماك أوأس) مع التركيز علي نافذة الديسكورد لأعادة تحميلها.
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
+# استكشاف أخطاء لينكس وإصلاحها
+### توزيعات Ubuntu/Debian
 إذا قمت بتنزيل ديسكورد من خلال Snapcraft، لن يعمل RPC. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
 
 ### Arch Linux based distros
@@ -113,7 +114,7 @@ exit 0
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
+# استكشاف أخطاء ماك أوأس وإصلاحها
 ### Error creating directory
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
