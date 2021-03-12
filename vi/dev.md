@@ -1,6 +1,6 @@
 ---
-title: Getting Started
-description: A little advise for those who got into coding recently
+title: Bắt đầu
+description: Lời khuyên nhỏ cho người vừa học lập trình
 published: true
 date: 2020-04-09T14:21:58.246Z
 tags:
@@ -32,11 +32,11 @@ tags:
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Lập trình tầm nhìn của bạn
+Xin hãy giữ nguyên cấu trúc. Chúng tôi không muốn làm mất tổ chức dự án. Những tệp rắc rối có thể không được chấp nhận.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Gửi giấc mơ của bạn
+Chỉ cần mở một Pull Request trên một trong các [kho lưu trữ mã của chúng tôi tại GitHub](https://github.com/PreMiD/) mà bạn muốn đóng góp. Chúng tôi sẽ chăm sóc đứa trẻ của bạn, đừng lo! Nếu đây là lần đầu tiên tạo pull request của bạn, hãy xem [hướng dẫn này](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Để được chấp nhận
+Mục tiên chính của chúng tôi là làm việc với người dùng nên xin hãy hoà đồng, tôn trọng và chia sẻ hết mức có thể. Chỉ cần nhắc tới một người phát triển trong [server Discord của chúng tôi](https://discord.gg/WvfVZ8T) để được đánh giá trên GitHub, hoặc không. Depends on the code quality, appearance of assets and regular functionality.
