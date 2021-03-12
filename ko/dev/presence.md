@@ -127,13 +127,13 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
 
 다음 코드를 복사해 `metadata.json` 파일에 붙여 넣으세요. 이제 속성 값을 수정해야 해요. 참고로 다음 속성들은 당신의 `metadata.json` 파일에 선택 사항이기 때문에, 만약 쓰지 않을 것이라면 지워주세요.
 
-- `기여자`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `설정`
+- `settings`
 
 **다음은 변수들에 대한 설명입니다:**
 
@@ -148,14 +148,14 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>제작자</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>아니요</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>기여자</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>네</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>설명</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>아니요</code></td>
@@ -208,7 +208,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>네</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>버전</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>아니요</code></td>
@@ -233,7 +233,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>아니요</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>태그</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>아니요</code></td>
@@ -263,7 +263,7 @@ TypeScript 구성에 대해서 더 자세히 알아보려면 [여기](/dev/prese
       <td style="text-align:left"><code>네</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>설정</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
