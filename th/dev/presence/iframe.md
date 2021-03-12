@@ -23,7 +23,7 @@ Code ที่คุณเขียนไว้ในไฟล์ `iframe.ts` �
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // เอา Code ลงตรงนี้...
+    // Code goes here...
 });
 ```
 
@@ -40,7 +40,7 @@ iframe.on("UpdateData", async () => {
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // เอา Code ลงตรงนี้...
+    // Code goes here...
 });
 ```
 
