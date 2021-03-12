@@ -1,6 +1,6 @@
 ---
 title: Presence Class
-description: The main class for every PreMiD presence
+description: 모든 PreMid Presence 클래스
 published: true
 date: 2021-02-26T20:42:26.910Z
 tags:
@@ -10,21 +10,21 @@ dateCreated: 2021-02-21T21:13:14.449Z
 
 # Presence Class
 
-## Introduction
+## 소개
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence` 클래스는 Presence 개발 과정에 필요한 기본적인 것들을 포함하고 있어 Presence 제작에 큰 힘이 됩니다.
 
-When you create a class you must specify `clientId` property.
+Presence를 만들 때, `clientId`가 명시되어야 합니다.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // 클라이언트 ID 예시
 });
 ```
 
-### Properties
+### 속성
 
-There are three properties available for `Presence` class.
+`Presence` 클래스를 위한 세 가지 속성이 있습니다.
 
 #### `clientId`
 
@@ -54,11 +54,11 @@ First parameter requires a [`PresenceData`](#presencedata-interface) interface o
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+현재 활동, 키바인드, 그리고 트레이 제목을 비웁니다.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> 이 방법은 macOS에서만 동작합니다. 
 > 
 > {.is-warning}
 
@@ -66,7 +66,7 @@ Clears your current activity and the tray title.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+새로운 `Slideshow` 클래스를 만듭니다.
 
 ```typescript
 const slideshow = presence.createSlideshow();
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+설정 값을 반환합니다.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -270,7 +270,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">변수</th>
       <th style="text-align:left">설명</th>
       <th style="text-align:left">유형</th>
     </tr>
@@ -278,7 +278,7 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">헤더로 주로 쓰이는 presence의 첫번째 줄입니다.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
