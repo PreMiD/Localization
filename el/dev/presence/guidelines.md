@@ -157,7 +157,7 @@ A list of fields and their rules are listed below:
 
 - **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
 
-### **`περιγραφή`**
+### **`description`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
@@ -207,12 +207,12 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`προσοχή`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
 
-### **`settings`**
+### **`ρυθμίσεις`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
