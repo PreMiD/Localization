@@ -2,5 +2,13 @@
 	"maintenance.big": {
 		"message": "Ωχ όχι!",
 		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Δυστυχώς, αντιμετωπίζουμε ορισμένες τεχνικές δυσκολίες. Θα επιστρέψουμε σύντομα. Λυπούμαστε για την ταλαιπωρία.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Σας παρακαλώ να επιστρέψετε αργότερα για περισσότερες πληροφορίες.",
+		"description": "Heading on maintenance page"
 	}
 }
