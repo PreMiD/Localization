@@ -98,7 +98,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Название услуги, которую поддерживает это присутствие.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
@@ -125,32 +125,32 @@ dateCreated: 2020-06-11T18:04:52.965Z
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
       <td style="text-align:left">Строка регулярного выражения, используемая для сопоставления Url-адресов.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Версия вашего присутствия.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Ссылка на сервис&apos;с логотипом</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Ссылка на миниатюру вашего присутствия.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> значение. Мы рекомендуем использовать основной цвет сервиса
         , который поддерживает ваше присутствие.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Строка, используемая для представления категории присутствия.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
@@ -174,13 +174,13 @@ dateCreated: 2020-06-11T18:04:52.965Z
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для inject into.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
@@ -235,11 +235,9 @@ PreMiD - это полиусиленный сервис, что означает
   {
     "id": "ID",
     "title": "DISPLAY TITLE",
-    "icon": "FONTAWESOME ICON",
+    "icon": "FONTAWESOME FREE ICON",
     "value": 0, //Default value of the selector
     "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
-  }
-]
 ```
 
 ### `multiLanguage`
