@@ -1,6 +1,6 @@
 {
     "amazon.subscriptions": {
-        "message": "দেখছে তার সাবস্ক্রিবশনগুলি",
+        "message": "দেখছে তার সাবস্ক্রিবশনগুলো",
         "description": ""
     },
     "amazon.adprefs": {
@@ -12,19 +12,19 @@
         "description": ""
     },
     "amazon.payment": {
-        "message": "দেখছে পেমেন্টের পদ্ধতিগুলি",
+        "message": "দেখছে পেমেন্টের পদ্ধতিগুলো",
         "description": ""
     },
     "amazon.address": {
-        "message": "দেখছে তার ঠিকানাগুলি",
+        "message": "দেখছে তার ঠিকানাগুলো",
         "description": ""
     },
     "amazon.pets": {
-        "message": "দেখছে তার পোষা প্রাণীগুলি",
+        "message": "দেখছে তার পোষা প্রাণীগুলো",
         "description": ""
     },
     "amazon.catergoriesAll": {
-        "message": "দেখছে সব ক্যাটাগরিগুলি",
+        "message": "দেখছে সব ক্যাটাগরিগুলো",
         "description": ""
     },
     "amazon.prime": {
@@ -52,7 +52,7 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
-        "message": "গিফট কার্ডগুলি",
+        "message": "গিফট কার্ডগুলো",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {

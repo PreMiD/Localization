@@ -8,7 +8,7 @@
 		"description": "Displayed when the user is viewing a Google Document"
 	},
 	"google docs.browsingDoc": {
-		"message": "ব্রাউজ করছে ডকুমেন্টগুলি",
+		"message": "ব্রাউজ করছে ডকুমেন্টগুলো",
 		"description": "Displayed when the user is browsing their Google Documents"
 	},
 	"google docs.editingForm": {
@@ -20,7 +20,7 @@
 		"description": "Displayed when the user is viewing a Google Form"
 	},
 	"google docs.browsingForm": {
-		"message": "ব্রাউজ করছে ফর্মগুলি",
+		"message": "ব্রাউজ করছে ফর্মগুলো",
 		"description": "Displayed when the user is browsing their Google Forms"
 	},
 	"google docs.editingSheet": {
@@ -32,7 +32,7 @@
 		"description": "Displayed when the user is viewing a Google Sheet"
 	},
 	"google docs.browsingSheet": {
-		"message": "ব্রাউজ করছে স্প্রেডশিটগুলি",
+		"message": "ব্রাউজ করছে স্প্রেডশিটগুলো",
 		"description": "Displayed when the user is browsing their Google Sheets"
 	},
 	"google docs.editingPresentation": {
@@ -44,7 +44,7 @@
 		"description": "Displayed when the user is viewing a Google presentation"
 	},
 	"google docs.browsingPresentation": {
-		"message": "ব্রাউজ করছে প্রেজেন্টেশনগুলি",
+		"message": "ব্রাউজ করছে প্রেজেন্টেশনগুলো",
 		"description": "Displayed when the user is browsing their Google presentation"
 	}
 }

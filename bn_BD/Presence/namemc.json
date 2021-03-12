@@ -1,30 +1,30 @@
 {
 	"namemc.upcomingNames": {
-		"message": "দেখছে আসা নামগুলি",
+		"message": "দেখছে আসা নামগুলো",
 		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
 	},
 	"namemc.skinsTrending": {
-		"message": "দেখছে ট্রেন্ডিং স্কিনগুলি",
+		"message": "দেখছে ট্রেন্ডিং স্কিনগুলো",
 		"description": "Skins is how you appear in the game."
 	},
 	"namemc.skinsTop": {
-		"message": "দেখছে টপ স্কিনগুলি",
+		"message": "দেখছে টপ স্কিনগুলো",
 		"description": "Skins is how you appear in the game."
 	},
 	"namemc.skinsNew": {
-		"message": "দেখছে নতুন স্কিনগুলি",
+		"message": "দেখছে নতুন স্কিনগুলো",
 		"description": "Skins is how you appear in the game."
 	},
 	"namemc.skinsRandom": {
-		"message": "দেখছে র‍্যানডম স্কিনগুলি",
+		"message": "দেখছে র‍্যানডম স্কিনগুলো",
 		"description": "Skins is how you appear in the game."
 	},
 	"namemc.skinsTagged": {
-		"message": "দেখছে ট্যাগ করা স্কিনগুলি",
+		"message": "দেখছে ট্যাগ করা স্কিনগুলো",
 		"description": "Skins is how you appear in the game."
 	},
 	"namemc.skinsTag": {
-		"message": "দেখছে {0} ট্যাগের স্কিনগুলি",
+		"message": "দেখছে {0} ট্যাগের স্কিনগুলো",
 		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
 	},
 	"namemc.viewSkin": {
@@ -32,7 +32,7 @@
 		"description": "Skins is how you appear in the game."
 	},
 	"namemc.capes": {
-		"message": "দেখছে কেপগুলি",
+		"message": "দেখছে কেপগুলো",
 		"description": ""
 	},
 	"namemc.viewCape": {
@@ -40,7 +40,7 @@
 		"description": ""
 	},
 	"namemc.servers": {
-		"message": "দেখছে সার্ভারগুলি",
+		"message": "দেখছে সার্ভারগুলো",
 		"description": ""
 	},
 	"namemc.viewServer": {
@@ -64,11 +64,11 @@
 		"description": ""
 	},
 	"namemc.viewSkins": {
-		"message": "দেখছে তার স্কিনগুলি",
+		"message": "দেখছে তার স্কিনগুলো",
 		"description": ""
 	},
 	"namemc.viewEmojis": {
-		"message": "দেখছে তার প্রোফাইলের ইমোজিগুলি",
+		"message": "দেখছে তার প্রোফাইলের ইমোজিগুলো",
 		"description": "You can have an emoji next to your name, you select it here."
 	}
 }
