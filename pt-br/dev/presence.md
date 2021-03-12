@@ -68,27 +68,27 @@ Nós fizemos um `metadata.json` criador de arquivos para os preguiçosos [aqui](
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "USUÁRIO",
-    "id": "ID DO USUÁRIO"
+    "name": "USER",
+    "id": "ID"
   },
   "contributors": [
     {
-      "name": "USUÁRIO",
-      "id": "ID DO USUÁRIO"
+      "name": "USER",
+      "id": "ID"
     }
   ],
-  "service": "SERVIÇO",
-  "altnames": ["SERVIÇO"],
+  "service": "SERVICE",
+  "altnames": ["SERVICE"],
   "description": {
-    "en": "DESCRIÇÃO"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
-  "version": "VERSÃO",
-  "logo": "URL DA LOGO",
-  "thumbnail": "URL DA MINIATURA",
+  "version": "VERSION",
+  "logo": "URL",
+  "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORIA",
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ Nós fizemos um `metadata.json` criador de arquivos para os preguiçosos [aqui](
     },
     {
       "id": "ID",
-      "title": "TÍTULO",
-      "icon": "ÍCONE DO FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -109,15 +109,15 @@ Nós fizemos um `metadata.json` criador de arquivos para os preguiçosos [aqui](
       "if": {
         "ID": true
       },
-      "title": "TÍTULO",
-      "icon": "ÍCONE DO FONTAWESOME",
-      "value": "\"%song%\" de %artist%",
-      "placeholder": "Usar %song% de %artist%"
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
+      "value": "\"%song%\" by %artist%",
+      "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "TÍTULO",
-      "icon": "ÍCONE DO FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }

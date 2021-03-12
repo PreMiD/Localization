@@ -83,7 +83,7 @@ const presence = new Presence({
 
 You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
 
-### `getStrings(Objeto)`
+### `getStrings(Object)`
 
 Um método assíncrono que permite que você pegue strings traduzidas da extensão.
 
@@ -295,7 +295,7 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
           <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
           contagem errada.
       </td>
-      <td style="text-align:left"><code>Número</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
@@ -305,7 +305,7 @@ Essa interface possui as seguintes variáveis, todas elas são opcionais.
           <br>Você deve converter o tempo em <code>horário</code> ou você receberá uma
           contagem errada.
       </td>
-      <td style="text-align:left"><code>Número</code>
+      <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
@@ -358,7 +358,7 @@ const presenceData: PresenceData = {
 };
 ```
 
-## Eventos
+## Events
 
 Os eventos permitem que você detecte e lide com algumas alterações ou chamadas que foram feitas. Você pode assinar eventos usando o método `on`.
 
