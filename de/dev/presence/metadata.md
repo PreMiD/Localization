@@ -106,7 +106,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>beschreibung</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Beschreibung des Dienstes <b>NICHT</b> der Presence. Ihre Beschreibung muss Schlüsselpaarwerte enthalten, die die Sprache und die Beschreibung in dieser bestimmten Sprache angeben. Machen Sie Beschreibungen mit den Sprachen <i>, die Sie kennen</i>, unsere Übersetzer nehmen Änderungen an Ihrer Metadatendatei vor. Siehe die Kategorie für Presence-Sprachen für eine Liste. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nein</code></td>
@@ -181,7 +181,7 @@ Das Beispiel sieht wirklich seltsam aus, oder? Keine Sorge, es ist nicht so schw
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>einstellungen</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Eine Reihe von Einstellungen, die der Nutzer ändern kann.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ja</code></td>
@@ -211,30 +211,30 @@ Richte interaktive Einstellungen ein, sodass die Presence benutzerdefiniert eing
 "settings": [
   {
     "id": "ID",
-    "multiLanguage": true //Siehe https://docs.premid.app/dev/presence/metadata#multilanguage
+    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
   },
   {
     "id": "ID",
-    "title": "ANZEIGE TITEL",
-    "icon": "FONTAWESOME FREE ICON", //Beispiel "fas fa-info"
-    "value": true //Boolean Wert macht daraus eine "On/Off"-Schaltung, mit dem Wert als Standardwert
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
+    "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
     "id": "ID",
     "if": {
-      "ID": true //Wenn eine andere Einstellung diesem Wert entspricht (true/false/0/1/uvm.), dann zeigt dieser Button an
+      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
-    "title": "ANZEIGE TITEL",
-    "icon": "FONTAWESOME FREE ICON",
-    "value": "\"%song%\" by %artist%", //Das einsetzen eines String setzt die Einstellung auf 1, in der du eine benutzerdefinierten Eingabe verwenden kannst.
-    "placeholder": "use %song% or %artist%" //Wenn die Eingabe leer ist, zeigt es ausgegraut an
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON",
+    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
-    "title": "ANZEIGE TITEL",
+    "title": "DISPLAY TITLE",
     "icon": "FONTAWESOME ICON",
-    "value": 0, //Standardwert des Selectors
-    "values": ["1", "2", "etc."] //Macht aus der Einstellung ein Selector, in der Sie aussuchen, welchen Wert sie wollen.
+    "value": 0, //Default value of the selector
+    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
   }
 ]
 ```
