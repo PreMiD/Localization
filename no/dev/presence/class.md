@@ -277,7 +277,7 @@ Dette grensesnittet har fulgt variabler, alle er valgfrie.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">detaljer</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">Første linje i nærvær, vanligvis brukt som topptekst.</td>
       <td style="text-align:left"><code>String</code>
       </td>
