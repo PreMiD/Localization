@@ -60,7 +60,7 @@
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
-		"message": "Xử lý sự cố",
+		"message": "Gỡ rối",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
