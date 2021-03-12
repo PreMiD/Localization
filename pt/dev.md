@@ -18,25 +18,25 @@ tags:
 # Clonando o projeto
 1. Abra um terminal e digite `git clone URL`. **Substitua a URL pelo link do repositório que você deseja contribuir para** por exemplo, `git clone https://github.com/PreMiD/PreMiD`.
 2. Escolha uma pasta à sua escolha.
-3. Open it in your code editor.
+3. Abra isso no seu editor para programação.
 
 # Instalando dependências
-> Certifica-te de ter instalado [npm](https://www.npmjs.com/) (Node Package Manager) primeiro. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 
+> Certifica-te de ter instalado [npm](https://www.npmjs.com/) (Node Package Manager) primeiro. Ele se instalou automaticamente se você tiver [Node](https://nodejs.org/en/) instalado. 
 > 
 > {.is-warning}
 
-- Open a terminal in your repository and type `npm i`.
-- To update the dependencies type `npm update`.
+- Abra um terminal no repositório e digite `npm i`.
+- Para atualizar as dependências, digite `npm update`.
 
-> Be aware that updating the dependencies could break a lot, or not - testing is required! 
+> Esteja ciente de que atualizar as dependências pode quebrar muitas ou não - é necessário fazer testes! 
 > 
 > {.is-danger}
 
-# Coding your vision
-Please keep the structure. We do not want to disorganize our project. Chaotic files may not be accepted.
+# Programando sua visão
+Por favor, mantenha a estrutura. Não queremos desorganizar o nosso projecto. Ficheiros Caóticos podem não ser aceitos.
 
-# Submitting your dream
-Just open a Pull Request on one of our [GitHub repositories](https://github.com/PreMiD/) you want to contribute to. We will take care of your baby, don't worry. If this is your first time making a pull request, take a look at this [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
+# Submetendo seu sonho
+Basta abrir um Pull Request em um dos nossos [repositórios GitHub](https://github.com/PreMiD/) nos quais você deseja contribuir. Vamos cuidar de seu bebê, não se preocupe. Se esta é sua primeira vez fazendo um pull request, dê uma olhada neste [tutorial](https://help.github.com/en/articles/creating-a-pull-request).
 
-# Getting approved
-Our main goal is to work with users so try to be as much friendly, respectful and informative as possible. Just ping a Developer in our [Discord server](https://discord.gg/WvfVZ8T) to get that review on GitHub, or not. Depends on the code quality, appearance of assets and regular functionality.
+# Seja aprovado
+Nosso objetivo principal é trabalhar com os usuários, então tente ser o mais amigável, respeitoso e informativo possível. Basta marcar algum de nossos programadores em nosso servidor de Discord para obter essa análise no GitHub ou não. Depende da qualidade do código, da aparência dos ativos e da funcionalidade regular.
