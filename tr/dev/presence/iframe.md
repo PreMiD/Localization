@@ -23,7 +23,7 @@ Servisler gibi, `iframe`'lerin de kendilerine ait bir sınıfı vardır ve veril
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Kod buraya geliyor...
+    // Code goes here...
 });
 ```
 
@@ -40,7 +40,7 @@ Veriyi servis koduna gönderir. Bu metodu kullanmak servis kodunda bir `iFrameDa
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Kodunuzu bu alana yazabilirsiniz...
+    // Code goes here...
 });
 ```
 
