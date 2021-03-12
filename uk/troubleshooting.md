@@ -59,7 +59,8 @@ To solve this, all you have to do is toggle the topmost setting: ![presencesetti
 Іноді щось не так з файлами... Підручники для встановлення можна знайти [тут](/install).
 
 ### Видалення вручну
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows:    `C:\Users\USER\AppData\Roaming\`` та видаліть теку`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`та видалити папку`PreMiD``.
 
 ### McAfee виявив PreMiD як вірус (Windows)
 Це помилкова дія від McAfee, і ми повідомили про проблему цих досліджень, тепер ви можете виключати PreMiD з сканування, виконуючи такі дії:

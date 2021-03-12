@@ -277,15 +277,15 @@ presenceData.endTimestamp = timestamps[1];
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">details</td>
+      <td style="text-align:left">подробности</td>
       <td style="text-align:left">Первая строка в вашем presence, обычно используется в качестве заголовка.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">state</td>
+      <td style="text-align:left">статус</td>
       <td style="text-align:left">Вторая линия вашего presence.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
@@ -294,7 +294,7 @@ presenceData.endTimestamp = timestamps[1];
         Используется, если вы хотите отобразить, сколько <code>часов:минут:секунд</code> осталось.
           <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчёт.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Номер</code>
       </td>
     </tr>
     <tr>
@@ -303,26 +303,26 @@ presenceData.endTimestamp = timestamps[1];
         <br>Используется если вы хотите отображать сколько <code>часов:минут:секунды</code> слева.
           <br>Вы должны преобразовать ваше время в <code>временную метку</code> или вы получите неправильный обратный отсчёт.
       </td>
-      <td style="text-align:left"><code>Number</code>
+      <td style="text-align:left"><code>Номер</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
       <td style="text-align:left">Определяет логотип для присутствия.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
       <td style="text-align:left">Определяет маленький значок рядом с наличием&apos;с логотипа.</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
       <td style="text-align:left">Определяет текст, который будет показан пользователю, когда он наведет маленький значок
 .</td>
-      <td style="text-align:left"><code>String</code>
+      <td style="text-align:left"><code>Строка</code>
       </td>
     </tr>
         <tr>

@@ -1,6 +1,6 @@
 ---
 title: แนวทางในการสร้าง Presence
-description: Rules that all presence developers must follow to have their presence added.
+description: กฏผู้พัฒนาทุกอย่างของ Presence ต้องปฏิบัติตามเพื่อได้รับการเพิ่ม Presence
 published: true
 date: 2021-03-06T15:01:04.274Z
 tags:
@@ -11,13 +11,13 @@ dateCreated: 2021-02-26T21:54:41.573Z
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
     <h3 style="font-size: 2rem; margin-bottom: 0">แนวทางในการสร้าง Presence</h3>
-    <h4 style="margin-top: 0">Revision 3</h4>
+    <h4 style="margin-top: 0">ฉบับปรับปรุงครั้งที่ 3</h4>
     <br />
 </div>
 
 # แนวทาง
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. สำหรับบางคนกฎนี้อาจเข้มงวดและรุนแรงเกินไป อย่างไรก็ตามการดำเนินการตามกฎเหล่านี้จะทำให้เราและผู้ใช้จะไม่พบเจอปัญหาใด ๆ
+เพื่อที่จะเผยแพร่ Presence ไปยัง [ที่เก็บของ Presence ทั้งหมด](https://github.com/PreMiD/Presences/), เราต้องการให้คุณปฏิบัติตามหลักเกณฑ์ที่กำหนด. สำหรับบางคนกฎนี้อาจเข้มงวดและรุนแรงเกินไป อย่างไรก็ตามการดำเนินการตามกฎเหล่านี้จะทำให้เราและผู้ใช้จะไม่พบเจอปัญหาใด ๆ
 
 # การสร้าง
 
@@ -31,13 +31,13 @@ When publishing Presences to the [Presences repository](https://github.com/PreMi
 - The domain of the presence must be at least 2 months old.
 - Presence ที่เล็งการพัฒนาด้วยเบราว์เซอร์ภายในเช่น (Chrome Web Store, `chrome://`, `about:` หรือหน้าอื่นๆนั้น) **ไม่อนุญาติ** เนื่องจากต้องเปิดโหมดทดลองของเบราว์เซอร์นั้นๆ เเละอาจะเกิดความเสียหายของเบราว์เซอร์ได้
 - Presence ที่มีเพียง Domain เดียวจะ**ไม่อนุญาติ**, เนื่องจากอาจจะทําให้หน้าอื่นขัดข้องได้เช่น (หน้าหลัก), เเต่สามารถทําได้เเค่นโยบายเเละหน้าติดต่อ (เนื้อหาที่ไม่ได้ใช้บ่อยๆ) หรือ เนื้อหาที่ไม่เกี่ยวข้อง (เช่น หน้า Wiki)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
+- Presences ของวิทยุออนไลน์ อนุญาติเฉพาะถ้าวิทยุผู้ใช้ฟังขั้นตํ้่า 100 คนต่ออาทิตย์เเละฟัง 15 คนพร้อมกัน
 - Presence คุณภาพตํ่า (หรือเนื้อหาน้อย)นั้น **ไม่อนุญาติ** (เช่น เเสดงเเค่รูป/โลโก้ เเต่ข้อความตรง Presence ไม่เปลี่ยน)
-- With the `buttons` release, we require some guidelines for them:
+- จากการที่เราปล่อยอัพเดดปุ่ม, เรามีกฎเล็กๆน้อยๆในการใช้พวกมัน:
   - Redirects to main page are prohibited.
   - Promoting websites by them is prohibited.
   - They can't show addinational data when you can't show them in `state` or `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- รวมถึงไฟล์ `dist`โฟลเดอร์, `presence.ts` ไฟล์, `iframe.ts` ไฟล์, เเละ `metadata.json`ไฟล์เป็นที่จําเป็น ดังนั้นผลลัพธ์จะเป็นสิ่งที่แสดงตามโครงสร้างต่างๆ:
 
 ```bash
 presence
@@ -174,8 +174,8 @@ A list of fields and their rules are listed below:
 
 ### **`logo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. You can upsize it using a tool like [waifu2x](http://waifu2x.udp.jp/).
+- โลโก้**ต้อง**เป็นภาพสี่เหลี่ยมจัตุรัสที่มีอัตราส่วน ` 1: 1 `.
+- รูปภาพ**จำเป็น**ต้องมีความละเอียดขั้นต่ำ `512x512` พิกเซล. คุณสามารถเพิ่มขนาดของมันโดยใช้เครื่องมืออย่างเช่น [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`รูปขนาดย่อ`**
 
@@ -212,11 +212,11 @@ A list of fields and their rules are listed below:
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
 
-### **`ตั้งค่า`**
+### **`การตั้งค่า`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
-- If you are using the `multiLanguage` option it can have the following types:
+- ถ้าคุณกำลังใช้ `multiLanguage` นี่คือสิ่งที่คุณควรรู้:
   - **Boolean** type which will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from the Localization repo or from the presence file (e.g. when the name of the presence is YouTube, the extension will get strings from `youtube.json` too.)
   - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
   - **Array<String>** type (e.g. `["youtube", "discord"]`) which will specify the name of the files that you want to get strings from.
@@ -241,16 +241,16 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
+> **ห้าม**เขียนไฟล์ `tsconfig.json` ของคุณเอง, ใช้สิ่งที่ให้ไว้ใน[เอกสาร](/dev/presence/tsconfig)เท่านั้น.
 
-## Modification
+## การปรับเปลี่ยน
 
-> You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**.
+> เมื่อมีการเปลี่ยนแปลงใน **presence.ts**, **iframe.ts** หรือ **metadata.json** คุณ**ต้อง**เปลี่ยนเวอร์ชั่นใน **metadata** เป็นเวอร์ชั่นที่สูงขี้นจากเวอร์ชั่นก่อนหน้า.
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+ในบางสถานการณ์ Presence อาจทำบางอย่างที่ไม่คาดคิดหรืออาจใช้การเปลี่ยนแปลงนี้เพื่อปรับปรุงฟังก์ชันการทำงาน. นี่คือกฎทั้งหมดทีคุณจะ**ต้อง**ปฏิบัติตามระหว่างการปรับเปลี่ยน Presence.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
+- คุณ**ไม่**ได้รับอนุญาตในการเขียน Presence ใหม่หรือเปลี่ยนแปลงผู้เขียนของมัน. ถ้าผู้เขียนของ Presence ถูกแบน จากเซิฟเวอร์อย่างเป็นทางการ หรือ ไม่ได้ทำการเปลี่ยนแปลงที่จำเป็นภายในหนี่งเดือน, คุณสามารถติดต่อผู้ตรวจทานเพื่อดูว่าคุณสามารถเขียน Presence ใหม่ได้หรือไม่.
+- ถ้าคุณทำการเปลี่ยนแปลงไปยัง Presence และ เปลี่ยนโค้ดทั้งหมดของ Presence อย่างน้อย**หนึ่งในสี่**, คุณจะได้รับอนุญาตในการเพิ่มตัวคุณเองในฐานะผู้ที่มีส่วนช่วย. ติดต่อผู้ตรวจทานสำหรับข้อมูลเพิ่มเติมเกี่ยวกับเรื่องนี้.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
 # Verification
@@ -266,7 +266,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">ผู้ตรวจทาน Presence</h2>
   
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/StrikerFRFX"><img src="https://github.com/StrikerFRFX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
@@ -282,12 +282,12 @@ In this scenerio, the following changes will occur:
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
 - Tickets created under your name regarding presence development will be deleted.
 
-## `Reviewing`
+## `การรีวิว`
 
-A few things you should know after opening a pull request:
+บางสิ่งที่คุณควรรู้หลังจากที่เปิด pull request:
 
 - It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
+- ถ้า pull request ไม่มีการเคลื่อนไหวเป็นระยะเวลา 7 วันคำขอจะถูกปิดทันที.
 - All checks **must** be passed in order to merge.
 - ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 - ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
@@ -296,11 +296,11 @@ A few things you should know after opening a pull request:
 
 ![Checks](https://i.imgur.com/oqAakOc.png)
 
-ปัจจุบัน, Presence จะต้องผ่านการตรวจสอบ 3 ขั้นตอน. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+ปัจจุบัน, Presence จะต้องผ่านการตรวจสอบ 3 ขั้นตอน. การตรวจสอบเหล่านี้จะช่วยให้ผู้ตรวจทานตัดสินใจว่า Presence นี้เหมาะสมกับการที่จะนำปรับใช้หรือไม่.
 
 - `Codacy` คือบอทที่จะตรวจสอบคุณภาพของโค้ด. หากคุณพบว่ามีข้อผิดพลาดเกิดขี้น, คุณ**จำเป็น**ต้องแก้ไขพวกมัน. (_คำเตือน: บอท Codacy จะถูกเลิกใช้เร็วๆนี้และคุณจะต้องดูข้อผิดพลาดจาก DeepScan เท่านั้น!_)
 - `DeepScan` คือบอทที่จะตรวจสอบคุณภาพของโค้ด. หากคุณพบว่ามีข้อผิดพลาดเกิดขี้น, คุณ**จำเป็น**ต้องแก้ไขพวกมัน.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Schema Validation` จะตรวจหาข้อผิดพลาดในไฟล์ `metadata.json` ของคุณ (อย่างเช่น ช่องข้อมูลบางอย่างหายไป, ประเภทของค่าไม่ถูกต้อง, เป็นต้น). หากคุณพบว่ามีข้อผิดพลาดเกิดขี้น, คุณ**จำเป็น**ต้องแก้ไขพวกมัน. การเพิ่มช่องข้อมูล schema เข้าไปในไฟล์ `metadata.json` ของคุณจะทำให้โปรแกรมแก้ไขข้อความของคุณ (ถ้ารองรับ) แสดงข้อผิดพลาดที่เกิดขั้นในระหว่างการทำงาน.
 
 ## `กฎเพิ่มเติม`
 
@@ -309,23 +309,23 @@ A few things you should know after opening a pull request:
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
 # ข้อเสนอแนะ
-If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
+ถ้าคุณมีข้อเสนอแนะเกี่ยวกับแนวทางในการสร้าง Presence ของเรา, คุณควรติดต่อเราที่ [เซิฟดิสคอร์ดของ PreMiD ](https://discord.premid.app) และเราจะไปดูพวกมัน!
 
 # ผู้ที่มีส่วนช่วยเหลือทั้งหมด
 
-`Revision 3` of the guidelines was written and was contributed to by the following individuals:
+`ฉบับปรับปรุงครั้งที่ 3` ของแนวทางได้เขียนและรับการสนับสนุนจากบุคคลต่อไปนี้:
 
 <div>
 <a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`ฉบับปรับปรุงครั้งที่ 2` ของแนวทางได้เขียนและรับการสนับสนุนจากบุคคลต่อไปนี้:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`ฉบับปรับปรุงครั้งที่ 1` ได้รับจากการดูแลจากบุคคลต่อไปนี้:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>

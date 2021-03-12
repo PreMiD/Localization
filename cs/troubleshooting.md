@@ -12,19 +12,19 @@ dateCreated: 2020-06-11T18:03:54.865Z
 > 
 > {.is-warning}
 
-Included on this page:
-1. [General troubleshooting](https://docs.premid.app/troubleshooting#general)
-2. [Linux troubleshooting](https://docs.premid.app/troubleshooting#linux)
-3. [MacOS troubleshooting](https://docs.premid.app/troubleshooting#macos)
+Na této stránce naleznete:
+1. [Obecné řešení problémů](https://docs.premid.app/troubleshooting#general)
+2. [Řešení problémů na Linux](https://docs.premid.app/troubleshooting#linux)
+3. [Řešení problémů na macOS](https://docs.premid.app/troubleshooting#macos)
 
 <a name="general"></a>
 
-# General troubleshooting
+# Obecné řešení problémů
 ### Znovu načíst stránku
 Můžete stisknout <kbd>CTRL+R</kbd>/<kbd>F5</kbd> (Windows) nebo <kbd>CMD+R</kbd> (MacOS) na vaší klávesnici místo hledání tlačítka obnovit.
 
-### Are you using the Discord app?
-PreMiD does **not** work on the browser version of Discord, you must download the app [here](https://discord.com/download).
+### Používáte aplikaci Discord v desktopové verzi?
+PreMiD **nefunguje** při používání Discordu v prohlížení, musíte stáhnout desktopovou aplikace [zde](https://discord.com/download).
 
 ### Ujistěte se, že jste povolili Discord herní aktivitu v nastavení
 **Uživatelské nastavení** > **Herní aktivita** ![gameactivity_edited.png](/gameactivity_edited.png)
@@ -32,10 +32,10 @@ PreMiD does **not** work on the browser version of Discord, you must download th
 ### Ujistěte se, že Discord neběží jako správce
 Skutečně důležité. Discord RPC nebude fungovat, pokud spustíte Discord jako správce.
 
-### Are you using a presence with settings?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+### Používáte presence s nastavením?
+Mnoho presencí (včetně `Twitch` a `SoundCloud`) je ovlivněno problémy s rozšířením. Tyto problémy způsobují, že rozšíření nezískává korektně výchozí nastavení.
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+K vyřešení tohoto problému stačí nastavit nejvyšší vlastnosti v nastavení presence. ![presencesettings.gif](/presencesettings.gif)
 
 ### Restartujte prohlížeč
 <kbd>Alt</kbd>+<kbd>F4</kbd> (Windows) nebo <kbd>CMD</kbd>+<kbd>Q</kbd> (MacOS) dělá také dobrou práci. (Musíte samozřejmě spustit prohlížeč znovu.)
@@ -59,7 +59,8 @@ Doufám, že víte, jak restartovat počítač.
 Někdy je něco se soubory špatně... Návody pro instalaci naleznete [zde](/install).
 
 ### Ruční odstranění
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows:    `C:\Users\UZIVATEL\AppData\Roaming\`` a smažte složku`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`a smažte složku`PreMiD``.
 
 ### McAfee detekoval PreMiD jako virus (na Windows)
 Ze strany McAfee je to chybné vyhodnocení a my jsme je o tom informovali. Prozatím můžete vyloučit PreMiD ze skenování pomocí následujících kroků:
@@ -79,49 +80,49 @@ Ze strany McAfee je to chybné vyhodnocení a my jsme je o tom informovali. Proz
 9. Otevřete složku "PreMiD", vyberte soubor "PreMiD.exe" a klikněte na tlačítko Otevřít. <img src="https://i.imgur.com/aHOyv3V.png" width="500px" style="max-width:100%;" />
 10. McAfee by nyní měl ignorovat náš soubor, stačí spustit naši aplikaci a měli byste být v pořádku.
 
-### PreMiD status bugged on discord!
-Don't worry. Press the <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) keybind while focused on your discord window to reload it.
+### PreMiD status se na Discordu zaseknul!
+Žádný strach. Stiskněte <kbd>CTRL+R</kbd> (Windows) nebo <kbd>CMD+R</kbd> (MacOS) při otevřeném okně aplikace Discordu. Dojde k opětovnému načtení aplikace.
 
 <a name="linux"></a>
 
-# Linux troubleshooting
-### Ubuntu/Debian based distros
-Pokud jste si stáhli Discord přes Snapcraft, RPC nebude fungovat. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+# Řešení problémů na Linux
+### Distribuce založené na Ubuntu/Debian
+Pokud jste si stáhli Discord přes Snapcraft, RPC nebude fungovat. Musíte odinstalovat verzi ze Snapcraftu zadáním příkazu `sudo snap remove discord` do terminálu, stažením **[Discordu pro Linux](https://discordapp.com/api/download?platform=linux)** (**[nebo Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), dále zamiřte do složky, kde jste Discord stáhnuli (většinou `$HOME/Downloads`) a nainstalujte balíček pomocí `sudo dpkg -i discord-*.deb`. Pokud vám AppImage nefunguje, zvažte i naše ostatní balíčky na **[tomto odkazu](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+### Distribuce založené na Arch Linux
+Distribuce založené na Arch Linux by měly používat AUR (Arch User Repository) balíček nazvaný <code>premid</code> nebo <code>premid-git</code> (<em x-id="3">UPOZORNĚNÍ: Tento repozitář kompiluje premid z našeho zdrojového kódu.</em>). Jestliže nechcete instalovat AUR manažer (yay apod.), můžete využít náš AppImage, který lze stáhnout z našeho <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repozitáře</a></strong>.
+<em x-id="3">VAROVÁNÍ: balíček v <strong x-id="1">AUR</strong> repozitáři není spravován námi (tedy organizací PreMiD), ale ostatními uživateli.</em>
 
 ### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+Měli byste vědět, že <strong x-id="1">PreMiD</strong> sobě přiřazuje port <strong x-id="1">3020</strong>. To je nezbytné pro komunikaci mezi rozšířením a aplikací. Jestliže vám <strong x-id="1">PreMiD</strong> zobrazuje chybu týkající se tohoto portu, je vhodné zkontrolovat, zda není něco jiného již přiřazeno k portu 3020 pomocí příkazu <code>sudo lsof -i:3020</code> nebo <code>sudo netstat -tnlp | grep :3020</code> ve vašem terminálu. Pokud ano, uvolněte tento port a zkuste spustit <code>PreMiD</code> znovu.
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### AppImage PreMiDu se nespustí po přihlášení
+Jak jsme prohlásili v našem **Linux repozitáři**, AppImage nelze spustit po přihlášení. Můžete si jej přidat do autostartu manuálně pomocí následujících kroků:
+1. Vytvořte soubor s názvem <strong x-id="1">rc.local</strong> ve složce <code>/etc</code>.
+2. Otevřete tento soubor ve svém oblíbeném editoru, vložte kód uvedený níže a upravte některé věci:
 ```bash
 #!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+# Musí se spustit jako /bin/bash (pokud používáte zsh atd. můžete jej změnit.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
-<directory to appimage>/PreMiD*.AppImage
+# Příklad: /home/PreMiD/PreMiD*.AppImage
+<složka, kde se nachází appimage>/PreMiD*.AppImage
 
 exit 0
 ```
-3. Save file and chmod it as executable `sudo chmod a+x /etc/rc.local`.
-4. Restart your PC and PreMiD AppImage should launch at login.
+3. Uložte soubor a povolte jeho vykonávání zadáním příkazu `sudo chmod a+x /etc/rc.local`.
+4. Restartujte PC a PreMiD AppImage by se měl spustit po přihlášení.
 
 <a name="macos"></a>
 
-# MacOS troubleshooting
-### Error creating directory
+# Řešení problémů na macOS
+### Chyba "Error creating directory"
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Jestliže jste narazili na tuto chybu, znamená to, že váš účet nemá práva správce a musíte tedy vytvořit složku manuálně následujícími kroky:
+1. Otevřete Finder a otevřete složku **Aplikace**.
+2. Klikněte pravým tlačítkem do prázdného místa a zvolte možnost **Nová složka**.
+3. Přiřaďte k této složce název `PreMiD` (nezapomeňte na velká písmena).
+4. Spusťte instalátor znovu.
 
 # To můj problém nevyřešilo
-Please open a ticket in [#support](https://discord.premid.app/).
+Prosím, otevřete si tiket v [#support](https://discord.premid.app/).

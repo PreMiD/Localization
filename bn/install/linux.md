@@ -28,7 +28,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 - **[Snapcraft](#snapcraft)** (ছোট কথায়: _কখনই না_ ™️)
 - **[AppImage](#appimage)** (_পরামর্শিত_)
   - [ইন্সটলেশন নির্দেশাবলী](#appimageinstall)
-  - [Additional notes](#appimagenotes)
+  - [অতিরিক্ত নোট](#appimagenotes)
 - [**রেড হ্যাট এন্টারপ্রাইজ লিনাক্স (RHEL) ভিত্তিক ডিস্ট্রিবিউশনগুলো**](#packagecloud)
 - [**Debian এবং Ubuntu ভিত্তিক ডিস্ট্রিবিউশনগুলো**](#packagecloud)
 - [**Arch Linux ভিত্তিক ডিস্ট্রিবিউশনগুলো**](#arch)
@@ -84,7 +84,7 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ধন্যবাদ জানাই:
 
-- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (and few other guys whom I forgot their names) for providing feedback on nightly releases.
+- @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre - কে (এবং আরো অন্যান্য কয়েকজনকে যাদের নাম আমি ভুলে গেছি) ফিডব্যাক দেওয়ার জন্যে।
 - @apriluwu for maintaining the Gentoo builds
 - @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
 - The Electron community for various packages
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### অতিরিক্ত নোট
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -182,7 +182,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### অতিরিক্ত নোট
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 

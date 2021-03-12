@@ -59,7 +59,8 @@ Tá súil agam go bhfuil a fhios agat conas ríomhaire a atosú.
 Uaireanta bíonn rud éigin cearr leis na comhaid... Is féidir ranganna teagaisc don tsuiteáil a fháil [anseo](/install).
 
 ### Baint láimhe
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows:  `C:\Users\USER\AppData\Roaming\`` agus scrios an fillteán`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`agus scrios an fillteán`PreMiD``.
 
 ### Bhraith McAfee PreMiD mar víreas (Windows)
 Is dearfach bréagach é seo ó McAfee agus chuireamar an cheist in iúl dóibh, go dtí seo is féidir leat PreMiD a eisiamh ón scanadh trí na céimeanna seo a leanas a dhéanamh:
@@ -86,24 +87,24 @@ Ná bíodh imní ort. Ná bíodh imní ort. Brúigh an eochaircheap <kbd>CTRL+R<
 
 # Fabhtcheartú Linux
 ### Distros bunaithe ar Ubuntu/Debian
-If you have downloaded Discord through Snapcraft, RPC will not work. You have to uninstall the Snapcraft version by executing `sudo snap remove discord` on a terminal, download **[Discord's Linux build](https://discordapp.com/api/download?platform=linux)** (**[or Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**), then navigating to the directory you downloaded Discord to (usually `$HOME/Downloads`), then installing the package using `sudo dpkg -i discord-*.deb`. If AppImage doesn't work, you should consider checking our other packages by **[this link](https://packagecloud.io/premid/linux)**.
+Má tá Discord íoslódáilte agat trí Snapcraft, ní oibreoidh RPC. Caithfidh tú an leagan Snapcraft a dhíshuiteáil trí fhorghníomhú `sudo snap remove discord` ar theirminéal, íoslódáil **[Linux Discord](https://discordapp.com/api/download?platform=linux)** (**[nó Discord Canary](https://discordapp.com/api/canary/download?platform=linux)**) a íoslódáil, ansin nascleanúint a dhéanamh chuig an eolaire a d’íoslódáil tú Discord dó (de ghnáth $HOME`/Downloads`), ansin an pacáiste a shuiteáil ag úsáid `sudo dpkg -i discord-*.deb`. Mura n-oibríonn AppImage, ba cheart duit smaoineamh ar ár bpacáistí eile a sheiceáil leis **[an nasc seo](https://packagecloud.io/premid/linux)**.
 
-### Arch Linux based distros
-Arch Linux based distros should use AUR (Arch User Repository) package that is named <code>premid</code> or <code>premid-git</code> (<em x-id="3">WARNING: This repository builds premid from our source code.</em>). If you don't want to install an AUR manager (yay etc.), you can check out our AppImage that is downloadable from our <strong x-id="1"><a href="https://github.com/premid/linux/releases">Linux repository</a></strong>.
-<em x-id="3">Warning: the package in the <strong x-id="1">AUR</strong> repository is not maintained by us (as PreMiD organization), but by other people.</em>
+### Distros bunaithe ar Arch Linux
+Ba cheart go n-úsáidfeadh distros bunaithe ar Arch Linux pacáiste AUR (Stór Úsáideora Arch) atá ainmnithe <code>premid</code> nó <code>premid-git</code> (<em x-id="3">RABHADH: Tógann an stór seo sár ón gcód foinse.</em>). Mura dteastaíonn uait bainisteoir AUR a shuiteáil (yay srl.), Is féidir leat seiceáil ar ár AppImage atá le híoslódáil ónár <strong x-id="1"><a href="https://github.com/premid/linux/releases">stór Linux</a></strong>.
+<em x-id="3">Rabhadh: ní muidne (mar eagraíocht PreMiD) a dhéanann an pacáiste i stór <strong x-id="1">AUR</strong> a chothabháil, ach ag daoine eile.</em>
 
-### Port binding
-You should know that <strong x-id="1">PreMiD</strong> binds itself to the port <strong x-id="1">3020</strong>. This is necessary for the Extension and the Application communicate. If <strong x-id="1">PreMiD</strong> shows you an error about this port, you should check if something is binded to the 3020 port by running <code>sudo lsof -i:3020</code> or <code>sudo netstat -tnlp | grep :3020</code> in your terminal. If some process is binded to it you should make sure to free the port and try running <code>PreMiD</code> again.
+### Ceangal calafoirt
+Ba chóir go mbeadh a fhios agat go gceanglaíonn <strong x-id="1">PreMiD</strong> leis an gcalafort <strong x-id="1">3020</strong>. Tá sé seo riachtanach chun an Síneadh agus an Feidhmchlár a chur in iúl. Má thaispeánann <strong x-id="1">PreMiD</strong> botún duit faoin gcalafort seo, ba cheart duit seiceáil an bhfuil rud éigin ceangailte leis an gcalafort 3020 trí <code> sudo lsof -i: 3020</code> nó <code>sudo netstat -tnlp | grep: 3020</code> i do chríochfort. Má tá próiseas éigin ceangailte leis ba cheart duit a dhéanamh cinnte an calafort a shaoradh agus iarracht a dhéanamh rith <code>PreMiD</code> arís.
 
-### PreMiD's AppImage doesn't launch at login
-As we stated in our **Linux repository**, AppImage can't be launched at login. You can add it to autostart manually by doing these steps:
-1. Make a file named <strong x-id="1">rc.local</strong> in the <code>/etc</code> directory.
-2. Open this file in your favourite editor and paste given code with changing some things:
+### Ní sheoltar AppImage PreMiD ag logáil isteach
+Mar a dúirt muid inár **stór Linux**, ní féidir AppImage a sheoladh ag logáil isteach. Is féidir leat é a chur le autostart de láimh trí na céimeanna seo a dhéanamh:
+1. Déan comhad darb ainm <strong x-id="1">rc.local</strong> san <code>/etc</code> eolaire.
+2. Oscail an comhad seo san eagarthóir is fearr leat agus greamaigh an cód tugtha le roinnt rudaí a athrú:
 ```bash
-#!/bin/bash
-# Required to run as /bin/bash (if you use zsh etc. you can change it.)
+#! / bin / bash
+# Iarrtar ort rith mar / bin / bash (má úsáideann tú zsh srl. is féidir leat é a athrú.)
 
-# Example: /home/PreMiD/PreMiD*.AppImage
+# Sampla: /home/PreMiD/PreMiD*.AppImage
 <directory to appimage>/PreMiD*.AppImage
 
 exit 0
@@ -114,14 +115,14 @@ exit 0
 <a name="macos"></a>
 
 # Fabhtcheartú MacOS
-### Error creating directory
+### Earráid agus eolaire á chruthú
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+Má fhaigheann tú an earráid seo, ciallaíonn sé nach bhfuil ceadanna Riarthóra ag do chuntas agus ní mór duit fillteán a chruthú de láimh trí na céimeanna seo a dhéanamh:
+1. Aimsitheoir oscailte agus fillteán **Applications ** oscailte.
+2. Cliceáil ar dheis ar spás bán agus cliceáil **Create folder**.
+3. Sann an t-ainm `PreMiD` don fhillteán seo (cuimhnigh faoi litreacha na gcásanna uachtair).
+4. Suiteálaí oscailte arís.
 
-# That has not solved my problem
-Please open a ticket in [#support](https://discord.premid.app/).
+# Níor réitigh sé sin mo fhadhb
+Oscail ticéad le do thoil i [#support](https://discord.premid.app/).

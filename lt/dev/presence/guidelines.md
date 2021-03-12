@@ -1,6 +1,6 @@
 ---
-title: Presence Guidelines
-description: Rules that all presence developers must follow to have their presence added.
+title: Presence Gairės
+description: Taisyklės kurių turi laikytis visi presence kūrėjai tam kad jų presence būtų pridėtas.
 published: true
 date: 2021-03-06T15:01:04.274Z
 tags:
@@ -10,18 +10,18 @@ dateCreated: 2021-02-26T21:54:41.573Z
 
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
-    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Guidelines</h3>
+    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Gairės</h3>
     <h4 style="margin-top: 0">Revision 3</h4>
     <br />
 </div>
 
-# Guidelines
+# Gairės
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Kai kuriems šios taisyklės gali atrodyti griežtos. Tačiau laikydamiesi šių taisyklių padės mums ir mūsų naudotojams nepatirti jokių problemų.
 
-# Creation
+# Kūrinys
 
-The general rules of presence development are as follows:
+Bendrosios presence kūrimo taisyklės yra šios:
 
 - Presences **must** be related to the website of choice.
 - Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
@@ -207,7 +207,7 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`įspėjimas`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.

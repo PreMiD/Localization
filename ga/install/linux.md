@@ -18,7 +18,7 @@ The installation of the application is very important as the extension can not d
 
 - **[Faoi](#about)**
   - [Stats](#stats)
-  - [Requirements](#requirements)
+  - [Riachtanais](#requirements)
   - Examples (soon)
   - FAQs (soon)
   - Building (soon)
@@ -58,7 +58,7 @@ The installation of the application is very important as the extension can not d
 
 <a name="requirements"></a>
 
-### Requirements
+### Riachtanais
 
 Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
 
@@ -73,8 +73,8 @@ It is unknown whether older versions of other distributions support it, so just 
 ### Support
 
 <div>
-  <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="Tar isteach inár Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Tar isteach inár Discord!">
   </a>
 </div>
 

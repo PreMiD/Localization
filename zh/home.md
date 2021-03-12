@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: 首页
+description: v2的官方文档
 published: true
 date: 2021-02-24T23:22:41.678Z
 tags:
@@ -8,33 +8,33 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:47.172Z
 ---
 
-> The documentation is still being edited! Some pages may be incomplete or missing. 
+> The documentation is still being edited! 有些页面可能不完整或丢失。 
 > 
 > {.is-warning}
 
-# About PreMiD
+# 关于 PreMiD
 - :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
-- :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
+- :link: [什么是RPC？](https://discordapp.com/rich-presence) 所有关于 Rich Presence 及其功能。
 
 # 入门指南
 
-PreMiD is quick and easy to install. You should be up and running in no time.
+PreMiD 是快速且易于安装的。 您应该在任何时候上线并运行。
 
-- Make sure you have read the [system requirements](/install/requirements).
-- Follow the quick and simple [installation guide](/install).
-- [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
+- 请确保您已经阅读了 [系统要求](/install/requirements)。
+- 按照快速简单的 [安装指南](/install)。
+- [故障排除](/troubleshooting) 引导您解决常见问题。
 
 # 开发者
 
-[Getting Started](/dev) for PreMiD development is your first step before coding some things.
+[正在为PreMiD开发开始](/dev) 是你在编程一些东西之前的第一步。
 
-- :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
-- :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
+- :computer: [API](/dev/api): 访问 ressources 并使用 PreMiD API执行操作。
+- :wrench: [Presence Development](/dev/presence): 学习如何使用我们的Presence 系统。
 
 # 贡献
-- :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
+- :bug: [报告一个 Bug](https://github.com/PreMiD): 帮助我们将那些悲观的 bugs 平铺.
 - :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
-- :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
-- :globe_with_meridians: [Locales](https://translate.premid.app): Let other users use PreMiD in their native language.
+- :heart: [捐赠](https://www.patreon.com/Timeraa): 小额捐赠或成为这个美好项目的赞助者！
+- :globe_with_meridians: [Locales](https://translate.premid.app): 让其他用户使用母语的 PreMID
 
 ![](https://beta.premid.app/img/logo.2b414dc2.gif) {.align-abstopright}

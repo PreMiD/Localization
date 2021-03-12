@@ -33,15 +33,15 @@ Discord - এর ব্রাউজার ভার্সনে PreMiD কাজ
 খুবই গুরুত্বপূর্ণ। Discord RPC কাজ করবে না যদি তুমি Discord এডমিনিস্ট্রেটরে রান করো।
 
 ### তুমি কি সেটিংসের সাথে একটি Presence ব্যবহার করছ?
-Many presences (including `Twitch` and `SoundCloud`) are affected by an extension issue. This issue causes the extension to not grab the default values of settings properly.
+অনেক Presences (`Twitch` এবং `SoundCloud` সহ) একটি এক্সটেনশন সমস্যায় প্রভাবিত। এই সমস্যাটির ফলে এক্সটেনশনটি সঠিকভাবে সেটিংস এর ডিফল্ট মান নিতে পারেনা।
 
-To solve this, all you have to do is toggle the topmost setting: ![presencesettings.gif](/presencesettings.gif)
+এটা সমাধান করার জন্যে, যা করতে হবে সেটা হচ্ছে সবার উপরের সেটিংটি টগল করা: ![presencesettings.gif](/presencesettings.gif)
 
 ### তোমার ব্রাউজারটি রিস্টার্ট করো
 <kbd>Alt</kbd>+<kbd>F4</kbd> (উইন্ডোজ) অথবা <kbd>CMD</kbd>+<kbd>Q</kbd> (ম্যাকওএস) এও ভালো কাজ করে। (অবশ্য তোমাকে আবার তোমার ব্রাউজার স্টার্ট করতে হবে।)
 
 ### PreMiD (অ্যাপ্লিকেশান) রিস্টার্ট করো
-![quit.png](/quit.png) You have to restart PreMiD afterwards.
+![quit.png](/quit.png) তোমাকে পরে PreMiD রিস্টার্ট করতে হবে।
 
 ### Discord রিস্টার্ট করো
 Press <kbd>CTRL+R</kbd> (Windows) or <kbd>CMD+R</kbd> (MacOS) on your keyboard or restart Discord manually.
@@ -114,14 +114,14 @@ exit 0
 <a name="macos"></a>
 
 # ম্যাকওস এর সমস্যা সমাধান
-### Error creating directory
+### "Error creating directory"
 <img src="https://i.imgur.com/td92lf6.png" width="300px" style="max-width:100%;" />
 
-If you get this error, it means that your account doesn't have Administrator permissions and you need to create folder manually by doing these steps:
-1. Open finder and open **Applications** folder.
-2. Right-click on blank space and click **Create folder**.
-3. To this folder assign `PreMiD` name (remember about upper-cased letters).
-4. Open installer again.
+তুমি যদি এই ত্রুটিটি পাও, এর মানে হচ্ছে যে তোমার অ্যাকাউন্ট এর এডমিনিস্ট্রেটর পারমিশন নেই। তোমাকে ম্যানুয়ালি একটি ফোল্ডার তৈরি করতে হবে এই ধাপগুলো অনুসরণ করে:
+1. Finder ওপেন করো এবং ওপেন করো **Applications** ফোল্ডার।
+2. ফাঁকা জায়গায় মাউসের ডান পাশের বাটনটি ক্লিক করো এবং ক্লিক করো **Create folder**.
+3. এই ফোল্ডারটির নাম দাও `PreMiD` (খেয়াল রেখো বড় হাতের অক্ষরগুলো সম্পর্কে)।
+4. ইন্সটলারটি আবার ওপেন করো।
 
 # আমার সমস্যা সমাধান হয়নি
 একটি টিকেট খোলো [#support](https://discord.premid.app/) - এ।

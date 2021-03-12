@@ -1,6 +1,6 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Klasa Presence
+description: Główna klasa dla każdego presence PreMiD
 published: true
 date: 2021-02-26T20:42:26.910Z
 tags:
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-02-21T21:13:14.449Z
 ---
 
-# Presence Class
+# Klasa Presence
 
-## Introduction
+## Wprowadzanie
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Klasa `Presence` jest bardzo przydatna, ponieważ posiada podstawowe metody, których potrzebujemy do stworzenia Presence.
 
-When you create a class you must specify `clientId` property.
+Podczas tworzenia klasy musisz określić właściwość `ID klienta`.
 
 ```typescript
 const presence = new Presence({
@@ -22,9 +22,9 @@ const presence = new Presence({
 });
 ```
 
-### Properties
+### Właściwości
 
-There are three properties available for `Presence` class.
+Istnieją trzy właściwości dla klasy `Presence`.
 
 #### `clientId`
 
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Methods
+## Metody
 
 ### `getActivity()`
 
@@ -50,7 +50,7 @@ Ustawia aktywność profilu zgodnie z podanymi danymi.
 
 First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
 
-Drugi parametr określa, kiedy status jest aktywny lub nie. Always use `true` if you provide timestamps in `PresenceData`.
+Drugi parametr określa, kiedy status jest aktywny lub nie. Zawsze używaj `true` jeśli podasz znaczniki czasu w `presenceData`.
 
 ### `clearActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Ta metoda działa tylko na Mac OS. 
 > 
 > {.is-warning}
 
@@ -129,15 +129,15 @@ let strings: Promise<LangStrings> = getStrings(),
   oldLang: string = await presence.getSetting("ID");
 
 //! The following code must be inside the updateData event!
-// The ID is the ID of the multiLanguage setting.
+// ID jest to ID ustawień wielojęzycznych.
 const newLang = await presence.getSetting("ID");
 if (oldLang !== newLang) {
   oldLang = newLang;
   strings = getStrings();
 }
 
-const playString = (await strings).play, // result: Playing
-  pauseString = (await strings).pause; // result: Paused
+const playString = strings.play; // rezultat: Gra
+const pauseString = strings.pause; // rezultat: Wstrzymana
 ```
 
 ### `getPageletiable(String)`
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Zwraca wartość ustawienia.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -173,7 +173,7 @@ console.log(setting); // This will log the value of the setting
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Ukrywa podane ustawienie.
 
 ```typescript
 presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -181,7 +181,7 @@ presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Pokazuje podane ustawienie (działa tylko, jeśli ustawienie było już ukryte).
 
 ```typescript
 presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -189,14 +189,14 @@ presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Zwraca logi konsoli witryny.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // To będzie rejestrować ostatnie 100 logów (w array).
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Uwaga:** Wymaga `readLogs` na `true` w pliku `metadata.json`.
 
 ### `info(String)`
 
@@ -270,66 +270,65 @@ Ten interfejs posiada następujące zmienne, wszystkie są opcjonalne.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Zmienna</th>
       <th style="text-align:left">Opis</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Typ</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Pierwsza linia w twoim Presence, zazwyczaj używana jako nagłówek.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Drugi wiersz w twoim Presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definiuje aktualny czas.<br>
+        Używany, jeśli chcesz wyświetlić ile <code>godzin:minut:sekund</code> pozostało.
+          <br>Musisz skonwertować swój czas na <code>znacznik czasu</code> albo otrzymasz zły sposób
+          odliczania.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Określa cały czas trwania.
+        <br>Używane jeśli chcesz wyświetlić ile <code>godzin:minut:sekund</code> pozostało.
+          <br>Musisz skonwertować swój czas na <code>znacznik czasu</code> albo otrzymasz zły sposób
+          odliczania.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Określa logo presence.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Określa małą ikonę obok logo presence</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Definiuje tekst, który będzie wyświetlany użytkownikowi, gdy najedzie na małą ikonę.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
         <tr>
       <td style="text-align:left">buttons</td>
-      <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
+      <td style="text-align:left">Tablica przycisków, maksymalnie 2, label to tekst przycisku, url jest linkiem.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>

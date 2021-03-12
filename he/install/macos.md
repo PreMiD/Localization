@@ -13,16 +13,16 @@ tags:
 The installation of the application is very important as the extension can not do anything by itself.
 
 # התקן
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
+1. עבור לדף ההורדות שלנו על ידי [לחיצה כאן](https://premid.app/downloads).
+2. בחר **OS X**.
+3. חלץ את הארכיון אם נחוץ.
+4. פתח את המתקין.
 5. A **security alert** may appear if you're installing PreMiD for the first time. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
 > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
-The application will start automatically. Check for the symbol in your menu bar.
+היישום יופעל אוטומטית. Check for the symbol in your menu bar.
 
 > Do not forget to [add the **extension**](/install). 
 > 

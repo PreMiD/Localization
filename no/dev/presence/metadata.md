@@ -74,24 +74,24 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Beskrivelse</th>
       <th style="text-align:left">Type</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Valgfritt</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>forfatter</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Bør inneholde et objekt med <code>navnet</code> og <code>id</code> av tilstedeværelsesutvikleren. <code>navnet</code> er ditt Discord brukernavn uten identifikator(#0000). Bruker <code>-id</code> kan kopieres fra Discord ved å aktivere utvikler
+        -modus og høyre-klikke på profilen din.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>bidragsytere</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>navnet</code> er ditt Discord brukernavn uten identifikator(#0000). Bruker <code>-id</code> kan kopieres fra Discord ved å aktivere utvikler
+        -modus og høyre-klikke på profilen din.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -103,15 +103,15 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Kan søke i søket med et alternativt navn.<br>
+      Meant to be used for presences that have different names in different languages (e.g. Poke″mon og ε″″″″″εεεεεεεε″″)<br>
+      Du kan også bruke den for trykk som har spesialtegn så du ikke trenger å skrive den inn (e.. Pokes mon og Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>beskrivelse</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Beskrivelsen må ha nøkkelpar-verdier som viser språket og beskrivelsen på det bestemte språket. Gjør beskrivelser med språkene <i>som du vet</i>, da vil oversettere våre gjøre endringer i metadatafilen din. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
@@ -131,56 +131,56 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>versjon</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left">Versjon av ditt nærvær.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Lenke til tjeneste&apos;s logotype.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Kobling til ditt nærings miniatyrbilde.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> verdi. Vi anbefaler å bruke en primærfarge på tjenesten
+        som ditt nærings støtter dette.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Liste over tagger, som vil hjelpe brukere med å søke etter din tilstedeværelse på nettstedet.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">En strengstreng som brukes til å representere kategorien faller inn under innholdet.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nei</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Definerer om <code>iFrames</code> brukes</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">En vanlig uttrykksvelger som velger ut iframes for å injisere i.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Angir om utvidelsen skal lese logger.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -303,24 +303,24 @@ The keys you didn't have to set are automatically set to the following: `title`:
 
 **Note:** These are in no way changeable.
 
-### Methods
+### Metoder
 
 Use the following methods to get settings info in your presence files:
 #### `getSetting(String)`
-Returns value of setting.
+Returverdien av innstillingen.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); /Replace pdexID med id for setting
+console.log(innstilling); // Dette vil logge verdien av innstillingen
 ```
 
 #### `hideSetting(String)`
-Hides given setting.
+Utlegg gitt innstilling.
 ```typescript
 presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
 ```
 
 #### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Viser gitte innstillinger (fungerer bare hvis innstillingen allerede var utlegg).
 ```typescript
 presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
 ```

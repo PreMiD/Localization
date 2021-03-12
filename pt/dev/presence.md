@@ -178,7 +178,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Sua descrição deve ter valores de par chave que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu ficheiro de metadados.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
@@ -252,7 +252,7 @@ Copia o código acima e coloca-o no teu ficheiro `metadata.json`. Agora precisas
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. Consulta regExp para obter mais informações.</td>
+      <td style="text-align:left">Um seletor expressão regular que seleciona iframes para injetar em. Consulta regExp para obter mais informações.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Sim</code></td>
     </tr>
@@ -386,7 +386,7 @@ Open a console in your folder and type `tsc -w` to compile the `presence.ts` int
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# Some helpful things
+# Algumas coisas úteis
 
 ## Hot-reloading
 
@@ -400,7 +400,7 @@ The website you are developing on is automatically reloading every time you save
 # Ficheiros explicados
 
 - [Classe de presence](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Classe slideshow](/dev/presence/slideshow)
+- [Aula iFrame](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
-- [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
+- [Configuração do TypeScript](/dev/presence/tsconfig ""){.links-list}

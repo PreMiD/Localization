@@ -1,23 +1,23 @@
 ---
-title: iFrame Class
+title: Rang iFrame
 description:
 published: true
 date: 2020-05-03T20:17:51.982Z
 tags:
 ---
 
-# iFrame Class
-> The iframe system with PreMiD is problematic and can have unexpected behavior, use with caution. 
+# Rang iFrame
+> Tá fadhbanna leis an gcóras iframe le PreMiD agus féadann sé iompar gan choinne a bheith aige, agus é a úsáid go cúramach. 
 > 
 > {.is-danger}
 
-## Introduction
+## Réamhrá
 
 I roinnt cásanna, b’fhéidir go mbeidh ar do presence rochtain a fháil ar eilimintí taobh istigh de` iframes`.
 
-The code that you write inside of your `iframe.ts` file gets injected into every iframe on the page.
+Déantar an cód a scríobhann tú taobh istigh de do `iframe.ts` chomhad a instealladh i ngach iframe ar an leathanach.
 
-Like presences, `iframes` have their own classes designed to automatically update data.
+Cosúil le presences, `iframes` tá a gcuid ranganna féin deartha chun sonraí a nuashonrú go huathoibríoch.
 
 ```typescript
 let iframe = new iFrame();
@@ -27,16 +27,16 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-## Methods
+## Modhanna
 
 ### `send(Object)`
-Sends data to the presence. Using this method will make the presence throw a `iFrameData` event.
+Seolann sé sonraí chuig an presence. Trí úsáid a bhaint as an modh seo, caithfear an presence a chaitheamh `iFrameData`.
 
 ### `getUrl()`
-Returns the URL of the `iframe`.
+Filleann sé URL an `iframe`.
 
-## Events
-In `iframes`, events work similarly to the way they work in the `presence` class.
+## Imeachtaí
+In `iframes`, oibríonn imeachtaí ar an gcaoi chéanna leis an mbealach a oibríonn siad sa `presence` rang.
 
 ```typescript
 iframe.on("UpdateData", async () => {
@@ -44,8 +44,8 @@ iframe.on("UpdateData", async () => {
 });
 ```
 
-Here is a list of all of the events:
+Seo liosta de na himeachtaí ar fad:
 
 #### `UpdateData`
 
-This event is fired every time the iframe is being updated.
+Scaoiltear an t-imeacht seo gach uair a dhéantar an iframe a nuashonrú.

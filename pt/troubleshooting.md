@@ -59,10 +59,11 @@ Espero que saiba como reiniciar o seu computador.
 Por vezes, há algo de errado com os ficheiros... Tutoriais de instalação podem ser encontrados [here](/install).
 
 ### Remoção manual
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows:    `C:\Users\Users\AppData\Roaming\`` e apague a pasta`PreMiD`.
+MacOS:`~/users/USER/~Library/Application Support/`e apague a pasta`PreMiD``.
 
 ### McAfee detecta o PreMiD como um vírus (Windows)
-This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:
+Este é um falso positivo da parte do McAfee e nós comunicaremos a esse respeito. Por agora você pode excluir o PreMiD da verificação seguindo as seguintes etapas:
 
 > Se você não se sentir confiante em tomar estes passos, sinta-se à vontade para fazer um ticket em [#suporte](https://discord.premid.app/) e um dos nossos Agentes de Suporte poderá ajudá-lo! 
 > 

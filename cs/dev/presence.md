@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+Verze `2.x` zavádí [obchod s přítomností](https://premid.app/store). Uživatelé mají nyní možnost ručně přidávat a odebírat své oblíbené přítomnosti prostřednictvím uživatelského rozhraní stránky [](https://premid.app/).
 
 > Before getting started, it is highly recommended that you look at our presence guidelines. 
 > 
@@ -21,7 +21,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 - [Pokyny](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# Struktura
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
@@ -33,11 +33,11 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## Klonování projektu
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
+1. Otevřete terminál a napište `git clone https://github.com/PreMiD/Presences`.
 2. Vyberte složku dle vašeho výběru.
 3. Otevřete ji ve svém editoru kódu.
 
-## Creating folders and files
+## Vytváření složek a souborů
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
@@ -47,7 +47,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 ## Vyplňování souboru tsconfig.json
 
-Please put the following code inside of the `tsconfig.json` file.
+Do souboru `tsconfig.json` vložte následující kód.
 
 ```typescript
 {
@@ -143,7 +143,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <th style="text-align:left">Proměnná</th>
       <th style="text-align:left">Popis</th>
       <th style="text-align:left">Typ</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Nepovinné</th>
     </tr>
   </thead>
   <tbody>
@@ -178,7 +178,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
@@ -227,20 +227,20 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> hodnota. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> hodnota. Doporučujeme použít primární barvu služby
+        , kterou vaše přítomnost podporuje.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Pole se značkami, které pomohou uživatelům vyhledat vaši přítomnost na webu.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Řetězec používaný k reprezentaci kategorie, pod kterou přítomnost spadá. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
@@ -252,7 +252,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left">Regulární selektor, který vybere iframy, do kterých se má vložit. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>

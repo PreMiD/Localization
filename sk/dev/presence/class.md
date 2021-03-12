@@ -1,6 +1,6 @@
 ---
 title: Trieda Prítomnosti
-description: The main class for every PreMiD presence
+description: Hlavná trieda pre každú prítomnosť PreMiD
 published: true
 date: 2021-02-26T20:42:26.910Z
 tags:
@@ -10,11 +10,11 @@ dateCreated: 2021-02-21T21:13:14.449Z
 
 # Trieda Prítomnosti
 
-## Introduction
+## Úvod
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Trieda `Presence` je veľmi užitočná, pretože má základné metódy, ktoré potrebujeme k vytvoreniu prítomnosti.
 
-When you create a class you must specify `clientId` property.
+Pri vytváraní triedy musíte zadať `klientské Id`.
 
 ```typescript
 const presence = new Presence({
@@ -270,7 +270,7 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Premenná</th>
       <th style="text-align:left">Popis</th>
       <th style="text-align:left">Typ</th>
     </tr>

@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Kelas Slideshow
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,91 +8,91 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Kelas Slideshow
 
-## Introduction
+## Perkenalan
 
-The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
+Kelas `Slideshow` digunakan untuk mengatur beberapa `PresenceData` dan "slide" melewatinya setiap x milidetik (minimum: 5000).
 
-See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
+Lihat metode [`createSlideshow`](/dev/presence/class#createslideshow) di kelas [`Presence`](/dev/presence/class) di bagian bagaimana cara membuat `Slideshow`.
 
-## Properties
+## Properti
 
 ### `currentSlide`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of what the presence/current slide is displaying.
+Mengembalikan objek [`PresenceData`](/dev/presence/class#presencedata-interface) dari apa yang ditampilkan presence/slide saat ini.
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+console.log(currentSlide.details) // Akan mencatat rincian dari PresenceData
 ```
 
-## Methods
+## Metode
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Menambahkan slide baru ke `Slideshow` sesuai data yang diberikan.
 
-First parameter requires a `String` that will be used as a unique identifier for the slide.
+Parameter pertama membutuhkan `String` yang akan digunakan sebagai identifier unik untuk slide.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Parameter kedua memerlukan [interface `PresenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan semua yang ingin anda tampilkan di slide.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Parameter ketiga membutuhkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilkan oleh slide tersebut.
 
 ### `getSlides()`
 
-Returns all slides saved in the `Slideshow` as an `Array` of [`SlideshowSlide`](#slideshowslide-class).
+Mengembalikan semua slide yang disimpan di `Slideshow` sebagai `Array` dari[`SlideshowSlide`](#slideshowslide-class).
 
 ### `updateSlide(String, PresenceData, Number)`
 
-Updates the slide of the given `id` according to provided data.
+Memperbarui slide dari `id` yang diberikan sesuai dengan data yang diberikan.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to update.
+Parameter pertama membutuhkan `String` yaitu sebagai identifier unik dari slide yang ingin anda perbarui.
 
-Second parameter requires a [`PresenceData` interface](/dev/presence/class#presencedata-interface) to get all information that you want to display in the slide.
+Parameter kedua memerlukan [interface `PresenceData`](/dev/presence/class#presencedata-interface) untuk mendapatkan semua informasi yang ingin anda tampilkan di slide.
 
-Third parameter requires a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Parameter ketiga membutuhkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilkan oleh slide tersebut.
 
 ### `hasSlide(String)`
 
-Returns a `Boolean` stating whether the slide is added to the `Slideshow`.
+Mengembalikan `Boolean` yang manyatakan apakah slide ditambahkan ke `Slideshow`.
 
 ### `deleteSlide(String)`
 
-Deletes the slide with the given `id` from the `Slideshow`.
+Menghapus slide dengan `id` yang diberikan, dari `Slideshow`.
 
-First parameter requires a `String` that is the unique identifier of the slide you want to delete.
+Parameter pertama membutuhkan `String` yaitu sebagai identifier unik dari slide yang ingin anda hapus.
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Menghapus semua slide dari `Slideshow`.
 
-# SlideshowSlide Class
+# Kelas SlideshowSlide
 
-## Introduction
+## Perkenalan
 
-A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
+`SlideshowSlide` adalah representasi internal dari setiap slide di `Slideshow`.
 
-## Properties
+## Properti
 
 ### `id`
 
-Returns a `String` of the id of the slide.
+Mengembalikan `String` dari id slide.
 
 ### `data`
 
-Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
+Mengembalikan objek [`PresenceData`](/dev/presence/class#presencedata-interface) dari `PresenceData` yang disimpan di slide.
 
-## Methods
+## Metode
 
 ### `updateData(PresenceData)`
 
-Sets the slides data according to provided data.
+Menetapkan slide data berdasarkan data yang tersedia.
 
-You must provide a `PresenceData` interface to get all information that you ultimately want to display in your profile.
+Anda harus menambahkan interface `PresenceData` untuk mendapatkan semua informasi yang sangat ingin anda perlihatkan di profil anda.
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Mengatur interval dari slide sesuai data yang diberikan.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Anda harus menambahkan `Number` yang merupakan jumlah waktu dalam milidetik (minimum: 5000) yang akan ditampilkan oleh slide tersebut.

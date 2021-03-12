@@ -1,6 +1,6 @@
 ---
 title: macOS
-description: Getting started with a PreMiD installation on macOS
+description: PreMiD telepítési útmutató macOS rendszer esetében
 published: true
 date: 2020-02-12T22:08:37.439Z
 tags:
@@ -14,17 +14,17 @@ A bővítmény telepítése rendkívül fontos az alkalmazás működéséhez.
 
 # Telepítés
 1. Kattints [ide](https://premid.app/downloads) a letöltések oldal eléréséhez.
-2. Choose **OS X**.
-3. Extract the archive if necessary.
-4. Open the installer.
-5. A **security alert** may appear if you're installing PreMiD for the first time. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
-> This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+2. Válaszd a **OS X** menüpontot.
+3. Csomagold ki az archívumot, ha szükséges.
+4. Nyisd meg a telepítőt.
+5. Első telepítés esetén egy **biztonsági figyelmeztetés** jelenik meg. **Beállítások** > **Biztonság** > **Általános** > **Megnyitás mindenképpen**.
+> Ez azért van, mert a program nem rendelkezik Code Signing Certificate (CSC) igazolással. [Támogass minket](https://www.patreon.com/Timeraa) ennek finanszírozásáért.{.is-info}
 6. Choose open when prompted.
 7. Grant access to connections through **Firewall** and control **System Events** when prompted.
 
 Az alkalmazás automatikus elindul. Check for the symbol in your menu bar.
 
-> Do not forget to [add the **extension**](/install). 
+> Ne felejtsd el [hozzáadni a **bővítményt**](/install). 
 > 
 > {.is-warning}
 

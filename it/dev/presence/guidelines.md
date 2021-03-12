@@ -1,6 +1,6 @@
 ---
-title: Presence Guidelines
-description: Rules that all presence developers must follow to have their presence added.
+title: Linee guida per la presenza
+description: Regole che tutti gli sviluppatori di presenze devono seguire per aggiungere la loro presenza.
 published: true
 date: 2021-03-06T15:01:04.274Z
 tags:
@@ -10,24 +10,24 @@ dateCreated: 2021-02-26T21:54:41.573Z
 
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
-    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Guidelines</h3>
+    <h3 style="font-size: 2rem; margin-bottom: 0">Linee guida per la presenza</h3>
     <h4 style="margin-top: 0">Revision 3</h4>
     <br />
 </div>
 
-# Guidelines
+# Linee guida
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Per alcuni, queste regole severe possono sembrare dure. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. Per alcuni, queste regole severe possono sembrare dure. Tuttavia, l'attuazione di queste regole impedirà a noi e agli utenti di affrontare qualsiasi questione.
 
-# Creation
+# Creazione
 
-The general rules of presence development are as follows:
+Le regole generali di sviluppo della presenza sono le seguenti:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (per esempio, stressanti, marketing della droga, pornografia infantile, ecc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
+- Le presenze **DEVONO** essere correlate al sito che hai scelto.
+- Le presenze **non possono** essere fatte per siti web illegali. (per esempio, stressanti, marketing della droga, pornografia infantile, ecc.)
+- La struttura del file deve essere pulita e gestita, non includere i file che non sono specificati. (ad esempio, cartelle vscode e git, immagini e file di testo, ecc.)
+- Devi avere una corretta struttura dei file, le bozze non **sono** permesse.
+- Presenze per siti con ( TLD `.onion`) o siti con domini/host gratis (per esempio `.TK` [tutti i domini gratis Freenom], `.RF`, `.GD`, ecc.) non **sono** permessi, eccezioni possono essere fatte se viene presentata prova che hanno pagato per il dominio.
 - The domain of the presence must be at least 2 months old.
 - Le presenze mirate a pagine browser interne ( come Chrome Web Store, pagine come `chrome://`, `about:`, ecc.) **non** sono permesse dato che richiedono che una flag sperimentale sia abilitata dall'utente e che potrebbe potenzialmente danneggiare il loro browser.
 - Le presenze con supporto solo per un singolo sottodominio **non ** saranno permesse, che possono sembrare danneggiate per altre pagine (come la homepage), possono essere fatte eccezioni per i criteri e le pagine di contatto (contenuti che non sono utilizzati spesso) o siti in cui l'altro contenuto non è correlato. (per esempio, pagine wikia)
@@ -37,7 +37,7 @@ The general rules of presence development are as follows:
   - Redirects to main page are prohibited.
   - Promoting websites by them is prohibited.
   - They can't show addinational data when you can't show them in `state` or `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Compresa la cartella `dist`, file `presence.ts`, file `iframe.ts`, e file `metadata.json` è obbligatorio, quindi il risultato sarebbe quello che è rappresentato nel seguente schema:
 
 ```bash
 presence
@@ -47,7 +47,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+o se stai usando un file `iframe.ts`:
 
 ```bash
 presence
@@ -60,13 +60,13 @@ presence
 
 ## [**metadata.json**](/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process.
+> Per la comodità dei nostri sviluppatori di presenza, abbiamo fornito uno schema che puoi usare per convalidare l'integrità del tuo file `metadati`. Questo è assolutamente facoltativo e non è richiesto durante il processo di revisione.
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted.
+> Si raccomanda vivamente di organizzare il file `metadati` nel formato mostrato di seguito, e di inserire nomi di servizio, descrizioni, tag e campi di impostazione grammaticalmente corretti. Qualsiasi cosa non organizzata in base alle specifiche **non** sarà permessa.
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content.
+> Le presenze di siti web che hanno contenuto esplicito **devono** avere il tag `nsfw`, e il logo/thumbnail deve **non** contenere nessuno di questi contenuti.
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Ogni presenza ha un file descrittore chiamato `metadata. son`, i metadati hanno uno standard rigoroso e un esempio di questo file può sembrare di seguito:
 
 ```json
 {
@@ -129,93 +129,93 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.)
+> Se un campo è elencato come opzionale nella [documentazione](https://docs.premid.app/en/dev/presence/metadata) e la tua presenza utilizza il valore predefinito per esso, non includerlo nel file `metadati`. (per esempio, una presence senza supporto iframe non avrebbe bisogno del campo `iframe`.)
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly.
+> Tutte le immagini nel file `metadata` devono essere hostate su `i.imgur.com`. L'uso di contenuti hostati sul sito web **non è** consentito in quanto possono cambiare i percorsi e i file non volentieri.
 
-A list of fields and their rules are listed below:
+Un elenco dei campi e delle loro regole sono elencati di seguito:
 
 ### **`$schema`**
 
-- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- Lo schema _key_ **deve** includere un segno di dollaro all'inizio di esso, questo segnalerà al tuo editor di testo che vuoi convalidare il tuo file JSON contro un modello. _Come detto in precedenza, non è necessario includere uno schema, ma se lo si include è necessario tenerne conto._
 
-### **`autore`**
+### **`author`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- L'ID _value_ **deve** essere il tuo Discord snowflake ID. Puoi ottenerlo abilitando [la modalità sviluppatore](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Per favore **non** confondere questo con l'ID dell'applicazione, che è solo per la tua presenza._
 
 ### **`*contributors`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **Non** aggiungerti come contributore, e non aggiungere qualcun altro come contributore a meno che non abbiano aiutato con la presenza.
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- Il nome del servizio **deve** essere il nome della directory della presence. Per esempio, se la presence si trova in `/websites/Y/YouTube/`, il nome del servizio deve essere `YouTube`.
+- **Non puoi** utilizzare l'url come nome del servizio a meno che il sito non utilizzi l'url come nome ufficiale. Se il nome non è descrittivo e può essere considerato vago, utilizzare l'url è **richiesto**. (per esempio, `YouTube` è permesso perché questo è il nome ufficiale ed è descrittivo, mentre `youtube.com` non lo è. `Top` è un nome non descrittivo, quindi utilizzare l'url `top.gg` è **richiesto**.)
 - If service has some explicit branding rules of their name, you should follow them.
 
 ### **`*altnames`**
 
-- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- Da utilizzare **solo** nel caso il sito è sottoposto a nomi ufficiali multipli (es. Pokémon e 포켓몬스터) o per rendere più facile la ricerca della presenza senza usare caratteri speciali (es. Pokémon e Pokemon). Le versioni *abbreviate* dei nomi dei servizi vanno sotto `tags`.
 
-### **`descrizione`**
+### **`description`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- **Tutte** le presenze sono **richieste** per avere una descrizione inglese indipendentemente dalla lingua preferita del sito.
+- **Non** provare a tradurre tu stesso la descrizione a meno che tu non sappia la lingua, i traduttori modificheranno il tuo `metadata.json` e modificheranno le descrizioni se necessario.
 
 ### **`url`**
 
 - L'url **deve** essere una stringa se il sito web utilizza solo un dominio. Se il sito web ne utilizza multipli, fanne un vettore e specifica ciascuno di essi.
-- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
+- **Non** includere protocolli nell'url (per es., `http` o `https`), e non includere i parametri di query nell'url (per es., `www.google.com/search?gws_rd=ssl` che dovrebbe essere `www.google.com`)
 
-### **`versione`**
+### **`version`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- Assicurati sempre che il numero di versione segua [standard di versionamento semantico](https://semver.org), che si traduce nel seguente schema: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Qualsiasi altra cosa come `1.0.0.1`, `1.0`, `1`, `1.0. -BETA` o modifica `1.0.0` a `2.0.` su una correzione di bug/piccolo cambiamento che **non** è permessa.
+- La versione **deve** iniziare sempre da `1.0.0` a meno che non sia stato detto diversamente, alle altre versioni **non** è permesso.
 
 ### **`logo`**
 
-- The logo **must** be a square image with a `1:1` aspect ratio.
-- The image is **required** to have a minimum resolution of `512x512` pixels. Puoi aumentarne la risoluzione usando uno strumento come [waifu2x](http://waifu2x.udp.jp/).
+- Il logo **deve** essere un'immagine quadrata con aspect ratio `1:1`.
+- L'immagine **deve** avere una risoluzione minima di `512x512` pixel. Puoi aumentarne la risoluzione usando uno strumento come [waifu2x](http://waifu2x.udp.jp/).
 
 ### **`thumbnail`**
 
-- The thumbnail **should** preferably be a [wide promotional card](https://i.imgur.com/3QfIc5v.jpg) or a [screenshot](https://i.imgur.com/OAcBmwW.png) if the first is **not** available.
+- La miniatura **deve** preferibilmente essere una [carta promozionale](https://i.imgur.com/3QfIc5v.jpg) o una [schermata](https://i.imgur.com/OAcBmwW.png) se la prima è **non** disponibile.
 
 ### **`color`**
 
-- The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
+- Il colore **deve** essere un valore esadecimale compreso tra `#000000` e `#FFFFFF`.
 - La stringa del colore **deve** essere preceduta da un simbolo hash.
 
-### **`tag`**
+### **`tags`**
 
-- **All** presences are required to have at least _one_ tag.
-- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
-- Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
-- You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
+- **Tutte** le presenze devono avere almeno _un_ tag.
+- I tag **non** devono includere spazi, slash, virgolette singole/doppie, caratteri Unicode, e dovrebbero essere sempre minuscoli.
+- I tag **devono** preferibilmente includere nomi di servizi alternativi per facilitare la ricerca (ad es. se una presenza di Amazon ha incluso il supporto AWS, avrebbe i suoi tag come `amazon-web-services` e `aws`)
+- **Devi** aggiungere un tag `NSFW` se la presenza è per un sito web NSFW.
 
 ### **`category`**
 
-- The category **must** be one of the following listed on the [documentation](/dev/presence/metadata#presence-categories).
-- The presence must use a category that matches the content of the website. (for e.g., don't use `anime` when the website isn't related to anime).
+- La categoria **deve** essere una delle seguenti elencate nella [documentazione](https://docs.premid.app/en/dev/presence/metadata#presence-categories).
+- La presenza deve utilizzare una categoria che corrisponda al contenuto del sito. (per es., non utilizzare `anime` quando il sito web non è correlato ad anime).
 
 ### **`*regExp`** <br /> **`*iFrameRegExp`**
 
-- Le espressioni regolari **devono** essere valide. Please test your expressions with the tools listed on the [documentation](/dev/presence/metadata#testing).
+- Le espressioni regolari **devono** essere valide. Prova le tue espressioni con gli strumenti elencati nella [documentazione](https://docs.premid.app/en/dev/presence/metadata#testing).
 
 ### **`readLogs`**
 
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`avvertenza`**
 
-- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
+- Dichiarare **sempre** una nuova istanza della classe `Presenza` prima di qualsiasi altra variabile per evitare problemi rari che possono verificarsi; questo non è un requisito per la progettazione in modo che possa essere rimosso in futuro.
 - Example of presence using this metadata variable is `VLC`.
 
-### **`impostazioni`**
+### **`settings`**
 
-- If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
-- The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
+- **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. Se l'autore della presence è stato bandito dal server ufficiale o non ha apportato le modifiche richieste entro un mese, puoi contattare un revisore per vedere se puoi riscrivere la presence.
+- Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un verificatore per maggiori informazioni su questo argomento.
 - If you are using the `multiLanguage` option it can have the following types:
   - **Boolean** type which will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from the Localization repo or from the presence file (e.g. when the name of the presence is YouTube, the extension will get strings from `youtube.json` too.)
   - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
@@ -223,37 +223,37 @@ A list of fields and their rules are listed below:
 
 ## [**presence.ts**](/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored).
+> Il codice che scrivi **deve** essere _ben scritto_ e **deve** essere _leggibile_ e tutte le stringhe devono essere grammaticalmente corrette (gli errori grammaticali sui siti web possono essere ignorati).
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Recommendations](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
+> Ogni presenza segue un rigore di regole che saranno controllate durante il processo di revisione. Un paio di raccomandazioni possono essere viste di seguito. - [Raccomandazioni sui plug-in TypeScript per un controllo sulla tipizzazione forte](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules) - [Raccomandazioni ESlint](https://eslint.org/docs/rules) [ESlint Recommendations](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
 
-Here is a list of rules you must follow when writing your `presence.ts` file:
+Ecco un elenco di regole da seguire quando si scrive il file `presence.ts`:
 
-- **Always** declare a new instance of the `Presence` class before any other variable to avoid rare issues that may occur; this is not a requirement by design so it could be removed in the future.
-- **Never** use custom functions when [native variants are available](https://docs.premid.app/dev/presence#files-explained); this makes sure fixes on the extension level also apply to your presences. You're free to use whatever you need if you do not find them listed in the docs.
-- It is **forbidden** to code presences for a site without adding support to its primary language (for e.g., a YouTube presence coded with support only for Portueguese and Japanese, but not English itself.)
-- The `smallImageKey` and `smallImageText` fields are intended to provide additional/secondary context (such as `playing/paused` for video sites, `browsing` for regular sites, and other cases) not to promote Discord profiles or anything unrelated to PreMiD.
-- You are **not** allowed to access `localStorage`.
-- When accessing cookies for stored data, please prefix the key with `PMD_`.
-- You many only make HTTP/HTTPS requests to `premid.app` or the presence website API. If you are using external domains, you will be required to explain why it is necessary. Only allowed API to make request is [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
-- Do **not** set fields in the presenceData object to undefined after it has been declared, use the `delete` keyword instead. (for e.g., use `delete data.startTimestamp` instead of `data.startTimestamp = undefined`)
-- You are **not** allowed to write presences that change the functionality of a given website. This includes the addition, deletion, or modification of DOM elements.
+- Dichiarare **sempre** una nuova istanza della classe `Presenza` prima di qualsiasi altra variabile per evitare problemi rari che possono verificarsi; questo non è un requisito per la progettazione in modo che possa essere rimosso in futuro.
+- **Mai** utilizzare funzioni personalizzate quando [varianti native sono disponibili](https://docs.premid.app/dev/presence#files-explained); questo fa in modo che le correzioni sul livello di estensione si applicano anche alle vostre presenze. Sei libero di usare qualsiasi cosa ti serva se non li trovi elencati nei documenti.
+- I tickets con il tuo nome per quanto riguarda lo sviluppo di una presence verranno eliminati.
+- I campi `smallImageKey` e `smallImageText` sono intesi a fornire un contesto aggiuntivo/secondario (come `riproduzione/in pausa` per i siti video, `navigando` per siti regolari, e altri casi) non per promuovere profili Discord o qualsiasi cosa non correlata a PreMiD.
+- **Non** sei autorizzato ad accedere a `localStorage`.
+- Quando accedi ai cookie per i dati memorizzati, per favore prefissa la chiave con `PMD_`.
+- Molti fanno solo richieste HTTP/HTTPS a `premid.app` o all'API del sito web delle presence. Se stai usando domini esterni, ti verrà richiesto di spiegare perché è necessario. Only allowed API to make request is [`Fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API).
+- Do **not** set fields in the presenceData object to undefined after it has been declared, use the `delete` keyword instead. (per es., usa `delete data.startTimestamp` invece di `data.startTimestamp = undefined`)
+- **Non sei** autorizzato a scrivere presences che cambiano le funzionalità di un dato sito web. Ciò include l'aggiunta, la cancellazione o la modifica degli elementi DOM.
 
 ## [**tsconfig.json**](/dev/presence/tsconfig)
 
-> Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
+> **Non ** scrivere il tuo file `tsconfig.json`, usa quello che è stato fornito su [documentazione](https://docs.premid.app/en/dev/presence/tsconfig).
 
-## Modification
+## Modifica
 
 > È **necessario** modificare la versione nei **metadati** ad un valore superiore rispetto alla versione precedente quando si apportano modifiche a **presence.ts**, **iframe.ts** o **metadata.json**.
 
-In some situations, presences may behave unexpectedly or could use some minor changes to improve their functionality. Here is a list of rules that you **must** follow while modifiying presences.
+In alcune situazioni, le presence possono comportarsi in modo inaspettato o potrebbero usare alcune modifiche minori per migliorare la loro funzionalità. Ecco un elenco di regole che **devi** seguire durante la modifica delle presence.
 
-- You are **not** allowed to rewrite a presence or change its author. If the presence author was banned from the official server or hasn't made the required changes within a month, you may contact a reviewer to see if you can to rewrite the presence.
-- If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
-- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
+- **Non** sei autorizzato a riscrivere una presence o a cambiare il suo autore. Se l'autore della presence è stato bandito dal server ufficiale o non ha apportato le modifiche richieste entro un mese, puoi contattare un revisore per vedere se puoi riscrivere la presence.
+- Se fai delle modifiche ad una presenza e cambi almeno un **quarto** del codice base di riferimento della presenza, ti è permesso aggiungere te stesso come collaboratore. Contatta un revisore per maggiori informazioni su questo argomento.
+- Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Le modifiche valide comprendono correzioni generali (codici e refusi), aggiunte (descrizioni e tag), file mancanti, ecc. **Non** cambiare le immagini se non sono obsolete e sono nelle specifiche.
 
-# Verification
+# Modifiche
 
 > **Tutto** il codice che ha contribuito al negozio sarà autorizzato sotto la `Licenza Pubblica Mozilla 2.0`.
 
@@ -261,71 +261,71 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 
 > Tieni presente che i revisori lavorano volontariamente e gestiscono altre repository oltre a questa, la tua richiesta di pull potrebbe non essere revisionata fino a ore o anche giorni successivi alla sua creazione.
 
-> Avere **sempre** un fork aggiornato prima di creare la tua pull request. This will help limit false positives from the checks.
+> Avere **sempre** un fork aggiornato prima di creare la tua pull request. Ciò contribuirà a limitare i falsi positivi dai controlli.
 
-The most important process of presence development is getting your presence on the store. This is done by making a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) on GitHub on the `PreMiD/Presences` repository. Our reviewers will confirm that your presence is up to standards and will push it onto the store.
+Il processo più importante di sviluppo della presence è mostrare la tua presence nel negozio. Questo viene fatto facendo una [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) su GitHub sul repository `PreMiD/Presences`. I nostri revisori confermeranno che la tua presenza rispetti gli standard e la inseriranno nel negozio.
 
 <div>
-  <h2 style="font-size: 2rem; margin-bottom: 0;">Presence Reviewers</h2>
+  <h2 style="font-size: 2rem; margin-bottom: 0;">Recensori Presence</h2>
   
   <a href="https://github.com/Bas950"><img src="https://github.com/Bas950.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/Timeraa"><img src="https://github.com/Timeraa.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>  <a href="https://github.com/StrikerFRFX"><img src="https://github.com/StrikerFRFX.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
   <br />
 </div>
 
-## `Restrictions`
+## `Revisione`
 
-Repetitive offenses such as breaking guidelines, spamming pull requests, threats, or innapropriate behavior will get you banned from creating presences.
+Violazioni ripetitive come infrangere le linee guida, spam di richieste di pull, minacce, o comportamenti innapropriati ti vieteranno di creare presences.
 
-In this scenerio, the following changes will occur:
+In questo scenario, si verificheranno le seguenti modifiche:
 
-- Presences under your management will be transferred to the PreMiD bot or another user (reviewer decision). The application id for each presence will be recreated under the new owner's name.
-- All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
-- Tickets created under your name regarding presence development will be deleted.
-
-## `Reviewing`
-
-Alcune cose che dovresti sapere dopo aver aperto una pull request:
-
-- It takes 2 reviewers to merge a pull request.
-- If a pull request is inactive for a period of 7 days, it will be promptly closed.
-- All checks **must** be passed in order to merge.
-- ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
-- ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
+- `Codacy` è un bot che controlla la qualità del codice. Se hai mai ricevuto errori per nuovi problemi, **devi** risolverli.
+- Tutti i tuoi problemi e richieste di pull (creazione di una presence, contributo ad una presence, ecc) create dopo il ban saranno prontamente chiuse.
+- I tickets con il tuo nome per quanto riguarda lo sviluppo di una presence verranno eliminati.
 
 ## `Controlli`
 
+Alcune cose che dovresti sapere dopo aver aperto una pull request:
+
+- Ci vogliono 2 revisionatori per unire una richiesta di pull.
+- Se una pull request è inattiva per un periodo di 7 giorni, verrà immediatamente chiusa.
+- Tutti i controlli **devono** essere passati per unirsi.
+- ⚠️ È **necessario** fornire nuovi screenshot inalterati (forniti da te) che mostrano un confronto fianco a fianco del tuo profilo e del sito, per dimostrare che la presence funziona. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
+- ⚠️ È anche **richiesto** includere screenshot delle impostazioni di presenza nell'estensione, se fornito. Un esempio può essere visto [qui](https://imgur.com/a/OD3sj5R).
+
+## `Regole Aggiuntive`
+
 ![Controlli](https://i.imgur.com/oqAakOc.png)
 
-Currently, a presence goes through 3 separate stages of checks. All of these checks help the reviewers determine whether your presence is suitable for deployment.
+Attualmente, una presenza passa attraverso 2 stadi separati di controlli. Tutti questi controlli aiutano i revisori a determinare se la tua presence è adatta alla distribuzione.
 
-- `Codacy` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
-- `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
-- `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
+- `Codacy` è un bot che controlla la qualità del codice. Se hai mai ricevuto errori per nuovi problemi, **devi** risolverli. (_WARNING: Codacy bot will be deprecated soon and you will need check errors only from DeepScan!_)
+- `DeepScan` è un bot che verifica la qualità del codice. Se hai mai ricevuto errori per nuovi problemi, **devi** risolverli.
+- `Validazione Schema` esegue la scansione del file `metadata.json` per rilevare eventuali errori (per es., campi mancanti, tipi di valori non validi, ecc.). Se mai vedessi nuovi problemi, è **necessario** anche risolverli. L'aggiunta di un campo schema al tuo file `metadata.json` permetterà al tuo editor di testo (se supportato) di mostrarti questi errori durante lo sviluppo.
 
-## `Additional Rules`
+## `Regole Aggiuntive`
 
-- **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
+- Assicurati **sempre** di iniziare la tua presenza nella cartella più appropriata, se il suo nome inizia con _qualsiasi_ lettera latina allora deve essere sotto la sua corrispondenza alfabetica (per es., `D/dアニメストア` o `G/Google`). Qualsiasi altro carattere Unicode/non-Latino **deve essere** sotto la cartella `#` (per es. `#/巴哈姆特`) e numeri sotto la cartella `0-9` (ad esempio, `0-9/4anime`).
 
 Dopo aver seguito tutte le linee guida con le opportune revisioni e controlli, la presence sarà inserita nel negozio.
 
-# Suggestions
-If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
+# Verifica
+`Revisione 2` delle linee guida è stata scritta ed hanno contribuito i seguenti individui:
 
 # Contributi
 
-`Revision 3` of the guidelines was written and was contributed to by the following individuals:
+`Revisione 1` è stata mantenuta dai seguenti individui:
 
 <div>
 <a href="https://github.com/ririxidev"><img src="https://github.com/ririxidev.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 2` of the guidelines was written and was contributed to by the following individuals:
+`Revisione 2` delle linee guida è stata scritta ed hanno contribuito i seguenti individui:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>
 </div>
 
-`Revision 1` was maintained by the following individuals:
+`Revisione 1` è stata mantenuta dai seguenti individui:
 
 <div>
 <a href="https://github.com/Alanexei"><img src="https://github.com/Alanexei.png?size=2048" width="48px" style="max-width:100%; border-radius: 50%;"/></a>

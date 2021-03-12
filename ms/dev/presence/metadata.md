@@ -110,7 +110,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>keterangan</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Keterangan untuk perkhidmatan <b>BUKAN</b> untuk Presence. Keterangan anda mesti mempunyai nilai pasangan kekunci yang menyatakan bahasa terlibat, berserta keterangan dalam bahasa tersebut. Cipta keterangan dengan bahasa <i>yang anda tahu</i>, penterjemah kami akan buat perubahan ke fail metadata anda. Lihat kategori bagi bahasa Presence untuk senarai. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -130,7 +130,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versi</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Versi Presence anda.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -155,13 +155,13 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tag</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Tatasusunan dengan tag, ia akan bantu pengguna mencari Presence anda di laman sesawang.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kategori</b></td>
+      <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Rentetan digunakan untuk mewakili kategori yang mana Presence berada.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Tidak</code></td>
@@ -185,7 +185,7 @@ Contoh tersebut nampak agak pelik, kan? Jangan risau, ia tidaklah susah untuk fa
       <td style="text-align:left"><code>Ya</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tetapan</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Tatasusunan tetapan yang pengguna boleh ubah</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Ya</code></td>

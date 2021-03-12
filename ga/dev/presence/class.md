@@ -1,6 +1,6 @@
 ---
-title: Presence Class
-description: The main class for every PreMiD presence
+title: Rang Láithreachta
+description: An rang is mó do gach láithreacht PreMiD
 published: true
 date: 2021-02-26T20:42:26.910Z
 tags:
@@ -8,90 +8,90 @@ editor: markdown
 dateCreated: 2021-02-21T21:13:14.449Z
 ---
 
-# Presence Class
+# Rang Láithreachta
 
-## Introduction
+## Réamhrá
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+Tá an `Presence` rang an-úsáideach mar tá modhanna bunúsacha aige a theastaíonn uainn chun láithreacht a chruthú.
 
-When you create a class you must specify `clientId` property.
+Nuair a chruthaíonn tú rang caithfidh tú `clientId` maoin a shonrú.
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Sampla clientId
 });
 ```
 
-### Properties
+### Airíonna
 
-There are three properties available for `Presence` class.
+Tá trí airí ar fáil don `Presence` rang.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. You can get it on your [applications page](https://discordapp.com/developers/applications).
+Éilítear ar an maoin seo chun do láithreacht a chur ag obair, toisc go n-úsáideann sé d’aitheantas chun a lógó agus a shócmhainní a thaispeáint. Is féidir leat é a fháil ar do [leathanach iarratais](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+Nuair a bheidh tú ag socrú `injectOnComplete` chuig `true` an gcéad `UpdateData` imeacht le haghaidh na gcomhad `presence.ts` agus na `iframe.ts` gcomhad ní scaoilfear iad ach nuair a bheidh an leathanach luchtaithe go hiomlán.
 
 #### `appMode`
 
-When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
+Nuair a leagan síos `appMode` chun `true` a bhí agus an láithreacht a sheoladh folamh `PresenceData`, beidh an app thaispeáint ar an t-iarratas (íomhá agus ainm) ar an úsáideora phróifíl ionad rud ar bith.
 
-## Methods
+## Modhanna
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+Filleann sé `PresenceData` réad ar a bhfuil an láithreacht ag taispeáint.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
-Sets your profile activity according to provided data.
+Socraigh do ghníomhaíocht phróifíle de réir na sonraí a chuirtear ar fáil.
 
-First parameter requires a [`PresenceData`](#presencedata-interface) interface or a [`Slideshow`](/dev/presence/slideshow) class to get all information that you want to display in your profile.
+Éilíonn an chéad pharaiméadar [`PresenceData`](#presencedata-interface) comhéadan nó [`Slideshow`](/dev/presence/slideshow) rang chun gach faisnéis a theastaíonn uait a thaispeáint i do phróifíl a fháil.
 
-Second parameter defines when presence is playing something or not. Always use `true` if you provide timestamps in `PresenceData`.
+Sainmhíníonn an dara paraiméadar nuair a bhíonn láithreacht ag imirt rud éigin nó nach bhfuil. Úsáid i gcónaí `true` má sholáthraíonn tú stampaí ama isteach `PresenceData`.
 
 ### `clearActivity()`
 
-Clears your current activity and the tray title.
+Glanann do ghníomhaíocht reatha agus teideal an tráidire.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Ní oibríonn an modh seo ach ar Mac OS. 
 > 
 > {.is-warning}
 
-Sets the tray title on the Menubar.
+Socraigh teideal an tráidire ar an Menubar.
 
 ### `createSlideshow()`
 
-Creates a new `Slideshow` class.
+Cruthaíonn sé `Slideshow` rang nua.
 
 ```typescript
 const slideshow = presence.createSlideshow();
 ```
 
-It is suggested to do this right after creating the `Presence` class:
+Moltar é seo a dhéanamh i gceart tar éis an`Presence` rang a chruthú:
 
 ```typescript
 const presence = new Presence({
-    clientId: "514271496134389561" // Example clientId
+    clientId: "514271496134389561" // Sampla clientId
   }),
   slideshow = presence.createSlideshow();
 ```
 
-You can find the documentation for the `Slideshow` class [here](/dev/presence/slideshow).
+Is féidir leat na cáipéisí don `Slideshow` rang a fháil [anseo](/dev/presence/slideshow).
 
 ### `getStrings(Object)`
 
-An asyncronous method that allows you to get translated strings from extension.
+Modh asincrónach a ligeann duit teaghráin aistrithe a fháil ón síneadh.
 
-You must provide `Object` with keys being the key for string, `keyValue` is the string value. A list of translated strings can be found at this endpoint: `https://api.premid.app/v2/langFile/presence/en/`
+Caithfidh tú `Object` eochracha a sholáthar mar eochair do shreang, `keyValue` is é luach na sreinge. Is féidir liosta de na teaghráin aistrithe a fháil ag an bpointe deiridh seo: `https://api.premid.app/v2/langFile/presence/en/`
 
 ```typescript
-// Returns `Playing` and `Paused` strings
-// from extension.
+// Tuairisceáin teaghráin `Imeartha` agus `Sos`
+// ón síneadh.
 const strings = await presence.getStrings({
   play: "general.playing",
   pause: "general.paused"
@@ -101,9 +101,9 @@ const playString = strings.play; // result: Playing
 const pauseString = strings.pause; // result: Paused
 ```
 
-Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
+Ó v2.2.0 den síneadh is féidir leat teaghráin teanga áirithe a fháil anois. Oibríonn sé seo go maith leis an `multiLanguage` rogha socruithe nua-bhreise.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+Molaimid duit an cód seo a leanas a úsáid ionas go ndéanann sé an PresenceData a nuashonrú go huathoibríoch má athraíonn an t-úsáideoir an teanga roghnaithe;
 
 ```typescript
 // An interface of the strings you are getting (good for code quality and autocomplete).
@@ -142,7 +142,7 @@ const playString = (await strings).play, // result: Playing
 
 ### `getPageletiable(String)`
 
-Returns a variable from the website if it exists.
+Seoltar athróg ar ais ón suíomh Gréasáin má tá sé ann.
 
 ```typescript
 const pageVar = getPageletiable(".pageVar");
@@ -151,7 +151,7 @@ console.log(pageVar); // This will log the "Variable content"
 
 ### `getExtensionVersion(Boolean)`
 
-Returns version of the extension the user is using.
+Leagan ar ais den síneadh atá á úsáid ag an úsáideoir.
 
 ```typescript
 getExtensionVersion(onlyNumeric?: boolean): string | number;
@@ -164,67 +164,67 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Tuairisceáin luach an tsuímh.
 
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const const = await presence.getSetting("pdexID"); // Cuir id an tsuímh in ionad pdexID
+console.log(setting); // Déanfaidh sé seo luach an tsuímh a logáil
 ```
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Seithí tugtha suíomh.
 
 ```typescript
-presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); // Cuir id an tsuímh in ionad pdexID
 ```
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Seónna a thugtar an socrú (Ní oibríonn sé ach má bhí an suíomh i bhfolach cheana féin).
 
 ```typescript
-presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); // Cuir id an tsuímh in ionad pdexID
 ```
 
 ### `getLogs()`
 
-Returns the logs of the websites console.
+Filleann sé logaí an chonsóil láithreáin ghréasáin.
 
 ```typescript
 const logs = await presence.getLogs();
-console.log(logs); // This will log the latest 100 logs (in an array).
+console.log(logs); // Déanfaidh sé seo na 100 log is déanaí (in eagar) a logáil.
 ```
 
-**Note:** Requires `readLogs` to be `true` in the `metadata.json` file.
+**Nóta:** Éilítear `readLogs` a bheith `true` sa `metadata.json` chomhad.
 
 ### `info(String)`
 
-Prints the given message in the console in a format based of the presence in the `info` style.
+Priontaítear an teachtaireacht a thugtar sa chonsól i bhformáid bunaithe ar an láithreacht sa `info` stíl.
 
 ```typescript
-presence.info("Test") // This will log "test" in the correct styling.
+presence.info("Tástáil") // Logálfaidh sé seo "tástáil" sa stíliú ceart.
 ```
 
 ### `success(String)`
 
-Prints the given message in the console in a format based of the presence in the `success` style.
+Priontaítear an teachtaireacht a thugtar sa chonsól i bhformáid bunaithe ar an láithreacht sa `success` stíl.
 
 ```typescript
-presence.success("Test") // This will log "test" in the correct styling.
+presence.success("Tástáil") // Logálfaidh sé seo "tástáil" sa stíliú ceart.
 ```
 
 ### `error(String)`
 
-Prints the given message in the console in a format based of the presence in the `error` style.
+Priontaítear an teachtaireacht a thugtar sa chonsól i bhformáid bunaithe ar an láithreacht sa `error` stíl.
 
 ```typescript
-presence.error("Test") // This will log "test" in the correct styling.
+presence.error("Tástáil") // Logálfaidh sé seo "tástáil" sa stíliú ceart.
 ```
 
 ### `getTimestampsfromMedia(HTMLMediaElement)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Filleann 2 `snowflake` stampa ama ar cheann `Array` is féidir a úsáid le haghaidh `startTimestamp` agus `endTimestamp`.
 
 ```typescript
 const timestamps = getTimestampsfromMedia(document.querySelector(".video"));
@@ -232,11 +232,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nóta** Is `String` sampla é an ceann a thugtar i querySelector.
 
 ### `getTimestamps(Number, Number)`
 
-Returns 2 `snowflake` timestamps in an `Array` that can be used for `startTimestamp` and `endTimestamp`.
+Filleann 2 `snowflake` stampa ama ar cheann `Array` is féidir a úsáid le haghaidh `startTimestamp` agus `endTimestamp`.
 
 ```typescript
 const video = document.querySelector(".video"),
@@ -245,11 +245,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nóta** Is `String` sampla é an ceann a thugtar i querySelector.
 
 ### `timestampFromFormat(String)`
 
-Converts a string with format `HH:MM:SS` or `MM:SS` or `SS` into an integer (Does not return snowflake timestamp).
+Athraíonn sé sreang le formáid `HH:MM:SS` nó `MM:SS` nó `SS` ina shlánuimhir (Ní fhilleann an stampa ama sciathán sneachta).
 
 ```typescript
 const currentTime = timestampFromFormat(document.querySelector(".video-now").textContent),
@@ -259,18 +259,18 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**Nóta** Is `String` sampla é an ceann a thugtar i querySelector.
 
-## `PresenceData` Interface
+## Comhéadan `PresenceData`
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+Moltar an `PresenceData` comhéadan a úsáid agus an `setActivity()` modh á úsáid agat.
 
-This interface has following variables, all of them are optional.
+Tá na hathróga seo a leanas ag an gcomhéadan seo, tá gach ceann acu roghnach.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Athróg</th>
       <th style="text-align:left">Cur síos</th>
       <th style="text-align:left">Cineál</th>
     </tr>
@@ -278,58 +278,55 @@ This interface has following variables, all of them are optional.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">An chéad líne i do láthair, a úsáidtear de ghnáth mar cheanntásc.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">An dara líne i do láthair.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Sainmhínítear an t-am reatha.<br>
+        Úsáidtear más mian leat an méid atá <code>hours:minutes:seconds</code> fágtha a thaispeáint.
+          <br>Caithfidh tú do chuid ama a thiontú go dtí <code>timestamp</code> nó gheobhaidh tú comhaireamh síos mícheart.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Sainmhínítear an fad iomlán.
+        <br>Úsáidtear más mian leat an méid atá <code>hours:minutes:seconds</code> fágtha a thaispeáint.
+          <br>Caithfidh tú do chuid ama a thiontú go dtí <code>timestamp</code> nó gheobhaidh tú comhaireamh síos mícheart.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Sainmhínítear an deilbhín beag in aice le lógó an láithreachta.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Sainmhínítear an deilbhín beag in aice le lógó an láithreachta.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Sainmhínítear an téacs a thaispeánfar don úsáideoir nuair a osclóidh sé an deilbhín beag.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
         <tr>
       <td style="text-align:left">buttons</td>
-      <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
+      <td style="text-align:left">Sraith de cnaipí, uas 2, lipéad is é an téacs cnaipe, agus is é url an nasc.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>
@@ -338,42 +335,41 @@ This interface has following variables, all of them are optional.
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "Mo theideal",
+  state: "Mo thuairisc",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "D'oscail tú mé, agus cad anois?",
   startTimestamp: 1564444631188,
-  endTimestamp: 1564444634734,
+  endTimestamp: 1564444634734
   buttons: [
     {
-            label: "Test button1",
+            label: "Cnaipe tástála1",
             url: "https://premid.app/"
         },
         {
-            label: "Test button2",
+            label: "Cnaipe tástála2",
             url: "https://premid.app/contributors"
         }
-    ]
-};
+    ];
 ```
 
 ## Events
 
-Events allow you to detect and handle some changes or calls that were made. You can subscribe to events using the `on` method.
+Ligeann imeachtaí duit roinnt athruithe nó glaonna a rinneadh a bhrath agus a láimhseáil. Is féidir leat liostáil le himeachtaí ag úsáid an `on` mhodha.
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // Déan rud éigin nuair a dhéantar sonraí a nuashonrú.
 });
 ```
 
-There are few events available:
+Níl mórán imeachtaí ar fáil:
 
 #### `UpdateData`
 
-This event is fired every time the presence is being updated.
+Scaoiltear an ócáid ​​seo gach uair a bhíonn an láithreacht á nuashonrú.
 
 #### `iFrameData`
 
-Fired when data is received from iFrame script.
+Breoslaithe nuair a fhaightear sonraí ó script iFrame.

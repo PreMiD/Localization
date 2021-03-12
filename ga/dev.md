@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Ag tosú
 description: A little advise for those who got into coding recently
 published: true
 date: 2020-04-09T14:21:58.246Z
@@ -15,10 +15,10 @@ tags:
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and type `npm install -g typescript`).
 
-# Cloning the project
+# Ag clónáil an tionscadail
 1. Open a terminal and type `git clone URL`. **Replace URL with repository link you want to contribute to** e.g. `git clone https://github.com/PreMiD/PreMiD`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Roghnaigh fillteán de do rogha féin.
+3. Oscail é i d’eagarthóir cód.
 
 # Installing dependencies
 > Be sure you have installed [npm](https://www.npmjs.com/) (Node Package Manager) first. It automatically installed itself if you have [Node](https://nodejs.org/en/) installed. 

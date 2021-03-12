@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Berisi data dasar tentang presence
 published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
@@ -10,9 +10,9 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Jika anda ingin menerbitkan presence ke toko dan memuatnya lewat ektensi, anda harus membuat file `metadata.json` pada folder `dist` anda.
 
-An example of that file can be found below.
+Contoh file tersebut dapat ditemukan di bawah.
 
 ```typescript
 {
@@ -67,59 +67,59 @@ An example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## Memahami metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Contohnya aneh bukan? Jangan khawatir, memahami fungsi setiap variable itu tidak terlalu sulit.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Deskripsi</th>
       <th style="text-align:left">Tipe</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Opsional</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left">Harus berisi sebuah Object dengan <code>name</code> dan <code>id</code> dari pengembang presence. <code>name</code> adalah username Discordmu tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+        mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
+      <td style="text-align:left">Harus berisi object dengan <code>nama</code> dan <code>id</code> dari kontributor. <code>name</code> adalah username Discordmu tanpa identifier(#0000). <code>id</code> pengguna dapat disalin dari Discord dengan mengaktifkan developer
         mode dan klik kanan pada profil anda.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">Judul dari layanan yang didukung oleh presence tersebut.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">Dapat mencari presence menggunakan nama lain.<br>
+      Dimaksudkan untuk presence yang memiliki nama yang berbeda di bahasa yang berbeda (e.g. Pokémon and 포켓몬스터).<br>
+      Kamu juga dapat menggunakan ini untuk presence yang memiliki karakter spesial yang kamu tidak bisa ketik (e.g. Pokémon and Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. Lihat kategori untuk bahasa presence untuk daftarnya. </td>
+      <td style="text-align:left"><b>deskripsi</b></td>
+      <td style="text-align:left">Deskripsi dari layanan tersebut <b>BUKAN</b> presencenya. Deskripsi harus memiliki value yang berpasangan yang menandakan bahasa, dan deskripsi dengan bahasa tertentu. Buat deskripsi dengan bahasa yang <i>anda mengerti</i>, translator kami yang akan mengubah file metadata anda. Lihat kategori untuk bahasa presence untuk daftarnya. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. Ini bisa digunakan sebagai kesatuan ketika ada lebih dari satu url.</b></td>
+      <td style="text-align:left">URL layanan.<br>
+      <b>Contoh:</b><code>vk.com.com</code><br>
+      <b>URL ini harus sama dengan URL dari website karena akan digunakan untuk mendeteksi apakah ini website yang benar untuk inject script. Ini bisa digunakan sebagai kesatuan ketika ada lebih dari satu url.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
@@ -130,57 +130,56 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>version</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><b>versi</b></td>
+      <td style="text-align:left">Versi dari presence anda.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Link ke logotype dari layanan.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Link ke thumbnail presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> value. Kami menganjurkan untuk menggunakan warna utama layanan         yang didukung oleh presence anda.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>tag</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Himpunan dengan tag, ini akan membantu pengguna untuk mencari presence anda pada website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">String yang digunakan untuk mewakili kategori yang dimilki presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Menentukan apakah <code>iFrames</code> digunakan</td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">Penentu regular expression yang memilih iframe yang di inject.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Menentukan apakah ekstensi harus membaca catatan.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
@@ -195,9 +194,9 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
 
 ## Regular Expressions
 
-If you want to learn regular expressions, here are a few websites.
+Jika anda ingin mempelajari regular expression, berikut beberapa website.
 
-#### Learning
+#### Mempelajari
 
 • [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
 
@@ -205,12 +204,12 @@ If you want to learn regular expressions, here are a few websites.
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Bahasa Presence
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+PreMiD merupakan layanan polygot, artinya terdapat banyak bahasa yang terlibat untuk menghubungkan pengguna diseluruh dunia. Daftar penuh bahasa dapat dilihat dengan [API endpoint](https://api.premid.app/v2/langFile/list). Untuk lebih meng-customize presence anda, anda dapat mengizinkan user untuk memilih tampilan bahasa presence mereka, lihat [`multiLanguage`](#multilanguage) untuk selengkapnya.
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Pengaturan presence
+Buat pengaturan interaktif agar pengguna dapat mengatur presencenya!
 ```typescript
 "settings": [
   {
@@ -245,95 +244,95 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### Introduction
+#### Pendahuluan
 
-The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+Pengaturan `multiLanguage` dapat digunakan untuk mengizinkan user memilih bahasa yang mereka mau di presence untuk ditampilkan. Ini mengharuskan anda untuk menggunakan string dari [API](https://api.premid.app/v2/langFile/presence/en) kami, untuk informasi bagaimana cara menambahkan string klik [disini](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Konfigurasi
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+Pengaturan `multiLanguage` adalah kasus yang spesial, tidak dibutuhkan `title` atau `icon` atau `value` ataupun `values` seperti pengaturan lainnya tapi membutuhkan beberapa konfigurasi!
 
-The `multiLanguage` key can be set to the following:
+Key `multiLanguage` bisa di ubah menjadi:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: gunakan ini jika anda hanya ingin menggunakan string dari file `general.json` dan file `<service>.json` dari [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: nama dari file kecuali ekstensi (.json) di dalam [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (kecuali file `general`, karena selalu dimuat). Hanya bahasa umum dari file `general` dan yang dimasukkan akan dicantumkan. `Array<String>`: jika anda menggunakan lebih dari satu file di dalam [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) anda bisa menentukan semua value dalam sebuah array (kecuali file `general`, karena selalu dimuat). Hanya bahasa umum dari semua file yang akan dicantumkan.
 
-#### Adding new strings
+#### Menambahkan string baru
 
-##### Cloning the project
+##### Mengkloning project
 
 1. Buka terminal dan ketik `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+2. Pilih folder pilihanmu.
+3. Buka di editor kodemu.
 
-##### Creating the file
+##### Membuat file
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Pergi ke folder `src`.
+2. Pergi ke folder `Presence`.
+3. Buat file bernama `<service>.json`. (Service adalah **nama** (bukan URL) dalam huruf kecil dari service yang ingin anda dukung.)
 
-##### Adding the strings
+##### Menambahkan string
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Setiap `string` adalah `Object` dimana dari namanya dimulai dengan nama service kemudian yang disebut stringName dengan titik diantaranya.
 
-The stringName is a 1 word identifier of the message.
+stringName adalah identifier 1 kata dari pesan.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+`Object` memiliki 2 properti; `message` dan `description`. `message` adalah teks yang perlu diterjemahkan. `description` adalah deskripsi dari `message` untuk membantu penerjemah kami memahami apa yang mereka terjemahkan.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Catatan:** Jangan menambahkan string ganda. (Ini mencakupi string diluar file `general.json` tapi tidak file lainnya.)
 
-Visualization of the the file:
+Visualisasi dari file:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Teks yang perlu diterjebahkan.",
+    "description": "Ini menjelaskan apa message diatas itu."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Teks yang perlu diterjebahkan.",
+    "description": "Ini menjelaskan apa message diatas itu."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Setelah anda berhasil membuat file dengan string anda bisa membuat Pull Request ke [Localization Repository](https://github.com/PreMiD/Localization), di deskripsi anda **harus** mencantumkan tautan (link) ke Pull Request dari presence yang diperbarui menggunakan string baru dari [Presence Repository](https://github.com/PreMiD/Presences).
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Key default
+Key yang tidak perlu kamu atur karena sudah otomatis adalah: `title`: "Language" **Catatan:** Ini diterjemahkan ke bahasa default mereka (bahasa dari browser). `icon`: ""fas fa-language" ([Pratinjau](https://fontawesome.com/icons/language)) `value`: **Mengatur ke bahasa dari browser mereka jika tersedia (100% translated), atau bahasa Inggris.** `values`: **Mengatur ke bahasa yang tersedia (bahasa yang sudah 100% diterjemahkan).**
 
-**Note:** These are in no way changeable.
+**Catatan:** Ini sama sekali tidak bisa diubah.
 
-### Methods
+### Metode
 
 Gunakan metode berikut untuk mendapat info pengaturan pada file presence:
 #### `getSetting(String)`
-Returns value of setting.
+Mengembalikan value dari pengaturan.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const setting = await presence.getSetting("pdexID"); //Ubah pdexID dengan id dari setting
+console.log(setting); // Ini akan mencatat isi dari setting
 ```
 
 #### `hideSetting(String)`
-Hides given setting.
+Sembunyikan pengaturan yang diberikan.
 ```typescript
-presence.hideSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.hideSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
 ```
 
 #### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Menampilkan setting yang diberikan (Hanya bekerja jika pengaturan telah disembunyikan).
 ```typescript
-presence.showSetting("pdexID"); //Replace pdexID with the id of the setting
+presence.showSetting("pdexID"); //Mengganti pdexID dengan id dari pengaturan
 ```
 
-## Presence categories
+## Kategori presence
 
 Saat membuat presence, anda harus menentukan kategori dimana presence berada. Berikut adalah daftar dari kategori yang bisa digunakan.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Kategori</th>
+      <th style="text-align:left">Nama</th>
       <th style="text-align:left">Deskripsi</th>
     </tr>
   </thead>
@@ -341,32 +340,32 @@ Saat membuat presence, anda harus menentukan kategori dimana presence berada. Be
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Apapun yang berhubungan dengan anime, dari forum hingga platform streaming video.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>permainan</b></td>
-      <td style="text-align:left"><b>Games</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left"><b>games</b></td>
+      <td style="text-align:left"><b>Permainan</b></td>
+      <td style="text-align:left">Website apapun yang memiliki konten tentang game, seperti <code>Kahoot</code> atau <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>musik</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Musik</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Website ini menawarkan konten yang berhubungan dengan musik, streaming atau download.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sosial</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sosial</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Website yang dibuat untuk membuat dan membagikan konten atau berpartisipasi dalam social network dalam bentuk apapun.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Video dan Stream</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Website yang berguna untuk menyediakan video dan stream.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>lain-lain</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Lainnya</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Apapun yang tidak termasuk kategori diatas.</td>
     </tr>
   </tbody>
 </table>

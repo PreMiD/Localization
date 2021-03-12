@@ -1,6 +1,6 @@
 ---
-title: Home
-description: Official Documentation for v2
+title: 홈
+description: 공식 문서 v2
 published: true
 date: 2021-02-24T23:22:41.678Z
 tags:

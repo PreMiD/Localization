@@ -1,6 +1,6 @@
 ---
 title: API
-description: Access resources and perform actions using the PreMiD API
+description: PreMiD APIを使用してリソースにアクセスし、アクションを実行する
 published: true
 date: 2021-02-01T12:36:44.713Z
 tags:
@@ -15,7 +15,7 @@ dateCreated: 2020-06-11T18:03:59.010Z
 > {.is-info}
 
 ## APIのバージョン
-> API v2 has been deprecated and will be removed in the near future. Please use v3 for any future request to prevent issues. 
+> API v2は非推奨になりました。今後、削除される予定です。 問題を防ぐために、今後のリクエストにはAPI v3を使用してください。 
 > 
 > {.is-danger}
 
@@ -31,6 +31,6 @@ PreMiD内のすべてのHTTPレイヤーのサービスやプロトコル (例: 
 > {.is-danger}
 
 **APIのバージョンを選んでください:**
-- [v2 *deprecated*](/dev/api/v2)
-- [v3 *active*](/dev/api/v3)
+- [v2 *非推奨*](/dev/api/v2)
+- [v3 *推奨*](/dev/api/v3)
 {.links-list}

@@ -1,6 +1,6 @@
 ---
 title: プレゼンスガイドライン
-description: Rules that all presence developers must follow to have their presence added.
+description: プレゼンスを公開するために必要なルール
 published: true
 date: 2021-03-06T15:01:04.274Z
 tags:
@@ -17,25 +17,25 @@ dateCreated: 2021-02-26T21:54:41.573Z
 
 # ガイドライン
 
-[Presences Repository](https://github.com/PreMiD/Presences)へプレゼンスを公開する際は、一連のガイドラインに従う必要があります。 To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+[Presences Repository](https://github.com/PreMiD/Presences)へプレゼンスを公開する際は、一連のガイドラインに従う必要があります。 厳しいように見えるかもしれませんが、 このガイドラインは、問題を回避するために作られています。
 
 # 作成
 
-The general rules of presence development are as follows:
+プレゼンスのルールは以下のとおりです。
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- The domain of the presence must be at least 2 months old.
+- プレゼンスは選択されたサイトに関連付けされている必要があります。
+- プレゼンスは不当なサイトに対して公開することはできません。 (ブラウザクラッシャーや、違法薬物の取引サイト、児童ポルノが公開されているサイトなど)
+- ファイル構造はきれいに管理されている必要があります。指定されていないファイルは含めないでください。 (vscodeやgit folder、画像・テキストなど)
+- 確実なファイル構造が必要です。下書きやテストは公開するには適していません。
+- .onionで終わるドメインや無料で取得できるドメイン/ホストを持つウェブサイトのためのプレゼンスは原則許可されていませんが、そのドメインのために料金を支払ったことが証明された場合は例外として認められます。
+- ドメインが取得されてから、2ヶ月以上立っていないwebサイトのプレゼンスは許可されていません。
 - ブラウザの内部を指定するプレゼンスは許可されていません。（Chrome Web Store、`chrome://`、`about:` など。） これらを実装するには、試験中の機能(chrome://frags)を有効にする必要があり、ブラウザーやデータに大きなダメージを与える可能性があるからです。
 - 一つのサブドメインのみをサポートするプレゼンスは許可されていません。（ホームページなどで正常に表示されないことがあるため） 利用規約、連絡フォームなどのあまり使われないページや、他のコンテンツがメインのコンテンツに関連していないものは例外です。 (例えば、Wikiaなど)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
+- オンラインラジオのプレゼンスは、週に100人のリスナーと、15人以上の同時接続数が必要です。また、固有の機能（アルバムや曲を表示する以外の）が必要です。
 - 低品質のプレゼンスは許可されていません。例えば、ロゴとサイト名だけ表示して、その後は一切表示が変わらないプレゼンスなどです。
-- With the `buttons` release, we require some guidelines for them:
-  - Redirects to main page are prohibited.
-  - Promoting websites by them is prohibited.
+- コード内に`buttons`などを実装している場合は、以下のルールに従ってください。
+  - メインページへのリダイレクトをしない
+  - ボタンでウェブサイトを宣伝したりしない
   - They can't show addinational data when you can't show them in `state` or `details`.
 - Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
 
@@ -47,7 +47,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+`iframe.ts`ファイルを使用している場合は
 
 ```bash
 presence
@@ -141,36 +141,36 @@ A list of fields and their rules are listed below:
 
 ### **`author`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- IDの_value_（値）にはDiscordのユーザーIDを入力してください。 [開発者モード](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)を有効にすることで入手できます。 _application ID（プレゼンスに割り当てられるもの）では**ありません。**混同しないようにしてください。_
 
 ### **`*contributors`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- 自分を「contributor」（協力した人、貢献者）として追加しないでください。他の誰かと協力した場合のみ追加できます。
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- Presenceディレクトリの名前は、サービス名でなければなりません。 例えば、プレゼンスが`/websites/Y/YouTube/`にある場合、サービス名は`YouTube`でなければなりません。
+- webサイトがURLの名前を公式に使用していない場合は、URLをサービスの名前として使用することができません。 ただし、名前がない、もしくは曖昧であると判断された場合はURLを使用することが必要です。 （例えば、`YouTube`は正式名称であり、サービス名を表しているので適切です。 `YouTube.com`とすることはできません。 ですが、`Top`はサービス名を表していないので、適切ではありません。`top.gg`の記述を使用してください。）
 - If service has some explicit branding rules of their name, you should follow them.
 
 ### **`*altnames`**
 
-- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- 公式で複数の名前がある場合(例:"Pokémon"と"포켓몬스터")や、 特殊な文字が入っている(例:Pokémon and Pokemon)場合にのみ参照してください。 複数の名前を指定して、探すのを簡単にすることができます。 短縮されたサービス名は、`tags`に置いてください。
 
 ### **`description`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- すべてのプレゼンスは（Webサイトの言語にかかわらず）、英語での説明文が必要です。
+- その言語を知っていない場合は無理に翻訳しようとせずにそのままにしてください。 必要があるなら、PreMiDの翻訳者が`metadata.json`を編集します。
 
 ### **`url`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
-- Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
+- URLは、ウェブドメインが一つしかない場合はstring（文字列）である必要があります。 ドメインが複数ある場合は、これをarray（配列）にしてそれぞれを指定します。
+- プロトコルを入れないでください。(`http` や `https`など) パラメーターも入れないでください。(`www.google.com/search?gws_rd=ssl` などは `www.google.com`にする必要があります。)
 
 ### **`version`**
 
-- Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
-- The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
+- バージョン番号は[semantic versioning standards](https://semver.org)に従うようにしてください。 `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. （<新機能>.<大きなバグの修正>.<小さなバグや細かな修正>） `1.0.0.1`や`1.0`、`1`の他、 `1.0.0-BETA`と表記することや、バグの修正や小さい変更だけで`1.0.0`から `2.0.0`に変更することは許可されていません。
+- バージョンは、指定されていない限り`1.0.0`から始めるようにしてください。
 
 ### **`logo`**
 
@@ -188,8 +188,8 @@ A list of fields and their rules are listed below:
 
 ### **`tags`**
 
-- **All** presences are required to have at least _one_ tag.
-- Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
+- すべてのプレゼンスは_一つ以上_のタグを持つ必要があります。
+- Tagには空白やスラッシュ、引用符やUnicode文字を使用しないでください。また、すべて小文字にしてください。
 - Tags **should** preferably include alternate service names to make searching easier (for e.g., if an Amazon presence had included AWS support, it would have its tags like `amazon-web-services` and `aws`)
 - You are **required** to add an `NSFW` tag if the presence is for an NSFW website.
 
@@ -207,9 +207,9 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`注意`**
 
-- Enables warning icon for prompting user that this presence needs more steps than only adding presence.
+- プレゼンスを使用するときに追加のステップが必要になるプレゼンスには、警告アイコンを付ける必要があります。
 - Example of presence using this metadata variable is `VLC`.
 
 ### **`設定`**
@@ -243,7 +243,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 
 > Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
 
-## Modification
+## 変更・修正
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**.
 
@@ -253,7 +253,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# 認証
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 

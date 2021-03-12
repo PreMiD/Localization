@@ -17,11 +17,11 @@ Un exemple de ce fichier se situe ci-dessous.
 ```typescript
 {
   "author": {
-    "name": "UTILISATEUR",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [{
-    "name": "UTILISATEUR",
+    "name": "USER",
     "id": "ID"
   }],
   "service": "SERVICE",
@@ -42,8 +42,8 @@ Un exemple de ce fichier se situe ci-dessous.
   "settings": [
     {
       "id": "ID",
-      "title": "TITRE D'AFFICHAGE",
-      "icon": "ICONE FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -51,15 +51,15 @@ Un exemple de ce fichier se situe ci-dessous.
       "if": {
         "ID": true
       },
-      "title": "TITRE D'AFFICHAGE",
-      "icon": "ICONE FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "TITRE D'AFFICHAGE",
-      "icon": "ICONE FONTAWESOME",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
@@ -82,21 +82,21 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>auteur</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Doit contenir un Objet avec le <code>nom</code> et l'<code>id</code> du développeur de la Presence. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'utilisateur <code>id</code> peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>contributeurs</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Doit contenir un objet avec le <code>nom</code> et l'<code>id</code> du contributeur. <code>name</code> est votre nom d'utilisateur Discord sans l'identifiant(#0000). L'<code>id</code> utilisateur peut être copié depuis Discord en activant le mode développeur
         et en faisant un clic droit sur votre profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Service</b></td>
+      <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Le titre du service que cette présence supporte.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Non</code></td>
@@ -116,11 +116,11 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Url</b></td>
+      <td style="text-align:left"><b>url</b></td>
       <td style="text-align:left">URL du service.<br>
 <b>Exemple :</b><code>vk. om</code><br>
         <b>Cette url doit correspondre à l'url du site web car elle sera utilisée pour détecter où que ce soit ou non le site web où injecter le script. Ceci ne peut être utilisé comme un tableau que s'il y a plus d'une urls.</b></td>
-      <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
@@ -136,7 +136,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Logo</b></td>
+      <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Lien vers le logo du service&apos;.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Non</code></td>
@@ -148,7 +148,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>couleur</b></td>
+      <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left">valeur <code>#HEX</code>. Nous vous recommandons d'utiliser une couleur primaire du service
         que votre présence supporte.</td>
       <td style="text-align:left"><code>String</code></td>
@@ -157,11 +157,11 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
     <tr>
       <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Tableau avec des tags, ils aideront les utilisateurs à rechercher votre présence sur le site Web.</td>
-      <td style="text-align:left"><code>Chaîne, Tableau&lt;String&gt;</code></td>
+      <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Non</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Catégorie</b></td>
+      <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Une chaîne utilisée pour représenter la catégorie sous laquelle tombe la présence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Non</code></td>
@@ -185,7 +185,7 @@ Cet exemple semble vraiment étrange, hein? Ne vous inquiétez pas, ce n'est pas
       <td style="text-align:left"><code>Oui</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>réglages</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Un tableau de paramètres que l'utilisateur peut modifier</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Oui</code></td>
@@ -215,30 +215,30 @@ Configurer les paramètres interactifs pour que les utilisateurs puissent person
 "settings": [
   {
     "id": "ID",
-    "multiLanguage": true //Voir https://docs.premid.app/dev/presence/metadata#multilanguage
+    "multiLanguage": true //See https://docs.premid.app/dev/presence/metadata#multilanguage
   },
   {
     "id": "ID",
-    "title": "TITRE D'AFFICHAGE",
-    "icon": "ICONE FONTAWESOME", //Exemple "fas fa-info"
-    "value": true // La valeur booléenne en fera un interrupteur marche/arrêt avec cette valeur comme valeur par défaut
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON", //Example "fas fa-info"
+    "value": true //Boolean value will make it an on/off switch with the value as the default value
   },
   {
     "id": "ID",
     "if": {
-      "ID": true //Si un autre paramètre est égal à cette valeur (true/false/0/1/etc.) alors afficher ce bouton
+      "ID": true //If another setting equals this value (true/false/0/1/etc.) then show this button
     },
-    "title": "TITRE D'AFFICHAGE",
-    "icon": "ICONE FONTAWESOME",
-    "value": "\"%song%\" by %artist%", //L'insertion d'une chaîne de caractères fera du réglage une entrée, où vous pourrez utiliser une entrée personnalisée.
-    "placeholder": "utilise %song% ou %artist%" //Lorsque l'entrée est vide, elle apparaîtra en grisé
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON",
+    "value": "\"%song%\" by %artist%", //Putting in a string will make the setting an input one, where you can use a custom input.
+    "placeholder": "use %song% or %artist%" //When input is empty it will show this grayed out
   },
   {
     "id": "ID",
-    "title": "TITRE D'AFFICHAGE",
-    "icon": "ICONE FONTAWESOME",
-    "value": 0, //Valeur par défaut du sélecteur
-    "values": ["1", "2", "etc."] //Fera du réglage un sélecteur où vous choisirez celui que vous voulez
+    "title": "DISPLAY TITLE",
+    "icon": "FONTAWESOME ICON",
+    "value": 0, //Default value of the selector
+    "values": ["1", "2", "etc."] //Will make the setting a selector where you select which one you want
   }
 ]
 ```
@@ -339,22 +339,22 @@ Lorsque vous faites votre présence, vous devez spécifier une catégorie sous l
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>animé</b></td>
+      <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Animé</b></td>
       <td style="text-align:left">Tout ce qui est en rapport à l'animation, des forums aux plateformes de streaming vidéo.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>jeux</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Jeux</b></td>
       <td style="text-align:left">N'importe quel site web qui a un contenu lié au jeu, comme <code>Kahoot</code> ou <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>musique</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Musique</b></td>
       <td style="text-align:left">Ce sont des sites Web qui offrent des contenus liés à la musique, que ce soit en streaming ou en téléchargement.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>réseaux sociaux</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Réseaux sociaux</b></td>
       <td style="text-align:left">Les sites Web qui sont utilisés dans le but de créer et de partager du contenu ou de participer à d'autres formes de réseau social.</td>
     </tr>
@@ -364,7 +364,7 @@ Lorsque vous faites votre présence, vous devez spécifier une catégorie sous l
       <td style="text-align:left">Sites Web qui servent à fournir des vidéos et des streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>autres</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Autre</b></td>
       <td style="text-align:left">Tout ce qui ne relève pas d'une catégorie spécifique énumérée ci-dessus.</td>
     </tr>

@@ -17,7 +17,7 @@ tags:
 2. **OS X** を選択する
 3. 必要に応じてファイルを展開する
 4. インストーラーを開く
-5. A **security alert** may appear if you're installing PreMiD for the first time. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
+5. 初めてPreMiDをインストールする時は、**セキュリティ警告**が出てきます **システム環境設定** > **セキュリティとプライバシー** > **一般** > **許可** へ進む
 > これが表示される理由は、PreMiDにはコード署名(CSC)がないからです。 CSCを発行するために [サポート](https://www.patreon.com/Timeraa) をお願いします。{.is-info}
 6. 起動したら 開く を選ぶ
 7. **ファイアウォール**からアクセスを許可し、 **システムイベント**を操作する

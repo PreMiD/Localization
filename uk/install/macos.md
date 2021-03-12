@@ -17,7 +17,7 @@ tags:
 2. Виберіть **OS X**.
 3. Витягніть архів, якщо це необхідно.
 4. Відкрийте встановлювач.
-5. A **security alert** may appear if you're installing PreMiD for the first time. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
+5. З'явиться **попередження про безпеку** , якщо ви вперше встановите PreMiD. Перейдіть до **Налаштування** > **Безпека** > **Основне** > **Відкрити в будь-якому разі**.
 > Це відбувається тому, що у нас немає сертифіката підпису коду (CSC). [Підтримайте](https://www.patreon.com/Timeraa) щоб профінансувати його.{.is-info}
 6. Виберіть відкривати по запитам
 7. Надайте доступ для з'єднання через **брандмауер** і керуйте **Системними Подіями** , коли було запитано.

@@ -17,7 +17,7 @@ Inštalácia aplikácie je veľmi dôležitá pretože rozšírenie nemôže rob
 2. Vyberte **OS X**.
 3. Ak je potrebné rozbaľte archív.
 4. Otvorte inštalátor.
-5. A **security alert** may appear if you're installing PreMiD for the first time. If it does, follow the steps under [Allow apps from unidentified developers](https://docs.premid.app/install/macos#allow-apps-from-unidentified-developers)
+5. **Bezpečnostné upozornenie** sa ukáže, ak ste nainštalovali PreMiD po prvý krát. Choďte do svojich **Preferencii** > ** Bezpečnosť** > ** Všeobecné** > ** Spustiť**.
 > Je to preto že nemáme certifikát na podpísanie kódu (CSC). [Podporte nás](https://www.patreon.com/Timeraa) financovaním to.{.is-info}
 6. Po zobrazení výzvy vyberte otvoriť.
 7. Poskytnite prístup k pripojeniam prostredníctvom **Firewallu** a ovládaním **Systémových Udalostiach** keď je výzva.

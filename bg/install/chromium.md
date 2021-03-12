@@ -1,24 +1,24 @@
 ---
 title: Chromium
-description: Getting started with a PreMiD installation on Chromium-based browsers
+description: Започване с изтеглянето на PreMiD на Chromium-базирани браузъри
 published: true
 date: 2020-04-22T20:13:07.598Z
 tags:
 ---
 
-The installation of the extension is very important as the application can not do anything by itself.
+Изтеглянето на разширението е много важно, като приложението не може да прави нищо само по себе си.
 
 # Инсталирай
-### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Chromium**.
-3. Click on **Add to Chrome**.
+### Chrome, Edge, и други.
+1. Отиди на страницата ни с изтегляния като [цъкнеш тук](https://premid.app/downloads).
+2. Избери **Chromium**.
+3. Цъкни върху **Add to Chrome**.
 
 ### Opera
-1. Add **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
-2. Add [our extension](https://premid.app/downloads).
+1. Добави **[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**.
+2. Добави [our extension](https://premid.app/downloads).
 
-> Do not forget to [add the **application**](/install). 
+> Не забравяй [добавиш **приложението**](/install). 
 > 
 > {.is-warning}
 

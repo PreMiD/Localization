@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Tá sonraí bunúsacha ann faoin Presence
 published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
@@ -10,9 +10,9 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Más mian leat láithreacht a fhoilsiú sa siopa agus é a luchtú tríd an síneadh, ba cheart duit an `metadata.json` comhad a chruthú i d’ `dist` fhillteán.
 
-An example of that file can be found below.
+Is féidir sampla den chomhad sin a fháil thíos.
 
 ```typescript
 {
@@ -67,150 +67,147 @@ An example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## Na metadata.json a thuiscint
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Breathnaíonn an sampla sin an-aisteach, huh? Ná bíodh imní ort, níl sé chomh deacair sin gach athróg a thuiscint.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Athróg</th>
       <th style="text-align:left">Cur síos</th>
       <th style="text-align:left">Cineál</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Roghnach</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>údar</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left">Ba cheart go mbeadh an Cuspóir leis an <code>name</code> agus <code>id</code> an forbróir presence. <code>name</code> is é d’ainm úsáideora Discord gan an t-aitheantóir (#0000). Is <code>id</code> féidir an t- úsáideoir a chóipeáil ó Discord trí mhodh forbróra a chumasú agus cliceáil ar dheis ar do phróifíl.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>rannpháirtithe</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left">Ba chóir go mbeadh Réad leis an ranníocóir <code>name</code> agus <code>id</code> leis an ranníocóir. <code>name</code> is é d’ainm úsáideora Discord gan an t-aitheantóir (#0000). Is <code>id</code> féidir an t- úsáideoir a chóipeáil ó Discord trí mhodh forbróra a chumasú agus cliceáil ar dheis ar do phróifíl.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.</td>
+      <td style="text-align:left">Teideal na seirbhíse a dtacaíonn an láithreacht seo léi.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">A bheith in ann an láithreacht a chuardach ag úsáid ainm malartach.<br>
+      An chiall atá le húsáid le haghaidh láithreacha a bhfuil ainmneacha difriúla orthu i dteangacha éagsúla (m.sh. Pokémon agus 포켓 몬스터).<br>
+      Is féidir leat é a úsáid freisin le haghaidh láithreacha a bhfuil carachtair speisialta acu ionas nach gá duit iad sin a chlóscríobh (e.g. Pokémon agus Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>cur síos</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
+      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left">Tuairisc ar an tseirbhís <b>NÍL</b> an presence. Caithfidh príomhluachanna beirte a bheith ag do thuairisc a léiríonn an teanga, agus an tuairisc sa teanga shonrach sin. Déan tuairiscí leis na teangacha <i>atá ar eolas agat</i>, déanfaidh ár n-aistritheoirí athruithe ar do chomhad metadata. Féach ar an gcatagóir do theangacha presence le haghaidh liosta. </td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br>
-      <b>Example:</b><code>vk.com</code><br>
-      <b>This url must match the url of the website as it will be used to detect wherever or not this is the website to inject the script to. This may only be used as an array when there are more than one urls.</b></td>
+      <td style="text-align:left">URL na seirbhíse.<br>
+      <b>Sampla: </b><code>vk.com</code><br>
+      <b>Caithfidh an url seo url an láithreáin ghréasáin a mheaitseáil mar go n-úsáidfear é chun a bhrath cibé áit nó nach é seo an suíomh Gréasáin chun an script a instealladh dó. Ní féidir é seo a úsáid ach mar eagar nuair a bhíonn níos mó ná urls amháin ann.</b></td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
-      <td style="text-align:left">A regular expression string used to match urls.</td>
+      <td style="text-align:left">Teaghrán slonn rialta a úsáidtear chun urls a mheaitseáil.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>leagan</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left">Leagan de do presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Nasc le logotype na seirbhíse.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Nasc le do thumbnail presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> luach. Molaimid dath príomhúil na seirbhíse a thacaíonn do láithreacht leis a úsáid.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>clibeanna</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Eagraigh le clibeanna, cuideoidh siad le húsáideoirí do láithreacht a chuardach ar an suíomh Gréasáin.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">Teaghrán a úsáidtear chun an chatagóir ina bhfuil an láithreacht a léiriú.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Sainmhínítear an <code>iFrames</code> úsáidtear iad	</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">Roghnóir slonn rialta a roghnaíonn iframanna le instealladh isteach.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Sainmhínítear ar cheart logaí léitheoireachta a bheith sa síneadh.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socruithe</b></td>
-      <td style="text-align:left">An array of settings the user can change</td>
+      <td style="text-align:left"><b>settings</b></td>
+      <td style="text-align:left">Sraith socruithe is féidir leis an úsáideoir a athrú</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
   </tbody>
 </table>
 
-## Regular Expressions
+## Sloinn Rialta
 
-If you want to learn regular expressions, here are a few websites.
+Más mian leat nathanna rialta a fhoghlaim, seo cúpla suíomh Gréasáin.
 
-#### Learning
+#### Foghlaim
 
-• [Quick Starter Video](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Regular Expressions Info](https://www.regular-expressions.info/tutorial.html)
+• [Físeán Tapa Tosaigh](https://youtu.be/sXQxhojSdZM) • [RegexOne](https://regexone.com/) • [Faisnéis Léirithe Rialta](https://www.regular-expressions.info/tutorial.html)
 
-#### Testing
+#### Tástáil
 
 • [Regexr](https://regexr.com/) • [Regex101](https://regex101.com/)
 
-## Presence languages
+## Teangacha Presence
 
-PreMiD is a polygot service, meaning there are a multitude of languages involved to connect users around the globe. A full list of languages can be found with this [API endpoint](https://api.premid.app/v2/langFile/list). To customize your presence even more you can allow users to select their presence display language see [`multiLanguage`](#multilanguage) for more.
+Is seirbhís polagánach é PreMiD, rud a chiallaíonn go bhfuil an iliomad teangacha i gceist chun úsáideoirí a nascadh ar fud na cruinne. Is féidir liosta iomlán na dteangacha a fháil leis an [gcríochphointe API](https://api.premid.app/v2/langFile/list) seo. Chun do láithreacht a shaincheapadh níos mó fós is féidir leat ligean d’úsáideoirí a dteanga taispeána láithreachta a roghnú féach [`multiLanguage`](#multilanguage) níos mó.
 
-## Presence settings
-Setup interactive settings so users can customize the presence!
+## Socruithe láithreachta
+Socruithe idirghníomhacha a shocrú ionas gur féidir le húsáideoirí an láithreacht a shaincheapadh!
 ```typescript
 "settings": [
   {
@@ -245,95 +242,95 @@ Setup interactive settings so users can customize the presence!
 
 ### `multiLanguage`
 
-#### Introduction
+#### Réamhrá
 
-The `multiLanguage` setting is used to allow users to manually select the language they want to presence to be shown in. This requires you to use strings from our [API](https://api.premid.app/v2/langFile/presence/en), for information on how to add strings click [here](/dev/presence/metadata/adding-new-strings).
+Úsáidtear an `multiLanguage` suíomh chun ligean d’úsáideoirí an teanga ar mian leo a bheith i láthair a roghnú de láimh. Éilíonn sé seo ort teaghráin ónár [API](https://api.premid.app/v2/langFile/presence/en) a úsáid, chun faisnéis a fháil faoi conas teaghráin a chur leis cliceáil [anseo](/dev/presence/metadata/adding-new-strings).
 
-#### Setup
+#### Socrú
 
-The `multiLanguage` setting is a special case, it doesn't require a `title` nor `icon` nor `value` or `values` like other settings but it does require you some more things to setup!
+Tá an `multiLanguage` leagan is cás ar leith, ní chuireann sé a cheangal ar `title` ná `icon` ní `value` no `values` mar suímh eile ach a dhéanann sé de dhíth ort roinnt rudaí níos mó a thus!
 
-The `multiLanguage` key can be set to the following:
+Is `multiLanguage` féidir an eochair a shocrú dóibh seo a leanas:
 
-`true`: use this if you are only going to use strings of the `general.json` file and the `<service>.json` file of the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: name of the file excluding the extension (.json) inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) (excluding the `general` file, since it's always loaded). Only common languages of both the `general` and inputted file will be listed. `Array<String>`: if you are using more than one file inside the [Localization Repository](https://github.com/PreMiD/Localization/tree/master/src/Presence) you can specify all the values in an array (excluding the `general` file, since it's always loaded). Only common languages of all the files will be listed.
+`true`: bain úsáid as seo mura bhfuil tú ag úsáid ach teaghráin den `general.json` chomhad agus `<service>.json` de chomhad an [Stór Logánaithe](https://github.com/PreMiD/Localization/tree/master/src/Presence). `string`: ainm an chomhaid gan an síneadh (.json) a áireamh taobh istigh den [Stór Logánú](https://github.com/PreMiD/Localization/tree/master/src/Presence) (gan an `general` comhad a áireamh, ós rud é go bhfuil sé luchtaithe i gcónaí). Ní dhéanfar ach teangacha comónta an `general` chomhaid ionchuir agus an chomhaid ionchuir a liostáil. `Array<String>`: má tá níos mó ná comhad amháin á úsáid agat taobh istigh den [Stór Logánaithe](https://github.com/PreMiD/Localization/tree/master/src/Presence) is féidir leat na luachanna go léir in eagar a shonrú (gan an `general` comhad a áireamh, ós rud é go bhfuil sé luchtaithe i gcónaí). Ní dhéanfar ach teangacha coitianta de na comhaid go léir a liostáil.
 
-#### Adding new strings
+#### Teaghráin nua a chur leis
 
-##### Cloning the project
+##### Ag clónáil an tionscadail
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Localization`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+1. Oscail críochfort agus cineál `git clone https://github.com/PreMiD/Localization`.
+2. Roghnaigh fillteán de do rogha féin.
+3. Oscail é i d’eagarthóir cód.
 
-##### Creating the file
+##### Ag cruthú an chomhaid
 
-1. Go into the `src` folder.
-2. Go into the `Presence` folder.
-3. Make a file named `<service>.json`. (Service is the **name** (not an URL) in lowercase of the service you want to support.)
+1. Téigh isteach san `src` fhillteán.
+2. Téigh isteach san `Presence` fhillteán.
+3. Déan comhad ainmnithe `<service>.json`. (Is í an tseirbhís an** t-ainm** (ní URL) i litreacha beaga na seirbhíse ar mhaith leat tacú léi.)
 
-##### Adding the strings
+##### Ag cur na dtéad
 
-Each `string` is an `Object` where from the name starts with the service name and then the so called stringName with a dot in between them.
+Tosaíonn gach ceann `string` acu `Object` ón ainm leis an ainm seirbhíse agus ansin an t-ainm teaghrán mar a thugtar air le ponc eatarthu.
 
-The stringName is a 1 word identifier of the message.
+Is aitheantóir 1 fhocal den teachtaireacht an stringName.
 
-The `Object` has 2 properties; `message` and `description`. `message` is the text that needs to be translated. `description` is a description of the message to help our translators understand what they are translating.
+An `Objec`t Tá 2 mhaoin; `message` agus `description`. `message` an téacs nach mór a aistriú. `description` is tuairisc é ar an teachtaireacht chun cabhrú lenár n-aistritheoirí an méid atá á aistriú acu a thuiscint.
 
-**Note:** Do not add any duplicate strings. (This includes strings out of the `general.json` file but not the other files.)
+**Nóta:** Ná cuir aon teaghráin dhúblacha leis. (Cuimsíonn sé seo teaghráin as an `general.json` gcomhad ach ní na comhaid eile.)
 
-Visualization of the the file:
+Amharcléiriú an chomhaid:
 
 ```typescript
 {
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Téacs nach mór a aistriú.",
+    "description": "Míníonn sé seo cad é an teachtaireacht thuas."
   },
   "<service>.<stringName>": {
-    "message": "Text that needs to be translated.",
-    "description": "This explains what the message above is."
+    "message": "Téacs nach mór a aistriú.",
+    "description": "Míníonn sé seo cad é an teachtaireacht thuas."
   }
 }
 ```
 
-After you have fully made the file with strings you can create a Pull Request on the [Localization Repository](https://github.com/PreMiD/Localization), in the description you **must** include a link to your Pull Request of the presence updated using these new strings from the [Presence Repository](https://github.com/PreMiD/Presences).
+Tar éis duit an comhad a dhéanamh go hiomlán le teaghráin is féidir leat Iarratas Tarraingthe a chruthú ar an [Stór Logánú](https://github.com/PreMiD/Localization), sa chur síos ní **mór** duit nasc le d’Iarratas Tarraingthe ar an láithreacht a nuashonrú arna nuashonrú ag baint úsáide as na teaghráin nua seo ón [Stór Láithreachta](https://github.com/PreMiD/Presences).
 
-#### Default keys
-The keys you didn't have to set are automatically set to the following: `title`: "Language" **Note:** This is translated into their default language (browser language). `icon`: "fas fa-language" ([Preview](https://fontawesome.com/icons/language)) `value`: **Set to their browser language if it is available (100% translated), otherwise English.** `values`: **Set to the available languages (languages that have it 100% translated).**
+#### Eochracha réamhshocraithe
+Socraítear na heochracha nár ghá duit a shocrú go huathoibríoch mar a leanas: `title`: "Teanga" **Nóta:** Aistrítear é seo go dtí a dteanga réamhshocraithe (teanga an bhrabhsálaí). `icon`: "fas fa-language" ([Réamhamharc](https://fontawesome.com/icons/language)) `value`: **Socraigh ar theanga a mbrabhsálaí má tá sé ar fáil (100% aistrithe), ar shlí eile Béarla.** `values`: **Socraigh ar na teangacha atá ar fáil (teangacha a bhfuil 100% aistrithe acu).**
 
-**Note:** These are in no way changeable.
+**Nóta:** Ní féidir iad seo a athrú ar bhealach ar bith.
 
-### Methods
+### Modhanna
 
-Use the following methods to get settings info in your presence files:
+Úsáid na modhanna seo a leanas chun faisnéis faoi shuíomhanna a fháil i do chomhaid láithreachta:
 #### `getSetting(String)`
-Returns value of setting.
+Tuairisceáin luach an tsuímh.
 ```typescript
-const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
-console.log(setting); // This will log the value of the setting
+const const = await presence.getSetting("pdexID"); // Cuir id an tsuímh in ionad pdexID
+console.log(setting); // Déanfaidh sé seo luach an tsuímh a logáil
 ```
 
 #### `hideSetting(String)`
-Hides given setting.
+Seithí tugtha suíomh.
 ```typescript
 presence.hideSetting("pdexID"); //Cuir id an tsuímh in ionad pdexID
 ```
 
 #### `showSetting(String)`
-Shows given setting (Only works if the setting was already hidden).
+Seónna a thugtar an socrú (Ní oibríonn sé ach má bhí an suíomh i bhfolach cheana féin).
 ```typescript
 presence.showSetting("pdexID"); //Cuir id an tsuímh in ionad pdexID
 ```
 
-## Presence categories
+## Catagóirí Presence
 
-When making your presence, you must specify a category which the presence falls under. This is a compiled list of the categories that you can use.
+Agus tú i láthair, caithfidh tú catagóir a shonrú a mbaineann an láithreacht léi. Is liosta tiomsaithe é seo de na catagóirí is féidir leat a úsáid.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Category</th>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Catagóir</th>
+      <th style="text-align:left">Ainm</th>
       <th style="text-align:left">Cur síos</th>
     </tr>
   </thead>
@@ -341,32 +338,32 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Rud ar bith a bhaineann le hanam, ó fhóraim go hardáin sruthú físeáin.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>cluichí</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Cluichí</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Aon suíomh Gréasáin a bhfuil ábhar a bhaineann le cluichí aige, mar shampla <code>Kahoot</code> nó <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ceol</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Ceol</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Is suíomhanna Gréasáin iad seo a thairgeann ábhar a bhaineann le ceol, bídís á sruthú nó á íoslódáil.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>sóisialta</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sóisialta</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Suíomhanna Gréasáin a úsáidtear chun ábhar a chruthú agus a roinnt nó chun páirt a ghlacadh i gcineálacha eile líonraithe sóisialta.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Físeáin agus Sruthanna</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Suíomhanna Gréasáin a fhreastalaíonn ar chuspóirí físeáin agus sruthanna a sholáthar.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>eile</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Eile</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Rud ar bith nach dtagann faoi chatagóir ar leith a liostaítear thuas.</td>
     </tr>
   </tbody>
 </table>

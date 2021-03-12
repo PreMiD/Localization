@@ -1,6 +1,6 @@
 ---
 title: 疑难解答
-description: Everything to solve your problem
+description: 解决您问题的一切内容
 published: true
 date: 2021-02-08T21:30:58.603Z
 tags:
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:03:54.865Z
 ---
 
-> Make sure you have the extension **and** the application installed! 
+> 请确保您已安装扩展 **和** 应用程序！ 
 > 
 > {.is-warning}
 

@@ -12,18 +12,18 @@ dateCreated: 2020-06-11T18:04:02.843Z
 > 
 > {.is-info}
 
-Version `2.x` introduces the [presence store](https://premid.app/store). Users now have the ability to manually add and remove their favourite presences through the user interface of the [website](https://premid.app/).
+バージョン`2.x`で[プレゼンスストア](https://premid.app/store)が追加されました。 [サイトから](https://premid.app/)好きなプレゼンスを入れたり、お気に入りのプレゼンスを追加できます。
 
-> Before getting started, it is highly recommended that you look at our presence guidelines. 
+> 始める前に、プレゼンスガイドラインを見ることをおすすめします。 
 > 
 > {.is-warning}
 
-- [ガイドライン](https://docs.premid.app/dev/presence/guidelines)
+- [プレゼンスガイドライン](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# 構造
 
-All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
+すべてのプレゼンスは[TypeScript](https://www.typescriptlang.org/)で書かれています。 [TypeScript](https://www.typescriptlang.org/) はJavascriptよりちょっといい感じの定義を使用しているので、バグを見つけたり修正したりするのが簡単です。
 
 ## インストール
 
@@ -35,7 +35,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 
 1. ターミナルを開き `git clone https://github.com/PreMiD/Presences` と入力する
 2. 任意のフォルダーを選択する
-3. Open it in your code editor.
+3. ソースコードエディタで開く
 
 ## フォルダーとファイルを作成する
 
@@ -125,7 +125,7 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 }
 ```
 
-Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
+Please copy the code above and put it in your `metadata.json` file. 次に、プロパティの値を編集しましょう。 Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
 - `contributors`
 - `altnames`
@@ -149,43 +149,43 @@ Please copy the code above and put it in your `metadata.json` file. You now need
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). <code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 <code>name</code>はあなたのDiscordタグから識別子(#0000)を取ったもので、 ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>不可</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). <code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
+      <td style="text-align:left">プレゼンスの開発者の<code>名前</code>と、<code>ユーザーid</code>をObjectに含む必要があります。 <code>name</code>はあなたのDiscordタグから識別子(#0000)を取ったもので、 ユーザー<code>id</code>はDiscord上で開発者モードをオンにし、プロフィールを右クリックするとコピーできるものです。</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>可</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">プレゼンスでDiscordに表示するサイトの名前が入ります。<br>
+      (一番上のフォルダーと同じ名前にする必要があります。)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>不可</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">追加することで、プレゼンスを複数の名前で検索することができるようになります。<br>
+      複数の言語で複数の名前がある場合（例:"Pokémon"と"포켓몬스터"）や、<br>
+      特殊な記号がある場合（例:"Pokémon"と"Pokemon"）に使用できます。</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>可</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけで説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後で編集します。</td>
+      <td style="text-align:left">プレゼンスの短い説明です。 何も思いつかない場合は、サービスの説明文から引用することもできます。 説明文がどの言語かを示すコードと、その言語で書かれた説明文が必要です。 <i>あなたが書ける言語</i>だけで説明文を書いてください。 PreMiDの翻訳者があなたのmetadataファイルを後で編集します。</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>不可</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <td style="text-align:left">サイトのURLです。<br>例:<code>vk.com</code><br>
+      URLを確認してサイトを判断するために使用します。<br><code>https://</code> や <code>http://</code> などのプロトコルや、URL内にあるスラッシュなどは入れないでください。
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
+      ノート:一部のURLは<code>www.</code>をURLに含んでいる場合があります。(例:<code>www.google.com</code>) Do <b>NOT</b> forget to add it!<br>
       You can add multiple URLs by doing the following:<br>
       <code>["URL1", "URL2", "ETC."]</code><br>
       You could also use regExp also known as Regex for this task, explained further below.</td>
@@ -340,7 +340,7 @@ A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/W
 2. Search (<kbd>CTRL</kbd>+<kbd>F</kbd> (Windows) or <kbd>CMD</kbd>+<kbd>F</kbd> (MacOS)).
 3. Execute `document.querySelectorAll("iframe")`.
 
-If you find that your data is in a iFrame you need to do the following:
+もしデータがiframe内にある場合は、次のことを行ってください。
 
 1. Create a `iframe.ts` file.
 2. Set iFrame to `true` in your metadata file.

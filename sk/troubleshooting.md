@@ -59,7 +59,7 @@ Dúfam že viete ako reštartovať počítač.
 Niekedy nie je niečo v poriadku so súbormi... Návody pre inštaláciu nájdete [tu](/install).
 
 ### Manuálne odstránenie
-Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS: `~/users/USER/~Library/Application Support/` and delete the `PreMiD` folder.
+Windows: Write `%appdata%` on the file explorer and delete the `PreMiD` folder. MacOS:</code>~/users/USER/~Library/Application Support/` a vymažte priečinok `PreMiD``.
 
 ### McAfee detected PreMiD as virus (Windows)
 This is a false positive from McAfee and we have reported the issue to them, for now you can exclude PreMiD from the scan by doing the following steps:

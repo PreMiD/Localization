@@ -1,23 +1,23 @@
 ---
 title: Windows
-description: Getting started with a PreMiD installation on Windows
+description: Prvi koraci s PreMiD instalacijom na Windows-u
 published: true
 date: 2020-02-12T22:08:41.501Z
 tags:
 ---
 
-> Before going any further, make sure your system meets all the [requirements](/install/requirements).{.is-info}
+> Prije nego što nastaviš, provjeri zadovoljava li vaš sustav sve [ zahtjeve](/install/requirements).{.is-info}
 
-The installation of the application is very important as the extension can not do anything by itself.
+Instalacija programa je jako važno jer proširenje ne može ništa učiniti samo.
 
-# Install
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
-2. Choose **Windows**.
-3. Open the installer.
-4. **Windows SmartScreen** will appear, if you install PreMiD for the first time. Click on **More Info** and then select **Run Anyway**. > This is because we do not have a Code Signing Certificate (CSC). [Support us](https://www.patreon.com/Timeraa) to fund it.{.is-info}
+# Instaliraj
+1. Idite na našu stranicu za preuzimanje [klikom ovdje](https://premid.app/downloads).
+2. Izaberite **Windows**.
+3. Otvori instaler.
+4. Pojavit će se **Windows SmartScreen upozorenje**, ako prvi put instaliraš PreMiD. Klikni na <br>**Više Informacija** i izaberi **Svejedno Pokreni**. > To je zato što nemamo Code Signing Certificate (CSC). [Podržite nas](https://www.patreon.com/Timeraa) da to financiramo.{.is-info}
 
-The application will start automatically. Check for the symbol in your system tray.
+Aplikacija će se pokrenuti automatski. Provjeri simbol na system tray-u.
 
-> Do not forget to [add the **extension**](/install).{.is-warning}
+> Ne zaboravite [ dodati ** proširenje**](/install).{.is-warning}
 
 ![](https://a.icons8.com/djxbtnYm/GBjHDS/svg.svg) {.align-abstopright}

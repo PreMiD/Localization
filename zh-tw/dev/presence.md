@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:02.843Z
 ---
 
-> All presences are now stored here: https://github.com/PreMiD/Presences 
+> 所有Discord自定義狀態商店都在這裡: https://github.com/PreMiD/Presences 
 > 
 > {.is-info}
 
@@ -21,7 +21,7 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 - [指南](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
-# Structure
+# 結構
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
@@ -37,7 +37,7 @@ All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeSc
 2. 選擇你選取的資料夾
 3. 在你的編碼器開啟。
 
-## Creating folders and files
+## 創建資料夾和文件
 
 1. Go in the `websites` folder and then go into the folder with the first letter of the **name** (not an URL) of the service you want to support.
 2. Create a folder with the **name** (not an URL) of the service you want to support.
@@ -379,20 +379,20 @@ presence.on("iFrameData", (data) => {
 
 Open a console in your folder and type `tsc -w` to compile the `presence.ts` into the `/dist` folder.
 
-# Loading the presence
+# 載入自定義狀態
 
 1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
 3. Click on it while you are still holding the <kbd>Shift</kbd> button.
 4. Select the /dist folder of your presence.
 
-# Some helpful things
+# 一些對你有幫助的東西
 
 ## Hot-reloading
 
 The website you are developing on is automatically reloading every time you save a file in your folder.
 
-## Debugging
+## 除錯
 
 - You can put `console.log("Test");` between your code and see if your browser console gives you that output. If yes then go on and try again after the next function. If not then there is an error above.
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.

@@ -10,11 +10,11 @@ dateCreated: 2021-02-21T21:13:14.449Z
 
 # Precence-luokka
 
-## Introduction
+## Johdanto
 
 The `Presence` class is very useful as it has basic methods that we need for creating a presence.
 
-When you create a class you must specify `clientId` property.
+Kun luot luokan, sinun täytyy määrittää `clientId` ominaisuus.
 
 ```typescript
 const presence = new Presence({
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Methods
+## Menetelmät
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Tämä menetelmä toimii vain Mac OS:ssä. 
 > 
 > {.is-warning}
 
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Palauttaa asetuksen arvon.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -173,7 +173,7 @@ console.log(setting); // This will log the value of the setting
 
 ### `hideSetting(String)`
 
-Hides given setting.
+Piilottaa annetun asetuksen.
 
 ```typescript
 presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -181,7 +181,7 @@ presence.hideSetting("pdexID"); // Replace pdexID with the id of the setting
 
 ### `showSetting(String)`
 
-Shows given setting (Only works if the setting was already hidden).
+Näyttää annetun asetuksen (Toimii vain, jos asetus oli jo piilotettu).
 
 ```typescript
 presence.showSetting("pdexID"); // Replace pdexID with the id of the setting
@@ -270,14 +270,14 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Muuttuja</th>
       <th style="text-align:left">Kuvaus</th>
       <th style="text-align:left">Tyyppi</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">tiedot</td>
+      <td style="text-align:left">details</td>
       <td style="text-align:left">The first line in your presence, usually used as header.</td>
       <td style="text-align:left"><code>String</code>
       </td>

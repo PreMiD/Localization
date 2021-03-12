@@ -10,11 +10,11 @@ dateCreated: 2021-02-21T21:13:14.449Z
 
 # Presence 类
 
-## Introduction
+## 一. 导言
 
-The `Presence` class is very useful as it has basic methods that we need for creating a presence.
+`Presence` 类非常有用，因为它具有我们创建一个存在所需要的基本方法。
 
-When you create a class you must specify `clientId` property.
+当你创建一个类时，你必须指定 `clientId` 属性。
 
 ```typescript
 const presence = new Presence({
@@ -38,7 +38,7 @@ When setting `injectOnComplete` to `true` the first `UpdateData` event for both 
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Methods
+## 方法
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> 此方法仅适用于Mac OS。 
 > 
 > {.is-warning}
 
@@ -270,60 +270,60 @@ This interface has following variables, all of them are optional.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">变量</th>
       <th style="text-align:left">描述</th>
-      <th style="text-align:left">Type</th>
+      <th style="text-align:left">类型</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">您在场的第一条线通常用作头部。</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">你们在场的第二线。</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">定义当前时间。<br>
+        如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
+          倒计时。
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">定义整个持续时间。
+        <br>如果您想要显示剩余多少 <code>小时:分钟:秒</code> 则使用。
+          <br>您必须将时间转换为 <code>时间戳</code> 否则您将会遇到错误
+          倒计时。
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">定义与会标识。</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">定义存在&apos;s 标志旁边的小图标。</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">定义当用户悬停小的
+        图标时将显示的文本。</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>

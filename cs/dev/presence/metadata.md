@@ -1,6 +1,6 @@
 ---
 title: Metadata.json
-description: Contains basic data about the Presence
+description: Obsahuje základní údaje o Presence
 published: true
 date: 2021-02-07T17:12:06.799Z
 tags:
@@ -10,7 +10,7 @@ dateCreated: 2020-06-11T18:04:52.965Z
 
 # Metadata.json
 
-If you want to publish a presence to the store and load it via the extension, you should create the `metadata.json` file in your `dist` folder.
+Pokud chcete publikovat presence do obchodu a načíst ji pomocí našeho rozšíření, měli byste vytvořit soubor `metadata.json` ve vaší `dist` složce.
 
 An example of that file can be found below.
 
@@ -67,9 +67,9 @@ An example of that file can be found below.
 }
 ```
 
-## Understanding the metadata.json
+## Pochopení metadata.json
 
-That example looks really strange, huh? Don't worry, its not that hard to understand what each variable is for.
+Tento příklad se zdá opravdu zvláštní, že? Nebojte se, není tak těžké pochopit, k čemu je každá proměnná.
 
 <table>
   <thead>
@@ -77,7 +77,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <th style="text-align:left">Proměnná</th>
       <th style="text-align:left">Popis</th>
       <th style="text-align:left">Typ</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Nepovinné</th>
     </tr>
   </thead>
   <tbody>
@@ -111,7 +111,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>description</b></td>
-      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat. View the category for presence languages for a list. </td>
+      <td style="text-align:left">Description of the service <b>NOT</b> the presence. Tvůj popis musí obsahovat hodnoty klíčů označující jazyk a popis v tomto konkrétním jazyce. Vytvářejte popisy s jazyky <i>, které znáte</i>, naši překladatelé budou provádět změny ve vašem souboru metadat. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
@@ -149,32 +149,32 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> hodnota. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> hodnota. Doporučujeme použít primární barvu služby
+        , kterou vaše přítomnost podporuje.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>tags</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left">Pole se značkami, které pomohou uživatelům vyhledat vaši přítomnost na webu.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under.</td>
+      <td style="text-align:left">Řetězec používaný k reprezentaci kategorie, pod kterou přítomnost spadá.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ne</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used</td>
+      <td style="text-align:left">Určuje, zda jsou použity <code>iFrames</code></td>
       <td style="text-align:left"><code>Boolean</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into.</td>
+      <td style="text-align:left">Regulární selektor, který vybere iframy, do kterých se má vložit.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Ano</code></td>
     </tr>
@@ -193,9 +193,9 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </tbody>
 </table>
 
-## Regular Expressions
+## Řádné výrazy
 
-If you want to learn regular expressions, here are a few websites.
+Pokud se chcete naučit regulární výrazy, zde je několik webových stránek.
 
 #### Učení
 
@@ -341,32 +341,32 @@ When making your presence, you must specify a category which the presence falls 
     <tr>
       <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>Anime</b></td>
-      <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
+      <td style="text-align:left">Cokoli se týká anime, od fór až po platformy pro video streamování.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Hry</b></td>
-      <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
+      <td style="text-align:left">Jakékoli webové stránky, které mají obsah související s hrou, jako je <code>Kahoot</code> nebo <code>Skribbl.io</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Hudba</b></td>
-      <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
+      <td style="text-align:left">Toto jsou webové stránky, které nabízejí hudební obsah, ať už se jedná o streamování nebo stahování.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Sociální sítě</b></td>
-      <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
+      <td style="text-align:left">Internetové stránky, které se používají pro vytváření a sdílení obsahu nebo pro účast v jiných formách sociálních sítí.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>videos</b></td>
         <td style="text-align:left"><b>Videa & Streamy</b></td>
-      <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
+      <td style="text-align:left">Internetové stránky, které slouží k poskytování videí a streamů.</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Ostatní</b></td>
-      <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
+      <td style="text-align:left">Cokoliv, co nespadá do konkrétní kategorie uvedené výše.</td>
     </tr>
   </tbody>
 </table>

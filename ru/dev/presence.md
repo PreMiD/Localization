@@ -165,7 +165,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Название службы, поддерживаемой этим присутствием.<br>
       (Должно быть таким же именем, как папка, в которой находится все)</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
@@ -204,32 +204,32 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <code>([a-z0-9]+)</code> означает что угодно от a до z и от 0 до 9.<br>
       Вы можете быстро начать, посмотрев это <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       Вы можете проверить свой regExp на <a href="https://regex101.com/">Regex101</a>.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Версия вашего присутствия.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
       <td style="text-align:left">Ссылка на сервис&apos;с логотипом.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
       <td style="text-align:left">Ссылка на миниатюру вашего присутствия.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> значение. Рекомендуем использовать основной цвет услуги.
         что ваше присутствие поддерживает.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
@@ -241,7 +241,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Строка, используемая для представления категории присутствия. Смотрите действительные катергории <a href="https://docs. premid. app/dev/presence/metadata#presence-categories">здесь</a>.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Нет</code></td>
     </tr>
     <tr>
@@ -253,13 +253,13 @@ dateCreated: 2020-06-11T18:04:02.843Z
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Регулярный селектор выражений, который выбирает iframes для инъекции. Подробнее см. в regExp.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Определяет, должно ли расширение читать журналы.</td>
-      <td style="text-align:left"><code>String</code></td>
+      <td style="text-align:left"><code>Строка</code></td>
       <td style="text-align:left"><code>Да</code></td>
     </tr>
     <tr>

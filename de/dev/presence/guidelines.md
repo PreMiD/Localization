@@ -36,7 +36,7 @@ Die allgemeinen Regeln der Presenceentwicklung lauten wie folgt:
 - Durch den Release der `Buttons`, kommen auch Richtlinien für diese:
   - Weiterleitungen zur Hauptseite sind verboten.
   - Werben von Webseiten durch diese ist verboten.
-  - They can't show addinational data when you can't show them in `state` or `details`.
+  - Sie können keine zusätzlichen Daten anzeigen, wenn Sie sie nicht im `-Status` oder `Details` anzeigen können.
 - Den Ordner `dist`, die Datei `presence.ts`, die Datei `iframe.ts` und die Datei `metadata.json` müssen enthalten sein, indem es dem folgenden Schema gleicht:
 
 ```bash
@@ -157,7 +157,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 - Benutze dies **ausschließlich** in Szenarien, in denen eine Website mehrere offizielle Namen hat (beispielsweise Pokémon und 포켓몬스터) oder vereinfache die Suche der Presence durch Weglassen von Sonderzeichen (zum Beispiel Pokémon und Pokemon). *Verkürzte* Versionen von Services gehen unter `Tags`.
 
-### **`beschreibung`**
+### **`description`**
 
 - **Alle** Präsenzen müssen, **ohne Rücksicht** auf die bevorzugt Sprache der Webseite, eine englische Beschreibung haben^.
 - Versuche **nicht** die Seite selbst zu übersetzen, es sei denn du kennst diese Sprache. Übersetzer werden deine `metadata.json` modifizieren und falls nötig Änderungen an der Beschreibungen vornehmen.
@@ -216,7 +216,7 @@ Eine Liste von Feldern und deren Regeln sind unten aufgelistet:
 
 - Wenn du dich dafür entscheidest, ein String-Format (zum Beispiel `%song% von %artist%`), müssen die Variablen von einem Prozentzeichen auf beiden Seiten umgeben sein. Variablen wie `%var`,`var%` oder `%%var%%` und alles dazwischen sind **nicht** erlaubt wegen der Standardisierung.
 - Der Name der Einstellungen muss **nicht** ausschließlich in Großbuchstaben sein. Zum Beispiel Namen wie `SHOW BROWSING STATUS` sind **nicht** erlaubt; jedenfalls sind Namen wie `Show Browsing Status` oder `Show browsing status` erlaubt.
-- If you are using the `multiLanguage` option it can have the following types:
+- Wenn du die Mehrsprachen-Option verwendest, solltest du wissen:
   - **Boolean** type which will only enable strings from [`general.json`](https://github.com/PreMiD/Localization/blob/master/src/Presence/general.json) from the Localization repo or from the presence file (e.g. when the name of the presence is YouTube, the extension will get strings from `youtube.json` too.)
   - **String** type (e.g. `youtube`) which will specify the name of the files that you want to get strings from.
   - **Array<String>** type (e.g. `["youtube", "discord"]`) which will specify the name of the files that you want to get strings from.

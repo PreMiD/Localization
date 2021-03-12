@@ -1,6 +1,6 @@
 ---
 title: Presence قوانين الـ
-description: Rules that all presence developers must follow to have their presence added.
+description: قواعد جميع مطوري الpresence يجب أن يتم اتباعها لإضافة الpresence الخاصة بهم.
 published: صحيح
 date: 2021-03-06T15:01:04.274Z
 tags:
@@ -15,9 +15,9 @@ dateCreated: 2021-02-26T21:54:41.573Z
     <br />
 </div>
 
-# Guidelines
+# الإرشادات
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. للبعض. قد تبدو هذه قواعد صارمة. However, the implementation of these rulesets will keep us and the users from running into any issues.
+عند نشر Presences [مستودع GitHub](https://github.com/PreMiD/Presences)، نطلب منك اتباع مجموعة من المبادئ التوجيهية. للبعض. قد تبدو هذه قواعد صارمة. مع ذلك، فإن تنفيذ هذه القواعد سيمنعنا ويمنع المستخدمين من الوقوع في مشاكل.
 
 # إنشاء
 
@@ -28,16 +28,16 @@ When publishing Presences to the [Presences repository](https://github.com/PreMi
 - يجب أن يكون أساس الملف نظيف ومدار ، ولا تقم بتضمين الملفات التي لم يتم تحديدها. (على سبيل المثال، vscode ومجلدات git، وملفات الصور والنصوص الكتابية، إلخ.)
 - تحتاج إلى بنية ملف صحيحة، المسودات **غير**مسموح بها.
 - الPresences لمواقع ويب مع (`.onion` TLDs) أو المواقع مع مجانية الخوادم/المضيفين (مثلا، `.TK` [جميع نطاقات Freenom المجانية]، `. RF`، `GD`، إلخ) هي **غير مسموح بها،** ويمكن تقديم استثناءات إذا قدم دليل يثبت أنهم دفعوا ثمن هذا الخادم.
-- The domain of the presence must be at least 2 months old.
+- الdomain للpresence يجب ان يكون في حدود الشهرين علي الاقل.
 - الpresences التي تستهدف صفحات المتصفح الداخلية (مثل متجر ويب كروم، `كروم://`، `عن:` صفحات، وما إلى ذلك) هي **غير مسموحة** لأنها تتطلب أن يتم تمكين العلم التجريبي في نهاية المستخدم ويمكن أن تسبب ضرراً للمتصفحات الخاصة بهم.
 - الpresences المدعومة لنطاق فرعي واحد فقط **لن** يسمح بها، حيث أنها قد تبدو مكسورة لصفحات أخرى (مثل الصفحة الرئيسية)، يمكن وضع استثناءات لصفحات السياسات وجهات الاتصال (المحتوى الذي لا يستخدم في كثير من الأحيان) أو المواقع التي لا يرتبط بها المحتوى الآخر. (على سبيل المثال، صفحات ويكا)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
+- Presences بالنسبة إلى أجهزة الراديو عبر الإنترنت ، لا يُسمح بها إلا إذا كان للراديو 100 مستمع أسبوعيًا على الأقل و 15 مستمعًا متفق عليه.
 - الpresences رديئة الجودة (أو الpresences ذات السياق الصغير) **غير** مسموح بها (مثلا، التي تعرض الشعار والنص فقط ولكن دون تغييره مرة أخرى.)
 - With the `buttons` release, we require some guidelines for them:
   - Redirects to main page are prohibited.
   - Promoting websites by them is prohibited.
   - They can't show addinational data when you can't show them in `state` or `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- بما في ذلك مجلد `dist`, و ملفات `presence.ts`, `iframe.ts` و `metadata.json` الزاميين بحيث تكون الننتيجة ما يتم تمثيله في المخطط التالي:
 
 ```bash
 presence
@@ -129,42 +129,42 @@ presence
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (على سبيل المثال، presence بدون دعم iframe لن يحتاج إلى الحقل `iframe`)
+> إذا كان الحقل مدرجاً كخيار في [المستندات](https://docs.premid.app/en/dev/presence/metadata) ويستخدم الpresence القيمة الافتراضية له، لا تضمنها في ملف `البيانات الوصفية`. (على سبيل المثال، presence بدون دعم iframe لن يحتاج إلى الحقل `iframe`)
 
-> يجب استضافة جميع الصور في ملف `بيانات التعريف` في `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly.
+> يجب استضافة جميع الصور في ملف `بيانات التعريف` في `i.imgur.com`. استخدام المحتوى المستضاف على الموقع هو **غير مسموح** لأنه يمكنه تغيير المسارات والملفات بشكل غير طوعي.
 
-A list of fields and their rules are listed below:
+وترد أدناه قائمة بالحقول وقواعدها:
 
 ### **`$schema`**
 
-- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- مفتاح _المخطط_ **يجب** أن يتضمن إشارة الدولار في بدايته، هذا سيشير إلى محرر النص الخاص بك الذي تريد التحقق به من صحة ملف JSON الخاص بك في مقابل نموذج. _كما ذكر سابقا، أنت لست بحاجة إلى إدراج مخطط، ولكن إذا قمت بتضمينه، يجب أن تأخذ هذا في الاعتبار_
 
 ### **`author`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- The ID _value_ **must** be your Discord snowflake ID. يمكنك الحصول عليها عن طريق تمكين وضع المطور [](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _الرجاء عمل**ليس**لتخلط بين هذا وبين معرف التطبيق الخاص بك ، وهو فقط لملفpresence._
 
 ### **`*contributors`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- **لا** تضيف نفسك كمساهم، ولا تضيف شخصاً آخر كمساهم إلا إذا كان قد ساعد في الpresence.
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- اسم الخدمة **يجب ان تكون** اسم دليل الـpresence. على سبيل المثال، إذا كان الـpresence واقع في `/websites/Y/YouTube/`، اسم الخدمة يجب ان تكون `YouTube`.
+- لا يمكنك **** استخدام عنوان url كاسم الخدمة ما لم يستخدم الموقع عنوان url كاسمه الرسمي. إذا كان الاسم غير وصفي و يمكن اعتباره غامضاً، فإن استخدام عنوان url هو **مطلوب**. (على سبيل المثال، `YouTube` مسموح به لأن هذا هو الاسم الرسمي و هو وصفي ، بينما `youtube.com` ليس كذلك. `Top` اسم غير وصفي، لذلك استحدام الرابط `top.gg` يكون **مطلوب**.)
 - If service has some explicit branding rules of their name, you should follow them.
 
 ### **`*altnames`**
 
-- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- **** فقط استخدم هذا في سيناريوهات حيث يقع الموقع تحت أسماء رسمية متعددة (على سبيل المثال، Pokémon و 포켓몬스터) أو لجعل من الأسهل البحث عن presence دون استخدام أحرف خاصة (على سبيل المثال Pokémon و Pokemon). *الإصدارات المختصرة* من أسماء الخدمة تقل عن `علامات`.
 
 ### **`description`**
 
-- **All** presences are **required** to have an English description regardless of the website's prefered language.
-- Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
+- **كل** presences **مطلوبة** للحصول على وصف باللغة الانجليزية بغض النظر عن اللغة المفضلة للموقع.
+- **لا** تحاول وتترجم الوصف بنفسك إلا إذا كنت تعرف لهذه اللغة، فسوف يقوم المترجمون بتعديل البيانات الوصفية الهامة `metadata.json` وتغير الأوصاف عند الحد اللازم.
 
 ### **`url`**
 
-- The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
+- العنوان **يجب** أن يكون سلسلة إذا الموقع يستخدم نطاق واحد فقط. إذا كان الموقع يستخدم عدة مرات، فإجعلها مصفوفة وحدد كل واحدة منها.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
 ### **`version`**
@@ -207,7 +207,7 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`تحذير`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
@@ -223,9 +223,9 @@ A list of fields and their rules are listed below:
 
 ## [**presence.ts**](/dev/presence/class)
 
-> The code you write **must** be _well-written_ and **must** be _readable_ and all strings must be grammatically correct (grammar errors on websites can be ignored).
+> الكود الذي تكتبه **يجب** أن يكون _مكتوباً جيداً_ و **يجب** أن يكون_مقروء_ وكل الجمل تكون صحيحة نحوياً (يمكن تجاهل الأخطاء النحوية على مواقع الويب).
 
-> Each presence follows a strict linting ruleset which will be checked during the review process. A couple of recommendations can be seen below. [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Recommendations](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
+> كل presence يتبع مجموعة من القواعد الصارمةالتي سيجرى التحقق منها خلال عملية الإستعراض. A couple of recommendations can be seen below. [TypeScript Plugin Recommendations for Strict Type Checking](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin/docs/rules). [ESlint Recommendations](https://eslint.org/docs/rules). [Prettier](https://prettier.io/).
 
 Here is a list of rules you must follow when writing your `presence.ts` file:
 
@@ -253,7 +253,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# التحقق
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
@@ -282,7 +282,7 @@ In this scenerio, the following changes will occur:
 - All of your issues and pull requests (presence creation, presence contribution, etc) created following the ban will be prompty closed.
 - Tickets created under your name regarding presence development will be deleted.
 
-## `Reviewing`
+## `التحققات`
 
 A few things you should know after opening a pull request:
 
@@ -292,7 +292,7 @@ A few things you should know after opening a pull request:
 - ⚠️ You **must** provide new, unaltered screenshots (taken by you) showing a side-by-side comparison of your profile and the website to prove that your presence works. _You are allowed to stitch screenshots together for viewing pleasure_ This applies for both creation and modification.
 - ⚠️ You are also **required** to include screenshots of the presence settings in the extension if supplied. An example can be seen [here](https://imgur.com/a/OD3sj5R).
 
-## `التحققات`
+## `قواعد إضافية`
 
 ![التحققات](https://i.imgur.com/oqAakOc.png)
 
@@ -302,13 +302,13 @@ Currently, a presence goes through 3 separate stages of checks. All of these che
 - `DeepScan` is a bot that checks for code quality. If you ever receive errors for new issues, you are **required** to fix them.
 - `Schema Validation` will scan your `metadata.json` file for any errors (for e.g., missing fields, invalid value types, etc.). If you ever see any new issues, you are also **required** to fix those. Adding a schema field to your `metadata.json` file will allow your text editor (if supported) to show you these errors during development.
 
-## `Additional Rules`
+## `قواعد إضافية`
 
 - **Always** make sure to start your presence in the most appropriate folder, if its name starts with _any_ Latin letter then it must be under its alphabetical match (for e.g., `D/dアニメストア` or `G/Google`). Any other Unicode/non-Latin characters **must** be under the `#` folder (for e.g., `#/巴哈姆特`) and numbers under the `0-9` folder (for e.g., `0-9/4anime`).
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Suggestions
+# التحقق
 If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
 
 # Contributions

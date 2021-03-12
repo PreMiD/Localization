@@ -26,6 +26,6 @@ Systemy Linux powinny mieć **co najmniej 20 MB RAM** aby uruchomić PreMiD. Sys
 PreMiD zajmuje około **150MB** pamięci fizycznej. Zalecane jest jednak co najmniej **200 Mb** pamięci dedykowanej do PreMiD.
 
 ### Dostęp do internetu
-A internet connection is required to run PreMiD. PreMiD automatycznie sprawdza dostępność nowych aktualizacji, języków, aktualizacji Presences itp. od czasu do czasu.
+Połączenie z internetem jest wymagane do uruchomienia PreMiD. PreMiD automatycznie sprawdza dostępność nowych aktualizacji, języków, aktualizacji Presences itp. od czasu do czasu.
 
 ![](https://a.icons8.com/ViUXyjOj/f4tFww/svg.svg) {.align-abstopright}

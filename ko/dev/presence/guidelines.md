@@ -1,6 +1,6 @@
 ---
 title: Presence 가이드라인
-description: Rules that all presence developers must follow to have their presence added.
+description: 모든 presence 개발자들이 자신의 presence를 추가하려면 따라야하는 규칙입니다.
 published: true
 date: 2021-03-06T15:01:04.274Z
 tags:
@@ -15,22 +15,22 @@ dateCreated: 2021-02-26T21:54:41.573Z
     <br />
 </div>
 
-# Guidelines
+# 지침
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. However, the implementation of these rulesets will keep us and the users from running into any issues.
+When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. 몇몇들에게는, 이 지침이 이해가 안 되실 수 있습니다. 그러나, 이 규칙을 시행함으로서 우리의 사용자들이 문제에 빠지지 않도록 방지합니다.
 
-# Creation
+# 생성
 
-The general rules of presence development are as follows:
+Presence 개발자들이 지켜야할 기본적인 규칙은 다음과 같습니다.
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
+- Presences가 **무조건**당신이 선택한 웹 사이트와 관련이 있어야만 합니다.
+- Presence는 불법 웹사이트용으로 만들어져서는 **안됩니다.** (예:스트레스 요인, 마약,아동 포르노, 등)
+- 파일구조를 정리하고 관리해야하며, 지정되지 않은 파일은 포함하면 안됩니다. (예: vscode 및 git 폴더, 사진과 텍스트 파일등)
+- 올바른 파일 구조여야합니다. 초안은 허용되지 **않습니다.**
 - Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- The domain of the presence must be at least 2 months old.
+- Presence의 도메인이 생성된지 적어도 2달이 지나야합니다.
 - Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
+- 다른 페이지(홈페이지)때문에 단일 하위 도메인만 지원하는 Presences는 허용되지  **않습니다.**. as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (예 : 위키 페이지)
 - Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
 - Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
 - With the `buttons` release, we require some guidelines for them:
@@ -47,7 +47,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+또는 `iframe.ts` 파일을 사용하는 경우:
 
 ```bash
 presence
@@ -207,7 +207,7 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`경고`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.

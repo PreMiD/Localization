@@ -36,19 +36,19 @@ Dans le fichier de configuration racine, vous verrez quelque chose comme ça.
 }
 ```
 
-| Property                        | Description                                                                                                                                                                                          |
-|:------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**             | Utilisé pour configurer le compilateur, la plupart des propriétés se trouvent ici.                                                                                                                   |
-| module                          | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                             |
-| target                          | Définit la version JavaScript que vous compilez.                                                                                                                                                     |
-| removeComments                  | Suppression des commentaires des fichiers compilés.                                                                                                                                                  |
-| noEmitOnError                   | Ne pas émettre de sorties si des erreurs ont été signalées.                                                                                                                                          |
-| pas de casse dans les cassettes | Signaler les erreurs pour les cas de repli dans l'instruction switch.                                                                                                                                |
-| noUnusedLocals                  | Signaler des erreurs sur les locales inutilisées.                                                                                                                                                    |
-| noUnusedParameters              | Signaler les erreurs sur les paramètres inutilisés.                                                                                                                                                  |
-| inlineSourceMap                 | Ajoute le mappage de source                                                                                                                                                                          |
-| typeRoots                       | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                                             |
-| esModuleInterop                 | Émet les aides __importStar et __importDefault pour la durée d'exécution de la compatibilité avec l'écosystème babel, et active --allowSyntheticDefaultImports la compatibilité du système type. |
+| Property                   | Description                                                                                                                                                                                          |
+|:-------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **compilerOptions**        | Utilisé pour configurer le compilateur, la plupart des propriétés se trouvent ici.                                                                                                                   |
+| module                     | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                             |
+| target                     | Définit la version JavaScript que vous compilez.                                                                                                                                                     |
+| removeComments             | Suppression des commentaires des fichiers compilés.                                                                                                                                                  |
+| noEmitOnError              | Ne pas émettre de sorties si des erreurs ont été signalées.                                                                                                                                          |
+| noFallthroughCasesInSwitch | Signaler les erreurs pour les cas de repli dans l'instruction switch.                                                                                                                                |
+| noUnusedLocals             | Signaler des erreurs sur les locales inutilisées.                                                                                                                                                    |
+| noUnusedParameters         | Signaler les erreurs sur les paramètres inutilisés.                                                                                                                                                  |
+| inlineSourceMap            | Ajoute le mappage de source                                                                                                                                                                          |
+| typeRoots                  | Vous pouvez en savoir plus à propos de [ici](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                                             |
+| esModuleInterop            | Émet les aides __importStar et __importDefault pour la durée d'exécution de la compatibilité avec l'écosystème babel, et active --allowSyntheticDefaultImports la compatibilité du système type. |
 
 ## Configuration de Présence
 

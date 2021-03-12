@@ -18,7 +18,7 @@ dateCreated: 2021-02-21T21:13:14.449Z
 
 ```typescript
 const presence = new Presence({
-  clientId: "514271496134389561" // Example clientId
+  clientId: "514271496134389561" // ตัวอย่าง clientId
 });
 ```
 
@@ -42,7 +42,7 @@ When setting `appMode` to `true` and the presence were to send an empty `Presenc
 
 ### `getActivity()`
 
-Returns a `PresenceData` object of what the presence is displaying.
+คืนค่า object `PresenceData` ของ presence ที่กำลังแสดงอยู่.
 
 ### `setActivity(PresenceData | Slideshow, Boolean)`
 
@@ -103,7 +103,7 @@ const pauseString = strings.pause; // result: Paused
 
 Since v2.2.0 of the extension you can now get the strings of a certain language. This works well with the also newly added `multiLanguage` setting option.
 
-We suggest you use the following code so it automatically updates the PresenceData if the user changes the selected language;
+เราขอแนะนำให้คุณใช้โค้คต่อไปนี้, เพื่อที่จะทำให้ PresenceData อัปเดดโดดอัตโนมัติเมื่อผู้ใช้เปลี่ยนภาษา;
 
 ```typescript
 // An interface of the strings you are getting (good for code quality and autocomplete).
@@ -157,9 +157,9 @@ console.log(pageVar); // This will log the "Variable content"
 getExtensionVersion(onlyNumeric?: boolean): string | number;
 
 const numeric = presence.getExtensionVersion();
-console.log(numeric); // Will log 210
+console.log(numeric); // คำสั่งนี้จะปริ้น 210
 const version = presence.getExtensionVersion(false);
-console.log(version); // Will log 2.1.0
+console.log(version); // คำสั่งนี้จะปริ้น 2.1.0
 ```
 
 ### `getSetting(String)`
@@ -232,7 +232,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**หมายเหตุ:** `String` ที่ให้ไปใน querySelector เป็นแค่คัวอย่างเท่านั้น.
 
 ### `getTimestamps(Number, Number)`
 
@@ -245,7 +245,7 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**หมายเหตุ:** `String` ที่ให้ไปใน querySelector เป็นแค่คัวอย่างเท่านั้น.
 
 ### `timestampFromFormat(String)`
 
@@ -259,11 +259,11 @@ presenceData.startTimestamp = timestamps[0];
 presenceData.endTimestamp = timestamps[1];
 ```
 
-**Note:** The given `String` in querySelector is an example.
+**หมายเหตุ:** `String` ที่ให้ไปใน querySelector เป็นแค่คัวอย่างเท่านั้น.
 
 ## อินเตอร์เฟซ `PresenceData`
 
-The `PresenceData` interface is recommended to use when you are using the `setActivity()` method.
+ขอแนะนำให้ใช้อินเตอร์เฟซ `PresenceData` เมื่อคุณกำลังใช้ ฟังก์ชั่น `setActivity()`
 
 อินเทอร์เฟซนี้มีตัวแปรดังต่อไปนี้ทั้งหมดเป็นตัวแปรที่สามารถเลือกได้
 
@@ -328,7 +328,7 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
     </tr>
         <tr>
       <td style="text-align:left">buttons</td>
-      <td style="text-align:left">Array of buttons, max 2, label is the button text, and url is the link.</td>
+      <td style="text-align:left">Array ของปุ่ม, ใส่ได้มากที่สุด 2 ปุ่ม label คือ ข้อความของปุ่ม และ url คือ ลิ้ง</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code>
       </td>
     </tr>
@@ -337,20 +337,20 @@ The `PresenceData` interface is recommended to use when you are using the `setAc
 
 ```typescript
 const presenceData: PresenceData = {
-  details: "My title",
-  state: "My description",
+  details: "ชื่อของเรา",
+  state: "คำอธิบายของเรา",
   largeImageKey: "service_logo",
   smallImageKey: "small_service_icon",
-  smallImageText: "You hovered me, and what now?",
+  smallImageText: "ลากเม้ามาที่เราหรอ, อะไรต่อล่ะทีนี้?",
   startTimestamp: 1564444631188,
   endTimestamp: 1564444634734,
   buttons: [
     {
-            label: "Test button1",
+            label: "ทดสอบ 1",
             url: "https://premid.app/"
         },
         {
-            label: "Test button2",
+            label: "ทดสอบ 2",
             url: "https://premid.app/contributors"
         }
     ]
@@ -363,7 +363,7 @@ const presenceData: PresenceData = {
 
 ```typescript
 presence.on("UpdateData", async () => {
-  // Do something when data gets updated.
+  // ทำอะไรยังอย่างเมื่อข้อมูลมีการอัปเดต
 });
 ```
 
