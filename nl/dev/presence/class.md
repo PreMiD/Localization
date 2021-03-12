@@ -83,7 +83,7 @@ const presence = new presence({
 
 Je kunt de documentatie voor de `Slideshow` klasse [hier](/dev/presence/slideshow) vinden.
 
-### `getStrings(object)`
+### `getStrings(Object)`
 
 Een asynrone methode waarmee u vertaalde strings uit de extensie kunt krijgen.
 

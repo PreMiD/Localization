@@ -23,7 +23,7 @@ Zoals presences hebben `iframes` hun eigen klasse ontworpen om de gegevens autom
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Code gaat hier...
+    // Code goes here...
 });
 ```
 
@@ -40,7 +40,7 @@ In `iframes`werkt events net zoals de manier waarop ze werken in de `presence` k
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Code gaat hier...
+    // Code goes here...
 });
 ```
 

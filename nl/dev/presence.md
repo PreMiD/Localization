@@ -68,27 +68,27 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
 {
   "$schema": "https://schemas.premid.app/metadata/1.3",
   "author": {
-    "name": "GEBRUIKER",
+    "name": "USER",
     "id": "ID"
   },
   "contributors": [
     {
-      "name": "GEBRUIKER",
+      "name": "USER",
       "id": "ID"
     }
   ],
   "service": "SERVICE",
   "altnames": ["SERVICE"],
   "description": {
-    "en": "BESCHRIJVING"
+    "en": "DESCRIPTION"
   },
   "url": "URL",
-  "version": "VERSIE",
+  "version": "VERSION",
   "logo": "URL",
   "thumbnail": "URL",
   "color": "#HEX000",
   "tags": ["TAG1", "TAG2"],
-  "category": "CATEGORIE",
+  "category": "CATEGORY",
   "regExp": "REGEXP",
   "iFrameRegExp": "REGEXP",
   "iframe": false,
@@ -100,8 +100,8 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
     },
     {
       "id": "ID",
-      "title": "TITEL",
-      "icon": "FONTAWESOME ICOON",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": true
     },
     {
@@ -109,15 +109,15 @@ We hebben een `metadata.json` bestandsmaker gemaakt voor de luie mensen [hier](h
       "if": {
         "ID": true
       },
-      "title": "TITEL",
-      "icon": "FONTAWESOME ICOON",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": "\"%song%\" by %artist%",
       "placeholder": "use %song% or %artist%"
     },
     {
       "id": "ID",
-      "title": "TITEL",
-      "icon": "FONTAWESOME ICOON",
+      "title": "DISPLAY TITLE",
+      "icon": "FONTAWESOME ICON",
       "value": 0,
       "values": ["1", "2", "etc."]
     }
