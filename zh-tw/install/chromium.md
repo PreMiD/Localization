@@ -18,7 +18,7 @@ tags:
 1. 在Opera安裝**[Install Chrome Extensions](https://addons.opera.com/en/extensions/details/install-chrome-extensions/)**延伸套件
 2. 新增[我們的延伸套件](https://premid.app/downloads)
 
-> Do not forget to [add the **application**](/install). 
+> 別忘了[安裝**安裝我們的本地應用程式**](/install) 
 > 
 > {.is-warning}
 
