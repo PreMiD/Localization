@@ -54,5 +54,9 @@
 	"home.features.quickSupport.heading": {
 		"message": "Dukungan cepat",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Gabung Discord kami",
+		"description": "Features section button"
 	}
 }
