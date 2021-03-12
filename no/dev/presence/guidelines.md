@@ -1,6 +1,6 @@
 ---
 title: Presence Guidelines
-description: Rules that all presence developers must follow to have their presence added.
+description: Den regelen som alle som utvikler seg, må følge for å få nærvær til.
 published: true
 date: 2021-03-06T15:01:04.274Z
 tags:
@@ -15,29 +15,29 @@ dateCreated: 2021-02-26T21:54:41.573Z
     <br />
 </div>
 
-# Guidelines
+# Retningslinjer
 
-When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
+Når du publiserer Presences til [vårt GitHub Repository](https://github.com/PreMiD/Presences), krever vi at du følger et sett med retningslinjer. For noe kan det virke tøffe regler. Implementeringen av disse regelsettene vil imidlertid føre oss og våre brukere til problemer.
 
-# Creation
+# Opprettelse
 
-The general rules of presence development are as follows:
+De allmenne reglene for stedsutvikling er som følger:
 
-- Presences **must** be related to the website of choice.
-- Presences **cannot** be made for illegal websites. (for e.g., stressors, drug marketing, child pornography, etc.)
-- The file structure must be clean and managed, do not include files which are not specified. (for e.g., vscode and git folders, image and text files, etc.)
-- You need to have a proper file structure, drafts are **not** allowed.
-- Presences for websites with (`.onion` TLDs) or websites with free domains/hosts (for e.g., `.TK` [all free Freenom domains], `.RF`, `GD`, etc) are **not** permitted, exceptions can be made if a proof is presented showing that they paid for the domain.
-- The domain of the presence must be at least 2 months old.
-- Presence that target internal browser pages (like Chrome Web Store, `chrome://`, `about:` pages, etc) are **not** allowed as they require an experimental flag to be enabled on the user's end and could potentially cause damage to their browsers.
-- Presences with support for only a single subdomain will **not** be permitted, as they may seem broken for other pages (like the homepage), exceptions can be made for the policy and contact pages (content that isn't used often) or sites where the other content is unrelated. (for e.g., wikia pages)
-- Presences for online radios are only allowed if the radio has at least 100 weekly listeners and 15 concurrent and must have some features other than just showing album/song title, etc.
-- Low quality presences (or ones with little context) are **not** allowed (for e.g., only showing a logo and text but never changing it again.)
+- Presansen **må** være relatert til nettstedet til valget.
+- Presse **kan ikke** lages for ulovlige nettsteder. (for eksempel stress, markedsføring av legemidler, barnepornografi osv.)
+- Filstrukturen må være ren og tilgjengelig. Legg ikke med filer som ikke er angitt. F.eks., vscode og git mapper, bilde og tekstfiler, osv.)
+- Du må ha en riktig filstruktur, utkast er **ikke** tillatt.
+- Foredrag for nettsteder med (`.onion` TLDer) eller nettsteder med gratis domener/verter (for e. `.TK` [all free Freenom domener], `. F`, `GD`, etc) er **ikke tillatt** det kan gjøres unntak ved dokumentasjon som viser at de har betalt for domenet.
+- Domenet må være minst 2 måneder gammel.
+- Presence som henvender seg til interne nettlesersider (som Chrome Web Store, `chrome://`, `om:` sider, etc) er **ikke** tillatt fordi de krever at et eksperimentelt flagg er aktivert på brukerens slutt og kan potensielt forårsake skade på nettleserne deres.
+- Presse med støtte for bare ett enkelt underdomene vil **ikke** være tillatt, ettersom de kan virke knust for andre sider (som hjemmesiden), Det kan gjøres unntak for politikk- og kontaktsidene (innhold som ikke er brukt ofte) eller nettsteder der det andre innholdet ikke har sammenheng med. (for eksempel wikisider)
+- Presse for online radioer er bare tillatt hvis radioen har minst 100 ukentlige lyttere og 15 samtidig.
+- Lave kvalitetspresser (eller de som har liten kontekst) er **ikke** tillatt (for e. bare viser logo og tekst, men aldri endre den igjen.)
 - With the `buttons` release, we require some guidelines for them:
   - Redirects to main page are prohibited.
   - Promoting websites by them is prohibited.
   - They can't show addinational data when you can't show them in `state` or `details`.
-- Including the `dist` folder, `presence.ts` file, `iframe.ts` file, and `metadata.json` file is mandatory so the result would be what is represented in the following schema:
+- Inkluderer `dist` mappen, `presence.ts` fil, `iframe. s` -fil, og `metadata.json` -filen er obligatorisk så resultatet ville være hva som er vist i følgende skjema:
 
 ```bash
 presence
@@ -47,7 +47,7 @@ presence
 └── tsconfig.json
 ```
 
-or if you're using a `iframe.ts` file:
+eller hvis du bruker en `iframe.ts` fil:
 
 ```bash
 presence
@@ -60,13 +60,13 @@ presence
 
 ## [**metadata.json**](/dev/presence/metadata)
 
-> For the convenience of our presence developers, we have provided a schema which you can use to validate the integrity of your `metadata` file. This is entirely optional and is not required during the review process.
+> Når det gjelder nærværsutviklere, vil dette skje i størst mulig grad vi har levert et skjema som du kan bruke til å validere integriteten til filen `metadata`. Dette er helt valgfritt og er ikke nødvendig under vurderingsprosessen.
 
-> It is highly recommended that you organize your `metadata` file in the format shown below, and you must have grammatically correct service names, descriptions, tags, and setting fields. Anything not organized to specifications will **not** be permitted.
+> Det anbefales sterkt at du organiserer filen `metadata` i formatet vist nedenfor, og du må ha grammatimisk riktige tjenestenavn, beskrivelser, tagger og innstillingsfelt. Alt som ikke er organisert i spesifikasjoner vil ikke **** bli tillatt.
 
-> Presences of websites that have explicit content **must** have the `nsfw` tag, and the logo/thumbnail must **not** contain any of this content.
+> Presences of websites that have explicit content **must** have the `nsfw` tag, og logoen/miniatyrbildet må **ikke** inneholde noe av dette innholdet.
 
-Each presence has a descriptor file called `metadata.json`, the metadata has a strict standard and an example of this file can be seem below:
+Hver tilstedeværelse har en deskriptorfil kalt `metadata. son`, metadataen har en streng standard og et eksempel på denne filen kan vises nedenfor:
 
 ```json
 {
@@ -129,33 +129,33 @@ Each presence has a descriptor file called `metadata.json`, the metadata has a s
 }
 ```
 
-> If a field is listed as optional on the [documentation](https://docs.premid.app/en/dev/presence/metadata) or there is a `*` next to the key, and your presence uses the default value for it, do not include it in the `metadata` file. (for e.g., a presence without iframe support would not need the `iframe` field.)
+> Hvis et felt er oppført som valgfritt i [dokumentasjonen](https://docs.premid.app/en/dev/presence/metadata) og din tilstedeværelse bruker standardverdien for det, ikke inkluder det i `metadata` -filen. For eksempel vil en tilstedeværelse uten integrert ramme ikke trenge `iframe` felt.)
 
-> All images in the `metadata` file must be hosted on `i.imgur.com`. Using content hosted on the website is **not** permitted as they can change the paths and files unwillingly.
+> Alle bilder i `metadata` -filen må være hostet på `i.imgur.com`. Ved å bruke innholdet som vert på nettsiden er **** tillatt fordi de kan endre stiene og filene som ikke er frivillige.
 
-A list of fields and their rules are listed below:
+En liste over felt og deres regler står oppført nedenfor:
 
 ### **`$schema`**
 
-- The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
+- Skjemaet _nøkkel_ **må** inneholde et dollar tegn ved begynnelsen av det Dette vil signalisere redigeringsprogrammet ditt som du ønsker å validere JSON-filen din mot en modell. _Som tidligere oppgitt trenger du ikke å ta med en ordning, men hvis du inkluderer den må du ta hensyn til._
 
 ### **`forfatter`**
 
-- The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
+- IDen _verdi_ **må** være Discord snowflake ID. Du kan få det ved å aktivere [utviklermodus](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Vær snill å **ikke** forveksle dette med din program-ID, som bare er for ditt nærvær._
 
 ### **`*contributors`**
 
-- Do **not** add yourself as a contributor, and do not add someone else as a contributor unless they have helped with the presence.
+- Ikke **** legge til deg selv som bidragsyter, og ikke legg til noen andre som bidragsyter med mindre de har hjulpet til med tilstedeværelsen.
 
 ### **`service`**
 
-- The service name **must** be the name of the presence directory. For example, if the presence is located at `/websites/Y/YouTube/`, the service name must be `YouTube`.
-- You **cannot** use the url as the service name unless the website uses the url as its official name. If the name is not descriptive and can be considered vague, using the url is **required**. (for e.g., `YouTube` is permitted because that is the official name and is descriptive, while `youtube.com` is not. `Top` is a non-descriptive name, so using the url `top.gg` is **required**.)
+- Tjenestenavnet **må** være navnet på tilstedeværelse katalogen. For eksempel hvis det finnes tilstedeværelse på `/websites/Y/YouTube/`, må tjenestenavnet være `YouTube`.
+- Du **kan** bruke nettadressen som tjenestenavn med mindre nettstedet bruker url'en som sitt navn. Hvis navnet ikke er beskrivende og kan betraktes som en vage, ved hjelp av Url-en er **nødvendig**. (for eksempel `YouTube` er tillatt fordi det er offisiell navn og er beskrivende, mens `youtube.com` ikke er det. `Topp` er et ikke-beskrivende navn, så ved hjelp av url `topp.gg` er **nødvendig**.)
 - If service has some explicit branding rules of their name, you should follow them.
 
 ### **`*altnames`**
 
-- **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
+- **Bare** bruk denne i scenerios hvor en nettside går under flere offisielle navn (f.eks Poke″mon og ε″″″″″″″″″εε″)-eller for å gjøre det enklere å søke i nærvær uten å bruke spesialtegn (f.eks. Pokeephalmon og Pokemon). *Forkortet* versjoner av tjenestenavn går under `tags`.
 
 ### **`beskrivelse`**
 
@@ -207,7 +207,7 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`advarsel`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
@@ -243,7 +243,7 @@ Here is a list of rules you must follow when writing your `presence.ts` file:
 
 > Do **not** write your own `tsconfig.json` file, use what has been provided on [documentation](/dev/presence/tsconfig).
 
-## Modification
+## Modifikasjon
 
 > You **must** change the version in the **metadata** to be a higher value from the previous version when making changes to either the **presence.ts**, **iframe.ts** or **metadata.json**.
 
@@ -253,7 +253,7 @@ In some situations, presences may behave unexpectedly or could use some minor ch
 - If you make modifications to a presence and change at least a **quarter** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a reviewer for more information about this subject.
 - Anyone may provide hotfixes to fix bugs; however, try **not** to make changes that are **not** required. Valid modifications include general fixes (code and typos), additions (descriptions and tags), missing files, etc. Do **not** change images if they are not outdated and are in specifications.
 
-# Verification
+# Modifikasjon
 
 > **All** code contributed to the store will be licensed under the `Mozilla Public License 2.0`.
 
@@ -308,7 +308,7 @@ Currently, a presence goes through 3 separate stages of checks. All of these che
 
 After meeting all of the guidelines with the proper reviews and checks, your presence will be merged with the store.
 
-# Suggestions
+# Verifikasjon
 If you have some suggestions about our guidelines, you should contact us @ [PreMiD's discord server](https://discord.premid.app) and we will check them!
 
 # Contributions
