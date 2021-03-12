@@ -82,14 +82,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>제작자</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>아니요</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>기여자</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -110,7 +110,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>네</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>설명</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>아니요</code></td>
@@ -130,7 +130,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>네</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>버전</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>아니요</code></td>
@@ -155,7 +155,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>아니요</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>태그</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>아니요</code></td>
@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>네</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>설정</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>네</code></td>
@@ -339,22 +339,22 @@ When making your presence, you must specify a category which the presence falls 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>애니메이션</b></td>
+      <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>애니메이션</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>게임</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>게임</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>음악</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>음악</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>소셜</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>SNS</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
@@ -364,7 +364,7 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>기타</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>기타</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
