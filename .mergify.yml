@@ -3,7 +3,6 @@ pull_request_rules:
     conditions:
       - base=master
       - "#approved-reviews-by>=2"
-      - status-success=deepcode-ci-bot
     actions:
       merge:
         method: squash
@@ -11,7 +10,6 @@ pull_request_rules:
     conditions:
       - base=documentation
       - "#approved-reviews-by>=2"
-      - status-success=deepcode-ci-bot
     actions:
       merge:
         method: squash
