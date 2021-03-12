@@ -31,7 +31,7 @@ La aplicación se iniciará automáticamente. Comprueba el símbolo en la barra 
 ![](https://img.icons8.com/color/2x/mac-logo.png) {.align-abstopright}
 
 ## Allow apps from unidentified developers
-Steps for macOS BigSur (11.0+):
+Steps for macOS Big Sur (11.0+):
 1. Right click on our installer.
 2. Click open in the dropdown menu.
 3. Click open in popup.
