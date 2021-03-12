@@ -82,14 +82,14 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>autorius</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>pagalbininkai</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the contributor. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
         mode and right-clicking on your profile.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -110,7 +110,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>aprašymas</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. Jūsų aprašymas turi turėti raktine pora reikšmių kurie nurodo kalbą ir aprašymą ta nustatyta kalba. Kurkite aprašymus su kalbomis <i>kurias jūs žinote</i>, mūsų vertėjai padarys pakitimus jūsų metadata failui. View the category for presence languages for a list. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -130,7 +130,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>versija</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">Version of your presence.</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -155,7 +155,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>No</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>žymos</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>No</code></td>
@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>nustatymai</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -344,17 +344,17 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>žaidimai</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Žaidimai</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>muzika</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Muzika</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socialiniai</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Socialiniai</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
@@ -364,7 +364,7 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>kita</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Kita</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
