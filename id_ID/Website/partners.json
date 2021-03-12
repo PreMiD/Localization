@@ -19,6 +19,10 @@
 		"message": "Daftar sekarang!",
 		"description": "Button to apply for partner."
 	},
+	"partners.partner.taigaBot": {
+		"message": "taiga adalah Bot Discord yang menawarkan semua fitur yang mungkin kamu butuhkan!",
+		"description": "Description for taigabot."
+	},
 	"partners.apply.select.other": {
 		"message": "Lainnya",
 		"description": "Select 'Other' category."
