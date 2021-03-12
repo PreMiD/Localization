@@ -7,6 +7,14 @@
 		"message": "Penulis",
 		"description": "Creator of a presence"
 	},
+	"store.header.search": {
+		"message": "Cari Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.remove": {
+		"message": "Hapus Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
 	"store.category.filters.allowAdult": {
 		"message": "Tampilkan NSFW",
 		"description": "Adult content checkbox"
