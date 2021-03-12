@@ -1,5 +1,5 @@
 ---
-title: Presence Development
+title: Forbairt Láithreachta
 description:
 published: true
 date: 2021-02-07T17:11:34.449Z
@@ -18,24 +18,24 @@ Version `2.x` introduces the [presence store](https://premid.app/store). Users n
 > 
 > {.is-warning}
 
-- [Guidelines](https://docs.premid.app/dev/presence/guidelines)
+- [Treoirlínte](https://docs.premid.app/dev/presence/guidelines)
 {.links-list}
 
 # Structure
 
 All presence are coded in [TypeScript](https://www.typescriptlang.org/). [TypeScript](https://www.typescriptlang.org/) has some extra spicy type definitions over JavaScript, so fixing and identifying bugs is way easier.
 
-## Installation
+## Suiteáil
 
 1. Install [Git](https://git-scm.com/).
 2. Install [Node](https://nodejs.org/en/) (comes with [npm](https://www.npmjs.com/)).
 3. Install [TypeScript](https://www.typescriptlang.org/index.html#download-links) (open a terminal and `npm install -g typescript`).
 
-## Cloning the project
+## Ag clónáil an tionscadail
 
-1. Open a terminal and type `git clone https://github.com/PreMiD/Presences`.
-2. Choose a folder of your choice.
-3. Open it in your code editor.
+1. Oscail críochfort agus cineál `git clone https://github.com/PreMiD/Presences`.
+2. Roghnaigh fillteán de do rogha féin.
+3. Oscail é i d’eagarthóir cód.
 
 ## Creating folders and files
 
@@ -127,60 +127,58 @@ We've made a `metadata.json` file creator for the lazy peeps [here](https://eggs
 
 Please copy the code above and put it in your `metadata.json` file. You now need to edit values of the properties. Please note that the following properties are optional to have in your `metadata.json` file, if you do not plan on using them you need to remove them.
 
-- `rannpháirtithe`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `socruithe`
+- `settings`
 
 **Clarifying some value presets:**
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Athróg</th>
       <th style="text-align:left">Cur síos</th>
       <th style="text-align:left">Cineál</th>
-      <th style="text-align:left">Optional</th>
+      <th style="text-align:left">Roghnach</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>údar</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><b>author</b></td>
+      <td style="text-align:left">Ba cheart go mbeadh an Cuspóir leis an <code>name</code> agus <code>id</code> an forbróir presence. <code>name</code> is é d’ainm úsáideora Discord gan an t-aitheantóir (#0000). Is <code>id</code> féidir an t- úsáideoir a chóipeáil ó Discord trí mhodh forbróra a chumasú agus cliceáil ar dheis ar do phróifíl.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>rannpháirtithe</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). User <code>id</code> can be copied from Discord by enabling developer
-        mode and right-clicking on your profile.</td>
+      <td style="text-align:left"><b>contributors</b></td>
+      <td style="text-align:left">Ba cheart go mbeadh an Cuspóir leis an <code>name</code> agus <code>id</code> an forbróir presence. <code>name</code> is é d’ainm úsáideora Discord gan an t-aitheantóir (#0000). Is <code>id</code> féidir an t- úsáideoir a chóipeáil ó Discord trí mhodh forbróra a chumasú agus cliceáil ar dheis ar do phróifíl.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">The title of the service that this presence supports.<br>
       (Must be the same name as the folder where everything is in)</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>altnames</b></td>
-      <td style="text-align:left">Be able to search the presence using an alternative name.<br>
-      Meant to be used for presences that have different names in different languages (e.g. Pokémon and 포켓몬스터).<br>
-      You can also use it for presences that have special characters so you don't have to type those (e.g. Pokémon and Pokemon).</td>
+      <td style="text-align:left">A bheith in ann an láithreacht a chuardach ag úsáid ainm malartach.<br>
+      An chiall atá le húsáid le haghaidh láithreacha a bhfuil ainmneacha difriúla orthu i dteangacha éagsúla (m.sh. Pokémon agus 포켓 몬스터).<br>
+      Is féidir leat é a úsáid freisin le haghaidh láithreacha a bhfuil carachtair speisialta acu ionas nach gá duit iad sin a chlóscríobh (e.g. Pokémon agus Pokemon).</td>
       <td style="text-align:left"><code>Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>cur síos</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Your description must have key pair values which indicate the language, and the description in that specific language. Make descriptions with the languages <i>that you know</i>, our translators will make changes to your metadata file.</td>
+      <td style="text-align:left"><b>description</b></td>
+      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. Caithfidh príomhluachanna beirte a bheith ag do thuairisc a léiríonn an teanga, agus an tuairisc sa teanga shonrach sin. Déan tuairiscí leis na teangacha <i>atá ar eolas agat</i>, déanfaidh ár n-aistritheoirí athruithe ar do chomhad metadata.</td>
       <td style="text-align:left"><code>Object</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
@@ -192,7 +190,7 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       <code>["URL1", "URL2", "ETC."]</code><br>
       You could also use regExp also known as Regex for this task, explained further below.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>regExp</b></td>
@@ -205,69 +203,68 @@ Please copy the code above and put it in your `metadata.json` file. You now need
       You can get a quick starter by watching this <a href="https://youtu.be/sXQxhojSdZM">video</a>.<br>
       You can test your regExp at <a href="https://regex101.com/">Regex101</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>leagan</b></td>
-      <td style="text-align:left">Version of your presence.</td>
+      <td style="text-align:left"><b>version</b></td>
+      <td style="text-align:left">Leagan de do presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>logo</b></td>
-      <td style="text-align:left">Link to service&apos;s logotype.</td>
+      <td style="text-align:left">Nasc le logotype na seirbhíse.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>thumbnail</b></td>
-      <td style="text-align:left">Link to your presence thumbnail.</td>
+      <td style="text-align:left">Nasc le do thumbnail presence.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>color</b></td>
-      <td style="text-align:left"><code>#HEX</code> value. We recommend to use a primary color of the service
-        that your presence supports.</td>
+      <td style="text-align:left"><code>#HEX</code> luach. Molaimid dath príomhúil na seirbhíse a thacaíonn do láithreacht leis a úsáid.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>clibeanna</b></td>
-      <td style="text-align:left">Array with tags, they will help users to search your presence on the website.</td>
+      <td style="text-align:left"><b>tags</b></td>
+      <td style="text-align:left">Eagraigh le clibeanna, cuideoidh siad le húsáideoirí do láithreacht a chuardach ar an suíomh Gréasáin.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>category</b></td>
-      <td style="text-align:left">A string used to represent the category the presence falls under. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
+      <td style="text-align:left">Teaghrán a úsáidtear chun an chatagóir ina bhfuil an láithreacht a léiriú. See the valid catergories <a href="https://docs.premid.app/dev/presence/metadata#presence-categories">here</a>.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>No</code></td>
+      <td style="text-align:left"><code>Níl</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iframe</b></td>
-      <td style="text-align:left">Defines whether <code>iFrames</code> are used.</td>
+      <td style="text-align:left">Sainmhínítear an <code>iFrames</code> úsáidtear iad	.</td>
       <td style="text-align:left"><code>Boolean</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">A regular expression selector that selects iframes to inject into. See regExp for more info.</td>
+      <td style="text-align:left">Roghnóir slonn rialta a roghnaíonn iframanna le instealladh isteach. See regExp for more info.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
-      <td style="text-align:left">Defines whether the extension should be reading logs.</td>
+      <td style="text-align:left">Sainmhínítear ar cheart logaí léitheoireachta a bheith sa síneadh.</td>
       <td style="text-align:left"><code>String</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>socruithe</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
-      <td style="text-align:left"><code>Yes</code></td>
+      <td style="text-align:left"><code>Tá</code></td>
     </tr>
   </tbody>
 </table>
@@ -399,8 +396,8 @@ The website you are developing on is automatically reloading every time you save
 
 # Files explained
 
-- [Presence Class](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
-- [iFrame Class](/dev/presence/iframe)
+- [Rang Láithreachta](/dev/presence/class)
+- [Rang Taispeántas Sleamhnán](/dev/presence/slideshow)
+- [Rang iFrame](/dev/presence/iframe)
 - [Metadata File](/dev/presence/metadata)
 - [TypeScript Configuration](/dev/presence/tsconfig ""){.links-list}
