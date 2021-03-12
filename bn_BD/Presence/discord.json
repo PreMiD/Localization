@@ -136,7 +136,7 @@
 		"description": ""
 	},
 	"discord.devs.appsBrowse": {
-		"message": "ব্রাউজ করছে তার অ্যাপগুলি",
+		"message": "ব্রাউজ করছে তার অ্যাপগুলো",
 		"description": ""
 	},
 	"discord.devs.appsEdit": {
@@ -144,7 +144,7 @@
 		"description": "{0} will be replaced with the name of the app."
 	},
 	"discord.devs.teamsBrowse": {
-		"message": "ব্রাউজ করছে তার টিমগুলি",
+		"message": "ব্রাউজ করছে তার টিমগুলো",
 		"description": ""
 	},
 	"discord.devs.teamsEdit": {
@@ -152,7 +152,7 @@
 		"description": "{0} will be replaced with the name of the team."
 	},
 	"discord.devs.serversBrowse": {
-		"message": "ব্রাউজ করছে তার সার্ভারগুলি",
+		"message": "ব্রাউজ করছে তার সার্ভারগুলো",
 		"description": ""
 	},
 	"discord.devs.serversEdit": {
