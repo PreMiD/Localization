@@ -139,7 +139,7 @@ Lista pól i ich zasad znajduje się poniżej:
 
 - The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`autor`**
+### **`author`**
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
@@ -157,7 +157,7 @@ Lista pól i ich zasad znajduje się poniżej:
 
 - **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). *Skrócono* wersje nazw naszych usług pod `tagami`.
 
-### **`opis`**
+### **`description`**
 
 - **Wszystkie** presence **muszą** mieć angielski opis bez względu na preferowany język na stronie.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
@@ -167,7 +167,7 @@ Lista pól i ich zasad znajduje się poniżej:
 - The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`wersja`**
+### **`version`**
 
 - Zawsze upewnij się, że numer wersji spełnia [semantyczne standardy wersjonowania](https://semver.org), co przekłada się na następujący schemat: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Wszystko inne niż `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` lub zmiana z `1.0.0` na `2.0.0` przy naprawie błędów/małej zmianie **nie** jest dozwolone.
 - Wersja **musi** zawsze zaczynać się od `1.0.0`, inne wersje **nie** będą dozwolone.
@@ -186,7 +186,7 @@ Lista pól i ich zasad znajduje się poniżej:
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
-### **`tagi`**
+### **`tags`**
 
 - **Wszystkie** statusy muszą mieć przynajmniej _jeden_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
@@ -212,7 +212,7 @@ Lista pól i ich zasad znajduje się poniżej:
 - **Zawsze** deklaruj nową instancję klasy `Presence` przed jakąkolwiek inną zmienną, aby uniknąć problemów, które mogą wystąpić; nie jest to wymóg konstrukcyjny, więc w przyszłości można go usunąć.
 - Example of presence using this metadata variable is `VLC`.
 
-### **`ustawienia`**
+### **`settings`**
 
 - Jeśli zdecydujesz się utworzyć ciąg formatu (np. `%song% by %artist%`), musisz mieć zmienne otoczone znakiem procentowym po obu stronach. Takie zmienne, jak `%var`, `var%`, lub `%%var%%` i wszystko pomiędzy **nie** są dozwolone ze względu na standaryzację.
 - The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
