@@ -133,7 +133,7 @@ Please copy the code above and put it in your `metadata.json` file. 次に、プ
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `設定`
+- `settings`
 
 **一部の値の内容を説明します:**
 
@@ -260,7 +260,7 @@ Please copy the code above and put it in your `metadata.json` file. 次に、プ
       <td style="text-align:left"><code>可</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>設定</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
