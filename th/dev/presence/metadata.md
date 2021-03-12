@@ -110,7 +110,7 @@ An example of that file can be found below.
       <td style="text-align:left"><code>ใช่</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>คำอธิบาย</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Description of the service <b>NOT</b> the presence. คำอธิบายของคุณต้องมีค่าคีย์ที่ระบุภาษาและคำอธิบายในภาษานั้น ๆ สร้างคำอธิบายด้วยภาษา <i>ที่คุณเข้าใจ </i>, ผู้แปลภาษาของเราจะทำการแปลไฟล์ metadata ของคุณ ดูหมวดหมู่ของภาษา presence ในรายการ. </td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
@@ -130,7 +130,7 @@ An example of that file can be found below.
       <td style="text-align:left"><code>ใช่</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>เวอร์ชัน</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">เวอร์ชั่น presence ของคุณ</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
@@ -155,7 +155,7 @@ An example of that file can be found below.
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>แท็ก</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array ที่มีแท็ก, จะช่วยให้ผู้ใช้ค้นหา presence ของคุณบนเว็บไซต์</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
@@ -185,7 +185,7 @@ An example of that file can be found below.
       <td style="text-align:left"><code>ใช่</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ตั้งค่า</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">Array ของการตั้งค่าที่ผู้ใช้สามารถเปลี่ยนได้</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>ใช่</code></td>
@@ -339,22 +339,22 @@ presence.showSetting("pdexID"); //แทนที่ pdexID ด้วย id ข�
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>อนิเมะ</b></td>
+      <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>อนิเมะ</b></td>
       <td style="text-align:left">ทุกอย่างที่เกี่ยวข้องกับอนิเมะ ตั้งแต่ Forum ไปจนถึงแพลตฟอร์มสตรีมมิ่งวิดีโอ</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>เกม</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>เกม</b></td>
       <td style="text-align:left">ทุกเว็บไซต์ที่มีข้อมูลเกี่ยวกับเกม เช่น <code>Kahoot</code> หรือ <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>เพลง</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>เพลง</b></td>
       <td style="text-align:left">พวกนี้เป็นเว็บไซต์ที่เกี่ยวข้องกับเพลง ไม่ว่าจะเป็นการฟังเพลงหรือดาวน์โหลดเพลง</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>โซเชียล</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>โซเชียล</b></td>
       <td style="text-align:left">เว็บไซต์ที่มีจุดประสงค์ในการสร้างและเผยแพร่เนื้อหาต่างๆ หรือเกี่ยวข้องกับ Social Network</td>
     </tr>
@@ -364,7 +364,7 @@ presence.showSetting("pdexID"); //แทนที่ pdexID ด้วย id ข�
       <td style="text-align:left">เว็บไซต์ที่ให้บริการวิดีโอและสตรีมสด</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>อื่นๆ</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>อื่นๆ</b></td>
       <td style="text-align:left">สิ่งใดก็ตามที่ไม่อยู่ในหมวดหมู่เฉพาะที่ระบุไว้ข้างต้น</td>
     </tr>
