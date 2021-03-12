@@ -150,7 +150,7 @@ Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. A
     <tr>
       <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> é seu nome de usuário no Discord sem seu identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
-      <td style="text-align:left"><code>Objeto</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@ Por favor copie o código acima e coloque-o em seu arquivo de `metadata.json`. A
     <tr>
       <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Descrição curta da Presence, você pode usar a descrição do serviço se estiver sem ideias. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados.</td>
-      <td style="text-align:left"><code>Objeto</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
