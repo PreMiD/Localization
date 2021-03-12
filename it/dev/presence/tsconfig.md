@@ -1,23 +1,23 @@
 ---
-title: TypeScript Configuration
-description: A little helper for TypeScript
+title: Configurazione TypeScript
+description: Un piccolo aiuto per TypeScript
 published: true
 date: 2020-08-05T16:25:22.812Z
 tags:
 editor: markdown
 ---
 
-# TypeScript Configuration
+# Configurazione TypeScript
 
 ## Introduzione
 
-When you downloaded and unpacked the workspace, you will see a file called `tsconfig.js` in root and presence folders, this file is used for configuring the **TypeScript** compiler. It is already configured for you, so don't worry about that.
+Quando hai scaricato e disimballato lo spazio di lavoro, vedrai un file chiamato `tsconfig. s` nelle cartelle root e presenza, questo file viene utilizzato per configurare il compilatore **TypeScript**. È già configurato per te, quindi non preoccuparti di questo.
 
-We just want to describe some settings that you should know.
+Vogliamo solo descrivere alcune impostazioni che dovresti sapere.
 
-## Root Configuration
+## Configurazione Root
 
-In the root configuration file you will see something like this.
+Nel file di configurazione root vedrai qualcosa di simile.
 
 ```javascript
 {
@@ -36,21 +36,21 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property                   | Descrizione                                                                                                                                                         |
-|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **compilerOptions**        | Used for configuring the compiler, most of the properties are located here.                                                                                         |
-| module                     | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                     |
-| target                     | Defines the JavaScript version you are compiling.                                                                                                                   |
-| removeComments             | Removing comments from compiled files.                                                                                                                              |
-| noEmitOnError              | Do not emit outputs if any errors were reported.                                                                                                                    |
-| noFallthroughCasesInSwitch | Report errors for fallthrough cases in switch statement.                                                                                                            |
-| noUnusedLocals             | Report errors on unused locals.                                                                                                                                     |
-| noUnusedParameters         | Report errors on unused parameters.                                                                                                                                 |
-| inlineSourceMap            | Adds sourcemapping                                                                                                                                                  |
-| typeRoots                  | You can read more about that [here](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                     |
-| esModuleInterop            | Emit __importStar and __importDefault helpers for runtime babel ecosystem compatibility and enable --allowSyntheticDefaultImports for typesystem compatibility. |
+| Proprietà                  | Descrizione                                                                                                                                                                                |
+|:-------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **compilerOptions**        | Utilizzato per configurare il compilatore, la maggior parte delle proprietà si trova qui.                                                                                                  |
+| module                     | Puoi leggere di più su questo [qui](https://www.typescriptlang.org/docs/handbook/modules.html).                                                                                            |
+| target                     | Definisce la versione JavaScript che stai compilando.                                                                                                                                      |
+| rimuoviCommenti            | Rimozione commenti dai file compilati.                                                                                                                                                     |
+| noEmitOnError              | Non emettere output se sono stati segnalati eventuali errori.                                                                                                                              |
+| noFallthroughCasesInSwitch | Segnala errori per casi non andati a buon fine nell'istruzione switch.                                                                                                                     |
+| noUnusedLocals             | Segnala errori sui locali inutilizzati.                                                                                                                                                    |
+| noUnusedParameters         | Segnala errori sui parametri inutilizzati.                                                                                                                                                 |
+| inlineSourceMap            | Aggiunge il sourcemapping                                                                                                                                                                  |
+| typeRoots                  | Puoi leggere di più su questo [qui](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html#types-typeroots-and-types).                                                            |
+| esModuleInterop            | Emette gli helper __importStar e __importDefault per la compatibilità dell'ecosistema babel runtime e abilita --allowSyntheticDefaultImports per la compatibilità dei tipi di sistema. |
 
-## Presence Configuration
+## Configurazione Presenza
 
 ```javascript
 {
@@ -61,8 +61,8 @@ In the root configuration file you will see something like this.
 }
 ```
 
-| Property            | Descrizione                                                                            |
-|:------------------- |:-------------------------------------------------------------------------------------- |
-| **extends**         | Used for extending the base `tsconfig` file for various tasks.                         |
-| **compilerOptions** | See [**Root Configuration**](/dev/presence/tsconfig#root-configuration) for more info. |
-| outDir              | Defines the output directory for compiled files.                                       |
+| Proprietà           | Descrizione                                                                                          |
+|:------------------- |:---------------------------------------------------------------------------------------------------- |
+| **extends**         | Utilizzato per estendere il file base `tsconfig` per varie attività.                                 |
+| **compilerOptions** | Vedi [**Configurazione Root**](/dev/presence/tsconfig#root-configuration) per maggiori informazioni. |
+| outDir              | Definisce la directory di output per i file compilati.                                               |
