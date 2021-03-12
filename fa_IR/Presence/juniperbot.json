@@ -1,1 +1,42 @@
-{}
+{
+    "juniperbot.mainpage": {
+        "message": "صفحه اصلی",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "مشاهده جدول بهترین‌های سرور:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "در داشبورد",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "سرور: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "خواندن اطلاعاتی درباره برنامه های حمایتی",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "انتخاب کردن سرور",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "دنبال لیست دستورات گشتن",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "نگاه کردن به وضعیت بات ها",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "سفارشی سازی کارت رده بندی",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "خواندن درباره کوکی های سایت",
+        "description": "Reading about the site's cookies"
+    }
+}
