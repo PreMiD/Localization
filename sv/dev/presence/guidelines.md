@@ -139,7 +139,7 @@ A list of fields and their rules are listed below:
 
 - The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`skapare`**
+### **`author`**
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
@@ -157,7 +157,7 @@ A list of fields and their rules are listed below:
 
 - **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
 
-### **`beskrivning`**
+### **`description`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
@@ -186,7 +186,7 @@ A list of fields and their rules are listed below:
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
-### **`taggar`**
+### **`tags`**
 
 - **All** presences are required to have at least _one_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
@@ -212,7 +212,7 @@ A list of fields and their rules are listed below:
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
 
-### **`inställningar`**
+### **`settings`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.

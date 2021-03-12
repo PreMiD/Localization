@@ -127,13 +127,13 @@ Vi har gjort en `metadata.json`-filskapare för lata männsikor [här](https://e
 
 Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste nu redigera värden för egenskaperna. Observera att följande egenskaper är valfria att ha i din `metadata.json`-fil, om du inte planerar att använda dem måste du ta bort dem.
 
-- `medverkande`
+- `contributors`
 - `altnames`
 - `regExp`
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `inställningar`
+- `settings`
 
 **Förtydligande av vissa värde-förinställningar:**
 
@@ -148,14 +148,14 @@ Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>skapare</b></td>
+      <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. <code>name</code> is your Discord username without the identifier(#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
         och högerklicka på din profil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nej</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>medverkande</b></td>
+      <td style="text-align:left"><b>contributors</b></td>
       <td style="text-align:left">Bör innehålla ett Objekt med <code>-namnet</code> och <code>id</code> för presence-utvecklaren. <code>name</code> is your Discord username without the identifier(#0000). <code>Användar-id</code> kan kopieras från Discord genom att aktivera utvecklarläget
         och högerklicka på din profil.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
@@ -177,7 +177,7 @@ Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste 
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>beskrivning</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Liten beskrivning av presencet, du kan använda beskrivningen av tjänsten om du inte har några idéer. Din beskrivning måste innehålla nyckelparvärden som anger språket och beskrivningen i det specifika språket. Gör beskrivningar med språk <i>som du känner till</i>, våra översättare kommer att göra ändringar i din metadatafil.</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Nej</code></td>
@@ -233,7 +233,7 @@ Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste 
       <td style="text-align:left"><code>Nej</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>taggar</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array med taggar, de kommer att hjälpa användare att söka efter ditt presence på webbplatsen.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>Nej</code></td>
@@ -263,7 +263,7 @@ Väligen kopiera koden ovan och lägg den i din `metadata.json` -fil. Du måste 
       <td style="text-align:left"><code>Ja</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>inställningar</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">En array av inställningar som användaren kan ändra.<br>
       Läs mer om presence-inställningar <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">här</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>

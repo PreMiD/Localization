@@ -133,7 +133,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 - `iframe`
 - `iFrameRegExp`
 - `readLogs`
-- `ตั้งค่า`
+- `settings`
 
 **รู้จักกับค่าต่างๆ:**
 
@@ -176,7 +176,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <td style="text-align:left"><code>ใช่</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>คำอธิบาย</b></td>
+      <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">คำอธิบายหรือรายละเอียดสั้น ๆ ของ presence, คุณสามารถใช้คำอธิบายของบริการได้ถ้าคุณคิดไม่ออกแล้วจริงๆ. คำอธิบายของคุณต้องมีค่าคีย์ที่ระบุภาษาและคำอธิบายในภาษานั้น ๆ สร้างคำอธิบายด้วยภาษา <i>ที่คุณเข้าใจ </i>, ผู้แปลภาษาของเราจะทำการแปลไฟล์ metadata ของคุณ</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
@@ -206,7 +206,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <td style="text-align:left"><code>ใช่</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>เวอร์ชัน</b></td>
+      <td style="text-align:left"><b>version</b></td>
       <td style="text-align:left">เวอร์ชั่น presence ของคุณ</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
@@ -231,7 +231,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>แท็ก</b></td>
+      <td style="text-align:left"><b>tags</b></td>
       <td style="text-align:left">Array ที่มีแท็ก, จะช่วยให้ผู้ใช้ค้นหา presence ของคุณบนเว็บไซต์</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
@@ -261,7 +261,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
       <td style="text-align:left"><code>ใช่</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>ตั้งค่า</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change.<br>
       Read more about presence settings <a href="https://docs.premid.app/dev/presence/metadata#presence-settings">here</a>.</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
