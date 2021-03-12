@@ -23,13 +23,13 @@ tags:
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // Код працює тут...
+    // Code goes here...
 });
 ```
 
 ## Методи
 
-### `send(Об'єкт)`
+### `send(Object)`
 Надсилає дані присутності. Використання цього методу призведе до події `iFrameData`.
 
 ### `getUrl()`
@@ -40,12 +40,12 @@ iframe.on("UpdateData", async () => {
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Код тут...
+    // Code goes here...
 });
 ```
 
 Тут наведено список всіх подій:
 
-#### `Оновлення даних`
+#### `UpdateData`
 
 Ця подія запускається щоразу, коли iframe оновлюється.
