@@ -14,21 +14,21 @@ dateCreated: 2020-06-11T18:04:14.124Z
 > 
 > {.is-warning}
 
-## Table of Contents
+## 目次
 
 - **[概要](#about)**
   - [Stats](#stats)
   - [必要条件](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
+  - 例(作成中)
+  - よくある質問(作成中)
   - Building (soon)
   - [Support](#support)
   - [貢献者](#credits)
-  - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
+  - [ライセンス](#license)
+- **[Snapcraft](#snapcraft)** (要約:_ない_)
 - **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
+  - [インストール手順](#appimageinstall)
+  - [その他のメモ](#appimagenotes)
 - [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
 - [**Debian and Ubuntu based distributions**](#packagecloud)
 - [**Arch Linuxをベースにしたディストリビューション**](#arch)
@@ -37,7 +37,7 @@ dateCreated: 2020-06-11T18:04:14.124Z
 
 ## 概要
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD**はDiscordのRP ( Rich Presence ) 機能を使用したシンプルで設定可能なユーティリティで、あなたのDiscordプロフィールに**プレイ中の状態**としてウェブ上で何をしているか（そしていくつかのプログラム）を表示することができます。
 
 <a name="stats"></a>
 
@@ -46,13 +46,13 @@ dateCreated: 2020-06-11T18:04:14.124Z
 <table>
   <tr>
     <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>累計ダウンロード数</th>
+    <th>最新のリリース</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="最新のリリース"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
@@ -82,17 +82,17 @@ It is unknown whether older versions of other distributions support it, so just 
 
 ### 貢献者
 
-Thanks to :
+クレジット:
 
 - @nattadasu, @Rubensei, @Cairo2k18, zany130, Immanuel D, Friskytrash, Alexandre (それとちょっとの名前を忘れてしまった人) /フィードバックを提供してくれました。
 - @apriluwu /Gentoo buildを維持してくれてます。
-- @SlimShadyIAm and naka for formerly maintaining the Arch User Repository packages
+- @SlimShadyIAm, naka /ArchユーザーのResipotoryのパッケージをメンテナンスしてました。
 - Erectron community /パッケージを作るのに協力してくれました。
 - あとプロジェクトに関わってくれた人全員。
 
 <a name="license"></a>
 
-### License
+### ライセンス
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### インストール手順
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### その他のメモ
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -152,10 +152,10 @@ Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Sup
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### インストール手順
 
 ```bash
-# Using yay (recommended)
+# Using yay (推奨)
 yay -S premid
 ```
 
@@ -182,7 +182,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### その他のメモ
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
