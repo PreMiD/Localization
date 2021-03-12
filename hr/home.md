@@ -12,7 +12,7 @@ dateCreated: 2020-06-11T18:03:47.172Z
 > 
 > {.is-warning}
 
-# About PreMiD
+# O PreMiD-u
 - :mag: [What is PreMiD?](/about) Intentions behind PreMiD and why you should use it.
 - :link: [What is RPC?](https://discordapp.com/rich-presence) All about Rich Presence and its functions.
 
@@ -24,14 +24,14 @@ PreMiD is quick and easy to install. You should be up and running in no time.
 - Follow the quick and simple [installation guide](/install).
 - [Troubleshooting](/troubleshooting) guides you through solutions to common issues.
 
-# Developers
+# Razvojni Programeri
 
 [Getting Started](/dev) for PreMiD development is your first step before coding some things.
 
 - :computer: [API](/dev/api): Access resources and perform actions using the PreMiD API.
 - :wrench: [Presence Development](/dev/presence): Learn how to use our Presence system.
 
-# Contribute
+# Pridonesite
 - :bug: [Report a Bug](https://github.com/PreMiD): Help us squash those pesky bugs.
 - :bulb: [Suggest a New Feature](https://discord.premid.app/): We need your ideas!
 - :heart: [Donate](https://www.patreon.com/Timeraa): Make a small donation or become a sponsor of this wonderful project!
