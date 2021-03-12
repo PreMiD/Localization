@@ -23,7 +23,7 @@ Al igual que las presences, `iframes` tienen sus propias clases diseñadas para 
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // El código va aquí...
+    // Code goes here...
 });
 ```
 
@@ -40,7 +40,7 @@ En `iframes`, los eventos funcionan de forma similar a como funcionan en la clas
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // El código va aquí...
+    // Code goes here...
 });
 ```
 
