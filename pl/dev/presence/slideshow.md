@@ -1,5 +1,5 @@
 ---
-title: Slideshow Class
+title: Klasa pokazu slajdów
 description:
 published: true
 date: 2020-12-25T00:47:38.111Z
@@ -8,15 +8,15 @@ editor: markdown
 dateCreated: 2020-12-25T00:44:42.803Z
 ---
 
-# Slideshow Class
+# Klasa pokazu slajdów
 
-## Introduction
+## Wprowadzanie
 
 The `Slideshow` class is used to set multiple `PresenceData` and "slide" through them every x milliseconds (minimum: 5000).
 
 See the [`createSlideshow`](/dev/presence/class#createslideshow) method in the [`Presence`](/dev/presence/class) class on how to create a `Slideshow`.
 
-## Properties
+## Właściwości
 
 ### `currentSlide`
 
@@ -24,14 +24,14 @@ Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of
 
 ```typescript
 const currentSlide = slideshow.currentSlide
-console.log(currentSlide.details) // Will console log the details of the PresenceData
+console.log(currentSlide.details) // Konsola rejestruje szczegóły PresenceData
 ```
 
-## Methods
+## Metody
 
 ### `addSlide(String, PresenceData, Number)`
 
-Add a new slide to the `Slideshow` according to provided data.
+Dodaj nowy slajd do `Pokaz slajdów` zgodnie z podanymi danymi.
 
 First parameter requires a `String` that will be used as a unique identifier for the slide.
 
@@ -65,15 +65,15 @@ First parameter requires a `String` that is the unique identifier of the slide y
 
 ### `deleteAllSlides()`
 
-Deletes all slides from the `Slideshow`.
+Usuwa wszystkie slajdy z `Pokaz slajdów`.
 
 # SlideshowSlide Class
 
-## Introduction
+## Wprowadzanie
 
 A `SlideshowSlide` is the internal representation of each slide in a `Slideshow`.
 
-## Properties
+## Właściwości
 
 ### `id`
 
@@ -83,7 +83,7 @@ Returns a `String` of the id of the slide.
 
 Returns a [`PresenceData`](/dev/presence/class#presencedata-interface) object of the `PresenceData` saved in the slide.
 
-## Methods
+## Metody
 
 ### `updateData(PresenceData)`
 
@@ -93,6 +93,6 @@ You must provide a `PresenceData` interface to get all information that you ulti
 
 ### `updateInterval(Number)`
 
-Sets the interval of the slide according to provided data.
+Ustawia interwał slajdu zgodnie z podanymi danymi.
 
-You must provide a `Number` which is the amount of time in milliseconds (minimum: 5000) that this slide will show.
+Musisz podać `liczbę`, która jest ilością czasu w milisekundach (minimum: 5000), który ten slajd wyświetli.
