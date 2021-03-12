@@ -10,7 +10,7 @@ The installation of the extension is very important as the application can not d
 
 # התקן
 ### Chrome, Edge, etc.
-1. Go to our downloads page by [clicking here](https://premid.app/downloads).
+1. עבור לדף ההורדות שלנו על ידי [לחיצה כאן](https://premid.app/downloads).
 2. Choose **Chromium**.
 3. Click on **Add to Chrome**.
 
