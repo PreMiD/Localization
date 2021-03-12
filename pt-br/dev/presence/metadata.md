@@ -84,7 +84,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     <tr>
       <td style="text-align:left"><b>author</b></td>
       <td style="text-align:left">Deve conter um Objeto com o <code>nome</code> e o <code>id</code> do desenvolvedor da Presence. <code>name</code> é seu nome de usuário Discord sem o identificador(#0000). O <code>id</code> do Usuário pode ser copiado no Discord ao ativar o modo de desenvolvedor e com o botão direito do mouse no seu perfil.</td>
-      <td style="text-align:left"><code>Objeto</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ Esse exemplo parece realmente estranho, certo? Não se preocupe, não é tão di
     <tr>
       <td style="text-align:left"><b>description</b></td>
       <td style="text-align:left">Descrição do serviço <b>NÃO</b> da presence. Sua descrição deve ter valores de key pair que indicam o idioma e a descrição nesse idioma específico. Faça descrições com os idiomas <i>que você conhece</i>, nossos tradutores farão alterações ao seu arquivo de metadados. Veja a categoria para idiomas de presence para uma lista. </td>
-      <td style="text-align:left"><code>Objeto</code></td>
+      <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>Não</code></td>
     </tr>
     <tr>
