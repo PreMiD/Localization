@@ -3,6 +3,10 @@
 		"message": "Kontributor",
 		"description": "A page name"
 	},
+	"premid.pageDownloads": {
+		"message": "Unduhan",
+		"description": "A page name"
+	},
 	"premid.pageStore": {
 		"message": "Toko",
 		"description": "A page name"
