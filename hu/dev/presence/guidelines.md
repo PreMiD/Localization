@@ -1,5 +1,5 @@
 ---
-title: Presence Guidelines
+title: Presence Irányelvek
 description: Rules that all presence developers must follow to have their presence added.
 published: true
 date: 2021-03-06T15:01:04.274Z
@@ -10,12 +10,12 @@ dateCreated: 2021-02-26T21:54:41.573Z
 
 <div align="center">
     <img src="https://github.com/PreMiD.png?size=2048" width="128px" style="max-width:100%;">
-    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Guidelines</h3>
+    <h3 style="font-size: 2rem; margin-bottom: 0">Presence Irányelvek</h3>
     <h4 style="margin-top: 0">Revision 3</h4>
     <br />
 </div>
 
-# Guidelines
+# Irányelvek
 
 When publishing Presences to the [Presences repository](https://github.com/PreMiD/Presences/), we require you to follow a set of guidelines. To some, these strict rules may seem harsh. However, the implementation of these rulesets will keep us and the users from running into any issues.
 
@@ -139,7 +139,7 @@ A list of fields and their rules are listed below:
 
 - The schema _key_ **must** include a dollar sign at the beginning of it, this will signal your text editor that you want to validate your JSON file against a model. _As stated earlier, you do not need to include a schema, but if you include it you must take this into account._
 
-### **`készítő`**
+### **`author`**
 
 - The ID _value_ **must** be your Discord snowflake ID. You can get it by enabling [developer mode](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-). _Please do **not** confuse this with your application ID, which is only for your presence._
 
@@ -157,7 +157,7 @@ A list of fields and their rules are listed below:
 
 - **Only** use this in scenarios where a website goes under multiple official names (e.g. Pokémon and 포켓몬스터). _Shortened_ versions of service names go under `tags`.
 
-### **`leírás`**
+### **`description`**
 
 - **All** presences are **required** to have an English description regardless of the website's prefered language.
 - Do **not** try and translate the description yourself unless you know that language, translators will modify your `metadata.json` and change the descriptions if necessary.
@@ -167,7 +167,7 @@ A list of fields and their rules are listed below:
 - The url **must** be a string if the website only uses one domain. If the website uses multiple, make this an array and specify each one.
 - Do **not** include protocols in the url (for e.g., `http` or `https`), and do not include query parameters in the url (for e.g., `www.google.com/search?gws_rd=ssl` which should be `www.google.com`)
 
-### **`verzió`**
+### **`version`**
 
 - Always make sure the version number follows [semantic versioning standards](https://semver.org), which translates to the following scheme: `<NEW-FEATURE>.<HUGE-BUGFIX>.<SMALL-BUGFIX-OR-METADATA-CHANGES>`. Anything else like `1.0.0.1`, `1.0`, `1`, `1.0.0-BETA` or changing `1.0.0` to `2.0.0` on a bug fix/small change is **not** permitted.
 - The version **must** always start at `1.0.0` unless told otherwise, other versions will **not** be permitted.
@@ -186,7 +186,7 @@ A list of fields and their rules are listed below:
 - The color **must** be a hexadecimal value between `#000000` and `#FFFFFF`.
 - The color string **must** be prepended with a hash symbol.
 
-### **`címkék`**
+### **`tags`**
 
 - **All** presences are required to have at least _one_ tag.
 - Tags must **not** include any spaces, slashes, single/double quotation marks, Unicode characters, and should always be lowercase.
@@ -207,12 +207,12 @@ A list of fields and their rules are listed below:
 - Must be `boolean` value (e.g. `true` or `false`).
 - Enables logs for your presence.
 
-### **`warning`**
+### **`figyelmeztetés`**
 
 - Enables warning icon for prompting user that this presence needs more steps than only adding presence.
 - Example of presence using this metadata variable is `VLC`.
 
-### **`beállítások`**
+### **`settings`**
 
 - If you decide to make a format string (for e.g., `%song% by %artist%`), you must have the variables surrounded by a percent sign on either side. Variables like `%var`, `var%`, or `%%var%%` and anything in between are **not** permitted for the sake of standardization.
 - The name of the settings must **not** be in all capital letters. For example, names such as `SHOW BROWSING STATUS` will **not** be permitted; however, names such as `Show Browsing Status` or `Show browsing status` are permitted.
