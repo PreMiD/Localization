@@ -23,13 +23,13 @@ Como as presences, os `iframes` têm suas próprias classes projetadas para atua
 let iframe = new iFrame();
 
 iframe.on("UpdateData", async () => {
-    // O código vai aqui...
+    // Code goes here...
 });
 ```
 
 ## Métodos
 
-### `send(Objeto)`
+### `send(Object)`
 Envia dados para a presence. Usando este método a presence lançará um evento `iFrameData`.
 
 ### `getUrl()`
@@ -40,7 +40,7 @@ Em `iframes`, os eventos funcionam da mesma forma que na `classe de presence`.
 
 ```typescript
 iframe.on("UpdateData", async () => {
-    // Código vai aqui...
+    // Code goes here...
 });
 ```
 
