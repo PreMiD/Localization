@@ -96,7 +96,7 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>service</b></td>
       <td style="text-align:left">Názov služby ktorú táto prítomnosť podporuje.</td>
-      <td style="text-align:left"><code>Reťazec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -148,7 +148,7 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>color</b></td>
       <td style="text-align:left"><code>#HEX</code> hodnota. Odporúčame vám používať primárnu farbu služby        ktorá vaša prítomnosť podporuje.</td>
-      <td style="text-align:left"><code>Reťazec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -160,7 +160,7 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>category</b></td>
       <td style="text-align:left">Reťazec použitý na označenie kategórie do ktorej patrí.</td>
-      <td style="text-align:left"><code>Reťazec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Nie</code></td>
     </tr>
     <tr>
@@ -172,17 +172,17 @@ Ten príklad vyzerá naozaj čudne, hm? Nerobte si starosti nie je to také ťa�
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
       <td style="text-align:left">Selektor regulárneho výrazu ktorý vyberá prvky iframe do ktorých sa má vložiť.</td>
-      <td style="text-align:left"><code>Reťazec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>readLogs</b></td>
       <td style="text-align:left">Defines whether the extension should be reading logs.</td>
-      <td style="text-align:left"><code>Reťazec</code></td>
+      <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>Áno</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>nastavenia</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Áno</code></td>
