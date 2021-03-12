@@ -344,17 +344,17 @@ Ao fazer a sua presence, deve especificar uma categoria na qual a presence se en
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>jogos</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>Jogos</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>música</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>Música</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>social</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>Social</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
@@ -364,7 +364,7 @@ Ao fazer a sua presence, deve especificar uma categoria na qual a presence se en
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>outro</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>Outro</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
