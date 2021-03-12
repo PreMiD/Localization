@@ -40,7 +40,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 ## การสร้างโฟลเดอร์และไฟล์
 
 1. ไปที่โฟลเดอร์ `websites` จากนั้นไปที่ โฟลเดอร์ ที่มีอักษรตัวแรกเหมือนกับ **ชื่อ** ( ไม่ใช่ URL) เซอร์วิสที่คุณอยากเพิ่ม.
-2. Create a folder with the **name** (not an URL) of the service you want to support.
+2. สร้างโฟลเดอร์และตั้งชื่อให้เหมือนกับ**ชื่อ** (ไม่ใช่ URL) ของบริการที่คุณอยากจะเพิ่ม
 3. สร้างไฟล์ `presence.ts` และ `tsconfig.json` ข้างใน
 4. สร้างโฟลเดอร์ชื่อว่า `dist` ข้างใน
 5. สร้างไฟล์ `metadata.json` ข้างในโฟลเดอร์ `dist`
@@ -135,7 +135,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
 - `readLogs`
 - `ตั้งค่า`
 
-**Clarifying some value presets:**
+**รู้จักกับค่าต่างๆ:**
 
 <table>
   <thead>
@@ -149,22 +149,21 @@ dateCreated: 2020-06-11T18:04:02.843Z
   <tbody>
     <tr>
       <td style="text-align:left"><b>author</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
+      <td style="text-align:left">ควรเป็น Object ที่มี <code>name</code> และ <code>id</code> ของผู้พัฒนา presence. <code>name</code> คือชื่อผู้ใช้ดิสคอร์ดของคุณที่ไม่มีแท็ก (#0000) Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
         โหมดผู้พัฒนาและคลิกขวาบนโปรไฟล์ของคุณ</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>contributors</b></td>
-      <td style="text-align:left">Should contain an Object with the <code>name</code> and <code>id</code> of the presence developer. <code>name</code> is your Discord username without the identifier(#0000). Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
+      <td style="text-align:left">ควรเป็น Object ที่มี <code>name</code> และ <code>id</code> ของผู้พัฒนา presence. <code>name</code> คือชื่อผู้ใช้ดิสคอร์ดของคุณที่ไม่มีแท็ก (#0000) Id <code>ผู้ใช้</code> สามารถคัดลอกได้จากดิสคอร์ดโดยการเปิด
         โหมดผู้พัฒนาและคลิกขวาบนโปรไฟล์ของคุณ</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>ใช่</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>service</b></td>
-      <td style="text-align:left">The title of the service that this presence supports.<br>
-      (Must be the same name as the folder where everything is in)</td>
+      <td style="text-align:left">ชื่อของบริการที่ presence นี้รองรับ.  <br>      (ต้องเหมือนกับชื่อโฟลเดอร์ที่มีทุกอย่างอยู่)</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
@@ -178,19 +177,18 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>คำอธิบาย</b></td>
-      <td style="text-align:left">Small description of the presence, you can use description of the service if you are out of ideas. คำอธิบายของคุณต้องมีค่าคีย์ที่ระบุภาษาและคำอธิบายในภาษานั้น ๆ สร้างคำอธิบายด้วยภาษา <i>ที่คุณเข้าใจ </i>, ผู้แปลภาษาของเราจะทำการแปลไฟล์ metadata ของคุณ</td>
+      <td style="text-align:left">คำอธิบายหรือรายละเอียดสั้น ๆ ของ presence, คุณสามารถใช้คำอธิบายของบริการได้ถ้าคุณคิดไม่ออกแล้วจริงๆ. คำอธิบายของคุณต้องมีค่าคีย์ที่ระบุภาษาและคำอธิบายในภาษานั้น ๆ สร้างคำอธิบายด้วยภาษา <i>ที่คุณเข้าใจ </i>, ผู้แปลภาษาของเราจะทำการแปลไฟล์ metadata ของคุณ</td>
       <td style="text-align:left"><code>Object</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>url</b></td>
-      <td style="text-align:left">URL of the service.<br><b>Example:</b><code>vk.com</code><br>
-      <b>This URL must match the URL of the website as it will detect whether or not this is the website to inject the script to.</b><br> Do <b>NOT</b> add <code>https://</code> or <code>http://</code> inside of the URL nor a slash at the end:
+      <td style="text-align:left">URL ของบริการ. <br><b>ตัวอย่าง:</b><code>vk.com</code><br>
+      <b>URL นี้ต้องตรงกับ URL ของเว็บไซต์เพื่อทำให้สคริปต์ทำงาน.</b><br> <b>ห้าม</b>เพิ่ม <code>https://</code> หรือ <code>http://</code> เข้าไปใน URL หรือแม้แต่ สแลช ในตอนท้ายของ URL:
       <code>https://premid.app/</code> -> <code>premid.app</code><br>
-      <b>Note</b>: Some URLs may have <code>www.</code> or something else in front of their domain. Do <b>NOT</b> forget to add it!<br>
-      You can add multiple URLs by doing the following:<br>
-      <code>["URL1", "URL2", "ETC."]</code><br>
-      You could also use regExp also known as Regex for this task, explained further below.</td>
+      <b>หมายเหตุ</b>: บาง URL อาจมี <code>www.</code> หรือสิ่งอื่นอยู่ด้านของชื่อโดเมนได้. คุณต้อง<b>ห้าม</b>ลืมที่จะใส่มันไป!<br>
+      คุณสามารถเพิ่ม URL ได้หลาย URL โดยการทำตามนี้:<br>
+      <code>["URL 1", "URL 2", "เป็นต้น."]</code><br>      และคุณก็ยังสามารถใช้ regExp ได้ด้วยหรือรู้จักในชื่อ Regex, คำอธิบายเพิ่มเติมด้านล่าง.</td>
       <td style="text-align:left"><code>String, Array&lt;String&gt;</code></td>
       <td style="text-align:left"><code>ไม่</code></td>
     </tr>
@@ -252,7 +250,7 @@ dateCreated: 2020-06-11T18:04:02.843Z
     </tr>
     <tr>
       <td style="text-align:left"><b>iFrameRegExp</b></td>
-      <td style="text-align:left">นิพจน์ทั่วไปที่ใช้ตรวจหา iframe ที่จะแทรก See regExp for more info.</td>
+      <td style="text-align:left">นิพจน์ทั่วไปที่ใช้ตรวจหา iframe ที่จะแทรก ดู regExp สำหรับข้อมูลเพิ่มเติม</td>
       <td style="text-align:left"><code>String</code></td>
       <td style="text-align:left"><code>ใช่</code></td>
     </tr>
@@ -345,16 +343,16 @@ A lot of websites are using [iframes](https://developer.mozilla.org/en-US/docs/W
 
 If you find that your data is in a iFrame you need to do the following:
 
-1. Create a `iframe.ts` file.
+1. สร้างไฟล์ `iframe.ts`
 2. Set iFrame to `true` in your metadata file.
-3. Filling in your iFrame file.
+3. กรอกไฟล์ iFrame
 
 ```typescript
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
   /*
-  Get all the data you need out of the iFrame save them in variables
-  and then sent them using iframe.send
+  ดึงข้อมูลออกจาก iFrame  แล้วเก็บไว้ในตัวแปลต่างๆ
+  หลังจากนั้นก็ส่งออกไปใช้ iframe.send
   */
   iframe.send({
     //sending data
@@ -375,32 +373,32 @@ presence.on("iFrameData", (data) => {
 
 **Note:** This needs to be placed outside of the updateData event.
 
-## Compiling
+## การ Compile
 
 เปิด console ในโฟลเดอร์ของคุณแล้วพิมพ์ `tsc -w` เพื่อ compile `presence.ts` เข้าไปโฟลเดอร์ `/dist`.
 
-# Loading the presence
+# โหลด Presence
 
 1. Open the extension popup in the browser and hold the <kbd>Shift</kbd> button on your keyboard.
 2. **Load Presence** will appear in the Presences section.
-3. Click on it while you are still holding the <kbd>Shift</kbd> button.
-4. Select the /dist folder of your presence.
+3. คลิกไปที่มันระหว่างที่คุณยังคงกดปุ่ม <kbd>Shift</kbd> อยู่.
+4. เลือกโฟลเดอร์ /dist ของ Presence ของคุณ.
 
-# Some helpful things
+# สิ่งที่เป็นประโยชน์
 
-## Hot-reloading
+## การโหลดหน้าใหม่
 
-The website you are developing on is automatically reloading every time you save a file in your folder.
+เว็บไซต์ที่คุณกำลังพัฒนาอยู่จะโหลดซ้ำโดยอัตโนมัติทุกครั้งที่คุณบันทึกไฟล์ในโฟลเดอร์ของคุณ.
 
 ## การแก้ไขจุดบกพร่อง
 
 - คุณสามารถใส่ `console.log("Test");`  ภายในโค้ดของคุณและดูว่า Console Browser ของคุณให้ผลลัพธ์นั้นหรือไม่ ถ้าใช่ให้ไปลองอีกครั้งหลังฟังก์ชันถัดไป ถ้าไม่ใช่แสดงว่ามีข้อผิดพลาดอยู่ด้านบน
 - If that doesn't help you either then ask a presence developer on our [Discord server](https://discord.premid.app/) for help.
 
-# Files explained
+# การอธิบายทั้งหมด
 
 - [คลาส Presence](/dev/presence/class)
-- [Slideshow Class](/dev/presence/slideshow)
+- [คลาส Slideshow](/dev/presence/slideshow)
 - [คลาส iFrame](/dev/presence/iframe)
 - [ไฟล์ metadata](/dev/presence/metadata)
 - [การกำหนดค่าไฟล์ Typescript](/dev/presence/tsconfig ""){.links-list}
