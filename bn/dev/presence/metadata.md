@@ -185,7 +185,7 @@ That example looks really strange, huh? Don't worry, its not that hard to unders
       <td style="text-align:left"><code>Yes</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>সেটিংস</b></td>
+      <td style="text-align:left"><b>settings</b></td>
       <td style="text-align:left">An array of settings the user can change</td>
       <td style="text-align:left"><code>Array&lt;Object&gt;</code></td>
       <td style="text-align:left"><code>Yes</code></td>
@@ -339,22 +339,22 @@ When making your presence, you must specify a category which the presence falls 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>আনিমে</b></td>
+      <td style="text-align:left"><b>anime</b></td>
       <td style="text-align:left"><b>অ্যানিমে</b></td>
       <td style="text-align:left">Anything related to anime, from forums to video streaming platforms.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>গেমস</b></td>
+      <td style="text-align:left"><b>games</b></td>
       <td style="text-align:left"><b>গেমস</b></td>
       <td style="text-align:left">Any website that has game related content, such as <code>Kahoot</code> or <code>Skribbl.io</code></td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>মিউজিক</b></td>
+      <td style="text-align:left"><b>music</b></td>
       <td style="text-align:left"><b>মিউজিক</b></td>
       <td style="text-align:left">These are websites that offer music related content, whether that be streaming or downloading.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>সামাজিক</b></td>
+      <td style="text-align:left"><b>socials</b></td>
         <td style="text-align:left"><b>সোশ্যাল</b></td>
       <td style="text-align:left">Websites that are used for the purpose of creating and sharing content or  for participating in other forms of social networking.</td>
     </tr>
@@ -364,7 +364,7 @@ When making your presence, you must specify a category which the presence falls 
       <td style="text-align:left">Websites that serve the purpose of providing videos and streams.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>অন্যান্য</b></td>
+      <td style="text-align:left"><b>other</b></td>
       <td style="text-align:left"><b>অন্যান্য</b></td>
       <td style="text-align:left">Anything that does not fall under a specific category listed above.</td>
     </tr>
