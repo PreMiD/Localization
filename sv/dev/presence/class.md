@@ -1,5 +1,5 @@
 ---
-title: Presence Class
+title: Prensence Klass
 description: Huvudklassen för varje PreMiD presence
 published: true
 date: 2021-02-26T20:42:26.910Z
@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-02-21T21:13:14.449Z
 ---
 
-# Presence Class
+# Prensence Klass
 
-## Introduction
+## Introduktion
 
 `Närvaro` klassen är mycket användbar eftersom den har grundläggande metoder som vi behöver för att skapa en presence.
 
-When you create a class you must specify `clientId` property.
+När du skapar en klass måste du ange `clientId` egenskap.
 
 ```typescript
 const presence = new Presence({
@@ -22,23 +22,23 @@ const presence = new Presence({
 });
 ```
 
-### Properties
+### Egenskaper
 
-There are three properties available for `Presence` class.
+Det finns tre egenskaper tillgängliga för `Närvaro` klass.
 
 #### `clientId`
 
-This property is required to make your presence work, because it uses your application id to display its logo and assets. You can get it on your [applications page](https://discordapp.com/developers/applications).
+Denna egenskapen krävs för att få din presence att fungera, eftersom den använder din applikations id för att visa sin logotyp samt tillgångar. Du kan få det på din [applikationssida](https://discordapp.com/developers/applications).
 
 #### `injectOnComplete`
 
-When setting `injectOnComplete` to `true` the first `UpdateData` event for both the `presence.ts` and `iframe.ts` files will only be fired when the page has fully loaded.
+När du sätter `injectOnComplete` till `true` den första `UpdateData` händelsen för både `presence.ts` och `iframe.ts` filerna kommer endast att användas när sidan har laddats fullständigt.
 
 #### `appMode`
 
 When setting `appMode` to `true` and the presence were to send an empty `PresenceData`, the app will show the application (image and name) on the user's profile instead of nothing.
 
-## Methods
+## Metoder
 
 ### `getActivity()`
 
@@ -58,7 +58,7 @@ Clears your current activity and the tray title.
 
 ### `setTrayTitle(String)`
 
-> This method works only on Mac OS. 
+> Denna metod fungerar endast på Mac OS. 
 > 
 > {.is-warning}
 
@@ -164,7 +164,7 @@ console.log(version); // Will log 2.1.0
 
 ### `getSetting(String)`
 
-Returns value of setting.
+Returnerar värdet av inställningen.
 
 ```typescript
 const setting = await presence.getSetting("pdexID"); //Replace pdexID with the id of the setting
@@ -270,7 +270,7 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Variable</th>
+      <th style="text-align:left">Variabel</th>
       <th style="text-align:left">Beskrivning</th>
       <th style="text-align:left">Typ</th>
     </tr>
@@ -278,52 +278,52 @@ Detta gränssnitt har följande variabler, alla av dem är frivilliga.
   <tbody>
     <tr>
       <td style="text-align:left">details</td>
-      <td style="text-align:left">The first line in your presence, usually used as header.</td>
+      <td style="text-align:left">Den första raden i din presence, används vanligtvis som rubrik.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">state</td>
-      <td style="text-align:left">Second line in your presence.</td>
+      <td style="text-align:left">Andra raden i din närvaro.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">startTimestamp</td>
-      <td style="text-align:left">Defines the current time.<br>
-        Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definierar den aktuella tiden.<br>
+        Används om du vill visa hur mycket <code>timmar:minuter:sekunder</code> du har  kvar.
+          <br>Du måste konvertera din tid till <code>timestamp</code> annars får du en felaktig
+          nedräkning.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">endTimestamp</td>
-      <td style="text-align:left">Defines the full duration.
-        <br>Used if you want to display how much <code>hours:minutes:seconds</code> left.
-          <br>You must convert your time to <code>timestamp</code> or you will get a wrong
-          countdown.
+      <td style="text-align:left">Definierar varaktigheten.
+        <br>Används om du vill visa hur mycket <code>timmar:minuter:sekunder</code> du har kvar.
+          <br>Du måste konvertera din tid till <code>timestamp</code> annars får du en felaktig
+          nedräkning.
       </td>
       <td style="text-align:left"><code>Number</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">largeImageKey</td>
-      <td style="text-align:left">Defines the logo for the presence.</td>
+      <td style="text-align:left">Definierar logotypen för presencen.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageKey</td>
-      <td style="text-align:left">Defines the small icon next to presence&apos;s logo.</td>
+      <td style="text-align:left">Definierar den lilla ikonen bredvid närvaro&apos;s logotyp.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">smallImageText</td>
-      <td style="text-align:left">Defines the text that will be shown to user when he will hover the small
-        icon.</td>
+      <td style="text-align:left">Definierar texten som kommer att visas för användaren när han kommer att hålla den lilla
+        ikonen.</td>
       <td style="text-align:left"><code>String</code>
       </td>
     </tr>
