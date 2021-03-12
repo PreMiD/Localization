@@ -3,6 +3,18 @@
 		"message": "Mulai",
 		"description": "Displayed at Downloads page above steps"
 	},
+	"downloads.instructions.step_1": {
+		"message": "Unduh PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.footer": {
+		"message": "Masih mengalami masalah? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Kami disini untuk membantu!",
+		"description": "Link to our discord"
+	},
 	"downloads.appdownloading.header": {
 		"message": "Aplikasi",
 		"description": "Header above application download buttons."
@@ -14,6 +26,18 @@
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": "{0} Tidak ada installer untuk sistem operasi ini. Ini berarti tidak ada bantuan profesional untuk ini.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.showDownloads": {
+		"message": "Tampilkan Unduhan",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "Sembunyikan Unduhan",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Uh oh, sepertinya kamu tidak memiliki akses alpha/beta :(",
+		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.button.skip": {
 		"message": "Lewati",
