@@ -1,6 +1,6 @@
 ---
 title: Linux
-description: Getting started with a PreMiD installation on Linux
+description: Darba uzsākšana ar PreMiD Linux instalāciju
 published: true
 date: 2020-11-10T18:06:56.520Z
 tags:
@@ -8,51 +8,51 @@ editor: markdown
 dateCreated: 2020-06-11T18:04:14.124Z
 ---
 
-The installation of the application is very important as the extension can not do anything by itself.
+Lietotnes uzstādīšana ir ļoti svarīga, jo paplašinājums pats par sevi neko nevar izdarīt.
 
-> Aur users that use DoomLerd's package should be safe as he says. We are not recommending to use it, but if you want you can still use it. Thanks to DoomLerd for handling aur repo still. 
+> Aur lietotāji, kuri izmanto DoomLerd paketi, jābūt drošiem, kā viņš saka. Mēs neiesakām to izmantot, bet, ja vēlaties, jūs to joprojām to varat izmantot. Paldies DoomLerd par to, ka viņš joprojām uztur aur repozitoriju. 
 > 
 > {.is-warning}
 
-## Table of Contents
+## Satura rādītājs
 
-- **[About](#about)**
-  - [Stats](#stats)
+- **[Par](#about)**
+  - [Statistika](#stats)
   - [Prasības](#requirements)
-  - Examples (soon)
-  - FAQs (soon)
-  - Building (soon)
-  - [Support](#support)
+  - Piemēri (drīzumā)
+  - BUJ (drīzumā)
+  - Būvēšana (drīzumā)
+  - [Atbalsts](#support)
   - [Beigu titri](#credits)
-  - [License](#license)
-- **[Snapcraft](#snapcraft)** (TL;DR : _never_ ™️)
-- **[Portable AppImage](#appimage)** (_RECOMMENDED_)
-  - [Installation instructions](#appimageinstall)
-  - [Additional notes](#appimagenotes)
-- [**Red Hat Enterprise Linux (RHEL) based distributions**](#packagecloud)
-- [**Debian and Ubuntu based distributions**](#packagecloud)
-- [**Arch Linux based distributions**](#arch)
+  - [Licence](#license)
+- **[Snapcraft](#snapcraft)** (TL;DR : _nekad_ ™️)
+- **[ Pārnēsājamais AppImage](#appimage)** (_IETEICAMS_)
+  - [Instalēšanas instrukcija](#appimageinstall)
+  - [Papildu piezīmes](#appimagenotes)
+- [**Red hat Enterprise Linux (RHEL) balstītas distribūcijas**](#packagecloud)
+- [**Debian un Ubuntu balstītas distribūcijas**](#packagecloud)
+- [**Arch Linux balstītas distribūcijas**](#arch)
 
 <a name="about"></a>
 
-## About
+## Par
 
-**PreMiD** is a simple, configurable utility that uses Discord's RP ( Rich Presence ) library which allows you to show what you're doing on the web ( and a few programs ) in your Discord profile as **playing status**.
+**PreMiD** ir vienkārša, konfigurējama programma, kas izmanto Discord RP ( RIch Presence) bibliotēku, kas ļauj jums redzēt, ko jūs darāt internetā ( un dažās lietotnēs ) jūsus Discord profilā, kā **spēlē statusu**.
 
 <a name="stats"></a>
 
-### Stats
+### Statistika
 
 <table>
   <tr>
-    <th>Deployment</th>
-    <th>Total downloads</th>
-    <th>Latest release</th>
+    <th>Izvietošana</th>
+    <th>Kopējais lejupielāžu skaits</th>
+    <th>Jaunākais izlaidums</th>
   </tr>
   <tr>
     <td><a href="https://github.com/PreMiD/Linux/actions"><img src="https://github.com/PreMiD/Linux/workflows/CI/badge.svg?branch=master&event=push" alt="CI"></a></td>
     <td><a href="https://github.com/PreMiD/Linux/releases"><img src="https://img.shields.io/github/downloads/PreMiD/Linux/total.svg?maxAge=86400" alt="All releases"></a></td>
-    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Latest release"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
+    <td><a href="https://github.com/PreMiD/Linux/releases/latest"><img src="https://img.shields.io/github/v/release/PreMiD/Linux.svg?maxAge=86400" alt="Jaunākais izlaidums"><br><img src="https://img.shields.io/github/downloads/PreMiD/Linux/latest/total.svg?maxAge=86400" alt="Github releases"></a></td>
   </tr>
 </table>
 
@@ -60,7 +60,7 @@ The installation of the application is very important as the extension can not d
 
 ### Prasības
 
-Technically every distribution that can run Discord's [official](https://discordapp.com/download) **app** ( not the web or the snap version ) can run PreMiD too;</br> As you may have noticed in the recent years, some Linux distributions started dropping support for the 32-bit (ia32/i686/i386/x86) architectures, and as a result, we did too. You can, however, try to build the app yourself if you desperately need to use it on a 32-bit distribution.</br> Since we currently use Electron as an engine (Discord does too!), its requirements also apply to this app :
+Tehniski, katra distribūcija, kas var palaist Discord [oficiālo](https://discordapp.com/download) **lietotni** (nevis interneta vai snap versiju) var palaist arī PreMiD;</br> Kā jūs, iespējams, pamanījāt pēdējos gados, dažas Linux disitribūcijas sāka beigt atbalstīt 32-bit (ia32/i686/i386/x86) arhitektūras, kā rezultātā mēs arī to izdarījām. Jūs varat mēģināt pats izveidot lietotni, ja jums to ļoti vajag izmantot to uz 32-bit distribūcijas.</br> Tā kā šobrīd izmantojam Electron kā motoru (arī Discord to izmanto!), tā prasības attiecas arī uz šo lietotni:
 
 - Ubuntu ≥ 12.04
 - Fedora ≥ 21
@@ -70,11 +70,11 @@ It is unknown whether older versions of other distributions support it, so just 
 
 <a name="support"></a>
 
-### Support
+### Atbalsts
 
 <div>
-  <a target="_blank" href="https://discord.premid.app/" title="Join our Discord!">
-    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Join our Discord!">
+  <a target="_blank" href="https://discord.premid.app/" title="Pievienojies mūsu Discord serverim!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/493130730549805057/widget.png?style=banner2" alt="Pievienojies mūsu Discord serverim!">
   </a>
 </div>
 
@@ -92,7 +92,7 @@ Thanks to :
 
 <a name="license"></a>
 
-### License
+### Licence
 
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPreMiD%2FLinux.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPreMiD%2FLinux?ref=badge_large)
 
@@ -105,7 +105,7 @@ The AppImage package is the recommended one if Discord works for you but other P
 
 <a name="appimageinstall"></a>
 
-### Installation instructions
+### Instalēšanas instrukcija
 
 ```bash
 wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.AppImage && chmod a+x PreMiD*.AppImage
@@ -118,7 +118,7 @@ wget https://github.com/PreMiD/Linux/releases/latest/download/PreMiD-Portable.Ap
 
 <a name="appimagenotes"></a>
 
-### Additional notes
+### Papildu piezīmes
 
 Either if you want to try PreMiD or just don't want to install it, this one's the best, it's always up to date but _DOESN'T AUTO-START WITH THE SYSTEM!_</br>If you get tired of having to open it each time, use the other packages (according to your distribution).
 
@@ -146,13 +146,13 @@ If command doesn't work, download **deb/rpm** file from our packagecloud repo or
 <a name="arch"></a>
 <img src="https://raw.githubusercontent.com/PreMiD/Linux/86ae2fbd49499785281f388a5305b06e0d3ecfea/.github/iusearchbtw.svg" width="100" height="100" align="right"></img>
 
-## Arch Linux based distributions
+## Arch Linux balstītas distribūcijas
 
 Uses [Arch User Repository](https://aur.archlinux.org/packages/premid);</br> Supported distributions are _itself_, Manjaro, Anarchy, Artix, Arco, ArchLabs, Endeavour, Archman, BlackArch, Liri OS and [every one that supports installing from AUR](https://wiki.archlinux.org/index.php/Arch-based_distributions#Active).
 
 <a name="archinstall"></a>
 
-### Installation instructions
+### Instalēšanas instrukcija
 
 ```bash
 # Using yay (recommended)
@@ -182,7 +182,7 @@ or manually from the [Arch User Repository](https://aur.archlinux.org/packages/p
 
 <a name="archnotes"></a>
 
-### Additional notes
+### Papildu piezīmes
 
 If your distro uses pacman, then you have to install one of the helpers first. If you don't have any, Yay is recommended, run :
 
