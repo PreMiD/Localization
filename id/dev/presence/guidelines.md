@@ -212,7 +212,7 @@ Daftar bidang dan peraturannya tertulis dibawah:
 - **Selalu** menyatakan instance baru dari class `Presence` sebelum variabel lainnya untuk menghindari masalah yang mungkin terjadi; hal ini tidak diharuskan pada desain jadi bisa dihapus kedepannya.
 - Contoh dari presence yang menggunakan variabel metadata ini adalah `VLC`.
 
-### **`settings`**
+### **`pengaturan`**
 
 - Jika kamu berniat untuk membuat suatu string format (contoh, `%song% by %artist%`), kamu harus menaruh variabelnya diantara sebuah tanda persen di kedua sisi. Jika pencipta presence terkena ban dari server resmi atau belum membuat perubahan yang dibutuhkan dalam waktu satu bulan, anda dapat menghubungi reviewer untuk meminta menulis ulang presence tersebut.
 - Nama dari setting harus **tidak** berhuruf kapital semua. Hubungi verifier untuk informasi lebih lanjut tentang hal ini.
