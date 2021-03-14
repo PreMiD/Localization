@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Đang xem cái gì thịnh hành",
+        "message": "Đang xem cái gì đang hot",
         "description": ""
     },
     "youtube.browsingThrough": {
