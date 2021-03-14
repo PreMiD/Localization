@@ -1,8 +1,4 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD** este o utilitate simplă, configurabilă care îți permite să arăți ce faci pe web în Discord pe se joacă acum status.",
-		"description": "First phrase that users read on our website"
-	},
 	"home.introduction.button.downloads": {
 		"message": "Descărcări",
 		"description": "Downloads button -> redirects to /downloads page"
