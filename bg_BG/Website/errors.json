@@ -1,46 +1,10 @@
 {
-	"store.search.notFound": {
-		"message": "Не можахме да намерим вашето търсене...",
-		"description": "Search result text when nothing's found"
-	},
-	"error.code.404": {
-		"message": "Съжаляваме, не можахме да намерим тази страница.",
-		"description": "Error (404) message"
-	},
-	"error.code.4": {
-		"message": "Търсите нещо, което не съществува или не присъства.",
-		"description": "Error (4) message"
-	},
-	"error.code.500": {
-		"message": "Възникна вътрешна грешка в сървъра.",
-		"description": "Error (500) message"
-	},
 	"error.page.details": {
 		"message": "детайли",
 		"description": "'Details' text on error page container"
 	},
-	"error.page.button": {
-		"message": "Обратно към началната страница",
-		"description": "Button on the error page"
-	},
 	"user.notFound.heading": {
 		"message": "Този потребител не може да бъде намерен. Опитайте да се уверите",
 		"description": "Error when user couldn't be found."
-	},
-	"user.notFound.message1": {
-		"message": ",че ID-то на потребитела, за когото търсите е правилно.",
-		"description": "Check user ID message."
-	},
-	"user.notFound.message2": {
-		"message": ",че потребителят е създал достатъчно присъствия и има ролята на Разработчик в нашия Discord сървър.",
-		"description": "Check the presence amount of the developer created message."
-	},
-	"user.notFound.message3": {
-		"message": ",ако останалите преживяват същата грешка в нашата Discord група.",
-		"description": "Check if the error is also happening to others message."
-	},
-	"user.notFound.message4": {
-		"message": "Ако мислите, че това е било грешка, моля, свържете се с нас в [our Discord server].",
-		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
