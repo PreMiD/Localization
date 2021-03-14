@@ -1,10 +1,1 @@
-{
-    "amazon.cart": {
-        "message": "購物車",
-        "description": "Part 2 of the string: \"Viewing their\""
-    },
-    "amazon.wishlist": {
-        "message": "願望清單",
-        "description": "Part 2 of the string: \"Viewing their\""
-    }
-}
+{}
