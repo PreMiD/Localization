@@ -59,6 +59,10 @@
 		"message": "Kategorije",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "Vse",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Igre",
 		"description": "Category at the top"

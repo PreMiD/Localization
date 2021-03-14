@@ -39,6 +39,10 @@
 		"message": "Presence",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
+	"popup.presences.manage": {
+		"message": "Kelola",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
 	"popup.presences.noPresences": {
 		"message": "Tidak ada presence yang ditambahkan",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
@@ -51,6 +55,14 @@
 		"message": "Muat Presence",
 		"description": "Load Presence button"
 	},
+	"popup.buttons.presenceStore": {
+		"message": "Toko Presence",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Butuh Bantuan?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
 	"popup.credits.error.heading": {
 		"message": "Oh tidak!",
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
@@ -58,6 +70,10 @@
 	"popup.credits.error.message": {
 		"message": "Kesalahan saat memuat kredit",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Tidak terhubung",
+		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
 		"message": "PreMiD tidak dapat terhubung ke aplikasi! Sudahkah PreMiD terpasang dan berjalan? *Troubleshooting*",
@@ -105,6 +121,14 @@
 	},
 	"popup.category.all": {
 		"message": "Semua",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Musik",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.games": {
