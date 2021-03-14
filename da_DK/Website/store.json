@@ -1,43 +1,7 @@
 {
-	"store.message.error": {
-		"message": "Udvidelsen er ikke tilsluttet.",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
-	},
 	"store.cards.creator": {
 		"message": "Forfatter",
 		"description": "Creator of a presence"
-	},
-	"store.header.search": {
-		"message": "Søg efter Presence",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Tilføj Presense",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Fjern Presence",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.category.filters.heading": {
-		"message": "Filtre",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Hyppigst benyttede først",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Vis NSFW",
-		"description": "Adult content checkbox"
-	},
-	"store.filters.added": {
-		"message": "Vis tilføjede Presences",
-		"description": "Store filter to display/not display already installed presences."
-	},
-	"store.category.heading": {
-		"message": "Kategorier",
-		"description": "Category heading"
 	},
 	"store.category.all": {
 		"message": "Alle",
@@ -62,17 +26,5 @@
 	"store.category.other": {
 		"message": "Andet",
 		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Søg",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "Enter",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "Klik for at fjerne filtret",
-		"description": "Remove message for active search filters."
 	}
 }
