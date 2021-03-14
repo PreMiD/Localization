@@ -1,12 +1,4 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD** on lihtne, konfigureeritav lisa, mis lubab sul näidata Discordi staatusena, mida sa teed teatud leheküljel.",
-		"description": "First phrase that users read on our website"
-	},
-	"home.introduction.button.features": {
-		"message": "Funktsioonid",
-		"description": "Introduction button"
-	},
 	"home.introduction.button.downloads": {
 		"message": "Allalaadimised",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -19,10 +11,6 @@
 		"message": "{0} jäänud",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
-	"home.examples.timestamp2": {
-		"message": "{0} kestnud",
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
 	"home.examples.status.playing": {
 		"message": "Mängib tagasi",
 		"description": "Discord Rich Presence -> small image text;"
@@ -32,7 +20,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Sirvib...",
+		"message": "Otsib...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -43,21 +31,9 @@
 		"message": "Otsi **oma** lisa",
 		"description": "Features section subheading"
 	},
-	"home.features.presencesystem.description": {
-		"message": "Me tegime oma rakendusi nii, et saad ise lisada oma lisasid, mis on tehtud teistel ja hallata neid meie rakenduses!",
-		"description": "Features section description"
-	},
-	"home.features.presencesystem.button": {
-		"message": "Külasta poodi",
-		"description": "Features section button"
-	},
 	"home.features.simpleInterface.heading": {
 		"message": "Lihtne kasutaja sait",
 		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description": {
-		"message": "Oled väsinud igavatest kasutajaliidestest? Sellepärast me lõime enda kasutajaliidese võimalikult lihtsaks tähtsate uuendustega nagu:",
-		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Rakenduse ja lisa sätted",
@@ -67,24 +43,8 @@
 		"message": "Staatuse haldamine",
 		"description": "Features section description point"
 	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Sorteeri kategooria järgi",
-		"description": "Features section description point"
-	},
 	"home.features.quickSupport.heading": {
 		"message": "Kiire tugi",
 		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.description": {
-		"message": "Midagi on viga, saadab sulle paljusid erroreid või lihtsalt ei tööta? Me aitame nendest vigadest lahti saada meie Discordi serveris, kus me lõime oma enda toesüsteemi, mis aitab kindlaks teha, et su probleem saab lahendatud nii kiiresti, kui võimalik.",
-		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Liitu meie Discordiga",
-		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Veebilehe keel",
-		"description": "Tippy content of the language selector."
 	}
 }
