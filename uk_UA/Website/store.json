@@ -67,10 +67,6 @@
 		"message": "Ігри",
 		"description": "Category at the top"
 	},
-	"store.category.music": {
-		"message": "Музика",
-		"description": "Category at the top"
-	},
 	"store.category.socials": {
 		"message": "Соціальне",
 		"description": "Category at the top"
