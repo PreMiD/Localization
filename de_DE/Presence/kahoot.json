@@ -3,6 +3,10 @@
         "message": "Spiel beitreten: {0}",
         "description": "Used as the title for the button in Discord. {0} is the Game ID"
     },
+    "kahoot.joiningGame": {
+        "message": "Spiel beitreten...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
     "kahoot.gameStarting": {
         "message": "Spiel startet!",
         "description": "Used when a Kahoot Game is starting"
@@ -26,6 +30,10 @@
     "kahoot.resultsQuestion": {
         "message": "Betrachtet Ergebnisse:",
         "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.gameOver": {
+        "message": "Spiel beendet",
+        "description": "Used when the Game is finished"
     },
     "kahoot.gameCreate": {
         "message": "Erstellt ein Spiel...",
