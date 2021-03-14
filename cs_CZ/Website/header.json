@@ -34,25 +34,5 @@
   "header.contributors": {
     "message": "Přispěvatelé",
     "description": "Contributors tab"
-  },
-  "header.login": {
-    "message": "Přihlásit se",
-    "description": "Login Button"
-  },
-  "header.lia": {
-    "message": "Přihlášen jako",
-    "description": "Indicates which user is logged in"
-  },
-  "header.rab": {
-    "message": "Nahlásit chybu",
-    "description": "Report a bug button"
-  },
-  "header.staff": {
-    "message": "Řídicí panel",
-    "description": "Dashboard button"
-  },
-  "header.logout": {
-    "message": "Odhlásit se",
-    "description": "Logout button"
   }
 }
