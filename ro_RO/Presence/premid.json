@@ -15,16 +15,8 @@
 		"message": "Parteneri",
 		"description": "A page name"
 	},
-	"premid.pageInstall": {
-		"message": "Instalare",
-		"description": "A page name"
-	},
 	"premid.pageTroubleshooting": {
 		"message": "Depanare",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Clasă Presence",
 		"description": "A page name"
 	}
 }
