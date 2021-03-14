@@ -1,40 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Zobrazení předplatného",
-        "description": ""
-    },
-    "amazon.adprefs": {
-        "message": "Zobrazení jejich adprese",
-        "description": ""
-    },
-    "amazon.balance": {
-        "message": "Zobrazení jejich bilance",
-        "description": ""
-    },
-    "amazon.payment": {
-        "message": "Zobrazení platebních metod",
-        "description": ""
-    },
-    "amazon.address": {
-        "message": "Zobrazení jejich adres",
-        "description": ""
-    },
-    "amazon.pets": {
-        "message": "Prohlížení jejich zvířat v zájmovém chovu",
-        "description": ""
-    },
-    "amazon.catergoriesAll": {
-        "message": "Zobrazování všech kategorií",
-        "description": ""
-    },
-    "amazon.prime": {
-        "message": "Zobrazení Amazon Prime",
-        "description": ""
-    },
-    "amazon.viewTheir": {
-        "message": "Zobrazení jejich",
-        "description": "Part 1 of the next 5 strings"
-    },
     "amazon.orderHistory": {
         "message": "historie objednávek",
         "description": "Part 2 of the string: \"Viewing their\""
@@ -54,21 +18,5 @@
     "amazon.giftcards": {
         "message": "giftkarty",
         "description": "Part 2 of the string: \"Viewing their\""
-    },
-    "amazon.recommended": {
-        "message": "Doporučené prohlížení",
-        "description": ""
-    },
-    "amazon.history": {
-        "message": "Prohlížení jejich historie",
-        "description": ""
-    },
-    "amazon.store": {
-        "message": "Zobrazení obchodu:",
-        "description": ""
-    },
-    "amazon.primeVid": {
-        "message": "Zobrazení primárního videa:",
-        "description": ""
     }
 }
