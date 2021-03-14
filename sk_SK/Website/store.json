@@ -30,9 +30,5 @@
 	"store.category.other": {
 		"message": "Ostatné",
 		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Hľadať",
-		"description": "Placeholder for presence search"
 	}
 }
