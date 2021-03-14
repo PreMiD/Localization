@@ -1,8 +1,4 @@
 {
-	"twitter.readTweet": {
-		"message": "트윗 읽기:",
-		"description": "after the \":\" it will say the username"
-	},
 	"twitter.viewDms": {
 		"message": "DM 보는 중",
 		"description": ""
