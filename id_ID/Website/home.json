@@ -1,8 +1,4 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD** adalah utilitas simpel yang memungkinkan kamu menampilkan apa yang sedang kamu lakukan di web pada status now playing Discord.",
-		"description": "First phrase that users read on our website"
-	},
 	"home.introduction.button.features": {
 		"message": "Fitur-fitur",
 		"description": "Introduction button"
@@ -24,7 +20,7 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "Memutar kembali",
+		"message": "Memutar",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
@@ -38,14 +34,6 @@
 	"home.features.heading": {
 		"message": "Kamu akan menyukai fitur ini!",
 		"description": "Features section"
-	},
-	"home.features.presencesystem.heading": {
-		"message": "Temukan presence kamu",
-		"description": "Features section subheading"
-	},
-	"home.features.presencesystem.description": {
-		"message": "Kami membuat ekstensi sedemikian rupa agar kamu dapat menggunakan Presence yang dibuat oleh pengguna lain dan mengaturnya dengan mudah pada ekstensi kami!",
-		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
 		"message": "Kunjungi toko",
@@ -75,16 +63,8 @@
 		"message": "Dukungan cepat",
 		"description": "Features section subheading"
 	},
-	"home.features.quickSupport.description": {
-		"message": "PreMiD bermasalah, mendapat banyak error atau sama sekali tidak bekerja? Kami akan membantu untuk menyelesaikan masalah tersebut pada server Discord kami, kami juga telah membuat sistem support yang akan memastikan masalahmu terselesaikan.",
-		"description": "Features section description"
-	},
 	"home.features.quickSupport.button": {
 		"message": "Gabung Discord kami",
 		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Bahasa situs web",
-		"description": "Tippy content of the language selector."
 	}
 }
