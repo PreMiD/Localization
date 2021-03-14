@@ -1,14 +1,1 @@
-{
-	"twitch.viewSettings": {
-		"message": "Edrych ar y ffurfweddiad...",
-		"description": ""
-	},
-	"twitch.viewFriends": {
-		"message": "Edrych ar ei ffrindiau...",
-		"description": ""
-	},
-	"twitch.help": {
-		"message": "Canolfan Gymorth",
-		"description": "Page name"
-	}
-}
+{}
