@@ -119,10 +119,6 @@
 		"message": "ログイン",
 		"description": "Login button on the downloads page."
 	},
-	"downloads.button.skipanyway": {
-		"message": "無視してスキップ",
-		"description": "Skip Anyway button on the ads page."
-	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Thank you!",
 		"description": "Title of the advertisement section box."
@@ -134,10 +130,6 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "広告ブロッカーを無効にしてください。",
 		"description": "Message next to pepe."
-	},
-	"downloads.showbeta.message": {
-		"message": "ベータ版を表示",
-		"description": ""
 	},
 	"downloads.showbeta.small": {
 		"message": "（通常版をダウンロードするために、ここにいる必要はありません。）",
