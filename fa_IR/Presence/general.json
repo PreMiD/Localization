@@ -107,18 +107,6 @@
 		"message": "درحال جستجو",
 		"description": ""
 	},
-	"general.writing": {
-		"message": "درحال نوشتن",
-		"description": ""
-	},
-	"general.calling": {
-		"message": "درحال تماس",
-		"description": ""
-	},
-	"general.inCall": {
-		"message": "در تماس...",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "سبد خرید",
 		"description": ""
@@ -215,18 +203,6 @@
 		"message": "مشاهده صفحه:",
 		"description": ""
 	},
-	"general.watchingMovie": {
-		"message": "تماشای فیلم",
-		"description": ""
-	},
-	"general.watchingSeries": {
-		"message": "تماشای سری",
-		"description": ""
-	},
-	"general.watchingShow": {
-		"message": "تماشای نمایش",
-		"description": ""
-	},
 	"general.watchingVid": {
 		"message": "نگاه کردن ویدیو",
 		"description": ""
@@ -279,10 +255,6 @@
 		"message": "روی تکرار",
 		"description": ""
 	},
-	"general.incidentView": {
-		"message": "مشاهده یک رخداد",
-		"description": "A page name of statuspages"
-	},
 	"general.incidentHistory": {
 		"message": "تاریخچه وقایع",
 		"description": "A page name of statuspages"
@@ -301,46 +273,6 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "دیدن قسمت",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchVideo": {
-		"message": "تماشای ویدیو",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchStream": {
-		"message": "تماشای استریم",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewChannel": {
-		"message": "مشاهده کانال",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonListenAlong": {
-		"message": "همراه گوش دادن",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPage": {
-		"message": "مشاهده صفحه",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewSong": {
-		"message": "مشاهده موسیقی",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewAlbum": {
-		"message": "مشاهده آلبوم",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewProfile": {
-		"message": "مشاهده پروفایل",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewArtist": {
-		"message": "مشاهده هنرمند",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPlaylist": {
-		"message": "مشاهده لیست‌پخش",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPodcast": {
