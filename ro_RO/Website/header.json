@@ -34,25 +34,5 @@
   "header.contributors": {
     "message": "Contribuitori",
     "description": "Contributors tab"
-  },
-  "header.login": {
-    "message": "Loghează-te",
-    "description": "Login Button"
-  },
-  "header.lia": {
-    "message": "Logat ca",
-    "description": "Indicates which user is logged in"
-  },
-  "header.rab": {
-    "message": "Raportează o problemă",
-    "description": "Report a bug button"
-  },
-  "header.staff": {
-    "message": "Panou de Control",
-    "description": "Dashboard button"
-  },
-  "header.logout": {
-    "message": "Deloghează-te",
-    "description": "Logout button"
   }
 }
