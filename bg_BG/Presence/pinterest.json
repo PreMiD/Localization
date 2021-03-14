@@ -1,18 +1,1 @@
-{
-    "pinterest.board": {
-        "message": "Гледа табло:",
-        "description": ""
-    },
-    "pinterest.pin": {
-        "message": "Гледа пин",
-        "description": ""
-    },
-    "pinterest.follow": {
-        "message": "Гледа тяхно следване",
-        "description": ""
-    },
-    "pinterest.home": {
-        "message": "Редактиране на началната им страница",
-        "description": ""
-    }
-}
+{}
