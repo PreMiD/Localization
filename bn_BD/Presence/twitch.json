@@ -11,20 +11,8 @@
 		"message": "হোমপেজ",
 		"description": "Page name"
 	},
-	"twitch.viewSettings": {
-		"message": "দেখছে তার সেটিংস...",
-		"description": ""
-	},
-	"twitch.viewFriends": {
-		"message": "দেখছে তার বন্ধুদের...",
-		"description": ""
-	},
 	"twitch.viewTheir": {
 		"message": "দেখছে তার",
 		"description": "Part 1 of the next 10 strings"
-	},
-	"twitch.help": {
-		"message": "সাহায্য কেন্দ্র",
-		"description": "Page name"
 	}
 }
