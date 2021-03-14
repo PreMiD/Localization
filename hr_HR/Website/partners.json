@@ -1,18 +1,1 @@
-{
-	"partners.header.title": {
-		"message": "Partneri",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Pridruži se obitelji i iskoristi pogodnosti samo za partnere kako bi pokazali koliko imaš swaga.",
-		"description": "Description for page."
-	},
-	"partners.requirements.title": {
-		"message": "Zahtjevi",
-		"description": "Heading for the requirements."
-	},
-	"partners.apply.select.other": {
-		"message": "Ostalo",
-		"description": "Select 'Other' category."
-	}
-}
+{}
