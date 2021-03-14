@@ -31,10 +31,6 @@
 		"message": "Ελεγκτής",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.localizationManager": {
-		"message": "Διαχείριστης εντοπισμού",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
 	"contributors.roles.developer": {
 		"message": "Προγραμματιστής",
 		"description": "'Developer' title for contributors and user pages."
