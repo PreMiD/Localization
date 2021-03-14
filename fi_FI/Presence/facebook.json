@@ -1,14 +1,1 @@
-{
-    "facebook.call": {
-        "message": "Puhelussa henkilön: :kanssa",
-        "description": ""
-    },
-    "facebook.vcall": {
-        "message": "Videopuhelussa henkilön: :kanssa",
-        "description": ""
-    },
-    "facebook.userHidden": {
-        "message": "joku... (Henkilö piilotettu)",
-        "description": "Shows when you dont want to show who you are calling/texting."
-    }
-}
+{}
