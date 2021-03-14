@@ -3,58 +3,6 @@
 		"message": "파트너",
 		"description": "Heading for page."
 	},
-	"partners.header.description": {
-		"message": "가족에 가입하여 얼마나 많은 SWAG를 가지고 있는지 과시하기 위해 파트너 전용 혜택을 받으십시오.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "이것들은 이미 우리 소속이다.",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "지옥 대신에 천국에 가는것은 어떨까요?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "너의 무료 Presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "우리 팀은 귀하에게 서비스의 존재를 제공 할 것입니다",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "검증된 사람이 되세요.",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "특별한 역할과 좋은 명예가 우리의 디스코드 서버에서 수여될 예정입니다.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "메타 태그 통합",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "누군가 귀하의 웹 사이트를 방문 할 때 귀하의 현재 상태를 자동으로 사용합니다.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "불멸화",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "우리 파트너 페이지에 있는 끔찍한 장소.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "유명해지세요.",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "우리의 소셜 미디어에 특별히 포함됩니다.",
-		"description": "Description for the fifth benefit."
-	},
 	"partners.requirements.title": {
 		"message": "요구사항",
 		"description": "Heading for the requirements."
@@ -63,97 +11,13 @@
 		"message": "무엇을 찾고 있나요?",
 		"description": "Heading for the first requirement."
 	},
-	"partners.requirements.first.description": {
-		"message": "우리는 인터넷에서 성장하는 커뮤니티와 흥미로운 것들을 주시하고 있습니다. TL; DR 당신은 이미 PreMiD를 사용하고 있고 더 많은 인터넷 광들에게 전파 할 준비가되어 있어야합니다. 프로그램에 대한 수락은 매우 질적이며 후보자마다 다릅니다.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "우리 방화벽",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "우리는 현재 파트너십 프로그램에 대한 다양한 노력을 받고 있습니다. 누구든지 주목받을 기회가 있어야 하니깐요. 트위치 스트리머는 최소 500명의 팔로워와 최소 10명의 동시 시청자를 확보해야하고, 일주일에 한 번 이상 스트리밍해야 합니다.",
-		"description": "Description for the second requirement."
-	},
 	"partners.apply.button": {
 		"message": "지금 신청하세요!",
 		"description": "Button to apply for partner."
 	},
-	"partners.apply.disclaimer": {
-		"message": "같이 천국으로 갑시다!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "만약 당신이 PreMiD에 다소 관심이 있다면, 우리의 **job 광고**를 살펴보십시오.",
-		"description": "Hint located under the button."
-	},
 	"partners.sponsors.title": {
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "이 놀라운 사람들이 없었다면 PreMid는 불가능했을 것이다.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "그게 바로 애니메이션을 보는 방법이야.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "킹스 아레나(Arena of Kings)는 브라우저에서 플레이하는 차세대 빠른 속도의 PvP 아레나 게임이다.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat은 논스톱, 양질의 라디오 및 뉴스 엔터테인먼트를 제공하기 위해 노력하는 비영리 국제 라디오입니다.",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio는 독일, 오스트리아 및 스위스에서 시뮬레이션 게임을 위한 가장 성공적인 인포테인먼트 라디오입니다!",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "우리의 멋진 템플릿으로 당신만의 공동체를 만들기 시작하라. 네 왕국을 만들어라.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "타이가는 여러분이 한꺼번에 필요로 할 수 있는 모든 특징들을 제공하려고 하는 디스코드야!",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.bitRock": {
-		"message": "강력하고 쉽게 크로스 플랫폼 설치 프로그램 작성 도구를 사용할 수 있습니다.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "사용자에게 실시간 상태를 쉽게 전달",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "재미있는 디스코드 봇으로 연주하는 여신!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "REYFM 무료 - 쉬지 않고 15개 이상의 음악 스트림을 들어보자. 오직 여러분만을 위한 가장 좋고 최신의 음악으로!",
-		"description": "Description for REYFM."
-	},
-	"partners.partner.crowdin": {
-		"message": "기술기업의 민첩성 현지화",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "가장 강력하고 확장 가능한 오픈 소스 위키 소프트웨어",
-		"description": "Description for WikiJS."
-	},
-	"partners.partner.packageCloud": {
-		"message": "모든 아티팩트에 대한 통합된 개발자 친화적인 인터페이스.",
-		"description": "Description for PackageCloud."
-	},
-	"partners.partner.fastly": {
-		"message": "웹의 최상의 뒤에.",
-		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit은 온라인 음악 라디오로 여러분의 취향에 맞는 곡을 찾기 위해 24시간동안 방송하도록 설계되어 있어요!",
-		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "파트너에 지원하기",
