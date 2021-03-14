@@ -15,24 +15,8 @@
 		"message": "שותפים",
 		"description": "A page name"
 	},
-	"premid.pageAbout": {
-		"message": "קצת מידע על PreMiD",
-		"description": "A page name"
-	},
-	"premid.pageInstall": {
-		"message": "התקנה",
-		"description": "A page name"
-	},
 	"premid.pageTroubleshooting": {
 		"message": "פתרון תקלות",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
-		"description": "A page name"
-	},
-	"premid.pagePresenceDev": {
-		"message": "פיתוח תוסף",
 		"description": "A page name"
 	}
 }
