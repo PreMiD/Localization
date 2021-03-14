@@ -31,10 +31,6 @@
 		"message": "Reviewer",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.localizationManager": {
-		"message": "Quản lí khu vực hoá",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
 	"contributors.roles.developer": {
 		"message": "Lập trình viên",
 		"description": "'Developer' title for contributors and user pages."
