@@ -7,10 +7,6 @@
 		"message": "Περιγραφή",
 		"description": "The title of the description section."
 	},
-	"presence.sections.changelog.title": {
-		"message": "Αρχείο αλλαγών",
-		"description": "The title of the changelog section."
-	},
 	"presence.sections.information.title": {
 		"message": "Πληροφορίες",
 		"description": "The title of the information section."
