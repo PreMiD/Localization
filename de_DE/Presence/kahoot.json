@@ -3,14 +3,6 @@
         "message": "Spiel beitreten: {0}",
         "description": "Used as the title for the button in Discord. {0} is the Game ID"
     },
-    "kahoot.joiningGame": {
-        "message": "Spiel beitreten...",
-        "description": "Used when a user is joining a Kahoot Game."
-    },
-    "kahoot.waiting": {
-        "message": "Warte auf Start...",
-        "description": "Used when the user is waiting for a Kahoot Game to start"
-    },
     "kahoot.gameStarting": {
         "message": "Spiel startet!",
         "description": "Used when a Kahoot Game is starting"
@@ -35,14 +27,6 @@
         "message": "Betrachtet Ergebnisse:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
-    "kahoot.slideViewing": {
-        "message": "Betrachtet Slide:",
-        "description": "Used when a user is looking at a slide with content in a Kahoot"
-    },
-    "kahoot.gameOver": {
-        "message": "Spiel beendet",
-        "description": "Used when the Game is finished"
-    },
     "kahoot.gameCreate": {
         "message": "Erstellt ein Spiel...",
         "description": "Used when a Kahoot Host is creating a Game"
@@ -62,10 +46,6 @@
     "kahoot.questionsCorrect": {
         "message": "Korrekte Fragen: {0}",
         "description": "Used to display how many questions a user got correct"
-    },
-    "kahoot.slideShowing": {
-        "message": "Zeige Slide:",
-        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "Frage: {0}",
