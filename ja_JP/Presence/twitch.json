@@ -10,13 +10,5 @@
 	"twitch.home": {
 		"message": "トップページ",
 		"description": "Page name"
-	},
-	"twitch.viewTheir": {
-		"message": "閲覧中:",
-		"description": "Part 1 of the next 10 strings"
-	},
-	"twitch.channelAnaly": {
-		"message": "チャンネルアナリティクス",
-		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }
