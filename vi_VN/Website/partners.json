@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "Các đối tác",
+		"message": "Đối tác",
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
@@ -10,10 +10,6 @@
 	"partners.slideshow.description": {
 		"message": "Những thứ này thuộc về chúng tôi",
 		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "Tại sao không thăng thiên thay vì độn thổ?",
-		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
 		"message": "Presence miễn phí của bạn",
@@ -31,17 +27,9 @@
 		"message": "Một role đặc biệt và vinh dự sẽ được trao cho bạn trong server Discord của chúng tôi.",
 		"description": "Description for the second benefit."
 	},
-	"partners.why.benefit3.title": {
-		"message": "Tích hợp thẻ Meta",
-		"description": "Heading for the third benefit."
-	},
 	"partners.why.benefit3.description": {
 		"message": "Tự động hiển thị Presence khi có ai đó truy cập website của bạn.",
 		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Trở nên bất tử",
-		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
 		"message": "Một dành riêng cho các đối tác.",
@@ -55,21 +43,9 @@
 		"message": "Được giới thiệu trên phương tiện truyền thông của chúng tôi.",
 		"description": "Description for the fifth benefit."
 	},
-	"partners.requirements.title": {
-		"message": "Yêu cầu",
-		"description": "Heading for the requirements."
-	},
 	"partners.requirements.first.title": {
 		"message": "Chúng tôi đang tìm kiếm điều gì?",
 		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "Chúng tôi theo dõi những cộng đồng lớn mạnh và những điều thú vị trên Internet. Tóm gọn là bạn đã dùng PreMiD và sẵn sàng để lan toả thêm nữa. Việc được chấp thuận vào chương trình này rất phụ thuộc và sẽ khác nhau với từng ứng cử viên.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Tường lửa",
-		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
 		"message": "Có nhiều cách để làm đối tác với chúng tôi. Twitch streamer cần tối thiểu 500 người theo dõi và tối thiểu 10 người xem đồng thời. Bạn cần stream ít nhất 1 lần trong tuần.",
@@ -78,14 +54,6 @@
 	"partners.apply.button": {
 		"message": "Đăng ký ngay!",
 		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Hãy đi thăng thiên cùng nhau nào!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Nếu bạn khá quan tâm đến công việc trực tiếp tại PreMiD, hãy thử xem **quảng cáo việc làm** của chúng tôi.",
-		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "Các nhà tài trợ",
@@ -98,10 +66,6 @@
 	"partners.partner.aniFlix": {
 		"message": "Đây là cách bạn nên xem anime.",
 		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings là một game đấu trường PvP với nhịp độ nhanh thế hệ tiếp theo được chơi trên trình duyệt.",
-		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
 		"message": "UpBeat là một đài phát thanh quốc tế phi lợi nhuận luôn cố gắng cung cấp chương trình giải trí chất lượng nhất.",
@@ -127,14 +91,6 @@
 		"message": "Dễ dàng báo trạng thái trang web của bạn đến người dùng theo giời gian thực.",
 		"description": "Description for StatusPage."
 	},
-	"partners.partner.erisly": {
-		"message": "Một nữ thần đóng vai trò là một Discord bot!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "REYFM cho phép bạn nghe hơn 15+ luồng phát nhạc trực tiếp miễn phí - không ngừng nghỉ. Với những bài nhạc hay và mới nhất chỉ dành cho bạn!",
-		"description": "Description for REYFM."
-	},
 	"partners.partner.crowdin": {
 		"message": "Dịch thuật nhanh chóng cho công ty công nghệ.",
 		"description": "Description for Crowdin."
@@ -146,10 +102,6 @@
 	"partners.partner.fastly": {
 		"message": "Đằng sau những tinh túy của trang web.",
 		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit là một đài phát âm nhạc trực tiếp được tạo ra để phát các bản hit hay nhất của bạn 24/7 và giúp cho bạn tìm ra được những bản hit trong tương lai.",
-		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Đăng ký cho đối tác",
