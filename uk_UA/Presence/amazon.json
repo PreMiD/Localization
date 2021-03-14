@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Переглядає підписки",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "Переглядає результати пошуку",
         "description": ""
