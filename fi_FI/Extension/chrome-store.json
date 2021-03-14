@@ -1,10 +1,1 @@
-{
-  "extension.description.short": {
-    "message": "PreMiD lisää Discord Rich Presence integraation, medianäppäintuen ja paljon muuta rakastettuihin palveluihisi.",
-    "description": "Short description in extension store"
-  },
-  "extension.description.full": {
-    "message": "SINUN TÄYTYY ASENTAA VIRALLINEN SOVELLUKSEMME SAADAKSESI SEN TOIMIMAAN\n{0}{1}\n\nVoit käyttää medianäppäimiäsi näiden palveluiden toiston ohjaukseen. Kun katsot/kuuntelet jotain yhdellä tukemistamme palveluista, selainlaajennuksemme lähettää videon/kappaleen tiedot sovellukeemme ja PreMiD prosessoi ne. Sen jälkeen PreMiD lähettää tiedon Discordille oikeassa muodossa.\nTuetut palvelut\n{2}Katso täältä {3}\n\nTarvitsetko apua?\n{4} {5}\n\nDiscord-serverimme\n{6}Puhu PreMiDin takana oleville ihmisille {7}\n\nLähdekoodimme on avoin!\n{9}Hyvien asioiden pitäisi olla avoin julkisesti {10}",
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
-  }
-}
+{}
