@@ -35,10 +35,6 @@
 		"message": "你还有未解决的反馈，请等待你的提交被审阅。反馈会在一周内解决，请耐心等待。",
 		"description": "User has too many active reports"
 	},
-	"report.toomany.alert": {
-		"message": "你有过多未解决的反馈。",
-		"description": "User has too many active reports"
-	},
 	"report.success": {
 		"message": "Bug 已提交",
 		"description": "Success notification"
@@ -50,9 +46,5 @@
 	"report.error.unauth": {
 		"message": "Discord 帐户需要验证",
 		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "活跃的 Bugs",
-		"description": "Lists users active bugs"
 	}
 }
