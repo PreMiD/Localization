@@ -19,17 +19,9 @@
     "message": "Begynn å bruke {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
-  "donate": {
-    "message": "Doner",
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
-  },
   "tab.installed.error": {
     "message": "**Å nei!** Vi kunne ikke koble til applikasjonen... er den installert?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.link.troubleshooting": {
-    "message": "Feilsøking",
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
     "message": "Installer applikasjon",
