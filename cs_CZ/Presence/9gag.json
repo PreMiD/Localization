@@ -1,34 +1,6 @@
 {
-    "9gag.gag": {
-        "message": "Zobrazení gagu:",
-        "description": ""
-    },
-    "9gag.hot": {
-        "message": "Zobrazení co je horké",
-        "description": ""
-    },
     "9gag.trending": {
         "message": "Zobrazení trend",
-        "description": ""
-    },
-    "9gag.fresh": {
-        "message": "Prohlížení co je čerstvé",
-        "description": ""
-    },
-    "9gag.tag": {
-        "message": "Zobrazení tagu:",
-        "description": ""
-    },
-    "9gag.about": {
-        "message": "Čtení všech asi 9GAG",
-        "description": ""
-    },
-    "9gag.store": {
-        "message": "Zobrazení stránky obchodu",
-        "description": ""
-    },
-    "9gag.collection": {
-        "message": "Zobrazení kolekce:",
         "description": ""
     }
 }
