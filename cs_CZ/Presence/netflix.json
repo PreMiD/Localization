@@ -1,18 +1,1 @@
-{
-	"netflix.viewList": {
-		"message": "Sleduje svůj seznam uložených",
-		"description": "List as in their saved series/movies."
-	},
-	"netflix.profile": {
-		"message": "Spravuje profily",
-		"description": ""
-	},
-	"netflix.latest": {
-		"message": "Sleduje, co je nové a{0}populární na Netflixu",
-		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
-	},
-	"netflix.referral": {
-		"message": "Získávám jejich{0}odkaz na doporučení",
-		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
-	}
-}
+{}
