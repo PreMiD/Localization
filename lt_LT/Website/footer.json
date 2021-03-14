@@ -3,10 +3,6 @@
 		"message": "Kalba",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
-	"footer.usercount.heading": {
-		"message": "Pasiruošę naudoti „PreMiD“?",
-		"description": "Promotional heading"
-	},
 	"footer.usercount.message": {
 		"message": "Prisijunkite prie {0} vartotojų jau šiandien!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -18,10 +14,6 @@
 	"footer.partners.heading": {
 		"message": "Partneriai",
 		"description": "Partner section"
-	},
-	"footer.followUs.heading": {
-		"message": "Sekite mus",
-		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "Kūrėjai",
@@ -40,7 +32,7 @@
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "Paremti",
+		"message": "Paaukoti",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
@@ -50,10 +42,6 @@
 	"footer.supportus.translate": {
 		"message": "Išversti",
 		"description": "Translate -> redirects to locilazation page"
-	},
-	"footer.supportus.jobs": {
-		"message": "Dirbkite su mumis!",
-		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
 		"message": "Pagalba",
@@ -102,9 +90,5 @@
 	"footer.copyright.line2": {
 		"message": "Svetainę išlaikoma {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
-	},
-	"footer.partners.more": {
-		"message": "Spustelėkite čia, kad pamatytumėte likusius partnerius ir rėmėjus.",
-		"description": "Button next to all listed partners on the footer."
 	}
 }
