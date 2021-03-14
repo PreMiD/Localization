@@ -11,52 +11,12 @@
         "message": "někdo... (Uživatel skrytý)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
-    "facebook.writing": {
-        "message": "Vytvoření zprávy",
-        "description": ""
-    },
-    "facebook.userAbout": {
-        "message": "Čtení o uživateli:",
-        "description": ""
-    },
-    "facebook.userCommunity": {
-        "message": "Zobrazování komunity uživatelů:",
-        "description": ""
-    },
-    "facebook.userPics": {
-        "message": "Zobrazování fotografií podle uživatele:",
-        "description": ""
-    },
-    "facebook.userPosts": {
-        "message": "Zobrazení příspěvků uživatele:",
-        "description": ""
-    },
-    "facebook.userShop": {
-        "message": "Prohlížení obchodu uživatele:",
-        "description": ""
-    },
-    "facebook.userFriends": {
-        "message": "Prohlížení přátel uživatele:",
-        "description": ""
-    },
-    "facebook.userVids": {
-        "message": "Zobrazení videa uživatelem:",
-        "description": ""
-    },
-    "facebook.browse": {
-        "message": "Prohlížení:",
-        "description": ""
-    },
     "facebook.savedVids": {
         "message": "Uložená videa",
         "description": ""
     },
     "facebook.added": {
         "message": "Nedávno přidané",
-        "description": ""
-    },
-    "facebook.weather": {
-        "message": "Zobrazování počasí",
         "description": ""
     }
 }
