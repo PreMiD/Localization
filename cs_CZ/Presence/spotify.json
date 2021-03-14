@@ -1,22 +1,6 @@
 {
-	"spotify.featured": {
-		"message": "Doporučené skladby",
-		"description": ""
-	},
 	"spotify.bestPodcasts": {
 		"message": "Nejlepší podcasty",
-		"description": ""
-	},
-	"spotify.charts": {
-		"message": "Zobrazení grafů",
-		"description": ""
-	},
-	"spotify.genres": {
-		"message": "Prohlížení žánrů",
-		"description": ""
-	},
-	"spotify.latest": {
-		"message": "Zobrazení nejnovějších vydání",
 		"description": ""
 	},
 	"spotify.discover": {
@@ -26,10 +10,6 @@
 	"spotify.browse": {
 		"message": "Prohlížení",
 		"description": "First section of the next 6 strings"
-	},
-	"spotify.podcastsLike": {
-		"message": "podcasty, které se jim líbí",
-		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
 		"message": "umělci, které se jim líbí",
@@ -46,13 +26,5 @@
 	"spotify.madeForYou": {
 		"message": "\"Vytvořeno pro tebe\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
-	},
-	"spotify.playlists": {
-		"message": "jejich playlisty",
-		"description": "\"Browsing through\" + this"
-	},
-	"spotify.download": {
-		"message": "Stahování Spotify",
-		"description": ""
 	}
 }
