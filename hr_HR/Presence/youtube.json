@@ -1,18 +1,1 @@
-{
-    "youtube.ad": {
-        "message": "Trenutno gleda reklamu",
-        "description": ""
-    },
-    "youtube.browsingVideos": {
-        "message": "Pregledava videozapise",
-        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
-    "youtube.ofChannel": {
-        "message": "od kanala:",
-        "description": "Second part of multiple strings"
-    },
-    "youtube.readingChannel": {
-        "message": "Čita o kanalu:",
-        "description": ""
-    }
-}
+{}
