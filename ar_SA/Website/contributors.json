@@ -31,10 +31,6 @@
 		"message": "مراجع",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.localizationManager": {
-		"message": "مدير الشؤون المحلية",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
 	"contributors.roles.developer": {
 		"message": "مطور",
 		"description": "'Developer' title for contributors and user pages."
