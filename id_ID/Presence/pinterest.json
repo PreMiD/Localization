@@ -1,18 +1,1 @@
-{
-    "pinterest.board": {
-        "message": "Melihat papan:",
-        "description": ""
-    },
-    "pinterest.pin": {
-        "message": "Melihat pin",
-        "description": ""
-    },
-    "pinterest.follow": {
-        "message": "Melihat pengikut mereka",
-        "description": ""
-    },
-    "pinterest.home": {
-        "message": "Mengedit beranda mereka",
-        "description": ""
-    }
-}
+{}
