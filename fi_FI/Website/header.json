@@ -27,32 +27,8 @@
     "message": "Kauppa",
     "description": "Store tab"
   },
-  "header.downloads": {
-    "message": "Lataukset",
-    "description": "Downloads tab"
-  },
   "header.contributors": {
     "message": "Osallistujat",
     "description": "Contributors tab"
-  },
-  "header.login": {
-    "message": "Kirjaudu sisään",
-    "description": "Login Button"
-  },
-  "header.lia": {
-    "message": "Kirjauduttu nimellä",
-    "description": "Indicates which user is logged in"
-  },
-  "header.rab": {
-    "message": "Ilmoita virheestä",
-    "description": "Report a bug button"
-  },
-  "header.staff": {
-    "message": "Kojelauta",
-    "description": "Dashboard button"
-  },
-  "header.logout": {
-    "message": "Kirjaudu ulos",
-    "description": "Logout button"
   }
 }
