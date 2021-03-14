@@ -79,10 +79,6 @@
 		"message": "Coś jest zepsute, wysyłając mnóstwo błędów lub po prostu nie działa? Pomożemy Ci pozbyć się tych problemów na naszym serwerze Discord, stworzyliśmy również nasz własny system wsparcia, który zapewni, że problem zostanie rozwiązany tak szybko, jak to możliwe.",
 		"description": "Features section description"
 	},
-	"home.features.quickSupport.button": {
-		"message": "Dołącz na nasz serwer Discord",
-		"description": "Features section button"
-	},
 	"home.languageSelector.tippy": {
 		"message": "Język strony",
 		"description": "Tippy content of the language selector."
