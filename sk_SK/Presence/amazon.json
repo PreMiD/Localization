@@ -1,10 +1,1 @@
-{
-    "amazon.cart": {
-        "message": "nákupný košík",
-        "description": "Part 2 of the string: \"Viewing their\""
-    },
-    "amazon.wishlist": {
-        "message": "zoznam prianí",
-        "description": "Part 2 of the string: \"Viewing their\""
-    }
-}
+{}
