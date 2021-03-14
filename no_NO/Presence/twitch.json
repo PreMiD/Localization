@@ -6,9 +6,5 @@
 	"twitch.partners": {
 		"message": "Partnere",
 		"description": "Page name"
-	},
-	"twitch.viewTheir": {
-		"message": "Ser deres",
-		"description": "Part 1 of the next 10 strings"
 	}
 }
