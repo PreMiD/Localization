@@ -1,10 +1,6 @@
 {
-	"twitter.readTweet": {
-		"message": "Đang đọc tweet:",
-		"description": "after the \":\" it will say the username"
-	},
 	"twitter.viewDms": {
-		"message": "Đang xem DMs",
+		"message": "Đang xem PM",
 		"description": ""
 	},
 	"twitter.viewTweets": {
