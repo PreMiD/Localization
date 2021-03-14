@@ -15,14 +15,6 @@
 		"message": "A co třeba jít do nebe místo pekla?",
 		"description": "Heading for benefits."
 	},
-	"partners.why.benefit1.title": {
-		"message": "Váš bezplatný Presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Náš tým vám poskytne Presence pro vaší službu.",
-		"description": "Description for the first benefit."
-	},
 	"partners.why.benefit2.title": {
 		"message": "Staňte se ověřený",
 		"description": "Heading for the second benefit."
@@ -34,10 +26,6 @@
 	"partners.why.benefit3.title": {
 		"message": "Integrace meta-tagu",
 		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Automaticky začne používat váš Presence jakmile někdo navštíví vaši stránku.",
-		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Buď nesmrtelný",
@@ -51,10 +39,6 @@
 		"message": "Buď slavný",
 		"description": "Heading for the fifth benefit."
 	},
-	"partners.why.benefit5.description": {
-		"message": "Budete sdíleni na našich sociálních médiích.",
-		"description": "Description for the fifth benefit."
-	},
 	"partners.requirements.title": {
 		"message": "Požadavky",
 		"description": "Heading for the requirements."
@@ -62,10 +46,6 @@
 	"partners.requirements.first.title": {
 		"message": "Co přesně hledáme?",
 		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "Sledujeme rostoucí komunity a vzrušující věci kolem internetu. TL;DR byste již měli používat PreMiD a být připraveni ho šířit do ještě více internetových svobod. Přijímání do programu je velmi kvalitativní a v jednotlivých kandidátech se bude lišit.",
-		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
 		"message": "Naše firewall",
@@ -83,14 +63,6 @@
 		"message": "Pojďme společně do nebe!",
 		"description": "Disclaimer located above the apply button."
 	},
-	"partners.apply.jobs": {
-		"message": "Jestli máte radši zájem přímo pracovat pro PreMid, tak se podívejte na naše **nabídky práce**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "Sponzoři",
-		"description": "Heading for sponsors."
-	},
 	"partners.sponsors.description": {
 		"message": "PreMiD by nebyl možný, bez těchto úžasných lidí.",
 		"description": "Description for sponsors."
@@ -103,22 +75,6 @@
 		"message": "Arena of Kings je next-gen rychlá Pvp arénní hra hraná v prohlížeči.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat je neziskové mezinárodní rádio usilující o nonstop kvalitní rádio a zpravodajskou zábavu.",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio je nejúspěšnější infotainment rádio pro simulační hry v Německu, Rakousku a Švýcarsku!",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "Začněte vytvářet svou komunitu s úžasnými šablonami. Postavte si své vlastní království.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "taiga je Discord Bot, který se snaží nabídnou všechny funkce, které byste mohli využít, najednou!",
-		"description": "Description for taigabot."
-	},
 	"partners.partner.bitRock": {
 		"message": "Významný a snadno použivatelný nástroj pro vytváření více platforem.",
 		"description": "Description for BitRock."
@@ -126,14 +82,6 @@
 	"partners.partner.statusPage": {
 		"message": "Lehce zdělte status v reálném čase pro tvé uživatele.",
 		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "Bůh, který hraje jako zábavný Discord bot!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "REYFM pojď poslouchat zdarma více než 15 hudebních streamů - nepřetržitě. S nejlepší a nejnovější hudbou jen pro vás!",
-		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Agile lokalizace pro technologické společnosti.",
@@ -150,10 +98,6 @@
 	"partners.partner.fastly": {
 		"message": "Za tím nejlepším z webu.",
 		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit je vaše online hudební rozhlasová stanice vytvořená k tomu, aby hrála vaše nejlepší hity 24 hodin denně, 7 dní v týdnu a aby vám jako první objevila vaše budoucí hity.",
-		"description": "Description for OnlyHit."
 	},
 	"partners.apply.title": {
 		"message": "Požádat o partnera",
