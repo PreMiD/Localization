@@ -52,11 +52,7 @@
 		"description": "A page name"
 	},
 	"premid.pageStart": {
-		"message": "Pierwsze kroki",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "API",
+		"message": "Wprowadzenie",
 		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
@@ -69,14 +65,6 @@
 	},
 	"premid.pagePresenceGuide": {
 		"message": "Wytyczne dotyczące presence",
-		"description": "A page name"
-	},
-	"premid.pagePresenceClass": {
-		"message": "Klasa Presence",
-		"description": "A page name"
-	},
-	"premid.pageSlideshowClass": {
-		"message": "Klasa pokazu slajdów",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
