@@ -31,10 +31,6 @@
 		"message": "Рецензент",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.localizationManager": {
-		"message": "Управител по локализацията",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
 	"contributors.roles.developer": {
 		"message": "Разработчик",
 		"description": "'Developer' title for contributors and user pages."
