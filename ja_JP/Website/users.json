@@ -23,14 +23,6 @@
 		"message": "100個以上のプレゼンスを作った！",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
-	"user.switch.contributed": {
-		"message": "この人の [プレゼンス/貢献]",
-		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
-	},
-	"user.presences.created": {
-		"message": "ここを押してこのユーザーが作成したプレゼンスを見る",
-		"description": "Tippy content in user profile."
-	},
 	"user.presences.contributed": {
 		"message": "ここを押してこのユーザーが開発に関わったプレゼンスを見る",
 		"description": "Tippy content (mode 2) in user profile."
