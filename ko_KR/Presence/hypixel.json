@@ -14,9 +14,5 @@
     "hypixel.dm": {
         "message": "DM 보는 중",
         "description": ""
-    },
-    "hypixel.game": {
-        "message": "게임 관전 중:",
-        "description": ""
     }
 }
