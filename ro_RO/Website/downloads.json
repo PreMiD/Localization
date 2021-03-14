@@ -1,8 +1,4 @@
 {
-	"downloads.header.subtitle": {
-		"message": "Folosește PreMid acum și arată-le prietenilor tăi ce folosești, probabil vei găsi pe cineva cu aceleași interesuri.",
-		"description": "Subtitle for header"
-	},
 	"downloads.instructions.heading": {
 		"message": "Începe",
 		"description": "Displayed at Downloads page above steps"
@@ -22,10 +18,6 @@
 	"downloads.instructions.step_4": {
 		"message": "Reîncărcați pagina și verificați dacă extensia este conectată",
 		"description": "I think you get what this is..."
-	},
-	"downloads.instructions.footer": {
-		"message": "Înca mai ai probleme? {0}",
-		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
 		"message": "Suntem aici să te ajutăm!",
@@ -71,17 +63,9 @@
 		"message": "Uh oh, se pare că nu ai acces la alpha/beta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
-	"downloads.error.noaccess.description": {
-		"message": "Te poți alătura programului beta **aici** gratis. Grăbește-te! Mai sunt doar înca {0} locuri disponibile",
-		"description": "More info if the user doesn't alpha/beta access."
-	},
 	"downloads.warning.title": {
 		"message": "Atenție",
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
-	},
-	"downloads.warning.message.opera": {
-		"message": "Trebuie să instalați **această** extensie pentru a instala PreMid pentru Chrome WebStore.",
-		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
 		"message": "Omiteți",
@@ -95,33 +79,17 @@
 		"message": "Anulează",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
-	"downloads.button.okay": {
-		"message": "Okay",
-		"description": "Button on the modal of Opera/Edge browsers."
-	},
 	"downloads.button.done": {
 		"message": "Terminat",
 		"description": "Button on the page when trying to download with adblocker on."
-	},
-	"downloads.button.login": {
-		"message": "Loghează-te",
-		"description": "Login button on the downloads page."
 	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Mulțumim!",
 		"description": "Title of the advertisement section box."
 	},
-	"downloads.adsbox.thankyou.message": {
-		"message": "Folosim reclame pentru a sprijini echipa noastră și a ne menține serverele pentru a vă oferi cea mai bună experiență de utilizator!",
-		"description": "Message of the advertisement section box."
-	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "Vă rugăm să vă dezactivaţi adblock-ul",
 		"description": "Message next to pepe."
-	},
-	"downloads.showbeta.message": {
-		"message": "Afișează descărcările beta",
-		"description": ""
 	},
 	"downloads.skipanyway.message2": {
 		"message": "Ești sigur?",
