@@ -1,10 +1,1 @@
-{
-    "amazon.viewTheir": {
-        "message": "查看他们的",
-        "description": "Part 1 of the next 5 strings"
-    },
-    "amazon.cart": {
-        "message": "购物车",
-        "description": "Part 2 of the string: \"Viewing their\""
-    }
-}
+{}
