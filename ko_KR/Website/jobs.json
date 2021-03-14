@@ -11,10 +11,6 @@
 		"message": "다음",
 		"description": "Next button in the modal."
 	},
-	"jobs.modal.buttons.join": {
-		"message": "가입하기",
-		"description": "Join Discord button in the modal."
-	},
 	"jobs.modal.buttons.cancel": {
 		"message": "취소",
 		"description": "Cancel, button in the modal."
@@ -38,34 +34,6 @@
 	"jobs.header.title": {
 		"message": "PreMiD를 위해 일해주세요!",
 		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "가장 큰 Rich Presence 프로그램에 도움을 줄 준비가 되었나요?",
-		"description": "The second part of the jobs page."
-	},
-	"jobs.openings.title": {
-		"message": "채용",
-		"description": "Text before the available job positions cards."
-	},
-	"jobs.benefits.title": {
-		"message": "최고의 혜택",
-		"description": "Text before the benefits cards."
-	},
-	"jobs.benefit1.title": {
-		"message": "우리와 만나",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit1.description": {
-		"message": "PreMiD 뒤에 있는 사람들과 연락하세요.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit2.title": {
-		"message": "살짝 맛보기",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit2.description": {
-		"message": "우리들의 개발과 마케팅을 살펴보세요.",
-		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
 		"message": "명예",
