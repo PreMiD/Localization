@@ -1,8 +1,4 @@
 {
-    "amazon.subscriptions": {
-        "message": "Przeglądanie subskrypcji",
-        "description": ""
-    },
     "amazon.adprefs": {
         "message": "Przegląda swoje preferencje reklamowe",
         "description": ""
@@ -64,7 +60,7 @@
         "description": ""
     },
     "amazon.store": {
-        "message": "Przeglądanie sklepu:",
+        "message": "Przegląda sklep:",
         "description": ""
     },
     "amazon.primeVid": {
