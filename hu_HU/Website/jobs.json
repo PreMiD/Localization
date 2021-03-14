@@ -1,110 +1,14 @@
 {
-	"jobs.modal.title": {
-		"message": "Jelentkezés {0} munkára",
-		"description": "Jobs apply modal title, {0} will be replaced with the job name."
-	},
-	"jobs.modal.step": {
-		"message": "{0} / 2 lépés",
-		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
-	},
 	"jobs.modal.buttons.next": {
 		"message": "Következő",
 		"description": "Next button in the modal."
-	},
-	"jobs.modal.buttons.join": {
-		"message": "Csatlakozás",
-		"description": "Join Discord button in the modal."
 	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Mégse",
 		"description": "Cancel, button in the modal."
 	},
-	"jobs.modal.error": {
-		"message": "Kérlek tölts ki minden mezőt",
-		"description": "Error when user did not fill all the fields."
-	},
-	"jobs.modal.notice": {
-		"message": "A PreMiD egy nyílt forrású project, ami azt jelenti, hogy mi nem egy non-profit csapat vagyunk, mi minden patreon támogatásból és adományból befolyt összeget a termék fejlesztésére fordítunk. A munkára való jelentkezéssel elismered, hogy önkéntes szerepet vállalsz, azaz semmilyen fizetést nem kapsz a munkádért.",
-		"description": "Notice for applicants."
-	},
-	"jobs.guild.required": {
-		"message": "Csatlakozz Discord szerverünkre",
-		"description": "Title of the modal the user will see if it's not in Discord server."
-	},
-	"jobs.guild.explanation": {
-		"message": "A jelentkezéshez szükséges, hogy Discord szerverünk tagja legyél. Másképp nem tudjuk felvenni veled a kapcsolatot felvételkor!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
-	"jobs.header.title": {
-		"message": "Legyél te is a PreMiD dolgozója",
-		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "Készen állsz arra, hogy a legnagyobb Állapotüzenet program részese legyél?",
-		"description": "The second part of the jobs page."
-	},
-	"jobs.openings.title": {
-		"message": "Álláslehetőségek",
-		"description": "Text before the available job positions cards."
-	},
-	"jobs.benefits.title": {
-		"message": "Hatalmas előnyök",
-		"description": "Text before the benefits cards."
-	},
-	"jobs.benefit1.title": {
-		"message": "Találkozz velünk",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit1.description": {
-		"message": "Vedd fel a kapcsolatot a PreMiD mögött álló csapattagokkal.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit2.title": {
-		"message": "Betekintés",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit2.description": {
-		"message": "Vess egy pillantást a Fejlesztésre és Marketingre.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit3.title": {
-		"message": "Tisztelet",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit3.description": {
-		"message": "Komoly Discord jogosultságok és színes rang.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit4.title": {
-		"message": "PreMiD támogatása",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit4.description": {
-		"message": "Hozzájárulásoddal támogathatod a projekt előrehaladását.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit5.title": {
-		"message": "Időbeosztás",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit5.description": {
-		"message": "Ne siesd el. Ez önkéntes munka.",
-		"description": "Benefit card description."
-	},
 	"jobs.benefit6.title": {
 		"message": "Korai hozzáférés",
 		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Tesztelj új funkciókat mindenki más előtt.",
-		"description": "Benefit card description."
-	},
-	"jobs.success.applied": {
-		"message": "Köszönjük jelentkezésedet!",
-		"description": "Notification when applying."
-	},
-	"jobs.errors.alreadyApplied": {
-		"message": "Már korábban jelentkeztél!",
-		"description": "Notification when you applied already."
 	}
 }
