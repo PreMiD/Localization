@@ -1,28 +1,15 @@
 pull_request_rules:
-  - name: Automatic merge when the pull request has been approved (Master Branch).
+  - name: Automatic merge when the pull request has been approved.
     conditions:
-      - base=master
+      - base=main
       - "#approved-reviews-by>=2"
     actions:
       merge:
         method: squash
-  - name: Automatic merge when the pull request has been approved (Documentation Branch).
+
+  - name: Automatic merge when the pull request is made by SeMiD.
     conditions:
-      - base=documentation
-      - "#approved-reviews-by>=2"
-    actions:
-      merge:
-        method: squash
-  - name: Automatic merge when the pull request is made by SeMiD (Master Branch).
-    conditions:
-      - base=master
-      - author=SeMiD
-    actions:
-      merge:
-        method: squash
-  - name: Automatic merge when the pull request is made by SeMiD (Documentation Branch).
-    conditions:
-      - base=documentation
+      - base=main
       - author=SeMiD
     actions:
       merge:
