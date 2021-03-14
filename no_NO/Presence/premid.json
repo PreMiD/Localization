@@ -1,8 +1,4 @@
 {
-	"premid.viewPage": {
-		"message": "Ser på siden:",
-		"description": ""
-	},
 	"premid.pageContributors": {
 		"message": "Bidragsytere",
 		"description": "A page name"
@@ -23,28 +19,12 @@
 		"message": "Om PreMiD",
 		"description": "A page name"
 	},
-	"premid.pageSysReq": {
-		"message": "System Krav",
-		"description": "A page name"
-	},
 	"premid.pageInstall": {
 		"message": "Installasjon",
 		"description": "A page name"
 	},
-	"premid.pageTroubleshooting": {
-		"message": "Feilsøking",
-		"description": "A page name"
-	},
 	"premid.pageStart": {
 		"message": "Kom i gang",
-		"description": "A page name"
-	},
-	"premid.pageApi": {
-		"message": "Utvikler dokumentasjon (API)",
-		"description": "A page name"
-	},
-	"premid.pagePresenceDev": {
-		"message": "Tilstedeværelses Utvikling",
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
