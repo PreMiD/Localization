@@ -1,18 +1,1 @@
-{
-    "pinterest.board": {
-        "message": "Vaatelaud:",
-        "description": ""
-    },
-    "pinterest.pin": {
-        "message": "Pini vaatamine",
-        "description": ""
-    },
-    "pinterest.follow": {
-        "message": "Nende jälgimise vaatamine",
-        "description": ""
-    },
-    "pinterest.home": {
-        "message": "Nende kodulehe muutmine",
-        "description": ""
-    }
-}
+{}
