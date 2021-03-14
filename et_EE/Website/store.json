@@ -1,98 +1,10 @@
 {
-	"store.message.error": {
-		"message": "Laiendus pole ühendatud.",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
-	},
 	"store.cards.creator": {
 		"message": "Autor",
 		"description": "Creator of a presence"
 	},
-	"store.cards.popular": {
-		"message": "See Presence on väga populaarne kasutajate hulgas.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.partner": {
-		"message": "Partneriteeritud Presence",
-		"description": "Presence card partner flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "See presence vajab lisa samme, palun vaata selle lehte lisa informatsiooni jaoks.",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.header.search": {
-		"message": "Otsi Presence",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Lisa Presence",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Eemalda Presence",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "See Oresence on automaatselt lubatud lehe külastamisel.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Filtrid",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Rohkem kasutatud esimestena",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Näita NSFW'd",
-		"description": "Adult content checkbox"
-	},
-	"store.category.filters.likedOnly": {
-		"message": "Ainult meelditud Presencid",
-		"description": "Liked presences only checkbox"
-	},
-	"store.filters.added": {
-		"message": "Näita lisatud Presence",
-		"description": "Store filter to display/not display already installed presences."
-	},
-	"store.category.heading": {
-		"message": "Kategooriad",
-		"description": "Category heading"
-	},
 	"store.category.all": {
 		"message": "Kõik",
 		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Mängud",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Muusika",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Sotsiaalmeedia",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Videod & Otseülekanded",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Muud",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Otsi",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "Sisesta",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "Kliki siia filtri eemaldamiseks",
-		"description": "Remove message for active search filters."
 	}
 }
