@@ -87,22 +87,6 @@
 		"message": "Η εφαρμογή PreMiD είναι ξεπερασμένη. Παρακαλούμε ενημερώστε την για να συνεχίσετε να χρησιμοποιείτε το PreMiD.",
 		"description": "Shown when application is outdated"
 	},
-	"popup.info.safari.outdatedExtension": {
-		"message": "Ξεπερασμένη έκδοση",
-		"description": "Shown when Extension is outdated. Only for Safari port."
-	},
-	"popup.info.safari.outdatedExtension.message": {
-		"message": "Η επέκτασή σας είναι ξεπερασμένη. Παρακαλούμε ενημερώστε την για να λάβετε τις τελευταίες λειτουργίες κατεβάζοντάς την από την ιστοσελίδα μας.",
-		"description": "Shown when Extension is outdated. Only for Safari port."
-	},
-	"popup.info.safari.urgentUpdate": {
-		"message": "Επείγουσα ενημέρωση",
-		"description": "Shown when Extension is outdated. Only for Safari port."
-	},
-	"popup.info.safari.urgentUpdate.message": {
-		"message": "Κυκλοφόρησε μια επείγουσα ενημέρωση για την επέκταση. Ενημερώστε το για να συνεχίσετε να χρησιμοποιείτε το PreMiD.",
-		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
-	},
 	"popup.info.noInternet": {
 		"message": "Δεν υπάρχει σύνδεση στο διαδίκτυο!",
 		"description": "Shown when the user has no internet connection"
