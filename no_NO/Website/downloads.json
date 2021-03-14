@@ -135,10 +135,6 @@
 		"message": "Vennligst deaktiver adblock",
 		"description": "Message next to pepe."
 	},
-	"downloads.showbeta.message": {
-		"message": "Vis beta nedlastinger",
-		"description": ""
-	},
 	"downloads.showbeta.small": {
 		"message": "(ikke nødvendig dersom du kun er her for å laste ned normal applikasjon)",
 		"description": "Small text under the show beta title."
