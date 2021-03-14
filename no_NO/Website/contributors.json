@@ -15,14 +15,6 @@
 		"message": "Prosjekt Leder",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
-	"contributors.roles.staffCoordinator": {
-		"message": "Ansatte Kordinator",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
-	"contributors.roles.marketingDirector": {
-		"message": "Markedsførings direktør",
-		"description": "'Marketing Director' title for contributors and user pages."
-	},
 	"contributors.roles.administrator": {
 		"message": "Administrator",
 		"description": "'Administrator' title for contributors and user pages."
@@ -31,52 +23,12 @@
 		"message": "Anmelder",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.localizationManager": {
-		"message": "Lokalisering Behandler",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
-	"contributors.roles.developer": {
-		"message": "Utvikler",
-		"description": "'Developer' title for contributors and user pages."
-	},
-	"contributors.roles.designer": {
-		"message": "Designer",
-		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderator",
-		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.supportAgent": {
-		"message": "Support Agent",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.representative": {
-		"message": "Representant",
-		"description": "'Representative' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "Korrekturlesing",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
-	"contributors.roles.donator": {
-		"message": "Donator",
-		"description": "'Donator' title for contributors page."
-	},
 	"contributors.roles.booster": {
 		"message": "Booster",
 		"description": "'Booster' title for contributors page and user pages."
 	},
-	"contributors.roles.translator": {
-		"message": "Oversetter",
-		"description": "'Translator' title for contributors page."
-	},
 	"contributors.cards.copyUserId": {
 		"message": "Klikk for å kopiere brukeren sin ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Bruker-ID kopiert!",
-		"description": "Notification after user ID was copied."
 	}
 }
