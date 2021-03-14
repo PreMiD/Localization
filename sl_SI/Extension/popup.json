@@ -87,38 +87,6 @@
 		"message": "Vaša PreMiD aplikacija je zastarela. Prosimo posodobite ga, da lahko aplikacija deluje pravilno.",
 		"description": "Shown when application is outdated"
 	},
-	"popup.info.safari.outdatedExtension": {
-		"message": "Zastarela Razširitev",
-		"description": "Shown when Extension is outdated. Only for Safari port."
-	},
-	"popup.info.safari.outdatedExtension.message": {
-		"message": "Vaša Razširitev je zastarela. Prosimo, namestite novo nadgradnjo za najnovejše funkcije iz naše spletne strani.",
-		"description": "Shown when Extension is outdated. Only for Safari port."
-	},
-	"popup.info.safari.urgentUpdate": {
-		"message": "Pomembna nadgradnja",
-		"description": "Shown when Extension is outdated. Only for Safari port."
-	},
-	"popup.info.safari.urgentUpdate.message": {
-		"message": "Izdali smo pomembno nadgradnjo za razširitev. Prosimo nagradite, če želite še naprej uporabljati PreMiD.",
-		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
-	},
-	"popup.info.noInternet": {
-		"message": "Brez internetne povezave!",
-		"description": "Shown when the user has no internet connection"
-	},
-	"popup.info.noInternet.message": {
-		"message": "Izgleda, da nimate internetne povezave! PreMiD trenutno ne more prikazovati prisotnosti.",
-		"description": "Shown when the user has no internet connection"
-	},
-	"popup.info.notConnectedDiscord": {
-		"message": "Ni povezave s Discordom!",
-		"description": "Shown in the extension when the application can't connect to Discord"
-	},
-	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD se ni moral povezati s Discord aplikacijo! Ali je nameščena in zagnana? *Popravljanje napak*",
-		"description": "Shown in the extension when the application can't connect to Discord"
-	},
 	"popup.category.all": {
 		"message": "Vse",
 		"description": "Category name shown when you open tags"
