@@ -2,9 +2,5 @@
 	"partners.header.title": {
 		"message": "Partnerid",
 		"description": "Heading for page."
-	},
-	"partners.apply.select.other": {
-		"message": "Muud",
-		"description": "Select 'Other' category."
 	}
 }
