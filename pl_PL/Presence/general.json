@@ -104,19 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "Wyszukiwanie",
-		"description": ""
-	},
-	"general.writing": {
-		"message": "Pisze",
-		"description": ""
-	},
-	"general.calling": {
-		"message": "Dzwoni",
-		"description": ""
-	},
-	"general.inCall": {
-		"message": "W rozmowie...",
+		"message": "Szukanie",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -215,41 +203,13 @@
 		"message": "Przegląda stronę:",
 		"description": ""
 	},
-	"general.watchingMovie": {
-		"message": "Oglądanie filmu",
-		"description": ""
-	},
-	"general.watchingSeries": {
-		"message": "Oglądanie serialu",
-		"description": ""
-	},
-	"general.watchingShow": {
-		"message": "Ogląda serial",
-		"description": ""
-	},
 	"general.watchingVid": {
 		"message": "Ogląda film",
 		"description": ""
 	},
-	"general.waitingVid": {
-		"message": "Oczekiwanie na premierę filmu",
-		"description": "For privacy reasons (\"A\" video, as in not specified)"
-	},
-	"general.waitingVidThe": {
-		"message": "Oczekiwanie na premierę filmu",
-		"description": "\"the\" video, as in the video title is specified)"
-	},
 	"general.watchingLive": {
 		"message": "Ogląda transmisję na żywo",
 		"description": ""
-	},
-	"general.waitingLive": {
-		"message": "Oczekiwanie na rozpoczęcie transmisji na żywo",
-		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
-	},
-	"general.waitingLiveThe": {
-		"message": "Oczekiwanie na rozpoczęcie transmisji na żywo",
-		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Ogląda:",
@@ -279,10 +239,6 @@
 		"message": "Pętla włączona",
 		"description": ""
 	},
-	"general.incidentView": {
-		"message": "Przegląda incydent",
-		"description": "A page name of statuspages"
-	},
 	"general.incidentHistory": {
 		"message": "Historia zdarzeń",
 		"description": "A page name of statuspages"
@@ -301,50 +257,6 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Ogląda odcinek",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchVideo": {
-		"message": "Obejrzyj Film",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchStream": {
-		"message": "Ogląda Stream",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewChannel": {
-		"message": "Zobacz Kanał",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonListenAlong": {
-		"message": "Słuchaj Razem",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPage": {
-		"message": "Zobacz Stronę",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewSong": {
-		"message": "Zobacz Utwór",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewAlbum": {
-		"message": "Zobacz Album",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewProfile": {
-		"message": "Wyświetl Profil",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewArtist": {
-		"message": "Zobacz wykonawcę",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPlaylist": {
-		"message": "Zobacz playlistę",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPodcast": {
-		"message": "Zobacz Podcast",
 		"description": "Used as the title for the button in Discord."
 	}
 }
