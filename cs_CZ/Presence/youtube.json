@@ -1,43 +1,11 @@
 {
-    "youtube.ad": {
-        "message": "Momentálně sleduje reklamu",
-        "description": ""
-    },
-    "youtube.browsingVideos": {
-        "message": "Prohlíží videa",
-        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
-    "youtube.browsingPlaylists": {
-        "message": "Prohlíží playlisty",
-        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
-    "youtube.viewingCommunityPost": {
-        "message": "Prohlíží komunitní příspěvky",
-        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
     "youtube.ofChannel": {
         "message": "kanálu:",
         "description": "Second part of multiple strings"
     },
-    "youtube.readingChannel": {
-        "message": "Čte si o kanálu:",
-        "description": ""
-    },
-    "youtube.searchChannel": {
-        "message": "Prohledává kanál {0} pro:",
-        "description": "{0} will be replaced with the channel name"
-    },
-    "youtube.trending": {
-        "message": "Zobrazení co je populární",
-        "description": ""
-    },
     "youtube.browsingThrough": {
         "message": "Prohlížení",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
-    "youtube.subscriptions": {
-        "message": "jejich odběry",
-        "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
         "message": "jejich knihovna",
@@ -51,58 +19,6 @@
         "message": "jejich nákupy",
         "description": "Part two of \"Browsing through\""
     },
-    "youtube.reportHistory": {
-        "message": "Prohlíží si jejich historii nahlášení",
-        "description": ""
-    },
-    "youtube.upload": {
-        "message": "Nahrávám něco...",
-        "description": ""
-    },
-    "youtube.viewAllPlaylist": {
-        "message": "Prohlíží si jejich playlisty",
-        "description": ""
-    },
-    "youtube.viewLiveEvents": {
-        "message": "Prohlíží si své živé události",
-        "description": ""
-    },
-    "youtube.viewLiveDashboard": {
-        "message": "Kouká se na jejich živý panel",
-        "description": ""
-    },
-    "youtube.viewAudioLibrary": {
-        "message": "Dívá se na audio knihovnu",
-        "description": ""
-    },
-    "youtube.studio.viewVideos": {
-        "message": "Kouká se na jelich videa",
-        "description": ""
-    },
-    "youtube.studio.editVideo": {
-        "message": "Upravuje video:",
-        "description": ""
-    },
-    "youtube.studio.videoAnalytics": {
-        "message": "Kouká na analytiku videa:",
-        "description": ""
-    },
-    "youtube.studio.videoComments": {
-        "message": "Dívá se na komentáře pod videem:",
-        "description": ""
-    },
-    "youtube.studio.videoTranslations": {
-        "message": "Kouká na překlady videa:",
-        "description": ""
-    },
-    "youtube.studio.viewTheir": {
-        "message": "Zobrazení jejich",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
-    "youtube.studio.channelAnalytics": {
-        "message": "analytiku kanálu",
-        "description": "Part two of \"Viewing their\""
-    },
     "youtube.studio.channelComments": {
         "message": "komentáře kanálu",
         "description": "Part two of \"Viewing their\""
@@ -114,9 +30,5 @@
     "youtube.studio.artistPage": {
         "message": "stránku umělce",
         "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.dashboard": {
-        "message": "Kouká na jejich řídící panel",
-        "description": ""
     }
 }
