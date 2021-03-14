@@ -1,18 +1,1 @@
-{
-	"genius.lyrics": {
-		"message": "가사 보는중:",
-		"description": "Song name will be listed after the \":\""
-	},
-	"genius.viewLyrics": {
-		"message": "가사보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"genius.viewHome": {
-		"message": "홈페이지 보는중",
-		"description": ""
-	},
-	"genius.viewAlbum": {
-		"message": "앨범 보는중:",
-		"description": "Album of a song"
-	}
-}
+{}
