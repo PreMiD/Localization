@@ -11,61 +11,13 @@
 		"message": "Vertėjai",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.projectLeader": {
-		"message": "Projekto vadovas",
-		"description": "'Project Leader' title for contributors and user pages."
-	},
-	"contributors.roles.staffCoordinator": {
-		"message": "Administracijos koordinatorius",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
-	"contributors.roles.marketingDirector": {
-		"message": "Marketingo direktorius",
-		"description": "'Marketing Director' title for contributors and user pages."
-	},
 	"contributors.roles.administrator": {
 		"message": "Administratorius",
 		"description": "'Administrator' title for contributors and user pages."
 	},
-	"contributors.roles.reviewer": {
-		"message": "Recenzentas",
-		"description": "'Reviewer' title for contributors and user pages."
-	},
-	"contributors.roles.developer": {
-		"message": "Kūrėjas",
-		"description": "'Developer' title for contributors and user pages."
-	},
-	"contributors.roles.designer": {
-		"message": "Dizaineris",
-		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderatorius",
-		"description": "'Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.supportAgent": {
 		"message": "Pagalbos Agentas",
 		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.representative": {
-		"message": "Atstovas",
-		"description": "'Representative' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "Korektorius",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
-	"contributors.roles.donator": {
-		"message": "Remėjai",
-		"description": "'Donator' title for contributors page."
-	},
-	"contributors.roles.booster": {
-		"message": "Boosteriai",
-		"description": "'Booster' title for contributors page and user pages."
-	},
-	"contributors.roles.translator": {
-		"message": "Vertėjai",
-		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
 		"message": "Spauskite, jei norite nukopijuoti vartotojo ID.",
