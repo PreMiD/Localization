@@ -31,10 +31,6 @@
 		"message": "審查員",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.localizationManager": {
-		"message": "本地管理者",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
 	"contributors.roles.developer": {
 		"message": "開發人員",
 		"description": "'Developer' title for contributors and user pages."

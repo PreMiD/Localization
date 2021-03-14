@@ -1,8 +1,4 @@
 {
-	"twitter.readTweet": {
-		"message": "Skoðar tweet:",
-		"description": "after the \":\" it will say the username"
-	},
 	"twitter.viewTweets": {
 		"message": "Skoðar tweet af:",
 		"description": ""

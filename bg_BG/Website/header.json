@@ -34,25 +34,5 @@
   "header.contributors": {
     "message": "Сътрудници",
     "description": "Contributors tab"
-  },
-  "header.login": {
-    "message": "Вход",
-    "description": "Login Button"
-  },
-  "header.lia": {
-    "message": "Влезли като",
-    "description": "Indicates which user is logged in"
-  },
-  "header.rab": {
-    "message": "Докладване за грешка",
-    "description": "Report a bug button"
-  },
-  "header.staff": {
-    "message": "Контролно табло",
-    "description": "Dashboard button"
-  },
-  "header.logout": {
-    "message": "Изход",
-    "description": "Logout button"
   }
 }

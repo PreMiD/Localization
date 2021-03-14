@@ -107,18 +107,6 @@
 		"message": "Vyhledává",
 		"description": ""
 	},
-	"general.writing": {
-		"message": "Píše",
-		"description": ""
-	},
-	"general.calling": {
-		"message": "Volání",
-		"description": ""
-	},
-	"general.inCall": {
-		"message": "V hovoru...",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Nákupní košík",
 		"description": ""
@@ -163,96 +151,12 @@
 		"message": "Prohlížení seznamu:",
 		"description": ""
 	},
-	"general.viewManga": {
-		"message": "Zobrazení manga:",
-		"description": ""
-	},
 	"general.viewMember": {
 		"message": "Prohlížení člena:",
 		"description": ""
 	},
-	"general.viewMovie": {
-		"message": "Zobrazení filmu:",
-		"description": ""
-	},
-	"general.viewPlaylist": {
-		"message": "Zobrazení playlistu:",
-		"description": ""
-	},
-	"general.viewProduct": {
-		"message": "Zobrazení produktu:",
-		"description": ""
-	},
-	"general.viewProfile": {
-		"message": "Prohlížení profilu:",
-		"description": ""
-	},
-	"general.viewSeries": {
-		"message": "Zobrazení série:",
-		"description": ""
-	},
-	"general.viewShow": {
-		"message": "Zobrazení show:",
-		"description": ""
-	},
-	"general.viewAccount": {
-		"message": "Zobrazení jejich účtu",
-		"description": ""
-	},
-	"general.viewThread": {
-		"message": "Zobrazení vlákna:",
-		"description": ""
-	},
-	"general.viewUser": {
-		"message": "Zobrazení uživatele:",
-		"description": ""
-	},
-	"general.viewing": {
-		"message": "Prohlížení:",
-		"description": ""
-	},
 	"general.viewPage": {
 		"message": "Zobrazení stránky:",
-		"description": ""
-	},
-	"general.watchingMovie": {
-		"message": "Sledují film",
-		"description": ""
-	},
-	"general.watchingSeries": {
-		"message": "Sledují seriál",
-		"description": ""
-	},
-	"general.watchingShow": {
-		"message": "Sledují show",
-		"description": ""
-	},
-	"general.watchingVid": {
-		"message": "Sledování videa",
-		"description": ""
-	},
-	"general.waitingVid": {
-		"message": "Čekám na premiéru videa",
-		"description": "For privacy reasons (\"A\" video, as in not specified)"
-	},
-	"general.waitingVidThe": {
-		"message": "Čekám na premiéru videa",
-		"description": "\"the\" video, as in the video title is specified)"
-	},
-	"general.watchingLive": {
-		"message": "Sledování živého přenosu",
-		"description": ""
-	},
-	"general.waitingLive": {
-		"message": "Čekám na zahájení streamu",
-		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
-	},
-	"general.waitingLiveThe": {
-		"message": "Čekám na zahájení streamu",
-		"description": "\"the\" livestream, as in the livestream title is specified)"
-	},
-	"general.watching": {
-		"message": "Sledování:",
 		"description": ""
 	},
 	"general.wishlist": {
@@ -270,69 +174,5 @@
 	"general.cookie": {
 		"message": "Zásady používání souborů cookie",
 		"description": "A page name"
-	},
-	"general.repeatAll": {
-		"message": "Opakování všech skladeb",
-		"description": ""
-	},
-	"general.repeat": {
-		"message": "Na smyčce",
-		"description": ""
-	},
-	"general.incidentView": {
-		"message": "Prohlížení incidentu",
-		"description": "A page name of statuspages"
-	},
-	"general.incidentHistory": {
-		"message": "Historie incidentů",
-		"description": "A page name of statuspages"
-	},
-	"general.uptimeHistory": {
-		"message": "Historie provozu",
-		"description": "A page name of statuspages"
-	},
-	"general.buttonViewSeries": {
-		"message": "Zobrazení série",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewMovie": {
-		"message": "Zobrazit film",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewEpisode": {
-		"message": "Sledujte epizodu",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchVideo": {
-		"message": "Sledovat video",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchStream": {
-		"message": "Sledovat stream",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewChannel": {
-		"message": "Zobrazit kanál",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonListenAlong": {
-		"message": "Poslouchat spolu",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPage": {
-		"message": "Zobrazit stránku",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewSong": {
-		"message": "Zobrazit skladbu",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewAlbum": {
-		"message": "Zobrazit album",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewProfile": {
-		"message": "Zobrazit profil",
-		"description": "Used as the title for the button in Discord."
 	}
 }

@@ -1,10 +1,1 @@
-{
-	"presence.sections.description.title": {
-		"message": "Disgrifiad",
-		"description": "The title of the description section."
-	},
-	"presence.sections.information.author": {
-		"message": "Awdur",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	}
-}
+{}

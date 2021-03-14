@@ -1,22 +1,6 @@
 {
-    "hypixel.staff": {
-        "message": "Zobrazení seznamu zaměstnanců",
-        "description": ""
-    },
-    "hypixel.watchThreads": {
-        "message": "Zobrazení jejich sledovaných vláken",
-        "description": "Articles they get notifications from"
-    },
-    "hypixel.watchForums": {
-        "message": "Zobrazení jejich sledovaných fór",
-        "description": "Forum categories they get notifications from"
-    },
     "hypixel.dm": {
         "message": "Prohlížení jejich přímých zpráv",
-        "description": ""
-    },
-    "hypixel.game": {
-        "message": "Zobrazení hry:",
         "description": ""
     }
 }

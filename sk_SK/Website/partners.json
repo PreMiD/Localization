@@ -11,10 +11,6 @@
 		"message": "Požiadavky",
 		"description": "Heading for the requirements."
 	},
-	"partners.requirements.second.title": {
-		"message": "Náš firewall",
-		"description": "Heading for the second requirement."
-	},
 	"partners.apply.select.other": {
 		"message": "Ostatné",
 		"description": "Select 'Other' category."

@@ -19,10 +19,6 @@
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
 	},
-	"contributors.roles.supportAgent": {
-		"message": "Agent de Asistență",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
 	"contributors.roles.donator": {
 		"message": "Donator",
 		"description": "'Donator' title for contributors page."

@@ -1,10 +1,1 @@
-{
-	"spotify.browse": {
-		"message": "Blar igjennom",
-		"description": "First section of the next 6 strings"
-	},
-	"spotify.download": {
-		"message": "Laster ned Spotify",
-		"description": ""
-	}
-}
+{}

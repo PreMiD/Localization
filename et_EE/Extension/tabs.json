@@ -3,10 +3,6 @@
     "message": "Uue versiooni lisad",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
-  "tab.button.wiki": {
-    "message": "Abi",
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
-  },
   "tab.installed.heading": {
     "message": "Tänan",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
@@ -18,10 +14,6 @@
   "tab.installed.start": {
     "message": "Alusta kasutamist {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
-  },
-  "donate": {
-    "message": "Anneta",
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
     "message": "**Oh ei!** Me ei suutnud ühendada rakendusega... Kas see on juba installitud?",

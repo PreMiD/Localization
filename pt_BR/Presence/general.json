@@ -334,17 +334,5 @@
 	"general.buttonViewProfile": {
 		"message": "Ver Perfil",
 		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewArtist": {
-		"message": "Exibir Artista",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPlaylist": {
-		"message": "Exibir playlist",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPodcast": {
-		"message": "Ver Podcast",
-		"description": "Used as the title for the button in Discord."
 	}
 }

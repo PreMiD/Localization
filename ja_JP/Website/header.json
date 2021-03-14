@@ -38,21 +38,5 @@
   "header.login": {
     "message": "ログイン",
     "description": "Login Button"
-  },
-  "header.lia": {
-    "message": "ログイン中のアカウント:",
-    "description": "Indicates which user is logged in"
-  },
-  "header.rab": {
-    "message": "バグを報告する",
-    "description": "Report a bug button"
-  },
-  "header.staff": {
-    "message": "ダッシュボード",
-    "description": "Dashboard button"
-  },
-  "header.logout": {
-    "message": "ログアウト",
-    "description": "Logout button"
   }
 }

@@ -1,16 +1,4 @@
 {
-	"home.introduction.paragraph": {
-		"message": "** „PreMiD“ ** yra paprastas, konfigūruojamas įrankis, leidžiantis parodyti, ką darote žiniatinklyje, naudodamiesi Discord būsena.",
-		"description": "First phrase that users read on our website"
-	},
-	"home.introduction.button.features": {
-		"message": "Funkcijos",
-		"description": "Introduction button"
-	},
-	"home.introduction.button.downloads": {
-		"message": "Siuntiniai",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
 	"home.examples.playingagame": {
 		"message": "Žaidžia žaidimą",
 		"description": "Discord Rich Presence -> Playing a game"
@@ -18,10 +6,6 @@
 	"home.examples.timestamp": {
 		"message": "Liko {0}",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.timestamp2": {
-		"message": "{0} praėjo",
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
 		"message": "Atkūrimas",
@@ -43,21 +27,9 @@
 		"message": "Raskite ** savo ** statusą",
 		"description": "Features section subheading"
 	},
-	"home.features.presencesystem.description": {
-		"message": "Savo plėtinį sukūrėme tokiu būdu, kuris leidžia jums pridėti ir naudoti kitų vartotojų sukurtus statusus ir valdyti juos plėtinyje!",
-		"description": "Features section description"
-	},
-	"home.features.presencesystem.button": {
-		"message": "Apsilankykite parduotuvėje",
-		"description": "Features section button"
-	},
 	"home.features.simpleInterface.heading": {
 		"message": "Paprasta vartotojo sąsaja",
 		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description": {
-		"message": "Pavargote nuo komplikuotų vartotojų sąsajų? Štai kodėl mes sukūrėme ir bandome išlaikyti savo UI kiek įmanoma paprasčiausią ir naudingiausią, su visomis galimomis svarbiomis galimybėmis kaip:",
-		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Programos ir plėtinio nustatymai",
@@ -67,24 +39,8 @@
 		"message": "Statusų valdymas",
 		"description": "Features section description point"
 	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Rūšiuoti pagal kategoriją",
-		"description": "Features section description point"
-	},
 	"home.features.quickSupport.heading": {
 		"message": "Greita pagalba",
 		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.description": {
-		"message": "Kažkur įvyko klaida, atsiunčianti jums daugybę klaidų ar tiesiog neveikia? Mes padėsime jums atsikratyti šių problemų mūsų Discord serveryje, taip pat sukūrėme savo pagalbos sistemą, kuri užtikrins, kad jūsų problema bus išspręsta kaip įmanoma greičiau.",
-		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Prisidėkite prie mūsų Discord",
-		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Puslapio kalba",
-		"description": "Tippy content of the language selector."
 	}
 }

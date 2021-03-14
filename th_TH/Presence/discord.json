@@ -75,14 +75,6 @@
 		"message": "หน้าเกี่ยวกับ",
 		"description": "Second part of the \"Browsing through\" string"
 	},
-	"discord.inspiration": {
-		"message": "หน้าแรงบันดาลใจ",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.partner": {
-		"message": "หน้าพาร์ทเนอร์",
-		"description": "Second part of the \"Browsing through\" string"
-	},
 	"discord.streamkit": {
 		"message": "หน้า StreamKit",
 		"description": "Second part of the \"Browsing through\" string"
@@ -95,25 +87,13 @@
 		"message": "นโยบาย",
 		"description": "Second part of the \"Browsing through\" string"
 	},
-	"discord.devs.appsBrowse": {
-		"message": "กำลังดูแอปทั้งหมดของเขา",
-		"description": ""
-	},
 	"discord.devs.appsEdit": {
 		"message": "กำลังแก้ไขแอป: {0}",
 		"description": "{0} will be replaced with the name of the app."
 	},
-	"discord.devs.teamsBrowse": {
-		"message": "กำลังดูทีมทั้งหมดของเขา",
-		"description": ""
-	},
 	"discord.devs.teamsEdit": {
 		"message": "กำลังแก้ไขทีม: {0}",
 		"description": "{0} will be replaced with the name of the team."
-	},
-	"discord.devs.serversBrowse": {
-		"message": "กำลังดูเซิฟเวอร์ทั้งหมดของเขา",
-		"description": ""
 	},
 	"discord.status": {
 		"message": "สถานะ Discord",

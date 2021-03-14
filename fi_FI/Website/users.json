@@ -1,10 +1,1 @@
-{
-	"user.importantPresenceDev.message2": {
-		"message": "Luonut {0} presenceä.",
-		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.geniusPresenceDev.message2": {
-		"message": "Luonut yli 100 Presenceä!",
-		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
-	}
-}
+{}
