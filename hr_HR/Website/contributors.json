@@ -1,16 +1,4 @@
 {
-	"contributors.headings.staff": {
-		"message": "Osoblje",
-		"description": "Heading for group of users."
-	},
-	"contributors.headings.supporters": {
-		"message": "Donatori",
-		"description": "Heading for group of users."
-	},
-	"contributors.headings.translators": {
-		"message": "Prevoditelji",
-		"description": "Heading for group of users."
-	},
 	"contributors.roles.projectLeader": {
 		"message": "Voditelj Projekta",
 		"description": "'Project Leader' title for contributors and user pages."
@@ -34,45 +22,5 @@
 	"contributors.roles.developer": {
 		"message": "Programer",
 		"description": "'Developer' title for contributors and user pages."
-	},
-	"contributors.roles.designer": {
-		"message": "Dizajner",
-		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderator",
-		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.supportAgent": {
-		"message": "Agent za Podršku",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.representative": {
-		"message": "Predstavnik",
-		"description": "'Representative' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "Korektor",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
-	"contributors.roles.donator": {
-		"message": "Donator",
-		"description": "'Donator' title for contributors page."
-	},
-	"contributors.roles.booster": {
-		"message": "Booster",
-		"description": "'Booster' title for contributors page and user pages."
-	},
-	"contributors.roles.translator": {
-		"message": "Prevoditelj",
-		"description": "'Translator' title for contributors page."
-	},
-	"contributors.cards.copyUserId": {
-		"message": "Kliknite za kopiranje ID-a korisnika.",
-		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Kopiran je korisnički ID!",
-		"description": "Notification after user ID was copied."
 	}
 }
