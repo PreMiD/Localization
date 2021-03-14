@@ -1,14 +1,1 @@
-{
-    "hypixel.staff": {
-        "message": "Staff lista megtekintése",
-        "description": ""
-    },
-    "hypixel.dm": {
-        "message": "Privát üzenetek megtekintése",
-        "description": ""
-    },
-    "hypixel.game": {
-        "message": "Játék megtekintése:",
-        "description": ""
-    }
-}
+{}
