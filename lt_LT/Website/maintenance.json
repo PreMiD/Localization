@@ -1,16 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "O ne!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Deja, mes patiriame techninių sunkumų. Netrukus grįšime. Atsiprašome už nepatogumus.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Prašome grįžti vėliau, jeigu norite gauti daugiau informacijos.",
-		"description": "Heading on maintenance page"
-	},
 	"maintenance.message": {
 		"message": "Kol mūsų specialieji darbuotojai to neištaisys, apsižvalgykite čia!",
 		"description": "Message on maintenance page"
