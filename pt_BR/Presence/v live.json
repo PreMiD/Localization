@@ -43,10 +43,6 @@
 		"message": "Vendo a página de cronograma",
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
-	"v live.channelMy": {
-		"message": "Visualizando a \"minha\" página",
-		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
-	},
 	"v live.channelStore": {
 		"message": "Vendo a página da loja",
 		"description": "Second part of the \"of {0}'s channel\" string"
