@@ -1,71 +1,7 @@
 {
-	"discord.channelReading": {
-		"message": "Čtení v kanálu:{0}{1} (Server: {2})",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
-	},
-	"discord.channelTyping": {
-		"message": "Psaní do kanálu:{0}{1} (Server: {2})",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
-	},
-	"discord.dmReading": {
-		"message": "Čtení přímých zpráv od:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
-	},
-	"discord.dmTyping": {
-		"message": "Píšu přímou zprávu pro:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
-	},
-	"discord.dmGroupReading": {
-		"message": "Čtu ve skupinových přímých zprávách:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
-	},
-	"discord.dmGroupTyping": {
-		"message": "Píšu do skupiny přímých zpráv:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
-	},
-	"discord.friends": {
-		"message": "Prohlížení jejich přátel...",
-		"description": ""
-	},
-	"discord.nitro": {
-		"message": "Čtu o Nitro...",
-		"description": ""
-	},
-	"discord.voiceConnectedWith": {
-		"message": "Hlas propojen s:{0}{1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
-	},
-	"discord.voiceConnectedTo": {
-		"message": "Hlas připojen k:{0}{1} (Server: {2})",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
-	},
-	"discord.settings": {
-		"message": "Zobrazuji jejich nastavení...",
-		"description": ""
-	},
-	"discord.serverSettings": {
-		"message": "Kouká na nastavení{0}serveru: {1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
-	},
-	"discord.buttonInvite": {
-		"message": "Zobrazit odkaz na pozvání",
-		"description": "Used as the title for the button in Discord."
-	},
 	"discord.browseThrough": {
 		"message": "Prohlížení",
 		"description": "The first part of the next 17 strings"
-	},
-	"discord.opensource": {
-		"message": "Open Source stránka",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.devs.portal": {
-		"message": "Vývojářsky portál",
-		"description": ""
-	},
-	"discord.devs.teamsEdit": {
-		"message": "Úprava týmu: {0}",
-		"description": "{0} will be replaced with the name of the team."
 	},
 	"discord.merch.collection": {
 		"message": "Zobrazení kolekce:",
