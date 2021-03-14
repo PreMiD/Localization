@@ -31,10 +31,6 @@
 		"message": "आलोचक",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
-	"contributors.roles.localizationManager": {
-		"message": "स्थानीयकरण प्रबंधक",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
 	"contributors.roles.developer": {
 		"message": "डेवलपर",
 		"description": "'Developer' title for contributors and user pages."
