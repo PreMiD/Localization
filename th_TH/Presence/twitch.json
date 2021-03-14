@@ -3,32 +3,12 @@
 		"message": "ดาวน์โหลด",
 		"description": "Page name"
 	},
-	"twitch.jobs": {
-		"message": "งาน",
-		"description": "Page name"
-	},
-	"twitch.turbo": {
-		"message": "เทอร์โบ",
-		"description": "Page name"
-	},
 	"twitch.partners": {
 		"message": "ผู้ร่วมมือ",
 		"description": "Page name"
 	},
-	"twitch.press": {
-		"message": "สื่อมวลชน",
-		"description": "Page name"
-	},
 	"twitch.security": {
 		"message": "ความปลอดภัย",
-		"description": "Page name"
-	},
-	"twitch.access": {
-		"message": "การเข้าถึง",
-		"description": "Page name"
-	},
-	"twitch.ads": {
-		"message": "ตัวเลือกโฆษณา",
 		"description": "Page name"
 	},
 	"twitch.guidelines": {
@@ -47,16 +27,8 @@
 		"message": "กำลังดูเพื่อนของเขา...",
 		"description": ""
 	},
-	"twitch.campLevel": {
-		"message": "เลื่อนขั้น",
-		"description": "Page name"
-	},
 	"twitch.campMusic": {
 		"message": "เพลงบน Twitch",
-		"description": "Page name"
-	},
-	"twitch.dashboard": {
-		"message": "แดชบอร์ดของครีเอเตอร์",
 		"description": "Page name"
 	},
 	"twitch.viewTheir": {
@@ -74,25 +46,5 @@
 	"twitch.channelSettings": {
 		"message": "กำตั้งค่าช่องของเขา",
 		"description": "Part 2 of the string: \"Viewing their\""
-	},
-	"twitch.blogs": {
-		"message": "บล็อก Twitch",
-		"description": ""
-	},
-	"twitch.help": {
-		"message": "ศูนย์ช่วยเหลือ",
-		"description": "Page name"
-	},
-	"twitch.helpTopic": {
-		"message": "กำลังดูหัวข้อ:",
-		"description": ""
-	},
-	"twitch.dev": {
-		"message": "ผู้พัฒนา Twitch",
-		"description": "Page name"
-	},
-	"twitch.devSupport": {
-		"message": "ข้อมูลที่เป็นประโยชน์",
-		"description": "Page name"
 	}
 }
