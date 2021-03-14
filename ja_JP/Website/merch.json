@@ -3,10 +3,6 @@
 		"message": "**PreMiD**のオフィシャルストアへようこそ！",
 		"description": "Merch store title"
 	},
-	"merch.swag": {
-		"message": "**あなたの**商品を見つけましょう。",
-		"description": "Subtitle for store"
-	},
 	"merch.fit": {
 		"message": "**サイズを選択**",
 		"description": "Product sizes"
