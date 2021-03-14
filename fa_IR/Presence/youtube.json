@@ -3,21 +3,9 @@
         "message": "هم اکنون در حال مشاهده تبلیغ",
         "description": ""
     },
-    "youtube.browsingVideos": {
-        "message": "گشتن در ویدیو ها",
-        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
-    "youtube.browsingPlaylists": {
-        "message": "گشتن در لیست پخش",
-        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
     "youtube.viewingCommunityPost": {
         "message": "نگاه کردن پست های انجمن",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
-    },
-    "youtube.ofChannel": {
-        "message": "کانال:",
-        "description": "Second part of multiple strings"
     },
     "youtube.readingChannel": {
         "message": "خواندن درباره کانال:",
@@ -26,18 +14,6 @@
     "youtube.searchChannel": {
         "message": "جست و جو در کانال: {0} برای:",
         "description": "{0} will be replaced with the channel name"
-    },
-    "youtube.trending": {
-        "message": "مشاهده چیز های بروز",
-        "description": ""
-    },
-    "youtube.browsingThrough": {
-        "message": "گشتن در",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
-    "youtube.subscriptions": {
-        "message": "اشتراکات شان",
-        "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
         "message": "کتابخانه شان",
@@ -53,10 +29,6 @@
     },
     "youtube.reportHistory": {
         "message": "نگاه کردن تاریخچه گزارشات",
-        "description": ""
-    },
-    "youtube.upload": {
-        "message": "آپلود کردن چیزی...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -75,48 +47,12 @@
         "message": "نگاه کردن کتابخانه صوتی شان",
         "description": ""
     },
-    "youtube.studio.viewVideos": {
-        "message": "نگاه کردن ویدیو هایشان",
-        "description": ""
-    },
     "youtube.studio.editVideo": {
         "message": "ویرایش کردن ویدیو:",
         "description": ""
     },
-    "youtube.studio.videoAnalytics": {
-        "message": "نگاه کردن تجزیه و تحلیل ویدیو:",
-        "description": ""
-    },
     "youtube.studio.videoComments": {
         "message": "نگاه کردن نظرات ویدیو:",
-        "description": ""
-    },
-    "youtube.studio.videoTranslations": {
-        "message": "نگاه کردن ترجمه ویدیو:",
-        "description": ""
-    },
-    "youtube.studio.viewTheir": {
-        "message": "مشاهده",
-        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
-    },
-    "youtube.studio.channelAnalytics": {
-        "message": "تجزیه و تحلیل کانال",
-        "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.channelComments": {
-        "message": "نظرات کانال",
-        "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.channelTranslations": {
-        "message": "ترجمه های کانال",
-        "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.artistPage": {
-        "message": "صفحه هنرمند",
-        "description": "Part two of \"Viewing their\""
-    },
-    "youtube.studio.dashboard": {
-        "message": "نگاه کردن داشبوردشان",
         "description": ""
     }
 }
