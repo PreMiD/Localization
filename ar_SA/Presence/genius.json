@@ -1,18 +1,1 @@
-{
-	"genius.lyrics": {
-		"message": "عرض الكلمات من:",
-		"description": "Song name will be listed after the \":\""
-	},
-	"genius.viewLyrics": {
-		"message": "عرض الكلمات",
-		"description": "Used as the title for the button in Discord."
-	},
-	"genius.viewHome": {
-		"message": "عرض الصفحة الرئيسية",
-		"description": ""
-	},
-	"genius.viewAlbum": {
-		"message": "عرض الألبوم:",
-		"description": "Album of a song"
-	}
-}
+{}
