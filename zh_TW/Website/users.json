@@ -23,14 +23,6 @@
 		"message": "創建了超過100個狀態",
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
-	"user.switch.contributed": {
-		"message": "用戶的 [Presences/貢獻]",
-		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
-	},
-	"user.presences.created": {
-		"message": "按這裏顯示該用戶所製作的 Presences",
-		"description": "Tippy content in user profile."
-	},
 	"user.presences.contributed": {
 		"message": "按這裏顯示該用戶有參與製作的 presences",
 		"description": "Tippy content (mode 2) in user profile."
