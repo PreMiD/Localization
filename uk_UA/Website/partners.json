@@ -147,10 +147,6 @@
 		"message": "За найкращими веб-сторінками.",
 		"description": "Description for Fastly."
 	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit це ваша онлайн радіостанція, створена щоб грати кращі хіти 24/7 і щоб ви відкрили для себе майбутні хіти.",
-		"description": "Description for OnlyHit."
-	},
 	"partners.apply.title": {
 		"message": "Застосувати до партнера",
 		"description": "Partnership application modal title."
