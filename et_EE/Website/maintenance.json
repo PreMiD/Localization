@@ -1,16 +1,4 @@
 {
-	"maintenance.big": {
-		"message": "Oh ei!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Kahjuks meil on mõned tehnilised probleemid. Me jõuame varsti tagasi. Vabandame väga ebamugavuste pärast.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Palun tulge tagasi hiljem lisa informatsiooni jaoks.",
-		"description": "Heading on maintenance page"
-	},
 	"maintenance.message": {
 		"message": "Kuni meie spetsiaalsed arendajad fikseerivad seda, vaata aga siia!",
 		"description": "Message on maintenance page"
