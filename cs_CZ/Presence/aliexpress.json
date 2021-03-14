@@ -1,66 +1,6 @@
 {
-    "aliexpress.store": {
-        "message": "Zobrazení obchodu:",
-        "description": ""
-    },
-    "aliexpress.message": {
-        "message": "Centrum zpráv",
-        "description": "Meaning Direct messages"
-    },
-    "aliexpress.sale": {
-        "message": "Procházení prodeje",
-        "description": ""
-    },
-    "aliexpress.recentlyViewProducts1": {
-        "message": "Zobrazení jejich nedávných",
-        "description": "Part 1 of 2"
-    },
-    "aliexpress.recentlyViewProducts2": {
-        "message": "zobrazené produkty",
-        "description": "Part 2 of 2"
-    },
-    "aliexpress.theirAli": {
-        "message": "Zobrazení jejich aliExpress",
-        "description": ""
-    },
-    "aliexpress.feedback": {
-        "message": "Zpětná vazba aliExpress",
-        "description": ""
-    },
-    "aliexpress.orders": {
-        "message": "Zobrazení jejich objednávek",
-        "description": ""
-    },
-    "aliexpress.viewTheir": {
-        "message": "Zobrazení jejich",
-        "description": "Part 1 "
-    },
-    "aliexpress.refunds": {
-        "message": "Náhrady a spory",
-        "description": "Part 2 of \"Viewing their\""
-    },
     "aliexpress.deletedOrders": {
         "message": "smazané objednávky",
         "description": "Part 2 of \"Viewing their\""
-    },
-    "aliexpress.trade": {
-        "message": "Obchodní centrum AliExpress",
-        "description": ""
-    },
-    "aliexpress.coupons": {
-        "message": "Zobrazení jejich kupónů",
-        "description": ""
-    },
-    "aliexpress.address": {
-        "message": "Zobrazení jejich adresy",
-        "description": ""
-    },
-    "aliexpress.helpCenter": {
-        "message": "Centrum nápovědy pro AliExpress",
-        "description": ""
-    },
-    "aliexpress.sellCenter": {
-        "message": "Prodávací centrum aliExpress",
-        "description": ""
     }
 }
