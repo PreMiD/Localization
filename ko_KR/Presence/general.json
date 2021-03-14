@@ -11,10 +11,6 @@
 		"message": "챕터",
 		"description": ""
 	},
-	"general.dj": {
-		"message": "DJ",
-		"description": ""
-	},
 	"general.editing": {
 		"message": "편집 중:",
 		"description": ""
@@ -105,18 +101,6 @@
 	},
 	"general.search": {
 		"message": "검색 중",
-		"description": ""
-	},
-	"general.writing": {
-		"message": "쓰기",
-		"description": ""
-	},
-	"general.calling": {
-		"message": "호출",
-		"description": ""
-	},
-	"general.inCall": {
-		"message": "전화로...",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -219,14 +203,6 @@
 		"message": "영화 감상중",
 		"description": ""
 	},
-	"general.watchingSeries": {
-		"message": "영화 감상중",
-		"description": ""
-	},
-	"general.watchingShow": {
-		"message": "동영상 시청 중",
-		"description": ""
-	},
 	"general.watchingVid": {
 		"message": "동영상 시청 중",
 		"description": ""
@@ -279,10 +255,6 @@
 		"message": "반복 중",
 		"description": ""
 	},
-	"general.incidentView": {
-		"message": "사건 보기",
-		"description": "A page name of statuspages"
-	},
 	"general.incidentHistory": {
 		"message": "사고 기록",
 		"description": "A page name of statuspages"
@@ -290,61 +262,5 @@
 	"general.uptimeHistory": {
 		"message": "업타임 기록",
 		"description": "A page name of statuspages"
-	},
-	"general.buttonViewSeries": {
-		"message": "시리즈 보는 중",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewMovie": {
-		"message": "영화 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewEpisode": {
-		"message": "에피소드 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchVideo": {
-		"message": "동영상 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchStream": {
-		"message": "스트림 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewChannel": {
-		"message": "채널 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonListenAlong": {
-		"message": "함께 듣기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPage": {
-		"message": "페이지 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewSong": {
-		"message": "노래 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewAlbum": {
-		"message": "앨범 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewProfile": {
-		"message": "프로필 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewArtist": {
-		"message": "아티스트 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPlaylist": {
-		"message": "플레이리스트 보기",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPodcast": {
-		"message": "팟캐스트 보기",
-		"description": "Used as the title for the button in Discord."
 	}
 }
