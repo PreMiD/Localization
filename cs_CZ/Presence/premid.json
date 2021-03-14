@@ -1,15 +1,7 @@
 {
-	"premid.viewPage": {
-		"message": "Zobrazení stránky:",
-		"description": ""
-	},
 	"premid.docs": {
 		"message": "Dokumentace",
 		"description": "as in documents"
-	},
-	"premid.viewPresence": {
-		"message": "Přítomnost zobrazení:",
-		"description": ""
 	},
 	"premid.pageHome": {
 		"message": "Domovská stránka",
@@ -35,17 +27,9 @@
 		"message": "O PreMiD",
 		"description": "A page name"
 	},
-	"premid.pageSysReq": {
-		"message": "Systémové požadavky",
-		"description": "A page name"
-	},
 	"premid.pageInstall": {
 		"message": "Instalace",
 		"description": "A page name"
-	},
-	"premid.pageInstallFor": {
-		"message": "Instalace pro {0}",
-		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
 	"premid.pageTroubleshooting": {
 		"message": "Řešit Problémy",
@@ -65,14 +49,6 @@
 	},
 	"premid.pagePresenceClass": {
 		"message": "Třída Presence",
-		"description": "A page name"
-	},
-	"premid.pageMetadata": {
-		"message": "Nastavení metadata.json",
-		"description": "A page name"
-	},
-	"premid.pageTs": {
-		"message": "Nastavení TypeScriptu",
 		"description": "A page name"
 	}
 }
