@@ -155,6 +155,10 @@
 		"message": "OnlyHit is your online music radio station made to play your best hits 24/7 and to make you discover your future hits first.",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.atomicradio": {
+		"message": "Experience the latest and best mix from the music world non-stop on all our stations, choose which one you like the most and be there live when chart legends battle each other with newcomers for the top spot!",
+		"description": "Description for Atomicradio."
+	},
 	"partners.apply.title": {
 		"message": "Apply for partner",
 		"description": "Partnership application modal title."
