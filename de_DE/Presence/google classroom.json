@@ -1,4 +1,12 @@
 {
+  "google classroom.calendar": {
+    "message": "Betrachtet den eigenen Kalender",
+    "description": "Displayed when the user viewing their calendar"
+  },
+  "google classroom.todo": {
+    "message": "Betrachtet die eigene To-Do Liste",
+    "description": "Displayed when the user is viewing their to-do list"
+  },
   "google classroom.assignmentPrivate": {
     "message": "Betrachtet eine Aufgabe",
     "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
@@ -26,5 +34,9 @@
   "google classroom.classmembers": {
     "message": "Betrachtet Klassenmitglieder von:",
     "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
+  },
+  "google classroom.settings": {
+    "message": "Verändert Einstellungen",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
   }
 }
