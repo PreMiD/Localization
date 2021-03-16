@@ -96,7 +96,7 @@
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
-		"message": "Verder",
+		"message": "Overslaan",
 		"description": "Skip button on the ads section"
 	},
 	"downloads.button.back": {
