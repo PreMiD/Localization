@@ -3,12 +3,24 @@
 		"message": "ดาวน์โหลด",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "งาน",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "ผู้ร่วมมือ",
 		"description": "Page name"
 	},
 	"twitch.security": {
 		"message": "ความปลอดภัย",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "การเข้าถึง",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "ตัวเลือกโฆษณา",
 		"description": "Page name"
 	},
 	"twitch.guidelines": {
@@ -46,5 +58,9 @@
 	"twitch.channelSettings": {
 		"message": "กำตั้งค่าช่องของเขา",
 		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.help": {
+		"message": "ศูนย์ช่วยเหลือ",
+		"description": "Page name"
 	}
 }
