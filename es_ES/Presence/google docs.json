@@ -8,7 +8,7 @@
 		"description": "Displayed when the user is viewing a Google Document"
 	},
 	"google docs.browsingDoc": {
-		"message": "Buscando documentos",
+		"message": "Explorando documentos",
 		"description": "Displayed when the user is browsing their Google Documents"
 	},
 	"google docs.editingForm": {
@@ -20,7 +20,7 @@
 		"description": "Displayed when the user is viewing a Google Form"
 	},
 	"google docs.browsingForm": {
-		"message": "Mirando formularios",
+		"message": "Explorando formularios",
 		"description": "Displayed when the user is browsing their Google Forms"
 	},
 	"google docs.editingSheet": {
@@ -32,7 +32,7 @@
 		"description": "Displayed when the user is viewing a Google Sheet"
 	},
 	"google docs.browsingSheet": {
-		"message": "Mirando hojas de cálculo",
+		"message": "Explorando hojas de cálculo",
 		"description": "Displayed when the user is browsing their Google Sheets"
 	},
 	"google docs.editingPresentation": {
@@ -42,5 +42,9 @@
 	"google docs.viewingPresentation": {
 		"message": "Viendo una presentación",
 		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Explorando presentaciones",
+		"description": "Displayed when the user is browsing their Google presentation"
 	}
 }
