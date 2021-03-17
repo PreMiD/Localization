@@ -11,6 +11,10 @@
 		"message": "Cari Presence",
 		"description": "Search bar text when nothing is stated"
 	},
+	"store.card.presence.add": {
+		"message": "Tambah Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
 	"store.card.presence.remove": {
 		"message": "Hapus Presence",
 		"description": "Button that will appear on hover after extension and presence is installed."
