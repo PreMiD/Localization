@@ -12,7 +12,7 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.upcoming": {
-		"message": "la página de próximos",
+		"message": "la página \"Próximamente\"",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.channelList": {
@@ -40,7 +40,7 @@
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelSchedule": {
-		"message": "Viendo la programación",
+		"message": "Viendo la página de la programación",
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelMy": {
