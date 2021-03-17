@@ -63,6 +63,10 @@
 		"message": "Membaca artikel:",
 		"description": ""
 	},
+	"general.readingThread": {
+		"message": "Membaca thread:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Membaca",
 		"description": ""

@@ -15,6 +15,14 @@
 		"message": "Mitra",
 		"description": "A page name"
 	},
+	"premid.pageAbout": {
+		"message": "Tentang PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instalasi",
+		"description": "A page name"
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Pemecahan masalah",
 		"description": "A page name"
