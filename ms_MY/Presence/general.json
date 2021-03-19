@@ -346,5 +346,9 @@
 	"general.buttonViewPodcast": {
 		"message": "Lihat Audio Siar",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Baca Rencana",
+		"description": "Used as the title for the button in Discord."
 	}
 }
