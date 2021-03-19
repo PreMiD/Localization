@@ -76,11 +76,11 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "¡PreMiD fue incapaz de conectarse a su aplicación! ¿Está esta instalada y ejecutándose? *Solución De Problemas*",
+		"message": "¡PreMiD no pudo conectarse a su aplicación! ¿Está esta instalada y abierta? Intenta la página de **solución de problemas**",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Aplicación obsoleta",
+		"message": "Aplicación desactualizada",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
@@ -112,11 +112,11 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
-		"message": "¡No conectado a Discord!",
+		"message": "¡No se puede conectar a Discord!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "¡PreMiD fue incapaz de conectarse a su aplicación! ¿Está esta instalada y corriendo? *Troubleshooting*",
+		"message": "¡PreMiD no pudo conectarse a su aplicación! ¿Está esta instalada y abierta? Intenta la página de **solución de problemas**",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
@@ -136,11 +136,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Social",
+		"message": "Sociales",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Vídeos y Transmisiones",
+		"message": "Videos y Streams",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
