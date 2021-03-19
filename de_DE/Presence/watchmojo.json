@@ -1,1 +1,6 @@
-{}
+{
+	"watchmojo.triviaGame": {
+		"message": "Runde {0} von {1} (Punkte: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	}
+}
