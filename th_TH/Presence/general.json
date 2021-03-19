@@ -346,5 +346,9 @@
 	"general.buttonViewPodcast": {
 		"message": "ดูพ็อดคาสท์",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "อ่านบทความ",
+		"description": "Used as the title for the button in Discord."
 	}
 }

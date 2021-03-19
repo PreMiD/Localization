@@ -346,5 +346,9 @@
 	"general.buttonViewPodcast": {
 		"message": "দেখো পডকাস্টটি",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "পড় প্রবন্ধটি",
+		"description": "Used as the title for the button in Discord."
 	}
 }
