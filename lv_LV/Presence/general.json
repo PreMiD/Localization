@@ -346,5 +346,9 @@
 	"general.buttonViewPodcast": {
 		"message": "Skatīt Apraidi",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Lasīt rakstu",
+		"description": "Used as the title for the button in Discord."
 	}
 }
