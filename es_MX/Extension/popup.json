@@ -1,6 +1,6 @@
 {
 	"popup.navigation.settings": {
-		"message": "Ajustes",
+		"message": "Configuración",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
@@ -8,7 +8,7 @@
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
-		"message": "Ajustes",
+		"message": "Configuración",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.headings.general": {
