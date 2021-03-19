@@ -346,5 +346,9 @@
 	"general.buttonViewPodcast": {
 		"message": "View Podcast",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Read Article",
+		"description": "Used as the title for the button in Discord."
 	}
 }
