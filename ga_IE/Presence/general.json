@@ -342,5 +342,13 @@
 	"general.buttonViewPlaylist": {
 		"message": "Féach ar Seinmliosta",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Féach ar Podchraoladh",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Léigh an tAirteagal",
+		"description": "Used as the title for the button in Discord."
 	}
 }
