@@ -111,10 +111,6 @@
 		"message": "Ok",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
-	"downloads.button.done": {
-		"message": "Ferdig",
-		"description": "Button on the page when trying to download with adblocker on."
-	},
 	"downloads.button.login": {
 		"message": "Logg inn",
 		"description": "Login button on the downloads page."
