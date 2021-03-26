@@ -20,7 +20,7 @@
 		"description": "A page name"
 	},
 	"premid.pageDownloads": {
-		"message": "التحميلات",
+		"message": "التنزيلات",
 		"description": "A page name"
 	},
 	"premid.pageStore": {
@@ -40,7 +40,7 @@
 		"description": "A page name"
 	},
 	"premid.pageInstall": {
-		"message": "الثبيت",
+		"message": "تثبيت",
 		"description": "A page name"
 	},
 	"premid.pageInstallFor": {
@@ -48,15 +48,15 @@
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
 	"premid.pageTroubleshooting": {
-		"message": "استكشاف الأخطاء",
+		"message": "استكشاف الأخطاء وإصلاحها\n \n ",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
-		"message": "البدء",
+		"message": "الإبتداء",
 		"description": "A page name"
 	},
 	"premid.pageApi": {
-		"message": "API",
+		"message": "واجهة برمجة التطبيقات (API)",
 		"description": "A page name"
 	},
 	"premid.pageApiVersion": {
@@ -72,11 +72,7 @@
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
-		"message": "Presence فئة الـ",
-		"description": "A page name"
-	},
-	"premid.pageSlideshowClass": {
-		"message": "فئة عرض الشرائح",
+		"message": "فئة الpresence",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
