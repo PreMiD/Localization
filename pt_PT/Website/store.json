@@ -60,7 +60,7 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "Todas",
+		"message": "Todos",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
@@ -72,15 +72,15 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Sociais",
+		"message": "Social",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Vídeos e transmissões",
+		"message": "Vídeos e Transmissões",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
-		"message": "Outros",
+		"message": "Outro",
 		"description": "Category at the top"
 	},
 	"store.search": {
