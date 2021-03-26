@@ -1,1 +1,18 @@
-{}
+{
+	"watchmojo.triviaGame": {
+		"message": "Круглый {0} из {1} (Счет: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "Играет Trivia: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.playingTrivia": {
+		"message": "Играя в Trivia игра",
+		"description": "For privacy mode, \"a\" as in unspecified."
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "Играть Trivia",
+		"description": "Used as the title for the button in Discord."
+	}
+}
