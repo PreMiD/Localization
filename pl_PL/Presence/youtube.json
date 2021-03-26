@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Przegląda kartę na czasie",
+        "message": "Przegląda aktualne trendy",
         "description": ""
     },
     "youtube.browsingThrough": {
@@ -56,7 +56,7 @@
         "description": ""
     },
     "youtube.upload": {
-        "message": "Coś przesyła...",
+        "message": "Coś przesyła...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
