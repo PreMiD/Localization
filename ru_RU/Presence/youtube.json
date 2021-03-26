@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Смотрит тренды",
+        "message": "Смотрит трендового",
         "description": ""
     },
     "youtube.browsingThrough": {

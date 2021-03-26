@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "جاري تصفح...",
+		"message": "تصفح",
 		"description": ""
 	},
 	"general.chapter": {
@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "جاري قراءة",
+		"message": "يقرأ",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,19 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "جاري البحث",
+		"message": "يبحث",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "جاري الكتابة",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "جاري الإتصال",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "في مكالمة...",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -200,7 +212,7 @@
 		"description": ""
 	},
 	"general.viewPage": {
-		"message": "جاري مشاهدة الصفحة:",
+		"message": "يشاهد الصفحة:",
 		"description": ""
 	},
 	"general.watchingMovie": {
@@ -267,6 +279,10 @@
 		"message": "في حلقة",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "جاري رؤية حادثة",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "سجل الحادثة",
 		"description": "A page name of statuspages"
@@ -285,6 +301,54 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "يشاهد الحلقة",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "مشاهدة الفيديو",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "مشاهدة البث",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "مشاهدة القناة",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "إستماع بقرب",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "عرض الصفحة",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "عرض الأغنية",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "عرض الألبوم",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "عرض الملف الشخصي",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "عرض الفنان",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "عرض قائمة التشغيل",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "عرض التدوين الصوتي",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "قراءة المقالة",
 		"description": "Used as the title for the button in Discord."
 	}
 }

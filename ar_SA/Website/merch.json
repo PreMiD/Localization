@@ -15,6 +15,10 @@
 		"message": "اضف الى العربة",
 		"description": "Add product to cart"
 	},
+	"merch.help": {
+		"message": "هل تواجه مشاكل مع متجرنا أو طلب ما؟\nتواصل مع {0}دعم العملاء{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
 	"merch.item.added": {
 		"message": "{0} أضيف إلى سلة التسوق الخاصة بك",
 		"description": "{0} replaced with product name"

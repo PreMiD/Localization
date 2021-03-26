@@ -4,7 +4,7 @@
 		"description": "after the \":\" it will say the username"
 	},
 	"twitter.viewDms": {
-		"message": "Revisando sus MDs",
+		"message": "Viendo sus MDs",
 		"description": ""
 	},
 	"twitter.viewTweets": {

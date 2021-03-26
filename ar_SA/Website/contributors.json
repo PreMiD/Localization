@@ -16,7 +16,7 @@
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
-		"message": "منسق شؤون الموظفين",
+		"message": "منسق شؤون الطاقم",
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
@@ -30,6 +30,10 @@
 	"contributors.roles.reviewer": {
 		"message": "مراجع",
 		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "مدير الشؤون المحلية",
+		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
 		"message": "مطور",

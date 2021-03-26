@@ -136,7 +136,7 @@
 		"description": ""
 	},
 	"twitch.viewTheir": {
-		"message": "Regarde leur",
+		"message": "En train de regarder leur",
 		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {

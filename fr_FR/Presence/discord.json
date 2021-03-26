@@ -60,7 +60,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"discord.browseThrough": {
-		"message": "Navigue à travers",
+		"message": "Parcourir à travers",
 		"description": "The first part of the next 17 strings"
 	},
 	"discord.download": {

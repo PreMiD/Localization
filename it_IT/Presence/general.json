@@ -124,7 +124,7 @@
 		"description": ""
 	},
 	"general.store": {
-		"message": "Negozio",
+		"message": "Store",
 		"description": ""
 	},
 	"general.typeDM": {
@@ -209,10 +209,6 @@
 	},
 	"general.viewing": {
 		"message": "Guardando:",
-		"description": ""
-	},
-	"general.viewPage": {
-		"message": "Visualizzando la pagina:",
 		"description": ""
 	},
 	"general.watchingMovie": {

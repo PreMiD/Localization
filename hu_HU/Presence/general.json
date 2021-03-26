@@ -55,10 +55,6 @@
 		"message": "Áruház",
 		"description": ""
 	},
-	"general.viewPage": {
-		"message": "Oldal megtekintése:",
-		"description": ""
-	},
 	"general.buttonViewSeries": {
 		"message": "Sorozatot néz",
 		"description": "Used as the title for the button in Discord."

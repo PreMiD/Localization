@@ -64,7 +64,7 @@
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"v live.viewTheir": {
-		"message": "Revisando sus",
+		"message": "Viendo sus",
 		"description": "The first part of the next 6 strings"
 	},
 	"v live.profile": {

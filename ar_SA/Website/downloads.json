@@ -135,6 +135,10 @@
 		"message": "الرجاء تعطيل مانع الإعلانات الخاص بك",
 		"description": "Message next to pepe."
 	},
+	"downloads.showbeta.message": {
+		"message": "إظهار التنزيلات التجريبية",
+		"description": ""
+	},
 	"downloads.showbeta.small": {
 		"message": "(غير ضروري إذا كنت هنا فقط لتنزيل التطبيق العادي)",
 		"description": "Small text under the show beta title."

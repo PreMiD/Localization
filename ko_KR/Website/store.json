@@ -60,7 +60,7 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "전체",
+		"message": "모두",
 		"description": "Category at the top"
 	},
 	"store.category.games": {

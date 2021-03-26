@@ -1,1 +1,14 @@
-{}
+{
+	"tiktok.forYou": {
+		"message": "{0} 사용자 페이지 보기",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"tiktok.viewing": {
+		"message": "TikTok 보는 중",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "TikTok 보기",
+		"description": "Used as the title for the button in Discord."
+	}
+}

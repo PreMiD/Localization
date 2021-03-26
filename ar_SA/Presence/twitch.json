@@ -1,6 +1,6 @@
 {
 	"twitch.downloads": {
-		"message": "التحميلات",
+		"message": "التنزيلات",
 		"description": "Page name"
 	},
 	"twitch.jobs": {
@@ -136,7 +136,7 @@
 		"description": ""
 	},
 	"twitch.viewTheir": {
-		"message": "يشاهد",
+		"message": "عرض ما يخص",
 		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {

@@ -4,7 +4,7 @@
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.downloads": {
-		"message": "Изтегления",
+		"message": "Downloads",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {

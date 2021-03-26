@@ -1,10 +1,14 @@
 {
-	"discord.browseThrough": {
-		"message": "찾아보는 중",
-		"description": "The first part of the next 17 strings"
-	},
-	"discord.support": {
-		"message": "고객센터",
+	"discord.friends": {
+		"message": "친구를 보는 중...",
 		"description": ""
+	},
+	"discord.settings": {
+		"message": "설정을 보는 중...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "탐색하는 중",
+		"description": "The first part of the next 17 strings"
 	}
 }

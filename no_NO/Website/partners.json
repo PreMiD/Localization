@@ -55,10 +55,6 @@
 		"message": "Bli fremhevet på våre sosiale medier.",
 		"description": "Description for the fifth benefit."
 	},
-	"partners.requirements.title": {
-		"message": "Krav",
-		"description": "Heading for the requirements."
-	},
 	"partners.requirements.first.title": {
 		"message": "Hva ser vi etter?",
 		"description": "Heading for the first requirement."
@@ -136,7 +132,7 @@
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Takk for din søknad!",
+		"message": "Takk for at du sendte inn din søknad!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {

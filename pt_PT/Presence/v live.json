@@ -1,8 +1,4 @@
 {
-	"v live.browseThrough": {
-		"message": "A pesquisar por",
-		"description": "The first part of the next 6 strings"
-	},
 	"v live.newVid": {
 		"message": "a página de vídeos",
 		"description": "Second part of the \"Browsing through\" string"
@@ -20,7 +16,7 @@
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"v live.viewTheir": {
-		"message": "A ver os seus",
+		"message": "A ver",
 		"description": "The first part of the next 6 strings"
 	},
 	"v live.policies": {

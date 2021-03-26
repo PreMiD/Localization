@@ -1,10 +1,10 @@
 {
 	"general.anime": {
-		"message": "애니메이션",
+		"message": "애니",
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "검색하는 중...",
+		"message": "탐색중...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -40,7 +40,7 @@
 		"description": ""
 	},
 	"general.live": {
-		"message": "실시간",
+		"message": "활성화",
 		"description": ""
 	},
 	"general.manga": {
@@ -88,7 +88,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "읽는 중",
+		"message": "불러오는중",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -100,7 +100,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "검색 중",
+		"message": "검색중",
 		"description": ""
 	},
 	"general.shopCart": {

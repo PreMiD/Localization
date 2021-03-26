@@ -155,6 +155,10 @@
 		"message": "OnlyHit est votre station de radio de musique en ligne conçue pour jouer vos meilleurs résultats 24/7 et pour vous faire découvrir vos futurs tubes en premier.",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.atomicradio": {
+		"message": "Découvrez le dernier et meilleur mix du monde de la musique en non-stop sur toutes nos stations, choisissez celle que vous préférez et assistez en direct au concours entre les légendes du classement et les nouvelles recrues qui visent la première place !",
+		"description": "Description for Atomicradio."
+	},
 	"partners.apply.title": {
 		"message": "Faites une demande de partenariat",
 		"description": "Partnership application modal title."
@@ -176,7 +180,7 @@
 		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
-		"message": "Autre",
+		"message": "Autres",
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {

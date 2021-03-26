@@ -36,7 +36,7 @@
 		"description": "Page name"
 	},
 	"twitch.home": {
-		"message": "Página principal",
+		"message": "Página Principal",
 		"description": "Page name"
 	},
 	"twitch.wallet": {
@@ -136,7 +136,7 @@
 		"description": ""
 	},
 	"twitch.viewTheir": {
-		"message": "Revisando sus",
+		"message": "Viendo sus",
 		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.channelAnaly": {

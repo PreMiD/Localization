@@ -31,10 +31,6 @@
 		"message": "магазин",
 		"description": ""
 	},
-	"general.viewPage": {
-		"message": "Гледа страница:",
-		"description": ""
-	},
 	"general.buttonViewSeries": {
 		"message": "Погледни серий",
 		"description": "Used as the title for the button in Discord."
