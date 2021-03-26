@@ -28,11 +28,11 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Regarde les tendances",
+        "message": "Visualisation de la tendance",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Navigue à travers",
+        "message": "Parcourir à travers",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
@@ -56,7 +56,7 @@
         "description": ""
     },
     "youtube.upload": {
-        "message": "Met en ligne quelque chose...",
+        "message": "Envoi de quelque chose en cours...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Regarde leur",
+        "message": "En train de regarder leur",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
