@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "Bezig met lezen",
+		"message": "Lezen",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "Bezig met zoeken",
+		"message": "Zoeken",
 		"description": ""
 	},
 	"general.writing": {
