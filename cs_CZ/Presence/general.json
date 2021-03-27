@@ -155,6 +155,10 @@
 		"message": "Prohlížení člena:",
 		"description": ""
 	},
+	"general.viewPage": {
+		"message": "Zobrazení stránky:",
+		"description": ""
+	},
 	"general.wishlist": {
 		"message": "Seznam přání:",
 		"description": ""
