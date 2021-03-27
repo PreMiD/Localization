@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Bekijkt eigen",
+        "message": "Bekijkt zijn/haar",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
