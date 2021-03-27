@@ -1,1 +1,22 @@
-{}
+{
+	"error.code.404": {
+		"message": "Lo sentimos, no encontramos la página que buscas.",
+		"description": "Error (404) message"
+	},
+	"error.code.500": {
+		"message": "Se ha producido un error interno.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Detalles",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Volver a la página principal",
+		"description": "Button on the error page"
+	},
+	"user.notFound.message1": {
+		"message": "el ID del usuario que estás buscando es correcto.",
+		"description": "Check user ID message."
+	}
+}
