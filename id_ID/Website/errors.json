@@ -1,4 +1,12 @@
 {
+	"store.search.notFound": {
+		"message": "Kami tidak bisa menemukan Presence tersebut...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Maaf, kami tidak bisa menemukan halaman tersebut.",
+		"description": "Error (404) message"
+	},
 	"error.page.details": {
 		"message": "Detail",
 		"description": "'Details' text on error page container"
