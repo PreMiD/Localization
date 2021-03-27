@@ -28,11 +28,11 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "جاري مشاهدة ما هو رائج",
+        "message": "يشاهد صفحة الفيديوهات الشائعة",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "يتصفح من خلال",
+        "message": "يتصفح",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
@@ -56,7 +56,7 @@
         "description": ""
     },
     "youtube.upload": {
-        "message": "جاري رفع شيء...",
+        "message": "يقوم برفع شيء ما...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "عرض ما يخص",
+        "message": "يشاهد",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
