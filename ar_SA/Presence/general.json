@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "تصفح",
+		"message": "جاري تصفح...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "يقرأ",
+		"message": "جاري قراءة",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,7 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "يبحث",
+		"message": "جاري البحث",
 		"description": ""
 	},
 	"general.writing": {
@@ -212,7 +212,7 @@
 		"description": ""
 	},
 	"general.viewPage": {
-		"message": "يشاهد الصفحة:",
+		"message": "جاري مشاهدة الصفحة:",
 		"description": ""
 	},
 	"general.watchingMovie": {
