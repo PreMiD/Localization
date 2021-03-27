@@ -4,7 +4,7 @@
 		"description": "after the \":\" it will say the username"
 	},
 	"twitter.viewDms": {
-		"message": "DMを閲覧中",
+		"message": "ダイレクトメッセージを閲覧中",
 		"description": ""
 	},
 	"twitter.viewTweets": {
