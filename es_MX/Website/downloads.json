@@ -1,6 +1,58 @@
 {
+	"downloads.instructions.heading": {
+		"message": "Empecemos",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Descarga PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Instala nuestra aplicación",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "¡Estamos aquí para ayudarte!",
+		"description": "Link to our discord"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Aplicación",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Extensión",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "Advertencia:",
+		"description": "First part of the message."
+	},
 	"downloads.button.done": {
 		"message": "Hecho",
 		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "No quiero apoyar.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "¿Estás seguro?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "¿En serio?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "P-por favor ayúdanos :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Te necesito :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Vale, vale...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
 	}
 }
