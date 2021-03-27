@@ -8,7 +8,11 @@
 		"description": ""
 	},
 	"discord.browseThrough": {
-		"message": "탐색하는 중",
+		"message": "찾아보는 중",
 		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "고객센터",
+		"description": ""
 	}
 }
