@@ -20,7 +20,7 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "Memutar",
+		"message": "Memutar kembali",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
@@ -35,6 +35,10 @@
 		"message": "Kamu akan menyukai fitur ini!",
 		"description": "Features section"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Kami membuat ekstensi sedemikian rupa agar kamu dapat menggunakan Presence yang dibuat oleh pengguna lain dan mengaturnya pada ekstensi kami!",
+		"description": "Features section description"
+	},
 	"home.features.presencesystem.button": {
 		"message": "Kunjungi toko",
 		"description": "Features section button"
@@ -44,7 +48,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Bosan dengan tampilan yang rumit? Itu sebabnya kami membuat dan berusaha menjadikan tampilan kami simpel dan seberguna mungkin dengan fitur seperti:",
+		"message": "Bosan dengan tampilan yang rumit? Itu sebabnya kami membuat dan berusaha menjadikan tampilan PreMiD sederhana dan seberguna mungkin dengan fitur seperti:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -63,8 +67,16 @@
 		"message": "Dukungan cepat",
 		"description": "Features section subheading"
 	},
+	"home.features.quickSupport.description": {
+		"message": "PreMiD bermasalah, mendapat banyak error atau sama sekali tidak bekerja? Kami akan membantu untuk menyelesaikan masalah tersebut pada server Discord kami, kami juga telah membuat sistem support yang akan memastikan masalahmu terselesaikan.",
+		"description": "Features section description"
+	},
 	"home.features.quickSupport.button": {
 		"message": "Gabung Discord kami",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Bahasa situs web",
+		"description": "Tippy content of the language selector."
 	}
 }
