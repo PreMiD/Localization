@@ -24,15 +24,15 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "A tocar",
+		"message": "A ver",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
-		"message": "Em direto",
+		"message": "Ao vivo",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "A procurar...",
+		"message": "A navegar...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -80,7 +80,7 @@
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "Entra no nosso servidor de Discord",
+		"message": "Entra no nosso discord",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
