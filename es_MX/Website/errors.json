@@ -1,7 +1,15 @@
 {
+	"store.search.notFound": {
+		"message": "No pudimos encontrar esa Presence...",
+		"description": "Search result text when nothing's found"
+	},
 	"error.code.404": {
 		"message": "Lo sentimos, no encontramos la página que buscas.",
 		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Estás buscando una Presence que no existe o que ha sido eliminada.",
+		"description": "Error (4) message"
 	},
 	"error.code.500": {
 		"message": "Se ha producido un error interno.",
@@ -14,6 +22,10 @@
 	"error.page.button": {
 		"message": "Volver a la página principal",
 		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "No se ha podido encontrar ese usuario. Intenta asegurarte",
+		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
 		"message": "el ID del usuario que estás buscando es correcto.",
