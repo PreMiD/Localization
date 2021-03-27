@@ -23,6 +23,10 @@
 		"message": "Digitando nella chat di gruppo:{0}{1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
 	},
+	"discord.friends": {
+		"message": "Visualizzando i suoi amici...",
+		"description": ""
+	},
 	"discord.nitro": {
 		"message": "Leggendo riguardo a Nitro...",
 		"description": ""
@@ -34,6 +38,10 @@
 	"discord.voiceConnectedTo": {
 		"message": "Connesso al canale vocale:{0}{1} (Server: {2})",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "Visualizzando le loro impostazioni...",
+		"description": ""
 	},
 	"discord.serverSettings": {
 		"message": "Visualizzando le impostazioni{0}del server: {1}",
@@ -50,6 +58,10 @@
 	"discord.buttonInvite": {
 		"message": "Visualizzando il link d'invito",
 		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Navigando attraverso",
+		"description": "The first part of the next 17 strings"
 	},
 	"discord.download": {
 		"message": "la pagina dei Download",
@@ -155,12 +167,20 @@
 		"message": "Stato di Discord",
 		"description": ""
 	},
+	"discord.support": {
+		"message": "Centro assistenza",
+		"description": ""
+	},
 	"discord.blog": {
 		"message": "Blog di Discord",
 		"description": ""
 	},
 	"discord.merch": {
 		"message": "Merce di Discord",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Visualizzando la collezione:",
 		"description": ""
 	}
 }
