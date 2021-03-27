@@ -84,7 +84,7 @@
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "আর্লি রিলিসেস",
+		"message": "আর্লি রিলিজেস",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
@@ -136,7 +136,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "আর্লি রিলিসেস দেখাও",
+		"message": "আর্লি রিলিজেস দেখাও",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
