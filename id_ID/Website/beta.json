@@ -10,5 +10,9 @@
 	"beta.register.button": {
 		"message": "Daftar sekarang!",
 		"description": "Sign up button text"
+	},
+	"thankyou.description": {
+		"message": "Para kera-kera kami sedang berusaha memasukkan kamu ke program beta secepatnya. Terima kasih untuk mendaftar!",
+		"description": "Thank You page description"
 	}
 }
