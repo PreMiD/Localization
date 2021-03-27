@@ -292,7 +292,7 @@
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
-		"message": "Skatās Seriālu",
+		"message": "Skatīt Seriālu",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
