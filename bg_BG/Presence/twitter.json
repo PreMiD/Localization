@@ -1,1 +1,6 @@
-{}
+{
+	"twitter.viewDms": {
+		"message": "Гледа своите лични съобщения",
+		"description": ""
+	}
+}
