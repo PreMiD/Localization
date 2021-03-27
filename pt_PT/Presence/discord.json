@@ -23,6 +23,10 @@
 		"message": "A escrever no grupo{0}{1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
 	},
+	"discord.friends": {
+		"message": "A ver os seus amigos...",
+		"description": ""
+	},
 	"discord.nitro": {
 		"message": "A ler sobre o Nitro...",
 		"description": ""
@@ -34,6 +38,10 @@
 	"discord.voiceConnectedTo": {
 		"message": "Em chamada no canal{0}{1} (servidor {2})",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "A ver as suas definições...",
+		"description": ""
 	},
 	"discord.serverSettings": {
 		"message": "A ver as definições{0} do servidor {1}",
@@ -50,6 +58,10 @@
 	"discord.buttonInvite": {
 		"message": "Ver convite",
 		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "A ver",
+		"description": "The first part of the next 17 strings"
 	},
 	"discord.download": {
 		"message": "a página de downloads",
@@ -155,6 +167,10 @@
 		"message": "Estado do Discord",
 		"description": ""
 	},
+	"discord.support": {
+		"message": "Centro de ajuda",
+		"description": ""
+	},
 	"discord.blog": {
 		"message": "Blog do Discord",
 		"description": ""
@@ -164,7 +180,7 @@
 		"description": ""
 	},
 	"discord.merch.collection": {
-		"message": "A ver coleções:",
+		"message": "A ver a coleção:",
 		"description": ""
 	}
 }
