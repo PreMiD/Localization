@@ -71,8 +71,20 @@
 		"message": "Membaca",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "Mencari:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Mencari sesuatu...",
+		"description": ""
+	},
 	"general.search": {
 		"message": "Mencari",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Memanggil",
 		"description": ""
 	},
 	"general.inCall": {
@@ -83,8 +95,24 @@
 		"message": "Toko",
 		"description": ""
 	},
+	"general.viewCategory": {
+		"message": "Melihat kategori:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Melihat episode:",
+		"description": ""
+	},
 	"general.viewMember": {
 		"message": "Melihat anggota:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Melihat film:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Melihat produk:",
 		"description": ""
 	},
 	"general.watching": {
@@ -121,6 +149,10 @@
 	},
 	"general.buttonViewPodcast": {
 		"message": "Lihat Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Baca Artikel",
 		"description": "Used as the title for the button in Discord."
 	}
 }
