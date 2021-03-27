@@ -1,4 +1,12 @@
 {
+	"user.roles.presenceDeveloper": {
+		"message": "Pengembang Presence",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Pemeriksa Presence",
+		"description": "'Presence Verifier' title for user pages."
+	},
 	"user.importantPresenceDev.message1": {
 		"message": "Pengembang Presence Penting",
 		"description": "'Important Presence Developer' tippy description for user pages."

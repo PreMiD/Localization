@@ -1,6 +1,6 @@
 {
 	"maintenance.big": {
-		"message": "おっと！",
+		"message": "メンテナンス中です。",
 		"description": "The big text on maintenance page"
 	},
 	"maintenance.heading": {

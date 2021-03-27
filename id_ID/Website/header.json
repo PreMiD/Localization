@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Website kami telah diterjemahkan ke dalam bahasamu. Ini mungkin bisa membantumu jika kamu kurang bisa Bahasa Inggris.",
+    "message": "Website kami telah diterjemahkan ke dalam bahasamu. Ini mungkin bisa membantumu jika kamu kurang paham Bahasa Inggris.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {

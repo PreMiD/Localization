@@ -1,4 +1,8 @@
 {
+	"jobs.modal.step": {
+		"message": "Langkah {0} dari 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
 	"jobs.modal.buttons.join": {
 		"message": "Gabung",
 		"description": "Join Discord button in the modal."
@@ -10,5 +14,9 @@
 	"jobs.modal.error": {
 		"message": "Silakan isi semua kolom",
 		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.guild.required": {
+		"message": "Bergabunglah di Discord kami",
+		"description": "Title of the modal the user will see if it's not in Discord server."
 	}
 }

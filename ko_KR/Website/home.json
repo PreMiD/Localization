@@ -28,7 +28,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
-		"message": "활성화",
+		"message": "실시간",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {

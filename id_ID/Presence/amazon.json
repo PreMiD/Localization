@@ -1,1 +1,6 @@
-{}
+{
+    "amazon.prime": {
+        "message": "Melihat Amazon Prime",
+        "description": ""
+    }
+}

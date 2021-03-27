@@ -346,5 +346,9 @@
 	"general.buttonViewPodcast": {
 		"message": "Podcast'i Görüntüle",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Makaleyi Oku",
+		"description": "Used as the title for the button in Discord."
 	}
 }

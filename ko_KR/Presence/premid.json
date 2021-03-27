@@ -31,12 +31,16 @@
 		"message": "파트너",
 		"description": "A page name"
 	},
+	"premid.pageAbout": {
+		"message": "PreMiD 에 대하여",
+		"description": "A page name"
+	},
 	"premid.pageSysReq": {
 		"message": "시스템 요구 사항",
 		"description": "A page name"
 	},
 	"premid.pageInstall": {
-		"message": "설치하기",
+		"message": "설치",
 		"description": "A page name"
 	},
 	"premid.pageInstallFor": {
@@ -47,6 +51,10 @@
 		"message": "문제 해결",
 		"description": "A page name"
 	},
+	"premid.pageStart": {
+		"message": "시작하기",
+		"description": "A page name"
+	},
 	"premid.pageApi": {
 		"message": "API",
 		"description": "A page name"
@@ -55,8 +63,20 @@
 		"message": "v{0} API 이해",
 		"description": "A page name // {0} will be replaced with the version number."
 	},
+	"premid.pagePresenceDev": {
+		"message": "Presence 개발자",
+		"description": "A page name"
+	},
 	"premid.pagePresenceGuide": {
 		"message": "Presence 가이드라인",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence 클래스",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "슬라이드 쇼 클래스",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {

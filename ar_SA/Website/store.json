@@ -76,11 +76,11 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "مقاطع الفيديو والبثوث",
+		"message": "فيديوات",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
-		"message": "آخر",
+		"message": "آخرى",
 		"description": "Category at the top"
 	},
 	"store.search": {

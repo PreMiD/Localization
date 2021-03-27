@@ -184,7 +184,7 @@
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
-		"message": "Наименование",
+		"message": "Имя",
 		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {

@@ -163,6 +163,10 @@
 		"message": "Aplikovat",
 		"description": "Modal apply button."
 	},
+	"partners.apply.success": {
+		"message": "Děkujeme ti za přihlášku!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Vyplň prosím všechna pole.",
 		"description": "Error when a field isn't filled."

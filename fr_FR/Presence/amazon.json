@@ -32,7 +32,7 @@
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "En train de regarder leur",
+        "message": "Regarde leur",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
@@ -64,7 +64,7 @@
         "description": ""
     },
     "amazon.store": {
-        "message": "Vue de la boutique:",
+        "message": "Regarder la boutique:",
         "description": ""
     },
     "amazon.primeVid": {

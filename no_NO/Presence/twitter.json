@@ -1,4 +1,8 @@
 {
+	"twitter.viewDms": {
+		"message": "Ser deres direkte meldinger",
+		"description": ""
+	},
 	"twitter.viewTweets": {
 		"message": "Ser tweetene til:",
 		"description": ""
