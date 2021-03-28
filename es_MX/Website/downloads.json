@@ -24,7 +24,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Recarga el sitio y verifica si la extensión está conectada",
+		"message": "Recarga el sitio y verifica que la extensión este conectada",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
@@ -48,7 +48,7 @@
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} No hay instalador para este sistema operativo. Esto quiere decir que no hay soporte profesional para él.",
+		"message": "{0} No hay instalador para este sistema operativo, esto quiere decir que no hay soporte profesional para él.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
@@ -64,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "La versión actual de esta plataforma es {0} (esta versión es específica de Linux y no se aplica a otras plataformas).",
+		"message": "La versión actual de esta plataforma es {0} (esta versión es específica de Linux y no se aplica en otras plataformas).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -112,7 +112,7 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "Hecho",
+		"message": "Listo",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
