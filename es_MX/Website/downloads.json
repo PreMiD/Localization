@@ -107,9 +107,41 @@
 		"message": "Cancelar",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
+	"downloads.button.okay": {
+		"message": "Aceptar",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Hecho",
 		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.button.login": {
+		"message": "Iniciar sesión",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.button.skipanyway": {
+		"message": "Saltar de todos modos",
+		"description": "Skip Anyway button on the ads page."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "Gracias!",
+		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "¡Utilizamos anuncios para apoyar a nuestro equipo y mantener nuestros servidores, para ofrecer la mejor experiencia de usuario!",
+		"description": "Message of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Por favor, deshabilita Adblock",
+		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Mostrar versiones de acceso temprano",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(no necesario si únicamente deseas descargar la versión normal)",
+		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
 		"message": "No quiero apoyar.",
