@@ -42,5 +42,17 @@
   "header.lia": {
     "message": "Conectado como",
     "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Reportar un error",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Panel de control",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Cerrar sesión",
+    "description": "Logout button"
   }
 }
