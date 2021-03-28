@@ -30,5 +30,17 @@
 	"user.notFound.message1": {
 		"message": "el ID del usuario que estás buscando es correcto.",
 		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "el usuario ha creado suficientes Presences y tiene el rol \"Presence Developer\" en nuestro servidor de Discord.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "compruebe si otros están experimentando el mismo problema en nuestro servidor de Discord.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Si crees que esto fue un error, por favor contáctanos desde [nuestro servidor de Discord].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
