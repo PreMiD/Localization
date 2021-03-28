@@ -271,8 +271,84 @@
 		"message": "Política de cookies",
 		"description": "A page name"
 	},
+	"general.repeatAll": {
+		"message": "Repitiendo todas las canciones",
+		"description": ""
+	},
 	"general.repeat": {
 		"message": "En bucle",
 		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Viendo una incidencia",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Historial de incidencias",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Historial del tiempo de funcionamiento",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Viendo Series",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Viendo Película",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Viendo Episodio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Ver vídeo",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Ver Transmisión",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Ver canal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Escuchar",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Ver página",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Ver canción",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Ver álbum",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Ver perfil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Ver Artista",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Ver lista de reproducción",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Ver Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Leer Artículo",
+		"description": "Used as the title for the button in Discord."
 	}
 }
