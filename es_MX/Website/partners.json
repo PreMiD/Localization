@@ -1,6 +1,46 @@
 {
+	"partners.header.title": {
+		"message": "Socios",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Únete y obtén algunos beneficios exclusivos de los socios para demostrar cuánto swag tienes.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Estos ya están con nosotros",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "¿Qué tal ir al cielo en lugar del infierno?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Tu presence gratuita",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Nuestro equipo le proporcionará una presence para su servicio web.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Sé verificado",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Se te otorgará honor y un rol especial en nuestro servidor de Discord.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Integración de etiquetas meta",
+		"description": "Heading for the third benefit."
+	},
 	"partners.apply.select.other": {
 		"message": "Otras",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.success": {
+		"message": "¡Gracias por aplicar!",
+		"description": "Success message when applying."
 	}
 }
