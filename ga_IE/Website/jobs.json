@@ -23,10 +23,6 @@
 		"message": "Comhlánaigh gach réimse le do thoil",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "Is tionscadal foinse oscailte é PreMiD, rud a chiallaíonn gur foireann neamhbhrabúis muid, téann gach síntiús nó airgead pátrún ar ais isteach sa táirge. Trí iarratas a dhéanamh ar phost i PreMiD, admhaíonn tú go bhfuil tú ag obair go deonach san fhoireann, ní íocfar tú as do chuid oibre.",
-		"description": "Notice for applicants."
-	},
 	"jobs.guild.required": {
 		"message": "Tar isteach inár Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
