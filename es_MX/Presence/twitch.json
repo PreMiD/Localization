@@ -1,1 +1,10 @@
-{}
+{
+	"twitch.downloads": {
+		"message": "Descargas",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Socios",
+		"description": "Page name"
+	}
+}
