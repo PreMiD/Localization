@@ -1,1 +1,30 @@
-{}
+{
+	"premid.pageContributors": {
+		"message": "Contribuidores",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Descargas",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Tienda",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Socios",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Requisitos del sistema",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instalación",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Solución de problemas",
+		"description": "A page name"
+	}
+}
