@@ -3,9 +3,33 @@
 		"message": "Άνιμε",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Κεφάλαιο",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Επεισόδιο",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Φόρουμ",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Γλώσσα",
 		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Ακρόαση μουσικής",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Ακροατές",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Μάνγκα",
+		"description": ""
 	},
 	"general.store": {
 		"message": "Κατάστημα",
