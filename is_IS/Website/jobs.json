@@ -23,6 +23,10 @@
 		"message": "Vinsamlegast fylltu alla reiti",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD er opið verkefni sem þýðir að við erum sjálfseignarhópur, hvert framlag eða verndarfé fer aftur í vöruna. Með því að sækja um starf hjá PreMiD viðurkennir þú að þú ert sjálfboðaliði í teyminu, þér verður ekki borgað fyrir vinnu þína.",
+		"description": "Notice for applicants."
+	},
 	"jobs.guild.required": {
 		"message": "Taktu þátt á Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
