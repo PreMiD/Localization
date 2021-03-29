@@ -23,10 +23,6 @@
 		"message": "请填写所有字段。",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD 是一个开源产品，这意味着我们是一个非营利团队，每笔捐赠都会回到产品中。 如果你在 PreMiD 申请职位，你会承认你是在团队中的志愿者，你的工作将不会得到报酬。",
-		"description": "Notice for applicants."
-	},
 	"jobs.guild.required": {
 		"message": "加入我们的 Discord 服务器",
 		"description": "Title of the modal the user will see if it's not in Discord server."
