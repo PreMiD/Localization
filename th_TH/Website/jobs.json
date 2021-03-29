@@ -23,10 +23,6 @@
 		"message": "กรุณากรอกข้อมูลให้ครบ",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD เป็นโครงการโอเพ่นซอร์ส หมายความว่าทีมของเราไม่แสวงหาผลกำไร ทุกๆ ยอดการบริจาคจะถูกนำไปใช้พัฒนา PreMiD การสมัครทำงานกับ PreMiD คุณต้องเข้าใจว่าคุณกำลังอาสาทำงานกับทีมและจะไม่ได้รับค่าจ้าง",
-		"description": "Notice for applicants."
-	},
 	"jobs.guild.required": {
 		"message": "มาร่วม Discord ของเรา",
 		"description": "Title of the modal the user will see if it's not in Discord server."
