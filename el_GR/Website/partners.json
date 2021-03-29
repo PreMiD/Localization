@@ -3,6 +3,10 @@
 		"message": "Συνεργάτες",
 		"description": "Heading for page."
 	},
+	"partners.partner.atomicradio": {
+		"message": "Ζήστε την εμπειρία των τελευταίων και καλύτερων mix από τον κόσμο της μουσικής non-stop επί όλοι οι σταθμοί μας, επιλέξτε ποιο σας αρέσει το πιο και να είστε εκεί ζωντανά όταν θρύλοι διαγραμμάτων μάχη μεταξύ τους με νεοεισερχόμενους για το κορυφή τη θέση!",
+		"description": "Description for Atomicradio."
+	},
 	"partners.apply.select.other": {
 		"message": "Άλλα",
 		"description": "Select 'Other' category."
