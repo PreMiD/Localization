@@ -23,10 +23,6 @@
 		"message": "Lūdzu aizpildiet visus laukus",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD ir atvērtā avota tipa projekts, kas nozīmē ka mēs negūstam peļņu. Katrs ziedojums nokļūst atpakaļ produktā. Piesakoties darbā PreMiD, Tu apzinies, ka esi brīvprātīgais un nesaņemsi atalgojumu.",
-		"description": "Notice for applicants."
-	},
 	"jobs.guild.required": {
 		"message": "Pievienojies mūsu Discord serverim",
 		"description": "Title of the modal the user will see if it's not in Discord server."
