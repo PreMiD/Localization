@@ -23,10 +23,6 @@
 		"message": "Пожалуйста, заполните все поля",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD является проектом с открытым исходным кодом, то есть мы являемся некоммерческой командой, каждая денежная сумма пойдут на проект. Запрашивая вакансию в PreMiD вы подтверждаете, что вы добровольно работаете в команде, вы не будете выплачивать вам вознаграждение за работу.",
-		"description": "Notice for applicants."
-	},
 	"jobs.guild.required": {
 		"message": "Присоединяйтесь к нашему Discord серверу",
 		"description": "Title of the modal the user will see if it's not in Discord server."
