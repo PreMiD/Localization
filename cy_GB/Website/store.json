@@ -1,1 +1,26 @@
-{}
+{
+	"store.category.all": {
+		"message": "Holl catagoriau",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Gêmmau",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Cerddoriaeth",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Cymdeithaseg",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Fideos a Ffrydiau",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Arall",
+		"description": "Category at the top"
+	}
+}

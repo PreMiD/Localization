@@ -1,1 +1,26 @@
-{}
+{
+	"merch.title": {
+		"message": "Chào mừng đến với cửa hàng của **PreMiD**!",
+		"description": "Merch store title"
+	},
+	"merch.fit": {
+		"message": "**Chọn size**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Thêm vào giỏ hàng",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Có vấn đề khi đặt hàng? Liên hệ {0}chăm sóc khách hàng{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} đã được thêm vào giỏ hàng",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Không có mặt hàng nào được thêm vào giỏ hàng",
+		"description": "Error message when no size selected"
+	}
+}
