@@ -23,10 +23,6 @@
 		"message": "すべての項目を入力してください。",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiDは非営利のプロジェクトであり、すべての寄付やPatreonのお金はすべてPreMiDの開発やサーバー維持費に使用されます。\nPreMiDでの求人に応募することで、ボランティアとしての活動を同意することになります。\n給料が支払われることはありません。",
-		"description": "Notice for applicants."
-	},
 	"jobs.guild.required": {
 		"message": "Discordに参加する",
 		"description": "Title of the modal the user will see if it's not in Discord server."

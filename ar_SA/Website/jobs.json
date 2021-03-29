@@ -23,10 +23,6 @@
 		"message": "يُرجى إكمال كافة الحقول",
 		"description": "Error when user did not fill all the fields."
 	},
-	"jobs.modal.notice": {
-		"message": "PreMiD هو مشروع مفتوح المصدر، مما يعني أننا فريق غير هادف للربح، كل تبرع أو مال ربحي يعود إلى المنتج. من خلال التقدم للحصول على وظيفة في PreMiD، فإنك تقر بأنك تتطوع في الفريق، ولن يتم الدفع لك مقابل عملك.",
-		"description": "Notice for applicants."
-	},
 	"jobs.guild.required": {
 		"message": "انضم إلى الديسكورد الخاص بنا",
 		"description": "Title of the modal the user will see if it's not in Discord server."
