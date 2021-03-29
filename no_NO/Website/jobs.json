@@ -23,6 +23,10 @@
 		"message": "Vennlights fyll ut alle obligatoriske felt",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD er ett prosjekt med åpen kildekode, som betyr at vi er ett ideelt lag, vær donasjon går tilbake til produktet. Ved å søke etter en jobb posisjon hos PreMiD erkjenner du at du skal være frivillig med i laget, du vil ikke få betalt for jobben du gjør.",
+		"description": "Notice for applicants."
+	},
 	"jobs.guild.required": {
 		"message": "Bli med i vår Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."

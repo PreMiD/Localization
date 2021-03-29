@@ -19,6 +19,10 @@
 		"message": "Var vänlig fyll i alla fält",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD är ett projekt med öppen källkod, vilket innebär att vi är ett ideellt team, varje donation eller patreonpengar går tillbaka till produkten. Genom att ansöka om en anställning hos PreMiD bekräftar du att du är volontär i teamet kommer du inte att få betalt för ditt arbete.",
+		"description": "Notice for applicants."
+	},
 	"jobs.header.title": {
 		"message": "Arbeta för PreMiD",
 		"description": "First part of the jobs page."

@@ -23,6 +23,10 @@
 		"message": "Per favore, completa tutti i campi",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD è un progetto open-source, ovvero un team no-profit. Per ogni donazione o patreon il ricavato verrà investito nel prodotto. Candidandoti per una posizione di lavoro a PreMiD, acconsenti di partecipare volontariamente nel team, poiché non verrà assegnato alcun compenso per il lavoro svolto.",
+		"description": "Notice for applicants."
+	},
 	"jobs.guild.required": {
 		"message": "Unisciti al nostro Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
