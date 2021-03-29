@@ -27,6 +27,10 @@
 		"message": "Mae'r presenoldeb hwn yn cael ei alluogi'n awtomatig pan ymwelwch â'ch gwefan.",
 		"description": "The message that appears instead of the buttons."
 	},
+	"store.category.filters.mostUsed": {
+		"message": "Defnyddir fwyaf yn gyntaf",
+		"description": "Most used first checkbox"
+	},
 	"store.category.all": {
 		"message": "Holl catagoriau",
 		"description": "Category at the top"
@@ -50,5 +54,9 @@
 	"store.category.other": {
 		"message": "Arall",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Chwilio",
+		"description": "Placeholder for presence search"
 	}
 }
