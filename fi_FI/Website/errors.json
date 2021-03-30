@@ -1,1 +1,26 @@
-{}
+{
+	"store.search.notFound": {
+		"message": "Emme löytäneet tuota presenceä...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Valitettavasti emme löytäneet tuota sivua.",
+		"description": "Error (404) message"
+	},
+	"error.code.500": {
+		"message": "Sisäinen palvelinvirhe tapahtui.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Tiedot",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Takaisin etusivulle",
+		"description": "Button on the error page"
+	},
+	"user.notFound.message4": {
+		"message": "Jos uskot, että tämä oli virhe, ota meihin yhteyttä [Discord-palvelimellamme].",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}
