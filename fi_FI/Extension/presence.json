@@ -1,6 +1,6 @@
 {
   "presence.playback.playing": {
-    "message": "Toistetaan",
+    "message": "Toistaa",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
@@ -14,6 +14,14 @@
   "presence.activity.live": {
     "message": "Suora",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "Lukee",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "Etsii",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
     "message": "Jakso {0}",
