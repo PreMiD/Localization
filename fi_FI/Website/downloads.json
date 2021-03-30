@@ -103,10 +103,6 @@
 		"message": "Ole hyvä, ja poista mainoksenesto-ohjelmasi käytöstä",
 		"description": "Message next to pepe."
 	},
-	"downloads.showbeta.small": {
-		"message": "(ei tarvita, jos olet täällä vain ladataksesi normaalin sovelluksen)",
-		"description": "Small text under the show beta title."
-	},
 	"downloads.skipanyway.message1": {
 		"message": "En halua tukea.",
 		"description": "Skip anyway messages (changes everytime you click it)."
