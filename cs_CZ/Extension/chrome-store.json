@@ -2,9 +2,5 @@
   "extension.description.short": {
     "message": "Tvá Rich Presence pro webové služby!",
     "description": "Short description in extension store"
-  },
-  "extension.description.full": {
-    "message": "ABY RICH PRESENCE FUNGOVALO, MUSÍTE SI STÁHNOUT NAŠI OFICIÁLNÍ APLIKACI\n   {0} {1}\n\nMůžete použít své media klávesy pro ovládání přehrávání těchto služeb. Když sledujete/posloucháte něco na podporované službě, rozšíření prohlížeče odešle metadata videa/písničky do našeho klienta a PreMiD je zpracuje. PreMiD odešle tyto informace na Discord ve správném formátu a automaticky nastaví status.\nPodporované služby\n   {2} Podívejte se na {3}\n\nPotřebujete pomoct?\n   {4} {5}\n\nNáš Discord server\n   {6} Promluvte si s lidmi, kteří vytvořili PreMiD {7}\n\nJsme Open Source!\n   {9} Úžasné věci by měli být otevřené veřejenosti! {10}",
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
