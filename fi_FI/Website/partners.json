@@ -2,5 +2,21 @@
 	"partners.header.title": {
 		"message": "Yhteistyökumppanit",
 		"description": "Heading for page."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Mennään taivaaseen yhdessä!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsorit",
+		"description": "Heading for sponsors."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Sulje",
+		"description": "Modal close button."
+	},
+	"partners.apply.error1": {
+		"message": "Ole hyvä, ja täytä kaikki kentät.",
+		"description": "Error when a field isn't filled."
 	}
 }
