@@ -1,4 +1,12 @@
 {
+	"home.introduction.button.features": {
+		"message": "Ominaisuudet",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Lataukset",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
 	"home.examples.playingagame": {
 		"message": "Pelaa peliä",
 		"description": "Discord Rich Presence -> Playing a game"
@@ -7,8 +15,12 @@
 		"message": "{0} jäljellä",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
+	"home.examples.timestamp2": {
+		"message": "{0} kulunut",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
 	"home.examples.status.playing": {
-		"message": "Toistetaan",
+		"message": "Toistaa",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
@@ -20,23 +32,39 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Löydä **sinun** presence",
+		"message": "Löydä **oma** presencesi",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Vieraile kaupassa",
+		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
 		"message": "Yksinkertainen käyttöliittymä",
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": "Sovellus- ja laajennus asetukset",
+		"message": "Sovellus- ja laajennusasetukset",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
 		"message": "Presencen hallinta",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Lajittele luokan mukaan",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Nopea tuki",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Liity Discordiimme",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Sivuston kieli",
+		"description": "Tippy content of the language selector."
 	}
 }
