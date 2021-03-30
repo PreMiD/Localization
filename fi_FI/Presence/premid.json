@@ -3,6 +3,10 @@
 		"message": "Osallistujat",
 		"description": "A page name"
 	},
+	"premid.pageDownloads": {
+		"message": "Lataukset",
+		"description": "A page name"
+	},
 	"premid.pageStore": {
 		"message": "Kauppa",
 		"description": "A page name"
@@ -12,7 +16,7 @@
 		"description": "A page name"
 	},
 	"premid.pageTroubleshooting": {
-		"message": "Apua",
+		"message": "Vianetsintä",
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
