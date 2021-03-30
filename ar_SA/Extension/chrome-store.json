@@ -2,9 +2,5 @@
   "extension.description.short": {
     "message": "الpresence الخاص بخدمات الويب!",
     "description": "Short description in extension store"
-  },
-  "extension.description.full": {
-    "message": "يجب عليك تثبيت التطبيق الخاص بنا الرسمي لكي يشتغل\n   {0} {1}\n\nيمكنك استخدام مفاتيح الوسائط الخاصة بك للتحكم في تشغيل هذه الخدمات. عندما تشاهد/تستمع إلى شيء ما بإحدى خدماتنا المدعومة، ملحق المتصفح يرسل البيانات الوصفية للفيديو/الأغنية إلى عميل سطح المكتب الخاص بنا ويعالجها PreMid. يقوم PreMid بإرسال المعلومات إلى ديسكورد مع النموذج الصحيح ثم يقوم تلقائياً بتعيينه كحالة.\nالخدمات المدعومة\n   {2} ألقي نظرة على {3}\n\nتحتاج إلى مساعدة؟\n   {4} {5}\n\nخادم ديسكورد الخاص بنا\n   {6} تحدث إلى الناس خلف بريميد {7}\n\nنحن مفتوحين المصدر!\n   {9} أشياء عظيمة يجب أن تكون مفتوحة للجمهور {10}",
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
