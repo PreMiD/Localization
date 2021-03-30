@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "Присоеденитесь же к {0} пользователям прямо сейчас!",
+		"message": "Присоединиться {0} пользователи сегодня!\n",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
