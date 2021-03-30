@@ -1,1 +1,22 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Viendo un anuncio",
+        "description": ""
+    },
+    "youtube.subscriptions": {
+        "message": "sus suscripciones",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "su biblioteca",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "su historial",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "sus compras",
+        "description": "Part two of \"Browsing through\""
+    }
+}
