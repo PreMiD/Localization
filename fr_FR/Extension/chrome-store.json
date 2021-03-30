@@ -2,9 +2,5 @@
   "extension.description.short": {
     "message": "Votre Rich Presence pour les services web!",
     "description": "Short description in extension store"
-  },
-  "extension.description.full": {
-    "message": "VOUS DEVEZ INSTALLER NOTRE APPLICATION OFFICIELLE POUR QUE ÇA FONCTIONNE\n   {0} {1}\n\nVous pouvez utiliser vos touches multimédia pour contrôler la reproduction des services. Quand vous regardez/écoutez quelque chose dans un de nos services, l'extension du navigateur envoie les métadonnées de la vidéo/musique à notre application de bureau et PreMiD la traite. PreMiD envoie toutes les informations nécessaires à Discord et définit votre status automatiquement.\nSupported services\n   {2} Regardez ça {3}\n\nBesoin d'aide?\n   {4} {5}\n\nNotre serveur Discord\n   {6} Conversez avec les têtes au-dessus de PreMiD {7}\n\nNous sommes open-source!\n   {9} Les bonnes choses devraient être ouvertes au public {10}",
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }
