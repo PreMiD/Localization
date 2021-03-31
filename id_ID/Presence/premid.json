@@ -1,4 +1,16 @@
 {
+	"premid.viewPage": {
+		"message": "Melihat halaman:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumen",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Melihat presence:",
+		"description": ""
+	},
 	"premid.pageContributors": {
 		"message": "Kontributor",
 		"description": "A page name"
@@ -25,6 +37,14 @@
 	},
 	"premid.pageTroubleshooting": {
 		"message": "Pemecahan masalah",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Pengembangan Presence",
 		"description": "A page name"
 	}
 }
