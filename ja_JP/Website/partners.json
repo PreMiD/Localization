@@ -103,6 +103,14 @@
 		"message": "名前",
 		"description": "Name filed."
 	},
+	"partners.apply.form.link.placeholder": {
+		"message": "例:https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "画像のリンク: (550x300、 PNGファイルのみ)",
+		"description": "Do not change the sizes."
+	},
 	"partners.apply.form.imageLink.placeholder": {
 		"message": "例: https://i.imgur.com/clun1ID.png",
 		"description": "Image link field's placeholder. Do not change the image URL."
