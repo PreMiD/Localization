@@ -1,1 +1,14 @@
-{}
+{
+	"report.title": {
+		"message": "Ilmoita virheestä",
+		"description": "Text to indicate the page."
+	},
+	"report.error": {
+		"message": "Lisätietoja tarvitaan",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord-tili on vahvistettava",
+		"description": "Users Discord not verified"
+	}
+}
