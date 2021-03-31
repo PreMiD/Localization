@@ -31,12 +31,20 @@
 		"message": "Tentang PreMiD",
 		"description": "A page name"
 	},
+	"premid.pageSysReq": {
+		"message": "Persyaratan Sistem",
+		"description": "A page name"
+	},
 	"premid.pageInstall": {
 		"message": "Instalasi",
 		"description": "A page name"
 	},
 	"premid.pageTroubleshooting": {
 		"message": "Pemecahan masalah",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Memulai",
 		"description": "A page name"
 	},
 	"premid.pageApi": {

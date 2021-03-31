@@ -1,1 +1,10 @@
-{}
+{
+    "1337x.latestEpisode": {
+        "message": "Melihat episode terbaru",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Membaca peraturan",
+        "description": ""
+    }
+}
