@@ -7,6 +7,18 @@
 		"message": "Bergabunglah bersama kami dan dapatkan beberapa manfaat khusus mitra untuk menunjukkan betapa kerennya dirimu.",
 		"description": "Description for page."
 	},
+	"partners.why.benefit1.description": {
+		"message": "Tim kami akan menyediakan presence sesuai layanan kamu.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Integrasi meta-tag",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Ditampilkan pada sosial media kami.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "Persyaratan",
 		"description": "Heading for the requirements."
@@ -35,6 +47,10 @@
 		"message": "Masuk sebagai {0}",
 		"description": "{0} will be replaced with user account."
 	},
+	"partners.apply.select.website": {
+		"message": "Situs web",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Lainnya",
 		"description": "Select 'Other' category."
@@ -47,6 +63,14 @@
 		"message": "Contoh: PreMiD",
 		"description": "Name field's placeholder."
 	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Contoh: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Tautan gambar: (550x300, hanya PNG)",
+		"description": "Do not change the sizes."
+	},
 	"partners.apply.form.imageLink.placeholder": {
 		"message": "Contoh: https://i.imgur.com/clun1ID.png",
 		"description": "Image link field's placeholder. Do not change the image URL."
@@ -54,6 +78,10 @@
 	"partners.apply.form.button.close": {
 		"message": "Tutup",
 		"description": "Modal close button."
+	},
+	"partners.apply.success": {
+		"message": "Terima kasih telah melamar!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Silakan lengkapi semua kolom.",
