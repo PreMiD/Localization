@@ -1,4 +1,8 @@
 {
+	"jobs.modal.title": {
+		"message": "Melamar untuk {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
 	"jobs.modal.step": {
 		"message": "Langkah {0} dari 2",
 		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
@@ -18,5 +22,21 @@
 	"jobs.guild.required": {
 		"message": "Bergabunglah di Discord kami",
 		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Untuk dapat melamar kamu harus sudah masuk ke Server Discord kami. Jika tidak kami tidak akan bisa menghubungi kamu jika kamu terpilih!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.openings.title": {
+		"message": "Lowongan Pekerjaan",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefit4.title": {
+		"message": "Dukung PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.success.applied": {
+		"message": "Terima kasih telah melamar!",
+		"description": "Notification when applying."
 	}
 }
