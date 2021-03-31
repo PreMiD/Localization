@@ -2,5 +2,17 @@
 	"google docs.editingDoc": {
 		"message": "Mengedit dokumen",
 		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Menelusuri dokumen",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.editingForm": {
+		"message": "Mengedit form",
+		"description": "Displayed when the user is editing a Google Form"
+	},
+	"google docs.viewingForm": {
+		"message": "Melihat form",
+		"description": "Displayed when the user is viewing a Google Form"
 	}
 }
