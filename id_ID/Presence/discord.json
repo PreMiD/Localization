@@ -7,6 +7,14 @@
 		"message": "Melihat pengaturan mereka...",
 		"description": ""
 	},
+	"discord.inviteServer": {
+		"message": "Melihat tautan undangan{0}untuk server: {1}}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Lihat Tautan Undangan",
+		"description": "Used as the title for the button in Discord."
+	},
 	"discord.browseThrough": {
 		"message": "Menelusuri",
 		"description": "The first part of the next 17 strings"

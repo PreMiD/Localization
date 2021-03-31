@@ -35,6 +35,10 @@
 		"message": "Dukung PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit5.description": {
+		"message": "Santai saja. Ini adalah pekerjaan sukarela.",
+		"description": "Benefit card description."
+	},
 	"jobs.success.applied": {
 		"message": "Terima kasih telah melamar!",
 		"description": "Notification when applying."
