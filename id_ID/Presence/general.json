@@ -103,6 +103,10 @@
 		"message": "Melihat episode:",
 		"description": ""
 	},
+	"general.viewList": {
+		"message": "Melihat daftar:",
+		"description": ""
+	},
 	"general.viewMember": {
 		"message": "Melihat anggota:",
 		"description": ""
@@ -113,6 +117,10 @@
 	},
 	"general.viewProduct": {
 		"message": "Melihat produk:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Melihat halaman:",
 		"description": ""
 	},
 	"general.watching": {

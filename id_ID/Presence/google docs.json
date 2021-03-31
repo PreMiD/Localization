@@ -1,1 +1,6 @@
-{}
+{
+	"google docs.editingDoc": {
+		"message": "Mengedit dokumen",
+		"description": "Displayed when the user is editing a Google Document"
+	}
+}

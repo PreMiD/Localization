@@ -15,6 +15,10 @@
 		"message": "Pilih Sistem Operasi dan Versimu",
 		"description": "Select Box for the user to select their operating system"
 	},
+	"report.description": {
+		"message": "Berikan tautan ke contoh langsung atau langkah-langkah yang jelas untuk merekayasa bug tersebut.",
+		"description": "Text for the user to write information about the bug."
+	},
 	"report.button": {
 		"message": "Lapor",
 		"description": "Button to send the information inputed."
