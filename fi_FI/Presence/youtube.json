@@ -1,1 +1,26 @@
-{}
+{
+    "youtube.browsingVideos": {
+        "message": "Selaa videoita",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Selaa soittolistoja",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Katselee yhteisön julkaisuja",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "kanavalta:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Lukee kanavan tietoja:",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Tarkastelee äänikirjastoa",
+        "description": ""
+    }
+}
