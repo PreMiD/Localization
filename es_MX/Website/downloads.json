@@ -96,7 +96,7 @@
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
-		"message": "Omitir",
+		"message": "Saltar",
 		"description": "Skip button on the ads section"
 	},
 	"downloads.button.back": {
@@ -124,7 +124,7 @@
 		"description": "Skip Anyway button on the ads page."
 	},
 	"downloads.adsbox.thankyou.title": {
-		"message": "Gracias!",
+		"message": "¡Gracias!",
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
@@ -132,7 +132,7 @@
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Por favor, deshabilita Adblock",
+		"message": "Por favor, deshabilita tu bloqueador de anuncios",
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
@@ -156,11 +156,11 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "P-por favor ayúdanos :(",
+		"message": "Por favor, te lo ruego :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
-		"message": "Te necesito :<",
+		"message": "Te necesito :(((",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {
