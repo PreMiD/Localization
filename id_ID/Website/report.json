@@ -1,1 +1,30 @@
-{}
+{
+	"report.title": {
+		"message": "Laporkan Bug",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Laporan tersisa",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.overview": {
+		"message": "Memberikan penjelasan singkat dan jelas tentang bug yang terjadi.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Pilih Sistem Operasi dan Versimu",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.button": {
+		"message": "Lapor",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany.alert": {
+		"message": "Kamu memiliki laporan aktif terlalu banyak.",
+		"description": "User has too many active reports"
+	},
+	"report.error.unauth": {
+		"message": "Akun Discord perlu diverifikasi",
+		"description": "Users Discord not verified"
+	}
+}
