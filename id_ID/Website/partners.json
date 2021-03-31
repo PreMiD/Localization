@@ -63,6 +63,10 @@
 		"message": "Contoh: PreMiD",
 		"description": "Name field's placeholder."
 	},
+	"partners.apply.form.link": {
+		"message": "Tautan",
+		"description": "Link field."
+	},
 	"partners.apply.form.link.placeholder": {
 		"message": "Contoh: https://premid.app",
 		"description": "Link filed's placeholder."
@@ -86,5 +90,9 @@
 	"partners.apply.error1": {
 		"message": "Silakan lengkapi semua kolom.",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error3": {
+		"message": "Harap tambahkan tautan (harus dimulai dengan https:// dan akhiri dengan .png)",
+		"description": "Error when image link is entered wrong."
 	}
 }
