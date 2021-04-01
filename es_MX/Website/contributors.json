@@ -32,7 +32,7 @@
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.localizationManager": {
-		"message": "Administrador de idiomas",
+		"message": "Administrador de traducciones",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
@@ -76,7 +76,7 @@
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "¡ID de usuario copiado!",
+		"message": "¡ID de usuario copiada!",
 		"description": "Notification after user ID was copied."
 	}
 }
