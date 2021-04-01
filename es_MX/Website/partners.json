@@ -24,7 +24,7 @@
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
-		"message": "Sé verificado",
+		"message": "Vuélvete verificado",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
@@ -32,11 +32,11 @@
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
-		"message": "Integración de etiquetas meta",
+		"message": "Integración de Meta-tag",
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Activa automáticamente tu Presence cuando alguien visita tu Sitio Web.",
+		"message": "Activa automáticamente tu presence cuando alguien visita tu Sitio Web.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -200,7 +200,7 @@
 		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.description": {
-		"message": "Descripción: (máximo 150 caracteres)",
+		"message": "Descripción: (Máximo de 150 caracteres)",
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {
