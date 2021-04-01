@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** es una utilidad simple y configurable que te permite mostrar lo que estás haciendo en la web como estado en tu Discord.",
+		"message": "**PreMiD** es una herramienta simple y configurable que te permite mostrar lo que estás haciendo en la web como tu estado en Discord.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -60,11 +60,11 @@
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": "Ajustes de Aplicación y Extensión",
+		"message": "Ajustes de aplicación y extensión",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Gestión de Presences",
+		"message": "Gestión de presences",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
