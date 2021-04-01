@@ -119,8 +119,16 @@
 		"message": "Melihat produk:",
 		"description": ""
 	},
+	"general.viewUser": {
+		"message": "Melihat pengguna:",
+		"description": ""
+	},
 	"general.viewPage": {
 		"message": "Melihat halaman:",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Menonton video",
 		"description": ""
 	},
 	"general.watching": {
@@ -133,6 +141,26 @@
 	},
 	"general.buttonViewMovie": {
 		"message": "Lihat Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Tonton Episode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Tonton Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Lihat Channel",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Dengar Bersama",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Lihat Halaman",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewSong": {
