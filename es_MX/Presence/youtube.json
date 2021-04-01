@@ -3,6 +3,10 @@
         "message": "Viendo un anuncio",
         "description": ""
     },
+    "youtube.browsingVideos": {
+        "message": "Navegando a través de videos",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
     "youtube.browsingPlaylists": {
         "message": "Navegando a través de playlists",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
@@ -63,6 +67,10 @@
         "message": "Viendo sus eventos en directo",
         "description": ""
     },
+    "youtube.viewLiveDashboard": {
+        "message": "Viendo su panel de control en directo",
+        "description": ""
+    },
     "youtube.viewAudioLibrary": {
         "message": "Viendo su biblioteca de audio",
         "description": ""
@@ -86,6 +94,10 @@
     "youtube.studio.videoTranslations": {
         "message": "Viendo las traducciones del video:",
         "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Revisando sus",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
         "message": "analíticas del canal",
