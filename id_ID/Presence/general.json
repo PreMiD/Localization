@@ -47,6 +47,10 @@
 		"message": "Halaman",
 		"description": ""
 	},
+	"general.paused": {
+		"message": "Dijeda",
+		"description": ""
+	},
 	"general.playing": {
 		"message": "Bermain",
 		"description": ""
