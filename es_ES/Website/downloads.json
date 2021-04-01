@@ -60,7 +60,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.mobile.hideDownloads": {
-		"message": "Ocultar descargas",
+		"message": "Ocultar Descargas",
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
@@ -72,7 +72,7 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "Por favor, inicie sesión para ver estas descargas.",
+		"message": "Por favor, inicia sesión para ver estas descargas.",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
@@ -80,11 +80,11 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Puedes unirte a nuestro programa beta gratis **aquí**. ¡Apúrate! Solo tenemos {0} espacios disponibles",
+		"message": "Puedes unirte a nuestro programa beta gratis **aquí**. ¡Date prisa! Solo quedan {0} plazas",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Últimas versiones",
+		"message": "Versiones Preliminares",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
