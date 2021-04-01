@@ -11,6 +11,10 @@
         "message": "В панели управления",
         "description": "Server configuration page"
     },
+    "juniperbot.serverdashname": {
+        "message": "Сервер: {0}",
+        "description": "Guild name"
+    },
     "juniperbot.donate": {
         "message": "Чтение информации о планах пожертвования",
         "description": "Page with information about donation plans"
