@@ -4,7 +4,7 @@
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Empieza a usar PreMiD ahora y presume a tus amigos que estás haciendo, tal vez encuentres a alguien con tus mismos intereses.",
+		"message": "Utiliza ahora PreMiD y presume a tus amigos de lo que haces, quizá encuentres a alguien con tu mismos intereses.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -20,11 +20,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Agrega nuestra extensión a tu navegador",
+		"message": "Agrega nuestra Extensión a tu navegador",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Recarga el sitio y verifica si la extensión está conectada",
+		"message": "Recarga esta web y verifica si la extensión está conectada",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
