@@ -3,6 +3,14 @@
 		"message": "欢迎来到 **PreMiD** 官方周边商城！",
 		"description": "Merch store title"
 	},
+	"merch.swag": {
+		"message": "找到你的 **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**选择你的配件**",
+		"description": "Product sizes"
+	},
 	"merch.cart": {
 		"message": "加入购物车",
 		"description": "Add product to cart"
