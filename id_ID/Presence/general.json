@@ -99,6 +99,10 @@
 		"message": "Toko",
 		"description": ""
 	},
+	"general.typeChannel": {
+		"message": "Mengetik dalam channel:",
+		"description": ""
+	},
 	"general.viewCategory": {
 		"message": "Melihat kategori:",
 		"description": ""
@@ -119,16 +123,32 @@
 		"message": "Melihat film:",
 		"description": ""
 	},
+	"general.viewPlaylist": {
+		"message": "Melihat daftar putar:",
+		"description": ""
+	},
 	"general.viewProduct": {
 		"message": "Melihat produk:",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Melihat thread:",
 		"description": ""
 	},
 	"general.viewUser": {
 		"message": "Melihat pengguna:",
 		"description": ""
 	},
+	"general.viewing": {
+		"message": "Melihat:",
+		"description": ""
+	},
 	"general.viewPage": {
 		"message": "Melihat halaman:",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Menonton sebuah film serial",
 		"description": ""
 	},
 	"general.watchingVid": {
