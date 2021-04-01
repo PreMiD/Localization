@@ -4,11 +4,11 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Soportamos tu idioma, ¿quieres cambiarlo?",
+    "message": "Hablamos tu idioma, ¿quieres cambiarlo?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Nuestro sitio web ha sido traducido a tu idioma. Esto puede ayudarte en caso de que no hables inglés muy bien.",
+    "message": "Nuestro sitio web ha sido traducido a tu idioma. Esto puede ayudarte en caso de que no sepas inglés muy bien.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Haciendo panqueques...;Colocando contenedores...;Analizando tú dirección IP...;UwU;Rompiendo las reglas...",
+    "message": "Haciendo panqueques...;Colocando contenedores...;Analizando tu dirección IP...;UwU;Rompiendo las reglas...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
