@@ -26,5 +26,9 @@
 	"premid.pageTroubleshooting": {
 		"message": "Solución de problemas",
 		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Comenzando",
+		"description": "A page name"
 	}
 }
