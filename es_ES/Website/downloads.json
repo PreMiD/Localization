@@ -124,7 +124,7 @@
 		"description": "Skip Anyway button on the ads page."
 	},
 	"downloads.adsbox.thankyou.title": {
-		"message": "Gracias!",
+		"message": "¡Gracias!",
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
@@ -132,11 +132,11 @@
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "Por favor, deshabilita Adblock",
+		"message": "Por favor, deshabilita adblock",
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "Mostrar versiones de acceso temprano",
+		"message": "Mostrar versiones preliminares",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
@@ -156,7 +156,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "P-por favor ayúdanos :(",
+		"message": "Porfi, porfi, porfiiii ayúdanos :'(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
