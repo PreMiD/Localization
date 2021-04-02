@@ -91,6 +91,74 @@
 		"message": "la página de inspiración",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.college": {
+		"message": "la página universitaria",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "la página de noticias",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "la página de socios",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "la página de verificación",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "la página StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "la página de código abierto",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "la página de seguridad",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "la página de moderación",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "la página Rich Presence",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "las políticas",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Portal de Desarrolladores",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Navegando a través de sus aplicaciones",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Editando aplicación: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Navegando a través de sus equipos",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Editando equipo: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Navegando a través de sus servidores",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Visualizando información del servidor: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
 	"discord.devs.docs": {
 		"message": "Leyendo la documentación",
 		"description": ""
@@ -109,6 +177,10 @@
 	},
 	"discord.merch": {
 		"message": "Mercancía de Discord",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Viendo colección:",
 		"description": ""
 	}
 }
