@@ -30,5 +30,9 @@
 	"jobs.guild.required": {
 		"message": "हमारा डिसॉर्ड में शामिल हो",
 		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.success.applied": {
+		"message": "आवेदन करने के लिए धन्यवाद!",
+		"description": "Notification when applying."
 	}
 }
