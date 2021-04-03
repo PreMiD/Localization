@@ -19,6 +19,10 @@
 		"message": "Viendo redes sociales de:",
 		"description": ""
 	},
+	"twitter.viewLiked": {
+		"message": "Viendo lo gustado por:",
+		"description": ""
+	},
 	"twitter.viewList": {
 		"message": "Viendo lista:",
 		"description": ""
