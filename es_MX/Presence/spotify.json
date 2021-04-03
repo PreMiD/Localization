@@ -1,1 +1,10 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Canciones destacadas",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Mejores podcasts",
+		"description": ""
+	}
+}
