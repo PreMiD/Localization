@@ -1,1 +1,22 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "Viendo la biblioteca de películas",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Viendo la biblioteca de series",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Viendo los últimos episodios",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Viendo el top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Mirando que hay en las tendencias",
+        "description": ""
+    }
+}
