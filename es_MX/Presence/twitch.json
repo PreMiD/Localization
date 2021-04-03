@@ -203,6 +203,10 @@
 		"message": "Maximizando nuestra expresión",
 		"description": "Page name"
 	},
+	"twitch.brandTogether": {
+		"message": "Resumiendo",
+		"description": "Page name"
+	},
 	"twitch.brandWatch": {
 		"message": "Viendo la evolución de Twitch",
 		"description": "Watching as in watching a video"
@@ -215,9 +219,21 @@
 		"message": "Viendo el archivo de blogs de {0}",
 		"description": "{0} will be replaced with the year"
 	},
+	"twitch.blogBrowse": {
+		"message": "Navegando por las últimas entradas del blog...",
+		"description": ""
+	},
 	"twitch.help": {
 		"message": "Centro de Ayuda",
 		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Viendo tema:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Navegando por el catálogo temático...",
+		"description": ""
 	},
 	"twitch.affiliate": {
 		"message": "Programa de Afiliados de Twitch",
@@ -229,6 +245,14 @@
 	},
 	"twitch.devDocs": {
 		"message": "Documentación para desarrolladores",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Productos de desarrollo de Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Historias de éxito de la comunidad",
 		"description": "Page name"
 	},
 	"twitch.devSupport": {
