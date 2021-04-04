@@ -164,7 +164,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {
-		"message": "Vale, vale...",
+		"message": "Esta bien, esta bien...",
 		"description": "Last message of the skip anyway messages (changes everytime you click it)."
 	}
 }
