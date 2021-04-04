@@ -24,7 +24,7 @@
 		"description": "Features list"
 	},
 	"beta.register.text": {
-		"message": "¿Estás preparado? ¡Únete a otros {0} beta testers!",
+		"message": "¿Estás listo? ¡Únete a otros {0} beta testers!",
 		"description": "{0} will be replaced with the beta testers count -> is a variable"
 	},
 	"beta.register.button": {
@@ -36,7 +36,7 @@
 		"description": "Thank You page title"
 	},
 	"thankyou.description": {
-		"message": "Nuestros Monos están trabajando para registrarte en nuestra beta lo mas rápido posible. ¡Gracias por registrarte!",
+		"message": "Nuestros Monos están trabajando para registrarte en nuestra programa beta lo mas rápido posible. ¡Gracias por registrarte!",
 		"description": "Thank You page description"
 	},
 	"error.noslots": {
