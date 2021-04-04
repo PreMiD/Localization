@@ -48,7 +48,7 @@
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "Hecho",
+		"message": "Listo",
 		"description": "Done button"
 	},
 	"popup.presences.load": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "¡PreMiD no pudo conectarse a su aplicación! ¿Está esta instalada y abierta? Intenta la página de **solución de problemas**",
+		"message": "¡PreMiD no pudo conectarse a su aplicación! ¿Está esta instalada y abierta? *solución de problemas*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Tu aplicación de PreMiD está desactualizada. Por favor, actualízala para continuar usando PreMiD.",
+		"message": "Tu aplicación de PreMiD está desactualizada. Por favor, actualízala para seguir usando PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
@@ -116,11 +116,11 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "¡PreMiD no pudo conectarse a su aplicación! ¿Está esta instalada y abierta? Intenta la página de **solución de problemas**",
+		"message": "¡PreMiD no pudo conectarse a su aplicación! ¿Está esta instalada y abierta? *solución de problemas*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
-		"message": "Todas",
+		"message": "Todo",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.anime": {
@@ -144,7 +144,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
-		"message": "Otras",
+		"message": "Otros",
 		"description": "Category name shown when you open tags"
 	}
 }
