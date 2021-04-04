@@ -1,10 +1,10 @@
 {
 	"report.title": {
-		"message": "Informar de un error",
+		"message": "Reportar un error",
 		"description": "Text to indicate the page."
 	},
 	"report.bugcount": {
-		"message": "{count}/3 Informes restantes",
+		"message": "{count}/3 Reportes restantes",
 		"description": "Amount of bug reports user can send"
 	},
 	"report.info": {
@@ -44,7 +44,7 @@
 		"description": "Success notification"
 	},
 	"report.error": {
-		"message": "Se requiere más información",
+		"message": "Se necesita más información",
 		"description": "User needs to input more notification"
 	},
 	"report.error.unauth": {
