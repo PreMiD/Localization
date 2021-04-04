@@ -248,7 +248,7 @@
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
 	},
 	"general.waitingLiveThe": {
-		"message": "Esperando a que comience el directo",
+		"message": "Esperando a que empiece el directo",
 		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
@@ -284,7 +284,7 @@
 		"description": "A page name of statuspages"
 	},
 	"general.incidentHistory": {
-		"message": "Historial de incidencias",
+		"message": "Historial de incidentes",
 		"description": "A page name of statuspages"
 	},
 	"general.uptimeHistory": {
@@ -292,15 +292,15 @@
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
-		"message": "Ver Serie",
+		"message": "Ver serie",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
-		"message": "Ver Película",
+		"message": "Ver película",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
-		"message": "Ver Episodio",
+		"message": "Ver episodio",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
@@ -312,7 +312,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Ver Canal",
+		"message": "Ver canal",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
@@ -336,7 +336,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewArtist": {
-		"message": "Ver Artista",
+		"message": "Ver artista",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPlaylist": {
@@ -344,11 +344,11 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPodcast": {
-		"message": "Ver Podcast",
+		"message": "Ver podcast",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonReadArticle": {
-		"message": "Leer Artículo",
+		"message": "Leer artículo",
 		"description": "Used as the title for the button in Discord."
 	}
 }
