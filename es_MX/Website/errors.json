@@ -12,7 +12,7 @@
 		"description": "Error (4) message"
 	},
 	"error.code.500": {
-		"message": "Se ha producido un error interno.",
+		"message": "Se ha producido un error interno del servidor.",
 		"description": "Error (500) message"
 	},
 	"error.page.details": {
@@ -20,11 +20,11 @@
 		"description": "'Details' text on error page container"
 	},
 	"error.page.button": {
-		"message": "Volver a la página principal",
+		"message": "Regresar a la página principal",
 		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
-		"message": "No se ha podido encontrar ese usuario. Intenta asegurarte",
+		"message": "No se ha podido encontrar a ese usuario. Intenta asegurarte",
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
