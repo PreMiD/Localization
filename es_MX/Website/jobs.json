@@ -20,7 +20,7 @@
 		"description": "Cancel, button in the modal."
 	},
 	"jobs.modal.error": {
-		"message": "Por favor, completa todos los campos",
+		"message": "Por favor, completa todos los espacios",
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
@@ -80,7 +80,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit4.description": {
-		"message": "Con tu contribución es posible continuar este proyecto.",
+		"message": "Con tu contribución es posible continuar con este proyecto.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
