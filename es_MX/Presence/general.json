@@ -292,19 +292,19 @@
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
-		"message": "Viendo Series",
+		"message": "Ver Serie",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
-		"message": "Viendo Película",
+		"message": "Ver Película",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
-		"message": "Viendo Episodio",
+		"message": "Ver Episodio",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "Ver vídeo",
+		"message": "Ver video",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchStream": {
@@ -312,7 +312,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Ver canal",
+		"message": "Ver Canal",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
