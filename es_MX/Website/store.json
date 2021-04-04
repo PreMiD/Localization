@@ -76,7 +76,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Videos y Directos",
+		"message": "Videos y Streams",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
@@ -88,11 +88,11 @@
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
-		"message": "Introducir",
+		"message": "Ingresar",
 		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
-		"message": "Haga click para eliminar el filtro",
+		"message": "Haga clic para eliminar el filtro",
 		"description": "Remove message for active search filters."
 	}
 }
