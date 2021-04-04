@@ -12,7 +12,7 @@
 		"description": "Product sizes"
 	},
 	"merch.cart": {
-		"message": "Agregar al carrito",
+		"message": "Añadir al carrito",
 		"description": "Add product to cart"
 	},
 	"merch.help": {
