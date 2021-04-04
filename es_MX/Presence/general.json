@@ -60,7 +60,7 @@
 		"description": ""
 	},
 	"general.paused": {
-		"message": "Pausado",
+		"message": "En pausa",
 		"description": ""
 	},
 	"general.playing": {
@@ -72,7 +72,7 @@
 		"description": ""
 	},
 	"general.readingAbout": {
-		"message": "Leyendo sobre:",
+		"message": "Leyendo acerca de:",
 		"description": ""
 	},
 	"general.readingArticle": {
@@ -120,7 +120,7 @@
 		"description": ""
 	},
 	"general.shopCart": {
-		"message": "Cesta de la compra",
+		"message": "Carrito de la compra",
 		"description": ""
 	},
 	"general.store": {
