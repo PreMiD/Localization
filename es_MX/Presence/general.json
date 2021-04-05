@@ -120,7 +120,7 @@
 		"description": ""
 	},
 	"general.shopCart": {
-		"message": "Carrito de la compra",
+		"message": "Carrito de compras",
 		"description": ""
 	},
 	"general.store": {
@@ -308,7 +308,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchStream": {
-		"message": "Ver Transmisión",
+		"message": "Ver stream",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
