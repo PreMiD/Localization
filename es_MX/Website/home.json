@@ -12,7 +12,7 @@
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
-		"message": "Jugando a un juego",
+		"message": "Jugando",
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
@@ -32,7 +32,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Navegando...",
+		"message": "Buscando...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -60,7 +60,7 @@
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": "Ajustes de aplicación y extensión",
+		"message": "Configuración de aplicación y extensión",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
@@ -76,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "¿Algo está mal, mostrándote montón de errores o simplemente no funciona? Te ayudaremos a deshacerte de esos errores en nuestro servidor de Discord donde hemos creado nuestro propio sistema de soporte que asegurará que tu problema sea resuelto lo más pronto posible.",
+		"message": "¿Algo está mal, mostrándote un montón de errores o simplemente no funciona? Te ayudaremos a deshacerte de todos esos errores en nuestro servidor de Discord donde hemos creado nuestro propio sistema de soporte que asegurará que tu problema sea resuelto lo más rápido posible.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
