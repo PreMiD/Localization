@@ -10,5 +10,9 @@
     "amazon.wishlist": {
         "message": "λίστα επιθυμιών",
         "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "δωροκάρτες",
+        "description": "Part 2 of the string: \"Viewing their\""
     }
 }
