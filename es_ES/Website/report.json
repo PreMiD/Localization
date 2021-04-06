@@ -8,7 +8,7 @@
 		"description": "Amount of bug reports user can send"
 	},
 	"report.info": {
-		"message": "Los reportes de errores son para errores dentro del sitio PreMiD y el Servidor PreMiD de Discord. Los bugs para una presencia deberán ser reportados al creador de la presencia. Sólo reportar errores en inglés.",
+		"message": "Los reportes de errores son para errores dentro del sitio PreMiD y el Servidor PreMiD de Discord. Los bugs para una presence deberán ser reportados al creador de la presence. Sólo reportar errores en inglés.",
 		"description": "Tells the user about submitting a bug"
 	},
 	"report.overview": {

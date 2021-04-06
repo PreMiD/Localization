@@ -16,11 +16,11 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Tu presencia gratuita",
+		"message": "Tu presence gratuita",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Nuestro equipo le proporcionará una presencia para su servicio web.",
+		"message": "Nuestro equipo le proporcionará una presence para su servicio web.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Activa automáticamente tu Presencia cuando alguien visita tu Sitio Web.",
+		"message": "Activa automáticamente tu Presence cuando alguien visita tu Sitio Web.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
