@@ -15,6 +15,10 @@
 		"message": "Συνεργάτες",
 		"description": "A page name"
 	},
+	"premid.pageAbout": {
+		"message": "Σχετικά με PreMiD",
+		"description": "A page name"
+	},
 	"premid.pageInstall": {
 		"message": "Εγκατάσταση",
 		"description": "A page name"
