@@ -15,6 +15,10 @@
 		"message": "Συνεργάτες",
 		"description": "A page name"
 	},
+	"premid.pageInstall": {
+		"message": "Εγκατάσταση",
+		"description": "A page name"
+	},
 	"premid.pagePresenceClass": {
 		"message": "Τάξη Παρουσίας",
 		"description": "A page name"
