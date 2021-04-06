@@ -1,6 +1,30 @@
 {
+  "tab.button.wiki": {
+    "message": "Wiki",
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
+  },
   "tab.installed.heading": {
     "message": "Ευχαριστούμε",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.subHeading": {
+    "message": "για εγκατάσταση {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
+  },
+  "donate": {
+    "message": "Δωρήστε",
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.installApplication": {
+    "message": "Εγκαταστήστε εφαρμογή",
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.updated.new": {
+    "message": "Νέο",
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.changed": {
+    "message": "Άλλαξε",
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   }
 }
