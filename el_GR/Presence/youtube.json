@@ -7,6 +7,10 @@
         "message": "Περιήγηση μέσα",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.purchases": {
+        "message": "τις αγορές τους",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.viewLiveDashboard": {
         "message": "Προβάλει του ζωντανός ταμπλό τους",
         "description": ""

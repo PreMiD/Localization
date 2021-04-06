@@ -1,1 +1,14 @@
-{}
+{
+    "amazon.payment": {
+        "message": "Προβολή τρόπων πληρωμής",
+        "description": ""
+    },
+    "amazon.cart": {
+        "message": "καλάθι αγορών",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "λίστα επιθυμιών",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
+}
