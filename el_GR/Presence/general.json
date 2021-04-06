@@ -3,6 +3,10 @@
 		"message": "Άνιμε",
 		"description": ""
 	},
+	"general.browsing": {
+		"message": "Αναζήτηση...",
+		"description": ""
+	},
 	"general.chapter": {
 		"message": "Κεφάλαιο",
 		"description": ""
@@ -27,6 +31,10 @@
 		"message": "Ακροατές",
 		"description": ""
 	},
+	"general.live": {
+		"message": "Ζωντανό",
+		"description": ""
+	},
 	"general.manga": {
 		"message": "Μάνγκα",
 		"description": ""
@@ -37,6 +45,14 @@
 	},
 	"general.playing": {
 		"message": "Παίζοντας",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Ανάγνωση",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Αναζήτηση",
 		"description": ""
 	},
 	"general.store": {
