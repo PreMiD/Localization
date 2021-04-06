@@ -1,1 +1,6 @@
-{}
+{
+	"spotify.browse": {
+		"message": "Περιήγηση μέσα",
+		"description": "First section of the next 6 strings"
+	}
+}
