@@ -1,1 +1,6 @@
-{}
+{
+  "tab.installed.heading": {
+    "message": "Ευχαριστούμε",
+    "description": "Title of the tab which opens when you install PreMiD for the first time"
+  }
+}
