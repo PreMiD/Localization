@@ -19,6 +19,10 @@
 		"message": "Pagalbos Agentas",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
+	"contributors.roles.translator": {
+		"message": "Vertėjai",
+		"description": "'Translator' title for contributors page."
+	},
 	"contributors.cards.copyUserId": {
 		"message": "Spauskite, jei norite nukopijuoti vartotojo ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
