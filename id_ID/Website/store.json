@@ -31,6 +31,10 @@
 		"message": "Hapus Presence",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.card.presence.included": {
+		"message": "Presence ini otomatis nyala saat mengunjungi situs.",
+		"description": "The message that appears instead of the buttons."
+	},
 	"store.category.filters.heading": {
 		"message": "Filter",
 		"description": "Searh filters option at the store page"
