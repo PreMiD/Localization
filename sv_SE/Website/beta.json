@@ -1,6 +1,6 @@
 {
 	"beta.title": {
-		"message": "Vill du ha nya funktioner?",
+		"message": "Vill du se funktioner?",
 		"description": "Beta page title"
 	},
 	"beta.description.1": {
@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Våra apor arbetar på att få dig in i vårt beta-program så fort som möjligt. Tack för att du registrerar dig!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Det verkar som att vi inte har några fler beta platser tillgängliga.",
+		"description": "Shows when the beta slots are full."
 	}
 }

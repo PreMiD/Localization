@@ -11,6 +11,38 @@
 		"message": "Översättare",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Projektledare",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Personalkoordinator",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
+	"contributors.roles.marketingDirector": {
+		"message": "Marknadsföringschef",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
+	"contributors.roles.administrator": {
+		"message": "Administratör",
+		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Granskare",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Lokaliseringshanterare",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.developer": {
+		"message": "Utvecklare",
+		"description": "'Developer' title for contributors and user pages."
+	},
+	"contributors.roles.designer": {
+		"message": "Designer",
+		"description": "'Designer' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderator",
 		"description": "'Moderator' title for contributors and user pages."
@@ -18,6 +50,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "Supportagent",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Representant",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Korrekturläsare",
@@ -38,5 +74,9 @@
 	"contributors.cards.copyUserId": {
 		"message": "Klicka för att kopiera användarens ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Användar-ID kopierat!",
+		"description": "Notification after user ID was copied."
 	}
 }
