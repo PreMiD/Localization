@@ -1,10 +1,10 @@
 {
 	"discord.friends": {
-		"message": "Visar deras vänner...",
+		"message": "Tittar på deras vänner...",
 		"description": ""
 	},
 	"discord.settings": {
-		"message": "Visar deras inställningar...",
+		"message": "Tittar på deras inställningar...",
 		"description": ""
 	},
 	"discord.browseThrough": {
