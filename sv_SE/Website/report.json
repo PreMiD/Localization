@@ -1,1 +1,10 @@
-{}
+{
+	"report.title": {
+		"message": "Rapportera Ett Fel",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Rapporter kvar",
+		"description": "Amount of bug reports user can send"
+	}
+}
