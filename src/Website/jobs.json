@@ -47,6 +47,10 @@
 		"message": "Job Openings",
 		"description": "Text before the available job positions cards."
 	},
+	"jobs.openings.none": {
+		"message": "There are no job positions open at the moment",
+		"description": "Text before the benefit title, when there are no available job positions cards."
+	},
 	"jobs.benefits.title": {
 		"message": "High-End Benefits",
 		"description": "Text before the benefits cards."
