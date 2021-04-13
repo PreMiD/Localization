@@ -155,6 +155,10 @@
 		"message": "O OnlyHit é a tua estação de rádio online feita para tocar os melhores sons 24 por dia e fazer com que descubras os teus próximos sons favoritos.",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.atomicradio": {
+		"message": "Sente os mais recentes e melhores sons do mundo da música sem pausas em todas as nossas estações. Escolhe qual gostas mais e ouve em direto enquanto as novas músicas lutam por um lugar no pódio!",
+		"description": "Description for Atomicradio."
+	},
 	"partners.apply.title": {
 		"message": "Candidatura a parceiro",
 		"description": "Partnership application modal title."
