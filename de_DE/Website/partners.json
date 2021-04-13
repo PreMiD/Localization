@@ -155,6 +155,10 @@
 		"message": "OnlyHit ist dein Online-Musik-Radiosender gemacht, um deine besten Hits 24/7 abzuspielen und dir deine zukünftigen Hits zuerst entdecken zu lassen.",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.atomicradio": {
+		"message": "Erlebe den neuesten und besten Mix aus der Musikwelt nonstop auf all unseren Sendern, wähle aus was dir am besten gefällt und sei live dabei, wenn sich Chart-Legenden mit Newcomern um den ersten Platz batteln!",
+		"description": "Description for Atomicradio."
+	},
 	"partners.apply.title": {
 		"message": "Partnerschaft anfragen",
 		"description": "Partnership application modal title."

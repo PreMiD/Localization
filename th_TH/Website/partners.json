@@ -155,6 +155,10 @@
 		"message": "OnlyHit คือสถานีเพลงออนไลน์ฟังตลอด 24 ชั่วโมง เเละทําให้คุณพบเพลงฮิตก่อนใคร",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.atomicradio": {
+		"message": "สัมผัสประสบการณ์การผสมผสานล่าสุดและดีที่สุดจากโลกแห่งดนตรี แบบ non-stop ในทุกสถานีของเรา, เลือกเพลงโปรดของคุณและไป พบกับการต่อสู้ของ ตำนานกับเด็กใหม่ เพื่อแย่งชิงจุดสูงสุด!",
+		"description": "Description for Atomicradio."
+	},
 	"partners.apply.title": {
 		"message": "ลงทะเบียนเป็นพาร์ทเนอร์",
 		"description": "Partnership application modal title."
