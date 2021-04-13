@@ -155,10 +155,6 @@
 		"message": "OnlyHit- это ваша онлайн-музыкальная радиостанция, созданная для воспроизведения ваших лучших песен 24/7 и для того, чтобы вы сначала открыли свои будущие хиты.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "Испытайте новейшее и лучшее сочетание музыкального мира на всех наших станциях, Выберите, какой вам нравится больше всего и быть там живым, когда на графике легенды сражаются друг с другом с новичками в топ-месте!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.apply.title": {
 		"message": "Подать заявку на партнерство",
 		"description": "Partnership application modal title."
