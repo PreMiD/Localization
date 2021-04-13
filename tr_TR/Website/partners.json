@@ -155,10 +155,6 @@
 		"message": "OnlyHit müzik ufkunuzu açan, gün boyu en sevilen şarkıları 7/24 çalan çevrimiçi bir müzik radyosudur.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "Müzik dünyasının en son ve en iyi müziklerinin karışımını tüm istasyonlarımızda kesintisiz bir şekilde deneyimleyin, en beğendiğinizi seçin ve tablo efsaneleri yeni şarkılarıyla en üst nokta için kapışırken burada olun!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.apply.title": {
 		"message": "Partnerliğe başvur",
 		"description": "Partnership application modal title."
