@@ -67,6 +67,10 @@
 		"message": "Penghargaan",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit3.description": {
+		"message": "Discord permission yang kuat dan role yang penuh warna.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit4.title": {
 		"message": "Dukung PreMiD",
 		"description": "Benefit card title."

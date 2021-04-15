@@ -7,13 +7,37 @@
 		"message": "Bergabunglah bersama kami dan dapatkan beberapa manfaat khusus mitra untuk menunjukkan betapa kerennya dirimu.",
 		"description": "Description for page."
 	},
+	"partners.slideshow.description": {
+		"message": "Ini sudah menjadi milik kita",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Bagaimana kalau pergi ke surga daripada ke neraka?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Presence gratismu",
+		"description": "Heading for the first benefit."
+	},
 	"partners.why.benefit1.description": {
 		"message": "Tim kami akan menyediakan presence sesuai layanan kamu.",
 		"description": "Description for the first benefit."
 	},
+	"partners.why.benefit2.title": {
+		"message": "Menjadi terverifikasi",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Role khusus dan kehormatan besar akan diberikan kepada kamu di server Discord kami.",
+		"description": "Description for the second benefit."
+	},
 	"partners.why.benefit3.title": {
 		"message": "Integrasi meta-tag",
 		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Otomatis gunakan presencemu ketika seseorang mengunjungi Websitemu.",
+		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit5.description": {
 		"message": "Ditampilkan pada sosial media kami.",
