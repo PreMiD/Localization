@@ -1,4 +1,8 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** adalah utilitas sederhana dan bisa dikonfigurasi yang memungkinkan kamu untuk menunjukkan apa yang kamu lakukan di web dalam status now playing Discord.",
+		"description": "First phrase that users read on our website"
+	},
 	"home.introduction.button.features": {
 		"message": "Fitur-fitur",
 		"description": "Introduction button"
