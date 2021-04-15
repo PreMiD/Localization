@@ -38,5 +38,9 @@
 	"user.notFound.message3": {
 		"message": "jika pengguna lain juga mengalami masalah yang sama pada server Discord kami.",
 		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Jika kamu yakin ini adalah kesalahan, harap hubungi kami pada [server Discord kami].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
