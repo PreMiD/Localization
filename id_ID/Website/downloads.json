@@ -144,7 +144,7 @@
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
-		"message": "Saya tidak mau membantu.",
+		"message": "Aku tidak mau membantu.",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message2": {
