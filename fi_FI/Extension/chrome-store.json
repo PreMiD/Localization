@@ -1,1 +1,6 @@
-{}
+{
+  "extension.description.short": {
+    "message": "PreMiD lisää Discord Rich Presence -integraation, medianäppäintuen ja paljon muuta rakastettuihin palveluihisi!",
+    "description": "Short description in extension store"
+  }
+}
