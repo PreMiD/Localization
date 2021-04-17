@@ -7,6 +7,18 @@
 		"message": "หน้าวิดีโอใหม่",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"v live.charts": {
+		"message": "รายการที่ติดอันดับ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "รายการที่กำลังมา",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "รายการช่องทั้งหมด",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"v live.events": {
 		"message": "หน้ากิจกรรม",
 		"description": "Second part of the \"Browsing through\" string"
