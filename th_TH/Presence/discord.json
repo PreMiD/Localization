@@ -87,13 +87,25 @@
 		"message": "นโยบาย",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.devs.appsBrowse": {
+		"message": "กำลังดูแอปของเขา",
+		"description": ""
+	},
 	"discord.devs.appsEdit": {
 		"message": "กำลังแก้ไขแอป: {0}",
 		"description": "{0} will be replaced with the name of the app."
 	},
+	"discord.devs.teamsBrowse": {
+		"message": "กำลังดูทีมของเขา",
+		"description": ""
+	},
 	"discord.devs.teamsEdit": {
 		"message": "กำลังแก้ไขทีม: {0}",
 		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "กำลังดูเซิฟเวอร์ของเขา",
+		"description": ""
 	},
 	"discord.status": {
 		"message": "สถานะ Discord",
