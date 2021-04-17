@@ -11,6 +11,10 @@
 		"message": "Sponsorit",
 		"description": "Heading for sponsors."
 	},
+	"partners.apply.select.other": {
+		"message": "Muut",
+		"description": "Select 'Other' category."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Sulje",
 		"description": "Modal close button."
