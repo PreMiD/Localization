@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Seznam změn",
+    "message": "Seznam Změn",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
