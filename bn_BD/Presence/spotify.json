@@ -1,1 +1,10 @@
-{}
+{
+	"spotify.browse": {
+		"message": "ব্রাউজ করছে",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.download": {
+		"message": "Spotify ডাউনলোড করছে",
+		"description": ""
+	}
+}
