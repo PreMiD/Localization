@@ -1,4 +1,8 @@
 {
+	"jobs.modal.title": {
+		"message": "Požádat o {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
 	"jobs.modal.step": {
 		"message": "Krok {0} ze 2",
 		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
@@ -19,9 +23,21 @@
 		"message": "Vyplň, prosím, všechna pole",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "PreMiD je open-source projekt, což znamená, že jsme neziskový tým, každý dar nebo patreon peníze se vrací zpět do produktu. Podáním žádosti o pracovní pozici v PreMiDu potvrzuješ, že se dobrovolně zapojuješ do týmu, nebudeš za svou práci placen.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Připojte se k našemu Discordu",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
 	"jobs.header.title": {
 		"message": "Práce pro PreMiD",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Jste připraven pomoct největšímu Rich-Presence programu?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Volná pracovní místa",
@@ -31,20 +47,40 @@
 		"message": "Vysoké výhody",
 		"description": "Text before the benefits cards."
 	},
+	"jobs.benefit1.title": {
+		"message": "Seznam se s námi",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Spoj se s lidmi za PreMiDem.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit2.title": {
 		"message": "Nakouknutí",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit2.description": {
+		"message": "Podívej se na náš rozvoj a marketing.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit3.title": {
-		"message": "Ucta",
+		"message": "Úcta",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit3.description": {
+		"message": "Výkonná Discord oprávnění a barevná role.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit4.title": {
-		"message": "Podpořit PreMiD",
+		"message": "Podpoříš PreMiD",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit5.title": {
 		"message": "Čas vypršel",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.title": {
+		"message": "Předběžný přístup",
 		"description": "Benefit card title."
 	}
 }
