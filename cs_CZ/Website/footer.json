@@ -4,11 +4,11 @@
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.message": {
-		"message": "Připojte se k {0} uživatelům již dnes!",
+		"message": "Připoj se k {0} uživatelům již dnes!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
-		"message": "Instalovat",
+		"message": "Nainstalovat",
 		"description": "Install button under the promotional message"
 	},
 	"footer.partners.heading": {
