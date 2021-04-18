@@ -1,6 +1,6 @@
 {
 	"downloads.instructions.heading": {
-		"message": "Jak Začít",
+		"message": "Začít",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.appdownloading.header": {
@@ -12,7 +12,7 @@
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Není zde žádný instalační soubor pro tenhle operační systém. To znamená, že pro něj není žádná profesionální podpora.",
+		"message": "{0} Pro tento operační systém zde není žádný instalační soubor. To znamená, že pro něj není žádná profesionální podpora.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.button.cancel": {
