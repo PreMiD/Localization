@@ -1,6 +1,6 @@
 {
 	"user.notFound.heading": {
-		"message": "Tohoto uživatele se nepodařilo najít. Ujistěte se že",
+		"message": "Tohoto uživatele se nepodařilo najít. Ujisti se že",
 		"description": "Error when user couldn't be found."
 	}
 }
