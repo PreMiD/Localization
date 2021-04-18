@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Naše webová stránka byla přeložena do tvého jazyka. Může se ti to hodit v případě že nemluvíš dobře Anglicky.",
+    "message": "Náš web byl přeložen do tvého jazyka. Může se ti to hodit v případě že nemluvíš dobře Anglicky.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Peču palačinky...;Umísťuji kontejnery...;Analyzuji tvojí IP adresu...;UwU;Porušuji pravidla...",
+    "message": "Peču palačinky...;Umísťuji kontejnery...;Analyzuji tvoji IP adresu...;UwU;Porušuji pravidla...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
