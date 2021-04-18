@@ -15,6 +15,14 @@
 		"message": "A co třeba jít do nebe místo pekla?",
 		"description": "Heading for benefits."
 	},
+	"partners.why.benefit1.title": {
+		"message": "Vaše bezplatná Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Náš tým vám poskytne Presenci Vaší služby.",
+		"description": "Description for the first benefit."
+	},
 	"partners.why.benefit2.title": {
 		"message": "Staňte se ověřený",
 		"description": "Heading for the second benefit."
@@ -39,6 +47,10 @@
 		"message": "Buď slavný",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "Budete sdíleni na našich sociálních médiích.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "Požadavky",
 		"description": "Heading for the requirements."
@@ -62,6 +74,14 @@
 	"partners.apply.disclaimer": {
 		"message": "Pojďme společně do nebe!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Jestli máte radši zájem přímo pracovat pro PreMid, tak se podívejte na naše **nabídky práce**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponzoři",
+		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
 		"message": "PreMiD by nebyl možný, bez těchto úžasných lidí.",

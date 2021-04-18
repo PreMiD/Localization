@@ -27,6 +27,30 @@
 		"message": "Přidat Presenci",
 		"description": "Button that will appear on hover after extension is installed."
 	},
+	"store.card.presence.remove": {
+		"message": "Odebrat Presenci",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Tato Presence se automaticky zapne při navštívení příslušné stránky.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Nejvíce používané první",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Zobrazit NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Pouze Presence označené \"Líbí se\"",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Zobrazovat již přidané Presence",
+		"description": "Store filter to display/not display already installed presences."
+	},
 	"store.category.heading": {
 		"message": "Kategorie",
 		"description": "Category heading"
@@ -44,7 +68,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Sociální sítě",
+		"message": "Sociální Sítě",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
@@ -54,5 +78,17 @@
 	"store.category.other": {
 		"message": "Ostatní",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Hledat",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Vložit",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klikněte pro odebrání filtru",
+		"description": "Remove message for active search filters."
 	}
 }
