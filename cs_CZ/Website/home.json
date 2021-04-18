@@ -55,21 +55,33 @@
 		"message": "Jednoduché uživatelské rozhraní",
 		"description": "Features section subheading"
 	},
+	"home.features.simpleInterface.description": {
+		"message": "Jsi unavený z komplikovaných uživatelských rozhraní? To je důvod, proč jsme vytvořili a snažíme se udržet naše uživatelské rozhraní co nejjednodušší a nejužitečnější s důležitými funkcemi jako třeba:",
+		"description": "Features section description"
+	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Nastavení Aplikace a Rozšíření",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Spravování presence",
+		"message": "Správa presencí",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Seřadit podle kategorie",
+		"message": "Seřazení podle kategorie",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
 		"message": "Rychlá podpora",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Něco se rozbilo, zasílá tisíce chyb nebo prostě nefunguje? Pomůžeme vám se zbavit těchto problémů na našem Discord serveru, dokonce jsme vytvořili náš vlastní systém podpory, který zajistí, že se tvůj problém vyřeší co nejdříve.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Připoj se na náš Discord",
+		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Jazyk webu",

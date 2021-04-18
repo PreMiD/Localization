@@ -4,7 +4,7 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Podporujeme tvůj jazyk, chceš si ho přepnout?",
+    "message": "Podporujeme tvůj jazyk, chceš ho přepnout?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Přihlásit se",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Přihlášen jako",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Nahlásit chybu",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Řídicí panel",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Odhlásit se",
+    "description": "Logout button"
   }
 }
