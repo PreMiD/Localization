@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, co děláš na webu ve tvém \"Právě Hraješ\" statusu na Discordu.",
+		"message": "**PreMiD** je jednoduchý, konfigurovatelný nástroj, který ti umožní ukázat, co děláš na webu ve tvém Discord statusu.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -20,7 +20,7 @@
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.timestamp2": {
-		"message": "{0} uplynulo",
+		"message": "uběhlo {0}",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
@@ -72,7 +72,7 @@
 		"description": "Features section subheading"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Jazyk webové stránky",
+		"message": "Jazyk webu",
 		"description": "Tippy content of the language selector."
 	}
 }
