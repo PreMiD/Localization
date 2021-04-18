@@ -71,21 +71,73 @@
 		"message": "Tato verze je určená pro Linux a neplatí pro ostatní systémy. Hlavní verze aplikace je {0}",
 		"description": "Tippy message of the version number when user is on Linux."
 	},
+	"downloads.error.login": {
+		"message": "Pro zobrazení těchto souborů ke stažení se, prosím, přihlas.",
+		"description": "Error message if the user is not logged in."
+	},
+	"downloads.error.noaccess.title": {
+		"message": "Ale ne, vypadá to, že nemáš alfa/beta přístup :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
+	"downloads.error.noaccess.description": {
+		"message": "K našemu beta programu se můžeš připojit zcela zdarma **zde**. Ale pospěš si! Máme jen {0} volných slotů",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Předběžná Vydání",
+		"description": "Header above alpha/beta download buttons."
+	},
+	"downloads.warning.title": {
+		"message": "Varování",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.button.skip": {
+		"message": "Přeskočit",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Zpět",
+		"description": "Back button on the ads section"
+	},
 	"downloads.button.cancel": {
 		"message": "Zrušit",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "Dobře",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
 		"message": "Hotovo",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "Přihlásit se",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.button.skipanyway": {
+		"message": "Přesto přeskočit",
+		"description": "Skip Anyway button on the ads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Děkujeme!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Používáme reklamy na podporu našeho týmu a údržbu našich serverů, abychom ti mohli nabídnout co nejlepší zážitek!",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "Prosím, vypni svůj blokátor reklam",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Zobrazit předběžná vydání",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(nevyžaduje se, pokud jsi zde pouze, abys si stáhl běžnou aplikaci)",
+		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
 		"message": "Nechci podporovat.",
@@ -100,7 +152,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "P-prosím podpora :(",
+		"message": "P-prosím podpoř nás :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
