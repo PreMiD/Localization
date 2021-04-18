@@ -1,1 +1,18 @@
-{}
+{
+	"beta.title": {
+		"message": "Chceš nové funkce?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** je nyní dostupná pro všechny!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Co získáš, pokud se zaregistruješ?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Nejnovější funkce",
+		"description": "Features list"
+	}
+}
