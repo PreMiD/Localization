@@ -20,7 +20,7 @@
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
-		"message": "Volg ons",
+		"message": "Volgen",
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
@@ -36,7 +36,7 @@
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "Steun ons",
+		"message": "Steunen",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
