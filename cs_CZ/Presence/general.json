@@ -163,6 +163,10 @@
 		"message": "Prohlíží seznam:",
 		"description": ""
 	},
+	"general.viewManga": {
+		"message": "Zobrazení manga:",
+		"description": ""
+	},
 	"general.viewMember": {
 		"message": "Prohlíží člena:",
 		"description": ""
@@ -247,6 +251,10 @@
 		"message": "Čeká na zahájení živého vysílání",
 		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
+	"general.watching": {
+		"message": "Sleduje:",
+		"description": ""
+	},
 	"general.wishlist": {
 		"message": "Seznam přání:",
 		"description": ""
@@ -256,11 +264,91 @@
 		"description": "A page name"
 	},
 	"general.terms": {
-		"message": "Podmínky služby",
+		"message": "Podmínky Služby",
 		"description": "A page name"
 	},
 	"general.cookie": {
 		"message": "Zásady používání souborů cookie",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Opakování všech skladeb",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Na smyčce",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Prohlíží incident",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Historie incidentů",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Historie provozu",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Zobrazit Sérii",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Zobrazit Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Zobrazit Epizodu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Zobrazit Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Sledovat Stream",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Zobrazit Kanál",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Poslouchat Spolu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Zobrazit Stránku",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Zobrazit Skladbu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Zobrazit Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Zobrazit Profil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Zobrazit Umělce",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Zobrazit Playlist",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Zobrazit Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Přečíst Článek",
+		"description": "Used as the title for the button in Discord."
 	}
 }
