@@ -11,6 +11,10 @@
 		"message": "DJ",
 		"description": ""
 	},
+	"general.editing": {
+		"message": "Szerkeszt:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Epizód",
 		"description": ""
