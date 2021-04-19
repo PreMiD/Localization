@@ -179,6 +179,22 @@
 		"message": "Prohlíží produkt:",
 		"description": ""
 	},
+	"general.viewProfile": {
+		"message": "Prohlíží profil:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Prohlíží sérii:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Prohlíží show:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Prohlíží svůj účet",
+		"description": ""
+	},
 	"general.viewPage": {
 		"message": "Zobrazení stránky:",
 		"description": ""
