@@ -15,6 +15,22 @@
 		"message": "Csatlakozz Discord szerverünkre",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.benefit1.title": {
+		"message": "Találkozz velünk",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.title": {
+		"message": "Betekintés",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.title": {
+		"message": "Tisztelet",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.title": {
+		"message": "PreMiD támogatása",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit6.title": {
 		"message": "Korai hozzáférés",
 		"description": "Benefit card title."

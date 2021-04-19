@@ -1,1 +1,22 @@
-{}
+{
+    "youtube.studio.viewTheir": {
+        "message": "Nézi a",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelComments": {
+        "message": "csatorna hozzászólásait",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "csatorna fordításokat",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "szerző oldalát",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Az irányítópultot nézi",
+        "description": ""
+    }
+}

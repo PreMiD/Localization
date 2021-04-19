@@ -47,9 +47,17 @@
 		"message": "Név",
 		"description": "Name filed."
 	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Példa: PreMiD",
+		"description": "Name field's placeholder."
+	},
 	"partners.apply.form.link": {
 		"message": "Link",
 		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Példa: https://premid.app",
+		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.description": {
 		"message": "Leírás: (Maximum 150 karakter)",
