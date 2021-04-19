@@ -1,6 +1,6 @@
 {
 	"general.anime": {
-		"message": "Anime",
+		"message": "Animované",
 		"description": ""
 	},
 	"general.browsing": {
@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "Editace:",
+		"message": "Upravuje:",
 		"description": ""
 	},
 	"general.episode": {
@@ -64,15 +64,15 @@
 		"description": ""
 	},
 	"general.playing": {
-		"message": "Přehrávání",
+		"message": "Přehrává",
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "Čtení zpráv od:",
+		"message": "Čte zprávy od:",
 		"description": ""
 	},
 	"general.readingAbout": {
-		"message": "Čtení o:",
+		"message": "Čte o:",
 		"description": ""
 	},
 	"general.readingArticle": {
@@ -80,15 +80,15 @@
 		"description": ""
 	},
 	"general.readingChannel": {
-		"message": "Čtení v kanálu:",
+		"message": "Čte v kanálu:",
 		"description": ""
 	},
 	"general.readingPost": {
-		"message": "Čtení příspěvku:",
+		"message": "Čte příspěvek:",
 		"description": ""
 	},
 	"general.readingThread": {
-		"message": "Čtení vlákna:",
+		"message": "Čte vlákno:",
 		"description": ""
 	},
 	"general.reading": {
@@ -96,15 +96,27 @@
 		"description": ""
 	},
 	"general.searchFor": {
-		"message": "Vyhledávání:",
+		"message": "Vyhledává:",
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "Něco vyhledávám...",
+		"message": "Něco vyhledává...",
 		"description": ""
 	},
 	"general.search": {
 		"message": "Vyhledává",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Píše",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Volá",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "V hovoru...",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -116,23 +128,23 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Psaní zpráv pro:",
+		"message": "Píše zprávu pro:",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "Psaní do kanálu:",
+		"message": "Píše do kanálu:",
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "Sledování anime:",
+		"message": "Sleduje anime:",
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Prohlížení kategorie:",
+		"message": "Prohlíží kategorii:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "Prohlížení kanálu:",
+		"message": "Prohlíží kanál:",
 		"description": ""
 	},
 	"general.viewEpisode": {
