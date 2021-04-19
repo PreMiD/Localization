@@ -7,10 +7,6 @@
 		"message": "Objevování nových skladeb",
 		"description": ""
 	},
-	"spotify.browse": {
-		"message": "Prohlížení",
-		"description": "First section of the next 6 strings"
-	},
 	"spotify.artistsLike": {
 		"message": "umělci, které se jim líbí",
 		"description": "\"Browsing through\" + this"
