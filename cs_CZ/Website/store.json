@@ -35,6 +35,10 @@
 		"message": "Tato Presence se automaticky zapne při navštívení příslušné stránky.",
 		"description": "The message that appears instead of the buttons."
 	},
+	"store.category.filters.heading": {
+		"message": "Filtry",
+		"description": "Searh filters option at the store page"
+	},
 	"store.category.filters.mostUsed": {
 		"message": "Nejvíce používané první",
 		"description": "Most used first checkbox"
