@@ -148,23 +148,35 @@
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "Sledování epizody:",
+		"message": "Sleduje epizodu:",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "Zobrazování žánru:",
+		"message": "Prohlíží žánr:",
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Prohlížení domovské stránky",
+		"message": "Prohlíží domovskou stránku",
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "Prohlížení seznamu:",
+		"message": "Prohlíží seznam:",
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "Prohlížení člena:",
+		"message": "Prohlíží člena:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Prohlíží film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Prohlíží playlist:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Prohlíží produkt:",
 		"description": ""
 	},
 	"general.viewPage": {
