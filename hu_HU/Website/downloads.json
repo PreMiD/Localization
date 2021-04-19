@@ -31,6 +31,10 @@
 		"message": "Letöltések elrejtése",
 		"description": "Little button on the downloads page for mobile users."
 	},
+	"downloads.error.noaccess.title": {
+		"message": "Ó, úgy látszik nem rendelkezel alfa/beta hozzáféréssel :(",
+		"description": "Error message if the user doesn't alpha/beta access."
+	},
 	"downloads.latest.header": {
 		"message": "Korai kiadások",
 		"description": "Header above alpha/beta download buttons."
@@ -51,6 +55,10 @@
 		"message": "Mégse",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
+	"downloads.button.okay": {
+		"message": "Rendben",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Kész",
 		"description": "Button on the page when trying to download with adblocker on."
@@ -58,6 +66,10 @@
 	"downloads.button.login": {
 		"message": "Bejelentkezés",
 		"description": "Login button on the downloads page."
+	},
+	"downloads.button.skipanyway": {
+		"message": "Mégis kihagyom",
+		"description": "Skip Anyway button on the ads page."
 	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Köszönjük!",
