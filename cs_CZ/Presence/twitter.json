@@ -26,5 +26,21 @@
 	"twitter.viewList": {
 		"message": "Prohlíží seznam:",
 		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Záložky",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Oznámení",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Prozkoumat",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Mění nějaké nastavení...",
+		"description": ""
 	}
 }
