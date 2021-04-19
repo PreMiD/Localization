@@ -3,6 +3,10 @@
 		"message": "Nyelv",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Készen állsz a PreMiD használatára?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Csatlakozz még ma a {0} felhasználóhoz!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
