@@ -55,9 +55,21 @@
 		"message": "Leírás: (Maximum 150 karakter)",
 		"description": "Description field."
 	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Példa: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Bezárás",
 		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Jelentkezés",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Köszönjük jelentkezésedet!",
+		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Kérlek, töltsd ki az összes mezőt.",
