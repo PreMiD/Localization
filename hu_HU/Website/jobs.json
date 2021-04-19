@@ -7,8 +7,24 @@
 		"message": "Mégse",
 		"description": "Cancel, button in the modal."
 	},
+	"jobs.modal.error": {
+		"message": "Kérlek tölts ki minden mezőt",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.guild.required": {
+		"message": "Csatlakozz Discord szerverünkre",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
 	"jobs.benefit6.title": {
 		"message": "Korai hozzáférés",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Tesztelj új funkciókat mindenki más előtt.",
+		"description": "Benefit card description."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Már korábban jelentkeztél!",
+		"description": "Notification when you applied already."
 	}
 }
