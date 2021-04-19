@@ -31,6 +31,10 @@
 		"message": "Připojte se k našemu Discordu",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.guild.explanation": {
+		"message": "Aby ses mohl ucházet o místo, musíš být členem našeho Discord serveru. Jinak Tě nebudeme moci kontaktovat, pokud Tě vybereme!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
 	"jobs.header.title": {
 		"message": "Práce pro PreMiD",
 		"description": "First part of the jobs page."
@@ -75,12 +79,32 @@
 		"message": "Podpoříš PreMiD",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit4.description": {
+		"message": "S Tvými příspěvky je možné běžet tento projekt.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit5.title": {
 		"message": "Čas vypršel",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit5.description": {
+		"message": "Nepospíchej. Jedná se o dobrovolnou práci.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit6.title": {
 		"message": "Předběžný přístup",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Zkoušej nové funkce před kýmkoliv jiným.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Děkujeme Ti za přihlášku!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Již jsi podal žádost!",
+		"description": "Notification when you applied already."
 	}
 }
