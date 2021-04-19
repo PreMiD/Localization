@@ -195,9 +195,57 @@
 		"message": "Prohlíží svůj účet",
 		"description": ""
 	},
-	"general.viewPage": {
-		"message": "Zobrazení stránky:",
+	"general.viewThread": {
+		"message": "Prohlíží vlákno:",
 		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Prohlíží uživatele:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Prohlíží:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Prohlíží stránku:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Sleduje film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Sleduje seriál",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Sleduje show",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Sleduje video",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Čeká na premiéru videa",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Čeká na premiéru videa",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Sleduje živý přenos",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Čeká na zahájení živého vysílání",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Čeká na zahájení živého vysílání",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.wishlist": {
 		"message": "Seznam přání:",
