@@ -107,6 +107,18 @@
 		"message": "खोज रहा है",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "लेखन",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "हम कॉल कर रहे हैं...",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "एक कॉल में...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "शॉपिंग कार्ट",
 		"description": ""
@@ -267,6 +279,10 @@
 		"message": "लूप पर",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "किसी घटना को देखना",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "हादसा इतिहास",
 		"description": "A page name of statuspages"
@@ -274,5 +290,65 @@
 	"general.uptimeHistory": {
 		"message": "अपटाइम इतिहास",
 		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "वेब सीरीज़",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "मूवी देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "एपिसोड देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "वीडियो देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "स्ट्रीम देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "चैनल देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "साथ सुनो",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "पृष्ठ देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "सांग देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "एल्बम देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "प्रोफाइल देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "कलाकार देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "प्लेलिस्ट देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "पॉडकास्ट देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "लेख पढ़िए",
+		"description": "Used as the title for the button in Discord."
 	}
 }
