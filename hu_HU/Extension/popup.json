@@ -15,9 +15,29 @@
 		"message": "Leírás",
 		"description": "Title of the description area in the presence settings view."
 	},
+	"popup.setting.enabled": {
+		"message": "Engedélyezve",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Média vezérlők",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.manage": {
+		"message": "Kezelés",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
 	"popup.presences.done": {
 		"message": "Kész",
 		"description": "Done button"
+	},
+	"popup.buttons.help": {
+		"message": "Segítségre van szükséged?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Ó, ne!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
 		"message": "Nincs csatlakoztatva",
@@ -52,7 +72,15 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.games": {
-		"message": "Játék",
+		"message": "Játékok",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Közösségi",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Videók és Közvetítések",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
