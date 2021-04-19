@@ -15,6 +15,14 @@
 		"message": "Csatlakozz Discord szerverünkre",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
+	"jobs.openings.title": {
+		"message": "Álláslehetőségek",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Hatalmas előnyök",
+		"description": "Text before the benefits cards."
+	},
 	"jobs.benefit1.title": {
 		"message": "Találkozz velünk",
 		"description": "Benefit card title."
@@ -27,9 +35,21 @@
 		"message": "Tisztelet",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit3.description": {
+		"message": "Komoly Discord jogosultságok és színes rang.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit4.title": {
 		"message": "PreMiD támogatása",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit5.title": {
+		"message": "Időbeosztás",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Ne siesd el. Ez önkéntes munka.",
+		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
 		"message": "Korai hozzáférés",
@@ -38,6 +58,10 @@
 	"jobs.benefit6.description": {
 		"message": "Tesztelj új funkciókat mindenki más előtt.",
 		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Köszönjük jelentkezésedet!",
+		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
 		"message": "Már korábban jelentkeztél!",
