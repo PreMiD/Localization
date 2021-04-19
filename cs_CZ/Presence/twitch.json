@@ -138,5 +138,61 @@
 	"twitch.viewTheir": {
 		"message": "Prohlíží",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Analýza Kanálu",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Přehled vysílání",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Úspěchy",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Aktivita Komunity",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Seznam sledujících",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Kolekce",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Klipy",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Nastavení Kanálu",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Nastavení Moderace",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Nastavení Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Prohlíží Vysílací Nástroje",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Prohlíží Rozšíření",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Čte si Značce Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Keeping Twitch real",
+		"description": "Page name"
 	}
 }
