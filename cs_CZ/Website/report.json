@@ -7,6 +7,10 @@
 		"message": "{count}/3 Hlášení zbývají",
 		"description": "Amount of bug reports user can send"
 	},
+	"report.info": {
+		"message": "Hlášení chyb jsou pro chyby na stránkách PreMiD a PreMiD Discord serveru. Chyby pro přítomnost se hlásí tvůrci přítomnosti. Chyby hlašte pouze v angličtině.",
+		"description": "Tells the user about submitting a bug"
+	},
 	"report.overview": {
 		"message": "Uveď jasný a stručný popis Chyby.",
 		"description": "Text for the user to write a brief of the bug information."
