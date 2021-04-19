@@ -11,6 +11,14 @@
 		"message": "Szűrők",
 		"description": "Searh filters option at the store page"
 	},
+	"store.category.filters.mostUsed": {
+		"message": "Leggyakrabban használtak első helyen",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "NSFW tartalmak megjelenítése",
+		"description": "Adult content checkbox"
+	},
 	"store.category.heading": {
 		"message": "Kategóriák",
 		"description": "Category heading"
@@ -20,11 +28,19 @@
 		"description": "Category at the top"
 	},
 	"store.category.games": {
-		"message": "Játék",
+		"message": "Játékok",
 		"description": "Category at the top"
 	},
 	"store.category.music": {
 		"message": "Zene",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Közösségi",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Videók és Közvetítések",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
@@ -34,5 +50,13 @@
 	"store.search": {
 		"message": "Keresés",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Kattints ide a szűrő eltávolításához",
+		"description": "Remove message for active search filters."
 	}
 }
