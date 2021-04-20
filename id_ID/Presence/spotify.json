@@ -1,1 +1,18 @@
-{}
+{
+	"spotify.podcastsLike": {
+		"message": "podcast yang mereka sukai",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artis yang mereka sukai",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "album yang mereka sukai",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Mengunduh Spotify",
+		"description": ""
+	}
+}
