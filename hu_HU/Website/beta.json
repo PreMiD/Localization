@@ -1,4 +1,16 @@
 {
+	"beta.title": {
+		"message": "Új funkciókat próbálnál ki?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "A **PreMiD Béta** már mindenki számára elérhető!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Mit fogsz kapni, ha regisztrálsz?",
+		"description": "Section description"
+	},
 	"beta.features.1": {
 		"message": "Legújabb funkciók",
 		"description": "Features list"
