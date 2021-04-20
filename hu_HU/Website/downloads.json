@@ -7,6 +7,10 @@
 		"message": "Kezdő lépések",
 		"description": "Displayed at Downloads page above steps"
 	},
+	"downloads.instructions.step_1": {
+		"message": "PreMiD alkalmazás letöltése",
+		"description": "Heading for installing the application"
+	},
 	"downloads.appdownloading.header": {
 		"message": "Alkalmazás letöltése",
 		"description": "Header above application download buttons."
