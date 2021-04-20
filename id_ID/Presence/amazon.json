@@ -1,4 +1,8 @@
 {
+    "amazon.payment": {
+        "message": "Melihat metode pembayaran",
+        "description": ""
+    },
     "amazon.prime": {
         "message": "Melihat Amazon Prime",
         "description": ""
