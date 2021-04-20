@@ -3,6 +3,10 @@
 		"message": "Beállítások",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
+	"popup.navigation.credits": {
+		"message": "Készítők",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
 	"popup.headings.settings": {
 		"message": "Beállítások",
 		"description": "Title of the 'settings' section at the navigation in the popup"
@@ -31,6 +35,10 @@
 		"message": "Automatikus indítás",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
+	"popup.headings.presences": {
+		"message": "Presencek",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
 	"popup.presences.manage": {
 		"message": "Kezelés",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
@@ -38,6 +46,14 @@
 	"popup.presences.done": {
 		"message": "Kész",
 		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Presence betöltése",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Presence bolt",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
 		"message": "Segítségre van szükséged?",
