@@ -1,1 +1,34 @@
-{}
+{
+    "facebook.call": {
+        "message": "Dalam panggilan dengan:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Dalam panggilan video dengan:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "seseorang... (Pengguna disembunyikan)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Menulis pesan",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Membaca tentang pengguna:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Video yang disimpan",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Baru ditambahkan",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Melihat cuaca hari ini",
+        "description": ""
+    }
+}
