@@ -63,6 +63,10 @@
 		"message": "PreMiD tidak mungkin ada, tanpa orang-orang hebat ini.",
 		"description": "Description for sponsors."
 	},
+	"partners.partner.aniFlix": {
+		"message": "Begitulah caramu menonton anime.",
+		"description": "Description for AniFlix."
+	},
 	"partners.partner.taigaBot": {
 		"message": "taiga adalah Bot Discord yang menawarkan semua fitur yang mungkin kamu butuhkan!",
 		"description": "Description for taigabot."
@@ -74,6 +78,10 @@
 	"partners.apply.notYou": {
 		"message": "Bukan kamu?",
 		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Tolong pilih satu",
+		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
 		"message": "Situs web",
@@ -111,6 +119,10 @@
 		"message": "Tutup",
 		"description": "Modal close button."
 	},
+	"partners.apply.form.button.apply": {
+		"message": "Terapkan",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Terima kasih telah melamar!",
 		"description": "Success message when applying."
@@ -122,5 +134,9 @@
 	"partners.apply.error3": {
 		"message": "Harap tambahkan tautan (harus dimulai dengan https:// dan akhiri dengan .png)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Kamu sudah melamar menjadi mitra.",
+		"description": "Error when already applied."
 	}
 }
