@@ -1,1 +1,14 @@
-{}
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Presence fejlesztő",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Presence hitelesítő",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Fontos presence fejlesztő",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	}
+}

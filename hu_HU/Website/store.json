@@ -7,6 +7,10 @@
 		"message": "Készítő",
 		"description": "Creator of a presence"
 	},
+	"store.cards.popular": {
+		"message": "Ez a presence nagyon népszerű a felhasználók körében.",
+		"description": "Presence card popular flame"
+	},
 	"store.cards.partner": {
 		"message": "Partner Presence",
 		"description": "Presence card partner flame"
@@ -34,6 +38,14 @@
 	"store.category.filters.allowAdult": {
 		"message": "NSFW tartalmak megjelenítése",
 		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Csak kedvelt presencek",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Hozzáadott presencek megjelenítése",
+		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
 		"message": "Kategóriák",
