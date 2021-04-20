@@ -51,6 +51,10 @@
         "message": "Peringkat 3",
         "description": "Used in the context of 3rd place"
     },
+    "kahoot.topX": {
+        "message": "Teratas {0}",
+        "description": "Used in the context of Top 5"
+    },
     "kahoot.of": {
         "message": "{0} dari {1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
