@@ -1,7 +1,19 @@
 {
+	"jobs.modal.title": {
+		"message": "Jelentkezés {0} munkára",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "{0} / 2 lépés",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
 	"jobs.modal.buttons.next": {
 		"message": "Következő",
 		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Csatlakozás",
+		"description": "Join Discord button in the modal."
 	},
 	"jobs.modal.buttons.cancel": {
 		"message": "Mégse",
