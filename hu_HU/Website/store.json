@@ -27,6 +27,10 @@
 		"message": "Presence eltávolítása",
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
+	"store.card.presence.included": {
+		"message": "Ez a presence automatikusan engedélyezésre kerül az adott weboldal megtekintése során.",
+		"description": "The message that appears instead of the buttons."
+	},
 	"store.category.filters.heading": {
 		"message": "Szűrők",
 		"description": "Searh filters option at the store page"
@@ -52,7 +56,7 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "Minden",
+		"message": "Összes",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
