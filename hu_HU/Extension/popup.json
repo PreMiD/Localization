@@ -88,7 +88,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
-		"message": "Elavult Bővítmény",
+		"message": "Elavult bővítmény",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
