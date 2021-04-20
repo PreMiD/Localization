@@ -1,1 +1,14 @@
-{}
+{
+	"namemc.servers": {
+		"message": "Melihat Server",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Melihat Server:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Lihat Server",
+		"description": "Used as the title for the button in Discord."
+	}
+}
