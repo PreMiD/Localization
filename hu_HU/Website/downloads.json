@@ -11,6 +11,18 @@
 		"message": "PreMiD alkalmazás letöltése",
 		"description": "Heading for installing the application"
 	},
+	"downloads.instructions.step_2": {
+		"message": "Telepítsd az alkalmazásunkat",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.footer": {
+		"message": "Továbbra is problémáid vannak? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Azért vagyunk, hogy segítsünk!",
+		"description": "Link to our discord"
+	},
 	"downloads.appdownloading.header": {
 		"message": "Alkalmazás letöltése",
 		"description": "Header above application download buttons."
