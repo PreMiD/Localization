@@ -11,6 +11,10 @@
 		"message": "Fordítók",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.projectLeader": {
+		"message": "Projekt vezető",
+		"description": "'Project Leader' title for contributors and user pages."
+	},
 	"contributors.roles.staffCoordinator": {
 		"message": "Személyzeti koordinátor",
 		"description": "'Staff Coordinator' title for contributors and user pages."
@@ -23,6 +27,10 @@
 		"message": "Adminisztrátor",
 		"description": "'Administrator' title for contributors and user pages."
 	},
+	"contributors.roles.reviewer": {
+		"message": "Áttekintő",
+		"description": "'Reviewer' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Fejlesztő",
 		"description": "'Developer' title for contributors and user pages."
@@ -34,6 +42,10 @@
 	"contributors.roles.moderator": {
 		"message": "Moderátor",
 		"description": "'Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.supportAgent": {
+		"message": "Támogatási ügynök",
+		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
 		"message": "Képviselő",
