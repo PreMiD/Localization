@@ -14,5 +14,13 @@
 	"google docs.viewingForm": {
 		"message": "Melihat form",
 		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "Menelusuri form",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.editingSheet": {
+		"message": "Mengedit spreadsheet",
+		"description": "Displayed when the user is eiditng a Google Sheet"
 	}
 }
