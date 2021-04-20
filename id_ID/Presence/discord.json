@@ -11,6 +11,14 @@
 		"message": "Melihat pengaturan mereka...",
 		"description": ""
 	},
+	"discord.serverSettings": {
+		"message": "Melihat pengaturan {0}untuk server: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "Melihat tautan undangan:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
 	"discord.inviteServer": {
 		"message": "Melihat tautan undangan{0}untuk server: {1}}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
@@ -22,6 +30,10 @@
 	"discord.browseThrough": {
 		"message": "Menelusuri",
 		"description": "The first part of the next 17 strings"
+	},
+	"discord.status": {
+		"message": "Status Discord",
+		"description": ""
 	},
 	"discord.support": {
 		"message": "Pusat Bantuan",
