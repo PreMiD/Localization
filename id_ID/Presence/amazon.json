@@ -1,10 +1,30 @@
 {
+    "amazon.balance": {
+        "message": "Melihat saldo mereka",
+        "description": ""
+    },
     "amazon.payment": {
         "message": "Melihat metode pembayaran",
         "description": ""
     },
+    "amazon.catergoriesAll": {
+        "message": "Melihat semua kategori",
+        "description": ""
+    },
     "amazon.prime": {
         "message": "Melihat Amazon Prime",
+        "description": ""
+    },
+    "amazon.orderDetails": {
+        "message": "detail pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.store": {
+        "message": "Melihat toko:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Melihat Prime Video:",
         "description": ""
     }
 }

@@ -1,1 +1,18 @@
-{}
+{
+    "youtube.trending": {
+        "message": "Melihat apa yang sedang tren",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Mengunggah sesuatu...",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Melihat video mereka",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Mengedit video:",
+        "description": ""
+    }
+}

@@ -1,1 +1,30 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Melihat toko:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Pusat pesan",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.feedback": {
+        "message": "Umpan Balik AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Melihat pesanan mereka",
+        "description": ""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "pesanan dihapus",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.coupons": {
+        "message": "Melihat kupon mereka",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Melihat alamat mereka",
+        "description": ""
+    }
+}

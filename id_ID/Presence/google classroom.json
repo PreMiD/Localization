@@ -3,6 +3,10 @@
     "message": "Melihat kalender",
     "description": "Displayed when the user viewing their calendar"
   },
+  "google classroom.assignmentPrivate": {
+    "message": "Melihat suatu tugas",
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
   "google classroom.assignment": {
     "message": "Melihat suatu tugas di:",
     "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"
@@ -18,5 +22,9 @@
   "google classroom.classmembers": {
     "message": "Melihat anggota kelas dari:",
     "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
+  },
+  "google classroom.settings": {
+    "message": "Mengatur peraturan",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
   }
 }

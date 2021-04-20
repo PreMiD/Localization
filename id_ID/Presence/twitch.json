@@ -3,8 +3,24 @@
 		"message": "Unduhan",
 		"description": "Page name"
 	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Mitra",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Keamanan",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Aksesibilitas",
+		"description": "Page name"
+	},
+	"twitch.help": {
+		"message": "Pusat Bantuan",
 		"description": "Page name"
 	}
 }

@@ -7,6 +7,22 @@
 		"message": "Készítő",
 		"description": "Creator of a presence"
 	},
+	"store.cards.partner": {
+		"message": "Partner Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.header.search": {
+		"message": "Presence keresése",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Presence hozzáadása",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Presence eltávolítása",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
 	"store.category.filters.heading": {
 		"message": "Szűrők",
 		"description": "Searh filters option at the store page"

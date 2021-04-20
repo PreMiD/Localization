@@ -6,5 +6,9 @@
 	"v live.viewTheir": {
 		"message": "Melihat mereka",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "halaman profil",
+		"description": "The second part of the \"Viewing their\" string"
 	}
 }
