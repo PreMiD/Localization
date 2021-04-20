@@ -15,6 +15,14 @@
 		"message": "Partnerek",
 		"description": "A page name"
 	},
+	"premid.pageAbout": {
+		"message": "PreMiD névjegye",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Rendszerkövetelmények",
+		"description": "A page name"
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Hibaelhárítás",
 		"description": "A page name"
