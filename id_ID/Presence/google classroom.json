@@ -1,4 +1,8 @@
 {
+  "google classroom.calendar": {
+    "message": "Melihat kalender",
+    "description": "Displayed when the user viewing their calendar"
+  },
   "google classroom.assignment": {
     "message": "Melihat suatu tugas di:",
     "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"

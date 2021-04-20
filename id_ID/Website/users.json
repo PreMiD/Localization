@@ -15,6 +15,10 @@
 		"message": "Membuat {0} presence.",
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Pengembang Presence Jenius",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
 	"user.presences.created": {
 		"message": "Klik di sini untuk melihat Presence yang telah dibuat oleh pengguna ini.",
 		"description": "Tippy content in user profile."
