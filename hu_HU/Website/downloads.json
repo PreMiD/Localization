@@ -15,6 +15,10 @@
 		"message": "Telepítsd az alkalmazásunkat",
 		"description": "Heading for installing the application"
 	},
+	"downloads.instructions.step_3": {
+		"message": "Bővítmény hozzáadása a böngészőhöz",
+		"description": "Heading for installing the application"
+	},
 	"downloads.instructions.footer": {
 		"message": "Továbbra is problémáid vannak? {0}",
 		"description": "{0} will be replaced with footer.link"
@@ -107,6 +111,10 @@
 		"message": "Köszönjük!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "A hirdetéseket csapatunk támogatására és szervereink fenntartására használjuk, hogy a lehető legjobb felhasználói élményt biztosítsuk!",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "Kérlek tiltsd le az adblock-ot",
 		"description": "Message next to pepe."
@@ -114,6 +122,10 @@
 	"downloads.showbeta.message": {
 		"message": "Korai kiadások megjelenítése",
 		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(nem szükséges ha csak a normál alkalmazást szeretnéd letölteni)",
+		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
 		"message": "Nem adakozok.",

@@ -1,6 +1,18 @@
 {
+	"beta.register.button": {
+		"message": "Regisztrálj most!",
+		"description": "Sign up button text"
+	},
 	"thankyou.title": {
 		"message": "Szuper! Most már béta felhasználó vagy!",
 		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Majmaink rajta vannak, hogy minél hamarabb bekerülj a béta programba. Köszönjük a regisztrálást!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Úgy tűnik jelenleg nincs elérhető béta férőhelyünk.",
+		"description": "Shows when the beta slots are full."
 	}
 }
