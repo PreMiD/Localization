@@ -3,6 +3,10 @@
 		"message": "Jaj ne!",
 		"description": "The big text on maintenance page"
 	},
+	"maintenance.heading2": {
+		"message": "További információkért térj vissza később.",
+		"description": "Heading on maintenance page"
+	},
 	"maintenance.message": {
 		"message": "Amíg ügyes fejlesztőink megoldják ezt a problémát, nyugodtan látogass el ide!",
 		"description": "Message on maintenance page"
