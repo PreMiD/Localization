@@ -1,7 +1,15 @@
 {
+	"error.code.500": {
+		"message": "Belső szerverhiba történt.",
+		"description": "Error (500) message"
+	},
 	"error.page.details": {
 		"message": "Részletek",
 		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Vissza a kezdőlapra",
+		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
 		"message": "Ez a felhasználó nem található. Próbálj megbizonyosodni a következőkről",
