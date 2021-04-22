@@ -140,7 +140,7 @@
 		"description": ""
 	},
 	"downloads.showbeta.small": {
-		"message": "(nevyžaduje se, pokud jsi zde pouze, abys si stáhl běžnou aplikaci)",
+		"message": "(nevyžaduje se, pokud jsi zde pouze, abys sis stáhl běžnou aplikaci)",
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
