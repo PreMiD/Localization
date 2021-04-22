@@ -31,6 +31,10 @@
 		"message": "Hibaelhárítás",
 		"description": "A page name"
 	},
+	"premid.pageStart": {
+		"message": "Első lépések",
+		"description": "A page name"
+	},
 	"premid.pageApi": {
 		"message": "API",
 		"description": "A page name"
