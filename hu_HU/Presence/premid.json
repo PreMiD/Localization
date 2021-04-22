@@ -23,8 +23,16 @@
 		"message": "Rendszerkövetelmények",
 		"description": "A page name"
 	},
+	"premid.pageInstall": {
+		"message": "Telepítés",
+		"description": "A page name"
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Hibaelhárítás",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
 		"description": "A page name"
 	}
 }
