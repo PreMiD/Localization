@@ -12,7 +12,7 @@
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
-		"message": "A co třeba jít do nebe místo pekla?",
+		"message": "A co třeba jít do nebe místo do pekla?",
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
@@ -28,7 +28,7 @@
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Speciální role a vyznamenání ti bude přiděleno na našem Discord serveru.",
+		"message": "Na našem Discord serveru Ti bude přidělena speciální role a vyznamenání.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
@@ -124,7 +124,7 @@
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "Lehce zdělte status v reálném čase pro tvé uživatele.",
+		"message": "Lehce sdělte status v reálném čase pro tvé uživatele.",
 		"description": "Description for StatusPage."
 	},
 	"partners.partner.erisly": {
