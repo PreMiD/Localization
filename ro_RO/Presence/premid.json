@@ -1,4 +1,12 @@
 {
+	"premid.docs": {
+		"message": "Documentație",
+		"description": "as in documents"
+	},
+	"premid.pageHome": {
+		"message": "Pagina principală",
+		"description": "A page name"
+	},
 	"premid.pageContributors": {
 		"message": "Contribuitori",
 		"description": "A page name"
@@ -15,8 +23,36 @@
 		"message": "Parteneri",
 		"description": "A page name"
 	},
+	"premid.pageAbout": {
+		"message": "Despre PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Cerinţe de sistem",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instalare",
+		"description": "A page name"
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Depanare",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Înțelegerea iframe-ului",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Configurarea metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Configurarea TypeScript",
 		"description": "A page name"
 	}
 }
