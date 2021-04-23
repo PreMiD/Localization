@@ -1,1 +1,14 @@
-{}
+{
+    "youtube.ad": {
+        "message": "Šiuo metu žiūri reklama",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Naršoma per vaizdo įrašus",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Naršoma grojaraščiuose",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    }
+}
