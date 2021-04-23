@@ -20,7 +20,7 @@
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Marketing Direktor*in",
+		"message": "Marketingdirektor/-in",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
@@ -48,7 +48,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "Support-Agent*in",
+		"message": "Support-Agent/-in",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
@@ -72,11 +72,11 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Klicken, um Benutzer-ID zu kopieren.",
+		"message": "Klicken, um Nutzer-ID zu kopieren.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "Nutzer ID kopiert!",
+		"message": "Nutzer-ID kopiert!",
 		"description": "Notification after user ID was copied."
 	}
 }
