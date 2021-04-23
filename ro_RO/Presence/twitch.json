@@ -6,5 +6,9 @@
 	"twitch.partners": {
 		"message": "Parteneri",
 		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Pagina principală",
+		"description": "Page name"
 	}
 }
