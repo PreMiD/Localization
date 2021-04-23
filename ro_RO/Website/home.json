@@ -31,6 +31,10 @@
 		"message": "Găsește-ți **prezența** ta",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.button": {
+		"message": "Vizitează magazinul",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Interfață simplă",
 		"description": "Features section subheading"
@@ -41,6 +45,10 @@
 	},
 	"home.features.simpleInterface.description.2": {
 		"message": "Managementul prezenței",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortează în funcție de categorie",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
