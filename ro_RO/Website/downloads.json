@@ -83,6 +83,10 @@
 		"message": "Terminat",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.login": {
+		"message": "Autentificare",
+		"description": "Login button on the downloads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Mulțumim!",
 		"description": "Title of the advertisement section box."
