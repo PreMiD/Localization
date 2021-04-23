@@ -1,1 +1,10 @@
-{}
+{
+	"report.title": {
+		"message": "Raportați o problemă",
+		"description": "Text to indicate the page."
+	},
+	"report.success": {
+		"message": "Bug trimis",
+		"description": "Success notification"
+	}
+}
