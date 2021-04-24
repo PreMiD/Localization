@@ -131,6 +131,14 @@
 		"message": "DMを入力中:",
 		"description": ""
 	},
+	"general.typeChannel": {
+		"message": "チャンネルで入力中:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "アニメを閲覧中:",
+		"description": ""
+	},
 	"general.viewCategory": {
 		"message": "カテゴリを閲覧中:",
 		"description": ""
@@ -337,6 +345,10 @@
 	},
 	"general.buttonViewPodcast": {
 		"message": "ポッドキャストを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "記事を読む",
 		"description": "Used as the title for the button in Discord."
 	}
 }
