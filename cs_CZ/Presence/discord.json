@@ -1,4 +1,12 @@
 {
+	"discord.friends": {
+		"message": "Prohlíží své přátele...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Prohlíží svá nastavení...",
+		"description": ""
+	},
 	"discord.browseThrough": {
 		"message": "Prohlížení",
 		"description": "The first part of the next 17 strings"
