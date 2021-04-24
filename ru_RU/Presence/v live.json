@@ -44,7 +44,7 @@
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelMy": {
-		"message": "Просмотр \"мой\" страницы",
+		"message": "Просмотр страницы «my»",
 		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelStore": {
@@ -52,7 +52,7 @@
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelBoard": {
-		"message": "Просмотр доски \"{0}\"",
+		"message": "Просмотр доски «{0}»",
 		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.product": {
