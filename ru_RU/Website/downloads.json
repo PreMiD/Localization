@@ -12,15 +12,15 @@
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "Скачать PreMiD",
+		"message": "Скачайте PreMiD",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Установить приложение",
+		"message": "Установите наше приложение",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Добавить расширение в Вашего браузера",
+		"message": "Добавьте наше расширение в ваш браузер",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
