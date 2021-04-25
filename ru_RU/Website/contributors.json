@@ -1,10 +1,10 @@
 {
 	"contributors.headings.staff": {
-		"message": "Сотрудник",
+		"message": "Персонал",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
-		"message": "Поддержавшие",
+		"message": "Поддерживающие",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
