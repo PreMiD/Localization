@@ -32,7 +32,7 @@
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.localizationManager": {
-		"message": "Менеджер по переводу",
+		"message": "Менеджер по локализации",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
