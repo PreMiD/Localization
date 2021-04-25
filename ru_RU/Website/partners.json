@@ -60,11 +60,11 @@
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
-		"message": "Что вы ищете?",
+		"message": "Что мы ищем?",
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "Мы следим за растущими сообществами и интересными вещами в интернете. TL;DR вы уже должны использовать PreMiD и быть готовы распространить его на еще большее количество интернет-фриков. Прием в программу исключительно качественный и будет варьироваться от одного кандидата к другому.",
+		"message": "Мы следим за растущими сообществами и интересными вещами в Интернете. Если кратко, вы уже должны использовать PreMiD и быть готовы распространить его на ещё большее количество фанатов Интернета. Прием в программу чрезвычайно качественный и будет изменяться от одного кандидата к другому.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
