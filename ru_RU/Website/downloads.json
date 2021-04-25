@@ -8,7 +8,7 @@
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
-		"message": "Начало работы",
+		"message": "Давайте начнём",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
