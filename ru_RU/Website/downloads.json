@@ -136,7 +136,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "Показать бета-загрузки",
+		"message": "Показать ранние выпуски",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
