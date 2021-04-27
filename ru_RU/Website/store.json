@@ -84,7 +84,7 @@
 		"description": "Category at the top"
 	},
 	"store.search": {
-		"message": "Искать",
+		"message": "Поиск",
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
