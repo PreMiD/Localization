@@ -76,7 +76,7 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Кажется, у вас нет доступа к альфа/бета версии :(",
+		"message": "Кажется, у вас нет доступа к альфа-/бета-тестированию :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
