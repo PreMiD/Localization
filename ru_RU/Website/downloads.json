@@ -64,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "Текущая версия этой платформы {0} (эта версия только Linux, не применяется к другим платформам).",
+		"message": "Текущая версия для этой платформы — {0} (этот номер версии только для Linux и не распространяется на другие платформы).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -80,7 +80,7 @@
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Вы можете присоединиться к бета-программе **здесь** бесплатно. Поспешите! У нас есть еще {0} слотов",
+		"message": "Вы можете бесплатно присоединиться к нашей программе бета-тестирования **здесь**. Поторопитесь! У нас осталось ещё только {0} мест",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
