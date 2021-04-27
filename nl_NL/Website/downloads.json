@@ -76,11 +76,11 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Oh oh, het lijkt erop dat je geen alpha/beta-toegang hebt :(",
+		"message": "Oh jee, het lijkt erop dat je geen toegang hebt tot de alpha of bèta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Je kunt **hier** gratis deelnemen aan ons bèta-programma. Schiet op! We hebben nog maar {0} slots beschikbaar",
+		"message": "Je kunt **hier** gratis deelnemen aan ons bètaprogramma. Wees snel! Er zijn nog maar {0} plaatsen beschikbaar",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
