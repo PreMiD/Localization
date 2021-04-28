@@ -47,6 +47,10 @@
     "message": "Ilmoita virheestä",
     "description": "Report a bug button"
   },
+  "header.staff": {
+    "message": "Hallintasivu",
+    "description": "Dashboard button"
+  },
   "header.logout": {
     "message": "Kirjaudu ulos",
     "description": "Logout button"

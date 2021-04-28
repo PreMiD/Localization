@@ -1,4 +1,8 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** on yksinkertainen ja helposti muokattava apuohjelma, jonka avulla voit näyttää Discordin pelitilassa, mitä teet verkossa.",
+		"description": "First phrase that users read on our website"
+	},
 	"home.introduction.button.features": {
 		"message": "Ominaisuudet",
 		"description": "Introduction button"
@@ -31,9 +35,17 @@
 		"message": "Selaa...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.features.heading": {
+		"message": "Tulet rakastamaan näitä ominaisuuksia!",
+		"description": "Features section"
+	},
 	"home.features.presencesystem.heading": {
 		"message": "Löydä **oma** presencesi",
 		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Kehittämämme laajennuksen avulla voit käyttää muiden luomia Presencejä ja hallita niitä!",
+		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
 		"message": "Vieraile kaupassa",
@@ -42,6 +54,10 @@
 	"home.features.simpleInterface.heading": {
 		"message": "Yksinkertainen käyttöliittymä",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Oletko kyllästynyt monimutkaisiin käyttöliittymiin? Siksi luomamme ja ylläpitämämme käyttöliittymä on mahdollisimman yksinkertainen ja hyödyllinen sisältäen tärkeitä ominaisuuksia, kuten:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Sovellus- ja laajennusasetukset",
@@ -58,6 +74,10 @@
 	"home.features.quickSupport.heading": {
 		"message": "Nopea tuki",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Onko jokin vialla, saatko jatkuvasti virheilmoituksia, eikä mikään yksinkertaisesti toimi? Autamme sinua pääsemään eroon näistä ongelmista Discord-palvelimellamme. Olemme myös luoneet oman tukijärjestelmämme, joka varmistaa, että ongelmasi saadaan ratkaistua mahdollisimman pian.",
+		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
 		"message": "Liity Discordiimme",

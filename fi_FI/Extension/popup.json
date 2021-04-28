@@ -27,6 +27,10 @@
 		"message": "Medianäppäimet",
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
+	"popup.setting.autoLaunch": {
+		"message": "Automaattinen käynnistys",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
 	"popup.headings.presences": {
 		"message": "Presencet",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
@@ -81,6 +85,10 @@
 	},
 	"popup.info.safari.outdatedExtension": {
 		"message": "Vanhentunut laajennus",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Laajennuksesi on vanhentunut. Päivitä laajennus lataamalla se sivustoltamme saadaksesi uusimmat ominaisuudet.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
