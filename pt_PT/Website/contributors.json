@@ -16,11 +16,11 @@
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
-		"message": "Coordenador da Staff",
+		"message": "Coordenador da staff",
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Diretor de Marketing",
+		"message": "Diretor de marketing",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
@@ -48,7 +48,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "Agente de Suporte",
+		"message": "Agente de suporte",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
@@ -64,7 +64,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "Impulsionador",
+		"message": "Booster",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
