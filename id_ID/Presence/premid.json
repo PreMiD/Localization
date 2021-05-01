@@ -55,6 +55,10 @@
 		"message": "Pengembangan Presence",
 		"description": "A page name"
 	},
+	"premid.pagePresenceGuide": {
+		"message": "Panduan Presence",
+		"description": "A page name"
+	},
 	"premid.pagePresenceClass": {
 		"message": "Kelas Presence",
 		"description": "A page name"
