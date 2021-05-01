@@ -99,6 +99,10 @@
 		"message": "Επιστροφή",
 		"description": "Back button on the ads section"
 	},
+	"downloads.button.cancel": {
+		"message": "Άκυρο",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.okay": {
 		"message": "Ok",
 		"description": "Button on the modal of Opera/Edge browsers."
@@ -122,6 +126,10 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Παρακαλούμε απενεργοποιήστε το adblock σας",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Εμφάνιση λήψεων beta",
+		"description": ""
 	},
 	"downloads.showbeta.small": {
 		"message": "(δεν χρειάζεται αν είστε εδώ για να κατεβάσετε μόνο την κανονική εφαρμογή)",
