@@ -35,25 +35,13 @@
 		"message": "Automatinis paleidimas",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
-	"popup.headings.presences": {
-		"message": "Presences",
-		"description": "Title of the 'presences' area of the 'settings' section in the popup"
-	},
 	"popup.presences.manage": {
 		"message": "Valdyti",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
-	"popup.presences.noPresences": {
-		"message": "Nebuvo pridėta jokių presence",
-		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
-	},
 	"popup.presences.done": {
 		"message": "Baigta",
 		"description": "Done button"
-	},
-	"popup.buttons.presenceStore": {
-		"message": "Presence parduotuvė",
-		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
 		"message": "Reikalinga pagalba?",
