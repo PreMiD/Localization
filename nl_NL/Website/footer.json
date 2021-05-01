@@ -36,19 +36,19 @@
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "Steunen",
+		"message": "Steun ons",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "Doneren",
+		"message": "Doneer",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "Bijdragen",
+		"message": "Draag bij",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
-		"message": "Vertalen",
+		"message": "Vertaal",
 		"description": "Translate -> redirects to locilazation page"
 	},
 	"footer.supportus.jobs": {
