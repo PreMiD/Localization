@@ -20,7 +20,7 @@
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
-		"message": "Activado",
+		"message": "Habilitado",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
@@ -35,29 +35,13 @@
 		"message": "Inicio automático",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
-	"popup.headings.presences": {
-		"message": "Presences",
-		"description": "Title of the 'presences' area of the 'settings' section in the popup"
-	},
 	"popup.presences.manage": {
 		"message": "Gestionar",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
-	"popup.presences.noPresences": {
-		"message": "No hay Presences añadidas",
-		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
-	},
 	"popup.presences.done": {
 		"message": "Hecho",
 		"description": "Done button"
-	},
-	"popup.presences.load": {
-		"message": "Cargar Presence",
-		"description": "Load Presence button"
-	},
-	"popup.buttons.presenceStore": {
-		"message": "Tienda de Presences",
-		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
 		"message": "¿Necesitas Ayuda?",
@@ -76,11 +60,11 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "¡PreMiD no ha podido conectarse a la aplicación! ¿Está instalada y en funcionamiento? *Solución De Problemas*",
+		"message": "¡PreMiD fue incapaz de conectarse a su aplicación! ¿Está esta instalada y corriendo? *Solución De Problemas*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Aplicación desactualizada",
+		"message": "Aplicación obsoleta",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
@@ -136,11 +120,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Social",
+		"message": "Sociales",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Vídeos y Transmisiones",
+		"message": "Vídeos y Directos",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
