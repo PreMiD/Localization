@@ -8,7 +8,7 @@
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
-		"message": "Downloads",
+		"message": "Baixar",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
@@ -16,7 +16,7 @@
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
-		"message": "{0} restantes",
+		"message": "{0} saiu ",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.timestamp2": {
