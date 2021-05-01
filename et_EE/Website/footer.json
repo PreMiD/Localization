@@ -31,6 +31,10 @@
 		"message": "Toeta meid",
 		"description": "Support us section"
 	},
+	"footer.supportus.donate": {
+		"message": "Anneta",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
 	"footer.supportus.contribute": {
 		"message": "Aita kaasa",
 		"description": "Contribute -> redirects to github.com/premid"
@@ -54,6 +58,10 @@
 	"footer.help.information": {
 		"message": "Informatsioon",
 		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "Küpsised",
+		"description": "meant to be 'Cookie Policy'"
 	},
 	"footer.help.information.privacy": {
 		"message": "Privaatsus",
