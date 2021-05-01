@@ -26,5 +26,9 @@
 	"store.category.other": {
 		"message": "Kita",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Paieška",
+		"description": "Placeholder for presence search"
 	}
 }
