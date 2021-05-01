@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Vaša PreMiD aplikácia je zastaralá. Aktualizujte si ju aby ste mohli pokračovať v používaní PreMiD.",
+		"message": "Tvoja PreMiD aplikácia je zastaralá. Aktualizuj si ju aby si mohol pokračovať v používaní PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.category.all": {
@@ -112,7 +112,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
-		"message": "Ostatné",
+		"message": "Iné",
 		"description": "Category name shown when you open tags"
 	}
 }
