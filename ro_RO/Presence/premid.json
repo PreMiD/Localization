@@ -43,10 +43,6 @@
 		"message": "API",
 		"description": "A page name"
 	},
-	"premid.pagePresenceClass": {
-		"message": "Clasă Presence",
-		"description": "A page name"
-	},
 	"premid.pageIframe": {
 		"message": "Înțelegerea iframe-ului",
 		"description": "A page name"

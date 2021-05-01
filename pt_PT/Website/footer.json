@@ -19,6 +19,10 @@
 		"message": "Segue-nos",
 		"description": "Follow Us section"
 	},
+	"footer.developers.heading": {
+		"message": "Programadores",
+		"description": "Developer section"
+	},
 	"footer.developers.documentation": {
 		"message": "Documentação",
 		"description": "Documentation -> redirects to docs.premid.app"

@@ -43,9 +43,17 @@
 		"message": "Beheer",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
+	"popup.presences.noPresences": {
+		"message": "Geen presences toegevoegd",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
 	"popup.presences.done": {
 		"message": "Klaar",
 		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Presence laden",
+		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
 		"message": "Presence Winkel",
