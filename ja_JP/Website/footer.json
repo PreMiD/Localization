@@ -36,7 +36,7 @@
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "PreMiDを支援",
+		"message": "私達を支援する",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
@@ -64,7 +64,7 @@
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
-		"message": "サポート",
+		"message": "助けを得る",
 		"description": "Get Support -> redirects to Discord invite"
 	},
 	"footer.help.information": {
