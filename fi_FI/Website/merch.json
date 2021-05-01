@@ -1,10 +1,10 @@
 {
 	"merch.swag": {
-		"message": "Etsi sinun **tyylisi**",
+		"message": "Etsi sinun **Tyylisi**",
 		"description": "Subtitle for store"
 	},
 	"merch.fit": {
-		"message": "**Valitse kokosi**",
+		"message": "**Valitse Sopivuutesi**",
 		"description": "Product sizes"
 	},
 	"merch.cart": {
