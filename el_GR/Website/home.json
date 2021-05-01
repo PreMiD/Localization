@@ -79,6 +79,10 @@
 		"message": "Κάτι είναι χαλασμένο, κολλημένο, στέλνοντας σας τόνους σφαλμάτων ή απλά δεν λειτουργεί; Θα σας βοηθήσουμε να απαλλαγείτε από αυτά τα προβλήματα στον Discord server μας, δημιουργήσαμε επίσης το δικό μας σύστημα υποστήριξης που θα διασφαλίσει την επίλυση των προβλημάτων σας το συντομότερο δυνατόν.",
 		"description": "Features section description"
 	},
+	"home.features.quickSupport.button": {
+		"message": "Γίνε μέλος στο Discord μας",
+		"description": "Features section button"
+	},
 	"home.languageSelector.tippy": {
 		"message": "Γλώσσα ιστοσελίδας",
 		"description": "Tippy content of the language selector."
