@@ -8,7 +8,7 @@
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
-		"message": "Začít",
+		"message": "Jak Začít",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
@@ -48,7 +48,7 @@
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Pro tento operační systém zde není žádný instalační soubor. To znamená, že pro něj není žádná profesionální podpora.",
+		"message": "{0} Není zde žádný instalační soubor pro tenhle operační systém. To znamená, že pro něj není žádná profesionální podpora.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
@@ -136,7 +136,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "Zobrazit předběžná vydání",
+		"message": "Zobrazit beta stahování",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
@@ -156,7 +156,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "P-prosím podpoř nás :(",
+		"message": "P-prosím podpora :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
