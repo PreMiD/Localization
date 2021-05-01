@@ -2,5 +2,29 @@
 	"store.cards.creator": {
 		"message": "Autorius",
 		"description": "Creator of a presence"
+	},
+	"store.category.all": {
+		"message": "Visi",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Žaidimai",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Muzika",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Socialiniai",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Vaizdo įrašai ir tiesioginiai eteriai",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Kita",
+		"description": "Category at the top"
 	}
 }
