@@ -40,11 +40,11 @@
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
-		"message": "Kelola",
+		"message": "Atur",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Tidak ada presence yang ditambahkan",
+		"message": "Tidak ada presences yang ditambahkan",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -68,7 +68,7 @@
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "Kesalahan saat memuat kredit",
+		"message": "Kesalahan memuat kredit",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
@@ -76,11 +76,11 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD tidak dapat terhubung ke aplikasi! Sudahkah PreMiD terpasang dan berjalan? *Troubleshooting*",
+		"message": "PreMiD tidak dapat menghubungi aplikasi! Sudahkah PreMiD terpasang dan berjalan? *Troubleshooting*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Aplikasi Usang",
+		"message": "App Usang",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
@@ -132,7 +132,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.games": {
-		"message": "Permainan",
+		"message": "Game",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
