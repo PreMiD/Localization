@@ -6,5 +6,29 @@
 	"store.category.all": {
 		"message": "Kõik",
 		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Mängud",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Muusika",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sotsiaalmeedia",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Videod & Otseülekanded",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Muud",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Otsi",
+		"description": "Placeholder for presence search"
 	}
 }
