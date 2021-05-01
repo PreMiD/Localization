@@ -8,11 +8,11 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "Připoj se k {0} uživatelům již dnes!",
+		"message": "Připojte se k {0} uživatelům již dnes!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
-		"message": "Nainstalovat",
+		"message": "Instalovat",
 		"description": "Install button under the promotional message"
 	},
 	"footer.partners.heading": {
@@ -39,10 +39,6 @@
 		"message": "Podpoř nás",
 		"description": "Support us section"
 	},
-	"footer.supportus.donate": {
-		"message": "Přispět",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
 	"footer.supportus.contribute": {
 		"message": "Přispět",
 		"description": "Contribute -> redirects to github.com/premid"
@@ -60,7 +56,7 @@
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
-		"message": "Řešení Problémů",
+		"message": "Řešit Problémy",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
