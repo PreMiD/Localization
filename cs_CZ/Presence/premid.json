@@ -24,7 +24,11 @@
 		"description": "A page name"
 	},
 	"premid.pageAbout": {
-		"message": "O PreMiDu",
+		"message": "O PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Systémové požadavky",
 		"description": "A page name"
 	},
 	"premid.pageInstall": {
