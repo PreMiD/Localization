@@ -48,7 +48,7 @@
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Không có bộ cài cho hệ điều hành này. Điều đó có nghĩa hệ điều hành của bạn chưa được hỗ trợ.",
+		"message": "{0} Không có bộ cài đặt nào cho hệ điều hành này. Điều này có nghĩa là nó vẫn chưa được hỗ trợ.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {

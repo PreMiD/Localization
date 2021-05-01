@@ -56,11 +56,11 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "Összes",
+		"message": "Minden",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
-		"message": "Játékok",
+		"message": "Játék",
 		"description": "Category at the top"
 	},
 	"store.category.music": {
@@ -68,11 +68,11 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Közösségi",
+		"message": "Közösség",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Videók és Közvetítések",
+		"message": "Videók & Közvetítések",
 		"description": "Category at the top"
 	},
 	"store.category.other": {

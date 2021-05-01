@@ -52,7 +52,7 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Charger les présences",
+		"message": "Charger présences",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
@@ -136,7 +136,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Réseaux sociaux",
+		"message": "Réseaux Sociaux",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {

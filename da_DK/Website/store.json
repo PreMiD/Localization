@@ -26,5 +26,9 @@
 	"store.category.other": {
 		"message": "Andet",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Søg",
+		"description": "Placeholder for presence search"
 	}
 }

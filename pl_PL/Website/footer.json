@@ -24,7 +24,7 @@
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
-		"message": "Deweloperzy",
+		"message": "Sekcja deweloperska",
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
@@ -40,7 +40,7 @@
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
-		"message": "Wesprzyj",
+		"message": "Wspomóż",
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {

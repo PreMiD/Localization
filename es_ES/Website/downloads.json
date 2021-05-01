@@ -124,7 +124,7 @@
 		"description": "Skip Anyway button on the ads page."
 	},
 	"downloads.adsbox.thankyou.title": {
-		"message": "¡Gracias!",
+		"message": "Gracias!",
 		"description": "Title of the advertisement section box."
 	},
 	"downloads.adsbox.thankyou.message": {
@@ -156,7 +156,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "Porfi, porfi, porfiiii ayúdanos :'(",
+		"message": "P-por favor ayúdanos :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {

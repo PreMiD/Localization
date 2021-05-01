@@ -15,10 +15,6 @@
 		"message": "Página inicial",
 		"description": "A page name"
 	},
-	"premid.pageContributors": {
-		"message": "Contribuidores",
-		"description": "A page name"
-	},
 	"premid.pageDownloads": {
 		"message": "Downloads",
 		"description": "A page name"

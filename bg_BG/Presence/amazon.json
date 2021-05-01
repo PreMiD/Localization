@@ -1,1 +1,6 @@
-{}
+{
+    "amazon.subscriptions": {
+        "message": "Гледа абонаментите",
+        "description": ""
+    }
+}

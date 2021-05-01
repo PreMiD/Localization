@@ -12,7 +12,7 @@
 		"description": "Heading on maintenance page"
 	},
 	"maintenance.message": {
-		"message": "Trong lúc đợi lập trình viên của chúng tôi sửa lỗi, đừng ngại và tham quan nơi này!",
+		"message": "Cho đến khi những lập trình viên sửa những lỗi này, nếu bạn rảnh thì hãy ghé vào đây!",
 		"description": "Message on maintenance page"
 	},
 	"maintenance.statuspage": {
@@ -20,7 +20,7 @@
 		"description": "Status Page link on maintenance page"
 	},
 	"maintenance.discordserver": {
-		"message": "Server Discord",
+		"message": "Discord Server",
 		"description": "Discord Server link on maintenance page"
 	}
 }

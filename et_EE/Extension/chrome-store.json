@@ -1,1 +1,6 @@
-{}
+{
+  "extension.description.short": {
+    "message": "Sinu staatus veebiteenustele!",
+    "description": "Short description in extension store"
+  }
+}

@@ -16,15 +16,15 @@
 		"description": "Add product to cart"
 	},
 	"merch.help": {
-		"message": "Máš problémy s naším obchodem nebo objednávkou? Kontaktuj naši {0}zákaznickou podporu{1}",
+		"message": "Máte problémy s naším obchodem nebo objednávkou? Kontaktujte naši {0}zákaznickou podporu{1}",
 		"description": "Link to customer support, {0}{1} is the replacement for the link"
 	},
 	"merch.item.added": {
-		"message": "{0} bylo přidáno do Tvého košíku",
+		"message": "{0} bylo přidáno do vašeho košíku",
 		"description": "{0} replaced with product name"
 	},
 	"merch.error.noitem": {
-		"message": "Do Tvého košíku nebylo nic přidáno",
+		"message": "Nic nebylo přidáno do vašeho košíku",
 		"description": "Error message when no size selected"
 	}
 }

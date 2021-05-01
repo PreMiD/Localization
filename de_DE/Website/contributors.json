@@ -4,11 +4,11 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
-		"message": "Unterstützer*in",
+		"message": "Unterstützer",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
-		"message": "Übersetzer*in",
+		"message": "Übersetzer",
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
@@ -72,7 +72,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Klicken, um Nutzer-ID zu kopieren.",
+		"message": "Klicken, um Benutzer-ID zu kopieren.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {

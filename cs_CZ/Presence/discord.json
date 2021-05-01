@@ -1,10 +1,10 @@
 {
 	"discord.friends": {
-		"message": "Prohlíží své přátele...",
+		"message": "Prohlížení jejich přátel...",
 		"description": ""
 	},
 	"discord.settings": {
-		"message": "Prohlíží svá nastavení...",
+		"message": "Zobrazuji jejich nastavení...",
 		"description": ""
 	},
 	"discord.browseThrough": {

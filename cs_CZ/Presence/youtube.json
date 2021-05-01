@@ -28,11 +28,11 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Prohlíží trendy",
+        "message": "Zobrazení co je populární",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Prohlíží",
+        "message": "Prohlížení",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
@@ -56,7 +56,7 @@
         "description": ""
     },
     "youtube.upload": {
-        "message": "Něco nahrává...",
+        "message": "Nahrávám něco...",
         "description": ""
     },
     "youtube.viewAllPlaylist": {
@@ -96,7 +96,7 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Prohlíží svou",
+        "message": "Zobrazení jejich",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {

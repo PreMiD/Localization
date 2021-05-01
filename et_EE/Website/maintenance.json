@@ -1,4 +1,8 @@
 {
+	"maintenance.big": {
+		"message": "Oh nina!",
+		"description": "The big text on maintenance page"
+	},
 	"maintenance.message": {
 		"message": "Kuni meie spetsiaalsed arendajad fikseerivad seda, vaata aga siia!",
 		"description": "Message on maintenance page"

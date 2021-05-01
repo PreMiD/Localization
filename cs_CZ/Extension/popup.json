@@ -32,11 +32,11 @@
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
-		"message": "Spustit po startu",
+		"message": "Spustit po štartu",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "Presence",
+		"message": "Přítomnosti",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Nebyly přidány žádné Presence",
+		"message": "Nebyly přidány žádné Přítomnosti",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -52,15 +52,15 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Načítat Presenci",
+		"message": "Načítat Přítomnost",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Obchod Presenci",
+		"message": "Obchod Přítomností ",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
-		"message": "Potřebuješ poradit?",
+		"message": "Potřebuješ si Poradit?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
 	"popup.credits.error.heading": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD nebyl schopen se připojit k jeho aplikaci! Je již nainstalována a spuštěná? *Troubleshooting*",
+		"message": "PreMiD byl neschopen se připojit k jeho aplikaci! Je již nainstalována a spuštěná? *Troubleshooting*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Tvoje PreMiD aplikace je zastaralá. Aktualizuj ji, abys mohl pokračovat v používání PreMiDu.",
+		"message": "Tvá PreMiD aplikace je zastaralá. Aktualizuj ji abys mohl pokračovat v používání PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {

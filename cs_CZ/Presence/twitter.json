@@ -1,10 +1,10 @@
 {
 	"twitter.readTweet": {
-		"message": "Čte tweet uživatele:",
+		"message": "Čtení tweetu:",
 		"description": "after the \":\" it will say the username"
 	},
 	"twitter.viewDms": {
-		"message": "Prohlíží své soukromě zprávy",
+		"message": "Prohlížení jejich přímých zpráv",
 		"description": ""
 	},
 	"twitter.viewTweets": {

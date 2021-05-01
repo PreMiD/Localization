@@ -83,10 +83,6 @@
 		"message": "Прочее",
 		"description": "Category at the top"
 	},
-	"store.search": {
-		"message": "Поиск",
-		"description": "Placeholder for presence search"
-	},
 	"store.search.filters": {
 		"message": "Введите",
 		"description": "Little message next to the keys of search filters on the store."

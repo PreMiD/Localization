@@ -19,10 +19,6 @@
 		"message": "документация",
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
-	"footer.developers.richpresence": {
-		"message": "Rich Presence",
-		"description": "Rich Presence -> redirects to discord.com/rich-presence"
-	},
 	"footer.supportus.heading": {
 		"message": "Подкрепи ни",
 		"description": "Support us section"

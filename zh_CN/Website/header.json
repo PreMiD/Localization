@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "我们的网站已翻译成你的语言。如果你看不懂英文，这会有所帮助。",
+    "message": "我们的网站已翻译成您的语言。如果你看不懂英文，这会有所帮助。",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "正在解除温度限制..;正在布下陷阱..;分析你的IP地址..;UwU;正在重构网页...;正在煎馅饼...",
+    "message": "正在解除温度限制..;正在布下陷阱..;分析您的IP地址..;UwU;正在重构网页...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {

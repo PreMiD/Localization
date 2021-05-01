@@ -1,6 +1,6 @@
 {
 	"contributors.headings.staff": {
-		"message": "Tým",
+		"message": "Jadro týmu",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
@@ -72,7 +72,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Kliknutím zkopíruješ ID uživatele.",
+		"message": "Kliknutím zkopírujete ID uživatele.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {

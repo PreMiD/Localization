@@ -20,7 +20,7 @@
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
-		"message": "مفعل",
+		"message": "تم تمكين",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
@@ -68,7 +68,7 @@
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "خطأ أثناء تحميل المساهمون",
+		"message": "خطأ أثناء تحميل الثناء",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
@@ -135,12 +135,8 @@
 		"message": "ألعاب",
 		"description": "Category name shown when you open tags"
 	},
-	"popup.category.socials": {
-		"message": "التواصل",
-		"description": "Category name shown when you open tags"
-	},
 	"popup.category.videos": {
-		"message": "مقاطع الفيديو والبثوث",
+		"message": "فيديوات",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

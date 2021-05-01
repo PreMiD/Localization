@@ -144,23 +144,23 @@
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
-		"message": "Ik wil niet helpen.",
+		"message": "Ik wil geen steun geven.",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message2": {
-		"message": "Weet je het zeker?",
+		"message": "Weet u het zeker?",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message3": {
-		"message": "Echt waar?",
+		"message": "Echt?",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "S-steun ons alsjeblieft :(",
+		"message": "P-Please steun ons :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
-		"message": "We hebben je nodig :<",
+		"message": "Ik heb je nodig :<",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {

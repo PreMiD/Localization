@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Seznam Změn",
+    "message": "Seznam změn",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -18,10 +18,6 @@
   "tab.installed.start": {
     "message": "Začít používat {0}",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
-  },
-  "donate": {
-    "message": "Donate",
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
     "message": "**Ale ne!** Nemůžeme se připojit k aplikaci... Je již nainstalována?",

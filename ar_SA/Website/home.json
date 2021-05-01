@@ -8,11 +8,11 @@
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
-		"message": "التنزيلات",
+		"message": "تحميل",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
-		"message": "جاري لعب لعبة",
+		"message": "Playing a game",
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
@@ -36,7 +36,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
-		"message": "سوف تحب هذه الميزات!",
+		"message": "!ستحب ميزاتنا",
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {

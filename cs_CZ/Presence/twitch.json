@@ -64,11 +64,11 @@
 		"description": ""
 	},
 	"twitch.viewSettings": {
-		"message": "Prohlíží svá nastavení...",
+		"message": "Zobrazuji jejich nastavení...",
 		"description": ""
 	},
 	"twitch.viewFriends": {
-		"message": "Prohlíží své přátele...",
+		"message": "Prohlížení jejich přátel...",
 		"description": ""
 	},
 	"twitch.subs": {

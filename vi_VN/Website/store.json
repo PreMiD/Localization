@@ -64,7 +64,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.games": {
-		"message": "Game",
+		"message": "Trò chơi",
 		"description": "Category at the top"
 	},
 	"store.category.music": {
@@ -76,7 +76,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Video & Streams",
+		"message": "Video & Luồng",
 		"description": "Category at the top"
 	},
 	"store.category.other": {

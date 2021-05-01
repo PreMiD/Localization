@@ -35,29 +35,13 @@
 		"message": "Iniciar automaticamente",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
-	"popup.headings.presences": {
-		"message": "Presences",
-		"description": "Title of the 'presences' area of the 'settings' section in the popup"
-	},
 	"popup.presences.manage": {
 		"message": "Gerir",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
-	"popup.presences.noPresences": {
-		"message": "Não há nenhuma presence adicionada",
-		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
-	},
 	"popup.presences.done": {
-		"message": "Concluído",
+		"message": "Feito",
 		"description": "Done button"
-	},
-	"popup.presences.load": {
-		"message": "Carregar Presence",
-		"description": "Load Presence button"
-	},
-	"popup.buttons.presenceStore": {
-		"message": "Loja de Presences",
-		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
 		"message": "Precisas de ajuda?",

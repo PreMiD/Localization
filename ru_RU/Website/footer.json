@@ -7,10 +7,6 @@
 		"message": "Готовы использовать PreMiD?",
 		"description": "Promotional heading"
 	},
-	"footer.usercount.message": {
-		"message": "Присоединяйтесь к {0} пользователям прямо сейчас!",
-		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
-	},
 	"footer.usercount.button": {
 		"message": "Установить",
 		"description": "Install button under the promotional message"

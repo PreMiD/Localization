@@ -1,8 +1,4 @@
 {
-  "header.language": {
-    "message": "繁體中文",
-    "description": "Replace English with the name of YOUR language!"
-  },
   "header.languageNotification.title": {
     "message": "我們支持您的語言, 想要切換嗎?",
     "description": "Heading of the language notification when user has different language."
@@ -22,10 +18,6 @@
   "header.loader.phrases": {
     "message": "烤煎餅中...;把它放置到容器...;正在解析您的IP地址...; UwU;破壞規則中...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "商店",
-    "description": "Store tab"
   },
   "header.downloads": {
     "message": "下載",

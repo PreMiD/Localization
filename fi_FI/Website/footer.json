@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "Liity {0} käyttäjän joukkoon tänään!",
+		"message": "Liity yli {0} käyttäjän joukkoon tänään!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
@@ -28,11 +28,11 @@
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
-		"message": "Ohjeet",
+		"message": "Dokumentointi",
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
-		"message": "Rich Presence",
+		"message": "Rikas lisäosa",
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
@@ -60,7 +60,7 @@
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
-		"message": "Vianetsintä",
+		"message": "Apua",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
@@ -68,7 +68,7 @@
 		"description": "Get Support -> redirects to Discord invite"
 	},
 	"footer.help.information": {
-		"message": "Tietoja",
+		"message": "Informaatio",
 		"description": "Information section"
 	},
 	"footer.help.information.cookies": {
@@ -92,7 +92,7 @@
 		"description": "Status -> redirects to status.premid.app"
 	},
 	"footer.more.wiki": {
-		"message": "Wiki",
+		"message": "Tieto",
 		"description": "Wiki -> redirects to wiki.premid.app"
 	},
 	"footer.copyright.line1": {
@@ -100,7 +100,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
-		"message": "Verkkosivua ylläpitävät {0}",
+		"message": "Verkkosivua ylläpitää {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {

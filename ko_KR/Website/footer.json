@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "{0} 명 이상의 사용자가 사용중입니다!",
+		"message": "{0} 명 이상의 사용자가 오늘 가입!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
@@ -36,7 +36,7 @@
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "지원하기",
+		"message": "우리를 지원하기",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
@@ -98,10 +98,6 @@
 	"footer.copyright.line1": {
 		"message": "{0} by {1}",
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
-	},
-	"footer.copyright.line2": {
-		"message": "{0} 에 의해 웹사이트가 유지되고 있습니다.",
-		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
 		"message": "더 많은 파트너와 스폰서들을 볼려면 이곳을 클릭하세요.",

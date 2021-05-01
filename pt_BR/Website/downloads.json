@@ -7,10 +7,6 @@
 		"message": "Use o PreMiD agora e mostre para seus amigos o que você está fazendo, talvez você encontre alguém com os mesmos interesses.",
 		"description": "Subtitle for header"
 	},
-	"downloads.instructions.heading": {
-		"message": "Comece já",
-		"description": "Displayed at Downloads page above steps"
-	},
 	"downloads.instructions.step_1": {
 		"message": "Baixe o PreMiD",
 		"description": "Heading for installing the application"

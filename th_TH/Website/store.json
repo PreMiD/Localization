@@ -64,7 +64,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.games": {
-		"message": "เกม",
+		"message": "เกมส์",
 		"description": "Category at the top"
 	},
 	"store.category.music": {
@@ -76,7 +76,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "วีดีโอและสตรีมมิ่ง",
+		"message": "วีดีโอ และ สตรีม",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
@@ -84,7 +84,7 @@
 		"description": "Category at the top"
 	},
 	"store.search": {
-		"message": "ค้นหา",
+		"message": "่ค้นหา",
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
