@@ -22,5 +22,9 @@
 	"user.presences.created": {
 		"message": "Klik di sini untuk melihat Presence yang telah dibuat oleh pengguna ini.",
 		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Klik di sini untuk menampilkan presence yang telah dikontribusikan oleh pengguna ini.",
+		"description": "Tippy content (mode 2) in user profile."
 	}
 }
