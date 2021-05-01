@@ -1,4 +1,8 @@
 {
+	"home.introduction.button.downloads": {
+		"message": "Siuntiniai",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
 	"home.examples.playingagame": {
 		"message": "Žaidžia žaidimą",
 		"description": "Discord Rich Presence -> Playing a game"
