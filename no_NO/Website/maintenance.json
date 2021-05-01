@@ -11,6 +11,10 @@
 		"message": "Inntil utviklerene våre fikser dette så kan du ta en titt under!",
 		"description": "Message on maintenance page"
 	},
+	"maintenance.statuspage": {
+		"message": "Status Side",
+		"description": "Status Page link on maintenance page"
+	},
 	"maintenance.discordserver": {
 		"message": "Discord Server",
 		"description": "Discord Server link on maintenance page"
