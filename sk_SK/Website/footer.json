@@ -12,7 +12,7 @@
 		"description": "Install button under the promotional message"
 	},
 	"footer.partners.heading": {
-		"message": "Partneri",
+		"message": "Partnery",
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
@@ -20,7 +20,7 @@
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
-		"message": "Vývojári",
+		"message": "Vývojari",
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
@@ -34,10 +34,6 @@
 	"footer.supportus.heading": {
 		"message": "Podpor nás",
 		"description": "Support us section"
-	},
-	"footer.supportus.donate": {
-		"message": "Prispieť",
-		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
 		"message": "Prispieť",
