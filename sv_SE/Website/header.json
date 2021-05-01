@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Vår hemsida har blivit översatt till ditt språk. Detta kan hjälpa dig ifall du inte talar så bra Engelska.",
+    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
