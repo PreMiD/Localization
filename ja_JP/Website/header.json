@@ -4,15 +4,15 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "このサイトは日本語に対応しています。切り替えますか？",
+    "message": "あなたの言語をサポートしています。切り替えますか？",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "このウェブサイトは日本語に翻訳されています。 英語があまり得意ではない場合は役に立つでしょう。",
+    "message": "こののウェブサイトはあなたの言語に翻訳されています。 あなたが英語をあまり得意でない場合は役に立つでしょう。",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "No, thanks",
+    "message": "いいえ",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
@@ -24,15 +24,15 @@
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "message": "ストア",
+    "message": "Store",
     "description": "Store tab"
   },
   "header.downloads": {
-    "message": "ダウンロード",
+    "message": "Downloads",
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "貢献者",
+    "message": "Contributors",
     "description": "Contributors tab"
   },
   "header.login": {
