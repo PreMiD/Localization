@@ -51,6 +51,10 @@
 		"message": "Feito",
 		"description": "Done button"
 	},
+	"popup.presences.load": {
+		"message": "Carregar presence",
+		"description": "Load Presence button"
+	},
 	"popup.buttons.help": {
 		"message": "Precisas de ajuda?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
