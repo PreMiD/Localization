@@ -39,6 +39,10 @@
 		"message": "¡Te encantarán estas características!",
 		"description": "Features section"
 	},
+	"home.features.presencesystem.heading": {
+		"message": "Encuentra **tu** presence",
+		"description": "Features section subheading"
+	},
 	"home.features.presencesystem.description": {
 		"message": "¡Desarrollamos nuestra extensión de forma que te permita añadir y usar Presences creadas por otros usuarios y gestionarlas en nuestra extensión!",
 		"description": "Features section description"
