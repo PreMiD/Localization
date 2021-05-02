@@ -1,6 +1,6 @@
 {
 	"watchmojo.triviaGame": {
-		"message": "Круглый {0} из {1} (Счет: {2}/{3})",
+		"message": "Раунд {0} из {1} (Счет: {2}/{3})",
 		"description": "The round and score of the Trivia game the user is playing."
 	},
 	"watchmojo.trivia": {
