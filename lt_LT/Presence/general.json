@@ -7,16 +7,76 @@
 		"message": "Naršoma...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Skyrius",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Redaguojama:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Serija",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forumai",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Žanras",
 		"description": ""
 	},
 	"general.language": {
 		"message": "Kalba",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Klausosi muzikos",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Klausytojai",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Tiesiogiai",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Prekės",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Puslapis",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Pristabdytas",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Leidžiama",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Skaito apie:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Skaito kanale:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Skaito pranešimą:",
 		"description": ""
 	},
 	"general.reading": {
