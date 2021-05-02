@@ -4,7 +4,7 @@
 		"description": "The round and score of the Trivia game the user is playing."
 	},
 	"watchmojo.trivia": {
-		"message": "Играет Trivia: {0}",
+		"message": "Играет в Trivia: {0}",
 		"description": "{0} will be replaced with the name of the Trivia game"
 	},
 	"watchmojo.playingTrivia": {
