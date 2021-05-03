@@ -3,8 +3,28 @@
 		"message": "Завантаження",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Вакансії",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Турбо",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Партнери",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Прес-центр",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Безпека",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Доступність",
 		"description": "Page name"
 	},
 	"twitch.home": {
