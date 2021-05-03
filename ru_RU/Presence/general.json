@@ -307,12 +307,8 @@
 		"message": "Посмотреть Видео",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonWatchStream": {
-		"message": "Смотреть видео",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewChannel": {
-		"message": "Видеть каналы",
+		"message": "Просмотр канала",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {

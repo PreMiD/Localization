@@ -40,7 +40,7 @@
 		"description": ""
 	},
 	"general.listeners": {
-		"message": "Слухачів",
+		"message": "Слухачі",
 		"description": ""
 	},
 	"general.live": {
@@ -52,7 +52,7 @@
 		"description": ""
 	},
 	"general.merch": {
-		"message": "Товари",
+		"message": "Мерч",
 		"description": ""
 	},
 	"general.page": {
@@ -64,7 +64,7 @@
 		"description": ""
 	},
 	"general.playing": {
-		"message": "Зараз грає",
+		"message": "Грає",
 		"description": ""
 	},
 	"general.readingDM": {
