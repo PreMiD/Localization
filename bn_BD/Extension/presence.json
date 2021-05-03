@@ -4,19 +4,23 @@
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "প্লেব্যাক পৌসেদ",
+    "message": "প্লেব্যাক থামানো হয়েছে",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
+  },
+  "presence.activity.browsing": {
+    "message": "ব্রাউজ করছে...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
     "message": "লাইভ",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "পড়া",
+    "message": "পড়ছে",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
-    "message": "কোঝা",
+    "message": "সার্চ করছে",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
