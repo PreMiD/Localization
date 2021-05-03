@@ -300,11 +300,15 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
-		"message": "Смотрит эпизод",
+		"message": "Смотреть серию",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "Посмотреть Видео",
+		"message": "Смотреть видео",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Смотреть трансляцию",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
