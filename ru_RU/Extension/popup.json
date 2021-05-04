@@ -71,6 +71,10 @@
 		"message": "Ошибка при загрузке титров",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
+	"popup.info.notConnected": {
+		"message": "Не подключен",
+		"description": "Shown when the extension can't connect to the application"
+	},
 	"popup.info.notConnected.message": {
 		"message": "PreMiD не смог подключиться к приложению! Вы убеждены, что оно установленно и запущенно? *Troubleshooting*",
 		"description": "Shown when the extension can't connect to the application"
