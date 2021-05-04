@@ -91,6 +91,26 @@
 		"message": "Parduotuvė",
 		"description": ""
 	},
+	"general.viewMovie": {
+		"message": "Žiūrimas filmas:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Peržiūrimas grojaraštis:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Peržiūrimas produktas:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Peržiūrimas profilis:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Peržiūrimas vartotojas:",
+		"description": ""
+	},
 	"general.viewPage": {
 		"message": "Peržiūri puslapį:",
 		"description": ""
