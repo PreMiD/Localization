@@ -16,7 +16,7 @@
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
-		"message": "ডিসক্রিপশন",
+		"message": "ডেসক্রিপশন",
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {

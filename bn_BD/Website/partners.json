@@ -200,7 +200,7 @@
 		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.description": {
-		"message": "ডিসক্রিপশন: (সর্বোচ্চ 150 অক্ষর)",
+		"message": "ডেসক্রিপশন: (সর্বোচ্চ 150 অক্ষর)",
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {

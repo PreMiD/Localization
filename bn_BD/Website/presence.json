@@ -4,7 +4,7 @@
 		"description": "Source Code button on presence pages."
 	},
 	"presence.sections.description.title": {
-		"message": "ডিসক্রিপশন",
+		"message": "ডেসক্রিপশন",
 		"description": "The title of the description section."
 	},
 	"presence.sections.changelog.title": {
