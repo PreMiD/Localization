@@ -3,6 +3,10 @@
 		"message": "Autorius",
 		"description": "Creator of a presence"
 	},
+	"store.category.heading": {
+		"message": "Kategorijos",
+		"description": "Category heading"
+	},
 	"store.category.all": {
 		"message": "Visi",
 		"description": "Category at the top"
