@@ -104,7 +104,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
-		"message": "Натисніть тут, щоб побачити решта наших партнерів і спонсорів.",
+		"message": "Натисніть тут, щоб побачити решту наших партнерів і спонсорів.",
 		"description": "Button next to all listed partners on the footer."
 	}
 }
