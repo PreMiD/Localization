@@ -20,7 +20,7 @@
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
-		"message": "Слідуйте за нами",
+		"message": "Підпишіться",
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
@@ -32,7 +32,7 @@
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
-		"message": "Розширена присутність",
+		"message": "Rich Presence",
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
