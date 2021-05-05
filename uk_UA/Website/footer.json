@@ -44,15 +44,15 @@
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "Зробіть внесок",
+		"message": "Зробити внесок",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
-		"message": "Перекладати",
+		"message": "Перекласти",
 		"description": "Translate -> redirects to locilazation page"
 	},
 	"footer.supportus.jobs": {
-		"message": "Працюйте з нами!",
+		"message": "Працювати з нами!",
 		"description": "Work for us! -> redirects to /jobs page"
 	},
 	"footer.help.heading": {
