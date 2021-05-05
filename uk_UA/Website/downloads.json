@@ -8,11 +8,11 @@
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
-		"message": "Почати",
+		"message": "Розпочати",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "Завантажити PreMiD",
+		"message": "Завантажте PreMiD",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
