@@ -43,6 +43,26 @@
 		"message": "Prohlížení",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.download": {
+		"message": "stránku Stahování",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "Bezpečnostní Centrum",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.docs": {
+		"message": "Čte si dokumentaci",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Stav Discordu",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Centrum Podpory",
+		"description": ""
+	},
 	"discord.blog": {
 		"message": "Discord blog",
 		"description": ""
