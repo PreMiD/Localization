@@ -1,1 +1,6 @@
-{}
+{
+    "kahoot.buttonJoinGame": {
+        "message": "Tham gia Trò chơi: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    }
+}
