@@ -47,8 +47,20 @@
 		"message": "stránku Stahování",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.why": {
+		"message": "stránku \"Proč Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.safety": {
 		"message": "Bezpečnostní Centrum",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "stránku pracovních pozic",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "stránku O nás",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.devs.docs": {
