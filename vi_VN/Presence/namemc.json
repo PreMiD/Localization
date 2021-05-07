@@ -1,1 +1,22 @@
-{}
+{
+	"namemc.skinsTrending": {
+		"message": "Đang xem những Skin Phổ biến",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTop": {
+		"message": "Đang xem các Skin Hàng đầu",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsNew": {
+		"message": "Đang xem các Skin mới",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsRandom": {
+		"message": "Đang xem các Skin ngẫu nhiên",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.viewSkin": {
+		"message": "Đang xem một Skin",
+		"description": "Skins is how you appear in the game."
+	}
+}
