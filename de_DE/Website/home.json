@@ -39,6 +39,10 @@
 		"message": "Du wirst diese Funktionen lieben!",
 		"description": "Features section"
 	},
+	"home.features.presencesystem.heading": {
+		"message": "Finde **deine** Presence",
+		"description": "Features section subheading"
+	},
 	"home.features.presencesystem.description": {
 		"message": "Wir haben unsere Erweiterung so programmiert, dass du einfach Presences von anderen Benutzern hinzufügen und in unserer Erweiterung verwalten kannst!",
 		"description": "Features section description"
