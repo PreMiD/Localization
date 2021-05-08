@@ -43,9 +43,21 @@
 		"message": "Verwalten",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
+	"popup.presences.noPresences": {
+		"message": "Keine Presences hinzugefügt",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
 	"popup.presences.done": {
 		"message": "Fertig",
 		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Presence wird geladen",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Presence-Store",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
 		"message": "Brauchst Du Hilfe?",
