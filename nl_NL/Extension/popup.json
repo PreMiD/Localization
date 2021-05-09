@@ -4,7 +4,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "Credits",
+		"message": "Attributies",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
@@ -20,7 +20,7 @@
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
-		"message": "Ingeschakeld",
+		"message": "Inschakelen",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
@@ -28,11 +28,11 @@
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "Titel Menubar",
+		"message": "Titelmenubalk",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
-		"message": "Automatisch opstarten",
+		"message": "Automatisch starten",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
@@ -40,7 +40,7 @@
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
-		"message": "Beheer",
+		"message": "Beheren",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
