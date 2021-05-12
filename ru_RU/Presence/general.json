@@ -156,7 +156,7 @@
 		"description": ""
 	},
 	"general.viewHome": {
-		"message": "Смотрит домашней страницы",
+		"message": "Смотрит главную страницу",
 		"description": ""
 	},
 	"general.viewList": {
@@ -168,7 +168,7 @@
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "Просмотр участника:",
+		"message": "Смотрит участника:",
 		"description": ""
 	},
 	"general.viewMovie": {
@@ -176,19 +176,19 @@
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Смотрит плейлиста:",
+		"message": "Смотрит плейлист:",
 		"description": ""
 	},
 	"general.viewProduct": {
-		"message": "Смотрит продукта:",
+		"message": "Смотрит продукт:",
 		"description": ""
 	},
 	"general.viewProfile": {
-		"message": "Смотрит профиля:",
+		"message": "Смотрит профиль:",
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "Смотрю сериал:",
+		"message": "Смотрит сериал:",
 		"description": ""
 	},
 	"general.viewShow": {
@@ -196,15 +196,15 @@
 		"description": ""
 	},
 	"general.viewAccount": {
-		"message": "Смотрит учетной записи",
+		"message": "Смотрит свою учётную запись",
 		"description": ""
 	},
 	"general.viewThread": {
-		"message": "Смотрит темы:",
+		"message": "Смотрит тему:",
 		"description": ""
 	},
 	"general.viewUser": {
-		"message": "Просмотр пользователя:",
+		"message": "Смотрит пользователя:",
 		"description": ""
 	},
 	"general.viewing": {
@@ -244,15 +244,15 @@
 		"description": ""
 	},
 	"general.waitingLive": {
-		"message": "Ожидается, что прямая трансляция начнется",
+		"message": "В ожидании начала трансляции",
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
 	},
 	"general.waitingLiveThe": {
-		"message": "Ожидается, что прямая трансляция начнется",
+		"message": "В ожидании начала трансляции",
 		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
-		"message": "Отслеживание:",
+		"message": "Смотрит:",
 		"description": ""
 	},
 	"general.wishlist": {
@@ -268,7 +268,7 @@
 		"description": "A page name"
 	},
 	"general.cookie": {
-		"message": "Политика cookies",
+		"message": "Политика куки",
 		"description": "A page name"
 	},
 	"general.repeatAll": {
@@ -276,43 +276,43 @@
 		"description": ""
 	},
 	"general.repeat": {
-		"message": "В петле",
+		"message": "В цикле",
 		"description": ""
 	},
 	"general.incidentView": {
-		"message": "Просмотр инцидента",
+		"message": "Смотрит происшествие",
 		"description": "A page name of statuspages"
 	},
 	"general.incidentHistory": {
-		"message": "История инцидентов",
+		"message": "История происшествий",
 		"description": "A page name of statuspages"
 	},
 	"general.uptimeHistory": {
-		"message": "История рабочего времени",
+		"message": "История бесперебойной работы",
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
-		"message": "Смотрит серию",
+		"message": "Посмотреть серию",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
-		"message": "Смотрит кино",
+		"message": "Посмотреть кино",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
-		"message": "Смотреть серию",
+		"message": "Посмотреть серию",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "Смотреть видео",
+		"message": "Посмотреть видео",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchStream": {
-		"message": "Смотреть трансляцию",
+		"message": "Посмотреть трансляцию",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Просмотр канала",
+		"message": "Посмотреть канала",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
@@ -320,15 +320,15 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPage": {
-		"message": "Просмотр страницы",
+		"message": "Посмотреть страницу",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewSong": {
-		"message": "Просмотр песни",
+		"message": "Послушать песню",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewAlbum": {
-		"message": "Просмотр альбома",
+		"message": "Посмотреть альбом",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewProfile": {
@@ -336,15 +336,15 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewArtist": {
-		"message": "Просмотр Исполнителя",
+		"message": "Посмотреть исполнителя",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPlaylist": {
-		"message": "Просмотр списка воспроизведения",
+		"message": "Посмотреть плейлист",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPodcast": {
-		"message": "Просмотр подкаста",
+		"message": "Посмотреть подкаст",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonReadArticle": {
