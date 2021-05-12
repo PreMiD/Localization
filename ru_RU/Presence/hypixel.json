@@ -1,6 +1,6 @@
 {
     "hypixel.staff": {
-        "message": "Просмотр списка персонала",
+        "message": "Смотрит список персонала",
         "description": ""
     },
     "hypixel.watchThreads": {
@@ -16,7 +16,7 @@
         "description": ""
     },
     "hypixel.game": {
-        "message": "Просмотр игры:",
+        "message": "Смотрит игру:",
         "description": ""
     }
 }
