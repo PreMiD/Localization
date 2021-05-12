@@ -16,11 +16,11 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "Редактирование:",
+		"message": "Редактирует:",
 		"description": ""
 	},
 	"general.episode": {
-		"message": "Эпизод",
+		"message": "Серия",
 		"description": ""
 	},
 	"general.forums": {
@@ -68,15 +68,15 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "Чтение DM от:",
+		"message": "Читает ЛС от:",
 		"description": ""
 	},
 	"general.readingAbout": {
-		"message": "Чтение о:",
+		"message": "Читает о:",
 		"description": ""
 	},
 	"general.readingArticle": {
-		"message": "Чтение статьи:",
+		"message": "Читает статью:",
 		"description": ""
 	},
 	"general.readingChannel": {
@@ -84,15 +84,15 @@
 		"description": ""
 	},
 	"general.readingPost": {
-		"message": "Читает поста:",
+		"message": "Читает пост:",
 		"description": ""
 	},
 	"general.readingThread": {
-		"message": "Читает темы:",
+		"message": "Читает тему:",
 		"description": ""
 	},
 	"general.reading": {
-		"message": "Читать",
+		"message": "Читает",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -100,23 +100,23 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "Поиск что-нибудь...",
+		"message": "Что-то ищет...",
 		"description": ""
 	},
 	"general.search": {
-		"message": "Искать",
+		"message": "Ищет",
 		"description": ""
 	},
 	"general.writing": {
-		"message": "Написание",
+		"message": "Пишет",
 		"description": ""
 	},
 	"general.calling": {
-		"message": "Вызов",
+		"message": "Звонит",
 		"description": ""
 	},
 	"general.inCall": {
-		"message": "В процессе звонка...",
+		"message": "Звонит...",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -128,7 +128,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Печатать личные сообщения на:",
+		"message": "Печатает ЛС:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -148,11 +148,11 @@
 		"description": ""
 	},
 	"general.viewEpisode": {
-		"message": "Смотрит эпизод:",
+		"message": "Смотрит серию:",
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "Просмотр жанра:",
+		"message": "Смотрит жанр:",
 		"description": ""
 	},
 	"general.viewHome": {
