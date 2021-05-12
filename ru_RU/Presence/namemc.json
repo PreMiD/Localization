@@ -52,19 +52,19 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"namemc.claim": {
-		"message": "Просмотр как забрать свой профиль",
+		"message": "Смотрит как привязать свой профиль",
 		"description": ""
 	},
 	"namemc.profileEdit": {
-		"message": "Редактирование информации о профиле{0}",
+		"message": "Редактирует информацию{0}своего профиля",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"namemc.viewFriends": {
-		"message": "Просмотр своих друзей",
+		"message": "Смотрит список друзей",
 		"description": ""
 	},
 	"namemc.viewSkins": {
-		"message": "Просмотр скинов",
+		"message": "Смотрит свои скины",
 		"description": ""
 	},
 	"namemc.viewEmojis": {
