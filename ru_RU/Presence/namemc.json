@@ -47,6 +47,10 @@
 		"message": "Смотрит сервер:",
 		"description": ""
 	},
+	"namemc.buttonViewServer": {
+		"message": "Просмотреть сервер",
+		"description": "Used as the title for the button in Discord."
+	},
 	"namemc.claim": {
 		"message": "Просмотр как забрать свой профиль",
 		"description": ""
