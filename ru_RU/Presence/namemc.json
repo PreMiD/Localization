@@ -60,7 +60,7 @@
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"namemc.viewFriends": {
-		"message": "Смотрит список друзей",
+		"message": "Смотрит список своих друзей",
 		"description": ""
 	},
 	"namemc.viewSkins": {
@@ -68,7 +68,7 @@
 		"description": ""
 	},
 	"namemc.viewEmojis": {
-		"message": "Просмотр эмодзи в профиле",
+		"message": "Смотрит эмодзи свосвоего профиля",
 		"description": "You can have an emoji next to your name, you select it here."
 	}
 }
