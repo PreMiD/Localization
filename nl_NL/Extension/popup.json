@@ -56,15 +56,15 @@
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Presence Winkel",
+		"message": "Presencebibliotheek",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
-		"message": "Hulp Nodig?",
+		"message": "Hulp nodig?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
 	"popup.credits.error.heading": {
-		"message": "Oh nee!",
+		"message": "Oei!",
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
@@ -76,15 +76,15 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD kon geen verbinding maken met de applicatie! Is deze geïnstalleerd en actief? *Troubleshooting*",
+		"message": "PreMiD kon geen verbinding maken met de applicatie! Is deze geïnstalleerd en actief? *Probleemoplossing*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Verouderde App",
+		"message": "Verouderde app",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Je PreMiD app is verouderd. Update deze om PreMiD weer te kunnen gebruiken.",
+		"message": "Je PreMiD-app is verouderd. Update deze om PreMiD weer te kunnen gebruiken.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
