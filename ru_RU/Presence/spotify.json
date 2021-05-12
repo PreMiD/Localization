@@ -12,43 +12,43 @@
 		"description": ""
 	},
 	"spotify.genres": {
-		"message": "Просмотр жанров",
+		"message": "Смотрит жанры",
 		"description": ""
 	},
 	"spotify.latest": {
-		"message": "Просмотр последних релизов",
+		"message": "Смотрит последние релизы",
 		"description": ""
 	},
 	"spotify.discover": {
-		"message": "Ищет новых песен",
+		"message": "Ищет новые песни",
 		"description": ""
 	},
 	"spotify.browse": {
-		"message": "Смотрит через",
+		"message": "Смотрит",
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
-		"message": "подкасты, которые им нравятся",
+		"message": "любимые подкасты",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.artistsLike": {
-		"message": "артисты, которые им нравятся",
+		"message": "любимых исполнителей",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.albumLike": {
-		"message": "альбомы, которые им нравятся",
+		"message": "любимые альбомы",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.songsLike": {
-		"message": "музыки, которые им нравятся",
+		"message": "любимые песни",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.madeForYou": {
-		"message": "\"Сделано для вас\"",
+		"message": "раздел «Только для вас»",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
 	},
 	"spotify.playlists": {
-		"message": "плейлисты",
+		"message": "свои плейлисты",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
