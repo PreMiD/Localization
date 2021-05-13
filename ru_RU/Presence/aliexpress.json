@@ -8,11 +8,11 @@
         "description": "Meaning Direct messages"
     },
     "aliexpress.sale": {
-        "message": "Просмотр продаж",
+        "message": "Смотрит распродажи",
         "description": ""
     },
     "aliexpress.recentlyViewProducts1": {
-        "message": "Недавно смотрит",
+        "message": "Смотрит свои недавно",
         "description": "Part 1 of 2"
     },
     "aliexpress.recentlyViewProducts2": {
