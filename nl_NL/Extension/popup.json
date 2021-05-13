@@ -140,7 +140,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Video's & Streams",
+		"message": "Video's & streaming",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
