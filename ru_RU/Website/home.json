@@ -36,15 +36,15 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
-		"message": "Вы полюбите эти функции!",
+		"message": "Вам понравятся эти функции!",
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Найдите **свой** статус",
+		"message": "Найдите Presence для **себя**",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Мы разработали расширение таким образом, чтобы вы могли добавлять, использовать и управлять Presences в том числе от других пользователей!",
+		"message": "Мы разработали расширение таким образом, чтобы вы могли добавлять, использовать и управлять Presences, созданные другими пользователями!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,7 +52,7 @@
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
-		"message": "Простой интерфейс для пользователей",
+		"message": "Простой пользовательский интерфейс",
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
