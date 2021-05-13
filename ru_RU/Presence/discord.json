@@ -84,83 +84,83 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.branding": {
-		"message": "страница брендинга",
+		"message": "страницу брендинга",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.inspiration": {
-		"message": "вдохновляющая страница",
+		"message": "страницу вдохновений",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.college": {
-		"message": "страница колледжа",
+		"message": "страницу колледжа",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.newsroom": {
-		"message": "страница новостей",
+		"message": "страницу новостей",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.partner": {
-		"message": "на странице партнера",
+		"message": "страницу партнера",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.verification": {
-		"message": "страница верификации",
+		"message": "страницу верификации",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.streamkit": {
-		"message": "страница StreamKit",
+		"message": "страницу StreamKit",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.opensource": {
-		"message": "страница с открытым исходным кодом",
+		"message": "страницу о проектах с открытом исходном кодом",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.security": {
-		"message": "страница безопасности",
+		"message": "страницу безопасности",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.moderation": {
-		"message": "страница модерации",
+		"message": "страницу модерации",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.rpc": {
-		"message": "страница Rich Presence",
+		"message": "страницу Rich Presence",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.policies": {
-		"message": "политики",
+		"message": "политику конфиденциальности",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.devs.portal": {
-		"message": "Портал для разработчиков",
+		"message": "Портал разработчика",
 		"description": ""
 	},
 	"discord.devs.appsBrowse": {
-		"message": "Просмотр через их приложения",
+		"message": "Смотрит на свои приложения",
 		"description": ""
 	},
 	"discord.devs.appsEdit": {
-		"message": "Редактирование приложения: {0}",
+		"message": "Редактирует приложение: {0}",
 		"description": "{0} will be replaced with the name of the app."
 	},
 	"discord.devs.teamsBrowse": {
-		"message": "Просмотр через их команды",
+		"message": "Смотрит на свои команды",
 		"description": ""
 	},
 	"discord.devs.teamsEdit": {
-		"message": "Редактирование команды: {0}",
+		"message": "Редактирует команду: {0}",
 		"description": "{0} will be replaced with the name of the team."
 	},
 	"discord.devs.serversBrowse": {
-		"message": "Просмотр на серверах",
+		"message": "Смотрит на свои сервера",
 		"description": ""
 	},
 	"discord.devs.serversEdit": {
-		"message": "Просмотр информации о сервере: {0}",
+		"message": "Смотрит информацию о сервере: {0}",
 		"description": "{0} will be replaced with the name of the server."
 	},
 	"discord.devs.docs": {
-		"message": "Прочитать документацию",
+		"message": "Читает документацию",
 		"description": ""
 	},
 	"discord.status": {
@@ -176,7 +176,7 @@
 		"description": ""
 	},
 	"discord.merch": {
-		"message": "Соединение Discord",
+		"message": "Мерч Discord",
 		"description": ""
 	},
 	"discord.merch.collection": {
