@@ -76,7 +76,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Video's & Streams",
+		"message": "Video's & streaming",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
@@ -84,11 +84,11 @@
 		"description": "Category at the top"
 	},
 	"store.search": {
-		"message": "Zoek",
+		"message": "Zoeken",
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
-		"message": "Enter",
+		"message": "Invoeren",
 		"description": "Little message next to the keys of search filters on the store."
 	},
 	"store.search.removeFilter": {
