@@ -16,11 +16,11 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Ваши бесплатные Присутствия",
+		"message": "Получите бесплатное Presence",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Наша команда предоставит Вам Присутствия Вашего сервиса.",
+		"message": "Наша команда предоставит вам Presence вашего сервиса.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -28,7 +28,7 @@
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Особая роль и большая честь будут предоставлены Вам на нашем сервере Discord.",
+		"message": "Специальная роль и огромное уважение будут даны вам на нашем Discord сервере.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
