@@ -1,1 +1,10 @@
-{}
+{
+    "youtube.trending": {
+        "message": "देखना क्या है ट्रेंडिंग",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "कुछ अपलोड कर रहा है...",
+        "description": ""
+    }
+}
