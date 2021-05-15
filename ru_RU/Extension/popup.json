@@ -108,7 +108,7 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Похоже, что у вас нет подключения к Интернету! PreMiD не сможет показать статусы в данный момент.",
+		"message": "Кажется, у вас нет подключения к интернету! PreMiD не сможет показать Presence в данный момент.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD не может подключится к Discord! Он установлен и запущен? *Траблшутинг*",
+		"message": "PreMiD не может подключится к Discord! Он установлен и запущен? *Устранить неполадку*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
@@ -140,7 +140,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Видео и Стримы",
+		"message": "Видео и стримы",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
