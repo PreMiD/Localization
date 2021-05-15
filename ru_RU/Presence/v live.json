@@ -36,7 +36,7 @@
 		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
 	},
 	"v live.channelHome": {
-		"message": "Смотрит домашней страницы",
+		"message": "Смотрит главную страницу",
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelSchedule": {
@@ -44,7 +44,7 @@
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelMy": {
-		"message": "Просмотр страницы «my»",
+		"message": "Смотрит страницу «my»",
 		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.channelStore": {
