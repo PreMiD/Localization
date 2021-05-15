@@ -8,7 +8,7 @@
 		"description": "{0} will be replaced with the name of the Trivia game"
 	},
 	"watchmojo.playingTrivia": {
-		"message": "Играя в Trivia игра",
+		"message": "Играет в Trivia",
 		"description": "For privacy mode, \"a\" as in unspecified."
 	},
 	"watchmojo.buttonPlayTrivia": {
