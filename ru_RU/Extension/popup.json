@@ -36,7 +36,7 @@
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "Статусы",
+		"message": "Presence",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Вы еще не добавили статусы",
+		"message": "Вы ещё не добавили ниодин Presence",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -52,11 +52,11 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Загрузить статус",
+		"message": "Загрузить Presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Магазин статусов",
+		"message": "Магазин Presence",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -72,7 +72,7 @@
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
-		"message": "Не подключен",
+		"message": "Нет соединения",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
@@ -80,11 +80,11 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Устаревшее Приложение",
+		"message": "Устаревшее приложение",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Ваш PreMiD - устарел. Пожалуйста, обновите его чтобы продолжить его использовать.",
+		"message": "Ваша версия приложения PreMiD устарела. Пожалуйста, обновите приложение, чтобы продолжить его использовать.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
@@ -92,7 +92,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "Ваше расширение устарело. Пожалуйста, обновите его, чтобы получить новейшие функции, загрузив его с нашего сайта.",
+		"message": "Ваша версия расширения устарела. Пожалуйста, обновите расширение с нашего сайта, чтобы получить доступ к новым функциям.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
@@ -104,7 +104,7 @@
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
-		"message": "Нет подключения к Интернету!",
+		"message": "Нет подключения к интернету!",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
