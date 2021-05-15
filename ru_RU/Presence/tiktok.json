@@ -1,18 +1,18 @@
 {
 	"tiktok.forYou": {
-		"message": "Просмотр их{0}для вашей страницы",
+		"message": "Смотрит свои{0}рекомендации",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"tiktok.following": {
-		"message": "Просмотр их{0}на странице",
+		"message": "Смотрит список{0}своих подписчиков",
 		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
 	},
 	"tiktok.viewing": {
-		"message": "Просмотр TikTok:",
+		"message": "Смотрит TikTok от:",
 		"description": "Name of the user will be after the \":\""
 	},
 	"tiktok.buttonViewTikTok": {
-		"message": "Просмотр TikTok",
+		"message": "Смотрит TikTok",
 		"description": "Used as the title for the button in Discord."
 	}
 }
