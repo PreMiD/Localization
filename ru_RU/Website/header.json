@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Готовим блинчики...;Устанавливаем контейнеры...;Парсим твой IP адрес...;UwU;Нарушаем правила...",
+    "message": "Гонимся за сбежавшим Presence...;Передаем пакеты данных...;Соединяем вас с сервером...;Что вы делаете в моём Presence?;Готовим шашлычки...;Ищем подходящий для вас Presence...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
