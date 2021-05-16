@@ -15,6 +15,10 @@
 		"message": "Página inicial",
 		"description": "A page name"
 	},
+	"premid.pageContributors": {
+		"message": "Contribuidores",
+		"description": "A page name"
+	},
 	"premid.pageDownloads": {
 		"message": "Downloads",
 		"description": "A page name"
@@ -44,7 +48,7 @@
 		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
 	"premid.pageTroubleshooting": {
-		"message": "Solução de Problemas",
+		"message": "Resolução de problemas",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
