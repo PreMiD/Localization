@@ -15,6 +15,10 @@
 		"message": "Jogando",
 		"description": "Discord Rich Presence -> Playing a game"
 	},
+	"home.examples.timestamp": {
+		"message": "faltam {0}",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
 	"home.examples.timestamp2": {
 		"message": "faltam {0}",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"

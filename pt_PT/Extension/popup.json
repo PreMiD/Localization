@@ -55,6 +55,10 @@
 		"message": "Carregar presence",
 		"description": "Load Presence button"
 	},
+	"popup.buttons.presenceStore": {
+		"message": "Loja de Presences",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
 	"popup.buttons.help": {
 		"message": "Precisas de ajuda?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
