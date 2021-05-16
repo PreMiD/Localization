@@ -59,6 +59,10 @@
 		"message": "Téigh i dteagmháil leis na daoine taobh thiar de PreMiD.",
 		"description": "Benefit card description."
 	},
+	"jobs.benefit2.title": {
+		"message": "Beanna Sneak",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit2.description": {
 		"message": "Féach ar ár bhForbairt agus Margaíocht.",
 		"description": "Benefit card description."
