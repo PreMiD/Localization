@@ -7,6 +7,10 @@
 		"message": "Apoiantes",
 		"description": "Heading for group of users."
 	},
+	"contributors.headings.translators": {
+		"message": "Tradutores",
+		"description": "Heading for group of users."
+	},
 	"contributors.roles.projectLeader": {
 		"message": "Líder do projeto",
 		"description": "'Project Leader' title for contributors and user pages."
@@ -66,6 +70,10 @@
 	"contributors.roles.translator": {
 		"message": "Tradutor",
 		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Clica para copiar o ID do utilizador.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
 		"message": "ID de utilizador copiado!",
