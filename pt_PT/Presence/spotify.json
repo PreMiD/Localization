@@ -43,6 +43,10 @@
 		"message": "músicas de que gosta",
 		"description": "\"Browsing through\" + this"
 	},
+	"spotify.playlists": {
+		"message": "as suas playlists",
+		"description": "\"Browsing through\" + this"
+	},
 	"spotify.download": {
 		"message": "A descarregar o Spotify",
 		"description": ""
