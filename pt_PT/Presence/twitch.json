@@ -99,9 +99,73 @@
 		"message": "Configurar a tua stream",
 		"description": "Page name"
 	},
+	"twitch.campLevel": {
+		"message": "Subir de nível",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Liga-te e interage",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Sê recompensado",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Música na Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Aprendizagem ao vivo",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Painel de controlo do criador",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "A gerir a sua stream",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "A gerir os cargos da sua comunidade",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "No produtor de vídeo",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "A ver",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Estatísticas do canal",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Sumário da stream",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Conquistas",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Atividade da comunidade",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Lista de seguidores",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Coleções de vídeos",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Vídeos",
+		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.blogBrowse": {
 		"message": "A ver os últimos posts no blog",
