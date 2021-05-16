@@ -223,6 +223,10 @@
 		"message": "A ver os últimos posts no blog",
 		"description": ""
 	},
+	"twitch.help": {
+		"message": "Centro de ajuda",
+		"description": "Page name"
+	},
 	"twitch.helpTopic": {
 		"message": "A ver o tópico",
 		"description": ""

@@ -43,6 +43,10 @@
 		"message": "músicas de que gosta",
 		"description": "\"Browsing through\" + this"
 	},
+	"spotify.madeForYou": {
+		"message": "\"Feito para ti\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
 	"spotify.playlists": {
 		"message": "as suas playlists",
 		"description": "\"Browsing through\" + this"
