@@ -28,7 +28,7 @@
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
-		"message": "Присоединяйтесь к нашему Discord серверу",
+		"message": "Присоединиться к нашему Discord серверу",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
