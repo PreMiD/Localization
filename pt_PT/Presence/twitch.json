@@ -3,24 +3,108 @@
 		"message": "Downloads",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Empregos",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Parceiros",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Centro de imprensa",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Segurança",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Acessibilidade",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Preferências de anúncios",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Diretrizes da comunidade",
 		"description": "Page name"
 	},
 	"twitch.home": {
 		"message": "Página inicial",
 		"description": "Page name"
 	},
-	"twitch.viewDropsInv": {
-		"message": "A ver o seu inventário de drops...",
+	"twitch.wallet": {
+		"message": "A ver a carteira",
 		"description": ""
+	},
+	"twitch.esports": {
+		"message": "A ver esports",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "A ver os canais que segue",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "A ver a equipa",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "A ver o seu inventário de drops",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "A ver as campanhas de drops ativas",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "A ver as suas definições",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "A ver os seus amigos",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "A ver as suas subscrições",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "A ver a squad",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "A moderar o streamer ",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "A resgatar um código",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Creator Camp",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Aprender os básicos",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Configurar a tua stream",
+		"description": "Page name"
 	},
 	"twitch.viewTheir": {
 		"message": "A ver",
 		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.blogBrowse": {
-		"message": "A ver os últimos posts no blog...",
+		"message": "A ver os últimos posts no blog",
 		"description": ""
 	},
 	"twitch.helpTopic": {
