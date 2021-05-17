@@ -99,6 +99,10 @@
 		"message": "緊急アップデート",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "拡張機能の緊急アップデートをリリースしました。 PreMiDを引き続き使用するには、更新してください。",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "インターネット接続がありません。",
 		"description": "Shown when the user has no internet connection"
