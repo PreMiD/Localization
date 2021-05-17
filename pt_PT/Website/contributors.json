@@ -44,7 +44,7 @@
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "Moderator",
+		"message": "Moderador",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
