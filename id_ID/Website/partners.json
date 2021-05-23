@@ -143,6 +143,22 @@
 		"message": "Perangkat lunak sumber terbuka Wiki yang paling kuat dan dapat dikembangkan.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Sebuah antarmuka berkesatuan, ramah pengembang untuk semua artefak anda.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Dibalik yang terbaik di web.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit adalah stasiun radio musik online yang memainkan hits terbaik 24/7 dan membantumu menemukan musik hits yang akan datang.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.atomicradio": {
+		"message": "Rasakan perpaduan yang terbaru dan terbaik dari dunia musik tanpa henti di setiap stasiun kami, pilih mana yang paling kamu sukai dan hadir di sana secara langsung saat legenda chart bertarung satu dengan yang lain dengan pendatang baru untuk memperebutkan posisi teratas!",
+		"description": "Description for Atomicradio."
+	},
 	"partners.apply.title": {
 		"message": "Melamar sebagai mitra",
 		"description": "Partnership application modal title."
@@ -187,6 +203,10 @@
 		"message": "Deskripsi: (Maksimal 150 karakter)",
 		"description": "Description field."
 	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Deskripsi untuk yang diutamakan",
+		"description": "Description field's placeholder."
+	},
 	"partners.apply.form.imageLink": {
 		"message": "Tautan gambar: (550x300, hanya PNG)",
 		"description": "Do not change the sizes."
@@ -210,6 +230,10 @@
 	"partners.apply.error1": {
 		"message": "Silakan lengkapi semua kolom.",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Deskripsi maksimum 150 karakter.",
+		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
 		"message": "Harap tambahkan tautan (harus dimulai dengan https:// dan akhiri dengan .png)",
