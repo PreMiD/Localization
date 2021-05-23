@@ -59,6 +59,10 @@
 		"message": "Berhubungan dengan orang dibalik PreMiD.",
 		"description": "Benefit card description."
 	},
+	"jobs.benefit2.title": {
+		"message": "Sneak Peeks",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit2.description": {
 		"message": "Lihat ke dalam divisi Pengembangan dan Marketing kami.",
 		"description": "Benefit card description."
