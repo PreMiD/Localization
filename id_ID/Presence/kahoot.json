@@ -35,6 +35,10 @@
         "message": "Pertanyaan: {0}",
         "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
     },
+    "kahoot.questionShowing": {
+        "message": "Menampilkan Pertanyaan:",
+        "description": "Used when the host is showing a question"
+    },
     "kahoot.stPlace": {
         "message": "Peringkat 1",
         "description": "Used in the context of 1st place"
