@@ -39,6 +39,14 @@
 		"message": "Otomatis gunakan presencemu ketika seseorang mengunjungi Websitemu.",
 		"description": "Description for the third benefit."
 	},
+	"partners.why.benefit4.title": {
+		"message": "Menjadi abadi",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Tempat jahat di halaman mitra kami.",
+		"description": "Description for the fourth benefit."
+	},
 	"partners.why.benefit5.title": {
 		"message": "Menjadi terkenal",
 		"description": "Heading for the fifth benefit."
@@ -58,6 +66,10 @@
 	"partners.requirements.first.description": {
 		"message": "Kami memantau komunitas yang berkembang dan hal-hal menarik di internet. TL;DR kamu harusnya telah menggunakan PreMiD dan bersiaplah untuk menyebarkannya kepada lebih banyak pengguna internet. Penerimaan ke dalam program kami sangat kualitatif dan berbeda antar kandidat.",
 		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Firewall kami",
+		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
 		"message": "Kami saat ini menerima berbagai jenis upaya dalam program kemitraan kami. Siapa pun harus memiliki kesempatan untuk diperhatikan. Penyiar Twitch harus memiliki setidaknya 500 pengikut dan setidaknya 10 penonton langsung. Kamu harus streaming setidaknya 1 kali per minggu.",
@@ -106,6 +118,30 @@
 	"partners.partner.taigaBot": {
 		"message": "taiga adalah Bot Discord yang menawarkan semua fitur yang mungkin kamu butuhkan!",
 		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Alat pembuat lintas platform yang kuat dan mudah digunakan.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Mengkomunikasikan status real-time dengan mudah ke pengguna kamu.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Dewi yang bermain sebagai Bot Discord yang menyenangkan!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM memungkinkanmu mendengarkan 15+ aliran musik gratis - nonstop. Dengan musik terbaik dan terbaru hanya untukmu!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Lokalisasi tangkas untuk perusahaan teknologi.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Perangkat lunak sumber terbuka Wiki yang paling kuat dan dapat dikembangkan.",
+		"description": "Description for WikiJS."
 	},
 	"partners.apply.title": {
 		"message": "Melamar sebagai mitra",
