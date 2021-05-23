@@ -11,6 +11,10 @@
 		"message": "Melihat presence:",
 		"description": ""
 	},
+	"premid.pageHome": {
+		"message": "Beranda",
+		"description": "A page name"
+	},
 	"premid.pageContributors": {
 		"message": "Kontributor",
 		"description": "A page name"
