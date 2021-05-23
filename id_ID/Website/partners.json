@@ -39,6 +39,10 @@
 		"message": "Otomatis gunakan presencemu ketika seseorang mengunjungi Websitemu.",
 		"description": "Description for the third benefit."
 	},
+	"partners.why.benefit5.title": {
+		"message": "Menjadi terkenal",
+		"description": "Heading for the fifth benefit."
+	},
 	"partners.why.benefit5.description": {
 		"message": "Ditampilkan pada sosial media kami.",
 		"description": "Description for the fifth benefit."
@@ -51,9 +55,25 @@
 		"message": "Apa yang kita cari?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.first.description": {
+		"message": "Kami memantau komunitas yang berkembang dan hal-hal menarik di internet. TL;DR kamu harusnya telah menggunakan PreMiD dan bersiaplah untuk menyebarkannya kepada lebih banyak pengguna internet. Penerimaan ke dalam program kami sangat kualitatif dan berbeda antar kandidat.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Kami saat ini menerima berbagai jenis upaya dalam program kemitraan kami. Siapa pun harus memiliki kesempatan untuk diperhatikan. Penyiar Twitch harus memiliki setidaknya 500 pengikut dan setidaknya 10 penonton langsung. Kamu harus streaming setidaknya 1 kali per minggu.",
+		"description": "Description for the second requirement."
+	},
 	"partners.apply.button": {
 		"message": "Daftar sekarang!",
 		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Mari kita pergi ke surga bersama!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Jika kamu lebih tertarik dengan bekerja langsung di PreMiD, lihat **iklan pekerjaan** kami.",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "Sponsor",
@@ -67,9 +87,29 @@
 		"message": "Begitulah caramu menonton anime.",
 		"description": "Description for AniFlix."
 	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings adalah Game Arena PvP serba cepat generasi berikutnya yang dimainkan di browser.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat adalah radio internasional nirlaba yang berupaya menyediakan hiburan radio dan berita berkualitas tanpa henti.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio merupakan radio infotainment tersukses untuk permainan simulasi di Jerman, Austria dan Swiss!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Mulai membuat komunitas anda sendiri dengan templat mengagumkan kami. Bangun kerajaan anda sendiri.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.taigaBot": {
 		"message": "taiga adalah Bot Discord yang menawarkan semua fitur yang mungkin kamu butuhkan!",
 		"description": "Description for taigabot."
+	},
+	"partners.apply.title": {
+		"message": "Melamar sebagai mitra",
+		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
 		"message": "Masuk sebagai {0}",
@@ -106,6 +146,10 @@
 	"partners.apply.form.link.placeholder": {
 		"message": "Contoh: https://premid.app",
 		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Deskripsi: (Maksimal 150 karakter)",
+		"description": "Description field."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "Tautan gambar: (550x300, hanya PNG)",
