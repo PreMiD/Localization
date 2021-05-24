@@ -66,5 +66,9 @@
 	"premid.pagePresenceClass": {
 		"message": "Kelas Presence",
 		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Kelas Slideshow",
+		"description": "A page name"
 	}
 }
