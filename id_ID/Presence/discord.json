@@ -144,7 +144,7 @@
 		"description": "{0} will be replaced with the name of the app."
 	},
 	"discord.devs.teamsBrowse": {
-		"message": "Menjelajahi tim",
+		"message": "Menjelajahi tim mereka",
 		"description": ""
 	},
 	"discord.devs.teamsEdit": {
