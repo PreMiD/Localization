@@ -115,6 +115,10 @@
 		"message": "درحال تماس",
 		"description": ""
 	},
+	"general.inCall": {
+		"message": "در تماس...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "سبد خرید",
 		"description": ""
