@@ -64,7 +64,7 @@
 		"description": "The first part of the next 17 strings"
 	},
 	"discord.download": {
-		"message": "halaman unduh",
+		"message": "halaman Unduhan",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.why": {
@@ -136,7 +136,7 @@
 		"description": ""
 	},
 	"discord.devs.appsBrowse": {
-		"message": "Menjelajahi aplikasi",
+		"message": "Menjelajahi aplikasi mereka",
 		"description": ""
 	},
 	"discord.devs.appsEdit": {
