@@ -3,6 +3,14 @@
         "message": "هم اکنون در حال مشاهده تبلیغ",
         "description": ""
     },
+    "youtube.browsingVideos": {
+        "message": "گشتن در ویدیو ها",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "گشتن در لیست پخش",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
     "youtube.viewingCommunityPost": {
         "message": "نگاه کردن پست های انجمن",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
