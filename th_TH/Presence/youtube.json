@@ -36,11 +36,11 @@
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
-        "message": "การสมัครสมาชิกของพวกเขา",
+        "message": "การติดตามของเขา",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.library": {
-        "message": "คลังของพวกเขา",
+        "message": "คลังของเขา",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
@@ -48,11 +48,11 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.purchases": {
-        "message": "เป็นแบบเสียเงิน",
+        "message": "ประวัติการซื้อของเขา",
         "description": "Part two of \"Browsing through\""
     },
     "youtube.reportHistory": {
-        "message": "กำลังดูประวัติการรายงานของตัวเอง",
+        "message": "กำลังดูประวัติการรายงานของเขา",
         "description": ""
     },
     "youtube.upload": {
@@ -60,11 +60,11 @@
         "description": ""
     },
     "youtube.viewAllPlaylist": {
-        "message": "กำลังดูเพลย์ลิสทั้งหมดของตัวเอง",
+        "message": "กำลังดูเพลย์ลิสทั้งหมดของเขา",
         "description": ""
     },
     "youtube.viewLiveEvents": {
-        "message": "กำลังดูกิจกรรมแบบสด",
+        "message": "กำลังดูกิจกรรมแบบสดของเขา",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
@@ -76,11 +76,11 @@
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "กำลังดูวิดีโอของตัวเอง",
+        "message": "กำลังดูวิดีโอทั้งหมดของเขา",
         "description": ""
     },
     "youtube.studio.editVideo": {
-        "message": "แก้ไขวีดีโอ:",
+        "message": "กำลังแก้ไขวีดีโอ:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
