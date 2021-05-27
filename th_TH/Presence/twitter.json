@@ -4,27 +4,27 @@
 		"description": "after the \":\" it will say the username"
 	},
 	"twitter.viewDms": {
-		"message": "กำลังดูข้อความส่วนตัวของพวกเขา",
+		"message": "กำลังดูข้อความส่วนตัวของเขา",
 		"description": ""
 	},
 	"twitter.viewTweets": {
-		"message": "กำลังดูทวีตของ :",
+		"message": "กำลังดูทวีตของ:",
 		"description": ""
 	},
 	"twitter.viewTweetsWithReplies": {
-		"message": "กำลังดูทวีต (และการตอบกลับ) ของ :",
+		"message": "กำลังดูทวีต (และการตอบกลับ) ของ:",
 		"description": ""
 	},
 	"twitter.viewMedia": {
-		"message": "กำลังดูสื่อของ :",
+		"message": "กำลังดูสื่อของ:",
 		"description": ""
 	},
 	"twitter.viewLiked": {
-		"message": "กำลังดูการถูกใจของ :",
+		"message": "กำลังดูการถูกใจของ:",
 		"description": ""
 	},
 	"twitter.viewList": {
-		"message": "กำลังดูลิสต์ :",
+		"message": "กำลังดูลิสต์:",
 		"description": ""
 	},
 	"twitter.bookmarks": {
