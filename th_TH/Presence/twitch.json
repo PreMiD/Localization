@@ -4,11 +4,19 @@
 		"description": "Page name"
 	},
 	"twitch.jobs": {
-		"message": "งาน",
+		"message": "ตำแหน่งงาน",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "เทอร์โบ",
 		"description": "Page name"
 	},
 	"twitch.partners": {
-		"message": "ผู้ร่วมมือ",
+		"message": "พันธมิตร",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "สื่อมวลชน",
 		"description": "Page name"
 	},
 	"twitch.security": {
@@ -31,6 +39,22 @@
 		"message": "หน้าหลัก",
 		"description": "Page name"
 	},
+	"twitch.wallet": {
+		"message": "กำลังดูวอลเล็ท...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "กำลังดูอีสปอร์ต...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "กำลังดูคนที่เราติดตาม...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "กำลังดูทึม:",
+		"description": ""
+	},
 	"twitch.viewSettings": {
 		"message": "กำลังดูการตั้งค่าของเขา...",
 		"description": ""
@@ -39,8 +63,16 @@
 		"message": "กำลังดูเพื่อนของเขา...",
 		"description": ""
 	},
+	"twitch.campLevel": {
+		"message": "เลื่อนขั้น",
+		"description": "Page name"
+	},
 	"twitch.campMusic": {
 		"message": "เพลงบน Twitch",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "แดชบอร์ดของครีเอเตอร์",
 		"description": "Page name"
 	},
 	"twitch.viewTheir": {
@@ -59,8 +91,24 @@
 		"message": "กำตั้งค่าช่องของเขา",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
+	"twitch.blogs": {
+		"message": "บล็อก Twitch",
+		"description": ""
+	},
 	"twitch.help": {
 		"message": "ศูนย์ช่วยเหลือ",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "กำลังดูหัวข้อ:",
+		"description": ""
+	},
+	"twitch.dev": {
+		"message": "นักพัฒนา Twitch",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "ข้อมูลที่เป็นประโยชน์",
 		"description": "Page name"
 	}
 }
