@@ -91,6 +91,22 @@
 		"message": "กำตั้งค่าช่องของเขา",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
+	"twitch.tools": {
+		"message": "กำลังดูเครื่องมือในการถ่ายทอดสด",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "กำลังดูส่วนขยาย",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "กำลังอ่านเกี่ยวกับแบรนด์ของ Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Keeping Twitch real",
+		"description": "Page name"
+	},
 	"twitch.blogs": {
 		"message": "บล็อก Twitch",
 		"description": ""
