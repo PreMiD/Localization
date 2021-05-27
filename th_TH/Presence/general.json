@@ -155,6 +155,10 @@
 		"message": "กำลังดูหมวดหมู่:",
 		"description": ""
 	},
+	"general.viewHome": {
+		"message": "กำลังดูหน้าหลัก",
+		"description": ""
+	},
 	"general.viewList": {
 		"message": "กำลังดูลิสต์ของ:",
 		"description": ""
