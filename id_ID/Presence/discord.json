@@ -155,6 +155,10 @@
 		"message": "Menjelajahi server mereka",
 		"description": ""
 	},
+	"discord.devs.serversEdit": {
+		"message": "Melihat insight server: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
 	"discord.devs.docs": {
 		"message": "Membaca dokumentasi",
 		"description": ""
