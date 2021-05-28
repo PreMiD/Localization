@@ -32,15 +32,15 @@
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "пользователь создал достаточное количество Presences и обладает ролью Presence-разработчика на нашем Discord сервере.",
+		"message": "что пользователь создал достаточное количество Presence и имеет роль разработчика Presence на нашем Discord сервере.",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
-		"message": "если другие столкнулись с такой же проблемой на нашем сервере Discord.",
+		"message": "что другие пользователи также имеют похожую проблему. Это можно сделать на нашем Discord сервере.",
 		"description": "Check if the error is also happening to others message."
 	},
 	"user.notFound.message4": {
-		"message": "Если вы считаете, что это ошибка, пожалуйста, свяжитесь с нами на [нашем сервере Discord].",
+		"message": "Если вы считаете, что это не должно было произойти, пожалуйста, свяжитесь с нами на [нашем Discord сервере].",
 		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
