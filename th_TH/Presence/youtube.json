@@ -35,12 +35,36 @@
         "message": "กำลังเรียกดู",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.subscriptions": {
+        "message": "การติดตามของเขา",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "คลังของเขา",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.history": {
         "message": "ประวัติการรับชมของเขา",
         "description": "Part two of \"Browsing through\""
     },
+    "youtube.purchases": {
+        "message": "ประวัติการซื้อของเขา",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "กำลังดูประวัติการรายงานของเขา",
+        "description": ""
+    },
     "youtube.upload": {
         "message": "กำลังอัปโหลดอะไรบางอย่าง...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "กำลังดูเพลย์ลิสทั้งหมดของเขา",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "กำลังดูกิจกรรมแบบสดของเขา",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
@@ -49,6 +73,14 @@
     },
     "youtube.viewAudioLibrary": {
         "message": "กำลังดูคลังเพลงและเสียง",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "กำลังดูวิดีโอทั้งหมดของเขา",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "กำลังแก้ไขวีดีโอ:",
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
