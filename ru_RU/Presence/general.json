@@ -292,7 +292,7 @@
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
-		"message": "Посмотреть серию",
+		"message": "Посмотреть сериал",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
@@ -312,7 +312,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Посмотреть канала",
+		"message": "Посмотреть канал",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
