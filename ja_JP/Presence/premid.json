@@ -16,15 +16,15 @@
 		"description": "A page name"
 	},
 	"premid.pageContributors": {
-		"message": "Contributors",
+		"message": "貢献者",
 		"description": "A page name"
 	},
 	"premid.pageDownloads": {
-		"message": "Downloads",
+		"message": "ダウンロード",
 		"description": "A page name"
 	},
 	"premid.pageStore": {
-		"message": "Store",
+		"message": "ストア",
 		"description": "A page name"
 	},
 	"premid.partners": {
