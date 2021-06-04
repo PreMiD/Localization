@@ -1,6 +1,6 @@
 {
     "facebook.call": {
-        "message": "Numa chamada com:",
+        "message": "Numa chamada com",
         "description": ""
     },
     "facebook.vcall": {
@@ -8,7 +8,7 @@
         "description": ""
     },
     "facebook.userHidden": {
-        "message": "alguém... (utilizador escondido)",
+        "message": "alguém (utilizador escondido)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
     "facebook.writing": {

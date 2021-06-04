@@ -4,11 +4,11 @@
         "description": "Used as the title for the button in Discord. {0} is the Game ID"
     },
     "kahoot.joiningGame": {
-        "message": "A entrar no jogo...",
+        "message": "A entrar no jogo",
         "description": "Used when a user is joining a Kahoot Game."
     },
     "kahoot.waiting": {
-        "message": "À espera do início do jogo...",
+        "message": "À espera do início do jogo",
         "description": "Used when the user is waiting for a Kahoot Game to start"
     },
     "kahoot.gameStarting": {
@@ -20,7 +20,7 @@
         "description": "Used as the first line when a user is answering a question"
     },
     "kahoot.questionLoading": {
-        "message": "A carregar a próxima pergunta...",
+        "message": "A carregar a próxima pergunta",
         "description": "Used when the next question is loading"
     },
     "kahoot.incorrectAnswer": {
@@ -48,7 +48,7 @@
         "description": "Used when a Kahoot Host is creating a Game"
     },
     "kahoot.loadingPage": {
-        "message": "A carregar a página...",
+        "message": "A carregar a página",
         "description": "Used when a page is loading"
     },
     "kahoot.firstPlace": {

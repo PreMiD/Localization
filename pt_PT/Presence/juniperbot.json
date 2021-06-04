@@ -4,7 +4,7 @@
         "description": "Home page of the site"
     },
     "juniperbot.leaderboard": {
-        "message": "A ver as classificações do servidor:",
+        "message": "A ver as classificações do servidor",
         "description": "Guild leaderboard page"
     },
     "juniperbot.serverdash": {
