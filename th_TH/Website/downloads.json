@@ -36,11 +36,11 @@
 		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
-		"message": "ดาวน์โหลดแอปพลิเคชัน",
+		"message": "แอปพลิเคชัน",
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
-		"message": "ดาวน์โหลดส่วนขยาย",
+		"message": "ส่วนขยาย",
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
@@ -120,7 +120,7 @@
 		"description": "Login button on the downloads page."
 	},
 	"downloads.button.skipanyway": {
-		"message": "ฉันจะข้าม ^_^",
+		"message": "ข้ามไปเลย",
 		"description": "Skip Anyway button on the ads page."
 	},
 	"downloads.adsbox.thankyou.title": {
@@ -148,7 +148,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message2": {
-		"message": "คุณแน่ใจหรอ?",
+		"message": "แน่ใจหรอ?",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message3": {
@@ -160,7 +160,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
-		"message": "ฉันต้องการคุณ :<",
+		"message": "เราต้องการคุณ :<",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {
