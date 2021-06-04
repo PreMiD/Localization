@@ -83,10 +83,6 @@
 		"message": "دعنا نذهب إلى السماء معاً!",
 		"description": "Disclaimer located above the apply button."
 	},
-	"partners.apply.jobs": {
-		"message": "إذا كنت ترغب في الحصول على وظيفة مباشرة في PreMiD، فقم بإلقاء نظرة على **إعلانات الوظائف الخاصة بنا**.",
-		"description": "Hint located under the button."
-	},
 	"partners.sponsors.title": {
 		"message": "الرعاة",
 		"description": "Heading for sponsors."
