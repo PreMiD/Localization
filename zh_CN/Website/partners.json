@@ -83,10 +83,6 @@
 		"message": "让我们一起来到最高层！",
 		"description": "Disclaimer located above the apply button."
 	},
-	"partners.apply.jobs": {
-		"message": "如果你对在 PreMiD 的直接作业感兴趣，请查看我们的 **工作机会**。",
-		"description": "Hint located under the button."
-	},
 	"partners.sponsors.title": {
 		"message": "赞助商",
 		"description": "Heading for sponsors."
