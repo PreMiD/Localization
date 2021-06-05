@@ -12,7 +12,7 @@
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
-		"message": "কেমন হয় নরকের বদলে স্বর্গে যাওয়া?",
+		"message": "কেমন হয় স্বর্গে যাওয়া?",
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
@@ -82,6 +82,10 @@
 	"partners.apply.disclaimer": {
 		"message": "চলো আমরা একসাথে স্বর্গে যাই!",
 		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "তুমি যদি বরং আগ্রহী হও PreMiD তে সরাসরি কাজের, তাহলে দেখতে পারো আমাদের **কাজের বিজ্ঞপ্তি**।",
+		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
 		"message": "স্পন্সর",
