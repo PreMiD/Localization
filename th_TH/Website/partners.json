@@ -83,6 +83,10 @@
 		"message": "ไปสู่ความฝันด้วยกัน!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "ถ้าคุณสนใจที่จะทำงานกับ PreMiD กรุณาดูที่ **การประกาศรับสมัครงาน**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "ผู้สนับสนุน",
 		"description": "Heading for sponsors."
