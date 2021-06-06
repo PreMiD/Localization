@@ -107,10 +107,6 @@
 		"message": "SimLiveRadio merupakan radio infotainment tersukses untuk permainan simulasi di Jerman, Austria dan Swiss!",
 		"description": "Description for SimLoveRadio."
 	},
-	"partners.partner.discordTemplates": {
-		"message": "Mulai membuat komunitas anda sendiri dengan templat mengagumkan kami. Bangun kerajaan anda sendiri.",
-		"description": "Description for DiscordTemplates."
-	},
 	"partners.partner.taigaBot": {
 		"message": "taiga adalah Bot Discord yang menawarkan semua fitur yang mungkin kamu butuhkan!",
 		"description": "Description for taigabot."
