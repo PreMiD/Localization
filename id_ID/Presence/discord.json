@@ -112,7 +112,7 @@
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.opensource": {
-		"message": "halaman Sumber Terbuka",
+		"message": "halaman Open Source",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.security": {
