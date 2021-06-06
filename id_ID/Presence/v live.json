@@ -3,16 +3,8 @@
 		"message": "Menelusuri",
 		"description": "The first part of the next 6 strings"
 	},
-	"v live.newVid": {
-		"message": "Halaman video baru",
-		"description": "Second part of the \"Browsing through\" string"
-	},
 	"v live.charts": {
 		"message": "halaman grafik",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"v live.upcoming": {
-		"message": "halaman selanjutnya",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"v live.channelList": {
