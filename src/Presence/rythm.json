@@ -8,15 +8,15 @@
         "description": "Button for inviting the bot."
     },
     "rythm.djs": {
-        "message": "DJs:",
-        "description": "The amount of users with DJ permissions will be listed after the \":\""
+        "message": "DJs: {0}",
+        "description": "{0} will be replaced with the amount of users with DJ permissions."
     },
     "rythm.users": {
-        "message": "Users:",
-        "description": "The amount of normal users will be listed after the \":\""
+        "message": "Users: {0}",
+        "description": "{0} will be replaced with the amount of normal users."
     },
     "rythm.requestedBy": {
-        "message": "Requested by:",
-        "description": "The name of the user who requested the currently plaing song will be listed after the \":\""
+        "message": "Requested by: {0}",
+        "description": "{0} will be replaced with the name of the user who requested the currently plaing song."
     }
 }
