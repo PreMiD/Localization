@@ -83,6 +83,10 @@
 		"message": "Vamos juntos para o céu!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Se você está interessado em trabalhar diretamente no PreMiD, dê uma olhada nos nossos **anúncios de emprego**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Patrocinadores",
 		"description": "Heading for sponsors."
@@ -150,6 +154,10 @@
 	"partners.partner.onlyhit": {
 		"message": "OnlyHit é sua estação de rádio musical online feita para reproduzir os melhores sucessos 24/7 e para fazer você descobrir os futuros sucessos primeiro.",
 		"description": "Description for OnlyHit."
+	},
+	"partners.partner.atomicradio": {
+		"message": "Experimente a mais recente e melhor mixagem do mundo da música sem parar em todas as nossas estações, escolha qual você mais gosta e esteja presente ao vivo quando as lendas das paradas lutam entre si com os novatos pelo primeiro lugar!",
+		"description": "Description for Atomicradio."
 	},
 	"partners.apply.title": {
 		"message": "Inscreva-se para parceiro",
