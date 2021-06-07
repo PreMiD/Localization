@@ -335,6 +335,14 @@
 		"message": "Ver Perfil",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewArtist": {
+		"message": "Ver Artista",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Ver Playlist",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewPodcast": {
 		"message": "Ver Podcast",
 		"description": "Used as the title for the button in Discord."
