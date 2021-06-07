@@ -24,7 +24,7 @@
     "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.classwork": {
-    "message": "Melihat tugas kelas:",
+    "message": "Melihat pekerjaan kelas dari:",
     "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class"
   },
   "google classroom.classmembersPrivate": {
