@@ -60,7 +60,7 @@
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "Todas",
+		"message": "Todos",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
@@ -82,6 +82,10 @@
 	"store.category.other": {
 		"message": "Outros",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Pesquisar",
+		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
 		"message": "Enter",
