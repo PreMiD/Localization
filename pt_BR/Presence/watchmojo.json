@@ -1,1 +1,6 @@
-{}
+{
+	"watchmojo.playingTrivia": {
+		"message": "Jogando Trivia",
+		"description": "For privacy mode, \"a\" as in unspecified."
+	}
+}
