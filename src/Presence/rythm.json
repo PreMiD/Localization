@@ -1,0 +1,22 @@
+{
+    "rythm.openDashboard": {
+        "message": "Open Dashboard",
+        "description": "Button for opening the web dashboard."
+    },
+    "rythm.inviteBot": {
+        "message": "Invite Bot",
+        "description": "Button for inviting the bot."
+    },
+    "rythm.djs": {
+        "message": "DJs:",
+        "description": "The amount of users with DJ permissions will be listed after the \":\""
+    },
+    "rythm.users": {
+        "message": "Users:",
+        "description": "The amount of normal users will be listed after the \":\""
+    },
+    "rythm.requestedBy": {
+        "message": "Requested by:",
+        "description": "The name of the user who requested the currently plaing song will be listed after the \":\""
+    }
+}
