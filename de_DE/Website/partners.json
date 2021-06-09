@@ -83,6 +83,10 @@
 		"message": "Lass uns gemeinsam in den Himmel gehen!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Wenn Du eher an einem direkten Job bei PreMiD interessiert bist, schau dir unsere **Stellenanzeigen** an.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Sponsoren",
 		"description": "Heading for sponsors."
