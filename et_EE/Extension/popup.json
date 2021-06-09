@@ -87,6 +87,38 @@
 		"message": "Sinu PreMiDi rakendus on valmis uuendama. Palun uuenda, et PreMiDi kasutada.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Aegunud Laiendus",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Teie laiendus on aegunud. Uusimate funktsioonide saamiseks värskendage seda, laadides selle alla meie saidilt.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Tähtis värskendus",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Avaldasime laienduse jaoks tähtsa värskenduse. PreMiD-i kasutamise jätkamiseks värskendage seda.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Interneti-ühendust pole!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Tundub, et teil pole Interneti-ühendust! PreMiD ei saa praegu presence näidata.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Puudub Discord-i ühendus!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD ei saanud teie Discord-i rakendusega ühendust luua! Kas see on installitud ja töötab? *Tõrkeotsing*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
 	"popup.category.all": {
 		"message": "Kõik",
 		"description": "Category name shown when you open tags"
