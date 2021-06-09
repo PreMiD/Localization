@@ -30,5 +30,17 @@
 	"beta.register.button": {
 		"message": "Registreeru nüüd!",
 		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Lahe! Olete nüüd beeta kasutaja!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Meie ahvid töötavad selle nimel, et saaksite võimalikult kiiresti meie beetaprogrammi pääseda. Täname registreerumise eest!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Tundub, et meil on kõik kohad täis.",
+		"description": "Shows when the beta slots are full."
 	}
 }
