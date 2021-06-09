@@ -1,1 +1,34 @@
-{}
+{
+	"beta.title": {
+		"message": "Kas soovite uusi funktsioone?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** on nüüd saadaval kõigile!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Mida saate, kui registreerute?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Uusimad funktsioonid",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Juurdepääs PreMiD-i ülisalajastele tekstikanalitele",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Eriline roll meie Discord-i serveris",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Kas olete selleks valmis? Liituge {0} teiste beetatestijatega!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Registreeru nüüd!",
+		"description": "Sign up button text"
+	}
+}
