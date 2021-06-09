@@ -19,17 +19,65 @@
 		"message": "{0} Selle operatsioonisüsteemi jaoks pole installerit. See tähendab seda, et siin pole professionaalset tuge selle jaoks.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.mobile.showDownloads": {
+		"message": "Kuva allalaadimised",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.mobile.hideDownloads": {
+		"message": "Peida allalaadimised",
+		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.title": {
+		"message": "Hoiatus",
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
+	},
+	"downloads.button.skip": {
+		"message": "Jäta vahele",
+		"description": "Skip button on the ads section"
+	},
+	"downloads.button.back": {
+		"message": "Tagasi",
+		"description": "Back button on the ads section"
+	},
+	"downloads.button.cancel": {
+		"message": "Tühista",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.okay": {
+		"message": "Ok",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Valmis",
 		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.button.login": {
+		"message": "Sisselogimine",
+		"description": "Login button on the downloads page."
+	},
+	"downloads.button.skipanyway": {
+		"message": "Jäta ikkagi vahele",
+		"description": "Skip Anyway button on the ads page."
 	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Tänan!",
 		"description": "Title of the advertisement section box."
 	},
+	"downloads.adsbox.thankyou.message": {
+		"message": "Kasutame reklaame oma meeskonna toetamiseks ja oma serverite hooldamiseks, et pakkuda teile parimat kasutuskogemust!",
+		"description": "Message of the advertisement section box."
+	},
 	"downloads.adsbox.disableAdblock": {
 		"message": "Keelake oma reklaami blokeerimine",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Näita varasemaid väljalaskeid",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(pole vajalik, kui olete siin ainult tavalise rakenduse allalaadimiseks)",
+		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
 		"message": "Ma ei taha toetada.",
