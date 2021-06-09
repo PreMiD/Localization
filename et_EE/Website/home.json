@@ -55,6 +55,10 @@
 		"message": "Lihtne kasutaja sait",
 		"description": "Features section subheading"
 	},
+	"home.features.simpleInterface.description": {
+		"message": "Kas olete väsinud keerukatest kasutajaliidestest? Sellepärast lõime ja proovisime hoida oma kasutajaliidet võimalikult lihtsana ja kasulike funktsioonidega, näiteks:",
+		"description": "Features section description"
+	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Rakenduse ja lisa sätted",
 		"description": "Features section description point"
@@ -63,8 +67,24 @@
 		"message": "Staatuse haldamine",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sorteeri kategooria järgi",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Kiire tugi",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Midagi on viga, saates teile palju vigu või lihtsalt ei tööta? Aitame teil nendest probleemidest lahti saada meie Discord-i serveris. Lõime ka oma tugisüsteemi, mis tagab, et teie probleem lahendatakse võimalikult kiiresti.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Liitu meie Discordiga",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Veebilehe keel",
+		"description": "Tippy content of the language selector."
 	}
 }
