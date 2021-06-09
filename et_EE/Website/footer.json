@@ -3,6 +3,10 @@
 		"message": "Keel",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Valmis PreMiD-i kastutama?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Liitu üle {0} kasutajaga täna!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -15,6 +19,10 @@
 		"message": "Partnerid",
 		"description": "Partner section"
 	},
+	"footer.followUs.heading": {
+		"message": "Jälgige meid",
+		"description": "Follow Us section"
+	},
 	"footer.developers.heading": {
 		"message": "Arendajad",
 		"description": "Developer section"
@@ -24,7 +32,7 @@
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
-		"message": "Staatus",
+		"message": "Rikas Presence",
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
@@ -43,12 +51,16 @@
 		"message": "Tõlgi",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Töötage meiega!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
 		"message": "Abi",
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
-		"message": "Veaotsimine",
+		"message": "Veaparandamine",
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
@@ -79,12 +91,20 @@
 		"message": "Staatus",
 		"description": "Status -> redirects to status.premid.app"
 	},
+	"footer.more.wiki": {
+		"message": "Viki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
 	"footer.copyright.line1": {
 		"message": "{0}, {1}",
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
-		"message": "Veebisait tehtud {0} il",
+		"message": "Veebisaiti haldab {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Klõpsake siia, et näha ülejäänud meie partnereid & sponsoreid.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
