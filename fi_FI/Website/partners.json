@@ -19,6 +19,10 @@
 		"message": "Sulje",
 		"description": "Modal close button."
 	},
+	"partners.apply.success": {
+		"message": "Kiitos hakemuksestasi!",
+		"description": "Success message when applying."
+	},
 	"partners.apply.error1": {
 		"message": "Ole hyvä, ja täytä kaikki kentät.",
 		"description": "Error when a field isn't filled."
