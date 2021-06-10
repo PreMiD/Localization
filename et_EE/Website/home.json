@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "** PreMiD ** on lihtne, konfigureeritav lisa, mis võimaldab teil oma Discord-i olekus näidata, mida veebis teete.",
+		"message": "** PreMiD ** on lihtne, konfigureeritav lisa, mis võimaldab teil oma Discordi olekus näidata, mida veebis teete.",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -76,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Midagi on viga, saates teile palju vigu või lihtsalt ei tööta? Aitame teil nendest probleemidest lahti saada meie Discord-i serveris. Lõime ka oma tugisüsteemi, mis tagab, et teie probleem lahendatakse võimalikult kiiresti.",
+		"message": "Midagi on viga, saates teile palju vigu või lihtsalt ei tööta? Aitame teil nendest probleemidest lahti saada meie Discordi serveris. Lõime ka oma tugisüsteemi, mis tagab, et teie probleem lahendatakse võimalikult kiiresti.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
