@@ -18,5 +18,9 @@
 	"premid.pageTroubleshooting": {
 		"message": "Veaotsimine",
 		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence-i arendamine",
+		"description": "A page name"
 	}
 }
