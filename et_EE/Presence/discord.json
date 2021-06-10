@@ -55,6 +55,66 @@
 		"message": "Serveri kutselingi{0}vaatamine: {1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
 	},
+	"discord.buttonInvite": {
+		"message": "Kuva Kutse linki",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Sirvimine läbi",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "allalaadimiste lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "ohutuskeskuse",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "töökoha lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "teabe lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "brändingu lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "inspiratsiooni lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "kolledži lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "uudisteruumi lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "partneri lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "kinnituslehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "streamKiti lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "avatud lähtekoodiga lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "turvalisus lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.blog": {
 		"message": "Discordi blog",
 		"description": ""
