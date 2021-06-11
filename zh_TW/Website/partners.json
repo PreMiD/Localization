@@ -83,6 +83,10 @@
 		"message": "讓我們一起合作",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "如果您對PreMiD的工作很感興趣，請查看我們的**聘請廣告**。",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "贊助者",
 		"description": "Heading for sponsors."
