@@ -107,18 +107,6 @@
 		"message": "Buscando",
 		"description": ""
 	},
-	"general.writing": {
-		"message": "Escrevendo",
-		"description": ""
-	},
-	"general.calling": {
-		"message": "Ligando",
-		"description": ""
-	},
-	"general.inCall": {
-		"message": "Em uma ligação...",
-		"description": ""
-	},
 	"general.shopCart": {
 		"message": "Carrinho de compras",
 		"description": ""
@@ -187,10 +175,6 @@
 		"message": "Visualizando perfil de:",
 		"description": ""
 	},
-	"general.viewSeries": {
-		"message": "Vendo séries:",
-		"description": ""
-	},
 	"general.viewShow": {
 		"message": "Visualizando série:",
 		"description": ""
@@ -215,41 +199,13 @@
 		"message": "Visualizando página:",
 		"description": ""
 	},
-	"general.watchingMovie": {
-		"message": "Assistindo um filme",
-		"description": ""
-	},
-	"general.watchingSeries": {
-		"message": "Assistindo uma série",
-		"description": ""
-	},
-	"general.watchingShow": {
-		"message": "Assistindo um show",
-		"description": ""
-	},
 	"general.watchingVid": {
 		"message": "Assistindo um vídeo",
 		"description": ""
 	},
-	"general.waitingVid": {
-		"message": "Aguardando a estreia de um vídeo",
-		"description": "For privacy reasons (\"A\" video, as in not specified)"
-	},
-	"general.waitingVidThe": {
-		"message": "Aguardando a estreia do vídeo",
-		"description": "\"the\" video, as in the video title is specified)"
-	},
 	"general.watchingLive": {
 		"message": "Assistindo uma livestream",
 		"description": ""
-	},
-	"general.waitingLive": {
-		"message": "Aguardando o início da transmissão ao vivo",
-		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
-	},
-	"general.waitingLiveThe": {
-		"message": "Aguardando o início da transmissão ao vivo",
-		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Assistindo:",
@@ -267,30 +223,6 @@
 		"message": "Termos de Serviço",
 		"description": "A page name"
 	},
-	"general.cookie": {
-		"message": "Política de cookies",
-		"description": "A page name"
-	},
-	"general.repeatAll": {
-		"message": "Repetindo todas as músicas",
-		"description": ""
-	},
-	"general.repeat": {
-		"message": "Em repetição",
-		"description": ""
-	},
-	"general.incidentView": {
-		"message": "Vendo um incidente",
-		"description": "A page name of statuspages"
-	},
-	"general.incidentHistory": {
-		"message": "Histórico de incidentes",
-		"description": "A page name of statuspages"
-	},
-	"general.uptimeHistory": {
-		"message": "Histórico de atividades",
-		"description": "A page name of statuspages"
-	},
 	"general.buttonViewSeries": {
 		"message": "Ver serie",
 		"description": "Used as the title for the button in Discord."
@@ -301,38 +233,6 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Assistir episódio",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchVideo": {
-		"message": "Assistir vídeo",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonWatchStream": {
-		"message": "Assistir transmissão",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewChannel": {
-		"message": "Ver Canal",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonListenAlong": {
-		"message": "Ouvir junto",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewPage": {
-		"message": "Ver Página",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewSong": {
-		"message": "Visualizar Música",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewAlbum": {
-		"message": "Visualizar álbum",
-		"description": "Used as the title for the button in Discord."
-	},
-	"general.buttonViewProfile": {
-		"message": "Ver Perfil",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewArtist": {
