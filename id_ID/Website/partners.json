@@ -83,6 +83,10 @@
 		"message": "Mari kita pergi ke surga bersama!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Jika kamu lebih tertarik dengan bekerja langsung di PreMiD, lihat **iklan pekerjaan** kami.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Sponsor",
 		"description": "Heading for sponsors."
