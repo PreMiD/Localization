@@ -1,26 +1,10 @@
 {
-	"premid.viewPage": {
-		"message": "Visualizando página:",
-		"description": ""
-	},
-	"premid.docs": {
-		"message": "Documentos",
-		"description": "as in documents"
-	},
-	"premid.viewPresence": {
-		"message": "Visualizando presence:",
-		"description": ""
-	},
-	"premid.pageHome": {
-		"message": "Página inicial",
-		"description": "A page name"
-	},
 	"premid.pageContributors": {
 		"message": "Contribuidores",
 		"description": "A page name"
 	},
 	"premid.pageDownloads": {
-		"message": "Downloads",
+		"message": "Baixar",
 		"description": "A page name"
 	},
 	"premid.pageStore": {
@@ -43,52 +27,28 @@
 		"message": "Instalação",
 		"description": "A page name"
 	},
-	"premid.pageInstallFor": {
-		"message": "Assistente de instalação para {0}",
-		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
-	},
 	"premid.pageTroubleshooting": {
-		"message": "Solução de problemas",
+		"message": "Solução de Problemas",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
-		"message": "Primeiros passos",
+		"message": "Primeiros Passos",
 		"description": "A page name"
 	},
 	"premid.pageApi": {
 		"message": "API",
 		"description": "A page name"
 	},
-	"premid.pageApiVersion": {
-		"message": "Entendendo a API v{0}",
-		"description": "A page name // {0} will be replaced with the version number."
-	},
 	"premid.pagePresenceDev": {
 		"message": "Desenvolvimento de Presences",
 		"description": "A page name"
 	},
-	"premid.pagePresenceGuide": {
-		"message": "Diretrizes de presences",
-		"description": "A page name"
-	},
 	"premid.pagePresenceClass": {
-		"message": "Classe da presence",
+		"message": "Classe Presence",
 		"description": "A page name"
 	},
 	"premid.pageSlideshowClass": {
 		"message": "Classe de Slideshow",
-		"description": "A page name"
-	},
-	"premid.pageIframe": {
-		"message": "Entendendo o iframe",
-		"description": "A page name"
-	},
-	"premid.pageMetadata": {
-		"message": "Configurando metadata.json",
-		"description": "A page name"
-	},
-	"premid.pageTs": {
-		"message": "Configurando TypeScript",
 		"description": "A page name"
 	}
 }
