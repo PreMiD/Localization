@@ -83,6 +83,10 @@
 		"message": "Pojďme společně do nebe!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Jestli máte radši zájem přímo pracovat pro PreMid, tak se podívejte na naše **nabídky práce**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Sponzoři",
 		"description": "Heading for sponsors."
