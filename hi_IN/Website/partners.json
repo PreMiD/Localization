@@ -83,6 +83,10 @@
 		"message": "चलो एक साथ स्वर्ग जाओ!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "यदि आप PreMiD में प्रत्यक्ष नौकरी में रुचि रखते हैं, तो हमारे ** नौकरी विज्ञापनों ** पर एक नज़र डालें।",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "प्रायोजकों",
 		"description": "Heading for sponsors."
