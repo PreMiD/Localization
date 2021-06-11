@@ -4,7 +4,7 @@
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Αναπαραγωγή τέθηκε σε παύση",
+    "message": "Αναπαραγωγή σε παύση",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
