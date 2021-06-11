@@ -83,6 +83,10 @@
 		"message": "Téimid ar neamh le chéile!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Más spéis leat post díreach ag PreMiD, féach ar ár **bhfógraí poist**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Urraitheoirí",
 		"description": "Heading for sponsors."

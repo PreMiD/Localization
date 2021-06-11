@@ -83,6 +83,10 @@
 		"message": "Hadi birlikte cennete gidelim!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Eğer PreMiD'de bir iş arıyorsanız, **iş sayfamıza** göz atın.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Sponsorlar",
 		"description": "Heading for sponsors."

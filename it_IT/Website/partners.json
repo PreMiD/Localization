@@ -83,6 +83,10 @@
 		"message": "Andiamo in paradiso insieme!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Se sei piuttosto interessato ad un lavoro diretto presso PreMiD, dai un'occhiata ai nostri **annuncio di lavoro**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Sponsor",
 		"description": "Heading for sponsors."

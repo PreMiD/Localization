@@ -83,6 +83,10 @@
 		"message": "La oss dra til himmelen sammen!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Hvis du er mer interessert i en direkte jobb hos PreMiD, se på våre **jobbannonser**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Sponsorer",
 		"description": "Heading for sponsors."

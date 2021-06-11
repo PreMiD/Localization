@@ -83,6 +83,10 @@
 		"message": "Ejam kopā uz debesīm!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Ja jūs drīzāk interesē tiešs darbs PreMiD, ieskatieties mūsu **darba sludinājumos**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Sponsori",
 		"description": "Heading for sponsors."

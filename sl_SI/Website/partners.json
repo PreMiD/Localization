@@ -83,6 +83,10 @@
 		"message": "Gremo skupaj v nebesa!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Če ste raje zainteresirani na direktno službo pri PreMiD, potem pridite pogledati na naše **službene oglase**.",
+		"description": "Hint located under the button."
+	},
 	"partners.sponsors.title": {
 		"message": "Sponzorji",
 		"description": "Heading for sponsors."
