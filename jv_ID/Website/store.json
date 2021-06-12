@@ -1,1 +1,26 @@
-{}
+{
+	"store.category.all": {
+		"message": "Kabeh",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Game",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Musik",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sosial",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Vidio & Stream",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Liyane",
+		"description": "Category at the top"
+	}
+}
