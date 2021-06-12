@@ -1,1 +1,6 @@
-{}
+{
+	"downloads.button.done": {
+		"message": "Rampung",
+		"description": "Button on the page when trying to download with adblocker on."
+	}
+}
