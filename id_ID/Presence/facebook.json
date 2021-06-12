@@ -19,6 +19,34 @@
         "message": "Membaca tentang pengguna:",
         "description": ""
     },
+    "facebook.userCommunity": {
+        "message": "Melihat komunitas dari pengguna:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Melihat foto oleh pengguna:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Melihat posting oleh pengguna:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Melihat toko dari pengguna:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Melihat teman pengguna:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Melihat video oleh pengguna:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Menelusuri:",
+        "description": ""
+    },
     "facebook.savedVids": {
         "message": "Video yang disimpan",
         "description": ""
