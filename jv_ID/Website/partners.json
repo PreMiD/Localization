@@ -6,5 +6,9 @@
 	"partners.apply.select.other": {
 		"message": "Liyane",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.success": {
+		"message": "Matur suwun wis ngelamar!",
+		"description": "Success message when applying."
 	}
 }
