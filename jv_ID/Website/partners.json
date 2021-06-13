@@ -3,9 +3,109 @@
 		"message": "Mitra",
 		"description": "Heading for page."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio iku radio infotainment sing paling sukses kanggo game simulasi ing Jerman, Austria lan Swiss!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Miwiti nggawe komunitas sampeyan kanthi template sing apik. Mbangun kerajaan sampeyan dhewe.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga iku Bot Discord sing nawakake kabeh fitur sing mungkin sampeyan butuhake!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Alat lintas platform sing kuat lan gampang digunakake.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Gawe komunikasi status real-time kanthi gampang menyang pangguna.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Dewi sing main dadi Bot Discord sing nyenengake!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM ngijini sampeyan ngrungokake 15+ aliran musik gratis - nonstop. Kanthi musik paling apik lan paling anyar mung kanggo sampeyan!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Lokalisasi lincah kanggo perusahaan teknologi.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Piranti lunak open source Wiki sing paling kuat lan bisa dikembangne.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.fastly": {
+		"message": "Dibalik web sing paling apik.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.atomicradio": {
+		"message": "Rasakake gabungan sing paling anyar lan paling apik ing dunia musik tanpa batas ing saben stasiun, pilih sing paling disenengi lan tekan ing kono nalika legenda grafik saling tarung karo pendatang anyar!",
+		"description": "Description for Atomicradio."
+	},
+	"partners.apply.title": {
+		"message": "Ngelamar dadi mitra",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Mlebu sebagai {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Dudu sampeyan?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Mangga pilih siji",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Situs web",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Liyane",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Jeneng",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Contoh: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Tautan",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Contoh: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Deskripsi: (Maksimal 150 karakter)",
+		"description": "Description field."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Tautan gambar: (550x300, mung PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Contoh: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Tutup",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Terapne",
+		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
 		"message": "Matur suwun wis ngelamar!",
