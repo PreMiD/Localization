@@ -1,1 +1,6 @@
-{}
+{
+	"twitch.partners": {
+		"message": "Mitra",
+		"description": "Page name"
+	}
+}
