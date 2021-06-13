@@ -1,4 +1,16 @@
 {
+	"premid.pageContributors": {
+		"message": "Kontributor",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Unduhan",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Toko",
+		"description": "A page name"
+	},
 	"premid.partners": {
 		"message": "Mitra",
 		"description": "A page name"

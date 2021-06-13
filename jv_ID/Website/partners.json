@@ -1,4 +1,8 @@
 {
+	"partners.header.title": {
+		"message": "Mitra",
+		"description": "Heading for page."
+	},
 	"partners.apply.select.other": {
 		"message": "Liyane",
 		"description": "Select 'Other' category."

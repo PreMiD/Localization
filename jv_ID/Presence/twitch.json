@@ -1,4 +1,8 @@
 {
+	"twitch.downloads": {
+		"message": "Unduhan",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Mitra",
 		"description": "Page name"

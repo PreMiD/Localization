@@ -1,4 +1,8 @@
 {
+	"home.introduction.button.downloads": {
+		"message": "Unduhan",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
 	"home.examples.status.playing": {
 		"message": "Muter",
 		"description": "Discord Rich Presence -> small image text;"
