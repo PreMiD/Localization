@@ -1,4 +1,8 @@
 {
+	"footer.language": {
+		"message": "Basa",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
 	"footer.supportus.donate": {
 		"message": "Donasi",
 		"description": "Donate -> redirects to patreon.com/timeraa"
