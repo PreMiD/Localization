@@ -1,4 +1,8 @@
 {
+	"premid.partners": {
+		"message": "Mitra",
+		"description": "A page name"
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Ngatasi masalah",
 		"description": "A page name"
