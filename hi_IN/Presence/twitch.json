@@ -3,12 +3,52 @@
 		"message": "डाउन्लोड",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "नौकरियां",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "टर्बो",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "साझेदार",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "प्रेस सेंटर",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "सुरक्षा",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "सरल उपयोग",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "विज्ञापन विकल्प",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "समुदाय दिशानिर्देश",
 		"description": "Page name"
 	},
 	"twitch.home": {
 		"message": "होमपेज",
 		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "वॉलेट देखना...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Esports देखना...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Their देखना",
+		"description": "Part 1 of the next 10 strings"
 	}
 }
