@@ -2,5 +2,9 @@
   "header.language": {
     "message": "Basa Jawa",
     "description": "Replace English with the name of YOUR language!"
+  },
+  "header.login": {
+    "message": "Login",
+    "description": "Login Button"
   }
 }
