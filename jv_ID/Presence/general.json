@@ -2,5 +2,21 @@
 	"general.anime": {
 		"message": "Anime",
 		"description": ""
+	},
+	"general.browsing": {
+		"message": "Njelajah...",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Live",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Moco",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Nggoleki",
+		"description": ""
 	}
 }
