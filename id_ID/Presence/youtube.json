@@ -4,11 +4,11 @@
         "description": ""
     },
     "youtube.browsingVideos": {
-        "message": "Menjelajahi video",
+        "message": "Menelusuri video",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.browsingPlaylists": {
-        "message": "Menjelajahi daftar putar",
+        "message": "Menelusuri daftar putar",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
@@ -22,10 +22,6 @@
     "youtube.readingChannel": {
         "message": "Membaca tentang saluran:",
         "description": ""
-    },
-    "youtube.searchChannel": {
-        "message": "Mencari melalui saluran: {0} untuk:",
-        "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
         "message": "Melihat apa yang sedang trending",
