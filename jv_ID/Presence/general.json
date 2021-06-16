@@ -19,12 +19,124 @@
 		"message": "Moco",
 		"description": ""
 	},
+	"general.searchFor": {
+		"message": "Nggoleki:",
+		"description": ""
+	},
 	"general.search": {
 		"message": "Nggoleki",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Nulis",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Ing panggilan...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Keranjang belanja",
+		"description": ""
+	},
 	"general.store": {
 		"message": "Toko",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Ngetik DM kanggo:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Ngetik ing channel:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Ndeleng anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Ndeleng kategori:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Ndeleng saluran:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Ndeleng episode:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Ndeleng genre:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Ndeleng halaman beranda",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Ndeleng daftar:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Ndeleng manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Ndeleng anggota:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Ndeleng film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Ndeleng dhaptar putar:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Ndeleng produk:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Ndeleng profil:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Ndeleng serial:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Ndeleng acara:",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Ndeleng thread:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Ndeleng pengguna:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Ndeleng:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Ndeleng halaman:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Ndeleng film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Ndeleng serial",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Ndeleng pertunjukan",
 		"description": ""
 	}
 }
