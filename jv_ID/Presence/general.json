@@ -7,16 +7,64 @@
 		"message": "Njelajah...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Bab",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Episode",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Genre",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Basa",
 		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Ngrungokake musik",
+		"description": ""
 	},
 	"general.live": {
 		"message": "Live",
 		"description": ""
 	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Barang dagangan",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Halaman",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Dijeda",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Main",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Maca DM saka:",
+		"description": ""
+	},
 	"general.reading": {
-		"message": "Moco",
+		"message": "Maca",
 		"description": ""
 	},
 	"general.searchFor": {
