@@ -39,6 +39,10 @@
         "message": "Melihat rakan pengguna:",
         "description": ""
     },
+    "facebook.userVids": {
+        "message": "Melihat video pengguna:",
+        "description": ""
+    },
     "facebook.browse": {
         "message": "Melayari:",
         "description": ""
