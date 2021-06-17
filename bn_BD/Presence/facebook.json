@@ -39,10 +39,6 @@
         "message": "দেখছে যে ইউজারের ফ্রেন্ডগুলো:",
         "description": ""
     },
-    "facebook.userVids": {
-        "message": "দেখছে যে ইউজারের ভিডিওগুলো:",
-        "description": ""
-    },
     "facebook.browse": {
         "message": "ব্রাউজ করছে:",
         "description": ""
