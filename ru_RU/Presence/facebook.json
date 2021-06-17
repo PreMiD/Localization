@@ -39,10 +39,6 @@
         "message": "Смотрит друзей пользователя:",
         "description": ""
     },
-    "facebook.userVids": {
-        "message": "Смотрит видео пользователя:",
-        "description": ""
-    },
     "facebook.browse": {
         "message": "Смотрит через:",
         "description": ""
