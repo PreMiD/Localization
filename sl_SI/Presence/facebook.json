@@ -39,6 +39,10 @@
         "message": "Ogledovanje prijateljev od uporabnika:",
         "description": ""
     },
+    "facebook.userVids": {
+        "message": "Ogledovanje videja od uporabnika:",
+        "description": ""
+    },
     "facebook.browse": {
         "message": "Brskanje po:",
         "description": ""
