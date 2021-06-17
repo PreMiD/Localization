@@ -39,6 +39,10 @@
         "message": "Betrachtet Freunde von:",
         "description": ""
     },
+    "facebook.userVids": {
+        "message": "Betrachtet Videos von:",
+        "description": ""
+    },
     "facebook.browse": {
         "message": "Durchsucht:",
         "description": ""

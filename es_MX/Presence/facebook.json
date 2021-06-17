@@ -39,6 +39,10 @@
         "message": "Viendo amigos del usuario:",
         "description": ""
     },
+    "facebook.userVids": {
+        "message": "Viendo videos del usuario:",
+        "description": ""
+    },
     "facebook.browse": {
         "message": "Navegando a través de:",
         "description": ""

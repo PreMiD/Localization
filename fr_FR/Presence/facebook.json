@@ -39,6 +39,10 @@
         "message": "Visualisation des amis de l'utilisateur:",
         "description": ""
     },
+    "facebook.userVids": {
+        "message": "Visualisation des vidéos par l'utilisateur:",
+        "description": ""
+    },
     "facebook.browse": {
         "message": "Parcourir :",
         "description": ""

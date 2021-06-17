@@ -39,6 +39,10 @@
         "message": "กำลังดูเพื่อนของ:",
         "description": ""
     },
+    "facebook.userVids": {
+        "message": "กำลังดูวิดีโอของ:",
+        "description": ""
+    },
     "facebook.browse": {
         "message": "กำลังเรียกดู",
         "description": ""
