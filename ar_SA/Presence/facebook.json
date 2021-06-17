@@ -39,6 +39,10 @@
         "message": "يشاهد أصدقاء المستخدم:",
         "description": ""
     },
+    "facebook.userVids": {
+        "message": "يشاهد فيديوهات المستخدم:",
+        "description": ""
+    },
     "facebook.browse": {
         "message": "يتصفح من خلال:",
         "description": ""
