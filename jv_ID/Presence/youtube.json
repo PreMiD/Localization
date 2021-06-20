@@ -1,1 +1,14 @@
-{}
+{
+    "youtube.trending": {
+        "message": "Deleng apa sing lagi tren",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Ngunggah...",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Ndeleng",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    }
+}
