@@ -1,1 +1,10 @@
-{}
+{
+    "amazon.viewTheir": {
+        "message": "Ndeleng",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.store": {
+        "message": "Ndeleng toko:",
+        "description": ""
+    }
+}
