@@ -50,5 +50,9 @@
     "facebook.savedVids": {
         "message": "Video sing disimpen",
         "description": ""
+    },
+    "facebook.weather": {
+        "message": "Ndeleng cuaca dina iki",
+        "description": ""
     }
 }
