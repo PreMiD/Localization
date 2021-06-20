@@ -1,1 +1,34 @@
-{}
+{
+	"google docs.viewingDoc": {
+		"message": "Ndeleng dokumen",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Nggoleki dokumen",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.viewingForm": {
+		"message": "Ndeleng form",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "Nggoleki form",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.viewingSheet": {
+		"message": "Ndeleng spreadsheet",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.browsingSheet": {
+		"message": "Nggoleki spreadsheet",
+		"description": "Displayed when the user is browsing their Google Sheets"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Ndeleng presentasi",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Nggoleki presentasi",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
+}
