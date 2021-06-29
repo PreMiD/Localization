@@ -3,20 +3,12 @@
     "message": "loading",
     "description": ""
   },
-  "animepahe.browsing": {
-    "message": "Browsing",
-    "description": "part"
-  },
   "animepahe.browsingHome": {
     "message": "Latest Releases",
     "description": ""
   },
   "animepahe.browsingAll": {
     "message": "A-Z",
-    "description": ""
-  },
-  "animepahe.browsingGenre": {
-    "message": "Genre",
     "description": ""
   },
   "animepahe.browsingSeason": {
@@ -35,16 +27,8 @@
     "message": "Watch",
     "description": "followed by Movie or episode"
   },
-  "animepahe.watching": {
-    "message": "Watching",
-    "description": "followed by Movie or episode"
-  },
   "animepahe.movie": {
     "message": "Movie",
-    "description": ""
-  },
-  "animepahe.episode": {
-    "message": "episode",
     "description": ""
   },
   "animepahe.timeSeason": {
