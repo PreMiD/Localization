@@ -22,5 +22,9 @@
 	"premid.pagePresenceDev": {
 		"message": "Presence-i arendamine",
 		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Slaidiseansi klass",
+		"description": "A page name"
 	}
 }
