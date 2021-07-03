@@ -15,8 +15,16 @@
         "message": "Melihat Amazon Prime",
         "description": ""
     },
+    "amazon.orderHistory": {
+        "message": "histori pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
     "amazon.orderDetails": {
         "message": "detail pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "keranjang belanja",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.store": {
