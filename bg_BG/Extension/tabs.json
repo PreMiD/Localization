@@ -1,6 +1,6 @@
 {
   "tab.button.changelog": {
-    "message": "Дневник на промените",
+    "message": "Промени",
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
@@ -48,11 +48,11 @@
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "Променена",
+    "message": "Променен",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Фиксирана",
+    "message": "Фиксиран",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
