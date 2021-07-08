@@ -1,8 +1,4 @@
 {
-  "animepahe.loading": {
-    "message": "loading",
-    "description": ""
-  },
   "animepahe.browsingHome": {
     "message": "Latest Releases",
     "description": ""
@@ -17,7 +13,7 @@
   },
   "animepahe.browsingSpecial": {
     "message": "Special",
-    "description": ""
+    "description": "A type of related content; a special release episode not included in the original release often with differing style"
   },
   "animepahe.view": {
     "message": "View on {0}",
