@@ -20,8 +20,8 @@
     "description": ""
   },
   "animepahe.view": {
-    "message": "View on",
-    "description": "followed by Pahe/AniList"
+    "message": "View on {0}",
+    "description": "{0} will be replaced by Pahe/AniList"
   },
   "animepahe.watch": {
     "message": "Watch",
