@@ -3,10 +3,6 @@
     "message": "Latest Releases",
     "description": ""
   },
-  "animepahe.browsingAll": {
-    "message": "A-Z",
-    "description": ""
-  },
   "animepahe.browsingSeason": {
     "message": "Season",
     "description": "TV show/series season eg. Season 5 of The Flash"
