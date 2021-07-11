@@ -7,7 +7,7 @@
     "message": "Season",
     "description": "TV show/series season eg. Season 5 of The Flash"
   },
-  "animepahe.browsingSpecial": {
+  "animepahe.special": {
     "message": "Special",
     "description": "A type of related content; a special release episode not included in the original release often with differing style"
   },
