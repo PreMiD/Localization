@@ -303,6 +303,10 @@
 		"message": "Watch Episode",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Watch Movie",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonWatchVideo": {
 		"message": "Watch Video",
 		"description": "Used as the title for the button in Discord."
