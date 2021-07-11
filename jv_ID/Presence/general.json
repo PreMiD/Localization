@@ -283,10 +283,6 @@
 		"message": "Ndeleng Serial",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Ndeleng Film",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Ndeleng Episode",
 		"description": "Used as the title for the button in Discord."
