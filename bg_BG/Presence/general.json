@@ -39,10 +39,6 @@
 		"message": "Погледни серий",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Погледни филм",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Гледай епизод",
 		"description": "Used as the title for the button in Discord."
