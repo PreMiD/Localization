@@ -295,10 +295,6 @@
 		"message": "Kuva seeria",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Kuva filmi",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Vaadake jagu",
 		"description": "Used as the title for the button in Discord."
