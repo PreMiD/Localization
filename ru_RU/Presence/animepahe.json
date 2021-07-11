@@ -1,1 +1,18 @@
-{}
+{
+  "animepahe.latestRelease": {
+    "message": "Последние релизы",
+    "description": "Recently released content, can be new or old anime, its just new to the site"
+  },
+  "animepahe.season": {
+    "message": "Сезон",
+    "description": "TV show/series season eg. Season 5 of The Flash"
+  },
+  "animepahe.view": {
+    "message": "Смотрит на {0}",
+    "description": "{0} will be replaced by \"Pahe\" or \"AniList\""
+  },
+  "animepahe.timeSeason": {
+    "message": "Сезон",
+    "description": "Time Season eg. The season is now Winter"
+  }
+}
