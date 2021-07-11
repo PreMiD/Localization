@@ -295,10 +295,6 @@
 		"message": "Skatīt Seriālu",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Skatās Filmu",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Skatās Epizodi",
 		"description": "Used as the title for the button in Discord."
