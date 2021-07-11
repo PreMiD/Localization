@@ -13,7 +13,7 @@
   },
   "animepahe.view": {
     "message": "View on {0}",
-    "description": "{0} will be replaced by Pahe or AniList"
+    "description": "{0} will be replaced by \"Pahe\" or \"AniList\""
   },
   "animepahe.timeSeason": {
     "message": "Season",
