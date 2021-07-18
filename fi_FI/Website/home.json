@@ -60,7 +60,7 @@
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": "Sovellus- ja laajennus asetukset",
+		"message": "Sovellus- ja laajennusasetukset",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
@@ -68,7 +68,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Lajittele luokan mukaan",
+		"message": "Luokan mukaan lajittelu",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
@@ -76,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Jokin on glitchaantunut, lähettää sinulle paljon virheitä tai yksinkertaisesti ei toimi? Autamme sinua pääsemään eroon näistä ongelmista Discord-palvelimellamme, teimme myös oman tukijärjestelmämme, joka varmistaa, että ongelmasi saadaan ratkaistua mahdollisimman pian.",
+		"message": "Onko jokin vialla, saatko jatkuvasti virheilmoituksia, eikä mikään yksinkertaisesti toimi? Autamme sinua pääsemään eroon näistä ongelmista Discord-palvelimellamme. Olemme myös luoneet oman tukijärjestelmämme, joka varmistaa, että ongelmasi saadaan ratkaistua mahdollisimman pian.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
