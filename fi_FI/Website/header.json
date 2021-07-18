@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Leivon Pannukakkuja...;Laitetaan Laatikoita...;'Jäljitetään IP Osoitetta...;UwU;Rikotaan Sääntöjä...",
+    "message": "Leivotaan pannukakkuja...;Järjestellään laatikoita...;Jäljitetään IP-osoitetta...;UwU;Rikotaan sääntöjä...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
