@@ -59,6 +59,10 @@
 		"message": "Atsisiuntimų puslapis",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.company": {
+		"message": "„Apie\" puslapis",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.merch.collection": {
 		"message": "Peržiūrima kolekcija:",
 		"description": ""
