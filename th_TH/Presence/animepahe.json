@@ -1,4 +1,8 @@
 {
+  "animepahe.latestRelease": {
+    "message": "เนื้อหาใหม่ล่าสุด",
+    "description": "Recently released content, can be new or old anime, its just new to the site"
+  },
   "animepahe.season": {
     "message": "ซีซัน",
     "description": "TV show/series season eg. Season 5 of The Flash"
@@ -12,7 +16,7 @@
     "description": "{0} will be replaced by \"Pahe\" or \"AniList\""
   },
   "animepahe.timeSeason": {
-    "message": "ซีซัน",
+    "message": "ฤดูกาล",
     "description": "Time Season eg. The season is now Winter"
   }
 }
