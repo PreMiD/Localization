@@ -72,7 +72,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Kopioi käyttäjän ID napsauttamalla.",
+		"message": "Kopioi käyttäjän ID klikkaamalla.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {

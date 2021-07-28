@@ -12,7 +12,7 @@
 		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {
-		"message": "Informaatio",
+		"message": "Tiedot",
 		"description": "The title of the information section."
 	},
 	"presence.sections.information.author": {
@@ -30,6 +30,10 @@
 	"presence.sections.information.users": {
 		"message": "Käyttäjät",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Tunnisteet",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
 	},
 	"presence.sections.information.supportedurls": {
 		"message": "Tuetut URL-osoitteet",

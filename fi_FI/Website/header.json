@@ -4,15 +4,15 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Me Tuemme sinun kieltäsi haluatko vaihtaa",
+    "message": "Tuemme kieltäsi, haluatko vaihtaa?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Miedän nettisivusto on käännetty Sinun kielellesi. Se voui auttaa sinua koska et puhu englantia tarpeeksi hyvin.",
+    "message": "Sivustomme on käännetty kielellesi. Siitä saattaa olla sinulle hyötyä, mikäli et puhu englantia tarpeeksi hyvin.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Ei, Kiitos",
+    "message": "Ei kiitos",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {

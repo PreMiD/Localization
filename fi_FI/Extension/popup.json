@@ -32,7 +32,7 @@
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
-		"message": "Käynnistä automaattisesti",
+		"message": "Automaattinen käynnistys",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Ei presencejä lisätty",
+		"message": "Ei lisättyjä presencejä",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {

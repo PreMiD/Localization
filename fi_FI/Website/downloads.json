@@ -8,7 +8,7 @@
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
-		"message": "Alota Tästä",
+		"message": "Aloita tästä",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
@@ -36,7 +36,7 @@
 		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
-		"message": "Sovelluslataukset",
+		"message": "Sovellus",
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
@@ -136,7 +136,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "Näytä beta-versiot",
+		"message": "Näytä kokeiluversiot",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
@@ -152,7 +152,7 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message3": {
-		"message": "Oikeastikko?",
+		"message": "Oikeastiko?",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
