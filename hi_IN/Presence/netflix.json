@@ -1,1 +1,18 @@
-{}
+{
+	"netflix.viewList": {
+		"message": "Their सूची देख रहे हैं",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Their प्रोफाइल का प्रबंधन",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "यह देखना कि क्या नया है और{0}Netflix पर लोकप्रिय है",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Their{0}रेफ़रल लिंक प्राप्त करना",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}
