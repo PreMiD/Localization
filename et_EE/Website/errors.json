@@ -34,5 +34,13 @@
 	"user.notFound.message2": {
 		"message": "see kasutaja on teinud palju Presence ja tal on Presence-i arendaja roll Discordi serveris.",
 		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "kui teistel on meie Discordi serveris sama probleem.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Kui arvate, et see oli viga, võtke meiega ühendust [Discordi serveris].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
