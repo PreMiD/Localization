@@ -199,6 +199,10 @@
 		"message": "Visualizando página:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Assistindo um filme",
+		"description": ""
+	},
 	"general.watchingSeries": {
 		"message": "Assistindo uma série",
 		"description": ""
@@ -233,6 +237,10 @@
 	},
 	"general.buttonViewEpisode": {
 		"message": "Assistir episódio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Assistir vídeo",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewArtist": {
