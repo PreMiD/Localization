@@ -19,6 +19,10 @@
 		"message": "Gerente de localização",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
+	"contributors.roles.designer": {
+		"message": "Designer",
+		"description": "'Designer' title for contributors and user pages."
+	},
 	"contributors.roles.moderator": {
 		"message": "Moderador",
 		"description": "'Moderator' title for contributors and user pages."
