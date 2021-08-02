@@ -11,6 +11,14 @@
         "message": "Navegando por playlists",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
+    "youtube.viewingCommunityPost": {
+        "message": "Visualizando postagens da comunidade",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.readingChannel": {
+        "message": "Lendo sobre o canal:",
+        "description": ""
+    },
     "youtube.trending": {
         "message": "Vendo as tendências",
         "description": ""
