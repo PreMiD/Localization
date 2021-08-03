@@ -15,6 +15,10 @@
 		"message": "مدیر پروژه",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
+	"contributors.roles.staffCoordinator": {
+		"message": "هماهنگ ساز کارکنان",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
 	"contributors.roles.marketingDirector": {
 		"message": "رئیاست بازاریابی",
 		"description": "'Marketing Director' title for contributors and user pages."
@@ -26,6 +30,10 @@
 	"contributors.roles.reviewer": {
 		"message": "بازبین",
 		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "مدیر بومی‌سازی",
+		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
 		"message": "توسعه‌دهنده",
