@@ -111,6 +111,14 @@
 		"message": "บล็อก Twitch",
 		"description": ""
 	},
+	"twitch.blogArchive": {
+		"message": "กำลังดูคลังบล็อก {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "กำลังเรียกดูโพสต์บล็อกล่าสุด...",
+		"description": ""
+	},
 	"twitch.help": {
 		"message": "ศูนย์ช่วยเหลือ",
 		"description": "Page name"
@@ -119,8 +127,28 @@
 		"message": "กำลังดูหัวข้อ:",
 		"description": ""
 	},
+	"twitch.helpTopicCatalog": {
+		"message": "กำลังเรียกดูรายการหัวข้อ...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "โปรแกรมพาร์ทเนอร์ Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
 	"twitch.dev": {
 		"message": "นักพัฒนา Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "เอกสารประกอบสำหรับนักพัฒนา Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "โปรดักส์ของผู้พัฒนา Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "เรื่องราวความสำเร็จจากชุมชน",
 		"description": "Page name"
 	},
 	"twitch.devSupport": {
