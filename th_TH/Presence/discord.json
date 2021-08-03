@@ -71,21 +71,69 @@
 		"message": "หน้า \"ทำไมต้อง Discord?\"",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.safety": {
+		"message": "ศูนย์ความปลอดภัย",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "หน้ารับสมัครงาน",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.company": {
 		"message": "หน้าเกี่ยวกับ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "หน้าของแบรนด์",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "หน้าแรงบันดาลใจ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "หน้าสำหรับสถาบันฯ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "หน้าข่าวสาร",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "หน้าพาร์ทเนอร์",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "หน้าการยืนยัน",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.streamkit": {
 		"message": "หน้า StreamKit",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.opensource": {
+		"message": "หน้าโอเพนซอร์ส",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.security": {
 		"message": "หน้าความปลอดภัย",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "หน้าของผู้ดูแล",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "หน้า Rich Presence",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.policies": {
 		"message": "นโยบาย",
 		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "พอร์ทัลนักพัฒนา",
+		"description": ""
 	},
 	"discord.devs.appsBrowse": {
 		"message": "กำลังดูแอปของเขา",
@@ -105,6 +153,14 @@
 	},
 	"discord.devs.serversBrowse": {
 		"message": "กำลังดูเซิฟเวอร์ของเขา",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "กำลังดูข้อมูลเชิงลึกของเซิร์ฟเวอร์: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "กำลังอ่านเอกสาร",
 		"description": ""
 	},
 	"discord.status": {

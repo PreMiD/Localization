@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "กำลังหา...",
+		"message": "กำลังเรียกดู...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -108,7 +108,7 @@
 		"description": ""
 	},
 	"general.writing": {
-		"message": "การเขียน",
+		"message": "กำลังเขียน",
 		"description": ""
 	},
 	"general.calling": {
@@ -293,6 +293,10 @@
 	},
 	"general.buttonViewSeries": {
 		"message": "ดูซีรี่ย์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "ดูภาพยนตร์",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
