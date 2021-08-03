@@ -190,5 +190,53 @@
 	"twitch.brand": {
 		"message": "خواندن درباره برند Twitch...",
 		"description": ""
+	},
+	"twitch.blogs": {
+		"message": "بلاگ های Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "نگاه کردن آرشیو {0} بلاگ",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "گشتن در آخرین پست های بلاگ...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "مرکز راهنمایی",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "مشاهده موضوع:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "گشتن در لیست موضوعات...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "برنامه بازاریابی Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "توسعه دهندگان Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "مستندات توسعه دهندگان Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "محصولات توسعه دهندگان Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "داستان هایی موفقیت های انجمن",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "منابع مفید",
+		"description": "Page name"
 	}
 }
