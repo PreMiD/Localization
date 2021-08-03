@@ -112,7 +112,7 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "Concluído",
+		"message": "Feito",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
@@ -134,6 +134,10 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Por favor, desative seu adblock",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Mostrar versões antecipadas",
+		"description": ""
 	},
 	"downloads.showbeta.small": {
 		"message": "(não é necessário se você só está aqui para baixar o aplicativo normal)",
