@@ -55,6 +55,14 @@
 		"message": "กำลังดูทึม:",
 		"description": ""
 	},
+	"twitch.viewDropsInv": {
+		"message": "กำลังดูคลัง Drops ของเขา...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "กำลังดูแคมเปญ Drops ที่กำลังดำเนินอยู่...",
+		"description": ""
+	},
 	"twitch.viewSettings": {
 		"message": "กำลังดูการตั้งค่าของเขา...",
 		"description": ""
@@ -63,24 +71,96 @@
 		"message": "กำลังดูเพื่อนของเขา...",
 		"description": ""
 	},
+	"twitch.subs": {
+		"message": "ดูสถานะการสมัครเป็นสมาชิก...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "กำลังรับชม Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "กำลังควบคุมดูแลสตรีมเมอร์:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "กำลังแลกรหัส...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "ครีเอเตอร์แคมป์",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "เรียนรู้พื้นฐาน",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "ตั้งค่าสตรีม",
+		"description": "Page name"
+	},
 	"twitch.campLevel": {
 		"message": "เลื่อนขั้น",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "เชื่อมต่อและมีส่วนร่วม",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "รับรางวัล",
 		"description": "Page name"
 	},
 	"twitch.campMusic": {
 		"message": "เพลงบน Twitch",
 		"description": "Page name"
 	},
+	"twitch.campLive": {
+		"message": "การเรียนรู้สด",
+		"description": "Page name"
+	},
 	"twitch.dashboard": {
 		"message": "แดชบอร์ดของครีเอเตอร์",
 		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "กำลังจัดการสตรีมอยู่...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "กำลังจัดการบทบาทชุมชนของเขาอยู่...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "กำลังอยู่ใน Video Producer...",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "กําลังเรียกดู",
 		"description": "Part 1 of the next 10 strings"
 	},
+	"twitch.channelAnaly": {
+		"message": "สถิติของช่อง",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "สรุปสตรีม",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
 	"twitch.achievements": {
 		"message": "รางวัลความสำเร็จของเขา",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "กิจกรรมของชุมชน",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "รายชื่อผู้ติดตาม",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "คอลเลกชันวิดีโอ",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.clips": {
@@ -89,6 +169,14 @@
 	},
 	"twitch.channelSettings": {
 		"message": "กำตั้งค่าช่องของเขา",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "การตั้งค่าการดูแล",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "การตั้งค่า Drops",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.tools": {
@@ -106,6 +194,22 @@
 	"twitch.brandReal": {
 		"message": "Keeping Twitch real",
 		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "กำลังนำเข้าสู่ความบ้าคลั่ง (อันเป็นที่รัก)",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "เพิ่มการแสดงออกให้เต็มที่",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "รวมทุกอย่างไว้ด้วยกัน",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "กำลังดูวัฒนาการแบรนด์ของ Twitch",
+		"description": "Watching as in watching a video"
 	},
 	"twitch.blogs": {
 		"message": "บล็อก Twitch",
