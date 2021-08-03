@@ -43,6 +43,10 @@
 		"message": "Instalasi",
 		"description": "A page name"
 	},
+	"premid.pageInstallFor": {
+		"message": "Pemasangan untuk {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
 	"premid.pageTroubleshooting": {
 		"message": "Pemecahan masalah",
 		"description": "A page name"

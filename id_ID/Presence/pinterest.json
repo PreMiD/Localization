@@ -7,6 +7,10 @@
         "message": "Melihat pin",
         "description": ""
     },
+    "pinterest.follow": {
+        "message": "Melihat pengikut mereka",
+        "description": ""
+    },
     "pinterest.home": {
         "message": "Mengedit beranda mereka",
         "description": ""
