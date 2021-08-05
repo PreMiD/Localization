@@ -23,6 +23,10 @@
 		"message": "Melihat disukai oleh:",
 		"description": ""
 	},
+	"twitter.viewList": {
+		"message": "Melihat daftar:",
+		"description": ""
+	},
 	"twitter.bookmarks": {
 		"message": "Bookmark",
 		"description": ""
