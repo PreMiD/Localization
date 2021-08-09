@@ -199,8 +199,48 @@
 		"message": "Nt: https://premid.app",
 		"description": "Link filed's placeholder."
 	},
+	"partners.apply.form.description": {
+		"message": "Kirjeldus: (maksimaalselt 150 tähemärki)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Esiletõstetud kirjeldus",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Pildilink: (550x300, ainult PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Nt: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Sule",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Kandideeri",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Täname kandideerimise eest!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Palun täidke kõik väljad.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maksimaalselt 150 tähemärgiline kirjeldus.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Lisage link (peab algama https:// ja lõppema .png-ga)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Te taotlesite juba partneriks.",
+		"description": "Error when already applied."
 	}
 }
