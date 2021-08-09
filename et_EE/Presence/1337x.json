@@ -62,5 +62,17 @@
     "1337x.rules": {
         "message": "Reeglite lugemine",
         "description": ""
+    },
+    "1337x.writing": {
+        "message": "Kirjutamine 1337x-ile",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "1337x-ist lugemine",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Torrenti vaatamine:",
+        "description": ""
     }
 }
