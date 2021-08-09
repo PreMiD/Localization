@@ -1,1 +1,18 @@
-{}
+{
+	"spotify.featured": {
+		"message": "Esiletõstetud lood",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Parimad podcastid",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Tabelite vaatamine",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Žanrite sirvimine",
+		"description": ""
+	}
+}
