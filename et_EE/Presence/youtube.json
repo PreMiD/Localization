@@ -1,1 +1,10 @@
-{}
+{
+    "youtube.trending": {
+        "message": "Trendide vaatamine",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Millegi üleslaadimine...",
+        "description": ""
+    }
+}

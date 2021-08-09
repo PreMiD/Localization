@@ -14,5 +14,9 @@
 	"twitch.viewFriends": {
 		"message": "Sõprade vaatamine...",
 		"description": ""
+	},
+	"twitch.help": {
+		"message": "Abikeskus",
+		"description": "Page name"
 	}
 }

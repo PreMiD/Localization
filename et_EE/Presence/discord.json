@@ -67,6 +67,10 @@
 		"message": "allalaadimiste lehe",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.why": {
+		"message": "\"Miks discord?\" lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.safety": {
 		"message": "ohutuskeskuse",
 		"description": "Second part of the \"Browsing through\" string"
@@ -115,12 +119,68 @@
 		"message": "turvalisus lehe",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.moderation": {
+		"message": "modereerimise lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "rikkaliku presence-i lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "poliitika lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Arendaja portaal",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Nende rakenduste sirvimine",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Rakenduse muutmine: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Sirvib meeskondi",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Redigeerimismeeskond: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Sirvib servereid",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Serveri statistika vaatamine: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Dokumentatsiooni lugemine",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discordi olek",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Abikeskus",
+		"description": ""
+	},
 	"discord.blog": {
 		"message": "Discordi blog",
 		"description": ""
 	},
 	"discord.merch": {
 		"message": "Discordi kaup",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Kollektsiooni vaatamine:",
 		"description": ""
 	}
 }

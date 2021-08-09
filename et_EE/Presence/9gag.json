@@ -1,1 +1,10 @@
-{}
+{
+    "9gag.trending": {
+        "message": "Trendide vaatamine",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Kollektsiooni vaatamine:",
+        "description": ""
+    }
+}
