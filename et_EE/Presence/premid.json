@@ -26,5 +26,17 @@
 	"premid.pageSlideshowClass": {
 		"message": "Slaidiseansi klass",
 		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Iframe'i mõistmine",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Metadata.jsoni konfigureerimine",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScripti seadistamine",
+		"description": "A page name"
 	}
 }
