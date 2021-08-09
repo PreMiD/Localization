@@ -6,5 +6,9 @@
     "youtube.upload": {
         "message": "Millegi üleslaadimine...",
         "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Vaatamine",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     }
 }
