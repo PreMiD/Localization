@@ -1,7 +1,35 @@
 {
+    "youtube.ad": {
+        "message": "Praegu vaatan reklaami",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Videote sirvimine",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Esitusloendite sirvimine",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Kogukonna postituste vaatamine",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "kanal:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Kanali kohta lugemine:",
+        "description": ""
+    },
     "youtube.trending": {
         "message": "Trendide vaatamine",
         "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Sirvimine",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.upload": {
         "message": "Millegi üleslaadimine...",
