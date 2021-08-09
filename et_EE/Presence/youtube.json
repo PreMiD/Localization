@@ -44,15 +44,63 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.history": {
-        "message": "ajalugu",
+        "message": "ajaloo",
         "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "ostude",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Aruannete ajaloo vaatamine",
+        "description": ""
     },
     "youtube.upload": {
         "message": "Millegi üleslaadimine...",
         "description": ""
     },
+    "youtube.viewAllPlaylist": {
+        "message": "Kõigi esitusloendite vaatamine",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Otseülekannete vaatamine",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Reaalajas armatuurlaua vaatamine",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Heliteegi vaatamine",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Videote vaatamine",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Video redigeerimine:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Video analüütika vaatamine:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Video kommentaaride vaatamine:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Video tõlgete vaatamine:",
+        "description": ""
+    },
     "youtube.studio.viewTheir": {
         "message": "Vaatamine",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanalianalüütika",
+        "description": "Part two of \"Viewing their\""
     }
 }
