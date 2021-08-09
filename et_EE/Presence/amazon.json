@@ -27,6 +27,10 @@
         "message": "Kõigi kategooriate vaatamine",
         "description": ""
     },
+    "amazon.prime": {
+        "message": "Amazon Prime'i vaatamine",
+        "description": ""
+    },
     "amazon.viewTheir": {
         "message": "Vaatamine",
         "description": "Part 1 of the next 5 strings"
