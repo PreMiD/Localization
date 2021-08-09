@@ -102,5 +102,21 @@
     "youtube.studio.channelAnalytics": {
         "message": "kanalianalüütika",
         "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanali kommentaarid",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanalite tõlked",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "artisiti lehte",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Armatuurlaua vaatamine",
+        "description": ""
     }
 }
