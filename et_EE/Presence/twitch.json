@@ -15,6 +15,10 @@
 		"message": "Sõprade vaatamine...",
 		"description": ""
 	},
+	"twitch.viewTheir": {
+		"message": "Vaatamine",
+		"description": "Part 1 of the next 10 strings"
+	},
 	"twitch.help": {
 		"message": "Abikeskus",
 		"description": "Page name"
