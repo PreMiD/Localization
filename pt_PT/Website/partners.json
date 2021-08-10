@@ -159,10 +159,6 @@
 		"message": "Sente os mais recentes e melhores sons do mundo da música sem pausas em todas as nossas estações. Escolhe qual gostas mais e ouve em direto enquanto as novas músicas lutam por um lugar no pódio!",
 		"description": "Description for Atomicradio."
 	},
-	"partners.partner.rNetflix": {
-		"message": "O r/Netflix é o maior servidor de Discord sobre Netflix. Fala sobre as tuas séries ou filmes favoritos com pessoas com gostos parecidos aos teus aqui.",
-		"description": "Description for r/Netflix."
-	},
 	"partners.apply.title": {
 		"message": "Candidatura a parceiro",
 		"description": "Partnership application modal title."
