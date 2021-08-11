@@ -7,6 +7,10 @@
 		"message": "Ζήστε την εμπειρία των τελευταίων και καλύτερων mix από τον κόσμο της μουσικής non-stop επί όλοι οι σταθμοί μας, επιλέξτε ποιο σας αρέσει το πιο και να είστε εκεί ζωντανά όταν θρύλοι διαγραμμάτων μάχη μεταξύ τους με νεοεισερχόμενους για το κορυφή τη θέση!",
 		"description": "Description for Atomicradio."
 	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix είναι ο μεγαλύτερος διακομιστής Discord που σχετίζεται με το Netflix. Συζητήστε για τις αγαπημένες σας σειρές ή ταινίες με ομοϊδεάτες ανθρώπους εδώ.",
+		"description": "Description for r/Netflix."
+	},
 	"partners.apply.select.other": {
 		"message": "Άλλα",
 		"description": "Select 'Other' category."
