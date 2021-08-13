@@ -28,7 +28,7 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Tutkii trendaavia videoita",
+        "message": "Katselee trendaavia videoita",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
