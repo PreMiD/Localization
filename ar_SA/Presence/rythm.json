@@ -1,1 +1,10 @@
-{}
+{
+    "rythm.inviteBot": {
+        "message": "دعوة البوت",
+        "description": "Button for inviting the bot."
+    },
+    "rythm.users": {
+        "message": "مستخدمون: {0}",
+        "description": "{0} will be replaced with the amount of normal users."
+    }
+}
