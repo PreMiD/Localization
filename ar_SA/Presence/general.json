@@ -295,6 +295,10 @@
 		"message": "يشاهد المسلسل",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "يشاهد الفلم",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "يشاهد الحلقة",
 		"description": "Used as the title for the button in Discord."
