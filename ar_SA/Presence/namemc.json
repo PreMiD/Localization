@@ -1,4 +1,8 @@
 {
+	"namemc.viewSkin": {
+		"message": "يشاهد سكن",
+		"description": "Skins is how you appear in the game."
+	},
 	"namemc.capes": {
 		"message": "يشاهد الأوشحة",
 		"description": ""
