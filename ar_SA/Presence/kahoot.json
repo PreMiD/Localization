@@ -1,7 +1,19 @@
 {
+    "kahoot.buttonJoinGame": {
+        "message": "انضم إلى اللعبة: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.gameStarting": {
+        "message": "بدأت اللعبة!",
+        "description": "Used when a Kahoot Game is starting"
+    },
     "kahoot.playing": {
         "message": "يلعب...",
         "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "اجابة صحيحة",
+        "description": "Used when the user anwered correct on a question"
     },
     "kahoot.gameOver": {
         "message": "انتهت اللعبة",
@@ -10,6 +22,10 @@
     "kahoot.points": {
         "message": "نقاط: {0}",
         "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionNumber": {
+        "message": "سؤال: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
     },
     "kahoot.stPlace": {
         "message": "المركز الأول",
