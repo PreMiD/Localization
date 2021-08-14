@@ -31,8 +31,56 @@
         "message": "Katselee trendaavia videoita",
         "description": ""
     },
+    "youtube.browsingThrough": {
+        "message": "Selailee",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "tilauksiaan",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "kirjastoaan",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "katseluhistoriaansa",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "ostoksiaan",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Tarkastelee ilmoitushistoriaansa",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Lataa jotain youtubeen...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Tarkastelee soittolistojaan",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Tarkastelee live-tapahtumiaan",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Tarkastelee live-hallintasivuaan",
+        "description": ""
+    },
     "youtube.viewAudioLibrary": {
         "message": "Tarkastelee äänikirjastoa",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Tarkastelee videoitaan",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Muokkaa videota:",
         "description": ""
     }
 }
