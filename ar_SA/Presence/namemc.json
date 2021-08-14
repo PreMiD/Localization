@@ -1,1 +1,14 @@
-{}
+{
+	"namemc.capes": {
+		"message": "يشاهد الأوشحة",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "يشاهد الوشاح:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "عرض السيرفر",
+		"description": "Used as the title for the button in Discord."
+	}
+}
