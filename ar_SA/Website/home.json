@@ -8,7 +8,7 @@
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
-		"message": "تحميل",
+		"message": "التنزيلات",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
