@@ -76,12 +76,16 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "فيديوات",
+		"message": "مقاطع الفيديو والبثوث",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
 		"message": "آخرى",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "إبحث",
+		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {
 		"message": "ادخال",
