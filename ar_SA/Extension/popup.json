@@ -135,6 +135,10 @@
 		"message": "ألعاب",
 		"description": "Category name shown when you open tags"
 	},
+	"popup.category.socials": {
+		"message": "التـواصل",
+		"description": "Category name shown when you open tags"
+	},
 	"popup.category.videos": {
 		"message": "فيديوات",
 		"description": "Category name shown when you open tags"
