@@ -47,6 +47,14 @@
         "message": "keranjang belanja",
         "description": "Part 2 of the string: \"Viewing their\""
     },
+    "amazon.wishlist": {
+        "message": "daftar keinginan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Melihat rekomendasi",
+        "description": ""
+    },
     "amazon.history": {
         "message": "Melihat riwayat mereka",
         "description": ""
