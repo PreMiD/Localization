@@ -1,0 +1,10 @@
+{
+	"popup.navigation.settings": {
+		"message": "Instellings",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.description": {
+		"message": "Beskrywing",
+		"description": "Title of the description area in the presence settings view."
+	}
+}
