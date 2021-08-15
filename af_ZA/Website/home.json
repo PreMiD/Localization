@@ -1,1 +1,10 @@
-{}
+{
+	"home.examples.status.playing": {
+		"message": "Speel terugvoer",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Regstreeks",
+		"description": "Discord Rich Presence -> small image text;"
+	}
+}
