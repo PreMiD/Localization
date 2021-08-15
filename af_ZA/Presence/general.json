@@ -1,0 +1,30 @@
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Blaai...",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Taal",
+		"description": "For choosing a language"
+	},
+	"general.live": {
+		"message": "Regstreeks",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Lees",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Soek",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Winkel",
+		"description": ""
+	}
+}
