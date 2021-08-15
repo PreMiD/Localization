@@ -1,1 +1,22 @@
-{}
+{
+  "presence.playback.playing": {
+    "message": "Speel terugvoer",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
+  },
+  "presence.playback.paused": {
+    "message": "Terugspeel gepouse",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "Regstreeks",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "Lees",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "Soek",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  }
+}
