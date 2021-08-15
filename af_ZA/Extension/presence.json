@@ -7,6 +7,10 @@
     "message": "Terugspeel gepouse",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
+  "presence.activity.browsing": {
+    "message": "Blaai Deur...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
   "presence.activity.live": {
     "message": "Regstreeks",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
@@ -18,5 +22,9 @@
   "presence.activity.searching": {
     "message": "Soek",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "Episode {0}",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
