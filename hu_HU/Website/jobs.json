@@ -23,9 +23,25 @@
 		"message": "Kérlek tölts ki minden mezőt",
 		"description": "Error when user did not fill all the fields."
 	},
+	"jobs.modal.notice": {
+		"message": "A PreMiD egy nyílt forrású project, ami azt jelenti, hogy mi nem egy non-profit csapat vagyunk, mi minden patreon támogatásból és adományból befolyt összeget a termék fejlesztésére fordítunk. A munkára való jelentkezéssel elismered, hogy önkéntes szerepet vállalsz, azaz semmilyen fizetést nem kapsz a munkádért.",
+		"description": "Notice for applicants."
+	},
 	"jobs.guild.required": {
 		"message": "Csatlakozz Discord szerverünkre",
 		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "A jelentkezéshez szükséges, hogy Discord szerverünk tagja legyél. Másképp nem tudjuk felvenni veled a kapcsolatot felvételkor!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Legyél te is a PreMiD dolgozója",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Készen állsz arra, hogy a legnagyobb Rich-Presence program részese legyél?",
+		"description": "The second part of the jobs page."
 	},
 	"jobs.openings.title": {
 		"message": "Álláslehetőségek",
@@ -39,9 +55,17 @@
 		"message": "Találkozz velünk",
 		"description": "Benefit card title."
 	},
+	"jobs.benefit1.description": {
+		"message": "Vedd fel a kapcsolatot a PreMiD mögött álló csapattagokkal.",
+		"description": "Benefit card description."
+	},
 	"jobs.benefit2.title": {
 		"message": "Betekintés",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Vess egy pillantást a Fejlesztésre és Marketingre.",
+		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
 		"message": "Tisztelet",
@@ -54,6 +78,10 @@
 	"jobs.benefit4.title": {
 		"message": "PreMiD támogatása",
 		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Hozzájárulásoddal támogathatod a projekt előrehaladását.",
+		"description": "Benefit card description."
 	},
 	"jobs.benefit5.title": {
 		"message": "Időbeosztás",
