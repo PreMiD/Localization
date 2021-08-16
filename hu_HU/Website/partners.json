@@ -15,9 +15,17 @@
 		"message": "Légy híres",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "Kiemelve a közösségi médiánkon.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "Követelmények",
 		"description": "Heading for the requirements."
+	},
+	"partners.requirements.second.title": {
+		"message": "A mi tűzfalunk",
+		"description": "Heading for the second requirement."
 	},
 	"partners.apply.button": {
 		"message": "Jelentkezz most!",
@@ -26,6 +34,10 @@
 	"partners.sponsors.title": {
 		"message": "Szponzorok",
 		"description": "Heading for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Így nézel animét.",
+		"description": "Description for AniFlix."
 	},
 	"partners.partner.crowdin": {
 		"message": "Agilis honosítás a tech cégek számára.",
@@ -75,6 +87,10 @@
 		"message": "Leírás: (Maximum 150 karakter)",
 		"description": "Description field."
 	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Leírás kiemelteknek",
+		"description": "Description field's placeholder."
+	},
 	"partners.apply.form.imageLink.placeholder": {
 		"message": "Példa: https://i.imgur.com/clun1ID.png",
 		"description": "Image link field's placeholder. Do not change the image URL."
@@ -94,6 +110,10 @@
 	"partners.apply.error1": {
 		"message": "Kérlek, töltsd ki az összes mezőt.",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maximum 150 karakteres leírás.",
+		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error4": {
 		"message": "Már jelentkeztél a partnerre.",
