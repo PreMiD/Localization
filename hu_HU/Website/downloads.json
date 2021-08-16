@@ -3,6 +3,10 @@
 		"message": "Ideje felvágni.",
 		"description": "Title"
 	},
+	"downloads.header.subtitle": {
+		"message": "Használd a PreMiD-et most és oszd meg másokkal, amit éppen csinálsz, így talán hasonló érdeklődésű személyeket is felfedezhetsz.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Kezdő lépések",
 		"description": "Displayed at Downloads page above steps"
