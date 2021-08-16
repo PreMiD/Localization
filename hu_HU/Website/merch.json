@@ -1,1 +1,6 @@
-{}
+{
+	"merch.item.added": {
+		"message": "{0} hozzáadva a kosárhoz",
+		"description": "{0} replaced with product name"
+	}
+}
