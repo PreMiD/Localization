@@ -71,6 +71,10 @@
 		"message": "Ó, úgy látszik nem rendelkezel alfa/beta hozzáféréssel :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
+	"downloads.error.noaccess.description": {
+		"message": "Csatlakozz **itt** a béta programba teljesen ingyen. Siess! Már csak {0} hely elérhető",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
 	"downloads.latest.header": {
 		"message": "Korai kiadások",
 		"description": "Header above alpha/beta download buttons."
