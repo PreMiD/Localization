@@ -28,7 +28,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
-		"message": "Пряма трансляція",
+		"message": "Наживо",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
