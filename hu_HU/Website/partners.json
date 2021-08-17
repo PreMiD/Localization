@@ -31,6 +31,10 @@
 		"message": "Jelentkezz most!",
 		"description": "Button to apply for partner."
 	},
+	"partners.apply.disclaimer": {
+		"message": "Menjünk együtt a mennybe!",
+		"description": "Disclaimer located above the apply button."
+	},
 	"partners.sponsors.title": {
 		"message": "Szponzorok",
 		"description": "Heading for sponsors."
