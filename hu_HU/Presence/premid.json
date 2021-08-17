@@ -38,5 +38,9 @@
 	"premid.pageApi": {
 		"message": "API",
 		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence fejlesztés",
+		"description": "A page name"
 	}
 }
