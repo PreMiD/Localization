@@ -107,6 +107,10 @@
 		"message": "Пошук",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Пише",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Кошик замовлень",
 		"description": ""
@@ -203,13 +207,41 @@
 		"message": "Переглядає сторінку:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Дивиться фільм",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Дивиться серіал",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Дивиться шоу",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Дивиться відео",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Очікується прем'єра відео",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Очікується прем'єра відео",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Дивиться пряму трансляцію",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Очікуємо початку трансляції",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Очікуємо початку трансляції",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Дивиться: ",
@@ -231,8 +263,56 @@
 		"message": "Політика використання Cookie",
 		"description": "A page name"
 	},
+	"general.repeatAll": {
+		"message": "Зациклення всіх пісень",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "В циклі",
+		"description": ""
+	},
+	"general.buttonViewSeries": {
+		"message": "Дивитися серіал",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Дивитися фільм",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Дивитися серію",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Дивитися відео",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Дивитися трансляцію",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Переглянути сторінку",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Переглянути альбом",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewProfile": {
 		"message": "Переглянути профіль",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Переглянути виконавця",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Переглянути список відтворення",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Прочитати статтю",
 		"description": "Used as the title for the button in Discord."
 	}
 }
