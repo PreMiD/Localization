@@ -15,8 +15,28 @@
 		"message": "Partnerek",
 		"description": "Page name"
 	},
+	"twitch.dashboard": {
+		"message": "Tartalomkészítő Irányítópult",
+		"description": "Page name"
+	},
+	"twitch.achievements": {
+		"message": "Eredmények",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Gyűjtemények",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
 	"twitch.clips": {
 		"message": "Klipek",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Csatorna beállítások",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Moderációs beállítások",
 		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }
