@@ -1,1 +1,14 @@
-{}
+{
+	"twitter.bookmarks": {
+		"message": "Könyvjelzők",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Értesítések",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Felfedezés",
+		"description": ""
+	}
+}
