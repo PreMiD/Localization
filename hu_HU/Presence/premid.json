@@ -1,4 +1,8 @@
 {
+	"premid.pageHome": {
+		"message": "Főoldal",
+		"description": "A page name"
+	},
 	"premid.pageContributors": {
 		"message": "Közreműködők",
 		"description": "A page name"
