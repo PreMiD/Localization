@@ -1,1 +1,14 @@
-{}
+{
+    "kahoot.buttonJoinGame": {
+        "message": "Csatlakozás a játékhoz: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "Helytelen válasz",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "Helyes válasz",
+        "description": "Used when the user anwered correct on a question"
+    }
+}
