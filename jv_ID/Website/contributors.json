@@ -48,7 +48,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "Agen Pitulung",
+		"message": "Support Agen",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
