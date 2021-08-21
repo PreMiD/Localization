@@ -82,5 +82,13 @@
     "youtube.studio.editVideo": {
         "message": "Muokkaa videota:",
         "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Katselee videon analyytikkoja:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Katselee videon kommentteja:",
+        "description": ""
     }
 }
