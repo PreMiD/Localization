@@ -10,5 +10,33 @@
     "kahoot.correctAnswer": {
         "message": "Helyes válasz",
         "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.loadingPage": {
+        "message": "Oldal betöltése...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "Első helyezés: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.questionNumber": {
+        "message": "Kérdés: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.stPlace": {
+        "message": "1. hely",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2. hely",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3. hely",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "Top {0}",
+        "description": "Used in the context of Top 5"
     }
 }
