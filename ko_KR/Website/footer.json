@@ -99,6 +99,10 @@
 		"message": "{0} by {1}",
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
+	"footer.copyright.line2": {
+		"message": "{0} 에 의해 웹사이트가 유지되고 있습니다.",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
 	"footer.partners.more": {
 		"message": "더 많은 파트너와 스폰서들을 볼려면 이곳을 클릭하세요.",
 		"description": "Button next to all listed partners on the footer."
