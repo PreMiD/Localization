@@ -75,6 +75,38 @@
 		"message": "Saiki kita nampa macem-macem jenis usaha ing program kemitraan. Kabeh wong kudu duwe kesempatan kanggo dingerteni. Penyiar Twitch kudu paling ora ana 500 pengikut lan paling ora 10 pamirsa langsung. Sampeyan kudu stream paling ora sepisan saben minggu.",
 		"description": "Description for the second requirement."
 	},
+	"partners.apply.button": {
+		"message": "Ngelamar saiki!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Ayo ning surga bareng!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Yen sampeyan luwih seneng kerja langsung ing PreMiD, priksa **iklan proyek** kita.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsor",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD ora mungkin ana, tanpa uwong-uwong hebat iki.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Ngono carane sampeyan nonton anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings iku Game Arena PvP serba cepet generasi sakwise sing dimaine ing browser.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat minangka radio internasional non-profit sing ngupayakake nyedhiyakake hiburan lan berita radio tanpa henti.",
+		"description": "Description for UpBeatRadio."
+	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio iku radio infotainment sing paling sukses kanggo game simulasi ing Jerman, Austria lan Swiss!",
 		"description": "Description for SimLoveRadio."
@@ -111,13 +143,25 @@
 		"message": "Piranti lunak open source Wiki sing paling kuat lan bisa dikembangne.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Antarmuka sing kompatibel lan ramah kanggo pangembang kanggo kabeh artefak sampeyan.",
+		"description": "Description for PackageCloud."
+	},
 	"partners.partner.fastly": {
 		"message": "Dibalik web sing paling apik.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit iku stasiun radio musik online sing main'e hits terbaik 24/7 lan ngerewabgi sampeyan nemokake musik hits sing bakal teka.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.partner.atomicradio": {
 		"message": "Rasakake gabungan sing paling anyar lan paling apik ing dunia musik tanpa batas ing saben stasiun, pilih sing paling disenengi lan tekan ing kono nalika legenda grafik saling tarung karo pendatang anyar!",
 		"description": "Description for Atomicradio."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix minangka server Discord paling gedhe sing ana gandhengane karo Netflix. Diskusi tentang seri utawa film favorit sampeyan karo akeh wong sing seneng ing kene.",
+		"description": "Description for r/Netflix."
 	},
 	"partners.apply.title": {
 		"message": "Ngelamar dadi mitra",
@@ -162,6 +206,10 @@
 	"partners.apply.form.description": {
 		"message": "Deskripsi: (Maksimal 150 karakter)",
 		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Katrangan kanggo fitur",
+		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "Tautan gambar: (550x300, mung PNG)",
