@@ -7,6 +7,10 @@
 		"message": "Böngészés...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Fejezet",
+		"description": ""
+	},
 	"general.dj": {
 		"message": "DJ",
 		"description": ""
@@ -23,9 +27,17 @@
 		"message": "Fórumok",
 		"description": ""
 	},
+	"general.genre": {
+		"message": "Műfaj",
+		"description": ""
+	},
 	"general.language": {
 		"message": "Nyelv",
 		"description": "For choosing a language"
+	},
+	"general.listeners": {
+		"message": "Hallgatók",
+		"description": ""
 	},
 	"general.live": {
 		"message": "Élő közvetítés",
@@ -55,6 +67,10 @@
 		"message": "Keresés",
 		"description": ""
 	},
+	"general.inCall": {
+		"message": "Hívásban...",
+		"description": ""
+	},
 	"general.store": {
 		"message": "Áruház",
 		"description": ""
@@ -63,12 +79,24 @@
 		"message": "Oldal megtekintése:",
 		"description": ""
 	},
+	"general.wishlist": {
+		"message": "Kívánságlista:",
+		"description": ""
+	},
 	"general.buttonViewSeries": {
 		"message": "Sorozatot néz",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Filmet néz",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Epizódot néz",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Videót néz",
 		"description": "Used as the title for the button in Discord."
 	}
 }
