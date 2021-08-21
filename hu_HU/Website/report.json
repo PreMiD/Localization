@@ -15,6 +15,10 @@
 		"message": "Válaszd ki az operációs rendszeredet és a verziót",
 		"description": "Select Box for the user to select their operating system"
 	},
+	"report.browser": {
+		"message": "Válaszd ki a böngésződ és verziód - Megtudod nézni a verziód about:support oldalon Firefox-on vagy chrome://help Chrome-on belül",
+		"description": "Select Box for the user to select their browser"
+	},
 	"report.button": {
 		"message": "Jelentés",
 		"description": "Button to send the information inputed."
