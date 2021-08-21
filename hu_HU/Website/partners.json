@@ -7,6 +7,10 @@
 		"message": "Ezek már hozzánk tartoznak",
 		"description": "Description for slideshow."
 	},
+	"partners.why.title": {
+		"message": "Mit szólnál ahhoz ha pokol helyett a mennybe mennél?",
+		"description": "Heading for benefits."
+	},
 	"partners.why.benefit3.title": {
 		"message": "Meta-tag integráció",
 		"description": "Heading for the third benefit."
