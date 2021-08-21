@@ -7,9 +7,21 @@
         "message": "Pusat pesan",
         "description": "Meaning Direct messages"
     },
+    "aliexpress.sale": {
+        "message": "Menjelajahi penjualan",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Ndheleng dheweke akhir-akhir iki",
+        "description": "Part 1 of 2"
+    },
     "aliexpress.recentlyViewProducts2": {
         "message": "ndeleng produk",
         "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Ndeleng AliExpress profil",
+        "description": ""
     },
     "aliexpress.feedback": {
         "message": "Umpan Balik AliExpress",
