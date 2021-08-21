@@ -159,6 +159,10 @@
 		"message": "Koe uusin ja paras musiikkimaailman sekoitus ilman pysäytyksiä kaikilta asemiltamme, valitse mistä tykkään eniten ja katso kuinka legendat taistelevat tulokkaita vastaan korkeimmista listasijoituksista!",
 		"description": "Description for Atomicradio."
 	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix on suurin Netflix-aiheinen Discord-palvelin. Keskustele täällä suosikkisarjoistasi ja -elokuvistasi samanmielisten ihmisten kanssa.",
+		"description": "Description for r/Netflix."
+	},
 	"partners.apply.title": {
 		"message": "Hae yhteistyökumppaniksi",
 		"description": "Partnership application modal title."
