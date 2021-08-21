@@ -3,12 +3,152 @@
 		"message": "Unduhan",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Pekerjaan",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Mitra",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Pusat Center",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Keamanan",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Aksesibilitas",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Pilihan Ad",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Panduan Komunitas",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Beranda",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Ndheleng dompet...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Ndheleng Esport...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Ndheleng Wong sing tak tutne...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Ndheleng tim:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Ndheleng Inventaris Drop...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Ndheleng Drops campaigns sing aktif...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Ndheleng pengaturan...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Ndheleng kanca...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Ndheleng langganan...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Ndheleng Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderasi streamer:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Nukar kode...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Kamp Kreator",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Pelajari Dasar-dasar",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Ngatur Stream",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Munggah Level",
 		"description": "Page name"
 	},
 	"twitch.viewTheir": {
 		"message": "Ndeleng",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.blogArchive": {
+		"message": "Ndheleng Arsip Blog {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Njelajah postingan blog anyar...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Pusat Bantuan",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Ndheleng topik:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Nggoleki katalog topik...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Program Afiliasi Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Twitch Developers",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Dokumentasi Pengembang Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produk Pengembang Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Kisah sukses saka komunitas",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Sumber Berguna",
+		"description": "Page name"
 	}
 }
