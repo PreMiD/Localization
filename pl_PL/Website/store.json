@@ -1,14 +1,46 @@
 {
+	"store.message.error": {
+		"message": "Nie połączono z rozszerzeniem.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
 	"store.cards.creator": {
 		"message": "Autor",
 		"description": "Creator of a presence"
+	},
+	"store.header.search": {
+		"message": "Szukaj Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Dodaj Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Usuń Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.category.filters.heading": {
+		"message": "Filtry",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Pokaż NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Tylko ulubione",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Pokaż dodane Presence",
+		"description": "Store filter to display/not display already installed presences."
 	},
 	"store.category.heading": {
 		"message": "Kategorie",
 		"description": "Category heading"
 	},
 	"store.category.all": {
-		"message": "Wszystkie",
+		"message": "Wszystko",
 		"description": "Category at the top"
 	},
 	"store.category.games": {
@@ -34,5 +66,13 @@
 	"store.search": {
 		"message": "Szukaj",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Zatwierdź",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Kliknij, aby usunąć filtr",
+		"description": "Remove message for active search filters."
 	}
 }
