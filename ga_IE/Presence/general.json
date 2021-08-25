@@ -295,6 +295,10 @@
 		"message": "Féach ar an Sraith",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Féach ar an Scannán",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Féach ar Eipeasóid",
 		"description": "Used as the title for the button in Discord."
