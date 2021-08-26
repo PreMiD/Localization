@@ -3,6 +3,10 @@
 		"message": "친구를 보는 중...",
 		"description": ""
 	},
+	"discord.nitro": {
+		"message": "Nitro에 대해 읽는 중...",
+		"description": ""
+	},
 	"discord.settings": {
 		"message": "설정을 보는 중...",
 		"description": ""
@@ -11,8 +15,16 @@
 		"message": "찾아보는 중",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.policies": {
+		"message": "정책",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.support": {
 		"message": "고객센터",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "컬렉션 보는 중:",
 		"description": ""
 	}
 }
