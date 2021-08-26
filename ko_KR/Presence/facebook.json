@@ -7,16 +7,16 @@
         "message": "영상 통화중 : ",
         "description": ""
     },
+    "facebook.userHidden": {
+        "message": "누군가... (사용자 숨김)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "메세지를 작성하는 중",
+        "description": ""
+    },
     "facebook.browse": {
         "message": "탐색하는 중:",
-        "description": ""
-    },
-    "facebook.savedVids": {
-        "message": "저장된 영상",
-        "description": ""
-    },
-    "facebook.added": {
-        "message": "최근 추가된 항목",
         "description": ""
     },
     "facebook.weather": {

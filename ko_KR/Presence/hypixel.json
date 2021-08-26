@@ -1,10 +1,10 @@
 {
     "hypixel.staff": {
-        "message": "관리자 목록을 보는중",
+        "message": "관리자 목록을 보는 중",
         "description": ""
     },
     "hypixel.watchThreads": {
-        "message": "쓰레드 읽는중",
+        "message": "스레드 읽는 중",
         "description": "Articles they get notifications from"
     },
     "hypixel.watchForums": {
@@ -13,6 +13,10 @@
     },
     "hypixel.dm": {
         "message": "DM 보는 중",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "게임 관전 중:",
         "description": ""
     }
 }
