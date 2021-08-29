@@ -35,6 +35,26 @@
         "message": "Vaatamine",
         "description": "Part 1 of the next 5 strings"
     },
+    "amazon.orderHistory": {
+        "message": "tellimuste ajalugu",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "tellimuse andmed",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "ostukorvi",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "soovinimekiri",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "kinkekaardid",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
     "amazon.store": {
         "message": "Poe vaatamine:",
         "description": ""
