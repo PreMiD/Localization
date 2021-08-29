@@ -48,15 +48,27 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
-        "message": "soovinimekiri",
+        "message": "soovinimekirja",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
-        "message": "kinkekaardid",
+        "message": "kinkekaarte",
         "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Soovituste vaatamine",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ajaloo vaatamine",
+        "description": ""
     },
     "amazon.store": {
         "message": "Poe vaatamine:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Prime Video vaatamine:",
         "description": ""
     }
 }
