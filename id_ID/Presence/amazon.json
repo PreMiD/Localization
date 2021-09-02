@@ -51,6 +51,10 @@
         "message": "daftar keinginan",
         "description": "Part 2 of the string: \"Viewing their\""
     },
+    "amazon.giftcards": {
+        "message": "giftcards",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
     "amazon.recommended": {
         "message": "Melihat rekomendasi",
         "description": ""
