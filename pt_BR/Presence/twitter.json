@@ -11,6 +11,10 @@
 		"message": "Visualizando curtidas por:",
 		"description": ""
 	},
+	"twitter.viewList": {
+		"message": "Visualizando lista:",
+		"description": ""
+	},
 	"twitter.bookmarks": {
 		"message": "Favoritos",
 		"description": ""
