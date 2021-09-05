@@ -7,6 +7,14 @@
 		"message": "Doodles",
 		"description": "Title for google doodles"
 	},
+	"google.about": {
+		"message": "About",
+		"description": "Title for google about"
+	},
+	"google.home": {
+		"message": "Home",
+		"description": "Title for google Home"
+	},
 	"google.viewingDoodle": {
 		"message": "Viewing a doodle:",
 		"description": "Viewing for google doodles"
