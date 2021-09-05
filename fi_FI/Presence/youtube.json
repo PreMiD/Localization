@@ -90,5 +90,17 @@
     "youtube.studio.videoComments": {
         "message": "Katselee videon kommentteja:",
         "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Katselee videon käännöksiä:",
+        "description": ""
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanavan analytiikkoja",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "artistin sivu",
+        "description": "Part two of \"Viewing their\""
     }
 }
