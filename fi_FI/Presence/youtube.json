@@ -95,6 +95,10 @@
         "message": "Katselee videon käännöksiä:",
         "description": ""
     },
+    "youtube.studio.viewTheir": {
+        "message": "Katselee heidän\n",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.studio.channelAnalytics": {
         "message": "kanavan analytiikkoja",
         "description": "Part two of \"Viewing their\""
