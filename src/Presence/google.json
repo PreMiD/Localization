@@ -1,0 +1,38 @@
+{
+	"google.books": {
+		"message": "Google Books",
+		"description": "Title for google books"
+	},
+	"google.doodles": {
+		"message": "Doodles",
+		"description": "Title for google doodles"
+	},
+	"google.viewingDoodle": {
+		"message": "Viewing a doodle:",
+		"description": "Viewing for google doodles"
+	},
+	"google.searchingDoodle": {
+		"message": "Searching for a doodle:",
+		"description": "Searching for google doodles"
+	},
+	"google.currentPage": {
+		"message": "Current page:",
+		"description": "Title that shows what page is on"
+	},
+	"google.images": {
+		"message": "Google Images",
+		"description": "Title for google images tab search"
+	},
+	"google.videos": {
+		"message": "Google Video",
+		"description": "Title for google videos tab search"
+	},
+	"google.finance": {
+		"message": "Google Finance",
+		"description": "Title for google finance tab search"
+	},
+	"google.personal": {
+		"message": "Google Personal",
+		"description": "Title for google personal tab search"
+	}
+}
