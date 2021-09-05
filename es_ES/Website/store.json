@@ -72,11 +72,11 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Social",
+		"message": "Sociales",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Vídeos y Directos",
+		"message": "Vídeos y directos",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
@@ -84,7 +84,7 @@
 		"description": "Category at the top"
 	},
 	"store.search": {
-		"message": "Buscar",
+		"message": "Búsqueda",
 		"description": "Placeholder for presence search"
 	},
 	"store.search.filters": {

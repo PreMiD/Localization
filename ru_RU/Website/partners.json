@@ -4,23 +4,23 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Присоединяйтесь к фаму и получите некоторые преимущества только для партнеров, чтобы показать сколько у вас хватает.",
+		"message": "Присоединяйтесь к семье и получите некоторые преимущества, доступные только для партнеров, чтобы показать, на сколько вы круты.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "Они уже принадлежат нам",
+		"message": "Они уже c нами",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
-		"message": "Как насчет того, чтобы пойти на небо вместо ад?",
+		"message": "Как насчет того, чтобы отправиться в рай вместо ада?",
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Ваши бесплатные Присутствия",
+		"message": "Получите бесплатное Presence",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Наша команда предоставит Вам Присутствия Вашего сервиса.",
+		"message": "Наша команда предоставит вам Presence вашего сервиса.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -28,19 +28,19 @@
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Особая роль и большая честь будут предоставлены Вам на нашем сервере Discord.",
+		"message": "Специальная роль и огромное уважение будут даны вам на нашем Discord сервере.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
-		"message": "Интеграция с Meta-тегами",
+		"message": "Интеграция по метатегам",
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Автоматически использует ваше присутствие при посещении вашего сайта.",
+		"message": "Автоматическое использование вашего Presence, когда кто-то посещает ваш сайт.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
-		"message": "Получить увековеченный",
+		"message": "Войдёте в список партнёров",
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
@@ -48,7 +48,7 @@
 		"description": "Description for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
-		"message": "Будьте известными",
+		"message": "Будете известным",
 		"description": "Heading for the fifth benefit."
 	},
 	"partners.why.benefit5.description": {
@@ -60,31 +60,31 @@
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.first.title": {
-		"message": "Что вы ищете?",
+		"message": "Что мы ищем?",
 		"description": "Heading for the first requirement."
 	},
 	"partners.requirements.first.description": {
-		"message": "Мы следим за растущими сообществами и интересными вещами в интернете. TL;DR вы уже должны использовать PreMiD и быть готовы распространить его на еще большее количество интернет-фриков. Прием в программу исключительно качественный и будет варьироваться от одного кандидата к другому.",
+		"message": "Мы следим за растущими сообществами и интересными вещами в интернете. Если кратко, вы уже должны использовать PreMiD и быть готовы распространить его на ещё большее количество фанатов интернета. Прием в программу чрезвычайно качественный и будет изменяться от одного кандидата к другому.",
 		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
-		"message": "Наш брандмауэр",
+		"message": "Наш межсетевой экран",
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "В настоящее время мы принимаем различные виды усилий в нашу партнерскую программу. У каждого должен быть шанс быть замеченным. Вещатели Twitch должны иметь не менее 500 подписчиков и не менее 10 одновременных зрителей. Вы должны вести потоковую передачу не реже 1 раза в неделю.",
+		"message": "В настоящее время мы принимаем в нашу партнерскую программу людей и сервисов из разных сфер деятельности. У каждого должен быть шанс быть замеченным. Стримеры на Twitch должны иметь не менее 500 подписчиков и не менее 10 зрителей на трансляциях. Вы должны транслировать по крайней мере 1 раз в неделю.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "Подайте заявку прямо сейчас!",
+		"message": "Подать заявку прямо сейчас!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
-		"message": "Давай вместе отправимся на небеса!",
+		"message": "Давай вместе отправимся в рай!",
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Если Вас интересует непосредственная работа в PreMiD, то ознакомьтесь с нашими **объявлениями о работе**.",
+		"message": "Если вы заинтересованы в прямой работе в PreMiD, тогда посмотрите на наши **вакансии**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -104,7 +104,7 @@
 		"description": "Description for Arena of Kings."
 	},
 	"partners.partner.upBeat": {
-		"message": "UpBeat-это некоммерческое Международное радио, которое стремится обеспечить непрерывное, качественное радио и новостные развлечения.",
+		"message": "UpBeat — это некоммерческое международное радио, которое стремится предоставлять непрерывное, качественное радио и новостные развлечения.",
 		"description": "Description for UpBeatRadio."
 	},
 	"partners.partner.simLiveRadio": {
@@ -158,6 +158,10 @@
 	"partners.partner.atomicradio": {
 		"message": "Испытайте новейшее и лучшее сочетание музыкального мира на всех наших станциях, Выберите, какой вам нравится больше всего и быть там живым, когда на графике легенды сражаются друг с другом с новичками в топ-месте!",
 		"description": "Description for Atomicradio."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix — это крупнейший Discord сервер, связанный с Netflix. Обсудите свои любимые сериалы или фильмы с единомышленниками здесь.",
+		"description": "Description for r/Netflix."
 	},
 	"partners.apply.title": {
 		"message": "Подать заявку на партнерство",

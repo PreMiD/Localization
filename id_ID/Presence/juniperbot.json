@@ -1,1 +1,10 @@
-{}
+{
+    "juniperbot.commands": {
+        "message": "Melihat daftar perintah",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Melihat statistik bot",
+        "description": "Page with bot's statistics"
+    }
+}

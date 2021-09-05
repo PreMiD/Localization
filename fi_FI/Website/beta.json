@@ -35,6 +35,10 @@
 		"message": "Hienoa! Olet nyt beta-käyttäjä!",
 		"description": "Thank You page title"
 	},
+	"thankyou.description": {
+		"message": "Apinamme työskentelevät saadakseen sinut beta-ohjelmaan mahdollisimman nopeasti. Kiitos rekisteröitymisestä!",
+		"description": "Thank You page description"
+	},
 	"error.noslots": {
 		"message": "Näyttää siltä, että meillä ei ole enää beta-paikkoja saatavilla.",
 		"description": "Shows when the beta slots are full."

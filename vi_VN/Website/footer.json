@@ -48,7 +48,7 @@
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
-		"message": "Dịch",
+		"message": "Dịch thuật",
 		"description": "Translate -> redirects to locilazation page"
 	},
 	"footer.supportus.jobs": {

@@ -8,7 +8,7 @@
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
-		"message": "Comece já",
+		"message": "Vamos começar",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
@@ -112,7 +112,7 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "Concluído",
+		"message": "Feito",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
@@ -120,7 +120,7 @@
 		"description": "Login button on the downloads page."
 	},
 	"downloads.button.skipanyway": {
-		"message": "Pular assim mesmo",
+		"message": "Pular mesmo assim",
 		"description": "Skip Anyway button on the ads page."
 	},
 	"downloads.adsbox.thankyou.title": {
@@ -136,7 +136,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "Exibir downloads beta",
+		"message": "Mostrar versões antecipadas",
 		"description": ""
 	},
 	"downloads.showbeta.small": {

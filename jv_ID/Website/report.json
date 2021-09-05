@@ -1,0 +1,58 @@
+{
+	"report.title": {
+		"message": "Laporne Bug",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Laporan kasediya",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Laporke bug mung kanggo bug sing mencakup situs PreMiD lan PreMiD Discord Server. Bug kanggo presence mung dilaporake karo kreator presence. Laporan bug mung ing basa Inggris.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Menehi panjelasan ringkes lan jelas tentang bug sing kedadeyan.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Pilih Sistem Operasi lan Versine sampeyan",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Pilih Browser lan Versi Sampeyan - Sampeyan bisa mriksa versi kanthi ngunjungi about:support ing Firefox utawa chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Nyedhiyakake tautan kanggo conto langsung utawa langkah sing jelas kanggo merekayasa bug.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Lapor",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Sampeyan duwe akeh laporan aktif. Enteni maneh tinjauan laporan sing sampeyan kirimake. Laporan dipriksa saben minggu, sabar.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Sampeyan duwe akeh laporan aktif.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Bug Dikirimake",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Info lanjutan dibutuhne",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Akun Discord butuh diverifikasi",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Bug Aktif",
+		"description": "Lists users active bugs"
+	}
+}

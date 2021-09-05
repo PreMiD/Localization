@@ -4,11 +4,11 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Wij ondersteunen jouw taal, wil je overschakelen?",
+    "message": "We ondersteunen je taal, wil je overschakelen?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Onze website is vertaald in jouw taal. Dit kan helpen als je niet goed Engels spreekt.",
+    "message": "Onze website is vertaald naar je taal. Dit kan helpen als je niet goed Engels spreekt.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -16,11 +16,11 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Verwissel van taal",
+    "message": "Taal wijzigen",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Pannenkoeken bakken...;Containers plaatsen...;Je IP-adres parseren...;UwU;Regels overtreden...",
+    "message": "Pannenkoeken bakken...;Containers plaatsen...;IP-adressen parseren...;UwU;Regels overtreden...;Met Discord kletsen...;De nieuwe presences bekijken...;Leden bewonderen...;Mappen ordenen...;Afbeeldingen inkleuren...;Partners promoten...;Sponsoren verwennen...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
@@ -36,15 +36,15 @@
     "description": "Contributors tab"
   },
   "header.login": {
-    "message": "Login",
+    "message": "Inloggen",
     "description": "Login Button"
   },
   "header.lia": {
-    "message": "Aangemeld als",
+    "message": "Ingelogd als",
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
-    "message": "Rapporteer een bug",
+    "message": "Fout melden",
     "description": "Report a bug button"
   },
   "header.staff": {
@@ -52,7 +52,7 @@
     "description": "Dashboard button"
   },
   "header.logout": {
-    "message": "Log Uit",
+    "message": "Uitloggen",
     "description": "Logout button"
   }
 }

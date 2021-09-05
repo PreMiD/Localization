@@ -3,10 +3,6 @@
 		"message": "職員",
 		"description": "Heading for group of users."
 	},
-	"contributors.headings.supporters": {
-		"message": "捐贈者",
-		"description": "Heading for group of users."
-	},
 	"contributors.headings.translators": {
 		"message": "翻譯員",
 		"description": "Heading for group of users."

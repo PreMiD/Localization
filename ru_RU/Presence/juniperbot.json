@@ -28,15 +28,15 @@
         "description": "Page with the list of bot's commands"
     },
     "juniperbot.stats": {
-        "message": "Смотрит статистику бота.",
+        "message": "Смотрит статистику бота",
         "description": "Page with bot's statistics"
     },
     "juniperbot.usercard": {
-        "message": "Изменяет карточку рейтинга.",
+        "message": "Настраивает карточку ранга",
         "description": "Rating card customization page"
     },
     "juniperbot.cookies": {
-        "message": "Чтение о cookies сайта",
+        "message": "Читает о куки сайта",
         "description": "Reading about the site's cookies"
     }
 }

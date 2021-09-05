@@ -4,7 +4,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.supporters": {
-		"message": "Contribuidores",
+		"message": "Apoiantes",
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
@@ -16,11 +16,11 @@
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
-		"message": "Coordenador da Staff",
+		"message": "Coordenador da staff",
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Diretor de Marketing",
+		"message": "Diretor de marketing",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
@@ -32,7 +32,7 @@
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.localizationManager": {
-		"message": "Gestor de localização",
+		"message": "Gestor de tradução",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
@@ -44,11 +44,11 @@
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "Moderator",
+		"message": "Moderador",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "Agente de Suporte",
+		"message": "Agente de suporte",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
@@ -64,7 +64,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "Impulsionador",
+		"message": "Booster",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
@@ -76,7 +76,7 @@
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "ID de utilizador copiado!",
+		"message": "ID do utilizador copiado!",
 		"description": "Notification after user ID was copied."
 	}
 }

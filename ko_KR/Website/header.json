@@ -8,11 +8,11 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "저희 웹사이트는 귀하의 언어로 번역되어가고 있습니다. 영어 사용이 어려우신 경우 도움이 될 수 있겠네요.",
+    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "아뇨, 괜찮아요",
+    "message": "아뇨 괜찮아요",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
@@ -32,7 +32,7 @@
     "description": "Downloads tab"
   },
   "header.contributors": {
-    "message": "도와주신 분들",
+    "message": "기여자",
     "description": "Contributors tab"
   },
   "header.login": {

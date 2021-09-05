@@ -1,1 +1,18 @@
-{}
+{
+    "amazon.orderHistory": {
+        "message": "rendelési előzmények",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "megrendelés részletei",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "kívánságlistát",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "ajándékkártyákat",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
+}

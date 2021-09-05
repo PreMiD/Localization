@@ -1,4 +1,8 @@
 {
+	"twitter.readTweet": {
+		"message": "يشاهد التغريدة:",
+		"description": "after the \":\" it will say the username"
+	},
 	"twitter.viewDms": {
 		"message": "يشاهد الرسائل المباشرة الخاصة بهم",
 		"description": ""

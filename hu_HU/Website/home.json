@@ -39,9 +39,21 @@
 		"message": "Találd meg **saját** állapotüzeneted",
 		"description": "Features section subheading"
 	},
+	"home.features.presencesystem.description": {
+		"message": "Egy olyan bővítményt készítettünk, amely lehetővé teszi más felhasználók által készített állapotüzenetek hozzáadását, használatát és bővítményen keresztüli kezelését!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Áruház meglátogatása",
+		"description": "Features section button"
+	},
 	"home.features.simpleInterface.heading": {
 		"message": "Egyszerű felhasználói felület",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Unod már a bonyolult felhasználói felületeket? Mi létrehoztunk egy egyszerű és hasznos felhasználói felületet, mely csak a lefontosabb funkciókat tartalmazza:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Alkalmázás és bővítmény beállítások",
@@ -51,9 +63,17 @@
 		"message": "Állapotüzenet kezelés",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Kategória szerinti rendezés",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Gyors segítség",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Csatlakozz Discord szerverünkre",
+		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
 		"message": "Weboldal nyelve",

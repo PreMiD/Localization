@@ -31,6 +31,10 @@
 		"message": "Käyttäjät",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
+	"presence.sections.information.tags": {
+		"message": "Tunnisteet",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
 	"presence.sections.information.supportedurls": {
 		"message": "Tuetut URL-osoitteet",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"

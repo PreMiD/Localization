@@ -1,1 +1,10 @@
-{}
+{
+	"tiktok.viewing": {
+		"message": "Đang xem TikTok của:",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "Xem TikTok",
+		"description": "Used as the title for the button in Discord."
+	}
+}

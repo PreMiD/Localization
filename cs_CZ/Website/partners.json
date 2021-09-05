@@ -12,20 +12,32 @@
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
-		"message": "A co třeba jít do nebe místo pekla?",
+		"message": "A co třeba jít do nebe místo do pekla?",
 		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Vaše bezplatná Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Náš tým vám poskytne Presenci Vaší služby.",
+		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
 		"message": "Staňte se ověřený",
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Speciální role a vyznamenání ti bude přiděleno na našem Discord serveru.",
+		"message": "Na našem Discord serveru Ti bude přidělena speciální role a vyznamenání.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
 		"message": "Integrace meta-tagu",
 		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Automaticky začne používat Vaši Presenci, jakmile někdo navštíví Vaši stránku.",
+		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
 		"message": "Buď nesmrtelný",
@@ -39,6 +51,10 @@
 		"message": "Buď slavný",
 		"description": "Heading for the fifth benefit."
 	},
+	"partners.why.benefit5.description": {
+		"message": "Budete sdíleni na našich sociálních médiích.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "Požadavky",
 		"description": "Heading for the requirements."
@@ -46,6 +62,10 @@
 	"partners.requirements.first.title": {
 		"message": "Co přesně hledáme?",
 		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Sledujeme rostoucí komunity a vzrušující věci kolem internetu. TL;DR byste již měli používat PreMiD a být připraveni ho šířit ještě více. Přijímání do programu je velmi jakostní a bude se lišit pro jednotlivé kandidáty.",
+		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
 		"message": "Naše firewall",
@@ -63,6 +83,14 @@
 		"message": "Pojďme společně do nebe!",
 		"description": "Disclaimer located above the apply button."
 	},
+	"partners.apply.jobs": {
+		"message": "Jestli máte radši zájem přímo pracovat pro PreMid, tak se podívejte na naše **nabídky práce**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponzoři",
+		"description": "Heading for sponsors."
+	},
 	"partners.sponsors.description": {
 		"message": "PreMiD by nebyl možný, bez těchto úžasných lidí.",
 		"description": "Description for sponsors."
@@ -75,13 +103,37 @@
 		"message": "Arena of Kings je next-gen rychlá Pvp arénní hra hraná v prohlížeči.",
 		"description": "Description for Arena of Kings."
 	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat je neziskové mezinárodní rádio usilující o nonstop kvalitní rádio a zpravodajskou zábavu.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio je nejúspěšnější infotainment rádio pro simulátorové hry v Německu, Rakousku a Švýcarsku!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Začněte vytvářet svou komunitu s našimi úžasnými šablonami. Postavte si své vlastní království.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga je Discord Bot, který se snaží nabídnou všechny funkce, které byste mohli využít, najednou!",
+		"description": "Description for taigabot."
+	},
 	"partners.partner.bitRock": {
 		"message": "Významný a snadno použivatelný nástroj pro vytváření více platforem.",
 		"description": "Description for BitRock."
 	},
 	"partners.partner.statusPage": {
-		"message": "Lehce zdělte status v reálném čase pro tvé uživatele.",
+		"message": "Lehce sdělte status v reálném čase pro tvé uživatele.",
 		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Bohyně, která hraje jako zábavný Discord Bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM Tě nechá poslouchat více než 15 hudebních streamů zdarma - nepřetržitě. S nejlepší a nejnovější hudbou jen pro Tebe!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.crowdin": {
 		"message": "Agile lokalizace pro technologické společnosti.",
@@ -98,6 +150,14 @@
 	"partners.partner.fastly": {
 		"message": "Za tím nejlepším z webu.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit je Tvoje online hudební rozhlasová stanice, která hraje vaše nejlepší hity 24/7 a aby odhalila vaše budoucí hity jako první.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.atomicradio": {
+		"message": "Zažij nejnovější a nejlepší mixy z hudebního světa non-stop na všech našich stanicích, vyber si, který se ti líbí nejvíce a budeš tam žít, když grafy legendy se navzájem bojují s novými příchozími na nejvyšším místě!",
+		"description": "Description for Atomicradio."
 	},
 	"partners.apply.title": {
 		"message": "Požádat o partnera",

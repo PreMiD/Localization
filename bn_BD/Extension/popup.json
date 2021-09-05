@@ -16,7 +16,7 @@
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
-		"message": "ডিসক্রিপশন",
+		"message": "ডেসক্রিপশন",
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
@@ -24,7 +24,7 @@
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
-		"message": "মিডিয়া কন্ট্রোলস",
+		"message": "মিডিয়া কন্ট্রোলগুলো",
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "কোনো Presences অ্যাড করা নেই",
+		"message": "কোনো Presences যোগ করা নেই",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD তার অ্যাপ্লিকেশান এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*",
+		"message": "PreMiD তার অ্যাপ্লিকেশন এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD তোমার Discord অ্যাপ্লিকেশান এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*",
+		"message": "PreMiD তোমার Discord অ্যাপ্লিকেশন এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {

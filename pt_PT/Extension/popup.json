@@ -44,15 +44,15 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Não há nenhuma presence adicionada",
+		"message": "Sem presences adicionadas",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "Concluído",
+		"message": "Feito",
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Carregar Presence",
+		"message": "Carregar presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {

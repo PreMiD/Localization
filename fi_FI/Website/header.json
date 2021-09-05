@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "Leivotaan pannukakkuja...;Järjestellään laatikoita...;'Jäljitetään IP-osoitetta...;UwU;Rikotaan sääntöjä...",
+    "message": "Leivotaan pannukakkuja...;Järjestellään laatikoita...;Jäljitetään IP-osoitetta...;UwU;Rikotaan sääntöjä...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
@@ -46,6 +46,10 @@
   "header.rab": {
     "message": "Ilmoita virheestä",
     "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Hallintasivu",
+    "description": "Dashboard button"
   },
   "header.logout": {
     "message": "Kirjaudu ulos",

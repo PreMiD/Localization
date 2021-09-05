@@ -2,5 +2,9 @@
   "extension.description.short": {
     "message": "Do láithreacht shaibhir do sheirbhísí gréasáin!",
     "description": "Short description in extension store"
+  },
+  "extension.description.full": {
+    "message": "Ní mór duit d'iarratas ar PerMiD a shuiteáil le hoibriú!\n{0}{1}\nIs féidir leat do chuid eochracha meán a úsáid ar do mhéarchlár chun athsheinm na seirbhísí seo a rialú. Nuair a fhéachann tú nó má éisteann tú le rud éigin le ceann dár seirbhísí tacaithe, cuireann síneadh an bhrabhsálaí sonraí na bhfíseán nó an amhráin chuig ár gcliant deisce agus próiseálann PreMiD é. Seolann PreMiD an t-eolas le neamhréir leis an bhfoirm cheart agus ansin leagann sé a stádas amach go huathoibríoch.\n\nSeirbhísí a dtugtar tacaíocht dóibh:\n{2} Féach ar {3}\n\nAn bhfuil aon chabhair uait?\n{4} {5}\n\nSeo nasc chuig ár bhfreastalaí discord:\n{6} Labhair le daoine a oibríonn taobh thiar de na radhairc ag PreMiD {7}\n\nTá muid go hiomlán oscailte foinse!\n{9} Ba chóir go mbeadh rudaí iontacha oscailte don phobal i gcónaí! {10}",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   }
 }

@@ -84,7 +84,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "Wenn Du eher an einem direkten Job bei PreMiD interessiert bist, schau dir unsere **Stellenanzeige** an.",
+		"message": "Wenn Du eher an einem direkten Job bei PreMiD interessiert bist, schau dir unsere **Stellenanzeigen** an.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -158,6 +158,10 @@
 	"partners.partner.atomicradio": {
 		"message": "Erlebe den neuesten und besten Mix aus der Musikwelt nonstop auf all unseren Sendern, wähle aus was dir am besten gefällt und sei live dabei, wenn sich Chart-Legenden mit Newcomern um den ersten Platz batteln!",
 		"description": "Description for Atomicradio."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix ist weltweit der größte Netflix-bezogene Discord-Server. Diskutiere hier mit gleichgesinnten über deine Lieblingsserien oder -Filme.",
+		"description": "Description for r/Netflix."
 	},
 	"partners.apply.title": {
 		"message": "Partnerschaft anfragen",

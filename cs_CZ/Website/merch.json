@@ -1,7 +1,15 @@
 {
+	"merch.title": {
+		"message": "Vítejte v oficiálním **PreMiD** obchodu s Merchem!",
+		"description": "Merch store title"
+	},
 	"merch.swag": {
 		"message": "Najdi svůj **Swag**",
 		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Vyber svojí velikost**",
+		"description": "Product sizes"
 	},
 	"merch.cart": {
 		"message": "Přidat do košíku",

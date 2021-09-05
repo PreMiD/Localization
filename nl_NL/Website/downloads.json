@@ -24,7 +24,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Herlaad deze site en controleer of de extensie is aangesloten",
+		"message": "Herlaad deze site en controleer of de extensie is verbonden",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
@@ -76,11 +76,11 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Oh oh, het lijkt erop dat je geen alpha/beta-toegang hebt :(",
+		"message": "Oh jee, het lijkt erop dat je geen toegang hebt tot de alpha of bèta :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Je kunt **hier** gratis deelnemen aan ons bèta-programma. Schiet op! We hebben nog maar {0} slots beschikbaar",
+		"message": "Je kunt **hier** gratis deelnemen aan ons bètaprogramma. Wees snel! Er zijn nog maar {0} plaatsen beschikbaar",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
@@ -144,23 +144,23 @@
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
-		"message": "Ik wil geen steun geven.",
+		"message": "Ik wil niet helpen.",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message2": {
-		"message": "Weet u het zeker?",
+		"message": "Weet je het zeker?",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message3": {
-		"message": "Echt?",
+		"message": "Echt waar?",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "P-Please steun ons :(",
+		"message": "S-steun ons alsjeblieft :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
-		"message": "Ik heb je nodig :<",
+		"message": "We hebben je nodig :<",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {

@@ -4,7 +4,7 @@
 		"description": "Source Code button on presence pages."
 	},
 	"presence.sections.description.title": {
-		"message": "ডিসক্রিপশন",
+		"message": "ডেসক্রিপশন",
 		"description": "The title of the description section."
 	},
 	"presence.sections.changelog.title": {
@@ -40,7 +40,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
 	"presence.sections.information.contributors": {
-		"message": "কন্ট্রিবিউটর",
+		"message": "অবদানকারী",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }

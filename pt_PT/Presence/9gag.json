@@ -1,6 +1,6 @@
 {
     "9gag.gag": {
-        "message": "A ver gag:",
+        "message": "A ver gag",
         "description": ""
     },
     "9gag.hot": {
@@ -16,7 +16,7 @@
         "description": ""
     },
     "9gag.tag": {
-        "message": "A ver tag:",
+        "message": "A ver tag",
         "description": ""
     },
     "9gag.about": {
@@ -28,7 +28,7 @@
         "description": ""
     },
     "9gag.collection": {
-        "message": "A ver coleções:",
+        "message": "A ver coleções",
         "description": ""
     }
 }

@@ -3,12 +3,24 @@
 		"message": "Aika näyttää.",
 		"description": "Title"
 	},
+	"downloads.header.subtitle": {
+		"message": "Käytä PreMiDiä nyt ja näytä muille ihmisille mitä teet - ehkä löydät jonkun, jolla on samat kiinnostuksenkohteet kuin sinulla.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Aloita tästä",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
 		"message": "Lataa PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Asenna sovelluksemme",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Lisää laajennuksemme selaimeesi",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
@@ -39,6 +51,10 @@
 		"message": "{0} Sovelluksella ei ole asentajaa tälle käyttöjärjestemälle\nSe tarkoittaa sitä että sille ei ole tukea tällä hetkellä.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.mobile.errorMessage": {
+		"message": "Huomaathan, ettei PreMiD ole käytössä matkapuhelimilla.",
+		"description": "Downloads page warning when user is on mobile."
+	},
 	"downloads.mobile.showDownloads": {
 		"message": "Näytä lataukset",
 		"description": "Little button on the downloads page for mobile users."
@@ -46,6 +62,14 @@
 	"downloads.mobile.hideDownloads": {
 		"message": "Piilota lataukset",
 		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "Nykyinen versio tälle alustalle on {0} (tämä versio on vain Linuxille eikä koske muita alustoja).",
+		"description": "Tippy message of the Linux card."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "Tämä versio on vain Linuxille eikä koske muita alustoja. Sovelluksen pääversio on {0}",
+		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
 		"message": "Kirjaudu sisään nähdäksesi nämä lataukset.",
@@ -58,6 +82,10 @@
 	"downloads.error.noaccess.description": {
 		"message": "Voit liittyä beta-ohjelmaamme ilmaiseksi **täältä**. Kiirehdi! Meillä on vain {0} paikkaa saatavilla",
 		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.latest.header": {
+		"message": "Kokeiluversiot",
+		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
 		"message": "Varoitus",
@@ -91,6 +119,10 @@
 		"message": "Kirjaudu sisään",
 		"description": "Login button on the downloads page."
 	},
+	"downloads.button.skipanyway": {
+		"message": "Ohita silti",
+		"description": "Skip Anyway button on the ads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Kiitos!",
 		"description": "Title of the advertisement section box."
@@ -102,6 +134,14 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Ole hyvä, ja poista mainoksenesto-ohjelmasi käytöstä",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Näytä kokeiluversiot",
+		"description": ""
+	},
+	"downloads.showbeta.small": {
+		"message": "(ei tarvetta, jos olet täällä vain ladataksesi tavallisen sovelluksen)",
+		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
 		"message": "En halua tukea.",

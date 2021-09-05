@@ -12,7 +12,7 @@
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "Завантажити PreMiD",
+		"message": "Завантажте PreMiD",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
@@ -64,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "Поточна версія цієї платформи є {0} (ця версия є специфічна для Linux, і не застосовується до інших платформ).",
+		"message": "Поточна версія для цієї платформи — {0} (ця версія специфічна для Linux і не застосовується до інших платформ).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -84,7 +84,7 @@
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Отримувати Ранні Релізи",
+		"message": "Ранні релізи",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
@@ -112,7 +112,7 @@
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
 	"downloads.button.done": {
-		"message": "Зроблено",
+		"message": "Готово",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.button.login": {
@@ -140,7 +140,7 @@
 		"description": ""
 	},
 	"downloads.showbeta.small": {
-		"message": "(не потрібен якщо ви є тільки тут щоб завантажити звичайний додаток)",
+		"message": "(не потрібно, якщо ви тут лише для завантаження звичайного додатку)",
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
@@ -156,15 +156,15 @@
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message4": {
-		"message": "Б-будь-ласка підтримуйте :(",
+		"message": "Б-будь-ласка підтримайте :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message5": {
-		"message": "Мені потрібні ви :<",
+		"message": "Ви мені потрібні :<",
 		"description": "Skip anyway messages (changes everytime you click it)."
 	},
 	"downloads.skipanyway.message6": {
-		"message": "Гаразд, гаразд...",
+		"message": "Добре, добре...",
 		"description": "Last message of the skip anyway messages (changes everytime you click it)."
 	}
 }

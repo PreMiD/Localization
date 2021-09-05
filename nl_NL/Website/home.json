@@ -36,15 +36,15 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
-		"message": "Je houdt van deze functies!",
+		"message": "Je zult deze functies geweldig vinden!",
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Vind **je** presence",
+		"message": "Vind **jouw** presence",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Door de manier waarop we onze extensie gemaakt hebben, kun je presences van anderen toevoegen, gebruiken en beheren in onze extensie!",
+		"message": "Met onze eenvoudige extensie kunnen gebruikers gemakkelijk presences van anderen toevoegen, gebruiken en beheren!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -64,11 +64,11 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
-		"message": "Presence beheer",
+		"message": "Presencebeheer",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Sorteer op categorie",
+		"message": "Sorteren op categorie",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {

@@ -64,7 +64,7 @@
         "description": "Used to display how many questions a user got correct"
     },
     "kahoot.slideShowing": {
-        "message": "Zeige Slide mit Inhalt:",
+        "message": "Zeigt Folie mit Inhalt:",
         "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {

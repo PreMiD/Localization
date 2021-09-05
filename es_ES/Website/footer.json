@@ -64,7 +64,7 @@
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
-		"message": "Obténer ayuda",
+		"message": "Obtén ayuda",
 		"description": "Get Support -> redirects to Discord invite"
 	},
 	"footer.help.information": {

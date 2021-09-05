@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "Basa Jawa",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Kita ndhukung basa sampeyan, ngganti basa?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Situs web kita wis diterjemahake menyang basa sampeyan. Iki bisa mbantu sampeyan yen sampeyan ora bisa basa Inggris.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Ora, matur suwun",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Ganti basa",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Masak pancake...; nyelehake kontainer...;Ngolah alamat IP sampeyan...; UwU;Nglanggar aturan...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Toko",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Unduhan",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Kontributor",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Login",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Mlebu sebagai",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Loporne bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Metu",
+    "description": "Logout button"
+  }
+}

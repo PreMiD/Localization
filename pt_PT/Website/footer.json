@@ -1,6 +1,6 @@
 {
 	"footer.language": {
-		"message": "Idioma",
+		"message": "Linguagem",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
@@ -44,7 +44,7 @@
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "Contribuir",
+		"message": "Contribua",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
@@ -88,7 +88,7 @@
 		"description": "More section"
 	},
 	"footer.more.status": {
-		"message": "Estado do serviço",
+		"message": "Estado",
 		"description": "Status -> redirects to status.premid.app"
 	},
 	"footer.more.wiki": {

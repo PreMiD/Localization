@@ -1,4 +1,8 @@
 {
+	"twitter.readTweet": {
+		"message": "Чете туит:",
+		"description": "after the \":\" it will say the username"
+	},
 	"twitter.viewDms": {
 		"message": "Гледа своите лични съобщения",
 		"description": ""

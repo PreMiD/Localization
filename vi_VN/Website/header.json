@@ -4,11 +4,11 @@
     "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "message": "Chúng tôi hỗ trợ ngôn ngữ của bạn, có muốn đổi không?",
+    "message": "Chúng tôi có hỗ trợ ngôn ngữ của bạn, có muốn đổi không?",
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Website của chúng tôi đã được dịch sang ngôn ngữ của bạn. Điều này sẽ giúp ích nếu bạn không giỏi Tiếng Anh.",
+    "message": "Website của chúng tôi đã được dịch sang ngôn ngữ của bạn. Điều này có lẽ sẽ giúp đỡ rất nhiều với những người không giỏi tiếng Anh.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Đổi ngôn ngữ",
+    "message": "Chuyển đổi ngôn ngữ",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {

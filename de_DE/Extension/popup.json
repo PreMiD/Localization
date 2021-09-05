@@ -12,7 +12,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.headings.general": {
-		"message": "Allgemein",
+		"message": "Generell",
 		"description": "Title of the 'general' area of the 'settings' section in the popup"
 	},
 	"popup.headings.description": {
@@ -28,7 +28,7 @@
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "Titel-Menüleiste",
+		"message": "Titel Menubar",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
@@ -52,7 +52,7 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Presence laden",
+		"message": "Presence wird geladen",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
@@ -80,7 +80,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Veraltete App",
+		"message": "Veraltete Applikation",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {

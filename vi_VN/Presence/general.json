@@ -235,10 +235,6 @@
 		"message": "Đang xem sê-ri",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Xem phim",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Xem tập",
 		"description": "Used as the title for the button in Discord."

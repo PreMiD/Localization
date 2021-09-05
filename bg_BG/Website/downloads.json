@@ -16,7 +16,7 @@
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} Няма инсталатор за тази операционна система. Това означава, че няма професионална подкрепа за това.",
+		"message": "{0} Няма инсталационен пакет за тази операционна система. Това означава, че няма поддръжка за нея.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.button.done": {

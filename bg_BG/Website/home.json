@@ -42,5 +42,9 @@
 	"home.features.quickSupport.heading": {
 		"message": "Бърза поддръжка",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Нещо е бъгнало, изпраща ти тонове грешки или просто не работи? Ще ти помогнем да се отървеш от тези грешки в нашата Discord група, ние също създадохме наша собствена система за поддръжка, която ще се увери, че вашият проблем ще бъде решен колкото се може, по-скоро.",
+		"description": "Features section description"
 	}
 }

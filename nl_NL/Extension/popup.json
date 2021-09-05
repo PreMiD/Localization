@@ -28,7 +28,7 @@
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "Titel menubalk",
+		"message": "Titelmenubalk",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Je PreMiD app is verouderd. Update deze om PreMiD weer te kunnen gebruiken.",
+		"message": "Je PreMiD-app is verouderd. Update deze om PreMiD weer te kunnen gebruiken.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {

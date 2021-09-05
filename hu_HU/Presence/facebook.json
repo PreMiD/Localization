@@ -1,1 +1,18 @@
-{}
+{
+    "facebook.call": {
+        "message": "Hivásban vele:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Videóhívásban vele:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "valaki... (Felhasználó elrejtve)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.userAbout": {
+        "message": "Felhasználóról olvas:",
+        "description": ""
+    }
+}

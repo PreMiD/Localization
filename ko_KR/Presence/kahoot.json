@@ -1,1 +1,70 @@
-{}
+{
+    "kahoot.joiningGame": {
+        "message": "참가 중...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.waiting": {
+        "message": "시작 대기 중...",
+        "description": "Used when the user is waiting for a Kahoot Game to start"
+    },
+    "kahoot.gameStarting": {
+        "message": "게임 시작!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "플레이 중...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.questionLoading": {
+        "message": "다음 문제 로딩중...",
+        "description": "Used when the next question is loading"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "오답",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "정답",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.resultsQuestion": {
+        "message": "결과 확인 중",
+        "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.slideViewing": {
+        "message": "콘텐츠 슬라이드 확인 중",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
+    "kahoot.gameCreate": {
+        "message": "게임 생성 중...",
+        "description": "Used when a Kahoot Host is creating a Game"
+    },
+    "kahoot.loadingPage": {
+        "message": "로딩 중...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "1등: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.points": {
+        "message": "점수: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "정답 갯수: {0}",
+        "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.stPlace": {
+        "message": "1등",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2등",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3등",
+        "description": "Used in the context of 3rd place"
+    }
+}

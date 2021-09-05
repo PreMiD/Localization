@@ -36,15 +36,15 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
-		"message": "Вы полюбите эти функции!",
+		"message": "Вам понравятся эти функции!",
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Найдите **свой** статус",
+		"message": "Найдите Presence для **себя**",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Мы разработали расширение таким образом, чтобы вы могли добавлять, использовать и управлять Presences в том числе от других пользователей!",
+		"message": "Мы разработали расширение таким образом, чтобы вы могли добавлять, использовать и управлять Presences, созданные другими пользователями!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,15 +52,15 @@
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
-		"message": "Простой интерфейс для пользователей",
+		"message": "Простой пользовательский интерфейс",
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Устали от сложных пользовательских интерфейсов? Мы разработали и стараемся сохранить наш интерфейс как можно более простым и полезным включив такие важные функции как:",
+		"message": "Устали от сложных пользовательских интерфейсов? Мы разработали и стараемся сохранить наш пользовательский интерфейс максимально простым и полезным в использовании с такими важными функциями, как:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": "Настройки приложения и расширения",
+		"message": "Настройка приложения и расширения",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
@@ -68,7 +68,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Сортировка по категории",
+		"message": "Сортировка по категориям",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
@@ -76,11 +76,11 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Что-то зависает, отправляя тонну ошибок или просто не работает? Мы поможем избавиться от этих проблем на нашем Discord сервере. Кроме того, создана система поддержки, которая позволит решить вашу проблему как можно скорее.",
+		"message": "Что-то сбоит, отправляя тонны ошибок или просто не работает? Мы поможем вам избавиться от этих проблем на нашем Discord сервере. Кроме того, мы создали нашу собственную систему поддержки, которая позаботится о том, чтобы ваша проблема была решена как можно скорее.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
-		"message": "Присоединяйтесь к нашему Discord серверу",
+		"message": "Присоединиться к нашему Discord серверу",
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {

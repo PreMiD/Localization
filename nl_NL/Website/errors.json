@@ -12,7 +12,7 @@
 		"description": "Error (4) message"
 	},
 	"error.code.500": {
-		"message": "Interne serverfout is opgetreden.",
+		"message": "Er is een interne serverfout opgetreden.",
 		"description": "Error (500) message"
 	},
 	"error.page.details": {

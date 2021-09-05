@@ -1,1 +1,6 @@
-{}
+{
+  "extension.description.short": {
+    "message": "A Te Rich Presenced webes szolgáltatások számára!",
+    "description": "Short description in extension store"
+  }
+}

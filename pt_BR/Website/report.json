@@ -6,53 +6,5 @@
 	"report.bugcount": {
 		"message": "{count}/3 Reportes restantes",
 		"description": "Amount of bug reports user can send"
-	},
-	"report.info": {
-		"message": "Reportes de bugs são para bugs dentro do site PreMiD e do Servidor Discord PreMiD. Bugs de presences devem ser reportadas ao criador da presence. Somente reporte bugs em Inglês.",
-		"description": "Tells the user about submitting a bug"
-	},
-	"report.overview": {
-		"message": "Breve Visão Geral - Forneça uma descrição clara e concisa do que é o bug.",
-		"description": "Text for the user to write a brief of the bug information."
-	},
-	"report.os": {
-		"message": "Selecione seu Sistema Operacional e Versão",
-		"description": "Select Box for the user to select their operating system"
-	},
-	"report.browser": {
-		"message": "Selecione seu Navegador e Versão - Você pode obter a versão visitando about:support no Firefox ou chrome://help",
-		"description": "Select Box for the user to select their browser"
-	},
-	"report.description": {
-		"message": "Forneça um link para um exemplo vivo ou um conjunto de passos exatos para reproduzir este bug.",
-		"description": "Text for the user to write information about the bug."
-	},
-	"report.button": {
-		"message": "Reportar",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "Você tem muitos reportes ativos. Aguarde que seus reportes enviados sejam revisados. Reportes são verificados semanalmente, seja paciente.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "Você tem muitos reportes ativos.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "Bug Enviado",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "Mais informações requeridas",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "Conta Discord precisa ser verificada",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "Bugs Ativos",
-		"description": "Lists users active bugs"
 	}
 }

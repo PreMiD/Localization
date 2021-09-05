@@ -20,7 +20,7 @@
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
-		"message": "Activado",
+		"message": "Habilitado",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
@@ -76,11 +76,11 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "¡PreMiD no ha podido conectarse a la aplicación! ¿Está instalada y en funcionamiento? *Solución De Problemas*",
+		"message": "¡PreMiD fue incapaz de conectarse a su aplicación! ¿Está esta instalada y corriendo? *Solución De Problemas*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Aplicación desactualizada",
+		"message": "Aplicación obsoleta",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
@@ -136,11 +136,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Social",
+		"message": "Sociales",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Vídeos y Transmisiones",
+		"message": "Vídeos y Directos",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

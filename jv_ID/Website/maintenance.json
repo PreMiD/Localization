@@ -1,0 +1,26 @@
+{
+	"maintenance.big": {
+		"message": "Oh tidak!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Sayange, kita ngalami masalah teknis. Kita bakal bali. Maaf amarga ora nyaman.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Mangga bali kanggo informasi luwih lengkap.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Nalika pangembang ndandani iki, sampeyan bisa ndeleng iki!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Halaman Status",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Server Discord",
+		"description": "Discord Server link on maintenance page"
+	}
+}

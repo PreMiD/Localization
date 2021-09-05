@@ -8,7 +8,7 @@
     "description": "Heading of the language notification when user has different language."
   },
   "header.languageNotification.text": {
-    "message": "Naše webová stránka byla přeložena do tvého jazyka. Může se ti to hodit v případě že nemluvíš dobře Anglicky.",
+    "message": "Naše webová stránka byla přeložena do tvého jazyka. Může ti to být v pomoci v případě že nemluvíš dobře Anglicky.",
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Změnit jazyk",
+    "message": "Změnit teď  ",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
@@ -34,5 +34,25 @@
   "header.contributors": {
     "message": "Přispěvatelé",
     "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Přihlásit se",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Přihlášen jako",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Nahlásit chybu",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Řídicí panel",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Odhlásit se",
+    "description": "Logout button"
   }
 }

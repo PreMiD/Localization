@@ -31,6 +31,10 @@
 		"message": "Recenzenci",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "Menedżer tłumaczeń",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Developer",
 		"description": "'Developer' title for contributors and user pages."
@@ -68,7 +72,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Kliknij, aby skopiować ID użytkownika.",
+		"message": "Kliknij by skopiować ID użytkownika.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {

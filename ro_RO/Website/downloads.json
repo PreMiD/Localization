@@ -19,6 +19,10 @@
 		"message": "Reîncărcați pagina și verificați dacă extensia este conectată",
 		"description": "I think you get what this is..."
 	},
+	"downloads.instructions.footer": {
+		"message": "Încă mai întâmpini probleme? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
 	"downloads.instructions.footer.link": {
 		"message": "Suntem aici să te ajutăm!",
 		"description": "Link to our discord"
@@ -79,9 +83,17 @@
 		"message": "Anulează",
 		"description": "Button on the modal of Opera/Edge browsers."
 	},
+	"downloads.button.okay": {
+		"message": "Ok",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Terminat",
 		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.button.login": {
+		"message": "Autentificare",
+		"description": "Login button on the downloads page."
 	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Mulțumim!",
@@ -90,6 +102,10 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "Vă rugăm să vă dezactivaţi adblock-ul",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "Afișează descărcările beta",
+		"description": ""
 	},
 	"downloads.skipanyway.message2": {
 		"message": "Ești sigur?",

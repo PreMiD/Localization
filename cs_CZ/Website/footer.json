@@ -3,6 +3,10 @@
 		"message": "Jazyk",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Jsi připraven používat PreMiD?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Připojte se k {0} uživatelům již dnes!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -14,6 +18,10 @@
 	"footer.partners.heading": {
 		"message": "Partneři",
 		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Sleduj Nás",
+		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
 		"message": "Vývojáři",
@@ -30,10 +38,6 @@
 	"footer.supportus.heading": {
 		"message": "Podpoř nás",
 		"description": "Support us section"
-	},
-	"footer.supportus.donate": {
-		"message": "Přispět",
-		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
 		"message": "Přispět",
@@ -94,5 +98,9 @@
 	"footer.copyright.line2": {
 		"message": "Web spravuje {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Pro zobrazení zbytku partnerů a sponzorů, klikněte sem.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

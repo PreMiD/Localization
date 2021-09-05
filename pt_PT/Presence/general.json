@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "A procurar...",
+		"message": "A procurar",
 		"description": ""
 	},
 	"general.chapter": {
@@ -100,7 +100,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "À procura de algo...",
+		"message": "À procura de algo",
 		"description": ""
 	},
 	"general.search": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.inCall": {
-		"message": "Numa chamada...",
+		"message": "Numa chamada",
 		"description": ""
 	},
 	"general.shopCart": {

@@ -60,7 +60,7 @@
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
-		"message": "Potřebuješ si poradit?",
+		"message": "Potřebuješ si Poradit?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
 	},
 	"popup.credits.error.heading": {
@@ -84,8 +84,40 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Vaše PreMiD aplikace je zastaralá. Aktualizujte ji abyste mohli pokračovat v používání PreMiD.",
+		"message": "Tvá PreMiD aplikace je zastaralá. Aktualizuj ji abys mohl pokračovat v používání PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Zastaralé Rozšíření",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Tvoje rozšíření je zastaralé. Aktualizuj ho, prosím, pro získání nejnovějších funkcí stažením z našich stránek.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Naléhavá aktualizace",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Vydali jsme naléhavou aktualizaci rozšíření. Aktualizuj ji pro další používání PreMiDu.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Bez připojení k internetu!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Vypadá to, že nejsi připojen k internetu! PreMiD v momentální chvíli nemůže zobrazit Presence.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Bez připojení k Discordu!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD se nedokázal připojit k Discordu! Je nainstalovaný a spuštěný? *Řešení problémů*",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "Vše",

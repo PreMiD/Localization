@@ -1,7 +1,15 @@
 {
+	"premid.viewPage": {
+		"message": "Prohlíží stránku:",
+		"description": ""
+	},
 	"premid.docs": {
 		"message": "Dokumentace",
 		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Prohlíží presenci:",
+		"description": ""
 	},
 	"premid.pageHome": {
 		"message": "Domovská stránka",
@@ -27,9 +35,17 @@
 		"message": "O PreMiD",
 		"description": "A page name"
 	},
+	"premid.pageSysReq": {
+		"message": "Systémové požadavky",
+		"description": "A page name"
+	},
 	"premid.pageInstall": {
 		"message": "Instalace",
 		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Instalace pro {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
 	},
 	"premid.pageTroubleshooting": {
 		"message": "Řešit Problémy",
@@ -43,12 +59,24 @@
 		"message": "API",
 		"description": "A page name"
 	},
+	"premid.pageApiVersion": {
+		"message": "Porozumění v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
 	"premid.pagePresenceDev": {
 		"message": "Vývoj přítomnosti",
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
 		"message": "Třída Presence",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Nastavení metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Nastavení TypeScriptu",
 		"description": "A page name"
 	}
 }

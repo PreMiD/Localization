@@ -155,6 +155,10 @@
 		"message": "OnlyHit هي محطة الإذاعة الموسيقى الخاصة بك على الانترنت والتي تم صناعتها لتشغيل افضل الأغاني على مدار الساعة 24/7 ولجعلك تكتشف أفضل الأغاني أولاً.",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.atomicradio": {
+		"message": "تجربة أحدث وأجمل مزيج من عالم الموسيقى بدون توقف في جميع محطاتنا، أختر إحدهم الذي تحبه أكثر، وكونوا هناك موجودين عندما تقاتل أسطورة الرسم البياني مع الزوار الجدد في أعلى مكانة!",
+		"description": "Description for Atomicradio."
+	},
 	"partners.apply.title": {
 		"message": "تقدم بطلب الشريك",
 		"description": "Partnership application modal title."

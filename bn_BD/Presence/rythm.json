@@ -1,0 +1,22 @@
+{
+    "rythm.openDashboard": {
+        "message": "ড্যাশবোর্ড ওপেন করো",
+        "description": "Button for opening the web dashboard."
+    },
+    "rythm.inviteBot": {
+        "message": "বটটিকে ইনভাইট করো",
+        "description": "Button for inviting the bot."
+    },
+    "rythm.djs": {
+        "message": "DJs: {0} জন",
+        "description": "{0} will be replaced with the amount of users with DJ permissions."
+    },
+    "rythm.users": {
+        "message": "ইউজার: {0} জন",
+        "description": "{0} will be replaced with the amount of normal users."
+    },
+    "rythm.requestedBy": {
+        "message": "রিকোয়েস্ট করেছে: {0}",
+        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
+    }
+}

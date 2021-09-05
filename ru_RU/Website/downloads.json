@@ -8,19 +8,19 @@
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
-		"message": "Начало работы",
+		"message": "Давайте начнём",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "Скачать PreMiD",
+		"message": "Скачайте PreMiD",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Установить приложение",
+		"message": "Установите наше приложение",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Добавить расширение в Вашего браузера",
+		"message": "Добавьте наше расширение в ваш браузер",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
@@ -64,7 +64,7 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "Текущая версия этой платформы {0} (эта версия только Linux, не применяется к другим платформам).",
+		"message": "Текущая версия для этой платформы — {0} (этот номер версии только для Linux и не распространяется на другие платформы).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
@@ -76,11 +76,11 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "Кажется, у вас нет доступа к альфа/бета версии :(",
+		"message": "Кажется, у вас нет доступа к альфа-/бета-тестированию :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
-		"message": "Вы можете присоединиться к бета-программе **здесь** бесплатно. Поспешите! У нас есть еще {0} слотов",
+		"message": "Вы можете бесплатно присоединиться к нашей программе бета-тестирования **здесь**. Поторопитесь! У нас осталось ещё только {0} мест",
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
@@ -136,7 +136,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "Показать бета-загрузки",
+		"message": "Показать ранние выпуски",
 		"description": ""
 	},
 	"downloads.showbeta.small": {

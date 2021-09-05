@@ -72,11 +72,15 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "Sosiaaliset",
+		"message": "Somet",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
 		"message": "Videot & Striimit",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Muut",
 		"description": "Category at the top"
 	},
 	"store.search": {
@@ -86,5 +90,9 @@
 	"store.search.filters": {
 		"message": "Lisää",
 		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klikkaa poistaaksesi suodattimen",
+		"description": "Remove message for active search filters."
 	}
 }

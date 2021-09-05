@@ -3,6 +3,10 @@
 		"message": "Jazyk",
 		"description": "You know how to translate that word? I hope you do :D"
 	},
+	"footer.usercount.heading": {
+		"message": "Ste pripravení na používanie PreMiD-u?",
+		"description": "Promotional heading"
+	},
 	"footer.usercount.message": {
 		"message": "Pripoj sa cez {0} užívateľmi dnes! ",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
@@ -12,7 +16,7 @@
 		"description": "Install button under the promotional message"
 	},
 	"footer.partners.heading": {
-		"message": "Partneri",
+		"message": "Partnery",
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
@@ -20,7 +24,7 @@
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
-		"message": "Vývojári",
+		"message": "Vývojari",
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
@@ -98,5 +102,9 @@
 	"footer.copyright.line2": {
 		"message": "Web spravuje {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Kliknutím sem zobrazíte ostatných našich partnerov a sponzorov.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }

@@ -84,7 +84,7 @@
 		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.jobs": {
-		"message": "If you are rather interesed in a direct job at PreMiD, then take a look at our **job advertisements**.",
+		"message": "If you are rather interested in a direct job at PreMiD, then take a look at our **job advertisements**.",
 		"description": "Hint located under the button."
 	},
 	"partners.sponsors.title": {
@@ -156,8 +156,12 @@
 		"description": "Description for OnlyHit."
 	},
 	"partners.partner.atomicradio": {
-		"message": "Experience the latest and best mix from the music world non-stop on all our stations, choose which one you like the most and be there live when chart legends battle each other with newcomers for the top spot!",
+		"message": "Experience the latest and best mixes from the music world non-stop on all our stations, choose which one you like the most and be there live when chart legends battle each other with newcomers for the top spot!",
 		"description": "Description for Atomicradio."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix is the largest Netflix-related Discord server. Discuss about your favorite series or films with like-minded people here.",
+		"description": "Description for r/Netflix."
 	},
 	"partners.apply.title": {
 		"message": "Apply for partner",

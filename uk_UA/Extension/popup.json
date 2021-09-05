@@ -48,7 +48,7 @@
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "Зроблено",
+		"message": "Готово",
 		"description": "Done button"
 	},
 	"popup.presences.load": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD не вдалося підключитися до свого застосунку! Він встановлений і працює?\n*Troubleshooting*",
+		"message": "PreMiD не вдалося підключитися до свого застосунку! Він встановлений і працює?\n*Усунення несправності*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Ваш додаток PreMiD застарів. Будь ласка, оновить для подальшого використання PreMiD.",
+		"message": "Ваш додаток PreMiD застарів. Будь ласка, оновіть його для продовження використання PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD не вдалося підключитися до вашого Discord застосунку! Він встановлений і працює? *Troubleshooting*",
+		"message": "PreMiD не вдалося підключитися до вашого Discord застосунку! Він встановлений і працює? *Усунення несправності*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
@@ -136,11 +136,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Соціальне",
+		"message": "Соц. мережі",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Відео & прямі трансляції",
+		"message": "Відео і прямі трансляції",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {

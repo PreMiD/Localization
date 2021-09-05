@@ -1,0 +1,22 @@
+{
+    "rythm.openDashboard": {
+        "message": "Abrir painel de controlo",
+        "description": "Button for opening the web dashboard."
+    },
+    "rythm.inviteBot": {
+        "message": "Adicionar o bot",
+        "description": "Button for inviting the bot."
+    },
+    "rythm.djs": {
+        "message": "DJs: {0}",
+        "description": "{0} will be replaced with the amount of users with DJ permissions."
+    },
+    "rythm.users": {
+        "message": "Utilizadores: {0}",
+        "description": "{0} will be replaced with the amount of normal users."
+    },
+    "rythm.requestedBy": {
+        "message": "Pedido por: {0}",
+        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
+    }
+}

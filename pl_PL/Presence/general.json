@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "Przeglądanie...",
+		"message": "Przegląda...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -92,7 +92,7 @@
 		"description": ""
 	},
 	"general.reading": {
-		"message": "Czytanie",
+		"message": "Czyta",
 		"description": ""
 	},
 	"general.searchFor": {
@@ -104,7 +104,19 @@
 		"description": ""
 	},
 	"general.search": {
-		"message": "Szukanie",
+		"message": "Szuka",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Pisze",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Dzwoni",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "W rozmowie...",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -203,13 +215,41 @@
 		"message": "Przegląda stronę:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Ogląda film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Ogląda serial",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Ogląda serial",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Ogląda film",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Oczekuje na premierę filmu",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Oczekuje na premierę filmu",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Ogląda transmisję na żywo",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Oczekuje na rozpoczęcie transmisji na żywo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Oczekuje na rozpoczęcie transmisji na żywo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Ogląda:",
@@ -239,6 +279,10 @@
 		"message": "Pętla włączona",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "Przegląda incydent",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "Historia zdarzeń",
 		"description": "A page name of statuspages"
@@ -252,11 +296,55 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
-		"message": "Ogląda film",
+		"message": "Obejrzyj film",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
 		"message": "Ogląda odcinek",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Obejrzyj Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Obejrzyj Stream",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Zobacz Kanał",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Słuchaj Razem",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Zobacz Utwór",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Zobacz Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Wyświetl Profil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Zobacz Wykonawcę",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Zobacz Playlistę",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Zobacz Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Przeczytaj Artykuł",
 		"description": "Used as the title for the button in Discord."
 	}
 }

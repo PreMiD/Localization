@@ -1,8 +1,4 @@
 {
-    "9gag.gag": {
-        "message": "Visualizando uma gag:",
-        "description": ""
-    },
     "9gag.hot": {
         "message": "Vendo o que há de quente",
         "description": ""
@@ -13,14 +9,6 @@
     },
     "9gag.fresh": {
         "message": "Vendo as tendências",
-        "description": ""
-    },
-    "9gag.tag": {
-        "message": "Visualizando tag:",
-        "description": ""
-    },
-    "9gag.about": {
-        "message": "Lendo tudo sobre 9GAG",
         "description": ""
     },
     "9gag.store": {

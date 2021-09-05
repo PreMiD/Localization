@@ -1,6 +1,6 @@
 {
 	"partners.header.title": {
-		"message": "Partneri",
+		"message": "Partnery",
 		"description": "Heading for page."
 	},
 	"partners.why.benefit5.title": {
@@ -12,7 +12,7 @@
 		"description": "Heading for the requirements."
 	},
 	"partners.apply.select.other": {
-		"message": "Ostatné",
+		"message": "Iné",
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {

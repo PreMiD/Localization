@@ -31,6 +31,10 @@
 		"message": "Reviewer",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
+	"contributors.roles.localizationManager": {
+		"message": "Quản lí khu vực hoá",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
 	"contributors.roles.developer": {
 		"message": "Lập trình viên",
 		"description": "'Developer' title for contributors and user pages."
@@ -68,7 +72,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Bấm vào để copy ID.",
+		"message": "Bấm vào để copy ID người dùng.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {

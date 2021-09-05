@@ -2,5 +2,33 @@
 	"store.cards.creator": {
 		"message": "Forfatter",
 		"description": "Creator of a presence"
+	},
+	"store.category.all": {
+		"message": "Alle",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Spill",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Musikk",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sosialer",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Videoer og Streams",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Annet",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Søk",
+		"description": "Placeholder for presence search"
 	}
 }

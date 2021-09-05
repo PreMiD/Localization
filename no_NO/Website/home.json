@@ -7,6 +7,14 @@
 		"message": "Nedlastinger",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
+	"home.examples.playingagame": {
+		"message": "Spiller et spill",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} igjen",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
 	"home.examples.timestamp2": {
 		"message": "{0} brukt",
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
@@ -22,6 +30,10 @@
 	"home.examples.status.browsing": {
 		"message": "Surfer igjennom...",
 		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Du kommer til å elske disse funksjonene!",
+		"description": "Features section"
 	},
 	"home.features.presencesystem.description": {
 		"message": "Vi utviklet vår ekstensjon som lar deg legge til og bruke Presencess laget av andre!",

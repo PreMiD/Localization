@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "PreMiD kamu belum diperbarui. Mohon melakukan pembaruan untuk lanjut menggunakan PreMiD.",
+		"message": "Aplikasi PreMiD kamu telah usang. Mohon melakukan pembaruan untuk lanjut menggunakan PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
@@ -132,7 +132,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.games": {
-		"message": "Permainan",
+		"message": "Game",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {

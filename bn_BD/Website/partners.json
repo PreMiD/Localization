@@ -12,7 +12,7 @@
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
-		"message": "কেমন হয় নরকের বদলে স্বর্গে যাওয়া?",
+		"message": "কেমন হয় স্বর্গে যাওয়া?",
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
@@ -200,7 +200,7 @@
 		"description": "Link filed's placeholder."
 	},
 	"partners.apply.form.description": {
-		"message": "ডিসক্রিপশন: (সর্বোচ্চ 150 অক্ষর)",
+		"message": "ডেসক্রিপশন: (সর্বোচ্চ 150 অক্ষর)",
 		"description": "Description field."
 	},
 	"partners.apply.form.description.placeholder": {

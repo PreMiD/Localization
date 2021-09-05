@@ -28,7 +28,11 @@
 		"description": "Category at the top"
 	},
 	"store.category.other": {
-		"message": "Ostatné",
+		"message": "Iné",
 		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Hľadať",
+		"description": "Placeholder for presence search"
 	}
 }

@@ -4,7 +4,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "Tack till",
+		"message": "Beröm",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD kunde inte ansluta till sitt program! Är du säker på att den är installerat och körs? *Felsökning*",
+		"message": "PreMiD kunde inte ansluta till sitt program! Är du säker på att det är installerat och körs? *Felsökning*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {

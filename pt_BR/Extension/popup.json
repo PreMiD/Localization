@@ -52,11 +52,11 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Carregar Presence",
+		"message": "Carregar presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Loja de presences",
+		"message": "Loja de Presences",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -92,7 +92,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "Sua extensão está desatualizada. Por favor, atualize-a para obter os recursos mais recentes baixando-a de nosso site.",
+		"message": "Sua extensão está desatualizada. Por favor, atualize para ter acesso aos recursos mais recentes baixando em nosso site.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
@@ -100,7 +100,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate.message": {
-		"message": "Lançamos uma atualização urgente para a extensão. Por favor, atualize-a para continuar usando o PreMiD.",
+		"message": "Lançamos uma atualização urgente para a extensão. Por favor, atualize para que possa continuar usando o PreMiD.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD não conseguiu se conectar ao seu aplicativo Discord! Ele está instalado e em execução? *Solução de problemas*",
+		"message": "PreMiD não conseguiu se conectar ao seu aplicativo do Discord! Ele está instalado e em execução? *Solução de problemas*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {

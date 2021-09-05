@@ -56,7 +56,7 @@
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
 	},
 	"discord.buttonInvite": {
-		"message": "Viendo Enlace de Invitación",
+		"message": "Ver enlace de invitación",
 		"description": "Used as the title for the button in Discord."
 	},
 	"discord.browseThrough": {

@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "{0} 명 이상의 사용자가 사용중입니다!",
+		"message": "{0} 명 이상의 사용자가 오늘 가입!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
@@ -36,7 +36,7 @@
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "지원하기",
+		"message": "우리를 지원하기",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
