@@ -13,7 +13,7 @@
 	},
 	"google.viewHome": {
 		"message": "Home",
-		"description": "Title for google home"
+		"description": "Title for google's home page"
 	},
 	"google.viewingDoodle": {
 		"message": "Viewing a doodle:",
