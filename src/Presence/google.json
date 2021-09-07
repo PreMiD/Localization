@@ -9,11 +9,11 @@
 	},
 	"google.viewAbout": {
 		"message": "About",
-		"description": "Title for google about"
+		"description": "Title for google doodles about page"
 	},
 	"google.viewHome": {
 		"message": "Home",
-		"description": "Title for google Home"
+		"description": "Title for google home"
 	},
 	"google.viewingDoodle": {
 		"message": "Viewing a doodle:",
