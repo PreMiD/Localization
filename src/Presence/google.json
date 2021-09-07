@@ -23,6 +23,10 @@
 		"message": "Searching for a doodle:",
 		"description": "Searching for google doodles"
 	},
+	"google.viewArchive": {
+		"message": "Viewing Archives",
+		"description": "Viewing for google doodles archives"
+	},
 	"google.currentPage": {
 		"message": "Current page:",
 		"description": "Title that shows what page is on"
