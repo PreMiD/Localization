@@ -1,17 +1,17 @@
 {
-	"google.books": {
+	"google.viewBooks": {
 		"message": "Google Books",
 		"description": "Title for google books"
 	},
-	"google.doodles": {
+	"google.viewDoodles": {
 		"message": "Doodles",
 		"description": "Title for google doodles"
 	},
-	"google.about": {
+	"google.viewAbout": {
 		"message": "About",
 		"description": "Title for google about"
 	},
-	"google.home": {
+	"google.viewHome": {
 		"message": "Home",
 		"description": "Title for google Home"
 	},
@@ -27,19 +27,19 @@
 		"message": "Current page:",
 		"description": "Title that shows what page is on"
 	},
-	"google.images": {
+	"google.viewImages": {
 		"message": "Google Images",
 		"description": "Title for google images tab search"
 	},
-	"google.videos": {
+	"google.viewVideos": {
 		"message": "Google Video",
 		"description": "Title for google videos tab search"
 	},
-	"google.finance": {
+	"google.viewFinance": {
 		"message": "Google Finance",
 		"description": "Title for google finance tab search"
 	},
-	"google.personal": {
+	"google.viewPersonal": {
 		"message": "Google Personal",
 		"description": "Title for google personal tab search"
 	}
