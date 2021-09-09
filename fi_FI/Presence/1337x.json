@@ -6,5 +6,9 @@
     "1337x.animeTorrents": {
         "message": "Katselee Anime Torrenteja",
         "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Katselee sovellus Torrenteja",
+        "description": ""
     }
 }
