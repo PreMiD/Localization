@@ -1,4 +1,12 @@
 {
+    "9gag.gag": {
+        "message": "Melihat lelucon:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Melihat apa yang sedang panas",
+        "description": ""
+    },
     "9gag.trending": {
         "message": "Melihat apa yang sedang tren",
         "description": ""
