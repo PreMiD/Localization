@@ -15,8 +15,12 @@
 		"message": "Yhteistyökumppanit",
 		"description": "A page name"
 	},
+	"premid.pageAbout": {
+		"message": "Tietoja PreMiD:istä",
+		"description": "A page name"
+	},
 	"premid.pageTroubleshooting": {
-		"message": "Apua",
+		"message": "Vianetsintä",
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {

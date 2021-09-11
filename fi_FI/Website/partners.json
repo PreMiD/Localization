@@ -155,10 +155,6 @@
 		"message": "OnlyHit on online-musiikkiradio, jolla soitetaan suurimpia hittejä 24/7 ja saatetaan sinut tulevaisuuden musiikin äärelle ensimmäisten joukossa.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "Koe uusin ja paras musiikkimaailman sekoitus ilman pysäytyksiä kaikilta asemiltamme, valitse mistä tykkään eniten ja katso kuinka legendat taistelevat tulokkaita vastaan korkeimmista listasijoituksista!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.partner.rNetflix": {
 		"message": "r/Netflix on suurin Netflix-aiheinen Discord-palvelin. Keskustele täällä suosikkisarjoistasi ja -elokuvistasi samanmielisten ihmisten kanssa.",
 		"description": "Description for r/Netflix."

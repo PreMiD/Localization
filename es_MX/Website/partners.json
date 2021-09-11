@@ -155,10 +155,6 @@
 		"message": "OnlyHit es tu emisora de radio de música online hecha para reproducir los mejores éxitos 24/7 y hacerte descubrir tus futuros éxitos primero.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "¡Experimente la última y mejor mezcla del mundo de la música sin parar en todas nuestras estaciones, elija cuál le gusta más y esté allí en vivo cuando las leyendas de las listas luchen entre sí con los recién llegados por el primer lugar!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.apply.title": {
 		"message": "Solicitar la colaboración",
 		"description": "Partnership application modal title."

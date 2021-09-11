@@ -155,10 +155,6 @@
 		"message": "Is é OnlyHit do stáisiún raidió ceoil ar líne a dhéantar chun do chuid amas is fearr a imirt 24/7 agus chun go bhfaighidh tú amach do chuid amas amach anseo ar dtús.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "Faigh taithí ar an meascán is déanaí agus is fearr ó shaol an cheoil gan stad ar ár stáisiúin go léir, roghnaigh cén ceann is fearr leat agus bí ann beo nuair a théann finscéalta cairte in aghaidh a chéile le daoine nua don láthair is fearr!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.apply.title": {
 		"message": "Déan iarratas ar pháirtí",
 		"description": "Partnership application modal title."

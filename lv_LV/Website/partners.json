@@ -155,10 +155,6 @@
 		"message": "OnlyHit ir jūsu tiešsaistes mūzikas radiostacija, kas izveidota, lai atskaņotu jūsu labākos hitus visu diennakti un lai jūs pirmais atklātu savus nākotnes hitus.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "Pieredzi jaunākos un labākos miksus no mūzikas pasaules bez apstājas, visās mūsu stacijās, izvēlies kura tev vislabāk patīk un esi tiešsaistē, kad labākās leģendas cīnās viena pret otru pret jaunpienācējiem par augstāko vietu!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.apply.title": {
 		"message": "Piesakies par partneri",
 		"description": "Partnership application modal title."
