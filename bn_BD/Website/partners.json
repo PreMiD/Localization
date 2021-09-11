@@ -155,9 +155,9 @@
 		"message": "OnlyHit হচ্ছে তোমার অনলাইন মিউজিক রেডিও স্টেশন যা বাজায় সেরা গানগুলো 24/7 এবং আবিষ্কার করায় ভবিষ্যতের গানগুলো প্রথমে।",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "গানের দুনিয়া থেকে শোনো লেটেস্ট এবং সেরা মিক্স বিরামহীনভাবে আমাদের সব স্টেশনে, বাছাই করো কোনটি তুমি সবচেয়ে বেশি পছন্দ করো এবং সেখানে উপস্থিত থাকো যখন চার্টের শীর্ষ গানগুলো লড়াই করে নতুন গানগুলোর সাথে শীর্ষস্থানের জন্য!",
-		"description": "Description for Atomicradio."
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix হচ্ছে একটি বড় নেটফ্লিক্স সম্পর্কিত Discord সার্ভার। তোমার প্রিয় সিরিজ অথবা ফিল্ম নিয়ে আলোচনা করো এখানকার সমমনস্ক মানুষদের সাথে।",
+		"description": "Description for r/Netflix."
 	},
 	"partners.apply.title": {
 		"message": "পার্টনারের জন্য অ্যাপ্লাই করো",
