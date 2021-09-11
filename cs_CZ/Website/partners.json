@@ -155,10 +155,6 @@
 		"message": "OnlyHit je Tvoje online hudební rozhlasová stanice, která hraje vaše nejlepší hity 24/7 a aby odhalila vaše budoucí hity jako první.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "Zažij nejnovější a nejlepší mixy z hudebního světa non-stop na všech našich stanicích, vyber si, který se ti líbí nejvíce a budeš tam žít, když grafy legendy se navzájem bojují s novými příchozími na nejvyšším místě!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.apply.title": {
 		"message": "Požádat o partnera",
 		"description": "Partnership application modal title."
