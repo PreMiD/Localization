@@ -155,10 +155,6 @@
 		"message": "OnlyHit on teie veebimuusika raadiojaam, mis on loodud selleks, et mängida oma parimaid hitte 24/7 ja panna teid oma tulevasi hitte kõigepealt avastama.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "Kogege muusikamaailma uusimaid ja parimaid miksi vahetpidamata kõigis meie jaamades, valige kumb neist teile kõige rohkem meeldib ja olge otseülekandes, kui edetabelilegendid võitlevad omavahel uustulnukatega esikoha nimel!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.partner.rNetflix": {
 		"message": "r/Netflix on suurim Netflixiga seotud Discordi server. Arutage siin oma mõttekaaslastega oma lemmiksarju või -filme.",
 		"description": "Description for r/Netflix."
