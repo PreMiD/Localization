@@ -155,10 +155,6 @@
 		"message": "OnlyHit är din online musik radiostation gjord för att spela dina bästa hits 24/7 och för att få dig att upptäcka dina framtida hits först.",
 		"description": "Description for OnlyHit."
 	},
-	"partners.partner.atomicradio": {
-		"message": "Upplev de senaste och bästa mixarna från musikvärlden nonstop på alla våra stationer, välj vilken du gillar mest och va där live när topplisto legenderna slåss mot nykommarna för platsen på toppen!",
-		"description": "Description for Atomicradio."
-	},
 	"partners.apply.title": {
 		"message": "Ansök om partnerskap",
 		"description": "Partnership application modal title."
