@@ -19,6 +19,14 @@
 		"message": "直播",
 		"description": ""
 	},
+	"general.paused": {
+		"message": "暂停中",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "播放中",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "阅读中",
 		"description": ""
