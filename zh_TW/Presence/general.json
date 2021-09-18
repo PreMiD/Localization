@@ -295,6 +295,10 @@
 		"message": "瀏覽系列",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "看電影",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "觀看劇集",
 		"description": "Used as the title for the button in Discord."
