@@ -1,4 +1,12 @@
 {
+	"discord.dmReading": {
+		"message": "Czyta wiadomości prywatne od:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Pisze wiadomość prywatną do:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
 	"discord.friends": {
 		"message": "Przeglądanie swoich znajomych...",
 		"description": ""
