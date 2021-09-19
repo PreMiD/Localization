@@ -11,6 +11,18 @@
         "message": "Dashboard",
         "description": "Server configuration page"
     },
+    "juniperbot.serverdashname": {
+        "message": "Guild: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Membaca informasi tentang rencana donasi",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Memilih server",
+        "description": "Server selection page"
+    },
     "juniperbot.commands": {
         "message": "Melihat daftar perintah",
         "description": "Page with the list of bot's commands"
@@ -18,5 +30,13 @@
     "juniperbot.stats": {
         "message": "Melihat statistik bot",
         "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Menyesuaikan rank card",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Membaca cookies situs",
+        "description": "Reading about the site's cookies"
     }
 }

@@ -1,4 +1,16 @@
 {
+	"tiktok.forYou": {
+		"message": "Melihat{0}Halaman Untuk Anda",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"tiktok.following": {
+		"message": "Melihat{0}dafar mengikuti",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"tiktok.viewing": {
+		"message": "Melihat TikTok:",
+		"description": "Name of the user will be after the \":\""
+	},
 	"tiktok.buttonViewTikTok": {
 		"message": "Lihat TikTok",
 		"description": "Used as the title for the button in Discord."
