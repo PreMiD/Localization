@@ -319,6 +319,10 @@
 		"message": "Słuchaj Razem",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewPage": {
+		"message": "Zobacz Stronę",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewSong": {
 		"message": "Zobacz Utwór",
 		"description": "Used as the title for the button in Discord."

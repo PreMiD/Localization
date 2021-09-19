@@ -3,13 +3,29 @@
 		"message": "Przeglądanie swoich znajomych...",
 		"description": ""
 	},
+	"discord.nitro": {
+		"message": "Czyta o Nitro...",
+		"description": ""
+	},
 	"discord.settings": {
 		"message": "Przeglądanie swoich ustawień...",
 		"description": ""
 	},
+	"discord.buttonInvite": {
+		"message": "Wyświetl Zaproszenie",
+		"description": "Used as the title for the button in Discord."
+	},
 	"discord.browseThrough": {
 		"message": "Przegląda",
 		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "stronę pobierania",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "stanowiska pracy",
+		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.support": {
 		"message": "Centrum Pomocy",
