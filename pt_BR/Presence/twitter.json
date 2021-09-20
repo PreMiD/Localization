@@ -1,10 +1,18 @@
 {
+	"twitter.readTweet": {
+		"message": "Lendo tweet de:",
+		"description": "after the \":\" it will say the username"
+	},
 	"twitter.viewTweets": {
 		"message": "Vendo tweets de:",
 		"description": ""
 	},
 	"twitter.viewTweetsWithReplies": {
 		"message": "Vendo tweets (com respostas) de:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Vendo mídias de:",
 		"description": ""
 	},
 	"twitter.viewLiked": {
@@ -21,6 +29,10 @@
 	},
 	"twitter.notifs": {
 		"message": "Notificações",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Explorar",
 		"description": ""
 	}
 }
