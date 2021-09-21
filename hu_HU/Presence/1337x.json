@@ -1,6 +1,34 @@
 {
+    "1337x.movieLibrary": {
+        "message": "A filmkönyvtárat nézi",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "A sorozatkönyvtárat nézi",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "A legfrissebb epizódokat nézi",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "A top 100-at nézi",
+        "description": ""
+    },
     "1337x.upload": {
         "message": "Feltölt valamit...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Olvassa a szabályzatot",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "1337x-nek ír",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "1337x-ról olvas",
         "description": ""
     }
 }
