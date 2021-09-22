@@ -3,10 +3,6 @@
       "message": "Comparing:",
       "description": "e.g. \"Comparing: Apple Watch\""
     },
-    "apple.viewProduct": {
-      "message": "Viewing Product:",
-      "description": "e.g. \"Viewing Product: iPhone 13 Pro\""
-    },
     "apple.viewService": {
       "message": "Viewing Service:",
       "description": "e.g. \"Viewing Service: Fitness+\""
@@ -25,7 +21,7 @@
     },
     "apple.overview": {
         "message": "Overview",
-        "description": "Overview of something"
+        "description": "Overview of e.g. all pages of a category"
     },
     "apple.purchasingAdvice": {
         "message": "Purchasing advice",
@@ -54,10 +50,6 @@
     "apple.other": {
         "message": "Other",
         "description": "Other pages not added to the code"
-    },
-    "apple.shop": {
-        "message": "Shop",
-        "description": ""
     },
     "apple.home": {
         "message": "Home",
@@ -275,10 +267,6 @@
         "message": "View %wwdc%",
         "description": "View the current WWDC"
     },
-    "apple.btnViewPage": {
-        "message": "View Page",
-        "description": "View the page"
-    },
     "apple.btnViewThread": {
         "message": "View Thread",
         "description": "View a forum thread"
@@ -289,14 +277,6 @@
     },
     "apple.btnViewProfile": {
         "message": "View %user%'s Profile",
-        "description": ""
-    },
-    "apple.btnViewProfileUnk": {
-        "message": "View Profile",
-        "description": ""
-    },
-    "apple.btnViewVideo": {
-        "message": "View Video",
         "description": ""
     }
   }
