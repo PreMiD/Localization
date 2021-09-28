@@ -38,5 +38,21 @@
   "header.login": {
     "message": "Prihlásiť sa",
     "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Prihlásený ako",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Nahlásiť chybu",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Odhlásiť",
+    "description": "Logout button"
   }
 }
