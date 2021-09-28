@@ -102,5 +102,9 @@
 	"jobs.success.applied": {
 		"message": "Ďakujeme za prihlásenie!",
 		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Už ste sa prihlásili!",
+		"description": "Notification when you applied already."
 	}
 }
