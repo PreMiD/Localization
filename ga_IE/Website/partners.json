@@ -155,6 +155,10 @@
 		"message": "Is é OnlyHit do stáisiún raidió ceoil ar líne a dhéantar chun do chuid amas is fearr a imirt 24/7 agus chun go bhfaighidh tú amach do chuid amas amach anseo ar dtús.",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.rNetflix": {
+		"message": "Is é r / Netflix an freastalaí Discord is mó a bhaineann le Netflix. Pléigh an tsraith nó na scannáin is fearr leat le daoine ar aon intinn anseo.",
+		"description": "Description for r/Netflix."
+	},
 	"partners.apply.title": {
 		"message": "Déan iarratas ar pháirtí",
 		"description": "Partnership application modal title."
