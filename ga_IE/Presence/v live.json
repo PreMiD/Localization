@@ -90,5 +90,9 @@
 	"v live.followed": {
 		"message": "cainéil a lean",
 		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Na polasaithe a léamh",
+		"description": ""
 	}
 }
