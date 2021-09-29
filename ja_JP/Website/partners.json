@@ -83,6 +83,10 @@
 		"message": "UpBeatは非営利の国際ラジオです。ノンストップのエンターテイメントや、ニュースを提供しています。",
 		"description": "Description for UpBeatRadio."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio は、ドイツ、オーストリア、スイスで最も成功しているシミュレーションゲームの情報ラジオです。",
+		"description": "Description for SimLoveRadio."
+	},
 	"partners.partner.bitRock": {
 		"message": "強力で使いやすいクロスプラットフォームインストーラー作成ツール。",
 		"description": "Description for BitRock."
