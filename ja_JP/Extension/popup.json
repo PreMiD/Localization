@@ -72,7 +72,7 @@
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
-		"message": "接続していません",
+		"message": "接続されていません",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
