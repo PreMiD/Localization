@@ -11,8 +11,24 @@
 		"message": "Obecnie podejmujemy różne wysiłki w naszym programie partnerskim. Każdy powinien mieć szansę zostać zauważonym. Twórcy Twitcha powinni mieć co najmniej 500 obserwujących i co najmniej 10 równoczesnych widzów. Musisz przesyłać strumieniowo co najmniej 1 raz w tygodniu.",
 		"description": "Description for the second requirement."
 	},
+	"partners.partner.wikijs": {
+		"message": "Najpotężniejsze i rozbudowane otwarte oprogramowanie Wiki.",
+		"description": "Description for WikiJS."
+	},
 	"partners.apply.select.other": {
 		"message": "Inne",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Np: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Np: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.success": {
+		"message": "Dziękujemy za złożenie aplikacji!",
+		"description": "Success message when applying."
 	}
 }
