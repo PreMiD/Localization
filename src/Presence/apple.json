@@ -13,7 +13,7 @@
     },
     "apple.productsPlatform": {
         "message": "Products and Platform",
-        "description": "Products/platforms for/from companies"
+        "description": "Products/platforms for companies"
     },
     "apple.healthRecords": {
         "message": "Health records",
@@ -67,10 +67,6 @@
         "message": "Favorites",
         "description": "Favorite products"
     },
-    "apple.shopAccount": {
-        "message": "Account",
-        "description": "iCloud account"
-    },
     "apple.shopGiftCards": {
         "message": "Gift cards",
         "description": "Gift cards for e.g. the App Store"
@@ -87,17 +83,13 @@
         "message": "Shop Bag",
         "description": "Shopping cart"
     },
-    "apple.shopBagSingle": {
-        "message": "Bag",
-        "description": "Shopping cart"
-    },
     "apple.shopBagSummary": {
         "message": "Summary: {0}",
-        "description": "Your total amount of the bag(shopping cart)"
+        "description": "The total price of the items in your bag (shopping cart)"
     },
     "apple.support": {
         "message": "Apple Support",
-        "description": ""
+        "description": "Support for products, services/apps from Apple, etc."
     },
     "apple.supportArticle": {
         "message": "Apple Support Article",
@@ -109,27 +101,27 @@
     },
     "apple.iCloudMail": {
         "message": "Mail",
-        "description": "iCloud mail service"
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudContacts": {
         "message": "Contacts",
-        "description": "iCloud contacts"
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudCalendar": {
         "message": "Calendar",
-        "description": "iCloud calendar"
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudPhotos": {
         "message": "Photos",
-        "description": "iCloud photos"
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudNotes": {
         "message": "Notes",
-        "description": "iCloud notes"
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudReminders": {
         "message": "Reminders",
-        "description": "iCloud reminders"
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudPagesCreate": {
         "message": "Creating...",
@@ -161,7 +153,7 @@
     },
     "apple.devHIG": {
         "message": "Human Interface Guidelines",
-        "description": "Tips for the design of apps"
+        "description": "Guidelines for designing apps for the various Apple operating systems"
     },
     "apple.devResources": {
         "message": "Resources",
@@ -189,7 +181,7 @@
     },
     "apple.forumRegister": {
         "message": "Registration",
-        "description": "Register a new account"
+        "description": "Register a new account (alternative translation: registering)"
     },
     "apple.devVideos": {
         "message": "Videos",
@@ -197,7 +189,7 @@
     },
     "apple.devVidTopic": {
         "message": "Videos Topic",
-        "description": ""
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
     },
     "apple.devNews": {
         "message": "News and Updates",
@@ -241,7 +233,7 @@
     },
     "apple.btnViewWWDC": {
         "message": "View {0}",
-        "description": "View the current WWDC"
+        "description": "e.g.: \"View WWDC21\""
     },
     "apple.btnViewThread": {
         "message": "View Thread",
@@ -253,6 +245,6 @@
     },
     "apple.btnViewProfile": {
         "message": "View {0}'s Profile",
-        "description": ""
+        "description": "View a forum profile of a user"
     }
   }
