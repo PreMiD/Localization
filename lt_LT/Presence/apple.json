@@ -1,0 +1,14 @@
+{
+    "apple.other": {
+        "message": "Kita",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "Dokumentacija",
+        "description": "Developer documentation"
+    },
+    "apple.devGames": {
+        "message": "Žaidimai",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}
