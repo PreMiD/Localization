@@ -1,0 +1,10 @@
+{
+    "apple.other": {
+        "message": "Ander",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devGames": {
+        "message": "Speletjies",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}

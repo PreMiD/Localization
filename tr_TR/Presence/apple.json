@@ -1,0 +1,18 @@
+{
+    "apple.other": {
+        "message": "Diğer",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "Dokümantasyon",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "Özellikler",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Oyun",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}

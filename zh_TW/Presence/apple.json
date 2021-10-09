@@ -1,0 +1,18 @@
+{
+    "apple.other": {
+        "message": "其它",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "相關文章",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "功能",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "遊戲",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}

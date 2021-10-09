@@ -1,0 +1,14 @@
+{
+    "apple.other": {
+        "message": "Altele",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "Documentație",
+        "description": "Developer documentation"
+    },
+    "apple.devGames": {
+        "message": "Jocuri",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}

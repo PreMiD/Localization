@@ -1,0 +1,18 @@
+{
+    "apple.other": {
+        "message": "Annað",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "Skjal",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "Eiginleikar",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Leikir",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}
