@@ -1,10 +1,10 @@
 {
     "apple.comparing": {
-      "message": "Comparing",
+      "message": "Comparing:",
       "description": "e.g. \"Comparing: Apple Watch\""
     },
     "apple.viewService": {
-      "message": "Viewing Service",
+      "message": "Viewing Service:",
       "description": "e.g. \"Viewing Service: Fitness+\""
     },
     "apple.healthcare": {
@@ -205,10 +205,6 @@
     },
     "apple.btnViewService": {
       "message": "View Service",
-      "description": "Button text"
-    },
-    "apple.btnViewArticle": {
-      "message": "View Article",
       "description": "Button text"
     },
     "apple.btnViewEvent": {
