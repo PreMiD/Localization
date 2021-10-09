@@ -1,7 +1,91 @@
 {
+    "apple.comparing": {
+        "message": "Vergleicht:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "Betrachtet Service:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "Gesundheitswesen",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "Produkte und Plattform",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "Gesundheitsdaten",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "Übersicht",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.storeFinder": {
+        "message": "Store finden",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "Betrachtet ein Event",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "Verantwortung der Zulieferer",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
+    },
+    "apple.contact": {
+        "message": "Kontaktieren",
+        "description": "Contact support"
+    },
+    "apple.chooseLang": {
+        "message": "Wählt Sprache...",
+        "description": "Choosing the language of the website"
+    },
     "apple.other": {
         "message": "Sonstige",
         "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "Apple Watch Armbänder",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.iCloudContacts": {
+        "message": "Kontakte",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Kalender",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Fotos",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Notizen",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Erinnerungen",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Erstellt...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Im Warteraum...",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "Was ist neu",
+        "description": "List of updates"
+    },
+    "apple.devPhonePad": {
+        "message": "iPhone und iPad Apps",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
     },
     "apple.devDocs": {
         "message": "Dokumentation",
