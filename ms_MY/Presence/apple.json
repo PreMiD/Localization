@@ -39,10 +39,6 @@
         "message": "Tanggungjawab Pembekal",
         "description": "Information on human rights, health, safety, education, etc. of employees"
     },
-    "apple.contact": {
-        "message": "Hubungi",
-        "description": "Contact support"
-    },
     "apple.chooseLang": {
         "message": "Memilih bahasa...",
         "description": "Choosing the language of the website"
@@ -58,10 +54,6 @@
     "apple.shopAccessories": {
         "message": "Aksesori Apple",
         "description": "Accessories for Apple products (e.g iPhone case)"
-    },
-    "apple.shopStudio": {
-        "message": "Studio Kedai",
-        "description": "Choose your own design components for a product"
     },
     "apple.shopFavorites": {
         "message": "Kegemaran",
@@ -82,10 +74,6 @@
     "apple.shopBag": {
         "message": "Beg Pembelian",
         "description": "Shopping cart"
-    },
-    "apple.shopBagSummary": {
-        "message": "Ringkasan: {0}",
-        "description": "The total price of the items in your bag (shopping cart)"
     },
     "apple.support": {
         "message": "Sokongan Apple",
@@ -126,10 +114,6 @@
     "apple.iCloudPagesCreate": {
         "message": "Mencipta...",
         "description": "Creating a new Pages document"
-    },
-    "apple.iCloudKeynoteWait": {
-        "message": "Bilik menunggu",
-        "description": "Before the keynote begins, you'll be in the waiting room"
     },
     "apple.devNew": {
         "message": "Apa yang baharu",
@@ -186,10 +170,6 @@
     "apple.devVideos": {
         "message": "Video",
         "description": "E.g. WWDC videos, old Keynotes, etc."
-    },
-    "apple.devVidTopic": {
-        "message": "Topik Video",
-        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
     },
     "apple.devNews": {
         "message": "Berita dan Kemas Kini",
