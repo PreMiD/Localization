@@ -35,10 +35,6 @@
         "message": "Verantwortung der Zulieferer",
         "description": "Information on human rights, health, safety, education, etc. of employees"
     },
-    "apple.contact": {
-        "message": "Kontaktieren",
-        "description": "Contact support"
-    },
     "apple.chooseLang": {
         "message": "Wählt Sprache...",
         "description": "Choosing the language of the website"
@@ -74,10 +70,6 @@
     "apple.iCloudPagesCreate": {
         "message": "Erstellt...",
         "description": "Creating a new Pages document"
-    },
-    "apple.iCloudKeynoteWait": {
-        "message": "Im Warteraum...",
-        "description": "Before the keynote begins, you'll be in the waiting room"
     },
     "apple.devNew": {
         "message": "Was ist neu",
