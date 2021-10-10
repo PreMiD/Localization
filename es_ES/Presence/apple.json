@@ -59,6 +59,10 @@
         "message": "Accesorios de Apple",
         "description": "Accessories for Apple products (e.g iPhone case)"
     },
+    "apple.shopStudio": {
+        "message": "Apple Watch Studio",
+        "description": "Choose your own design components for a product"
+    },
     "apple.shopFavorites": {
         "message": "Favoritos",
         "description": "Favorite products"
@@ -70,6 +74,10 @@
     "apple.shopPlanVisit": {
         "message": "Planea tu visita",
         "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "Productos reacondicionados certificados",
+        "description": "Used Apple products at a lower price"
     },
     "apple.shopBag": {
         "message": "Carrito de la compra",
@@ -119,9 +127,33 @@
         "message": "Creando...",
         "description": "Creating a new Pages document"
     },
+    "apple.iCloudKeynoteWait": {
+        "message": "Sala de espera",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "Novedades",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "Cómo enviar aplicaciones",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "aplicaciones de iPhone y iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "Distribuir software",
+        "description": "Distribute software to the App Store"
+    },
     "apple.devDocs": {
         "message": "Documentación",
         "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "Orientaciones de Interfaz Humana",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
     },
     "apple.devResources": {
         "message": "Recursos",
@@ -135,6 +167,10 @@
         "message": "Juegos",
         "description": "Apps classified under the \"Games\" category on the App Store"
     },
+    "apple.forumTags": {
+        "message": "Etiquetas del foro",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
     "apple.forumPreferences": {
         "message": "Preferencias",
         "description": "Profile settings/preferences, e.g. change username"
@@ -143,13 +179,25 @@
         "message": "Creando un hilo",
         "description": "Creating a forum thread"
     },
+    "apple.forumRegister": {
+        "message": "Registrando",
+        "description": "Register a new account (alternative translation: registering)"
+    },
     "apple.devVideos": {
         "message": "Vídeos",
         "description": "E.g. WWDC videos, old Keynotes, etc."
     },
+    "apple.devVidTopic": {
+        "message": "Tema de Vídeos",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
+    },
     "apple.devNews": {
         "message": "Novedades y actualizaciones",
         "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Lanzamientos",
+        "description": "New iOS, iPadOS etc. releases"
     },
     "apple.btnViewProduct": {
         "message": "Ver el producto",
@@ -167,6 +215,18 @@
         "message": "Ver {0}",
         "description": "e.g. \"View iOS 15\""
     },
+    "apple.btnViewStudio": {
+        "message": "Ver {0} Estudio",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "Ver aplicación",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Ver desarrollador",
+        "description": "View the developer of an app"
+    },
     "apple.btnViewWWDC": {
         "message": "Ver {0}",
         "description": "e.g.: \"View WWDC21\""
@@ -174,5 +234,13 @@
     "apple.btnViewThread": {
         "message": "Ver hilo",
         "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Ver etiquetas",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "Ver perfil de {0}",
+        "description": "View a forum profile of a user"
     }
 }
