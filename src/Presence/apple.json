@@ -40,7 +40,7 @@
         "description": "Information on human rights, health, safety, education, etc. of employees"
     },
     "apple.contact": {
-        "message": "Contact",
+        "message": "Contacting support",
         "description": "Contact support"
     },
     "apple.chooseLang": {
@@ -60,7 +60,7 @@
         "description": "Accessories for Apple products (e.g iPhone case)"
     },
     "apple.shopStudio": {
-        "message": "Shop Studio",
+        "message": "Apple Watch Studio",
         "description": "Choose your own design components for a product"
     },
     "apple.shopFavorites": {
@@ -84,7 +84,7 @@
         "description": "Shopping cart"
     },
     "apple.shopBagSummary": {
-        "message": "Summary: {0}",
+        "message": "Total: {0}",
         "description": "The total price of the items in your bag (shopping cart)"
     },
     "apple.support": {
@@ -128,7 +128,7 @@
         "description": "Creating a new Pages document"
     },
     "apple.iCloudKeynoteWait": {
-        "message": "Waiting room...",
+        "message": "Waiting room",
         "description": "Before the keynote begins, you'll be in the waiting room"
     },
     "apple.devNew": {
@@ -188,7 +188,7 @@
         "description": "E.g. WWDC videos, old Keynotes, etc."
     },
     "apple.devVidTopic": {
-        "message": "Videos Topic",
+        "message": "Browsing video topic",
         "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
     },
     "apple.devNews": {
