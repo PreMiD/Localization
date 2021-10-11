@@ -1,4 +1,8 @@
 {
+    "apple.comparing": {
+        "message": "กำลังเปรียบเทียบ:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
     "apple.viewService": {
         "message": "กำลังดูบริการ:",
         "description": "e.g. \"Viewing Service: Fitness+\""
@@ -6,6 +10,18 @@
     "apple.healthcare": {
         "message": "บริการด้านสุขภาพ",
         "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "ผลิตภัณฑ์และแพลตฟอร์ม",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "บันทึกสุขภาพ",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "ภาพรวม",
+        "description": "Overview of e.g. all pages of a category"
     },
     "apple.viewEvent": {
         "message": "กำลังดูอีเว้นท์",
@@ -26,6 +42,10 @@
     "apple.shopGiftCards": {
         "message": "บัตรของขวัญ",
         "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopBagSummary": {
+        "message": "รวม: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
     },
     "apple.appStoreCon": {
         "message": "กำลังเชื่อมต่อ...",
@@ -55,9 +75,17 @@
         "message": "เตือนความจำ",
         "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
     },
+    "apple.devNew": {
+        "message": "มีอะไรใหม่",
+        "description": "List of updates"
+    },
     "apple.devDocs": {
         "message": "เอกสาร",
         "description": "Developer documentation"
+    },
+    "apple.devResources": {
+        "message": "แหล่งข้อมูล",
+        "description": "Apple Design Resources"
     },
     "apple.devFeatures": {
         "message": "ฟีเจอร์",
