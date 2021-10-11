@@ -1,4 +1,8 @@
 {
+    "apple.viewEvent": {
+        "message": "กำลังดูอีเว้นท์",
+        "description": "Viewing an event (e.g. September event)"
+    },
     "apple.other": {
         "message": "อื่นๆ",
         "description": "Other pages not added to the code"
