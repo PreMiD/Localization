@@ -59,6 +59,58 @@
         "message": "Garansi Bersertifikat",
         "description": "Used Apple products at a lower price"
     },
+    "apple.shopBagSummary": {
+        "message": "Total: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "Dukungan Apple",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Artikel Dukungan Apple",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "Menghubungkan...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Mail",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Kontak",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Kalender",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Foto",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Pengingat",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Sedang membuat...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.devNew": {
+        "message": "Apa yang baru",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "Cara mengajukan aplikasi",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "Aplikasi iPhone dan iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
     "apple.devDocs": {
         "message": "Dokumentasi",
         "description": "Developer documentation"
@@ -70,5 +122,49 @@
     "apple.devGames": {
         "message": "Game",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "Forum Tags",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumPreferences": {
+        "message": "Preferensi",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "Membuat thread",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "Registrasi",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devNews": {
+        "message": "Berita dan Pembaruan",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Rilis",
+        "description": "New iOS, iPadOS etc. releases"
+    },
+    "apple.btnViewProduct": {
+        "message": "Lihat Produk",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Lihat Layanan",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Lihat Acara",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "Lihat {0}",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewWWDC": {
+        "message": "Lihat {0}",
+        "description": "e.g.: \"View WWDC21\""
     }
 }
