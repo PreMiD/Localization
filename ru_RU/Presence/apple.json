@@ -23,9 +23,45 @@
         "message": "Прочее",
         "description": "Other pages not added to the code"
     },
+    "apple.shopAccessories": {
+        "message": "Аксессуары Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopFavorites": {
+        "message": "Избранное",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Подарочные карты",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "Спланировать посещение",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Календарь",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Фотографии",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Создание...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Комната ожидания",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
     "apple.devDocs": {
         "message": "Документация",
         "description": "Developer documentation"
+    },
+    "apple.devResources": {
+        "message": "Ресурсы",
+        "description": "Apple Design Resources"
     },
     "apple.devFeatures": {
         "message": "Возможности",
@@ -34,5 +70,17 @@
     "apple.devGames": {
         "message": "Игры",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "Теги форума",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumRegister": {
+        "message": "Регистрация",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devNews": {
+        "message": "Новости и обновления",
+        "description": "News and updates (that matter) for developers"
     }
 }
