@@ -3,6 +3,14 @@
         "message": "기타",
         "description": "Other pages not added to the code"
     },
+    "apple.shopBands": {
+        "message": "Apple Watch 밴드",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "Apple 액세서리",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
     "apple.devDocs": {
         "message": "문서",
         "description": "Developer documentation"
