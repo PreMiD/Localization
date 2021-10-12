@@ -1,4 +1,12 @@
 {
+    "apple.healthcare": {
+        "message": "Здравоохранение",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "Продукты и Платформа",
+        "description": "Products/platforms for companies"
+    },
     "apple.other": {
         "message": "Прочее",
         "description": "Other pages not added to the code"
