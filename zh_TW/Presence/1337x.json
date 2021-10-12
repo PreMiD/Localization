@@ -1,1 +1,26 @@
-{}
+{
+    "1337x.movieLibrary": {
+        "message": "正在檢視電影媒體櫃",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "正在檢視系列媒體櫃",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "查看著最新的劇集",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "正在瀏覽頭100名的排行榜",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "正在檢視發燒影片",
+        "description": ""
+    },
+    "1337x.upload": {
+        "message": "正在上載影片",
+        "description": ""
+    }
+}
