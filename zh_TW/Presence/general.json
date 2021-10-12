@@ -334,5 +334,21 @@
 	"general.buttonViewProfile": {
 		"message": "查看設定檔",
 		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "查看藝人",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "查看播放清單",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "正在瀏覽播客",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "正在閱讀文章",
+		"description": "Used as the title for the button in Discord."
 	}
 }
