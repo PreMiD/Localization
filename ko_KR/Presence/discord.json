@@ -15,9 +15,29 @@
 		"message": "찾아보는 중",
 		"description": "The first part of the next 17 strings"
 	},
+	"discord.partner": {
+		"message": "파트너 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "확인 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.policies": {
 		"message": "정책",
 		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.appsBrowse": {
+		"message": "앱을 통해 탐색",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "서버의 통찰력 보기: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "설명서 읽기",
+		"description": ""
 	},
 	"discord.support": {
 		"message": "고객센터",
