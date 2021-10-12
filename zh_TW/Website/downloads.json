@@ -47,6 +47,10 @@
 		"message": "警告:",
 		"description": "First part of the message."
 	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} 該操作系統沒有安裝程序. 這就代表著沒有專業的客服能協助您.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
 	"downloads.mobile.errorMessage": {
 		"message": "請注意, PreMiD當前不支持手機客戶端。",
 		"description": "Downloads page warning when user is on mobile."
@@ -58,6 +62,10 @@
 	"downloads.mobile.hideDownloads": {
 		"message": "隱藏下載",
 		"description": "Little button on the downloads page for mobile users."
+	},
+	"downloads.warning.differentVersion": {
+		"message": "該平台的當前版本為 {0} (此版本為Linux定制，不適用於其他平臺)。",
+		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
 		"message": "此版本為Linux定制，不適用於其他系統。主程序的主要版本是{0}",
@@ -111,6 +119,10 @@
 		"message": "登入",
 		"description": "Login button on the downloads page."
 	},
+	"downloads.button.skipanyway": {
+		"message": "依要略過",
+		"description": "Skip Anyway button on the ads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "感謝您!",
 		"description": "Title of the advertisement section box."
@@ -122,6 +134,10 @@
 	"downloads.adsbox.disableAdblock": {
 		"message": "請關閉廣告封鎖器",
 		"description": "Message next to pepe."
+	},
+	"downloads.showbeta.message": {
+		"message": "顯示Beta版的下載",
+		"description": ""
 	},
 	"downloads.showbeta.small": {
 		"message": "(如果只是想在這下載普通版本則不需要)",
