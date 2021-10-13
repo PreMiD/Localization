@@ -63,6 +63,10 @@
         "message": "Favorieten",
         "description": "Favorite products"
     },
+    "apple.shopGiftCards": {
+        "message": "Cadeaukaarten",
+        "description": "Gift cards for e.g. the App Store"
+    },
     "apple.shopPlanVisit": {
         "message": "Plan je bezoek",
         "description": "Plan your visit to the Apple Store"
