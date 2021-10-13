@@ -39,6 +39,10 @@
         "message": "Verantwoordelijkheid leverancier",
         "description": "Information on human rights, health, safety, education, etc. of employees"
     },
+    "apple.contact": {
+        "message": "Neemt contact op met ondersteuning",
+        "description": "Contact support"
+    },
     "apple.chooseLang": {
         "message": "Taal selecteren...",
         "description": "Choosing the language of the website"
@@ -139,6 +143,10 @@
         "message": "iPhone- en iPad-apps",
         "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
     },
+    "apple.devDistribution": {
+        "message": "Software distribueren",
+        "description": "Distribute software to the App Store"
+    },
     "apple.devDocs": {
         "message": "Documentatie",
         "description": "Developer documentation"
@@ -178,6 +186,10 @@
     "apple.devVideos": {
         "message": "Video's",
         "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devVidTopic": {
+        "message": "Video-onderwerp doorbladeren",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
     },
     "apple.devNews": {
         "message": "Nieuws en updates",
