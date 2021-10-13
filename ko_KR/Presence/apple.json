@@ -22,5 +22,9 @@
     "apple.devGames": {
         "message": "게임",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.devNews": {
+        "message": "뉴스 및 업데이트",
+        "description": "News and updates (that matter) for developers"
     }
 }
