@@ -1,4 +1,28 @@
 {
+    "apple.comparing": {
+        "message": "Vergelijkt:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "Bekijkt dienst:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "Gezondheidszorg",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "Producten en platform",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "Medische dossiers",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "Overzicht",
+        "description": "Overview of e.g. all pages of a category"
+    },
     "apple.other": {
         "message": "Overige",
         "description": "Other pages not added to the code"
