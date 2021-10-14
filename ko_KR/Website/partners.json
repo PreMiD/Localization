@@ -3,6 +3,14 @@
 		"message": "파트너",
 		"description": "Heading for page."
 	},
+	"partners.why.benefit3.title": {
+		"message": "메타 태그 통합",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "유명해지세요.",
+		"description": "Heading for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "요구사항",
 		"description": "Heading for the requirements."
