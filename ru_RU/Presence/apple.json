@@ -1,4 +1,8 @@
 {
+    "apple.viewService": {
+        "message": "Смотрит сервис:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
     "apple.healthcare": {
         "message": "Здравоохранение",
         "description": "The organized provision of medical care to individuals or a community"
@@ -14,6 +18,14 @@
     "apple.overview": {
         "message": "Просмотр",
         "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Консультации по закупкам",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Поиск магазина",
+        "description": "Tool used to find the nearest store"
     },
     "apple.viewEvent": {
         "message": "Просмотр события",
