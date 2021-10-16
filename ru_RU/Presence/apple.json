@@ -215,8 +215,32 @@
         "message": "Посмотреть {0}",
         "description": "e.g. \"View iOS 15\""
     },
+    "apple.btnViewStudio": {
+        "message": "Смотрит студию {0}",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "Смотрит приложение",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Смотрит разработчика",
+        "description": "View the developer of an app"
+    },
     "apple.btnViewWWDC": {
         "message": "Посмотреть {0}",
         "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "Смотрит ветку",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Смотрит теги",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "Смотрит профиль {0}",
+        "description": "View a forum profile of a user"
     }
 }
