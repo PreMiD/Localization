@@ -151,6 +151,10 @@
         "message": "Dokumentasi",
         "description": "Developer documentation"
     },
+    "apple.devHIG": {
+        "message": "Peraturan Antarmuka Pengguna",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
+    },
     "apple.devResources": {
         "message": "Sumber daya",
         "description": "Apple Design Resources"
