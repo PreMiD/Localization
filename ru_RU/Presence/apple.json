@@ -95,6 +95,18 @@
         "message": "Статья поддержки Apple",
         "description": "Support article"
     },
+    "apple.appStoreCon": {
+        "message": "Подключается...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Эл. почта",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Контакты",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
     "apple.iCloudCalendar": {
         "message": "Календарь",
         "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
@@ -102,6 +114,14 @@
     "apple.iCloudPhotos": {
         "message": "Фотографии",
         "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Примечания",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Уведомления",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudPagesCreate": {
         "message": "Создание...",
@@ -111,9 +131,29 @@
         "message": "Комната ожидания",
         "description": "Before the keynote begins, you'll be in the waiting room"
     },
+    "apple.devNew": {
+        "message": "Что нового",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "Как отправить приложения",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "приложения для iPhone и iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "Распространение программного обеспечения",
+        "description": "Distribute software to the App Store"
+    },
     "apple.devDocs": {
         "message": "Документация",
         "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "Руководящие принципы человеческого интерфейса",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
     },
     "apple.devResources": {
         "message": "Ресурсы",
@@ -131,6 +171,10 @@
         "message": "Теги форума",
         "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
     },
+    "apple.forumPreferences": {
+        "message": "Предпочтения",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
     "apple.forumCreateThread": {
         "message": "Создаёт ветку",
         "description": "Creating a forum thread"
@@ -143,8 +187,36 @@
         "message": "Видеоролики",
         "description": "E.g. WWDC videos, old Keynotes, etc."
     },
+    "apple.devVidTopic": {
+        "message": "Просмотр видеотемы",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
+    },
     "apple.devNews": {
         "message": "Новости и обновления",
         "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Релизы",
+        "description": "New iOS, iPadOS etc. releases"
+    },
+    "apple.btnViewProduct": {
+        "message": "Просмотр продукта",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Смотрит сервис",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Просмотр Мероприятия",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "Посмотреть {0}",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewWWDC": {
+        "message": "Посмотреть {0}",
+        "description": "e.g.: \"View WWDC21\""
     }
 }
