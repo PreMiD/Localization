@@ -42,5 +42,25 @@
     "aliexpress.deletedOrders": {
         "message": "주문 삭제",
         "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress 무역 센터",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "쿠폰 보는 중",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "주소 보는 중",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress 고객센터",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress 판매 센터",
+        "description": ""
     }
 }
