@@ -7,6 +7,10 @@
 		"message": "** Swag ** 찾기",
 		"description": "Subtitle for store"
 	},
+	"merch.fit": {
+		"message": "**핏을 선택하세요**",
+		"description": "Product sizes"
+	},
 	"merch.cart": {
 		"message": "장바구니 담기",
 		"description": "Add product to cart"
