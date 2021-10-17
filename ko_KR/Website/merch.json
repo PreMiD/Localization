@@ -3,6 +3,10 @@
 		"message": "공식 ** PreMiD ** 상품 매장에 오신 것을 환영합니다!",
 		"description": "Merch store title"
 	},
+	"merch.swag": {
+		"message": "** Swag ** 찾기",
+		"description": "Subtitle for store"
+	},
 	"merch.cart": {
 		"message": "장바구니 담기",
 		"description": "Add product to cart"
