@@ -19,6 +19,10 @@
 		"message": "무엇을 찾고 있나요?",
 		"description": "Heading for the first requirement."
 	},
+	"partners.requirements.second.title": {
+		"message": "우리 방화벽",
+		"description": "Heading for the second requirement."
+	},
 	"partners.apply.button": {
 		"message": "지금 신청하세요!",
 		"description": "Button to apply for partner."
@@ -26,6 +30,26 @@
 	"partners.sponsors.title": {
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM 무료 - 쉬지 않고 15개 이상의 음악 스트림을 들어보자. 오직 여러분만을 위한 가장 좋고 최신의 음악으로!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "기술기업의 민첩성 현지화",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.packageCloud": {
+		"message": "모든 아티팩트에 대한 통합된 개발자 친화적인 인터페이스.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "웹의 최상의 뒤에.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix는 가장 큰 Netflix 관련 Discord 서버입니다. 여기에서 같은 생각을 가진 사람들과 좋아하는 시리즈나 영화에 대해 토론하십시오.",
+		"description": "Description for r/Netflix."
 	},
 	"partners.apply.title": {
 		"message": "파트너에 지원하기",
