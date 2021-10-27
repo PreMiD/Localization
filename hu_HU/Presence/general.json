@@ -87,10 +87,6 @@
 		"message": "Sorozatot néz",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Filmet néz",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Epizódot néz",
 		"description": "Used as the title for the button in Discord."
