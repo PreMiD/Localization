@@ -303,7 +303,7 @@
 		"message": "Watch Episode",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
+	"general.buttonWatchMovie": {
 		"message": "Watch Movie",
 		"description": "Used as the title for the button in Discord."
 	},
