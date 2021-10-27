@@ -295,10 +295,6 @@
 		"message": "Afficher la série",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Afficher le film",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Afficher l'épisode",
 		"description": "Used as the title for the button in Discord."
