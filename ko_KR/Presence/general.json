@@ -283,10 +283,6 @@
 		"message": "시리즈 보기",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "영화 보기",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "에피소드 보기",
 		"description": "Used as the title for the button in Discord."
