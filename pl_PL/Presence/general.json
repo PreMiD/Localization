@@ -295,10 +295,6 @@
 		"message": "Ogląda serial",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Obejrzyj film",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Ogląda odcinek",
 		"description": "Used as the title for the button in Discord."

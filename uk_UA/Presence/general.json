@@ -275,10 +275,6 @@
 		"message": "Дивитися серіал",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "Дивитися фільм",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "Дивитися серію",
 		"description": "Used as the title for the button in Discord."

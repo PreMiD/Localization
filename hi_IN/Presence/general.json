@@ -295,10 +295,6 @@
 		"message": "वेब सीरीज़",
 		"description": "Used as the title for the button in Discord."
 	},
-	"general.buttonViewMovie": {
-		"message": "मूवी देखें",
-		"description": "Used as the title for the button in Discord."
-	},
 	"general.buttonViewEpisode": {
 		"message": "एपिसोड देखें",
 		"description": "Used as the title for the button in Discord."
