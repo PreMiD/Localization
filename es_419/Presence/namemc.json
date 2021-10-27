@@ -1,0 +1,74 @@
+{
+	"namemc.upcomingNames": {
+		"message": "Viendo Próximos Nombres",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
+	"namemc.skinsTrending": {
+		"message": "Viendo Aspectos en Tendencia",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTop": {
+		"message": "Revisando el top de skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsNew": {
+		"message": "Viendo Nuevos Aspectos",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsRandom": {
+		"message": "Viendo Aspectos Aleatorios",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTagged": {
+		"message": "Viendo Aspectos Etiquetados",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTag": {
+		"message": "Viendo Aspectos con Etiqueta {0}",
+		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
+	},
+	"namemc.viewSkin": {
+		"message": "Viendo un Aspecto",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "Viendo Capas",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "Viendo Capa:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Viendo Servidores",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Viendo Servidor:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Ver Servidor",
+		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "Viendo Cómo Reclamar su Perfil",
+		"description": ""
+	},
+	"namemc.profileEdit": {
+		"message": "Editando su{0}información del perfil",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"namemc.viewFriends": {
+		"message": "Viendo sus amigos",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "Viendo sus aspectos",
+		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "Viendo sus emojis del perfil",
+		"description": "You can have an emoji next to your name, you select it here."
+	}
+}
