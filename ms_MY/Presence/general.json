@@ -295,8 +295,16 @@
 		"message": "Melihat Siri",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Lihat Filem",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Tonton Episod",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Tonton Filem",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
