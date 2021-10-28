@@ -295,8 +295,16 @@
 		"message": "シリーズを見る",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "映画を見る",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "エピソードを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "映画を見る",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
