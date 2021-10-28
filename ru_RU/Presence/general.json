@@ -295,6 +295,10 @@
 		"message": "Посмотреть сериал",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Посмотреть кино",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Посмотреть серию",
 		"description": "Used as the title for the button in Discord."
