@@ -295,8 +295,16 @@
 		"message": "Lihat Serial",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Lihat Film",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Tonton Episode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Tonton Film",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
