@@ -43,6 +43,10 @@
 		"message": "일정표를 보는 중",
 		"description": "Second part of the \"of {0}'s channel\" string"
 	},
+	"v live.channelMy": {
+		"message": "\"나의\" 페이지 보기",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.channelStore": {
 		"message": "상점 페이지를 보는 중",
 		"description": "Second part of the \"of {0}'s channel\" string"
