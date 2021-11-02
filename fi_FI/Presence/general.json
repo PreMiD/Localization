@@ -295,8 +295,16 @@
 		"message": "Näytä sarja",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Näytä elokuva",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Katso jakso",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Katso elokuvaa",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
