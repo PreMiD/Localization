@@ -1,1 +1,6 @@
-{}
+{
+	"premid.pageTroubleshooting": {
+		"message": "Rješavanje problema",
+		"description": "A page name"
+	}
+}

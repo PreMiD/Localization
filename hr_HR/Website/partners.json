@@ -1,1 +1,10 @@
-{}
+{
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix je najveći Discord server povezan s Netflixom. Ovdje razgovarajte o svojim omiljenim serijama ili filmovima s istomišljenicima.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.select.other": {
+		"message": "Ostalo",
+		"description": "Select 'Other' category."
+	}
+}
