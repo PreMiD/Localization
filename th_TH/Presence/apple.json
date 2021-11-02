@@ -95,6 +95,10 @@
         "message": "เกม",
         "description": "Apps classified under the \"Games\" category on the App Store"
     },
+    "apple.devNews": {
+        "message": "ข่าวสารและอัปเดต",
+        "description": "News and updates (that matter) for developers"
+    },
     "apple.btnViewOS": {
         "message": "ดู {0}",
         "description": "e.g. \"View iOS 15\""
@@ -106,5 +110,17 @@
     "apple.btnViewWWDC": {
         "message": "ดู {0}",
         "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "ดูเธรด",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "ดูแท็ก",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "ดูโปรไฟล์ของ {0}",
+        "description": "View a forum profile of a user"
     }
 }
