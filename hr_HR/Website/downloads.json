@@ -3,6 +3,50 @@
 		"message": "Vrijeme da se pokažeš.",
 		"description": "Title"
 	},
+	"downloads.header.subtitle": {
+		"message": "Koristi PreMiD sada i pokaži svojim prijateljima što radš, možda pronađeš nekoga sa istim interestima.",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Započnimo",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "Preuzmi PreMid",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Instalirajte našu aplikaciju",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Dodaj naše proširenje svome pregledniku",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_4": {
+		"message": "Ponovno učitaj ovu stranicu i provjeri je li proširenje povezano",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "I dalje imaš problema? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Ovdje smo da bismo ti pomogli!",
+		"description": "Link to our discord"
+	},
+	"downloads.appdownloading.header": {
+		"message": "Aplikacija",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "Proširenje",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "Upozorenje:",
+		"description": "First part of the message."
+	},
 	"downloads.button.done": {
 		"message": "Gotovo",
 		"description": "Button on the page when trying to download with adblocker on."
