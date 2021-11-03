@@ -36,7 +36,7 @@
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
-		"message": "Bővítmény letöltése",
+		"message": "Bővítmény",
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
