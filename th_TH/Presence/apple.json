@@ -43,6 +43,10 @@
         "message": "บัตรของขวัญ",
         "description": "Gift cards for e.g. the App Store"
     },
+    "apple.shopBag": {
+        "message": "ถุงสินค้า",
+        "description": "Shopping cart"
+    },
     "apple.shopBagSummary": {
         "message": "รวม: {0}",
         "description": "The total price of the items in your bag (shopping cart)"
@@ -95,13 +99,37 @@
         "message": "เกม",
         "description": "Apps classified under the \"Games\" category on the App Store"
     },
+    "apple.forumRegister": {
+        "message": "กำลังลงทะเบียน",
+        "description": "Register a new account (alternative translation: registering)"
+    },
     "apple.devNews": {
         "message": "ข่าวสารและอัปเดต",
         "description": "News and updates (that matter) for developers"
     },
+    "apple.btnViewProduct": {
+        "message": "ดูสินค้า",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "ดูบริการ",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "ดูอีเว้นท์",
+        "description": "Button text"
+    },
     "apple.btnViewOS": {
         "message": "ดู {0}",
         "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewStudio": {
+        "message": "ดูสตูดิโอ {0}",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "ดูแอป",
+        "description": "e.g. \"View App\""
     },
     "apple.btnViewDeveloper": {
         "message": "ดูผู้พัฒนา",
