@@ -23,9 +23,17 @@
         "message": "ภาพรวม",
         "description": "Overview of e.g. all pages of a category"
     },
+    "apple.purchasingAdvice": {
+        "message": "คำแนะนำการซื้อ",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
     "apple.viewEvent": {
         "message": "กำลังดูอีเว้นท์",
         "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.contact": {
+        "message": "กำลังติดต่อฝ่ายช่วยเหลือ",
+        "description": "Contact support"
     },
     "apple.chooseLang": {
         "message": "กำลังเลือกภาษา...",
@@ -34,6 +42,14 @@
     "apple.other": {
         "message": "อื่นๆ",
         "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "สายนาฬิกา Apple",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "อุปกรณ์เสริมสำหรับสินค้าของ Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
     },
     "apple.shopStudio": {
         "message": "Apple Watch Studio",
