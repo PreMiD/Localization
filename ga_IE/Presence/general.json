@@ -303,6 +303,10 @@
 		"message": "Féach ar Eipeasóid",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchMovie": {
+		"message": "Féach ar an Scannán",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonWatchVideo": {
 		"message": "Féach Físeán",
 		"description": "Used as the title for the button in Discord."
