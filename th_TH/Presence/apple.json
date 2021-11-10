@@ -48,12 +48,16 @@
         "description": "Bands (Bracelets) for the Apple Watch"
     },
     "apple.shopAccessories": {
-        "message": "อุปกรณ์เสริมสำหรับสินค้าของ Apple",
+        "message": "อุปกรณ์เสริมของ Apple",
         "description": "Accessories for Apple products (e.g iPhone case)"
     },
     "apple.shopStudio": {
         "message": "Apple Watch Studio",
         "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "รายการโปรด",
+        "description": "Favorite products"
     },
     "apple.shopGiftCards": {
         "message": "บัตรของขวัญ",
@@ -66,6 +70,14 @@
     "apple.shopBagSummary": {
         "message": "รวม: {0}",
         "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "ฝ่ายสนับสนุนของ Apple",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "บทความบริการช่วยเหลือของ Apple",
+        "description": "Support article"
     },
     "apple.appStoreCon": {
         "message": "กำลังเชื่อมต่อ...",
@@ -95,9 +107,21 @@
         "message": "เตือนความจำ",
         "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
     },
+    "apple.iCloudPagesCreate": {
+        "message": "กำลังสร้าง...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "ห้องนั่งรอ",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
     "apple.devNew": {
         "message": "มีอะไรใหม่",
         "description": "List of updates"
+    },
+    "apple.devPhonePad": {
+        "message": "แอพสำหรับ iPhone และ iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
     },
     "apple.devDocs": {
         "message": "เอกสาร",
@@ -118,6 +142,14 @@
     "apple.forumRegister": {
         "message": "กำลังลงทะเบียน",
         "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "วีดีโอ",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devVidTopic": {
+        "message": "กำลังสำรวจหัวข้อของวีดีโอ",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
     },
     "apple.devNews": {
         "message": "ข่าวสารและอัปเดต",
