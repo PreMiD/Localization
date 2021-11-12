@@ -1,1 +1,18 @@
-{}
+{
+	"netflix.viewList": {
+		"message": "Se uită la lista sa",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Administrează profilurile sale",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Se uită la ce e nou și{0}popular pe Netflix",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"netflix.referral": {
+		"message": "Obține link-ul de recomandare",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	}
+}
