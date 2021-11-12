@@ -1,6 +1,66 @@
 {
+    "youtube.ad": {
+        "message": "Se uită la o reclamă",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Navigând printre videoclipuri",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Navigând printre playlist-uri",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.trending": {
+        "message": "Se uită la ce este în tendințe",
+        "description": ""
+    },
     "youtube.browsingThrough": {
         "message": "Navigând prin",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "abonamentele sale",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "biblioteca sa",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "istoricul lor",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "achiziţiile lor",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.upload": {
+        "message": "Uploadează ceva...",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Uitându-se la",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "analiticele canalului",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "comentariile canalului",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "traducerile canalului",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "pagina artistului",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Vizualizează panoul său de control",
+        "description": ""
     }
 }
