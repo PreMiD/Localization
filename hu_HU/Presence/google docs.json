@@ -3,6 +3,14 @@
 		"message": "Dokumentumot néz",
 		"description": "Displayed when the user is viewing a Google Document"
 	},
+	"google docs.viewingForm": {
+		"message": "Űrlapot néz",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.viewingSheet": {
+		"message": "Táblázatot néz",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
 	"google docs.viewingPresentation": {
 		"message": "Prezentációt néz",
 		"description": "Displayed when the user is viewing a Google presentation"

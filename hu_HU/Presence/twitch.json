@@ -99,6 +99,10 @@
 		"message": "Közvetítési eszközöket néz",
 		"description": ""
 	},
+	"twitch.helpTopic": {
+		"message": "Témát néz:",
+		"description": ""
+	},
 	"twitch.affiliate": {
 		"message": "Twitch Érdekelt Program",
 		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."

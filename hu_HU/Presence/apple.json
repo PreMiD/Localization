@@ -1,4 +1,12 @@
 {
+    "apple.viewService": {
+        "message": "Szolgáltatást néz:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.viewEvent": {
+        "message": "Eseményt néz",
+        "description": "Viewing an event (e.g. September event)"
+    },
     "apple.other": {
         "message": "Egyéb",
         "description": "Other pages not added to the code"

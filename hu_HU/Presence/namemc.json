@@ -10,5 +10,9 @@
 	"namemc.servers": {
 		"message": "Szervereket néz",
 		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Szervert néz:",
+		"description": ""
 	}
 }

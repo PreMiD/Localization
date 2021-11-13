@@ -14,5 +14,9 @@
     "facebook.userAbout": {
         "message": "Felhasználóról olvas:",
         "description": ""
+    },
+    "facebook.weather": {
+        "message": "A mai időjárást nézi",
+        "description": ""
     }
 }

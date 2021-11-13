@@ -6,5 +6,9 @@
 	"genius.viewHome": {
 		"message": "Főoldalt nézi",
 		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Albumot néz:",
+		"description": "Album of a song"
 	}
 }

@@ -1,4 +1,8 @@
 {
+    "hypixel.staff": {
+        "message": "Staff listát néz",
+        "description": ""
+    },
     "hypixel.game": {
         "message": "Játékot néz:",
         "description": ""
