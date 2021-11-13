@@ -14,5 +14,9 @@
     "apple.devGames": {
         "message": "Játék",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.devVideos": {
+        "message": "Videók",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
     }
 }
