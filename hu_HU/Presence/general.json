@@ -83,6 +83,50 @@
 		"message": "Kategóriát néz:",
 		"description": ""
 	},
+	"general.viewChannel": {
+		"message": "Csatornát néz:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Epizódot néz:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Műfajt néz:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Tagot néz:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Filmet néz:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Lejátszási listát néz:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Terméket néz:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Az ő profilját nézi:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Sorozatot néz:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Műsort néz:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Fiókját nézi",
+		"description": ""
+	},
 	"general.viewing": {
 		"message": "Nézi:",
 		"description": ""
