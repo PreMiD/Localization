@@ -1,4 +1,8 @@
 {
+	"spotify.charts": {
+		"message": "Nézi a listákat",
+		"description": ""
+	},
 	"spotify.madeForYou": {
 		"message": "\"Neked készült\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
