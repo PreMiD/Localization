@@ -75,6 +75,18 @@
 		"message": "Áruház",
 		"description": ""
 	},
+	"general.viewAnime": {
+		"message": "Animét néz:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Kategóriát néz:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Nézi:",
+		"description": ""
+	},
 	"general.viewPage": {
 		"message": "Oldal megtekintése:",
 		"description": ""

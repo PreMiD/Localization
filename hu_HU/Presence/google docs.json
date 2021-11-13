@@ -1,1 +1,10 @@
-{}
+{
+	"google docs.viewingDoc": {
+		"message": "Dokumentumot néz",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Prezentációt néz",
+		"description": "Displayed when the user is viewing a Google presentation"
+	}
+}

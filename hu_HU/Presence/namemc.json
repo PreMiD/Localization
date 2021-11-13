@@ -1,1 +1,14 @@
-{}
+{
+	"namemc.viewSkin": {
+		"message": "Skint néz",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "Köpenyeket néz",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Szervereket néz",
+		"description": ""
+	}
+}

@@ -1,4 +1,8 @@
 {
+	"twitter.viewList": {
+		"message": "Listát néz:",
+		"description": ""
+	},
 	"twitter.bookmarks": {
 		"message": "Könyvjelzők",
 		"description": ""

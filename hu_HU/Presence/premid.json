@@ -1,4 +1,12 @@
 {
+	"premid.viewPage": {
+		"message": "Oldalt néz:",
+		"description": ""
+	},
+	"premid.viewPresence": {
+		"message": "Presencet néz:",
+		"description": ""
+	},
 	"premid.pageHome": {
 		"message": "Főoldal",
 		"description": "A page name"
