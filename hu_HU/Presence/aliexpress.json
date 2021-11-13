@@ -1,1 +1,26 @@
-{}
+{
+    "aliexpress.store": {
+        "message": "Boltot néz:",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Nézi a rendeléseit",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Nézi a",
+        "description": "Part 1 "
+    },
+    "aliexpress.deletedOrders": {
+        "message": "törölt megrendelések",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.coupons": {
+        "message": "Nézi a kuponjait",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Nézi a lakcímét",
+        "description": ""
+    }
+}
