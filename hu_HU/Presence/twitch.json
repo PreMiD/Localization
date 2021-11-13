@@ -15,8 +15,20 @@
 		"message": "Partnerek",
 		"description": "Page name"
 	},
+	"twitch.press": {
+		"message": "Press Center",
+		"description": "Page name"
+	},
 	"twitch.security": {
 		"message": "Biztonság",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Kisegitő lehetőségek",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Reklám lehetőségek",
 		"description": "Page name"
 	},
 	"twitch.guidelines": {
@@ -45,6 +57,14 @@
 	},
 	"twitch.viewFriends": {
 		"message": "Barátait nézi...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Feliratkozásait nézi...",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Kódot vált be...",
 		"description": ""
 	},
 	"twitch.campMusic": {
@@ -99,6 +119,10 @@
 		"message": "Közvetítési eszközöket néz",
 		"description": ""
 	},
+	"twitch.extensions": {
+		"message": "Bővitményeket néz",
+		"description": ""
+	},
 	"twitch.helpTopic": {
 		"message": "Témát néz:",
 		"description": ""
@@ -117,6 +141,14 @@
 	},
 	"twitch.devProduct": {
 		"message": "Twitch Fejleszőti Termékek",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Sikeres történetek a közösségből",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Segítőkész erőforrások",
 		"description": "Page name"
 	}
 }

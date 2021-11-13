@@ -2,5 +2,9 @@
     "pinterest.pin": {
         "message": "Kitűzést néz",
         "description": ""
+    },
+    "pinterest.home": {
+        "message": "Főoldalát szerkeszti",
+        "description": ""
     }
 }

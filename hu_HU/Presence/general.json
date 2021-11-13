@@ -139,6 +139,14 @@
 		"message": "Kívánságlista:",
 		"description": ""
 	},
+	"general.repeatAll": {
+		"message": "Összes zene ismétlése",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Ismétlődik",
+		"description": ""
+	},
 	"general.buttonViewSeries": {
 		"message": "Sorozatot néz",
 		"description": "Used as the title for the button in Discord."
@@ -149,6 +157,26 @@
 	},
 	"general.buttonWatchVideo": {
 		"message": "Videót néz",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Hallgasd együtt",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Szerző megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Lejátszási lista megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Podcast megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Cikk olvasása",
 		"description": "Used as the title for the button in Discord."
 	}
 }

@@ -3,12 +3,36 @@
 		"message": "Barátait nézi...",
 		"description": ""
 	},
+	"discord.nitro": {
+		"message": "Nitróról olvas...",
+		"description": ""
+	},
 	"discord.settings": {
 		"message": "Beállításait nézi...",
 		"description": ""
 	},
+	"discord.buttonInvite": {
+		"message": "Meghivó link megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
 	"discord.browseThrough": {
 		"message": "Böngészi a(z)",
 		"description": "The first part of the next 17 strings"
+	},
+	"discord.devs.portal": {
+		"message": "Fejlesztői portál",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discord Státusz",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord Blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
 	}
 }

@@ -1,4 +1,8 @@
 {
+    "rythm.openDashboard": {
+        "message": "Irányítópult megnyitása",
+        "description": "Button for opening the web dashboard."
+    },
     "rythm.inviteBot": {
         "message": "Bot meghívása",
         "description": "Button for inviting the bot."

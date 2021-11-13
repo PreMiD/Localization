@@ -3,6 +3,10 @@
         "message": "Boltot néz:",
         "description": ""
     },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "megtekintett termékek",
+        "description": "Part 2 of 2"
+    },
     "aliexpress.orders": {
         "message": "Nézi a rendeléseit",
         "description": ""
@@ -15,12 +19,24 @@
         "message": "törölt megrendelések",
         "description": "Part 2 of \"Viewing their\""
     },
+    "aliexpress.trade": {
+        "message": "AliExpress Trade Center",
+        "description": ""
+    },
     "aliexpress.coupons": {
         "message": "Nézi a kuponjait",
         "description": ""
     },
     "aliexpress.address": {
         "message": "Nézi a lakcímét",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress Help Center",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress Sell Center",
         "description": ""
     }
 }

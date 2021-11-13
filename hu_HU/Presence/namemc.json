@@ -14,5 +14,9 @@
 	"namemc.viewServer": {
 		"message": "Szervert néz:",
 		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Szerver megtekintése",
+		"description": "Used as the title for the button in Discord."
 	}
 }
