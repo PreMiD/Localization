@@ -11,6 +11,30 @@
         "message": "Egyéb",
         "description": "Other pages not added to the code"
     },
+    "apple.shopGiftCards": {
+        "message": "Ajándékkártya",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.appStoreCon": {
+        "message": "Csatlakozás...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Naptár",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Fotók",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Várószoba",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "Újdonságok",
+        "description": "List of updates"
+    },
     "apple.devDocs": {
         "message": "Dokumentáció",
         "description": "Developer documentation"
