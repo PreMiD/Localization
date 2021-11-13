@@ -1,4 +1,12 @@
 {
+	"discord.friends": {
+		"message": "Barátait nézi...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Beállításait nézi...",
+		"description": ""
+	},
 	"discord.browseThrough": {
 		"message": "Böngészi a(z)",
 		"description": "The first part of the next 17 strings"
