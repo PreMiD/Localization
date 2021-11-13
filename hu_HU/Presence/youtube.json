@@ -1,11 +1,23 @@
 {
+    "youtube.trending": {
+        "message": "Nézi a felkapottakat",
+        "description": ""
+    },
     "youtube.upload": {
         "message": "Feltölt valamit...",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Videóit nézi",
         "description": ""
     },
     "youtube.studio.viewTheir": {
         "message": "Nézi a",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "csatornaelemzést",
+        "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
         "message": "csatorna hozzászólásait",
