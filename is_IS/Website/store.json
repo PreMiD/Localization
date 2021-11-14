@@ -59,8 +59,16 @@
 		"message": "Flokkar",
 		"description": "Category heading"
 	},
+	"store.category.all": {
+		"message": "Allt",
+		"description": "Category at the top"
+	},
 	"store.category.games": {
 		"message": "Leikir",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Tónlist",
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
