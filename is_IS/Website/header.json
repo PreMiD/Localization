@@ -35,6 +35,10 @@
     "message": "Þátttakendur",
     "description": "Contributors tab"
   },
+  "header.login": {
+    "message": "Innskráning",
+    "description": "Login Button"
+  },
   "header.lia": {
     "message": "Skráður inn sem",
     "description": "Indicates which user is logged in"
