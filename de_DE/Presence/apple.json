@@ -23,6 +23,10 @@
         "message": "Übersicht",
         "description": "Overview of e.g. all pages of a category"
     },
+    "apple.purchasingAdvice": {
+        "message": "Kaufberatung",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
     "apple.storeFinder": {
         "message": "Store finden",
         "description": "Tool used to find the nearest store"
@@ -46,6 +50,42 @@
     "apple.shopBands": {
         "message": "Apple Watch Armbänder",
         "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopFavorites": {
+        "message": "Favoriten",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Geschenkkarten",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "Plane deinen Besuch",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopBag": {
+        "message": "Einkaufstasche",
+        "description": "Shopping cart"
+    },
+    "apple.shopBagSummary": {
+        "message": "Gesamtsumme: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "Apple Support",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Apple Support Artikel",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "Verbinde...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Mail",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudContacts": {
         "message": "Kontakte",
@@ -83,6 +123,10 @@
         "message": "Dokumentation",
         "description": "Developer documentation"
     },
+    "apple.devResources": {
+        "message": "Ressourcen",
+        "description": "Apple Design Resources"
+    },
     "apple.devFeatures": {
         "message": "Funktionen",
         "description": "Features for app design"
@@ -90,5 +134,45 @@
     "apple.devGames": {
         "message": "Spiele",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "Forum Tags",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumCreateThread": {
+        "message": "Erstellt Thread",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "Registrierung",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "Videos",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.btnViewProduct": {
+        "message": "Produkt ansehen",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Service ansehen",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Event ansehen",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "{0} ansehen",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewApp": {
+        "message": "App ansehen",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewWWDC": {
+        "message": "{0} ansehen",
+        "description": "e.g.: \"View WWDC21\""
     }
 }
