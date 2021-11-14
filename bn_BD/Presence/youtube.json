@@ -47,6 +47,10 @@
         "message": "তার ইতিহাস",
         "description": "Part two of \"Browsing through\""
     },
+    "youtube.purchases": {
+        "message": "তার ক্রয়ে",
+        "description": "Part two of \"Browsing through\""
+    },
     "youtube.reportHistory": {
         "message": "দেখছে তার রিপোর্ট ইতিহাস",
         "description": ""
@@ -79,9 +83,25 @@
         "message": "এডিট করছে ভিডিও:",
         "description": ""
     },
+    "youtube.studio.videoAnalytics": {
+        "message": "দেখছে ভিডিওটির অ্যানালিটিক্স:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "দেখছে ভিডিওটির কমেন্টগুলো:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "দেখছে ভিডিওটির অনুবাদগুলো:",
+        "description": ""
+    },
     "youtube.studio.viewTheir": {
         "message": "দেখছে তার",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "চ্যানেল অ্যানালিটিক্স",
+        "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelComments": {
         "message": "চ্যানেল কমেন্টগুলো",

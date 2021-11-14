@@ -1,4 +1,8 @@
 {
+	"spotify.featured": {
+		"message": "প্রস্তাবিত গান",
+		"description": ""
+	},
 	"spotify.bestPodcasts": {
 		"message": "সেরা পডকাস্ট",
 		"description": ""
