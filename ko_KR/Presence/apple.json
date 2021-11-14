@@ -26,5 +26,9 @@
     "apple.devNews": {
         "message": "뉴스 및 업데이트",
         "description": "News and updates (that matter) for developers"
+    },
+    "apple.btnViewProfile": {
+        "message": "{0} 의 프로필 보기",
+        "description": "View a forum profile of a user"
     }
 }
