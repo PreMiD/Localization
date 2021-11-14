@@ -172,7 +172,7 @@
 		"description": ""
 	},
 	"general.viewMovie": {
-		"message": "Schaut Film:",
+		"message": "Betrachtet Film:",
 		"description": ""
 	},
 	"general.viewPlaylist": {
@@ -188,11 +188,11 @@
 		"description": ""
 	},
 	"general.viewSeries": {
-		"message": "Schaut Serie:",
+		"message": "Betrachtet Serie:",
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "Schaut Show:",
+		"message": "Betrachtet Show:",
 		"description": ""
 	},
 	"general.viewAccount": {
