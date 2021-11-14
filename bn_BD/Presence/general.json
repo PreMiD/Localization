@@ -295,8 +295,16 @@
 		"message": "দেখো সিরিজটি",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "মুভিটি সম্পর্কে দেখো",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "দেখো এপিসোডটি",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "দেখো মুভিটি",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
