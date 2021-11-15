@@ -3,6 +3,10 @@
 		"message": "파트너",
 		"description": "Heading for page."
 	},
+	"partners.why.benefit1.title": {
+		"message": "당신의 무료 Presence",
+		"description": "Heading for the first benefit."
+	},
 	"partners.why.benefit3.title": {
 		"message": "메타 태그 통합",
 		"description": "Heading for the third benefit."
