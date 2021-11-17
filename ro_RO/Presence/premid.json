@@ -43,6 +43,10 @@
 		"message": "API",
 		"description": "A page name"
 	},
+	"premid.pageSlideshowClass": {
+		"message": "Clasa Slideshow",
+		"description": "A page name"
+	},
 	"premid.pageIframe": {
 		"message": "Înțelegerea iframe-ului",
 		"description": "A page name"

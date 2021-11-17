@@ -1,1 +1,22 @@
-{}
+{
+  "google classroom.calendar": {
+    "message": "Se uită la calendarul său",
+    "description": "Displayed when the user viewing their calendar"
+  },
+  "google classroom.todo": {
+    "message": "Se uită la lista sa de sarcini",
+    "description": "Displayed when the user is viewing their to-do list"
+  },
+  "google classroom.assignmentPrivate": {
+    "message": "Se uită la o sarcină",
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.assignment": {
+    "message": "Se uită la o sarcină de la:",
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"
+  },
+  "google classroom.class": {
+    "message": "Se uită la clasă",
+    "description": "Displayed when a user is viewing a class"
+  }
+}
