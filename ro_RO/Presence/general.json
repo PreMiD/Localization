@@ -163,6 +163,10 @@
 		"message": "Vezi profilul",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewArtist": {
+		"message": "Vezi artistul",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonReadArticle": {
 		"message": "Citește articolul",
 		"description": "Used as the title for the button in Discord."
