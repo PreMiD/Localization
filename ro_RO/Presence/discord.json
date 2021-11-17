@@ -22,5 +22,9 @@
 	"discord.merch": {
 		"message": "Discord Merch",
 		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Se uită la colecția:",
+		"description": ""
 	}
 }
