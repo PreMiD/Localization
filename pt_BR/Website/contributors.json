@@ -15,9 +15,17 @@
 		"message": "Líder do Projeto",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
+	"contributors.roles.marketingDirector": {
+		"message": "Diretor de Marketing",
+		"description": "'Marketing Director' title for contributors and user pages."
+	},
 	"contributors.roles.administrator": {
 		"message": "Administrador",
 		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Revisor(a)",
+		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.localizationManager": {
 		"message": "Gerente de localização",
@@ -34,6 +42,10 @@
 	"contributors.roles.supportAgent": {
 		"message": "Agente de Suporte",
 		"description": "'Support Agent' title for contributors and user pages."
+	},
+	"contributors.roles.representative": {
+		"message": "Representante",
+		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Revisor",
