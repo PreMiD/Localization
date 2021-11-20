@@ -107,6 +107,10 @@
 		"message": "Nome",
 		"description": "Name filed."
 	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Ex: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
 	"partners.apply.success": {
 		"message": "Obrigado por se inscrever!",
 		"description": "Success message when applying."
