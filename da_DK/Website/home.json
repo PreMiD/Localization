@@ -15,6 +15,10 @@
 		"message": "Afspilning",
 		"description": "Discord Rich Presence -> small image text;"
 	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
 	"home.examples.status.browsing": {
 		"message": "Søger...",
 		"description": "Discord Rich Presence -> small image text;"
