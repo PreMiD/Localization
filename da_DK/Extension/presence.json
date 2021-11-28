@@ -1,10 +1,10 @@
 {
   "presence.playback.playing": {
-    "message": "Afspilning",
+    "message": "Afspiller",
     "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "message": "Afspilning pauset",
+    "message": "Afspilning på pause",
     "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
   "presence.activity.browsing": {
@@ -16,7 +16,7 @@
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
-    "message": "Læsning",
+    "message": "Læser",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {

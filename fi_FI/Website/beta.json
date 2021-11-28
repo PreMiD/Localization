@@ -24,7 +24,7 @@
 		"description": "Features list"
 	},
 	"beta.register.text": {
-		"message": "Oletko valmis? Liity {0} muihin Beta testaajiin!",
+		"message": "Oletko valmis? Liity {0} muun betatestaajien joukkoon!",
 		"description": "{0} will be replaced with the beta testers count -> is a variable"
 	},
 	"beta.register.button": {

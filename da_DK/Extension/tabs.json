@@ -52,7 +52,7 @@
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "Fixet",
+    "message": "Rettet",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }

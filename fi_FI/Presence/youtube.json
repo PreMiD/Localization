@@ -1,6 +1,6 @@
 {
     "youtube.ad": {
-        "message": "Tällä hetkellä katselee mainosta",
+        "message": "Katsoo juuri nyt mainosta",
         "description": ""
     },
     "youtube.browsingVideos": {
@@ -28,11 +28,11 @@
         "description": "{0} will be replaced with the channel name"
     },
     "youtube.trending": {
-        "message": "Katselee trendaavia videoita",
+        "message": "Tutkii trendaavia videoita",
         "description": ""
     },
     "youtube.browsingThrough": {
-        "message": "Selailee",
+        "message": "Selaa",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.subscriptions": {
@@ -84,27 +84,39 @@
         "description": ""
     },
     "youtube.studio.videoAnalytics": {
-        "message": "Katselee videon analyytikkoja:",
+        "message": "Tarkastelee videon analytiikkoja:",
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Katselee videon kommentteja:",
+        "message": "Lukee videon kommentteja:",
         "description": ""
     },
     "youtube.studio.videoTranslations": {
-        "message": "Katselee videon käännöksiä:",
+        "message": "Tarkastelee videon käännöksiä:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Katselee heidän\n",
+        "message": "Tarkastelee",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
     "youtube.studio.channelAnalytics": {
-        "message": "kanavan analytiikkoja",
+        "message": "kanavansa analytiikkoja",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanavansa kommentteja",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanavansa käännöksiä",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
-        "message": "artistin sivu",
+        "message": "artistisivuaan",
         "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Tarkastelee hallintasivuaan",
+        "description": ""
     }
 }
