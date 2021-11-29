@@ -3,12 +3,76 @@
 		"message": "Descărcări",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "Job-uri",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Parteneri",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Centru de presă",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Securitate",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Accesibilitate",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Regulamentul Comunității",
 		"description": "Page name"
 	},
 	"twitch.home": {
 		"message": "Pagina principală",
 		"description": "Page name"
+	},
+	"twitch.viewTheir": {
+		"message": "Se uită la",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Analiticele canalului",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Rezumatul stream-urilor",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Realizări",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Activitatea comunității",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Lista urmăritorilor",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Colecții video",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clipuri",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Setările canalului",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Setări de moderare",
+		"description": "Part 2 of the string: \"Viewing their\""
 	}
 }
