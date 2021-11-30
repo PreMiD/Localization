@@ -194,5 +194,69 @@
 	"twitch.brandReal": {
 		"message": "Păstrând Twitch-ul real",
 		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Aducând metoda la nebunia noastră",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Maximalizând expresia noastră",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Să recapitulăm ce am învățat",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Urmărind evoluția brand-ului Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Blog-uri Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Se uită la arhiva blog-urilor din {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Se uită la ultimele postări de pe blog...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Centrul de Ajutor",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Se uită la un topic:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Se uită prin catalogul cu topic-uri...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Program de afiliere Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Developeri Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Documentație pentru developeri",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produse pentru developeri Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Povești cu succes din comunitate",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Resurse utile",
+		"description": "Page name"
 	}
 }
