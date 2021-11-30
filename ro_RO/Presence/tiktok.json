@@ -1,1 +1,18 @@
-{}
+{
+	"tiktok.forYou": {
+		"message": "Se uită la pagina:{0}For You",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"tiktok.following": {
+		"message": "Se uită la pagina:{0}Persoane urmărite",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"tiktok.viewing": {
+		"message": "Se uită TikTok-ul lui:",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "Vezi TikTok-ul",
+		"description": "Used as the title for the button in Discord."
+	}
+}
