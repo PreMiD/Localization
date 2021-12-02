@@ -16,11 +16,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Установите наше приложение",
+		"message": "Установите приложение",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Добавьте наше расширение в ваш браузер",
+		"message": "Добавьте расширение в браузер",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
@@ -136,7 +136,7 @@
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
-		"message": "Показать ранние выпуски",
+		"message": "Показать ранние релизы",
 		"description": ""
 	},
 	"downloads.showbeta.small": {
