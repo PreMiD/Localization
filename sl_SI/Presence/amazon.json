@@ -1,4 +1,8 @@
 {
+    "amazon.subscriptions": {
+        "message": "Ogledovanje naročnin",
+        "description": ""
+    },
     "amazon.adprefs": {
         "message": "Ogledovanje njegovih oglaševalskih nastavitvih",
         "description": ""
@@ -28,7 +32,7 @@
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "Ogledovanje njegovih",
+        "message": "Ogledovanje njihovih",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
