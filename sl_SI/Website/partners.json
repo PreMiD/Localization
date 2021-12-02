@@ -131,6 +131,10 @@
 		"message": "Boginja ki igra kot zabaven Discord Bot!",
 		"description": "Description for Erisly."
 	},
+	"partners.partner.reyfm": {
+		"message": "REYFM vam omogoča, da poslušate 15+ glasbenih radij zastonj - brez prekinitve. Z najboljšo in najnovejšo glasbo samo za vas!",
+		"description": "Description for REYFM."
+	},
 	"partners.partner.crowdin": {
 		"message": "Agilna lokalizacija za tehnološka podjetja.",
 		"description": "Description for Crowdin."
