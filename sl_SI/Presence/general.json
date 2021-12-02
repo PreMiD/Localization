@@ -107,6 +107,18 @@
 		"message": "Iskanje",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Pisanje",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Klicanje",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "V klicu...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Nakupovalni voziček",
 		"description": ""
@@ -203,13 +215,41 @@
 		"message": "Ogledovanje strani:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Gledanje filma",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Gledanje serij",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Gledanje oddaj",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Gledanje videoposnetek",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Čakanje vide-a na premieri",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Čakanje vide-a na premieri",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Gledanje prenos v živo",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Čakanje na začetek prenosa v živo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Čakanje na začetek prenosa v živo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Gledanje:",
@@ -230,5 +270,89 @@
 	"general.cookie": {
 		"message": "Pravilnik o Cookie-jih",
 		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Ponavljanje vseh pesmi",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Na ponavljanju",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Ogledovanje incidenta",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Zgodovina incidentov",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Zgodovina delovanja",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Prikaz Serij",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Prikaz Filma",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Ogled Epizod",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Ogled Filma",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Ogled Videa",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Ogled Prenosa v živo",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Prikaz Kanala",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Poslušajte Skupaj",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Prikaz Strani",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Prikaz Pesmi",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Prikaz Albuma",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Prikaz Profila",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Prikaz Artista",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Prikaz Seznam predvajanja",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Prikaz Podcasta",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Preberi Članek",
+		"description": "Used as the title for the button in Discord."
 	}
 }
