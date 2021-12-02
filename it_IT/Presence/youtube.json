@@ -67,6 +67,10 @@
         "message": "Visualizzando i propri eventi live",
         "description": ""
     },
+    "youtube.viewLiveDashboard": {
+        "message": "Visualizzando la propria live dashboard",
+        "description": ""
+    },
     "youtube.viewAudioLibrary": {
         "message": "Visualizzando la libreria audio",
         "description": ""
