@@ -151,6 +151,14 @@
 		"message": "Za najboljšimi v spletu.",
 		"description": "Description for Fastly."
 	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit je vaša spletna glasbena radio postaja, ki igra vaše najboljše hite 24/7 ter da naprej odkrijete svoje prihodnje uspešnice.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix je največji Discord strežnik, ki je povezan z Netflixom. Tukaj se pogovorite o vaših najljubših serij ali filmih z enako-mislečih ljudmi.",
+		"description": "Description for r/Netflix."
+	},
 	"partners.apply.title": {
 		"message": "Vpiši se za partnerja",
 		"description": "Partnership application modal title."
