@@ -295,8 +295,16 @@
 		"message": "Guarda le serie",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Visualizza il Film",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Guarda episodio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Guarda il film",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
