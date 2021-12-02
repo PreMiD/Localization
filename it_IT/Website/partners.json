@@ -155,6 +155,10 @@
 		"message": "OnlyHit è la tua stazione radio di musica online fatta per riprodurre le tue migliori canzoni 24/7 e per farti scoprire le tue canzoni future.",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix è il più grande server Discord relativo a Netflix. Discuti qui delle tue serie o film preferiti con persone che la pensano come te.",
+		"description": "Description for r/Netflix."
+	},
 	"partners.apply.title": {
 		"message": "Domanda per essere un partner",
 		"description": "Partnership application modal title."
