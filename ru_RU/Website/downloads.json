@@ -72,7 +72,7 @@
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
-		"message": "Войдите в систему, чтобы увидеть эти загрузки.",
+		"message": "Пожалуйста, войдите, чтобы увидеть эти загрузки.",
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
@@ -84,7 +84,7 @@
 		"description": "More info if the user doesn't alpha/beta access."
 	},
 	"downloads.latest.header": {
-		"message": "Ранние выпуски",
+		"message": "Ранние релизы",
 		"description": "Header above alpha/beta download buttons."
 	},
 	"downloads.warning.title": {
