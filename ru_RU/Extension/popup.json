@@ -56,7 +56,7 @@
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Магазин Presence",
+		"message": "Магазин презенсов",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
