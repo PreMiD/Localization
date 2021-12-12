@@ -28,7 +28,7 @@
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "Teideal Menubar",
+		"message": "Barra Teidil",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
@@ -43,21 +43,9 @@
 		"message": "Bainistigh",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
-	"popup.presences.noPresences": {
-		"message": "Níl aon láithreachtaí curtha leis",
-		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
-	},
 	"popup.presences.done": {
 		"message": "Críochnaithe",
 		"description": "Done button"
-	},
-	"popup.presences.load": {
-		"message": "Láithreacht ualaigh",
-		"description": "Load Presence button"
-	},
-	"popup.buttons.presenceStore": {
-		"message": "Stór láithreachta",
-		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
 		"message": "Teastaionn Cabhair?",
@@ -113,10 +101,6 @@
 	},
 	"popup.info.notConnectedDiscord": {
 		"message": "Gan aon nasc Discord!",
-		"description": "Shown in the extension when the application can't connect to Discord"
-	},
-	"popup.info.notConnectedDiscord.message": {
-		"message": "Ní raibh PreMiD in ann ceangal chun d’iarratas Discord! An bhfuil sé suiteáilte agus ag rith?* Fabhtcheartú*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
