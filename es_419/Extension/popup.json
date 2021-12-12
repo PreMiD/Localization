@@ -11,6 +11,10 @@
 		"message": "Configuración",
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
+	"popup.headings.general": {
+		"message": "General",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
 	"popup.headings.description": {
 		"message": "Descripción",
 		"description": "Title of the description area in the presence settings view."
@@ -30,6 +34,10 @@
 	"popup.setting.autoLaunch": {
 		"message": "Inicio automático",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Presences",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
 		"message": "Gestionar",
