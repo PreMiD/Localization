@@ -55,6 +55,10 @@
 		"message": "Aplikuj teraz!",
 		"description": "Button to apply for partner."
 	},
+	"partners.apply.disclaimer": {
+		"message": "Chodźmy razem do nieba!",
+		"description": "Disclaimer located above the apply button."
+	},
 	"partners.apply.jobs": {
 		"message": "Jeśli wolisz bezpośrednią pracę w PreMiD, zapoznaj się z naszą **ofertą pracy**.",
 		"description": "Hint located under the button."
@@ -63,9 +67,49 @@
 		"message": "Sponsorzy",
 		"description": "Heading for sponsors."
 	},
+	"partners.sponsors.description": {
+		"message": "PreMiD nie byłby możliwy bez tych niesamowitych ludzi.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Tak się ogląda anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings to dynamiczna gra PvP Arena nowej generacji, rozgrywana w przeglądarce.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat to międzynarodowe radio non-profit, które dąży do zapewnienia wysokiej jakości radia bez przerwy w działaniu, wiadomości i rozrywki.",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio to najpopularniejszy radiowy system informacyjno-rozrywkowy do gier symulacyjnych w Niemczech, Austrii i Szwajcarii!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga to bot Discordowy, który próbuje zaoferować wszystkie funkcje, których możesz potrzebować na raz!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Potężne i łatwe w użyciu narzędzie do tworzenia instalatora na wielu platformach.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Łatwo pokazuj swoim użytkownikom status w czasie rzeczywistym.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Bogini, która gra jako zabawny bot Discordowy!",
+		"description": "Description for Erisly."
+	},
 	"partners.partner.reyfm": {
 		"message": "REYFM pozwala ci słuchać ponad 15 strumieni muzyki za darmo - bez przerwy. Z najlepszą i najnowszą muzyką tylko dla Ciebie!",
 		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Proste rozwiązania lokalizacyjne dla firm technologicznych.",
+		"description": "Description for Crowdin."
 	},
 	"partners.partner.wikijs": {
 		"message": "Najpotężniejsze i rozbudowane otwarte oprogramowanie Wiki.",
