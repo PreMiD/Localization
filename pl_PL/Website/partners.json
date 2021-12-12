@@ -3,13 +3,69 @@
 		"message": "Partnerzy",
 		"description": "Heading for page."
 	},
+	"partners.slideshow.description": {
+		"message": "Już do nas należą",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Co powiesz na pójście do nieba zamiast do piekła?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Twój darmowy status Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Zostań zweryfikowany",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Na naszym serwerze Discord otrzymasz specjalną rolę i wielki zaszczyt.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Integracja z Meta-tag",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Automatycznie włącza twój status Presence, gdy ktoś odwiedza Twoją witrynę.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Uwiecznij się",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Bądź sławny",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Bądź polecany w naszych mediach społecznościowych.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
-		"message": "Wymaganie",
+		"message": "Wymagania",
 		"description": "Heading for the requirements."
 	},
 	"partners.requirements.second.description": {
 		"message": "Obecnie podejmujemy różne wysiłki w naszym programie partnerskim. Każdy powinien mieć szansę zostać zauważonym. Twórcy Twitcha powinni mieć co najmniej 500 obserwujących i co najmniej 10 równoczesnych widzów. Musisz przesyłać strumieniowo co najmniej 1 raz w tygodniu.",
 		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Aplikuj teraz!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.jobs": {
+		"message": "Jeśli wolisz bezpośrednią pracę w PreMiD, zapoznaj się z naszą **ofertą pracy**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsorzy",
+		"description": "Heading for sponsors."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM pozwala ci słuchać ponad 15 strumieni muzyki za darmo - bez przerwy. Z najlepszą i najnowszą muzyką tylko dla Ciebie!",
+		"description": "Description for REYFM."
 	},
 	"partners.partner.wikijs": {
 		"message": "Najpotężniejsze i rozbudowane otwarte oprogramowanie Wiki.",
@@ -18,6 +74,10 @@
 	"partners.apply.select.other": {
 		"message": "Inne",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nazwa",
+		"description": "Name filed."
 	},
 	"partners.apply.form.name.placeholder": {
 		"message": "Np: PreMiD",
@@ -30,5 +90,9 @@
 	"partners.apply.success": {
 		"message": "Dziękujemy za złożenie aplikacji!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error3": {
+		"message": "Dodaj link (musi zaczynać się od https:// i mieć końcówkę .png)",
+		"description": "Error when image link is entered wrong."
 	}
 }
