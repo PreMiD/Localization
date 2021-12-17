@@ -71,6 +71,14 @@
 		"message": "Nguyên tắc Presence",
 		"description": "A page name"
 	},
+	"premid.pagePresenceClass": {
+		"message": "Lớp Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Lớp Slideshow",
+		"description": "A page name"
+	},
 	"premid.pageIframe": {
 		"message": "Hiểu thêm về iframe",
 		"description": "A page name"
