@@ -3,6 +3,10 @@
 		"message": "Chào mừng đến với cửa hàng của **PreMiD**!",
 		"description": "Merch store title"
 	},
+	"merch.swag": {
+		"message": "Tìm **Phong Cách** của bạn",
+		"description": "Subtitle for store"
+	},
 	"merch.fit": {
 		"message": "**Chọn size**",
 		"description": "Product sizes"
