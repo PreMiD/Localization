@@ -59,6 +59,30 @@
 		"message": "Đang xem túi đồ Phần thưởng của họ...",
 		"description": ""
 	},
+	"twitch.viewDropsComp": {
+		"message": "Đang xem các chiến dịch Phần thưởng hoạt động...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Đang xem cài đặt...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Đang xem danh sách bạn bè...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Đang xem dịch vụ đã đăng ký...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Đang xem Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Đang giám sát streamer:",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "Đang xem",
 		"description": "Part 1 of the next 10 strings"
