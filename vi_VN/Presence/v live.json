@@ -3,6 +3,54 @@
 		"message": "Đang duyệt qua",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.newVid": {
+		"message": "trang video mới",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "trang biểu đồ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "trang sắp tới",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "danh sách các kênh",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "trang sự kiện",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "trang cửa hàng",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Đang lướt qua các tải lên mới nhất{0}của những người họ theo dõi",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "của kênh {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Đang xem trang chủ",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Đang xem trang lịch trình",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Đang xem trang \"của tôi\"",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Đang xem trang cửa hàng",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.channelBoard": {
 		"message": "Đang xem bảng \"{0}\"",
 		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"

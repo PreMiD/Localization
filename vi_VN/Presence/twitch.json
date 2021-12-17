@@ -179,6 +179,62 @@
 		"message": "Cài đặt Quà tặng",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
+	"twitch.tools": {
+		"message": "Đang xem Công cụ Phát trực tuyến",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Đang xem Phần mở rộng",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Đang đọc về Thương hiệu Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Giữ cho Twitch luôn trung thực",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Đưa phương pháp vào sự điên rồ (đáng quý) của chúng tôi",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Phóng đại biểu cảm của chúng tôi",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Đem tất cả lại với nhau",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Đang theo dõi sự phát triển của Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Twitch Blogs",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Đang xem Lưu trữ Blog {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Đang lướt qua các bài blog gần đây nhất...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Trung tâm Trợ giúp",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Đang xem danh mục:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Đang lướt qua phần mục lục...",
+		"description": ""
+	},
 	"twitch.affiliate": {
 		"message": "Chương trình Chi nhánh Twitch",
 		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."

@@ -95,6 +95,54 @@
 		"message": "trang Cao đẳng",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.newsroom": {
+		"message": "trang Phòng tin tức",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "trang Đối tác",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "trang Xác minh",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "trang StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "trang Mã nguồn mở",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "trang Bảo mật",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "trang Quản lý",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "trang Rich Presence",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "chính sách",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Cổng dành cho nhà phát triển",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Đang duyệt qua app của họ",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Trung tâm Trợ giúp",
+		"description": ""
+	},
 	"discord.merch.collection": {
 		"message": "Đang xem bộ sưu tập:",
 		"description": ""
