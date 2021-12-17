@@ -47,6 +47,18 @@
 		"message": "Đang xem Esports...",
 		"description": ""
 	},
+	"twitch.viewFollow": {
+		"message": "Đang xem những người mà Tôi Theo dõi...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Đang xem đội:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Đang xem túi đồ Phần thưởng của họ...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
 		"message": "Đang xem",
 		"description": "Part 1 of the next 10 strings"

@@ -107,6 +107,18 @@
 		"message": "Đang tìm kiếm",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Đang viết",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Đang gọi",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Đang trong một cuộc gọi...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Giỏ hàng",
 		"description": ""
@@ -203,13 +215,41 @@
 		"message": "Đang xem trang:",
 		"description": ""
 	},
+	"general.watchingMovie": {
+		"message": "Đang xem phim",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Đang xem phim bộ",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Đang xem một bộ phim",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Đang xem video",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Đang đợi video công chiếu",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Đang đợi video công chiếu",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
 	"general.watchingLive": {
 		"message": "Đang xem livestream",
 		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Đang đợi buổi phát trực tiếp bắt đầu",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Đang đợi buổi phát trực tiếp bắt đầu",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
 		"message": "Đang xem:",
@@ -231,12 +271,88 @@
 		"message": "Chính sách về Cookie",
 		"description": "A page name"
 	},
+	"general.repeatAll": {
+		"message": "Lặp lại tất cả bài hát",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Đang lặp lại",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Đang xem một sự cố",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Lịch sử sự cố",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Lịch sử hoạt động",
+		"description": "A page name of statuspages"
+	},
 	"general.buttonViewSeries": {
 		"message": "Đang xem sê-ri",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Xem phim",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Xem tập",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Xem phim",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Xem video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Xem Stream",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Xem kênh",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Nghe cùng",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Xem trang",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Xem bài hát",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Xem Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Xem hồ sơ",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Xem nghệ sĩ",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Xem danh sách phát",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Xem Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Xem bài viết",
 		"description": "Used as the title for the button in Discord."
 	}
 }
