@@ -3,8 +3,48 @@
 		"message": "Đang duyệt qua",
 		"description": "The first part of the next 6 strings"
 	},
+	"v live.channelBoard": {
+		"message": "Đang xem bảng \"{0}\"",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "Đang xem các sản phẩm của {0}",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.profileEdit": {
+		"message": "Đang chỉnh sửa{0}hồ sơ của họ",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
 	"v live.viewTheir": {
 		"message": "Đang xem",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "trang cá nhân",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "video đã xem",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "các giao dịch gần đây",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "số dư coin",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "các thiết bị đã kết nối",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "các kênh đã theo dõi",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Đang đọc các chính sách",
+		"description": ""
 	}
 }

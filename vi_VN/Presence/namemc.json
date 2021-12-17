@@ -1,4 +1,8 @@
 {
+	"namemc.upcomingNames": {
+		"message": "Đang xem những cái Tên Sắp tới",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
 	"namemc.skinsTrending": {
 		"message": "Đang xem những Skin Phổ biến",
 		"description": "Skins is how you appear in the game."
@@ -15,8 +19,56 @@
 		"message": "Đang xem các Skin ngẫu nhiên",
 		"description": "Skins is how you appear in the game."
 	},
+	"namemc.skinsTagged": {
+		"message": "Đang xem Skin có Nhãn",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTag": {
+		"message": "Đang xem Skin với Nhãn {0}",
+		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
+	},
 	"namemc.viewSkin": {
 		"message": "Đang xem một Skin",
 		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "Đang xem các Áo choàng",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "Đang xem Áo choàng:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Đang xem các Máy chủ",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Đang xem Máy chủ:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Xem Máy chủ",
+		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "Đang xem Cách để nhận Hồ sơ của Bạn",
+		"description": ""
+	},
+	"namemc.profileEdit": {
+		"message": "Đang chỉnh sửa{0}thông tin hồ sơ của họ",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+	},
+	"namemc.viewFriends": {
+		"message": "Đang xem danh sách bạn bè của họ",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "Đang xem skin của họ",
+		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "Đang xem biểu tượng cảm xúc trên hồ sơ của họ",
+		"description": "You can have an emoji next to your name, you select it here."
 	}
 }
