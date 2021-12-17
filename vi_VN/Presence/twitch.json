@@ -83,6 +83,30 @@
 		"message": "Đang giám sát streamer:",
 		"description": ""
 	},
+	"twitch.redeem": {
+		"message": "Đang đổi một mã...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Trại sáng tạo",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Học những thứ Cơ bản",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Thiết lập Stream của Bạn",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Thăng cấp",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Kết nối và Tiếp cận",
+		"description": "Page name"
+	},
 	"twitch.viewTheir": {
 		"message": "Đang xem",
 		"description": "Part 1 of the next 10 strings"
