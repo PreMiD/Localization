@@ -139,8 +139,44 @@
 		"message": "Đang duyệt qua app của họ",
 		"description": ""
 	},
+	"discord.devs.appsEdit": {
+		"message": "Đang chỉnh sửa app: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Đang duyệt qua các nhóm của họ",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Đang sửa đổi nhóm: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Đang duyệt qua các máy chủ của họ",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Đang xem thông tin chi tiết về máy chủ: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Đang đọc tư liệu",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Trạng thái Discord",
+		"description": ""
+	},
 	"discord.support": {
 		"message": "Trung tâm Trợ giúp",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord Blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
 		"description": ""
 	},
 	"discord.merch.collection": {
