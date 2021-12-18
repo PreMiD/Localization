@@ -131,6 +131,10 @@
         "message": "Was ist neu",
         "description": "List of updates"
     },
+    "apple.devSubmit": {
+        "message": "Leitfaden für Apps einreichen",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
     "apple.devPhonePad": {
         "message": "iPhone und iPad Apps",
         "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
@@ -170,6 +174,10 @@
     "apple.devVideos": {
         "message": "Videos",
         "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devNews": {
+        "message": "News und Updates",
+        "description": "News and updates (that matter) for developers"
     },
     "apple.btnViewProduct": {
         "message": "Produkt ansehen",
