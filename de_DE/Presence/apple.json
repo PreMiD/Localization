@@ -179,6 +179,10 @@
         "message": "News und Updates",
         "description": "News and updates (that matter) for developers"
     },
+    "apple.devReleases": {
+        "message": "Releases",
+        "description": "New iOS, iPadOS etc. releases"
+    },
     "apple.btnViewProduct": {
         "message": "Produkt ansehen",
         "description": "Button text"
@@ -195,6 +199,10 @@
         "message": "{0} ansehen",
         "description": "e.g. \"View iOS 15\""
     },
+    "apple.btnViewStudio": {
+        "message": "{0} Studio ansehen",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
     "apple.btnViewApp": {
         "message": "App ansehen",
         "description": "e.g. \"View App\""
@@ -210,5 +218,9 @@
     "apple.btnViewTags": {
         "message": "Tags ansehen",
         "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "{0}'s Profil ansehen",
+        "description": "View a forum profile of a user"
     }
 }
