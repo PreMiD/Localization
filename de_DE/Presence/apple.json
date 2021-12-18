@@ -39,6 +39,10 @@
         "message": "Verantwortung der Zulieferer",
         "description": "Information on human rights, health, safety, education, etc. of employees"
     },
+    "apple.contact": {
+        "message": "Support kontaktieren",
+        "description": "Contact support"
+    },
     "apple.chooseLang": {
         "message": "Wählt Sprache...",
         "description": "Choosing the language of the website"
@@ -50,6 +54,14 @@
     "apple.shopBands": {
         "message": "Apple Watch Armbänder",
         "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "Apple Zubehör",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopStudio": {
+        "message": "Apple Watch Studio",
+        "description": "Choose your own design components for a product"
     },
     "apple.shopFavorites": {
         "message": "Favoriten",
@@ -111,6 +123,10 @@
         "message": "Erstellt...",
         "description": "Creating a new Pages document"
     },
+    "apple.iCloudKeynoteWait": {
+        "message": "Warteraum",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
     "apple.devNew": {
         "message": "Was ist neu",
         "description": "List of updates"
@@ -138,6 +154,10 @@
     "apple.forumTags": {
         "message": "Forum Tags",
         "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumPreferences": {
+        "message": "Präferenzen",
+        "description": "Profile settings/preferences, e.g. change username"
     },
     "apple.forumCreateThread": {
         "message": "Erstellt Thread",
@@ -174,5 +194,13 @@
     "apple.btnViewWWDC": {
         "message": "{0} ansehen",
         "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "Thread ansehen",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Tags ansehen",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
     }
 }
