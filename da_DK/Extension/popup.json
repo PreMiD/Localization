@@ -4,7 +4,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "Kredit",
+		"message": "Medvirkende",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
@@ -24,7 +24,7 @@
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
-		"message": "Media Styring",
+		"message": "Mediestyring",
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
@@ -68,7 +68,7 @@
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "Fejl under indlæsning af kredit",
+		"message": "Fejl under indlæsning af medvirkende",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD kunne ikke oprette forbindelse til dens applikation! Er det installeret og køre? *Fejlfinding*",
+		"message": "PreMiD kunne ikke oprette forbindelse til dens applikation! Er den installeret og kører? *Fejlfinding*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Din version af appen er forældet. Opdater den før du kan fortsætte med at bruge den.",
+		"message": "Din PreMiD app er forældet. Venligst opdater den før du kan fortsætte med at bruge PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
@@ -92,15 +92,15 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "Din udvidelse er forældet. Opdater den for at få de nyeste funktioner ved at downloade den fra vores hjemmeside.",
+		"message": "Din udvidelse er forældet. Venligst opdater den for at få de nyeste funktioner ved at downloade den fra vores hjemmeside.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
-		"message": "Vigtig opdatering",
+		"message": "Hastende opdatering",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate.message": {
-		"message": "Vi har udgivet en hasteopdatering til udvidelsen. Opdater den for at fortsætte med at bruge PreMiD.",
+		"message": "Vi har udgivet en hasteopdatering til udvidelsen. Venligst opdater den for at fortsætte med at bruge PreMiD.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD kunne ikke oprette forbindelse til dit Discord-program! Er det installeret og kører? *Fejlfinding*",
+		"message": "PreMiD kunne ikke oprette forbindelse til din Discord-applikation! Er den installeret og kører? *Fejlfinding*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
@@ -140,7 +140,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Video & Streaming",
+		"message": "Videoer & Streaming",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
