@@ -60,7 +60,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit2.title": {
-		"message": "Sneak Peeks",
+		"message": "Xem trước",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit2.description": {
@@ -72,7 +72,7 @@
 		"description": "Benefit card title."
 	},
 	"jobs.benefit3.description": {
-		"message": "Quyền trong Discord và role màu sặc sỡ.",
+		"message": "Quyền trong Discord và thẻ vai trò màu sặc sỡ.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit4.title": {
