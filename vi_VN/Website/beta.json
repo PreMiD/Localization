@@ -20,7 +20,7 @@
 		"description": "Features list"
 	},
 	"beta.features.3": {
-		"message": "Role đặc biệt trong server Discord của chúng tôi",
+		"message": "Thẻ vai trò đặc biệt trong máy chủ Discord của chúng tôi",
 		"description": "Features list"
 	},
 	"beta.register.text": {
@@ -40,7 +40,7 @@
 		"description": "Thank You page description"
 	},
 	"error.noslots": {
-		"message": "Có vẻ như chúng tôi không còn slot beta nào nữa.",
+		"message": "Có vẻ như chúng tôi không còn chỗ trống cho người dùng beta nào nữa.",
 		"description": "Shows when the beta slots are full."
 	}
 }
