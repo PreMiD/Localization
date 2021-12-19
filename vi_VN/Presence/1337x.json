@@ -20,39 +20,39 @@
         "description": ""
     },
     "1337x.animeTorrents": {
-        "message": "Đang xem Anime Torrents",
+        "message": "Đang xem Torrent Anime",
         "description": ""
     },
     "1337x.appTorrents": {
-        "message": "Đang xem Ứng Dụng Torrents",
+        "message": "Đang xem Torrent Ứng Dụng",
         "description": ""
     },
     "1337x.docTorrents": {
-        "message": "Đang xem Torrents Tài Liệu",
+        "message": "Đang xem Torrent Tài Liệu",
         "description": ""
     },
     "1337x.gamesTorrents": {
-        "message": "Đang xem Torrents Games",
+        "message": "Đang xem Torrent Game",
         "description": ""
     },
     "1337x.moviesTorrents": {
-        "message": "Đang xem Torrents Phim",
+        "message": "Đang xem Torrent Phim",
         "description": ""
     },
     "1337x.musicTorrents": {
-        "message": "Đang xem Torrents Nhạc",
+        "message": "Đang xem Torrent Nhạc",
         "description": ""
     },
     "1337x.otherTorrents": {
-        "message": "Đang xem những Torrents khác",
+        "message": "Đang xem những Torrent khác",
         "description": ""
     },
     "1337x.tvTorrents": {
-        "message": "Đang xem TV Torrents",
+        "message": "Đang xem Torrent TV",
         "description": ""
     },
     "1337x.xxxTorrents": {
-        "message": "Đang xem XXX Torrents",
+        "message": "Đang xem Torrent XXX",
         "description": "XXX as in NSFW"
     },
     "1337x.upload": {

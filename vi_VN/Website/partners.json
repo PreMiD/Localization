@@ -28,7 +28,7 @@
 		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit2.description": {
-		"message": "Một role đặc biệt và vinh dự sẽ được trao cho bạn trong server Discord của chúng tôi.",
+		"message": "Một thẻ vai trò đặc biệt và vinh dự sẽ được trao cho bạn trong máy chủ Discord của chúng tôi.",
 		"description": "Description for the second benefit."
 	},
 	"partners.why.benefit3.title": {
@@ -44,7 +44,7 @@
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
-		"message": "Một dành riêng cho các đối tác.",
+		"message": "Một chỗ dành riêng cho các đối tác.",
 		"description": "Description for the fourth benefit."
 	},
 	"partners.why.benefit5.title": {
@@ -108,7 +108,7 @@
 		"description": "Description for UpBeatRadio."
 	},
 	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio là đài phát thanh thông tin giải trí thành công nhất cho các trò chơi mô phòng ở Đức, Áo và Thuỵ Sĩ!",
+		"message": "SimLiveRadio là đài phát thanh thông tin giải trí thành công nhất cho các trò chơi mô phỏng ở Đức, Áo và Thuỵ Sĩ!",
 		"description": "Description for SimLoveRadio."
 	},
 	"partners.partner.discordTemplates": {
@@ -192,7 +192,7 @@
 		"description": "Name field's placeholder."
 	},
 	"partners.apply.form.link": {
-		"message": "Link",
+		"message": "Liên kết",
 		"description": "Link field."
 	},
 	"partners.apply.form.link.placeholder": {
@@ -208,7 +208,7 @@
 		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
-		"message": "Link hình ảnh (550x300, chỉ được PNG)",
+		"message": "Link hình ảnh (550x300, chỉ PNG)",
 		"description": "Do not change the sizes."
 	},
 	"partners.apply.form.imageLink.placeholder": {
@@ -236,7 +236,7 @@
 		"description": "Error when description exceeds character limit."
 	},
 	"partners.apply.error3": {
-		"message": "Hãy thêm link (phải bắt đầu bằng https:// và kết thúc với .png)",
+		"message": "Hãy thêm liên kết (phải bắt đầu bằng https:// và kết thúc với .png)",
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
