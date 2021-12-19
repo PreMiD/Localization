@@ -40,7 +40,7 @@
 		"description": "'Developer' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
-		"message": "Designer",
+		"message": "Người thiết kế",
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
@@ -64,7 +64,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "Booster",
+		"message": "Người ủng hộ máy chủ",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
@@ -76,7 +76,7 @@
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
-		"message": "ID đã được sao chép!",
+		"message": "ID người dùng đã được sao chép!",
 		"description": "Notification after user ID was copied."
 	}
 }
