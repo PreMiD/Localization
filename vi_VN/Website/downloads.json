@@ -20,11 +20,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Thêm Extension trình duyệt của bạn",
+		"message": "Thêm Phần mở rộng vào trình duyệt của bạn",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "Tải lại trang và kiểm tra Extension đã kết nối chưa",
+		"message": "Tải lại trang và kiểm tra phần mở rộng đã kết nối chưa",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
