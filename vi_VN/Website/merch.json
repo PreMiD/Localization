@@ -1,6 +1,6 @@
 {
 	"merch.title": {
-		"message": "Chào mừng đến với cửa hàng của **PreMiD**!",
+		"message": "Chào mừng đến với cửa hàng chính thức của **PreMiD**!",
 		"description": "Merch store title"
 	},
 	"merch.swag": {
@@ -8,7 +8,7 @@
 		"description": "Subtitle for store"
 	},
 	"merch.fit": {
-		"message": "**Chọn size**",
+		"message": "**Chọn kích cỡ**",
 		"description": "Product sizes"
 	},
 	"merch.cart": {
