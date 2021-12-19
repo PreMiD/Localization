@@ -28,11 +28,11 @@
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
-		"message": "cho rằng ID mà bạn tìm kiếm không chính xác.",
+		"message": "cho rằng ID người dùng mà bạn tìm kiếm không chính xác.",
 		"description": "Check user ID message."
 	},
 	"user.notFound.message2": {
-		"message": "cho rằng người dùng này đã tạo đủ Presence và nhận được vai trò Presence Developer máy chủ Discord.",
+		"message": "cho rằng người dùng này đã tạo đủ Presence và nhận được vai trò Presence Developer trong máy chủ Discord của chúng tôi.",
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
