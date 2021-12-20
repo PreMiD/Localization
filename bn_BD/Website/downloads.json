@@ -132,7 +132,7 @@
 		"description": "Message of the advertisement section box."
 	},
 	"downloads.adsbox.disableAdblock": {
-		"message": "দয়া করে তোমার Adblocker - টি বন্ধ করো",
+		"message": "দয়া করে তোমার Adblocker টি বন্ধ করো",
 		"description": "Message next to pepe."
 	},
 	"downloads.showbeta.message": {
