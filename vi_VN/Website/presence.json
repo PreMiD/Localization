@@ -40,7 +40,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
 	"presence.sections.information.contributors": {
-		"message": "Người đóng góp",
+		"message": "Đóng góp",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }
