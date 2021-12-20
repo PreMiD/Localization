@@ -20,7 +20,7 @@
 		"description": "'Staff Coordinator' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
-		"message": "Nhân viên marketing",
+		"message": "Giám đốc Marketing",
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
@@ -28,7 +28,7 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "Reviewer",
+		"message": "Đánh giá viên",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.localizationManager": {
@@ -56,7 +56,7 @@
 		"description": "'Representative' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
-		"message": "Người hiệu đính",
+		"message": "Hiệu đính viên",
 		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
