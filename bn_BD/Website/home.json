@@ -1,6 +1,6 @@
 {
 	"home.introduction.paragraph": {
-		"message": "**PreMiD** হচ্ছে একটি সহজ, কনফিগারযোগ্য ইউটিলিটি যা দেখায় তুমি কী করছ ইন্টারনেটে তোমার Discord - এর প্লেয়িং স্ট্যাটাসে।",
+		"message": "**PreMiD** হচ্ছে একটি সহজ, কনফিগারযোগ্য ইউটিলিটি যা দেখায় তুমি কী করছ ইন্টারনেটে তোমার Discord এর প্লেয়িং স্ট্যাটাসে।",
 		"description": "First phrase that users read on our website"
 	},
 	"home.introduction.button.features": {
@@ -56,7 +56,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "ক্লান্ত জটিল ইউজার ইন্টারফেস এর জন্য? তাই তো আমরা তৈরি করেছি এবং চেষ্টা করছি আমাদের UI - কে যতটা সম্ভব সহজ এবং কার্যকরী রাখার জন্যে জরুরি ফিচারস এর সাথে যেমন:",
+		"message": "ক্লান্ত জটিল ইউজার ইন্টারফেস এর জন্য? তাই তো আমরা তৈরি করেছি এবং চেষ্টা করছি আমাদের UI কে যতটা সম্ভব সহজ এবং কার্যকরী রাখার জন্যে জরুরি ফিচারস এর সাথে যেমন:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
