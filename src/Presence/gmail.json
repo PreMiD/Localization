@@ -47,13 +47,13 @@
       "message": "Configuring Forwarding and POP/IMAP settings",
       "description": "Displayed when the user is modifying their IMAP and POP settings"
    },
-   "gmail.chatSettings": {
-      "message": "Configuring Chat and Meet settings",
-      "description": "Displayed when the user is modifying their chat settings"
-   },
    "gmail.addonsSettings": {
       "message": "Configuring Add-ons",
       "description": "Displayed when the user is modifying their add-ons"
+   },
+   "gmail.chatSettings": {
+      "message": "Configuring Chat and Meet settings",
+      "description": "Displayed when the user is modifying their chat settings"
    },
    "gmail.advancedSettings": {
       "message": "Configuring Advanced settings",
