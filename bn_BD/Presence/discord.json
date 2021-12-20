@@ -12,15 +12,15 @@
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
 	},
 	"discord.dmTyping": {
-		"message": "টাইপ করছে DMs - এ যাকে:{0}{1}",
+		"message": "টাইপ করছে DMs এ যাকে:{0}{1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
 	},
 	"discord.dmGroupReading": {
-		"message": "পড়ছে গ্রুপ DM - এ:{0}{1}",
+		"message": "পড়ছে গ্রুপ DM এ:{0}{1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
 	},
 	"discord.dmGroupTyping": {
-		"message": "টাইপ করছে গ্রুপ DM - এ:{0}{1}",
+		"message": "টাইপ করছে গ্রুপ DM এ:{0}{1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
 	},
 	"discord.friends": {
