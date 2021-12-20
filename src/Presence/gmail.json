@@ -85,7 +85,7 @@
    },
    "gmail.viewingSentEmails": {
       "message": "Viewing sent emails",
-      "description": "Displayed when the user is viewing their sent emails"
+      "description": "Displayed when the user is viewing the emails they have sent"
    },
    "gmail.viewingSnoozedEmails": {
       "message": "Viewing snoozed emails",
