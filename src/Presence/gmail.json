@@ -45,7 +45,7 @@
    },
    "gmail.fwdandpopSettings": {
       "message": "Configuring Forwarding and POP/IMAP settings",
-      "description": "Displayed when the user is modifying their IMAP and POP settings"
+      "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
    },
    "gmail.addonsSettings": {
       "message": "Configuring Add-ons",
