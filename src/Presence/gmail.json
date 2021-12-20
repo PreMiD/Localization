@@ -40,8 +40,8 @@
       "description": "Displayed when the user is modifying their account's settings"
    },
    "gmail.filterSettings": {
-      "message": "Configuring Filters settings",
-      "description": "Displayed when the user is modifying their filters"
+      "message": "Configuring Filters and Blocked Addresses settings",
+      "description": "Displayed when the user is modifying their filters and blocked addresses"
    },
    "gmail.fwdandpopSettings": {
       "message": "Configuring Forwarding and POP/IMAP settings",
