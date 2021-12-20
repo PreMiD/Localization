@@ -21,7 +21,7 @@
    },
    "gmail.inLabel": {
       "message": "Viewing label",
-      "description": "Displayed when a user is browsing emails in certain label"
+      "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
    },
    "gmail.generalSettings": {
       "message": "Configuring General settings",
