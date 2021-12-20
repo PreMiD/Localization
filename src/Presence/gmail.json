@@ -64,8 +64,8 @@
       "description": "Displayed when the user is modifying their offline settings"
    },
    "gmail.oldThemesSettings": {
-      "message": "Configuring Themes",
-      "description": "Displayed when the user is modifying their themes settings"
+      "message": "Picking a theme",
+      "description": "Displayed when the user is modifying their theme in the settings"
    },
    "gmail.lookingForEmail": {
       "message": "Looking for an email",
