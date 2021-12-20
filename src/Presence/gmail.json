@@ -69,7 +69,7 @@
    },
    "gmail.lookingForEmail": {
       "message": "Looking for an email",
-      "description": "Displayed when the user is looking for mail"
+      "description": "Displayed when the user is searching for an email"
    },
    "gmail.viewingEmail": {
       "message": "Viewing an email",
