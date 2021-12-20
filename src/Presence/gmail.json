@@ -73,7 +73,7 @@
    },
    "gmail.viewingAnEmail": {
       "message": "Viewing an email",
-      "description": "Displayed when the user is viewing mail"
+      "description": "Displayed when the user is viewing an email"
    },
    "gmail.viewingInbox": {
       "message": "Viewing inbox",
