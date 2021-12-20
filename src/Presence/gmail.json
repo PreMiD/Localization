@@ -81,7 +81,7 @@
    },
    "gmail.viewingStarredEmails": {
       "message": "Viewing starred emails",
-      "description": "Displayed when the user is viewing their starred emails"
+      "description": "Displayed when the user is viewing emails marked with a star"
    },
    "gmail.viewingSentEmails": {
       "message": "Viewing sent emails",
