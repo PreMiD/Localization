@@ -75,10 +75,6 @@
       "message": "Viewing an email",
       "description": "Displayed when the user is viewing an email"
    },
-   "gmail.viewingInbox": {
-      "message": "Viewing inbox",
-      "description": "Displayed when the user is viewing their inbox"
-   },
    "gmail.viewingStarredEmails": {
       "message": "Viewing starred emails",
       "description": "Displayed when the user is viewing emails marked with a star"
