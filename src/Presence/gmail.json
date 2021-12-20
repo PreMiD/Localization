@@ -43,7 +43,7 @@
       "message": "Configuring Filters and Blocked Addresses settings",
       "description": "Displayed when the user is modifying their filters and blocked addresses"
    },
-   "gmail.fwdandpopSettings": {
+   "gmail.fwdAndPOPSettings": {
       "message": "Configuring Forwarding and POP/IMAP settings",
       "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
    },
