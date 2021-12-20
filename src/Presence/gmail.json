@@ -71,7 +71,7 @@
       "message": "Looking for an email",
       "description": "Displayed when the user is looking for mail"
    },
-   "gmail.viewingAnEmail": {
+   "gmail.viewingEmail": {
       "message": "Viewing an email",
       "description": "Displayed when the user is viewing an email"
    },
