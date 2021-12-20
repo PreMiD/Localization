@@ -28,7 +28,7 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "ผู้ตรวจทาน",
+		"message": "ผู้ตรวจทาน Presence",
 		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.localizationManager": {
