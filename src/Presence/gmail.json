@@ -97,7 +97,7 @@
    },
    "gmail.viewingImportantEmails": {
       "message": "Viewing important emails",
-      "description": "Displayed when the user is viewing their important emails"
+      "description": "Displayed when the user is viewing emails marked as important"
    },
    "gmail.viewingTrash": {
       "message": "Viewing trash",
