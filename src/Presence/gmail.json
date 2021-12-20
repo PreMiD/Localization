@@ -63,7 +63,7 @@
       "message": "Configuring Offline settings",
       "description": "Displayed when the user is modifying their offline settings"
    },
-   "gmail.oldThemesSettings": {
+   "gmail.themesSettings": {
       "message": "Picking a theme",
       "description": "Displayed when the user is modifying their theme in the settings"
    },
