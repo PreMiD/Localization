@@ -108,7 +108,7 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Ser ikke lige ud som om at du har en internetforbindelse! PreMiD vil ikke være i stand til at vise presences i øjeblikket.",
+		"message": "Ser ikke ud som om at du har en internetforbindelse! PreMiD vil ikke være i stand til at vise presences i øjeblikket.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
