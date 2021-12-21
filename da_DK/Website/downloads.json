@@ -1,10 +1,22 @@
 {
+	"downloads.header.subtitle": {
+		"message": "Brug PreMiD nu og vis dine venner, hvad du laver, måske finder du nogen med de samme interesser.",
+		"description": "Subtitle for header"
+	},
 	"downloads.instructions.heading": {
 		"message": "Kom i gang",
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
 		"message": "Download PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_2": {
+		"message": "Installér vores applikation",
+		"description": "Heading for installing the application"
+	},
+	"downloads.instructions.step_3": {
+		"message": "Tilføj vores udvidelse til din browser",
 		"description": "Heading for installing the application"
 	},
 	"downloads.appdownloading.header": {
@@ -18,6 +30,18 @@
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.mobile.errorMessage": {
+		"message": "Vær venligst opmærksom på, at PreMiD ikke understøttes på mobiltelefoner.",
+		"description": "Downloads page warning when user is on mobile."
+	},
+	"downloads.warning.differentVersion2": {
+		"message": "Denne version er specifik for Linux og gælder ikke for andre systemer. Applikationens hovedversion er {0}",
+		"description": "Tippy message of the version number when user is on Linux."
+	},
+	"downloads.error.login": {
+		"message": "Venligst log ind for at se disse downloads.",
+		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.description": {
 		"message": "Du kan gratis deltage i vores betaprogram **her**. Skynd dig! Vi har kun {0} pladser mere til rådighed",
@@ -38,6 +62,10 @@
 	"downloads.adsbox.thankyou.title": {
 		"message": "Tak!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "Venligst deaktivér din adblock",
+		"description": "Message next to pepe."
 	},
 	"downloads.skipanyway.message3": {
 		"message": "Virkelig?",
