@@ -4,27 +4,47 @@
 		"description": "Displayed at Downloads page above steps"
 	},
 	"downloads.instructions.step_1": {
-		"message": "Installér PreMiD",
+		"message": "Download PreMiD",
 		"description": "Heading for installing the application"
 	},
 	"downloads.appdownloading.header": {
-		"message": "Applikationen Download",
+		"message": "Applikation",
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
-		"message": "Extension downloads",
+		"message": "Udvidelse",
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det.",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
+	"downloads.error.noaccess.description": {
+		"message": "Du kan gratis deltage i vores betaprogram **her**. Skynd dig! Vi har kun {0} pladser mere til rådighed",
+		"description": "More info if the user doesn't alpha/beta access."
+	},
+	"downloads.button.cancel": {
+		"message": "Annullér",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
 	"downloads.button.done": {
 		"message": "Færdig",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
+	"downloads.button.skipanyway": {
+		"message": "Spring over alligevel",
+		"description": "Skip Anyway button on the ads page."
+	},
 	"downloads.adsbox.thankyou.title": {
 		"message": "Tak!",
 		"description": "Title of the advertisement section box."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "Virkelig?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "V-vær rar support :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
 	}
 }
