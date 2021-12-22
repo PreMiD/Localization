@@ -12,7 +12,7 @@
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
   },
   "presence.activity.live": {
-    "message": "Live\n",
+    "message": "Live",
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
   },
   "presence.activity.reading": {
