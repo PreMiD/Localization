@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "Bergabung {0} pengguna sekarang!",
+		"message": "Bergabung dengan {0} pengguna sekarang!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
@@ -24,7 +24,7 @@
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
-		"message": "Pengembangan",
+		"message": "Pengembang",
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
