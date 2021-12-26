@@ -23,6 +23,18 @@
 		"message": "Tilføj vores udvidelse til din browser",
 		"description": "Heading for installing the application"
 	},
+	"downloads.instructions.step_4": {
+		"message": "Genindlæs dette websted og tjek om udvidelsen er tilsluttet",
+		"description": "I think you get what this is..."
+	},
+	"downloads.instructions.footer": {
+		"message": "Har du stadig problemer? {0}",
+		"description": "{0} will be replaced with footer.link"
+	},
+	"downloads.instructions.footer.link": {
+		"message": "Vi er her for at hjælpe!",
+		"description": "Link to our discord"
+	},
 	"downloads.appdownloading.header": {
 		"message": "Applikation",
 		"description": "Header above application download buttons."
@@ -30,6 +42,10 @@
 	"downloads.extdownloading.header": {
 		"message": "Udvidelse",
 		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"message": "Advarsel:",
+		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
 		"message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det.",
@@ -78,5 +94,13 @@
 	"downloads.skipanyway.message4": {
 		"message": "V-vær rar support :(",
 		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "Jeg har brug for dig :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "Okay, okay...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
 	}
 }
