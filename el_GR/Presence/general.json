@@ -11,6 +11,10 @@
 		"message": "Κεφάλαιο",
 		"description": ""
 	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Επεισόδιο",
 		"description": ""
@@ -39,6 +43,10 @@
 		"message": "Μάνγκα",
 		"description": ""
 	},
+	"general.merch": {
+		"message": "Εμπορεύματα",
+		"description": ""
+	},
 	"general.page": {
 		"message": "Σελίδα",
 		"description": ""
@@ -53,6 +61,10 @@
 	},
 	"general.search": {
 		"message": "Αναζήτηση",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Γράφει",
 		"description": ""
 	},
 	"general.store": {
