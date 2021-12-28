@@ -1,4 +1,32 @@
 {
+    "apple.comparing": {
+        "message": "مقارنة:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "معاينة الخدمة:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "الرعاية الصحية",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "المنتجات والمنصة",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "السجلات الصحية",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "نظرة عامة",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "نصائح الشراء",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
     "apple.other": {
         "message": "آخر",
         "description": "Other pages not added to the code"
