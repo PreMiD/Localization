@@ -107,16 +107,80 @@
         "message": "جهات الاتصال",
         "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
     },
+    "apple.iCloudCalendar": {
+        "message": "التقويم",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "الصور",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "الملاحظات",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "التذكيرات",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "جاري الإنشاء...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "غرفة الانتظار",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "ما الجديد",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "كيفية تقديم التطبيقات",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "تطبيقات أيفون وآيباد",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "توزيع البرامج",
+        "description": "Distribute software to the App Store"
+    },
     "apple.devDocs": {
-        "message": "الوثائق",
+        "message": "إرشادات الإستخدام",
         "description": "Developer documentation"
     },
+    "apple.devHIG": {
+        "message": "إرشادات الواجهة البشرية",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
+    },
+    "apple.devResources": {
+        "message": "الموارد",
+        "description": "Apple Design Resources"
+    },
     "apple.devFeatures": {
-        "message": "الميزات",
+        "message": "المميزات",
         "description": "Features for app design"
     },
     "apple.devGames": {
         "message": "ألعاب",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumPreferences": {
+        "message": "التفضيلات",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "انشاء موضوع",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "تسجيل",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "فيديوهات",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
     }
 }
