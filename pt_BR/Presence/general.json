@@ -247,6 +247,22 @@
 		"message": "Assistir vídeo",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewChannel": {
+		"message": "Ver canal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Ver página",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Visualizar música",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Ver perfil",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewArtist": {
 		"message": "Ver Artista",
 		"description": "Used as the title for the button in Discord."
