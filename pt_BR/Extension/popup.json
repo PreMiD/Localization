@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Seu PreMiD está desatualizado. Por favor atualize-o para continuar usando o PreMiD.",
+		"message": "O seu PreMiD está desatualizado. Por favor, atualize-o para continuar a usá-lo.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
@@ -92,7 +92,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "Sua extensão está desatualizada. Por favor, atualize para ter acesso aos recursos mais recentes baixando em nosso site.",
+		"message": "A sua extensão está desatualizada. Por favor, atualize-a utilizando nosso site para ter acesso aos recursos mais recentes.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
