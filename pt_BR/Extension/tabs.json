@@ -24,11 +24,11 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**Ah não!** Não foi possível conectar ao aplicativo... Ele já está instalado?",
+    "message": "**Ah não!** Não foi possível conectar-se ao aplicativo... Ele já está instalado?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
-    "message": "Solução de Problemas",
+    "message": "Solução de problemas",
     "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.installApplication": {
