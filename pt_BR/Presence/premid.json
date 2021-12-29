@@ -20,7 +20,7 @@
 		"description": "A page name"
 	},
 	"premid.pageSysReq": {
-		"message": "Requisitos do sistema",
+		"message": "Requisitos de sistema",
 		"description": "A page name"
 	},
 	"premid.pageInstall": {
@@ -28,7 +28,7 @@
 		"description": "A page name"
 	},
 	"premid.pageTroubleshooting": {
-		"message": "Solução de Problemas",
+		"message": "Solução de problemas",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
@@ -41,6 +41,10 @@
 	},
 	"premid.pagePresenceDev": {
 		"message": "Desenvolvimento de Presences",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Diretrizes de Presences",
 		"description": "A page name"
 	},
 	"premid.pagePresenceClass": {
