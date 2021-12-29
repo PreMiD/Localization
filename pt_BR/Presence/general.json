@@ -215,6 +215,10 @@
 		"message": "Assistindo uma livestream",
 		"description": ""
 	},
+	"general.waitingLive": {
+		"message": "Aguardando o início de uma transmissão ao vivo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
 	"general.watching": {
 		"message": "Assistindo:",
 		"description": ""
