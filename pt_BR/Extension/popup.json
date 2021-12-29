@@ -32,7 +32,7 @@
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
-		"message": "Abrir automaticamente",
+		"message": "Iniciar automaticamente",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD não pôde se conectar ao aplicativo! Ele está instalado e em execução? *Solução de problemas*",
+		"message": "O PreMiD não pôde conectar-se ao aplicativo! Ele está instalado e em execução? *Solução de problemas*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD não conseguiu se conectar ao seu aplicativo do Discord! Ele está instalado e em execução? *Solução de problemas*",
+		"message": "O PreMiD não conseguiu conectar-se ao seu Discord! Ele está instalado e em execução? *Solução de problemas*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
@@ -136,7 +136,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Redes Sociais",
+		"message": "Redes sociais",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
