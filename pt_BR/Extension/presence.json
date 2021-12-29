@@ -20,7 +20,7 @@
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.activity.searching": {
-    "message": "Buscando",
+    "message": "Pesquisando",
     "description": "Shows when you hover over the little icon at your Discord Rich Presence"
   },
   "presence.media.info.episode": {
