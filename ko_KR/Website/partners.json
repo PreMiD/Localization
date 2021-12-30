@@ -3,9 +3,21 @@
 		"message": "파트너",
 		"description": "Heading for page."
 	},
+	"partners.slideshow.description": {
+		"message": "이것들은 이미 우리 소속이다.",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "지옥 대신에 천국에 가는것은 어떨까요?",
+		"description": "Heading for benefits."
+	},
 	"partners.why.benefit1.title": {
 		"message": "당신의 무료 Presence",
 		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "검증된 사람이 되세요.",
+		"description": "Heading for the second benefit."
 	},
 	"partners.why.benefit3.title": {
 		"message": "메타 태그 통합",
