@@ -1,6 +1,6 @@
 {
 	"presence.page.buttons.sourceCode": {
-		"message": "Código fonte",
+		"message": "Código-fonte",
 		"description": "Source Code button on presence pages."
 	},
 	"presence.sections.description.title": {
@@ -36,7 +36,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
 	},
 	"presence.sections.information.supportedurls": {
-		"message": "URLs Suportadas",
+		"message": "URLs suportadas",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
 	"presence.sections.information.contributors": {
