@@ -236,7 +236,7 @@
 		"description": "A page name"
 	},
 	"general.buttonViewSeries": {
-		"message": "Ver serie",
+		"message": "Ver série",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
