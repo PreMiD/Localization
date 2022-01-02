@@ -32,7 +32,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Surfer igjennom...",
+		"message": "Blar gjennom...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -44,11 +44,11 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Vi utviklet vår ekstensjon som lar deg legge til og bruke Presencess laget av andre!",
+		"message": "Vi utviklet vår utvidelse på en måte som lar deg legge til og bruke Presences laget av andre og administrere dem i vår utvidelse!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
-		"message": "Se hva slags ekstensjoner vi har tilgjengelig",
+		"message": "Besøk butikken",
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
@@ -56,7 +56,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Lei av kompliserte user interface? Dette er hvorfor vi har lagt dette og prøver vår beste ved å holde UI vårt enkelt, brukfull mest som mulig og med viktige funksjoner som:",
+		"message": "Lei av kompliserte brukergrensesnitt? Det er derfor vi laget et grensesnitt som er så enkelt og effektivt som mulig med viktige funksjoner som:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -68,7 +68,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Sorter etter kategori",
+		"message": "Sortering etter kategori",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
@@ -84,7 +84,7 @@
 		"description": "Features section button"
 	},
 	"home.languageSelector.tippy": {
-		"message": "Nettsted språk",
+		"message": "Nettsidespråk",
 		"description": "Tippy content of the language selector."
 	}
 }
