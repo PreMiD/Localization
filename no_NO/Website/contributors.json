@@ -8,11 +8,11 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
-		"message": "Oversettere/Tolker",
+		"message": "Oversettere",
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Prosjekt Leder",
+		"message": "Prosjektleder",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.staffCoordinator": {
@@ -72,7 +72,7 @@
 		"description": "'Translator' title for contributors page."
 	},
 	"contributors.cards.copyUserId": {
-		"message": "Klikk for å kopiere brukeren sin ID.",
+		"message": "Klikk for å kopiere brukerens ID.",
 		"description": "Tippy message when you hover on the avatar of a credit card."
 	},
 	"contributors.cards.userIdCopied": {
