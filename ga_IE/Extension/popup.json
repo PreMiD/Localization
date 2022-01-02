@@ -64,7 +64,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "Ní raibh PreMiD in ann ceangal lena chur i bhfeidhm! An bhfuil sé suiteáilte agus ag rith?* Fabhtcheartú*",
+		"message": "Ní raibh PreMiD in ann ceangal lena chur i bhfeidhm! An bhfuil sé suiteáilte agus ag rith? *Fabhtcheartú*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
