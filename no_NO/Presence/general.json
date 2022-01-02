@@ -107,6 +107,18 @@
 		"message": "Søker",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Skriver",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Ringer",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "I en samtale...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Handlekurv",
 		"description": ""
@@ -145,6 +157,14 @@
 	},
 	"general.viewHome": {
 		"message": "Ser på hjemmesiden",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Ser på manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Ser på medlem:",
 		"description": ""
 	},
 	"general.waitingVid": {
