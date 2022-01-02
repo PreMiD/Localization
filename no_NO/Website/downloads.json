@@ -1,6 +1,6 @@
 {
 	"downloads.header.title": {
-		"message": "På tide å vise seg.",
+		"message": "På tide å vise seg fram.",
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
@@ -16,11 +16,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Last ned vår applikasjon",
+		"message": "Last ned programmet vårt",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "Legg til vår utvidelse til din nettleser",
+		"message": "Legg til utvidelsen vår til nettleseren din",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
@@ -28,7 +28,7 @@
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
-		"message": "Har du forsatt problemer? {0}",
+		"message": "Opplever du fortsatt problemer? {0}",
 		"description": "{0} will be replaced with footer.link"
 	},
 	"downloads.instructions.footer.link": {
@@ -40,7 +40,7 @@
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
-		"message": "Utvidelse/Tillegg",
+		"message": "Utvidelse",
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
@@ -140,7 +140,7 @@
 		"description": ""
 	},
 	"downloads.showbeta.small": {
-		"message": "(ikke nødvendig dersom du kun er her for å laste ned normal applikasjon)",
+		"message": "(ikke nødvendig dersom du kun er her for å laste ned det vanlige programmet)",
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {

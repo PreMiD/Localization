@@ -24,7 +24,23 @@
 		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
-		"message": "Den brukeren kunne ikke bli funnet. Prøv å være sikker på at",
+		"message": "Den brukeren kunne ikke bli funnet. Sjekk",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "om brukerens ID som du ser etter er korrekt.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "om brukeren har laget nok Presences og har Presence-utviklerrollen i Discord-serveren vår.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "om andre opplever det samme problemet på Discord-serveren vår.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Hvis du mener at dette var en feil, ta kontakt med oss på [vår Discord-server].",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
