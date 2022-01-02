@@ -4,7 +4,7 @@
 		"description": "Title of the 'settings' section at the navigation in the popup"
 	},
 	"popup.navigation.credits": {
-		"message": "Credits",
+		"message": "Bidragsytere",
 		"description": "Title of the 'credits' section at the navigation in the popup"
 	},
 	"popup.headings.settings": {
@@ -24,15 +24,15 @@
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
-		"message": "Media kontroller",
+		"message": "Mediakontroller",
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "Tittel MenyBar",
+		"message": "Tittelmenybar",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
-		"message": "Auto Launch",
+		"message": "Automatisk oppstart",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
@@ -56,7 +56,7 @@
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Presence Butikk",
+		"message": "Presence-butikk",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -68,7 +68,7 @@
 		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
-		"message": "Det var en feil under lastingen av creditsene",
+		"message": "Feil under innlasting av bidragsytere",
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
 	},
 	"popup.info.notConnected": {
@@ -76,15 +76,15 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD hadde problemer med å koble til applikasjonen sin! Har du den installert og at den er åpen? *Troubleshooting*",
+		"message": "PreMiD hadde problemer med å koble til programmet sitt! Er den installert og åpen? *Feilsøker*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
-		"message": "Utdatert App",
+		"message": "Utdatert program",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "PreMiD appen din er ut datert. Vennligst oppdater den for at du skal kunne fortsette å bruke PreMiD.",
+		"message": "PreMiD-appen din er utdatert. Vennligst oppdater den for å fortsette å bruke PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
@@ -136,11 +136,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "Sosialler",
+		"message": "Sosiale medier",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Videoer og Streams",
+		"message": "Videoer og direktesendinger",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
