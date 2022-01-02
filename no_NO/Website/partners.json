@@ -107,13 +107,61 @@
 		"message": "UpBeat er en frivillig internasjon radio som kjører non-stop kvalitet radio og nyhetsunderholdning.",
 		"description": "Description for UpBeatRadio."
 	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio er den mest suksessfulle infotainment-radioen for simulasjonsspill i Tyskland, Østerrike og Sveits!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Lag ditt eget fellesskap med våre fantastiske maler. Bygg ditt eget kongerike.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga er en Discord-bot som prøver å tilby alle de funksjonene som du kan trenge i én bot!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Et kraftig og brukervennlig verktøy for å lage installasjonsprogrammer for flere plattformer.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Del statusoppdateringer enkelt til dine kunder i sanntid.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "En gudinne som spiller som en morsom Discord-bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM lar deg lytte til 15+ musikkanaler helt gratis - nonstop. Med den beste og nyeste musikken, kun for deg!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Smidig lokalisering for teknologiselskap.",
+		"description": "Description for Crowdin."
+	},
 	"partners.partner.wikijs": {
 		"message": "Den kraftigste og mest utvidbare Wiki-programvaren med åpen kildekode.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Et forent, utviklervennlig grensesnitt for alle dine artefakter.",
+		"description": "Description for PackageCloud."
+	},
 	"partners.partner.fastly": {
 		"message": "Bak det beste av nettet.",
 		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit er din online-musikkradiostasjon laget for å spille av dine beste hitlåter 24/7 og for å la deg oppdage dine fremtidige hitlåter først.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix er den største Netflix-relaterte Discord-serveren. Diskuter favorittseriene og -filmene dine med likesinnede mennesker.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "Søk om partnerskap",
+		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
 		"message": "Logget inn som {0}",
@@ -127,9 +175,45 @@
 		"message": "Vennligst velg en",
 		"description": "Select default placeholder."
 	},
+	"partners.apply.select.website": {
+		"message": "Nettside",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
 		"message": "Andre",
 		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Navn",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Eks.: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Lenke",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Eks.: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Beskrivelse (maksimum 150 tegn)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Beskrivelse for utvalgte",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Bildelenke: (550x300, kun PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Eks.: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
 	},
 	"partners.apply.form.button.close": {
 		"message": "Lukk",
