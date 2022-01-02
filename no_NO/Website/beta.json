@@ -1,1 +1,18 @@
-{}
+{
+	"beta.features.1": {
+		"message": "Nyeste funksjoner",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "En spesiell rolle på vår Discord-server",
+		"description": "Features list"
+	},
+	"beta.register.button": {
+		"message": "Registrer deg nå!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Kult! Du er nå en betabruker!",
+		"description": "Thank You page title"
+	}
+}

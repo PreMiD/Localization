@@ -1,7 +1,47 @@
 {
 	"store.cards.creator": {
-		"message": "Forfatter",
+		"message": "Utgiver",
 		"description": "Creator of a presence"
+	},
+	"store.header.search": {
+		"message": "Søk etter Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Legg til Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Fjern Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Denne Presencen blir automatisk aktivert når du besøker dens nettside.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Filtre",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Mest brukte først",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Vis NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Bare likte Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Vis Presences som er lagt til",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Kategorier",
+		"description": "Category heading"
 	},
 	"store.category.all": {
 		"message": "Alle",
@@ -20,7 +60,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
-		"message": "Videoer og Streams",
+		"message": "Videoer og direktesendinger",
 		"description": "Category at the top"
 	},
 	"store.category.other": {
@@ -30,5 +70,13 @@
 	"store.search": {
 		"message": "Søk",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Angi",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klikk for å fjerne filter",
+		"description": "Remove message for active search filters."
 	}
 }

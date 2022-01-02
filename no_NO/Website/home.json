@@ -3,6 +3,10 @@
 		"message": "**PreMiD** er et simpelt og konfigurerbart program som lar deg vise hva du gjør på internett via din Discord \"spiller nå\" status.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "Funksjoner",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Nedlastinger",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -35,6 +39,10 @@
 		"message": "Du kommer til å elske disse funksjonene!",
 		"description": "Features section"
 	},
+	"home.features.presencesystem.heading": {
+		"message": "Finn **din** presence",
+		"description": "Features section subheading"
+	},
 	"home.features.presencesystem.description": {
 		"message": "Vi utviklet vår ekstensjon som lar deg legge til og bruke Presencess laget av andre!",
 		"description": "Features section description"
@@ -43,13 +51,29 @@
 		"message": "Se hva slags ekstensjoner vi har tilgjengelig",
 		"description": "Features section button"
 	},
+	"home.features.simpleInterface.heading": {
+		"message": "Enkelt brukergrensesnitt",
+		"description": "Features section subheading"
+	},
 	"home.features.simpleInterface.description": {
 		"message": "Lei av kompliserte user interface? Dette er hvorfor vi har lagt dette og prøver vår beste ved å holde UI vårt enkelt, brukfull mest som mulig og med viktige funksjoner som:",
 		"description": "Features section description"
 	},
+	"home.features.simpleInterface.description.1": {
+		"message": "App- og utvidelsesinnstillinger",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presenceadministrering",
+		"description": "Features section description point"
+	},
 	"home.features.simpleInterface.description.3": {
 		"message": "Sorter etter kategori",
 		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Rask hjelp",
+		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.button": {
 		"message": "Bli med i vår Discord",
