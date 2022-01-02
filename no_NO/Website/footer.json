@@ -8,7 +8,7 @@
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "Join over {0} brukere nå!",
+		"message": "Bli med over {0} brukere nå!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
@@ -100,7 +100,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
-		"message": "Nettside operert av {0}",
+		"message": "Nettside opprettholdt av {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
