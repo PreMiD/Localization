@@ -20,7 +20,7 @@
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "message": "A cozinhar panquecas...;A colocar recipientes...;A parsear o teu endereço IP...;UwU;A violar regras...",
+    "message": "A fazer panquecas...;A colocar recipientes...;A analisar o teu endereço IP...;UwU;A violar regras...",
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
