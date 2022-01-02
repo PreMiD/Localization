@@ -1,1 +1,18 @@
-{}
+{
+	"report.title": {
+		"message": "Rapportér en feil",
+		"description": "Text to indicate the page."
+	},
+	"report.button": {
+		"message": "Rapporter",
+		"description": "Button to send the information inputed."
+	},
+	"report.error": {
+		"message": "Mer informasjon kreves",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord-konto må bekreftes",
+		"description": "Users Discord not verified"
+	}
+}
