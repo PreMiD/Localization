@@ -47,6 +47,10 @@
 		"message": "Ingen Presences lagt til",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
+	"popup.presences.done": {
+		"message": "Ferdig",
+		"description": "Done button"
+	},
 	"popup.presences.load": {
 		"message": "Last inn Presence",
 		"description": "Load Presence button"
@@ -58,6 +62,10 @@
 	"popup.buttons.help": {
 		"message": "Trenger du hjelp?",
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Å nei!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
 	},
 	"popup.credits.error.message": {
 		"message": "Det var en feil under lastingen av creditsene",
@@ -78,6 +86,38 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"message": "PreMiD appen din er ut datert. Vennligst oppdater den for at du skal kunne fortsette å bruke PreMiD.",
 		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Utdatert utvidelse",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Utvidelsen din er utdatert. Vennligst last ned den nyeste oppdateringen fra nettsiden vår for å få tilgang til de nyeste funksjonene.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Viktig oppdatering",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Vi har lansert en viktig oppdatering for utvidelsen. Vennligst oppdater den for å fortsette å bruke PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Ingen nettverksforbindelse!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Det ser ut som du ikke har noen nettverksforbindelse! PreMiD vil ikke kunne vise presences for øyeblikket.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Ingen Discord-forbindelse!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD kunne ikke koble til Discord-programmet ditt! Er du sikker på at du har installert programmet og åpnet den? *Feilsøker*",
+		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
 		"message": "Alle",
