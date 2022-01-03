@@ -20,7 +20,7 @@
 		"description": "Title of the description area in the presence settings view."
 	},
 	"popup.setting.enabled": {
-		"message": "упълномощавам",
+		"message": "Разрешено",
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
@@ -36,7 +36,7 @@
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.headings.presences": {
-		"message": "Присъствия",
+		"message": "Presences",
 		"description": "Title of the 'presences' area of the 'settings' section in the popup"
 	},
 	"popup.presences.manage": {
@@ -44,19 +44,19 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Не са добавени присъствия",
+		"message": "Няма добавени presences",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
-		"message": "Свършен",
+		"message": "Готово",
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Заредете присъствие",
+		"message": "Зареди Presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Магазин за присъствие",
+		"message": "Магазин за presences",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -104,7 +104,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
-		"message": "всичко\n",
+		"message": "Всичко",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.anime": {
@@ -128,7 +128,7 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.other": {
-		"message": "друг",
+		"message": "Други",
 		"description": "Category name shown when you open tags"
 	}
 }
