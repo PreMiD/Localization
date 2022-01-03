@@ -1,4 +1,16 @@
 {
+	"premid.docs": {
+		"message": "Dokumentasjon",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Ser på presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Hjemmeside",
+		"description": "A page name"
+	},
 	"premid.pageContributors": {
 		"message": "Bidragsytere",
 		"description": "A page name"
@@ -21,6 +33,10 @@
 	},
 	"premid.pageInstall": {
 		"message": "Installasjon",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Feilsøking",
 		"description": "A page name"
 	},
 	"premid.pageStart": {
