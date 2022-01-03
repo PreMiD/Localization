@@ -92,7 +92,7 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.noInternet.message": {
-		"message": "Изглежда, че нямате връзка с интернет! PreMiD няма да може да показва статуси в момента.",
+		"message": "Изглежда, че нямате връзка с интернет! PreMiD няма да може да показва presence в момента.",
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
@@ -100,7 +100,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD не може да се свърже с твоето Discord приложение! Изтеглено и работи ли?\n*Troubleshooting*",
+		"message": "PreMiD не може да се свърже с твоето Discord приложение! Изтеглено и работи ли?\n*Отстраняване на неизправности*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
