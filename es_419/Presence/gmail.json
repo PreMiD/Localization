@@ -1,1 +1,6 @@
-{}
+{
+  "gmail.viewingDrafts": {
+    "message": "Viendo borradores",
+    "description": "Displayed when the user is viewing their drafts"
+  }
+}

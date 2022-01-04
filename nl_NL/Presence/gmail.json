@@ -47,6 +47,10 @@
     "message": "Kiest een thema uit",
     "description": "Displayed when the user is modifying their theme in the settings"
   },
+  "gmail.lookingForEmail": {
+    "message": "Zoekt naar een e-mail",
+    "description": "Displayed when the user is searching for an email"
+  },
   "gmail.viewingStarredEmails": {
     "message": "Bekijkt e-mails met ster",
     "description": "Displayed when the user is viewing emails marked with a star"
