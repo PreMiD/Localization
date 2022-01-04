@@ -1,23 +1,23 @@
 {
   "gmail.categoryPrimary": {
     "message": "Viewing the Primary category",
-    "description": "Displayed when viewing primary emails."
+    "description": "Displayed when viewing emails in the primary category."
   },
   "gmail.categorySocial": {
     "message": "Viewing the Social category",
-    "description": "Displayed when viewing social emails."
+    "description": "Displayed when viewing emails in the social category."
   },
   "gmail.categoryUpdates": {
     "message": "Viewing the Updates category",
-    "description": "Displayed when viewing updates emails."
+    "description": "Displayed when viewing emails in the updates category."
   },
   "gmail.categoryPromotions": {
     "message": "Viewing the Promotions category",
-    "description": "Displayed when viewing promotions emails."
+    "description": "Displayed when viewing emails in the promotions category."
   },
   "gmail.categoryForum": {
-    "message": "Viewing the Forum category",
-    "description": "Displayed when viewing forum emails."
+    "message": "Viewing the Forums category",
+    "description": "Displayed when viewing emails in the forums category."
   },
   "gmail.inLabel": {
     "message": "Viewing label",
@@ -28,7 +28,7 @@
     "description": "Displayed when the user is modifying their settings"
   },
   "gmail.labelSettings": {
-    "message": "Configuring Labels settings",
+    "message": "Configuring Label settings",
     "description": "Displayed when the user is modifying their labels"
   },
   "gmail.inboxSettings": {
@@ -40,7 +40,7 @@
     "description": "Displayed when the user is modifying their account's settings"
   },
   "gmail.filterSettings": {
-    "message": "Configuring Filters and Blocked Addresses settings",
+    "message": "Configuring Filters and Blocked Addresses",
     "description": "Displayed when the user is modifying their filters and blocked addresses"
   },
   "gmail.fwdAndPOPSettings": {
