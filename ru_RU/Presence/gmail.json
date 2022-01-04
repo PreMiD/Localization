@@ -1,1 +1,26 @@
-{}
+{
+  "gmail.categoryPrimary": {
+    "message": "Смотрит категорию «Основная»",
+    "description": "Displayed when viewing emails in the primary category."
+  },
+  "gmail.categorySocial": {
+    "message": "Смотрит категорию «Соцсети»",
+    "description": "Displayed when viewing emails in the social category."
+  },
+  "gmail.categoryUpdates": {
+    "message": "Смотрит категорию «Оповещения»",
+    "description": "Displayed when viewing emails in the updates category."
+  },
+  "gmail.categoryPromotions": {
+    "message": "Смотрит категорию «Промоакции»",
+    "description": "Displayed when viewing emails in the promotions category."
+  },
+  "gmail.categoryForum": {
+    "message": "Смотрит категорию «Форумы»",
+    "description": "Displayed when viewing emails in the forums category."
+  },
+  "gmail.inLabel": {
+    "message": "Смотрит ярлыки",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  }
+}
