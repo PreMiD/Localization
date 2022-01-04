@@ -1,1 +1,50 @@
-{}
+{
+  "gmail.inLabel": {
+    "message": "Bekijkt label",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  },
+  "gmail.generalSettings": {
+    "message": "Past algemene instellingen aan",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.labelSettings": {
+    "message": "Past labelinstellingen aan",
+    "description": "Displayed when the user is modifying their labels"
+  },
+  "gmail.inboxSettings": {
+    "message": "Past inboxinstellingen aan",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "Past account-/importinstellingen aan",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "Past filters en geblokkeerde adressen aan",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "Past doorstuur-/POP-/IMAP-instellingen aan",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "Past add-ons aan",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "Past 'meet en chatten'-instellingen aan",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "Past geavanceerde instellingen aan",
+    "description": "Displayed when the user is modifying their advanced settings"
+  },
+  "gmail.offlineSettings": {
+    "message": "Past offline-instellingen aan",
+    "description": "Displayed when the user is modifying their offline settings"
+  },
+  "gmail.themesSettings": {
+    "message": "Kiest een thema uit",
+    "description": "Displayed when the user is modifying their theme in the settings"
+  }
+}
