@@ -1,6 +1,34 @@
 {
   "gmail.viewingDrafts": {
-    "message": "Viendo borradores",
+    "message": "Revisando los borradores",
     "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "Revisando correos importantes",
+    "description": "Displayed when the user is viewing emails marked as important"
+  },
+  "gmail.viewingTrash": {
+    "message": "Revisando la papelera",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "Viendo chats",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "Revisando correos programados",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "Revisando correos no deseados",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "Revisando todos los correos",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "Redactando un correo",
+    "description": "Displayed when the user is composing an email"
   }
 }
