@@ -30,5 +30,49 @@
   "gmail.addonsSettings": {
     "message": "অ্যাড-অন কনফিগার করছে",
     "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "চ্যাট এবং Meet সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "উন্নত ফিচারের সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their advanced settings"
+  },
+  "gmail.offlineSettings": {
+    "message": "অফলাইন সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their offline settings"
+  },
+  "gmail.themesSettings": {
+    "message": "একটি থিম বাছাই করছে",
+    "description": "Displayed when the user is modifying their theme in the settings"
+  },
+  "gmail.lookingForEmail": {
+    "message": "একটি ইমেল খুঁজছে",
+    "description": "Displayed when the user is searching for an email"
+  },
+  "gmail.viewingEmail": {
+    "message": "দেখছে একটি ইমেল",
+    "description": "Displayed when the user is viewing an email"
+  },
+  "gmail.viewingStarredEmails": {
+    "message": "দেখছে তারা চিহ্নিত ইমেলগুলো",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "দেখছে পাঠানো হয়েছে ইমেলগুলো",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "দেখছে স্নুজ করা হয়েছে ইমেলগুলো",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "দেখছে খসড়াগুলো",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "দেখছে গুরুত্বপূর্ণ ইমেলগুলো",
+    "description": "Displayed when the user is viewing emails marked as important"
   }
 }
