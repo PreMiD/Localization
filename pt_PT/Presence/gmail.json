@@ -1,1 +1,6 @@
-{}
+{
+  "gmail.inLabel": {
+    "message": "A ver o marcador",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  }
+}
