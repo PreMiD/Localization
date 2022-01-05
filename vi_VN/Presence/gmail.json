@@ -30,5 +30,21 @@
   "gmail.labelSettings": {
     "message": "Đang chỉnh sửa Cài đặt nhãn",
     "description": "Displayed when the user is modifying their labels"
+  },
+  "gmail.inboxSettings": {
+    "message": "Đang chỉnh sửa Cài đặt hộp thư đến",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.themesSettings": {
+    "message": "Đang chọn chủ đề",
+    "description": "Displayed when the user is modifying their theme in the settings"
+  },
+  "gmail.lookingForEmail": {
+    "message": "Đang tìm email",
+    "description": "Displayed when the user is searching for an email"
+  },
+  "gmail.viewingEmail": {
+    "message": "Đang xem một email",
+    "description": "Displayed when the user is viewing an email"
   }
 }
