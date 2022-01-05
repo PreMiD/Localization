@@ -22,5 +22,13 @@
   "gmail.inLabel": {
     "message": "Đang xem nhãn",
     "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  },
+  "gmail.generalSettings": {
+    "message": "Đang chỉnh sửa Cài đặt chung",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.labelSettings": {
+    "message": "Đang chỉnh sửa Cài đặt nhãn",
+    "description": "Displayed when the user is modifying their labels"
   }
 }
