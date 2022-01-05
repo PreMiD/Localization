@@ -1,4 +1,8 @@
 {
+  "gmail.categoryForum": {
+    "message": "দেখছে ফোরাম ক্যাটেগরি",
+    "description": "Displayed when viewing emails in the forums category."
+  },
   "gmail.inLabel": {
     "message": "দেখছে বিভাগ",
     "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
@@ -74,5 +78,29 @@
   "gmail.viewingImportantEmails": {
     "message": "দেখছে গুরুত্বপূর্ণ ইমেলগুলো",
     "description": "Displayed when the user is viewing emails marked as important"
+  },
+  "gmail.viewingTrash": {
+    "message": "দেখছে ট্র্যাশ",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "দেখছে চ্যাট",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "দেখছে সিডিউল করা ইমেলগুলো",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "দেখছে স্প্যাম ইমেলগুলো",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "দেখছে সব ইমেলগুলো",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "তৈরি করছে একটি ইমেল",
+    "description": "Displayed when the user is composing an email"
   }
 }
