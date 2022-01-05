@@ -54,5 +54,13 @@
   "gmail.viewingSentEmails": {
     "message": "Đang xem email đã gửi",
     "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "Đang xem email đã ẩn",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "Đang xem thư nháp",
+    "description": "Displayed when the user is viewing their drafts"
   }
 }
