@@ -14,5 +14,13 @@
   "gmail.categoryPromotions": {
     "message": "Đang xem danh mục Quảng cáo",
     "description": "Displayed when viewing emails in the promotions category."
+  },
+  "gmail.categoryForum": {
+    "message": "Đang xem danh mục Diễn đàn",
+    "description": "Displayed when viewing emails in the forums category."
+  },
+  "gmail.inLabel": {
+    "message": "Đang xem nhãn",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
   }
 }
