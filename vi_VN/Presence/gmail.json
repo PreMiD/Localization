@@ -1,1 +1,18 @@
-{}
+{
+  "gmail.categoryPrimary": {
+    "message": "Đang xem danh mục Chính",
+    "description": "Displayed when viewing emails in the primary category."
+  },
+  "gmail.categorySocial": {
+    "message": "Đang xem danh mục Mạng xã hội",
+    "description": "Displayed when viewing emails in the social category."
+  },
+  "gmail.categoryUpdates": {
+    "message": "Đang xem danh mục Nội dung cập nhật",
+    "description": "Displayed when viewing emails in the updates category."
+  },
+  "gmail.categoryPromotions": {
+    "message": "Đang xem danh mục Quảng cáo",
+    "description": "Displayed when viewing emails in the promotions category."
+  }
+}
