@@ -1,1 +1,34 @@
-{}
+{
+  "gmail.inLabel": {
+    "message": "দেখছে বিভাগ",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  },
+  "gmail.generalSettings": {
+    "message": "সাধারণ সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.labelSettings": {
+    "message": "লেবেল সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their labels"
+  },
+  "gmail.inboxSettings": {
+    "message": "ইনবক্স সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "অ্যাকাউন্ট এবং ইম্পোর্ট সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "ফিল্টার এবং ব্লক করা ঠিকানা কনফিগার করছে",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "ফরওয়ার্ড করা ও POP/IMAP সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "অ্যাড-অন কনফিগার করছে",
+    "description": "Displayed when the user is modifying their add-ons"
+  }
+}
