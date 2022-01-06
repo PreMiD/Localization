@@ -20,7 +20,7 @@
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.button.done": {
-		"message": "Свършен",
+		"message": "Готово",
 		"description": "Button on the page when trying to download with adblocker on."
 	},
 	"downloads.adsbox.thankyou.title": {
