@@ -99,6 +99,10 @@
 		"message": "Спешна актуализация",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Пуснахме спешна актуализация за разширението. Моля, актуализирайте го, за да продължите да използвате PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Няма връзка с интернет!",
 		"description": "Shown when the user has no internet connection"
