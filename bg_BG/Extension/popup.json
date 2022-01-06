@@ -87,6 +87,18 @@
 		"message": "Приложението ви PreMiD е остаряло. Моля, актуализирайте го, за да продължите да използвате PreMiD.",
 		"description": "Shown when application is outdated"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Остаряло разширение",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Разширението ви е остаряло. Моля, актуализирайте го, за да получите най-новите функции, като го изтеглите от нашия сайт.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Спешна актуализация",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
 	"popup.info.noInternet": {
 		"message": "Няма връзка с интернет!",
 		"description": "Shown when the user has no internet connection"
