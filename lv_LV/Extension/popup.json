@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD nevarēja savienoties ar tā aplikāciju! Vai tā ir uzstādīta un palaista?\n*Problēmu novēršana*",
+		"message": "PreMiD nevarēja savienoties ar tā lietotni! Vai tā ir uzstādīta un palaista?\n*Problēmu novēršana*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -84,7 +84,7 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Tava PreMiD aplikācija ir novecojusi. Lūdzu atjauniniet to, lai turpinātu izmantot PreMiD.",
+		"message": "Tava PreMiD lietotne ir novecojusi. Lūdzu atjauniniet to, lai turpinātu izmantot PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD nevarēja savienoties ar tavu Discord aplikāciju! Vai tas ir uzstādīts un ieslēgts?\n*Problēmu novēršana*",
+		"message": "PreMiD nevarēja savienoties ar tavu Discord lietotni! Vai tas ir uzstādīts un ieslēgts?\n*Problēmu novēršana*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {

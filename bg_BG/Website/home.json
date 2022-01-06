@@ -20,7 +20,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
-		"message": "Live\n",
+		"message": "Live",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
