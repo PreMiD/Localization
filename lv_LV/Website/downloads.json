@@ -16,7 +16,7 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_2": {
-		"message": "Uzstādi mūsu aplikāciju",
+		"message": "Uzstādi mūsu lietotni",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
@@ -140,7 +140,7 @@
 		"description": ""
 	},
 	"downloads.showbeta.small": {
-		"message": "(nav nepieciešams, ja jūs esat tikai šeit, lai lejupielādētu normālo aplikāciju)",
+		"message": "(nav nepieciešams, ja jūs esat tikai šeit, lai lejupielādētu normālo lietotni)",
 		"description": "Small text under the show beta title."
 	},
 	"downloads.skipanyway.message1": {
