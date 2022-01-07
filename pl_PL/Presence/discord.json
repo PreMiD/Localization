@@ -83,6 +83,22 @@
 		"message": "stronę o nas",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.branding": {
+		"message": "stronę Branding",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "stronę inspiracji",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "stronę uczelni",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "stronę newsroom",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.partner": {
 		"message": "stronę partnerów",
 		"description": "Second part of the \"Browsing through\" string"
@@ -91,8 +107,28 @@
 		"message": "stronę weryfikacji",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.streamkit": {
+		"message": "stronę StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "stronę otwartego kodu źródłowego",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "stronę bezpieczeństwa",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.moderation": {
 		"message": "stronę moderacji",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "stronę statusów",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "stronę z zasadami",
 		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.devs.portal": {
@@ -102,6 +138,10 @@
 	"discord.devs.appsBrowse": {
 		"message": "Przegląda swoje aplikacje",
 		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Edytuje aplikację: {0}",
+		"description": "{0} will be replaced with the name of the app."
 	},
 	"discord.devs.teamsBrowse": {
 		"message": "Przegląda swoje zespoły",
@@ -133,6 +173,10 @@
 	},
 	"discord.blog": {
 		"message": "Blog Discorda",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "merch Discord",
 		"description": ""
 	},
 	"discord.merch.collection": {
