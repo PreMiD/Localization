@@ -79,6 +79,10 @@
 		"message": "stanowiska pracy",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.company": {
+		"message": "stronę o nas",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.partner": {
 		"message": "stronę partnerów",
 		"description": "Second part of the \"Browsing through\" string"
