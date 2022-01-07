@@ -1,4 +1,36 @@
 {
+  "gmail.inLabel": {
+    "message": "Przegląda etykietę",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  },
+  "gmail.generalSettings": {
+    "message": "Konfiguruje ogólne ustawienia",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.filterSettings": {
+    "message": "Konfiguruje filtry i zablokowane adresy",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "Konfiguruje ustawienia przekazywania i POP/IMAP",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "Konfiguruje dodatki",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "Konfiguruje ustawienia chatów i spotkań",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "Konfiguruje zaawansowane ustawienia",
+    "description": "Displayed when the user is modifying their advanced settings"
+  },
+  "gmail.offlineSettings": {
+    "message": "Konfiguruje ustawienia offline",
+    "description": "Displayed when the user is modifying their offline settings"
+  },
   "gmail.themesSettings": {
     "message": "Wybiera motyw",
     "description": "Displayed when the user is modifying their theme in the settings"
