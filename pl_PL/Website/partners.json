@@ -3,6 +3,10 @@
 		"message": "Partnerzy",
 		"description": "Heading for page."
 	},
+	"partners.header.description": {
+		"message": "Dołącz do rodziny i zyskaj korzyści tylko dla partnerów, aby pokazać, ile masz swagu.",
+		"description": "Description for page."
+	},
 	"partners.slideshow.description": {
 		"message": "Już do nas należą",
 		"description": "Description for slideshow."
@@ -14,6 +18,10 @@
 	"partners.why.benefit1.title": {
 		"message": "Twój darmowy status Presence",
 		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Nasz zespół zapewni ci status Presence dla twojej usługi internetowej.",
+		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
 		"message": "Zostań zweryfikowany",
@@ -50,6 +58,10 @@
 	"partners.requirements.first.title": {
 		"message": "Czego szukamy?",
 		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Obserwujemy rosnące społeczności i ekscytujące rzeczy w internecie. W skrócie, powinieneś już korzystać z PreMiD i być gotowym na rozpowszechnienie go do większej ilości maniaków internetowych. Przyjęcie do programu zależy od jakości i będzie się różnić w zależności od kandydata.",
+		"description": "Description for the first requirement."
 	},
 	"partners.requirements.second.title": {
 		"message": "Nasza zapora sieciowa",
@@ -127,9 +139,37 @@
 		"message": "Najpotężniejsze i rozbudowane otwarte oprogramowanie Wiki.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.packageCloud": {
+		"message": "Jednolity, przyjazny dla deweloperów interfejs dla wszystkich Twoich artefaktów.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit to Twoja muzyczna stacja radiowa online stworzona do odtwarzania Twoich najlepszych hitów 24 godziny na dobę, 7 dni w tygodniu. Sprawia, że jako pierwszy odkryjesz przyszłe hity.",
+		"description": "Description for OnlyHit."
+	},
 	"partners.partner.rNetflix": {
 		"message": "r/Netflix jest największym serwerem Discord związanym z Netflix. Dyskusje o twoich ulubionych serialach lub filmach z podobnymi osobami znajdziesz tutaj.",
 		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "Aplikuj na partnera",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Zalogowano jako {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "To nie Ty?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Proszę wybrać",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Strona internetowa",
+		"description": "Select 'Website' category."
 	},
 	"partners.apply.select.other": {
 		"message": "Inne",
@@ -143,9 +183,17 @@
 		"message": "Np: PreMiD",
 		"description": "Name field's placeholder."
 	},
+	"partners.apply.form.link": {
+		"message": "Link",
+		"description": "Link field."
+	},
 	"partners.apply.form.link.placeholder": {
 		"message": "Np: https://premid.app",
 		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Opis: (Maksymalnie 150 znaków)",
+		"description": "Description field."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "Link do obrazka: (550x300, tylko w formacie PNG)",
@@ -167,8 +215,20 @@
 		"message": "Dziękujemy za aplikowanie!",
 		"description": "Success message when applying."
 	},
+	"partners.apply.error1": {
+		"message": "Proszę wypełnić wszystkie pola.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maksymalnie 150 znaków w opisie.",
+		"description": "Error when description exceeds character limit."
+	},
 	"partners.apply.error3": {
 		"message": "Dodaj link (musi zaczynać się od https:// i mieć końcówkę .png)",
 		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Już ubiegałeś się o partnera.",
+		"description": "Error when already applied."
 	}
 }
