@@ -1,4 +1,12 @@
 {
+	"discord.channelReading": {
+		"message": "Czyta kanał:{0}{1} (Serwer: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Pisze na kanale:{0}{1} (Serwer: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
 	"discord.dmReading": {
 		"message": "Czyta wiadomości prywatne od:{0}{1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
@@ -6,6 +14,14 @@
 	"discord.dmTyping": {
 		"message": "Pisze wiadomość prywatną do:{0}{1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Czyta w grupie prywatnej:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Pisze w grupie prywatnej:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
 	},
 	"discord.friends": {
 		"message": "Przeglądanie swoich znajomych...",
@@ -15,9 +31,29 @@
 		"message": "Czyta o Nitro...",
 		"description": ""
 	},
+	"discord.voiceConnectedWith": {
+		"message": "Połączony z czatem głosowym:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "Połączony z czatem głosowym:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
 	"discord.settings": {
 		"message": "Przeglądanie swoich ustawień...",
 		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Przegląda ustawienia{0}serwera: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "Ogląda zaproszenie:{0}{1} (Serwer: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "Ogląda zaproszenie{0}serwera: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
 	},
 	"discord.buttonInvite": {
 		"message": "Wyświetl Zaproszenie",
@@ -31,12 +67,68 @@
 		"message": "stronę pobierania",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.why": {
+		"message": "strona \"Dlaczego Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "Centrum Bezpieczeństwa",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.jobs": {
 		"message": "stanowiska pracy",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.partner": {
+		"message": "stronę partnerów",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "stronę weryfikacji",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "stronę moderacji",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Portal dla Deweloperów",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Przegląda swoje aplikacje",
+		"description": ""
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Przegląda swoje zespoły",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Edytuje zespół: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Przegląda swoje serwery",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Przegląda informacji o serwerze: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Czyta dokumentację",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Status Discorda",
+		"description": ""
+	},
 	"discord.support": {
 		"message": "Centrum Pomocy",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Blog Discorda",
 		"description": ""
 	},
 	"discord.merch.collection": {
