@@ -47,6 +47,14 @@
 		"message": "Wymagania",
 		"description": "Heading for the requirements."
 	},
+	"partners.requirements.first.title": {
+		"message": "Czego szukamy?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Nasza zapora sieciowa",
+		"description": "Heading for the second requirement."
+	},
 	"partners.requirements.second.description": {
 		"message": "Obecnie podejmujemy różne wysiłki w naszym programie partnerskim. Każdy powinien mieć szansę zostać zauważonym. Twórcy Twitcha powinni mieć co najmniej 500 obserwujących i co najmniej 10 równoczesnych widzów. Musisz przesyłać strumieniowo co najmniej 1 raz w tygodniu.",
 		"description": "Description for the second requirement."
@@ -87,6 +95,10 @@
 		"message": "SimLiveRadio to najpopularniejszy radiowy system informacyjno-rozrywkowy do gier symulacyjnych w Niemczech, Austrii i Szwajcarii!",
 		"description": "Description for SimLoveRadio."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Zacznij tworzyć własną społeczność, korzystając z naszych niesamowitych szablonów. Zbuduj swoje własne królestwo.",
+		"description": "Description for DiscordTemplates."
+	},
 	"partners.partner.taigaBot": {
 		"message": "taiga to bot Discordowy, który próbuje zaoferować wszystkie funkcje, których możesz potrzebować na raz!",
 		"description": "Description for taigabot."
@@ -115,6 +127,10 @@
 		"message": "Najpotężniejsze i rozbudowane otwarte oprogramowanie Wiki.",
 		"description": "Description for WikiJS."
 	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix jest największym serwerem Discord związanym z Netflix. Dyskusje o twoich ulubionych serialach lub filmach z podobnymi osobami znajdziesz tutaj.",
+		"description": "Description for r/Netflix."
+	},
 	"partners.apply.select.other": {
 		"message": "Inne",
 		"description": "Select 'Other' category."
@@ -131,8 +147,24 @@
 		"message": "Np: https://premid.app",
 		"description": "Link filed's placeholder."
 	},
+	"partners.apply.form.imageLink": {
+		"message": "Link do obrazka: (550x300, tylko w formacie PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Np.: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Zamknij",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Aplikuj",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
-		"message": "Dziękujemy za złożenie aplikacji!",
+		"message": "Dziękujemy za aplikowanie!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error3": {
