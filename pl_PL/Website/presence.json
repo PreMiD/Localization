@@ -1,10 +1,14 @@
 {
+	"presence.page.buttons.sourceCode": {
+		"message": "Kod źródłowy",
+		"description": "Source Code button on presence pages."
+	},
 	"presence.sections.description.title": {
 		"message": "Opis",
 		"description": "The title of the description section."
 	},
 	"presence.sections.changelog.title": {
-		"message": "Lista zmian",
+		"message": "Dziennik zmian",
 		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {
@@ -18,6 +22,14 @@
 	"presence.sections.information.version": {
 		"message": "Wersja",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Polubienia",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Użytkownicy",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
 	},
 	"presence.sections.information.tags": {
 		"message": "Tagi",
