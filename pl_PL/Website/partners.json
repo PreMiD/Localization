@@ -43,6 +43,10 @@
 		"message": "Uwiecznij się",
 		"description": "Heading for the fourth benefit."
 	},
+	"partners.why.benefit4.description": {
+		"message": "Okropne miejsce na naszej stronie partnerskiej.",
+		"description": "Description for the fourth benefit."
+	},
 	"partners.why.benefit5.title": {
 		"message": "Bądź sławny",
 		"description": "Heading for the fifth benefit."
@@ -143,6 +147,10 @@
 		"message": "Jednolity, przyjazny dla deweloperów interfejs dla wszystkich Twoich artefaktów.",
 		"description": "Description for PackageCloud."
 	},
+	"partners.partner.fastly": {
+		"message": "Napędza najlepszych w sieci.",
+		"description": "Description for Fastly."
+	},
 	"partners.partner.onlyhit": {
 		"message": "OnlyHit to Twoja muzyczna stacja radiowa online stworzona do odtwarzania Twoich najlepszych hitów 24 godziny na dobę, 7 dni w tygodniu. Sprawia, że jako pierwszy odkryjesz przyszłe hity.",
 		"description": "Description for OnlyHit."
@@ -194,6 +202,10 @@
 	"partners.apply.form.description": {
 		"message": "Opis: (Maksymalnie 150 znaków)",
 		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Opis wyróżnienia",
+		"description": "Description field's placeholder."
 	},
 	"partners.apply.form.imageLink": {
 		"message": "Link do obrazka: (550x300, tylko w formacie PNG)",
