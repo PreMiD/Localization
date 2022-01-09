@@ -28,7 +28,7 @@
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
-		"message": "документация",
+		"message": "Документация",
 		"description": "Documentation -> redirects to docs.premid.app"
 	},
 	"footer.developers.richpresence": {
@@ -76,15 +76,15 @@
 		"description": "meant to be 'Cookie Policy'"
 	},
 	"footer.help.information.privacy": {
-		"message": "поверителност",
+		"message": "Поверителност",
 		"description": "meant to be 'Privacy Policy'"
 	},
 	"footer.help.information.terms": {
-		"message": "условия",
+		"message": "Условия",
 		"description": "meant to be 'Terms of Service'"
 	},
 	"footer.more.heading": {
-		"message": "повече",
+		"message": "Повече",
 		"description": "More section"
 	},
 	"footer.more.status": {
@@ -104,7 +104,7 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
-		"message": "Цъкнете тук, за да видите останалата част от нашите партньори и спонсори.",
+		"message": "Щракнете тук, за да видите останалата част от нашите партньори и спонсори.",
 		"description": "Button next to all listed partners on the footer."
 	}
 }

@@ -7,9 +7,81 @@
 		"message": "Присъедини се в семейството и получи някои бонуси специално за партньори и покажи колко си готин.",
 		"description": "Description for page."
 	},
+	"partners.slideshow.description": {
+		"message": "Тези вече принадлежат на нас",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Как ти звучи да отидеш в рая вместо в ада?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Вашето безплатно присъствие",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Нашият екип ще ви предостави presence от ваш избор.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Стани потвърден",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Специална роля и почит ще ти бъда дадена в нашата Discord група.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Интеграция с мета-тагове",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Автоматично използва вашият Presence, когато някой посещава вашия уебсайт.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Бъди обезсмъртен",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Неприятно място на нашата партньорска страница.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Бъдете известен",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Представено на нашите социални медий.",
+		"description": "Description for the fifth benefit."
+	},
 	"partners.requirements.title": {
 		"message": "Изисквания",
 		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Какво търсим?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Гледаме за растящи общности и интересни неща по света.TL;DR трябва вече да използваш PreMiD и да си готов да го разпространиш към още повече привързаници на интернета. Приемането в програмата е екстремно качествено и ще варира от един кандидат към следващ.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Нашата защитна стена",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "В момента приемаме различни видове усилие в нашата програма за партньори. Всеки ще има шанса да бъде забелязан. Twitch стриймърите трябва да имат поне 500 последователя и поне 10 гледащи средно. Трябва да стриймвате поне веднъж седмично.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Кандидатствай сега!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Нека да отидем в рая заедно!",
+		"description": "Disclaimer located above the apply button."
 	},
 	"partners.apply.select.other": {
 		"message": "Други",
@@ -18,5 +90,9 @@
 	"partners.apply.form.name": {
 		"message": "Име",
 		"description": "Name filed."
+	},
+	"partners.apply.success": {
+		"message": "Благодарим ви, че кандидаствахте!",
+		"description": "Success message when applying."
 	}
 }
