@@ -11,8 +11,28 @@
         "message": "valaki... (Felhasználó elrejtve)",
         "description": "Shows when you dont want to show who you are calling/texting."
     },
+    "facebook.writing": {
+        "message": "Üzenetet ír",
+        "description": ""
+    },
     "facebook.userAbout": {
         "message": "Felhasználóról olvas:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Az ő közösségét nézi:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Böngészi:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Mentett videók",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nemrég hozzáadott",
         "description": ""
     },
     "facebook.weather": {

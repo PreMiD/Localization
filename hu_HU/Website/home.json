@@ -1,4 +1,8 @@
 {
+	"home.introduction.paragraph": {
+		"message": "A **PreMiD** egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad végzett tevékenységeket a Discord játék tevékenységi felületen.",
+		"description": "First phrase that users read on our website"
+	},
 	"home.introduction.button.features": {
 		"message": "Funkciók",
 		"description": "Introduction button"
@@ -70,6 +74,10 @@
 	"home.features.quickSupport.heading": {
 		"message": "Gyors segítség",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Valami nem működik, hibaüzenetek sokaságával áraszt el? Segítünk neked Discord szerverünkön. Egyedi támogatási rendszerünk célja, hogy problémádat a lehető leghamarabb megoldjuk.",
+		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
 		"message": "Csatlakozz Discord szerverünkre",

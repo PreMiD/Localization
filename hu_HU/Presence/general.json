@@ -87,6 +87,10 @@
 		"message": "Bejegyzést olvas:",
 		"description": ""
 	},
+	"general.readingThread": {
+		"message": "Gondolatmenetet olvas:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Olvasás",
 		"description": ""
