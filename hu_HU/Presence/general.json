@@ -35,6 +35,10 @@
 		"message": "Nyelv",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Zenét hallgat",
+		"description": ""
+	},
 	"general.listeners": {
 		"message": "Hallgatók",
 		"description": ""
@@ -59,20 +63,72 @@
 		"message": "Szüneteltetve",
 		"description": ""
 	},
+	"general.playing": {
+		"message": "Most szól",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Üzeneteket olvas tőle:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "A következőről olvas:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Cikket olvas:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Csatornán olvas:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Bejegyzést olvas:",
+		"description": ""
+	},
 	"general.reading": {
 		"message": "Olvasás",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Keres:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Valamit keres...",
 		"description": ""
 	},
 	"general.search": {
 		"message": "Keresés",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Írás",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Hívás",
+		"description": ""
+	},
 	"general.inCall": {
 		"message": "Hívásban...",
 		"description": ""
 	},
+	"general.shopCart": {
+		"message": "Kosár",
+		"description": ""
+	},
 	"general.store": {
 		"message": "Áruház",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Üzenetet ír neki:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Üzenetet ír ezen a csatornán:",
 		"description": ""
 	},
 	"general.viewAnime": {
@@ -93,6 +149,18 @@
 	},
 	"general.viewGenre": {
 		"message": "Műfajt néz:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Főoldalt nézi",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Listát böngész:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Mangát olvas:",
 		"description": ""
 	},
 	"general.viewMember": {
