@@ -1,1 +1,6 @@
-{}
+{
+	"spotify.browse": {
+		"message": "Търси в",
+		"description": "First section of the next 6 strings"
+	}
+}
