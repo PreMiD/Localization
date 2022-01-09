@@ -8,7 +8,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.headings.translators": {
-		"message": "преводачи",
+		"message": "Преводачи",
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
@@ -24,12 +24,16 @@
 		"description": "'Marketing Director' title for contributors and user pages."
 	},
 	"contributors.roles.administrator": {
-		"message": "администратор",
+		"message": "Администратор",
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.reviewer": {
-		"message": "Рецензент",
+		"message": "Критик",
 		"description": "'Reviewer' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Управител по локализацията",
+		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.developer": {
 		"message": "Разработчик",
@@ -40,7 +44,7 @@
 		"description": "'Designer' title for contributors and user pages."
 	},
 	"contributors.roles.moderator": {
-		"message": "забавител",
+		"message": "Модератор",
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
@@ -60,7 +64,7 @@
 		"description": "'Donator' title for contributors page."
 	},
 	"contributors.roles.booster": {
-		"message": "Бустер",
+		"message": "Booster",
 		"description": "'Booster' title for contributors page and user pages."
 	},
 	"contributors.roles.translator": {
