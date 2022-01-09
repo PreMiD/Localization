@@ -71,6 +71,10 @@
 		"message": "Kezd el elkészíteni a saját közösséget a nagyszerű sablonjainkkal. Építsd meg a saját királyságod.",
 		"description": "Description for DiscordTemplates."
 	},
+	"partners.partner.statusPage": {
+		"message": "Egyszerüen ossz meg valós idejű státuszt a felhasználóidnak.",
+		"description": "Description for StatusPage."
+	},
 	"partners.partner.erisly": {
 		"message": "Egy istennő aki egy vidám Discord Botként játszik!",
 		"description": "Description for Erisly."
