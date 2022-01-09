@@ -1,4 +1,12 @@
 {
+	"twitter.viewDms": {
+		"message": "Üzeneteit nézi",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Az ő tweetjeit nézi:",
+		"description": ""
+	},
 	"twitter.viewList": {
 		"message": "Listát néz:",
 		"description": ""
@@ -13,6 +21,10 @@
 	},
 	"twitter.explore": {
 		"message": "Felfedezés",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Néhány beállítás módosítása...",
 		"description": ""
 	}
 }
