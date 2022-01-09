@@ -70,5 +70,25 @@
 	"premid.pagePresenceGuide": {
 		"message": "Presence Irányelvek",
 		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence Osztály",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Slideshow Osztály",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Az iframe megértése",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "metadata.json konfigurálása",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScript Konfigurálása",
+		"description": "A page name"
 	}
 }
