@@ -1,7 +1,15 @@
 {
 	"footer.language": {
-		"message": "език",
+		"message": "Език",
 		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Готови ли сте да използвате PreMiD?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Присъединете се към {0} потребители днес!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
 		"message": "Инсталирай",
@@ -11,6 +19,10 @@
 		"message": "Партньори",
 		"description": "Partner section"
 	},
+	"footer.followUs.heading": {
+		"message": "Последвайте ни",
+		"description": "Follow Us section"
+	},
 	"footer.developers.heading": {
 		"message": "разработчиците",
 		"description": "Developer section"
@@ -18,6 +30,10 @@
 	"footer.developers.documentation": {
 		"message": "документация",
 		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
 		"message": "Подкрепи ни",
@@ -35,8 +51,12 @@
 		"message": "Превеждам",
 		"description": "Translate -> redirects to locilazation page"
 	},
+	"footer.supportus.jobs": {
+		"message": "Работете с нас!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
 	"footer.help.heading": {
-		"message": "Помогне",
+		"message": "Помощ",
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
@@ -82,5 +102,9 @@
 	"footer.copyright.line2": {
 		"message": "Уебсайт, поддържан от {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Цъкнете тук, за да видите останалата част от нашите партньори и спонсори.",
+		"description": "Button next to all listed partners on the footer."
 	}
 }
