@@ -67,6 +67,14 @@
 		"message": "Így nézel animét.",
 		"description": "Description for AniFlix."
 	},
+	"partners.partner.discordTemplates": {
+		"message": "Kezd el elkészíteni a saját közösséget a nagyszerű sablonjainkkal. Építsd meg a saját királyságod.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.erisly": {
+		"message": "Egy istennő aki egy vidám Discord Botként játszik!",
+		"description": "Description for Erisly."
+	},
 	"partners.partner.crowdin": {
 		"message": "Agilis honosítás a tech cégek számára.",
 		"description": "Description for Crowdin."
