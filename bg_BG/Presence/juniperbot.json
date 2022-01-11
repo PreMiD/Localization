@@ -1,1 +1,42 @@
-{}
+{
+    "juniperbot.mainpage": {
+        "message": "Главна страница",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Гледа класацията на сървъра:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "В главното табло",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Сървър: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Чете информация за дарителните планове",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Избира сървър",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Гледа в листа с команди",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Гледа в статистистиките на бота",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Къстомизира ранк картата",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Чете за бисквитките на сайта",
+        "description": "Reading about the site's cookies"
+    }
+}
