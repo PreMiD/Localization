@@ -1,10 +1,10 @@
 {
 	"beta.title": {
-		"message": "Chcesz nowych funkcji?",
+		"message": "Chcesz nowe funkcje?",
 		"description": "Beta page title"
 	},
 	"beta.description.1": {
-		"message": "**PreMiD Beta** jest teraz dostępna dla wszystkich!",
+		"message": "**PreMiD Beta** jest teraz dostępne dla wszystkich!",
 		"description": "Section description"
 	},
 	"beta.description.2": {
@@ -36,7 +36,7 @@
 		"description": "Thank You page title"
 	},
 	"thankyou.description": {
-		"message": "Nasze małpki pracują nad tym aby dodać Cię do naszego beta programu tak szybko jak to możliwe. Dziękujemy za rejestrację!",
+		"message": "Nasze małpki pracują nad tym, aby dodać Cię do naszego beta programu tak szybko jak to możliwe. Dziękujemy za rejestrację!",
 		"description": "Thank You page description"
 	},
 	"error.noslots": {
