@@ -44,7 +44,7 @@
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Brak dodanych statusów",
+		"message": "Brak dodanych Presence",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.done": {
@@ -52,11 +52,11 @@
 		"description": "Done button"
 	},
 	"popup.presences.load": {
-		"message": "Załaduj status",
+		"message": "Załaduj Presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Sklep ze statusami",
+		"message": "Sklep Presence",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
