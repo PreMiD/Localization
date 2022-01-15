@@ -1,6 +1,6 @@
 {
 	"jobs.modal.title": {
-		"message": "Zaaplikuj na {0}",
+		"message": "Zgloś się na {0}",
 		"description": "Jobs apply modal title, {0} will be replaced with the job name."
 	},
 	"jobs.modal.step": {
@@ -32,7 +32,7 @@
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Aby móc złożyć wniosek, musisz dołączyć do naszego serwera Discord. W przeciwnym razie nie będziemy mogli się z tobą skontaktować, jeśli ostatecznie zostaniesz wybrany!",
+		"message": "Aby móc złożyć podanie, musisz dołączyć do naszego serwera Discord. W przeciwnym razie nie będziemy mogli się z tobą skontaktować, jeśli ostatecznie zostaniesz wybrany!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
@@ -100,11 +100,11 @@
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
-		"message": "Dziękujemy za złożenie aplikacji!",
+		"message": "Dziękujemy za złożenie podania!",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
-		"message": "Już wcześniej aplikowałeś!",
+		"message": "Już wcześniej składałeś podanie!",
 		"description": "Notification when you applied already."
 	}
 }
