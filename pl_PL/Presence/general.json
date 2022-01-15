@@ -16,7 +16,7 @@
 		"description": ""
 	},
 	"general.editing": {
-		"message": "Edytowanie:",
+		"message": "Edytuje:",
 		"description": ""
 	},
 	"general.episode": {
@@ -52,7 +52,7 @@
 		"description": ""
 	},
 	"general.merch": {
-		"message": "Sklep",
+		"message": "Merch",
 		"description": ""
 	},
 	"general.page": {
@@ -60,7 +60,7 @@
 		"description": ""
 	},
 	"general.paused": {
-		"message": "Zatrzymano",
+		"message": "Zatrzymane",
 		"description": ""
 	},
 	"general.playing": {
@@ -100,7 +100,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "Wyszukiwanie...",
+		"message": "Wyszukuje...",
 		"description": ""
 	},
 	"general.search": {
@@ -116,7 +116,7 @@
 		"description": ""
 	},
 	"general.inCall": {
-		"message": "W rozmowie...",
+		"message": "W trakcie rozmowy...",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -140,7 +140,7 @@
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Przegląda kategorie:",
+		"message": "Przegląda kategorię:",
 		"description": ""
 	},
 	"general.viewChannel": {
@@ -160,7 +160,7 @@
 		"description": ""
 	},
 	"general.viewList": {
-		"message": "Przeglądanie listy:",
+		"message": "Czyta listę:",
 		"description": ""
 	},
 	"general.viewManga": {
@@ -176,7 +176,7 @@
 		"description": ""
 	},
 	"general.viewPlaylist": {
-		"message": "Przegląda playliste:",
+		"message": "Przegląda playlistę:",
 		"description": ""
 	},
 	"general.viewProduct": {
@@ -192,7 +192,7 @@
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "Oglądanie programu:",
+		"message": "Ogląda program:",
 		"description": ""
 	},
 	"general.viewAccount": {
@@ -224,7 +224,7 @@
 		"description": ""
 	},
 	"general.watchingShow": {
-		"message": "Ogląda serial",
+		"message": "Ogląda program",
 		"description": ""
 	},
 	"general.watchingVid": {
@@ -268,7 +268,7 @@
 		"description": "A page name"
 	},
 	"general.cookie": {
-		"message": "Polityka ciasteczek",
+		"message": "Polityka plików cookies",
 		"description": "A page name"
 	},
 	"general.repeatAll": {
@@ -300,7 +300,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
-		"message": "Ogląda odcinek",
+		"message": "Obejrzyj odcinek",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchMovie": {
@@ -308,7 +308,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "Obejrzyj Film",
+		"message": "Obejrzyj film",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchStream": {
@@ -316,43 +316,43 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
-		"message": "Zobacz Kanał",
+		"message": "Pokaż kanał",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
-		"message": "Słuchaj Razem",
+		"message": "Słuchaj razem",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPage": {
-		"message": "Zobacz Stronę",
+		"message": "Otwórz stronę",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewSong": {
-		"message": "Zobacz Utwór",
+		"message": "Zobacz utwór",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewAlbum": {
-		"message": "Zobacz Album",
+		"message": "Zobacz album",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewProfile": {
-		"message": "Wyświetl Profil",
+		"message": "Wyświetl profil",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewArtist": {
-		"message": "Zobacz Wykonawcę",
+		"message": "Zobacz wykonawcę",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPlaylist": {
-		"message": "Zobacz Playlistę",
+		"message": "Zobacz playlistę",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPodcast": {
-		"message": "Zobacz Podcast",
+		"message": "Zobacz podcast",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonReadArticle": {
-		"message": "Przeczytaj Artykuł",
+		"message": "Przeczytaj artykuł",
 		"description": "Used as the title for the button in Discord."
 	}
 }
