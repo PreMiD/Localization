@@ -7,6 +7,42 @@
         "message": "Przegląda aplikację:",
         "description": "e.g. \"Viewing Service: Fitness+\""
     },
+    "apple.healthcare": {
+        "message": "Zdrowie",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "Produkty i platforma",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "Statystyki zdrowia",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "Przegląd",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Pomoc przy zakupie",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Wyszukiwarka najbliższych sklepów",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "Ogląda wydarzenie",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "Odpowiedzialność dostawcy",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
+    },
+    "apple.contact": {
+        "message": "Kontaktuje się z wsparciem",
+        "description": "Contact support"
+    },
     "apple.chooseLang": {
         "message": "Wybieranie języka...",
         "description": "Choosing the language of the website"
