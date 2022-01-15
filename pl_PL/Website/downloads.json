@@ -4,7 +4,7 @@
 		"description": "Title"
 	},
 	"downloads.header.subtitle": {
-		"message": "Użyj PreMiD teraz i zacznij się chwalić znajomym, co robisz, być może znajdziesz kogoś o takich samych zainteresowaniach.",
+		"message": "Użyj PreMiD teraz i zacznij się chwalić znajomym, co robisz. Być może znajdziesz kogoś o takich samych zainteresowaniach.",
 		"description": "Subtitle for header"
 	},
 	"downloads.instructions.heading": {
@@ -64,11 +64,11 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "Aktualna wersja dla tej platformy to {0} (ten numer wersji jest wyłącznie dla aplikacji na Linux'a, reszta platform ma inny numer wersji).",
+		"message": "Aktualna wersja dla tej platformy to {0} (ten numer wersji jest wyłącznie dla aplikacji na Linuksa, reszta platform ma inny numer wersji).",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
-		"message": "Ta wersja jest specyficzna dla Linux'a i nie ma zastosowania do innych systemów. Główna wersja aplikacji to {0}",
+		"message": "Ta wersja tylko dla Linuksa i nie ma jej na innych systemach operacyjnych. Główna wersja aplikacji to {0}",
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
