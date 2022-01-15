@@ -84,23 +84,23 @@
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.unsupportedAppVersion.message": {
-		"message": "Twoja zainstalowana wersja PreMiD jest przestarzała. Proszę zaktualizuj ją aby kontynuować korzystanie z PreMiD.",
+		"message": "Twoja zainstalowana wersja PreMiD jest przestarzała. Proszę zaktualizuj ją, aby dalej korzystać z PreMiD.",
 		"description": "Shown when application is outdated"
 	},
 	"popup.info.safari.outdatedExtension": {
-		"message": "Nieaktualne rozszerzenie",
+		"message": "Przestarzałe rozszerzenie",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "Twoje rozszerzenie jest nieaktualne. Zaktualizuj je, aby uzyskać dostęp do najnowszych funkcji pobierając je z naszej witryny.",
+		"message": "Twoje rozszerzenie jest przestarzałe. Zaktualizuj je, aby uzyskać dostęp do najnowszych funkcji pobierając je z naszej witryny.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
-		"message": "Ważna aktualizacja",
+		"message": "Pilna aktualizacja",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate.message": {
-		"message": "Wydaliśmy ważną aktualizację dla rozszerzenia. Uaktualnij dodatek, aby kontynuować korzystanie z PreMiD.",
+		"message": "Wydaliśmy ważną aktualizację dla rozszerzenia. Zaktualizuj je, aby dalej korzystać z PreMiD.",
 		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
 	},
 	"popup.info.noInternet": {
@@ -112,11 +112,11 @@
 		"description": "Shown when the user has no internet connection"
 	},
 	"popup.info.notConnectedDiscord": {
-		"message": "Brak połączenia z Discord'em!",
+		"message": "Brak połączenia z Discordem!",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD nie mógł połączyć się z Discord'em! Czy jest on zainstalowany i uruchomiony? *Rozwiązywanie problemów*",
+		"message": "PreMiD nie mógł połączyć się z Discordem! Czy jest on zainstalowany i uruchomiony? *Rozwiązywanie problemów*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {
