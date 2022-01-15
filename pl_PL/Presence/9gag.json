@@ -16,19 +16,19 @@
         "description": ""
     },
     "9gag.tag": {
-        "message": "Wyświetlanie tagu:",
+        "message": "Przegląda tag:",
         "description": ""
     },
     "9gag.about": {
-        "message": "Czytanie informacji o 9GAG",
+        "message": "Czyta o 9GAG",
         "description": ""
     },
     "9gag.store": {
-        "message": "Wyświetlanie strony sklepu",
+        "message": "Wyświetla stronę sklepu",
         "description": ""
     },
     "9gag.collection": {
-        "message": "Przeglądanie kolekcji:",
+        "message": "Przegląda kolekcję:",
         "description": ""
     }
 }
