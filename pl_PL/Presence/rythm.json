@@ -1,1 +1,6 @@
-{}
+{
+    "rythm.requestedBy": {
+        "message": "Utwór wywołany przez: {0}",
+        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
+    }
+}
