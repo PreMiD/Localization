@@ -20,7 +20,7 @@
 		"description": "Select Box for the user to select their operating system"
 	},
 	"report.browser": {
-		"message": "Wybierz swoją przeglądarkę i wersję - aby wyświetlić numer wersji w przeglądarce Firefox, odwiedź about:support, a w Google Chrome - chrome://help",
+		"message": "Wybierz swoją przeglądarkę i wersję. Aby wyświetlić numer wersji w przeglądarce Firefox, odwiedź about:support, a w Google Chrome - chrome://help",
 		"description": "Select Box for the user to select their browser"
 	},
 	"report.description": {

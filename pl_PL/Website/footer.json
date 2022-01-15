@@ -4,7 +4,7 @@
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
-		"message": "Gotowy do używania PreMiD?",
+		"message": "Gotowy na używanie PreMiD?",
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
@@ -96,7 +96,7 @@
 		"description": "Wiki -> redirects to wiki.premid.app"
 	},
 	"footer.copyright.line1": {
-		"message": "{0} przez {1}",
+		"message": "{0} od {1}",
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {

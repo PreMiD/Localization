@@ -24,7 +24,7 @@
 		"description": "Button on the error page"
 	},
 	"user.notFound.heading": {
-		"message": "Ten użytkownik nie został znaleziony. Spróbuj upewnić się czy",
+		"message": "Ten użytkownik nie został znaleziony. Spróbuj upewnić się",
 		"description": "Error when user couldn't be found."
 	},
 	"user.notFound.message1": {
@@ -36,7 +36,7 @@
 		"description": "Check the presence amount of the developer created message."
 	},
 	"user.notFound.message3": {
-		"message": "jeśli inni mają ten sam problem na naszym serwerze Discord.",
+		"message": "czy inni doświadczają tego samego problemu na naszym serwerze Discord.",
 		"description": "Check if the error is also happening to others message."
 	},
 	"user.notFound.message4": {

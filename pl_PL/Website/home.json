@@ -40,11 +40,11 @@
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Znajdź **swoją** aktywność",
+		"message": "Znajdź **swoje** Presence",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Stworzyliśmy nasze rozszerzenie, które pozwala ci na używanie presences stworzonych przez innych użytkowników i zarządzania nimi w naszej aplikacji!",
+		"message": "Stworzyliśmy nasze rozszerzenie, które pozwala ci na używanie Presence stworzonych przez innych użytkowników i zarządzania nimi w naszej aplikacji!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -76,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Coś jest zepsute, wysyłając mnóstwo błędów lub po prostu nie działa? Pomożemy Ci pozbyć się tych problemów na naszym serwerze Discord, stworzyliśmy również nasz własny system wsparcia, który zapewni, że problem zostanie rozwiązany tak szybko, jak to możliwe.",
+		"message": "Coś jest zepsute, wysyła Ci mnóstwo błędów lub po prostu nie działa? Pomożemy Ci pozbyć się tych problemów na naszym serwerze Discord, stworzyliśmy również nasz własny system wsparcia, który zapewni, że problem zostanie rozwiązany tak szybko, jak to możliwe.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {

@@ -16,11 +16,11 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Twój darmowy status Presence",
+		"message": "Twoje darmowe Presence",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
-		"message": "Nasz zespół zapewni ci status Presence dla twojej usługi internetowej.",
+		"message": "Nasz zespół zapewni ci Presence dla twojej usługi internetowej.",
 		"description": "Description for the first benefit."
 	},
 	"partners.why.benefit2.title": {
@@ -36,7 +36,7 @@
 		"description": "Heading for the third benefit."
 	},
 	"partners.why.benefit3.description": {
-		"message": "Automatycznie włącza twój status Presence, gdy ktoś odwiedza Twoją witrynę.",
+		"message": "Automatycznie włącza twój Presence, gdy ktoś odwiedza Twoją stronę.",
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
@@ -72,11 +72,11 @@
 		"description": "Heading for the second requirement."
 	},
 	"partners.requirements.second.description": {
-		"message": "Obecnie podejmujemy różne wysiłki w naszym programie partnerskim. Każdy powinien mieć szansę zostać zauważonym. Twórcy Twitcha powinni mieć co najmniej 500 obserwujących i co najmniej 10 równoczesnych widzów. Musisz przesyłać strumieniowo co najmniej 1 raz w tygodniu.",
+		"message": "Akceptujemy rożne rodzaje wysiłku do naszego programu partnerskiego. Każdy powinien mieć szansę zostać zauważonym. Twórcy na Twitchu powinni mieć co najmniej 500 obserwujących i co najmniej 10 równoczesnych widzów. Musisz nadawać na żywo co najmniej 1 raz w tygodniu.",
 		"description": "Description for the second requirement."
 	},
 	"partners.apply.button": {
-		"message": "Aplikuj teraz!",
+		"message": "Zgłoś się teraz!",
 		"description": "Button to apply for partner."
 	},
 	"partners.apply.disclaimer": {
@@ -160,7 +160,7 @@
 		"description": "Description for r/Netflix."
 	},
 	"partners.apply.title": {
-		"message": "Aplikuj na partnera",
+		"message": "Zgłoś się na partnera",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
@@ -220,11 +220,11 @@
 		"description": "Modal close button."
 	},
 	"partners.apply.form.button.apply": {
-		"message": "Aplikuj",
+		"message": "Zgłoś się",
 		"description": "Modal apply button."
 	},
 	"partners.apply.success": {
-		"message": "Dziękujemy za aplikowanie!",
+		"message": "Dziękujemy za złożenie podania!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
@@ -240,7 +240,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Już ubiegałeś się o partnera.",
+		"message": "Już zgłosiłeś się na partnera.",
 		"description": "Error when already applied."
 	}
 }

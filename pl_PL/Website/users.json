@@ -1,14 +1,14 @@
 {
 	"user.roles.presenceDeveloper": {
-		"message": "Twórca Presences",
+		"message": "Twórca Presence",
 		"description": "'Presence Developer' title for user pages."
 	},
 	"user.roles.presenceVerifier": {
-		"message": "Weryfikator Presences",
+		"message": "Weryfikator Presence",
 		"description": "'Presence Verifier' title for user pages."
 	},
 	"user.importantPresenceDev.message1": {
-		"message": "Ważny Twórca Presences",
+		"message": "Ważny Twórca Presence",
 		"description": "'Important Presence Developer' tippy description for user pages."
 	},
 	"user.importantPresenceDev.message2": {
@@ -16,7 +16,7 @@
 		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.geniusPresenceDev.message1": {
-		"message": "Genialny Twórca Presences",
+		"message": "Genialny Twórca Presence",
 		"description": "'Genuis Presence Developer' tippy description for user pages."
 	},
 	"user.geniusPresenceDev.message2": {
@@ -32,7 +32,7 @@
 		"description": "Tippy content in user profile."
 	},
 	"user.presences.contributed": {
-		"message": "Kliknij tutaj, aby wyświetlić presence, do których ten użytkownik się przyczynił.",
+		"message": "Kliknij tutaj, aby wyświetlić Presence, do których ten użytkownik się przyczynił.",
 		"description": "Tippy content (mode 2) in user profile."
 	}
 }
