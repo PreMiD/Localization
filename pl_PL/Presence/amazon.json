@@ -32,7 +32,7 @@
         "description": ""
     },
     "amazon.viewTheir": {
-        "message": "Przeglądanie swoich",
+        "message": "Przegląda swoją",
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
@@ -48,7 +48,7 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
-        "message": "lista życzeń",
+        "message": "listę życzeń",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
@@ -56,11 +56,11 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
-        "message": "Przeglądanie rekomendowanych",
+        "message": "Przegląda rekomendowane",
         "description": ""
     },
     "amazon.history": {
-        "message": "Wyświetlanie swojej historii",
+        "message": "Wyświetla swoją historię",
         "description": ""
     },
     "amazon.store": {
@@ -68,7 +68,7 @@
         "description": ""
     },
     "amazon.primeVid": {
-        "message": "Przeglądanie filmu premium:",
+        "message": "Ogląda film premium:",
         "description": ""
     }
 }
