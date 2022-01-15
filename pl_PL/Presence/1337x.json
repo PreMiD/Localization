@@ -1,10 +1,10 @@
 {
     "1337x.movieLibrary": {
-        "message": "Przeglądanie biblioteki filmów",
+        "message": "Przegląda bibliotekę filmów",
         "description": ""
     },
     "1337x.seriesLibrary": {
-        "message": "Przeglądanie biblioteki serii",
+        "message": "Przegląda bibliotekę serialów",
         "description": ""
     },
     "1337x.latestEpisode": {
@@ -44,7 +44,7 @@
         "description": ""
     },
     "1337x.otherTorrents": {
-        "message": "Przeglądanie innych torrentów",
+        "message": "Przegląda inne torrenty",
         "description": ""
     },
     "1337x.tvTorrents": {
