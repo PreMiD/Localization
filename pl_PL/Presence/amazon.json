@@ -12,7 +12,7 @@
         "description": ""
     },
     "amazon.payment": {
-        "message": "Przeglądanie metod płatności",
+        "message": "Przegląda metody płatności",
         "description": ""
     },
     "amazon.address": {
@@ -24,7 +24,7 @@
         "description": ""
     },
     "amazon.catergoriesAll": {
-        "message": "Przeglądanie wszystkich kategorii",
+        "message": "Przegląda wszystkie kategorie",
         "description": ""
     },
     "amazon.prime": {
