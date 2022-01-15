@@ -16,7 +16,7 @@
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
-		"message": "Ta Presence wymaga wykonania dodatkowych kroków aby zadziałała, sprawdź jej stronę aby uzyskać więcej informacji.",
+		"message": "Te Presence wymaga wykonania dodatkowych kroków aby zadziałało, sprawdź jego stronę aby uzyskać więcej informacji.",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
@@ -32,7 +32,7 @@
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
-		"message": "Ta Presence jest włączana automatycznie podczas odwiedzania witryny.",
+		"message": "To Presence jest włączane automatycznie podczas odwiedzania jego strony.",
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
@@ -40,11 +40,11 @@
 		"description": "Searh filters option at the store page"
 	},
 	"store.category.filters.mostUsed": {
-		"message": "Najczęściej używane",
+		"message": "Najczęściej używane pierwsze",
 		"description": "Most used first checkbox"
 	},
 	"store.category.filters.allowAdult": {
-		"message": "Pokaż NSFW",
+		"message": "Pokaż Presence 18+",
 		"description": "Adult content checkbox"
 	},
 	"store.category.filters.likedOnly": {
