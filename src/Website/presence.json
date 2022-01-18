@@ -41,7 +41,7 @@
 	},
 	"presence.sections.information.moreurls": {
 		"message": "This Presence supports more URLs than listed below through the use of RegExp. Hover to see the pattern",
-		"description": "Shown in a presence’s page if it uses RegEx"
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
 	},
 	"presence.sections.information.contributors": {
 		"message": "Contributors",
