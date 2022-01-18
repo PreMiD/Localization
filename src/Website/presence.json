@@ -41,7 +41,7 @@
 	},
 	"presence.sections.information.moreurls": {
 		"message": "This Presence supports more URLs than listed below.",
-		"description": "One of the strings from the Information section. [on webite -> If the presence uses RegExp, this string will be shown.]"
+		"description": "Shown in a presence’s page if it uses RegEx"
 	},
 	"presence.sections.information.contributors": {
 		"message": "Contributors",
