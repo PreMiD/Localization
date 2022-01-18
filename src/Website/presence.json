@@ -40,7 +40,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
 	"presence.sections.information.moreurls": {
-		"message": "This Presence supports more URLs than listed below.",
+		"message": "This Presence supports more URLs than listed below. Hover for more information.",
 		"description": "Shown in a presence’s page if it uses RegEx"
 	},
 	"presence.sections.information.contributors": {
