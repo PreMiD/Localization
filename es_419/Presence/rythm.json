@@ -7,6 +7,10 @@
         "message": "Invitar Bot",
         "description": "Button for inviting the bot."
     },
+    "rythm.djs": {
+        "message": "DJs: {0}",
+        "description": "{0} will be replaced with the amount of users with DJ permissions."
+    },
     "rythm.users": {
         "message": "Usuarios: {0}",
         "description": "{0} will be replaced with the amount of normal users."
