@@ -7,6 +7,10 @@
 		"message": "Empleos",
 		"description": "Page name"
 	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Socios",
 		"description": "Page name"
@@ -157,6 +161,10 @@
 	},
 	"twitch.colls": {
 		"message": "Colecciones de vídeos",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clips",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.channelSettings": {

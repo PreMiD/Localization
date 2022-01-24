@@ -39,6 +39,10 @@
 		"message": "URL disokong",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Presence ini menyokong lebih banyak URL berbanding apa yang disenaraikan di bawah menerusi penggunaan ungkapan nalar RegExp. Lalukan tetikus untuk melihat coraknya",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "Penyumbang",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"

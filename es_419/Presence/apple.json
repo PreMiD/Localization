@@ -59,6 +59,10 @@
         "message": "Accesorios de Apple",
         "description": "Accessories for Apple products (e.g iPhone case)"
     },
+    "apple.shopStudio": {
+        "message": "Apple Watch Studio",
+        "description": "Choose your own design components for a product"
+    },
     "apple.shopFavorites": {
         "message": "Favoritos",
         "description": "Favorite products"
@@ -78,6 +82,10 @@
     "apple.shopBag": {
         "message": "Carrito de la compra",
         "description": "Shopping cart"
+    },
+    "apple.shopBagSummary": {
+        "message": "Total: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
     },
     "apple.support": {
         "message": "Soporte de Apple",
@@ -175,6 +183,10 @@
         "message": "Registrando",
         "description": "Register a new account (alternative translation: registering)"
     },
+    "apple.devVideos": {
+        "message": "Videos",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
     "apple.devVidTopic": {
         "message": "Tema de videos",
         "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
@@ -203,8 +215,32 @@
         "message": "Ver: {0}",
         "description": "e.g. \"View iOS 15\""
     },
+    "apple.btnViewStudio": {
+        "message": "Ver {0} Estudio",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "Ver aplicación",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Ver desarrollador",
+        "description": "View the developer of an app"
+    },
     "apple.btnViewWWDC": {
         "message": "Ver: {0}",
         "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "Ver hilo",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Ver etiquetas",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "Ver el perfil de {0}",
+        "description": "View a forum profile of a user"
     }
 }

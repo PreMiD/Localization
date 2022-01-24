@@ -39,6 +39,10 @@
 		"message": "সাপোর্টেড URLs",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "এই Presence টি নিচের URL গুলো থেকেও আরো বেশি URL সাপোর্ট করে RegExp এর ব্যবহারের সাহায্যে। হভার করো প্যাটার্নটি দেখার জন্য",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "অবদানকারী",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"

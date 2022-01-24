@@ -67,6 +67,10 @@
 		"message": "Echa un vistazo a nuestro desarrollo y marketing.",
 		"description": "Benefit card description."
 	},
+	"jobs.benefit3.title": {
+		"message": "Honor",
+		"description": "Benefit card title."
+	},
 	"jobs.benefit3.description": {
 		"message": "Potentes permisos de Discord y un colorido rol.",
 		"description": "Benefit card description."

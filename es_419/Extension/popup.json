@@ -123,6 +123,10 @@
 		"message": "Todo",
 		"description": "Category name shown when you open tags"
 	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
 	"popup.category.music": {
 		"message": "Música",
 		"description": "Category name shown when you open tags"

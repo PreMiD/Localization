@@ -39,6 +39,10 @@
 		"message": "URLs được hỗ trợ",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Presence này hỗ trợ nhiều URL hơn những gì đã được liệt kê dưới đây qua việc sử dụng RegExp. Di chuột qua để xem khuôn mẫu",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "Đóng góp",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"

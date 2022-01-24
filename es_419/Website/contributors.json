@@ -63,6 +63,10 @@
 		"message": "Donador",
 		"description": "'Donator' title for contributors page."
 	},
+	"contributors.roles.booster": {
+		"message": "Boosters",
+		"description": "'Booster' title for contributors page and user pages."
+	},
 	"contributors.roles.translator": {
 		"message": "Traductor",
 		"description": "'Translator' title for contributors page."

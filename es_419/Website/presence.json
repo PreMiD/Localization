@@ -23,6 +23,10 @@
 		"message": "Versión",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
+	"presence.sections.information.likes": {
+		"message": "Likes",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
 	"presence.sections.information.users": {
 		"message": "Usuarios",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
@@ -34,6 +38,10 @@
 	"presence.sections.information.supportedurls": {
 		"message": "URLs Soportadas",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.moreurls": {
+		"message": "Esta presence soporta más URLs de las que aparecen a continuación a través del uso de expresiones regulares (RegExp). Mantén el cursor sobre este texto para ver el patrón",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
 	},
 	"presence.sections.information.contributors": {
 		"message": "Contribuidores",

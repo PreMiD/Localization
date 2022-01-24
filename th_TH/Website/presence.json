@@ -39,6 +39,10 @@
 		"message": "URLs ที่รองรับ",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Presence นี้มีการรองรับ URL เพิ่มเติมโดยใช้ RegExp, ชี้เม้าที่ข้อความเพื่อดู pattern",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "ผู้พัฒนา",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"

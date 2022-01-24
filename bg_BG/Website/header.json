@@ -12,7 +12,7 @@
     "description": "Text in language notification when user has different language."
   },
   "header.languageNotification.btnDecline": {
-    "message": "Не благодаря",
+    "message": "Не, благодаря",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {

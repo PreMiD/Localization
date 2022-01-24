@@ -59,6 +59,10 @@
     "message": "Bekijkt verzonden e-mails",
     "description": "Displayed when the user is viewing the emails they have sent"
   },
+  "gmail.viewingSnoozedEmails": {
+    "message": "Bekijkt gesluimerde e-mails",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
   "gmail.viewingDrafts": {
     "message": "Bekijkt concepten",
     "description": "Displayed when the user is viewing their drafts"
