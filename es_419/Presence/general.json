@@ -1,10 +1,18 @@
 {
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
 	"general.browsing": {
 		"message": "Navegando...",
 		"description": ""
 	},
 	"general.chapter": {
 		"message": "Capítulo",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
 		"description": ""
 	},
 	"general.editing": {
@@ -37,6 +45,10 @@
 	},
 	"general.live": {
 		"message": "En vivo",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
 		"description": ""
 	},
 	"general.merch": {
@@ -283,8 +295,16 @@
 		"message": "Ver serie",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Ver película",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Ver episodio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Ver película",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
