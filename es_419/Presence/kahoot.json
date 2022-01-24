@@ -76,16 +76,20 @@
         "description": "Used when the host is showing a question"
     },
     "kahoot.stPlace": {
-        "message": "Primer lugar",
+        "message": "1º lugar",
         "description": "Used in the context of 1st place"
     },
     "kahoot.ndPlace": {
-        "message": "Segundo lugar",
+        "message": "2º lugar",
         "description": "Used in the context of 2nd place"
     },
     "kahoot.rdPlace": {
-        "message": "Tercer lugar",
+        "message": "3º lugar",
         "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "Top: {0}",
+        "description": "Used in the context of Top 5"
     },
     "kahoot.of": {
         "message": "{0} de {1}",
