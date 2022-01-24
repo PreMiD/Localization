@@ -39,6 +39,10 @@
 		"message": "Поддържани URL адреси",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Този Presence поддържа повече URL адреси от изброените по-долу чрез използването на RegExp. Задръжте курсора, за да видите шаблона",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "Сътрудници",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
