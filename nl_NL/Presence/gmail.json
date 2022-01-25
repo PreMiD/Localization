@@ -1,4 +1,24 @@
 {
+  "gmail.categoryPrimary": {
+    "message": "Bekijkt categorie Primair",
+    "description": "Displayed when viewing emails in the primary category."
+  },
+  "gmail.categorySocial": {
+    "message": "Bekijkt categorie Sociaal",
+    "description": "Displayed when viewing emails in the social category."
+  },
+  "gmail.categoryUpdates": {
+    "message": "Bekijkt categorie Updates",
+    "description": "Displayed when viewing emails in the updates category."
+  },
+  "gmail.categoryPromotions": {
+    "message": "Bekijkt categorie Reclame",
+    "description": "Displayed when viewing emails in the promotions category."
+  },
+  "gmail.categoryForum": {
+    "message": "Bekijkt categorie Forums",
+    "description": "Displayed when viewing emails in the forums category."
+  },
   "gmail.inLabel": {
     "message": "Bekijkt label",
     "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
@@ -50,6 +70,10 @@
   "gmail.lookingForEmail": {
     "message": "Zoekt naar een e-mail",
     "description": "Displayed when the user is searching for an email"
+  },
+  "gmail.viewingEmail": {
+    "message": "Bekijkt een e-mail",
+    "description": "Displayed when the user is viewing an email"
   },
   "gmail.viewingStarredEmails": {
     "message": "Bekijkt e-mails met ster",
