@@ -27,6 +27,10 @@
     "message": "Parduotuvė",
     "description": "Store tab"
   },
+  "header.downloads": {
+    "message": "Siuntiniai",
+    "description": "Downloads tab"
+  },
   "header.contributors": {
     "message": "Pagalbininkai",
     "description": "Contributors tab"
