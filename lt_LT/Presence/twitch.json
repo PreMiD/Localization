@@ -1,4 +1,8 @@
 {
+	"twitch.downloads": {
+		"message": "Siuntiniai",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Partneriai",
 		"description": "Page name"
