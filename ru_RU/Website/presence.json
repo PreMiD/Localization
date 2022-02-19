@@ -39,6 +39,10 @@
 		"message": "Поддерживаемые ссылки",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Это Presence поддерживает больше URL-адресов, чем указано ниже, с помощью RegExp. Наведите указатель мыши, чтобы увидеть шаблон",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "Участники",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
