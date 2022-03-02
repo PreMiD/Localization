@@ -15,6 +15,10 @@
 		"message": "Pagalbininkai",
 		"description": "A page name"
 	},
+	"premid.pageDownloads": {
+		"message": "Siuntiniai",
+		"description": "A page name"
+	},
 	"premid.pageStore": {
 		"message": "Parduotuvė",
 		"description": "A page name"
