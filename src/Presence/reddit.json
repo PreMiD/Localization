@@ -1,0 +1,14 @@
+{
+    "reddit.subredditPrivacy": {
+        "message": "In a subreddit",
+        "description": "Used when user is browsing a subreddit with privacy mode"
+    },
+    "reddit.postPrivacy": {
+        "message": "Reading a post",
+        "description": "Used when user is reading a post with privacy mode"
+    },
+    "reddit.profilePrivacy": {
+        "message": "Viewing a profile",
+        "description": "Used when user is viewing a profile with privacy mode"
+    }
+}
