@@ -3,6 +3,10 @@
 		"message": "Nézi a listákat",
 		"description": ""
 	},
+	"spotify.browse": {
+		"message": "Böngészi",
+		"description": "First section of the next 6 strings"
+	},
 	"spotify.madeForYou": {
 		"message": "\"Neked készült\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"

@@ -50,5 +50,17 @@
     "apple.devVideos": {
         "message": "Videók",
         "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.btnViewProduct": {
+        "message": "Termék megtekintése",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Szolgáltatás megtekintése",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Esemény megtekintése",
+        "description": "Button text"
     }
 }
