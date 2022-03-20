@@ -16,8 +16,76 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"discord.browseThrough": {
-		"message": "Böngészi a(z)",
+		"message": "Böngészi",
 		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "a Letöltések oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "a \"Miért a Discordot?\" oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "a Biztonsági Központot",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "az Állások oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "a Névjegy oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "a Márkajelzés oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "az Inspirációs oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "a Főiskola oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "a Hírszoba oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "a Partner oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "a Hitelesítés oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "a StreamKit oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "a Nyílt forráskódú oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "a Biztonság oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "a Moderáció oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "a Rich Presence oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "az irányelveket",
+		"description": "Second part of the \"Browsing through\" string"
 	},
 	"discord.devs.portal": {
 		"message": "Fejlesztői portál",
