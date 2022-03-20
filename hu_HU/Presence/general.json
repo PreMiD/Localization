@@ -199,6 +199,14 @@
 		"message": "Fiókját nézi",
 		"description": ""
 	},
+	"general.viewThread": {
+		"message": "Szálat néz:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Felhasználót néz:",
+		"description": ""
+	},
 	"general.viewing": {
 		"message": "Nézi:",
 		"description": ""
@@ -223,6 +231,26 @@
 		"message": "Videót néz",
 		"description": ""
 	},
+	"general.waitingVid": {
+		"message": "Egy videó kezdésére vár",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "A videó kezdésére vár",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Élő adást néz",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Egy élő közvetítés kezdésére vár",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Az élő közvetítés kezdésére vár",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
 	"general.watching": {
 		"message": "Nézi:",
 		"description": ""
@@ -230,6 +258,18 @@
 	"general.wishlist": {
 		"message": "Kívánságlista:",
 		"description": ""
+	},
+	"general.privacy": {
+		"message": "Adatvédelmi irányelvek",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Felhasználási feltételek",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie irányelvek",
+		"description": "A page name"
 	},
 	"general.repeatAll": {
 		"message": "Összes zene ismétlése",
@@ -240,23 +280,51 @@
 		"description": ""
 	},
 	"general.buttonViewSeries": {
-		"message": "Sorozatot néz",
+		"message": "Sorozat megtekintése",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewMovie": {
-		"message": "Filmet néz",
+		"message": "Film megtekintése",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
-		"message": "Epizódot néz",
+		"message": "Epizód megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Film megtekintése",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "Videót néz",
+		"message": "Videó megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Közvetítés nézése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Csatorna megtekintése",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
 		"message": "Hallgasd együtt",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Oldal megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Szám megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Album megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Profil megtekintése",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewArtist": {
