@@ -31,6 +31,10 @@
     "message": "Mengatur pengaturan Label",
     "description": "Displayed when the user is modifying their labels"
   },
+  "gmail.inboxSettings": {
+    "message": "Mengatur pengaturan Kotak Masuk",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
   "gmail.accountSetting": {
     "message": "Mengatur pengaturan Akun dan Impor",
     "description": "Displayed when the user is modifying their account's settings"
