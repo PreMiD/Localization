@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD không thể kết nối với ứng dụng của nó! Nó đã được tải và cho chạy chưa? *Đang xử lý*",
+		"message": "PreMiD không thể kết nối với ứng dụng! Nó đã được tải và khởi chạy chưa? *Xử lý sự cố*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
