@@ -115,10 +115,6 @@
         "message": "Discussing with team",
         "description": "Used when a player is talking to their team during team talk time"
     },
-    "kahoot.gameLocked": {
-        "message": "Game Locked",
-        "description": "Used when a game is locked"
-    },
     "kahoot.gameSummary": {
         "message": "Looking at game summary",
         "description": "Used when the host is viewing the summary of a game"
