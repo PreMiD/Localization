@@ -178,5 +178,9 @@
     "kahoot.liveCourseActivity": {
         "message": "Activity #{0}: {1}",
         "description": "Used to display the activity being conducted."
+    },
+    "kahoot.feedback": {
+        "message": "Providing feedback",
+        "description": "Used when a player is providing feedback to the host"
     }
 }
