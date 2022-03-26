@@ -172,7 +172,7 @@
         "description": "Used when the user is previewing a Kahoot"
     },
     "kahoot.liveCourse": {
-        "message": "Conducting a Live Course",
+        "message": "Conducting a live course",
         "description": "Used when the user is conducting a live course"
     },
     "kahoot.liveCourseActivity": {
