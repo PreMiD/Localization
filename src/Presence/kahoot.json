@@ -36,7 +36,7 @@
         "description": "Used when a user is looking at the results of the question they just answered"
     },
     "kahoot.slideViewing": {
-        "message": "Looking at Slide with Content...",
+        "message": "Looking at Slide with Content",
         "description": "Used when a user is looking at a slide with content in a Kahoot"
     },
     "kahoot.gameOver": {
@@ -64,7 +64,7 @@
         "description": "Used to display how many questions a user got correct"
     },
     "kahoot.slideShowing": {
-        "message": "Showing Slide with Content...",
+        "message": "Showing Slide with Content",
         "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
@@ -109,10 +109,10 @@
     },
     "kahoot.position": {
         "message": "Position: {0}",
-        "description": "Used to display the position (ranking) of a player. {0} is the position"
+        "description": "Used to display the position (ranking) of a player. For example, 'Position: 2'"
     },
     "kahoot.teamTalk": {
-        "message": "Discussing with Tean...",
+        "message": "Discussing with team",
         "description": "Used when a player is talking to their team during team talk time"
     },
     "kahoot.gameLocked": {
@@ -120,71 +120,71 @@
         "description": "Used when a game is locked"
     },
     "kahoot.gameSummary": {
-        "message": "Looking at Game Summary...",
+        "message": "Looking at game summary",
         "description": "Used when the host is viewing the summary of a game"
     },
     "kahoot.login": {
-        "message": "Logging in...",
+        "message": "Logging in",
         "description": "Used when a user is logging in"
     },
     "kahoot.createHome": {
-        "message": "Viewing Create Home Page...",
+        "message": "Viewing Create Home Page",
         "description": "Used when the user is viewing the create home page"
     },
     "kahoot.discover": {
-        "message": "Viewing Kahoot! Discover Page...",
+        "message": "Viewing Kahoot! Discover Page",
         "description": "Used when the user is viewing the discover page"
     },
     "kahoot.searchKahoots": {
         "message": "Searching for Kahoots:",
-        "description": "Used when the user is searching for Kahoots"
+        "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
     },
     "kahoot.kahootDetails": {
-        "message": "Viewing Kahoot Details:",
-        "description": "Used when the user is viewing the details of a Kahoot"
+        "message": "Viewing Kahoot details:",
+        "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below."
     },
     "kahoot.kahootProfile": {
-        "message": "Viewing Kahoot Profile:",
+        "message": "Viewing Kahoot profile:",
         "description": "Used when the user is viewing the profile of a Kahoot"
     },
     "kahoot.myKahoots": {
-        "message": "Viewing My Kahoots...",
+        "message": "Viewing their Kahoots",
         "description": "Used when the user is viewing their own kahoots"
     },
     "kahoot.userReports": {
-        "message": "Viewing Game Reports...",
+        "message": "Viewing game reports",
         "description": "Used when the user is viewing their game reports"
     },
     "kahoot.myCourses": {
-        "message": "Viewing My Courses...",
+        "message": "Viewing their courses",
         "description": "Used when the user is viewing their own courses"
     },
     "kahoot.editingCourse": {
-        "message": "Editing a Course:",
-        "description": "Used when the user is editing a course"
+        "message": "Editing a course:",
+        "description": "Used when the user is editing a course. The name of the course will be displayed below."
     },
     "kahoot.viewingCourse": {
-        "message": "Viewing a Course:",
-        "description": "Used when the user is viewing a course"
+        "message": "Viewing a course:",
+        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
     },
     "kahoot.editingKahoot": {
         "message": "Editing a Kahoot:",
-        "description": "Used when the user is editing a Kahoot"
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
     },
     "kahoot.previewingKahoot": {
-        "message": "Previewing a Kahoot...",
+        "message": "Previewing a Kahoot",
         "description": "Used when the user is previewing a Kahoot"
     },
     "kahoot.liveCourse": {
-        "message": "Conducting a Live Course...",
+        "message": "Conducting a Live Course",
         "description": "Used when the user is conducting a live course"
     },
     "kahoot.liveCourseSummary": {
-        "message": "Viewing Summary: {0}",
-        "description": "Used to display the title of the course being conducted. {0} is the title of the course"
+        "message": "Viewing Summary for",
+        "description": "Used to display the title of the course being conducted. The name of the course will be displayed below."
     },
     "kahoot.liveCourseActivity": {
-        "message": "Doing Activity: #{0}: {1}",
-        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name"
+        "message": "Doing Activity: #{0} - {1}",
+        "description": "Used to display the activity being conducted."
     }
 }
