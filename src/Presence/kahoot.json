@@ -104,7 +104,7 @@
         "description": "Used when a player is viewing the results of a poll"
     },
     "kahoot.drumRoll": {
-        "message": "Waiting for Final Ranking...",
+        "message": "Waiting for final ranking...",
         "description": "Used when a player is waiting to receive their final ranking"
     },
     "kahoot.position": {
@@ -124,11 +124,11 @@
         "description": "Used when a user is logging in"
     },
     "kahoot.createHome": {
-        "message": "Viewing Create Home Page",
+        "message": "Viewing Create home page",
         "description": "Used when the user is viewing the create home page"
     },
     "kahoot.discover": {
-        "message": "Viewing Kahoot! Discover Page",
+        "message": "Viewing Kahoot! Discover page",
         "description": "Used when the user is viewing the discover page"
     },
     "kahoot.searchKahoots": {
@@ -182,5 +182,9 @@
     "kahoot.feedback": {
         "message": "Providing feedback",
         "description": "Used when a player is providing feedback to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "Waiting for results...",
+        "description": "Used when a player is waiting for the question results"
     }
 }
