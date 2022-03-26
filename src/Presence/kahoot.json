@@ -175,10 +175,6 @@
         "message": "Conducting a Live Course",
         "description": "Used when the user is conducting a live course"
     },
-    "kahoot.liveCourseSummary": {
-        "message": "Viewing Summary for",
-        "description": "Used to display the title of the course being conducted. The name of the course will be displayed below."
-    },
     "kahoot.liveCourseActivity": {
         "message": "Doing Activity: #{0} - {1}",
         "description": "Used to display the activity being conducted."
