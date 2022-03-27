@@ -20,11 +20,11 @@
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_3": {
-		"message": "將我們的擴展添加到您的瀏覽器",
+		"message": "將我們的擴展新增到您的瀏覽器",
 		"description": "Heading for installing the application"
 	},
 	"downloads.instructions.step_4": {
-		"message": "刷新頁面, 來檢查擴展程序是否已連接",
+		"message": "重新整理頁面，來檢查擴展功能是否已連接",
 		"description": "I think you get what this is..."
 	},
 	"downloads.instructions.footer": {
@@ -36,11 +36,11 @@
 		"description": "Link to our discord"
 	},
 	"downloads.appdownloading.header": {
-		"message": "應用程序",
+		"message": "應用程式",
 		"description": "Header above application download buttons."
 	},
 	"downloads.extdownloading.header": {
-		"message": "擴展程序",
+		"message": "擴展功能",
 		"description": "Header above extension download buttons."
 	},
 	"downloads.tooltips.os_not_supported.part1": {
@@ -48,11 +48,11 @@
 		"description": "First part of the message."
 	},
 	"downloads.tooltips.os_not_supported.part2": {
-		"message": "{0} 該操作系統沒有安裝程序. 這就代表著沒有專業的客服能協助您.",
+		"message": "{0} 該作業系統沒有安裝程式. 這就代表著沒有專業的客服能協助你。",
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
 	},
 	"downloads.mobile.errorMessage": {
-		"message": "請注意, PreMiD當前不支持手機客戶端。",
+		"message": "請注意, 目前PreMiD不支援手機客戶端。",
 		"description": "Downloads page warning when user is on mobile."
 	},
 	"downloads.mobile.showDownloads": {
@@ -64,11 +64,11 @@
 		"description": "Little button on the downloads page for mobile users."
 	},
 	"downloads.warning.differentVersion": {
-		"message": "該平台的當前版本為 {0} (此版本為Linux定制，不適用於其他平臺)。",
+		"message": "該平台的目前版本為 {0} (此版本為Linux定制，不適用於其他平臺)。",
 		"description": "Tippy message of the Linux card."
 	},
 	"downloads.warning.differentVersion2": {
-		"message": "此版本為Linux定制，不適用於其他系統。主程序的主要版本是{0}",
+		"message": "此版本為Linux定制，不適用於其他系統。主程式的主要版本是{0}",
 		"description": "Tippy message of the version number when user is on Linux."
 	},
 	"downloads.error.login": {
@@ -92,7 +92,7 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser)."
 	},
 	"downloads.warning.message.opera": {
-		"message": "您必須先安裝 **此** 擴展程序，然後才能從chrome線上應用程式商店安裝PreMiD。",
+		"message": "您必須先安裝 **此** 擴展功能，然後才能從Chrome線上應用程式商店安裝PreMiD。",
 		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *."
 	},
 	"downloads.button.skip": {
