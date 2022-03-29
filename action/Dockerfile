@@ -15,4 +15,4 @@ RUN pnpm i --frozen-lockfile --prod
 
 COPY --from=builder dist ./
 
-ENTRYPOINT [ "node", "index" ]
+ENTRYPOINT [ "node", "index.js" ]
