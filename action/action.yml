@@ -1,0 +1,23 @@
+name: PreMiD-StringUpdater
+description: Updates strings on MongoDB
+author: Timeraa
+branding:
+  icon: globe
+  color: blue
+inputs:
+  project_id:
+    description: Crowdin Project Id
+    required: true
+  token:
+    description: Crowdin API Token
+    required: true
+  mongo_url:
+    description: MongoDB URL
+    required: true
+runs:
+  using: docker
+  image: Dockerfile
+  args:
+    - ${{ inputs.project_id }}
+    - ${{ inputs.token }}
+    - ${{ inputs.mongo_url }}
