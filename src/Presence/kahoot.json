@@ -136,7 +136,7 @@
         "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
     },
     "kahoot.kahootDetails": {
-        "message": "Viewing Kahoot details:",
+        "message": "Viewing details of Kahoot:",
         "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below."
     },
     "kahoot.kahootProfile": {
@@ -153,18 +153,18 @@
     },
     "kahoot.myCourses": {
         "message": "Viewing their courses",
-        "description": "Used when the user is viewing their own courses"
+        "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities."
     },
     "kahoot.editingCourse": {
-        "message": "Editing a course:",
+        "message": "Editing course:",
         "description": "Used when the user is editing a course. The name of the course will be displayed below."
     },
     "kahoot.viewingCourse": {
-        "message": "Viewing a course:",
+        "message": "Viewing course:",
         "description": "Used when the user is viewing a course. The name of the course will be displayed below."
     },
     "kahoot.editingKahoot": {
-        "message": "Editing a Kahoot:",
+        "message": "Editing Kahoot:",
         "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
     },
     "kahoot.previewingKahoot": {
@@ -173,7 +173,7 @@
     },
     "kahoot.liveCourse": {
         "message": "Conducting a live course",
-        "description": "Used when the user is conducting a live course"
+        "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time."
     },
     "kahoot.liveCourseActivity": {
         "message": "Activity #{0}: {1}",
