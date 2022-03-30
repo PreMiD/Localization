@@ -99,17 +99,13 @@
         "message": "On the Podium",
         "description": "Used in the context of a player/team being withing the top 3"
     },
-    "kahoot.pollAnswer": {
-        "message": "Answered Poll",
-        "description": "Used when a player is viewing the results of a poll"
-    },
     "kahoot.drumRoll": {
         "message": "Waiting for final ranking...",
         "description": "Used when a player is waiting to receive their final ranking"
     },
     "kahoot.position": {
         "message": "Position: {0}",
-        "description": "Used to display the position (ranking) of a player. For example, 'Position: 2'"
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
     },
     "kahoot.teamTalk": {
         "message": "Discussing with team",
@@ -128,7 +124,7 @@
         "description": "Used when the user is viewing the create home page"
     },
     "kahoot.discover": {
-        "message": "Viewing the \"Kahoot! Discover\" page",
+        "message": "Viewing the \"Discover\" page",
         "description": "Used when the user is viewing the discover page"
     },
     "kahoot.searchKahoots": {
@@ -148,8 +144,8 @@
         "description": "Used when the user is viewing their own kahoots"
     },
     "kahoot.userReports": {
-        "message": "Viewing game reports",
-        "description": "Used when the user is viewing their game reports"
+        "message": "Viewing their game reports",
+        "description": "Used when the user is viewing their own game reports"
     },
     "kahoot.myCourses": {
         "message": "Viewing their courses",
