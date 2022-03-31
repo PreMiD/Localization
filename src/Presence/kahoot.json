@@ -164,7 +164,7 @@
         "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
     },
     "kahoot.previewingKahoot": {
-        "message": "Previewing a Kahoot",
+        "message": "Previewing Kahoot:",
         "description": "Used when the user is previewing a Kahoot"
     },
     "kahoot.liveCourse": {
