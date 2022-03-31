@@ -120,8 +120,8 @@
         "description": "Used when a user is logging in"
     },
     "kahoot.createHome": {
-        "message": "Viewing the \"Create home\" page",
-        "description": "Used when the user is viewing the create home page"
+        "message": "Viewing the home page",
+        "description": "Used when the user is viewing the create.kahoot.it home page"
     },
     "kahoot.discover": {
         "message": "Viewing the \"Discover\" page",
