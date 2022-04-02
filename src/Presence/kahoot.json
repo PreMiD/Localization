@@ -165,7 +165,7 @@
     },
     "kahoot.previewingKahoot": {
         "message": "Previewing Kahoot:",
-        "description": "Used when the user is previewing a Kahoot"
+        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
     },
     "kahoot.liveCourse": {
         "message": "Conducting a live course",
@@ -177,7 +177,7 @@
     },
     "kahoot.feedback": {
         "message": "Providing feedback",
-        "description": "Used when a player is providing feedback to the host"
+        "description": "Used when a player is providing feedback about the quiz to the host"
     },
     "kahoot.waitingAnswer": {
         "message": "Waiting for results...",
