@@ -173,7 +173,7 @@
     },
     "kahoot.liveCourseActivity": {
         "message": "Activity #{0}: {1}",
-        "description": "Used to display the activity being conducted."
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
     },
     "kahoot.feedback": {
         "message": "Providing feedback",
