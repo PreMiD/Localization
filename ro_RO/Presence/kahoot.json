@@ -35,10 +35,6 @@
         "message": "Se uită la rezultate:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
-    "kahoot.slideViewing": {
-        "message": "Se uită la slide-ul cu conținutul:",
-        "description": "Used when a user is looking at a slide with content in a Kahoot"
-    },
     "kahoot.gameOver": {
         "message": "Partidă încheiată",
         "description": "Used when the Game is finished"
@@ -62,10 +58,6 @@
     "kahoot.questionsCorrect": {
         "message": "Răspunsuri corecte: {0}",
         "description": "Used to display how many questions a user got correct"
-    },
-    "kahoot.slideShowing": {
-        "message": "Arată slide-ul cu conținutul:",
-        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "Întrebarea: {0}",
