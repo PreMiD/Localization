@@ -35,10 +35,6 @@
         "message": "결과 확인 중",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
-    "kahoot.slideViewing": {
-        "message": "콘텐츠 슬라이드 확인 중",
-        "description": "Used when a user is looking at a slide with content in a Kahoot"
-    },
     "kahoot.gameOver": {
         "message": "게임 끝",
         "description": "Used when the Game is finished"
@@ -62,10 +58,6 @@
     "kahoot.questionsCorrect": {
         "message": "정답 갯수: {0}",
         "description": "Used to display how many questions a user got correct"
-    },
-    "kahoot.slideShowing": {
-        "message": "콘텐츠 슬라이드 표시 중",
-        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "문제: {0}",
@@ -94,5 +86,9 @@
     "kahoot.of": {
         "message": "{1}개중 {0}개",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.createHome": {
+        "message": "홈페이지 보는 중",
+        "description": "Used when the user is viewing the create.kahoot.it home page"
     }
 }
