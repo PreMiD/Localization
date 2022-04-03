@@ -35,6 +35,10 @@
         "message": "দেখছে ফলাফলগুলোর প্রতি:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
+    "kahoot.slideViewing": {
+        "message": "দেখছে কন্টেন্টের সাথে স্লাইডের প্রতি:",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
     "kahoot.gameOver": {
         "message": "খেলা শেষ",
         "description": "Used when the Game is finished"
@@ -58,6 +62,10 @@
     "kahoot.questionsCorrect": {
         "message": "যতগুলো প্রশ্ন সঠিক: {0}",
         "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "দেখাচ্ছে কন্টেন্টের সাথে স্লাইড:",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "প্রশ্ন: {0}",

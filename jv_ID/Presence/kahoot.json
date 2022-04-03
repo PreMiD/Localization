@@ -35,6 +35,10 @@
         "message": "Ndheleng Hasil:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
+    "kahoot.slideViewing": {
+        "message": "Ndheleng Slide Isi:",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
     "kahoot.gameOver": {
         "message": "Game Over",
         "description": "Used when the Game is finished"
@@ -58,6 +62,10 @@
     "kahoot.questionsCorrect": {
         "message": "Pertanyaan Pener: {0}",
         "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "Nunjuake Slide Isi:",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "Pertanyaan: {0}",
