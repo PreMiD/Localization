@@ -71,6 +71,14 @@
         "message": "บัตรของขวัญ",
         "description": "Gift cards for e.g. the App Store"
     },
+    "apple.shopPlanVisit": {
+        "message": "วางแผนการวางแผนเยี่ยมชม Apple Store",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "การรับรองการปรับปรุงใหม่",
+        "description": "Used Apple products at a lower price"
+    },
     "apple.shopBag": {
         "message": "ถุงสินค้า",
         "description": "Shopping cart"
@@ -127,13 +135,25 @@
         "message": "มีอะไรใหม่",
         "description": "List of updates"
     },
+    "apple.devSubmit": {
+        "message": "วิธีส่งแอพเข้า App Store",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
     "apple.devPhonePad": {
         "message": "แอพสำหรับ iPhone และ iPad",
         "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
     },
+    "apple.devDistribution": {
+        "message": "จำหน่ายซอฟต์แวร์บน App Store",
+        "description": "Distribute software to the App Store"
+    },
     "apple.devDocs": {
         "message": "เอกสาร",
         "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "แนวทางการออกแบบแอปพลิเคชัน",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
     },
     "apple.devResources": {
         "message": "แหล่งข้อมูล",
@@ -146,6 +166,18 @@
     "apple.devGames": {
         "message": "เกม",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "ป้ายกำกับฟอรัม",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumPreferences": {
+        "message": "การตั้งค่า",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "กำลังสร้างเธรด",
+        "description": "Creating a forum thread"
     },
     "apple.forumRegister": {
         "message": "กำลังลงทะเบียน",
@@ -162,6 +194,10 @@
     "apple.devNews": {
         "message": "ข่าวสารและอัปเดต",
         "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "การเผยแพร่",
+        "description": "New iOS, iPadOS etc. releases"
     },
     "apple.btnViewProduct": {
         "message": "ดูสินค้า",
