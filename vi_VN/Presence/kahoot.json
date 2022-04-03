@@ -95,6 +95,10 @@
         "message": "{0} trong số {1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
     },
+    "kahoot.drumRoll": {
+        "message": "Đang chờ xếp hạng cuối cùng...",
+        "description": "Used when a player is waiting to receive their final ranking"
+    },
     "kahoot.position": {
         "message": "Hạng: {0}",
         "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
