@@ -95,8 +95,64 @@
         "message": "{0} trong số {1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
     },
+    "kahoot.position": {
+        "message": "Hạng: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    },
+    "kahoot.teamTalk": {
+        "message": "Đang thảo luận nhóm",
+        "description": "Used when a player is talking to their team during team talk time"
+    },
+    "kahoot.gameSummary": {
+        "message": "Đang xem tổng kết trò chơi",
+        "description": "Used when the host is viewing the summary of a game"
+    },
+    "kahoot.login": {
+        "message": "Đang đăng nhập",
+        "description": "Used when a user is logging in"
+    },
     "kahoot.createHome": {
         "message": "Đang xem trang chủ",
         "description": "Used when the user is viewing the create.kahoot.it home page"
+    },
+    "kahoot.discover": {
+        "message": "Đang xem trang \"Khám phá\"",
+        "description": "Used when the user is viewing the discover page"
+    },
+    "kahoot.searchKahoots": {
+        "message": "Đang tìm kiếm Kahoot:",
+        "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
+    },
+    "kahoot.kahootDetails": {
+        "message": "Đang xem chi tiết về Kahoot:",
+        "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.kahootProfile": {
+        "message": "Đang xem hồ sơ Kahoot:",
+        "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below."
+    },
+    "kahoot.myKahoots": {
+        "message": "Đang xem Kahoot của họ",
+        "description": "Used when the user is viewing their own kahoots"
+    },
+    "kahoot.editingKahoot": {
+        "message": "Chỉnh sửa Kahoot:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.previewingKahoot": {
+        "message": "Đang xem trước Kahoot:",
+        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourseActivity": {
+        "message": "Hoạt động #{0}: {1}",
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
+    },
+    "kahoot.feedback": {
+        "message": "Đang cung cấp phản hồi",
+        "description": "Used when a player is providing feedback about the quiz to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "Đang chờ kết quả...",
+        "description": "Used when a player is waiting for the question results"
     }
 }
