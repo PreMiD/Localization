@@ -35,10 +35,6 @@
         "message": "Olhando os resultados:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
-    "kahoot.slideViewing": {
-        "message": "Olhando para o Slide com o Conteúdo:",
-        "description": "Used when a user is looking at a slide with content in a Kahoot"
-    },
     "kahoot.gameOver": {
         "message": "Fim de Jogo",
         "description": "Used when the Game is finished"
@@ -62,10 +58,6 @@
     "kahoot.questionsCorrect": {
         "message": "Respostas corretas: {0}",
         "description": "Used to display how many questions a user got correct"
-    },
-    "kahoot.slideShowing": {
-        "message": "Mostrando Slide com o Conteúdo:",
-        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "Questão: {0}",

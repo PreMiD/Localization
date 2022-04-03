@@ -35,10 +35,6 @@
         "message": "Melihat Keputusan:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
-    "kahoot.slideViewing": {
-        "message": "Melihat Slaid dengan Kandungan:",
-        "description": "Used when a user is looking at a slide with content in a Kahoot"
-    },
     "kahoot.gameOver": {
         "message": "Permainan Tamat",
         "description": "Used when the Game is finished"
@@ -62,10 +58,6 @@
     "kahoot.questionsCorrect": {
         "message": "Soalan dijawab Betul: {0}",
         "description": "Used to display how many questions a user got correct"
-    },
-    "kahoot.slideShowing": {
-        "message": "Menunjukkan Slaid dengan Kandungan:",
-        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "Soalan: {0}",
@@ -94,5 +86,9 @@
     "kahoot.of": {
         "message": "{0} daripada {1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.createHome": {
+        "message": "Melihat halaman utama",
+        "description": "Used when the user is viewing the create.kahoot.it home page"
     }
 }
