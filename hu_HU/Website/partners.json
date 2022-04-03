@@ -143,6 +143,10 @@
 		"message": "Leírás kiemelteknek",
 		"description": "Description field's placeholder."
 	},
+	"partners.apply.form.imageLink": {
+		"message": "Kép link: (550x300, csak PNG)",
+		"description": "Do not change the sizes."
+	},
 	"partners.apply.form.imageLink.placeholder": {
 		"message": "Példa: https://i.imgur.com/clun1ID.png",
 		"description": "Image link field's placeholder. Do not change the image URL."
@@ -166,6 +170,10 @@
 	"partners.apply.error2": {
 		"message": "Maximum 150 karakteres leírás.",
 		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Kérlek, adj hozzá egy linket (a https:// -vel kell kezdődnie és a .png-vel kell végződnie)",
+		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
 		"message": "Már jelentkeztél a partnerre.",
