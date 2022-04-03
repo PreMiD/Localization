@@ -46,5 +46,9 @@
     "kahoot.of": {
         "message": "{1} من {0}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.createHome": {
+        "message": "يشاهد الصفحة الرئيسية",
+        "description": "Used when the user is viewing the create.kahoot.it home page"
     }
 }
