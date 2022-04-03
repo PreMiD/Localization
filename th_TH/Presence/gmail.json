@@ -1,1 +1,10 @@
-{}
+{
+  "gmail.categorySocial": {
+    "message": "กำลังดูหมวดหมู่โซเชียล",
+    "description": "Displayed when viewing emails in the social category."
+  },
+  "gmail.categoryPromotions": {
+    "message": "กำลังดูหมวดหมู่โปรโมชั่น",
+    "description": "Displayed when viewing emails in the promotions category."
+  }
+}
