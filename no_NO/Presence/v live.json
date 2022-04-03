@@ -1,4 +1,8 @@
 {
+	"v live.channelHome": {
+		"message": "Ser på hjemmesiden",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
 	"v live.viewTheir": {
 		"message": "Ser deres",
 		"description": "The first part of the next 6 strings"
