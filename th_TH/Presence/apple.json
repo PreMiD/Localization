@@ -27,9 +27,17 @@
         "message": "คำแนะนำการซื้อ",
         "description": "Purchasing advice for e.g. what iPhone is the best for me?"
     },
+    "apple.storeFinder": {
+        "message": "ค้นหา Apple Store",
+        "description": "Tool used to find the nearest store"
+    },
     "apple.viewEvent": {
         "message": "กำลังดูอีเว้นท์",
         "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "ความรับผิดชอบของซัพพลายเออร์",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
     },
     "apple.contact": {
         "message": "กำลังติดต่อฝ่ายช่วยเหลือ",
