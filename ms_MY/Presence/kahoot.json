@@ -36,7 +36,7 @@
         "description": "Used when a user is looking at the results of the question they just answered"
     },
     "kahoot.slideViewing": {
-        "message": "Melihat Slaid dengan Kandungan:",
+        "message": "Melihat Slaid dengan Kandungan",
         "description": "Used when a user is looking at a slide with content in a Kahoot"
     },
     "kahoot.gameOver": {
@@ -64,7 +64,7 @@
         "description": "Used to display how many questions a user got correct"
     },
     "kahoot.slideShowing": {
-        "message": "Menunjukkan Slaid dengan Kandungan:",
+        "message": "Menunjukkan Slaid dengan Kandungan",
         "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
