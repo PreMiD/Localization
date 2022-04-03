@@ -95,8 +95,92 @@
         "message": "{0} de {1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
     },
+    "kahoot.onPodium": {
+        "message": "No pódio",
+        "description": "Used in the context of a player/team being withing the top 3"
+    },
+    "kahoot.drumRoll": {
+        "message": "À espera do ranking final...",
+        "description": "Used when a player is waiting to receive their final ranking"
+    },
+    "kahoot.position": {
+        "message": "Posição: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    },
+    "kahoot.teamTalk": {
+        "message": "A discutir com a equipa",
+        "description": "Used when a player is talking to their team during team talk time"
+    },
+    "kahoot.gameSummary": {
+        "message": "A ver o resumo do jogo",
+        "description": "Used when the host is viewing the summary of a game"
+    },
+    "kahoot.login": {
+        "message": "A iniciar sessão",
+        "description": "Used when a user is logging in"
+    },
     "kahoot.createHome": {
         "message": "A ver a página principal",
         "description": "Used when the user is viewing the create.kahoot.it home page"
+    },
+    "kahoot.discover": {
+        "message": "A ver a página \"Descobrir\"",
+        "description": "Used when the user is viewing the discover page"
+    },
+    "kahoot.searchKahoots": {
+        "message": "A procurar Kahoots:",
+        "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
+    },
+    "kahoot.kahootDetails": {
+        "message": "A ver os detalhes do Kahoot:",
+        "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.kahootProfile": {
+        "message": "A ver o perfil do Kahoot:",
+        "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below."
+    },
+    "kahoot.myKahoots": {
+        "message": "A ver os seus Kahoots",
+        "description": "Used when the user is viewing their own kahoots"
+    },
+    "kahoot.userReports": {
+        "message": "A ver os seus relatórios de jogo",
+        "description": "Used when the user is viewing their own game reports"
+    },
+    "kahoot.myCourses": {
+        "message": "A ver os seus cursos",
+        "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities."
+    },
+    "kahoot.editingCourse": {
+        "message": "A editar o curso:",
+        "description": "Used when the user is editing a course. The name of the course will be displayed below."
+    },
+    "kahoot.viewingCourse": {
+        "message": "A ver o curso:",
+        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
+    },
+    "kahoot.editingKahoot": {
+        "message": "A editar o Kahoot:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.previewingKahoot": {
+        "message": "A pré-visualizar o Kahoot:",
+        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourse": {
+        "message": "A organizar um curso ao vivo",
+        "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time."
+    },
+    "kahoot.liveCourseActivity": {
+        "message": "{0}ª atividade: {1}",
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
+    },
+    "kahoot.feedback": {
+        "message": "A dar feedback",
+        "description": "Used when a player is providing feedback about the quiz to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "À espera dos resultados...",
+        "description": "Used when a player is waiting for the question results"
     }
 }
