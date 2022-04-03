@@ -3,12 +3,20 @@
         "message": "Nézi a felkapottakat",
         "description": ""
     },
+    "youtube.browsingThrough": {
+        "message": "Böngészi",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
     "youtube.upload": {
         "message": "Feltölt valamit...",
         "description": ""
     },
     "youtube.studio.viewVideos": {
         "message": "Videóit nézi",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Videót szerkeszt:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
