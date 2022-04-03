@@ -35,6 +35,10 @@
         "message": "กำลังดูผลการแข่งขัน:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
+    "kahoot.slideViewing": {
+        "message": "กำลังดูสไลด์ที่มีเนื้อหาว่า:",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
     "kahoot.gameOver": {
         "message": "จบเกมแล้ว",
         "description": "Used when the Game is finished"
@@ -58,6 +62,10 @@
     "kahoot.questionsCorrect": {
         "message": "จำนวนคำถามที่ตอบถูก: {0}",
         "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "กำลังแสดงสไลด์ที่มีเนื้อหาว่า:",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
         "message": "คำถาม: {0}",
