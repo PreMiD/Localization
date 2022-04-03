@@ -23,6 +23,26 @@
     "message": "กำลังดูป้ายกำกับ",
     "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
   },
+  "gmail.generalSettings": {
+    "message": "กำลังกำหนดการตั้งค่าทั่วไป",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.labelSettings": {
+    "message": "กำลังกำหนดการตั้งค่าป้ายกํากับ",
+    "description": "Displayed when the user is modifying their labels"
+  },
+  "gmail.inboxSettings": {
+    "message": "กำลังกำหนดการตั้งค่ากล่องขาเข้า",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "กำลังกำหนดการตั้งค่าบัญชีและการนำเข้า",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "กำลังกำหนดค่าตัวกรองและที่อยู่ที่ถูกบล็อก",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
   "gmail.fwdAndPOPSettings": {
     "message": "กำลังกำหนดการตั้งค่าการส่งต่อและ POP/IMAP",
     "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
@@ -82,6 +102,10 @@
   "gmail.viewingChats": {
     "message": "กำลังดูแชททั้งหมด",
     "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "กำลังดูอีเมลที่กำหนดเวลาส่งทั้งหมด",
+    "description": "Displayed when the user is viewing their scheduled emails"
   },
   "gmail.viewingSpam": {
     "message": "กำลังดูอีเมลขยะทั้งหมด",
