@@ -23,6 +23,10 @@
 		"message": "バージョン",
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
+	"presence.sections.information.likes": {
+		"message": "いいね",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
 	"presence.sections.information.users": {
 		"message": "ユーザー",
 		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
@@ -34,6 +38,10 @@
 	"presence.sections.information.supportedurls": {
 		"message": "動作するURL",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.moreurls": {
+		"message": "このプレゼンスはRegExpを使用して、ここに表示されているよりも多くのURLに対応しています。\nホバーすることでパターンを表示できます。",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
 	},
 	"presence.sections.information.contributors": {
 		"message": "貢献者",
