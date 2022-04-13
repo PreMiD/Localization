@@ -47,10 +47,6 @@
         "message": "Избиране на език...",
         "description": "Choosing the language of the website"
     },
-    "apple.other": {
-        "message": "Други",
-        "description": "Other pages not added to the code"
-    },
     "apple.shopBands": {
         "message": "Apple Watch ленти",
         "description": "Bands (Bracelets) for the Apple Watch"

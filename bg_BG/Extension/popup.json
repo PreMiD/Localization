@@ -19,10 +19,6 @@
 		"message": "описание",
 		"description": "Title of the description area in the presence settings view."
 	},
-	"popup.setting.enabled": {
-		"message": "Разрешено",
-		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
-	},
 	"popup.setting.mediaControl": {
 		"message": "Media Controls",
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
@@ -35,28 +31,20 @@
 		"message": "Автоматично стартиране",
 		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
 	},
-	"popup.headings.presences": {
-		"message": "Presences",
-		"description": "Title of the 'presences' area of the 'settings' section in the popup"
-	},
 	"popup.presences.manage": {
-		"message": "управлявам",
+		"message": "Управление",
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.presences.noPresences": {
-		"message": "Няма добавени presences",
+		"message": "Няма добавени Presences",
 		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
-	},
-	"popup.presences.done": {
-		"message": "Готово",
-		"description": "Done button"
 	},
 	"popup.presences.load": {
 		"message": "Зареди Presence",
 		"description": "Load Presence button"
 	},
 	"popup.buttons.presenceStore": {
-		"message": "Магазин за presences",
+		"message": "Presence Магазин",
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
 	},
 	"popup.buttons.help": {
@@ -107,28 +95,16 @@
 		"message": "Няма връзка с интернет!",
 		"description": "Shown when the user has no internet connection"
 	},
-	"popup.info.noInternet.message": {
-		"message": "Изглежда, че нямате връзка с интернет! PreMiD няма да може да показва presence в момента.",
-		"description": "Shown when the user has no internet connection"
-	},
 	"popup.info.notConnectedDiscord": {
 		"message": "Няма връзка с Discord!",
 		"description": "Shown in the extension when the application can't connect to Discord"
-	},
-	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD не може да се свърже с твоето Discord приложение! Изтеглено и работи ли?\n*Отстраняване на неизправности*",
-		"description": "Shown in the extension when the application can't connect to Discord"
-	},
-	"popup.category.all": {
-		"message": "Всичко",
-		"description": "Category name shown when you open tags"
 	},
 	"popup.category.anime": {
 		"message": "Аниме",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.music": {
-		"message": "музика\n",
+		"message": "Mузика",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.games": {
@@ -136,15 +112,11 @@
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.socials": {
-		"message": "вечеринка",
+		"message": "Социални",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
-		"message": "Видеоклипове и потоци",
-		"description": "Category name shown when you open tags"
-	},
-	"popup.category.other": {
-		"message": "Други",
+		"message": "Видеоклипове и Стриймове",
 		"description": "Category name shown when you open tags"
 	}
 }
