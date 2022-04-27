@@ -95,6 +95,10 @@
         "message": "{0} trong số {1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
     },
+    "kahoot.onPodium": {
+        "message": "Đang trên Bục nhận giải",
+        "description": "Used in the context of a player/team being withing the top 3"
+    },
     "kahoot.drumRoll": {
         "message": "Đang chờ xếp hạng cuối cùng...",
         "description": "Used when a player is waiting to receive their final ranking"
@@ -139,6 +143,22 @@
         "message": "Đang xem Kahoot của họ",
         "description": "Used when the user is viewing their own kahoots"
     },
+    "kahoot.userReports": {
+        "message": "Đang xem báo cáo trò chơi của họ",
+        "description": "Used when the user is viewing their own game reports"
+    },
+    "kahoot.myCourses": {
+        "message": "Đang xem các khoá học của họ",
+        "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities."
+    },
+    "kahoot.editingCourse": {
+        "message": "Đang chỉnh sửa khoá học:",
+        "description": "Used when the user is editing a course. The name of the course will be displayed below."
+    },
+    "kahoot.viewingCourse": {
+        "message": "Đang xem khoá học:",
+        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
+    },
     "kahoot.editingKahoot": {
         "message": "Chỉnh sửa Kahoot:",
         "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
@@ -146,6 +166,10 @@
     "kahoot.previewingKahoot": {
         "message": "Đang xem trước Kahoot:",
         "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourse": {
+        "message": "Đang tham gia khoá học trực tiếp",
+        "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time."
     },
     "kahoot.liveCourseActivity": {
         "message": "Hoạt động #{0}: {1}",
