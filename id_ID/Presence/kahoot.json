@@ -139,8 +139,24 @@
         "message": "Melihat hasil permainan",
         "description": "Used when the user is viewing their own game reports"
     },
+    "kahoot.editingKahoot": {
+        "message": "Mengedit Kahoot:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
     "kahoot.previewingKahoot": {
         "message": "Menampilkan Kahoot:",
         "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourseActivity": {
+        "message": "Aktivitas #{0}: {1}",
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
+    },
+    "kahoot.feedback": {
+        "message": "Memberi tanggapan",
+        "description": "Used when a player is providing feedback about the quiz to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "Menunggu hasil...",
+        "description": "Used when a player is waiting for the question results"
     }
 }
