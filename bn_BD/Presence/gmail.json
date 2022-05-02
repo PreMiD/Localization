@@ -1,22 +1,22 @@
 {
   "gmail.categoryPrimary": {
-    "message": "দেখছে প্রাথমিক ক্যাটেগরি",
+    "message": "দেখছে প্রাথমিক ক্যাটাগরি",
     "description": "Displayed when viewing emails in the primary category."
   },
   "gmail.categorySocial": {
-    "message": "দেখছে সোশ্যাল ক্যাটেগরি",
+    "message": "দেখছে সোশ্যাল ক্যাটাগরি",
     "description": "Displayed when viewing emails in the social category."
   },
   "gmail.categoryUpdates": {
-    "message": "দেখছে আপডেট ক্যাটেগরি",
+    "message": "দেখছে আপডেট ক্যাটাগরি",
     "description": "Displayed when viewing emails in the updates category."
   },
   "gmail.categoryPromotions": {
-    "message": "দেখছে প্রচার ক্যাটেগরি",
+    "message": "দেখছে প্রচার ক্যাটাগরি",
     "description": "Displayed when viewing emails in the promotions category."
   },
   "gmail.categoryForum": {
-    "message": "দেখছে ফোরাম ক্যাটেগরি",
+    "message": "দেখছে ফোরাম ক্যাটাগরি",
     "description": "Displayed when viewing emails in the forums category."
   },
   "gmail.inLabel": {
