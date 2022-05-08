@@ -32,15 +32,15 @@
         "description": "Part 1 of the next 5 strings"
     },
     "amazon.orderHistory": {
-        "message": "rendelési előzmények",
+        "message": "rendelési előzményeket",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.orderDetails": {
-        "message": "megrendelés részletei",
+        "message": "megrendelés részleteit",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.cart": {
-        "message": "bevásárló kosár",
+        "message": "bevásárló kosárt",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
