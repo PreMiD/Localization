@@ -63,9 +63,21 @@
 		"message": "Feliratkozásait nézi...",
 		"description": ""
 	},
+	"twitch.squad": {
+		"message": "Squadot néz...",
+		"description": ""
+	},
 	"twitch.redeem": {
 		"message": "Kódot vált be...",
 		"description": ""
+	},
+	"twitch.campSetup": {
+		"message": "Stream beállitása",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Legyél jutalmazva",
+		"description": "Page name"
 	},
 	"twitch.campMusic": {
 		"message": "Zene a Twitchen",
@@ -78,6 +90,18 @@
 	"twitch.dashboard": {
 		"message": "Tartalomkészítő Irányítópult",
 		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Streamjét kezeli...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Szerepköreit kezeli...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "Videókészitőben...",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "Nézi a",
