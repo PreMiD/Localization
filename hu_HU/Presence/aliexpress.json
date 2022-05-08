@@ -16,7 +16,7 @@
         "description": "Part 1 "
     },
     "aliexpress.deletedOrders": {
-        "message": "törölt megrendelések",
+        "message": "törölt megrendeléseket",
         "description": "Part 2 of \"Viewing their\""
     },
     "aliexpress.trade": {
