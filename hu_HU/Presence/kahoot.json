@@ -3,6 +3,10 @@
         "message": "Csatlakozás a játékhoz: {0}",
         "description": "Used as the title for the button in Discord. {0} is the Game ID"
     },
+    "kahoot.joiningGame": {
+        "message": "Játékhoz csatlakozik...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
     "kahoot.gameStarting": {
         "message": "Kezdődik a játék!",
         "description": "Used when a Kahoot Game is starting"
