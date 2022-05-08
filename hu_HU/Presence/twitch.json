@@ -108,35 +108,35 @@
 		"description": "Part 1 of the next 10 strings"
 	},
 	"twitch.achievements": {
-		"message": "Eredmények",
+		"message": "Eredményeket",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.activity": {
-		"message": "Közösségi tevékenység",
+		"message": "Közösségi tevékenységet",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.followList": {
-		"message": "Követők listája",
+		"message": "Követők listáját",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.colls": {
-		"message": "Gyűjtemények",
+		"message": "Videógyűjteményeket",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.clips": {
-		"message": "Klippek",
+		"message": "Klippeket",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.channelSettings": {
-		"message": "Csatorna beállítások",
+		"message": "Csatorna beállításokat",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.moderationSettings": {
-		"message": "Moderációs beállítások",
+		"message": "Moderációs beállításokat",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.dropsSettings": {
-		"message": "Drop beállitások",
+		"message": "Drop beállitásokat",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.tools": {

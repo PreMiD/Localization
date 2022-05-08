@@ -47,9 +47,21 @@
         "message": "Játék",
         "description": "Apps classified under the \"Games\" category on the App Store"
     },
+    "apple.forumRegister": {
+        "message": "Regisztráció",
+        "description": "Register a new account (alternative translation: registering)"
+    },
     "apple.devVideos": {
         "message": "Videók",
         "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devNews": {
+        "message": "Újdonságok és frissítések",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Kiadások",
+        "description": "New iOS, iPadOS etc. releases"
     },
     "apple.btnViewProduct": {
         "message": "Termék megtekintése",
