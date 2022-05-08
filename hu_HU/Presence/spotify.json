@@ -1,14 +1,38 @@
 {
+	"spotify.featured": {
+		"message": "Kiemelt számok",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Legjobb podcastok",
+		"description": ""
+	},
 	"spotify.charts": {
 		"message": "Nézi a listákat",
 		"description": ""
 	},
+	"spotify.genres": {
+		"message": "Műfajokat böngészi",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Nézi a legújabb megjelenéseket",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Új számokat fedez fel",
+		"description": ""
+	},
 	"spotify.browse": {
-		"message": "Böngészi",
+		"message": "Böngészi a(z)",
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.madeForYou": {
 		"message": "\"Neked készült\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.download": {
+		"message": "Spotify-t tölti le",
+		"description": ""
 	}
 }
