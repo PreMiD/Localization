@@ -16,7 +16,7 @@
     "description": "{0} will be replaced by \"Pahe\" or \"AniList\""
   },
   "animepahe.timeSeason": {
-    "message": "Temporada",
+    "message": "Época",
     "description": "Time Season eg. The season is now Winter"
   }
 }
