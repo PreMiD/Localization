@@ -63,6 +63,18 @@
         "message": "Videót szerkeszt:",
         "description": ""
     },
+    "youtube.studio.videoAnalytics": {
+        "message": "E videó elemzéseit nézi:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "E videó hozzászólásait nézi:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "E videó fordításait nézi:",
+        "description": ""
+    },
     "youtube.studio.viewTheir": {
         "message": "Nézi a(z)",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
