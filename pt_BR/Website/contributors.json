@@ -12,7 +12,7 @@
 		"description": "Heading for group of users."
 	},
 	"contributors.roles.projectLeader": {
-		"message": "Líder do Projeto",
+		"message": "Líder do projeto",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
 	"contributors.roles.marketingDirector": {
@@ -22,6 +22,10 @@
 	"contributors.roles.administrator": {
 		"message": "Administrador",
 		"description": "'Administrator' title for contributors and user pages."
+	},
+	"contributors.roles.reviewer": {
+		"message": "Revisor do GitHub",
+		"description": "'Reviewer' title for contributors and user pages."
 	},
 	"contributors.roles.localizationManager": {
 		"message": "Gerente de tradução",
@@ -36,7 +40,7 @@
 		"description": "'Moderator' title for contributors and user pages."
 	},
 	"contributors.roles.supportAgent": {
-		"message": "Agente de Suporte",
+		"message": "Agente de suporte",
 		"description": "'Support Agent' title for contributors and user pages."
 	},
 	"contributors.roles.representative": {
