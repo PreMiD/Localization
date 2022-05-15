@@ -31,6 +31,10 @@
 		"message": "Gerente de tradução",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
+	"contributors.roles.developer": {
+		"message": "Desenvolvedor",
+		"description": "'Developer' title for contributors and user pages."
+	},
 	"contributors.roles.designer": {
 		"message": "Designer",
 		"description": "'Designer' title for contributors and user pages."
@@ -46,6 +50,10 @@
 	"contributors.roles.representative": {
 		"message": "Representante",
 		"description": "'Representative' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Revisor",
+		"description": "'Proofreader' title for contributors and user pages."
 	},
 	"contributors.roles.donator": {
 		"message": "Doador",

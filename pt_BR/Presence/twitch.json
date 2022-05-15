@@ -3,16 +3,64 @@
 		"message": "Baixar",
 		"description": "Page name"
 	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "Parceiros",
 		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Segurança",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Acessibilidade",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Preferências de anúncios",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Diretrizes da comunidade",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Página inicial",
+		"description": "Page name"
+	},
+	"twitch.redeem": {
+		"message": "Resgatando um código...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "No editor de vídeo...",
+		"description": ""
 	},
 	"twitch.viewTheir": {
 		"message": "Visualizando suas",
 		"description": "Part 1 of the next 10 strings"
 	},
+	"twitch.activity": {
+		"message": "Atividade da comunidade",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
 	"twitch.followList": {
 		"message": "Lista de seguidores",
 		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Configurações do canal",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Configurações da moderação",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.brand": {
+		"message": "Lendo sobre a Twitch...",
+		"description": ""
 	}
 }

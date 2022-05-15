@@ -95,6 +95,10 @@
 		"message": "Conectado como {0}",
 		"description": "{0} will be replaced with user account."
 	},
+	"partners.apply.notYou": {
+		"message": "Não é você?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
 	"partners.apply.select.default": {
 		"message": "Por favor escolha um",
 		"description": "Select default placeholder."
