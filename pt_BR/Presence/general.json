@@ -239,6 +239,14 @@
 		"message": "Termos de Serviço",
 		"description": "A page name"
 	},
+	"general.repeat": {
+		"message": "Em repetição",
+		"description": ""
+	},
+	"general.incidentHistory": {
+		"message": "Histórico de incidentes",
+		"description": "A page name of statuspages"
+	},
 	"general.buttonViewSeries": {
 		"message": "Ver série",
 		"description": "Used as the title for the button in Discord."
