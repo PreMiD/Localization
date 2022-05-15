@@ -24,7 +24,7 @@
 		"description": "'Administrator' title for contributors and user pages."
 	},
 	"contributors.roles.localizationManager": {
-		"message": "Gerente de localização",
+		"message": "Gerente de tradução",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
 	"contributors.roles.designer": {
