@@ -47,6 +47,10 @@
 		"message": "스폰서들",
 		"description": "Heading for sponsors."
 	},
+	"partners.sponsors.description": {
+		"message": "이런 놀라운 사람들이 없었다면, PreMiD는 불가능했을 것입니다.",
+		"description": "Description for sponsors."
+	},
 	"partners.partner.reyfm": {
 		"message": "REYFM 무료 - 쉬지 않고 15개 이상의 음악 스트림을 들어보자. 오직 여러분만을 위한 가장 좋고 최신의 음악으로!",
 		"description": "Description for REYFM."
