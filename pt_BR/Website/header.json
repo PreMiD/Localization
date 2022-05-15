@@ -16,7 +16,7 @@
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
-    "message": "Mudar de língua",
+    "message": "Mudar de idioma",
     "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
