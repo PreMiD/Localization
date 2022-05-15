@@ -88,7 +88,7 @@
 		"description": ""
 	},
 	"twitch.camp": {
-		"message": "Creator Camp",
+		"message": "Escola de Criadores",
 		"description": ""
 	},
 	"twitch.campBasic": {
@@ -236,7 +236,7 @@
 		"description": ""
 	},
 	"twitch.affiliate": {
-		"message": "Programa de Afiliação da Twitch",
+		"message": "Programa de Afiliados da Twitch",
 		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
 	},
 	"twitch.dev": {
