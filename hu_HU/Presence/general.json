@@ -287,6 +287,10 @@
 		"message": "Incidenst néz",
 		"description": "A page name of statuspages"
 	},
+	"general.incidentHistory": {
+		"message": "Az incidensek előzményei",
+		"description": "A page name of statuspages"
+	},
 	"general.uptimeHistory": {
 		"message": "Futási idő előzményei",
 		"description": "A page name of statuspages"
