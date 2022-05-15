@@ -102,5 +102,9 @@
 	"discord.merch": {
 		"message": "Discord Merch",
 		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Gyűjteményt néz:",
+		"description": ""
 	}
 }
