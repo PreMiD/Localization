@@ -3,6 +3,14 @@
         "message": "Boltot néz:",
         "description": ""
     },
+    "aliexpress.message": {
+        "message": "Üzenetközpont",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Eladást böngészi",
+        "description": ""
+    },
     "aliexpress.recentlyViewProducts2": {
         "message": "megtekintett termékek",
         "description": "Part 2 of 2"
