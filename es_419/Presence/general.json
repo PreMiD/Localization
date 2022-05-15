@@ -23,6 +23,10 @@
 		"message": "Episodio",
 		"description": ""
 	},
+	"general.season": {
+		"message": "Temporada",
+		"description": ""
+	},
 	"general.forums": {
 		"message": "Foros",
 		"description": ""

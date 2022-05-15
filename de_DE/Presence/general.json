@@ -23,6 +23,10 @@
 		"message": "Folge",
 		"description": ""
 	},
+	"general.season": {
+		"message": "Staffel",
+		"description": ""
+	},
 	"general.forums": {
 		"message": "Forum",
 		"description": ""

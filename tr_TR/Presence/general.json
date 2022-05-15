@@ -23,6 +23,10 @@
 		"message": "Bölüm",
 		"description": ""
 	},
+	"general.season": {
+		"message": "Sezon",
+		"description": ""
+	},
 	"general.forums": {
 		"message": "Forum",
 		"description": ""

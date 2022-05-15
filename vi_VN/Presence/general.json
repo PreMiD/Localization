@@ -23,6 +23,10 @@
 		"message": "Tập",
 		"description": ""
 	},
+	"general.season": {
+		"message": "Mùa",
+		"description": ""
+	},
 	"general.forums": {
 		"message": "Diễn đàn",
 		"description": ""
