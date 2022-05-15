@@ -23,6 +23,10 @@
 		"message": "Епизод",
 		"description": ""
 	},
+	"general.season": {
+		"message": "Сезон",
+		"description": ""
+	},
 	"general.forums": {
 		"message": "Форуми",
 		"description": ""
