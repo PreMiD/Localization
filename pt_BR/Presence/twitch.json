@@ -31,6 +31,10 @@
 		"message": "Página inicial",
 		"description": "Page name"
 	},
+	"twitch.wallet": {
+		"message": "Vendo a carteira...",
+		"description": ""
+	},
 	"twitch.redeem": {
 		"message": "Resgatando um código...",
 		"description": ""
@@ -61,6 +65,10 @@
 	},
 	"twitch.moderationSettings": {
 		"message": "Configurações da moderação",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Configurações de drops",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.tools": {
