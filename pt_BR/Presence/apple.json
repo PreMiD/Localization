@@ -11,6 +11,10 @@
         "message": "Favoritos",
         "description": "Favorite products"
     },
+    "apple.appStoreCon": {
+        "message": "Conectando...",
+        "description": "Connecting to the App Store"
+    },
     "apple.iCloudMail": {
         "message": "Mail",
         "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
@@ -30,6 +34,14 @@
     "apple.iCloudNotes": {
         "message": "Notas",
         "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Lembretes",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Criando...",
+        "description": "Creating a new Pages document"
     },
     "apple.devDocs": {
         "message": "Documentação",
