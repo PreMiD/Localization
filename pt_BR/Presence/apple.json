@@ -27,6 +27,10 @@
         "message": "Fotos",
         "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
     },
+    "apple.iCloudNotes": {
+        "message": "Notas",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
     "apple.devDocs": {
         "message": "Documentação",
         "description": "Developer documentation"
