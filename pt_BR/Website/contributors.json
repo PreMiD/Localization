@@ -15,6 +15,10 @@
 		"message": "Líder do projeto",
 		"description": "'Project Leader' title for contributors and user pages."
 	},
+	"contributors.roles.staffCoordinator": {
+		"message": "Coordenador da equipe",
+		"description": "'Staff Coordinator' title for contributors and user pages."
+	},
 	"contributors.roles.marketingDirector": {
 		"message": "Diretor de marketing",
 		"description": "'Marketing Director' title for contributors and user pages."
