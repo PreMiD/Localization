@@ -51,6 +51,10 @@
 		"message": "Lista de seguidores",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
+	"twitch.clips": {
+		"message": "Clipes",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
 	"twitch.channelSettings": {
 		"message": "Configurações do canal",
 		"description": "Part 2 of the string: \"Viewing their\""
@@ -59,8 +63,32 @@
 		"message": "Configurações da moderação",
 		"description": "Part 2 of the string: \"Viewing their\""
 	},
+	"twitch.tools": {
+		"message": "Vendo as ferramentas de streaming",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Vendo as extensões",
+		"description": ""
+	},
 	"twitch.brand": {
 		"message": "Lendo sobre a Twitch...",
 		"description": ""
+	},
+	"twitch.blogs": {
+		"message": "Blogs da Twitch",
+		"description": ""
+	},
+	"twitch.devProduct": {
+		"message": "Produtos para desenvolvedores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Histórias de sucesso da comunidade",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Recursos úteis",
+		"description": "Page name"
 	}
 }
