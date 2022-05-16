@@ -1,18 +1,18 @@
 {
   "gmail.categoryPrimary": {
-    "message": "Visualizando a categoria Principal",
+    "message": "Vendo a categoria principal",
     "description": "Displayed when viewing emails in the primary category."
   },
   "gmail.categorySocial": {
-    "message": "Visualizando a categoria Social",
+    "message": "Vendo a categoria social",
     "description": "Displayed when viewing emails in the social category."
   },
   "gmail.categoryUpdates": {
-    "message": "Visualizando a categoria Atualizações",
+    "message": "Vendo a categoria de atualizações",
     "description": "Displayed when viewing emails in the updates category."
   },
   "gmail.categoryPromotions": {
-    "message": "Visualizando a categoria Promoções",
+    "message": "Vendo a categoria de promoções",
     "description": "Displayed when viewing emails in the promotions category."
   },
   "gmail.categoryForum": {
