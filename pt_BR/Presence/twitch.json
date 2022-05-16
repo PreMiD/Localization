@@ -39,6 +39,18 @@
 		"message": "Resgatando um código...",
 		"description": ""
 	},
+	"twitch.campReward": {
+		"message": "Seja recompensado",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Música na Twitch",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Painel de controle do criador",
+		"description": "Page name"
+	},
 	"twitch.produce": {
 		"message": "No editor de vídeo...",
 		"description": ""
@@ -46,6 +58,14 @@
 	"twitch.viewTheir": {
 		"message": "Visualizando suas",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.streamSum": {
+		"message": "Resumo da stream",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Conquistas",
+		"description": "Part 2 of the string: \"Viewing their\""
 	},
 	"twitch.activity": {
 		"message": "Atividade da comunidade",
