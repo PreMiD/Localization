@@ -3,6 +3,30 @@
         "message": "Outros",
         "description": "Other pages not added to the code"
     },
+    "apple.shopAccessories": {
+        "message": "Acessórios da Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopFavorites": {
+        "message": "Favoritos",
+        "description": "Favorite products"
+    },
+    "apple.iCloudMail": {
+        "message": "Mail",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Contatos",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Calendário",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Fotos",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
     "apple.devDocs": {
         "message": "Documentação",
         "description": "Developer documentation"
