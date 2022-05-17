@@ -115,6 +115,10 @@
         "message": "Melihat ringkasan permainan",
         "description": "Used when the host is viewing the summary of a game"
     },
+    "kahoot.login": {
+        "message": "Sedang login",
+        "description": "Used when a user is logging in"
+    },
     "kahoot.createHome": {
         "message": "Melihat halaman awal",
         "description": "Used when the user is viewing the create.kahoot.it home page"
@@ -139,6 +143,18 @@
         "message": "Melihat hasil permainan",
         "description": "Used when the user is viewing their own game reports"
     },
+    "kahoot.myCourses": {
+        "message": "Melihat kursus-kursus mereka",
+        "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities."
+    },
+    "kahoot.editingCourse": {
+        "message": "Mengedit kursus:",
+        "description": "Used when the user is editing a course. The name of the course will be displayed below."
+    },
+    "kahoot.viewingCourse": {
+        "message": "Melihat Kursus:",
+        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
+    },
     "kahoot.editingKahoot": {
         "message": "Mengedit Kahoot:",
         "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
@@ -146,6 +162,10 @@
     "kahoot.previewingKahoot": {
         "message": "Menampilkan Kahoot:",
         "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourse": {
+        "message": "Mengadakan kursus",
+        "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time."
     },
     "kahoot.liveCourseActivity": {
         "message": "Aktivitas #{0}: {1}",
