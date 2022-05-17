@@ -4,7 +4,7 @@
 		"description": "Search result text when nothing's found"
 	},
 	"error.code.404": {
-		"message": "Desculpe, não foi possível encontrar esta página.",
+		"message": "Não foi possível encontrar essa página.",
 		"description": "Error (404) message"
 	},
 	"error.code.4": {
