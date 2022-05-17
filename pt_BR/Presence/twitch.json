@@ -35,6 +35,10 @@
 		"message": "Vendo a carteira...",
 		"description": ""
 	},
+	"twitch.viewFollow": {
+		"message": "Vendo as pessoas que sigo...",
+		"description": ""
+	},
 	"twitch.redeem": {
 		"message": "Resgatando um código...",
 		"description": ""
