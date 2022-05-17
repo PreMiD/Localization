@@ -92,7 +92,7 @@
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.outdatedExtension.message": {
-		"message": "A sua extensão está desatualizada. Por favor, atualize-a utilizando nosso site para ter acesso aos recursos mais recentes.",
+		"message": "A sua extensão está desatualizada. Atualize-a utilizando nosso site para ter acesso aos recursos mais recentes.",
 		"description": "Shown when Extension is outdated. Only for Safari port."
 	},
 	"popup.info.safari.urgentUpdate": {
