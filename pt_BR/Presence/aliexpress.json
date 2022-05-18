@@ -22,5 +22,9 @@
     "aliexpress.viewTheir": {
         "message": "Vendo",
         "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Os seus reembolsos e disputas",
+        "description": "Part 2 of \"Viewing their\""
     }
 }
