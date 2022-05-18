@@ -111,12 +111,32 @@
 		"message": "Nome",
 		"description": "Name filed."
 	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Ex: PreMiD",
+		"description": "Name field's placeholder."
+	},
 	"partners.apply.form.link.placeholder": {
 		"message": "Ex: https://premid.app",
 		"description": "Link filed's placeholder."
 	},
+	"partners.apply.form.description": {
+		"message": "Descrição: (máximo de 150 caracteres)",
+		"description": "Description field."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Fechar",
+		"description": "Modal close button."
+	},
 	"partners.apply.success": {
 		"message": "Obrigado por se inscrever!",
 		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Por favor, preencha todos os campos.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error4": {
+		"message": "Você já aplicou para ser parceiro.",
+		"description": "Error when already applied."
 	}
 }
