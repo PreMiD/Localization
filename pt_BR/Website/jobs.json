@@ -12,7 +12,7 @@
 		"description": "Next button in the modal."
 	},
 	"jobs.modal.buttons.join": {
-		"message": "Juntar-se",
+		"message": "Entrar",
 		"description": "Join Discord button in the modal."
 	},
 	"jobs.modal.buttons.cancel": {
@@ -20,19 +20,19 @@
 		"description": "Cancel, button in the modal."
 	},
 	"jobs.modal.error": {
-		"message": "Por favor preencha todos os campos",
+		"message": "Preencha todos os campos",
 		"description": "Error when user did not fill all the fields."
 	},
 	"jobs.modal.notice": {
-		"message": "PreMiD é um projeto open-source, o que significa que somos um time sem fins lucrativos, toda doação ou dinheiro dado com o Patreon irá voltar para o produto. Ao se candidatar a uma posição no PreMiD, você reconhece que estará se voluntariando na equipe, você não será pago pelo seu trabalho.",
+		"message": "PreMiD é um projeto de código aberto, o que significa que somos um time sem fins lucrativos, toda doação ou dinheiro dado com o Patreon irá voltar para o produto. Ao se candidatar a uma posição no PreMiD, você reconhece que estará se voluntariando na equipe, você não será pago pelo seu trabalho.",
 		"description": "Notice for applicants."
 	},
 	"jobs.guild.required": {
-		"message": "Junte-se ao nosso Discord",
+		"message": "Entre no nosso Discord",
 		"description": "Title of the modal the user will see if it's not in Discord server."
 	},
 	"jobs.guild.explanation": {
-		"message": "Para poder se candidatar, você deve entrar em nosso servidor do Discord. Caso contrário, não poderemos te contatar caso você seja selecionado!",
+		"message": "Para você poder aplicar, você deve entrar em nosso servidor do Discord. Caso contrário, não poderemos te contatar caso você seja selecionado!",
 		"description": "Explanation why users should be in Discord server to perform job application."
 	},
 	"jobs.header.title": {
