@@ -67,6 +67,10 @@
         "message": "Editando vídeo:",
         "description": ""
     },
+    "youtube.studio.videoAnalytics": {
+        "message": "Vendo as estatísticas do vídeo:",
+        "description": ""
+    },
     "youtube.studio.videoComments": {
         "message": "Visualizando comentários do vídeo:",
         "description": ""
