@@ -72,7 +72,7 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "Lendo DMs de:",
+		"message": "Lendo mensagens de:",
 		"description": ""
 	},
 	"general.readingAbout": {
@@ -80,7 +80,7 @@
 		"description": ""
 	},
 	"general.readingArticle": {
-		"message": "Lendo artigo:",
+		"message": "Lendo o artigo:",
 		"description": ""
 	},
 	"general.readingChannel": {
@@ -120,7 +120,7 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "Escrevendo em DMs para:",
+		"message": "Escrevendo uma mensagem para:",
 		"description": ""
 	},
 	"general.typeChannel": {
@@ -132,11 +132,11 @@
 		"description": ""
 	},
 	"general.viewCategory": {
-		"message": "Vendo categoria:",
+		"message": "Vendo a categoria:",
 		"description": ""
 	},
 	"general.viewChannel": {
-		"message": "Vendo canal:",
+		"message": "Vendo o canal:",
 		"description": ""
 	},
 	"general.viewEpisode": {
@@ -144,7 +144,7 @@
 		"description": ""
 	},
 	"general.viewGenre": {
-		"message": "Vendo gênero:",
+		"message": "Vendo o gênero:",
 		"description": ""
 	},
 	"general.viewHome": {
@@ -296,7 +296,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonReadArticle": {
-		"message": "Ler Artigo",
+		"message": "Ler artigo",
 		"description": "Used as the title for the button in Discord."
 	}
 }
