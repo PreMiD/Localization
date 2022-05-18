@@ -1,1 +1,10 @@
-{}
+{
+    "juniperbot.serverdashname": {
+        "message": "Servidor: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.stats": {
+        "message": "Vendo as estatísticas do bot",
+        "description": "Page with bot's statistics"
+    }
+}
