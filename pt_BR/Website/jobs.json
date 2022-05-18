@@ -60,7 +60,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit2.description": {
-		"message": "Confira nosso Desenvolvimento e Marketing.",
+		"message": "Confira nosso desenvolvimento e marketing.",
 		"description": "Benefit card description."
 	},
 	"jobs.benefit3.title": {
@@ -88,7 +88,7 @@
 		"description": "Benefit card description."
 	},
 	"jobs.benefit6.title": {
-		"message": "Acesso Antecipado",
+		"message": "Acesso antecipado",
 		"description": "Benefit card title."
 	},
 	"jobs.benefit6.description": {
@@ -96,11 +96,11 @@
 		"description": "Benefit card description."
 	},
 	"jobs.success.applied": {
-		"message": "Obrigado por se inscrever!",
+		"message": "Obrigado por aplicar!",
 		"description": "Notification when applying."
 	},
 	"jobs.errors.alreadyApplied": {
-		"message": "Você já se inscreveu antes!",
+		"message": "Você já aplicou antes!",
 		"description": "Notification when you applied already."
 	}
 }
