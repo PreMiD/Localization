@@ -6,5 +6,9 @@
 	"report.bugcount": {
 		"message": "{count}/3 Reportes restantes",
 		"description": "Amount of bug reports user can send"
+	},
+	"report.button": {
+		"message": "Reportar",
+		"description": "Button to send the information inputed."
 	}
 }
