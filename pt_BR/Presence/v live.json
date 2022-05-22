@@ -8,7 +8,27 @@
 		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.viewTheir": {
-		"message": "Visualizando suas",
+		"message": "Vendo",
 		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "sua página de perfil",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "suas compras recentes",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "seu saldo",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "seus dispositivos conectados",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "seus canais seguidos",
+		"description": "The second part of the \"Viewing their\" string"
 	}
 }

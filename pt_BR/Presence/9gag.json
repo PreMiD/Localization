@@ -11,6 +11,10 @@
         "message": "Vendo as tendências",
         "description": ""
     },
+    "9gag.tag": {
+        "message": "Vendo tag:",
+        "description": ""
+    },
     "9gag.store": {
         "message": "Visualizando a loja",
         "description": ""
