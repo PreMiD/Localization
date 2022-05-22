@@ -1,4 +1,8 @@
 {
+    "aliexpress.store": {
+        "message": "Vendo a loja:",
+        "description": ""
+    },
     "aliexpress.sale": {
         "message": "Navegando pela promoção",
         "description": ""
@@ -26,5 +30,13 @@
     "aliexpress.refunds": {
         "message": "Os seus reembolsos e disputas",
         "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "suas encomendas deletadas",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.coupons": {
+        "message": "Vendo seus cupons",
+        "description": ""
     }
 }
