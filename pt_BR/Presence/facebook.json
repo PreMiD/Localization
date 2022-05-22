@@ -1,1 +1,18 @@
-{}
+{
+    "facebook.call": {
+        "message": "Em uma chamada com:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Em uma chamada de video com:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "alguém... (Usuário Anônimo)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Escrevendo uma mensagem",
+        "description": ""
+    }
+}
