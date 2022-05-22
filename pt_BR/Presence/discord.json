@@ -24,7 +24,7 @@
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
 	},
 	"discord.friends": {
-		"message": "Visualizando seus amigos...",
+		"message": "Vendo seus amigos...",
 		"description": ""
 	},
 	"discord.nitro": {
@@ -40,23 +40,23 @@
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
 	},
 	"discord.settings": {
-		"message": "Visualizando suas configurações...",
+		"message": "Vendo suas configurações...",
 		"description": ""
 	},
 	"discord.serverSettings": {
-		"message": "Visualizando as configurações{0}do servidor: {1}",
+		"message": "Vendo as configurações{0}do servidor: {1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
 	},
 	"discord.invite": {
-		"message": "Visualizando link de convite:{0}{1} (Servidor: {2})",
+		"message": "Vendo link de convite:{0}{1} (Servidor: {2})",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
 	},
 	"discord.inviteServer": {
-		"message": "Visualizando link de convite{0} do servidor: {1}",
+		"message": "Vendo link de convite{0} do servidor: {1}",
 		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
 	},
 	"discord.buttonInvite": {
-		"message": "Visualizando Link de Convite",
+		"message": "Vendo Link de Convite",
 		"description": "Used as the title for the button in Discord."
 	},
 	"discord.browseThrough": {
@@ -156,7 +156,7 @@
 		"description": ""
 	},
 	"discord.devs.serversEdit": {
-		"message": "Visualizando as informações do servidor: {0}",
+		"message": "Vendo as informações do servidor: {0}",
 		"description": "{0} will be replaced with the name of the server."
 	},
 	"discord.devs.docs": {
@@ -180,7 +180,7 @@
 		"description": ""
 	},
 	"discord.merch.collection": {
-		"message": "Visualizando a coleção:",
+		"message": "Vendo a coleção:",
 		"description": ""
 	}
 }
