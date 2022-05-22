@@ -43,6 +43,18 @@
 		"message": "Vendo as pessoas que sigo...",
 		"description": ""
 	},
+	"twitch.viewSettings": {
+		"message": "Vendo suas configurações...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Vendo seus amigos...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Vendo suas inscrições...",
+		"description": ""
+	},
 	"twitch.redeem": {
 		"message": "Resgatando um código...",
 		"description": ""
