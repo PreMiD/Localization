@@ -76,19 +76,23 @@
         "description": ""
     },
     "youtube.studio.viewTheir": {
-        "message": "Visualizando",
+        "message": "Vendo",
         "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
     },
+    "youtube.studio.channelAnalytics": {
+        "message": "as estatísticas do seu canal",
+        "description": "Part two of \"Viewing their\""
+    },
     "youtube.studio.channelComments": {
-        "message": "seus comentários do canal",
+        "message": "os comentários do seu canal",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.channelTranslations": {
-        "message": "suas traduções do canal",
+        "message": "as traduções do seu canal",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.artistPage": {
-        "message": "página do artista",
+        "message": "sua página de artista",
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
