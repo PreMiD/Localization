@@ -15,6 +15,10 @@
 		"message": "sua página de perfil",
 		"description": "The second part of the \"Viewing their\" string"
 	},
+	"v live.watched": {
+		"message": "seus vídeos assistidos",
+		"description": "The second part of the \"Viewing their\" string"
+	},
 	"v live.purchases": {
 		"message": "suas compras recentes",
 		"description": "The second part of the \"Viewing their\" string"
