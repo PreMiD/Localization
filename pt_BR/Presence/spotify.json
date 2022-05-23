@@ -1,4 +1,12 @@
 {
+	"spotify.albumLike": {
+		"message": "seus álbuns curtidos",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "suas músicas curtidas",
+		"description": "\"Browsing through\" + this"
+	},
 	"spotify.madeForYou": {
 		"message": "\"Feito para você\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
