@@ -44,7 +44,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Nós criamos nossa extensão de uma maneira que permite você adicionar e usar Presences criadas por outras pessoas e gerenciá-las em nossa extensão!",
+		"message": "Nós criamos nossa extensão de uma maneira que permite você adicionar e usar presences criadas por outras pessoas e gerenciá-las em nossa extensão!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -52,15 +52,15 @@
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
-		"message": "Simples interface de usuário",
+		"message": "Interface de usuário simples",
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Cansado de interfaces de usuário complicadas? Por isso, criamos e tentamos manter nossa interface do usuário o mais simples e útil possível, com recursos importantes como:",
+		"message": "Cansado de interfaces de usuário complicadas? Por isso, criamos e tentamos manter nossa interface o mais simples e útil possível, com recursos importantes como:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
-		"message": "Configurações do App e Extensão",
+		"message": "Configurações para o aplicativo e a extensão",
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.2": {
@@ -76,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Algo está falhando, enviando toneladas de erros ou simplesmente não está funcionando? Ajudaremos você a se livrar destes problemas em nosso servidor do Discord, também criamos nosso próprio sistema de suporte que garantirá que o problema seja resolvido o mais rápido possível.",
+		"message": "Algo está falhando, enviando toneladas de erros ou simplesmente não está funcionando? Ajudaremos você a se livrar destes problemas em nosso servidor de Discord, também criamos nosso próprio sistema de suporte que garantirá que o problema seja resolvido o mais rápido possível.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
