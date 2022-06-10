@@ -207,6 +207,10 @@
         "message": "App ansehen",
         "description": "e.g. \"View App\""
     },
+    "apple.btnViewDeveloper": {
+        "message": "Entwickler ansehen",
+        "description": "View the developer of an app"
+    },
     "apple.btnViewWWDC": {
         "message": "{0} ansehen",
         "description": "e.g.: \"View WWDC21\""
