@@ -1,38 +1,38 @@
 {
   "google classroom.calendar": {
-    "message": "Visualizando o calendário",
+    "message": "Vendo o calendário",
     "description": "Displayed when the user viewing their calendar"
   },
   "google classroom.todo": {
-    "message": "Visualizando sua lista de tarefas",
+    "message": "Vendo sua lista de tarefas",
     "description": "Displayed when the user is viewing their to-do list"
   },
   "google classroom.assignmentPrivate": {
-    "message": "Visualizando uma tarefa",
+    "message": "Vendo uma tarefa",
     "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.assignment": {
-    "message": "Visualizando uma tarefa em:",
+    "message": "Vendo uma tarefa em:",
     "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"
   },
   "google classroom.class": {
-    "message": "Visualizando a turma",
+    "message": "Vendo a turma",
     "description": "Displayed when a user is viewing a class"
   },
   "google classroom.classworkPrivate": {
-    "message": "Visualizando trabalho de classe",
+    "message": "Vendo trabalho de classe",
     "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.classwork": {
-    "message": "Visualizando trabalho de:",
+    "message": "Vendo trabalho de:",
     "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class"
   },
   "google classroom.classmembersPrivate": {
-    "message": "Visualizando membros da classe",
+    "message": "Vendo membros da classe",
     "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
   },
   "google classroom.classmembers": {
-    "message": "Visualizando membros da classe de:",
+    "message": "Vendo membros da classe de:",
     "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
   },
   "google classroom.settings": {
