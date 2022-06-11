@@ -16,11 +16,11 @@
     "description": "Displayed when viewing emails in the promotions category."
   },
   "gmail.categoryForum": {
-    "message": "Visualizando a categoria Fóruns",
+    "message": "Vendo a categoria Fóruns",
     "description": "Displayed when viewing emails in the forums category."
   },
   "gmail.inLabel": {
-    "message": "Visualizando marcador",
+    "message": "Vendo marcador",
     "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
   },
   "gmail.generalSettings": {
@@ -72,47 +72,47 @@
     "description": "Displayed when the user is searching for an email"
   },
   "gmail.viewingEmail": {
-    "message": "Visualizando um e-mail",
+    "message": "Vendo um e-mail",
     "description": "Displayed when the user is viewing an email"
   },
   "gmail.viewingStarredEmails": {
-    "message": "Visualizando e-mails com estrelas",
+    "message": "Vendo e-mails com estrelas",
     "description": "Displayed when the user is viewing emails marked with a star"
   },
   "gmail.viewingSentEmails": {
-    "message": "Visualizando e-mails enviados",
+    "message": "Vendo e-mails enviados",
     "description": "Displayed when the user is viewing the emails they have sent"
   },
   "gmail.viewingSnoozedEmails": {
-    "message": "Visualizando e-mails adiados",
+    "message": "Vendo e-mails adiados",
     "description": "Displayed when the user is viewing their snoozed emails"
   },
   "gmail.viewingDrafts": {
-    "message": "Visualizando rascunhos",
+    "message": "Vendo rascunhos",
     "description": "Displayed when the user is viewing their drafts"
   },
   "gmail.viewingImportantEmails": {
-    "message": "Visualizando e-mails importantes",
+    "message": "Vendo e-mails importantes",
     "description": "Displayed when the user is viewing emails marked as important"
   },
   "gmail.viewingTrash": {
-    "message": "Visualizando lixeira",
+    "message": "Vendo lixeira",
     "description": "Displayed when the user is viewing their trash"
   },
   "gmail.viewingChats": {
-    "message": "Visualizando bate-papos",
+    "message": "Vendo bate-papos",
     "description": "Displayed when the user is viewing their chats"
   },
   "gmail.viewingScheduled": {
-    "message": "Visualizando e-mails agendados",
+    "message": "Vendo e-mails agendados",
     "description": "Displayed when the user is viewing their scheduled emails"
   },
   "gmail.viewingSpam": {
-    "message": "Visualizando e-mails de spam",
+    "message": "Vendo e-mails de spam",
     "description": "Displayed when the user is viewing their spam"
   },
   "gmail.viewingAllEmails": {
-    "message": "Visualizando todos os e-mails",
+    "message": "Vendo todos os e-mails",
     "description": "Displayed when the user is viewing all their emails"
   },
   "gmail.composingEmail": {
