@@ -122,5 +122,9 @@
     "kahoot.createHome": {
         "message": "Schaut sich die Homepage an",
         "description": "Used when the user is viewing the create.kahoot.it home page"
+    },
+    "kahoot.searchKahoots": {
+        "message": "Sucht nach Kahoots:",
+        "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
     }
 }
