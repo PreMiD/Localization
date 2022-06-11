@@ -95,8 +95,32 @@
         "message": "{0} von {1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
     },
+    "kahoot.onPodium": {
+        "message": "Auf dem Podium",
+        "description": "Used in the context of a player/team being withing the top 3"
+    },
+    "kahoot.drumRoll": {
+        "message": "Warte auf das endgültige Ranking...",
+        "description": "Used when a player is waiting to receive their final ranking"
+    },
+    "kahoot.position": {
+        "message": "Platz: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    },
+    "kahoot.teamTalk": {
+        "message": "Diskutiert mit Team",
+        "description": "Used when a player is talking to their team during team talk time"
+    },
+    "kahoot.gameSummary": {
+        "message": "Guckt Spielzusammenfassung an",
+        "description": "Used when the host is viewing the summary of a game"
+    },
+    "kahoot.login": {
+        "message": "Meldet sich an...",
+        "description": "Used when a user is logging in"
+    },
     "kahoot.createHome": {
-        "message": "Schaut sich die Homepage",
+        "message": "Schaut sich die Homepage an",
         "description": "Used when the user is viewing the create.kahoot.it home page"
     }
 }
