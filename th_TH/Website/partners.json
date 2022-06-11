@@ -155,6 +155,10 @@
 		"message": "OnlyHit คือสถานีเพลงออนไลน์ฟังตลอด 24 ชั่วโมง เเละทําให้คุณพบเพลงฮิตก่อนใคร",
 		"description": "Description for OnlyHit."
 	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix เป็น เซิฟเวอร์ดิสคอร์ดเกี่ยวกับ Netflix พูดคุยเกี่ยวกับซีรีส์หรือภาพยนตร์ที่คุณชื่นชอบกับคนที่มีความคิดเหมือนๆ กันที่นี่",
+		"description": "Description for r/Netflix."
+	},
 	"partners.apply.title": {
 		"message": "ลงทะเบียนเป็นพาร์ทเนอร์",
 		"description": "Partnership application modal title."
