@@ -1,4 +1,8 @@
 {
+	"spotify.bestPodcasts": {
+		"message": "Melhores podcasts",
+		"description": ""
+	},
 	"spotify.albumLike": {
 		"message": "seus álbuns curtidos",
 		"description": "\"Browsing through\" + this"
