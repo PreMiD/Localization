@@ -12,7 +12,7 @@
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.viewingCommunityPost": {
-        "message": "Visualizando postagens da comunidade",
+        "message": "Vendo postagens da comunidade",
         "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
     },
     "youtube.ofChannel": {
@@ -48,19 +48,19 @@
         "description": "Part two of \"Browsing through\""
     },
     "youtube.viewLiveEvents": {
-        "message": "Visualizando seus eventos ao vivo",
+        "message": "Vendo seus eventos ao vivo",
         "description": ""
     },
     "youtube.viewLiveDashboard": {
-        "message": "Visualizando seu painel ao vivo",
+        "message": "Vendo seu painel ao vivo",
         "description": ""
     },
     "youtube.viewAudioLibrary": {
-        "message": "Visualizando a biblioteca de áudio",
+        "message": "Vendo a biblioteca de áudio",
         "description": ""
     },
     "youtube.studio.viewVideos": {
-        "message": "Visualizando seus vídeos",
+        "message": "Vendo seus vídeos",
         "description": ""
     },
     "youtube.studio.editVideo": {
@@ -72,7 +72,7 @@
         "description": ""
     },
     "youtube.studio.videoComments": {
-        "message": "Visualizando comentários do vídeo:",
+        "message": "Vendo comentários do vídeo:",
         "description": ""
     },
     "youtube.studio.viewTheir": {
@@ -96,7 +96,7 @@
         "description": "Part two of \"Viewing their\""
     },
     "youtube.studio.dashboard": {
-        "message": "Visualizando seu painel",
+        "message": "Vendo seu painel",
         "description": ""
     }
 }

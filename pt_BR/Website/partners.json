@@ -103,8 +103,12 @@
 		"message": "Por favor escolha um",
 		"description": "Select default placeholder."
 	},
+	"partners.apply.select.website": {
+		"message": "Site",
+		"description": "Select 'Website' category."
+	},
 	"partners.apply.select.other": {
-		"message": "Outros",
+		"message": "Outro",
 		"description": "Select 'Other' category."
 	},
 	"partners.apply.form.name": {
@@ -115,6 +119,10 @@
 		"message": "Ex: PreMiD",
 		"description": "Name field's placeholder."
 	},
+	"partners.apply.form.link": {
+		"message": "Link",
+		"description": "Link field."
+	},
 	"partners.apply.form.link.placeholder": {
 		"message": "Ex: https://premid.app",
 		"description": "Link filed's placeholder."
@@ -123,17 +131,29 @@
 		"message": "Descrição: (máximo de 150 caracteres)",
 		"description": "Description field."
 	},
+	"partners.apply.form.imageLink": {
+		"message": "Link da imagem: (550x300, apenas PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Ex: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
 	"partners.apply.form.button.close": {
 		"message": "Fechar",
 		"description": "Modal close button."
 	},
 	"partners.apply.success": {
-		"message": "Obrigado por se inscrever!",
+		"message": "Obrigado por aplicar!",
 		"description": "Success message when applying."
 	},
 	"partners.apply.error1": {
 		"message": "Por favor, preencha todos os campos.",
 		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error3": {
+		"message": "Adicione um link (deve começar com https:// e terminar com .png)",
+		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
 		"message": "Você já aplicou para ser parceiro.",

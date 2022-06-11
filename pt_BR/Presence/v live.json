@@ -4,7 +4,7 @@
 		"description": "The first part of the next 6 strings"
 	},
 	"v live.channelMy": {
-		"message": "Visualizando a \"minha\" página",
+		"message": "Vendo a \"minha\" página",
 		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
 	},
 	"v live.viewTheir": {
