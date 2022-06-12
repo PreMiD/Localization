@@ -2,5 +2,21 @@
     "hypixel.staff": {
         "message": "Vendo a lista da equipe",
         "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Vendo os seus artigos assistidos",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Vendo os seus fóruns assistidos",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Vendo as suas mensagens diretas",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Vendo o jogo:",
+        "description": ""
     }
 }
