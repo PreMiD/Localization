@@ -103,10 +103,6 @@
 		"message": "Is é Arena of Kings Cluiche Arena PvP luas tapa eile a imrítear sa bhrabhsálaí.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "Is raidió idirnáisiúnta neamhbhrabúis é UpBeat a dhéanann a dhícheall siamsaíocht gan stad agus raidió agus nuachta ar ardchaighdeán a sholáthar.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "Is é SimLiveRadio an raidió infotainment is rathúla do chluichí insamhalta sa Ghearmáin, san Ostair agus san Eilvéis!",
 		"description": "Description for SimLoveRadio."
