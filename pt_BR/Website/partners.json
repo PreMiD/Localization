@@ -55,6 +55,10 @@
 		"message": "Nosso firewall",
 		"description": "Heading for the second requirement."
 	},
+	"partners.apply.button": {
+		"message": "Aplique agora!",
+		"description": "Button to apply for partner."
+	},
 	"partners.apply.disclaimer": {
 		"message": "Vamos juntos para o céu!",
 		"description": "Disclaimer located above the apply button."

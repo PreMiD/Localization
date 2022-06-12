@@ -1,1 +1,54 @@
-{}
+{
+	"namemc.skinsTrending": {
+		"message": "Vendo skins populares",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTop": {
+		"message": "Vendo as skins mais usadas",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsNew": {
+		"message": "Vendo skins novas",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsRandom": {
+		"message": "Vendo skins aleatórias",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.viewSkin": {
+		"message": "Vendo uma skin",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "Vendo capas",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "Vendo a capa:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Vendo servidores",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Vendo o servidor:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Ver servidor",
+		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.viewFriends": {
+		"message": "Vendo seus amigos",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "Vendo as suas skins",
+		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "Vendo os seus emojis de perfil",
+		"description": "You can have an emoji next to your name, you select it here."
+	}
+}

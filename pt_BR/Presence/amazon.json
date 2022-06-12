@@ -3,8 +3,20 @@
         "message": "Vendo suas inscrições",
         "description": ""
     },
+    "amazon.adprefs": {
+        "message": "Vendo as suas preferências de publicidade",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Vendo o seu saldo",
+        "description": ""
+    },
     "amazon.payment": {
         "message": "Vendo seus métodos de pagamento",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Vendo o seu endereço",
         "description": ""
     },
     "amazon.pets": {

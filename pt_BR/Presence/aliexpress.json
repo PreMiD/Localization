@@ -3,6 +3,10 @@
         "message": "Vendo a loja:",
         "description": ""
     },
+    "aliexpress.message": {
+        "message": "Central de mensagens",
+        "description": "Meaning Direct messages"
+    },
     "aliexpress.sale": {
         "message": "Navegando pela promoção",
         "description": ""
@@ -17,6 +21,10 @@
     },
     "aliexpress.theirAli": {
         "message": "Vendo o seu AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "Feedback do AliExpress",
         "description": ""
     },
     "aliexpress.orders": {
@@ -35,8 +43,24 @@
         "message": "suas encomendas deletadas",
         "description": "Part 2 of \"Viewing their\""
     },
+    "aliexpress.trade": {
+        "message": "Central de trocas do AliExpress",
+        "description": ""
+    },
     "aliexpress.coupons": {
         "message": "Vendo seus cupons",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Vendo o seu endereço",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Central de ajuda do AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Central de vendas do AliExpress",
         "description": ""
     }
 }

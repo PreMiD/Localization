@@ -1,4 +1,20 @@
 {
+	"premid.viewPage": {
+		"message": "Vendo a página:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Documentação",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Vendo a presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Página inicial",
+		"description": "A page name"
+	},
 	"premid.pageContributors": {
 		"message": "Contribuidores",
 		"description": "A page name"
