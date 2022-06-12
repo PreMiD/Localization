@@ -15,6 +15,10 @@
 		"message": "Parceiros",
 		"description": "Page name"
 	},
+	"twitch.press": {
+		"message": "Central de imprensa",
+		"description": "Page name"
+	},
 	"twitch.security": {
 		"message": "Segurança",
 		"description": "Page name"
@@ -126,6 +130,18 @@
 	"twitch.blogs": {
 		"message": "Blogs da Twitch",
 		"description": ""
+	},
+	"twitch.help": {
+		"message": "Central de ajuda",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Vendo o tópico:",
+		"description": ""
+	},
+	"twitch.dev": {
+		"message": "Desenvolvedores da Twitch",
+		"description": "Page name"
 	},
 	"twitch.devProduct": {
 		"message": "Produtos para desenvolvedores da Twitch",
