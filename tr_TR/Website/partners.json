@@ -103,10 +103,6 @@
 		"message": "Arena of Kings tarayıcınızdan oynayabileceğiniz, ileri seviye, hızlı PvP Arena Kapışması oyunudur.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat, aralıksız, kaliteli radyo hizmeti sunani kâr amacı gütmeyen bir internet radyosudur.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio simülasyon oyunlarında Almanya, Avusturya ve İsviçrede bulunan oyuncuların dinlediği en popüler radyolardan biridir.",
 		"description": "Description for SimLoveRadio."
