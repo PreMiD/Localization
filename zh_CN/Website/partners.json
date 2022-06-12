@@ -103,10 +103,6 @@
 		"message": "Arena of Kings 是在浏览器中游玩的一种快节奏的 PvP 竞技游戏。",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat 是一家非营利性的国际电台，它努力提供不停、优质的广播和娱乐新闻。",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.apply.title": {
 		"message": "申请成为合作伙伴",
 		"description": "Partnership application modal title."

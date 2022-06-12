@@ -103,10 +103,6 @@
 		"message": "Arena of Kings on järgmise põlvkonna kiire tempoga PvP Arena mäng, mida mängitakse brauseris.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat on mittetulunduslik rahvusvaheline raadio, mis püüab pakkuda vahetut kvaliteetset raadio- ja uudistemeelelahutust.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio on kõige edukam infotainment-raadio simulatsioonimängude jaoks Saksamaal, Austrias ja Šveitsis!",
 		"description": "Description for SimLoveRadio."

@@ -103,10 +103,6 @@
 		"message": "Arena of Kings je nova generacija, hitri-tempo PvP Arena Igra, ki se ga igra v brskalniku.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat je neprofitna globalna radio postaja, kjer lahko poslušate non-stop kakovostne radio postaje in novice.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio je najbolj uspešna informativna radio postaja za simulacijske igre v Nemčiji, Avstriji in Švici!",
 		"description": "Description for SimLoveRadio."

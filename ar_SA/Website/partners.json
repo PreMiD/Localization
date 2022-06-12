@@ -103,10 +103,6 @@
 		"message": "ساحة الملوك هي لعبة ساحة سريعة الوتيرة من الجيل القادم التي تلعب في المتصفح.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat إذاعة دولية لا تستهدف الربح وتسعى جاهدة إلى توفير إذاعة, تسلية و أخبار جيدة النوعية دون توقف.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio هو أنجح راديو معلوماتي ترفيهي لألعاب المحاكاة في ألمانيا، النمسا وسويسرا!",
 		"description": "Description for SimLoveRadio."

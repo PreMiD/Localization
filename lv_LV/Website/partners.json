@@ -103,10 +103,6 @@
 		"message": "Arena of Kings ir nākamās paaudzes ātrā PvP Arena spēle, kas tiek spēlēta pārlūkprogrammā.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat ir bezpeļņas starptautisks radio, kas cenšas nodrošināt nepārtrauktu, kvalitatīvu radio un ziņu izklaidi.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio ir visveiksmīgākais informācijas un izklaides radio simulācijas spēlēm Vācijā, Austrijā un Šveicē!",
 		"description": "Description for SimLoveRadio."

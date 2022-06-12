@@ -103,10 +103,6 @@
 		"message": "Arena of Kings হচ্ছে একটি পরবর্তী প্রজন্মের PvP এরিনা গেম যা ব্রাউজারে খেলা হয়।",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat হচ্ছে একটি অলাভজনক আন্তর্জাতিক রেডিও যা চেষ্টা করে বিরামহীন, ভালো কোয়ালিটির রেডিও এবং সংবাদ বিনোদন দিতে।",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio হচ্ছে জার্মানি, অস্ট্রিয়া এবং সুইজারল্যান্ডে সিমুলেশন গেমগুলোর জন্য সবচেয়ে সফল বিনোদন এবং খবরের রেডিও!",
 		"description": "Description for SimLoveRadio."
