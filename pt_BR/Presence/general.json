@@ -111,6 +111,18 @@
 		"message": "Pesquisando",
 		"description": ""
 	},
+	"general.writing": {
+		"message": "Escrevendo",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Ligando",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Em uma ligação...",
+		"description": ""
+	},
 	"general.shopCart": {
 		"message": "Carrinho de compras",
 		"description": ""
@@ -239,6 +251,10 @@
 		"message": "Termos de Serviço",
 		"description": "A page name"
 	},
+	"general.cookie": {
+		"message": "Política de cookies",
+		"description": "A page name"
+	},
 	"general.repeatAll": {
 		"message": "Repetindo todas as músicas",
 		"description": ""
@@ -246,6 +262,10 @@
 	"general.repeat": {
 		"message": "Em repetição",
 		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Vendo um incidente",
+		"description": "A page name of statuspages"
 	},
 	"general.incidentHistory": {
 		"message": "Histórico de incidentes",
@@ -263,12 +283,24 @@
 		"message": "Assistir episódio",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchMovie": {
+		"message": "Assistir filme",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonWatchVideo": {
 		"message": "Assistir vídeo",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonWatchStream": {
+		"message": "Assistir transmissão",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewChannel": {
 		"message": "Ver canal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Ouvir junto",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPage": {
@@ -277,6 +309,10 @@
 	},
 	"general.buttonViewSong": {
 		"message": "Visualizar música",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Ver álbum",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewProfile": {
