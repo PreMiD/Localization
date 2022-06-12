@@ -103,10 +103,6 @@
 		"message": "Arena of Kings یک بازی نسل جدید با پیشروی سریع و PvP می باشد که می توان آن را در مرورگر خود بازی نمود.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat یک رادیو بین المللی بدون درآمد می باشد که سخت در تلاش و کوشش برای ارائه رادیوئی بدون توقف، با کیفیت از آخرین اخبار و سرگرمی است.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio موفق ترین رادیو سرگرم کننده برای بازی های شبیه سازی در آلمان، اتریش و سوئیس می باشد!",
 		"description": "Description for SimLoveRadio."
