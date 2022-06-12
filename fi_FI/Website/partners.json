@@ -103,10 +103,6 @@
 		"message": "Arena of Kings on seuraavan sukupolven nopeatempoinen PvP Arena -selainpeli.",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat on voittoa tavoittelematon kansainvälinen radioasema, joka pyrkii tarjoamaan taukoamatonta, laadukasta radio- ja uutisviihdettä.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio on menestyksekkäin simulaatiopelien infotainment-radio Saksassa, Itävallassa ja Sveitsissä!",
 		"description": "Description for SimLoveRadio."
