@@ -14,5 +14,33 @@
     "facebook.writing": {
         "message": "Escrevendo uma mensagem",
         "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Lendo sobre o usuário:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Vendo a comunidade de:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Vendo fotos de:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Vendo publicações de:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Vendo a loja de:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Vendo amigos de:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Vendo vídeos de:",
+        "description": ""
     }
 }
