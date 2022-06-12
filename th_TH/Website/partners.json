@@ -103,10 +103,6 @@
 		"message": "Arena of Kings คือ PvP Arena แห่งอนาคตที่สามารถเล่นได้ผ่านเบราว์เซอร์ของคุณ",
 		"description": "Description for Arena of Kings."
 	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat คือ วิทยุต่างประเทศที่ไม่แสวงหาผลกำไร ซึ่งมุ่งมั่นที่จะให้บริการอย่างไม่หยุดยั้ง, คุณภาพเสียง เเละ ข่าวบันเทิง.",
-		"description": "Description for UpBeatRadio."
-	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio คือ ค่ายวิทยุเกี่ยวกับความบันเทิงประสบการณ์มากที่สุด สําหรับเกมเเนวจําลองใน เยอรมัน,ออสเตรีย, เเละสวิตเซอร์แลนด์",
 		"description": "Description for SimLoveRadio."
