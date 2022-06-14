@@ -103,6 +103,10 @@
 		"message": "Arena of Kings é um jogo de arena PvP em ritmo rápido de nova geração que pode ser jogado no navegador.",
 		"description": "Description for Arena of Kings."
 	},
+	"partners.partner.upBeat": {
+		"message": "A rádio UpBeat é uma rádio online movida pela comunidade que fornece entretenimento sem anúncios, notícias diárias e muito mais 24 horas por dia!",
+		"description": "Description for UpBeatRadio."
+	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio é a rádio de infotainment mais bem-sucedida para jogos de simulação na Alemanha, Áustria e Suíça!",
 		"description": "Description for SimLoveRadio."
