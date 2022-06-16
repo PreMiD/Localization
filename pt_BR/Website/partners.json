@@ -147,6 +147,10 @@
 		"message": "Fechar",
 		"description": "Modal close button."
 	},
+	"partners.apply.form.button.apply": {
+		"message": "Aplicar",
+		"description": "Modal apply button."
+	},
 	"partners.apply.success": {
 		"message": "Obrigado por aplicar!",
 		"description": "Success message when applying."
