@@ -55,6 +55,10 @@
         "message": "Vendo torrents de XXX",
         "description": "XXX as in NSFW"
     },
+    "1337x.upload": {
+        "message": "Enviando algo...",
+        "description": ""
+    },
     "1337x.rules": {
         "message": "Lendo as regras",
         "description": ""
