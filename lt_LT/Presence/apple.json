@@ -7,6 +7,10 @@
         "message": "Dokumentacija",
         "description": "Developer documentation"
     },
+    "apple.devFeatures": {
+        "message": "Ypatybės",
+        "description": "Features for app design"
+    },
     "apple.devGames": {
         "message": "Žaidimai",
         "description": "Apps classified under the \"Games\" category on the App Store"
