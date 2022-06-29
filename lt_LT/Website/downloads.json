@@ -123,6 +123,10 @@
 		"message": "Prašome išjungti savo AdBlock",
 		"description": "Message next to pepe."
 	},
+	"downloads.showbeta.message": {
+		"message": "Rodyti beta atsisiuntimus",
+		"description": ""
+	},
 	"downloads.showbeta.small": {
 		"message": "(nebūtina, jei tik norite atsisiųsti įprastą programą)",
 		"description": "Small text under the show beta title."
