@@ -3,6 +3,10 @@
 		"message": "Autorius",
 		"description": "Creator of a presence"
 	},
+	"store.category.filters.allowAdult": {
+		"message": "Rodyti NSFW formato turinį",
+		"description": "Adult content checkbox"
+	},
 	"store.category.heading": {
 		"message": "Kategorijos",
 		"description": "Category heading"
@@ -34,5 +38,9 @@
 	"store.search": {
 		"message": "Paieška",
 		"description": "Placeholder for presence search"
+	},
+	"store.search.removeFilter": {
+		"message": "Spauskite, norint pašalinti filtrą",
+		"description": "Remove message for active search filters."
 	}
 }

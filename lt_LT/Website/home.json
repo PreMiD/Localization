@@ -1,4 +1,12 @@
 {
+	"home.introduction.paragraph": {
+		"message": "** „PreMiD“ ** yra paprastas, konfigūruojamas įrankis, leidžiantis rodyti, ką darote savo naršyklėje, naudodamiesi Discord būsena.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Ypatybės",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "Siuntiniai",
 		"description": "Downloads button -> redirects to /downloads page"
@@ -20,7 +28,7 @@
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.browsing": {
-		"message": "Naršoma...",
+		"message": "Naršo...",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.features.heading": {
@@ -35,6 +43,10 @@
 		"message": "Paprasta vartotojo sąsaja",
 		"description": "Features section subheading"
 	},
+	"home.features.simpleInterface.description": {
+		"message": "Atsibodo sudėtingos vartotojo sąsajos? Štai kodėl mes sukūrėme ir stengiamės, kad mūsų vartotojo sąsaja būtų kuo paprastesnė ir naudingesnė su tokiomis svarbiomis funkcijomis kaip:",
+		"description": "Features section description"
+	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Programos ir plėtinio nustatymai",
 		"description": "Features section description point"
@@ -43,8 +55,20 @@
 		"message": "Statusų valdymas",
 		"description": "Features section description point"
 	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Rūšiuoti pagal nurodytą kategoriją",
+		"description": "Features section description point"
+	},
 	"home.features.quickSupport.heading": {
 		"message": "Greita pagalba",
 		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Kažkas sugedo, siunčia daugybę klaidų ar paprasčiausiai neveikia? Mes padėsime jums atsikratyti šių problemų mūsų „Discord“ serveryje. Mes taip pat sukūrėme savo palaikymo sistemą, kuri užtikrins, kad jūsų problema būtų išspręsta kuo greičiau.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Sveitainės kalba",
+		"description": "Tippy content of the language selector."
 	}
 }
