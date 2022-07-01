@@ -95,8 +95,92 @@
         "message": "{0} из {1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
     },
+    "kahoot.onPodium": {
+        "message": "На трибуне",
+        "description": "Used in the context of a player/team being withing the top 3"
+    },
+    "kahoot.drumRoll": {
+        "message": "Ждёт итогового результата...",
+        "description": "Used when a player is waiting to receive their final ranking"
+    },
+    "kahoot.position": {
+        "message": "Место: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    },
+    "kahoot.teamTalk": {
+        "message": "Обсуждает с командой",
+        "description": "Used when a player is talking to their team during team talk time"
+    },
+    "kahoot.gameSummary": {
+        "message": "Смотрит сводку игры",
+        "description": "Used when the host is viewing the summary of a game"
+    },
+    "kahoot.login": {
+        "message": "Входит в игру",
+        "description": "Used when a user is logging in"
+    },
     "kahoot.createHome": {
         "message": "Смотрит главную страницу",
         "description": "Used when the user is viewing the create.kahoot.it home page"
+    },
+    "kahoot.discover": {
+        "message": "Смотрит страницу «Discover»",
+        "description": "Used when the user is viewing the discover page"
+    },
+    "kahoot.searchKahoots": {
+        "message": "Ищет Kahoot:",
+        "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
+    },
+    "kahoot.kahootDetails": {
+        "message": "Смотрит подробности Kahoot:",
+        "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.kahootProfile": {
+        "message": "Смотрит профиль Kahoot:",
+        "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below."
+    },
+    "kahoot.myKahoots": {
+        "message": "Смотрит свой Kahoot",
+        "description": "Used when the user is viewing their own kahoots"
+    },
+    "kahoot.userReports": {
+        "message": "Смотрит свои отчёты игр",
+        "description": "Used when the user is viewing their own game reports"
+    },
+    "kahoot.myCourses": {
+        "message": "Смотрит свои курсы",
+        "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities."
+    },
+    "kahoot.editingCourse": {
+        "message": "Изменяет курс:",
+        "description": "Used when the user is editing a course. The name of the course will be displayed below."
+    },
+    "kahoot.viewingCourse": {
+        "message": "Смотрит курс:",
+        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
+    },
+    "kahoot.editingKahoot": {
+        "message": "Редактирование Kahoo:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.previewingKahoot": {
+        "message": "Предпросматривает Kahoot:",
+        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourse": {
+        "message": "Проводит курс в эфире",
+        "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time."
+    },
+    "kahoot.liveCourseActivity": {
+        "message": "Активность №{0}: {1}",
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
+    },
+    "kahoot.feedback": {
+        "message": "Отправляет отзыв",
+        "description": "Used when a player is providing feedback about the quiz to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "Ожидание результатов...",
+        "description": "Used when a player is waiting for the question results"
     }
 }
