@@ -75,6 +75,10 @@
         "message": "Plane deinen Besuch",
         "description": "Plan your visit to the Apple Store"
     },
+    "apple.shopRefurbished": {
+        "message": "Zertifizierte generalüberholte Produkte",
+        "description": "Used Apple products at a lower price"
+    },
     "apple.shopBag": {
         "message": "Einkaufstasche",
         "description": "Shopping cart"
@@ -139,9 +143,17 @@
         "message": "iPhone und iPad Apps",
         "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
     },
+    "apple.devDistribution": {
+        "message": "Software bereitstellen",
+        "description": "Distribute software to the App Store"
+    },
     "apple.devDocs": {
         "message": "Dokumentation",
         "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "Richtlinien für die Entwicklung von Anwendungen für die verschiedenen Apple-Betriebssysteme",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
     },
     "apple.devResources": {
         "message": "Ressourcen",
@@ -174,6 +186,10 @@
     "apple.devVideos": {
         "message": "Videos",
         "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devVidTopic": {
+        "message": "Videothemen durchsuchen",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
     },
     "apple.devNews": {
         "message": "News und Updates",
