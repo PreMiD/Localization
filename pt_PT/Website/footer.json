@@ -44,7 +44,7 @@
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "Contribua",
+		"message": "Contribuir",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
