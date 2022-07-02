@@ -1,1 +1,122 @@
-{}
+{
+  "gmail.categoryPrimary": {
+    "message": "Betrachtet die Kategorie \"Allgemein\"",
+    "description": "Displayed when viewing emails in the primary category."
+  },
+  "gmail.categorySocial": {
+    "message": "Betrachtet die Kategorie \"Soziale Netzwerke\"",
+    "description": "Displayed when viewing emails in the social category."
+  },
+  "gmail.categoryUpdates": {
+    "message": "Betrachtet die Kategorie \"Benachrichtigungen\"",
+    "description": "Displayed when viewing emails in the updates category."
+  },
+  "gmail.categoryPromotions": {
+    "message": "Betrachtet die Kategorie \"Werbung\"",
+    "description": "Displayed when viewing emails in the promotions category."
+  },
+  "gmail.categoryForum": {
+    "message": "Betrachtet die Kategorie \"Foren\"",
+    "description": "Displayed when viewing emails in the forums category."
+  },
+  "gmail.inLabel": {
+    "message": "Betrachtet Label",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  },
+  "gmail.generalSettings": {
+    "message": "Konfiguriert allgemeine Einstellungen",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.labelSettings": {
+    "message": "Konfiguriert Label-Einstellungen",
+    "description": "Displayed when the user is modifying their labels"
+  },
+  "gmail.inboxSettings": {
+    "message": "Konfiguriert Postfach-Einstellungen",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "Konfiguriert Konto- und Import-Einstellungen",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "Konfiguriert Filter und blockierte Adressen",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "Konfiguriert Weiterleitungs- und POP/IMAP-Einstellungen",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "Konfiguriert Add-ons",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "Konfiguriert Chat und Meet-Einstellungen",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "Konfiguriert erweiterte Einstellungen",
+    "description": "Displayed when the user is modifying their advanced settings"
+  },
+  "gmail.offlineSettings": {
+    "message": "Konfiguriert Offline-Einstellungen",
+    "description": "Displayed when the user is modifying their offline settings"
+  },
+  "gmail.themesSettings": {
+    "message": "Wählt ein Theme aus",
+    "description": "Displayed when the user is modifying their theme in the settings"
+  },
+  "gmail.lookingForEmail": {
+    "message": "Sucht nach einer E-Mail",
+    "description": "Displayed when the user is searching for an email"
+  },
+  "gmail.viewingEmail": {
+    "message": "Betrachtet eine E-Mail",
+    "description": "Displayed when the user is viewing an email"
+  },
+  "gmail.viewingStarredEmails": {
+    "message": "Betrachtet favorisierte E-Mails",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "Betrachtet gesendete E-Mails",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "Betrachtet zurückgestellte E-Mails",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "Betrachtet Entwürfe",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "Betrachtet wichtige E-Mails",
+    "description": "Displayed when the user is viewing emails marked as important"
+  },
+  "gmail.viewingTrash": {
+    "message": "Betrachtet Papierkorb",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "Betrachtet Chats",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "Betrachtet geplante E-Mails",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "Betrachtet seine Spam-E-Mails",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "Betrachtet alle seine E-Mails",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "Schreibt eine E-Mail",
+    "description": "Displayed when the user is composing an email"
+  }
+}
