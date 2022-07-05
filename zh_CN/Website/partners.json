@@ -127,6 +127,10 @@
 		"message": "其他",
 		"description": "Select 'Other' category."
 	},
+	"partners.apply.form.name": {
+		"message": "名称",
+		"description": "Name filed."
+	},
 	"partners.apply.form.name.placeholder": {
 		"message": "例子: PreMiD",
 		"description": "Name field's placeholder."
