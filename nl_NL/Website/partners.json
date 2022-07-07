@@ -103,6 +103,10 @@
 		"message": "Arena of Kings is een next-gen, snelle PvP Arena Game gespeeld in de browser.",
 		"description": "Description for Arena of Kings."
 	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat Radio is een community-aangedreven online radio, die 24/7 reclamevrij radio-entertainment, dagelijkse nieuwsartikelen en nog veel meer biedt!",
+		"description": "Description for UpBeatRadio."
+	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio is de meest succesvolle infotainment-radio voor simulatiespelletjes in Duitsland, Oostenrijk en Zwitserland!",
 		"description": "Description for SimLoveRadio."
