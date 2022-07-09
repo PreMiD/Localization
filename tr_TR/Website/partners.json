@@ -236,7 +236,7 @@
 		"description": "Error when image link is entered wrong."
 	},
 	"partners.apply.error4": {
-		"message": "Zaten önceden ortaklık için onaylanmışsın.",
+		"message": "Partnerlik için zaten başvuru yaptınız.",
 		"description": "Error when already applied."
 	}
 }
