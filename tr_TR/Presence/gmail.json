@@ -1,4 +1,8 @@
 {
+  "gmail.categoryPrimary": {
+    "message": "Birincil kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the primary category."
+  },
   "gmail.categorySocial": {
     "message": "Sosyal kategorisini görüntülüyor",
     "description": "Displayed when viewing emails in the social category."
@@ -35,6 +39,10 @@
     "message": "Hesaplar ve İçe Aktarma İşlemi ayarlarını yapılandırıyor",
     "description": "Displayed when the user is modifying their account's settings"
   },
+  "gmail.filterSettings": {
+    "message": "Filtreler ve Engellenen Adresleri yapılandırıyor",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
   "gmail.fwdAndPOPSettings": {
     "message": "Yönlendirme ve POP/IMAP ayarlarını yapılandırıyor",
     "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
@@ -55,8 +63,36 @@
     "message": "Çevrimdışı ayarlarını yapılandırıyor",
     "description": "Displayed when the user is modifying their offline settings"
   },
-  "gmail.composingEmail": {
-    "message": "Bir posta oluşturuyor",
-    "description": "Displayed when the user is composing an email"
+  "gmail.themesSettings": {
+    "message": "Bir tema seçiyor",
+    "description": "Displayed when the user is modifying their theme in the settings"
+  },
+  "gmail.lookingForEmail": {
+    "message": "Bir eposta arıyor",
+    "description": "Displayed when the user is searching for an email"
+  },
+  "gmail.viewingEmail": {
+    "message": "Bir eposta görüntülüyor",
+    "description": "Displayed when the user is viewing an email"
+  },
+  "gmail.viewingStarredEmails": {
+    "message": "Yıldızlı postaları görüntülüyor",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "Gönderilmiş postaları görüntülüyor",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingDrafts": {
+    "message": "Taslakları görüntülüyor",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingTrash": {
+    "message": "Çöp kutusunu görüntülüyor",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "Sohbetleri görüntülüyor",
+    "description": "Displayed when the user is viewing their chats"
   }
 }
