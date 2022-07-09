@@ -1,1 +1,62 @@
-{}
+{
+  "gmail.categorySocial": {
+    "message": "Sosyal kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the social category."
+  },
+  "gmail.categoryUpdates": {
+    "message": "Güncellemeler kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the updates category."
+  },
+  "gmail.categoryPromotions": {
+    "message": "Tanıtımlar kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the promotions category."
+  },
+  "gmail.categoryForum": {
+    "message": "Forumlar kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the forums category."
+  },
+  "gmail.inLabel": {
+    "message": "Etiket görüntülüyor",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  },
+  "gmail.generalSettings": {
+    "message": "Genel ayarları yapılandırıyor",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.labelSettings": {
+    "message": "Etiket ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their labels"
+  },
+  "gmail.inboxSettings": {
+    "message": "Gelen Kutusu ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "Hesaplar ve İçe Aktarma İşlemi ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "Yönlendirme ve POP/IMAP ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "Eklentileri yapılandırıyor",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "Sohbet ve Toplantı ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "Gelişmiş ayarları yapılandırıyor",
+    "description": "Displayed when the user is modifying their advanced settings"
+  },
+  "gmail.offlineSettings": {
+    "message": "Çevrimdışı ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their offline settings"
+  },
+  "gmail.composingEmail": {
+    "message": "Bir posta oluşturuyor",
+    "description": "Displayed when the user is composing an email"
+  }
+}
