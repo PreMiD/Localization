@@ -14,5 +14,33 @@
     "apple.devGames": {
         "message": "Oyun",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.btnViewService": {
+        "message": "Servisi Görüntüle",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Etkinliği Görüntüle",
+        "description": "Button text"
+    },
+    "apple.btnViewStudio": {
+        "message": "{0} Stüdyosunu Görüntüle",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "Uygulamayı Görüntüle",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Geliştiriciyi Görüntüle",
+        "description": "View the developer of an app"
+    },
+    "apple.btnViewThread": {
+        "message": "Konuyu Görüntüle",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Etiketleri Görüntüle",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
     }
 }
