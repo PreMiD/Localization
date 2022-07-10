@@ -23,6 +23,10 @@
 		"message": "Jelentés",
 		"description": "Button to send the information inputed."
 	},
+	"report.toomany": {
+		"message": "Túl sok aktív jelentésed van. Várd meg amíg a beküldött jelentéseket átnézik. A jelentések hetente vannak átnézve, légy türelemmel.",
+		"description": "User has too many active reports"
+	},
 	"report.toomany.alert": {
 		"message": "Túl sok aktív jelentésed van.",
 		"description": "User has too many active reports"

@@ -1,15 +1,43 @@
 {
+    "apple.comparing": {
+        "message": "Összehasonlít:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
     "apple.viewService": {
         "message": "Szolgáltatást néz:",
         "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.productsPlatform": {
+        "message": "Termékek és Platform",
+        "description": "Products/platforms for companies"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Vásárlási tipp",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Bolt kereső",
+        "description": "Tool used to find the nearest store"
     },
     "apple.viewEvent": {
         "message": "Eseményt néz",
         "description": "Viewing an event (e.g. September event)"
     },
+    "apple.chooseLang": {
+        "message": "Nyelvet választ...",
+        "description": "Choosing the language of the website"
+    },
     "apple.other": {
         "message": "Egyéb",
         "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "Apple Watch szíjak",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopStudio": {
+        "message": "Apple Watch Studio",
+        "description": "Choose your own design components for a product"
     },
     "apple.shopGiftCards": {
         "message": "Ajándékkártya",
@@ -26,6 +54,14 @@
     "apple.iCloudPhotos": {
         "message": "Fotók",
         "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Jegyzetek",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Emlékeztetők",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
     },
     "apple.iCloudKeynoteWait": {
         "message": "Várószoba",
