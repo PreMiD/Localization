@@ -19,6 +19,14 @@
         "message": "Címkét néz:",
         "description": ""
     },
+    "9gag.about": {
+        "message": "9GAG-ről olvas",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Boltot nézi",
+        "description": ""
+    },
     "9gag.collection": {
         "message": "Gyűjteményt néz:",
         "description": ""
