@@ -3,6 +3,10 @@
         "message": "Karşılaştırıyor:",
         "description": "e.g. \"Comparing: Apple Watch\""
     },
+    "apple.viewService": {
+        "message": "Servisi Görüntülüyor:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
     "apple.healthcare": {
         "message": "Sağlık",
         "description": "The organized provision of medical care to individuals or a community"
@@ -18,6 +22,10 @@
     "apple.overview": {
         "message": "Genel bakış",
         "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Satın alma tavsiyeleri",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
     },
     "apple.storeFinder": {
         "message": "Mağaza bulucu",
@@ -66,6 +74,10 @@
     "apple.shopPlanVisit": {
         "message": "Ziyaretini planla",
         "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "Sertifikalı Yenilenmiş",
+        "description": "Used Apple products at a lower price"
     },
     "apple.shopBag": {
         "message": "Alışveriş Çantası",
@@ -226,5 +238,9 @@
     "apple.btnViewTags": {
         "message": "Etiketleri Görüntüle",
         "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "{0} Profilini Görüntüle",
+        "description": "View a forum profile of a user"
     }
 }
