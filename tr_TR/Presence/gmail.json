@@ -83,9 +83,17 @@
     "message": "Gönderilmiş postaları görüntülüyor",
     "description": "Displayed when the user is viewing the emails they have sent"
   },
+  "gmail.viewingSnoozedEmails": {
+    "message": "Ertelenen epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
   "gmail.viewingDrafts": {
     "message": "Taslakları görüntülüyor",
     "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "Önemli epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing emails marked as important"
   },
   "gmail.viewingTrash": {
     "message": "Çöp kutusunu görüntülüyor",
@@ -94,5 +102,21 @@
   "gmail.viewingChats": {
     "message": "Sohbetleri görüntülüyor",
     "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "Zamanlanmış epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "Spam epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "Tüm epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "Bir eposta oluşturuyor",
+    "description": "Displayed when the user is composing an email"
   }
 }
