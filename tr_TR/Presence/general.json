@@ -299,8 +299,16 @@
 		"message": "Seriyi Göster",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "Filmi Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "Bölümü İzle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Filmi İzle",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
