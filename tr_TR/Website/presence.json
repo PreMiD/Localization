@@ -1,6 +1,6 @@
 {
 	"presence.page.buttons.sourceCode": {
-		"message": "Kaynak Kodları",
+		"message": "Kaynak Kodu",
 		"description": "Source Code button on presence pages."
 	},
 	"presence.sections.description.title": {
@@ -36,11 +36,15 @@
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
 	},
 	"presence.sections.information.supportedurls": {
-		"message": "Desteklenen Siteler",
+		"message": "Desteklenen URL'ler",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Bu Presence RegExp'in kullanımıyla aşağıda listelenenden daha çok URL destekler. Deseni görmek için fareyi üzerine sürükleyin",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
-		"message": "K. Bulunanlar",
+		"message": "Katkıda Bulunanlar",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
 	}
 }
