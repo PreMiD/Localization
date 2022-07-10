@@ -36,7 +36,7 @@
         "description": "Used when a user is looking at the results of the question they just answered"
     },
     "kahoot.slideViewing": {
-        "message": "Şu Slide'a Bakıyor:",
+        "message": "Şu İçerikli Slayda Bakıyor",
         "description": "Used when a user is looking at a slide with content in a Kahoot"
     },
     "kahoot.gameOver": {
@@ -44,7 +44,7 @@
         "description": "Used when the Game is finished"
     },
     "kahoot.gameCreate": {
-        "message": "Oyun Oluşturuluyor...",
+        "message": "Bir Oyun Oluşturuluyor...",
         "description": "Used when a Kahoot Host is creating a Game"
     },
     "kahoot.loadingPage": {
@@ -52,7 +52,7 @@
         "description": "Used when a page is loading"
     },
     "kahoot.firstPlace": {
-        "message": "İlk Sıradaki: {0}",
+        "message": "Birincilik: {0}",
         "description": "Used to display who was first place in a game. {0} is a player name"
     },
     "kahoot.points": {
@@ -64,7 +64,7 @@
         "description": "Used to display how many questions a user got correct"
     },
     "kahoot.slideShowing": {
-        "message": "Şu Slide'ı Gösteriyor:",
+        "message": "Şu İçerikli Slaydı Gösteriyor",
         "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
@@ -154,5 +154,33 @@
     "kahoot.editingCourse": {
         "message": "Kursu düzenliyor:",
         "description": "Used when the user is editing a course. The name of the course will be displayed below."
+    },
+    "kahoot.viewingCourse": {
+        "message": "Kursu görüntülüyor:",
+        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
+    },
+    "kahoot.editingKahoot": {
+        "message": "Kahoot'u düzenliyor:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.previewingKahoot": {
+        "message": "Kahoot'u önizliyor:",
+        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourse": {
+        "message": "Bir canlı kurs yönetiyor",
+        "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time."
+    },
+    "kahoot.liveCourseActivity": {
+        "message": "Aktivite #{0}: {1}",
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
+    },
+    "kahoot.feedback": {
+        "message": "Geri bildirim sağlıyor",
+        "description": "Used when a player is providing feedback about the quiz to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "Sonuçları bekliyor...",
+        "description": "Used when a player is waiting for the question results"
     }
 }
