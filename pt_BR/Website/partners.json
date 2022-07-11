@@ -83,6 +83,10 @@
 		"message": "Arena of Kings é um jogo PvP Arena de última geração, jogado no navegador.",
 		"description": "Description for Arena of Kings."
 	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat Radio é uma rádio online comunitário, proporcionando entretenimento sem publicidade 24/7, artigos de notícias diárias e muito mais!",
+		"description": "Description for UpBeatRadio."
+	},
 	"partners.partner.taigaBot": {
 		"message": "taiga é um Bot Discord tentando oferecer todos os recursos que você pode precisar ao mesmo tempo!",
 		"description": "Description for taigabot."
