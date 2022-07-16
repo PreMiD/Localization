@@ -1,4 +1,8 @@
 {
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** este o utilitate simplă, configurabilă care îți permite să arăți ce faci pe web în Discord pe se joacă acum status.",
+		"description": "First phrase that users read on our website"
+	},
 	"home.introduction.button.features": {
 		"message": "Caracteristici",
 		"description": "Introduction button"
@@ -14,6 +18,10 @@
 	"home.examples.timestamp": {
 		"message": "{0} timp rămas",
 		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} scurs",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
 		"message": "Redare",
@@ -62,5 +70,9 @@
 	"home.features.quickSupport.button": {
 		"message": "Intrați pe serverul nostru de Discord",
 		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Limba site-ului",
+		"description": "Tippy content of the language selector."
 	}
 }
