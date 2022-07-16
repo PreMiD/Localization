@@ -38,5 +38,9 @@
 	"thankyou.description": {
 		"message": "Maimuțele noastre lucrează ca tu să intrii în programul nostru cât mai repede posibil. Îți mulțumim pentru înregistrare!",
 		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Se pare că nu mai avem sloturi beta disponibile.",
+		"description": "Shows when the beta slots are full."
 	}
 }
