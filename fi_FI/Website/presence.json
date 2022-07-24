@@ -39,6 +39,10 @@
 		"message": "Tuetut URL-osoitteet",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Tämä Presence tukee useampaa URL-osoitetta kuin alla on listattuna säännöllisen lausekkeen (RegExp) avulla. Vie hiiri tekstin päälle nähdäksesi kaavan",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "Osallistujat",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
