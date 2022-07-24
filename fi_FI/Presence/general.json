@@ -23,6 +23,10 @@
 		"message": "Jakso",
 		"description": ""
 	},
+	"general.season": {
+		"message": "Kausi",
+		"description": ""
+	},
 	"general.forums": {
 		"message": "Foorumi",
 		"description": ""
