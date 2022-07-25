@@ -62,5 +62,15 @@
   "osu!ppy.beatmapRankings": {
     "message": "Kudosu Rankings",
     "description": "Displayed when viewing Kudosu Rankings."
+  },
+
+  "osu!ppy.beatmapView": {
+    "message": "View Beatmap",
+    "description": "Displayed for a button to redirect to the beatmap page."
+  },
+
+  "osu!ppy.wikiMainPage": {
+    "message": "Wiki Main Page",
+    "description": "Displayed when viewing the wiki main page."
   }
 }
