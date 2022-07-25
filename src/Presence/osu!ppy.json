@@ -1,0 +1,66 @@
+{
+  "osu!ppy.viewingNews": {
+    "message": "Viewing All News",
+    "description": "Displayed when viewing all osu! news."
+  },
+
+  "osu!ppy.readingNews": {
+    "message": "Reading News:",
+    "description": "Displayed when reading a news page."
+  },
+
+  "osu!ppy.viewNews": {
+    "message": "View News",
+    "description": "Displayed for a button to redirect to the news page."
+  },
+
+  "osu!ppy.support": {
+    "message": "Support",
+    "description": "Displayed when viewing the support page."
+  },
+
+  "osu!ppy.beatMapListing": {
+    "message": "Beatmap Listing",
+    "description": "Displayed when viewing all beatmaps."
+  },
+
+  "osu!ppy.beatMapPacks": {
+    "message": "Beatmap Packs",
+    "description": "Displayed when viewing all beatmap packs."
+  },
+
+  "osu!ppy.beatMapLooking": {
+    "message": "Looking at Beatmap:",
+    "description": "Displayed when looking at a beatmap."
+  },
+
+  "osu!ppy.performanceRankings": {
+    "message": "Performance Rankings",
+    "description": "Displayed when viewing the performance rankings."
+  },
+
+  "osu!ppy.for": {
+    "message": "for {0} {1}",
+    "description": "Example: Performance Rankings (for All) [osu!]"
+  },
+
+  "osu!ppy.spotlights": {
+    "message": "The {0} Spotlights {1}",
+    "description": "Example: The osu! Spotlights (All)"
+  },
+
+  "osu!ppy.scoreRankings": {
+    "message": "Score Rankings {0}",
+    "description": "Example: Score Rankings [osu!]"
+  },
+
+  "osu!ppy.countryRankings": {
+    "message": "Country Rankings {0}",
+    "description": "Example: Country Rankings [osu!]"
+  },
+
+  "osu!ppy.beatmapRankings": {
+    "message": "Kudosu Rankings",
+    "description": "Displayed when viewing Kudosu Rankings."
+  }
+}
