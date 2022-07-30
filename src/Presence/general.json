@@ -276,9 +276,13 @@
 		"description": "A page name"
 	},
 	"general.support": {
-		"message: "Support",
-		"description: "A page name"
+		"message": "Support",
+		"description:" "A page name"
 	},
+	"general.wiki": {
+		"message": "Wiki",
+		"description": "A page name"
+	}
 	"general.repeatAll": {
 		"message": "Looping all songs",
 		"description": ""
