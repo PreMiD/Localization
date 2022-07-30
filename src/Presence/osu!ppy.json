@@ -30,7 +30,7 @@
   },
 
   "osu!ppy.beatMapLooking": {
-    "message": "Looking at Beatmap:",
+    "message": "Looking at Beatmap",
     "description": "Displayed when looking at a beatmap."
   },
 
