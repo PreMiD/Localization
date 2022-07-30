@@ -12,7 +12,7 @@
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
-		"message": "Играе игра",
+		"message": "Играe игра",
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
@@ -54,6 +54,10 @@
 	"home.features.simpleInterface.heading": {
 		"message": "Прост потребителски интерфейс",
 		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Писнало ви е от сложни потребителски интерфейси? Това е причината, поради която създадохме и се опитваме да поддържаме нашият интерфейс колкото се може по-прост и полезен с важни функции като:",
+		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
 		"message": "Настройки за приложения и разширения",
