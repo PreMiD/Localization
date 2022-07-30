@@ -4,7 +4,7 @@
 		"description": "Heading for page."
 	},
 	"partners.header.description": {
-		"message": "Присъедини се в семейството и получи някои бонуси специално за партньори и покажи колко си готин.",
+		"message": "Присъедини се към семейството, получи някои бонуси специално за партньори и покажи колко си готин.",
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
@@ -16,7 +16,7 @@
 		"description": "Heading for benefits."
 	},
 	"partners.why.benefit1.title": {
-		"message": "Вашето безплатно присъствие",
+		"message": "Вашият безплатен Presence",
 		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
