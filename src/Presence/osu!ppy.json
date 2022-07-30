@@ -20,7 +20,7 @@
   },
 
   "osu!ppy.beatMapListing": {
-    "message": "Beatmap Listing",
+    "message": "Viewing Beatmap Listings",
     "description": "Displayed when viewing all beatmaps."
   },
 
