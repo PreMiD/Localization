@@ -10,7 +10,7 @@
   },
 
   "osu!ppy.viewNews": {
-    "message": "View News",
+    "message": "View News Article",
     "description": "Displayed for a button to redirect to the news page."
   },
 
