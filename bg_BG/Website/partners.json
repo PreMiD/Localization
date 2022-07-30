@@ -3,10 +3,6 @@
 		"message": "Партньори",
 		"description": "Heading for page."
 	},
-	"partners.header.description": {
-		"message": "Присъедини се към семейството, получи някои бонуси специално за партньори и покажи колко си готин.",
-		"description": "Description for page."
-	},
 	"partners.slideshow.description": {
 		"message": "Тези вече принадлежат на нас",
 		"description": "Description for slideshow."
@@ -14,10 +10,6 @@
 	"partners.why.title": {
 		"message": "Как ти звучи да отидеш в рая вместо в ада?",
 		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Вашият безплатен Presence",
-		"description": "Heading for the first benefit."
 	},
 	"partners.why.benefit1.description": {
 		"message": "Нашият екип ще ви предостави presence от ваш избор.",
