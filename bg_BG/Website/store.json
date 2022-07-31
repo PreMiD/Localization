@@ -16,7 +16,7 @@
 		"description": "Presence card partner flame"
 	},
 	"store.cards.extraStepsRequired": {
-		"message": "Този presence изисква следователни стъпки, моля проверете неговата страница за повече информация.",
+		"message": "Този presence изисква допълнителни стъпки, моля проверете неговата страница за повече информация.",
 		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
 	},
 	"store.header.search": {
@@ -32,7 +32,7 @@
 		"description": "Button that will appear on hover after extension and presence is installed."
 	},
 	"store.card.presence.included": {
-		"message": "Този presence е автоматично позволен при посещаване на този сайт.",
+		"message": "Този presence е автоматично активиран при посещаване на този сайт.",
 		"description": "The message that appears instead of the buttons."
 	},
 	"store.category.filters.heading": {
@@ -72,7 +72,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.socials": {
-		"message": "вечеринка",
+		"message": "Социални",
 		"description": "Category at the top"
 	},
 	"store.category.videos": {
@@ -80,7 +80,7 @@
 		"description": "Category at the top"
 	},
 	"store.category.other": {
-		"message": "друг",
+		"message": "Други",
 		"description": "Category at the top"
 	},
 	"store.search": {

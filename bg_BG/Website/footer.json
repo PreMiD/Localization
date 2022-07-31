@@ -44,11 +44,11 @@
 		"description": "Donate -> redirects to patreon.com/timeraa"
 	},
 	"footer.supportus.contribute": {
-		"message": "Принос",
+		"message": "Допринесете",
 		"description": "Contribute -> redirects to github.com/premid"
 	},
 	"footer.supportus.translate": {
-		"message": "Превеждам",
+		"message": "Преведете",
 		"description": "Translate -> redirects to locilazation page"
 	},
 	"footer.supportus.jobs": {
@@ -84,7 +84,7 @@
 		"description": "meant to be 'Terms of Service'"
 	},
 	"footer.more.heading": {
-		"message": "Повече",
+		"message": "Още",
 		"description": "More section"
 	},
 	"footer.more.status": {

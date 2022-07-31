@@ -8,11 +8,11 @@
 		"description": "Introduction button"
 	},
 	"home.introduction.button.downloads": {
-		"message": "Изтегления",
+		"message": "Изтегляния",
 		"description": "Downloads button -> redirects to /downloads page"
 	},
 	"home.examples.playingagame": {
-		"message": "Играя игра",
+		"message": "Играe игра",
 		"description": "Discord Rich Presence -> Playing a game"
 	},
 	"home.examples.timestamp": {
@@ -24,7 +24,7 @@
 		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
 	},
 	"home.examples.status.playing": {
-		"message": "Възпроизвеждане назад",
+		"message": "Възпроизвеждане",
 		"description": "Discord Rich Presence -> small image text;"
 	},
 	"home.examples.status.live": {
@@ -40,11 +40,11 @@
 		"description": "Features section"
 	},
 	"home.features.presencesystem.heading": {
-		"message": "Намерете ** вашето ** присъствие",
+		"message": "Намерете **вашият** presence",
 		"description": "Features section subheading"
 	},
 	"home.features.presencesystem.description": {
-		"message": "Ние създадохме нашето разширение по начин, който ти позволява да добавяш и използваш статуси създадени от други потребители и да ги управлявате чрез нашето разширение!",
+		"message": "Ние създадохме нашето разширение по начин, който ти позволява да добавяш и използваш Presences, създадени от други потребители, и да ги управлявате чрез нашето разширение!",
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
@@ -56,7 +56,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.simpleInterface.description": {
-		"message": "Писнало ви е от усложнени потребителски интерфейси? Това е причината, по която създадохме и се опитваме да държим нашият интерфейс, колкото се може по прост и полезен и важни функций като:",
+		"message": "Писнало ви е от сложни потребителски интерфейси? Това е причината, поради която създадохме и се опитваме да поддържаме нашият интерфейс колкото се може по-прост и полезен с важни функции като:",
 		"description": "Features section description"
 	},
 	"home.features.simpleInterface.description.1": {
@@ -68,7 +68,7 @@
 		"description": "Features section description point"
 	},
 	"home.features.simpleInterface.description.3": {
-		"message": "Сортирай по категория",
+		"message": "Сортиране по категории",
 		"description": "Features section description point"
 	},
 	"home.features.quickSupport.heading": {
@@ -76,7 +76,7 @@
 		"description": "Features section subheading"
 	},
 	"home.features.quickSupport.description": {
-		"message": "Нещо е бъгнало, изпраща ти тонове грешки или просто не работи? Ще ти помогнем да се отървеш от тези грешки в нашата Discord група, ние също създадохме наша собствена система за поддръжка, която ще се увери, че вашият проблем ще бъде решен колкото се може, по-скоро.",
+		"message": "Нещо е бъгнало, изпраща ти тонове грешки или просто не работи? Ще ти помогнем да се отървеш от тези проблеми в нашият Discord сървър. Също така създадохме наша собствена система за поддръжка, която гарантира, че вашият проблем ще бъде решен колкото се може по-скоро.",
 		"description": "Features section description"
 	},
 	"home.features.quickSupport.button": {
