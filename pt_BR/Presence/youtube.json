@@ -47,6 +47,10 @@
         "message": "suas compras",
         "description": "Part two of \"Browsing through\""
     },
+    "youtube.upload": {
+        "message": "Enviando algo...",
+        "description": ""
+    },
     "youtube.viewLiveEvents": {
         "message": "Vendo seus eventos ao vivo",
         "description": ""
