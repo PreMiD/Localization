@@ -3,6 +3,10 @@
 		"message": "Lendo tweet de:",
 		"description": "after the \":\" it will say the username"
 	},
+	"twitter.viewDms": {
+		"message": "Vendo as suas mensagens diretas",
+		"description": ""
+	},
 	"twitter.viewTweets": {
 		"message": "Vendo tweets de:",
 		"description": ""
