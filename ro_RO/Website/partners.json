@@ -3,6 +3,10 @@
 		"message": "Parteneri",
 		"description": "Heading for page."
 	},
+	"partners.requirements.title": {
+		"message": "Cerințe",
+		"description": "Heading for the requirements."
+	},
 	"partners.apply.select.other": {
 		"message": "Altele",
 		"description": "Select 'Other' category."
