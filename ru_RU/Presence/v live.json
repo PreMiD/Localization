@@ -35,10 +35,6 @@
 		"message": "канала {0}",
 		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
 	},
-	"v live.channelHome": {
-		"message": "Смотрит главную страницу",
-		"description": "Second part of the \"of {0}'s channel\" string"
-	},
 	"v live.channelSchedule": {
 		"message": "Просмотр страницы расписания",
 		"description": "Second part of the \"of {0}'s channel\" string"
