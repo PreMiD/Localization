@@ -31,6 +31,14 @@
         "message": "Правильный ответ",
         "description": "Used when the user anwered correct on a question"
     },
+    "kahoot.resultsQuestion": {
+        "message": "Глядя на результаты:",
+        "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.slideViewing": {
+        "message": "Просмотр слайда с содержимым",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
     "kahoot.stPlace": {
         "message": "1-е место",
         "description": "Used in the context of 1st place"
