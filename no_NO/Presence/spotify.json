@@ -1,4 +1,8 @@
 {
+	"spotify.madeForYou": {
+		"message": "\"Spesielt for deg\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
 	"spotify.download": {
 		"message": "Laster ned Spotify",
 		"description": ""
