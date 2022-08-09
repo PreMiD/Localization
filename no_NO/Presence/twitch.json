@@ -23,6 +23,10 @@
 		"message": "Tilgjengelighet",
 		"description": "Page name"
 	},
+	"twitch.ads": {
+		"message": "Reklamevalg",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "Hjemmeside",
 		"description": "Page name"
@@ -41,6 +45,18 @@
 	},
 	"twitch.campBasic": {
 		"message": "Lær det grunnleggende",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Level opp",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Bli belønnet",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Musikk på Twitch",
 		"description": "Page name"
 	},
 	"twitch.achievements": {
