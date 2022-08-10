@@ -11,10 +11,6 @@
 		"message": "מתרגמים",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.moderator": {
-		"message": "מנחה",
-		"description": "'Moderator' title for contributors and user pages."
-	},
 	"contributors.roles.donator": {
 		"message": "תורם",
 		"description": "'Donator' title for contributors page."
