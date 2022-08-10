@@ -11,14 +11,6 @@
 		"message": "Vertėjai",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.administrator": {
-		"message": "Administratorius",
-		"description": "'Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.supportAgent": {
-		"message": "Pagalbos Agentas",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
 	"contributors.roles.translator": {
 		"message": "Vertėjai",
 		"description": "'Translator' title for contributors page."
