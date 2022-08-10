@@ -11,6 +11,10 @@
 		"message": "Lokalisatiebeheerder",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
+	"contributors.roles.humanResources": {
+		"message": "Personeelsmanagement",
+		"description": "'Human Resources' title for contributors and user pages."
+	},
 	"contributors.roles.proofreader": {
 		"message": "Proeflezer",
 		"description": "'Proofreader' title for contributors and user pages."
