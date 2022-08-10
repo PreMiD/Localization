@@ -11,6 +11,10 @@
         "message": "Termékek és Platform",
         "description": "Products/platforms for companies"
     },
+    "apple.overview": {
+        "message": "Áttekintés",
+        "description": "Overview of e.g. all pages of a category"
+    },
     "apple.purchasingAdvice": {
         "message": "Vásárlási tipp",
         "description": "Purchasing advice for e.g. what iPhone is the best for me?"
@@ -39,9 +43,21 @@
         "message": "Apple Watch Studio",
         "description": "Choose your own design components for a product"
     },
+    "apple.shopFavorites": {
+        "message": "Kedvencek",
+        "description": "Favorite products"
+    },
     "apple.shopGiftCards": {
         "message": "Ajándékkártya",
         "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.support": {
+        "message": "Apple Támogatás",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Apple Támogatási Cikk",
+        "description": "Support article"
     },
     "apple.appStoreCon": {
         "message": "Csatlakozás...",
