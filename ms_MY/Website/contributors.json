@@ -7,9 +7,25 @@
 		"message": "Penyokong",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.discordModerator": {
+		"message": "Moderator Discord",
+		"description": "'Discord Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.technicalSupport": {
+		"message": "Sokongan Teknikal",
+		"description": "'Technical Support' title for contributors and user pages."
+	},
 	"contributors.roles.localizationManager": {
 		"message": "Pengurus Penyetempatan",
 		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "Pengurus Komuniti",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.humanResources": {
+		"message": "Sumber Manusia",
+		"description": "'Human Resources' title for contributors and user pages."
 	},
 	"contributors.roles.proofreader": {
 		"message": "Pembaca Pruf",
