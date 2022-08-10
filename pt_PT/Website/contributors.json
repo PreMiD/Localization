@@ -19,6 +19,10 @@
 		"message": "Gestor de tradução",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
+	"contributors.roles.communityManager": {
+		"message": "Gerente da comunidade",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
 	"contributors.roles.humanResources": {
 		"message": "Recursos humanos",
 		"description": "'Human Resources' title for contributors and user pages."
