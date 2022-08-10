@@ -19,9 +19,9 @@
 		"message": "Localization Manager",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
-	"contributors.roles.communityManagement": {
-		"message": "Discord Moderator",
-		"description": "'Discord Moderator' title for contributors and user pages."
+	"contributors.roles.communityManager": {
+		"message": "Community Manager",
+		"description": "'Community Manager' title for contributors and user pages."
 	},
 	"contributors.roles.humanResources": {
 		"message": "Human Resources",
