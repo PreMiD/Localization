@@ -7,57 +7,17 @@
 		"message": "Unterstützer",
 		"description": "Heading for group of users."
 	},
-	"contributors.headings.translators": {
-		"message": "Übersetzer",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.projectLeader": {
-		"message": "Projektleiter*in",
-		"description": "'Project Leader' title for contributors and user pages."
-	},
-	"contributors.roles.staffCoordinator": {
-		"message": "Personalmanager/-in",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
-	"contributors.roles.marketingDirector": {
-		"message": "Marketingdirektor/-in",
-		"description": "'Marketing Director' title for contributors and user pages."
-	},
-	"contributors.roles.administrator": {
-		"message": "Administrator*in",
-		"description": "'Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.reviewer": {
-		"message": "Prüfer*in",
-		"description": "'Reviewer' title for contributors and user pages."
-	},
 	"contributors.roles.localizationManager": {
 		"message": "Lokalisierungsmanager",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
-	"contributors.roles.developer": {
-		"message": "Entwickler*in",
-		"description": "'Developer' title for contributors and user pages."
-	},
-	"contributors.roles.designer": {
-		"message": "Designer*in",
-		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderator*in",
-		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.supportAgent": {
-		"message": "Support-Agent/-in",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.representative": {
-		"message": "Repräsentant*in",
-		"description": "'Representative' title for contributors and user pages."
-	},
 	"contributors.roles.proofreader": {
 		"message": "Korrekturleser*in",
 		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Übersetzer",
+		"description": "Heading for group of users."
 	},
 	"contributors.roles.donator": {
 		"message": "Spender*in",

@@ -11,42 +11,6 @@
 		"message": "Traducători",
 		"description": "Heading for group of users."
 	},
-	"contributors.roles.projectLeader": {
-		"message": "Lider de proiect",
-		"description": "'Project Leader' title for contributors and user pages."
-	},
-	"contributors.roles.staffCoordinator": {
-		"message": "Coordonator de personal",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
-	"contributors.roles.marketingDirector": {
-		"message": "Director Marketing",
-		"description": "'Marketing Director' title for contributors and user pages."
-	},
-	"contributors.roles.administrator": {
-		"message": "Administrator",
-		"description": "'Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.developer": {
-		"message": "Developer",
-		"description": "'Developer' title for contributors and user pages."
-	},
-	"contributors.roles.designer": {
-		"message": "Designer",
-		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderator",
-		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.supportAgent": {
-		"message": "Agent Suport",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.representative": {
-		"message": "Reprezentant",
-		"description": "'Representative' title for contributors and user pages."
-	},
 	"contributors.roles.donator": {
 		"message": "Donator",
 		"description": "'Donator' title for contributors page."

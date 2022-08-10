@@ -7,57 +7,17 @@
 		"message": "Apoiantes",
 		"description": "Heading for group of users."
 	},
-	"contributors.headings.translators": {
-		"message": "Tradutores",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.projectLeader": {
-		"message": "Líder do projeto",
-		"description": "'Project Leader' title for contributors and user pages."
-	},
-	"contributors.roles.staffCoordinator": {
-		"message": "Coordenador da staff",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
-	"contributors.roles.marketingDirector": {
-		"message": "Diretor de marketing",
-		"description": "'Marketing Director' title for contributors and user pages."
-	},
-	"contributors.roles.administrator": {
-		"message": "Administrador",
-		"description": "'Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.reviewer": {
-		"message": "Revisor do GitHub",
-		"description": "'Reviewer' title for contributors and user pages."
-	},
 	"contributors.roles.localizationManager": {
 		"message": "Gestor de tradução",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
-	"contributors.roles.developer": {
-		"message": "Programador",
-		"description": "'Developer' title for contributors and user pages."
-	},
-	"contributors.roles.designer": {
-		"message": "Designer",
-		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderador",
-		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.supportAgent": {
-		"message": "Agente de suporte",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.representative": {
-		"message": "Representante",
-		"description": "'Representative' title for contributors and user pages."
-	},
 	"contributors.roles.proofreader": {
 		"message": "Revisor",
 		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Tradutores",
+		"description": "Heading for group of users."
 	},
 	"contributors.roles.donator": {
 		"message": "Doador",

@@ -7,57 +7,17 @@
 		"message": "Penyokong",
 		"description": "Heading for group of users."
 	},
-	"contributors.headings.translators": {
-		"message": "Penterjemah",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.projectLeader": {
-		"message": "Ketua Projek",
-		"description": "'Project Leader' title for contributors and user pages."
-	},
-	"contributors.roles.staffCoordinator": {
-		"message": "Penyelaras Kakitangan",
-		"description": "'Staff Coordinator' title for contributors and user pages."
-	},
-	"contributors.roles.marketingDirector": {
-		"message": "Pengarah Pemasaran",
-		"description": "'Marketing Director' title for contributors and user pages."
-	},
-	"contributors.roles.administrator": {
-		"message": "Pentadbir",
-		"description": "'Administrator' title for contributors and user pages."
-	},
-	"contributors.roles.reviewer": {
-		"message": "Pengulas",
-		"description": "'Reviewer' title for contributors and user pages."
-	},
 	"contributors.roles.localizationManager": {
 		"message": "Pengurus Penyetempatan",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
-	"contributors.roles.developer": {
-		"message": "Pembangun",
-		"description": "'Developer' title for contributors and user pages."
-	},
-	"contributors.roles.designer": {
-		"message": "Pereka",
-		"description": "'Designer' title for contributors and user pages."
-	},
-	"contributors.roles.moderator": {
-		"message": "Moderator",
-		"description": "'Moderator' title for contributors and user pages."
-	},
-	"contributors.roles.supportAgent": {
-		"message": "Ejen Penyokong",
-		"description": "'Support Agent' title for contributors and user pages."
-	},
-	"contributors.roles.representative": {
-		"message": "Wakil",
-		"description": "'Representative' title for contributors and user pages."
-	},
 	"contributors.roles.proofreader": {
 		"message": "Pembaca Pruf",
 		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Penterjemah",
+		"description": "Heading for group of users."
 	},
 	"contributors.roles.donator": {
 		"message": "Penderma",
