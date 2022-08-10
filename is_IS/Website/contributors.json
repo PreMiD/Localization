@@ -10,13 +10,5 @@
 	"contributors.headings.translators": {
 		"message": "Þýðingar",
 		"description": "Heading for group of users."
-	},
-	"contributors.roles.projectLeader": {
-		"message": "Verkstjóri",
-		"description": "'Project Leader' title for contributors and user pages."
-	},
-	"contributors.roles.staffCoordinator": {
-		"message": "Umsjónarmaður starfsmanna",
-		"description": "'Staff Coordinator' title for contributors and user pages."
 	}
 }
