@@ -7,9 +7,21 @@
 		"message": "Supporters",
 		"description": "Heading for group of users."
 	},
+	"contributors.roles.discordModerator": {
+		"message": "Discord-moderator",
+		"description": "'Discord Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.technicalSupport": {
+		"message": "Technische ondersteuning",
+		"description": "'Technical Support' title for contributors and user pages."
+	},
 	"contributors.roles.localizationManager": {
 		"message": "Lokalisatiebeheerder",
 		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "Communitybeheerder",
+		"description": "'Community Manager' title for contributors and user pages."
 	},
 	"contributors.roles.humanResources": {
 		"message": "Personeelsmanagement",
