@@ -39,6 +39,10 @@
 		"message": "URL supportati",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Questa presenza supporta più URL di quelli elencati di seguito tramite l'uso di RegExp. Passa sopra il cursore per vedere lo schema",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "Collaboratori",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
