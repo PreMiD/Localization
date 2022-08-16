@@ -57,7 +57,7 @@
 	},
 	"namemc.profileEdit": {
 		"message": "Đang chỉnh sửa{0}thông tin hồ sơ của họ",
-		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line."
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
 	},
 	"namemc.viewFriends": {
 		"message": "Đang xem danh sách bạn bè của họ",
