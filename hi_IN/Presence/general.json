@@ -11,6 +11,10 @@
 		"message": "अध्याय",
 		"description": ""
 	},
+	"general.currentlyListening": {
+		"message": "वर्तमान में सुन रहे हैं",
+		"description": "To use when the user is currently listening to something."
+	},
 	"general.dj": {
 		"message": "डीजे",
 		"description": ""
@@ -299,8 +303,16 @@
 		"message": "वेब सीरीज़",
 		"description": "Used as the title for the button in Discord."
 	},
+	"general.buttonViewMovie": {
+		"message": "मूवी देखें",
+		"description": "Used as the title for the button in Discord."
+	},
 	"general.buttonViewEpisode": {
 		"message": "एपिसोड देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "फिल्म देखिए",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
