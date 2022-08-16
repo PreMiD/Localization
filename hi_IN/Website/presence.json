@@ -39,6 +39,10 @@
 		"message": "समर्थित URL",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "उपस्थिति RegExp के उपयोग के माध्यम से नीचे सूची की तुलना में अधिक URL का समर्थन करती है। \nप्रतिरूप देखने के लिए मंडराएँ",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "योगदानकर्ता",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
