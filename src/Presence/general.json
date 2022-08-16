@@ -12,8 +12,8 @@
 		"description": ""
 	},
 	"general.currentlyListening": {
-		"message": "Currently listening to",
-		"description": "To use when the user is currently listening to something."
+		"message": "Currently listening to{0}{1}",
+		"description": "If you put a {0} it will be an enter (splitting the text to 2 rows), if you leave out the {0} it will all be on 1 line. {1} will be replaced with a song name, podcast name etc."
 	},
 	"general.dj": {
 		"message": "DJ",
