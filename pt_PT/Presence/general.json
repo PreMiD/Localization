@@ -11,10 +11,6 @@
 		"message": "Capítulo",
 		"description": ""
 	},
-	"general.currentlyListening": {
-		"message": "A ouvir",
-		"description": "To use when the user is currently listening to something."
-	},
 	"general.dj": {
 		"message": "DJ",
 		"description": ""

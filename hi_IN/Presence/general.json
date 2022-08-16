@@ -11,10 +11,6 @@
 		"message": "अध्याय",
 		"description": ""
 	},
-	"general.currentlyListening": {
-		"message": "वर्तमान में सुन रहे हैं",
-		"description": "To use when the user is currently listening to something."
-	},
 	"general.dj": {
 		"message": "डीजे",
 		"description": ""
