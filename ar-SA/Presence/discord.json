@@ -1,0 +1,122 @@
+{
+	"discord.dmReading": {
+		"message": "يقرأ الرسائل الخاصة من:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.friends": {
+		"message": "يشاهد إصدقائه...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "يقرأ حول النيترو...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "يشاهد إعداداته...",
+		"description": ""
+	},
+	"discord.buttonInvite": {
+		"message": "عرض رابط الدعوة",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "يتصفح",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "صفحة التنزيلات",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "مركز الأمان",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "صفحة الوظائف",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "الصفحة حول",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "صفحة العلامة التجارية",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "صفحة الإلهام",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "صفحة الكلية",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "صفحة غرفة الأخبار",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "صفحة الشريك",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "صفحة التحقق",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "صفحة StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "صفحة المصدر المفتوح",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "صفحة الأمان",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "صفحة الإشراف",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "صفحة Rich Presence ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "السياسات",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "بوابة المطوّر",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "يُعدل التطبيق: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsEdit": {
+		"message": "يُعدل الفريق: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.status": {
+		"message": "حالة الديسكورد",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "مركز المساعدة",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "مدونة الديسكورد",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "ديسكورد ميرش",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "جاري مشاهدة مجموعة:",
+		"description": ""
+	}
+}
