@@ -1,0 +1,18 @@
+{
+	"genius.lyrics": {
+		"message": "Ogledovanje besedila od:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Prikaz Besedila",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Ogledovanje domače strani",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Ogledovanje Albuma:",
+		"description": "Album of a song"
+	}
+}
