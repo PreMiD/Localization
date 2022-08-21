@@ -1,0 +1,22 @@
+{
+    "hypixel.staff": {
+        "message": "ดูรายชื่อทีมงาน",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "กำลังดูกระทู้",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "กำลังดูกระทู้",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "กำลังดู DMs ของพวกเขา",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "กำลังดูเกมส์ :",
+        "description": ""
+    }
+}
