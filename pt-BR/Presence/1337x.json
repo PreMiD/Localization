@@ -1,0 +1,74 @@
+{
+    "1337x.movieLibrary": {
+        "message": "Vendo a biblioteca de filmes",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Vendo a biblioteca de séries",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Vendo os últimos episódios",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Vendo o top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Vendo as tendências",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Vendo torrents de anime",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Vendo torrents de aplicativos",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Vendo torrents de documentários",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Vendo torrents de jogos",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Vendo torrents de filmes",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Vendo torrents de músicas",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Vendo outros torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Vendo torrents de televisão",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Vendo torrents de XXX",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Enviando algo...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Lendo as regras",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Lendo sobre o 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Vendo Torrent:",
+        "description": ""
+    }
+}
