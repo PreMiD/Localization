@@ -1,0 +1,46 @@
+{
+	"twitter.readTweet": {
+		"message": "Tweet léitheoireachta de:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Ag féachaint ar a gcuid DManna",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Ag féachaint ar thweets de:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Ag féachaint ar thweets (le freagraí) ar:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Meáin féachana de:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Is maith le lucht féachana:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Liosta féachana:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Leabharmharcanna",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Fógraí",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Taiscéalaíocht",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Athrú ar roinnt socruithe...",
+		"description": ""
+	}
+}
