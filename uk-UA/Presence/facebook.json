@@ -1,0 +1,62 @@
+{
+    "facebook.call": {
+        "message": "У дзвінку з:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "У відеодзвінку з:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "хтось... (прихований користувач)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Пише повідомлення",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Читання про користувача:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Перегляд спільноти користувача:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Переглядає фотографії користувача:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Переглядає дописи користувача:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Переглядає магазин користувача:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Переглядає друзів користувача:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Переглядає відео користувача:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Переглядає крізь:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Збережені відео",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Нещодавно додані",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Переглядає сьогоднішній прогноз погоди",
+        "description": ""
+    }
+}
