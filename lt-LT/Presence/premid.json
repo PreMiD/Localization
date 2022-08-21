@@ -1,0 +1,34 @@
+{
+	"premid.viewPage": {
+		"message": "Peržiūri puslapį:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumentacija",
+		"description": "as in documents"
+	},
+	"premid.pageHome": {
+		"message": "Pagrindinis puslapis",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Pagalbininkai",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Siuntiniai",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Parduotuvė",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partneriai",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Nesklandumų sprendimas",
+		"description": "A page name"
+	}
+}
