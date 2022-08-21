@@ -1,0 +1,362 @@
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Böngészés...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Fejezet",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Szerkeszt:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Epizód",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Évad",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Fórumok",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Műfaj",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Nyelv",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Zenét hallgat",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Hallgatók",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Élő közvetítés",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Merch",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Oldal",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Szüneteltetve",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Most szól",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Üzeneteket olvas tőle:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "A következőről olvas:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Cikket olvas:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Csatornán olvas:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Bejegyzést olvas:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Gondolatmenetet olvas:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Olvasás",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Keres:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Valamit keres...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Keresés",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Írás",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Hívás",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Hívásban...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Kosár",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Áruház",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Üzenetet ír neki:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Üzenetet ír ezen a csatornán:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Animét néz:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Kategóriát néz:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Csatornát néz:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Epizódot néz:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Műfajt néz:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Főoldalt nézi",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Listát böngész:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Mangát olvas:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Tagot néz:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Filmet néz:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Lejátszási listát néz:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Terméket néz:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Az ő profilját nézi:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Sorozatot néz:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Műsort néz:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Fiókját nézi",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Szálat néz:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Felhasználót néz:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Nézi:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Oldal megtekintése:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Filmet néz",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Sorozatot néz",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Egy showt néz",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Videót néz",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Egy videó kezdésére vár",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "A videó kezdésére vár",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Élő adást néz",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Egy élő közvetítés kezdésére vár",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Az élő közvetítés kezdésére vár",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Nézi:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Kívánságlista:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Adatvédelmi irányelvek",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Felhasználási feltételek",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie irányelvek",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Összes zene ismétlése",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Ismétlődik",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Incidenst néz",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Az incidensek előzményei",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Futási idő előzményei",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Sorozat megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Film megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Epizód megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Film megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Videó megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Közvetítés nézése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Csatorna megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Hallgasd együtt",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Oldal megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Szám megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Album megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Profil megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Szerző megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Lejátszási lista megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Podcast megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Cikk olvasása",
+		"description": "Used as the title for the button in Discord."
+	}
+}
