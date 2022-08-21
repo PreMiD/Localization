@@ -1,0 +1,74 @@
+{
+	"premid.viewPage": {
+		"message": "Vendo a página:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Documentação",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Vendo a presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Página inicial",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Contribuidores",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Downloads",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Loja",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Parceiros",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Sobre o PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Requisitos de sistema",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instalação",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Solução de problemas",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Primeiros passos",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Desenvolvimento de Presences",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Diretrizes de Presences",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Classe Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Classe de Slideshow",
+		"description": "A page name"
+	}
+}
