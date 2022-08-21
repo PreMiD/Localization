@@ -11,6 +11,8 @@ import { MongoClient } from "mongodb";
 import pRetry from "p-retry";
 import { dirname } from "path";
 
+import { run as secondRunner } from "./updateTranslations";
+
 interface StringFileType {
 	[key: string]: {
 		message: string;
@@ -179,6 +181,8 @@ async function run() {
 	}
 
 	await mongoClient.close();
+
+	await secondRunner();
 }
 
 /**

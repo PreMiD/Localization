@@ -42,12 +42,10 @@ const client = new Crowdin({
 		appName: "PreMiD Language Updater"
 	});
 
-run();
-
 /**
  * Gets the latest translations from Crowdin
  */
-async function run() {
+export async function run() {
 	core.info("Connecting to MongoDB...");
 	await mongoClient.connect();
 	core.info("Connected to MongoDB");
