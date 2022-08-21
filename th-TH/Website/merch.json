@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "ยินดีต้อนรับสู่ร้าน **PreMiD** อย่างเป็นทางการ!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "หาชุด Swag ที่เหมาะกับคุณ!",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "หาไซส์ของคุณ",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "เพิ่มใส่ตะกร้า",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "เกิดข้อผิดพลาดของร้านหรือการสั่งซื้อ? ติดต่อ {0} บริการลูกค้า {1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "ได้เพิ่ม {0} เข้าตะกร้า",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "ไม่มีของที่ใส่ในตะกร้า",
+		"description": "Error message when no size selected"
+	}
+}
