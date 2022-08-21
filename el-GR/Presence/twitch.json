@@ -1,0 +1,10 @@
+{
+	"twitch.downloads": {
+		"message": "Λήψεις",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Συνεργάτες",
+		"description": "Page name"
+	}
+}
