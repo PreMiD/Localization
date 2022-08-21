@@ -1,0 +1,58 @@
+{
+	"contributors.headings.staff": {
+		"message": "Staff",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Apoiantes",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.discordModerator": {
+		"message": "Moderador do Discord",
+		"description": "'Discord Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.technicalSupport": {
+		"message": "Suporte técnico",
+		"description": "'Technical Support' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Gestor de tradução",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "Gerente da comunidade",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.humanResources": {
+		"message": "Recursos humanos",
+		"description": "'Human Resources' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Revisor",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Tradutores",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Doador",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Tradutor",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Clica para copiar o ID do utilizador.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID do utilizador copiado!",
+		"description": "Notification after user ID was copied."
+	}
+}
