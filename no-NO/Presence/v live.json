@@ -1,0 +1,26 @@
+{
+	"v live.channelHome": {
+		"message": "Ser på hjemmesiden",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.viewTheir": {
+		"message": "Ser deres",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "profilside",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "nylige kjøp",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "tilkoblede enheter",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "fulgte kanaler",
+		"description": "The second part of the \"Viewing their\" string"
+	}
+}
