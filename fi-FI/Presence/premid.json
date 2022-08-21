@@ -1,0 +1,30 @@
+{
+	"premid.pageContributors": {
+		"message": "Osallistujat",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Lataukset",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Kauppa",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Yhteistyökumppanit",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Tietoja PreMiDistä",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Vianetsintä",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Precence-luokka",
+		"description": "A page name"
+	}
+}
