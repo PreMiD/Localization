@@ -1,0 +1,362 @@
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Brskanje...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Poglavje",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Urejanje:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Epizoda",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Sezona",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forumi",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Zvrst",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Jezik",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Poslušanje glasbe",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Poslušalci",
+		"description": ""
+	},
+	"general.live": {
+		"message": "V živo",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Blago",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Stran",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "V premoru",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Predvajanje",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Branje DM-ih od:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Branje o:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Branje artikla:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Branje v kanalu:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Branje objave:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Branje objave:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Branje",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Iskanje za:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Iskanje nečesa...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Iskanje",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Pisanje",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Klicanje",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "V klicu...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Nakupovalni voziček",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Trgovina",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Tipkanje v DM-ih za:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Tipkanje v kanalu:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Ogledovanje animeja:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Ogledovanje kategorijo:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Ogledovanje kanala:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Ogledovanje epizodo:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Ogledovanje zvrsti:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Ogledovanje domačo stran",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Ogledovanje listov od:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Ogledovanje mange:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Ogledovanje uporabnika:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Ogledovanje filma:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Ogledovanje seznam predvajanja:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Ogledovanje produkta:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Ogledovanje profila od:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Ogledovanje serijo:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Ogledovanje predstave:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Ogledovanje njegovega računa",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Ogledovanje objave:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Ogledovanje uporabnika:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Ogledovanje:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Ogledovanje strani:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Gledanje filma",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Gledanje serij",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Gledanje oddaj",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Gledanje videoposnetek",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Čakanje vide-a na premieri",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Čakanje vide-a na premieri",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Gledanje prenos v živo",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Čakanje na začetek prenosa v živo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Čakanje na začetek prenosa v živo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Gledanje:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Seznam želja:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Pravilnik o zasebnosti",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Pogoji uporabe",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Pravilnik o Cookie-jih",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Ponavljanje vseh pesmi",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Na ponavljanju",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Ogledovanje incidenta",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Zgodovina incidentov",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Zgodovina delovanja",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Prikaz Serij",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Prikaz Filma",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Ogled Epizod",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Ogled Filma",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Ogled Videa",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Ogled Prenosa v živo",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Prikaz Kanala",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Poslušajte Skupaj",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Prikaz Strani",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Prikaz Pesmi",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Prikaz Albuma",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Prikaz Profila",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Prikaz Artista",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Prikaz Seznam predvajanja",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Prikaz Podcasta",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Preberi Članek",
+		"description": "Used as the title for the button in Discord."
+	}
+}
