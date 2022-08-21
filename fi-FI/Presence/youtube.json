@@ -1,0 +1,122 @@
+{
+    "youtube.ad": {
+        "message": "Katsoo juuri nyt mainosta",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Selaa videoita",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Selaa soittolistoja",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Katselee yhteisön julkaisuja",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "kanavalta:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Lukee kanavan tietoja:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Etsii kanavalta: {0} kohdetta:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Tutkii trendaavia videoita",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Selaa",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "tilauksiaan",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "kirjastoaan",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "katseluhistoriaansa",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "ostoksiaan",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Tarkastelee ilmoitushistoriaansa",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Lataa jotain youtubeen...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Tarkastelee soittolistojaan",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Tarkastelee live-tapahtumiaan",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Tarkastelee live-hallintasivuaan",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Tarkastelee äänikirjastoa",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Tarkastelee videoitaan",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Muokkaa videota:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Tarkastelee videon analytiikkoja:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Lukee videon kommentteja:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Tarkastelee videon käännöksiä:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Tarkastelee",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanavansa analytiikkoja",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanavansa kommentteja",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanavansa käännöksiä",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "artistisivuaan",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Tarkastelee hallintasivuaan",
+        "description": ""
+    }
+}
