@@ -1,0 +1,18 @@
+{
+	"genius.lyrics": {
+		"message": "Ag féachaint ar liricí de:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Féach ar Liricí",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Ag féachaint ar an leathanach baile",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Albam ag breathnú:",
+		"description": "Album of a song"
+	}
+}
