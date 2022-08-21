@@ -1,0 +1,18 @@
+{
+    "pinterest.board": {
+        "message": "يشاهد لوحة:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "مشاهدة pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "يشاهد متابعينهم",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "يعدل الصفحة الرئيسية",
+        "description": ""
+    }
+}
