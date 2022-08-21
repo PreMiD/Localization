@@ -1,0 +1,34 @@
+{
+    "9gag.gag": {
+        "message": "Ag féachaint ar gobán:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Ag féachaint ar a bhfuil te",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Ag féachaint ar a bhfuil ag titim amach",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Ag féachaint ar a bhfuil úr",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Clib féachana:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Gach eolas faoi 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Ag féachaint ar leathanach siopa",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Bailiúchán féachana:",
+        "description": ""
+    }
+}
