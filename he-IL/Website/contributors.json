@@ -1,0 +1,30 @@
+{
+	"contributors.headings.staff": {
+		"message": "צוות",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "תומכים",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "מתרגמים",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "תורם",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "מאיץ",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "מתרגם",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "תלחץ כאן בשביל להעתיק את הID של האיש.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	}
+}
