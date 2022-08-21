@@ -1,0 +1,18 @@
+{
+	"genius.lyrics": {
+		"message": "Melihat lirik bagi:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Melihat Lirik",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Melihat laman utama",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Melihat album:",
+		"description": "Album of a song"
+	}
+}
