@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "Български",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Поддържаме вашия език, искате да превключите?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Нашият уебсайт е преведен на вашия език. Това може да помогне в случай, че не говорите толкова добре английски.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Не, благодаря",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Превключване на език",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Печене на палачинки ...; Поставяне на контейнери ...; Разбиране на вашия IP адрес ...; UwU; Нарушаване на правилата ...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "магазин",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Изтегляния",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Сътрудници",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Вход",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Влезли като",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Докладване за грешка",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Контролно табло",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Изход",
+    "description": "Logout button"
+  }
+}
