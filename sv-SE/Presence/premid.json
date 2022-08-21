@@ -1,0 +1,38 @@
+{
+	"premid.pageContributors": {
+		"message": "Medverkande",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Hämtningar",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Butik",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partners",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Systemkrav",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Felsökning",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence Utveckling",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Bildspelsklass",
+		"description": "A page name"
+	}
+}
