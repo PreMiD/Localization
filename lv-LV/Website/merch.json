@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Laipni lūdzam oficiālajā **PreMiD** preču veikalā!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Atrodi savu **preci**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "** Izvēlieties savu izmēru**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Ielikt iepirkumu grozā",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Vai rodas problēmas ar mūsu veikalu vai pasūtījumu? Sazinieties ar mūsu {0} klientu atbalstu {1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} tika pievienots jūsu grozam",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Nav Prece, ko pievienot grozam",
+		"description": "Error message when no size selected"
+	}
+}
