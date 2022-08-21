@@ -1,0 +1,58 @@
+{
+	"spotify.featured": {
+		"message": "Amhráin faoi thrácht",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Podchraoltaí is fearr",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Ag féachaint ar na cairteacha",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Ag brabhsáil trí seánraí",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Ag féachaint ar na heisiúintí is déanaí",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Amhráin nua a fhionnadh",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Ag brabhsáil tríd",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podchraoltaí is maith leo",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "ealaíontóirí is maith leo",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albam is maith leo",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "amhráin is maith leo",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Déanta duit\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "a seinmliostaí",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify a íoslódáil",
+		"description": ""
+	}
+}
