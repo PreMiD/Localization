@@ -1,0 +1,58 @@
+{
+    "apple.other": {
+        "message": "Outros",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopAccessories": {
+        "message": "Acessórios da Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopFavorites": {
+        "message": "Favoritos",
+        "description": "Favorite products"
+    },
+    "apple.appStoreCon": {
+        "message": "Conectando...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Mail",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Contatos",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Calendário",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Fotos",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Notas",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Lembretes",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Criando...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.devDocs": {
+        "message": "Documentação",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "Recursos",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Jogos",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}
