@@ -1,0 +1,14 @@
+{
+    "hypixel.staff": {
+        "message": "Ser på liste over ansatte",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Ser på sine fulgte tråder",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Ser på sine fulgte forum",
+        "description": "Forum categories they get notifications from"
+    }
+}
