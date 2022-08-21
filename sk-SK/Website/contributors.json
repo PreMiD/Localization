@@ -1,0 +1,42 @@
+{
+	"contributors.headings.staff": {
+		"message": "Jadro týmu",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Podporovatelia",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Správca lokalizácie",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Korektor",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Prekladatelia",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Darca",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Prekladateľ",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Kliknutím skopírujete ID používateľa.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID používateľa bolo skopírované!",
+		"description": "Notification after user ID was copied."
+	}
+}
