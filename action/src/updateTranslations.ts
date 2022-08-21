@@ -6,6 +6,7 @@ import delay from "delay";
 import download from "download";
 import { readFileSync, writeFileSync } from "fs";
 import { copy } from "fs-extra";
+import { rm } from "fs/promises";
 import globby from "globby";
 import { MongoClient } from "mongodb";
 import pRetry from "p-retry";
@@ -72,6 +73,11 @@ export async function run() {
 	const {
 		data: { url }
 	} = await client.translationsApi.downloadTranslations(inputs.PROJECT_ID, id);
+
+	//* clean tmp folder
+	await rm("./tmp", {
+		recursive: true
+	});
 
 	//* Download zip file
 	await download(url, "./tmp", {
