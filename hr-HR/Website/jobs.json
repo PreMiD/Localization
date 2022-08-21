@@ -1,0 +1,6 @@
+{
+	"jobs.guild.required": {
+		"message": "Pridružite se našem Discord-u",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	}
+}
