@@ -1,0 +1,90 @@
+{
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** este o utilitate simplă, configurabilă care îți permite să arăți ce faci pe web în Discord pe se joacă acum status.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Caracteristici",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Descărcări",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Jucându-se un joc",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} timp rămas",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} scurs",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Redare",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "În direct",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Navigare...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Veți iubi aceste funcții!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Găsește-ți **prezența** ta",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Am creat extensia noastră într-un mod în care vă permite să adăugați și să utilizați prezențe create de alții și să le gestionați în extensia noastră!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Vizitează magazinul",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Interfață simplă",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "V-ați săturat de interfețele de utilizator complicate? De aceea am creat și am încercat să ne menținem interfața de utilizare cât mai simplă și utilă cu funcții importante precum:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Setări pentru aplicație și extensie",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Managementul prezenței",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortează în funcție de categorie",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Suport rapid",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Ceva s-a defectat și vă trimite o mulțime de erori sau pur și simplu nu funcționează? Vă vom ajuta să scăpați de aceste probleme pe serverul nostru Discord. De asemenea, am creat propriul nostru sistem de suport care se va asigura că problema dvs. este rezolvată cât mai curând posibil.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Intrați pe serverul nostru de Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Limba site-ului",
+		"description": "Tippy content of the language selector."
+	}
+}
