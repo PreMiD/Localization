@@ -1,0 +1,26 @@
+{
+	"downloads.header.title": {
+		"message": "Tími til kominn að láta sjá sig.",
+		"description": "Title"
+	},
+	"downloads.header.subtitle": {
+		"message": "Notaðu PreMiD núna og sýndu vinum þínum hvað þú ert að gera, kannski finnurðu einhvern með sömu áhugamál.",
+		"description": "Subtitle for header"
+	},
+	"downloads.instructions.heading": {
+		"message": "Byrja",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.button.cancel": {
+		"message": "Hætta",
+		"description": "Button on the modal of Opera/Edge browsers."
+	},
+	"downloads.button.done": {
+		"message": "Búið",
+		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "Takk fyrir!",
+		"description": "Title of the advertisement section box."
+	}
+}
