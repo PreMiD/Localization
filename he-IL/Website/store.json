@@ -1,0 +1,38 @@
+{
+	"store.cards.creator": {
+		"message": "מחבר",
+		"description": "Creator of a presence"
+	},
+	"store.category.heading": {
+		"message": "קטגוריות",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "הכל",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "משחקים",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "מוזיקה",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "חברתי",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "סרטונים & שידורים",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "אחר",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "חיפוש",
+		"description": "Placeholder for presence search"
+	}
+}
