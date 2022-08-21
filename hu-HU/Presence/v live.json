@@ -1,0 +1,10 @@
+{
+	"v live.browseThrough": {
+		"message": "Böngészi a(z)",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "Nézi a",
+		"description": "The first part of the next 6 strings"
+	}
+}
