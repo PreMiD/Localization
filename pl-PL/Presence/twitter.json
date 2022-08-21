@@ -1,0 +1,42 @@
+{
+	"twitter.viewDms": {
+		"message": "Przegląda swoje wiadomości prywatne",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Przegląda tweety:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Przegląda tweety (z odpowiedziami):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Przegląda multimediów:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Przegląda polubionych przez:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Przeglądanie list:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Zakładki",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Powiadomienia",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Odkrywanie",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Zmienia kilka ustawień...",
+		"description": ""
+	}
+}
