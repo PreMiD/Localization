@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "Latviešu",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Mēs atbalstam tavu valodu, gribi nomainīt?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Mūsu mājaslapa ir pārtulkota jūsu valodā. Tas var palīdzēt jums, ja jūs nerunājat Angļu valodu tik labi.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nē, paldies",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Mainīt valodu",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Cepam pankūkas...;Novietojam konteinerus...;Parsējam jūsu IP adresi...;UwU;Pārkāpjam noteikumus...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Veikals",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Lejupielādes",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Ieguldītāji",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Pieslēgties",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Pieslēdzies kā",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Ziņot par kļūdu",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Info panelis",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Izlogoties",
+    "description": "Logout button"
+  }
+}

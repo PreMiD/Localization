@@ -1,0 +1,90 @@
+{
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** ir vienkārša, konfigurējama lietotne, kas ļauj jums redzēt, ko jūs darāt internetā, jūsu Discord tagad spēlējiet statusā.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funkcijas",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Lejupielādes",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Spēlē spēli",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} atlicis",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} pagājis",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Atskaņo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Tiešraide",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Pārlūko...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Tu mīlēsi šīs funkcijas!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Atrodi **savu** presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Mēs izveidojām mūsu paplašinājumu tādā veidā, ka tas atļauj jums pievienot un izmantot Presences, kuras ir izveidojuši citi un pārvaldīt tās mūsu paplašinājumā!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Apmeklēt veikalu",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Vienkāršs lietotāja interfeiss",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Vai esat noguris no sarežģītiem lietotāju interfeisiem? Tas ir kādēļ mēs izveidojām un mēģinām saglabāt mūsu UI vienkāršu un noderīgu, cik iespējams, ar šādām svarīgām funkcijām:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Lietotnes un Paplašinājuma iestatījumi",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence pārvaldīšana",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Kārtot pēc kategorijas",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Ātrais atbalsts",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Kaut kas nepareizi darbojas, sūta tev daudz kļūdas vai vienkārši neiet? Mēs tev palīdzēsim atbrīvoties no šīm problēmām mūsu Discord serverī, mēs arī izveidojām mūsu pašu atbalsta sistēmu, kas pārliecināsies, ka tava problēma tiks atrisināta cik ātri iespējams.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Pievienojies mūsu Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Tīmekļa vietnes valoda",
+		"description": "Tippy content of the language selector."
+	}
+}

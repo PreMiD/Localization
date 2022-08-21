@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Добре дошли в официалния **PreMiD** магазин за стока!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Намерете вашата **Дриперия**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Изберете своите подходящи**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Добави в количката",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Изпитвате проблеми с нашия магазин или покупка? Свържете се с нашата {0}клиентска поддръжка{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} добавени в количката",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Няма предмети добавени в количката",
+		"description": "Error message when no size selected"
+	}
+}

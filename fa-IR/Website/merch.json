@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "به فروشگاه کالا های رسمی **PreMiD** خوش آمدید!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "**کوله پشتی** خود را پیدا کنید",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**اندازه خود را پیدا کنید**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "افزودن به سبد خرید",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "مشکلاتی را با فروشگاه یا سفارشات دارید؟ با {0}خدمات مشتری{1} ما تماس بگیرید",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} به سبد خرید شما افزوده شد",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "هیچ چیزی به سبد خرید شما افزوده نشده",
+		"description": "Error message when no size selected"
+	}
+}

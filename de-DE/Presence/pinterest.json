@@ -1,0 +1,18 @@
+{
+    "pinterest.board": {
+        "message": "Betrachtet Boards:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Betrachtet Pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Betrachtet seine Follower",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Bearbeitet seine Startseite",
+        "description": ""
+    }
+}

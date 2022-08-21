@@ -1,0 +1,70 @@
+{
+    "amazon.adprefs": {
+        "message": "Переглядає результати пошуку",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Дивиться на свій баланс",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Переглядає способи оплати",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Переглядає свої адреси",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Переглядає своїм тварин",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Переглядає всі категорії",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Переглядає Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Переглядає своє",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "історія замовлень",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "деталі замовлення",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "кошик замовлень",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "список бажаного",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "подарункові картки",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Переглядає рекомендоване",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Переглядає свою історію",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Переглядає крамницю:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Переглядає Prime Video:",
+        "description": ""
+    }
+}

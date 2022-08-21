@@ -1,0 +1,58 @@
+{
+	"report.title": {
+		"message": "Nahlásiť chybu",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count} / 3 zostávajúce nahlásenia",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Hlásenie chýb sa týka chýb na stránkach PreMiD a PreMiD Discord Server. Chyby prítomnosti sa majú hlásiť tvorcovi prítomnosti. Nahláste chyby iba v angličtine.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Poskytnite jasný a výstižný popis chyby.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Vyberte operačný systém a verziu",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Vyberte prehliadač a verziu - Verziu môžete získať tak, že navštívite stránku about: support vo Firefoxe alebo chrome: // help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Poskytnite odkaz na živý príklad alebo na jednoznačný súbor krokov na reprodukciu tejto chyby.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Nahlásiť",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Máte príliš veľa aktívnych prehľadov. Počkajte na skontrolovanie vašich odoslaných správ. Správy sa kontrolujú každý týždeň, buďte trpezliví.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Máte príliš veľa aktívnych prehľadov.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Chyba bola odoslaná",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Vyžadujú sa ďalšie informácie",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Váš Discord účet je potrebné overiť",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktívne chyby",
+		"description": "Lists users active bugs"
+	}
+}

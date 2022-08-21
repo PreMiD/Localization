@@ -1,0 +1,46 @@
+{
+	"store.search.notFound": {
+		"message": "Tuto Presenci jsme nenašli...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Promiň, tuhle stránku jsme nenašli.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Hledáš neexistující nebo smazanou Presenci.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Došlo k vnitřní chybě serveru.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Podrobnosti",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Zpět na domovskou stránku",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Tohoto uživatele se nepodařilo najít. Ujisti se že",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "ID uživatele, kterého hledáš, je správné.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "uživatel vytvořil dostatek Presencí a má roli \"Presence Developer\" na našem Discord serveru.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "i ostatní mají stejný problém na našem Discord serveru.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Pokud věříš, že se jedná o chybu, prosím kontaktuj nás na [našem Discord serveru].",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}

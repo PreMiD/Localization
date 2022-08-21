@@ -1,0 +1,42 @@
+{
+    "juniperbot.mainpage": {
+        "message": "Ana sayfa",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Sunucunun liderlerine bakıyor:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Kontrol panelinde",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Sunucu: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Bağış planları bilgilendirmesini okuyor",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Sunucu seçiyor",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Komut listesine bakıyor",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Botun istatistiklerine bakıyor",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Rütbe kartını özelleştiriyor",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Site çerezleri bilgilendirmesini okuyor",
+        "description": "Reading about the site's cookies"
+    }
+}

@@ -1,0 +1,110 @@
+{
+	"jobs.modal.title": {
+		"message": "Pieteikties par {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Solis {0} no 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Nākamais",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Pievienojies",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Atcelt",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Lūdzu aizpildiet visus laukus",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD ir atvērtā avota tipa projekts, kas nozīmē ka mēs negūstam peļņu. Katrs ziedojums nokļūst atpakaļ produktā. Piesakoties darbā PreMiD, Tu apzinies, ka esi brīvprātīgais un nesaņemsi atalgojumu.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Pievienojies mūsu Discord serverim",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Lai pievienotos, Tev jābūt mūsu Discord serverī. Savādāk nevarēsim ar Tevi sazināties, ja tiksi izvēlēts!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Strādāt PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Vai esat gatavs palīdzēt lielākajai Rich-Presence programmai?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Vakances",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Augstas klases Priekšrocības",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Satiec mūs",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Sazinies ar cilvēkiem, kas strādā PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Ieskati",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Ieskaties mūsu Izstrādāšanā un Mārketingā.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Cieņa",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Spēcīgas Discord atļaujas un krāsaina loma.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Atbalsti PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Ar tavu palīdzību, ir iespējams uzturēt šo projektu.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Pārtraukumi",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Nesteidzies! Šis ir brīvprātīgs darbs.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Priekšlaicīgā piekļuve",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Izmēģini jaunās funkcijas viens no pirmajiem.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Paldies par pieteikšanos!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Jau esiet pieteicies!",
+		"description": "Notification when you applied already."
+	}
+}

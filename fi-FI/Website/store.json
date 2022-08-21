@@ -1,0 +1,98 @@
+{
+	"store.message.error": {
+		"message": "Laajennusta ei ole yhdistetty.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "Tekijä",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Tämä presence on erittäin suosittu käyttäjien keskuudessa.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Yhteistyökumppanin presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Tämä presence vaatii lisävaiheita, tarkista sen sivulta lisätietoja.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Etsi presenceä",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Lisää presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Poista presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Tämä presence on automaattisesti käytössä vierailtaessa sen sivustolla.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Suodattimet",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Eniten käytetyt ensin",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Näytä NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Vain tykätyt presencet",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Näytä lisätyt presencet",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Kategoriat",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Kaikki",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Pelit",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Musiikki",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Somet",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Videot & Striimit",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Muut",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Etsi",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Lisää",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klikkaa poistaaksesi suodattimen",
+		"description": "Remove message for active search filters."
+	}
+}

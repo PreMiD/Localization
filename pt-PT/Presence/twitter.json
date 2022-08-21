@@ -1,0 +1,46 @@
+{
+	"twitter.readTweet": {
+		"message": "A ler tweet de",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "A ver as suas mensagens",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "A ver tweets de",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "A ver tweets (com respostas) de",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "A ver mídia de",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "A ver likes de",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "A ver lista",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Marcadores",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Notificações",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Explorar",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "A alterar algumas definições",
+		"description": ""
+	}
+}

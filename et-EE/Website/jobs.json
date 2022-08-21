@@ -1,0 +1,110 @@
+{
+	"jobs.modal.title": {
+		"message": "Kandideeri {0} kohale",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Samm {0} 2-st",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Järgmine",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Liitu",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Tühista",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Palun täidke kõik väljad",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD on avatud lähtekoodiga projekt, see tähendab, et oleme mittetulunduslik meeskond, iga annetus või patreoni raha läheb tootesse tagasi. PreMiD-s töökohale kandideerides tunnistate, et olete vabatahtlik meeskonnas, teile ei maksta töö eest tasu.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Liitu meie Discordiga",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Kandideerimiseks peate olema liitunud meie Discordi serveriga. Vastasel juhul ei saa me teiega ühendust võtta, kui teid valitakse!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Tööta PreMiD-s",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Kas olete valmis aitama suurimat Rich-Presence programmi?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Vabad töökohad",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Kõrgekvaliteedilised eelised",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Kohtu meiega",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Võtke ühendust inimestega, kes on PreMiDi taga.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Eelvaated",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Vaadake meie arendust ja turundust.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Au",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Võimsad Discord-i õigused ja värvikas roll.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Toeta PreMiDi",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Sinu abiga on võimalik seda projekti tööl hoida.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Aeg maha",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Võta aega. See on vabatahtlik töö.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Varajane juurdepääs",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Testige uusi funktsioone enne kedagi teist.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Täname kandideerimise eest!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Te olete juba varem kandideerinud!",
+		"description": "Notification when you applied already."
+	}
+}

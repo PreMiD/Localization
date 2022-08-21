@@ -1,0 +1,38 @@
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Presence Izstrādātājs",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Presence verificētājs",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Svarīgs Presence Izstrādātājs",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Izveidotas {0} presences.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Presence Ģēnijs izstrādātājs",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Izveidotas pāri 100 Presences!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Lietotājs [Presences/ieguldījumi]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Spied šeit, lai parādītu šī lietotāja izveidotās Presences.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Spied šeit, lai parādītu presences, kurās šis lietotājs ir ieguldījis darbu.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
+}

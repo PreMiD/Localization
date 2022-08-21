@@ -1,0 +1,18 @@
+{
+	"genius.lyrics": {
+		"message": "Bekijkt songteksten van:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Songteksten bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Bekijkt de startpagina",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Bekijkt album:",
+		"description": "Album of a song"
+	}
+}

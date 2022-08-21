@@ -1,0 +1,58 @@
+{
+	"spotify.featured": {
+		"message": "موسیقی های برتر",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "بهترین پادکست ها",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "نگاه کردن جداول برتر",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "گشتن در ژانر ها",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "نگاه کردن آخرین عرضه شده ها",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "پیدا کردن موسیقی های جدید",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "گشتن در",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "پادکست هایی که دوست دارند",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "هنرمندانی که دوست دارند",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "آلبوم هایی که دوست دارند",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "موسیقی هایی که دوست دارند",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"ایجاد شده برای شما\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "لیست پخششان",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "درحال دانلود کردن Spotify",
+		"description": ""
+	}
+}

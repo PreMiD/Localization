@@ -1,0 +1,46 @@
+{
+	"store.search.notFound": {
+		"message": "Не удалось найти этот Presence...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Извините, не удалось найти эту страницу.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Вы ищете несуществующий или удалённый Presence.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Произошла внутренняя ошибка сервера.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Подробности",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Вернуться на главную",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Не удалось найти этого пользователя. Убедитесь в том,",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "что ID пользователя, которого вы ищите, верен.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "что пользователь создал достаточное количество Presence и имеет роль разработчика Presence на нашем Discord сервере.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "что другие пользователи также имеют похожую проблему. Это можно сделать на нашем Discord сервере.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Если вы считаете, что это не должно было произойти, пожалуйста, свяжитесь с нами на [нашем Discord сервере].",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "pinterest.board": {
+        "message": "बोर्ड देखना:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "एक पिन देखना",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Their अनुसरण देख रहे हैं",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Their मुखपृष्ठ का संपादन",
+        "description": ""
+    }
+}

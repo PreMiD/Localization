@@ -1,0 +1,46 @@
+{
+	"twitter.readTweet": {
+		"message": "Lukee twiittiä käyttäjältä:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Katselee yksityisviestejään",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Katselee twiittejä käyttäjältä:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Lukee twiittejä (ja vastauksia) käyttäjältä:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Tarkastelee mediaa käyttäjältä:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Lukee tykättyjä twiittejä käyttäjältä:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Tarkastelee luetteloa:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Kirjanmerkit",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Ilmoitukset",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Selaa",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Muuttamassa asetuksia...",
+		"description": ""
+	}
+}

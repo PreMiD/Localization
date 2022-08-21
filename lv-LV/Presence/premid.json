@@ -1,0 +1,18 @@
+{
+	"premid.pageContributors": {
+		"message": "Ieguldītāji",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Lejupielādes",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Veikals",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partneri",
+		"description": "A page name"
+	}
+}

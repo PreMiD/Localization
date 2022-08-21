@@ -1,0 +1,22 @@
+{
+	"premid.pageContributors": {
+		"message": "תורמים",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "הורדות",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "חנות",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "שותפים",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "פתרון תקלות",
+		"description": "A page name"
+	}
+}

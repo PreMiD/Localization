@@ -1,0 +1,26 @@
+{
+	"maintenance.big": {
+		"message": "Ak vai!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Diemžēl mums ir dažas tehniskas grūtības. Mēs drīz atgriezīsimies. Atvainojamies par sagādātajām neērtībām.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Lūdzu, atgriezieties vēlāk, lai iegūtu vairāk informāciju.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Kamēr mūsu īpašie izstrādātāji to nenovērsīs, droši ieskatieties šeit!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Statusa Lapa",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord Serveris",
+		"description": "Discord Server link on maintenance page"
+	}
+}

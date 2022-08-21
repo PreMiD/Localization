@@ -1,0 +1,50 @@
+{
+	"google docs.editingDoc": {
+		"message": "درحال ویرایش یک سند",
+		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.viewingDoc": {
+		"message": "درحال مشاهده یک سند",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "درحال گشتن بین اسناد",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.editingForm": {
+		"message": "درحال ویرایش یک فرم",
+		"description": "Displayed when the user is editing a Google Form"
+	},
+	"google docs.viewingForm": {
+		"message": "درحال مشاهده یک فرم",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "درحال گشتن در فرم ها",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.editingSheet": {
+		"message": "درحال ویرایش یک صفحه‌گسترده",
+		"description": "Displayed when the user is eiditng a Google Sheet"
+	},
+	"google docs.viewingSheet": {
+		"message": "درحال مشاهده یک صفحه‌گسترده",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.browsingSheet": {
+		"message": "درحال گشتن بین صفحات‌گسترده",
+		"description": "Displayed when the user is browsing their Google Sheets"
+	},
+	"google docs.editingPresentation": {
+		"message": "درحال ویرایش یک ارائه",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "درحال مشاهده یک ارائه",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "درحال گشتن بین ارائه‌ها",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
+}
