@@ -1,0 +1,14 @@
+{
+    "apple.other": {
+        "message": "Ostalo",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devFeatures": {
+        "message": "Značajke",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Igrice",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}
