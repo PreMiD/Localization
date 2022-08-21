@@ -1,0 +1,78 @@
+{
+    "1337x.movieLibrary": {
+        "message": "Guardando la libreria film",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Guardando la libreria serie",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Guardando gli ultimi episodi",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Guardando la top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Guardando le tendenze",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Guardando torrent di Anime",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Guardando Torrent di App",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Guardando Torrent di Documentari",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Guardando Torrent di Giochi",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Guardando Torrent di Film",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Guardando Torrent di Musica",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Guardando Altri Torrent",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Guardando Torrent TV",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Guardando Torrent XXX",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Caricando qualcosa...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Leggendo le regole",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Scrivendo a 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Leggendo riguardo a 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Guardando torrent:",
+        "description": ""
+    }
+}
