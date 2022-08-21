@@ -1,0 +1,362 @@
+{
+	"general.anime": {
+		"message": "Аниме",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Сърфирането ...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Глава",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "Диджей",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Редактиране:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Епизод",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Сезон",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Форуми",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Жанр",
+		"description": ""
+	},
+	"general.language": {
+		"message": "език",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Слуша музика",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Слушатели",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Live",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Манга",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Мърч",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Страница",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "На пауза",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Пуснато",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Чете съобщения от:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Чете за:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Чете статия:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Чете в канал:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Чете пост:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Чете тема:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "четене",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Търси за:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Търси нещо...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "изпитателен",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Изписване",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Обаждане",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "В разговор...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Кошница",
+		"description": ""
+	},
+	"general.store": {
+		"message": "магазин",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Пише на лично на:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Пише в канал:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Гледа аниме:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Гледа категория:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Гледа канал:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Гледа епизод:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Гледа жанр:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Гледа начална страница",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Гледа списък от:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Гледа манга:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Гледа потребител:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Гледа филм:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Гледа плейлист:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Гледа продукт:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Гледа профила на:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Гледа серий:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Гледа шоу:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Гледа своя акаунт",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Гледа тема:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Гледа потребител:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Гледа:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Гледа страница:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Гледа филм",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Гледа сериал",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Гледа шоу",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Гледа видео",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Изчаква видео примиерата",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Изчаква видео примиерата",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Гледа предаване на живо",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Изчаква предаването на живо да започне",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Изчаква предаването на живо да започне",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Гледа:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Списък с желания:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Политика за поверителност",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Условия за Ползване",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика за бисквитките",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Повтаряне на всички песни",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Повтаряне",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Преглед на грешка",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "История на грешки",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "История на ъптайм",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Погледни серий",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Погледни филм",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Гледай епизод",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Гледай филм",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Гледай видеото",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Гледай предаването на живо",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Преглед на канала",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Слушайте заедно",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Преглед на страница",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Преглед на песента",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Преглед на албума",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Преглед на профила",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Преглед на артиста",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Преглед на плейлиста",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Преглед на подкаста",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Прочетете статията",
+		"description": "Used as the title for the button in Discord."
+	}
+}
