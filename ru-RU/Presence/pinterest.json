@@ -1,0 +1,18 @@
+{
+    "pinterest.board": {
+        "message": "Панель просмотра:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Смотрит pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Смотрит подписчиков",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Редактирует на домашней страницы",
+        "description": ""
+    }
+}
