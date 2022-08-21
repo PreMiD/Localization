@@ -1,0 +1,98 @@
+{
+	"store.message.error": {
+		"message": "Paplašinājums nav savienots.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "Autors",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Šī Presence ir ļoti populāra starp lietotājiem.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Partneru Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Šim presence ir nepieciešamas papildu darbības. Lūdzu pārbaudiet tās lapu, lai iegūtu vairāk informācijas.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Meklēt Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Pievienot Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Noņemt Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Šī Presence tiek automātiski iespējota, kad apmeklējat tās vietni.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Filtri",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Visbiežāk izmantotie pirmie",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Rādīt NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Rādīt Presences, kuras patīk",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Rādīt pievienotās Presences",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Kategorijas",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Viss",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Spēles",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Mūzika",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sociālie tīkli",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Video & Straumēšana",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Cits",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Meklēt",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Aizpildīt",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Uzspied, lai noņemtu filtru",
+		"description": "Remove message for active search filters."
+	}
+}
