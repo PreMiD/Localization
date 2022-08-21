@@ -1,0 +1,42 @@
+{
+    "juniperbot.mainpage": {
+        "message": "Pagina principală",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Se uită la clasamentul server-ului:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Panou de control",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Server: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Citește informații despre donații",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Selectează server-ul",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Se uită la lista cu comenzi",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Se uită la statisticile bot-ului",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Personalizează card-ul rank-ului",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Citește despre cookie-urile site-ului",
+        "description": "Reading about the site's cookies"
+    }
+}
