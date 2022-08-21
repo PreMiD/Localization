@@ -1,0 +1,58 @@
+{
+	"partners.sponsors.title": {
+		"message": "Sponzori",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD ne bi bio moguć, bez ovih nevjerojatnih ljudi.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "To je kako gledaš anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio je najuspješniji info-zabljavilački radio za simulacijske igre u Njemačkoj, Austriji i Švicarskoj!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Započni stvarati vlastitu zajednicu sa našim odličnim predložcima. Izgradi vlastito kraljevstvo.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.bitRock": {
+		"message": "Jak i lagan za koristiti cross-platfrom alat za stvaranje installer-a.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.erisly": {
+		"message": "Boginja koja igra kao zabavni Discord Bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM vam dopušta da slušate 15+ strimova glazbe za besplatno - nonstop. Sa najboljom i najnovijom glazbom samo za Vas!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Agilna lokalizacija za tehnološke tvrtke.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Najjači i najproširiviji Wiki softver otvorenoga koda.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Objedinjeno sučelje prilagođeno programerima za sve vaše artefakte.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Iza najboljih dijelova interneta.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix je najveći Discord server povezan s Netflixom. Ovdje razgovarajte o svojim omiljenim serijama ili filmovima s istomišljenicima.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.select.other": {
+		"message": "Ostalo",
+		"description": "Select 'Other' category."
+	}
+}
