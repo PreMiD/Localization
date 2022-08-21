@@ -1,0 +1,46 @@
+{
+	"beta.title": {
+		"message": "Chceš nové funkce?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** je nyní dostupná pro všechny!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Co získáš, pokud se zaregistruješ?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Nejnovější funkce",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Přístup do super tajných textových kanálů PreMiDu",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Speciální roli na našem Discord serveru",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Jsi Připraven? Připoj se k {0} dalším Beta Testerům!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Zaregistruj se nyní!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Skvělé! Nyní jsi uživatel beta verze!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Naše opice pracují na tom, abys ses dostal do našeho beta programu co nejrychleji. Děkujeme za registraci!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Zdá se, že již nemáme k dispozici žádné beta sloty.",
+		"description": "Shows when the beta slots are full."
+	}
+}
