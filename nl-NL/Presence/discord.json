@@ -1,0 +1,186 @@
+{
+	"discord.channelReading": {
+		"message": "Leest in kanaal:{0}{1} (server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Typt in kanaal:{0}{1} (server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "Leest privéberichten van:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Typt in privéberichten naar:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Leest groeps-DM:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Typt in groeps-DM:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "Bekijkt zijn/haar vrienden...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Leest over Nitro...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "Spraak verbonden met:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "Spraak verbonden met:{0}{1} (server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "Bekijkt zijn/haar instellingen...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Bekijkt de instellingen{0}van server: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "Bekijkt uitnodigingslink:{0}{1} (server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "Bekijkt uitnodigingslink{0}van server: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Uitnodigingslink bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Bladert door",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "de downloadspagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "de \"Waarom Discord?\"-pagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "het veiligheidscentrum",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "de vacaturepagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "de pagina Over ons",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "de branding-pagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "de inspiratiepagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "de college-pagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "de nieuwskamerpagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "de partnerpagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "de verificatiepagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "de StreamKit-pagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "de pagina Opensource",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "de pagina Veiligheid",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "de moderatiepagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "de rich presence-pagina",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "het beleid",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Ontwikkelaarsportaal",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Bladert door apps",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Bewerkt app: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Bladert door teams",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Bewerkt team: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Bladert door servers",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Bekijkt inzichten van server: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Leest de documentatie",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discord-status",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Hulpcentrum",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord-blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord-merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Bekijkt collectie:",
+		"description": ""
+	}
+}
