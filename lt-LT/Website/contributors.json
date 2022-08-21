@@ -1,0 +1,26 @@
+{
+	"contributors.headings.staff": {
+		"message": "Darbuotojai",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Pagalbininkai",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Vertėjai",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.translator": {
+		"message": "Vertėjai",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Spauskite, jei norite nukopijuoti vartotojo ID.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Vartotojo ID nukopijuotas!",
+		"description": "Notification after user ID was copied."
+	}
+}
