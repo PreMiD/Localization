@@ -1,0 +1,50 @@
+{
+	"presence.page.buttons.sourceCode": {
+		"message": "Kode Sumber",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Deskripsi",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Changelog",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Informasi",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Penulis",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Versi",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Suka",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Pengguna",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Tag",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "URL Didukung",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.moreurls": {
+		"message": "Presence ini mendukung lebih banyak URL daripada yang disebutkan dibawah dengan menggunakan RegExp. Arahkan kursor untuk melihat pola",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Kontributor",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
+}
