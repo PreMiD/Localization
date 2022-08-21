@@ -1,0 +1,14 @@
+{
+	"maintenance.big": {
+		"message": "O, ne!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Stranica Statusa",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord Server",
+		"description": "Discord Server link on maintenance page"
+	}
+}
