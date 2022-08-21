@@ -1,0 +1,50 @@
+{
+	"google docs.editingDoc": {
+		"message": "Editando um documento",
+		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.viewingDoc": {
+		"message": "Vendo um documento",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Procurando documentos",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.editingForm": {
+		"message": "Editando um formulário",
+		"description": "Displayed when the user is editing a Google Form"
+	},
+	"google docs.viewingForm": {
+		"message": "Vendo um formulário",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "Procurando formulários",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.editingSheet": {
+		"message": "Editando uma planilha",
+		"description": "Displayed when the user is eiditng a Google Sheet"
+	},
+	"google docs.viewingSheet": {
+		"message": "Vendo uma planilha",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.browsingSheet": {
+		"message": "Procurando planilhas",
+		"description": "Displayed when the user is browsing their Google Sheets"
+	},
+	"google docs.editingPresentation": {
+		"message": "Editando uma apresentação",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Vendo uma apresentação",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Procurando apresentações",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
+}
