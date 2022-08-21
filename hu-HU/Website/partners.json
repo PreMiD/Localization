@@ -1,0 +1,182 @@
+{
+	"partners.header.title": {
+		"message": "Partnerek",
+		"description": "Heading for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Ezek már hozzánk tartoznak",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Mit szólnál ahhoz ha pokol helyett a mennybe mennél?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Hitelesítve leszel",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Egy különleges rangot és nagy megtiszteltetést fogsz kapni a Discord szerverünkön.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-tag integráció",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Légy halhatatlan",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Légy híres",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Kiemelve a közösségi médiánkon.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Követelmények",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Mit keresünk?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "A mi tűzfalunk",
+		"description": "Heading for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Jelentkezz most!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Menjünk együtt a mennybe!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.sponsors.title": {
+		"message": "Szponzorok",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD nem lenne lehetséges ezek a nagyszerű emberek nélkül.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Így nézel animét.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Kezd el elkészíteni a saját közösséget a nagyszerű sablonjainkkal. Építsd meg a saját királyságod.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.statusPage": {
+		"message": "Egyszerüen ossz meg valós idejű státuszt a felhasználóidnak.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Egy istennő aki egy vidám Discord Botként játszik!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.crowdin": {
+		"message": "Agilis honosítás a tech cégek számára.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "A legerősebb és legjobban bővíthető nyílt forráskódú Wiki szoftver.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.fastly": {
+		"message": "Web legjobbja mögött.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix a legnagyobb Netflix-el kapcsolatos Discord szerver. Beszélgess a kedvenc sorozataidról vagy filmeidről hasonló gondolkodású emberekkel itt.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "Jelentkezz a partnerre",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Bejelentkezve mint {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Nem te vagy az?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Kérlek válassz egyet",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Weboldal",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Egyéb",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Név",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Példa: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Link",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Példa: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Leírás: (Maximum 150 karakter)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Leírás kiemelteknek",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Kép link: (550x300, csak PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Példa: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Bezárás",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Jelentkezés",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Köszönjük jelentkezésedet!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Kérlek, töltsd ki az összes mezőt.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maximum 150 karakteres leírás.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Kérlek, adj hozzá egy linket (a https:// -vel kell kezdődnie és a .png-vel kell végződnie)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Már jelentkeztél a partnerre.",
+		"description": "Error when already applied."
+	}
+}
