@@ -1,0 +1,42 @@
+{
+	"contributors.headings.staff": {
+		"message": "Administracja",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Wspierający",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Menedżer tłumaczeń",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Korektor",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Tłumacze",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Donator",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Tłumacz",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Kliknij, aby skopiować ID użytkownika.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Skopiowano ID użytkownika!",
+		"description": "Notification after user ID was copied."
+	}
+}
