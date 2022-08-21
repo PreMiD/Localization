@@ -1,0 +1,102 @@
+{
+    "apple.comparing": {
+        "message": "Sammenligner:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "Ser på tjeneste:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.productsPlatform": {
+        "message": "Produkter og plattform",
+        "description": "Products/platforms for companies"
+    },
+    "apple.overview": {
+        "message": "Oversikt",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Kjøper råd",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Butikkfinner",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "Ser på hendelse",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.chooseLang": {
+        "message": "Velger språk...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "Andre",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "Apple Watch-bånd",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "Apple-tilbehør",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopFavorites": {
+        "message": "Favoritter",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Gavekort",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "Planlegg ditt besøk",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopBagSummary": {
+        "message": "Sammendrag: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "Apple-kundestøtte",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.appStoreCon": {
+        "message": "Kobler til...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "E-post",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Kontakter",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Kalender",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Bilder",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Notater",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.devDocs": {
+        "message": "Dokumentasjon",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "Funksjoner",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Spill",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
+}
