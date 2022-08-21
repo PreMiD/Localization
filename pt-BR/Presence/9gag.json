@@ -1,0 +1,26 @@
+{
+    "9gag.hot": {
+        "message": "Vendo o que está na moda",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Vendo as tendências",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Vendo as tendências",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Vendo tag:",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Vendo a loja",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Vendo a coleção:",
+        "description": ""
+    }
+}
