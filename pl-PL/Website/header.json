@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "Polski",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Nasza strona została przetłumaczona na twój język, czy chcesz zmienić język strony?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Nasza strona została przetłumaczona na Twój język. Może Ci to pomóc, jeśli znasz angielskiego dobrze.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nie, dzięki",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Zmień język",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Pieczenie naleśników...;Przenoszenie pudeł...;Przetwarzanie twojego adresu IP...;UwU;Łamanie zasad...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Sklep",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Pliki do pobrania",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Współtwórcy",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Zaloguj sie",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Zalogowano jako",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Zgłoś błąd",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Panel",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Wyloguj się",
+    "description": "Logout button"
+  }
+}
