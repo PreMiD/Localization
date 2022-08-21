@@ -1,0 +1,58 @@
+{
+	"report.title": {
+		"message": "Ziņot Par Kļūdu",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Ziņojumi atlikuši",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Ziņošana par kļūdām ir paredzēta kļūdām PreMiD vietnē un PreMiD Discord Serverī. Par presence kļūdām jāziņo presence veidotājam. Ziņojiet par kļūdām tikai angļu valodā.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Norādiet skaidru un precīzu kļūdas aprakstu.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Atlasiet Operētājsistēmu un Versiju",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Atlasiet savu Pārlūkprogrammu un Versiju - Versiju varat iegūt, apmeklējot vietni about:support Firefox vai chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Norādiet saiti uz aktīvu piemēru vai nepārprotamu darbību kopu, lai reproducētu šo kļūdu.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Ziņot",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Jums ir pārāk daudz aktīvu ziņojumu. Pagaidiet, līdz jūsu iesniegtie ziņojumi tiks pārskatīti. Ziņojumi tiek pārbaudīti katru nedēļu, esiet pacietīgs.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Jums ir pārāk daudz aktīvu ziņojumu.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Kļūda Iesniegta",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Nepieciešama vairāk informācija",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord kontam jābūt verificētam",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktīvās Kļūdas",
+		"description": "Lists users active bugs"
+	}
+}
