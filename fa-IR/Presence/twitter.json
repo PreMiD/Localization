@@ -1,0 +1,46 @@
+{
+	"twitter.readTweet": {
+		"message": "درحال خواندن توییت از:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "مشاهده DM هایشان",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "نگاه کردن توییت های:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "نگاه کردن توییت های (با پاسخ) از:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "درحال نگاه کردن رسانه از:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "مشاهده لایک شده توسط:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "درحال نگاه کردن لیست:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "نشانک ها",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "اعلانات",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "کاوش",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "تغییر دادن یک سری تنظیمات...",
+		"description": ""
+	}
+}
