@@ -1,0 +1,14 @@
+{
+	"contributors.headings.staff": {
+		"message": "Starfsmaður",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Stuðningar",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Þýðingar",
+		"description": "Heading for group of users."
+	}
+}
