@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "Português do Brasil",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Nós suportamos seu idioma, quer alterar?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Nosso website foi traduzido para o seu idioma. Isso pode ajudar caso você não fale inglês tão bem.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Não, obrigado",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Mudar de idioma",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Cozinhando panquecas...;Colocando containers...;Analisando seu IP...;UwU;Quebrando regras...;Hackeando bicicletas...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Loja",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Downloads",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Contribuidores",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Entrar",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Logado como",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Reportar um bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Painel de controle",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Logout",
+    "description": "Logout button"
+  }
+}
