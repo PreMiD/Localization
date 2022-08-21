@@ -1,0 +1,42 @@
+{
+    "juniperbot.mainpage": {
+        "message": "Trang chủ",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Đang xem bảng xếp hạng của máy chủ:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Đang trong bảng điều khiển",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Hội: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Đang đọc thông tin về các kế hoạch đóng góp",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Đang chọn máy chủ",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Đang xem danh sách các lệnh",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Đang xem thống kê của các máy",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Đang chỉnh sửa thẻ hạng",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Đang đọc về các cookie của trang web",
+        "description": "Reading about the site's cookies"
+    }
+}
