@@ -1,0 +1,42 @@
+{
+	"contributors.headings.staff": {
+		"message": "Osebje",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Donatorji / Podporniki",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Vodja Lokalizacij",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Pregled prevodov",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Prevajalci",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Donator",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Podpornik strežnika",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Prevajalec",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Klikni za kopiranje ID uporabnika.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Uporabniški ID je kopiran!",
+		"description": "Notification after user ID was copied."
+	}
+}
