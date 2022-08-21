@@ -1,0 +1,46 @@
+{
+	"twitter.readTweet": {
+		"message": "Citește tweet-ul lui:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Se uită la DM-urile sale",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Se uită la tweet-urile lui:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Se uită la tweet-urile (cu comentarii) lui:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Se uită la media-ul lui:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Se uită la cine a dat like:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Se uită la lista:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Bookmark-uri",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Notificări",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Explorează",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Schimbă câteva setări...",
+		"description": ""
+	}
+}
