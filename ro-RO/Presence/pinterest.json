@@ -1,0 +1,18 @@
+{
+    "pinterest.board": {
+        "message": "Se uită la un board:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Vizualizează un pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Se uită la persoanele urmărite",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Editează pagina home",
+        "description": ""
+    }
+}
