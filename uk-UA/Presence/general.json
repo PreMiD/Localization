@@ -1,0 +1,314 @@
+{
+	"general.anime": {
+		"message": "Аніме",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Дивиться...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Розділ",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Редагування:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Епізод",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Форуми",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Жанр",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Мова",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Слухає музику",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Слухачі",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Наживо",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Манґа",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Мерч",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Сторінка",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Призупинено",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Грає",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Читання ПП від:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Читає про:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Читає статтю:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Читає в каналі:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Читає допис:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Читає потоків ",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Читання",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Шукає ",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Шукає що-небудь...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Пошук",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Пише",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Кошик замовлень",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Магазин",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Друкує в ПП до ",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Друкує в каналі ",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Перегладає аніме ",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Переглядає категорію ",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Переглядає канал ",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Перегляд серію:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Переглядає жанр:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Переглядає домашню сторінку",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Переглядає список ",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Переглядає манґу ",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Переглядає користувача ",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Переглядає фільм ",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Переглядає список відтворення ",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Переглядає товар ",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Переглядає профіль ",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Переглядає серії:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Переглядає серіал ",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Переглядає свій профіль ",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Переглядає поток ",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Переглядає користувача ",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Переглядає ",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Переглядає сторінку:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Дивиться фільм",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Дивиться серіал",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Дивиться шоу",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Дивиться відео",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Очікується прем'єра відео",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Очікується прем'єра відео",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Дивиться пряму трансляцію",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Очікуємо початку трансляції",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Очікуємо початку трансляції",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Дивиться: ",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Список бажаного:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Політика конфіденційності",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Умови обслуговування",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Політика використання Cookie",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Зациклення всіх пісень",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "В циклі",
+		"description": ""
+	},
+	"general.buttonViewSeries": {
+		"message": "Дивитися серіал",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Дивитися серію",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Дивитися відео",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Дивитися трансляцію",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Переглянути сторінку",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Переглянути альбом",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Переглянути профіль",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Переглянути виконавця",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Переглянути список відтворення",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Прочитати статтю",
+		"description": "Used as the title for the button in Discord."
+	}
+}
