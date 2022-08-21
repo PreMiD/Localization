@@ -1,0 +1,90 @@
+{
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** হচ্ছে একটি সহজ, কনফিগারযোগ্য ইউটিলিটি যা দেখায় তুমি কী করছ ইন্টারনেটে তোমার Discord এর প্লেয়িং স্ট্যাটাসে।",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "ফিচার",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "ডাউনলোড",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "একটি গেম খেলছে",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} বাকি",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} পেরিয়েছে",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "প্লেয়িং ব্যাক",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "লাইভ",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "ব্রাউজ করছে...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "তুমি এইসব ফিচারগুলোকে পছন্দ করবে!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "খোঁজ **তোমার** Presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "আমরা আমাদের এক্সটেনশন এমনভাবে তৈরি করেছি যা তোমাকে অন্যদের তৈরি Presences অ্যাড ও ব্যবহার করতে দেবে এবং ম্যানেজ করতে দেবে আমাদের এক্সটেনশনেই!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "স্টোরে যাও",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "সহজ সরল ইউজার ইন্টারফেস",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "ক্লান্ত জটিল ইউজার ইন্টারফেস এর জন্য? তাই তো আমরা তৈরি করেছি এবং চেষ্টা করছি আমাদের UI কে যতটা সম্ভব সহজ এবং কার্যকরী রাখার জন্যে জরুরি ফিচারস এর সাথে যেমন:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "অ্যাপ এবং এক্সটেনশন সেটিংস",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence ম্যানেজমেন্ট",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "ক্যাটাগরিতে সাজানো",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "দ্রুত সাপোর্ট",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "কোনো কিছুর গ্লিচ হয়েছে, অনেকগুলো ত্রুটি দিচ্ছে অথবা সহজ কথায় কাজ করছে না? আমরা সাহায্য করব তোমাকে আমাদের Discord সার্ভারে, আমরা তৈরিও করেছি আমাদের নিজস্ব সাপোর্ট সিস্টেম যা নিশ্চিত করবে তোমার সমস্যা যত দ্রুত সম্ভব সমাধান করা হয়।",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "জয়েন করো আমাদের Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "ওয়েবসাইটের ভাষা",
+		"description": "Tippy content of the language selector."
+	}
+}
