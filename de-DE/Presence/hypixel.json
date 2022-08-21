@@ -1,0 +1,22 @@
+{
+    "hypixel.staff": {
+        "message": "Schaut sich die Teammitgliederliste an",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Betrachtet eigene Threads",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Betrachtet beobachtete Foren",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Betrachtet PNs",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Betrachtet Spiel:",
+        "description": ""
+    }
+}
