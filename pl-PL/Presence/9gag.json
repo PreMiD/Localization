@@ -1,0 +1,34 @@
+{
+    "9gag.gag": {
+        "message": "Przegląda gag'a:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Przegląda to, co jest na topie",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Przegląda aktualne trendy",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Przegląda nowe treści",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Przegląda tag:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Czyta o 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Wyświetla stronę sklepu",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Przegląda kolekcję:",
+        "description": ""
+    }
+}
