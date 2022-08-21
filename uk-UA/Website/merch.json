@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Ласкаво просимо до офіційного **PreMiD** магазину товарів!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Знайдіть свій **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Виберіть свій розмір**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Додати до кошика",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Виникли проблеми з нашим магазином чи замовленням? Зверніться до нашої {0}служби підтримки замовника{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} додано до вашого кошика",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Немає предмета, який ви хочете додати до кошика",
+		"description": "Error message when no size selected"
+	}
+}
