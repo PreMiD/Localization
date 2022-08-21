@@ -1,0 +1,62 @@
+{
+    "facebook.call": {
+        "message": "Într-un apel cu:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Într-un apel video cu:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "cineva... (Utilizator ascuns)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Compune un mesaj",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Citește despre un utilizator:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Se uită la comunitatea unui utilizator:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Se uită la fotografiile lui:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Se uită la postările utilizatorului:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Se uită la magazinul utilizatorului:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Se uită la prietenii utilizatorului:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Se uită la videoclipurile utilizatorului:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Se uită la:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Videoclipuri salvate",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Adăugate recent",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Se uită la vremea de astăzi",
+        "description": ""
+    }
+}
