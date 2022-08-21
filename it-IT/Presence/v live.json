@@ -1,0 +1,14 @@
+{
+	"v live.browseThrough": {
+		"message": "Navigando attraverso",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "la pagina dei nuovi video",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.viewTheir": {
+		"message": "Visualizzando i loro",
+		"description": "The first part of the next 6 strings"
+	}
+}
