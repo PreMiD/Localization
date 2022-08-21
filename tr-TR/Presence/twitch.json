@@ -1,0 +1,262 @@
+{
+	"twitch.downloads": {
+		"message": "İndirmeler",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "İşler",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerler",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Basın Merkezi",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Güvenlik",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Erişilebilirlik",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Reklam Tercihleri",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Topluluk kuralları",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Ana Sayfa",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Cüzdana bakıyor...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "E-Spor'a bakıyor...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Takip Edilen Kişilere Bakıyor...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Takıma bakıyor:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Drop envanterine bakıyor...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Aktif Drop kampanyalarına bakıyor...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Ayarlara bakıyor...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Arkadaşlarına bakıyor...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Aboneliklerine bakıyor...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Squad izliyor...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Yayıncının moderatörlüğünü yapıyor:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Kod kullanıyor...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Üretici Kampı",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Temelleri Öğren",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Yayınınız Hazırlanıyor",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Seviye Atlandı",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Bağlan ve Etkileşime Geç",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Ödüller Kazan",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Twitch'te müzik",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Canlı Öğrenme",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Üretici Kontrol Paneli",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Yayınını yönetiyor...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Topluluk rollerini yönetiyor...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "Video Yönetiminde...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Görüntülüyor",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Kanal İstatistikleri",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Yayın Özeti",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Başarımlar",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Topluluk Aktiviteleri",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Takipçi listesi",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Video Koleksiyonları",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Klipler",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Kanal Ayarları",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Moderasyon Ayarları",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Drop Ayarları",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Yayın Araçlarına Bakıyor",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Eklentilere Bakıyor",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Twitch markası hakkında okuyor...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Twitch'i adam ediyor",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Çılgınlığımıza yeni yöntemler getiriyor",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "İfademizi arttırıyor",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Herkes bir araya getiriyor",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Twitch'in yükselişini izliyor",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Twitch Blogları",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "{0} Blog Arşivine bakıyor",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Son blog yazılarına bakıyor...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Yardım Merkezi",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Gönderiye bakıyor:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Konu kataloğunu inceliyor...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Twitch Ortaklık Programı",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Twitch Geliştiricileri",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Twitch Geliştirici Belgeleri",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Twitch Geliştirici Ürünleri",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Topluluktan başarı hikayeleri",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Yararlı Kaynaklar",
+		"description": "Page name"
+	}
+}
