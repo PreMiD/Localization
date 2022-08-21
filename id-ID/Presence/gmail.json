@@ -1,0 +1,122 @@
+{
+  "gmail.categoryPrimary": {
+    "message": "Melihat kategori Utama",
+    "description": "Displayed when viewing emails in the primary category."
+  },
+  "gmail.categorySocial": {
+    "message": "Melihat kategori Sosial",
+    "description": "Displayed when viewing emails in the social category."
+  },
+  "gmail.categoryUpdates": {
+    "message": "Melihat kategori Update",
+    "description": "Displayed when viewing emails in the updates category."
+  },
+  "gmail.categoryPromotions": {
+    "message": "Melihat kategori Promosi",
+    "description": "Displayed when viewing emails in the promotions category."
+  },
+  "gmail.categoryForum": {
+    "message": "Melihat kategori Forum",
+    "description": "Displayed when viewing emails in the forums category."
+  },
+  "gmail.inLabel": {
+    "message": "Melihat label",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  },
+  "gmail.generalSettings": {
+    "message": "Mengatur pengaturan Umum",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.labelSettings": {
+    "message": "Mengatur pengaturan Label",
+    "description": "Displayed when the user is modifying their labels"
+  },
+  "gmail.inboxSettings": {
+    "message": "Mengatur pengaturan Kotak Masuk",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "Mengatur pengaturan Akun dan Impor",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "Mengatur Filter dan Alamat yang diblokir",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "Mengatur pengaturan Penerusan dan POP/IMAP",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "Mengatur Add-on",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "Mengatur pengaturan Chat dan Meet",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "Mengatur pengaturan lanjutan",
+    "description": "Displayed when the user is modifying their advanced settings"
+  },
+  "gmail.offlineSettings": {
+    "message": "Mengatur pengaturan Offline",
+    "description": "Displayed when the user is modifying their offline settings"
+  },
+  "gmail.themesSettings": {
+    "message": "Memilih tema",
+    "description": "Displayed when the user is modifying their theme in the settings"
+  },
+  "gmail.lookingForEmail": {
+    "message": "Mencari email",
+    "description": "Displayed when the user is searching for an email"
+  },
+  "gmail.viewingEmail": {
+    "message": "Melihat email",
+    "description": "Displayed when the user is viewing an email"
+  },
+  "gmail.viewingStarredEmails": {
+    "message": "Melihat email berbintang",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "Melihat email terkirim",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "Melihat email yang ditunda",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "Melihat draf",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "Melihat email penting",
+    "description": "Displayed when the user is viewing emails marked as important"
+  },
+  "gmail.viewingTrash": {
+    "message": "Melihat sampah",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "Melihat chat",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "Melihat email terjadwal",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "Melihat email spam",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "Melihat semua email",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "Menulis email",
+    "description": "Displayed when the user is composing an email"
+  }
+}
