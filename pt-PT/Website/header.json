@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "Português",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "O teu idioma está disponível, queres trocar?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "O nosso site foi traduzido para o teu idioma. Pode vir a ser útil se não perceberes inglês muito bem.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Não, obrigado",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Trocar de idioma",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "A fazer panquecas...;A colocar recipientes...;A analisar o teu endereço IP...;UwU;A violar regras...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Loja",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Downloads",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Contribuidores",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Entrar",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Sessão iniciada como",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Reportar um erro",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Painel de controlo",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Terminar Sessão",
+    "description": "Logout button"
+  }
+}
