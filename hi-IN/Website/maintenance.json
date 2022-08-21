@@ -1,0 +1,26 @@
+{
+	"maintenance.big": {
+		"message": "अरे नहीं",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "दुर्भाग्य से, हम कुछ तकनीकी कठिनाइयों का सामना कर रहे हैं। हम शीघ्र ही लौटेंगे। असुविधा के लिए खेद है।",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "कृपया अधिक जानकारी के लिए बाद में वापस आएं।",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "जब तक हमारे विशेष डेवलपर्स इसे ठीक नहीं करते, तब तक यहां एक नज़र डालें!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "स्टीटस पेज",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "डिसकॉर्ड सर्वर",
+		"description": "Discord Server link on maintenance page"
+	}
+}
