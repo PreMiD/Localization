@@ -1,0 +1,26 @@
+{
+    "amazon.prime": {
+        "message": "Ser på Amazon Prime",
+        "description": ""
+    },
+    "amazon.orderHistory": {
+        "message": "ordrehistorikk",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "ordredetaljer",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "handlekurv",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "ønskeliste",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "gavekort",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
+}
