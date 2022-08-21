@@ -1,0 +1,62 @@
+{
+    "facebook.call": {
+        "message": "W rozmowie z:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "W rozmowie wideo z:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "kimś... (Użytkownik jest ukryty)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Pisze wiadomość",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Czyta o użytkowniku:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Wyświetla społeczności użytkownika:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Wyświetla zdjęcia użytkownika:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Przegląda posty użytkownika:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Przegląda sklep użytkownika:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Przegląda znajomych użytkownika:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Wyświetla filmy stworzone przez:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Przegląda:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Zapisane filmy",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Niedawno dodane",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Wyświetla dzisiejszą pogodę",
+        "description": ""
+    }
+}
