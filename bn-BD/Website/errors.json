@@ -1,0 +1,46 @@
+{
+	"store.search.notFound": {
+		"message": "আমরা সেই Presence টা খুঁজে পাইনি...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "দুঃখিত, আমরা সেই পেজটি খুঁজে পাইনি।",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "তুমি এমন একটি Presence খুঁজছ যেটি নেই কিংবা ডিলিট করা হয়েছে।",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "ইন্টারনাল সার্ভারে ত্রুটি ঘটেছে।",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "বিস্তারিত",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "হোমপেজে ব্যাক করো",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "সেই ইউজারকে পাওয়া যায়নি। নিশ্চিত করার চেষ্টা করো",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "যে তুমি যে ইউজার এর আইডি খুঁজছ সেটি ঠিক আছে।",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "ইউজারটি যথেষ্ট Presences তৈরি করেছে এবং আমাদের Discord সার্ভারে Presence Developer রোল আছে।",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "যদি অন্যরাও একইরকম সমস্যা দেখতে পাচ্ছে আমাদের Discord সার্ভারে।",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "যদি তুমি মনে করো এটি একটি ভুল ছিল, আমাদের সাথে যোগাযোগ করো [আমাদের Discord সার্ভারে]।",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}
