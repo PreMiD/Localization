@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "हिंदी",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "हम आपकी भाषा का समर्थन करते हैं, स्विच करना चाहते हैं?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "हमारी वेबसाइट को आपकी भाषा में अनुवादित किया गया है। यदि आप अच्छी तरह से अंग्रेजी नहीं बोलते हैं तो यह मदद कर सकता है",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "नहीं, धन्यवाद",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "भाषा बदलें",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "पैनकेक पेनकेक्स...; कंटेनर रखने;... अपने आईपी पते को पार्स...; यूयूयू; ब्रेकिंग नियम...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "स्टोर",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "डाउन्लोड",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "योगदानकर्ता",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "लॉग इन करें",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "के रूप में लॉग:",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "बग की रिपोर्ट करें",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "डैशबोर्ड",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "लॉग आउट करें",
+    "description": "Logout button"
+  }
+}
