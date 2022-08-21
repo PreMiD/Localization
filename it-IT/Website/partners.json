@@ -1,0 +1,246 @@
+{
+	"partners.header.title": {
+		"message": "Partner",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Unisciti alla famiglia e ottieni alcuni vantaggi riservati ai partner per mostrare quanto sei swag.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Questi già ci appartengono",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Che ne dici di andare in paradiso invece che all'inferno?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "La tua presenza gratuita",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Il nostro team ti fornirà una Presenza del tuo servizio web.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Diventa verificato",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Un ruolo speciale e un grande onore ti verranno assegnati nel nostro server Discord.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Integrazione con Meta-tag",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Attiva automaticamente la tua presenza quando qualcuno visita il tuo sito Web.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Immortalati",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Un brutto posto sulla nostra pagina dei partner.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Diventa famoso",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "In primo piano sui nostri social.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Requisiti",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Che cosa stiamo cercando?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Teniamo d'occhio le comunità in crescita e le cose interessanti su Internet. TL;DR, dovresti già utilizzare PreMiD ed essere pronto a diffonderlo ad ancora più maniaci di Internet. L'accettazione al programma è estremamente qualitativa e varierà da un candidato all'altro.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Il nostro firewall",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Stiamo attualmente accettando vari tipi di lavori nel nostro programma di partnership. Chiunque dovrebbe avere la possibilità di essere notato. Gli streamer Twitch devono avere almeno 500 follower e almeno 10 spettatori simultanei. Dovrai essere in diretta almeno 1 volta a settimana.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Applica ora!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Andiamo in paradiso insieme!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Se sei piuttosto interessato ad un lavoro diretto presso PreMiD, dai un'occhiata ai nostri **annuncio di lavoro**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsor",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD non sarebbe possibile senza queste persone straordinarie.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Ecco come guardi gli anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings è un frenetico gioco PvP Arena di nuova generazione giocato nel browser.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat Radio è una radio online gestita dalla comunità, che fornisce intrattenimento radio 24/7 senza pubblicità, articoli di notizie quotidiane e molto altro ancora!",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio è la radio di infotainment di maggior successo per i giochi di simulazione in Germania, Austria e Svizzera!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Inizia a creare la tua comunità con i nostri fantastici modelli. Costruisci il tuo regno.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga è un bot di Discord che cerca di offrire tutte le funzionalità di cui hai bisogno in una volta!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Uno strumento di creazione di programmi di installazione multipiattaforma potente e facile da usare.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Comunica facilmente lo stato in tempo reale ai tuoi utenti.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Una dea che gioca come un divertente bot di Discord!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM vi permette di ascoltare 15+ stream musicali gratis - senza interruzioni. Con la migliore e più recente musica solo per te!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Localizzazione agile per aziende tecnologiche.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Il Software Wiki open source più potente ed estensivo.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Un unica e amichevole interfaccia per tutti i tuoi artefatti.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Dietro il meglio del web.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit è la tua stazione radio di musica online fatta per riprodurre le tue migliori canzoni 24/7 e per farti scoprire le tue canzoni future.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix è il più grande server Discord relativo a Netflix. Discuti qui delle tue serie o film preferiti con persone che la pensano come te.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "Domanda per essere un partner",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Collegato come {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Non sei tu?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Seleziona",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Sito Web",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Altro",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Nome",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Es: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Link",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Es: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Descrizione: (Massimo 150 caratteri)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Descrizione per le presentazioni",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Link immagine: (550x300, solo PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Es: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Chiudi",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Applica",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Grazie per esserti candidato!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Per favore, completa tutti i campi.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Descrizione massima di 150 caratteri.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Si prega di aggiungere un link (deve iniziare con https:// e terminare con .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Hai già fatto domanda per partner.",
+		"description": "Error when already applied."
+	}
+}
