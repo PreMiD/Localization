@@ -1,0 +1,46 @@
+{
+	"beta.title": {
+		"message": "Wil je nieuwe functies?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "De **PreMiD-bèta** is nu beschikbaar voor iedereen!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Wat krijg je als je je aanmeldt?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Nieuwste functies",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Toegang tot PreMiDs supergeheime tekstkanalen",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Een speciale rol op onze Discord server",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Klaar ervoor? Sluit je aan bij {0} andere bètatesters!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Nu aanmelden!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Cool! Je bent nu een bètatester!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Onze aapjes zijn hard bezig om jou in ons bètaprogramma te krijgen. Bedankt voor het registreren!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Het lijkt erop dat ons bètaprogramma vol is.",
+		"description": "Shows when the beta slots are full."
+	}
+}
