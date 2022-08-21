@@ -1,0 +1,22 @@
+{
+    "hypixel.staff": {
+        "message": "Se uită la lista staff-ului",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Se uită la subiectele urmărite",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Se uită la forumurile urmărite",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Se uită la DM-urile sale",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Se uită la un joc:",
+        "description": ""
+    }
+}
