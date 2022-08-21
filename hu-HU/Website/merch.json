@@ -1,0 +1,18 @@
+{
+	"merch.cart": {
+		"message": "Kosárba rakás",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Problémád akadt az oldalunkkal vagy egy rendeléssel? Vedd fel a kapcsolatot az {0}ügyfél szolgálatunkkal{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} hozzáadva a kosárhoz",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Nincs termék amit a kosárba lehet rakni",
+		"description": "Error message when no size selected"
+	}
+}
