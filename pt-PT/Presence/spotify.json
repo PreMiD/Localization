@@ -1,0 +1,58 @@
+{
+	"spotify.featured": {
+		"message": "Músicas em destaque",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Melhores podcasts",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "A ver os rankings",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "A ver os géneros",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "A ver os últimos lançamentos",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "A ver novas músicas",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "A ver",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcasts de que gosta",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artistas de que gosta",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "álbuns de que gosta",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "músicas de que gosta",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Feito para ti\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "as suas playlists",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "A descarregar o Spotify",
+		"description": ""
+	}
+}
