@@ -1,0 +1,18 @@
+{
+	"genius.lyrics": {
+		"message": "Betrachtet die Lyrics von:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Betrachtet Lyrics",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Betrachtet die Homepage",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Betrachtet Album:",
+		"description": "Album of a song"
+	}
+}
