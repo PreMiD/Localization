@@ -1,0 +1,90 @@
+{
+	"premid.viewPage": {
+		"message": "مشاهده صفحه:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "مستندات",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "دیدن presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "صفحه اصلی",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "مشارکت کنندگان",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "دانلود‎ها",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "فروشگاه",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "همکاران",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "درباره PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "بیش نیاز های سیستم",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "نصب کردن",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "نصب برای {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "ایرادیابی",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "شروع کردن",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "دانستن API نسخه {0}",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "توسعه Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "شرایط استفاده Presence ها",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Slideshow Class",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "فهمیدن iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "تنظیم metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "تنظیم TypeScript",
+		"description": "A page name"
+	}
+}
