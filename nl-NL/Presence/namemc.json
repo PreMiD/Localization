@@ -1,0 +1,74 @@
+{
+	"namemc.upcomingNames": {
+		"message": "Bekijkt aankomende namen",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
+	"namemc.skinsTrending": {
+		"message": "Bekijkt populaire skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTop": {
+		"message": "Bekijkt de top skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsNew": {
+		"message": "Bekijkt nieuwe skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsRandom": {
+		"message": "Bekijkt willekeurige skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTagged": {
+		"message": "Bekijkt getagde skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTag": {
+		"message": "Bekijkt skins met {0} tag",
+		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
+	},
+	"namemc.viewSkin": {
+		"message": "Bekijkt een skin",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "Bekijkt capes",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "Bekijkt cape:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Bekijkt servers",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Bekijkt server:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Server bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "Bekijkt hoe je je profiel kunt opeisen",
+		"description": ""
+	},
+	"namemc.profileEdit": {
+		"message": "Bewerkt {0}profielinformatie",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"namemc.viewFriends": {
+		"message": "Bekijkt vrienden",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "Bekijkt eigen skins",
+		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "Bekijkt profielemoji's",
+		"description": "You can have an emoji next to your name, you select it here."
+	}
+}
