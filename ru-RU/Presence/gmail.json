@@ -1,0 +1,122 @@
+{
+  "gmail.categoryPrimary": {
+    "message": "Смотрит категорию «Основная»",
+    "description": "Displayed when viewing emails in the primary category."
+  },
+  "gmail.categorySocial": {
+    "message": "Смотрит категорию «Соцсети»",
+    "description": "Displayed when viewing emails in the social category."
+  },
+  "gmail.categoryUpdates": {
+    "message": "Смотрит категорию «Оповещения»",
+    "description": "Displayed when viewing emails in the updates category."
+  },
+  "gmail.categoryPromotions": {
+    "message": "Смотрит категорию «Промоакции»",
+    "description": "Displayed when viewing emails in the promotions category."
+  },
+  "gmail.categoryForum": {
+    "message": "Смотрит категорию «Форумы»",
+    "description": "Displayed when viewing emails in the forums category."
+  },
+  "gmail.inLabel": {
+    "message": "Смотрит ярлыки",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
+  },
+  "gmail.generalSettings": {
+    "message": "Настраивает общие настройки",
+    "description": "Displayed when the user is modifying their settings"
+  },
+  "gmail.labelSettings": {
+    "message": "Настраивает ярлыки",
+    "description": "Displayed when the user is modifying their labels"
+  },
+  "gmail.inboxSettings": {
+    "message": "Настраивает папки «Входящие»",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "Настраивает аккаунт и импорт",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "Настраивает фильтры и заблокированные адреса",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "Настраивает пересылку и POP/IMAP",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "Настраивает дополнения",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "Настраивает чат и Meet",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "Настраивает расширенные настройки",
+    "description": "Displayed when the user is modifying their advanced settings"
+  },
+  "gmail.offlineSettings": {
+    "message": "Настраивает офлайн настройки",
+    "description": "Displayed when the user is modifying their offline settings"
+  },
+  "gmail.themesSettings": {
+    "message": "Выбирает тему",
+    "description": "Displayed when the user is modifying their theme in the settings"
+  },
+  "gmail.lookingForEmail": {
+    "message": "Ищет письмо",
+    "description": "Displayed when the user is searching for an email"
+  },
+  "gmail.viewingEmail": {
+    "message": "Читает письмо",
+    "description": "Displayed when the user is viewing an email"
+  },
+  "gmail.viewingStarredEmails": {
+    "message": "Читает помеченное письмо",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "Читает отправленные письма",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "Читает отложенные письма",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "Смотрит черновики",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "Смотрит важные письма",
+    "description": "Displayed when the user is viewing emails marked as important"
+  },
+  "gmail.viewingTrash": {
+    "message": "Смотрит корзину",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "Смотрит чаты",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "Смотрит запланированные письма",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "Смотрит спам",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "Смотрит все письма",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "Пишет письмо",
+    "description": "Displayed when the user is composing an email"
+  }
+}
