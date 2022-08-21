@@ -1,0 +1,242 @@
+{
+	"partners.header.title": {
+		"message": "Partneri",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Pripojte sa k slávnemu a získajte výhody iba pre partnerov, aby ste sa mohli pochváliť tým, koľko máte swagu.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Týto už patria nám",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Čo tak ísť do neba namiesto pekla?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Vaša bezplatná prítomnosť",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Náš tím vám poskytne prítomnosť vašich služieb.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Staňte sa overeným",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Špeciálna rola a veľká česť vám bude poskytnutá na našom serveri Discord.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Integrácia metaznačiek",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Automaticky používa vašu prítomnosť, keď niekto navštívi váš web.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Staňte sa nesmrteľným",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Škaredé miesto na našej partnerskej stránke.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Buď slavný",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Uvádzané na našich sociálnych sieťach.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Požiadavky",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Čo hľadáte?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Dávame pozor na rastúce komunity a vzrušujúce veci na internete. TL; DR by ste už mali používať PreMiD a byť pripravení rozšíriť ho ešte na viac internetových šialencov. Prijatie do programu je mimoriadne kvalitatívne a bude sa líšiť od jedného kandidáta k druhému.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Náš firewall",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "V súčasnosti prijímame rôzne druhy úsilia do nášho partnerského programu. Každý by mal mať šancu byť si všimol. Prevádzkovatelia vysielania Twitch by mali mať najmenej 500 sledovateľov a najmenej 10 súbežných divákov. Streamovanie musíte uskutočňovať aspoň raz týždenne.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Nainštalovať teraz!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Poďme spolu do neba!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Ak máte skôr záujem o priamu prácu v PreMiD, pozrite si naše ** pracovné inzeráty **.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponzori",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD by nebol možný bez týchto úžasných ľudí.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Takto pozeráte anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings je rýchla PvP aréna novej generácie, ktorá sa hrá v prehliadači.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio je najúspešnejšie rádio infotainmentu pre simulačné hry v Nemecku, Rakúsku a Švajčiarsku!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Začnite vytvárať svoju vlastnú komunitu pomocou našich úžasných šablón. Vybudujte si svoje vlastné kráľovstvo.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga je Discord Bot, ktorý sa snaží ponúknuť všetky funkcie, ktoré môžete potrebovať naraz!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Výkonný a ľahko použiteľný nástroj na tvorbu inštalačných programov pre rôzne platformy.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Ľahko oznámte svojim používateľom stav v reálnom čase.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Bohyňa, ktorá sa hrá na zábavný Discord Bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "Vďaka REYFM môžete počúvať bezplatne viac ako 15 hudobných streamov - nepretržite. S najlepšou a najnovšou hudbou iba pre vás!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Agilná lokalizácia pre technologické spoločnosti.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Najvýkonnejší a rozšíriteľný open source softvér Wiki.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Jednotné vývojárske rozhranie pre všetky vaše artefakty.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Za tým najlepším na webe.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit je vaša online hudobná rozhlasová stanica, ktorá slúži na nepretržité prehrávanie vašich najlepších hitov a na objavovanie vašich budúcich hitov ako prvých.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix je najväčším Discord serverom o Netflixe. Diskutujte tu o svojich obľúbených sériách alebo filmoch s podobne zmýšľajúcimi ľuďmi.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "Podajte žiadosť o partnera",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Prihlásený ako {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Nie ste to vy?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Prosím, vyberte jednu možnosť",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Stránka",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Ostatné",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Názov",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Ex: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Odkaz",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Ex: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Popis: (Maximálne 150 znakov)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Popis pre odporúčané",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Odkaz na obrázok: (550 x 300, iba PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Ex: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Zavrieť",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Podať žiadosť",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Ďakujeme za prihlásenie!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Vyplňte všetky polia.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Maximálne 150 znakov.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Pridajte odkaz (musí sa začínať https: // a končiť .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Už ste požiadali o partnera.",
+		"description": "Error when already applied."
+	}
+}
