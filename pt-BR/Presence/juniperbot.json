@@ -1,0 +1,22 @@
+{
+    "juniperbot.mainpage": {
+        "message": "Página principal",
+        "description": "Home page of the site"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Servidor: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.servers": {
+        "message": "Selecionando servidor",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Olhando a lista de comandos",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Vendo as estatísticas do bot",
+        "description": "Page with bot's statistics"
+    }
+}
