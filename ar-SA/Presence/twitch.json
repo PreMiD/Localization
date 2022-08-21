@@ -1,0 +1,262 @@
+{
+	"twitch.downloads": {
+		"message": "التحميلات",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "الوظائف",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "تيربو",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "الشركاء",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "المركز الصحفي",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "الحماية",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "إمكانية الوصول",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "اختيارات الإعلانات",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "إرشادات المجتمع",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "الصفحة الرئيسية",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "يشاهد المحفظة...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "يشاهد الـ Esports...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "يشاهد أشخاص اتابعهم...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "يشاهد الفريق:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "يشاهد مخزون الـ Drops...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "يشاهد حملات الـ Drops الفعالة...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "يشاهد إعداداته...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "يشاهد إصدقائه...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "يشاهد إشتراكاته...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "يشاهد الفريق...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "يشرف على البث:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "يستعمل الكود...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "معسكر صانعي المحتوى",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "تعلم الأساسيات",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "إعداد البث الخاص بك",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "الارتقاء بالمستوى",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "اتصل وشارك",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "احصل على الجوائز",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "الموسيقى على تويتش",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "التعلم المباشر",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "لوحة تحكم صانعي المحتوى",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "يقوم بإدارة البث الخاص به...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "يقوم بإدارة رتب المجتمع الخاص به...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "في منتج الفيديو...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "يشاهد",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "إحصائيات القناة",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "موجز البث",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "الإنجازات",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "النشاط الاجتماعي",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "قائمة المتابعين",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "مجموعات الفيديو",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "لقطات",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "اعدادات القناة",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "إعدادات الإشراف",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "إعدادات ال Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "يشاهد أدوات البث",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "يشاهد الـ Extenstions",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "يقرأ عن علامة تويتش التجارية...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "يحافظ على تويتش",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "جلب اساليب إلى جنوننا ( المحبوب)",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "أقصى تعبيراتنا",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "جمعها معا",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "يشاهدة التطور لعلامة تويتش التجارية",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "مدوّنات تويتش",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "يشاهد مدونة سنة {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "يتصفح أحدث مشاركات المدونة...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "مركز المساعدة",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "يقرأ الموضوع:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "يتصفح كتالوج الموضوع...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "برنامج شركاء تويتش",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "مطوري تويتش",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "مستندات مطورين تويتش",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "منتجات مطور تويتش",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "قصص النجاح من المجتمع",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "مصادر مساعدة",
+		"description": "Page name"
+	}
+}
