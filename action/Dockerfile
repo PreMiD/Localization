@@ -15,4 +15,5 @@ RUN pnpm i --frozen-lockfile --prod
 
 COPY --from=builder dist /
 
+RUN node /updateTranslations.js
 ENTRYPOINT ["node", "/index.js"]

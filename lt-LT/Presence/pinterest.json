@@ -1,0 +1,18 @@
+{
+    "pinterest.board": {
+        "message": "Peržiūri lentą:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Peržiūri smeigtuką",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Peržiūri savo sekėjus",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Redaguoja nuosavą pagrindinį puslapį",
+        "description": ""
+    }
+}

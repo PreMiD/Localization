@@ -1,0 +1,50 @@
+{
+  "extension.2.0.new1": {
+    "message": "Потребителите вече могат сами да добавят присъствия. * Добавете малко сега! *",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "Намерете някои * нови присъствия * в естественото им местообитание",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "Автоматичното актуализиране е нещо вече",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "Потребителите могат да създават присъствия сега",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "* Документи * за тези творчески разработчици там",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "Всички нови дизайн на уебсайтове",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "Още функции за нашия Discord-Bot",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "Новият ни API е тичащ звяр",
+    "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "Обновено оформление на изскачащи и раздели и стилове",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "Много (не) известни бъгове избягаха",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "Сега всичко работи много по-бързо",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "Поправя стара грешка в приложението, дори ако имате най-новата",
+    "description": ""
+  }
+}

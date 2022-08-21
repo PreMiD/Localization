@@ -1,0 +1,46 @@
+{
+	"twitter.readTweet": {
+		"message": "Читает твит:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Смотрит личные сообщения",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Просмотр твитов:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Просмотр твитов (с ответами):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Смотрит медиа:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Смотрит лайков:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Смотрит список:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Закладки",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Уведомления",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Обнаружить",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Изменяет некоторых настроек...",
+		"description": ""
+	}
+}

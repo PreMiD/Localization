@@ -1,0 +1,30 @@
+{
+    "amazon.subscriptions": {
+        "message": "Zobrazení předplatného",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Zobrazení jejich",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "historie objednávek",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "podrobnosti k objednávce",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "nákupní košík",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "seznam přání",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "giftkarty",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
+}

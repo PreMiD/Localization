@@ -1,0 +1,78 @@
+{
+    "1337x.movieLibrary": {
+        "message": "Смотрит библиотеки фильмов",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Просмотр библиотеки серии",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Смотрит последних серий",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Смотрит топ-100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Смотрит трендового",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Смотрит Аниме Торрентов",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Смотрит приложения торрентов",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Просмотр документов торрентов",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Смотрит игр торрентов",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Смотрит кино торрентов",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Смотрит музыки торрентов",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Смотрит других торрентов",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Смотрит ТВ торрентов",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Смотрит XXX торрентов",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Что-то загружается...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Читает правила",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Записывает в 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Читает о 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Смотрит торрент:",
+        "description": ""
+    }
+}

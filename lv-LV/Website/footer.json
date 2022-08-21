@@ -1,0 +1,110 @@
+{
+	"footer.language": {
+		"message": "Valoda",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Gatavs izmantot PreMiD?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Pievienojies {0} lietotājiem šodien!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Uzstādīt",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Partneri",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Sekojiet Mums",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "Izstrādātāji",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "Dokumentācija",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "Atbalsti mūs",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "Ziedo",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "Dod savu ieguldījumu",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "Tulko",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Strādā ar mums!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "Palīdzība",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "Problēmu novēršana",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "Saņemt palīdzību",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "Informācija",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "Sīkdatnes",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "Konfidencialitāte",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "Nosacījumi",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "Vairāk",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "Statuss",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "Wiki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "Mājaslapu uztur {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Klikšķiniet šeit, lai redzētu mūsu pārējos partnerus & sponsorus.",
+		"description": "Button next to all listed partners on the footer."
+	}
+}

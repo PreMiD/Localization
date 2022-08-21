@@ -1,0 +1,90 @@
+{
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** ist eine einfache, konfigurierbare Software, die dir erlaubt in deinem Discord-Status zu zeigen, was du im Web tust.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funktionen",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Downloads",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Spielt ein Spiel",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} verbleibend",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} verstrichen",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Wiedergabe",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Durchstöbert...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Du wirst diese Funktionen lieben!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Finde **deine** Presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Wir haben unsere Erweiterung so programmiert, dass du einfach Presences von anderen Benutzern hinzufügen und in unserer Erweiterung verwalten kannst!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Store besuchen",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Einfache Benutzeroberfläche",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Müde von komplizierten Benutzeroberflächen? Deshalb haben wir unsere Benutzeroberfläche so einfach und nützlich wie möglich gehalten, mit wichtigen Funktionen wie:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "App- und Erweiterungseinstellungen",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence-Verwaltung",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Nach Kategorie sortieren",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Schneller Support",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Irgendwas ist fehlerhaft, gibt dir tonnenweise Fehlermeldungen oder funktioniert nicht? Wir helfen dir auf unserem Discord-Server, diese Probleme zu beseitigen. Wir haben auch unser eigenes Supportsystem erstellt, um sicher zu stellen, dass dein Problem schnellstmöglich behoben wird.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Trete unserem Discord-Server bei",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Website-Sprache",
+		"description": "Tippy content of the language selector."
+	}
+}

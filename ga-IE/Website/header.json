@@ -1,0 +1,58 @@
+{
+  "header.language": {
+    "message": "Gaeilge",
+    "description": "Replace English with the name of YOUR language!"
+  },
+  "header.languageNotification.title": {
+    "message": "Tacaímid le do theanga, ar mhaith leat athrú?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "Aistríodh ár suíomh gréasáin go dtí do theanga, d’fhéadfadh sé seo a bheith cabhrach mura dtuigeann tú Béarla go maith.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Níl sé uaim go raibh maith agat",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Athraigh an teanga",
+    "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "Pancóga bácála...;Coimeádáin a chur...;Ag seoladh do sheoladh IP...;UwU;Rialacha a bhriseadh...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
+  },
+  "header.store": {
+    "message": "Stór",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Íoslódálacha",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Rannpháirtithe",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Logáil isteach",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Logáilte isteach mar",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Tuairisc ar fhabht",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Painéal na nIonstraimí",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Logáil Amach",
+    "description": "Logout button"
+  }
+}

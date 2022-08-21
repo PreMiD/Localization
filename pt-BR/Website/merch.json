@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Bem-vindo à loja oficial de mercadorias do PreMiD!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Encontre seu **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "** Escolha seu ajuste**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Adicionar ao carrinho",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Tendo problemas com nossa loja ou pedido? Contate nosso {0}serviço de atendimento ao cliente{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} adicionado ao seu carrinho",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Nenhum item para adicionar ao seu carrinho",
+		"description": "Error message when no size selected"
+	}
+}

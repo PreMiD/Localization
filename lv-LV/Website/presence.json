@@ -1,0 +1,46 @@
+{
+	"presence.page.buttons.sourceCode": {
+		"message": "Avota Kods",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Apraksts",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Izmaiņu žurnāls",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Informācija",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Autors",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Versija",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Patīk",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Lietotāji",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Atzīmes",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "Atbalstītie URL",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Ieguldītāji",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
+}

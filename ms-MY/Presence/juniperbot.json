@@ -1,0 +1,42 @@
+{
+    "juniperbot.mainpage": {
+        "message": "Halaman utama",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Memantau papan pendahulu pelayan:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Dalam papan pemuka",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Perseikatan: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Membaca maklumat mengenai pelan derma",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Memilih pelayan",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Melihat senarai perintah",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Melihat statistik bot",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Menyuai kad pangkat",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Membaca mengenai kuki laman",
+        "description": "Reading about the site's cookies"
+    }
+}

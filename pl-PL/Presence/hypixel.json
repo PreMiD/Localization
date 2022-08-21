@@ -1,0 +1,22 @@
+{
+    "hypixel.staff": {
+        "message": "Przegląda listę pracowników",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Przegląda obserwowane wątki",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Przegląda obserwowane fora",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Przegląda swoje wiadomości prywatne",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Ogląda grę:",
+        "description": ""
+    }
+}

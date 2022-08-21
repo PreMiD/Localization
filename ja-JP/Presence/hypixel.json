@@ -1,0 +1,22 @@
+{
+    "hypixel.staff": {
+        "message": "スタッフ一覧を閲覧中",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "閲覧したスレッド一覧を表示中",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "閲覧したフォーラム一覧を表示中",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "DMを閲覧中",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "ゲーム一覧を表示中",
+        "description": ""
+    }
+}

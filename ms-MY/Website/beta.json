@@ -1,0 +1,46 @@
+{
+	"beta.title": {
+		"message": "Mahukan lebih banyak ciri?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** kini tersedia untuk semua orang!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Apa yang anda akan dapat jika anda daftar?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Ciri-ciri terbaru",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Capaian ke saluran sembang super rahsia PreMiD",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Peranan istimewa di pelayan Discord kami",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Anda bersedia? Sertai {0} Penguji Beta yang lain!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Daftarlah!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Terbaik! Anda kini pengguna beta!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Monyet kami sedang berusaha memasukkan anda ke dalam program beta kami secepat mungkin. Terima kasih kerana mendaftar!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Nampaknya kami sudah tiada slot beta yang lain.",
+		"description": "Shows when the beta slots are full."
+	}
+}

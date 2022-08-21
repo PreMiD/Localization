@@ -1,0 +1,30 @@
+{
+  "presence.playback.playing": {
+    "message": "वापस चलाएँ रहा है",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
+  },
+  "presence.playback.paused": {
+    "message": "प्लेबैक रोक दिया",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
+  },
+  "presence.activity.browsing": {
+    "message": "ब्राउजिंग",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "लाइव",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "पढ़ना",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "खोज रहा है",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "एपिसोड {0}",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
+  }
+}

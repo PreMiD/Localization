@@ -1,0 +1,38 @@
+{
+	"twitter.viewTweets": {
+		"message": "Skoðar tweet af:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Skoðar tweets (með svörum) af:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Skoðar fjölmiðlun af:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Skoðar manns sem líkaði við:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Skoðar lista:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Bókamerki",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Tilkynningar",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Skoðar",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Breytir stillingum...",
+		"description": ""
+	}
+}

@@ -1,0 +1,74 @@
+{
+    "amazon.subscriptions": {
+        "message": "Ndeleng Langganan",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Ndeleng pilihan iklan",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Ndeleng saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Ndeleng metode pembayaran",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Ndeleng alamat",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Ndeleng peliharaan",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Ndeleng kabeh kategori",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Ndeleng Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Ndeleng",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "riwayat pesenan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "detail pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "keranjang belanja",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "daftar keinginan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "kartu hadiah",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Ndeleng rekomendasi",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ndeleng riwayat",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Ndeleng toko:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Ndeleng Prime Video:",
+        "description": ""
+    }
+}

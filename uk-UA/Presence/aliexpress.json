@@ -1,0 +1,66 @@
+{
+    "aliexpress.store": {
+        "message": "Переглядає крамницю:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Особисті повідомлення",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Перегляд розпродаж",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Переглядає нещодавно",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "переглянуті товари",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Переглядає свій AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "Зворотній зв'язок AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Переглянути свої замовлення",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Переглядає своє",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Повернення та знижки",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "видалені замовлення",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "Торговий центр AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Переглянути свої купони",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Переглядає свою адресу",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Центр довідки AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Центр послуг AliExpress",
+        "description": ""
+    }
+}

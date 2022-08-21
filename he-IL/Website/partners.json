@@ -1,0 +1,10 @@
+{
+	"partners.header.title": {
+		"message": "שותפים",
+		"description": "Heading for page."
+	},
+	"partners.apply.select.other": {
+		"message": "אחר",
+		"description": "Select 'Other' category."
+	}
+}

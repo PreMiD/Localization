@@ -1,0 +1,38 @@
+{
+	"user.roles.presenceDeveloper": {
+		"message": "Développeur de Présences",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Vérificateur de Présences",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Développeur important de Présences",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "{0} présences créées.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Développeur Genius Presence",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Crée plus de 100 présences !",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Utilisateur [Presences/contributions]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Cliquez ici pour afficher les Presences créées par cet utilisateur.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Cliquez ici pour afficher les présences auxquelles cet utilisateur a contribué.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
+}

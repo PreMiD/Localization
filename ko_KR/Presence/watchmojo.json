@@ -1,6 +1,0 @@
-{
-	"watchmojo.triviaGame": {
-		"message": "라운드 {0}/{1} (점수: {2}/{3})",
-		"description": "The round and score of the Trivia game the user is playing."
-	}
-}

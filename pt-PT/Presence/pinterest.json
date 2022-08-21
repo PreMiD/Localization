@@ -1,0 +1,18 @@
+{
+    "pinterest.board": {
+        "message": "A ver o álbum",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "A ver um pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "A ver os seus seguidos",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "A editar a sua página inicial",
+        "description": ""
+    }
+}

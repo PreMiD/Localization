@@ -1,0 +1,22 @@
+{
+	"discord.browseThrough": {
+		"message": "閲覧中:",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.company": {
+		"message": "Discordについて",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "大学のコミュニティページ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "セキュリティバグ・バウンティページ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.support": {
+		"message": "ヘルプセンター",
+		"description": ""
+	}
+}

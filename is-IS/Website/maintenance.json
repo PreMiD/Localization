@@ -1,0 +1,26 @@
+{
+	"maintenance.big": {
+		"message": "Oh nei!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Því miður erum við í tæknilegum erfiðleikum. Við munum koma aftur innan skamms. Afsakið óþægindin.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Vinsamlegast komdu aftur seinna til að fá frekari upplýsingar.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Þangað til sérstakir verktakar okkar laga þetta, ekki hika við að kíkja hér!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Status Page",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord Server",
+		"description": "Discord Server link on maintenance page"
+	}
+}

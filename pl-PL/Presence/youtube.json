@@ -1,0 +1,122 @@
+{
+    "youtube.ad": {
+        "message": "Aktualnie ogląda reklamę",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Przegląda filmy",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Przegląda playlisty",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Przeglądanie postów społeczności",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "z kanału:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Czyta o kanale:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Wyszukiwanie kanału: {0} dla:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Przegląda kartę na czasie",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Przegląda",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "swoje subskrypcje",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "swoją bibliotekę",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "swoją historię",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "swoje zakupy",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Przegląda historię zgłoszeń",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Coś przesyła...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Wyświetla wszystkie swoje playlisty",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Wyświetla swoje wydarzenia na żywo",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Wyświetla swój panel transmisji na żywo",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Przegląda bibliotekę audio",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Przgląda swoje filmy",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Edytowanie wideo:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Przegląda statystyki wideo:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Przegląda komentarze do filmu:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Przegląda tłumaczenia do filmu:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Przegląda swoje",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "statystyki kanału",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "komentarze kanału",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "tłumaczenia kanału",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "stronę artysty",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Wyświetla panel swojego kanału",
+        "description": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+  "extension.2.0.new1": {
+    "message": "用戶現在已可以自己添加狀態. *馬上添加吧!*",
+    "description": ""
+  },
+  "extension.2.0.new2": {
+    "message": "在 Presence 市場中可以找到 *更多的狀態* 了",
+    "description": ""
+  },
+  "extension.2.0.new3": {
+    "message": "添加了自動更新",
+    "description": ""
+  },
+  "extension.2.0.new4": {
+    "message": "用戶現在可以自行創建狀態",
+    "description": ""
+  },
+  "extension.2.0.new5": {
+    "message": "為具有創意的開發者們創建了 *幫助文檔*",
+    "description": ""
+  },
+  "extension.2.0.new6": {
+    "message": "全新的網站設計",
+    "description": ""
+  },
+  "extension.2.0.new7": {
+    "message": "為 Discord 機器人添加更多功能",
+    "description": ""
+  },
+  "extension.2.0.new8": {
+    "message": "我們的新API運行的更加穩定",
+    "description": ""
+  },
+  "extension.2.0.change1": {
+    "message": "改進了彈出窗口以及標籤的佈局和風格",
+    "description": ""
+  },
+  "extension.2.0.fix1": {
+    "message": "修復了許多未知和已知的錯誤",
+    "description": ""
+  },
+  "extension.2.0.fix2": {
+    "message": "一切將運行的更快",
+    "description": ""
+  },
+  "extension.2.0.1.fix1": {
+    "message": "即使您擁有最新的應用,我們也將修復舊的錯誤",
+    "description": ""
+  }
+}

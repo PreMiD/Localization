@@ -91,7 +91,7 @@ async function run() {
 
 	let strings: { lang: string; projects: LangFileType }[] = [];
 
-	for (const lang of langs) {
+	for (let lang of langs) {
 		const projects = ["Website", "Presence", "Extension"];
 
 		const files = await globby(`**/*.json`, { cwd: `./tmp/${lang}` });
@@ -117,6 +117,9 @@ async function run() {
 			//@ts-expect-error
 			langFile[project.toLowerCase()] = projectStrings;
 		}
+
+		//* Replace '-' with '_' in language code
+		lang = lang.replace("-", "_");
 
 		//* If lang === de_DE > de else keep it
 		const key =

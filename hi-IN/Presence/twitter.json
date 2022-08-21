@@ -1,0 +1,46 @@
+{
+	"twitter.readTweet": {
+		"message": "का ट्वीट पढ़ना:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Their डीएम देखना",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "के ट्वीट देखना:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "इनके ट्वीट देखना (जवाबों के साथ):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Viewing media of:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "द्वारा पसंद किया गया देखना:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "देखने की सूची:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "बुकमार्क्स",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "सूचनाएँ",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "खोजिये",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "कुछ सेटिंग बदली जा रही हैं...",
+		"description": ""
+	}
+}

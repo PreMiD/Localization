@@ -1,0 +1,26 @@
+{
+	"merch.title": {
+		"message": "歡迎來到** PreMiD **官方周邊商店！",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "尋找你的**Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.cart": {
+		"message": "加入購物車",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "在訂單中遇到問題？聯絡我們的{0}客戶服務{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "購物車 ({0})",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "購物車內沒有任何物品",
+		"description": "Error message when no size selected"
+	}
+}
