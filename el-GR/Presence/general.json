@@ -1,0 +1,74 @@
+{
+	"general.anime": {
+		"message": "Άνιμε",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Αναζήτηση...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Κεφάλαιο",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Επεισόδιο",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Φόρουμ",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Γλώσσα",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Ακρόαση μουσικής",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Ακροατές",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Ζωντανή μεταδοσή",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Μάνγκα",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Εμπορεύματα",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Σελίδα",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Παίζοντας",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Ανάγνωση",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Αναζήτηση",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Γράφει",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Κατάστημα",
+		"description": ""
+	}
+}
