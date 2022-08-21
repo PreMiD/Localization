@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Sugeng rawuh ing Toko Merchandise Resmi ** PreMiD**!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Temokne **Gayamu**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Pilih ukuranmu**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Tambah ning keranjang",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Duwe masalah ing toko utawa ing pesenan? Hubungi {0}customer support{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} ditambahne ning keranjang",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Ndak ana barang ing keranjang",
+		"description": "Error message when no size selected"
+	}
+}
