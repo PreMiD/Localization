@@ -1,0 +1,38 @@
+{
+	"contributors.headings.staff": {
+		"message": "スタッフ",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "サポーター",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.proofreader": {
+		"message": "校正者",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "翻訳者",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "寄付者",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Nitroブースター",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "翻訳者",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "クリックでユーザー名をコピー",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "コピーした！",
+		"description": "Notification after user ID was copied."
+	}
+}
