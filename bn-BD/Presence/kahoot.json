@@ -1,0 +1,98 @@
+{
+    "kahoot.buttonJoinGame": {
+        "message": "জয়েন করো গেম: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.joiningGame": {
+        "message": "জয়েন করছে গেম...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.waiting": {
+        "message": "অপেক্ষা করা হচ্ছে শুরু করার জন্য...",
+        "description": "Used when the user is waiting for a Kahoot Game to start"
+    },
+    "kahoot.gameStarting": {
+        "message": "গেম শুরু করা হচ্ছে!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "খেলছে...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.questionLoading": {
+        "message": "পরের প্রশ্ন লোড হচ্ছে...",
+        "description": "Used when the next question is loading"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "ভুল উত্তর",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "সঠিক উত্তর",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.resultsQuestion": {
+        "message": "দেখছে ফলাফলগুলোর প্রতি:",
+        "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.slideViewing": {
+        "message": "দেখছে কন্টেন্টের সাথে স্লাইডের প্রতি:",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
+    "kahoot.gameOver": {
+        "message": "খেলা শেষ",
+        "description": "Used when the Game is finished"
+    },
+    "kahoot.gameCreate": {
+        "message": "তৈরি করছে একটি গেম...",
+        "description": "Used when a Kahoot Host is creating a Game"
+    },
+    "kahoot.loadingPage": {
+        "message": "পেজ লোড হচ্ছে...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "১ম স্থান: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.points": {
+        "message": "পয়েন্ট: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "যতগুলো প্রশ্ন সঠিক: {0}",
+        "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "দেখাচ্ছে কন্টেন্টের সাথে স্লাইড:",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
+    },
+    "kahoot.questionNumber": {
+        "message": "প্রশ্ন: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.questionShowing": {
+        "message": "দেখাচ্ছে প্রশ্ন:",
+        "description": "Used when the host is showing a question"
+    },
+    "kahoot.stPlace": {
+        "message": "১ম স্থান",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "২য় স্থান",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "৩য় স্থান",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "শীর্ষ {0}",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{0}/{1}",
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    }
+}
