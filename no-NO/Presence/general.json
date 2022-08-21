@@ -1,0 +1,362 @@
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Surfer...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Kapittel",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Redigerer:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Episode",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Sesong",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Sjanger",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Språk",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Hører på musikk",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Lyttere",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Direkte",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Merch",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Side",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Satt på pause",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Spiller av",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Leser direktemeldinger fra:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Leser om:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Leser artikkel:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Leser i kanalen:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Leser innlegg:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Leser tråd:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Leser",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Søker etter:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Søker opp noe...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Søker",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Skriver",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Ringer",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "I en samtale...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Handlekurv",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Butikk",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Skriver i direktemeldinger til:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Skriver i kanal:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Ser på anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Ser på kategorien:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Ser i kanalen:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Ser episode:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Ser på sjangeren:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Ser på hjemmesiden",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Ser på liste over:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Ser på manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Ser på medlem:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Ser på film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Ser på spilleliste:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Ser på produkt:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Ser profilen til:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Ser på serie:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Ser på serie:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Ser på deres konto",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Ser på trad:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Ser på bruker:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Ser på:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Ser på side:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Ser på en film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Ser på en serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Ser på en serie",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Ser en video",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Venter på en videopremiere",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Venter på videopremieren",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Ser på en direktesending",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Venter på at en direktesending skal starte",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Venter på at direktesendingen skal starte",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Ser på:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Ønskeliste:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Personvernerklæring",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Vilkår for bruk",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Retningslinjer for informasjonskapsler",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Looper all sangene",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "På loop",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Ser på en hendelse",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Hendelseshistorikk",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Driftstid historikk",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Vis serie",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Vis film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Se episode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Se film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Se video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Se direktesending",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Se kanal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Lytt sammen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Se side",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Se sang",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Se album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Se profil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Se artist",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Se spilleliste",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Se podkast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Les artikkel",
+		"description": "Used as the title for the button in Discord."
+	}
+}
