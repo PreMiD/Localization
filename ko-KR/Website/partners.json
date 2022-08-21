@@ -1,0 +1,158 @@
+{
+	"partners.header.title": {
+		"message": "파트너",
+		"description": "Heading for page."
+	},
+	"partners.slideshow.description": {
+		"message": "이것들은 이미 우리 소속이다.",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "지옥 대신에 천국에 가는것은 어떨까요?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "당신의 무료 Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "인증된 사람이 되세요.",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "메타 태그 통합",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "유명해지세요.",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "요구사항",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "무엇을 찾고 있나요?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "우리 방화벽",
+		"description": "Heading for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "지금 신청하세요!",
+		"description": "Button to apply for partner."
+	},
+	"partners.sponsors.title": {
+		"message": "스폰서들",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "이런 놀라운 사람들이 없었다면, PreMiD는 불가능했을 것입니다.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM 무료 - 쉬지 않고 15개 이상의 음악 스트림을 들어보자. 오직 여러분만을 위한 가장 좋고 최신의 음악으로!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "기술기업의 민첩성 현지화",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.packageCloud": {
+		"message": "모든 아티팩트에 대한 통합된 개발자 친화적인 인터페이스.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "웹의 최상의 뒤에.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix는 가장 큰 Netflix 관련 Discord 서버입니다. 여기에서 같은 생각을 가진 사람들과 좋아하는 시리즈나 영화에 대해 토론하십시오.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "파트너에 지원하기",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "{0} 로 로그인되었습니다.",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "본인이 아니세요?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "한 개의 항목을 선택하십시오",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "웹사이트",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "기타",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "이름",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "예: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "링크",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "예: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "설명 : (최대 150글자로 서술하세요.)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "기능에 대한 설명",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "이미지 링크: (550x300, PNG 파일만)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "예: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "닫기",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "지원하기",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "지원해주셔서 감사합니다!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "모든 입력란에 입력하세요.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "최대 150글자로 설명하세요.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "링크를 적어주세요. (https:// 로 시작하고, .png로 끝나야만 합니다.)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "당신은 이미 파트너에 지원하셨습니다!",
+		"description": "Error when already applied."
+	}
+}
