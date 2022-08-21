@@ -1,0 +1,30 @@
+{
+	"merch.title": {
+		"message": "Tere tulemast ametlikku ** PreMiD ** Kauba poodi!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Leidke oma ** Swag **",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "** Valige enda sobivus **",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Lisa ostukorvi",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Kas teil on probleeme meie poe või tellimusega? Võtke ühendust meie {0} klienditoega {1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} lisati teie ostukorvi",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Teie ostukorvi pole ühtegi toodet lisada",
+		"description": "Error message when no size selected"
+	}
+}
