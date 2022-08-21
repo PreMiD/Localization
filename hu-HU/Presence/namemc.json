@@ -1,0 +1,22 @@
+{
+	"namemc.viewSkin": {
+		"message": "Skint néz",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "Köpenyeket néz",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Szervereket néz",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Szervert néz:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Szerver megtekintése",
+		"description": "Used as the title for the button in Discord."
+	}
+}
