@@ -1,0 +1,38 @@
+{
+	"discord.friends": {
+		"message": "Se uită la prietenii săi...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Se uită la setărilor lor...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Navigând prin",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "pagina de descărcări",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "pagina \"De ce Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "centrul de securitate",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.support": {
+		"message": "Centrul de Ajutor",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Se uită la colecția:",
+		"description": ""
+	}
+}
