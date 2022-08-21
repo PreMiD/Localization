@@ -1,0 +1,46 @@
+{
+	"store.search.notFound": {
+		"message": "找不到这个 Presence…",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "抱歉，我们找不到此页面。",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "这个 Presence 已被删除或从未存在过。",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "内部服务器错误。",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "详情",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "返回主页",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "找不到该用户。",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "你正在寻找的用户 ID 是正确的。",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "该用户已经创建了足够多的 Presence，并且在我们的 Discord 服务器中具有 Presence 开发者身份组。",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "在我们的 Discord 服务器上查看其他人是否遇到相同的问题。",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "如果你坚信这是一个错误，请在 [Discord 服务器] 中联系我们。",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
+}
