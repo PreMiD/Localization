@@ -1,0 +1,102 @@
+{
+    "kahoot.buttonJoinGame": {
+        "message": "Junte-se ao jogo: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.joiningGame": {
+        "message": "Entrando no Jogo...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.waiting": {
+        "message": "Aguardando começo...",
+        "description": "Used when the user is waiting for a Kahoot Game to start"
+    },
+    "kahoot.gameStarting": {
+        "message": "Jogo começando!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "Jogando...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.questionLoading": {
+        "message": "Próxima pergunta carregando...",
+        "description": "Used when the next question is loading"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "Resposta Incorreta",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "Resposta Correta",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.resultsQuestion": {
+        "message": "Olhando os resultados:",
+        "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.slideViewing": {
+        "message": "Olhando para o Slide com o Conteúdo:",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
+    "kahoot.gameOver": {
+        "message": "Fim de Jogo",
+        "description": "Used when the Game is finished"
+    },
+    "kahoot.gameCreate": {
+        "message": "Criando um jogo...",
+        "description": "Used when a Kahoot Host is creating a Game"
+    },
+    "kahoot.loadingPage": {
+        "message": "Carregando página...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "Primeiro Lugar: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.points": {
+        "message": "Pontos: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "Respostas corretas: {0}",
+        "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "Mostrando Slide com o Conteúdo:",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
+    },
+    "kahoot.questionNumber": {
+        "message": "Questão: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.questionShowing": {
+        "message": "Exibindo Questão:",
+        "description": "Used when the host is showing a question"
+    },
+    "kahoot.stPlace": {
+        "message": "1º Lugar",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2º lugar",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3º lugar",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "Top {0}",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{0} de {1}",
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.position": {
+        "message": "Posição: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    }
+}
