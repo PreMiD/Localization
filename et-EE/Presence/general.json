@@ -1,0 +1,354 @@
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Otsib...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Peatükk",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Muutmine:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Episood",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Hooaeg",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Foorumid",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Žanr",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Keel",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Muusika kuulamine",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Kuulajad",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Otse",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Kaup",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Leht",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Peatatud",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Mängimine",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "DM-ide lugemine:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Teave lugemine:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Artikli lugemine:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Kanalis lugemine:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Postituse lugemine:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Postituse lugemine:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Loeb",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Otsing:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Millegi otsimine...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Otsib",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Kirjutamine",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Helistamine",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Kõnes...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Ostukorv",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Pood",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "DM-ides kirjutamine:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Kanalis kirjutamine:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Anime vaatamine:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Kategooria vaatamine:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Kanali vaatamine:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Episoodi vaatamine:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Žanri vaatamine:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Avalehe vaatamine",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Nimekirja vaatamine:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Manga vaatamine:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Liikme vaatamine:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Filmi vaatamine:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Esitusloendi vaatamine:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Toote vaatamine:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Kasutaja profiili vaatamine:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Seeriate vaatamine:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Saate vaatamine:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Konto vaatamine",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Postituse vaatamine:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Kasutaja vaatamine:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Vaatamine:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Lehe vaatamine:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Filmi vaatamine",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Sarja vaatamine",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Etenduse vaatamine",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Video vaatamine",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Video esietenduse ootamine",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Video esietenduse ootamine",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Otseülekande vaatamine",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Otseülekande algamise ootamine",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Otseülekande algamise ootamine",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Vaatamine:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Sooviloend:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Privaatsuspoliitika",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Teenuse tingimused",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Küpsise poliitika",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Kõigi laulude loopimine",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Loopimisel",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Intsidenti vaatamine",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Intsidentide ajalugu",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Üleval olemise ajalugu",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Kuva seeria",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Vaadake jagu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Vaata videot",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Vaadake ülekannet",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Kuva kanal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Kuula kaasa",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Luva leht",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Kuva laul",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Kuva Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Kuva Profiil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Kuva Esitaja",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Kuva Esitusloend",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Kuva Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Loe Artiklit",
+		"description": "Used as the title for the button in Discord."
+	}
+}
