@@ -1,0 +1,70 @@
+{
+    "kahoot.buttonJoinGame": {
+        "message": "Csatlakozás a játékhoz: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.joiningGame": {
+        "message": "Játékhoz csatlakozik...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.gameStarting": {
+        "message": "Kezdődik a játék!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "Játszik...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "Helytelen válasz",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "Helyes válasz",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.gameOver": {
+        "message": "Vége a játéknak",
+        "description": "Used when the Game is finished"
+    },
+    "kahoot.gameCreate": {
+        "message": "Játékot hoz létre...",
+        "description": "Used when a Kahoot Host is creating a Game"
+    },
+    "kahoot.loadingPage": {
+        "message": "Oldal betöltése...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "Első helyezés: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.points": {
+        "message": "Pontok: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "Helyes kérdések: {0}",
+        "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.questionNumber": {
+        "message": "Kérdés: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.stPlace": {
+        "message": "1. hely",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2. hely",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3. hely",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "Top {0}",
+        "description": "Used in the context of Top 5"
+    }
+}
