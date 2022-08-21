@@ -1,0 +1,362 @@
+{
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Durchstöbert...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Kapitel",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Bearbeitung:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Folge",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Staffel",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Genre",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Sprache",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Hört Musik",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Zuhörer",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Live",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Merch",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Seite",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Pausiert",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Spielt",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Liest PNs von:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Liest über:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Liest Artikel:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Liest im Kanal:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Liest post:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Liest Thread:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "liest",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Suchen nach:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Etwas suchen...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Suchen",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Schreiben",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Wird angerufen",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "In einem Anruf...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Warenkorb",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Store",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Schreiben in PNs zu:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Schreibt im Kanal:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Schaut Anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Betrachtet Kategorie:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Betrachtet Kanal:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Schaut Episode:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Betrachtet Genre:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Betrachtet die Homepage",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Betrachtet Liste:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Betrachtet Manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Betrachtet Mitglied:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Betrachtet Film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Betrachtet Playlist:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Betrachtet Produkt:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Betrachtet Profil:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Betrachtet Serie:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Betrachtet Show:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Betrachtet eigenen Account",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Betrachtet Thread:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Betrachtet Benutzer:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Betrachtet:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Betrachtet die Seite:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Schaut einen Film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Schaut eine Serie",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Schaut eine Show",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Schaut ein Video",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Wartet auf die Premiere eines Videos",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Wartet auf die Premiere des Videos",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Schaut einen Livestream",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Wartet auf den Start eines Livestreams",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Warte darauf, dass der Livestream startet",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Schaut:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Wunschliste:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Datenschutzerklärung",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Nutzungsbedingungen",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Datenschutzerklärung",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Alle Lieder wiederholen",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Auf Schleife",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Sieht sich ein Vorfall an",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Störungsverlauf",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Systemverfügbarkeit",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Serie anschauen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Film anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Episode ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Film ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Video anschauen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Stream ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Kanal anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Anhören",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Seite anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Song anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Album anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Profil anzeigen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Interpret ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Playlist ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Podcast ansehen",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Artikel lesen",
+		"description": "Used as the title for the button in Discord."
+	}
+}
