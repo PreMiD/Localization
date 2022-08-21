@@ -1,0 +1,90 @@
+{
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** ialah utiliti yang mudah, mampu ditatarajah yang membolehkan anda menunjukkan apa anda buat di sesawang ke dalam status main di Discord anda.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Ciri-ciri",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Muat Turun",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Bermain permainan",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "Tinggal {0}",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} berlalu",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Memainkan",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Langsung",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Melayari...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Anda akan suka ciri ini!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Cari Presence yang **anda** inginkan",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Kami telah mencipta sambungan kami dalam cara yang membolehkan anda tambah dan guna Presence yang dicipta oleh orang lain dan uruskannya dalam sambungan kami!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Lawati kedai",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Antara muka pengguna yang ringkas",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Penat dengan antara muka yang rumit? Sebab itulah kami cipta dan cuba untuk kekalkan UI kami seringkas mungkin sambil kekalkan kebergunaannya dengan ciri penting seperti:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Tetapan Aplikasi dan Sambungan",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Pengurusan Presence",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Isih ikut kategori",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Sokongan pantas",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Ada sesuatu terglic, memberikan banyak ralat atau langsung tidak berfungsi? Kami akan bantu anda hapuskan isu tersebut di pelayan Discord kami, kami juga cipta sistem sokongan kami sendiri yang akan pastikan isu anda diselesaikan secepat mungkin.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Sertai Discord kami",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Bahasa laman sesawang",
+		"description": "Tippy content of the language selector."
+	}
+}
