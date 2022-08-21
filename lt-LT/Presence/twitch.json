@@ -1,0 +1,58 @@
+{
+	"twitch.downloads": {
+		"message": "Siuntiniai",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partneriai",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Prieinamumas",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Pagrindinis puslapis",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Peržiūri piniginę...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Peržiūri Esportą...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Peržiūri žmones kuriuos aš seku...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Peržiūri komandą:",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Peržiūri savo nustatymus...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Peržiūri savo draugus...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Peržiūri savo prenumeratas...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Peržiūri būrį...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderuoja tiesioginį srautą:",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Kūrėjų stovykla",
+		"description": ""
+	}
+}
