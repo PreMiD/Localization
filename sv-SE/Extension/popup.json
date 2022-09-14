@@ -24,11 +24,11 @@
 		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.mediaControl": {
-		"message": "Mediakontroll",
+		"message": "Mediakontroller",
 		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.titleMenubar": {
-		"message": "Ikon i aktivitsfält",
+		"message": "Ikon i aktivitetsfält",
 		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
 	},
 	"popup.setting.autoLaunch": {
