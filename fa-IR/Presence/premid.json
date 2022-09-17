@@ -71,10 +71,6 @@
 		"message": "شرایط استفاده Presence ها",
 		"description": "A page name"
 	},
-	"premid.pageSlideshowClass": {
-		"message": "Slideshow Class",
-		"description": "A page name"
-	},
 	"premid.pageIframe": {
 		"message": "فهمیدن iframe",
 		"description": "A page name"
