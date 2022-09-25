@@ -23,6 +23,10 @@
 		"message": "Topluluk Yöneticisi",
 		"description": "'Community Manager' title for contributors and user pages."
 	},
+	"contributors.roles.projectManagement": {
+		"message": "Proje Yönetimi",
+		"description": "'Project Management' title for contributors and user pages."
+	},
 	"contributors.roles.humanResources": {
 		"message": "İnsan Kaynakları",
 		"description": "'Human Resources' title for contributors and user pages."
