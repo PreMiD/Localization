@@ -1,1 +1,6 @@
-{}
+{
+	"netflix.viewList": {
+		"message": "Przegląda swoją listę",
+		"description": "List as in their saved series/movies."
+	}
+}
