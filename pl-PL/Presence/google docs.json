@@ -1,1 +1,22 @@
-{}
+{
+	"google docs.editingDoc": {
+		"message": "Edytuje dokument",
+		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.viewingDoc": {
+		"message": "Przegląda dokument",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.editingForm": {
+		"message": "Edytuje formularz",
+		"description": "Displayed when the user is editing a Google Form"
+	},
+	"google docs.editingPresentation": {
+		"message": "Edytuje prezentację",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Przegląda prezentację",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
+}
