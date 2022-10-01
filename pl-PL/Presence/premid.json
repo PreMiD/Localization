@@ -32,7 +32,7 @@
 		"description": "A page name"
 	},
 	"premid.pageAbout": {
-		"message": "O PreMiDzie",
+		"message": "O PreMiD",
 		"description": "A page name"
 	},
 	"premid.pageSysReq": {
@@ -55,6 +55,10 @@
 		"message": "Wprowadzenie",
 		"description": "A page name"
 	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
 	"premid.pageApiVersion": {
 		"message": "Rozumienie wersji v{0} API",
 		"description": "A page name // {0} will be replaced with the version number."
@@ -65,6 +69,14 @@
 	},
 	"premid.pagePresenceGuide": {
 		"message": "Wytyczne dotyczące presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Klasa Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Klasa pokazu slajdów",
 		"description": "A page name"
 	},
 	"premid.pageIframe": {
