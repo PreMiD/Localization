@@ -1,1 +1,14 @@
-{}
+{
+	"watchmojo.triviaGame": {
+		"message": "Runda {0} z {1} (Wynik: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "Gra w Trivię: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "Zagraj w Trivia",
+		"description": "Used as the title for the button in Discord."
+	}
+}
