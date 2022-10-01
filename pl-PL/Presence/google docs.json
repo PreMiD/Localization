@@ -4,16 +4,44 @@
 		"description": "Displayed when the user is editing a Google Document"
 	},
 	"google docs.viewingDoc": {
-		"message": "Przegląda dokument",
+		"message": "Wyświetla dokument",
 		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Przegląda dokumenty",
+		"description": "Displayed when the user is browsing their Google Documents"
 	},
 	"google docs.editingForm": {
 		"message": "Edytuje formularz",
 		"description": "Displayed when the user is editing a Google Form"
 	},
+	"google docs.viewingForm": {
+		"message": "Wyświetla formularz",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "Przegląda formularze",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.editingSheet": {
+		"message": "Edytuje arkusz kalkulacyjny",
+		"description": "Displayed when the user is eiditng a Google Sheet"
+	},
+	"google docs.viewingSheet": {
+		"message": "Wyświetla arkusz kalkulacyjny",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.browsingSheet": {
+		"message": "Przegląda arkusze kalkulacyjne",
+		"description": "Displayed when the user is browsing their Google Sheets"
+	},
 	"google docs.editingPresentation": {
 		"message": "Edytuje prezentację",
 		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Wyświetla prezentację",
+		"description": "Displayed when the user is viewing a Google presentation"
 	},
 	"google docs.browsingPresentation": {
 		"message": "Przegląda prezentację",
