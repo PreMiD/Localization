@@ -20,7 +20,7 @@
 		"description": "A page name"
 	},
 	"premid.pageDownloads": {
-		"message": "Pliki do pobrania",
+		"message": "Pobieranie",
 		"description": "A page name"
 	},
 	"premid.pageStore": {
@@ -52,7 +52,7 @@
 		"description": "A page name"
 	},
 	"premid.pageStart": {
-		"message": "Wprowadzenie",
+		"message": "Pierwsze kroki",
 		"description": "A page name"
 	},
 	"premid.pageApi": {
