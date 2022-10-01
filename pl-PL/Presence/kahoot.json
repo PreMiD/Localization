@@ -1,1 +1,14 @@
-{}
+{
+    "kahoot.topX": {
+        "message": "Top {0}",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{0} z {1}",
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.onPodium": {
+        "message": "Na Podium",
+        "description": "Used in the context of a player/team being withing the top 3"
+    }
+}
