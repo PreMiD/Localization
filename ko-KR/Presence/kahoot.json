@@ -99,6 +99,10 @@
         "message": "최종 순위를 기다리는 중...",
         "description": "Used when a player is waiting to receive their final ranking"
     },
+    "kahoot.position": {
+        "message": "등수: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    },
     "kahoot.teamTalk": {
         "message": "팀과 논의 중",
         "description": "Used when a player is talking to their team during team talk time"
@@ -126,6 +130,14 @@
     "kahoot.viewingCourse": {
         "message": "코스 보는 중:",
         "description": "Used when the user is viewing a course. The name of the course will be displayed below."
+    },
+    "kahoot.editingKahoot": {
+        "message": "Kahoot 편집 중:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.previewingKahoot": {
+        "message": "Kahoot 미리 보는 중:",
+        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
     },
     "kahoot.feedback": {
         "message": "피드백 제공 중",
