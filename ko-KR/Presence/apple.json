@@ -1,4 +1,16 @@
 {
+    "apple.productsPlatform": {
+        "message": "제품 및 플랫폼",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "건강 기록",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "개요",
+        "description": "Overview of e.g. all pages of a category"
+    },
     "apple.other": {
         "message": "기타",
         "description": "Other pages not added to the code"
@@ -10,6 +22,18 @@
     "apple.shopAccessories": {
         "message": "Apple 액세서리",
         "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.support": {
+        "message": "Apple 지원",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Apple 지원 문서",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "연결 중...",
+        "description": "Connecting to the App Store"
     },
     "apple.devDocs": {
         "message": "문서",
