@@ -1,4 +1,8 @@
 {
+	"twitter.readTweet": {
+		"message": "Czyta tweeta:",
+		"description": "after the \":\" it will say the username"
+	},
 	"twitter.viewDms": {
 		"message": "Przegląda swoje wiadomości prywatne",
 		"description": ""
@@ -20,7 +24,7 @@
 		"description": ""
 	},
 	"twitter.viewList": {
-		"message": "Przeglądanie list:",
+		"message": "Przegląda listę:",
 		"description": ""
 	},
 	"twitter.bookmarks": {
