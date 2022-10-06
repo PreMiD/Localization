@@ -223,6 +223,10 @@
 		"message": "Assistindo uma série",
 		"description": ""
 	},
+	"general.watchingShow": {
+		"message": "Assistindo um show",
+		"description": ""
+	},
 	"general.watchingVid": {
 		"message": "Assistindo um vídeo",
 		"description": ""
