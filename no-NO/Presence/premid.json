@@ -46,9 +46,5 @@
 	"premid.pagePresenceClass": {
 		"message": "Presence Klasse",
 		"description": "A page name"
-	},
-	"premid.pageSlideshowClass": {
-		"message": "Lysbildefremvisningsklasse",
-		"description": "A page name"
 	}
 }

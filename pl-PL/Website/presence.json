@@ -39,6 +39,10 @@
 		"message": "Wspierane adresy URL",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Ten Presence obsługuje więcej adresów URL niż wymienione poniżej dzięki użyciu RegExp. Najedź, aby zobaczyć wzór",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "Współtwórcy",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"

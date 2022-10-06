@@ -30,9 +30,5 @@
 	"premid.pagePresenceDev": {
 		"message": "Presence Utveckling",
 		"description": "A page name"
-	},
-	"premid.pageSlideshowClass": {
-		"message": "Bildspelsklass",
-		"description": "A page name"
 	}
 }

@@ -1,4 +1,8 @@
 {
+    "apple.contact": {
+        "message": "Contatando suporte",
+        "description": "Contact support"
+    },
     "apple.other": {
         "message": "Outros",
         "description": "Other pages not added to the code"
@@ -10,6 +14,10 @@
     "apple.shopFavorites": {
         "message": "Favoritos",
         "description": "Favorite products"
+    },
+    "apple.shopBagSummary": {
+        "message": "Total: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
     },
     "apple.appStoreCon": {
         "message": "Conectando...",
@@ -43,6 +51,10 @@
         "message": "Criando...",
         "description": "Creating a new Pages document"
     },
+    "apple.iCloudKeynoteWait": {
+        "message": "Sala de espera",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
     "apple.devDocs": {
         "message": "Documentação",
         "description": "Developer documentation"
@@ -54,5 +66,33 @@
     "apple.devGames": {
         "message": "Jogos",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.devNews": {
+        "message": "Notícias e atualizações",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.btnViewProduct": {
+        "message": "Ver produto",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Ver serviço",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Ver evento",
+        "description": "Button text"
+    },
+    "apple.btnViewApp": {
+        "message": "Ver aplicativo",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Ver desenvolvedor",
+        "description": "View the developer of an app"
+    },
+    "apple.btnViewProfile": {
+        "message": "Ver o perfil de {0}",
+        "description": "View a forum profile of a user"
     }
 }

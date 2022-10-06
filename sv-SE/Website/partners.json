@@ -103,6 +103,10 @@
 		"message": "Arena of Kings är en ny generation av fartfylld PvP Arena Game spelas i webbläsaren.",
 		"description": "Description for Arena of Kings."
 	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat Radio är en community-driven online-radio, ger 24/7 annonsfri radiounderhållning, dagliga nyhetsartiklar och mycket mer!",
+		"description": "Description for UpBeatRadio."
+	},
 	"partners.partner.simLiveRadio": {
 		"message": "SimLiveRadio är den mest lyckad infotainment radion fär simuleringsspel i Tyskland, Österrike och Schweiz!",
 		"description": "Description for SimLoveRadio."
@@ -150,6 +154,10 @@
 	"partners.partner.onlyhit": {
 		"message": "OnlyHit är din online musik radiostation gjord för att spela dina bästa hits 24/7 och för att få dig att upptäcka dina framtida hits först.",
 		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix är den största Netflix-relaterade Discord-servern. Diskutera om dina favorit serier eller filmer med likasinnade personer.",
+		"description": "Description for r/Netflix."
 	},
 	"partners.apply.title": {
 		"message": "Ansök om partnerskap",

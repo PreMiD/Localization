@@ -19,6 +19,10 @@
 		"message": "مدیر بومی‌سازی",
 		"description": "'Localization Manager' title for contributors and user pages."
 	},
+	"contributors.roles.projectManagement": {
+		"message": "مدیریت پروژه",
+		"description": "'Project Management' title for contributors and user pages."
+	},
 	"contributors.roles.humanResources": {
 		"message": "منابع انسانی",
 		"description": "'Human Resources' title for contributors and user pages."
