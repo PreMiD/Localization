@@ -7,16 +7,80 @@
 		"message": "Bläddrar...",
 		"description": ""
 	},
+	"general.chapter": {
+		"message": "Kapitel",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Redigerar:",
+		"description": ""
+	},
 	"general.episode": {
 		"message": "Avsnitt",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Säsong",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Genre",
 		"description": ""
 	},
 	"general.language": {
 		"message": "Språk",
 		"description": "For choosing a language"
 	},
+	"general.listeningMusic": {
+		"message": "Lyssnar på musik",
+		"description": ""
+	},
+	"general.listeningTo": {
+		"message": "Lyssnar på{0}{1}",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc."
+	},
+	"general.listeners": {
+		"message": "Lyssnare",
+		"description": ""
+	},
 	"general.live": {
 		"message": "Live",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Merch",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Sida",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Pausad",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Spelar",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Läser DMs ifrån:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Läser om:",
 		"description": ""
 	},
 	"general.reading": {
