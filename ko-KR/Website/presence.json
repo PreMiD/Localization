@@ -39,6 +39,10 @@
 		"message": "지원하는 URL들",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "이 Presence는 정규 표현식을 사용해 아래 나열된 것보다 더 많은 URL들을 지원합니다. 패턴을 보려면 마우스를 대세요.",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "기여자",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
