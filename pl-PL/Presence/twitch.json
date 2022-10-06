@@ -1,18 +1,262 @@
 {
 	"twitch.downloads": {
-		"message": "Pliki do pobrania",
+		"message": "Pobierane",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Oferty pracy",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
 		"description": "Page name"
 	},
 	"twitch.partners": {
 		"message": "Partnerzy",
 		"description": "Page name"
 	},
+	"twitch.press": {
+		"message": "Centrum prasowe",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Bezpieczeństwo",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Ułatwienia dostępu",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Opcje reklam",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Wytyczne społeczności",
+		"description": "Page name"
+	},
 	"twitch.home": {
 		"message": "Strona główna",
 		"description": "Page name"
 	},
+	"twitch.wallet": {
+		"message": "Przegląda portfel...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Przegląda E-Sport...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Ogląda ludzi, których obserwuje...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Wyświetla zespół:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Przegląda swoje dropy...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Przegląda aktywne kampanie dropów...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Przegląda swoje ustawienia...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Przegląda swoich znajomych...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Przegląda swoje subskrypcje...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Oglądanie oddziału...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderuje streamera:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Realizuje kod...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Obóz Twórcy",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Poznaj podstawy",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Konfigurowanie streama",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Nowy poziom",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Połącz i zaangażuj",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Zdobywaj nagrody",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Muzyka na Twitchu",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Szkolenia online",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Panel twórcy",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Zarządza swoim streamem...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Zarządza rolami społeczności...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "W producencie wideo...",
+		"description": ""
+	},
 	"twitch.viewTheir": {
-		"message": "Przegląda swoje",
+		"message": "Przegląda",
 		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Statystyki kanału",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Podsumowanie streama",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Osiągnięcia",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Aktywność Społeczności",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Listę obserwujących",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Kolekcje wideo",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Klipy",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Ustawienia kanału",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Opcje moderowania",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Ustawienia drop'ów",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Przegląda narzędzia streamingowe",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Przegląda rozszerzenia",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Czyta na temat marki Twitcha...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Zachowywanie prawdziwego Twitcha",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Dostarczenie metody do naszego (ukochanego) szaleństwa",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Maksymalizacja naszego wyrażenia",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Składanie wszystkiego w całość",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Ogląda ewolucję marki Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Blogi Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Przegląda archiwum blogów {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Przegląda najnowsze wpisy na blogu...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Centrum Pomocy",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Przegląda temat:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Przegląda katalog tematów...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Program partnerski Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Deweloperzy Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Dokumentacja dewelopera Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produkty dewelopera Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Historie sukcesu społeczności",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Pomocne Zasoby",
+		"description": "Page name"
 	}
 }
