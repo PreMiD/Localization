@@ -23,6 +23,10 @@
 		"message": "Communitybeheerder",
 		"description": "'Community Manager' title for contributors and user pages."
 	},
+	"contributors.roles.projectManagement": {
+		"message": "Projectbeheerder",
+		"description": "'Project Management' title for contributors and user pages."
+	},
 	"contributors.roles.humanResources": {
 		"message": "Personeelsmanagement",
 		"description": "'Human Resources' title for contributors and user pages."
