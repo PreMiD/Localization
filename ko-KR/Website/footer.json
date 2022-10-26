@@ -4,11 +4,11 @@
 		"description": "You know how to translate that word? I hope you do :D"
 	},
 	"footer.usercount.heading": {
-		"message": "PreMiD를 사용할 준비가 되셨나요?",
+		"message": "PreMiD를 사용할 준비가 됐나요?",
 		"description": "Promotional heading"
 	},
 	"footer.usercount.message": {
-		"message": "{0} 명 이상의 사용자가 오늘 가입!",
+		"message": "오늘 {0}명이 참가했어요!",
 		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
 	},
 	"footer.usercount.button": {
@@ -20,11 +20,11 @@
 		"description": "Partner section"
 	},
 	"footer.followUs.heading": {
-		"message": "팔로우하기",
+		"message": "팔로우",
 		"description": "Follow Us section"
 	},
 	"footer.developers.heading": {
-		"message": "개발자들",
+		"message": "개발자",
 		"description": "Developer section"
 	},
 	"footer.developers.documentation": {
