@@ -26,5 +26,21 @@
 	"user.notFound.heading": {
 		"message": "해당 사용자를 찾지 못했어요.",
 		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "내가 찾고 있는 사용자의 ID가 올바른지 다시 한 번 확인해 주세요.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "사용자가 충분한 Presence를 제작했고 Presence 개발자 역할을 Discord 서버에서 소유하고 있는지 다시 한 번 확인해 주세요.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "다른 분이 Discord에서 동일 현상을 겪고 있는지 다시 한 번 확인해 주세요.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "이게 실수라고 생각된다면, [저희 Discord 서버]에서 문의해 주세요.",
+		"description": "Bottom line for the error page. Do not edit brackets."
 	}
 }
