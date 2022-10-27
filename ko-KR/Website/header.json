@@ -12,7 +12,7 @@
     "description": "Button that switches language after click."
   },
   "header.store": {
-    "message": "상점",
+    "message": "스토어",
     "description": "Store tab"
   },
   "header.downloads": {
