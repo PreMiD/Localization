@@ -8,15 +8,15 @@
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "message": "감사합니다!",
+    "message": "감사드려요",
     "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "message": "를 설치해주셔서",
+    "message": "{0}를 설치해 주셨네요",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.start": {
-    "message": "사용을 시작함",
+    "message": "{0} 사용 시작하기",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
   "donate": {
@@ -24,7 +24,7 @@
     "description": "Donate button of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.error": {
-    "message": "**이런!** 앱에 연결할수 없습니다... 벌써 깔려있나요?",
+    "message": "**이런!** 앱에 연결하지 못했어요... 이미 설치됐나요?",
     "description": "Error message of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.link.troubleshooting": {
@@ -40,7 +40,7 @@
     "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "message": "{0} 가 업데이트 되었습니다",
+    "message": "{0}가 업데이트됐어요!",
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
   },
   "tab.updated.new": {
@@ -48,11 +48,11 @@
     "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.changed": {
-    "message": "변경점",
+    "message": "변경됨",
     "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
   },
   "tab.updated.fixed": {
-    "message": "수정됨",
+    "message": "해결됨",
     "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
