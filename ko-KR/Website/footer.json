@@ -36,7 +36,7 @@
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
 	},
 	"footer.supportus.heading": {
-		"message": "우리를 지원하기",
+		"message": "지원",
 		"description": "Support us section"
 	},
 	"footer.supportus.donate": {
@@ -51,12 +51,8 @@
 		"message": "번역하기",
 		"description": "Translate -> redirects to locilazation page"
 	},
-	"footer.supportus.jobs": {
-		"message": "저희와 함께 일해보세요!",
-		"description": "Work for us! -> redirects to /jobs page"
-	},
 	"footer.help.heading": {
-		"message": "도움",
+		"message": "도움말",
 		"description": "Help section"
 	},
 	"footer.help.troubleshooting": {
@@ -64,7 +60,7 @@
 		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
 	},
 	"footer.help.getsupport": {
-		"message": "도움이 필요하신가요?",
+		"message": "도움 받기",
 		"description": "Get Support -> redirects to Discord invite"
 	},
 	"footer.help.information": {
@@ -76,7 +72,7 @@
 		"description": "meant to be 'Cookie Policy'"
 	},
 	"footer.help.information.privacy": {
-		"message": "개인 정보",
+		"message": "개인정보 보호 정책",
 		"description": "meant to be 'Privacy Policy'"
 	},
 	"footer.help.information.terms": {
@@ -100,11 +96,11 @@
 		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
 	},
 	"footer.copyright.line2": {
-		"message": "{0} 에 의해 웹사이트가 유지되고 있습니다.",
+		"message": "웹사이트 정비: {0}",
 		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
 	},
 	"footer.partners.more": {
-		"message": "더 많은 파트너와 스폰서들을 볼려면 이곳을 클릭하세요.",
+		"message": "나머지 파트너 및 스폰서를 보려면 여기를 클릭하세요.",
 		"description": "Button next to all listed partners on the footer."
 	}
 }
