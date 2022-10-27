@@ -3,6 +3,10 @@
 		"message": "Presence 개발자",
 		"description": "'Presence Developer' title for user pages."
 	},
+	"user.roles.presenceVerifier": {
+		"message": "Presence 검수자",
+		"description": "'Presence Verifier' title for user pages."
+	},
 	"user.importantPresenceDev.message1": {
 		"message": "중요한 Presence 개발자",
 		"description": "'Important Presence Developer' tippy description for user pages."
@@ -20,7 +24,7 @@
 		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
 	},
 	"user.switch.contributed": {
-		"message": "사용자의 [제작한 Presence/기여한 Presence]",
+		"message": "사용자가 [제작한 Presence/기여한 Presence]",
 		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
 	},
 	"user.presences.created": {
