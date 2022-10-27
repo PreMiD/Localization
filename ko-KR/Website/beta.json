@@ -34,5 +34,9 @@
 	"thankyou.title": {
 		"message": "멋져요! 이제 나는 베타 사용자예요!",
 		"description": "Thank You page title"
+	},
+	"error.noslots": {
+		"message": "사용 가능한 베타 테스터 자리가 더 없는 것 같아요.",
+		"description": "Shows when the beta slots are full."
 	}
 }

@@ -48,7 +48,7 @@
 		"description": "Features section description"
 	},
 	"home.features.presencesystem.button": {
-		"message": "상점 방문",
+		"message": "스토어 방문",
 		"description": "Features section button"
 	},
 	"home.features.simpleInterface.heading": {
