@@ -8,7 +8,7 @@
 		"description": "The title of the description section."
 	},
 	"presence.sections.changelog.title": {
-		"message": "변경된 사항",
+		"message": "변경 사항",
 		"description": "The title of the changelog section."
 	},
 	"presence.sections.information.title": {
@@ -24,7 +24,7 @@
 		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
 	},
 	"presence.sections.information.likes": {
-		"message": "좋아요",
+		"message": "좋아요 수",
 		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
 	},
 	"presence.sections.information.users": {
@@ -36,11 +36,11 @@
 		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
 	},
 	"presence.sections.information.supportedurls": {
-		"message": "지원하는 URL들",
+		"message": "지원하는 URL",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
 	"presence.sections.information.moreurls": {
-		"message": "이 Presence는 정규 표현식을 사용해 아래 나열된 것보다 더 많은 URL들을 지원합니다. 패턴을 보려면 마우스를 대세요.",
+		"message": "이 Presence는 정규 표현식을 사용해 아래 나열된 URL보다 더 많은 URL을 지원해요. 패턴을 보려면 마우스 커서를 가져다 대세요.",
 		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
 	},
 	"presence.sections.information.contributors": {

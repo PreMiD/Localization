@@ -4,7 +4,7 @@
 		"description": ""
 	},
 	"general.browsing": {
-		"message": "검색하는 중...",
+		"message": "살펴보는 중...",
 		"description": ""
 	},
 	"general.chapter": {
@@ -12,7 +12,7 @@
 		"description": ""
 	},
 	"general.dj": {
-		"message": "디제이",
+		"message": "DJ",
 		"description": ""
 	},
 	"general.editing": {
@@ -21,6 +21,10 @@
 	},
 	"general.episode": {
 		"message": "에피소드",
+		"description": ""
+	},
+	"general.season": {
+		"message": "시즌",
 		"description": ""
 	},
 	"general.forums": {
@@ -36,8 +40,12 @@
 		"description": "For choosing a language"
 	},
 	"general.listeningMusic": {
-		"message": "음악 듣는 중",
+		"message": "음악 청취 중",
 		"description": ""
+	},
+	"general.listeningTo": {
+		"message": "{1}에서 청취 중",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc."
 	},
 	"general.listeners": {
 		"message": "청취자",
@@ -48,11 +56,11 @@
 		"description": ""
 	},
 	"general.manga": {
-		"message": "망가",
+		"message": "만화",
 		"description": ""
 	},
 	"general.merch": {
-		"message": "굿즈",
+		"message": "상품",
 		"description": ""
 	},
 	"general.page": {
@@ -60,7 +68,7 @@
 		"description": ""
 	},
 	"general.paused": {
-		"message": "일시 정지",
+		"message": "일시 중지됨",
 		"description": ""
 	},
 	"general.playing": {
@@ -68,7 +76,7 @@
 		"description": ""
 	},
 	"general.readingDM": {
-		"message": "DM을 보는 중:",
+		"message": "DM 읽는 중:",
 		"description": ""
 	},
 	"general.readingAbout": {
@@ -80,7 +88,7 @@
 		"description": ""
 	},
 	"general.readingChannel": {
-		"message": "다음 채널을 보는 중:",
+		"message": "채널 보는 중:",
 		"description": ""
 	},
 	"general.readingPost": {
@@ -100,7 +108,7 @@
 		"description": ""
 	},
 	"general.searchSomething": {
-		"message": "무언가에 대하여 검색 중...",
+		"message": "무언가 검색 중...",
 		"description": ""
 	},
 	"general.search": {
@@ -108,15 +116,15 @@
 		"description": ""
 	},
 	"general.writing": {
-		"message": "쓰기",
+		"message": "작성 중",
 		"description": ""
 	},
 	"general.calling": {
-		"message": "호출",
+		"message": "전화 중",
 		"description": ""
 	},
 	"general.inCall": {
-		"message": "전화로...",
+		"message": "통화 중...",
 		"description": ""
 	},
 	"general.shopCart": {
@@ -128,15 +136,15 @@
 		"description": ""
 	},
 	"general.typeDM": {
-		"message": "DM을 적는 중:",
+		"message": "DM 입력 중:",
 		"description": ""
 	},
 	"general.typeChannel": {
-		"message": "다음 채널에서 타이핑 중:",
+		"message": "채널에서 입력 중:",
 		"description": ""
 	},
 	"general.viewAnime": {
-		"message": "애니 보는 중:",
+		"message": "애니메이션 시청 중:",
 		"description": ""
 	},
 	"general.viewCategory": {
@@ -164,11 +172,11 @@
 		"description": ""
 	},
 	"general.viewManga": {
-		"message": "망가 보는 중:",
+		"message": "만화 보는 중:",
 		"description": ""
 	},
 	"general.viewMember": {
-		"message": "회원 보는 중:",
+		"message": "멤버 보는 중:",
 		"description": ""
 	},
 	"general.viewMovie": {
@@ -192,7 +200,7 @@
 		"description": ""
 	},
 	"general.viewShow": {
-		"message": "쇼 보는 중:",
+		"message": "공연 보는 중:",
 		"description": ""
 	},
 	"general.viewAccount": {
@@ -204,7 +212,7 @@
 		"description": ""
 	},
 	"general.viewUser": {
-		"message": "유저 보는 중:",
+		"message": "사용자 보는 중:",
 		"description": ""
 	},
 	"general.viewing": {
@@ -216,7 +224,15 @@
 		"description": ""
 	},
 	"general.watchingMovie": {
-		"message": "영화 감상중",
+		"message": "영화 시청 중",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "시리즈 시청 중",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "공연 시청 중",
 		"description": ""
 	},
 	"general.watchingVid": {
@@ -224,31 +240,27 @@
 		"description": ""
 	},
 	"general.waitingVid": {
-		"message": "영상 최초공개 대기 중",
+		"message": "동영상 최초 공개 대기 중",
 		"description": "For privacy reasons (\"A\" video, as in not specified)"
 	},
 	"general.waitingVidThe": {
-		"message": "영상 최초공개 대기 중",
+		"message": "동영상 최초 공개 대기 중",
 		"description": "\"the\" video, as in the video title is specified)"
 	},
 	"general.watchingLive": {
-		"message": "생방송 시청 중",
+		"message": "실시간 시청 중",
 		"description": ""
 	},
 	"general.waitingLive": {
-		"message": "라이브 방송 시작 대기 중",
+		"message": "생방송 시작 대기 중",
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
 	},
 	"general.waitingLiveThe": {
-		"message": "라이브 방송 시작 대기 중",
+		"message": "생방송 시작 대기 중",
 		"description": "\"the\" livestream, as in the livestream title is specified)"
 	},
 	"general.watching": {
-		"message": "보는 중:",
-		"description": ""
-	},
-	"general.wishlist": {
-		"message": "찜 목록:",
+		"message": "시청 중:",
 		"description": ""
 	},
 	"general.privacy": {
@@ -271,16 +283,24 @@
 		"message": "반복 중",
 		"description": ""
 	},
+	"general.incidentView": {
+		"message": "사고 보는 중",
+		"description": "A page name of statuspages"
+	},
 	"general.incidentHistory": {
 		"message": "사고 기록",
 		"description": "A page name of statuspages"
 	},
 	"general.uptimeHistory": {
-		"message": "업타임 기록",
+		"message": "가동 시간 기록",
 		"description": "A page name of statuspages"
 	},
 	"general.buttonViewSeries": {
 		"message": "시리즈 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "영화 보기",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewEpisode": {
@@ -288,15 +308,15 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchMovie": {
-		"message": "영화 보기",
+		"message": "영화 시청",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchVideo": {
-		"message": "동영상 보기",
+		"message": "동영상 시청",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonWatchStream": {
-		"message": "스트림 보기",
+		"message": "방송 시청",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewChannel": {
@@ -304,7 +324,7 @@
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonListenAlong": {
-		"message": "함께 듣기",
+		"message": "같이 듣기",
 		"description": "Used as the title for the button in Discord."
 	},
 	"general.buttonViewPage": {

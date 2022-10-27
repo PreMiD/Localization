@@ -3,25 +3,13 @@
     "message": "한국어",
     "description": "Replace English with the name of YOUR language!"
   },
-  "header.languageNotification.title": {
-    "message": "우리는 귀하의 언어를 지원합니다. 바꾸고 싶으세요?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
-    "description": "Text in language notification when user has different language."
-  },
   "header.languageNotification.btnDecline": {
-    "message": "아뇨 괜찮아요",
+    "message": "아니요, 괜찮아요",
     "description": "Button that will decline notification."
   },
   "header.languageNotification.btnAccept": {
     "message": "언어 바꾸기",
     "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "팬케이크 굽는 중...;컨테이너 쌓는 중...;당신의 IP를 얻는 중...;UwU;규칙 어기는 중...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
     "message": "상점",
@@ -40,7 +28,7 @@
     "description": "Login Button"
   },
   "header.lia": {
-    "message": "로그인 계정:",
+    "message": "로그인한 계정:",
     "description": "Indicates which user is logged in"
   },
   "header.rab": {
