@@ -6,5 +6,33 @@
 	"beta.description.1": {
 		"message": "**PreMiD 베타**는 모든 분이 현재 사용 가능해요!",
 		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "가입하면 무엇을 받게 되나요?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "최신 기능",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "PreMiD의 일급기밀 채팅 채널 접근",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Discord 서버에서의 특별한 역할",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "준비됐나요? 베타 테스터 {0}명과 참가해 보세요!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "지금 가입하세요!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "멋져요! 이제 나는 베타 사용자예요!",
+		"description": "Thank You page title"
 	}
 }

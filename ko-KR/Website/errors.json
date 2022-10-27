@@ -1,1 +1,30 @@
-{}
+{
+	"store.search.notFound": {
+		"message": "해당 Presence를 찾지 못했어요...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "죄송하지만, 해당 페이지를 찾지 못했어요.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "존재하지 않거나 삭제된 Presence를 찾고 있어요.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "내부 서버 오류가 발생했어요.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "세부 정보",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "홈페이지로 돌아가기",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "해당 사용자를 찾지 못했어요.",
+		"description": "Error when user couldn't be found."
+	}
+}

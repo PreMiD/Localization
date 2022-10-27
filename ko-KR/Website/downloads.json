@@ -47,6 +47,10 @@
 		"message": "경고:",
 		"description": "First part of the message."
 	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} 이 운영 체제에 대한 인스톨러가 없어요. 이건 전문적인 도움을 받을 수 없다는 걸 의미해요.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
 	"downloads.mobile.errorMessage": {
 		"message": "PreMiD는 모바일 폰에서 지원되지 않음을 참고하세요.",
 		"description": "Downloads page warning when user is on mobile."
@@ -72,7 +76,7 @@
 		"description": "Error message if the user is not logged in."
 	},
 	"downloads.error.noaccess.title": {
-		"message": "으악, 알파/베타 버전 접근을 할 수 없으신 것 같네요 :(",
+		"message": "죄송하지만, 알파/베타 버전 접근을 할 수 없으신 것 같네요 :(",
 		"description": "Error message if the user doesn't alpha/beta access."
 	},
 	"downloads.error.noaccess.description": {
