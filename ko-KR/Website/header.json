@@ -3,6 +3,14 @@
     "message": "한국어",
     "description": "Replace English with the name of YOUR language!"
   },
+  "header.languageNotification.title": {
+    "message": "내 언어를 여기서 지원해요. 변경하시겠어요?",
+    "description": "Heading of the language notification when user has different language."
+  },
+  "header.languageNotification.text": {
+    "message": "저희 사이트가 내 언어로 번역됐어요. 영어를 잘 하지 못하신다면 도움이 될 수 있어요.",
+    "description": "Text in language notification when user has different language."
+  },
   "header.languageNotification.btnDecline": {
     "message": "아니요, 괜찮아요",
     "description": "Button that will decline notification."
@@ -10,6 +18,10 @@
   "header.languageNotification.btnAccept": {
     "message": "언어 바꾸기",
     "description": "Button that switches language after click."
+  },
+  "header.loader.phrases": {
+    "message": "불러오는 중...;잠시 기다려 주세요...;거의 다 됐어요...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
     "message": "스토어",
