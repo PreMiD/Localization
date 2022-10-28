@@ -59,6 +59,10 @@
 		"message": "요구 사항",
 		"description": "Heading for the requirements."
 	},
+	"partners.requirements.first.title": {
+		"message": "저희가 찾고 있는 방향성",
+		"description": "Heading for the first requirement."
+	},
 	"partners.requirements.first.description": {
 		"message": "저희는 성장 커뮤니티와 인터넷 주변 흥미로운 걸 주시하고 있어요. 요약하자면 PreMiD를 이미 사용하고 있어야 하고 인터넷 사용자분께 전달할 준비가 돼야 해요. 프로그램 수락은 매우 질적이여서 후보마다 다를 거예요.",
 		"description": "Description for the first requirement."
@@ -84,11 +88,11 @@
 		"description": "Heading for sponsors."
 	},
 	"partners.sponsors.description": {
-		"message": "이러한 놀라운 분이 없었다면, PreMiD는 불가능했을 거예요.",
+		"message": "이러한 놀라운 분이 없었더라면, PreMiD는 불가능했을 거예요.",
 		"description": "Description for sponsors."
 	},
 	"partners.partner.aniFlix": {
-		"message": "내가 애니메이션을 시청하는 방법.",
+		"message": "여러분이 애니메이션을 시청하는 방법이죠.",
 		"description": "Description for AniFlix."
 	},
 	"partners.partner.arenaOfKings": {
