@@ -1,6 +1,6 @@
 {
     "pinterest.board": {
-        "message": "보드 보는중:",
+        "message": "보드 보는 중:",
         "description": ""
     },
     "pinterest.pin": {
@@ -8,11 +8,11 @@
         "description": ""
     },
     "pinterest.follow": {
-        "message": "팔로잉 하는 사용자를 보는 중",
+        "message": "팔로우하는 사용자 보는 중",
         "description": ""
     },
     "pinterest.home": {
-        "message": "홈페이지 수정 중",
+        "message": "홈페이지 편집 중",
         "description": ""
     }
 }
