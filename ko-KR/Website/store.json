@@ -87,6 +87,10 @@
 		"message": "검색",
 		"description": "Placeholder for presence search"
 	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
 	"store.search.removeFilter": {
 		"message": "클릭해서 필터 삭제",
 		"description": "Remove message for active search filters."

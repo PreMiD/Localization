@@ -1,1 +1,42 @@
-{}
+{
+	"jobs.modal.title": {
+		"message": "{0}으(로) 신청하기",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "{0}/2 단계",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "다음",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "참가",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "취소",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "모든 입력란을 완성해 주세요",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD는 오픈 소스 프로젝트라서, 비영리 팀임을 의미하죠. 모든 후원이나 Patreon 돈은 제품으로 돌아가요. PreMiD에 일자리를 신청함으로써 내가 팀에 자원해 내가 한 일에 대한 보상을 받지 않을 것이라는 걸 동의하시는 거예요.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Discord 서버 참가하기",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "신청하기 위해서는 내가 Discord 서버에 참가해 있어야 해요. 그렇지 않으면 최종 선발 시 연락을 드릴 수 없게 돼요!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "PreMiD를 위해 일하기",
+		"description": "First part of the jobs page."
+	}
+}

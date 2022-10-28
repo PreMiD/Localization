@@ -76,7 +76,7 @@
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.notConnected.message": {
-		"message": "PreMiD가 앱에 연결하지 못했어요! 설치됐고 실행 중이신가요?\n*문제 해결하기*",
+		"message": "PreMiD가 앱에 연결하지 못했어요! 앱이 설치됐고 실행 중이신가요?\n*문제 해결하기*",
 		"description": "Shown when the extension can't connect to the application"
 	},
 	"popup.info.unsupportedAppVersion": {
@@ -116,7 +116,7 @@
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.info.notConnectedDiscord.message": {
-		"message": "PreMiD가 Discord 앱에 연결하지 못했어요! 설치됐고 실행 중이신가요?\n*문제 해결하기*",
+		"message": "PreMiD가 Discord 앱에 연결하지 못했어요! 앱이 설치됐고 실행 중이신가요?\n*문제 해결하기*",
 		"description": "Shown in the extension when the application can't connect to Discord"
 	},
 	"popup.category.all": {

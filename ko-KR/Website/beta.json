@@ -35,6 +35,10 @@
 		"message": "멋져요! 이제 나는 베타 사용자예요!",
 		"description": "Thank You page title"
 	},
+	"thankyou.description": {
+		"message": "원숭이가 베타 프로그램 참가를 최대한 빨리 진행시키기 위해 노력하고 있는 중이에요. 등록해 주셔서 감사드려요!",
+		"description": "Thank You page description"
+	},
 	"error.noslots": {
 		"message": "사용 가능한 베타 테스터 자리가 더 없는 것 같아요.",
 		"description": "Shows when the beta slots are full."
