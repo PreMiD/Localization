@@ -263,6 +263,10 @@
 		"message": "시청 중:",
 		"description": ""
 	},
+	"general.wishlist": {
+		"message": "위시리스트:",
+		"description": ""
+	},
 	"general.privacy": {
 		"message": "개인정보 보호 정책",
 		"description": "A page name"
