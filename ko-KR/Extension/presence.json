@@ -1,4 +1,12 @@
 {
+  "presence.playback.playing": {
+    "message": "재생 중",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
+  },
+  "presence.playback.paused": {
+    "message": "재생 일시중지됨",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
+  },
   "presence.activity.browsing": {
     "message": "살펴보는 중...",
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
