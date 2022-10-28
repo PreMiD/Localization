@@ -3,16 +3,12 @@
         "message": "구독 보는 중",
         "description": ""
     },
-    "amazon.adprefs": {
-        "message": "광고 선호도 보기 중",
-        "description": ""
-    },
     "amazon.balance": {
-        "message": "밸런스 보는 중",
+        "message": "잔액 보는 중",
         "description": ""
     },
     "amazon.payment": {
-        "message": "지불 방법 보는 중",
+        "message": "결제 방식 보는 중",
         "description": ""
     },
     "amazon.address": {
@@ -24,11 +20,11 @@
         "description": ""
     },
     "amazon.catergoriesAll": {
-        "message": "모든 카테고리를 보는 중",
+        "message": "모든 카테고리 보는 중",
         "description": ""
     },
     "amazon.prime": {
-        "message": "Amazon Prime 을 보는 중",
+        "message": "아마존 프라임을 보는 중",
         "description": ""
     },
     "amazon.viewTheir": {
@@ -48,23 +44,23 @@
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.wishlist": {
-        "message": "찜 목록",
+        "message": "위시리스트",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.giftcards": {
-        "message": "기프트 카드",
+        "message": "기프트카드",
         "description": "Part 2 of the string: \"Viewing their\""
     },
     "amazon.recommended": {
-        "message": "추천 목록 보는 중",
+        "message": "추천 항목 보는 중",
         "description": ""
     },
     "amazon.history": {
-        "message": "기록 보는 중:",
+        "message": "기록 보는 중",
         "description": ""
     },
     "amazon.store": {
-        "message": "상점 보는 중:",
+        "message": "스토어 보는 중:",
         "description": ""
     },
     "amazon.primeVid": {
