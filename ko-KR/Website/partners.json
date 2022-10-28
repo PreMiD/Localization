@@ -3,6 +3,14 @@
 		"message": "파트너",
 		"description": "Heading for page."
 	},
+	"partners.why.benefit1.title": {
+		"message": "나만의 무료 Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "저희 팀이 내 서비스의 Presence를 제공해 줄 거예요.",
+		"description": "Description for the first benefit."
+	},
 	"partners.requirements.title": {
 		"message": "요구사항",
 		"description": "Heading for the requirements."
@@ -11,16 +19,12 @@
 		"message": "스폰서",
 		"description": "Heading for sponsors."
 	},
-	"partners.partner.rNetflix": {
-		"message": "r/Netflix는 가장 큰 Netflix 관련 Discord 서버입니다. 여기에서 같은 생각을 가진 사람들과 좋아하는 시리즈나 영화에 대해 토론하십시오.",
-		"description": "Description for r/Netflix."
-	},
 	"partners.apply.title": {
-		"message": "파트너에 지원하기",
+		"message": "파트너로 신청하기",
 		"description": "Partnership application modal title."
 	},
 	"partners.apply.loggedUser": {
-		"message": "{0} 로 로그인되었습니다.",
+		"message": "{0}으(로) 로그인함",
 		"description": "{0} will be replaced with user account."
 	},
 	"partners.apply.notYou": {
@@ -28,7 +32,7 @@
 		"description": "Account switcher on the modal, just like Discord's!"
 	},
 	"partners.apply.select.default": {
-		"message": "한 개의 항목을 선택하십시오",
+		"message": "하나를 선택해 주세요",
 		"description": "Select default placeholder."
 	},
 	"partners.apply.select.website": {
