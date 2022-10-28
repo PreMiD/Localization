@@ -4,7 +4,7 @@
     "description": "Displayed when the user viewing their calendar"
   },
   "google classroom.todo": {
-    "message": "할일 목록 확인 중",
+    "message": "할 일 목록 확인 중",
     "description": "Displayed when the user is viewing their to-do list"
   },
   "google classroom.assignmentPrivate": {

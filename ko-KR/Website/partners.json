@@ -67,6 +67,10 @@
 		"message": "저희는 성장 커뮤니티와 인터넷 주변 흥미로운 걸 주시하고 있어요. 요약하자면 PreMiD를 이미 사용하고 있어야 하고 인터넷 사용자분께 전달할 준비가 돼야 해요. 프로그램 수락은 매우 질적이여서 후보마다 다를 거예요.",
 		"description": "Description for the first requirement."
 	},
+	"partners.requirements.second.title": {
+		"message": "필수 요건",
+		"description": "Heading for the second requirement."
+	},
 	"partners.requirements.second.description": {
 		"message": "저희는 현재 다양한 종류의 노력을 파트너십 프로그램에서 받고 있어요. 누구든지 주목을 받을 기회가 있어야 하니까요. Twitch 스트리머는 최소 팔로워 500명과 동시 시청자 10명을 확보해야 하고, 일주일에 한 번 이상 방송해야 해요.",
 		"description": "Description for the second requirement."

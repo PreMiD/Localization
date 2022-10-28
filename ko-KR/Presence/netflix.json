@@ -1,18 +1,18 @@
 {
 	"netflix.viewList": {
-		"message": "목록 보기",
+		"message": "목록 보는 중",
 		"description": "List as in their saved series/movies."
 	},
 	"netflix.profile": {
-		"message": "프로필 관리",
+		"message": "프로필 관리 중",
 		"description": ""
 	},
 	"netflix.latest": {
-		"message": "Netflix에서 새로운 기능과 {0}의 인기 보기",
+		"message": "Netflix의 새로운 기능과{0}인기 영화 및 TV 프로그램 보는 중",
 		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
 	},
 	"netflix.referral": {
-		"message": "{0} 참조 링크 가져오기",
+		"message": "추천 링크 가져오는 중",
 		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
 	}
 }

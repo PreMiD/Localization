@@ -1,6 +1,6 @@
 {
 	"spotify.featured": {
-		"message": "피처링한 노래",
+		"message": "추천된 곡",
 		"description": ""
 	},
 	"spotify.bestPodcasts": {
@@ -8,7 +8,7 @@
 		"description": ""
 	},
 	"spotify.charts": {
-		"message": "차트 보는중",
+		"message": "차트 보는 중",
 		"description": ""
 	},
 	"spotify.genres": {
@@ -16,15 +16,15 @@
 		"description": ""
 	},
 	"spotify.latest": {
-		"message": "최신 발매 음악을 보는 중",
+		"message": "최신 발매 곡 보는 중",
 		"description": ""
 	},
 	"spotify.discover": {
-		"message": "새로운 노래를 찾는중",
+		"message": "신규 곡 찾는 중",
 		"description": ""
 	},
 	"spotify.browse": {
-		"message": "탐색하는 중",
+		"message": "살펴보는 중:",
 		"description": "First section of the next 6 strings"
 	},
 	"spotify.podcastsLike": {
@@ -36,23 +36,23 @@
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.albumLike": {
-		"message": "그들이 좋아하는 앨범",
+		"message": "좋아요 표시한 앨범",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.songsLike": {
-		"message": "좋아하는 노래",
+		"message": "좋아요 표시한 곡",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.madeForYou": {
-		"message": "당신을 위한 곡",
+		"message": "\"나만의 음악\"",
 		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
 	},
 	"spotify.playlists": {
-		"message": "그들의 재생목록",
+		"message": "플레이리스트",
 		"description": "\"Browsing through\" + this"
 	},
 	"spotify.download": {
-		"message": "다운로드 중",
+		"message": "Spotify 다운로드 중",
 		"description": ""
 	}
 }

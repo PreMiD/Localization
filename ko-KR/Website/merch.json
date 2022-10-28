@@ -7,6 +7,10 @@
 		"message": "나만의 **스타일** 찾기",
 		"description": "Subtitle for store"
 	},
+	"merch.fit": {
+		"message": "**사이즈를 선택하세요**",
+		"description": "Product sizes"
+	},
 	"merch.cart": {
 		"message": "장바구니에 추가",
 		"description": "Add product to cart"
