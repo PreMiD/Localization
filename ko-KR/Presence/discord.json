@@ -1,58 +1,6 @@
 {
-	"discord.friends": {
-		"message": "친구를 보는 중...",
-		"description": ""
-	},
-	"discord.nitro": {
-		"message": "Nitro에 관해 읽는 중...",
-		"description": ""
-	},
-	"discord.voiceConnectedWith": {
-		"message": "음성 연결: {0} {1}",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
-	},
-	"discord.settings": {
-		"message": "설정을 보는 중...",
-		"description": ""
-	},
-	"discord.invite": {
-		"message": "초대 링크 보는 중: {0} {1} (서버: {2})",
-		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
-	},
 	"discord.browseThrough": {
-		"message": "찾아보는 중",
+		"message": "살펴보는 중:",
 		"description": "The first part of the next 17 strings"
-	},
-	"discord.partner": {
-		"message": "파트너 페이지",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.verification": {
-		"message": "확인 페이지",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.policies": {
-		"message": "정책",
-		"description": "Second part of the \"Browsing through\" string"
-	},
-	"discord.devs.appsBrowse": {
-		"message": "앱을 통해 탐색",
-		"description": ""
-	},
-	"discord.devs.serversEdit": {
-		"message": "서버의 통찰력 보기: {0}",
-		"description": "{0} will be replaced with the name of the server."
-	},
-	"discord.devs.docs": {
-		"message": "설명서 읽기",
-		"description": ""
-	},
-	"discord.support": {
-		"message": "고객센터",
-		"description": ""
-	},
-	"discord.merch.collection": {
-		"message": "컬렉션 보는 중:",
-		"description": ""
 	}
 }
