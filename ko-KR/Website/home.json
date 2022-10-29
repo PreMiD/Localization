@@ -3,6 +3,10 @@
 		"message": "**PreMiD**는 내가 웹에서 무엇을 하고 있는지 Discord의 게임 하는 중 상태에서 보여주게 해주는 간단하고, 구성 가능한 유틸리티 프로그램이에요.",
 		"description": "First phrase that users read on our website"
 	},
+	"home.introduction.button.features": {
+		"message": "기능",
+		"description": "Introduction button"
+	},
 	"home.introduction.button.downloads": {
 		"message": "다운로드",
 		"description": "Downloads button -> redirects to /downloads page"
