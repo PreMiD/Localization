@@ -23,6 +23,10 @@
 		"message": "에피소드",
 		"description": ""
 	},
+	"general.season": {
+		"message": "시즌",
+		"description": ""
+	},
 	"general.forums": {
 		"message": "포럼",
 		"description": ""

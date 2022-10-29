@@ -38,5 +38,73 @@
 	"jobs.header.title": {
 		"message": "PreMiD를 위해 일하기",
 		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "가장 거대한 Rich Presence 프로그램에 도움을 줄 준비가 되었나요?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "채용",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "최고의 혜택",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "만나기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "PreMiD 배후에 있는 분과 연락해 보세요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "미리 맛보기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "저희 개발과 마케팅을 살펴 보세요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "영광 누리기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "강력한 Discord 권한과 색상 역할이 있어요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "PreMiD 지원하기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "나의 기여로 이 프로젝트를 운영할 수 있어요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "휴식 취하기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "천천히 하셔도 돼요. 이건 자원 봉사니까요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "미리 해보기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "다른 분보다 더 빨리 새 기능을 체험해 보세요.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "신청해 주셔서 감사드려요!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "이미 이전에 신청하셨어요!",
+		"description": "Notification when you applied already."
 	}
 }
