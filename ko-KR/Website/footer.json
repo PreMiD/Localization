@@ -27,10 +27,6 @@
 		"message": "개발자",
 		"description": "Developer section"
 	},
-	"footer.developers.documentation": {
-		"message": "문서",
-		"description": "Documentation -> redirects to docs.premid.app"
-	},
 	"footer.developers.richpresence": {
 		"message": "Rich Presence",
 		"description": "Rich Presence -> redirects to discord.com/rich-presence"
