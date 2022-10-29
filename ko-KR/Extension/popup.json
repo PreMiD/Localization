@@ -131,20 +131,12 @@
 		"message": "음악",
 		"description": "Category name shown when you open tags"
 	},
-	"popup.category.games": {
-		"message": "게임",
-		"description": "Category name shown when you open tags"
-	},
 	"popup.category.socials": {
 		"message": "소셜",
 		"description": "Category name shown when you open tags"
 	},
 	"popup.category.videos": {
 		"message": "동영상 및 방송",
-		"description": "Category name shown when you open tags"
-	},
-	"popup.category.other": {
-		"message": "기타",
 		"description": "Category name shown when you open tags"
 	}
 }
