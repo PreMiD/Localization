@@ -1,14 +1,1 @@
-{
-  "animepahe.season": {
-    "message": "시즌",
-    "description": "TV show/series season eg. Season 5 of The Flash"
-  },
-  "animepahe.special": {
-    "message": "스페셜",
-    "description": "A type of related content; a special release episode not included in the original release often with differing style"
-  },
-  "animepahe.timeSeason": {
-    "message": "시즌",
-    "description": "Time Season eg. The season is now Winter"
-  }
-}
+{}
