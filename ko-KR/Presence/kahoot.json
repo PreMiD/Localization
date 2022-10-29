@@ -1,10 +1,10 @@
 {
     "kahoot.buttonJoinGame": {
-        "message": "{0} 참가",
+        "message": "게임 참여: {0}",
         "description": "Used as the title for the button in Discord. {0} is the Game ID"
     },
     "kahoot.joiningGame": {
-        "message": "참가 중...",
+        "message": "게임 참여 중...",
         "description": "Used when a user is joining a Kahoot Game."
     },
     "kahoot.waiting": {
@@ -20,7 +20,7 @@
         "description": "Used as the first line when a user is answering a question"
     },
     "kahoot.questionLoading": {
-        "message": "다음 문제 로딩중...",
+        "message": "다음 질문 불러오는 중...",
         "description": "Used when the next question is loading"
     },
     "kahoot.incorrectAnswer": {
@@ -32,7 +32,7 @@
         "description": "Used when the user anwered correct on a question"
     },
     "kahoot.resultsQuestion": {
-        "message": "결과 확인 중",
+        "message": "결과 확인 중:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
     "kahoot.slideViewing": {
@@ -40,7 +40,7 @@
         "description": "Used when a user is looking at a slide with content in a Kahoot"
     },
     "kahoot.gameOver": {
-        "message": "게임 끝",
+        "message": "게임 종료",
         "description": "Used when the Game is finished"
     },
     "kahoot.gameCreate": {
@@ -48,7 +48,7 @@
         "description": "Used when a Kahoot Host is creating a Game"
     },
     "kahoot.loadingPage": {
-        "message": "로딩 중...",
+        "message": "페이지 불러오는 중...",
         "description": "Used when a page is loading"
     },
     "kahoot.firstPlace": {
@@ -60,7 +60,7 @@
         "description": "Used to display how many points a user has. {0} is the number of points"
     },
     "kahoot.questionsCorrect": {
-        "message": "정답 갯수: {0}",
+        "message": "맞힌 질문 수: {0}",
         "description": "Used to display how many questions a user got correct"
     },
     "kahoot.slideShowing": {
@@ -68,11 +68,11 @@
         "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
     },
     "kahoot.questionNumber": {
-        "message": "문제: {0}",
+        "message": "질문: {0}",
         "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
     },
     "kahoot.questionShowing": {
-        "message": "문제 보여주는 중:",
+        "message": "질문 보여주는 중:",
         "description": "Used when the host is showing a question"
     },
     "kahoot.stPlace": {
@@ -92,59 +92,19 @@
         "description": "Used in the context of Top 5"
     },
     "kahoot.of": {
-        "message": "{1}개중 {0}개",
+        "message": "{0}/{1}",
         "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.onPodium": {
+        "message": "상위 3등",
+        "description": "Used in the context of a player/team being withing the top 3"
     },
     "kahoot.drumRoll": {
         "message": "최종 순위를 기다리는 중...",
         "description": "Used when a player is waiting to receive their final ranking"
     },
     "kahoot.position": {
-        "message": "등수: {0}",
+        "message": "순위: {0}",
         "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
-    },
-    "kahoot.teamTalk": {
-        "message": "팀과 논의 중",
-        "description": "Used when a player is talking to their team during team talk time"
-    },
-    "kahoot.gameSummary": {
-        "message": "게임 요약 보는 중",
-        "description": "Used when the host is viewing the summary of a game"
-    },
-    "kahoot.login": {
-        "message": "로그인 중",
-        "description": "Used when a user is logging in"
-    },
-    "kahoot.createHome": {
-        "message": "홈페이지 보는 중",
-        "description": "Used when the user is viewing the create.kahoot.it home page"
-    },
-    "kahoot.kahootProfile": {
-        "message": "Kahoot 프로필 보는 중:",
-        "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below."
-    },
-    "kahoot.editingCourse": {
-        "message": "코스 편집 중:",
-        "description": "Used when the user is editing a course. The name of the course will be displayed below."
-    },
-    "kahoot.viewingCourse": {
-        "message": "코스 보는 중:",
-        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
-    },
-    "kahoot.editingKahoot": {
-        "message": "Kahoot 편집 중:",
-        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
-    },
-    "kahoot.previewingKahoot": {
-        "message": "Kahoot 미리 보는 중:",
-        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
-    },
-    "kahoot.feedback": {
-        "message": "피드백 제공 중",
-        "description": "Used when a player is providing feedback about the quiz to the host"
-    },
-    "kahoot.waitingAnswer": {
-        "message": "결과를 기다리는 중...",
-        "description": "Used when a player is waiting for the question results"
     }
 }
