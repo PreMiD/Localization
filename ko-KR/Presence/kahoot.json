@@ -35,10 +35,6 @@
         "message": "결과 확인 중:",
         "description": "Used when a user is looking at the results of the question they just answered"
     },
-    "kahoot.slideViewing": {
-        "message": "콘텐츠 슬라이드 확인 중",
-        "description": "Used when a user is looking at a slide with content in a Kahoot"
-    },
     "kahoot.gameOver": {
         "message": "게임 종료",
         "description": "Used when the Game is finished"
