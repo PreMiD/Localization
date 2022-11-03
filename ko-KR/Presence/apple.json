@@ -1,4 +1,16 @@
 {
+    "apple.comparing": {
+        "message": "비교 중:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "서비스 보는 중:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.chooseLang": {
+        "message": "언어를 고르는 중...",
+        "description": "Choosing the language of the website"
+    },
     "apple.other": {
         "message": "기타",
         "description": "Other pages not added to the code"
@@ -14,5 +26,17 @@
     "apple.devGames": {
         "message": "게임",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.btnViewService": {
+        "message": "서비스 보기",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "{0} 보기",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewWWDC": {
+        "message": "{0} 보기",
+        "description": "e.g.: \"View WWDC21\""
     }
 }
