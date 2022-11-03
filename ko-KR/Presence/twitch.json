@@ -3,8 +3,32 @@
 		"message": "다운로드",
 		"description": "Page name"
 	},
+	"twitch.jobs": {
+		"message": "인재 채용",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "터보",
+		"description": "Page name"
+	},
 	"twitch.partners": {
 		"message": "파트너",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "보안",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "접근성",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "광고 선택",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "커뮤니티 가이드라인",
 		"description": "Page name"
 	},
 	"twitch.home": {

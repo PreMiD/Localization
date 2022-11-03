@@ -8,7 +8,7 @@
 		"description": "Displayed when the user is viewing a Google Document"
 	},
 	"google docs.browsingDoc": {
-		"message": "문서를 살펴보는 중",
+		"message": "문서 살펴보는 중",
 		"description": "Displayed when the user is browsing their Google Documents"
 	},
 	"google docs.editingForm": {
