@@ -87,8 +87,72 @@
 		"message": "뉴스 페이지",
 		"description": "Second part of the \"Browsing through\" string"
 	},
+	"discord.partner": {
+		"message": "파트너 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "인증 프로그램 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "StreamKit 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "오픈소스 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "Rich Presence 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
 	"discord.devs.appsBrowse": {
 		"message": "앱을 통해 살펴보는 중",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "앱 편집 중: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "팀을 통해 살펴보는 중",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "팀 편집 중: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "서버를 통해 살펴보는 중",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "서버의 인사이트 보는 중: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "문서 읽는 중",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discord 상태",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "고객 지원 센터",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord Blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "컬렉션 보는 중:",
 		"description": ""
 	}
 }
