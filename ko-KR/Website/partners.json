@@ -8,7 +8,7 @@
 		"description": "Description for page."
 	},
 	"partners.slideshow.description": {
-		"message": "아래는 소속된 파트너예요.",
+		"message": "아래는 소속된 파트너예요",
 		"description": "Description for slideshow."
 	},
 	"partners.why.title": {
@@ -40,7 +40,7 @@
 		"description": "Description for the third benefit."
 	},
 	"partners.why.benefit4.title": {
-		"message": "영원해지기",
+		"message": "박제되기",
 		"description": "Heading for the fourth benefit."
 	},
 	"partners.why.benefit4.description": {
