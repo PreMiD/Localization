@@ -39,6 +39,10 @@
 		"message": "Stöda URLs",
 		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
 	},
+	"presence.sections.information.moreurls": {
+		"message": "Denna Presence stöder fler webbadresser än vad som anges nedan genom att använda RegExp. Hover för att se mönstret",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
 	"presence.sections.information.contributors": {
 		"message": "Medverkande",
 		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
