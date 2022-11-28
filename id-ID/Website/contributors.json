@@ -23,6 +23,10 @@
 		"message": "Pengelola Komunitas",
 		"description": "'Community Manager' title for contributors and user pages."
 	},
+	"contributors.roles.projectManagement": {
+		"message": "Pengelola Proyek",
+		"description": "'Project Management' title for contributors and user pages."
+	},
 	"contributors.roles.humanResources": {
 		"message": "Sumber daya Manusia",
 		"description": "'Human Resources' title for contributors and user pages."
