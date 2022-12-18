@@ -63,6 +63,14 @@
         "message": "Csatlakozás...",
         "description": "Connecting to the App Store"
     },
+    "apple.iCloudMail": {
+        "message": "Levél",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Névjegyek",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
     "apple.iCloudCalendar": {
         "message": "Naptár",
         "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
@@ -91,6 +99,10 @@
         "message": "Dokumentáció",
         "description": "Developer documentation"
     },
+    "apple.devResources": {
+        "message": "Erőforrások",
+        "description": "Apple Design Resources"
+    },
     "apple.devFeatures": {
         "message": "Funkciók",
         "description": "Features for app design"
@@ -98,6 +110,10 @@
     "apple.devGames": {
         "message": "Játék",
         "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumPreferences": {
+        "message": "Preferenciák",
+        "description": "Profile settings/preferences, e.g. change username"
     },
     "apple.forumRegister": {
         "message": "Regisztráció",
@@ -126,5 +142,13 @@
     "apple.btnViewEvent": {
         "message": "Esemény megtekintése",
         "description": "Button text"
+    },
+    "apple.btnViewApp": {
+        "message": "Alkalmazás megtekintése",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Fejlesztő megtekintése",
+        "description": "View the developer of an app"
     }
 }
