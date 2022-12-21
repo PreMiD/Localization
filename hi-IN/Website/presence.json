@@ -1,50 +1,50 @@
 {
-	"presence.page.buttons.sourceCode": {
-		"message": "सोर्स कोड",
-		"description": "Source Code button on presence pages."
-	},
-	"presence.sections.description.title": {
-		"message": "विवरण",
-		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "परिवर्तन लॉग",
-		"description": "The title of the changelog section."
-	},
-	"presence.sections.information.title": {
-		"message": "जानकारी",
-		"description": "The title of the information section."
-	},
-	"presence.sections.information.author": {
-		"message": "लेखक",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	},
-	"presence.sections.information.version": {
-		"message": "संस्करण",
-		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
-	},
-	"presence.sections.information.likes": {
-		"message": "पसंद है",
-		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
-	},
-	"presence.sections.information.users": {
-		"message": "यूज़र",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
-	"presence.sections.information.tags": {
-		"message": "टैग",
-		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
-	},
-	"presence.sections.information.supportedurls": {
-		"message": "समर्थित URL",
-		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
-	},
-	"presence.sections.information.moreurls": {
-		"message": "उपस्थिति RegExp के उपयोग के माध्यम से नीचे सूची की तुलना में अधिक URL का समर्थन करती है। \nप्रतिरूप देखने के लिए मंडराएँ",
-		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
-	},
-	"presence.sections.information.contributors": {
-		"message": "योगदानकर्ता",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
-	}
+  "presence.page.buttons.sourceCode": {
+    "description": "Source Code button on presence pages.",
+    "message": "सोर्स कोड"
+  },
+  "presence.sections.changelog.title": {
+    "description": "The title of the changelog section.",
+    "message": "परिवर्तन लॉग"
+  },
+  "presence.sections.description.title": {
+    "description": "The title of the description section.",
+    "message": "विवरण"
+  },
+  "presence.sections.information.author": {
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
+    "message": "लेखक"
+  },
+  "presence.sections.information.contributors": {
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
+    "message": "योगदानकर्ता"
+  },
+  "presence.sections.information.likes": {
+    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+    "message": "पसंद है"
+  },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "उपस्थिति RegExp के उपयोग के माध्यम से नीचे सूची की तुलना में अधिक URL का समर्थन करती है। \nप्रतिरूप देखने के लिए मंडराएँ"
+  },
+  "presence.sections.information.supportedurls": {
+    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
+    "message": "समर्थित URL"
+  },
+  "presence.sections.information.tags": {
+    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
+    "message": "टैग"
+  },
+  "presence.sections.information.title": {
+    "description": "The title of the information section.",
+    "message": "जानकारी"
+  },
+  "presence.sections.information.users": {
+    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+    "message": "यूज़र"
+  },
+  "presence.sections.information.version": {
+    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
+    "message": "संस्करण"
+  }
 }

@@ -1,46 +1,46 @@
 {
-	"beta.title": {
-		"message": "Desideri nuove funzionalità?",
-		"description": "Beta page title"
-	},
-	"beta.description.1": {
-		"message": "**PreMiD Beta** è ora disponibile per tutti!",
-		"description": "Section description"
-	},
-	"beta.description.2": {
-		"message": "Cosa otterrai se ti iscrivi?",
-		"description": "Section description"
-	},
-	"beta.features.1": {
-		"message": "Ultime funzionalità",
-		"description": "Features list"
-	},
-	"beta.features.2": {
-		"message": "Accesso ai canali di testo super segreti di PreMiD",
-		"description": "Features list"
-	},
-	"beta.features.3": {
-		"message": "Un ruolo speciale nel nostro server Discord",
-		"description": "Features list"
-	},
-	"beta.register.text": {
-		"message": "Sei Pronto? Unisciti ad altri {0} Beta Tester!",
-		"description": "{0} will be replaced with the beta testers count -> is a variable"
-	},
-	"beta.register.button": {
-		"message": "Registrati ora!",
-		"description": "Sign up button text"
-	},
-	"thankyou.title": {
-		"message": "Fantastico! Ora sei un utente beta!",
-		"description": "Thank You page title"
-	},
-	"thankyou.description": {
-		"message": "Le nostre scimmie stanno lavorando per farti entrare nel nostro programma beta il più velocemente possibile. Grazie per esserti registrato!",
-		"description": "Thank You page description"
-	},
-	"error.noslots": {
-		"message": "Sembra che non abbiamo più posti beta disponibili.",
-		"description": "Shows when the beta slots are full."
-	}
+  "beta.description.1": {
+    "description": "Section description",
+    "message": "**PreMiD Beta** è ora disponibile per tutti!"
+  },
+  "beta.description.2": {
+    "description": "Section description",
+    "message": "Cosa otterrai se ti iscrivi?"
+  },
+  "beta.features.1": {
+    "description": "Features list",
+    "message": "Ultime funzionalità"
+  },
+  "beta.features.2": {
+    "description": "Features list",
+    "message": "Accesso ai canali di testo super segreti di PreMiD"
+  },
+  "beta.features.3": {
+    "description": "Features list",
+    "message": "Un ruolo speciale nel nostro server Discord"
+  },
+  "beta.register.button": {
+    "description": "Sign up button text",
+    "message": "Registrati ora!"
+  },
+  "beta.register.text": {
+    "description": "{0} will be replaced with the beta testers count -> is a variable",
+    "message": "Sei Pronto? Unisciti ad altri {0} Beta Tester!"
+  },
+  "beta.title": {
+    "description": "Beta page title",
+    "message": "Desideri nuove funzionalità?"
+  },
+  "error.noslots": {
+    "description": "Shows when the beta slots are full.",
+    "message": "Sembra che non abbiamo più posti beta disponibili."
+  },
+  "thankyou.description": {
+    "description": "Thank You page description",
+    "message": "Le nostre scimmie stanno lavorando per farti entrare nel nostro programma beta il più velocemente possibile. Grazie per esserti registrato!"
+  },
+  "thankyou.title": {
+    "description": "Thank You page title",
+    "message": "Fantastico! Ora sei un utente beta!"
+  }
 }

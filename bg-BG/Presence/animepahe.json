@@ -1,22 +1,22 @@
 {
   "animepahe.latestRelease": {
-    "message": "Последни версии",
-    "description": "Recently released content, can be new or old anime, its just new to the site"
+    "description": "Recently released content, can be new or old anime, its just new to the site",
+    "message": "Последни версии"
   },
   "animepahe.season": {
-    "message": "Сезон",
-    "description": "TV show/series season eg. Season 5 of The Flash"
+    "description": "TV show/series season eg. Season 5 of The Flash",
+    "message": "Сезон"
   },
   "animepahe.special": {
-    "message": "Специален",
-    "description": "A type of related content; a special release episode not included in the original release often with differing style"
-  },
-  "animepahe.view": {
-    "message": "Прегледай на {0}",
-    "description": "{0} will be replaced by \"Pahe\" or \"AniList\""
+    "description": "A type of related content; a special release episode not included in the original release often with differing style",
+    "message": "Специален"
   },
   "animepahe.timeSeason": {
-    "message": "Сезон",
-    "description": "Time Season eg. The season is now Winter"
+    "description": "Time Season eg. The season is now Winter",
+    "message": "Сезон"
+  },
+  "animepahe.view": {
+    "description": "{0} will be replaced by \"Pahe\" or \"AniList\"",
+    "message": "Прегледай на {0}"
   }
 }

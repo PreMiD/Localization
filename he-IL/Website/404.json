@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "אעע! מבוי סתום?",
-    "description": "Heading on 404 page"
+    "description": "Heading on 404 page",
+    "message": "אעע! מבוי סתום?"
   },
   "404.message": {
-    "message": "סליחה, נראה שהדף שאתה רוצה לראות זז או נמחק או שלעולם לא נוצר?",
-    "description": "Message on 404 page"
+    "description": "Message on 404 page",
+    "message": "סליחה, נראה שהדף שאתה רוצה לראות זז או נמחק או שלעולם לא נוצר?"
   }
 }

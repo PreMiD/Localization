@@ -1,46 +1,46 @@
 {
-	"store.search.notFound": {
-		"message": "Non siamo riusciti a trovare quella Presence...",
-		"description": "Search result text when nothing's found"
-	},
-	"error.code.404": {
-		"message": "Siamo spiacenti, non abbiamo trovato quella pagina.",
-		"description": "Error (404) message"
-	},
-	"error.code.4": {
-		"message": "Stai cercando una Presence inesistente o eliminata.",
-		"description": "Error (4) message"
-	},
-	"error.code.500": {
-		"message": "Si è verificato un errore interno al server.",
-		"description": "Error (500) message"
-	},
-	"error.page.details": {
-		"message": "Dettagli",
-		"description": "'Details' text on error page container"
-	},
-	"error.page.button": {
-		"message": "Torna alla pagina iniziale",
-		"description": "Button on the error page"
-	},
-	"user.notFound.heading": {
-		"message": "Questo utente non è stato trovato. Prova ad assicurarti che",
-		"description": "Error when user couldn't be found."
-	},
-	"user.notFound.message1": {
-		"message": "l'ID dell'utente che stai cercando è corretto.",
-		"description": "Check user ID message."
-	},
-	"user.notFound.message2": {
-		"message": "l'utente ha creato abbastanza Presence ed ha il ruolo di sviluppatore di Presence nel nostro server Discord.",
-		"description": "Check the presence amount of the developer created message."
-	},
-	"user.notFound.message3": {
-		"message": "se altri stanno riscontrando lo stesso problema sul nostro server Discord.",
-		"description": "Check if the error is also happening to others message."
-	},
-	"user.notFound.message4": {
-		"message": "Se ritieni che fosse un errore, per favore contattaci nel [nostro server Discord].",
-		"description": "Bottom line for the error page. Do not edit brackets."
-	}
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "Stai cercando una Presence inesistente o eliminata."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "Siamo spiacenti, non abbiamo trovato quella pagina."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "Si è verificato un errore interno al server."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "Torna alla pagina iniziale"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "Dettagli"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "Non siamo riusciti a trovare quella Presence..."
+  },
+  "user.notFound.heading": {
+    "description": "Error when user couldn't be found.",
+    "message": "Questo utente non è stato trovato. Prova ad assicurarti che"
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "l'ID dell'utente che stai cercando è corretto."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "l'utente ha creato abbastanza Presence ed ha il ruolo di sviluppatore di Presence nel nostro server Discord."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "se altri stanno riscontrando lo stesso problema sul nostro server Discord."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "Se ritieni che fosse un errore, per favore contattaci nel [nostro server Discord]."
+  }
 }

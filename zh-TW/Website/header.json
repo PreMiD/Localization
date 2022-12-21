@@ -1,54 +1,54 @@
 {
-  "header.language": {
-    "message": "繁體中文",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "我們支持您的語言, 想要切換嗎?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "我們的網站已翻譯成您的語言. 如果您在英語方面比較弱, 這可能會有所幫助.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "不用了, 感謝",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "切換語言",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "烤煎餅中...;把它放置到容器...;正在解析您的IP地址...; UwU;破壞規則中...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.downloads": {
-    "message": "下載",
-    "description": "Downloads tab"
-  },
-  "header.contributors": {
-    "message": "貢獻者",
-    "description": "Contributors tab"
-  },
-  "header.login": {
-    "message": "登入",
-    "description": "Login Button"
-  },
-  "header.lia": {
-    "message": "登入為",
-    "description": "Indicates which user is logged in"
-  },
-  "header.rab": {
-    "message": "回報錯誤",
-    "description": "Report a bug button"
-  },
-  "header.staff": {
-    "message": "控制面板",
-    "description": "Dashboard button"
-  },
-  "header.logout": {
-    "message": "登出",
-    "description": "Logout button"
-  }
+	"header.contributors": {
+		"description": "Contributors tab",
+		"message": "貢獻者"
+	},
+	"header.downloads": {
+		"description": "Downloads tab",
+		"message": "下載"
+	},
+	"header.language": {
+		"description": "Replace English with the name of YOUR language!",
+		"message": "繁體中文"
+	},
+	"header.languageNotification.btnAccept": {
+		"description": "Button that switches language after click.",
+		"message": "切換語言"
+	},
+	"header.languageNotification.btnDecline": {
+		"description": "Button that will decline notification.",
+		"message": "不用了, 感謝"
+	},
+	"header.languageNotification.text": {
+		"description": "Text in language notification when user has different language.",
+		"message": "我們的網站已翻譯成您的語言. 如果您在英語方面比較弱, 這可能會有所幫助."
+	},
+	"header.languageNotification.title": {
+		"description": "Heading of the language notification when user has different language.",
+		"message": "我們支持您的語言, 想要切換嗎?"
+	},
+	"header.lia": {
+		"description": "Indicates which user is logged in",
+		"message": "登入為"
+	},
+	"header.loader.phrases": {
+		"description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+		"message": "烤煎餅中...;把它放置到容器...;正在解析您的IP地址...; UwU;破壞規則中..."
+	},
+	"header.login": {
+		"description": "Login Button",
+		"message": "登入"
+	},
+	"header.logout": {
+		"description": "Logout button",
+		"message": "登出"
+	},
+	"header.rab": {
+		"description": "Report a bug button",
+		"message": "回報錯誤"
+	},
+	"header.staff": {
+		"description": "Dashboard button",
+		"message": "控制面板"
+	}
 }

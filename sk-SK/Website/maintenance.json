@@ -1,26 +1,26 @@
 {
-	"maintenance.big": {
-		"message": "Ale nie!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Bohužiaľ máme určité technické ťažkosti. O chvíľu sa vrátime. Ospravedlňujem sa za nepríjemnosť.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Prosím vráťte sa neskôr pre viac informácií.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "Kým to naši špeciálni vývojári riešia, neváhaj sa pozrieť tu!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "Stav",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discord Server",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "Ale nie!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discord Server"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Bohužiaľ máme určité technické ťažkosti. O chvíľu sa vrátime. Ospravedlňujem sa za nepríjemnosť."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Prosím vráťte sa neskôr pre viac informácií."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Kým to naši špeciálni vývojári riešia, neváhaj sa pozrieť tu!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Stav"
+  }
 }

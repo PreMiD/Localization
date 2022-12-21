@@ -1,42 +1,42 @@
 {
-	"contributors.headings.staff": {
-		"message": "Персонал",
-		"description": "Heading for group of users."
-	},
-	"contributors.headings.supporters": {
-		"message": "Поддръжници",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.localizationManager": {
-		"message": "Управител по локализацията",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "Коректор",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
-	"contributors.headings.translators": {
-		"message": "Преводачи",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.donator": {
-		"message": "Дарител",
-		"description": "'Donator' title for contributors page."
-	},
-	"contributors.roles.booster": {
-		"message": "Booster",
-		"description": "'Booster' title for contributors page and user pages."
-	},
-	"contributors.roles.translator": {
-		"message": "Преводач",
-		"description": "'Translator' title for contributors page."
-	},
-	"contributors.cards.copyUserId": {
-		"message": "Щракване за копиране на потребителския идент. №.",
-		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Потребителското ID бе копирано!",
-		"description": "Notification after user ID was copied."
-	}
+  "contributors.cards.copyUserId": {
+    "description": "Tippy message when you hover on the avatar of a credit card.",
+    "message": "Щракване за копиране на потребителския идент. №."
+  },
+  "contributors.cards.userIdCopied": {
+    "description": "Notification after user ID was copied.",
+    "message": "Потребителското ID бе копирано!"
+  },
+  "contributors.headings.staff": {
+    "description": "Heading for group of users.",
+    "message": "Персонал"
+  },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Поддръжници"
+  },
+  "contributors.headings.translators": {
+    "description": "Heading for group of users.",
+    "message": "Преводачи"
+  },
+  "contributors.roles.booster": {
+    "description": "'Booster' title for contributors page and user pages.",
+    "message": "Booster"
+  },
+  "contributors.roles.donator": {
+    "description": "'Donator' title for contributors page.",
+    "message": "Дарител"
+  },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "Управител по локализацията"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "Коректор"
+  },
+  "contributors.roles.translator": {
+    "description": "'Translator' title for contributors page.",
+    "message": "Преводач"
+  }
 }

@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "Kullanıcılar artık kendi servislerini ekleyebilir. *Hemen biraz ekleyin!*",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "Kendi alanlarında birkaç *yeni servis* bulun",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "Otomatik güncelleme artık çalışıyor",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "Kullanıcılar artık kendi servislerini oluşturabilir",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "Yaratıcı geliştiriciler için *dökümanlar*",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "Tamamen yeni site tasarımı",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "Discord botumuzda daha fazla özellik",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "Yeni API'miz canavar gibi çalışıyor",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "Son sürüme sahip olmanıza rağmen güncelleyiniz mesajı düzeltildi"
   },
   "extension.2.0.change1": {
-    "message": "Popup ve sekme tasarımı yenilendi",
-    "description": ""
+    "description": "",
+    "message": "Popup ve sekme tasarımı yenilendi"
   },
   "extension.2.0.fix1": {
-    "message": "Bir sürü bilinmeyen hatalardan kurtulundu",
-    "description": ""
+    "description": "",
+    "message": "Bir sürü bilinmeyen hatalardan kurtulundu"
   },
   "extension.2.0.fix2": {
-    "message": "Artık her şey çok daha hızlı çalışıyor",
-    "description": ""
+    "description": "",
+    "message": "Artık her şey çok daha hızlı çalışıyor"
   },
-  "extension.2.0.1.fix1": {
-    "message": "Son sürüme sahip olmanıza rağmen güncelleyiniz mesajı düzeltildi",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "Kullanıcılar artık kendi servislerini ekleyebilir. *Hemen biraz ekleyin!*"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "Kendi alanlarında birkaç *yeni servis* bulun"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "Otomatik güncelleme artık çalışıyor"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "Kullanıcılar artık kendi servislerini oluşturabilir"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "Yaratıcı geliştiriciler için *dökümanlar*"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "Tamamen yeni site tasarımı"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "Discord botumuzda daha fazla özellik"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "Yeni API'miz canavar gibi çalışıyor"
   }
 }

@@ -1,26 +1,26 @@
 {
-	"maintenance.big": {
-		"message": "Oh nei!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Því miður erum við í tæknilegum erfiðleikum. Við munum koma aftur innan skamms. Afsakið óþægindin.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Vinsamlegast komdu aftur seinna til að fá frekari upplýsingar.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "Þangað til sérstakir verktakar okkar laga þetta, ekki hika við að kíkja hér!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "Status Page",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discord Server",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "Oh nei!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discord Server"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Því miður erum við í tæknilegum erfiðleikum. Við munum koma aftur innan skamms. Afsakið óþægindin."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Vinsamlegast komdu aftur seinna til að fá frekari upplýsingar."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Þangað til sérstakir verktakar okkar laga þetta, ekki hika við að kíkja hér!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Status Page"
+  }
 }

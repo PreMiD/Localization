@@ -1,6 +1,6 @@
 {
-    "hypixel.dm": {
-        "message": "Prohlížení jejich přímých zpráv",
-        "description": ""
-    }
+  "hypixel.dm": {
+    "description": "",
+    "message": "Prohlížení jejich přímých zpráv"
+  }
 }

@@ -1,42 +1,42 @@
 {
-	"contributors.headings.staff": {
-		"message": "Штат",
-		"description": "Heading for group of users."
-	},
-	"contributors.headings.supporters": {
-		"message": "Прихильники",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.localizationManager": {
-		"message": "Менеджер з локалізації",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "Редактор",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
-	"contributors.headings.translators": {
-		"message": "Перекладачі",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.donator": {
-		"message": "Спонсор",
-		"description": "'Donator' title for contributors page."
-	},
-	"contributors.roles.booster": {
-		"message": "Прискорювач",
-		"description": "'Booster' title for contributors page and user pages."
-	},
-	"contributors.roles.translator": {
-		"message": "Перекладач",
-		"description": "'Translator' title for contributors page."
-	},
-	"contributors.cards.copyUserId": {
-		"message": "Натисніть, щоб скопіювати ідентифікатор користувача.",
-		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "ID користувача скопійовано!",
-		"description": "Notification after user ID was copied."
-	}
+  "contributors.cards.copyUserId": {
+    "description": "Tippy message when you hover on the avatar of a credit card.",
+    "message": "Натисніть, щоб скопіювати ідентифікатор користувача."
+  },
+  "contributors.cards.userIdCopied": {
+    "description": "Notification after user ID was copied.",
+    "message": "ID користувача скопійовано!"
+  },
+  "contributors.headings.staff": {
+    "description": "Heading for group of users.",
+    "message": "Штат"
+  },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Прихильники"
+  },
+  "contributors.headings.translators": {
+    "description": "Heading for group of users.",
+    "message": "Перекладачі"
+  },
+  "contributors.roles.booster": {
+    "description": "'Booster' title for contributors page and user pages.",
+    "message": "Прискорювач"
+  },
+  "contributors.roles.donator": {
+    "description": "'Donator' title for contributors page.",
+    "message": "Спонсор"
+  },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "Менеджер з локалізації"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "Редактор"
+  },
+  "contributors.roles.translator": {
+    "description": "'Translator' title for contributors page.",
+    "message": "Перекладач"
+  }
 }

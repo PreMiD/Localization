@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "ไทย",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "เรารองรับภาษาของคุณนะ อยากเปลี่ยนไหม?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "เว็บไซต์ของเรามีภาษาอื่น ๆ ให้เลือก เผื่อคุณจะอ่านภาษาอังกฤษไม่เก่งนะ",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "ไม่ ขอบคุณ",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "เปลี่ยนภาษา",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "กำลังอบแพนเค้ก...;วางแพนเค้ก...;กำลังแยกแพนเค้ก...;UwU;กำลังแหกแพนเค้ก...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "ร้านค้า",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "ผู้พัฒนา"
   },
   "header.downloads": {
-    "message": "ดาวน์โหลด",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "ดาวน์โหลด"
   },
-  "header.contributors": {
-    "message": "ผู้พัฒนา",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "ไทย"
   },
-  "header.login": {
-    "message": "เข้าสู่ระบบ",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "เปลี่ยนภาษา"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "ไม่ ขอบคุณ"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "เว็บไซต์ของเรามีภาษาอื่น ๆ ให้เลือก เผื่อคุณจะอ่านภาษาอังกฤษไม่เก่งนะ"
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "เรารองรับภาษาของคุณนะ อยากเปลี่ยนไหม?"
   },
   "header.lia": {
-    "message": "เข้าสู่ระบบในชื่อ",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "เข้าสู่ระบบในชื่อ"
   },
-  "header.rab": {
-    "message": "รายงานข้อบกพร่อง",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "กำลังอบแพนเค้ก...;วางแพนเค้ก...;กำลังแยกแพนเค้ก...;UwU;กำลังแหกแพนเค้ก..."
   },
-  "header.staff": {
-    "message": "แดชบอร์ด",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "เข้าสู่ระบบ"
   },
   "header.logout": {
-    "message": "ออกจากระบบ",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "ออกจากระบบ"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "รายงานข้อบกพร่อง"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "แดชบอร์ด"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "ร้านค้า"
   }
 }

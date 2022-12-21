@@ -1,26 +1,26 @@
 {
-	"maintenance.big": {
-		"message": "Oh ei!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Kahjuks meil on mõned tehnilised probleemid. Me jõuame varsti tagasi. Vabandame väga ebamugavuste pärast.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Palun tulge tagasi hiljem lisa informatsiooni jaoks.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "Kuni meie spetsiaalsed arendajad fikseerivad seda, vaata aga siia!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "Staatuse lehekülg",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discordi server",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "Oh ei!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discordi server"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Kahjuks meil on mõned tehnilised probleemid. Me jõuame varsti tagasi. Vabandame väga ebamugavuste pärast."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Palun tulge tagasi hiljem lisa informatsiooni jaoks."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Kuni meie spetsiaalsed arendajad fikseerivad seda, vaata aga siia!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Staatuse lehekülg"
+  }
 }

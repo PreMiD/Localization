@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "Suomi",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "Tuemme kieltäsi, haluatko vaihtaa?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "Sivustomme on käännetty kielellesi. Siitä saattaa olla sinulle hyötyä, mikäli et puhu englantia tarpeeksi hyvin.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "Ei kiitos",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "Vaihda kieltä",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "Leivotaan pannukakkuja...;Järjestellään laatikoita...;Jäljitetään IP-osoitetta...;UwU;Rikotaan sääntöjä...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "Kauppa",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Osallistujat"
   },
   "header.downloads": {
-    "message": "Lataukset",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "Lataukset"
   },
-  "header.contributors": {
-    "message": "Osallistujat",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "Suomi"
   },
-  "header.login": {
-    "message": "Kirjaudu sisään",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Vaihda kieltä"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Ei kiitos"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Sivustomme on käännetty kielellesi. Siitä saattaa olla sinulle hyötyä, mikäli et puhu englantia tarpeeksi hyvin."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Tuemme kieltäsi, haluatko vaihtaa?"
   },
   "header.lia": {
-    "message": "Kirjauduttu nimellä",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "Kirjauduttu nimellä"
   },
-  "header.rab": {
-    "message": "Ilmoita virheestä",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Leivotaan pannukakkuja...;Järjestellään laatikoita...;Jäljitetään IP-osoitetta...;UwU;Rikotaan sääntöjä..."
   },
-  "header.staff": {
-    "message": "Hallintasivu",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "Kirjaudu sisään"
   },
   "header.logout": {
-    "message": "Kirjaudu ulos",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "Kirjaudu ulos"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Ilmoita virheestä"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Hallintasivu"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Kauppa"
   }
 }

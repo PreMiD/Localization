@@ -1,30 +1,30 @@
 {
-	"merch.title": {
-		"message": "Vitajte v oficiálnom obchode s ** PreMiD ** merchom!",
-		"description": "Merch store title"
-	},
-	"merch.swag": {
-		"message": "Nájdite svoj ** swag **",
-		"description": "Subtitle for store"
-	},
-	"merch.fit": {
-		"message": "** Vyberte si váš vhodný fit **",
-		"description": "Product sizes"
-	},
-	"merch.cart": {
-		"message": "Pridať do košíka",
-		"description": "Add product to cart"
-	},
-	"merch.help": {
-		"message": "Máte problémy s našim obchodom alebo s objednávkou? Kontaktujte našu {0} zákaznícku podporu {1}",
-		"description": "Link to customer support, {0}{1} is the replacement for the link"
-	},
-	"merch.item.added": {
-		"message": "Produkt {0} bol pridaný do košíka",
-		"description": "{0} replaced with product name"
-	},
-	"merch.error.noitem": {
-		"message": "Žiadna položka nebola pridaná do košíka",
-		"description": "Error message when no size selected"
-	}
+  "merch.cart": {
+    "description": "Add product to cart",
+    "message": "Pridať do košíka"
+  },
+  "merch.error.noitem": {
+    "description": "Error message when no size selected",
+    "message": "Žiadna položka nebola pridaná do košíka"
+  },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "** Vyberte si váš vhodný fit **"
+  },
+  "merch.help": {
+    "description": "Link to customer support, {0}{1} is the replacement for the link",
+    "message": "Máte problémy s našim obchodom alebo s objednávkou? Kontaktujte našu {0} zákaznícku podporu {1}"
+  },
+  "merch.item.added": {
+    "description": "{0} replaced with product name",
+    "message": "Produkt {0} bol pridaný do košíka"
+  },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "Nájdite svoj ** swag **"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "Vitajte v oficiálnom obchode s ** PreMiD ** merchom!"
+  }
 }

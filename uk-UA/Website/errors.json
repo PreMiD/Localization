@@ -1,46 +1,46 @@
 {
-	"store.search.notFound": {
-		"message": "Ми не змогли найти цей Presence...",
-		"description": "Search result text when nothing's found"
-	},
-	"error.code.404": {
-		"message": "Вибачте, ми не змогли знайти таку сторінку.",
-		"description": "Error (404) message"
-	},
-	"error.code.4": {
-		"message": "Ви шукаєте не існуюче або видалене Presence.",
-		"description": "Error (4) message"
-	},
-	"error.code.500": {
-		"message": "Сталася внутрішня помилка сервера.",
-		"description": "Error (500) message"
-	},
-	"error.page.details": {
-		"message": "Подробиці",
-		"description": "'Details' text on error page container"
-	},
-	"error.page.button": {
-		"message": "Повернутися на головну сторінку",
-		"description": "Button on the error page"
-	},
-	"user.notFound.heading": {
-		"message": "Не знайдено жодного користувача. Спробуйте уточнити",
-		"description": "Error when user couldn't be found."
-	},
-	"user.notFound.message1": {
-		"message": "iD користувача яке ви шукаєте є правильним.",
-		"description": "Check user ID message."
-	},
-	"user.notFound.message2": {
-		"message": "користувач створив достатньо Presences та має роль розробника Presence на нашому Діскорд сервері.",
-		"description": "Check the presence amount of the developer created message."
-	},
-	"user.notFound.message3": {
-		"message": "якщо інші зіткнулись з такою самою проблемою на нашому Діскорд сервері.",
-		"description": "Check if the error is also happening to others message."
-	},
-	"user.notFound.message4": {
-		"message": "Якщо ви вважаєте, що це була помилка, будь ласка, зв'яжіться з нами на [нашому Діскорд сервері].",
-		"description": "Bottom line for the error page. Do not edit brackets."
-	}
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "Ви шукаєте не існуюче або видалене Presence."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "Вибачте, ми не змогли знайти таку сторінку."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "Сталася внутрішня помилка сервера."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "Повернутися на головну сторінку"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "Подробиці"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "Ми не змогли найти цей Presence..."
+  },
+  "user.notFound.heading": {
+    "description": "Error when user couldn't be found.",
+    "message": "Не знайдено жодного користувача. Спробуйте уточнити"
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "iD користувача яке ви шукаєте є правильним."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "користувач створив достатньо Presences та має роль розробника Presence на нашому Діскорд сервері."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "якщо інші зіткнулись з такою самою проблемою на нашому Діскорд сервері."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "Якщо ви вважаєте, що це була помилка, будь ласка, зв'яжіться з нами на [нашому Діскорд сервері]."
+  }
 }

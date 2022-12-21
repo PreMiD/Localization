@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Bør Det her overhovedet Eksistere?",
-    "description": "Heading on 404 page"
+    "description": "Heading on 404 page",
+    "message": "Bør Det her overhovedet Eksistere?"
   },
   "404.message": {
-    "message": "Beklager, ser ud som den side, du vil se, er blevet flyttet eller slettet, eller måske den aldrig eksisterede?",
-    "description": "Message on 404 page"
+    "description": "Message on 404 page",
+    "message": "Beklager, ser ud som den side, du vil se, er blevet flyttet eller slettet, eller måske den aldrig eksisterede?"
   }
 }

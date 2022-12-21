@@ -1,90 +1,90 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD** er einfalt, stillanlegt tól sem gerir þér kleift að sýna hvað þú ert að gera á vefnum í Discord núna að spila stöðu.",
-		"description": "First phrase that users read on our website"
-	},
-	"home.introduction.button.features": {
-		"message": "Eiginleikar",
-		"description": "Introduction button"
-	},
-	"home.introduction.button.downloads": {
-		"message": "Niðurhöl",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
-	"home.examples.playingagame": {
-		"message": "Að spila leik",
-		"description": "Discord Rich Presence -> Playing a game"
-	},
-	"home.examples.timestamp": {
-		"message": "{0} eftir",
-		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.timestamp2": {
-		"message": "{0} liðinn",
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "Spila",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Útsending",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Skoðar...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.features.heading": {
-		"message": "Þú munt elska þessa eiginleika!",
-		"description": "Features section"
-	},
-	"home.features.presencesystem.heading": {
-		"message": "Finndu **þína** presence",
-		"description": "Features section subheading"
-	},
-	"home.features.presencesystem.description": {
-		"message": "Við bjuggum til viðbótina okkar á þann hátt sem gerir þér kleift að bæta við og nota Presences búnar til af öðrum og stjórna þeim í viðbótinni okkar!",
-		"description": "Features section description"
-	},
-	"home.features.presencesystem.button": {
-		"message": "Heimsækja verslun",
-		"description": "Features section button"
-	},
-	"home.features.simpleInterface.heading": {
-		"message": "Einfalt notenda-viðmót",
-		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description": {
-		"message": "Þreyttur á flóknum notenda-viðmótum? Þess vegna bjuggum við til og reynum að halda UI okkar eins einfalt og gagnlegt og mögulegt er með mikilvægum eiginleikum eins og:",
-		"description": "Features section description"
-	},
-	"home.features.simpleInterface.description.1": {
-		"message": "Stillingar forrits og viðbóta",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.2": {
-		"message": "Presence stjórnun",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Raða eftir flokkum",
-		"description": "Features section description point"
-	},
-	"home.features.quickSupport.heading": {
-		"message": "Hjálp",
-		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.description": {
-		"message": "Eitthvað er bilað, sendir þér helling af villum eða einfaldlega virkar ekki? Við munum hjálpa þér að losa þig við þessi mál á Discord server-inum okkar, við bjuggum til okkar eigið stuðningskerfi sem mun tryggja að vandamálið þitt leysist eins fljótt og hægt er.",
-		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Taktu þátt á Discord",
-		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Tungumál",
-		"description": "Tippy content of the language selector."
-	}
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "Að spila leik"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Skoðar..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Útsending"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Spila"
+  },
+  "home.examples.timestamp": {
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} eftir"
+  },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} liðinn"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "Þú munt elska þessa eiginleika!"
+  },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "Heimsækja verslun"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "Við bjuggum til viðbótina okkar á þann hátt sem gerir þér kleift að bæta við og nota Presences búnar til af öðrum og stjórna þeim í viðbótinni okkar!"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "Finndu **þína** presence"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "Taktu þátt á Discord"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "Eitthvað er bilað, sendir þér helling af villum eða einfaldlega virkar ekki? Við munum hjálpa þér að losa þig við þessi mál á Discord server-inum okkar, við bjuggum til okkar eigið stuðningskerfi sem mun tryggja að vandamálið þitt leysist eins fljótt og hægt er."
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "Hjálp"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "Þreyttur á flóknum notenda-viðmótum? Þess vegna bjuggum við til og reynum að halda UI okkar eins einfalt og gagnlegt og mögulegt er með mikilvægum eiginleikum eins og:"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "Stillingar forrits og viðbóta"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "Presence stjórnun"
+  },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "Raða eftir flokkum"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "Einfalt notenda-viðmót"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Niðurhöl"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "Eiginleikar"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "**PreMiD** er einfalt, stillanlegt tól sem gerir þér kleift að sýna hvað þú ert að gera á vefnum í Discord núna að spila stöðu."
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "Tungumál"
+  }
 }

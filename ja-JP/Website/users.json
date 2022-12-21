@@ -1,30 +1,30 @@
 {
-	"user.roles.presenceDeveloper": {
-		"message": "プレゼンス開発者",
-		"description": "'Presence Developer' title for user pages."
-	},
-	"user.roles.presenceVerifier": {
-		"message": "プレゼンステスター",
-		"description": "'Presence Verifier' title for user pages."
-	},
-	"user.importantPresenceDev.message1": {
-		"message": "偉大なプレゼンス開発者",
-		"description": "'Important Presence Developer' tippy description for user pages."
-	},
-	"user.importantPresenceDev.message2": {
-		"message": "{0}個のプレゼンスを作成済み",
-		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.geniusPresenceDev.message1": {
-		"message": "プレゼンス開発の天才",
-		"description": "'Genuis Presence Developer' tippy description for user pages."
-	},
-	"user.geniusPresenceDev.message2": {
-		"message": "100個以上のプレゼンスを作った！",
-		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.presences.contributed": {
-		"message": "ここを押してこのユーザーが開発に関わったプレゼンスを見る",
-		"description": "Tippy content (mode 2) in user profile."
-	}
+  "user.geniusPresenceDev.message1": {
+    "description": "'Genuis Presence Developer' tippy description for user pages.",
+    "message": "プレゼンス開発の天才"
+  },
+  "user.geniusPresenceDev.message2": {
+    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "100個以上のプレゼンスを作った！"
+  },
+  "user.importantPresenceDev.message1": {
+    "description": "'Important Presence Developer' tippy description for user pages.",
+    "message": "偉大なプレゼンス開発者"
+  },
+  "user.importantPresenceDev.message2": {
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "{0}個のプレゼンスを作成済み"
+  },
+  "user.presences.contributed": {
+    "description": "Tippy content (mode 2) in user profile.",
+    "message": "ここを押してこのユーザーが開発に関わったプレゼンスを見る"
+  },
+  "user.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for user pages.",
+    "message": "プレゼンス開発者"
+  },
+  "user.roles.presenceVerifier": {
+    "description": "'Presence Verifier' title for user pages.",
+    "message": "プレゼンステスター"
+  }
 }

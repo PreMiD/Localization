@@ -1,98 +1,98 @@
 {
-	"store.message.error": {
-		"message": "Rozšírenie nie je pripojené.",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
-	},
-	"store.cards.creator": {
-		"message": "Autor",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "Táto prítomnosť je medzi používateľmi veľmi populárna.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.partner": {
-		"message": "Partnerská prítomnosť",
-		"description": "Presence card partner flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "Tento výzor vyžaduje ďalšie kroky. Ďalšie informácie nájdete na jeho stránke.",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.header.search": {
-		"message": "Vyhľadať výzor",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Pridať výzor",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Odstrániť výzor",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "Tento výzor je automaticky povolený pri návšteve jeho stránok.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Filtre",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Najpoužívanejšie ako prvé",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Zobraziť NSFW",
-		"description": "Adult content checkbox"
-	},
-	"store.category.filters.likedOnly": {
-		"message": "Iba obľúbené výzory",
-		"description": "Liked presences only checkbox"
-	},
-	"store.filters.added": {
-		"message": "Zobraziť pridané výzory",
-		"description": "Store filter to display/not display already installed presences."
-	},
-	"store.category.heading": {
-		"message": "Kategórie",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "Všetko",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Hry",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Hudba",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Sociálne siete",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Videá & Streamy",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Ostatné",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Hľadať",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "Zadať",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "Kliknutím odstránite filter",
-		"description": "Remove message for active search filters."
-	}
+  "store.card.presence.add": {
+    "description": "Button that will appear on hover after extension is installed.",
+    "message": "Pridať výzor"
+  },
+  "store.card.presence.included": {
+    "description": "The message that appears instead of the buttons.",
+    "message": "Tento výzor je automaticky povolený pri návšteve jeho stránok."
+  },
+  "store.card.presence.remove": {
+    "description": "Button that will appear on hover after extension and presence is installed.",
+    "message": "Odstrániť výzor"
+  },
+  "store.cards.creator": {
+    "description": "Creator of a presence",
+    "message": "Autor"
+  },
+  "store.cards.extraStepsRequired": {
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
+    "message": "Tento výzor vyžaduje ďalšie kroky. Ďalšie informácie nájdete na jeho stránke."
+  },
+  "store.cards.partner": {
+    "description": "Presence card partner flame",
+    "message": "Partnerská prítomnosť"
+  },
+  "store.cards.popular": {
+    "description": "Presence card popular flame",
+    "message": "Táto prítomnosť je medzi používateľmi veľmi populárna."
+  },
+  "store.category.all": {
+    "description": "Category at the top",
+    "message": "Všetko"
+  },
+  "store.category.filters.allowAdult": {
+    "description": "Adult content checkbox",
+    "message": "Zobraziť NSFW"
+  },
+  "store.category.filters.heading": {
+    "description": "Searh filters option at the store page",
+    "message": "Filtre"
+  },
+  "store.category.filters.likedOnly": {
+    "description": "Liked presences only checkbox",
+    "message": "Iba obľúbené výzory"
+  },
+  "store.category.filters.mostUsed": {
+    "description": "Most used first checkbox",
+    "message": "Najpoužívanejšie ako prvé"
+  },
+  "store.category.games": {
+    "description": "Category at the top",
+    "message": "Hry"
+  },
+  "store.category.heading": {
+    "description": "Category heading",
+    "message": "Kategórie"
+  },
+  "store.category.music": {
+    "description": "Category at the top",
+    "message": "Hudba"
+  },
+  "store.category.other": {
+    "description": "Category at the top",
+    "message": "Ostatné"
+  },
+  "store.category.socials": {
+    "description": "Category at the top",
+    "message": "Sociálne siete"
+  },
+  "store.category.videos": {
+    "description": "Category at the top",
+    "message": "Videá & Streamy"
+  },
+  "store.filters.added": {
+    "description": "Store filter to display/not display already installed presences.",
+    "message": "Zobraziť pridané výzory"
+  },
+  "store.header.search": {
+    "description": "Search bar text when nothing is stated",
+    "message": "Vyhľadať výzor"
+  },
+  "store.message.error": {
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
+    "message": "Rozšírenie nie je pripojené."
+  },
+  "store.search": {
+    "description": "Placeholder for presence search",
+    "message": "Hľadať"
+  },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "Zadať"
+  },
+  "store.search.removeFilter": {
+    "description": "Remove message for active search filters.",
+    "message": "Kliknutím odstránite filter"
+  }
 }

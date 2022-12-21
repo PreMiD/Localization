@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "한국어",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "내 언어를 여기서 지원해요. 변경하시겠어요?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "저희 사이트가 내 언어로 번역됐어요. 영어를 잘 하지 못하신다면 도움이 될 수 있어요.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "아니요, 괜찮아요",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "언어 바꾸기",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "불러오는 중...;잠시 기다려 주세요...;거의 다 됐어요...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "스토어",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "기여자"
   },
   "header.downloads": {
-    "message": "다운로드",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "다운로드"
   },
-  "header.contributors": {
-    "message": "기여자",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "한국어"
   },
-  "header.login": {
-    "message": "로그인",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "언어 바꾸기"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "아니요, 괜찮아요"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "저희 사이트가 내 언어로 번역됐어요. 영어를 잘 하지 못하신다면 도움이 될 수 있어요."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "내 언어를 여기서 지원해요. 변경하시겠어요?"
   },
   "header.lia": {
-    "message": "로그인한 계정:",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "로그인한 계정:"
   },
-  "header.rab": {
-    "message": "버그 제보하기",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "불러오는 중...;잠시 기다려 주세요...;거의 다 됐어요..."
   },
-  "header.staff": {
-    "message": "대시보드",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "로그인"
   },
   "header.logout": {
-    "message": "로그아웃",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "로그아웃"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "버그 제보하기"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "대시보드"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "스토어"
   }
 }

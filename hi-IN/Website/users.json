@@ -1,38 +1,38 @@
 {
-	"user.roles.presenceDeveloper": {
-		"message": "Presence डेवलपर",
-		"description": "'Presence Developer' title for user pages."
-	},
-	"user.roles.presenceVerifier": {
-		"message": "Presence Verifier",
-		"description": "'Presence Verifier' title for user pages."
-	},
-	"user.importantPresenceDev.message1": {
-		"message": "महत्वपूर्ण Presence डेवलपर",
-		"description": "'Important Presence Developer' tippy description for user pages."
-	},
-	"user.importantPresenceDev.message2": {
-		"message": "बनाया था {0} presences",
-		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.geniusPresenceDev.message1": {
-		"message": "प्रतिभाशाली Presence डेवलपर",
-		"description": "'Genuis Presence Developer' tippy description for user pages."
-	},
-	"user.geniusPresenceDev.message2": {
-		"message": "100 से अधिक Presences बनाया!",
-		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.switch.contributed": {
-		"message": "उपयोगकर्ता [Presences/ योगदान]",
-		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
-	},
-	"user.presences.created": {
-		"message": "इस उपयोगकर्ता द्वारा बनाई गई Presences दिखाने के लिए यहां क्लिक करें।",
-		"description": "Tippy content in user profile."
-	},
-	"user.presences.contributed": {
-		"message": "इस उपयोगकर्ता द्वारा बनाई गई Presences दिखाने के लिए यहां क्लिक करें।",
-		"description": "Tippy content (mode 2) in user profile."
-	}
+  "user.geniusPresenceDev.message1": {
+    "description": "'Genuis Presence Developer' tippy description for user pages.",
+    "message": "प्रतिभाशाली Presence डेवलपर"
+  },
+  "user.geniusPresenceDev.message2": {
+    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "100 से अधिक Presences बनाया!"
+  },
+  "user.importantPresenceDev.message1": {
+    "description": "'Important Presence Developer' tippy description for user pages.",
+    "message": "महत्वपूर्ण Presence डेवलपर"
+  },
+  "user.importantPresenceDev.message2": {
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "बनाया था {0} presences"
+  },
+  "user.presences.contributed": {
+    "description": "Tippy content (mode 2) in user profile.",
+    "message": "इस उपयोगकर्ता द्वारा बनाई गई Presences दिखाने के लिए यहां क्लिक करें।"
+  },
+  "user.presences.created": {
+    "description": "Tippy content in user profile.",
+    "message": "इस उपयोगकर्ता द्वारा बनाई गई Presences दिखाने के लिए यहां क्लिक करें।"
+  },
+  "user.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for user pages.",
+    "message": "Presence डेवलपर"
+  },
+  "user.roles.presenceVerifier": {
+    "description": "'Presence Verifier' title for user pages.",
+    "message": "Presence Verifier"
+  },
+  "user.switch.contributed": {
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
+    "message": "उपयोगकर्ता [Presences/ योगदान]"
+  }
 }

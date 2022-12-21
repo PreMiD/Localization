@@ -1,242 +1,242 @@
 {
-	"partners.header.title": {
-		"message": "Comhpháirtithe",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Bí ar an gort agus faigh roinnt sochar comhpháirtíochta amháin chun a thaispeáint cé mhéad swag atá agat.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Baineann siad seo linn cheana féin",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "Cad faoi dul chun na bhflaitheas in ionad ifreann?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Do Presence saor in aisce",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Cuirfidh ár bhfoireann Presence ar do sheirbhís ar fáil duit.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Bí fíoraithe",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "Tabharfar ról speisialta agus onóir mhór duit inár bhfreastalaí Discord.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Comhtháthú meta-chlib",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Úsáideann do Presence go huathoibríoch nuair a bhíonn duine ag tabhairt cuairte ar do Presence Gréasáin.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Faigh bás a fháil",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "Áit dána ar ár leathanach comhpháirtíochta.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Bí cáiliúil",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Le feiceáil ar ár meáin shóisialta.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Riachtanais",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Cad atá á lorg againn?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "Coinnímid súil amach do phobail atá ag fás agus rudaí spreagúla ar fud an idirlín. TL;DR ba chóir duit a bheith ag baint úsáide as PreMiD cheana féin agus a bheith réidh chun é a scaipeadh ar níos mó freaks idirlín. Tá glacadh an-cháilíochtúil leis an gclár agus beidh sé éagsúil ó iarrthóir amháin go hiarrthóir eile.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Ár mballa dóiteáin",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "Táimid ag glacadh le cineálacha éagsúla iarrachtaí inár gclár comhpháirtíochta faoi láthair. Ba chóir go mbeadh seans ag duine ar bith a bheith faoi deara. Ba cheart go mbeadh 500 leantóir ar a laghad agus 10 lucht féachana comhthráthacha ag craoltóirí Twitch. Caithfidh tú a bheith ag sruthú 1 uair sa tseachtain ar a laghad.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Déan iarratas anois!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Téimid ar neamh le chéile!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Más spéis leat post díreach ag PreMiD, féach ar ár **bhfógraí poist**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "Urraitheoirí",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "Ní bheifí in ann PreMiD a dhéanamh, gan na daoine iontacha seo.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "Sin mar a fhéachann tú ar anime.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Is é Arena of Kings Cluiche Arena PvP luas tapa eile a imrítear sa bhrabhsálaí.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "Is é SimLiveRadio an raidió infotainment is rathúla do chluichí insamhalta sa Ghearmáin, san Ostair agus san Eilvéis!",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "Tosaigh ag cruthú do phobail féin lenár dteimpléid uamhnach. Tóg do ríocht féin.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "Is Discord Bot é taiga ag iarraidh na gnéithe go léir a theastaíonn uait a thairiscint ag an am céanna!",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.bitRock": {
-		"message": "Uirlis chruthaithe suiteálaí tras-ardán cumhachtach agus éasca le húsáid.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Stádas fíor-ama a chur in iúl go héasca d’úsáideoirí.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "Bandia a imríonn mar Discord Bot spraoi!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "Ligeann REYFM duit éisteacht le 15+ sruth ceoil saor in aisce - gan stad. Leis an gceol is fearr agus is déanaí duit féin amháin!",
-		"description": "Description for REYFM."
-	},
-	"partners.partner.crowdin": {
-		"message": "Logánú lúfar do chuideachtaí ardteicneolaíochta.",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "Na bogearraí Wiki foinse oscailte is cumhachtaí agus is fairsinge.",
-		"description": "Description for WikiJS."
-	},
-	"partners.partner.packageCloud": {
-		"message": "Comhéadan aontaithe, cairdiúil don fhorbróir do gach déantúsán atá agat.",
-		"description": "Description for PackageCloud."
-	},
-	"partners.partner.fastly": {
-		"message": "Taobh thiar den chuid is fearr den ngréasán.",
-		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "Is é OnlyHit do stáisiún raidió ceoil ar líne a dhéantar chun do chuid amas is fearr a imirt 24/7 agus chun go bhfaighidh tú amach do chuid amas amach anseo ar dtús.",
-		"description": "Description for OnlyHit."
-	},
-	"partners.partner.rNetflix": {
-		"message": "Is é r / Netflix an freastalaí Discord is mó a bhaineann le Netflix. Pléigh an tsraith nó na scannáin is fearr leat le daoine ar aon intinn anseo.",
-		"description": "Description for r/Netflix."
-	},
-	"partners.apply.title": {
-		"message": "Déan iarratas ar pháirtí",
-		"description": "Partnership application modal title."
-	},
-	"partners.apply.loggedUser": {
-		"message": "Logáilte isteach mar {0}",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "Ní tusa?",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "Roghnaigh ceann le do thoil",
-		"description": "Select default placeholder."
-	},
-	"partners.apply.select.website": {
-		"message": "Láithreáin ghréasáin",
-		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Eile",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Ainm",
-		"description": "Name filed."
-	},
-	"partners.apply.form.name.placeholder": {
-		"message": "Ex: PreMiD",
-		"description": "Name field's placeholder."
-	},
-	"partners.apply.form.link": {
-		"message": "Nasc",
-		"description": "Link field."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "Ex: https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.description": {
-		"message": "Cur síos: (150 carachtar ar a mhéad)",
-		"description": "Description field."
-	},
-	"partners.apply.form.description.placeholder": {
-		"message": "Cur síos le feiceáil",
-		"description": "Description field's placeholder."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "Nasc íomhá: (550x300, PNG amháin)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "Ex: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.close": {
-		"message": "Dún",
-		"description": "Modal close button."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "Cuir iarratas isteach",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Go raibh maith agat as iarratas a dhéanamh!",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error1": {
-		"message": "Comhlánaigh na réimsí go léir le do thoil.",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error2": {
-		"message": "Tuairisc uasta 150 carachtar.",
-		"description": "Error when description exceeds character limit."
-	},
-	"partners.apply.error3": {
-		"message": "Cuir nasc leis le do thoil (caithfear tosú le https:// agus críochnaigh le .png)",
-		"description": "Error when image link is entered wrong."
-	},
-	"partners.apply.error4": {
-		"message": "Chuir tú isteach ar pháirtí cheana féin.",
-		"description": "Error when already applied."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Déan iarratas anois!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Téimid ar neamh le chéile!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Comhlánaigh na réimsí go léir le do thoil."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Tuairisc uasta 150 carachtar."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Cuir nasc leis le do thoil (caithfear tosú le https:// agus críochnaigh le .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Chuir tú isteach ar pháirtí cheana féin."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Cuir iarratas isteach"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Dún"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Cur síos: (150 carachtar ar a mhéad)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Cur síos le feiceáil"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Nasc íomhá: (550x300, PNG amháin)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Ex: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Nasc"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Ex: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Ainm"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Ex: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Más spéis leat post díreach ag PreMiD, féach ar ár **bhfógraí poist**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Logáilte isteach mar {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Ní tusa?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Roghnaigh ceann le do thoil"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Eile"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Láithreáin ghréasáin"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Go raibh maith agat as iarratas a dhéanamh!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Déan iarratas ar pháirtí"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Bí ar an gort agus faigh roinnt sochar comhpháirtíochta amháin chun a thaispeáint cé mhéad swag atá agat."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Comhpháirtithe"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Sin mar a fhéachann tú ar anime."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Is é Arena of Kings Cluiche Arena PvP luas tapa eile a imrítear sa bhrabhsálaí."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Uirlis chruthaithe suiteálaí tras-ardán cumhachtach agus éasca le húsáid."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Logánú lúfar do chuideachtaí ardteicneolaíochta."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Tosaigh ag cruthú do phobail féin lenár dteimpléid uamhnach. Tóg do ríocht féin."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Bandia a imríonn mar Discord Bot spraoi!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "Taobh thiar den chuid is fearr den ngréasán."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "Is é OnlyHit do stáisiún raidió ceoil ar líne a dhéantar chun do chuid amas is fearr a imirt 24/7 agus chun go bhfaighidh tú amach do chuid amas amach anseo ar dtús."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "Comhéadan aontaithe, cairdiúil don fhorbróir do gach déantúsán atá agat."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "Is é r / Netflix an freastalaí Discord is mó a bhaineann le Netflix. Pléigh an tsraith nó na scannáin is fearr leat le daoine ar aon intinn anseo."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "Ligeann REYFM duit éisteacht le 15+ sruth ceoil saor in aisce - gan stad. Leis an gceol is fearr agus is déanaí duit féin amháin!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "Is é SimLiveRadio an raidió infotainment is rathúla do chluichí insamhalta sa Ghearmáin, san Ostair agus san Eilvéis!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Stádas fíor-ama a chur in iúl go héasca d’úsáideoirí."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "Is Discord Bot é taiga ag iarraidh na gnéithe go léir a theastaíonn uait a thairiscint ag an am céanna!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "Na bogearraí Wiki foinse oscailte is cumhachtaí agus is fairsinge."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Coinnímid súil amach do phobail atá ag fás agus rudaí spreagúla ar fud an idirlín. TL;DR ba chóir duit a bheith ag baint úsáide as PreMiD cheana féin agus a bheith réidh chun é a scaipeadh ar níos mó freaks idirlín. Tá glacadh an-cháilíochtúil leis an gclár agus beidh sé éagsúil ó iarrthóir amháin go hiarrthóir eile."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Cad atá á lorg againn?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "Táimid ag glacadh le cineálacha éagsúla iarrachtaí inár gclár comhpháirtíochta faoi láthair. Ba chóir go mbeadh seans ag duine ar bith a bheith faoi deara. Ba cheart go mbeadh 500 leantóir ar a laghad agus 10 lucht féachana comhthráthacha ag craoltóirí Twitch. Caithfidh tú a bheith ag sruthú 1 uair sa tseachtain ar a laghad."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Ár mballa dóiteáin"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Riachtanais"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Baineann siad seo linn cheana féin"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "Ní bheifí in ann PreMiD a dhéanamh, gan na daoine iontacha seo."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Urraitheoirí"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Cuirfidh ár bhfoireann Presence ar do sheirbhís ar fáil duit."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Do Presence saor in aisce"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Tabharfar ról speisialta agus onóir mhór duit inár bhfreastalaí Discord."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Bí fíoraithe"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Úsáideann do Presence go huathoibríoch nuair a bhíonn duine ag tabhairt cuairte ar do Presence Gréasáin."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Comhtháthú meta-chlib"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Áit dána ar ár leathanach comhpháirtíochta."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Faigh bás a fháil"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Le feiceáil ar ár meáin shóisialta."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Bí cáiliúil"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "Cad faoi dul chun na bhflaitheas in ionad ifreann?"
+  }
 }

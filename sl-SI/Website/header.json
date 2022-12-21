@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "Slovenščina",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "Mi podpiramo vaš jezik, bi spremenili na slovenščino?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "Naša stran je zdaj prevedena v vaš jezik. To vam lahko pomaga če ne znate Angleščino tako dobro.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "Ne, hvala",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "Spremeni jezik",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "Pečenje palačink...;Postavljanje zabojnikov...;Razčlenjevanje vašega IP naslova...;UwU;Kršenje pravila...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "Trgovina",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Sodelavci"
   },
   "header.downloads": {
-    "message": "Prenosi",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "Prenosi"
   },
-  "header.contributors": {
-    "message": "Sodelavci",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "Slovenščina"
   },
-  "header.login": {
-    "message": "Vpis",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Spremeni jezik"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Ne, hvala"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Naša stran je zdaj prevedena v vaš jezik. To vam lahko pomaga če ne znate Angleščino tako dobro."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Mi podpiramo vaš jezik, bi spremenili na slovenščino?"
   },
   "header.lia": {
-    "message": "Prijavljen(a) kot",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "Prijavljen(a) kot"
   },
-  "header.rab": {
-    "message": "Prijavite napako",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Pečenje palačink...;Postavljanje zabojnikov...;Razčlenjevanje vašega IP naslova...;UwU;Kršenje pravila..."
   },
-  "header.staff": {
-    "message": "Nadzorna plošča",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "Vpis"
   },
   "header.logout": {
-    "message": "Odjava",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "Odjava"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Prijavite napako"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Nadzorna plošča"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Trgovina"
   }
 }

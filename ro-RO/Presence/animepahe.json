@@ -1,10 +1,10 @@
 {
   "animepahe.season": {
-    "message": "Sezon",
-    "description": "TV show/series season eg. Season 5 of The Flash"
+    "description": "TV show/series season eg. Season 5 of The Flash",
+    "message": "Sezon"
   },
   "animepahe.timeSeason": {
-    "message": "Sezon",
-    "description": "Time Season eg. The season is now Winter"
+    "description": "Time Season eg. The season is now Winter",
+    "message": "Sezon"
   }
 }

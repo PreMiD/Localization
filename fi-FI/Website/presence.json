@@ -1,50 +1,50 @@
 {
-	"presence.page.buttons.sourceCode": {
-		"message": "Lähdekoodi",
-		"description": "Source Code button on presence pages."
-	},
-	"presence.sections.description.title": {
-		"message": "Kuvaus",
-		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "Muutokset",
-		"description": "The title of the changelog section."
-	},
-	"presence.sections.information.title": {
-		"message": "Tiedot",
-		"description": "The title of the information section."
-	},
-	"presence.sections.information.author": {
-		"message": "Tekijä",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	},
-	"presence.sections.information.version": {
-		"message": "Versio",
-		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
-	},
-	"presence.sections.information.likes": {
-		"message": "Tykkäykset",
-		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
-	},
-	"presence.sections.information.users": {
-		"message": "Käyttäjät",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
-	"presence.sections.information.tags": {
-		"message": "Tunnisteet",
-		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
-	},
-	"presence.sections.information.supportedurls": {
-		"message": "Tuetut URL-osoitteet",
-		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
-	},
-	"presence.sections.information.moreurls": {
-		"message": "Tämä Presence tukee useampaa URL-osoitetta kuin alla on listattuna säännöllisen lausekkeen (RegExp) avulla. Vie hiiri tekstin päälle nähdäksesi kaavan",
-		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
-	},
-	"presence.sections.information.contributors": {
-		"message": "Osallistujat",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
-	}
+  "presence.page.buttons.sourceCode": {
+    "description": "Source Code button on presence pages.",
+    "message": "Lähdekoodi"
+  },
+  "presence.sections.changelog.title": {
+    "description": "The title of the changelog section.",
+    "message": "Muutokset"
+  },
+  "presence.sections.description.title": {
+    "description": "The title of the description section.",
+    "message": "Kuvaus"
+  },
+  "presence.sections.information.author": {
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
+    "message": "Tekijä"
+  },
+  "presence.sections.information.contributors": {
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
+    "message": "Osallistujat"
+  },
+  "presence.sections.information.likes": {
+    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+    "message": "Tykkäykset"
+  },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Tämä Presence tukee useampaa URL-osoitetta kuin alla on listattuna säännöllisen lausekkeen (RegExp) avulla. Vie hiiri tekstin päälle nähdäksesi kaavan"
+  },
+  "presence.sections.information.supportedurls": {
+    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
+    "message": "Tuetut URL-osoitteet"
+  },
+  "presence.sections.information.tags": {
+    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
+    "message": "Tunnisteet"
+  },
+  "presence.sections.information.title": {
+    "description": "The title of the information section.",
+    "message": "Tiedot"
+  },
+  "presence.sections.information.users": {
+    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+    "message": "Käyttäjät"
+  },
+  "presence.sections.information.version": {
+    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
+    "message": "Versio"
+  }
 }

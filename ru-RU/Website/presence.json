@@ -1,50 +1,50 @@
 {
-	"presence.page.buttons.sourceCode": {
-		"message": "Исходный код",
-		"description": "Source Code button on presence pages."
-	},
-	"presence.sections.description.title": {
-		"message": "Описание",
-		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "Изменение",
-		"description": "The title of the changelog section."
-	},
-	"presence.sections.information.title": {
-		"message": "Информация",
-		"description": "The title of the information section."
-	},
-	"presence.sections.information.author": {
-		"message": "Автор",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	},
-	"presence.sections.information.version": {
-		"message": "Версия",
-		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
-	},
-	"presence.sections.information.likes": {
-		"message": "Лайки",
-		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
-	},
-	"presence.sections.information.users": {
-		"message": "Пользователи",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
-	"presence.sections.information.tags": {
-		"message": "Метки",
-		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
-	},
-	"presence.sections.information.supportedurls": {
-		"message": "Поддерживаемые ссылки",
-		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
-	},
-	"presence.sections.information.moreurls": {
-		"message": "Это Presence поддерживает больше URL-адресов, чем указано ниже, с помощью RegExp. Наведите указатель мыши, чтобы увидеть шаблон",
-		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
-	},
-	"presence.sections.information.contributors": {
-		"message": "Участники",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
-	}
+  "presence.page.buttons.sourceCode": {
+    "description": "Source Code button on presence pages.",
+    "message": "Исходный код"
+  },
+  "presence.sections.changelog.title": {
+    "description": "The title of the changelog section.",
+    "message": "Изменение"
+  },
+  "presence.sections.description.title": {
+    "description": "The title of the description section.",
+    "message": "Описание"
+  },
+  "presence.sections.information.author": {
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
+    "message": "Автор"
+  },
+  "presence.sections.information.contributors": {
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
+    "message": "Участники"
+  },
+  "presence.sections.information.likes": {
+    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+    "message": "Лайки"
+  },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Это Presence поддерживает больше URL-адресов, чем указано ниже, с помощью RegExp. Наведите указатель мыши, чтобы увидеть шаблон"
+  },
+  "presence.sections.information.supportedurls": {
+    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
+    "message": "Поддерживаемые ссылки"
+  },
+  "presence.sections.information.tags": {
+    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
+    "message": "Метки"
+  },
+  "presence.sections.information.title": {
+    "description": "The title of the information section.",
+    "message": "Информация"
+  },
+  "presence.sections.information.users": {
+    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+    "message": "Пользователи"
+  },
+  "presence.sections.information.version": {
+    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
+    "message": "Версия"
+  }
 }

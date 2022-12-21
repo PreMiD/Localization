@@ -1,46 +1,46 @@
 {
-	"presence.page.buttons.sourceCode": {
-		"message": "Kildekode",
-		"description": "Source Code button on presence pages."
-	},
-	"presence.sections.description.title": {
-		"message": "Beskrivelse",
-		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "Endringslogg",
-		"description": "The title of the changelog section."
-	},
-	"presence.sections.information.title": {
-		"message": "Informasjon",
-		"description": "The title of the information section."
-	},
-	"presence.sections.information.author": {
-		"message": "Utgiver",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	},
-	"presence.sections.information.version": {
-		"message": "Versjon",
-		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
-	},
-	"presence.sections.information.likes": {
-		"message": "Antall som liker",
-		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
-	},
-	"presence.sections.information.users": {
-		"message": "Brukere",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
-	"presence.sections.information.tags": {
-		"message": "Tags",
-		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
-	},
-	"presence.sections.information.supportedurls": {
-		"message": "Støttede URL-er",
-		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
-	},
-	"presence.sections.information.contributors": {
-		"message": "Bidragsytere",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
-	}
+  "presence.page.buttons.sourceCode": {
+    "description": "Source Code button on presence pages.",
+    "message": "Kildekode"
+  },
+  "presence.sections.changelog.title": {
+    "description": "The title of the changelog section.",
+    "message": "Endringslogg"
+  },
+  "presence.sections.description.title": {
+    "description": "The title of the description section.",
+    "message": "Beskrivelse"
+  },
+  "presence.sections.information.author": {
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
+    "message": "Utgiver"
+  },
+  "presence.sections.information.contributors": {
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
+    "message": "Bidragsytere"
+  },
+  "presence.sections.information.likes": {
+    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+    "message": "Antall som liker"
+  },
+  "presence.sections.information.supportedurls": {
+    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
+    "message": "Støttede URL-er"
+  },
+  "presence.sections.information.tags": {
+    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
+    "message": "Tags"
+  },
+  "presence.sections.information.title": {
+    "description": "The title of the information section.",
+    "message": "Informasjon"
+  },
+  "presence.sections.information.users": {
+    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+    "message": "Brukere"
+  },
+  "presence.sections.information.version": {
+    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
+    "message": "Versjon"
+  }
 }

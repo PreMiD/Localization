@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "उपयोगकर्ता अब थीम को स्वयं जोड़ सकते हैं। * अब कुछ जोड़ें *",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "उनके प्राकृतिक आवास में कुछ * नए संरक्षण * खोजें",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "ऑटो अपडेट होना अब एक बात है",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "उपयोगकर्ता अब उपस्थिति बना सकते हैं",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "इन रचनात्मक डेवलपर्स के लिए * डॉक्स * वहाँ से बाहर",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "सभी नई वेबसाइट डिजाइन",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "हमारे डिस्कोर्ड-बॉट के लिए और अधिक सुविधाएँ",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "हमारा नया एपीआई एक चालू जानवर है",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "यदि आपके पास नवीनतम है, तो भी पुराने एप्लिकेशन त्रुटि को ठीक करता है"
   },
   "extension.2.0.change1": {
-    "message": "पुर्नोत्थान पॉपअप और टैब लेआउट और शैली",
-    "description": ""
+    "description": "",
+    "message": "पुर्नोत्थान पॉपअप और टैब लेआउट और शैली"
   },
   "extension.2.0.fix1": {
-    "message": "बहुत सारे (अन) ज्ञात कीड़े भाग गए",
-    "description": ""
+    "description": "",
+    "message": "बहुत सारे (अन) ज्ञात कीड़े भाग गए"
   },
   "extension.2.0.fix2": {
-    "message": "सब कुछ अब बहुत तेजी से चल रहा है",
-    "description": ""
+    "description": "",
+    "message": "सब कुछ अब बहुत तेजी से चल रहा है"
   },
-  "extension.2.0.1.fix1": {
-    "message": "यदि आपके पास नवीनतम है, तो भी पुराने एप्लिकेशन त्रुटि को ठीक करता है",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "उपयोगकर्ता अब थीम को स्वयं जोड़ सकते हैं। * अब कुछ जोड़ें *"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "उनके प्राकृतिक आवास में कुछ * नए संरक्षण * खोजें"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "ऑटो अपडेट होना अब एक बात है"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "उपयोगकर्ता अब उपस्थिति बना सकते हैं"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "इन रचनात्मक डेवलपर्स के लिए * डॉक्स * वहाँ से बाहर"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "सभी नई वेबसाइट डिजाइन"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "हमारे डिस्कोर्ड-बॉट के लिए और अधिक सुविधाएँ"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "हमारा नया एपीआई एक चालू जानवर है"
   }
 }

@@ -1,22 +1,22 @@
 {
-    "rythm.openDashboard": {
-        "message": "Deschide panoul de administrare",
-        "description": "Button for opening the web dashboard."
-    },
-    "rythm.inviteBot": {
-        "message": "Invită Bot-ul",
-        "description": "Button for inviting the bot."
-    },
-    "rythm.djs": {
-        "message": "DJ: {0}",
-        "description": "{0} will be replaced with the amount of users with DJ permissions."
-    },
-    "rythm.users": {
-        "message": "Utilizatori: {0}",
-        "description": "{0} will be replaced with the amount of normal users."
-    },
-    "rythm.requestedBy": {
-        "message": "Solicitat de: {0}",
-        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
-    }
+  "rythm.djs": {
+    "description": "{0} will be replaced with the amount of users with DJ permissions.",
+    "message": "DJ: {0}"
+  },
+  "rythm.inviteBot": {
+    "description": "Button for inviting the bot.",
+    "message": "Invită Bot-ul"
+  },
+  "rythm.openDashboard": {
+    "description": "Button for opening the web dashboard.",
+    "message": "Deschide panoul de administrare"
+  },
+  "rythm.requestedBy": {
+    "description": "{0} will be replaced with the name of the user who requested the currently playing song.",
+    "message": "Solicitat de: {0}"
+  },
+  "rythm.users": {
+    "description": "{0} will be replaced with the amount of normal users.",
+    "message": "Utilizatori: {0}"
+  }
 }

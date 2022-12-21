@@ -1,22 +1,22 @@
 {
-    "rythm.openDashboard": {
-        "message": "Irányítópult megnyitása",
-        "description": "Button for opening the web dashboard."
-    },
-    "rythm.inviteBot": {
-        "message": "Bot meghívása",
-        "description": "Button for inviting the bot."
-    },
-    "rythm.djs": {
-        "message": "DJ-k: {0}",
-        "description": "{0} will be replaced with the amount of users with DJ permissions."
-    },
-    "rythm.users": {
-        "message": "Felhasználók: {0}",
-        "description": "{0} will be replaced with the amount of normal users."
-    },
-    "rythm.requestedBy": {
-        "message": "Általa kérve: {0}",
-        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
-    }
+  "rythm.djs": {
+    "description": "{0} will be replaced with the amount of users with DJ permissions.",
+    "message": "DJ-k: {0}"
+  },
+  "rythm.inviteBot": {
+    "description": "Button for inviting the bot.",
+    "message": "Bot meghívása"
+  },
+  "rythm.openDashboard": {
+    "description": "Button for opening the web dashboard.",
+    "message": "Irányítópult megnyitása"
+  },
+  "rythm.requestedBy": {
+    "description": "{0} will be replaced with the name of the user who requested the currently playing song.",
+    "message": "Általa kérve: {0}"
+  },
+  "rythm.users": {
+    "description": "{0} will be replaced with the amount of normal users.",
+    "message": "Felhasználók: {0}"
+  }
 }

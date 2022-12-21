@@ -1,130 +1,130 @@
 {
-	"partners.header.title": {
-		"message": "パートナー",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "ファミリーの一員になって、パートナーだけの特典を手に入れましょう！",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "PreMiDのパートナーはこんな人たち",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "私達のパートナーになってみませんか？",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit2.title": {
-		"message": "パートナー専用のロールを手に入れる",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "PreMiD公式Discordサーバーで、名誉あるロールをもらえる。",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "サイトとの紐付け",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "記念される。",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "パートナーページのどっかに。",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "有名になる。",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "必要条件",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "私達が求めているもの",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "私たちのファイヤウォール",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "現在、パートナーシッププログラムへのさまざまな取り組みを受け入れています。誰もが気付く機会を持つべきです。 もしあなたがTwitch配信者の場合は、最低500人のフォロワーと、10人以上の同時視聴者が必要で、配信を最低でも週に1回は行っている必要があります。",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "今すぐ応募する",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "パートナーになりましょう！",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "直接PreMiDの仕事に関わりたい場合は、**こちらを**ご覧ください。",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.description": {
-		"message": "この人達がいなければ、PreMiDは存在すらしなかったでしょう。",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "aniFrixはアニメのサービスです。",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kingsは、ブラウザで遊べるPvPゲームです。",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio は、ドイツ、オーストリア、スイスで最も成功しているシミュレーションゲームの情報ラジオです。",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.bitRock": {
-		"message": "強力で使いやすいクロスプラットフォームインストーラー作成ツール。",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "簡単にリアルタイムのステータスをユーザーに伝える。",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.crowdin": {
-		"message": "企業のための翻訳加速装置。",
-		"description": "Description for Crowdin."
-	},
-	"partners.apply.select.other": {
-		"message": "その他",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "名前",
-		"description": "Name filed."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "例:https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "画像のリンク: (550x300、 PNGファイルのみ)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "例: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "申請する",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "応募していただき、ありがとうございます！",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error3": {
-		"message": "リンクを追加してください (https:// で始まり .png で終わる必要があります。)",
-		"description": "Error when image link is entered wrong."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "今すぐ応募する"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "パートナーになりましょう！"
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "リンクを追加してください (https:// で始まり .png で終わる必要があります。)"
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "申請する"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "画像のリンク: (550x300、 PNGファイルのみ)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "例: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "例:https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "名前"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "直接PreMiDの仕事に関わりたい場合は、**こちらを**ご覧ください。"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "その他"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "応募していただき、ありがとうございます！"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "ファミリーの一員になって、パートナーだけの特典を手に入れましょう！"
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "パートナー"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "aniFrixはアニメのサービスです。"
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena of Kingsは、ブラウザで遊べるPvPゲームです。"
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "強力で使いやすいクロスプラットフォームインストーラー作成ツール。"
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "企業のための翻訳加速装置。"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio は、ドイツ、オーストリア、スイスで最も成功しているシミュレーションゲームの情報ラジオです。"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "簡単にリアルタイムのステータスをユーザーに伝える。"
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "私達が求めているもの"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "現在、パートナーシッププログラムへのさまざまな取り組みを受け入れています。誰もが気付く機会を持つべきです。 もしあなたがTwitch配信者の場合は、最低500人のフォロワーと、10人以上の同時視聴者が必要で、配信を最低でも週に1回は行っている必要があります。"
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "私たちのファイヤウォール"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "必要条件"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "PreMiDのパートナーはこんな人たち"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "この人達がいなければ、PreMiDは存在すらしなかったでしょう。"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "PreMiD公式Discordサーバーで、名誉あるロールをもらえる。"
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "パートナー専用のロールを手に入れる"
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "サイトとの紐付け"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "パートナーページのどっかに。"
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "記念される。"
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "有名になる。"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "私達のパートナーになってみませんか？"
+  }
 }

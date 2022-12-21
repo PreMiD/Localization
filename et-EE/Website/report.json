@@ -1,58 +1,58 @@
 {
-	"report.title": {
-		"message": "Teatage veast",
-		"description": "Text to indicate the page."
-	},
-	"report.bugcount": {
-		"message": "{count}/3 raporti on jäänud",
-		"description": "Amount of bug reports user can send"
-	},
-	"report.info": {
-		"message": "Vigadest teatamine on mõeldud PreMiD saidi ja PreMiD Discord Serveri vigade jaoks. Presence-i vead tuleb teatada presence-i loojale. Teatage vigadest ainult inglise keeles.",
-		"description": "Tells the user about submitting a bug"
-	},
-	"report.overview": {
-		"message": "Esitage vea selge ja ülevaatlik kirjeldus.",
-		"description": "Text for the user to write a brief of the bug information."
-	},
-	"report.os": {
-		"message": "Valige oma operatsioonisüsteem ja versioon",
-		"description": "Select Box for the user to select their operating system"
-	},
-	"report.browser": {
-		"message": "Valige oma brauser ja versioon - versiooni leiate aadressilt about:support Firefoxi toelt või chrome://help",
-		"description": "Select Box for the user to select their browser"
-	},
-	"report.description": {
-		"message": "Selle vea reprodutseerimiseks lisage link töötava näitega või sammud selle vea reprodutseerimiseks.",
-		"description": "Text for the user to write information about the bug."
-	},
-	"report.button": {
-		"message": "Teavita",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "Teil on liiga palju aktiivseid raporte. Oodake, kuni teie esitatud raportid üle vaadatakse. Raporte kontrollitakse iganädalaselt, olege kannatlik.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "Teil on liiga palju aktiivseid raporte.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "Viga esitatud",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "Vaja on rohkem andmeid",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "Discord-i konto tuleb kinnitada",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "Aktiivsed vead",
-		"description": "Lists users active bugs"
-	}
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Aktiivsed vead"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Valige oma brauser ja versioon - versiooni leiate aadressilt about:support Firefoxi toelt või chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 raporti on jäänud"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Teavita"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Selle vea reprodutseerimiseks lisage link töötava näitega või sammud selle vea reprodutseerimiseks."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Vaja on rohkem andmeid"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Discord-i konto tuleb kinnitada"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "Vigadest teatamine on mõeldud PreMiD saidi ja PreMiD Discord Serveri vigade jaoks. Presence-i vead tuleb teatada presence-i loojale. Teatage vigadest ainult inglise keeles."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Valige oma operatsioonisüsteem ja versioon"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Esitage vea selge ja ülevaatlik kirjeldus."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Viga esitatud"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Teatage veast"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Teil on liiga palju aktiivseid raporte. Oodake, kuni teie esitatud raportid üle vaadatakse. Raporte kontrollitakse iganädalaselt, olege kannatlik."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Teil on liiga palju aktiivseid raporte."
+  }
 }

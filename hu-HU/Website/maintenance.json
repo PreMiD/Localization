@@ -1,26 +1,26 @@
 {
-	"maintenance.big": {
-		"message": "Jaj ne!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Sajnos néhány technikai nehézségeink adódtak. Hamarosan visszatérünk. Elnézést a kellemetlenségért.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "További információkért térj vissza később.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "Amíg ügyes fejlesztőink megoldják ezt a problémát, nyugodtan látogass el ide!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "Állapot oldal",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discord szerver",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "Jaj ne!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discord szerver"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Sajnos néhány technikai nehézségeink adódtak. Hamarosan visszatérünk. Elnézést a kellemetlenségért."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "További információkért térj vissza később."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Amíg ügyes fejlesztőink megoldják ezt a problémát, nyugodtan látogass el ide!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Állapot oldal"
+  }
 }

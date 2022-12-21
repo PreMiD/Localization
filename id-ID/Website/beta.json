@@ -1,46 +1,46 @@
 {
-	"beta.title": {
-		"message": "Mau fitur-fitur baru?",
-		"description": "Beta page title"
-	},
-	"beta.description.1": {
-		"message": "**PreMiD Beta** sekarang tersedia untuk semuanya!",
-		"description": "Section description"
-	},
-	"beta.description.2": {
-		"message": "Apa yang kamu dapatkan setelah mendaftar?",
-		"description": "Section description"
-	},
-	"beta.features.1": {
-		"message": "Fitur-fitur terbaru",
-		"description": "Features list"
-	},
-	"beta.features.2": {
-		"message": "Akses ke text channel super rahasia PreMiD",
-		"description": "Features list"
-	},
-	"beta.features.3": {
-		"message": "Role spesial pada server Discord kami",
-		"description": "Features list"
-	},
-	"beta.register.text": {
-		"message": "Sudah siap? Gabung {0} Beta Tester lainnya!",
-		"description": "{0} will be replaced with the beta testers count -> is a variable"
-	},
-	"beta.register.button": {
-		"message": "Daftar sekarang!",
-		"description": "Sign up button text"
-	},
-	"thankyou.title": {
-		"message": "Keren! Kamu sekarang pengguna beta!",
-		"description": "Thank You page title"
-	},
-	"thankyou.description": {
-		"message": "Para kera-kera kami sedang berusaha memasukkan kamu ke program beta secepatnya. Terima kasih untuk mendaftar!",
-		"description": "Thank You page description"
-	},
-	"error.noslots": {
-		"message": "Sepertinya kami tidak punya tempat beta lagi.",
-		"description": "Shows when the beta slots are full."
-	}
+  "beta.description.1": {
+    "description": "Section description",
+    "message": "**PreMiD Beta** sekarang tersedia untuk semuanya!"
+  },
+  "beta.description.2": {
+    "description": "Section description",
+    "message": "Apa yang kamu dapatkan setelah mendaftar?"
+  },
+  "beta.features.1": {
+    "description": "Features list",
+    "message": "Fitur-fitur terbaru"
+  },
+  "beta.features.2": {
+    "description": "Features list",
+    "message": "Akses ke text channel super rahasia PreMiD"
+  },
+  "beta.features.3": {
+    "description": "Features list",
+    "message": "Role spesial pada server Discord kami"
+  },
+  "beta.register.button": {
+    "description": "Sign up button text",
+    "message": "Daftar sekarang!"
+  },
+  "beta.register.text": {
+    "description": "{0} will be replaced with the beta testers count -> is a variable",
+    "message": "Sudah siap? Gabung {0} Beta Tester lainnya!"
+  },
+  "beta.title": {
+    "description": "Beta page title",
+    "message": "Mau fitur-fitur baru?"
+  },
+  "error.noslots": {
+    "description": "Shows when the beta slots are full.",
+    "message": "Sepertinya kami tidak punya tempat beta lagi."
+  },
+  "thankyou.description": {
+    "description": "Thank You page description",
+    "message": "Para kera-kera kami sedang berusaha memasukkan kamu ke program beta secepatnya. Terima kasih untuk mendaftar!"
+  },
+  "thankyou.title": {
+    "description": "Thank You page title",
+    "message": "Keren! Kamu sekarang pengguna beta!"
+  }
 }

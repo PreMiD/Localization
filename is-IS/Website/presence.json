@@ -1,42 +1,42 @@
 {
-	"presence.page.buttons.sourceCode": {
-		"message": "Upprunakóði",
-		"description": "Source Code button on presence pages."
-	},
-	"presence.sections.description.title": {
-		"message": "Lýsing",
-		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "Breytingaskrá",
-		"description": "The title of the changelog section."
-	},
-	"presence.sections.information.title": {
-		"message": "Upplýsingar",
-		"description": "The title of the information section."
-	},
-	"presence.sections.information.author": {
-		"message": "Höfundur",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	},
-	"presence.sections.information.version": {
-		"message": "Útgáfa",
-		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
-	},
-	"presence.sections.information.users": {
-		"message": "Notendur",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
-	"presence.sections.information.tags": {
-		"message": "Merki",
-		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
-	},
-	"presence.sections.information.supportedurls": {
-		"message": "Studd vefslóð",
-		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
-	},
-	"presence.sections.information.contributors": {
-		"message": "Þátttakendur",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
-	}
+  "presence.page.buttons.sourceCode": {
+    "description": "Source Code button on presence pages.",
+    "message": "Upprunakóði"
+  },
+  "presence.sections.changelog.title": {
+    "description": "The title of the changelog section.",
+    "message": "Breytingaskrá"
+  },
+  "presence.sections.description.title": {
+    "description": "The title of the description section.",
+    "message": "Lýsing"
+  },
+  "presence.sections.information.author": {
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
+    "message": "Höfundur"
+  },
+  "presence.sections.information.contributors": {
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
+    "message": "Þátttakendur"
+  },
+  "presence.sections.information.supportedurls": {
+    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
+    "message": "Studd vefslóð"
+  },
+  "presence.sections.information.tags": {
+    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
+    "message": "Merki"
+  },
+  "presence.sections.information.title": {
+    "description": "The title of the information section.",
+    "message": "Upplýsingar"
+  },
+  "presence.sections.information.users": {
+    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+    "message": "Notendur"
+  },
+  "presence.sections.information.version": {
+    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
+    "message": "Útgáfa"
+  }
 }

@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "Sekarang pengguna dapat menambahkan presence sendiri. *Tambahkan beberapa sekarang!*",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "Temukan *presence baru* di habitat alaminya",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "Pembaruan otomatis telah tersedia",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "Sekarang pengguna bisa membuat presence",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "*Dokumentasi* untuk para developer kreatif di luar sana",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "Desain website baru",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "Lebih banyak fitur untuk bot Discord kami",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "API baru kami berjalan sangat cepat",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "Perbaikan pada aplikasi lama walaupun kamu sudah punya yang terbaru"
   },
   "extension.2.0.change1": {
-    "message": "Gaya, popup, dan susunan tab diubah",
-    "description": ""
+    "description": "",
+    "message": "Gaya, popup, dan susunan tab diubah"
   },
   "extension.2.0.fix1": {
-    "message": "Banyak bug yang (tidak) diketahui telah diperbaiki",
-    "description": ""
+    "description": "",
+    "message": "Banyak bug yang (tidak) diketahui telah diperbaiki"
   },
   "extension.2.0.fix2": {
-    "message": "Semuanya berjalan jauh lebih cepat",
-    "description": ""
+    "description": "",
+    "message": "Semuanya berjalan jauh lebih cepat"
   },
-  "extension.2.0.1.fix1": {
-    "message": "Perbaikan pada aplikasi lama walaupun kamu sudah punya yang terbaru",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "Sekarang pengguna dapat menambahkan presence sendiri. *Tambahkan beberapa sekarang!*"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "Temukan *presence baru* di habitat alaminya"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "Pembaruan otomatis telah tersedia"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "Sekarang pengguna bisa membuat presence"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "*Dokumentasi* untuk para developer kreatif di luar sana"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "Desain website baru"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "Lebih banyak fitur untuk bot Discord kami"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "API baru kami berjalan sangat cepat"
   }
 }

@@ -1,46 +1,46 @@
 {
-	"beta.title": {
-		"message": "नई सुविधाएँ चाहते हैं?",
-		"description": "Beta page title"
-	},
-	"beta.description.1": {
-		"message": "** PreMiD बीटा ** अब सभी के लिए उपलब्ध है!",
-		"description": "Section description"
-	},
-	"beta.description.2": {
-		"message": "यदि आप साइन अप करते हैं तो आपको क्या मिलेगा?",
-		"description": "Section description"
-	},
-	"beta.features.1": {
-		"message": "नवीनतम सुविधाएँ",
-		"description": "Features list"
-	},
-	"beta.features.2": {
-		"message": "PreMiD के सुपर सीक्रेट टेक्स्ट चैनलों तक पहुंच",
-		"description": "Features list"
-	},
-	"beta.features.3": {
-		"message": "हमारे Discord सर्वर पर एक विशेष भूमिका",
-		"description": "Features list"
-	},
-	"beta.register.text": {
-		"message": "इसके लिए तैयार हैं? {0} अन्य बीटा परीक्षकों में शामिल हों!",
-		"description": "{0} will be replaced with the beta testers count -> is a variable"
-	},
-	"beta.register.button": {
-		"message": "अभी साइनअप करें!",
-		"description": "Sign up button text"
-	},
-	"thankyou.title": {
-		"message": "बहुत बढ़िया! अब आप एक बीटा उपयोगकर्ता हैं!",
-		"description": "Thank You page title"
-	},
-	"thankyou.description": {
-		"message": "हमारे बंदर आपको हमारे बीटा कार्यक्रम में जितनी जल्दी हो सके काम कर रहे हैं। पंजीकृत करने के लिए आपका धन्यवाद!",
-		"description": "Thank You page description"
-	},
-	"error.noslots": {
-		"message": "ऐसा लगता है कि हमारे पास कोई और बीटा स्लॉट उपलब्ध नहीं है।",
-		"description": "Shows when the beta slots are full."
-	}
+  "beta.description.1": {
+    "description": "Section description",
+    "message": "** PreMiD बीटा ** अब सभी के लिए उपलब्ध है!"
+  },
+  "beta.description.2": {
+    "description": "Section description",
+    "message": "यदि आप साइन अप करते हैं तो आपको क्या मिलेगा?"
+  },
+  "beta.features.1": {
+    "description": "Features list",
+    "message": "नवीनतम सुविधाएँ"
+  },
+  "beta.features.2": {
+    "description": "Features list",
+    "message": "PreMiD के सुपर सीक्रेट टेक्स्ट चैनलों तक पहुंच"
+  },
+  "beta.features.3": {
+    "description": "Features list",
+    "message": "हमारे Discord सर्वर पर एक विशेष भूमिका"
+  },
+  "beta.register.button": {
+    "description": "Sign up button text",
+    "message": "अभी साइनअप करें!"
+  },
+  "beta.register.text": {
+    "description": "{0} will be replaced with the beta testers count -> is a variable",
+    "message": "इसके लिए तैयार हैं? {0} अन्य बीटा परीक्षकों में शामिल हों!"
+  },
+  "beta.title": {
+    "description": "Beta page title",
+    "message": "नई सुविधाएँ चाहते हैं?"
+  },
+  "error.noslots": {
+    "description": "Shows when the beta slots are full.",
+    "message": "ऐसा लगता है कि हमारे पास कोई और बीटा स्लॉट उपलब्ध नहीं है।"
+  },
+  "thankyou.description": {
+    "description": "Thank You page description",
+    "message": "हमारे बंदर आपको हमारे बीटा कार्यक्रम में जितनी जल्दी हो सके काम कर रहे हैं। पंजीकृत करने के लिए आपका धन्यवाद!"
+  },
+  "thankyou.title": {
+    "description": "Thank You page title",
+    "message": "बहुत बढ़िया! अब आप एक बीटा उपयोगकर्ता हैं!"
+  }
 }

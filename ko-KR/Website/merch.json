@@ -1,30 +1,30 @@
 {
-	"merch.title": {
-		"message": "공식 **PreMiD** 상품 스토어에 오신 걸 환영해요!",
-		"description": "Merch store title"
-	},
-	"merch.swag": {
-		"message": "나만의 **스타일** 찾기",
-		"description": "Subtitle for store"
-	},
-	"merch.fit": {
-		"message": "**사이즈를 선택하세요**",
-		"description": "Product sizes"
-	},
-	"merch.cart": {
-		"message": "장바구니에 추가",
-		"description": "Add product to cart"
-	},
-	"merch.help": {
-		"message": "저희 스토어나 주문에 문제를 겪고 계신가요? {0}고객 지원{1}에 문의해 주세요.",
-		"description": "Link to customer support, {0}{1} is the replacement for the link"
-	},
-	"merch.item.added": {
-		"message": "{0}이(가) 장바구니에 추가됐어요",
-		"description": "{0} replaced with product name"
-	},
-	"merch.error.noitem": {
-		"message": "장바구니에 추가할 항목이 없어요",
-		"description": "Error message when no size selected"
-	}
+  "merch.cart": {
+    "description": "Add product to cart",
+    "message": "장바구니에 추가"
+  },
+  "merch.error.noitem": {
+    "description": "Error message when no size selected",
+    "message": "장바구니에 추가할 항목이 없어요"
+  },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "**사이즈를 선택하세요**"
+  },
+  "merch.help": {
+    "description": "Link to customer support, {0}{1} is the replacement for the link",
+    "message": "저희 스토어나 주문에 문제를 겪고 계신가요? {0}고객 지원{1}에 문의해 주세요."
+  },
+  "merch.item.added": {
+    "description": "{0} replaced with product name",
+    "message": "{0}이(가) 장바구니에 추가됐어요"
+  },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "나만의 **스타일** 찾기"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "공식 **PreMiD** 상품 스토어에 오신 걸 환영해요!"
+  }
 }

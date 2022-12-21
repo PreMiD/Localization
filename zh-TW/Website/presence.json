@@ -1,46 +1,46 @@
 {
 	"presence.page.buttons.sourceCode": {
-		"message": "源碼",
-		"description": "Source Code button on presence pages."
-	},
-	"presence.sections.description.title": {
-		"message": "說明",
-		"description": "The title of the description section."
+		"description": "Source Code button on presence pages.",
+		"message": "源碼"
 	},
 	"presence.sections.changelog.title": {
-		"message": "更新項目",
-		"description": "The title of the changelog section."
+		"description": "The title of the changelog section.",
+		"message": "更新項目"
 	},
-	"presence.sections.information.title": {
-		"message": "資訊",
-		"description": "The title of the information section."
+	"presence.sections.description.title": {
+		"description": "The title of the description section.",
+		"message": "說明"
 	},
 	"presence.sections.information.author": {
-		"message": "作者",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	},
-	"presence.sections.information.version": {
-		"message": "版本",
-		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
-	},
-	"presence.sections.information.likes": {
-		"message": "讚",
-		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
-	},
-	"presence.sections.information.users": {
-		"message": "用戶",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
-	"presence.sections.information.tags": {
-		"message": "標籤",
-		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
-	},
-	"presence.sections.information.supportedurls": {
-		"message": "支援的URL",
-		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]",
+		"message": "作者"
 	},
 	"presence.sections.information.contributors": {
-		"message": "貢獻者",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
+		"message": "貢獻者"
+	},
+	"presence.sections.information.likes": {
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+		"message": "讚"
+	},
+	"presence.sections.information.supportedurls": {
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
+		"message": "支援的URL"
+	},
+	"presence.sections.information.tags": {
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
+		"message": "標籤"
+	},
+	"presence.sections.information.title": {
+		"description": "The title of the information section.",
+		"message": "資訊"
+	},
+	"presence.sections.information.users": {
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+		"message": "用戶"
+	},
+	"presence.sections.information.version": {
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
+		"message": "版本"
 	}
 }

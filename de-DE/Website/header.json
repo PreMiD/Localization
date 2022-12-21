@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "Deutsch",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "Wir unterstützen deine Sprache, möchtest du wechseln?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "Unsere Website wurde in deine Sprache übersetzt. Dies könnte helfen, falls du nicht so gut Englisch sprichst.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "Nein, danke",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "Sprache wechseln",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "Pfannkuchen backen...;Container platzieren...;Deine IP-Adresse lesen...;UwU;Die Regeln brechen...;Hasen fangen...;Discord anrufen...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "Store",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Mitwirkende"
   },
   "header.downloads": {
-    "message": "Downloads",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "Downloads"
   },
-  "header.contributors": {
-    "message": "Mitwirkende",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "Deutsch"
   },
-  "header.login": {
-    "message": "Anmelden",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Sprache wechseln"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Nein, danke"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Unsere Website wurde in deine Sprache übersetzt. Dies könnte helfen, falls du nicht so gut Englisch sprichst."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Wir unterstützen deine Sprache, möchtest du wechseln?"
   },
   "header.lia": {
-    "message": "Eingeloggt als",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "Eingeloggt als"
   },
-  "header.rab": {
-    "message": "Melde einen Fehler",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Pfannkuchen backen...;Container platzieren...;Deine IP-Adresse lesen...;UwU;Die Regeln brechen...;Hasen fangen...;Discord anrufen..."
   },
-  "header.staff": {
-    "message": "Dashboard",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "Anmelden"
   },
   "header.logout": {
-    "message": "Ausloggen",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "Ausloggen"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Melde einen Fehler"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Dashboard"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Store"
   }
 }

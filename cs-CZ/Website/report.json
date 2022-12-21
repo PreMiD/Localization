@@ -1,58 +1,58 @@
 {
-	"report.title": {
-		"message": "Nahlásit Chybu",
-		"description": "Text to indicate the page."
-	},
-	"report.bugcount": {
-		"message": "{count}/3 Hlášení zbývají",
-		"description": "Amount of bug reports user can send"
-	},
-	"report.info": {
-		"message": "Hlášení chyb jsou pro chyby na stránkách PreMiD a PreMiD Discord serveru. Chyby pro přítomnost se hlásí tvůrci přítomnosti. Chyby hlašte pouze v angličtině.",
-		"description": "Tells the user about submitting a bug"
-	},
-	"report.overview": {
-		"message": "Uveď jasný a stručný popis Chyby.",
-		"description": "Text for the user to write a brief of the bug information."
-	},
-	"report.os": {
-		"message": "Vyber svůj Operační Systém a Verzi",
-		"description": "Select Box for the user to select their operating system"
-	},
-	"report.browser": {
-		"message": "Vyber svůj Prohlížeč a Verzi - Svou verzi zjistíš tím, že přejdete na stránku about:support ve Firefoxu nebo chrome://help",
-		"description": "Select Box for the user to select their browser"
-	},
-	"report.description": {
-		"message": "Poskytni odkaz na živý příklad nebo na jednoznačný postup jak reprodukovat tuto chybu.",
-		"description": "Text for the user to write information about the bug."
-	},
-	"report.button": {
-		"message": "Nahlásit",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "Máš příliš mnoho aktivních hlášení. Počkej, než zkontrolujeme Tvá odeslaná hlášení. Hlášení jsou kontrolována týdně, buď trpělivý.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "Máš příliš mnoho aktivních hlášení.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "Chyba Odeslána",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "Jsou požadovány další informace",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "Discord účet musí být ověřen",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "Aktivní Chyby",
-		"description": "Lists users active bugs"
-	}
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Aktivní Chyby"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Vyber svůj Prohlížeč a Verzi - Svou verzi zjistíš tím, že přejdete na stránku about:support ve Firefoxu nebo chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 Hlášení zbývají"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Nahlásit"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Poskytni odkaz na živý příklad nebo na jednoznačný postup jak reprodukovat tuto chybu."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Jsou požadovány další informace"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Discord účet musí být ověřen"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "Hlášení chyb jsou pro chyby na stránkách PreMiD a PreMiD Discord serveru. Chyby pro přítomnost se hlásí tvůrci přítomnosti. Chyby hlašte pouze v angličtině."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Vyber svůj Operační Systém a Verzi"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Uveď jasný a stručný popis Chyby."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Chyba Odeslána"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Nahlásit Chybu"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Máš příliš mnoho aktivních hlášení. Počkej, než zkontrolujeme Tvá odeslaná hlášení. Hlášení jsou kontrolována týdně, buď trpělivý."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Máš příliš mnoho aktivních hlášení."
+  }
 }

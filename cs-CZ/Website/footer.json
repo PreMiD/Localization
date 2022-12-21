@@ -1,106 +1,106 @@
 {
-	"footer.language": {
-		"message": "Jazyk",
-		"description": "You know how to translate that word? I hope you do :D"
-	},
-	"footer.usercount.heading": {
-		"message": "Jsi připraven používat PreMiD?",
-		"description": "Promotional heading"
-	},
-	"footer.usercount.message": {
-		"message": "Připojte se k {0} uživatelům již dnes!",
-		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
-	},
-	"footer.usercount.button": {
-		"message": "Instalovat",
-		"description": "Install button under the promotional message"
-	},
-	"footer.partners.heading": {
-		"message": "Partneři",
-		"description": "Partner section"
-	},
-	"footer.followUs.heading": {
-		"message": "Sleduj Nás",
-		"description": "Follow Us section"
-	},
-	"footer.developers.heading": {
-		"message": "Vývojáři",
-		"description": "Developer section"
-	},
-	"footer.developers.documentation": {
-		"message": "Dokumentace",
-		"description": "Documentation -> redirects to docs.premid.app"
-	},
-	"footer.developers.richpresence": {
-		"message": "Rich Presence",
-		"description": "Rich Presence -> redirects to discord.com/rich-presence"
-	},
-	"footer.supportus.heading": {
-		"message": "Podpoř nás",
-		"description": "Support us section"
-	},
-	"footer.supportus.contribute": {
-		"message": "Přispět",
-		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.translate": {
-		"message": "Přeložit",
-		"description": "Translate -> redirects to locilazation page"
-	},
-	"footer.supportus.jobs": {
-		"message": "Pracuj s námi!",
-		"description": "Work for us! -> redirects to /jobs page"
-	},
-	"footer.help.heading": {
-		"message": "Pomoc",
-		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Řešit Problémy",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
-	"footer.help.getsupport": {
-		"message": "Získat Pomoc",
-		"description": "Get Support -> redirects to Discord invite"
-	},
-	"footer.help.information": {
-		"message": "Informace",
-		"description": "Information section"
-	},
-	"footer.help.information.cookies": {
-		"message": "Cookies",
-		"description": "meant to be 'Cookie Policy'"
-	},
-	"footer.help.information.privacy": {
-		"message": "Ochrana soukromí",
-		"description": "meant to be 'Privacy Policy'"
-	},
-	"footer.help.information.terms": {
-		"message": "Podmínky",
-		"description": "meant to be 'Terms of Service'"
-	},
-	"footer.more.heading": {
-		"message": "Více",
-		"description": "More section"
-	},
-	"footer.more.status": {
-		"message": "Stav",
-		"description": "Status -> redirects to status.premid.app"
-	},
-	"footer.more.wiki": {
-		"message": "Wiki",
-		"description": "Wiki -> redirects to wiki.premid.app"
-	},
-	"footer.copyright.line1": {
-		"message": "{0} od {1}",
-		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
-	},
-	"footer.copyright.line2": {
-		"message": "Web spravuje {0}",
-		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
-	},
-	"footer.partners.more": {
-		"message": "Pro zobrazení zbytku partnerů a sponzorů, klikněte sem.",
-		"description": "Button next to all listed partners on the footer."
-	}
+  "footer.copyright.line1": {
+    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
+    "message": "{0} od {1}"
+  },
+  "footer.copyright.line2": {
+    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
+    "message": "Web spravuje {0}"
+  },
+  "footer.developers.documentation": {
+    "description": "Documentation -> redirects to docs.premid.app",
+    "message": "Dokumentace"
+  },
+  "footer.developers.heading": {
+    "description": "Developer section",
+    "message": "Vývojáři"
+  },
+  "footer.developers.richpresence": {
+    "description": "Rich Presence -> redirects to discord.com/rich-presence",
+    "message": "Rich Presence"
+  },
+  "footer.followUs.heading": {
+    "description": "Follow Us section",
+    "message": "Sleduj Nás"
+  },
+  "footer.help.getsupport": {
+    "description": "Get Support -> redirects to Discord invite",
+    "message": "Získat Pomoc"
+  },
+  "footer.help.heading": {
+    "description": "Help section",
+    "message": "Pomoc"
+  },
+  "footer.help.information": {
+    "description": "Information section",
+    "message": "Informace"
+  },
+  "footer.help.information.cookies": {
+    "description": "meant to be 'Cookie Policy'",
+    "message": "Cookies"
+  },
+  "footer.help.information.privacy": {
+    "description": "meant to be 'Privacy Policy'",
+    "message": "Ochrana soukromí"
+  },
+  "footer.help.information.terms": {
+    "description": "meant to be 'Terms of Service'",
+    "message": "Podmínky"
+  },
+  "footer.help.troubleshooting": {
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
+    "message": "Řešit Problémy"
+  },
+  "footer.language": {
+    "description": "You know how to translate that word? I hope you do :D",
+    "message": "Jazyk"
+  },
+  "footer.more.heading": {
+    "description": "More section",
+    "message": "Více"
+  },
+  "footer.more.status": {
+    "description": "Status -> redirects to status.premid.app",
+    "message": "Stav"
+  },
+  "footer.more.wiki": {
+    "description": "Wiki -> redirects to wiki.premid.app",
+    "message": "Wiki"
+  },
+  "footer.partners.heading": {
+    "description": "Partner section",
+    "message": "Partneři"
+  },
+  "footer.partners.more": {
+    "description": "Button next to all listed partners on the footer.",
+    "message": "Pro zobrazení zbytku partnerů a sponzorů, klikněte sem."
+  },
+  "footer.supportus.contribute": {
+    "description": "Contribute -> redirects to github.com/premid",
+    "message": "Přispět"
+  },
+  "footer.supportus.heading": {
+    "description": "Support us section",
+    "message": "Podpoř nás"
+  },
+  "footer.supportus.jobs": {
+    "description": "Work for us! -> redirects to /jobs page",
+    "message": "Pracuj s námi!"
+  },
+  "footer.supportus.translate": {
+    "description": "Translate -> redirects to locilazation page",
+    "message": "Přeložit"
+  },
+  "footer.usercount.button": {
+    "description": "Install button under the promotional message",
+    "message": "Instalovat"
+  },
+  "footer.usercount.heading": {
+    "description": "Promotional heading",
+    "message": "Jsi připraven používat PreMiD?"
+  },
+  "footer.usercount.message": {
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
+    "message": "Připojte se k {0} uživatelům již dnes!"
+  }
 }

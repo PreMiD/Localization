@@ -1,50 +1,50 @@
 {
-	"presence.page.buttons.sourceCode": {
-		"message": "Källkod",
-		"description": "Source Code button on presence pages."
-	},
-	"presence.sections.description.title": {
-		"message": "Beskrivning",
-		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "Ändringslogg",
-		"description": "The title of the changelog section."
-	},
-	"presence.sections.information.title": {
-		"message": "Information",
-		"description": "The title of the information section."
-	},
-	"presence.sections.information.author": {
-		"message": "Skapare",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	},
-	"presence.sections.information.version": {
-		"message": "Version",
-		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
-	},
-	"presence.sections.information.likes": {
-		"message": "Likes",
-		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
-	},
-	"presence.sections.information.users": {
-		"message": "Användare",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
-	"presence.sections.information.tags": {
-		"message": "Taggar",
-		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
-	},
-	"presence.sections.information.supportedurls": {
-		"message": "Stöda URLs",
-		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
-	},
-	"presence.sections.information.moreurls": {
-		"message": "Denna Presence stöder fler webbadresser än vad som anges nedan genom att använda RegExp. Hover för att se mönstret",
-		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
-	},
-	"presence.sections.information.contributors": {
-		"message": "Medverkande",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
-	}
+  "presence.page.buttons.sourceCode": {
+    "description": "Source Code button on presence pages.",
+    "message": "Källkod"
+  },
+  "presence.sections.changelog.title": {
+    "description": "The title of the changelog section.",
+    "message": "Ändringslogg"
+  },
+  "presence.sections.description.title": {
+    "description": "The title of the description section.",
+    "message": "Beskrivning"
+  },
+  "presence.sections.information.author": {
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
+    "message": "Skapare"
+  },
+  "presence.sections.information.contributors": {
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
+    "message": "Medverkande"
+  },
+  "presence.sections.information.likes": {
+    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+    "message": "Likes"
+  },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Denna Presence stöder fler webbadresser än vad som anges nedan genom att använda RegExp. Hover för att se mönstret"
+  },
+  "presence.sections.information.supportedurls": {
+    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
+    "message": "Stöda URLs"
+  },
+  "presence.sections.information.tags": {
+    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
+    "message": "Taggar"
+  },
+  "presence.sections.information.title": {
+    "description": "The title of the information section.",
+    "message": "Information"
+  },
+  "presence.sections.information.users": {
+    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+    "message": "Användare"
+  },
+  "presence.sections.information.version": {
+    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
+    "message": "Version"
+  }
 }

@@ -1,46 +1,46 @@
 {
-	"store.search.notFound": {
-		"message": "Me ei leidnud sellist Presence-it...",
-		"description": "Search result text when nothing's found"
-	},
-	"error.code.404": {
-		"message": "Vabandust, me ei suutnud leida seda lehte.",
-		"description": "Error (404) message"
-	},
-	"error.code.4": {
-		"message": "Otsite olematut või kustutatud Presence-it.",
-		"description": "Error (4) message"
-	},
-	"error.code.500": {
-		"message": "Ilmnes sisemine serveri viga.",
-		"description": "Error (500) message"
-	},
-	"error.page.details": {
-		"message": "Detailid",
-		"description": "'Details' text on error page container"
-	},
-	"error.page.button": {
-		"message": "Tagasi avalehele",
-		"description": "Button on the error page"
-	},
-	"user.notFound.heading": {
-		"message": "Seda kasutajat ei leitud. Ole kindel, et",
-		"description": "Error when user couldn't be found."
-	},
-	"user.notFound.message1": {
-		"message": "selle kasutaja ID, mida otsite, on olemas.",
-		"description": "Check user ID message."
-	},
-	"user.notFound.message2": {
-		"message": "see kasutaja on teinud palju Presence ja tal on Presence-i arendaja roll Discordi serveris.",
-		"description": "Check the presence amount of the developer created message."
-	},
-	"user.notFound.message3": {
-		"message": "kui teistel on meie Discordi serveris sama probleem.",
-		"description": "Check if the error is also happening to others message."
-	},
-	"user.notFound.message4": {
-		"message": "Kui arvate, et see oli viga, võtke meiega ühendust [Discordi serveris].",
-		"description": "Bottom line for the error page. Do not edit brackets."
-	}
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "Otsite olematut või kustutatud Presence-it."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "Vabandust, me ei suutnud leida seda lehte."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "Ilmnes sisemine serveri viga."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "Tagasi avalehele"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "Detailid"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "Me ei leidnud sellist Presence-it..."
+  },
+  "user.notFound.heading": {
+    "description": "Error when user couldn't be found.",
+    "message": "Seda kasutajat ei leitud. Ole kindel, et"
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "selle kasutaja ID, mida otsite, on olemas."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "see kasutaja on teinud palju Presence ja tal on Presence-i arendaja roll Discordi serveris."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "kui teistel on meie Discordi serveris sama probleem."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "Kui arvate, et see oli viga, võtke meiega ühendust [Discordi serveris]."
+  }
 }

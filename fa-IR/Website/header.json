@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "فارسى",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "ما از زبان شما پشتیبانی می کنیم، می خواهید که تغییرش دهید?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "سایت ما به زبان شما ترجمه شده است. این می تونه کمکتون کنه اگر خوب انگلیسی نمی توانید صحبت کنید.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "نه، متشکرم",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "تغییر زبان",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "پختن پنکیک...;چیدن ظرف ها...;گرفتن آدرس اینترنت شما...;UwU;قانون شکنی کردن...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "فروشگاه",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "مشارکت‌کنندگان"
   },
   "header.downloads": {
-    "message": "دانلود ها",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "دانلود ها"
   },
-  "header.contributors": {
-    "message": "مشارکت‌کنندگان",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "فارسى"
   },
-  "header.login": {
-    "message": "ورود",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "تغییر زبان"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "نه، متشکرم"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "سایت ما به زبان شما ترجمه شده است. این می تونه کمکتون کنه اگر خوب انگلیسی نمی توانید صحبت کنید."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "ما از زبان شما پشتیبانی می کنیم، می خواهید که تغییرش دهید?"
   },
   "header.lia": {
-    "message": "وارد شده به عنوان",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "وارد شده به عنوان"
   },
-  "header.rab": {
-    "message": "گزارش مشکل",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "پختن پنکیک...;چیدن ظرف ها...;گرفتن آدرس اینترنت شما...;UwU;قانون شکنی کردن..."
   },
-  "header.staff": {
-    "message": "پیشخوان",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "ورود"
   },
   "header.logout": {
-    "message": "خروج از حساب",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "خروج از حساب"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "گزارش مشکل"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "پیشخوان"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "فروشگاه"
   }
 }

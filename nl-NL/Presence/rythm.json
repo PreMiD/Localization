@@ -1,22 +1,22 @@
 {
-    "rythm.openDashboard": {
-        "message": "Dashboard openen",
-        "description": "Button for opening the web dashboard."
-    },
-    "rythm.inviteBot": {
-        "message": "Bot uitnodigen",
-        "description": "Button for inviting the bot."
-    },
-    "rythm.djs": {
-        "message": "DJ's: {0}",
-        "description": "{0} will be replaced with the amount of users with DJ permissions."
-    },
-    "rythm.users": {
-        "message": "Gebruikers: {0}",
-        "description": "{0} will be replaced with the amount of normal users."
-    },
-    "rythm.requestedBy": {
-        "message": "Aangevraagd door: {0}",
-        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
-    }
+  "rythm.djs": {
+    "description": "{0} will be replaced with the amount of users with DJ permissions.",
+    "message": "DJ's: {0}"
+  },
+  "rythm.inviteBot": {
+    "description": "Button for inviting the bot.",
+    "message": "Bot uitnodigen"
+  },
+  "rythm.openDashboard": {
+    "description": "Button for opening the web dashboard.",
+    "message": "Dashboard openen"
+  },
+  "rythm.requestedBy": {
+    "description": "{0} will be replaced with the name of the user who requested the currently playing song.",
+    "message": "Aangevraagd door: {0}"
+  },
+  "rythm.users": {
+    "description": "{0} will be replaced with the amount of normal users.",
+    "message": "Gebruikers: {0}"
+  }
 }

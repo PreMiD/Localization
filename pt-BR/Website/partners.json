@@ -1,174 +1,174 @@
 {
-	"partners.header.title": {
-		"message": "Parceiros",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Junte-se ao pessoal e obtenha alguns benefícios exclusivos de parceiros para mostrar o quão descolado você é.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Esses aqui já são nossos",
-		"description": "Description for slideshow."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Sua presence gratuita",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Nossa equipe lhe fornecerá uma presence do seu serviço.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Torne-se verificado",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Integração meta-tag",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Sua presence será automaticamente usada quando alguém visitar seu site.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Seja imortalizado",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Seja famoso",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Destaque em nossas redes sociais.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Requisitos",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "O que estamos procurando?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Nosso firewall",
-		"description": "Heading for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Aplique agora!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Vamos juntos para o céu!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Se você está interessado em trabalhar diretamente no PreMiD, dê uma olhada nas nossas **vagas de emprego**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "Patrocinadores",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "O PreMiD não seria possível sem essas pessoas incríveis.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "É assim que você assiste a anime.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings é um jogo PvP Arena de última geração, jogado no navegador.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat Radio é uma rádio online comunitário, proporcionando entretenimento sem publicidade 24/7, artigos de notícias diárias e muito mais!",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.taigaBot": {
-		"message": "taiga é um Bot Discord tentando oferecer todos os recursos que você pode precisar ao mesmo tempo!",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.erisly": {
-		"message": "Uma deusa que joga com um bot do discord divertido!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.rNetflix": {
-		"message": "r/Netflix é o maior servidor de Discord relacionado à Netflix. Discuta sobre suas séries ou filmes favoritos com pessoas que pensam como você aqui.",
-		"description": "Description for r/Netflix."
-	},
-	"partners.apply.loggedUser": {
-		"message": "Conectado como {0}",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "Não é você?",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "Por favor escolha um",
-		"description": "Select default placeholder."
-	},
-	"partners.apply.select.website": {
-		"message": "Site",
-		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Outro",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Nome",
-		"description": "Name filed."
-	},
-	"partners.apply.form.name.placeholder": {
-		"message": "Ex: PreMiD",
-		"description": "Name field's placeholder."
-	},
-	"partners.apply.form.link": {
-		"message": "Link",
-		"description": "Link field."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "Ex: https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.description": {
-		"message": "Descrição: (máximo de 150 caracteres)",
-		"description": "Description field."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "Link da imagem: (550x300, apenas PNG)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "Ex: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.close": {
-		"message": "Fechar",
-		"description": "Modal close button."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "Aplicar",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Obrigado por aplicar!",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error1": {
-		"message": "Por favor, preencha todos os campos.",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error3": {
-		"message": "Adicione um link (deve começar com https:// e terminar com .png)",
-		"description": "Error when image link is entered wrong."
-	},
-	"partners.apply.error4": {
-		"message": "Você já aplicou para ser parceiro.",
-		"description": "Error when already applied."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Aplique agora!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Vamos juntos para o céu!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Por favor, preencha todos os campos."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Adicione um link (deve começar com https:// e terminar com .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Você já aplicou para ser parceiro."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Aplicar"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Fechar"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Descrição: (máximo de 150 caracteres)"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Link da imagem: (550x300, apenas PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Ex: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Link"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Ex: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Nome"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Ex: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Se você está interessado em trabalhar diretamente no PreMiD, dê uma olhada nas nossas **vagas de emprego**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Conectado como {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Não é você?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Por favor escolha um"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Outro"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Site"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Obrigado por aplicar!"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Junte-se ao pessoal e obtenha alguns benefícios exclusivos de parceiros para mostrar o quão descolado você é."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Parceiros"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "É assim que você assiste a anime."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena of Kings é um jogo PvP Arena de última geração, jogado no navegador."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Uma deusa que joga com um bot do discord divertido!"
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix é o maior servidor de Discord relacionado à Netflix. Discuta sobre suas séries ou filmes favoritos com pessoas que pensam como você aqui."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga é um Bot Discord tentando oferecer todos os recursos que você pode precisar ao mesmo tempo!"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio é uma rádio online comunitário, proporcionando entretenimento sem publicidade 24/7, artigos de notícias diárias e muito mais!"
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "O que estamos procurando?"
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Nosso firewall"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Requisitos"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Esses aqui já são nossos"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "O PreMiD não seria possível sem essas pessoas incríveis."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Patrocinadores"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Nossa equipe lhe fornecerá uma presence do seu serviço."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Sua presence gratuita"
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Torne-se verificado"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Sua presence será automaticamente usada quando alguém visitar seu site."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Integração meta-tag"
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Seja imortalizado"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Destaque em nossas redes sociais."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Seja famoso"
+  }
 }

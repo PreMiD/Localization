@@ -1,94 +1,94 @@
 {
-	"footer.language": {
-		"message": "Kalba",
-		"description": "You know how to translate that word? I hope you do :D"
-	},
-	"footer.usercount.message": {
-		"message": "Prisijunkite prie {0} vartotojų jau šiandien!",
-		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
-	},
-	"footer.usercount.button": {
-		"message": "Diegti",
-		"description": "Install button under the promotional message"
-	},
-	"footer.partners.heading": {
-		"message": "Partneriai",
-		"description": "Partner section"
-	},
-	"footer.developers.heading": {
-		"message": "Kūrėjai",
-		"description": "Developer section"
-	},
-	"footer.developers.documentation": {
-		"message": "Dokumentacija",
-		"description": "Documentation -> redirects to docs.premid.app"
-	},
-	"footer.developers.richpresence": {
-		"message": "Rich Presence",
-		"description": "Rich Presence -> redirects to discord.com/rich-presence"
-	},
-	"footer.supportus.heading": {
-		"message": "Paremkite mus",
-		"description": "Support us section"
-	},
-	"footer.supportus.donate": {
-		"message": "Paaukoti",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
-	"footer.supportus.contribute": {
-		"message": "Prisidėkite",
-		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.translate": {
-		"message": "Išversti",
-		"description": "Translate -> redirects to locilazation page"
-	},
-	"footer.help.heading": {
-		"message": "Pagalba",
-		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Nesklandumų sprendimas",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
-	"footer.help.getsupport": {
-		"message": "Kreiptis pagalbos",
-		"description": "Get Support -> redirects to Discord invite"
-	},
-	"footer.help.information": {
-		"message": "Informacija",
-		"description": "Information section"
-	},
-	"footer.help.information.cookies": {
-		"message": "Slapukų politika",
-		"description": "meant to be 'Cookie Policy'"
-	},
-	"footer.help.information.privacy": {
-		"message": "Privatumas",
-		"description": "meant to be 'Privacy Policy'"
-	},
-	"footer.help.information.terms": {
-		"message": "Sąlygos",
-		"description": "meant to be 'Terms of Service'"
-	},
-	"footer.more.heading": {
-		"message": "Daugiau",
-		"description": "More section"
-	},
-	"footer.more.status": {
-		"message": "Statusas",
-		"description": "Status -> redirects to status.premid.app"
-	},
-	"footer.more.wiki": {
-		"message": "Wikipedija",
-		"description": "Wiki -> redirects to wiki.premid.app"
-	},
-	"footer.copyright.line1": {
-		"message": "{0} by {1}",
-		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
-	},
-	"footer.copyright.line2": {
-		"message": "Svetainę išlaikoma {0}",
-		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
-	}
+  "footer.copyright.line1": {
+    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
+    "message": "{0} by {1}"
+  },
+  "footer.copyright.line2": {
+    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
+    "message": "Svetainę išlaikoma {0}"
+  },
+  "footer.developers.documentation": {
+    "description": "Documentation -> redirects to docs.premid.app",
+    "message": "Dokumentacija"
+  },
+  "footer.developers.heading": {
+    "description": "Developer section",
+    "message": "Kūrėjai"
+  },
+  "footer.developers.richpresence": {
+    "description": "Rich Presence -> redirects to discord.com/rich-presence",
+    "message": "Rich Presence"
+  },
+  "footer.help.getsupport": {
+    "description": "Get Support -> redirects to Discord invite",
+    "message": "Kreiptis pagalbos"
+  },
+  "footer.help.heading": {
+    "description": "Help section",
+    "message": "Pagalba"
+  },
+  "footer.help.information": {
+    "description": "Information section",
+    "message": "Informacija"
+  },
+  "footer.help.information.cookies": {
+    "description": "meant to be 'Cookie Policy'",
+    "message": "Slapukų politika"
+  },
+  "footer.help.information.privacy": {
+    "description": "meant to be 'Privacy Policy'",
+    "message": "Privatumas"
+  },
+  "footer.help.information.terms": {
+    "description": "meant to be 'Terms of Service'",
+    "message": "Sąlygos"
+  },
+  "footer.help.troubleshooting": {
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
+    "message": "Nesklandumų sprendimas"
+  },
+  "footer.language": {
+    "description": "You know how to translate that word? I hope you do :D",
+    "message": "Kalba"
+  },
+  "footer.more.heading": {
+    "description": "More section",
+    "message": "Daugiau"
+  },
+  "footer.more.status": {
+    "description": "Status -> redirects to status.premid.app",
+    "message": "Statusas"
+  },
+  "footer.more.wiki": {
+    "description": "Wiki -> redirects to wiki.premid.app",
+    "message": "Wikipedija"
+  },
+  "footer.partners.heading": {
+    "description": "Partner section",
+    "message": "Partneriai"
+  },
+  "footer.supportus.contribute": {
+    "description": "Contribute -> redirects to github.com/premid",
+    "message": "Prisidėkite"
+  },
+  "footer.supportus.donate": {
+    "description": "Donate -> redirects to patreon.com/timeraa",
+    "message": "Paaukoti"
+  },
+  "footer.supportus.heading": {
+    "description": "Support us section",
+    "message": "Paremkite mus"
+  },
+  "footer.supportus.translate": {
+    "description": "Translate -> redirects to locilazation page",
+    "message": "Išversti"
+  },
+  "footer.usercount.button": {
+    "description": "Install button under the promotional message",
+    "message": "Diegti"
+  },
+  "footer.usercount.message": {
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
+    "message": "Prisijunkite prie {0} vartotojų jau šiandien!"
+  }
 }

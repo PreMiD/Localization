@@ -1,90 +1,90 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD** er et simpelt og konfigurerbart program som lar deg vise hva du gjør på internett via din Discord \"spiller nå\" status.",
-		"description": "First phrase that users read on our website"
-	},
-	"home.introduction.button.features": {
-		"message": "Funksjoner",
-		"description": "Introduction button"
-	},
-	"home.introduction.button.downloads": {
-		"message": "Nedlastinger",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
-	"home.examples.playingagame": {
-		"message": "Spiller et spill",
-		"description": "Discord Rich Presence -> Playing a game"
-	},
-	"home.examples.timestamp": {
-		"message": "{0} igjen",
-		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.timestamp2": {
-		"message": "{0} brukt",
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "Spiller av",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Direkte",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Blar gjennom...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.features.heading": {
-		"message": "Du kommer til å elske disse funksjonene!",
-		"description": "Features section"
-	},
-	"home.features.presencesystem.heading": {
-		"message": "Finn **din** presence",
-		"description": "Features section subheading"
-	},
-	"home.features.presencesystem.description": {
-		"message": "Vi utviklet vår utvidelse på en måte som lar deg legge til og bruke Presences laget av andre og administrere dem i vår utvidelse!",
-		"description": "Features section description"
-	},
-	"home.features.presencesystem.button": {
-		"message": "Besøk butikken",
-		"description": "Features section button"
-	},
-	"home.features.simpleInterface.heading": {
-		"message": "Enkelt brukergrensesnitt",
-		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description": {
-		"message": "Lei av kompliserte brukergrensesnitt? Det er derfor vi laget et grensesnitt som er så enkelt og effektivt som mulig med viktige funksjoner som:",
-		"description": "Features section description"
-	},
-	"home.features.simpleInterface.description.1": {
-		"message": "App- og utvidelsesinnstillinger",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.2": {
-		"message": "Presenceadministrering",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Sortering etter kategori",
-		"description": "Features section description point"
-	},
-	"home.features.quickSupport.heading": {
-		"message": "Rask hjelp",
-		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.description": {
-		"message": "Noe som ikke fungerer som det skal, eller som kanskje sender deg masse feilmeldinger? Vi kan hjelpe deg med å bli kvitt disse problemene på Discord-serveren vår. Vi har også laget vårt eget system for kundestøtte som vil sørge for å løse problemet ditt så fort som mulig.",
-		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Bli med i vår Discord",
-		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Nettsidespråk",
-		"description": "Tippy content of the language selector."
-	}
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "Spiller et spill"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Blar gjennom..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Direkte"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Spiller av"
+  },
+  "home.examples.timestamp": {
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} igjen"
+  },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} brukt"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "Du kommer til å elske disse funksjonene!"
+  },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "Besøk butikken"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "Vi utviklet vår utvidelse på en måte som lar deg legge til og bruke Presences laget av andre og administrere dem i vår utvidelse!"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "Finn **din** presence"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "Bli med i vår Discord"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "Noe som ikke fungerer som det skal, eller som kanskje sender deg masse feilmeldinger? Vi kan hjelpe deg med å bli kvitt disse problemene på Discord-serveren vår. Vi har også laget vårt eget system for kundestøtte som vil sørge for å løse problemet ditt så fort som mulig."
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "Rask hjelp"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "Lei av kompliserte brukergrensesnitt? Det er derfor vi laget et grensesnitt som er så enkelt og effektivt som mulig med viktige funksjoner som:"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "App- og utvidelsesinnstillinger"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "Presenceadministrering"
+  },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "Sortering etter kategori"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "Enkelt brukergrensesnitt"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Nedlastinger"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "Funksjoner"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "**PreMiD** er et simpelt og konfigurerbart program som lar deg vise hva du gjør på internett via din Discord \"spiller nå\" status."
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "Nettsidespråk"
+  }
 }

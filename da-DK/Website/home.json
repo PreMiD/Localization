@@ -1,50 +1,50 @@
 {
-	"home.introduction.button.downloads": {
-		"message": "Installationer",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
-	"home.examples.playingagame": {
-		"message": "Spiller et spil",
-		"description": "Discord Rich Presence -> Playing a game"
-	},
-	"home.examples.timestamp": {
-		"message": "{0} tilbage",
-		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "Afspilning",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Live",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Søger...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.features.heading": {
-		"message": "Du vil elske disse funktioner!",
-		"description": "Features section"
-	},
-	"home.features.presencesystem.heading": {
-		"message": "Find **din** presence",
-		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.heading": {
-		"message": "Enkel brugergrænseflade",
-		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description.1": {
-		"message": "App og udvidelsesindstillinger",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.2": {
-		"message": "Presence Administration",
-		"description": "Features section description point"
-	},
-	"home.features.quickSupport.heading": {
-		"message": "Hurtig support",
-		"description": "Features section subheading"
-	}
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "Spiller et spil"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Søger..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Live"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Afspilning"
+  },
+  "home.examples.timestamp": {
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} tilbage"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "Du vil elske disse funktioner!"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "Find **din** presence"
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "Hurtig support"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "App og udvidelsesindstillinger"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "Presence Administration"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "Enkel brugergrænseflade"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Installationer"
+  }
 }

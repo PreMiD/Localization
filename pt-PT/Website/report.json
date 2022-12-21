@@ -1,58 +1,58 @@
 {
-	"report.title": {
-		"message": "Reportar um erro",
-		"description": "Text to indicate the page."
-	},
-	"report.bugcount": {
-		"message": "{count}/3 relatórios restantes",
-		"description": "Amount of bug reports user can send"
-	},
-	"report.info": {
-		"message": "A função de reportar erros é para erros no site do PreMiD e no servidor de Discord. Bugs de Presences devem ser reportados ao criador da presence. Bugs devem ser reportados em inglês.",
-		"description": "Tells the user about submitting a bug"
-	},
-	"report.overview": {
-		"message": "Descreve clara e precisamente o erro.",
-		"description": "Text for the user to write a brief of the bug information."
-	},
-	"report.os": {
-		"message": "Seleciona o teu sistema operativo e a versão",
-		"description": "Select Box for the user to select their operating system"
-	},
-	"report.browser": {
-		"message": "Seleciona o teu navegador e a tua versão - Podes obter a versão acedendo a about:support no Firefox ou chrome://help",
-		"description": "Select Box for the user to select their browser"
-	},
-	"report.description": {
-		"message": "Adiciona um link para um exemplo ou um conjunto inequívoco de passos para reproduzir este erro.",
-		"description": "Text for the user to write information about the bug."
-	},
-	"report.button": {
-		"message": "Reportar",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "Tens muitos relatórios ativos. Espera que os teus relatórios anteriores sejam revistos. Os relatórios são vistos semanalmente, por isso, sê paciente.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "Tens demasiados relatórios ativos.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "Erro enviado",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "Requer mais informação",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "A conta do Discord precisa de ser verificada",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "Erros ativos",
-		"description": "Lists users active bugs"
-	}
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Erros ativos"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Seleciona o teu navegador e a tua versão - Podes obter a versão acedendo a about:support no Firefox ou chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 relatórios restantes"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Reportar"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Adiciona um link para um exemplo ou um conjunto inequívoco de passos para reproduzir este erro."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Requer mais informação"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "A conta do Discord precisa de ser verificada"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "A função de reportar erros é para erros no site do PreMiD e no servidor de Discord. Bugs de Presences devem ser reportados ao criador da presence. Bugs devem ser reportados em inglês."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Seleciona o teu sistema operativo e a versão"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Descreve clara e precisamente o erro."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Erro enviado"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Reportar um erro"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Tens muitos relatórios ativos. Espera que os teus relatórios anteriores sejam revistos. Os relatórios são vistos semanalmente, por isso, sê paciente."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Tens demasiados relatórios ativos."
+  }
 }

@@ -1,110 +1,110 @@
 {
-	"footer.language": {
-		"message": "Sprache",
-		"description": "You know how to translate that word? I hope you do :D"
-	},
-	"footer.usercount.heading": {
-		"message": "Bereit, PreMiD zu benutzen?",
-		"description": "Promotional heading"
-	},
-	"footer.usercount.message": {
-		"message": "Trete über {0} Nutzern bei!",
-		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
-	},
-	"footer.usercount.button": {
-		"message": "Installieren",
-		"description": "Install button under the promotional message"
-	},
-	"footer.partners.heading": {
-		"message": "Partner",
-		"description": "Partner section"
-	},
-	"footer.followUs.heading": {
-		"message": "Folge uns",
-		"description": "Follow Us section"
-	},
-	"footer.developers.heading": {
-		"message": "Entwickler",
-		"description": "Developer section"
-	},
-	"footer.developers.documentation": {
-		"message": "Dokumentation",
-		"description": "Documentation -> redirects to docs.premid.app"
-	},
-	"footer.developers.richpresence": {
-		"message": "Rich Presence",
-		"description": "Rich Presence -> redirects to discord.com/rich-presence"
-	},
-	"footer.supportus.heading": {
-		"message": "Unterstütze uns",
-		"description": "Support us section"
-	},
-	"footer.supportus.donate": {
-		"message": "Spenden",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
-	"footer.supportus.contribute": {
-		"message": "Mitwirken",
-		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.translate": {
-		"message": "Übersetzen",
-		"description": "Translate -> redirects to locilazation page"
-	},
-	"footer.supportus.jobs": {
-		"message": "Arbeite mit uns!",
-		"description": "Work for us! -> redirects to /jobs page"
-	},
-	"footer.help.heading": {
-		"message": "Hilfe",
-		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Fehlerbehebung",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
-	"footer.help.getsupport": {
-		"message": "Hilfe erhalten",
-		"description": "Get Support -> redirects to Discord invite"
-	},
-	"footer.help.information": {
-		"message": "Informationen",
-		"description": "Information section"
-	},
-	"footer.help.information.cookies": {
-		"message": "Cookies",
-		"description": "meant to be 'Cookie Policy'"
-	},
-	"footer.help.information.privacy": {
-		"message": "Datenschutz",
-		"description": "meant to be 'Privacy Policy'"
-	},
-	"footer.help.information.terms": {
-		"message": "Nutzungsbedingungen",
-		"description": "meant to be 'Terms of Service'"
-	},
-	"footer.more.heading": {
-		"message": "Mehr",
-		"description": "More section"
-	},
-	"footer.more.status": {
-		"message": "Status",
-		"description": "Status -> redirects to status.premid.app"
-	},
-	"footer.more.wiki": {
-		"message": "Wiki",
-		"description": "Wiki -> redirects to wiki.premid.app"
-	},
-	"footer.copyright.line1": {
-		"message": "{0} von {1}",
-		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
-	},
-	"footer.copyright.line2": {
-		"message": "Website betreut von {0}",
-		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
-	},
-	"footer.partners.more": {
-		"message": "Klicke hier, um die restlichen Partner & Sponsoren zu sehen.",
-		"description": "Button next to all listed partners on the footer."
-	}
+  "footer.copyright.line1": {
+    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
+    "message": "{0} von {1}"
+  },
+  "footer.copyright.line2": {
+    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
+    "message": "Website betreut von {0}"
+  },
+  "footer.developers.documentation": {
+    "description": "Documentation -> redirects to docs.premid.app",
+    "message": "Dokumentation"
+  },
+  "footer.developers.heading": {
+    "description": "Developer section",
+    "message": "Entwickler"
+  },
+  "footer.developers.richpresence": {
+    "description": "Rich Presence -> redirects to discord.com/rich-presence",
+    "message": "Rich Presence"
+  },
+  "footer.followUs.heading": {
+    "description": "Follow Us section",
+    "message": "Folge uns"
+  },
+  "footer.help.getsupport": {
+    "description": "Get Support -> redirects to Discord invite",
+    "message": "Hilfe erhalten"
+  },
+  "footer.help.heading": {
+    "description": "Help section",
+    "message": "Hilfe"
+  },
+  "footer.help.information": {
+    "description": "Information section",
+    "message": "Informationen"
+  },
+  "footer.help.information.cookies": {
+    "description": "meant to be 'Cookie Policy'",
+    "message": "Cookies"
+  },
+  "footer.help.information.privacy": {
+    "description": "meant to be 'Privacy Policy'",
+    "message": "Datenschutz"
+  },
+  "footer.help.information.terms": {
+    "description": "meant to be 'Terms of Service'",
+    "message": "Nutzungsbedingungen"
+  },
+  "footer.help.troubleshooting": {
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
+    "message": "Fehlerbehebung"
+  },
+  "footer.language": {
+    "description": "You know how to translate that word? I hope you do :D",
+    "message": "Sprache"
+  },
+  "footer.more.heading": {
+    "description": "More section",
+    "message": "Mehr"
+  },
+  "footer.more.status": {
+    "description": "Status -> redirects to status.premid.app",
+    "message": "Status"
+  },
+  "footer.more.wiki": {
+    "description": "Wiki -> redirects to wiki.premid.app",
+    "message": "Wiki"
+  },
+  "footer.partners.heading": {
+    "description": "Partner section",
+    "message": "Partner"
+  },
+  "footer.partners.more": {
+    "description": "Button next to all listed partners on the footer.",
+    "message": "Klicke hier, um die restlichen Partner & Sponsoren zu sehen."
+  },
+  "footer.supportus.contribute": {
+    "description": "Contribute -> redirects to github.com/premid",
+    "message": "Mitwirken"
+  },
+  "footer.supportus.donate": {
+    "description": "Donate -> redirects to patreon.com/timeraa",
+    "message": "Spenden"
+  },
+  "footer.supportus.heading": {
+    "description": "Support us section",
+    "message": "Unterstütze uns"
+  },
+  "footer.supportus.jobs": {
+    "description": "Work for us! -> redirects to /jobs page",
+    "message": "Arbeite mit uns!"
+  },
+  "footer.supportus.translate": {
+    "description": "Translate -> redirects to locilazation page",
+    "message": "Übersetzen"
+  },
+  "footer.usercount.button": {
+    "description": "Install button under the promotional message",
+    "message": "Installieren"
+  },
+  "footer.usercount.heading": {
+    "description": "Promotional heading",
+    "message": "Bereit, PreMiD zu benutzen?"
+  },
+  "footer.usercount.message": {
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
+    "message": "Trete über {0} Nutzern bei!"
+  }
 }

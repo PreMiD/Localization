@@ -1,50 +1,50 @@
 {
-	"presence.page.buttons.sourceCode": {
-		"message": "সোর্স কোড",
-		"description": "Source Code button on presence pages."
-	},
-	"presence.sections.description.title": {
-		"message": "ডেসক্রিপশন",
-		"description": "The title of the description section."
-	},
-	"presence.sections.changelog.title": {
-		"message": "পরিবর্তন লগ",
-		"description": "The title of the changelog section."
-	},
-	"presence.sections.information.title": {
-		"message": "তথ্য",
-		"description": "The title of the information section."
-	},
-	"presence.sections.information.author": {
-		"message": "তৈরিকারক",
-		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
-	},
-	"presence.sections.information.version": {
-		"message": "ভার্সন",
-		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
-	},
-	"presence.sections.information.likes": {
-		"message": "লাইক",
-		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
-	},
-	"presence.sections.information.users": {
-		"message": "ইউজার",
-		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
-	},
-	"presence.sections.information.tags": {
-		"message": "ট্যাগ",
-		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
-	},
-	"presence.sections.information.supportedurls": {
-		"message": "সাপোর্টেড URLs",
-		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
-	},
-	"presence.sections.information.moreurls": {
-		"message": "এই Presence টি নিচের URL গুলো থেকেও আরো বেশি URL সাপোর্ট করে RegExp এর ব্যবহারের সাহায্যে। হভার করো প্যাটার্নটি দেখার জন্য",
-		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
-	},
-	"presence.sections.information.contributors": {
-		"message": "অবদানকারী",
-		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
-	}
+  "presence.page.buttons.sourceCode": {
+    "description": "Source Code button on presence pages.",
+    "message": "সোর্স কোড"
+  },
+  "presence.sections.changelog.title": {
+    "description": "The title of the changelog section.",
+    "message": "পরিবর্তন লগ"
+  },
+  "presence.sections.description.title": {
+    "description": "The title of the description section.",
+    "message": "ডেসক্রিপশন"
+  },
+  "presence.sections.information.author": {
+    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
+    "message": "তৈরিকারক"
+  },
+  "presence.sections.information.contributors": {
+    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
+    "message": "অবদানকারী"
+  },
+  "presence.sections.information.likes": {
+    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+    "message": "লাইক"
+  },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "এই Presence টি নিচের URL গুলো থেকেও আরো বেশি URL সাপোর্ট করে RegExp এর ব্যবহারের সাহায্যে। হভার করো প্যাটার্নটি দেখার জন্য"
+  },
+  "presence.sections.information.supportedurls": {
+    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
+    "message": "সাপোর্টেড URLs"
+  },
+  "presence.sections.information.tags": {
+    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
+    "message": "ট্যাগ"
+  },
+  "presence.sections.information.title": {
+    "description": "The title of the information section.",
+    "message": "তথ্য"
+  },
+  "presence.sections.information.users": {
+    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+    "message": "ইউজার"
+  },
+  "presence.sections.information.version": {
+    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
+    "message": "ভার্সন"
+  }
 }

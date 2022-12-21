@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "يمكن للمستخدمين الآن إضافة ملحقات بنفسهم.*ضف البعض الان!*",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "أعثر على بعض *الملحقات الجديدة* في بيئتها الطبيعية",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "التحديث التلقائي متوفّر الآن",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "يمكن للمستخدمين الآن إنشاء ملحقات",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "أضفنا *مستندات* لهؤلاء المطورين المبدعين",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "تصميم جديد للموقع",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "عديد الميزات لدينا في بوت الديسكورد",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "واجهة برمجة التطبيقات الجديدة لدينا هي ممتازة جدا",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "تم إصلاح اخطاء التطبيق القديم حتى إذا كان لديك أحدث إصدار"
   },
   "extension.2.0.change1": {
-    "message": "تم إعادة تنظيم و تصميم علامات التبويب و القائمة المنبثقة",
-    "description": ""
+    "description": "",
+    "message": "تم إعادة تنظيم و تصميم علامات التبويب و القائمة المنبثقة"
   },
   "extension.2.0.fix1": {
-    "message": "تم إزالة الكثير من الأخطاء",
-    "description": ""
+    "description": "",
+    "message": "تم إزالة الكثير من الأخطاء"
   },
   "extension.2.0.fix2": {
-    "message": "كل شيء يعمل بشكل أسرع الآن",
-    "description": ""
+    "description": "",
+    "message": "كل شيء يعمل بشكل أسرع الآن"
   },
-  "extension.2.0.1.fix1": {
-    "message": "تم إصلاح اخطاء التطبيق القديم حتى إذا كان لديك أحدث إصدار",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "يمكن للمستخدمين الآن إضافة ملحقات بنفسهم.*ضف البعض الان!*"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "أعثر على بعض *الملحقات الجديدة* في بيئتها الطبيعية"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "التحديث التلقائي متوفّر الآن"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "يمكن للمستخدمين الآن إنشاء ملحقات"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "أضفنا *مستندات* لهؤلاء المطورين المبدعين"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "تصميم جديد للموقع"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "عديد الميزات لدينا في بوت الديسكورد"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "واجهة برمجة التطبيقات الجديدة لدينا هي ممتازة جدا"
   }
 }
