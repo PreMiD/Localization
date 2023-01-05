@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Участники"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Загрузки "
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Русский"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Поменять язык"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Нет, спасибо"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Наш веб-сайт был переведён на ваш язык. Это может вам помочь, если вы не очень хорошо знаете английский язык."
+    "message": "Русский",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "Мы поддерживаем ваш язык, использовать его?"
+    "message": "Мы поддерживаем ваш язык, использовать его?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Вы вошли как"
+  "header.languageNotification.text": {
+    "message": "Наш веб-сайт был переведён на ваш язык. Это может вам помочь, если вы не очень хорошо знаете английский язык.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Нет, спасибо",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Поменять язык",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Гонимся за сбежавшим Presence...;Передаем пакеты данных...;Соединяем вас с сервером...;Что вы делаете в моём Presence?;Готовим шашлычки...;Ищем подходящий для вас Presence..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Войти"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Выйти"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Сообщить об ошибке"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Обзор"
+    "message": "Гонимся за сбежавшим Presence...;Передаем пакеты данных...;Соединяем вас с сервером...;Что вы делаете в моём Presence?;Готовим шашлычки...;Ищем подходящий для вас Presence...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Магазин"
+    "message": "Магазин",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Загрузки ",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Участники",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Войти",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Вы вошли как",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Сообщить об ошибке",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Обзор",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Выйти",
+    "description": "Logout button"
   }
 }
