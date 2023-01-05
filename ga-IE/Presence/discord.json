@@ -1,186 +1,186 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Blag Discord"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Brandála"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Ag brabhsáil tríd"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar Tabhair cuireadh do Nasc"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Léitheoireacht sa chainéal:{0}{1} (Freastalaí: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Clóscríobh sa chainéal:{0}{1} (Freastalaí: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "leathanach an Choláiste"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Maidir"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "Ag brabhsáil trína gcuid aipeanna"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "Aip eagarthóireachta: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "Ag léamh na cáipéise"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "Tairseach Forbróra"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "Ag brabhsáil trína bhfreastalaithe"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "Ag amharc ar léargas an fhreastalaí: {0}"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "Ag brabhsáil trína bhfoirne"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "Foireann eagarthóireachta: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Léitheoireacht i ngrúpa DM:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Clóscríobh i ngrúpa DM:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "DManna a léamh ó:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Clóscríobh DManna chuig:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Íoslódálacha"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Ag amharc ar a gcairde..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Inspioráid"
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "Ag féachaint ar an nasc cuireadh:{0}{1} (Freastalaí: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Ag féachaint ar nasc cuireadh{0} den fhreastalaí: {1}"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Poist"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Earraí Ceannaíochta Discord"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Bailiúchán féachana:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Modhnóireachta"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "leathanach an Seomra Nuachta"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "Ag léamh faoi Nitro..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Foinse Oscailte"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Comhpháirtí"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "na polasaithe"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Láithreacht Saibhir"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an tIonad Sábháilteachta"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Slándála"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Ag féachaint ar shocruithe{0} an fhreastalaí: {1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Ag féachaint ar a gcuid socruithe..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Stádas Discord"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach StreamKit"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Ionad Cabhrach"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an leathanach Fíoraithe"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Guth ceangailte le:{0}{1} (Freastalaí: {2})"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "Guth ceangailte le:{0}{1}"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "an \"Cén fáth Discord?\" leathanach"
-  }
+	"discord.channelReading": {
+		"message": "Léitheoireacht sa chainéal:{0}{1} (Freastalaí: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Clóscríobh sa chainéal:{0}{1} (Freastalaí: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "DManna a léamh ó:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Clóscríobh DManna chuig:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Léitheoireacht i ngrúpa DM:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Clóscríobh i ngrúpa DM:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "Ag amharc ar a gcairde...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Ag léamh faoi Nitro...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "Guth ceangailte le:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "Guth ceangailte le:{0}{1} (Freastalaí: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "Ag féachaint ar a gcuid socruithe...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Ag féachaint ar shocruithe{0} an fhreastalaí: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "Ag féachaint ar an nasc cuireadh:{0}{1} (Freastalaí: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "Ag féachaint ar nasc cuireadh{0} den fhreastalaí: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Féach ar Tabhair cuireadh do Nasc",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Ag brabhsáil tríd",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "an leathanach Íoslódálacha",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "an \"Cén fáth Discord?\" leathanach",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "an tIonad Sábháilteachta",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "an leathanach Poist",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "an leathanach Maidir",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "an leathanach Brandála",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "an leathanach Inspioráid",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "leathanach an Choláiste",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "leathanach an Seomra Nuachta",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "an leathanach Comhpháirtí",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "an leathanach Fíoraithe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "an leathanach StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "an leathanach Foinse Oscailte",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "an leathanach Slándála",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "an leathanach Modhnóireachta",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "an leathanach Láithreacht Saibhir",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "na polasaithe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Tairseach Forbróra",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Ag brabhsáil trína gcuid aipeanna",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Aip eagarthóireachta: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Ag brabhsáil trína bhfoirne",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Foireann eagarthóireachta: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Ag brabhsáil trína bhfreastalaithe",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Ag amharc ar léargas an fhreastalaí: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Ag léamh na cáipéise",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Stádas Discord",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Ionad Cabhrach",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Blag Discord",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Earraí Ceannaíochta Discord",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Bailiúchán féachana:",
+		"description": ""
+	}
 }
