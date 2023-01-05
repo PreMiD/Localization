@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Viendo sus MDs"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Viendo juego:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Viendo la lista del personal"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Viendo sus foros visitados"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Viendo sus hilos visitados"
-  }
+    "hypixel.staff": {
+        "message": "Viendo la lista del personal",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Viendo sus hilos visitados",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Viendo sus foros visitados",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Viendo sus MDs",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Viendo juego:",
+        "description": ""
+    }
 }
