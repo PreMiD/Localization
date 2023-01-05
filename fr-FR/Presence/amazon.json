@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Regarde ses adresses"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Visualisation de leurs adprefs"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Visualisation de leur solde"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "panier"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Regarde toutes les catégories"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "cartes-cadeaux"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Visualisation de leur historique"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "﻿Détails de la commande"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "historique des commandes"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Regarde les méthodes de paiement"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Voir leurs animaux de compagnie"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Regarde Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Regarde Prime Video :"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Visualisation recommandée"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Regarder la boutique:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Consulte ses abonnements"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Regarde leur"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "liste de souhaits"
-  }
+    "amazon.subscriptions": {
+        "message": "Consulte ses abonnements",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Visualisation de leurs adprefs",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Visualisation de leur solde",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Regarde les méthodes de paiement",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Regarde ses adresses",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Voir leurs animaux de compagnie",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Regarde toutes les catégories",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Regarde Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Regarde leur",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "historique des commandes",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "﻿Détails de la commande",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "panier",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "liste de souhaits",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "cartes-cadeaux",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Visualisation recommandée",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Visualisation de leur historique",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Regarder la boutique:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Regarde Prime Video :",
+        "description": ""
+    }
 }
