@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Visualisation de leurs MPs"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Regarde le jeu:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Regarde la liste du staff"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Consulte leurs forums surveillés"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Regarde leurs fils de discussion surveillés"
-  }
+    "hypixel.staff": {
+        "message": "Regarde la liste du staff",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Regarde leurs fils de discussion surveillés",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Consulte leurs forums surveillés",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Visualisation de leurs MPs",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Regarde le jeu:",
+        "description": ""
+    }
 }
