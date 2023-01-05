@@ -1,10 +1,10 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "下載"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "合作夥伴"
-  }
+	"twitch.downloads": {
+		"message": "下載",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "合作夥伴",
+		"description": "Page name"
+	}
 }
