@@ -1,18 +1,18 @@
 {
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Τεκμηρίωση"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Λειτουργίες"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Βιντεοπαιχνίδια"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Άλλα"
-  }
+    "apple.other": {
+        "message": "Άλλα",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "Τεκμηρίωση",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "Λειτουργίες",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Βιντεοπαιχνίδια",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
 }
