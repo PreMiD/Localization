@@ -1,366 +1,366 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "انیمه"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "گشتن..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "همراه گوش دادن"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "خواندن مطلب"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده آلبوم"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده هنرمند"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده کانال"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "دیدن قسمت"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده فیلم"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده صفحه"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده لیست‌پخش"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده پادکست"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده پروفایل"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده سری"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده موسیقی"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "درحال تماشای فیلم"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "تماشای استریم"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "تماشای ویدیو"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "درحال تماس"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "بخش"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "سیاست کوکی‌ ها"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "ویرایش کردن:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "قسمت"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "انجمن‌ها"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "ژانر"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "در تماس..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "تاریخچه وقایع"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "درحال مشاهده یک رخداد"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "زبان"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "شنوندگان"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "گوش دادن به موسیقی"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "درحال گوش دادن به{0}{1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "پخش زنده"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "مانگا"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "کالا"
-  },
-  "general.page": {
-    "description": "",
-    "message": "صفحه"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "متوقف شد"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "در حال پخش"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "سیاست حفظ حریم خصوصی"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "در‌حال خواندن"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "خواندن درباره:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "خواندن مقاله:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "خواندن در چنل:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "خواندن DM ها از:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "خواندن پست:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "خواندن سربرگ:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "روی تکرار"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "تکرار کردن همه آهنگ‌ها"
-  },
-  "general.search": {
-    "description": "",
-    "message": "درحال جستجو"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "جستجو برای:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "جستجو برای چیزی..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "فصل"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "سبد خرید"
-  },
-  "general.store": {
-    "description": "",
-    "message": "فروشگاه"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "شرایط خدمات"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "نوشتن در چنل:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "نوشتن DM به:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "تاریخچه مدت فعالیت"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "مشاهده حساب‌شان"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "مشاهده انیمه:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "مشاهده دسته بندی:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "مشاهده چنل:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "دیدن قسمت:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "مشاهده ژانر:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "مشاهده صفحه اصلی"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "مشاهدی لیستی از:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "دیدن مانگا:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "مشاهده عضو:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "دیدن فیلم:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "مشاهده صفحه:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "مشاهده لیست پخش:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "مشاهده محصولات:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "مشاهده مشخصات:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "مشاهده سری ها:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "دیدن نمایش:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "مشاهده سربرگ:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "مشاهده کاربر:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "دیدن:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "انتظار برای شروع یک پخش‌زنده"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "انتظار برای شروع پخش‌زنده"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "انتظار برای نمایش یک ویدیو"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "انتظار برای نمایش ویدیو"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "نگاه کردن:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "نگاه کردن پخش زنده"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "درحال تماشای یک فیلم"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "درحال تماشای یک سری"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "درحال تماشای یک نمایش"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "نگاه کردن ویدیو"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "لیست علاقه‌مندی‌ها:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "درحال نوشتن"
-  }
+	"general.anime": {
+		"message": "انیمه",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "گشتن...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "بخش",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "ویرایش کردن:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "قسمت",
+		"description": ""
+	},
+	"general.season": {
+		"message": "فصل",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "انجمن‌ها",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "ژانر",
+		"description": ""
+	},
+	"general.language": {
+		"message": "زبان",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "گوش دادن به موسیقی",
+		"description": ""
+	},
+	"general.listeningTo": {
+		"message": "درحال گوش دادن به{0}{1}",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc."
+	},
+	"general.listeners": {
+		"message": "شنوندگان",
+		"description": ""
+	},
+	"general.live": {
+		"message": "پخش زنده",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "مانگا",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "کالا",
+		"description": ""
+	},
+	"general.page": {
+		"message": "صفحه",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "متوقف شد",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "در حال پخش",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "خواندن DM ها از:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "خواندن درباره:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "خواندن مقاله:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "خواندن در چنل:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "خواندن پست:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "خواندن سربرگ:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "در‌حال خواندن",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "جستجو برای:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "جستجو برای چیزی...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "درحال جستجو",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "درحال نوشتن",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "درحال تماس",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "در تماس...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "سبد خرید",
+		"description": ""
+	},
+	"general.store": {
+		"message": "فروشگاه",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "نوشتن DM به:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "نوشتن در چنل:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "مشاهده انیمه:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "مشاهده دسته بندی:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "مشاهده چنل:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "دیدن قسمت:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "مشاهده ژانر:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "مشاهده صفحه اصلی",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "مشاهدی لیستی از:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "دیدن مانگا:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "مشاهده عضو:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "دیدن فیلم:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "مشاهده لیست پخش:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "مشاهده محصولات:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "مشاهده مشخصات:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "مشاهده سری ها:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "دیدن نمایش:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "مشاهده حساب‌شان",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "مشاهده سربرگ:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "مشاهده کاربر:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "دیدن:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "مشاهده صفحه:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "درحال تماشای یک فیلم",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "درحال تماشای یک سری",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "درحال تماشای یک نمایش",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "نگاه کردن ویدیو",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "انتظار برای نمایش یک ویدیو",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "انتظار برای نمایش ویدیو",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "نگاه کردن پخش زنده",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "انتظار برای شروع یک پخش‌زنده",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "انتظار برای شروع پخش‌زنده",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "نگاه کردن:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "لیست علاقه‌مندی‌ها:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "سیاست حفظ حریم خصوصی",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "شرایط خدمات",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "سیاست کوکی‌ ها",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "تکرار کردن همه آهنگ‌ها",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "روی تکرار",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "درحال مشاهده یک رخداد",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "تاریخچه وقایع",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "تاریخچه مدت فعالیت",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "مشاهده سری",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "مشاهده فیلم",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "دیدن قسمت",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "درحال تماشای فیلم",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "تماشای ویدیو",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "تماشای استریم",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "مشاهده کانال",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "همراه گوش دادن",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "مشاهده صفحه",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "مشاهده موسیقی",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "مشاهده آلبوم",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "مشاهده پروفایل",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "مشاهده هنرمند",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "مشاهده لیست‌پخش",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "مشاهده پادکست",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "خواندن مطلب",
+		"description": "Used as the title for the button in Discord."
+	}
 }
