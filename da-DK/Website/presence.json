@@ -1,34 +1,34 @@
 {
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "Ændringslog"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "Beskrivelse"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "Forfatter"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "Bidragere"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "Understyttede URLs"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "Mærker"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "Information"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "Version"
-  }
+	"presence.sections.description.title": {
+		"message": "Beskrivelse",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Ændringslog",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Information",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Forfatter",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Version",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Mærker",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "Understyttede URLs",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Bidragere",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
