@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Mirando la lista de comandos"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "Leyendo acerca de las cookies del sitio"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "Leyendo información acerca de los planes de donación"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "Viendo la lista de servidores:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Página principal"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "En el panel de control"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Servidor: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Seleccionando servidor"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Mirando las estadísticas del bot"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "Personalizando tarjeta de rango"
-  }
+    "juniperbot.mainpage": {
+        "message": "Página principal",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Viendo la lista de servidores:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "En el panel de control",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Servidor: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Leyendo información acerca de los planes de donación",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Seleccionando servidor",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Mirando la lista de comandos",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Mirando las estadísticas del bot",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Personalizando tarjeta de rango",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Leyendo acerca de las cookies del sitio",
+        "description": "Reading about the site's cookies"
+    }
 }
