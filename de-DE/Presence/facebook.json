@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Kürzlich hinzugefügt"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Durchsucht:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "In einem Anruf mit:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Gespeicherte Videos"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Liest über Benutzer:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Betrachtet Community-Beiträge von:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Betrachtet Freunde von:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "jemandem... (Benutzer versteckt)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Schaut Fotos von:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Betrachtet Posts von:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Betrachtet Shop von Nutzern:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Betrachtet Videos von:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "In einem Videoanruf mit:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Das heutige Wetter anzeigen"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Eine Nachricht schreiben"
-  }
+    "facebook.call": {
+        "message": "In einem Anruf mit:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "In einem Videoanruf mit:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "jemandem... (Benutzer versteckt)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Eine Nachricht schreiben",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Liest über Benutzer:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Betrachtet Community-Beiträge von:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Schaut Fotos von:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Betrachtet Posts von:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Betrachtet Shop von Nutzern:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Betrachtet Freunde von:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Betrachtet Videos von:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Durchsucht:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Gespeicherte Videos",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Kürzlich hinzugefügt",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Das heutige Wetter anzeigen",
+        "description": ""
+    }
 }
