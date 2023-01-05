@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "албуми, които те харесват"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "артисти, които те харесват"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Най-добрите подкасти"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Търси в"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Преглежда класациите"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Открива нови песни"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Тегли Spotify"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Представени песни"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Търси в жанри"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Гледа най-скорошните излезли"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Направени за теб\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "тяхните плейлисти"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "подкасти, които те харесват"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "песни, които те харесват"
-  }
+	"spotify.featured": {
+		"message": "Представени песни",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Най-добрите подкасти",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Преглежда класациите",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Търси в жанри",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Гледа най-скорошните излезли",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Открива нови песни",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Търси в",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "подкасти, които те харесват",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "артисти, които те харесват",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "албуми, които те харесват",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "песни, които те харесват",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Направени за теб\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "тяхните плейлисти",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Тегли Spotify",
+		"description": ""
+	}
 }
