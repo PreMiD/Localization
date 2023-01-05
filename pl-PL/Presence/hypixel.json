@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Przegląda swoje wiadomości prywatne"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Ogląda grę:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Przegląda listę pracowników"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Przegląda obserwowane fora"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Przegląda obserwowane wątki"
-  }
+    "hypixel.staff": {
+        "message": "Przegląda listę pracowników",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Przegląda obserwowane wątki",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Przegląda obserwowane fora",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Przegląda swoje wiadomości prywatne",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Ogląda grę:",
+        "description": ""
+    }
 }
