@@ -1,18 +1,18 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "เล่นเกมตอบคำถาม"
-  },
-  "watchmojo.playingTrivia": {
-    "description": "For privacy mode, \"a\" as in unspecified.",
-    "message": "กำลังเล่นเกมตอบคำถาม"
-  },
-  "watchmojo.trivia": {
-    "description": "{0} will be replaced with the name of the Trivia game",
-    "message": "กำลังเล่นเกมตอบคำถาม: {0}"
-  },
-  "watchmojo.triviaGame": {
-    "description": "The round and score of the Trivia game the user is playing.",
-    "message": "รอบที่ {0} จาก {1} (คะแนน: {2}/{3})"
-  }
+	"watchmojo.triviaGame": {
+		"message": "รอบที่ {0} จาก {1} (คะแนน: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "กำลังเล่นเกมตอบคำถาม: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.playingTrivia": {
+		"message": "กำลังเล่นเกมตอบคำถาม",
+		"description": "For privacy mode, \"a\" as in unspecified."
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "เล่นเกมตอบคำถาม",
+		"description": "Used as the title for the button in Discord."
+	}
 }
