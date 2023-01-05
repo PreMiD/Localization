@@ -1,110 +1,110 @@
 {
-  "jobs.benefit1.description": {
-    "description": "Benefit card description.",
-    "message": "Få kontakt med folkene bak PreMiD."
-  },
-  "jobs.benefit1.title": {
-    "description": "Benefit card title.",
-    "message": "Møt oss"
-  },
-  "jobs.benefit2.description": {
-    "description": "Benefit card description.",
-    "message": "Ta en titt på får utvikling og markedsføring."
-  },
-  "jobs.benefit2.title": {
-    "description": "Benefit card title.",
-    "message": "Sniktitt"
-  },
-  "jobs.benefit3.description": {
-    "description": "Benefit card description.",
-    "message": "Mektige Discord-tillatelser og en fargerik rolle."
-  },
-  "jobs.benefit3.title": {
-    "description": "Benefit card title.",
-    "message": "Ære"
-  },
-  "jobs.benefit4.description": {
-    "description": "Benefit card description.",
-    "message": "Med din hjelp er det mulig å holde prosjektet gående."
-  },
-  "jobs.benefit4.title": {
-    "description": "Benefit card title.",
-    "message": "Støtt PreMiD"
-  },
-  "jobs.benefit5.description": {
-    "description": "Benefit card description.",
-    "message": "Ta den tiden du trenger. Dette er frivillig arbeid."
-  },
-  "jobs.benefit5.title": {
-    "description": "Benefit card title.",
-    "message": "Pause"
-  },
-  "jobs.benefit6.description": {
-    "description": "Benefit card description.",
-    "message": "Test nye funksjoner før alle andre."
-  },
-  "jobs.benefit6.title": {
-    "description": "Benefit card title.",
-    "message": "Tidlig tilgang"
-  },
-  "jobs.benefits.title": {
-    "description": "Text before the benefits cards.",
-    "message": "Fordeler"
-  },
-  "jobs.errors.alreadyApplied": {
-    "description": "Notification when you applied already.",
-    "message": "Du har allerede søkt om en stilling!"
-  },
-  "jobs.guild.explanation": {
-    "description": "Explanation why users should be in Discord server to perform job application.",
-    "message": "For å kunne søke må du ha blitt med i vår Discord server. Ellers vil vi ikke kunne kontakte deg dersom du ender opp med å bli valgt!"
-  },
-  "jobs.guild.required": {
-    "description": "Title of the modal the user will see if it's not in Discord server.",
-    "message": "Bli med i vår Discord"
-  },
-  "jobs.header.description": {
-    "description": "The second part of the jobs page.",
-    "message": "Er du klar for å hjelpe til med det største Rich Presence-programmet i verden?"
-  },
-  "jobs.header.title": {
-    "description": "First part of the jobs page.",
-    "message": "Jobb for PreMiD"
-  },
-  "jobs.modal.buttons.cancel": {
-    "description": "Cancel, button in the modal.",
-    "message": "Avbryt"
-  },
-  "jobs.modal.buttons.join": {
-    "description": "Join Discord button in the modal.",
-    "message": "Bli med"
-  },
-  "jobs.modal.buttons.next": {
-    "description": "Next button in the modal.",
-    "message": "Neste"
-  },
-  "jobs.modal.error": {
-    "description": "Error when user did not fill all the fields.",
-    "message": "Vennlights fyll ut alle obligatoriske felt"
-  },
-  "jobs.modal.notice": {
-    "description": "Notice for applicants.",
-    "message": "PreMiD er ett prosjekt med åpen kildekode, som betyr at vi er ett ideelt lag, vær donasjon går tilbake til produktet. Ved å søke etter en jobb posisjon hos PreMiD erkjenner du at du skal være frivillig med i laget, du vil ikke få betalt for jobben du gjør."
-  },
-  "jobs.modal.step": {
-    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
-    "message": "Steg {0} ut av 2"
-  },
-  "jobs.modal.title": {
-    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
-    "message": "Søk etter {0}"
-  },
-  "jobs.openings.title": {
-    "description": "Text before the available job positions cards.",
-    "message": "Ledige stillinger"
-  },
-  "jobs.success.applied": {
-    "description": "Notification when applying.",
-    "message": "Takk for at du sendte inn din søknad!"
-  }
+	"jobs.modal.title": {
+		"message": "Søk etter {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Steg {0} ut av 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Neste",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Bli med",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Avbryt",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Vennlights fyll ut alle obligatoriske felt",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD er ett prosjekt med åpen kildekode, som betyr at vi er ett ideelt lag, vær donasjon går tilbake til produktet. Ved å søke etter en jobb posisjon hos PreMiD erkjenner du at du skal være frivillig med i laget, du vil ikke få betalt for jobben du gjør.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Bli med i vår Discord",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "For å kunne søke må du ha blitt med i vår Discord server. Ellers vil vi ikke kunne kontakte deg dersom du ender opp med å bli valgt!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Jobb for PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Er du klar for å hjelpe til med det største Rich Presence-programmet i verden?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Ledige stillinger",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Fordeler",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Møt oss",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Få kontakt med folkene bak PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Sniktitt",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Ta en titt på får utvikling og markedsføring.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Ære",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Mektige Discord-tillatelser og en fargerik rolle.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Støtt PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Med din hjelp er det mulig å holde prosjektet gående.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Pause",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Ta den tiden du trenger. Dette er frivillig arbeid.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Tidlig tilgang",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Test nye funksjoner før alle andre.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Takk for at du sendte inn din søknad!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Du har allerede søkt om en stilling!",
+		"description": "Notification when you applied already."
+	}
 }
