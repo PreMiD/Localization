@@ -1,38 +1,38 @@
 {
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Abilised"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Allalaadimised"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "Iframe'i mõistmine"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "Metadata.jsoni konfigureerimine"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Presence-i arendamine"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Pood"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Veaotsimine"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "TypeScripti seadistamine"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partnerid"
-  }
+	"premid.pageContributors": {
+		"message": "Abilised",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Allalaadimised",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Pood",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnerid",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Veaotsimine",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence-i arendamine",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Iframe'i mõistmine",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Metadata.jsoni konfigureerimine",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScripti seadistamine",
+		"description": "A page name"
+	}
 }
