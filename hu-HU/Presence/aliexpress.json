@@ -1,62 +1,62 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Nézi a lakcímét"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Nézi a kuponjait"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "törölt megrendeléseket"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "AliExpress visszajelzés"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "AliExpress Help Center"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Üzenetközpont"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Nézi a rendeléseit"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "megtekintett termékek"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Visszatérítéseket és vitákat"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Eladást böngészi"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "AliExpress Sell Center"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Boltot néz:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "Nézi az AliExpress-t"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "AliExpress Trade Center"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Nézi a(z)"
-  }
+    "aliexpress.store": {
+        "message": "Boltot néz:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Üzenetközpont",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Eladást böngészi",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "megtekintett termékek",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Nézi az AliExpress-t",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress visszajelzés",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Nézi a rendeléseit",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Nézi a(z)",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Visszatérítéseket és vitákat",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "törölt megrendeléseket",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress Trade Center",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Nézi a kuponjait",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Nézi a lakcímét",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress Help Center",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress Sell Center",
+        "description": ""
+    }
 }
