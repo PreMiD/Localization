@@ -1,50 +1,50 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "albúm sem þeim líkar"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "listamenn sem þeim líkar"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Bestu podcasts"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Skoðar í gegn"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Skoðar töflunar"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Uppgötvar ný lög"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Lög"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Skoðar Í gegnum tegundir"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Skoðar nýjustu útgáfurnar"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Búið til fyrir þig\""
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "podcasts sem þeim líkar"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "lög sem þeim líkar"
-  }
+	"spotify.featured": {
+		"message": "Lög",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Bestu podcasts",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Skoðar töflunar",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Skoðar Í gegnum tegundir",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Skoðar nýjustu útgáfurnar",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Uppgötvar ný lög",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Skoðar í gegn",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcasts sem þeim líkar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "listamenn sem þeim líkar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albúm sem þeim líkar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "lög sem þeim líkar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Búið til fyrir þig\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	}
 }
