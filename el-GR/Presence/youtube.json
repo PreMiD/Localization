@@ -1,34 +1,34 @@
 {
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Περιήγηση μέσα"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "τις αγορές τους"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Προβάλει του ταμπλό τους"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Προβάλει τους"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Προβάλει τα βίντεο τους"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Προβάλει τι είναι δημοφιλές"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Προβάλει της βιβλιοθήκης ήχου"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Προβάλει του ζωντανός ταμπλό τους"
-  }
+    "youtube.trending": {
+        "message": "Προβάλει τι είναι δημοφιλές",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Περιήγηση μέσα",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.purchases": {
+        "message": "τις αγορές τους",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Προβάλει του ζωντανός ταμπλό τους",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Προβάλει της βιβλιοθήκης ήχου",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Προβάλει τα βίντεο τους",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Προβάλει τους",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.dashboard": {
+        "message": "Προβάλει του ταμπλό τους",
+        "description": ""
+    }
 }
