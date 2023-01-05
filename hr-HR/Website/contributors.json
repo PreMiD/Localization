@@ -1,42 +1,42 @@
 {
-  "contributors.cards.copyUserId": {
-    "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "Kliknite za kopiranje ID-a korisnika."
-  },
-  "contributors.cards.userIdCopied": {
-    "description": "Notification after user ID was copied.",
-    "message": "Kopiran je korisnički ID!"
-  },
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "Osoblje"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Donatori"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "Prevoditelji"
-  },
-  "contributors.roles.booster": {
-    "description": "'Booster' title for contributors page and user pages.",
-    "message": "Booster"
-  },
-  "contributors.roles.donator": {
-    "description": "'Donator' title for contributors page.",
-    "message": "Donator"
-  },
-  "contributors.roles.localizationManager": {
-    "description": "'Localization Manager' title for contributors and user pages.",
-    "message": "Upravitelj lokalizacija"
-  },
-  "contributors.roles.proofreader": {
-    "description": "'Proofreader' title for contributors and user pages.",
-    "message": "Korektor"
-  },
-  "contributors.roles.translator": {
-    "description": "'Translator' title for contributors page.",
-    "message": "Prevoditelj"
-  }
+	"contributors.headings.staff": {
+		"message": "Osoblje",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Donatori",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Upravitelj lokalizacija",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Korektor",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Prevoditelji",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Donator",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Prevoditelj",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Kliknite za kopiranje ID-a korisnika.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Kopiran je korisnički ID!",
+		"description": "Notification after user ID was copied."
+	}
 }
