@@ -1,18 +1,18 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Mainkan Trivia"
-  },
-  "watchmojo.playingTrivia": {
-    "description": "For privacy mode, \"a\" as in unspecified.",
-    "message": "Sedang bermain Trivia"
-  },
-  "watchmojo.trivia": {
-    "description": "{0} will be replaced with the name of the Trivia game",
-    "message": "Bermain Trivia: {0}"
-  },
-  "watchmojo.triviaGame": {
-    "description": "The round and score of the Trivia game the user is playing.",
-    "message": "Babak {0} dari {1} (Skor: {2}/{3})"
-  }
+	"watchmojo.triviaGame": {
+		"message": "Babak {0} dari {1} (Skor: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "Bermain Trivia: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.playingTrivia": {
+		"message": "Sedang bermain Trivia",
+		"description": "For privacy mode, \"a\" as in unspecified."
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "Mainkan Trivia",
+		"description": "Used as the title for the button in Discord."
+	}
 }
