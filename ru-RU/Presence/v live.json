@@ -1,94 +1,94 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Смотрит через"
-  },
-  "v live.channelBoard": {
-    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
-    "message": "Просмотр доски «{0}»"
-  },
-  "v live.channelList": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "список каналов"
-  },
-  "v live.channelMy": {
-    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
-    "message": "Смотрит страницу «my»"
-  },
-  "v live.channelSchedule": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Просмотр страницы расписания"
-  },
-  "v live.channelStore": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Просмотр страницы магазина"
-  },
-  "v live.charts": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "страница диаграмм"
-  },
-  "v live.coins": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "Баланс монетов"
-  },
-  "v live.devices": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "Подключенные устройства"
-  },
-  "v live.events": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "страница событий"
-  },
-  "v live.followed": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "отслеживаемые каналы"
-  },
-  "v live.newVid": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "новая страница видео"
-  },
-  "v live.ofChannel": {
-    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
-    "message": "канала {0}"
-  },
-  "v live.policies": {
-    "description": "",
-    "message": "Чтение политик"
-  },
-  "v live.product": {
-    "description": "{0} will be replaced with the name of the publisher of the product",
-    "message": "Просмотр товара из {0}"
-  },
-  "v live.profile": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "страница профиля"
-  },
-  "v live.profileEdit": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Редактирование{0}собственного профиля"
-  },
-  "v live.purchases": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "последние покупки"
-  },
-  "v live.recentUploads": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Просматривая их{0}подписчики недавние загрузки"
-  },
-  "v live.store": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "страница магазина"
-  },
-  "v live.upcoming": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "предстоящая страница"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "Смотрит"
-  },
-  "v live.watched": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "просмотренные видео"
-  }
+	"v live.browseThrough": {
+		"message": "Смотрит через",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "новая страница видео",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "страница диаграмм",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "предстоящая страница",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "список каналов",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "страница событий",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "страница магазина",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Просматривая их{0}подписчики недавние загрузки",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "канала {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelSchedule": {
+		"message": "Просмотр страницы расписания",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Смотрит страницу «my»",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Просмотр страницы магазина",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "Просмотр доски «{0}»",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "Просмотр товара из {0}",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.profileEdit": {
+		"message": "Редактирование{0}собственного профиля",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.viewTheir": {
+		"message": "Смотрит",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "страница профиля",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "просмотренные видео",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "последние покупки",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "Баланс монетов",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "Подключенные устройства",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "отслеживаемые каналы",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Чтение политик",
+		"description": ""
+	}
 }
