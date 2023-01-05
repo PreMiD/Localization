@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Praegu vaatan reklaami"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Esitusloendite sirvimine"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Sirvimine läbi"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Videote sirvimine"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "ajaloo"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "kogu"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "kanal:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "ostude"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Kanali kohta lugemine:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Aruannete ajaloo vaatamine"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Kanalil sirvimine: {0}:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "artisiti lehte"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanalianalüütika"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanali kommentaarid"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanalite tõlked"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Armatuurlaua vaatamine"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Video redigeerimine:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Video analüütika vaatamine:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Video kommentaaride vaatamine:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Video tõlgete vaatamine:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Vaatamine"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Videote vaatamine"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "tellimuste"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Trendide vaatamine"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Millegi üleslaadimine..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Kõigi esitusloendite vaatamine"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Heliteegi vaatamine"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Reaalajas armatuurlaua vaatamine"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Otseülekannete vaatamine"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Kogukonna postituste vaatamine"
-  }
+    "youtube.ad": {
+        "message": "Praegu vaatan reklaami",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Videote sirvimine",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Esitusloendite sirvimine",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Kogukonna postituste vaatamine",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "kanal:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Kanali kohta lugemine:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Kanalil sirvimine: {0}:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Trendide vaatamine",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Sirvimine läbi",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "tellimuste",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "kogu",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "ajaloo",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "ostude",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Aruannete ajaloo vaatamine",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Millegi üleslaadimine...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Kõigi esitusloendite vaatamine",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Otseülekannete vaatamine",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Reaalajas armatuurlaua vaatamine",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Heliteegi vaatamine",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Videote vaatamine",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Video redigeerimine:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Video analüütika vaatamine:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Video kommentaaride vaatamine:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Video tõlgete vaatamine:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Vaatamine",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanalianalüütika",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanali kommentaarid",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanalite tõlked",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "artisiti lehte",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Armatuurlaua vaatamine",
+        "description": ""
+    }
 }
