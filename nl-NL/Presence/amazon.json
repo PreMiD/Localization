@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Bekijkt zijn/haar adressen"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Bekijkt zijn/haar adprefs"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Bekijkt zijn/haar saldo"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "winkelwagen"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Bekijkt alle categorieën"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "cadeaukaarten"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Bekijkt zijn/haar geschiedenis"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "bestel informatie"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "bestelgeschiedenis"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Bekijkt de betaalmethodes"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Bekijkt zijn/haar huisdieren"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Bekijkt Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Bekijkt Prime Video:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Bekijkt wat er aanbevolen is"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Bekijkt winkel:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Bekijkt abonnementen"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Bekijkt eigen"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "verlanglijst"
-  }
+    "amazon.subscriptions": {
+        "message": "Bekijkt abonnementen",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Bekijkt zijn/haar adprefs",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Bekijkt zijn/haar saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Bekijkt de betaalmethodes",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Bekijkt zijn/haar adressen",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Bekijkt zijn/haar huisdieren",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Bekijkt alle categorieën",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Bekijkt Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Bekijkt eigen",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "bestelgeschiedenis",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "bestel informatie",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "winkelwagen",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "verlanglijst",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "cadeaukaarten",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Bekijkt wat er aanbevolen is",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Bekijkt zijn/haar geschiedenis",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Bekijkt winkel:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Bekijkt Prime Video:",
+        "description": ""
+    }
 }
