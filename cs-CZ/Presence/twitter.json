@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Záložky"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Prozkoumat"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Oznámení"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Čtení tweetu:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Mění nějaké nastavení..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Prohlížení jejich přímých zpráv"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Prohlíží lajky uživatele:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Prohlíží seznam:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Prohlíží média uživatele:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Prohlíží tweety uživatele:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Prohlíží tweety (s odpověďmi) uživatele:"
-  }
+	"twitter.readTweet": {
+		"message": "Čtení tweetu:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Prohlížení jejich přímých zpráv",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Prohlíží tweety uživatele:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Prohlíží tweety (s odpověďmi) uživatele:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Prohlíží média uživatele:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Prohlíží lajky uživatele:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Prohlíží seznam:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Záložky",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Oznámení",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Prozkoumat",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Mění nějaké nastavení...",
+		"description": ""
+	}
 }
