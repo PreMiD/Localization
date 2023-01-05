@@ -1,246 +1,246 @@
 {
-  "apple.appStoreCon": {
-    "description": "Connecting to the App Store",
-    "message": "Menyambung..."
-  },
-  "apple.btnViewApp": {
-    "description": "e.g. \"View App\"",
-    "message": "Lihat App"
-  },
-  "apple.btnViewDeveloper": {
-    "description": "View the developer of an app",
-    "message": "Lihat Pembangun"
-  },
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "Lihat Acara"
-  },
-  "apple.btnViewOS": {
-    "description": "e.g. \"View iOS 15\"",
-    "message": "Lihat {0}"
-  },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "Lihat Produk"
-  },
-  "apple.btnViewProfile": {
-    "description": "View a forum profile of a user",
-    "message": "Lihat Profil {0}"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "Lihat Perkhidmatan"
-  },
-  "apple.btnViewStudio": {
-    "description": "e.g. \"View Apple Watch Studio\"",
-    "message": "Lihat Studio {0}"
-  },
-  "apple.btnViewTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "Lihat Tag"
-  },
-  "apple.btnViewThread": {
-    "description": "View a forum thread",
-    "message": "Lihat Bebenang"
-  },
-  "apple.btnViewWWDC": {
-    "description": "e.g.: \"View WWDC21\"",
-    "message": "Lihat {0}"
-  },
-  "apple.chooseLang": {
-    "description": "Choosing the language of the website",
-    "message": "Memilih bahasa..."
-  },
-  "apple.comparing": {
-    "description": "e.g. \"Comparing: Apple Watch\"",
-    "message": "Membandingkan:"
-  },
-  "apple.contact": {
-    "description": "Contact support",
-    "message": "Menghubungi sokongan"
-  },
-  "apple.devDistribution": {
-    "description": "Distribute software to the App Store",
-    "message": "Mengedar perisian"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Pendokumenan"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Ciri-ciri"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Permainan"
-  },
-  "apple.devHIG": {
-    "description": "Guidelines for designing apps for the various Apple operating systems",
-    "message": "Panduan Antara Muka Manusia"
-  },
-  "apple.devNew": {
-    "description": "List of updates",
-    "message": "Apa yang baharu"
-  },
-  "apple.devNews": {
-    "description": "News and updates (that matter) for developers",
-    "message": "Berita dan Kemas Kini"
-  },
-  "apple.devPhonePad": {
-    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
-    "message": "App iPhone dan iPad"
-  },
-  "apple.devReleases": {
-    "description": "New iOS, iPadOS etc. releases",
-    "message": "Terbitan"
-  },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "Sumber"
-  },
-  "apple.devSubmit": {
-    "description": "Submit iOS and iPadOS apps to the App Store",
-    "message": "Cara menghantar app"
-  },
-  "apple.devVidTopic": {
-    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
-    "message": "Melayari topik video"
-  },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "Video"
-  },
-  "apple.forumCreateThread": {
-    "description": "Creating a forum thread",
-    "message": "Mencipta bebenang"
-  },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "Keutamaan"
-  },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "Pendaftaran"
-  },
-  "apple.forumTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "Tag Forum"
-  },
-  "apple.healthRecords": {
-    "description": "Health records of a person",
-    "message": "Rekod kesihatan"
-  },
-  "apple.healthcare": {
-    "description": "The organized provision of medical care to individuals or a community",
-    "message": "Penjagaan Kesihatan"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Kalendar"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Kenalan"
-  },
-  "apple.iCloudKeynoteWait": {
-    "description": "Before the keynote begins, you'll be in the waiting room",
-    "message": "Bilik menunggu"
-  },
-  "apple.iCloudMail": {
-    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Mail"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Nota"
-  },
-  "apple.iCloudPagesCreate": {
-    "description": "Creating a new Pages document",
-    "message": "Mencipta..."
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Foto"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Peringatan"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Lain-lain"
-  },
-  "apple.overview": {
-    "description": "Overview of e.g. all pages of a category",
-    "message": "Gambaran Keseluruhan"
-  },
-  "apple.productsPlatform": {
-    "description": "Products/platforms for companies",
-    "message": "Produk dan Platform"
-  },
-  "apple.purchasingAdvice": {
-    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
-    "message": "Nasihat pembelian"
-  },
-  "apple.shopAccessories": {
-    "description": "Accessories for Apple products (e.g iPhone case)",
-    "message": "Aksesori Apple"
-  },
-  "apple.shopBag": {
-    "description": "Shopping cart",
-    "message": "Beg Pembelian"
-  },
-  "apple.shopBagSummary": {
-    "description": "The total price of the items in your bag (shopping cart)",
-    "message": "Jumlah: {0}"
-  },
-  "apple.shopBands": {
-    "description": "Bands (Bracelets) for the Apple Watch",
-    "message": "Tali jam Apple Watch"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "Kegemaran"
-  },
-  "apple.shopGiftCards": {
-    "description": "Gift cards for e.g. the App Store",
-    "message": "Kad hadiah"
-  },
-  "apple.shopPlanVisit": {
-    "description": "Plan your visit to the Apple Store",
-    "message": "Rancang lawatan anda"
-  },
-  "apple.shopRefurbished": {
-    "description": "Used Apple products at a lower price",
-    "message": "Produk Diperbaharui Teraku"
-  },
-  "apple.shopStudio": {
-    "description": "Choose your own design components for a product",
-    "message": "Studio Apple Watch"
-  },
-  "apple.storeFinder": {
-    "description": "Tool used to find the nearest store",
-    "message": "Pencari kedai"
-  },
-  "apple.supplierResp": {
-    "description": "Information on human rights, health, safety, education, etc. of employees",
-    "message": "Tanggungjawab Pembekal"
-  },
-  "apple.support": {
-    "description": "Support for products, services/apps from Apple, etc.",
-    "message": "Sokongan Apple"
-  },
-  "apple.supportArticle": {
-    "description": "Support article",
-    "message": "Rencana Sokongan Apple"
-  },
-  "apple.viewEvent": {
-    "description": "Viewing an event (e.g. September event)",
-    "message": "Melihat Acara"
-  },
-  "apple.viewService": {
-    "description": "e.g. \"Viewing Service: Fitness+\"",
-    "message": "Melihat Perkhidmatan:"
-  }
+    "apple.comparing": {
+        "message": "Membandingkan:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "Melihat Perkhidmatan:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "Penjagaan Kesihatan",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "Produk dan Platform",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "Rekod kesihatan",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "Gambaran Keseluruhan",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Nasihat pembelian",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Pencari kedai",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "Melihat Acara",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "Tanggungjawab Pembekal",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
+    },
+    "apple.contact": {
+        "message": "Menghubungi sokongan",
+        "description": "Contact support"
+    },
+    "apple.chooseLang": {
+        "message": "Memilih bahasa...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "Lain-lain",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "Tali jam Apple Watch",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "Aksesori Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopStudio": {
+        "message": "Studio Apple Watch",
+        "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "Kegemaran",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Kad hadiah",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "Rancang lawatan anda",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "Produk Diperbaharui Teraku",
+        "description": "Used Apple products at a lower price"
+    },
+    "apple.shopBag": {
+        "message": "Beg Pembelian",
+        "description": "Shopping cart"
+    },
+    "apple.shopBagSummary": {
+        "message": "Jumlah: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "Sokongan Apple",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Rencana Sokongan Apple",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "Menyambung...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Mail",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Kenalan",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Kalendar",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Foto",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Nota",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Peringatan",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Mencipta...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Bilik menunggu",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "Apa yang baharu",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "Cara menghantar app",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "App iPhone dan iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "Mengedar perisian",
+        "description": "Distribute software to the App Store"
+    },
+    "apple.devDocs": {
+        "message": "Pendokumenan",
+        "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "Panduan Antara Muka Manusia",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
+    },
+    "apple.devResources": {
+        "message": "Sumber",
+        "description": "Apple Design Resources"
+    },
+    "apple.devFeatures": {
+        "message": "Ciri-ciri",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Permainan",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "Tag Forum",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumPreferences": {
+        "message": "Keutamaan",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "Mencipta bebenang",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "Pendaftaran",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "Video",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devVidTopic": {
+        "message": "Melayari topik video",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
+    },
+    "apple.devNews": {
+        "message": "Berita dan Kemas Kini",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Terbitan",
+        "description": "New iOS, iPadOS etc. releases"
+    },
+    "apple.btnViewProduct": {
+        "message": "Lihat Produk",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Lihat Perkhidmatan",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Lihat Acara",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "Lihat {0}",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewStudio": {
+        "message": "Lihat Studio {0}",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "Lihat App",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Lihat Pembangun",
+        "description": "View the developer of an app"
+    },
+    "apple.btnViewWWDC": {
+        "message": "Lihat {0}",
+        "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "Lihat Bebenang",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Lihat Tag",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "Lihat Profil {0}",
+        "description": "View a forum profile of a user"
+    }
 }
