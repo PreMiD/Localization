@@ -1,242 +1,242 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "قابلیت دسترسی"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "دستاوردها"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "فعالیت انجمن"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "تبلیغ های منتخب"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "برنامه بازاریابی Twitch"
-  },
-  "twitch.blogArchive": {
-    "description": "{0} will be replaced with the year",
-    "message": "نگاه کردن آرشیو {0} بلاگ"
-  },
-  "twitch.blogBrowse": {
-    "description": "",
-    "message": "گشتن در آخرین پست های بلاگ..."
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "بلاگ های Twitch"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "خواندن درباره برند Twitch..."
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "کمپین سازنده"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "آموختن مباحث پایه"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "تماس و همکاری"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "ارتقای سطح"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "آموزش آنلاین"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "موسیقی روی Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "پاداش دریافت کنید"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "تنظیم کردن استریم خودتان"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "تجزیه و تحلیل کانال"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "تنظیمات کانال"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "کلیپ‌ها"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "مجموعه فیلم ها"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "داشبورد سازنده"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "مدیریت استریمشان..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "توسعه دهندگان Twitch"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "مستندات توسعه دهندگان Twitch"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "محصولات توسعه دهندگان Twitch"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "داستان هایی موفقیت های انجمن"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "منابع مفید"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "دانلود ها"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "تنظیمات دراپ ها"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "درحال مشاهده ورزش های الکترونیکی..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "مشاهده افزونه‌ها"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "لیست دنبال کنندگان"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "قوانین و ضوابط انجمن"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "مرکز راهنمایی"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "مشاهده موضوع:"
-  },
-  "twitch.helpTopicCatalog": {
-    "description": "",
-    "message": "گشتن در لیست موضوعات..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "صفحه اصلی"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "مشاغل"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "مدیریت نقش های انجمن شان..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "نظارت برای استریمر:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "تنظیمات مدیریت"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "همکاران"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "مرکز اطلاع رسانی"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "در فیلم ساز..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "وارد کردن یک کد..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "امینت"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "نگاه کردن گروه..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "خلاصه استریم"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "درحال مشاهده اشتراک‌هایشان..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "مشاهده ابزار‌های استریم"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "توربو"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "درحال مشاهده دراپ های فعال..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "درحال مشاهده دراپ هایشان..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "درحال مشاهده افرادی که دنبال می‌کنم..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "درحال مشاهده دوستان..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "درحال مشاهده تنظیمات‌..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "مشاهده تیم:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "درحال مشاهده"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "درحال مشاهده کیف پول..."
-  }
+	"twitch.downloads": {
+		"message": "دانلود ها",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "مشاغل",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "توربو",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "همکاران",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "مرکز اطلاع رسانی",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "امینت",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "قابلیت دسترسی",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "تبلیغ های منتخب",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "قوانین و ضوابط انجمن",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "صفحه اصلی",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "درحال مشاهده کیف پول...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "درحال مشاهده ورزش های الکترونیکی...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "درحال مشاهده افرادی که دنبال می‌کنم...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "مشاهده تیم:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "درحال مشاهده دراپ هایشان...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "درحال مشاهده دراپ های فعال...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "درحال مشاهده تنظیمات‌...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "درحال مشاهده دوستان...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "درحال مشاهده اشتراک‌هایشان...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "نگاه کردن گروه...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "نظارت برای استریمر:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "وارد کردن یک کد...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "کمپین سازنده",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "آموختن مباحث پایه",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "تنظیم کردن استریم خودتان",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "ارتقای سطح",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "تماس و همکاری",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "پاداش دریافت کنید",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "موسیقی روی Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "آموزش آنلاین",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "داشبورد سازنده",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "مدیریت استریمشان...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "مدیریت نقش های انجمن شان...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "در فیلم ساز...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "درحال مشاهده",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "تجزیه و تحلیل کانال",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "خلاصه استریم",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "دستاوردها",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "فعالیت انجمن",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "لیست دنبال کنندگان",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "مجموعه فیلم ها",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "کلیپ‌ها",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "تنظیمات کانال",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "تنظیمات مدیریت",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "تنظیمات دراپ ها",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "مشاهده ابزار‌های استریم",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "مشاهده افزونه‌ها",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "خواندن درباره برند Twitch...",
+		"description": ""
+	},
+	"twitch.blogs": {
+		"message": "بلاگ های Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "نگاه کردن آرشیو {0} بلاگ",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "گشتن در آخرین پست های بلاگ...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "مرکز راهنمایی",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "مشاهده موضوع:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "گشتن در لیست موضوعات...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "برنامه بازاریابی Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "توسعه دهندگان Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "مستندات توسعه دهندگان Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "محصولات توسعه دهندگان Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "داستان هایی موفقیت های انجمن",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "منابع مفید",
+		"description": "Page name"
+	}
 }
