@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "gelikete albums"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "gelikete artiesten"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Beste podcasts"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Bladert door"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Bekijkt de grafieken"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Ontdekt nieuwe nummers"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Spotify aan het downloaden"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Aanbevolen nummers"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Bladert door de genres heen"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Bekijkt de laatste releases"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Gemaakt voor jou\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "zijn/haar afspeellijsten"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "gelikete podcasts"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "gelikete nummers"
-  }
+	"spotify.featured": {
+		"message": "Aanbevolen nummers",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Beste podcasts",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Bekijkt de grafieken",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Bladert door de genres heen",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Bekijkt de laatste releases",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Ontdekt nieuwe nummers",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Bladert door",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "gelikete podcasts",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "gelikete artiesten",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "gelikete albums",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "gelikete nummers",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Gemaakt voor jou\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "zijn/haar afspeellijsten",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify aan het downloaden",
+		"description": ""
+	}
 }
