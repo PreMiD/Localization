@@ -1,122 +1,122 @@
 {
-  "gmail.accountSetting": {
-    "description": "Displayed when the user is modifying their account's settings",
-    "message": "অ্যাকাউন্ট এবং ইম্পোর্ট সেটিংস কনফিগার করছে"
-  },
-  "gmail.addonsSettings": {
-    "description": "Displayed when the user is modifying their add-ons",
-    "message": "অ্যাড-অন কনফিগার করছে"
-  },
-  "gmail.advancedSettings": {
-    "description": "Displayed when the user is modifying their advanced settings",
-    "message": "উন্নত ফিচারের সেটিংস কনফিগার করছে"
-  },
-  "gmail.categoryForum": {
-    "description": "Displayed when viewing emails in the forums category.",
-    "message": "দেখছে ফোরাম ক্যাটাগরি"
-  },
   "gmail.categoryPrimary": {
-    "description": "Displayed when viewing emails in the primary category.",
-    "message": "দেখছে প্রাথমিক ক্যাটাগরি"
-  },
-  "gmail.categoryPromotions": {
-    "description": "Displayed when viewing emails in the promotions category.",
-    "message": "দেখছে প্রচার ক্যাটাগরি"
+    "message": "দেখছে প্রাথমিক ক্যাটাগরি",
+    "description": "Displayed when viewing emails in the primary category."
   },
   "gmail.categorySocial": {
-    "description": "Displayed when viewing emails in the social category.",
-    "message": "দেখছে সোশ্যাল ক্যাটাগরি"
+    "message": "দেখছে সোশ্যাল ক্যাটাগরি",
+    "description": "Displayed when viewing emails in the social category."
   },
   "gmail.categoryUpdates": {
-    "description": "Displayed when viewing emails in the updates category.",
-    "message": "দেখছে আপডেট ক্যাটাগরি"
+    "message": "দেখছে আপডেট ক্যাটাগরি",
+    "description": "Displayed when viewing emails in the updates category."
   },
-  "gmail.chatSettings": {
-    "description": "Displayed when the user is modifying their chat settings",
-    "message": "চ্যাট এবং Meet সেটিংস কনফিগার করছে"
+  "gmail.categoryPromotions": {
+    "message": "দেখছে প্রচার ক্যাটাগরি",
+    "description": "Displayed when viewing emails in the promotions category."
   },
-  "gmail.composingEmail": {
-    "description": "Displayed when the user is composing an email",
-    "message": "তৈরি করছে একটি ইমেল"
-  },
-  "gmail.filterSettings": {
-    "description": "Displayed when the user is modifying their filters and blocked addresses",
-    "message": "ফিল্টার এবং ব্লক করা ঠিকানা কনফিগার করছে"
-  },
-  "gmail.fwdAndPOPSettings": {
-    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
-    "message": "ফরওয়ার্ড করা ও POP/IMAP সেটিংস কনফিগার করছে"
-  },
-  "gmail.generalSettings": {
-    "description": "Displayed when the user is modifying their settings",
-    "message": "সাধারণ সেটিংস কনফিগার করছে"
+  "gmail.categoryForum": {
+    "message": "দেখছে ফোরাম ক্যাটাগরি",
+    "description": "Displayed when viewing emails in the forums category."
   },
   "gmail.inLabel": {
-    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
-    "message": "দেখছে বিভাগ"
+    "message": "দেখছে বিভাগ",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
   },
-  "gmail.inboxSettings": {
-    "description": "Displayed when the user is modifying their inbox settings",
-    "message": "ইনবক্স সেটিংস কনফিগার করছে"
+  "gmail.generalSettings": {
+    "message": "সাধারণ সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their settings"
   },
   "gmail.labelSettings": {
-    "description": "Displayed when the user is modifying their labels",
-    "message": "লেবেল সেটিংস কনফিগার করছে"
+    "message": "লেবেল সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their labels"
   },
-  "gmail.lookingForEmail": {
-    "description": "Displayed when the user is searching for an email",
-    "message": "একটি ইমেল খুঁজছে"
+  "gmail.inboxSettings": {
+    "message": "ইনবক্স সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "অ্যাকাউন্ট এবং ইম্পোর্ট সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "ফিল্টার এবং ব্লক করা ঠিকানা কনফিগার করছে",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "ফরওয়ার্ড করা ও POP/IMAP সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "অ্যাড-অন কনফিগার করছে",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "চ্যাট এবং Meet সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "উন্নত ফিচারের সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their advanced settings"
   },
   "gmail.offlineSettings": {
-    "description": "Displayed when the user is modifying their offline settings",
-    "message": "অফলাইন সেটিংস কনফিগার করছে"
+    "message": "অফলাইন সেটিংস কনফিগার করছে",
+    "description": "Displayed when the user is modifying their offline settings"
   },
   "gmail.themesSettings": {
-    "description": "Displayed when the user is modifying their theme in the settings",
-    "message": "একটি থিম বাছাই করছে"
+    "message": "একটি থিম বাছাই করছে",
+    "description": "Displayed when the user is modifying their theme in the settings"
   },
-  "gmail.viewingAllEmails": {
-    "description": "Displayed when the user is viewing all their emails",
-    "message": "দেখছে সব ইমেলগুলো"
-  },
-  "gmail.viewingChats": {
-    "description": "Displayed when the user is viewing their chats",
-    "message": "দেখছে চ্যাট"
-  },
-  "gmail.viewingDrafts": {
-    "description": "Displayed when the user is viewing their drafts",
-    "message": "দেখছে খসড়াগুলো"
+  "gmail.lookingForEmail": {
+    "message": "একটি ইমেল খুঁজছে",
+    "description": "Displayed when the user is searching for an email"
   },
   "gmail.viewingEmail": {
-    "description": "Displayed when the user is viewing an email",
-    "message": "দেখছে একটি ইমেল"
-  },
-  "gmail.viewingImportantEmails": {
-    "description": "Displayed when the user is viewing emails marked as important",
-    "message": "দেখছে গুরুত্বপূর্ণ ইমেলগুলো"
-  },
-  "gmail.viewingScheduled": {
-    "description": "Displayed when the user is viewing their scheduled emails",
-    "message": "দেখছে সিডিউল করা ইমেলগুলো"
-  },
-  "gmail.viewingSentEmails": {
-    "description": "Displayed when the user is viewing the emails they have sent",
-    "message": "দেখছে পাঠানো হয়েছে ইমেলগুলো"
-  },
-  "gmail.viewingSnoozedEmails": {
-    "description": "Displayed when the user is viewing their snoozed emails",
-    "message": "দেখছে স্নুজ করা হয়েছে ইমেলগুলো"
-  },
-  "gmail.viewingSpam": {
-    "description": "Displayed when the user is viewing their spam",
-    "message": "দেখছে স্প্যাম ইমেলগুলো"
+    "message": "দেখছে একটি ইমেল",
+    "description": "Displayed when the user is viewing an email"
   },
   "gmail.viewingStarredEmails": {
-    "description": "Displayed when the user is viewing emails marked with a star",
-    "message": "দেখছে তারা চিহ্নিত ইমেলগুলো"
+    "message": "দেখছে তারা চিহ্নিত ইমেলগুলো",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "দেখছে পাঠানো হয়েছে ইমেলগুলো",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "দেখছে স্নুজ করা হয়েছে ইমেলগুলো",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "দেখছে খসড়াগুলো",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "দেখছে গুরুত্বপূর্ণ ইমেলগুলো",
+    "description": "Displayed when the user is viewing emails marked as important"
   },
   "gmail.viewingTrash": {
-    "description": "Displayed when the user is viewing their trash",
-    "message": "দেখছে ট্র্যাশ"
+    "message": "দেখছে ট্র্যাশ",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "দেখছে চ্যাট",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "দেখছে সিডিউল করা ইমেলগুলো",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "দেখছে স্প্যাম ইমেলগুলো",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "দেখছে সব ইমেলগুলো",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "তৈরি করছে একটি ইমেল",
+    "description": "Displayed when the user is composing an email"
   }
 }
