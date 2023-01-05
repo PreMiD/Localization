@@ -1,70 +1,70 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Lakcímeit nézi"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Az egyenlegét nézi"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "bevásárló kosárt"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Az összes kategóriát nézi"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ajándékkártyákat"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Az előzményét nézi"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "megrendelés részleteit"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "rendelési előzményeket"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Fizetési lehetőségeket néz"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Háziállatait nézi"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Amazon Prime-ot néz"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Prime videót néz:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Ajánlottakat néz"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Boltot néz:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Előfizetéseit nézi"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Nézi a(z)"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "kívánságlistát"
-  }
+    "amazon.subscriptions": {
+        "message": "Előfizetéseit nézi",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Az egyenlegét nézi",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Fizetési lehetőségeket néz",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Lakcímeit nézi",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Háziállatait nézi",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Az összes kategóriát nézi",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Amazon Prime-ot néz",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Nézi a(z)",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "rendelési előzményeket",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "megrendelés részleteit",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "bevásárló kosárt",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "kívánságlistát",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "ajándékkártyákat",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Ajánlottakat néz",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Az előzményét nézi",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Boltot néz:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Prime videót néz:",
+        "description": ""
+    }
 }
