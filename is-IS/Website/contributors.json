@@ -1,14 +1,14 @@
 {
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "Starfsmaður"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Stuðningar"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "Þýðingar"
-  }
+	"contributors.headings.staff": {
+		"message": "Starfsmaður",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Stuðningar",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "Þýðingar",
+		"description": "Heading for group of users."
+	}
 }
