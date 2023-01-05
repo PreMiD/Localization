@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Melihat alamat miliknya"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Melihat keutamaan iklan miliknya"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Melihat baki miliknya"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "troli membeli-belah"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Melihat kesemua kategori"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "kad hadiah"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Melihat sejarahnya"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "maklumat pesanan"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "sejarah pesanan"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Melihat kaedah pembayaran"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Melihat haiwan peliharaannya"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Melihat Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Melihat Video Prime:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Melihat saranan"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Melihat kedai:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Melihat langganannya"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Melihat"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "senarai impian"
-  }
+    "amazon.subscriptions": {
+        "message": "Melihat langganannya",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Melihat keutamaan iklan miliknya",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Melihat baki miliknya",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Melihat kaedah pembayaran",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Melihat alamat miliknya",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Melihat haiwan peliharaannya",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Melihat kesemua kategori",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Melihat Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Melihat",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "sejarah pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "maklumat pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "troli membeli-belah",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "senarai impian",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "kad hadiah",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Melihat saranan",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Melihat sejarahnya",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Melihat kedai:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Melihat Video Prime:",
+        "description": ""
+    }
 }
