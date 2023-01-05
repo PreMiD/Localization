@@ -1,14 +1,14 @@
 {
   "animepahe.latestRelease": {
-    "description": "Recently released content, can be new or old anime, its just new to the site",
-    "message": "Siste utgivelser"
+    "message": "Siste utgivelser",
+    "description": "Recently released content, can be new or old anime, its just new to the site"
   },
   "animepahe.season": {
-    "description": "TV show/series season eg. Season 5 of The Flash",
-    "message": "Sesong"
+    "message": "Sesong",
+    "description": "TV show/series season eg. Season 5 of The Flash"
   },
   "animepahe.timeSeason": {
-    "description": "Time Season eg. The season is now Winter",
-    "message": "Sesong"
+    "message": "Sesong",
+    "description": "Time Season eg. The season is now Winter"
   }
 }
