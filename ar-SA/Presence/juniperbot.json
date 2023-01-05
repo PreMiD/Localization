@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "ينظر إلى قائمة الأوامر"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "يقرأ عن ملقات تعريف الارتباط الخاصة بالموقع"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "يقرأ معلومات عن خطط التبرع"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "يشاهد لوحة صدارة سيرفر:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "الصفحة الرئيسية"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "في لوحة التحكم"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "السيرفر: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "يحدد السيرفر"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "ينظر إلى إحصائيات البوت"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "يخصص بطاقة الرانك"
-  }
+    "juniperbot.mainpage": {
+        "message": "الصفحة الرئيسية",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "يشاهد لوحة صدارة سيرفر:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "في لوحة التحكم",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "السيرفر: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "يقرأ معلومات عن خطط التبرع",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "يحدد السيرفر",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "ينظر إلى قائمة الأوامر",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "ينظر إلى إحصائيات البوت",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "يخصص بطاقة الرانك",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "يقرأ عن ملقات تعريف الارتباط الخاصة بالموقع",
+        "description": "Reading about the site's cookies"
+    }
 }
