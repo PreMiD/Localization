@@ -1,14 +1,14 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Ndheleng papan:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Ndheleng pengikut"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Ndheleng pin"
-  }
+    "pinterest.board": {
+        "message": "Ndheleng papan:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Ndheleng pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Ndheleng pengikut",
+        "description": ""
+    }
 }
