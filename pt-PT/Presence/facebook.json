@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "os adicionados recentemente"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "A ver"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Numa chamada com"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "os vídeos gravados"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "A ler sobre"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "A ver a comunidade de"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "A ver os amigos de"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "alguém (utilizador escondido)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "A ver as fotos de"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "A ver as publicações de"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "A ver a loja de"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "A ver os vídeos de"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Numa videochamada com"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "A ver o tempo de hoje"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "A escrever uma mensagem"
-  }
+    "facebook.call": {
+        "message": "Numa chamada com",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Numa videochamada com",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "alguém (utilizador escondido)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "A escrever uma mensagem",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "A ler sobre",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "A ver a comunidade de",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "A ver as fotos de",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "A ver as publicações de",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "A ver a loja de",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "A ver os amigos de",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "A ver os vídeos de",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "A ver",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "os vídeos gravados",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "os adicionados recentemente",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "A ver o tempo de hoje",
+        "description": ""
+    }
 }
