@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "Ωχ όχι!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Διακομιστής Discord"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "Δυστυχώς, αντιμετωπίζουμε ορισμένες τεχνικές δυσκολίες. Θα επιστρέψουμε σύντομα. Λυπούμαστε για την ταλαιπωρία."
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "Σας παρακαλώ να επιστρέψετε αργότερα για περισσότερες πληροφορίες."
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "Μέχρι τους ειδικούς προγραμματιστές μας καθορίσει αυτό, αισθανθείτε ελεύθεροι να ρίξετε μια ματιά εδώ!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "Σελίδα Κατάστασης"
-  }
+	"maintenance.big": {
+		"message": "Ωχ όχι!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Δυστυχώς, αντιμετωπίζουμε ορισμένες τεχνικές δυσκολίες. Θα επιστρέψουμε σύντομα. Λυπούμαστε για την ταλαιπωρία.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Σας παρακαλώ να επιστρέψετε αργότερα για περισσότερες πληροφορίες.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Μέχρι τους ειδικούς προγραμματιστές μας καθορίσει αυτό, αισθανθείτε ελεύθεροι να ρίξετε μια ματιά εδώ!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Σελίδα Κατάστασης",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Διακομιστής Discord",
+		"description": "Discord Server link on maintenance page"
+	}
 }
