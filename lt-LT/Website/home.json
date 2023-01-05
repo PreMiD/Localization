@@ -1,74 +1,74 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "Žaidžia žaidimą"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Naršo..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Tiesiogiai"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Atkūrimas"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "Liko {0}"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "Jums patiks šios funkcijos!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "Raskite ** savo ** statusą"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "Kažkas sugedo, siunčia daugybę klaidų ar paprasčiausiai neveikia? Mes padėsime jums atsikratyti šių problemų mūsų „Discord“ serveryje. Mes taip pat sukūrėme savo palaikymo sistemą, kuri užtikrins, kad jūsų problema būtų išspręsta kuo greičiau."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "Greita pagalba"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "Atsibodo sudėtingos vartotojo sąsajos? Štai kodėl mes sukūrėme ir stengiamės, kad mūsų vartotojo sąsaja būtų kuo paprastesnė ir naudingesnė su tokiomis svarbiomis funkcijomis kaip:"
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "Programos ir plėtinio nustatymai"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Statusų valdymas"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "Rūšiuoti pagal nurodytą kategoriją"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "Paprasta vartotojo sąsaja"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "Siuntiniai"
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "Ypatybės"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "** „PreMiD“ ** yra paprastas, konfigūruojamas įrankis, leidžiantis rodyti, ką darote savo naršyklėje, naudodamiesi Discord būsena."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "Sveitainės kalba"
-  }
+	"home.introduction.paragraph": {
+		"message": "** „PreMiD“ ** yra paprastas, konfigūruojamas įrankis, leidžiantis rodyti, ką darote savo naršyklėje, naudodamiesi Discord būsena.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Ypatybės",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Siuntiniai",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Žaidžia žaidimą",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "Liko {0}",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Atkūrimas",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Tiesiogiai",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Naršo...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Jums patiks šios funkcijos!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Raskite ** savo ** statusą",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Paprasta vartotojo sąsaja",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Atsibodo sudėtingos vartotojo sąsajos? Štai kodėl mes sukūrėme ir stengiamės, kad mūsų vartotojo sąsaja būtų kuo paprastesnė ir naudingesnė su tokiomis svarbiomis funkcijomis kaip:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Programos ir plėtinio nustatymai",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Statusų valdymas",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Rūšiuoti pagal nurodytą kategoriją",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Greita pagalba",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Kažkas sugedo, siunčia daugybę klaidų ar paprasčiausiai neveikia? Mes padėsime jums atsikratyti šių problemų mūsų „Discord“ serveryje. Mes taip pat sukūrėme savo palaikymo sistemą, kuri užtikrins, kad jūsų problema būtų išspręsta kuo greičiau.",
+		"description": "Features section description"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Sveitainės kalba",
+		"description": "Tippy content of the language selector."
+	}
 }
