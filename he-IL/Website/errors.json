@@ -1,6 +1,6 @@
 {
-  "user.notFound.heading": {
-    "description": "Error when user couldn't be found.",
-    "message": "המשתמש הזה לא נמצא. נסה לוודא"
-  }
+	"user.notFound.heading": {
+		"message": "המשתמש הזה לא נמצא. נסה לוודא",
+		"description": "Error when user couldn't be found."
+	}
 }
