@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "Presence 추가"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "이 Presence는 해당 사이트를 방문할 때 자동으로 사용돼요."
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "Presence 제거"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "제작자"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "이 Presence는 추가 단계가 필요해요. 자세한 정보는 확장 프로그램의 페이지를 확인하세요."
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "파트너 Presence"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "이 Presence는 사용자 사이에서 인기 있어요."
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "전체"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "성인 콘텐츠 보기"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "필터"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "좋아요한 Presence만 보기"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "최다 사용순으로 정렬"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "게임"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "카테고리"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "음악"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "기타"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "SNS"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "동영상 및 방송"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "추가한 Presence 보기"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "Presence 검색"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "확장 프로그램이 연결되지 않았어요."
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "검색"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "Enter"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "클릭해서 필터 삭제"
-  }
+	"store.message.error": {
+		"message": "확장 프로그램이 연결되지 않았어요.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "제작자",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "이 Presence는 사용자 사이에서 인기 있어요.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "파트너 Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "이 Presence는 추가 단계가 필요해요. 자세한 정보는 확장 프로그램의 페이지를 확인하세요.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Presence 검색",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Presence 추가",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Presence 제거",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "이 Presence는 해당 사이트를 방문할 때 자동으로 사용돼요.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "필터",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "최다 사용순으로 정렬",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "성인 콘텐츠 보기",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "좋아요한 Presence만 보기",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "추가한 Presence 보기",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "카테고리",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "전체",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "게임",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "음악",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "SNS",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "동영상 및 방송",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "기타",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "검색",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "클릭해서 필터 삭제",
+		"description": "Remove message for active search filters."
+	}
 }
