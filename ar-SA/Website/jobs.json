@@ -1,110 +1,110 @@
 {
-  "jobs.benefit1.description": {
-    "description": "Benefit card description.",
-    "message": "تواصل مع الأشخاص وراء PreMiD."
-  },
-  "jobs.benefit1.title": {
-    "description": "Benefit card title.",
-    "message": "قابلنا"
-  },
-  "jobs.benefit2.description": {
-    "description": "Benefit card description.",
-    "message": "ألقي نظرة على البرمجة والتسويق لدينا."
-  },
-  "jobs.benefit2.title": {
-    "description": "Benefit card title.",
-    "message": "نظرة خاطفة"
-  },
-  "jobs.benefit3.description": {
-    "description": "Benefit card description.",
-    "message": "أذونات ديسكورد قوية ورول ملون."
-  },
-  "jobs.benefit3.title": {
-    "description": "Benefit card title.",
-    "message": "الشرف"
-  },
-  "jobs.benefit4.description": {
-    "description": "Benefit card description.",
-    "message": "مع مساعدتك يمكنك تشغيل هذا المشروع."
-  },
-  "jobs.benefit4.title": {
-    "description": "Benefit card title.",
-    "message": "إدعم PreMiD"
-  },
-  "jobs.benefit5.description": {
-    "description": "Benefit card description.",
-    "message": "خذ وقتك. هذا العمل تطوعي."
-  },
-  "jobs.benefit5.title": {
-    "description": "Benefit card title.",
-    "message": "انتهاء المهلة"
-  },
-  "jobs.benefit6.description": {
-    "description": "Benefit card description.",
-    "message": "اختبر الميزات الجديدة قبل أي شخص اخر."
-  },
-  "jobs.benefit6.title": {
-    "description": "Benefit card title.",
-    "message": "الوصول المبكر"
-  },
-  "jobs.benefits.title": {
-    "description": "Text before the benefits cards.",
-    "message": "الفوائد العالية"
-  },
-  "jobs.errors.alreadyApplied": {
-    "description": "Notification when you applied already.",
-    "message": "لقد سبق لك أن قدمت طلب!"
-  },
-  "jobs.guild.explanation": {
-    "description": "Explanation why users should be in Discord server to perform job application.",
-    "message": "لتتمكن من التقديم يجب عليك الانضمام إلى سيرفر الديسكورد الخاص بنا. وإلا فلن نتمكن من التواصل بك إذا تم اختيارك في النهاية!"
-  },
-  "jobs.guild.required": {
-    "description": "Title of the modal the user will see if it's not in Discord server.",
-    "message": "انضم إلى الديسكورد الخاص بنا"
-  },
-  "jobs.header.description": {
-    "description": "The second part of the jobs page.",
-    "message": "هل انت مستعد لمساعدة اكبر برنامج Rich-Presence؟"
-  },
-  "jobs.header.title": {
-    "description": "First part of the jobs page.",
-    "message": "العمل لحساب PreMiD"
-  },
-  "jobs.modal.buttons.cancel": {
-    "description": "Cancel, button in the modal.",
-    "message": "إلغاء"
-  },
-  "jobs.modal.buttons.join": {
-    "description": "Join Discord button in the modal.",
-    "message": "إنضم"
-  },
-  "jobs.modal.buttons.next": {
-    "description": "Next button in the modal.",
-    "message": "التالي"
-  },
-  "jobs.modal.error": {
-    "description": "Error when user did not fill all the fields.",
-    "message": "يُرجى إكمال كافة الحقول"
-  },
-  "jobs.modal.notice": {
-    "description": "Notice for applicants.",
-    "message": "PreMiD هو مشروع مفتوح المصدر، مما يعني أننا فريق غير هادف للربح، كل تبرع أو مال ربحي يعود إلى المنتج. من خلال التقدم للحصول على وظيفة في PreMiD، فإنك تقر بأنك تتطوع في الفريق، ولن يتم الدفع لك مقابل عملك."
-  },
-  "jobs.modal.step": {
-    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
-    "message": "الخطوة {0} من 2"
-  },
-  "jobs.modal.title": {
-    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
-    "message": "تقديم لـ {0}"
-  },
-  "jobs.openings.title": {
-    "description": "Text before the available job positions cards.",
-    "message": "الوظائف الشاغرة"
-  },
-  "jobs.success.applied": {
-    "description": "Notification when applying.",
-    "message": "شكرًا لك على تقديم الطلب!"
-  }
+	"jobs.modal.title": {
+		"message": "تقديم لـ {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "الخطوة {0} من 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "التالي",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "إنضم",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "إلغاء",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "يُرجى إكمال كافة الحقول",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD هو مشروع مفتوح المصدر، مما يعني أننا فريق غير هادف للربح، كل تبرع أو مال ربحي يعود إلى المنتج. من خلال التقدم للحصول على وظيفة في PreMiD، فإنك تقر بأنك تتطوع في الفريق، ولن يتم الدفع لك مقابل عملك.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "انضم إلى الديسكورد الخاص بنا",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "لتتمكن من التقديم يجب عليك الانضمام إلى سيرفر الديسكورد الخاص بنا. وإلا فلن نتمكن من التواصل بك إذا تم اختيارك في النهاية!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "العمل لحساب PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "هل انت مستعد لمساعدة اكبر برنامج Rich-Presence؟",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "الوظائف الشاغرة",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "الفوائد العالية",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "قابلنا",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "تواصل مع الأشخاص وراء PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "نظرة خاطفة",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "ألقي نظرة على البرمجة والتسويق لدينا.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "الشرف",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "أذونات ديسكورد قوية ورول ملون.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "إدعم PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "مع مساعدتك يمكنك تشغيل هذا المشروع.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "انتهاء المهلة",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "خذ وقتك. هذا العمل تطوعي.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "الوصول المبكر",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "اختبر الميزات الجديدة قبل أي شخص اخر.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "شكرًا لك على تقديم الطلب!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "لقد سبق لك أن قدمت طلب!",
+		"description": "Notification when you applied already."
+	}
 }
