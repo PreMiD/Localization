@@ -1,150 +1,150 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Trenger du hjelp?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Presence-butikk"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Alle"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Anime"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Spill"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Musikk"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Andre"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Sosiale medier"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Videoer og direktesendinger"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Å nei!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Feil under innlasting av bidragsytere"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Beskrivelse"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Generelt"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Presences"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Innstillinger"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Ingen nettverksforbindelse!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Det ser ut som du ikke har noen nettverksforbindelse! PreMiD vil ikke kunne vise presences for øyeblikket."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Ikke tilkoblet"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD hadde problemer med å koble til programmet sitt! Er den installert og åpen? *Feilsøker*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Ingen Discord-forbindelse!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD kunne ikke koble til Discord-programmet ditt! Er du sikker på at du har installert programmet og åpnet den? *Feilsøker*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Utdatert utvidelse"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Utvidelsen din er utdatert. Vennligst last ned den nyeste oppdateringen fra nettsiden vår for å få tilgang til de nyeste funksjonene."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Viktig oppdatering"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "Vi har lansert en viktig oppdatering for utvidelsen. Vennligst oppdater den for å fortsette å bruke PreMiD."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Utdatert program"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "PreMiD-appen din er utdatert. Vennligst oppdater den for å fortsette å bruke PreMiD."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Bidragsytere"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Innstillinger"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Ferdig"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Last inn Presence"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Administrer"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Ingen Presences lagt til"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Automatisk oppstart"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Aktivert"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Mediakontroller"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Tittelmenybar"
-  }
+	"popup.navigation.settings": {
+		"message": "Innstillinger",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "Bidragsytere",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "Innstillinger",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "Generelt",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "Beskrivelse",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "Aktivert",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Mediakontroller",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "Tittelmenybar",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "Automatisk oppstart",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Presences",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "Administrer",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "Ingen Presences lagt til",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "Ferdig",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Last inn Presence",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Presence-butikk",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Trenger du hjelp?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Å nei!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "Feil under innlasting av bidragsytere",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Ikke tilkoblet",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD hadde problemer med å koble til programmet sitt! Er den installert og åpen? *Feilsøker*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Utdatert program",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "PreMiD-appen din er utdatert. Vennligst oppdater den for å fortsette å bruke PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Utdatert utvidelse",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Utvidelsen din er utdatert. Vennligst last ned den nyeste oppdateringen fra nettsiden vår for å få tilgang til de nyeste funksjonene.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Viktig oppdatering",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Vi har lansert en viktig oppdatering for utvidelsen. Vennligst oppdater den for å fortsette å bruke PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Ingen nettverksforbindelse!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Det ser ut som du ikke har noen nettverksforbindelse! PreMiD vil ikke kunne vise presences for øyeblikket.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Ingen Discord-forbindelse!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD kunne ikke koble til Discord-programmet ditt! Er du sikker på at du har installert programmet og åpnet den? *Feilsøker*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "Alle",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Musikk",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Spill",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Sosiale medier",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Videoer og direktesendinger",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Andre",
+		"description": "Category name shown when you open tags"
+	}
 }
