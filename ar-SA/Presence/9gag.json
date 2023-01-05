@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "جاري قراءة كل ما يدور حول 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "جاري مشاهدة مجموعة:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "جاري مشاهدة ما هو طازج"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "جاري مشاهدة gag:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "جاري مشاهدة ما هو ساخن"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "جاري مشاهدة الصفحة الرئيسية"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "جاري مشاهدة العلامة:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "جاري مشاهدة ما هو رائج"
-  }
+    "9gag.gag": {
+        "message": "جاري مشاهدة gag:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "جاري مشاهدة ما هو ساخن",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "جاري مشاهدة ما هو رائج",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "جاري مشاهدة ما هو طازج",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "جاري مشاهدة العلامة:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "جاري قراءة كل ما يدور حول 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "جاري مشاهدة الصفحة الرئيسية",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "جاري مشاهدة مجموعة:",
+        "description": ""
+    }
 }
