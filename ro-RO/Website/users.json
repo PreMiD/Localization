@@ -1,38 +1,38 @@
 {
-  "user.geniusPresenceDev.message1": {
-    "description": "'Genuis Presence Developer' tippy description for user pages.",
-    "message": "Dezvoltator Geniu de Prezențe"
-  },
-  "user.geniusPresenceDev.message2": {
-    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
-    "message": "A creat peste 100 de Prezențe!"
-  },
-  "user.importantPresenceDev.message1": {
-    "description": "'Important Presence Developer' tippy description for user pages.",
-    "message": "Dezvoltator Important de Prezențe"
-  },
-  "user.importantPresenceDev.message2": {
-    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
-    "message": "A creat {0} prezențe."
-  },
-  "user.presences.contributed": {
-    "description": "Tippy content (mode 2) in user profile.",
-    "message": "Click aici pentru a afișa Prezențele la care a contribuit acest utilizator."
-  },
-  "user.presences.created": {
-    "description": "Tippy content in user profile.",
-    "message": "Click aici pentru a afișa Prezențele create de acest utilizator."
-  },
-  "user.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for user pages.",
-    "message": "Dezvoltator Prezență"
-  },
-  "user.roles.presenceVerifier": {
-    "description": "'Presence Verifier' title for user pages.",
-    "message": "Verificator de prezențe"
-  },
-  "user.switch.contributed": {
-    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
-    "message": "Utilizator [Prezențe/contribuții]"
-  }
+	"user.roles.presenceDeveloper": {
+		"message": "Dezvoltator Prezență",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Verificator de prezențe",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Dezvoltator Important de Prezențe",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "A creat {0} prezențe.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Dezvoltator Geniu de Prezențe",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "A creat peste 100 de Prezențe!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Utilizator [Prezențe/contribuții]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Click aici pentru a afișa Prezențele create de acest utilizator.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Click aici pentru a afișa Prezențele la care a contribuit acest utilizator.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
 }
