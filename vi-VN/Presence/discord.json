@@ -1,186 +1,186 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Discord Blog"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Thương hiệu"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Đang duyệt qua"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem liên kết mời"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Đang xem trong kênh:{0}{1} (Máy chủ:{2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Đang nhắn trong kênh:{0}{1} (Máy chủ:{2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Cao đẳng"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Giới thiệu"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "Đang duyệt qua app của họ"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "Đang chỉnh sửa app: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "Đang đọc tư liệu"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "Cổng dành cho nhà phát triển"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "Đang duyệt qua các máy chủ của họ"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "Đang xem thông tin chi tiết về máy chủ: {0}"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "Đang duyệt qua các nhóm của họ"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "Đang sửa đổi nhóm: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Đang đọc tin nhắn riêng trong nhóm:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Đang nhắn riêng trong group:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Đang đọc tin nhắn riêng từ:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Đang nhắn riêng đến:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Tải xuống"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Đang xem danh sách bạn bè..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Cảm hứng"
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "Đang xem liên kết mời:{0}{1} (Máy chủ: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Đang xem liên kết mời{0}của máy chủ: {1}"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Công việc"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discord Merch"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Đang xem bộ sưu tập:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Quản lý"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Phòng tin tức"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "Đang đọc thông tin về Nitro..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Mã nguồn mở"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Đối tác"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "chính sách"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Rich Presence"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Trung tâm An toàn"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Bảo mật"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Đang xem phần cài đặt{0}của máy chủ: {1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Đang xem cài đặt..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Trạng thái Discord"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang StreamKit"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Trung tâm Trợ giúp"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang Xác minh"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Đã kết nối giọng nói đến:{0}{1} (Máy chủ:{2})"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "Đã kết nối giọng nói với:{0}{1}"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang \"Tại sao nên sử dụng Discord?\""
-  }
+	"discord.channelReading": {
+		"message": "Đang xem trong kênh:{0}{1} (Máy chủ:{2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Đang nhắn trong kênh:{0}{1} (Máy chủ:{2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "Đang đọc tin nhắn riêng từ:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Đang nhắn riêng đến:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Đang đọc tin nhắn riêng trong nhóm:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Đang nhắn riêng trong group:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "Đang xem danh sách bạn bè...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Đang đọc thông tin về Nitro...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "Đã kết nối giọng nói với:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "Đã kết nối giọng nói đến:{0}{1} (Máy chủ:{2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "Đang xem cài đặt...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Đang xem phần cài đặt{0}của máy chủ: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "Đang xem liên kết mời:{0}{1} (Máy chủ: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "Đang xem liên kết mời{0}của máy chủ: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Xem liên kết mời",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Đang duyệt qua",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "trang Tải xuống",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "trang \"Tại sao nên sử dụng Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "trang Trung tâm An toàn",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "trang Công việc",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "trang Giới thiệu",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "trang Thương hiệu",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "trang Cảm hứng",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "trang Cao đẳng",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "trang Phòng tin tức",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "trang Đối tác",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "trang Xác minh",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "trang StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "trang Mã nguồn mở",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "trang Bảo mật",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "trang Quản lý",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "trang Rich Presence",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "chính sách",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Cổng dành cho nhà phát triển",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Đang duyệt qua app của họ",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Đang chỉnh sửa app: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Đang duyệt qua các nhóm của họ",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Đang sửa đổi nhóm: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Đang duyệt qua các máy chủ của họ",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Đang xem thông tin chi tiết về máy chủ: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Đang đọc tư liệu",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Trạng thái Discord",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Trung tâm Trợ giúp",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord Blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Đang xem bộ sưu tập:",
+		"description": ""
+	}
 }
