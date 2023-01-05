@@ -1,38 +1,38 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Bokmerker"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Utforsk"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Varslinger"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Endrer noen instillinger..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Ser deres direkte meldinger"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Ser likt av:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Ser listen av:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Ser tweetene til:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Ser tweeten (med svar) til:"
-  }
+	"twitter.viewDms": {
+		"message": "Ser deres direkte meldinger",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Ser tweetene til:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Ser tweeten (med svar) til:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Ser likt av:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Ser listen av:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Bokmerker",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Varslinger",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Utforsk",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Endrer noen instillinger...",
+		"description": ""
+	}
 }
