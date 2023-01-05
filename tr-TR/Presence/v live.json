@@ -1,98 +1,98 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Araştırıyor"
-  },
-  "v live.channelBoard": {
-    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
-    "message": "\"{0}\" panosunu görüntülüyor"
-  },
-  "v live.channelHome": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Ana sayfayı görüntülüyor"
-  },
-  "v live.channelList": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "kanalların listesi"
-  },
-  "v live.channelMy": {
-    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
-    "message": "\"Benim\" sayfasını görüntülüyor"
-  },
-  "v live.channelSchedule": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Zamanlama sayfasını görüntülüyor"
-  },
-  "v live.channelStore": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Mağaza sayfasını görüntülüyor"
-  },
-  "v live.charts": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "grafikler sayfası"
-  },
-  "v live.coins": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "nakit bakiye"
-  },
-  "v live.devices": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "bağlı cihazlar"
-  },
-  "v live.events": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "etkinlikler sayfası"
-  },
-  "v live.followed": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "takip edilen kanallar"
-  },
-  "v live.newVid": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "yeni videolar sayfası"
-  },
-  "v live.ofChannel": {
-    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
-    "message": "{0} kanalı"
-  },
-  "v live.policies": {
-    "description": "",
-    "message": "Politikaları okuyor"
-  },
-  "v live.product": {
-    "description": "{0} will be replaced with the name of the publisher of the product",
-    "message": "{0} ürününü görüntülüyor"
-  },
-  "v live.profile": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "profil sayfası"
-  },
-  "v live.profileEdit": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Kendi profilini düzenliyor"
-  },
-  "v live.purchases": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "son satın alınanlar"
-  },
-  "v live.recentUploads": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Takip ettiklerininin son yüklemelerine göz atıyor {0}"
-  },
-  "v live.store": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "mağaza sayfası"
-  },
-  "v live.upcoming": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "gelecek olanlar sayfası"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "Görüntülüyor"
-  },
-  "v live.watched": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "izlenen videolar"
-  }
+	"v live.browseThrough": {
+		"message": "Araştırıyor",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "yeni videolar sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "grafikler sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "gelecek olanlar sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "kanalların listesi",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "etkinlikler sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "mağaza sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Takip ettiklerininin son yüklemelerine göz atıyor {0}",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "{0} kanalı",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Ana sayfayı görüntülüyor",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Zamanlama sayfasını görüntülüyor",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "\"Benim\" sayfasını görüntülüyor",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Mağaza sayfasını görüntülüyor",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "\"{0}\" panosunu görüntülüyor",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "{0} ürününü görüntülüyor",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.profileEdit": {
+		"message": "Kendi profilini düzenliyor",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.viewTheir": {
+		"message": "Görüntülüyor",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "profil sayfası",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "izlenen videolar",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "son satın alınanlar",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "nakit bakiye",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "bağlı cihazlar",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "takip edilen kanallar",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Politikaları okuyor",
+		"description": ""
+	}
 }
