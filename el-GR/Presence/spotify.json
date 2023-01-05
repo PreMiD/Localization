@@ -1,26 +1,26 @@
 {
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Καλύτερα podcasts"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Περιήγηση μέσα"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Λήψη Του Spotify"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Φτιαγμένο για σένα\""
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "podcasts που τους αρέσουν"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "τραγούδια που τους αρέσουν"
-  }
+	"spotify.bestPodcasts": {
+		"message": "Καλύτερα podcasts",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Περιήγηση μέσα",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcasts που τους αρέσουν",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "τραγούδια που τους αρέσουν",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Φτιαγμένο για σένα\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.download": {
+		"message": "Λήψη Του Spotify",
+		"description": ""
+	}
 }
