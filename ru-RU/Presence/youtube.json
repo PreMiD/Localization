@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Сейчас смотрит рекламу"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Смотрит плейлисты"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Смотрит через"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Смотрит видео"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "их история"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "их библиотека"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "каналов:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "их покупки"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Читает о канале:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Смотрит истории отчетов"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Ищет по каналу: {0} для:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "страница исполнителя"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "аналитика канала"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "комментарии канала"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "переводы каналов"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Смотрит панель инструментов"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Редактирует видео:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Смотрит аналитику видео:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Смотрит комментарии под видео:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Смотрит переводы видео:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Смотрит"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Смотрит своих видео"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "подписки"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Смотрит тренды"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Что-то загружается..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Смотрит все их плейлисты"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Смотрит аудио библиотеки"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Просмотр их информационной панели"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Смотрит мероприятий на эфир"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Смотрит посты сообщества"
-  }
+    "youtube.ad": {
+        "message": "Сейчас смотрит рекламу",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Смотрит видео",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Смотрит плейлисты",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Смотрит посты сообщества",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "каналов:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Читает о канале:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Ищет по каналу: {0} для:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Смотрит тренды",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Смотрит через",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "подписки",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "их библиотека",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "их история",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "их покупки",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Смотрит истории отчетов",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Что-то загружается...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Смотрит все их плейлисты",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Смотрит мероприятий на эфир",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Просмотр их информационной панели",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Смотрит аудио библиотеки",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Смотрит своих видео",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Редактирует видео:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Смотрит аналитику видео:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Смотрит комментарии под видео:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Смотрит переводы видео:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Смотрит",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "аналитика канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "комментарии канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "переводы каналов",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "страница исполнителя",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Смотрит панель инструментов",
+        "description": ""
+    }
 }
