@@ -1,14 +1,14 @@
 {
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Dokumentation"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Spil"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Andet"
-  }
+    "apple.other": {
+        "message": "Andet",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "Dokumentation",
+        "description": "Developer documentation"
+    },
+    "apple.devGames": {
+        "message": "Spil",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
 }
