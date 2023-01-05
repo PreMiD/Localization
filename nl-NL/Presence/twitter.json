@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Bladwijzers"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Ontdek"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Notificaties"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Leest tweet van:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Instellingen aan het aanpassen..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Bekijkt zijn/haar privéberichten"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Bekijkt leuk gevonden door:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Bekijkt lijst:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Bekijkt media van:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Bekijkt tweets van:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Bekijkt tweets (met antwoorden) van:"
-  }
+	"twitter.readTweet": {
+		"message": "Leest tweet van:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Bekijkt zijn/haar privéberichten",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Bekijkt tweets van:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Bekijkt tweets (met antwoorden) van:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Bekijkt media van:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Bekijkt leuk gevonden door:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Bekijkt lijst:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Bladwijzers",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Notificaties",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Ontdek",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Instellingen aan het aanpassen...",
+		"description": ""
+	}
 }
