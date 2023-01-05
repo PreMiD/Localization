@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "บุ๊คมาร์ค"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "สำรวจ"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "การแจ้งเตือน"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "กำลังอ่านทวิต:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "กำลังเปลี่ยนการตั้งค่า..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "กำลังดูข้อความส่วนตัวของเขา"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "กำลังดูการถูกใจของ:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "กำลังดูลิสต์:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "กำลังดูสื่อของ:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "กำลังดูทวีตของ:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "กำลังดูทวีต (และการตอบกลับ) ของ:"
-  }
+	"twitter.readTweet": {
+		"message": "กำลังอ่านทวิต:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "กำลังดูข้อความส่วนตัวของเขา",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "กำลังดูทวีตของ:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "กำลังดูทวีต (และการตอบกลับ) ของ:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "กำลังดูสื่อของ:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "กำลังดูการถูกใจของ:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "กำลังดูลิสต์:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "บุ๊คมาร์ค",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "การแจ้งเตือน",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "สำรวจ",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "กำลังเปลี่ยนการตั้งค่า...",
+		"description": ""
+	}
 }
