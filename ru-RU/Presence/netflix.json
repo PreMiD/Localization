@@ -1,18 +1,18 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Посмотреть, что нового и популярного{0}на Netflix"
-  },
-  "netflix.profile": {
-    "description": "",
-    "message": "Управление профилями"
-  },
-  "netflix.referral": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Получение их{0}реферальной ссылки"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "Просмотр их списка"
-  }
+	"netflix.viewList": {
+		"message": "Просмотр их списка",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Управление профилями",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Посмотреть, что нового и популярного{0}на Netflix",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"netflix.referral": {
+		"message": "Получение их{0}реферальной ссылки",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
