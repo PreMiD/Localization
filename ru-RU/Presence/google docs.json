@@ -1,50 +1,50 @@
 {
-  "google docs.browsingDoc": {
-    "description": "Displayed when the user is browsing their Google Documents",
-    "message": "Просмотр документов"
-  },
-  "google docs.browsingForm": {
-    "description": "Displayed when the user is browsing their Google Forms",
-    "message": "Просмотр форм"
-  },
-  "google docs.browsingPresentation": {
-    "description": "Displayed when the user is browsing their Google presentation",
-    "message": "Просмотр презентаций"
-  },
-  "google docs.browsingSheet": {
-    "description": "Displayed when the user is browsing their Google Sheets",
-    "message": "Просмотр электронных таблиц"
-  },
-  "google docs.editingDoc": {
-    "description": "Displayed when the user is editing a Google Document",
-    "message": "Редактирование документа"
-  },
-  "google docs.editingForm": {
-    "description": "Displayed when the user is editing a Google Form",
-    "message": "Редактирование формы"
-  },
-  "google docs.editingPresentation": {
-    "description": "Displayed when the user is editing a Google presentation",
-    "message": "Редактирование презентации"
-  },
-  "google docs.editingSheet": {
-    "description": "Displayed when the user is eiditng a Google Sheet",
-    "message": "Редактирование электронной таблицы"
-  },
-  "google docs.viewingDoc": {
-    "description": "Displayed when the user is viewing a Google Document",
-    "message": "Просмотр документа"
-  },
-  "google docs.viewingForm": {
-    "description": "Displayed when the user is viewing a Google Form",
-    "message": "Просмотр формы"
-  },
-  "google docs.viewingPresentation": {
-    "description": "Displayed when the user is viewing a Google presentation",
-    "message": "Просмотр презентации"
-  },
-  "google docs.viewingSheet": {
-    "description": "Displayed when the user is viewing a Google Sheet",
-    "message": "Просмотр электронной таблицы"
-  }
+	"google docs.editingDoc": {
+		"message": "Редактирование документа",
+		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.viewingDoc": {
+		"message": "Просмотр документа",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Просмотр документов",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.editingForm": {
+		"message": "Редактирование формы",
+		"description": "Displayed when the user is editing a Google Form"
+	},
+	"google docs.viewingForm": {
+		"message": "Просмотр формы",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "Просмотр форм",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.editingSheet": {
+		"message": "Редактирование электронной таблицы",
+		"description": "Displayed when the user is eiditng a Google Sheet"
+	},
+	"google docs.viewingSheet": {
+		"message": "Просмотр электронной таблицы",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.browsingSheet": {
+		"message": "Просмотр электронных таблиц",
+		"description": "Displayed when the user is browsing their Google Sheets"
+	},
+	"google docs.editingPresentation": {
+		"message": "Редактирование презентации",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Просмотр презентации",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Просмотр презентаций",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
 }
