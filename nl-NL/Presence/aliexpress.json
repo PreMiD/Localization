@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Bekijkt eigen adres"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Bekijkt eigen coupons"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "verwijderde bestellingen"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "AliExpress Feedback"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "AliExpress Hulpcentrum"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Berichtencentrum"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Bekijkt bestellingen"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "Bekijkt recent"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "bekeken producten"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Terugbetalingen & Aanklachten"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Bladert door de sale heen"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "AliExpress Verkoopcentrum"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Bekijkt winkel:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "Bekijkt eigen AliExpress"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "AliExpress Trade Center"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Bekijkt eigen"
-  }
+    "aliexpress.store": {
+        "message": "Bekijkt winkel:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Berichtencentrum",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Bladert door de sale heen",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Bekijkt recent",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "bekeken producten",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Bekijkt eigen AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress Feedback",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Bekijkt bestellingen",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Bekijkt eigen",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Terugbetalingen & Aanklachten",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "verwijderde bestellingen",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress Trade Center",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Bekijkt eigen coupons",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Bekijkt eigen adres",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress Hulpcentrum",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress Verkoopcentrum",
+        "description": ""
+    }
 }
