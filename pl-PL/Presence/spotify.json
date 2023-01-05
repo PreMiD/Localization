@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "albumy, które lubi"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "artystów, których lubi"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Najlepsze podcasty"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Przegląda"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Przeglądanie wykresów"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Odkrywanie nowych utworów"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Pobieranie Spotify"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Wyróżnione utwory"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Przeglądanie gatunków"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Przegląda najnowsze wydania"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Wykonane dla Ciebie\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "swoje playlisty"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "podcasty, które lubi"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "piosenki, które lubi"
-  }
+	"spotify.featured": {
+		"message": "Wyróżnione utwory",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Najlepsze podcasty",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Przeglądanie wykresów",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Przeglądanie gatunków",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Przegląda najnowsze wydania",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Odkrywanie nowych utworów",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Przegląda",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcasty, które lubi",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artystów, których lubi",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albumy, które lubi",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "piosenki, które lubi",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Wykonane dla Ciebie\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "swoje playlisty",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Pobieranie Spotify",
+		"description": ""
+	}
 }
