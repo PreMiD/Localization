@@ -1,186 +1,186 @@
 {
-  "apple.appStoreCon": {
-    "description": "Connecting to the App Store",
-    "message": "جارِ الاتصال..."
-  },
-  "apple.chooseLang": {
-    "description": "Choosing the language of the website",
-    "message": "اختيار اللغة..."
-  },
-  "apple.comparing": {
-    "description": "e.g. \"Comparing: Apple Watch\"",
-    "message": "مقارنة:"
-  },
-  "apple.contact": {
-    "description": "Contact support",
-    "message": "التواصل مع الدعم"
-  },
-  "apple.devDistribution": {
-    "description": "Distribute software to the App Store",
-    "message": "توزيع البرامج"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "إرشادات الإستخدام"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "المميزات"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "ألعاب"
-  },
-  "apple.devHIG": {
-    "description": "Guidelines for designing apps for the various Apple operating systems",
-    "message": "إرشادات الواجهة البشرية"
-  },
-  "apple.devNew": {
-    "description": "List of updates",
-    "message": "ما الجديد"
-  },
-  "apple.devPhonePad": {
-    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
-    "message": "تطبيقات أيفون وآيباد"
-  },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "الموارد"
-  },
-  "apple.devSubmit": {
-    "description": "Submit iOS and iPadOS apps to the App Store",
-    "message": "كيفية تقديم التطبيقات"
-  },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "فيديوهات"
-  },
-  "apple.forumCreateThread": {
-    "description": "Creating a forum thread",
-    "message": "انشاء موضوع"
-  },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "التفضيلات"
-  },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "تسجيل"
-  },
-  "apple.healthRecords": {
-    "description": "Health records of a person",
-    "message": "السجلات الصحية"
-  },
-  "apple.healthcare": {
-    "description": "The organized provision of medical care to individuals or a community",
-    "message": "الرعاية الصحية"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "التقويم"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "جهات الاتصال"
-  },
-  "apple.iCloudKeynoteWait": {
-    "description": "Before the keynote begins, you'll be in the waiting room",
-    "message": "غرفة الانتظار"
-  },
-  "apple.iCloudMail": {
-    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "البريد"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "الملاحظات"
-  },
-  "apple.iCloudPagesCreate": {
-    "description": "Creating a new Pages document",
-    "message": "جاري الإنشاء..."
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "الصور"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "التذكيرات"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "آخر"
-  },
-  "apple.overview": {
-    "description": "Overview of e.g. all pages of a category",
-    "message": "نظرة عامة"
-  },
-  "apple.productsPlatform": {
-    "description": "Products/platforms for companies",
-    "message": "المنتجات والمنصة"
-  },
-  "apple.purchasingAdvice": {
-    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
-    "message": "نصائح الشراء"
-  },
-  "apple.shopAccessories": {
-    "description": "Accessories for Apple products (e.g iPhone case)",
-    "message": "اكسسوارات أبل"
-  },
-  "apple.shopBag": {
-    "description": "Shopping cart",
-    "message": "سلة التسوق"
-  },
-  "apple.shopBagSummary": {
-    "description": "The total price of the items in your bag (shopping cart)",
-    "message": "المجموع: {0}"
-  },
-  "apple.shopBands": {
-    "description": "Bands (Bracelets) for the Apple Watch",
-    "message": "احزمة ساعة أبل"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "المفضلة"
-  },
-  "apple.shopGiftCards": {
-    "description": "Gift cards for e.g. the App Store",
-    "message": "بطاقات الهدايا"
-  },
-  "apple.shopPlanVisit": {
-    "description": "Plan your visit to the Apple Store",
-    "message": "تخطيط زيارتك"
-  },
-  "apple.shopRefurbished": {
-    "description": "Used Apple products at a lower price",
-    "message": "تم تجديدها بصورة معتمدة"
-  },
-  "apple.shopStudio": {
-    "description": "Choose your own design components for a product",
-    "message": "استوديو ساعة أبل"
-  },
-  "apple.storeFinder": {
-    "description": "Tool used to find the nearest store",
-    "message": "البحث عن المتجر"
-  },
-  "apple.supplierResp": {
-    "description": "Information on human rights, health, safety, education, etc. of employees",
-    "message": "مسؤولية المورد"
-  },
-  "apple.support": {
-    "description": "Support for products, services/apps from Apple, etc.",
-    "message": "دعم أبل"
-  },
-  "apple.supportArticle": {
-    "description": "Support article",
-    "message": "مقالة دعم أبل"
-  },
-  "apple.viewEvent": {
-    "description": "Viewing an event (e.g. September event)",
-    "message": "مشاهدة الحدث"
-  },
-  "apple.viewService": {
-    "description": "e.g. \"Viewing Service: Fitness+\"",
-    "message": "معاينة الخدمة:"
-  }
+    "apple.comparing": {
+        "message": "مقارنة:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "معاينة الخدمة:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "الرعاية الصحية",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "المنتجات والمنصة",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "السجلات الصحية",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "نظرة عامة",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "نصائح الشراء",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "البحث عن المتجر",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "مشاهدة الحدث",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "مسؤولية المورد",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
+    },
+    "apple.contact": {
+        "message": "التواصل مع الدعم",
+        "description": "Contact support"
+    },
+    "apple.chooseLang": {
+        "message": "اختيار اللغة...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "آخر",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "احزمة ساعة أبل",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "اكسسوارات أبل",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopStudio": {
+        "message": "استوديو ساعة أبل",
+        "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "المفضلة",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "بطاقات الهدايا",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "تخطيط زيارتك",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "تم تجديدها بصورة معتمدة",
+        "description": "Used Apple products at a lower price"
+    },
+    "apple.shopBag": {
+        "message": "سلة التسوق",
+        "description": "Shopping cart"
+    },
+    "apple.shopBagSummary": {
+        "message": "المجموع: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "دعم أبل",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "مقالة دعم أبل",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "جارِ الاتصال...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "البريد",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "جهات الاتصال",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "التقويم",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "الصور",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "الملاحظات",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "التذكيرات",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "جاري الإنشاء...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "غرفة الانتظار",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "ما الجديد",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "كيفية تقديم التطبيقات",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "تطبيقات أيفون وآيباد",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "توزيع البرامج",
+        "description": "Distribute software to the App Store"
+    },
+    "apple.devDocs": {
+        "message": "إرشادات الإستخدام",
+        "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "إرشادات الواجهة البشرية",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
+    },
+    "apple.devResources": {
+        "message": "الموارد",
+        "description": "Apple Design Resources"
+    },
+    "apple.devFeatures": {
+        "message": "المميزات",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "ألعاب",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumPreferences": {
+        "message": "التفضيلات",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "انشاء موضوع",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "تسجيل",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "فيديوهات",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    }
 }
