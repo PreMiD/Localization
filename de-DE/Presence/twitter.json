@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Lesezeichen"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Erkunden"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Benachrichtigungen"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Liest Tweet von:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Ändert ein paar Einstellungen..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Betrachtet seine PNs"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Betrachtet Likes von:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Betrachtet Liste:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Betrachtet Medien von:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Betrachtet Tweets von:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Betrachtet Tweets (mit Antworten) von:"
-  }
+	"twitter.readTweet": {
+		"message": "Liest Tweet von:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Betrachtet seine PNs",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Betrachtet Tweets von:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Betrachtet Tweets (mit Antworten) von:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Betrachtet Medien von:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Betrachtet Likes von:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Betrachtet Liste:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Lesezeichen",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Benachrichtigungen",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Erkunden",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Ändert ein paar Einstellungen...",
+		"description": ""
+	}
 }
