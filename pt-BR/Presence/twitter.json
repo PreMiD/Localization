@@ -1,42 +1,42 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Favoritos"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Explorar"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Notificações"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Lendo tweet de:"
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Vendo as suas mensagens diretas"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Vendo curtidas por:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Vendo lista:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Vendo mídias de:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Vendo tweets de:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Vendo tweets (com respostas) de:"
-  }
+	"twitter.readTweet": {
+		"message": "Lendo tweet de:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Vendo as suas mensagens diretas",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Vendo tweets de:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Vendo tweets (com respostas) de:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Vendo mídias de:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Vendo curtidas por:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Vendo lista:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Favoritos",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Notificações",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Explorar",
+		"description": ""
+	}
 }
