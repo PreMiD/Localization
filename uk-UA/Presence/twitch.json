@@ -1,262 +1,262 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Доступність"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Досягнення"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Активність спільноти"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Вибір реклами"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "Партнерська програма Twitch"
-  },
-  "twitch.blogArchive": {
-    "description": "{0} will be replaced with the year",
-    "message": "Перегляд архіву блогу {0}"
-  },
-  "twitch.blogBrowse": {
-    "description": "",
-    "message": "Перегляд останніх дописів у блозі..."
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "Блоги Twitch"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "Читання про бренд Twitch..."
-  },
-  "twitch.brandExpression": {
-    "description": "Page name",
-    "message": "Максимум нашого виразу"
-  },
-  "twitch.brandMadness": {
-    "description": "Page name",
-    "message": "Приносячи метод до нашого (коханого) безумства"
-  },
-  "twitch.brandReal": {
-    "description": "Page name",
-    "message": "Збереження реальності Twitch"
-  },
-  "twitch.brandTogether": {
-    "description": "Page name",
-    "message": "Збираючи все разом"
-  },
-  "twitch.brandWatch": {
-    "description": "Watching as in watching a video",
-    "message": "Перегляд еволюції бренду Twitch"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "Табір творця"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "Вивчіть основи"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "Спілкуйтеся і беріть участь"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "Новий рівень"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "Живе навчання"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Музика на Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Отримуйте нагороди"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "Налаштування вашої трансляції"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Аналітику каналу"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Налаштування каналу"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Кліпи"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Колекції відео"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "Панель творця"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "Керування їхньою трансляцією..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "Розробники Twitch"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "Документація розробника Twitch"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "Продукти для розробників Twitch"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "Історії успіху спільноти"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "Корисні ресурси"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Завантаження"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Налаштування Дропів"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Перегляд кіберспорту..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "Перегляд розширень"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Список підписників"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "Правила спільноти"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "Центр підтримки"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "Перегляд теми:"
-  },
-  "twitch.helpTopicCatalog": {
-    "description": "",
-    "message": "Перегляд каталогу тем..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Домашня сторінка"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Вакансії"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "Управління їх ролями в спільноті..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "Модерує стрімера:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Параметри модерації"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Партнери"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "Прес-центр"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "У Виробниці відео..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Активація коду..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Безпека"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "Дивиться Squad..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Підсумок трансляції"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Перегляд їх підписок..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "Перегляд інструментів трансляції"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Турбо"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "Перегляд активних кампаній з Дропами..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "Перегляд їх інвентарю Дропів..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Перегляд людей, за якими я слідкую..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Перегляд своїх друзів..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Перегляд їх налаштувань..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Перегляд команди:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Переглядає"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Перегляд гаманця..."
-  }
+	"twitch.downloads": {
+		"message": "Завантаження",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Вакансії",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Турбо",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Партнери",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Прес-центр",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Безпека",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Доступність",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Вибір реклами",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Правила спільноти",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Домашня сторінка",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Перегляд гаманця...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Перегляд кіберспорту...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Перегляд людей, за якими я слідкую...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Перегляд команди:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Перегляд їх інвентарю Дропів...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Перегляд активних кампаній з Дропами...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Перегляд їх налаштувань...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Перегляд своїх друзів...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Перегляд їх підписок...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Дивиться Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Модерує стрімера:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Активація коду...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Табір творця",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Вивчіть основи",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Налаштування вашої трансляції",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Новий рівень",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Спілкуйтеся і беріть участь",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Отримуйте нагороди",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Музика на Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Живе навчання",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Панель творця",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Керування їхньою трансляцією...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Управління їх ролями в спільноті...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "У Виробниці відео...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Переглядає",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Аналітику каналу",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Підсумок трансляції",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Досягнення",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Активність спільноти",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Список підписників",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Колекції відео",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Кліпи",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Налаштування каналу",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Параметри модерації",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Налаштування Дропів",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Перегляд інструментів трансляції",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Перегляд розширень",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Читання про бренд Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Збереження реальності Twitch",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Приносячи метод до нашого (коханого) безумства",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Максимум нашого виразу",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Збираючи все разом",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Перегляд еволюції бренду Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Блоги Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Перегляд архіву блогу {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Перегляд останніх дописів у блозі...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Центр підтримки",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Перегляд теми:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Перегляд каталогу тем...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Партнерська програма Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Розробники Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Документація розробника Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Продукти для розробників Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Історії успіху спільноти",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Корисні ресурси",
+		"description": "Page name"
+	}
 }
