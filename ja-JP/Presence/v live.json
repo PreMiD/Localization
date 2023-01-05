@@ -1,6 +1,6 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "閲覧中"
-  }
+	"v live.browseThrough": {
+		"message": "閲覧中",
+		"description": "The first part of the next 6 strings"
+	}
 }
