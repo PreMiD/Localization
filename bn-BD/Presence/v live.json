@@ -1,10 +1,10 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "ব্রাউজ করছে"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "দেখছে তার"
-  }
+	"v live.browseThrough": {
+		"message": "ব্রাউজ করছে",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "দেখছে তার",
+		"description": "The first part of the next 6 strings"
+	}
 }
