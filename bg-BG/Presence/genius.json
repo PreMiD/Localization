@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "Преглед на текстове на:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Преглежда албум:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Гледа начална страница"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Погледни текста на песента"
-  }
+	"genius.lyrics": {
+		"message": "Преглед на текстове на:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Погледни текста на песента",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Гледа начална страница",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Преглежда албум:",
+		"description": "Album of a song"
+	}
 }
