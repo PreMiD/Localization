@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Leest alles over 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Bekijkt collectie:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Bekijkt \"What's Fresh\""
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Bekijkt gag:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Bekijkt \"What's Hot\""
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Bekijkt de winkelpagina"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Bekijkt tag:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Bekijkt wat er trending is"
-  }
+    "9gag.gag": {
+        "message": "Bekijkt gag:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Bekijkt \"What's Hot\"",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Bekijkt wat er trending is",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Bekijkt \"What's Fresh\"",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Bekijkt tag:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Leest alles over 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Bekijkt de winkelpagina",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Bekijkt collectie:",
+        "description": ""
+    }
 }
