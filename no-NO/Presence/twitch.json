@@ -1,102 +1,102 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Tilgjengelighet"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Prestasjoner"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Reklamevalg"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "Twitch Affiliate-programmet"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "Lær det grunnleggende"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "Level opp"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Musikk på Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Bli belønnet"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Kanalinnstillinger"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Klipp"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Videosamlinger"
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "Twitch-utviklere"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "Dokumentasjon for Twitch-utviklere"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "Produkter for Twitch-utviklere"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "Nyttige ressurser"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Nedlastinger"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "Hjelpesenter"
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Hjemmeside"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Jobb"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partnere"
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Løser inn en kode..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Sikkerhet"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Turbo"
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Ser på folk jeg følger..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Ser på lag:"
-  }
+	"twitch.downloads": {
+		"message": "Nedlastinger",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Jobb",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnere",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Sikkerhet",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Tilgjengelighet",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Reklamevalg",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Hjemmeside",
+		"description": "Page name"
+	},
+	"twitch.viewFollow": {
+		"message": "Ser på folk jeg følger...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Ser på lag:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Løser inn en kode...",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Lær det grunnleggende",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Level opp",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Bli belønnet",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Musikk på Twitch",
+		"description": "Page name"
+	},
+	"twitch.achievements": {
+		"message": "Prestasjoner",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Videosamlinger",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Klipp",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Kanalinnstillinger",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.help": {
+		"message": "Hjelpesenter",
+		"description": "Page name"
+	},
+	"twitch.affiliate": {
+		"message": "Twitch Affiliate-programmet",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Twitch-utviklere",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Dokumentasjon for Twitch-utviklere",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produkter for Twitch-utviklere",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Nyttige ressurser",
+		"description": "Page name"
+	}
 }
