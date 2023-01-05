@@ -1,50 +1,50 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Nylig lagt til"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "I en samtale med:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Lagrede videoer"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Leser om bruker:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Ser på venner av bruker:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "noen... (skjult bruker)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Ser på bilder av bruker:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Ser på innlegg av bruker:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Ser på videoer av bruker:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "I en videosamtale med:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Ser på været i dag"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Skriver en melding"
-  }
+    "facebook.call": {
+        "message": "I en samtale med:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "I en videosamtale med:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "noen... (skjult bruker)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Skriver en melding",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Leser om bruker:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Ser på bilder av bruker:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Ser på innlegg av bruker:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Ser på venner av bruker:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Ser på videoer av bruker:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Lagrede videoer",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nylig lagt til",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Ser på været i dag",
+        "description": ""
+    }
 }
