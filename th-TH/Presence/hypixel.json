@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "กำลังดู DMs ของพวกเขา"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "กำลังดูเกมส์ :"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "ดูรายชื่อทีมงาน"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "กำลังดูกระทู้"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "กำลังดูกระทู้"
-  }
+    "hypixel.staff": {
+        "message": "ดูรายชื่อทีมงาน",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "กำลังดูกระทู้",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "กำลังดูกระทู้",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "กำลังดู DMs ของพวกเขา",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "กำลังดูเกมส์ :",
+        "description": ""
+    }
 }
