@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Maca kabeh tentang 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Ndeleng koleksi:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Ndeleng apa sing anyar"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Ndeleng gag:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Ndeleng apa sing hot"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Ndeleng halaman toko"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Ndeleng tag:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Deleng apa sing lagi tren"
-  }
+    "9gag.gag": {
+        "message": "Ndeleng gag:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Ndeleng apa sing hot",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Deleng apa sing lagi tren",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Ndeleng apa sing anyar",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Ndeleng tag:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Maca kabeh tentang 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Ndeleng halaman toko",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Ndeleng koleksi:",
+        "description": ""
+    }
 }
