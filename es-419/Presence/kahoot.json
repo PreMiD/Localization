@@ -1,186 +1,186 @@
 {
-  "kahoot.buttonJoinGame": {
-    "description": "Used as the title for the button in Discord. {0} is the Game ID",
-    "message": "Unirse al juego: {0}"
-  },
-  "kahoot.correctAnswer": {
-    "description": "Used when the user anwered correct on a question",
-    "message": "Respuesta Correcta"
-  },
-  "kahoot.createHome": {
-    "description": "Used when the user is viewing the create.kahoot.it home page",
-    "message": "Revisando la página principal"
-  },
-  "kahoot.discover": {
-    "description": "Used when the user is viewing the discover page",
-    "message": "Viendo la página \"Descrubrir\""
-  },
-  "kahoot.drumRoll": {
-    "description": "Used when a player is waiting to receive their final ranking",
-    "message": "Esperando la clasificación final..."
-  },
-  "kahoot.editingCourse": {
-    "description": "Used when the user is editing a course. The name of the course will be displayed below.",
-    "message": "Editando curso:"
-  },
-  "kahoot.editingKahoot": {
-    "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below.",
-    "message": "Editando Kahoot:"
-  },
-  "kahoot.feedback": {
-    "description": "Used when a player is providing feedback about the quiz to the host",
-    "message": "Proporcionando feedback"
-  },
-  "kahoot.firstPlace": {
-    "description": "Used to display who was first place in a game. {0} is a player name",
-    "message": "Primer Lugar: {0}"
-  },
-  "kahoot.gameCreate": {
-    "description": "Used when a Kahoot Host is creating a Game",
-    "message": "Creando un Juego..."
-  },
-  "kahoot.gameOver": {
-    "description": "Used when the Game is finished",
-    "message": "Juego Terminado"
-  },
-  "kahoot.gameStarting": {
-    "description": "Used when a Kahoot Game is starting",
-    "message": "¡Empieza el juego!"
-  },
-  "kahoot.gameSummary": {
-    "description": "Used when the host is viewing the summary of a game",
-    "message": "Viendo el resumen del juego"
-  },
-  "kahoot.incorrectAnswer": {
-    "description": "Used when the user answered incorrectly on a question",
-    "message": "Respuesta Incorrecta"
-  },
-  "kahoot.joiningGame": {
-    "description": "Used when a user is joining a Kahoot Game.",
-    "message": "Uniéndose al juego..."
-  },
-  "kahoot.kahootDetails": {
-    "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below.",
-    "message": "Viendo detalles del Kahoot:"
-  },
-  "kahoot.kahootProfile": {
-    "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below.",
-    "message": "Viendo el perfil de Kahoot:"
-  },
-  "kahoot.liveCourse": {
-    "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time.",
-    "message": "Realizando un curso en vivo"
-  },
-  "kahoot.liveCourseActivity": {
-    "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name.",
-    "message": "Actividad #{0}: {1}"
-  },
-  "kahoot.loadingPage": {
-    "description": "Used when a page is loading",
-    "message": "Cargando Página..."
-  },
-  "kahoot.login": {
-    "description": "Used when a user is logging in",
-    "message": "Iniciando sesión"
-  },
-  "kahoot.myCourses": {
-    "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities.",
-    "message": "Viendo sus cursos"
-  },
-  "kahoot.myKahoots": {
-    "description": "Used when the user is viewing their own kahoots",
-    "message": "Viendo sus Kahoots"
-  },
-  "kahoot.ndPlace": {
-    "description": "Used in the context of 2nd place",
-    "message": "2º lugar"
-  },
-  "kahoot.of": {
-    "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
-    "message": "{0} de {1}"
-  },
-  "kahoot.onPodium": {
-    "description": "Used in the context of a player/team being withing the top 3",
-    "message": "En el Podio"
-  },
-  "kahoot.playing": {
-    "description": "Used as the first line when a user is answering a question",
-    "message": "Jugando..."
-  },
-  "kahoot.points": {
-    "description": "Used to display how many points a user has. {0} is the number of points",
-    "message": "Puntos: {0}"
-  },
-  "kahoot.position": {
-    "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
-    "message": "Posición: {0}"
-  },
-  "kahoot.previewingKahoot": {
-    "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below.",
-    "message": "Previsualizando Kahoot:"
-  },
-  "kahoot.questionLoading": {
-    "description": "Used when the next question is loading",
-    "message": "Cargando la siguiente pregunta..."
-  },
-  "kahoot.questionNumber": {
-    "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of",
-    "message": "Pregunta: {0}"
-  },
-  "kahoot.questionShowing": {
-    "description": "Used when the host is showing a question",
-    "message": "Mostrando Pregunta:"
-  },
-  "kahoot.questionsCorrect": {
-    "description": "Used to display how many questions a user got correct",
-    "message": "Preguntas Correctas: {0}"
-  },
-  "kahoot.rdPlace": {
-    "description": "Used in the context of 3rd place",
-    "message": "3º lugar"
-  },
-  "kahoot.resultsQuestion": {
-    "description": "Used when a user is looking at the results of the question they just answered",
-    "message": "Mirando los Resultados:"
-  },
-  "kahoot.searchKahoots": {
-    "description": "Used when the user is searching for Kahoots. The search query will be displayed below.",
-    "message": "Buscando Kahoots:"
-  },
-  "kahoot.slideShowing": {
-    "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz",
-    "message": "Mostrando Diapositiva con Contenido:"
-  },
-  "kahoot.slideViewing": {
-    "description": "Used when a user is looking at a slide with content in a Kahoot",
-    "message": "Mirando la Diapositiva con Contenido:"
-  },
-  "kahoot.stPlace": {
-    "description": "Used in the context of 1st place",
-    "message": "1º lugar"
-  },
-  "kahoot.teamTalk": {
-    "description": "Used when a player is talking to their team during team talk time",
-    "message": "Hablando con el equipo"
-  },
-  "kahoot.topX": {
-    "description": "Used in the context of Top 5",
-    "message": "Top: {0}"
-  },
-  "kahoot.userReports": {
-    "description": "Used when the user is viewing their own game reports",
-    "message": "Viendo sus informes de juego"
-  },
-  "kahoot.viewingCourse": {
-    "description": "Used when the user is viewing a course. The name of the course will be displayed below.",
-    "message": "Viendo curso:"
-  },
-  "kahoot.waiting": {
-    "description": "Used when the user is waiting for a Kahoot Game to start",
-    "message": "Esperando para empezar..."
-  },
-  "kahoot.waitingAnswer": {
-    "description": "Used when a player is waiting for the question results",
-    "message": "Esperando los resultados..."
-  }
+    "kahoot.buttonJoinGame": {
+        "message": "Unirse al juego: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.joiningGame": {
+        "message": "Uniéndose al juego...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.waiting": {
+        "message": "Esperando para empezar...",
+        "description": "Used when the user is waiting for a Kahoot Game to start"
+    },
+    "kahoot.gameStarting": {
+        "message": "¡Empieza el juego!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "Jugando...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.questionLoading": {
+        "message": "Cargando la siguiente pregunta...",
+        "description": "Used when the next question is loading"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "Respuesta Incorrecta",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "Respuesta Correcta",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.resultsQuestion": {
+        "message": "Mirando los Resultados:",
+        "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.slideViewing": {
+        "message": "Mirando la Diapositiva con Contenido:",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
+    "kahoot.gameOver": {
+        "message": "Juego Terminado",
+        "description": "Used when the Game is finished"
+    },
+    "kahoot.gameCreate": {
+        "message": "Creando un Juego...",
+        "description": "Used when a Kahoot Host is creating a Game"
+    },
+    "kahoot.loadingPage": {
+        "message": "Cargando Página...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "Primer Lugar: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.points": {
+        "message": "Puntos: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "Preguntas Correctas: {0}",
+        "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "Mostrando Diapositiva con Contenido:",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
+    },
+    "kahoot.questionNumber": {
+        "message": "Pregunta: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.questionShowing": {
+        "message": "Mostrando Pregunta:",
+        "description": "Used when the host is showing a question"
+    },
+    "kahoot.stPlace": {
+        "message": "1º lugar",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2º lugar",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3º lugar",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "Top: {0}",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{0} de {1}",
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.onPodium": {
+        "message": "En el Podio",
+        "description": "Used in the context of a player/team being withing the top 3"
+    },
+    "kahoot.drumRoll": {
+        "message": "Esperando la clasificación final...",
+        "description": "Used when a player is waiting to receive their final ranking"
+    },
+    "kahoot.position": {
+        "message": "Posición: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    },
+    "kahoot.teamTalk": {
+        "message": "Hablando con el equipo",
+        "description": "Used when a player is talking to their team during team talk time"
+    },
+    "kahoot.gameSummary": {
+        "message": "Viendo el resumen del juego",
+        "description": "Used when the host is viewing the summary of a game"
+    },
+    "kahoot.login": {
+        "message": "Iniciando sesión",
+        "description": "Used when a user is logging in"
+    },
+    "kahoot.createHome": {
+        "message": "Revisando la página principal",
+        "description": "Used when the user is viewing the create.kahoot.it home page"
+    },
+    "kahoot.discover": {
+        "message": "Viendo la página \"Descrubrir\"",
+        "description": "Used when the user is viewing the discover page"
+    },
+    "kahoot.searchKahoots": {
+        "message": "Buscando Kahoots:",
+        "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
+    },
+    "kahoot.kahootDetails": {
+        "message": "Viendo detalles del Kahoot:",
+        "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.kahootProfile": {
+        "message": "Viendo el perfil de Kahoot:",
+        "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below."
+    },
+    "kahoot.myKahoots": {
+        "message": "Viendo sus Kahoots",
+        "description": "Used when the user is viewing their own kahoots"
+    },
+    "kahoot.userReports": {
+        "message": "Viendo sus informes de juego",
+        "description": "Used when the user is viewing their own game reports"
+    },
+    "kahoot.myCourses": {
+        "message": "Viendo sus cursos",
+        "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities."
+    },
+    "kahoot.editingCourse": {
+        "message": "Editando curso:",
+        "description": "Used when the user is editing a course. The name of the course will be displayed below."
+    },
+    "kahoot.viewingCourse": {
+        "message": "Viendo curso:",
+        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
+    },
+    "kahoot.editingKahoot": {
+        "message": "Editando Kahoot:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.previewingKahoot": {
+        "message": "Previsualizando Kahoot:",
+        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourse": {
+        "message": "Realizando un curso en vivo",
+        "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time."
+    },
+    "kahoot.liveCourseActivity": {
+        "message": "Actividad #{0}: {1}",
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
+    },
+    "kahoot.feedback": {
+        "message": "Proporcionando feedback",
+        "description": "Used when a player is providing feedback about the quiz to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "Esperando los resultados...",
+        "description": "Used when a player is waiting for the question results"
+    }
 }
