@@ -1,14 +1,14 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Spill Trivia"
-  },
-  "watchmojo.trivia": {
-    "description": "{0} will be replaced with the name of the Trivia game",
-    "message": "Spiller Trivia: {0}"
-  },
-  "watchmojo.triviaGame": {
-    "description": "The round and score of the Trivia game the user is playing.",
-    "message": "Runde {0} av {1} (Poengsum: {2}/{3})"
-  }
+	"watchmojo.triviaGame": {
+		"message": "Runde {0} av {1} (Poengsum: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "Spiller Trivia: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "Spill Trivia",
+		"description": "Used as the title for the button in Discord."
+	}
 }
