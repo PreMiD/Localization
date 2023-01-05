@@ -1,34 +1,34 @@
 {
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Medverkande"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Hämtningar"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Presence Utveckling"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Butik"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Systemkrav"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Felsökning"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partners"
-  }
+	"premid.pageContributors": {
+		"message": "Medverkande",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Hämtningar",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Butik",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partners",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Systemkrav",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Felsökning",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence Utveckling",
+		"description": "A page name"
+	}
 }
