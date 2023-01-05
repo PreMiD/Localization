@@ -1,246 +1,246 @@
 {
-  "apple.appStoreCon": {
-    "description": "Connecting to the App Store",
-    "message": "Đang kết nối..."
-  },
-  "apple.btnViewApp": {
-    "description": "e.g. \"View App\"",
-    "message": "Xem ứng dụng"
-  },
-  "apple.btnViewDeveloper": {
-    "description": "View the developer of an app",
-    "message": "Xem nhà phát triển"
-  },
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "Xem sự kiện"
-  },
-  "apple.btnViewOS": {
-    "description": "e.g. \"View iOS 15\"",
-    "message": "Xem {0}"
-  },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "Xem sản phẩm"
-  },
-  "apple.btnViewProfile": {
-    "description": "View a forum profile of a user",
-    "message": "Xem hồ sơ của {0}"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "Đang xem dịch vụ"
-  },
-  "apple.btnViewStudio": {
-    "description": "e.g. \"View Apple Watch Studio\"",
-    "message": "Xem {0} studio"
-  },
-  "apple.btnViewTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "Xem thẻ"
-  },
-  "apple.btnViewThread": {
-    "description": "View a forum thread",
-    "message": "Xem chủ đề"
-  },
-  "apple.btnViewWWDC": {
-    "description": "e.g.: \"View WWDC21\"",
-    "message": "Xem {0}"
-  },
-  "apple.chooseLang": {
-    "description": "Choosing the language of the website",
-    "message": "Đang chọn ngôn ngữ..."
-  },
-  "apple.comparing": {
-    "description": "e.g. \"Comparing: Apple Watch\"",
-    "message": "So sánh:"
-  },
-  "apple.contact": {
-    "description": "Contact support",
-    "message": "Liên hệ hỗ trợ"
-  },
-  "apple.devDistribution": {
-    "description": "Distribute software to the App Store",
-    "message": "Phân phối phần mềm"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Tài liệu"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Tính năng"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Games"
-  },
-  "apple.devHIG": {
-    "description": "Guidelines for designing apps for the various Apple operating systems",
-    "message": "Nguyên tắc thiết kế Giao diện"
-  },
-  "apple.devNew": {
-    "description": "List of updates",
-    "message": "Có gì mới"
-  },
-  "apple.devNews": {
-    "description": "News and updates (that matter) for developers",
-    "message": "Tin tức và Cập nhật"
-  },
-  "apple.devPhonePad": {
-    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
-    "message": "Ứng dụng iPhone và iPad"
-  },
-  "apple.devReleases": {
-    "description": "New iOS, iPadOS etc. releases",
-    "message": "Bản phát hành"
-  },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "Tài liệu"
-  },
-  "apple.devSubmit": {
-    "description": "Submit iOS and iPadOS apps to the App Store",
-    "message": "Cách gửi ứng dụng"
-  },
-  "apple.devVidTopic": {
-    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
-    "message": "Đang duyệt chủ đề video"
-  },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "Video"
-  },
-  "apple.forumCreateThread": {
-    "description": "Creating a forum thread",
-    "message": "Tạo các chủ đề mới"
-  },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "Thiết lập"
-  },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "Đăng ký"
-  },
-  "apple.forumTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "Thẻ diễn đàn"
-  },
-  "apple.healthRecords": {
-    "description": "Health records of a person",
-    "message": "Hồ sơ y tế"
-  },
-  "apple.healthcare": {
-    "description": "The organized provision of medical care to individuals or a community",
-    "message": "Chăm sóc sức khoẻ"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Lịch"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Danh bạ"
-  },
-  "apple.iCloudKeynoteWait": {
-    "description": "Before the keynote begins, you'll be in the waiting room",
-    "message": "Phòng chờ"
-  },
-  "apple.iCloudMail": {
-    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Hòm thư"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Ghi chú"
-  },
-  "apple.iCloudPagesCreate": {
-    "description": "Creating a new Pages document",
-    "message": "Đang tạo ..."
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Hình ảnh"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Nhắc nhở"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Khác"
-  },
-  "apple.overview": {
-    "description": "Overview of e.g. all pages of a category",
-    "message": "Tổng quan"
-  },
-  "apple.productsPlatform": {
-    "description": "Products/platforms for companies",
-    "message": "Sản phẩm và Nền tảng"
-  },
-  "apple.purchasingAdvice": {
-    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
-    "message": "Tư vấn mua hàng"
-  },
-  "apple.shopAccessories": {
-    "description": "Accessories for Apple products (e.g iPhone case)",
-    "message": "Phụ kiện Apple"
-  },
-  "apple.shopBag": {
-    "description": "Shopping cart",
-    "message": "Túi mua sắm"
-  },
-  "apple.shopBagSummary": {
-    "description": "The total price of the items in your bag (shopping cart)",
-    "message": "Tổng cộng: {0}"
-  },
-  "apple.shopBands": {
-    "description": "Bands (Bracelets) for the Apple Watch",
-    "message": "Dây Apple Watch"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "Yêu thích"
-  },
-  "apple.shopGiftCards": {
-    "description": "Gift cards for e.g. the App Store",
-    "message": "Thẻ quà tặng"
-  },
-  "apple.shopPlanVisit": {
-    "description": "Plan your visit to the Apple Store",
-    "message": "Lên lịch chuyến thăm của bạn"
-  },
-  "apple.shopRefurbished": {
-    "description": "Used Apple products at a lower price",
-    "message": "Chứng nhận đã được tân trang"
-  },
-  "apple.shopStudio": {
-    "description": "Choose your own design components for a product",
-    "message": "Apple Watch Studio"
-  },
-  "apple.storeFinder": {
-    "description": "Tool used to find the nearest store",
-    "message": "Người kiếm hàng hóa"
-  },
-  "apple.supplierResp": {
-    "description": "Information on human rights, health, safety, education, etc. of employees",
-    "message": "Trách nhiệm của nhà cung cấp"
-  },
-  "apple.support": {
-    "description": "Support for products, services/apps from Apple, etc.",
-    "message": "Hỗ trợ của Apple"
-  },
-  "apple.supportArticle": {
-    "description": "Support article",
-    "message": "Bài viết hỗ trợ của Apple"
-  },
-  "apple.viewEvent": {
-    "description": "Viewing an event (e.g. September event)",
-    "message": "Xem sự kiện"
-  },
-  "apple.viewService": {
-    "description": "e.g. \"Viewing Service: Fitness+\"",
-    "message": "Đang xem dịch vụ:"
-  }
+    "apple.comparing": {
+        "message": "So sánh:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "Đang xem dịch vụ:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "Chăm sóc sức khoẻ",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "Sản phẩm và Nền tảng",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "Hồ sơ y tế",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "Tổng quan",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Tư vấn mua hàng",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Người kiếm hàng hóa",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "Xem sự kiện",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "Trách nhiệm của nhà cung cấp",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
+    },
+    "apple.contact": {
+        "message": "Liên hệ hỗ trợ",
+        "description": "Contact support"
+    },
+    "apple.chooseLang": {
+        "message": "Đang chọn ngôn ngữ...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "Khác",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "Dây Apple Watch",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "Phụ kiện Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopStudio": {
+        "message": "Apple Watch Studio",
+        "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "Yêu thích",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Thẻ quà tặng",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "Lên lịch chuyến thăm của bạn",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "Chứng nhận đã được tân trang",
+        "description": "Used Apple products at a lower price"
+    },
+    "apple.shopBag": {
+        "message": "Túi mua sắm",
+        "description": "Shopping cart"
+    },
+    "apple.shopBagSummary": {
+        "message": "Tổng cộng: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "Hỗ trợ của Apple",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Bài viết hỗ trợ của Apple",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "Đang kết nối...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Hòm thư",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Danh bạ",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Lịch",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Hình ảnh",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Ghi chú",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Nhắc nhở",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Đang tạo ...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Phòng chờ",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "Có gì mới",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "Cách gửi ứng dụng",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "Ứng dụng iPhone và iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "Phân phối phần mềm",
+        "description": "Distribute software to the App Store"
+    },
+    "apple.devDocs": {
+        "message": "Tài liệu",
+        "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "Nguyên tắc thiết kế Giao diện",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
+    },
+    "apple.devResources": {
+        "message": "Tài liệu",
+        "description": "Apple Design Resources"
+    },
+    "apple.devFeatures": {
+        "message": "Tính năng",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Games",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "Thẻ diễn đàn",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumPreferences": {
+        "message": "Thiết lập",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "Tạo các chủ đề mới",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "Đăng ký",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "Video",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devVidTopic": {
+        "message": "Đang duyệt chủ đề video",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
+    },
+    "apple.devNews": {
+        "message": "Tin tức và Cập nhật",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Bản phát hành",
+        "description": "New iOS, iPadOS etc. releases"
+    },
+    "apple.btnViewProduct": {
+        "message": "Xem sản phẩm",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Đang xem dịch vụ",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Xem sự kiện",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "Xem {0}",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewStudio": {
+        "message": "Xem {0} studio",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "Xem ứng dụng",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Xem nhà phát triển",
+        "description": "View the developer of an app"
+    },
+    "apple.btnViewWWDC": {
+        "message": "Xem {0}",
+        "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "Xem chủ đề",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Xem thẻ",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "Xem hồ sơ của {0}",
+        "description": "View a forum profile of a user"
+    }
 }
