@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Смотрит личные сообщения"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Смотрит игру:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Смотрит список персонала"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Смотрит посмотренных форумов"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Смотрит посмотренных тем"
-  }
+    "hypixel.staff": {
+        "message": "Смотрит список персонала",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Смотрит посмотренных тем",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Смотрит посмотренных форумов",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Смотрит личные сообщения",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Смотрит игру:",
+        "description": ""
+    }
 }
