@@ -1,62 +1,62 @@
 {
-  "contributors.cards.copyUserId": {
-    "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "Klik untuk salin ID pengguna."
-  },
-  "contributors.cards.userIdCopied": {
-    "description": "Notification after user ID was copied.",
-    "message": "ID pengguna disalin!"
-  },
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "Kakitangan"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Penyokong"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "Penterjemah"
-  },
-  "contributors.roles.booster": {
-    "description": "'Booster' title for contributors page and user pages.",
-    "message": "Penggalak Nitro"
-  },
-  "contributors.roles.communityManager": {
-    "description": "'Community Manager' title for contributors and user pages.",
-    "message": "Pengurus Komuniti"
-  },
-  "contributors.roles.discordModerator": {
-    "description": "'Discord Moderator' title for contributors and user pages.",
-    "message": "Moderator Discord"
-  },
-  "contributors.roles.donator": {
-    "description": "'Donator' title for contributors page.",
-    "message": "Penderma"
-  },
-  "contributors.roles.humanResources": {
-    "description": "'Human Resources' title for contributors and user pages.",
-    "message": "Sumber Manusia"
-  },
-  "contributors.roles.localizationManager": {
-    "description": "'Localization Manager' title for contributors and user pages.",
-    "message": "Pengurus Penyetempatan"
-  },
-  "contributors.roles.projectManagement": {
-    "description": "'Project Management' title for contributors and user pages.",
-    "message": "Pengurusan Projek"
-  },
-  "contributors.roles.proofreader": {
-    "description": "'Proofreader' title for contributors and user pages.",
-    "message": "Pembaca Pruf"
-  },
-  "contributors.roles.technicalSupport": {
-    "description": "'Technical Support' title for contributors and user pages.",
-    "message": "Sokongan Teknikal"
-  },
-  "contributors.roles.translator": {
-    "description": "'Translator' title for contributors page.",
-    "message": "Penterjemah"
-  }
+	"contributors.headings.staff": {
+		"message": "Kakitangan",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Penyokong",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.discordModerator": {
+		"message": "Moderator Discord",
+		"description": "'Discord Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.technicalSupport": {
+		"message": "Sokongan Teknikal",
+		"description": "'Technical Support' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Pengurus Penyetempatan",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "Pengurus Komuniti",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.projectManagement": {
+		"message": "Pengurusan Projek",
+		"description": "'Project Management' title for contributors and user pages."
+	},
+	"contributors.roles.humanResources": {
+		"message": "Sumber Manusia",
+		"description": "'Human Resources' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Pembaca Pruf",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Penterjemah",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Penderma",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Penggalak Nitro",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Penterjemah",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Klik untuk salin ID pengguna.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID pengguna disalin!",
+		"description": "Notification after user ID was copied."
+	}
 }
