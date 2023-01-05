@@ -1,50 +1,50 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "Kode Sumber"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "Changelog"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "Deskripsi"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "Penulis"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "Kontributor"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "Suka"
-  },
-  "presence.sections.information.moreurls": {
-    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
-    "message": "Presence ini mendukung lebih banyak URL daripada yang disebutkan dibawah dengan menggunakan RegExp. Arahkan kursor untuk melihat pola"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "URL Didukung"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "Tag"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "Informasi"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "Pengguna"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "Versi"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "Kode Sumber",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Deskripsi",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Changelog",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Informasi",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Penulis",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Versi",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Suka",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Pengguna",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Tag",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "URL Didukung",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.moreurls": {
+		"message": "Presence ini mendukung lebih banyak URL daripada yang disebutkan dibawah dengan menggunakan RegExp. Arahkan kursor untuk melihat pola",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Kontributor",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
