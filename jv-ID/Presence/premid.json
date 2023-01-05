@@ -1,94 +1,94 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Dokumen"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Tentang PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageApiVersion": {
-    "description": "A page name // {0} will be replaced with the version number.",
-    "message": "Ngerteni API v{0}"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Kontributor"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Unduhan"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Beranda"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "Ngerteni iframe"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Instalasi"
-  },
-  "premid.pageInstallFor": {
-    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
-    "message": "Pemasangan kanggo {0}"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "Ngatur metadata.json"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Kelas Presence"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Pengembangan Presence"
-  },
-  "premid.pagePresenceGuide": {
-    "description": "A page name",
-    "message": "Panduan Presence"
-  },
-  "premid.pageSlideshowClass": {
-    "description": "A page name",
-    "message": "Kelas Slideshow"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Mulai"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Toko"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Persyaratan Sistem"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Ngatasi masalah"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "Ngatur TypeScript"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Mitra"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "Ndeleng halaman:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Ndeleng presence:"
-  }
+	"premid.viewPage": {
+		"message": "Ndeleng halaman:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumen",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Ndeleng presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Beranda",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Kontributor",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Unduhan",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Toko",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Mitra",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Tentang PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Persyaratan Sistem",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instalasi",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Pemasangan kanggo {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Ngatasi masalah",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Mulai",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "Ngerteni API v{0}",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Pengembangan Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Panduan Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Kelas Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Kelas Slideshow",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Ngerteni iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Ngatur metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Ngatur TypeScript",
+		"description": "A page name"
+	}
 }
