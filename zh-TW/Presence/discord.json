@@ -1,10 +1,10 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "遊覽中"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "正在檢視收藏:"
-  }
+	"discord.browseThrough": {
+		"message": "遊覽中",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.merch.collection": {
+		"message": "正在檢視收藏:",
+		"description": ""
+	}
 }
