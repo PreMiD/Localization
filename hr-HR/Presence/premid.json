@@ -1,10 +1,10 @@
 {
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Prinosnici"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Rješavanje problema"
-  }
+	"premid.pageContributors": {
+		"message": "Prinosnici",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Rješavanje problema",
+		"description": "A page name"
+	}
 }
