@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Their डीएम देखना"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "खेल देखना:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "कर्मचारियों की सूची देखना"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Their देखे गए फ़ोरम देखना"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Their देखे गए धागों को देखना"
-  }
+    "hypixel.staff": {
+        "message": "कर्मचारियों की सूची देखना",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Their देखे गए धागों को देखना",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Their देखे गए फ़ोरम देखना",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Their डीएम देखना",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "खेल देखना:",
+        "description": ""
+    }
 }
