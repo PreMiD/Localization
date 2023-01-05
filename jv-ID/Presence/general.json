@@ -1,338 +1,338 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Njelajah..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Rungokae Bareng"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Maca Artikel"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Album"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Artis"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Saluran"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Episode"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Halaman"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Dhaptar Putar"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Podcast"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Profil"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Serial"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Lagu"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Stream"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Video"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Bab"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Kebijakan Cookie"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Episode"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Forum"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Genre"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Ing panggilan..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Riwayat kadediyan"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Ndeleng kadediyan"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Basa"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Ngrungokake musik"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Live"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Barang dagangan"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Halaman"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Dijeda"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Main"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Kebijakan Privasi"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Maca"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Maca tentang:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Maca artikel:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Maca ing saluran:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Maca DM saka:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Maca pos:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Maca thread:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Dalam putaran"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Mutar ulang kabeh lagu"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Nggoleki"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Nggoleki:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Nggoleki..."
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Keranjang belanja"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Toko"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Ketentuan Layanan"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Ngetik ing channel:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Ngetik DM kanggo:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Riwayat uptime"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Ndeleng akune dheweke"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Ndeleng anime:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Ndeleng kategori:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Ndeleng saluran:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Ndeleng episode:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Ndeleng genre:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Ndeleng halaman beranda"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Ndeleng daftar:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Ndeleng manga:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Ndeleng anggota:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Ndeleng film:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Ndeleng halaman:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Ndeleng dhaptar putar:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Ndeleng produk:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Ndeleng profil:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Ndeleng serial:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Ndeleng acara:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Ndeleng thread:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Ndeleng pengguna:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Ndeleng:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Ngenteni siaran langsung diwiwiti"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Ngenteni siaran langsung diwiwiti"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Ngenteni video kanggo tayang perdana"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Ngenteni video kanggo tayang perdana"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Ndeleng:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Ndeleng streaming langsung"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Ndeleng film"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Ndeleng serial"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Ndeleng pertunjukan"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Ndeleng video"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Daftar Keinginan:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Nulis"
-  }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Njelajah...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Bab",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Episode",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Genre",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Basa",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Ngrungokake musik",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Live",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Barang dagangan",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Halaman",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Dijeda",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Main",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Maca DM saka:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Maca tentang:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Maca artikel:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Maca ing saluran:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Maca pos:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Maca thread:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Maca",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Nggoleki:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Nggoleki...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Nggoleki",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Nulis",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Ing panggilan...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Keranjang belanja",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Toko",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Ngetik DM kanggo:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Ngetik ing channel:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Ndeleng anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Ndeleng kategori:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Ndeleng saluran:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Ndeleng episode:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Ndeleng genre:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Ndeleng halaman beranda",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Ndeleng daftar:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Ndeleng manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Ndeleng anggota:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Ndeleng film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Ndeleng dhaptar putar:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Ndeleng produk:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Ndeleng profil:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Ndeleng serial:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Ndeleng acara:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Ndeleng akune dheweke",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Ndeleng thread:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Ndeleng pengguna:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Ndeleng:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Ndeleng halaman:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Ndeleng film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Ndeleng serial",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Ndeleng pertunjukan",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Ndeleng video",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Ngenteni video kanggo tayang perdana",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Ngenteni video kanggo tayang perdana",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Ndeleng streaming langsung",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Ngenteni siaran langsung diwiwiti",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Ngenteni siaran langsung diwiwiti",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Ndeleng:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Daftar Keinginan:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Kebijakan Privasi",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Ketentuan Layanan",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Kebijakan Cookie",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Mutar ulang kabeh lagu",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Dalam putaran",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Ndeleng kadediyan",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Riwayat kadediyan",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Riwayat uptime",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Ndeleng Serial",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Ndeleng Episode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Ndeleng Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Ndeleng Stream",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Ndeleng Saluran",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Rungokae Bareng",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Ndeleng Halaman",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Ndeleng Lagu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Ndeleng Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Ndeleng Profil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Ndeleng Artis",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Ndeleng Dhaptar Putar",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Ndeleng Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Maca Artikel",
+		"description": "Used as the title for the button in Discord."
+	}
 }
