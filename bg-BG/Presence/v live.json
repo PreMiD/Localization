@@ -1,98 +1,98 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Търси в"
-  },
-  "v live.channelBoard": {
-    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
-    "message": "Гледа \"{0}\" таблото"
-  },
-  "v live.channelHome": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Гледа началната страница"
-  },
-  "v live.channelList": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "списъкът с канали"
-  },
-  "v live.channelMy": {
-    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
-    "message": "Гледа \"моята\" страница"
-  },
-  "v live.channelSchedule": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Гледа страницата с график"
-  },
-  "v live.channelStore": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Гледа страницата магазин"
-  },
-  "v live.charts": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "страницата диаграми"
-  },
-  "v live.coins": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "монетен баланс"
-  },
-  "v live.devices": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "свързани устройства"
-  },
-  "v live.events": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "страницата събития"
-  },
-  "v live.followed": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "следвани канали"
-  },
-  "v live.newVid": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "новата страница на видеото"
-  },
-  "v live.ofChannel": {
-    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
-    "message": "на канала на {0}"
-  },
-  "v live.policies": {
-    "description": "",
-    "message": "Чете политиките"
-  },
-  "v live.product": {
-    "description": "{0} will be replaced with the name of the publisher of the product",
-    "message": "Гледа продукт на {0}"
-  },
-  "v live.profile": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "профилна страница"
-  },
-  "v live.profileEdit": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Редактира своят{0}собствен профил"
-  },
-  "v live.purchases": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "скорошни покупки"
-  },
-  "v live.recentUploads": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Преглежда през на своите{0}последователи скорошни качвания"
-  },
-  "v live.store": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "страницата магазин"
-  },
-  "v live.upcoming": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "страницата брандиращи"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "Гледа своите"
-  },
-  "v live.watched": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "изгледани клипове"
-  }
+	"v live.browseThrough": {
+		"message": "Търси в",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "новата страница на видеото",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "страницата диаграми",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "страницата брандиращи",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "списъкът с канали",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "страницата събития",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "страницата магазин",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Преглежда през на своите{0}последователи скорошни качвания",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "на канала на {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Гледа началната страница",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Гледа страницата с график",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Гледа \"моята\" страница",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Гледа страницата магазин",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "Гледа \"{0}\" таблото",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "Гледа продукт на {0}",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.profileEdit": {
+		"message": "Редактира своят{0}собствен профил",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.viewTheir": {
+		"message": "Гледа своите",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "профилна страница",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "изгледани клипове",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "скорошни покупки",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "монетен баланс",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "свързани устройства",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "следвани канали",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Чете политиките",
+		"description": ""
+	}
 }
