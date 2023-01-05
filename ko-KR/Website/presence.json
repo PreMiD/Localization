@@ -1,50 +1,50 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "소스 코드"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "변경 사항"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "설명"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "제작자"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "기여자"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "좋아요 수"
-  },
-  "presence.sections.information.moreurls": {
-    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
-    "message": "이 Presence는 정규 표현식을 사용해 아래 나열된 URL보다 더 많은 URL을 지원해요. 패턴을 보려면 마우스 커서를 가져다 대세요."
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "지원하는 URL"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "태그"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "정보"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "사용자 수"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "버전"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "소스 코드",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "설명",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "변경 사항",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "정보",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "제작자",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "버전",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "좋아요 수",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "사용자 수",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "태그",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "지원하는 URL",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.moreurls": {
+		"message": "이 Presence는 정규 표현식을 사용해 아래 나열된 URL보다 더 많은 URL을 지원해요. 패턴을 보려면 마우스 커서를 가져다 대세요.",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
+	"presence.sections.information.contributors": {
+		"message": "기여자",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
