@@ -1,90 +1,90 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "Speelt een spel"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Bladeren..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Live"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Wordt afgespeeld"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} over"
-  },
-  "home.examples.timestamp2": {
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} verstreken"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "Je zult deze functies geweldig vinden!"
-  },
-  "home.features.presencesystem.button": {
-    "description": "Features section button",
-    "message": "Naar bibliotheek"
-  },
-  "home.features.presencesystem.description": {
-    "description": "Features section description",
-    "message": "Met onze eenvoudige extensie kunnen gebruikers gemakkelijk presences van anderen toevoegen, gebruiken en beheren!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "Vind **jouw** presence"
-  },
-  "home.features.quickSupport.button": {
-    "description": "Features section button",
-    "message": "Word lid van onze Discord"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "Is er iets kapot, krijg je een heleboel foutmeldingen of werkt het gewoon niet? We verhelpen deze problemen graag in onze Discord-server. We hebben daar ons eigen ondersteuningssysteem dat ervoor zorgt dat je probleem zo snel mogelijk opgelost wordt."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "Snelle ondersteuning"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "Moe van ingewikkelde gebruikersinterfaces? Wij houden onze UI zo eenvoudig en nuttig mogelijk, met belangrijke functies zoals:"
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "App- en extensie-instellingen"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Presencebeheer"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "Sorteren op categorie"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "Eenvoudige gebruikersinterface"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "Downloads"
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "Functies"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "**PreMiD** is een eenvoudig, configureerbaar hulpmiddel waarmee je kunt laten zien wat je op het internet aan het doen bent in je Discord status."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "Websitetaal"
-  }
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** is een eenvoudig, configureerbaar hulpmiddel waarmee je kunt laten zien wat je op het internet aan het doen bent in je Discord status.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Functies",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Downloads",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Speelt een spel",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} over",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} verstreken",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Wordt afgespeeld",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Bladeren...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Je zult deze functies geweldig vinden!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Vind **jouw** presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Met onze eenvoudige extensie kunnen gebruikers gemakkelijk presences van anderen toevoegen, gebruiken en beheren!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Naar bibliotheek",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Eenvoudige gebruikersinterface",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Moe van ingewikkelde gebruikersinterfaces? Wij houden onze UI zo eenvoudig en nuttig mogelijk, met belangrijke functies zoals:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "App- en extensie-instellingen",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presencebeheer",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sorteren op categorie",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Snelle ondersteuning",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Is er iets kapot, krijg je een heleboel foutmeldingen of werkt het gewoon niet? We verhelpen deze problemen graag in onze Discord-server. We hebben daar ons eigen ondersteuningssysteem dat ervoor zorgt dat je probleem zo snel mogelijk opgelost wordt.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Word lid van onze Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Websitetaal",
+		"description": "Tippy content of the language selector."
+	}
 }
