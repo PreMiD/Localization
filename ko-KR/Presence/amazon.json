@@ -1,70 +1,70 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "주소 목록 보는 중"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "잔액 보는 중"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "장바구니"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "모든 카테고리 보는 중"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "기프트카드"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "기록 보는 중"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "주문 상세"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "주문 내역"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "결제 방식 보는 중"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "애완동물 보는 중"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "아마존 프라임을 보는 중"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Prime Video 보는 중:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "추천 항목 보는 중"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "스토어 보는 중:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "구독 보는 중"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "보는 중"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "위시리스트"
-  }
+    "amazon.subscriptions": {
+        "message": "구독 보는 중",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "잔액 보는 중",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "결제 방식 보는 중",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "주소 목록 보는 중",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "애완동물 보는 중",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "모든 카테고리 보는 중",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "아마존 프라임을 보는 중",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "보는 중",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "주문 내역",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "주문 상세",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "장바구니",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "위시리스트",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "기프트카드",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "추천 항목 보는 중",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "기록 보는 중",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "스토어 보는 중:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Prime Video 보는 중:",
+        "description": ""
+    }
 }
