@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "เพิ่ม Presence"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "Presence นี้ได้ถูกเปิดใช้งานโดยอัตโนมัติเมื่อเข้าชมหน้านี้"
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "ลบ Presence"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "ผู้เขียน"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "Presence นี้ต้องการขั้นตอนเพิ่มเติมในการทำงาน โปรดตรวจสอบข้อมูลเพิ่มเติม"
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "Presence ของพาร์ทเนอร์"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "Presence นี้เป็นที่นิยมมากในหมู่ผู้ใช้"
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "ทั้งหมด"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "แสดงอันที่เป็น NSFW (18+)"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "ตัวกรอง"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "แสดงเฉพาะ Presence ที่ชอบ"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "แสดงอันที่คนใช้งานมากที่สุดก่อน"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "เกมส์"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "หมวดหมู่"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "เพลง"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "อื่นๆ"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "โซเชียล"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "วีดีโอ และ สตรีม"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "แสดง Presence ที่ติดตั้งอยู่แล้ว"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "ค้นหา Presence"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "ไม่ได้เชื่อมต่อกับส่วนขยาย"
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "่ค้นหา"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "ค้นหา"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "คลิกเพื่อลบตัวกรอง"
-  }
+	"store.message.error": {
+		"message": "ไม่ได้เชื่อมต่อกับส่วนขยาย",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "ผู้เขียน",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Presence นี้เป็นที่นิยมมากในหมู่ผู้ใช้",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Presence ของพาร์ทเนอร์",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Presence นี้ต้องการขั้นตอนเพิ่มเติมในการทำงาน โปรดตรวจสอบข้อมูลเพิ่มเติม",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "ค้นหา Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "เพิ่ม Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "ลบ Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Presence นี้ได้ถูกเปิดใช้งานโดยอัตโนมัติเมื่อเข้าชมหน้านี้",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "ตัวกรอง",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "แสดงอันที่คนใช้งานมากที่สุดก่อน",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "แสดงอันที่เป็น NSFW (18+)",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "แสดงเฉพาะ Presence ที่ชอบ",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "แสดง Presence ที่ติดตั้งอยู่แล้ว",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "หมวดหมู่",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "ทั้งหมด",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "เกมส์",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "เพลง",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "โซเชียล",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "วีดีโอ และ สตรีม",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "อื่นๆ",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "่ค้นหา",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "ค้นหา",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "คลิกเพื่อลบตัวกรอง",
+		"description": "Remove message for active search filters."
+	}
 }
