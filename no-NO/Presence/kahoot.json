@@ -1,138 +1,138 @@
 {
-  "kahoot.buttonJoinGame": {
-    "description": "Used as the title for the button in Discord. {0} is the Game ID",
-    "message": "Bli med i spill: {0}"
-  },
-  "kahoot.correctAnswer": {
-    "description": "Used when the user anwered correct on a question",
-    "message": "Riktig svar"
-  },
-  "kahoot.createHome": {
-    "description": "Used when the user is viewing the create.kahoot.it home page",
-    "message": "Ser på hjemmesiden"
-  },
-  "kahoot.discover": {
-    "description": "Used when the user is viewing the discover page",
-    "message": "Ser på \"Utforsk\"-siden"
-  },
-  "kahoot.editingKahoot": {
-    "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below.",
-    "message": "Redigerer Kahoot:"
-  },
-  "kahoot.feedback": {
-    "description": "Used when a player is providing feedback about the quiz to the host",
-    "message": "Gir tilbakemelding"
-  },
-  "kahoot.firstPlace": {
-    "description": "Used to display who was first place in a game. {0} is a player name",
-    "message": "Førsteplass: {0}"
-  },
-  "kahoot.gameCreate": {
-    "description": "Used when a Kahoot Host is creating a Game",
-    "message": "Lager et nytt spill..."
-  },
-  "kahoot.gameOver": {
-    "description": "Used when the Game is finished",
-    "message": "Spillet er over"
-  },
-  "kahoot.gameStarting": {
-    "description": "Used when a Kahoot Game is starting",
-    "message": "Spillet starter!"
-  },
-  "kahoot.incorrectAnswer": {
-    "description": "Used when the user answered incorrectly on a question",
-    "message": "Feil svar"
-  },
-  "kahoot.joiningGame": {
-    "description": "Used when a user is joining a Kahoot Game.",
-    "message": "Blir med i spillet..."
-  },
-  "kahoot.kahootProfile": {
-    "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below.",
-    "message": "Ser på Kahoot-profil:"
-  },
-  "kahoot.liveCourseActivity": {
-    "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name.",
-    "message": "Aktivitet #{0}: {1}"
-  },
-  "kahoot.loadingPage": {
-    "description": "Used when a page is loading",
-    "message": "Laster inn side..."
-  },
-  "kahoot.login": {
-    "description": "Used when a user is logging in",
-    "message": "Logger inn"
-  },
-  "kahoot.ndPlace": {
-    "description": "Used in the context of 2nd place",
-    "message": "2. plass"
-  },
-  "kahoot.of": {
-    "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
-    "message": "{0} av {1}"
-  },
-  "kahoot.onPodium": {
-    "description": "Used in the context of a player/team being withing the top 3",
-    "message": "På pallen"
-  },
-  "kahoot.playing": {
-    "description": "Used as the first line when a user is answering a question",
-    "message": "Spiller..."
-  },
-  "kahoot.points": {
-    "description": "Used to display how many points a user has. {0} is the number of points",
-    "message": "Poeng: {0}"
-  },
-  "kahoot.position": {
-    "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
-    "message": "Plassering: {0}"
-  },
-  "kahoot.questionLoading": {
-    "description": "Used when the next question is loading",
-    "message": "Neste spørsmål laster inn..."
-  },
-  "kahoot.questionNumber": {
-    "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of",
-    "message": "Spørsmål: {0}"
-  },
-  "kahoot.questionShowing": {
-    "description": "Used when the host is showing a question",
-    "message": "Viser spørsmål:"
-  },
-  "kahoot.questionsCorrect": {
-    "description": "Used to display how many questions a user got correct",
-    "message": "Riktige svar: {0}"
-  },
-  "kahoot.rdPlace": {
-    "description": "Used in the context of 3rd place",
-    "message": "3. plass"
-  },
-  "kahoot.resultsQuestion": {
-    "description": "Used when a user is looking at the results of the question they just answered",
-    "message": "Ser på resultater:"
-  },
-  "kahoot.searchKahoots": {
-    "description": "Used when the user is searching for Kahoots. The search query will be displayed below.",
-    "message": "Søker på Kahoots:"
-  },
-  "kahoot.slideShowing": {
-    "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz",
-    "message": "Vis slide med innhold:"
-  },
-  "kahoot.stPlace": {
-    "description": "Used in the context of 1st place",
-    "message": "1. plass"
-  },
-  "kahoot.topX": {
-    "description": "Used in the context of Top 5",
-    "message": "Topp {0}"
-  },
-  "kahoot.waiting": {
-    "description": "Used when the user is waiting for a Kahoot Game to start",
-    "message": "Venter på å starte..."
-  },
-  "kahoot.waitingAnswer": {
-    "description": "Used when a player is waiting for the question results",
-    "message": "Venter på resultater..."
-  }
+    "kahoot.buttonJoinGame": {
+        "message": "Bli med i spill: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.joiningGame": {
+        "message": "Blir med i spillet...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.waiting": {
+        "message": "Venter på å starte...",
+        "description": "Used when the user is waiting for a Kahoot Game to start"
+    },
+    "kahoot.gameStarting": {
+        "message": "Spillet starter!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "Spiller...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.questionLoading": {
+        "message": "Neste spørsmål laster inn...",
+        "description": "Used when the next question is loading"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "Feil svar",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "Riktig svar",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.resultsQuestion": {
+        "message": "Ser på resultater:",
+        "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.gameOver": {
+        "message": "Spillet er over",
+        "description": "Used when the Game is finished"
+    },
+    "kahoot.gameCreate": {
+        "message": "Lager et nytt spill...",
+        "description": "Used when a Kahoot Host is creating a Game"
+    },
+    "kahoot.loadingPage": {
+        "message": "Laster inn side...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "Førsteplass: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.points": {
+        "message": "Poeng: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "Riktige svar: {0}",
+        "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "Vis slide med innhold:",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
+    },
+    "kahoot.questionNumber": {
+        "message": "Spørsmål: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.questionShowing": {
+        "message": "Viser spørsmål:",
+        "description": "Used when the host is showing a question"
+    },
+    "kahoot.stPlace": {
+        "message": "1. plass",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2. plass",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3. plass",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "Topp {0}",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{0} av {1}",
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.onPodium": {
+        "message": "På pallen",
+        "description": "Used in the context of a player/team being withing the top 3"
+    },
+    "kahoot.position": {
+        "message": "Plassering: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    },
+    "kahoot.login": {
+        "message": "Logger inn",
+        "description": "Used when a user is logging in"
+    },
+    "kahoot.createHome": {
+        "message": "Ser på hjemmesiden",
+        "description": "Used when the user is viewing the create.kahoot.it home page"
+    },
+    "kahoot.discover": {
+        "message": "Ser på \"Utforsk\"-siden",
+        "description": "Used when the user is viewing the discover page"
+    },
+    "kahoot.searchKahoots": {
+        "message": "Søker på Kahoots:",
+        "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
+    },
+    "kahoot.kahootProfile": {
+        "message": "Ser på Kahoot-profil:",
+        "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below."
+    },
+    "kahoot.editingKahoot": {
+        "message": "Redigerer Kahoot:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourseActivity": {
+        "message": "Aktivitet #{0}: {1}",
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
+    },
+    "kahoot.feedback": {
+        "message": "Gir tilbakemelding",
+        "description": "Used when a player is providing feedback about the quiz to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "Venter på resultater...",
+        "description": "Used when a player is waiting for the question results"
+    }
 }
