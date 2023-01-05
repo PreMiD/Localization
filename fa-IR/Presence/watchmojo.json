@@ -1,18 +1,18 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "بازی کردن دانستنی"
-  },
-  "watchmojo.playingTrivia": {
-    "description": "For privacy mode, \"a\" as in unspecified.",
-    "message": "درحال بازی کردن دانستنی ها"
-  },
-  "watchmojo.trivia": {
-    "description": "{0} will be replaced with the name of the Trivia game",
-    "message": "درحال بازی کردن دانستنی ها: {0}"
-  },
-  "watchmojo.triviaGame": {
-    "description": "The round and score of the Trivia game the user is playing.",
-    "message": "دور {0} از {1} (امتیاز: {2}/{3})"
-  }
+	"watchmojo.triviaGame": {
+		"message": "دور {0} از {1} (امتیاز: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "درحال بازی کردن دانستنی ها: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.playingTrivia": {
+		"message": "درحال بازی کردن دانستنی ها",
+		"description": "For privacy mode, \"a\" as in unspecified."
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "بازی کردن دانستنی",
+		"description": "Used as the title for the button in Discord."
+	}
 }
