@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "любимые альбомы"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "любимых исполнителей"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Лучшие подкасты"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Смотрит"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Смотрит графики"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Ищет новые песни"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Скачивает Spotify"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Избранные песни"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Смотрит жанры"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Смотрит последние релизы"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "раздел «Только для вас»"
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "свои плейлисты"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "любимые подкасты"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "любимые песни"
-  }
+	"spotify.featured": {
+		"message": "Избранные песни",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Лучшие подкасты",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Смотрит графики",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Смотрит жанры",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Смотрит последние релизы",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Ищет новые песни",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Смотрит",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "любимые подкасты",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "любимых исполнителей",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "любимые альбомы",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "любимые песни",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "раздел «Только для вас»",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "свои плейлисты",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Скачивает Spotify",
+		"description": ""
+	}
 }
