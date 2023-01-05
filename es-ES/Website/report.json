@@ -1,58 +1,58 @@
 {
-  "report.activebugs": {
-    "description": "Lists users active bugs",
-    "message": "Errores activos"
-  },
-  "report.browser": {
-    "description": "Select Box for the user to select their browser",
-    "message": "Selecciona tu navegador y versión - Puedes saber que versión tienes visitando about:support en Firefox o chrome://help"
-  },
-  "report.bugcount": {
-    "description": "Amount of bug reports user can send",
-    "message": "{count}/3 Informes restantes"
-  },
-  "report.button": {
-    "description": "Button to send the information inputed.",
-    "message": "Reportar"
-  },
-  "report.description": {
-    "description": "Text for the user to write information about the bug.",
-    "message": "Proporciona un enlace a un ejemplo o un claro conjunto de pasos para reproducir este error."
-  },
-  "report.error": {
-    "description": "User needs to input more notification",
-    "message": "Se requiere más información"
-  },
-  "report.error.unauth": {
-    "description": "Users Discord not verified",
-    "message": "La cuenta de Discord necesita estar verificada"
-  },
-  "report.info": {
-    "description": "Tells the user about submitting a bug",
-    "message": "Los reportes de errores son para errores dentro del sitio PreMiD y el Servidor PreMiD de Discord. Los bugs para una presence deberán ser reportados al creador de la presence. Sólo reportar errores en inglés."
-  },
-  "report.os": {
-    "description": "Select Box for the user to select their operating system",
-    "message": "Selecciona tu sistema operativo y versión"
-  },
-  "report.overview": {
-    "description": "Text for the user to write a brief of the bug information.",
-    "message": "Proporciona una descripción clara y concisa de lo que es el error."
-  },
-  "report.success": {
-    "description": "Success notification",
-    "message": "Error enviado"
-  },
-  "report.title": {
-    "description": "Text to indicate the page.",
-    "message": "Informar de un error"
-  },
-  "report.toomany": {
-    "description": "User has too many active reports",
-    "message": "Tiene demasiados reportes activos. Espere a que sus reportes presentados sean revisados. Los reportes se revisan semanalmente, sea paciente."
-  },
-  "report.toomany.alert": {
-    "description": "User has too many active reports",
-    "message": "Tienes demasiados reportes activos."
-  }
+	"report.title": {
+		"message": "Informar de un error",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Informes restantes",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Los reportes de errores son para errores dentro del sitio PreMiD y el Servidor PreMiD de Discord. Los bugs para una presence deberán ser reportados al creador de la presence. Sólo reportar errores en inglés.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Proporciona una descripción clara y concisa de lo que es el error.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Selecciona tu sistema operativo y versión",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Selecciona tu navegador y versión - Puedes saber que versión tienes visitando about:support en Firefox o chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Proporciona un enlace a un ejemplo o un claro conjunto de pasos para reproducir este error.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Reportar",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Tiene demasiados reportes activos. Espere a que sus reportes presentados sean revisados. Los reportes se revisan semanalmente, sea paciente.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Tienes demasiados reportes activos.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Error enviado",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Se requiere más información",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "La cuenta de Discord necesita estar verificada",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Errores activos",
+		"description": "Lists users active bugs"
+	}
 }
