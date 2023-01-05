@@ -1,150 +1,150 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Teastaionn Cabhair?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Stór Láithreachta"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Gach"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Anime"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Cluichí"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Ceol"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Eile"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Sóisialta"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Físeáin agus Sruthanna"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Ó níl!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Tharla earráid agus creidmheasanna á lódáil"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Cur síos"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Ginearálta"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Láithreachtaí"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Socruithe"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Aon nasc idirlín!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Dealraíonn sé cosúil nach bhfuil tú bhfuil nasc idirlín! PreMiD ní bheidh a bheith in ann a thaispeáint presences i láthair na huaire."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Níl sé nasctha"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Ní raibh PreMiD in ann ceangal lena chur i bhfeidhm! An bhfuil sé suiteáilte agus ag rith? *Fabhtcheartú*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Gan aon nasc Discord!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Ní raibh PreMiD in ann ceangal chun d’iarratas Discord! An bhfuil sé suiteáilte agus ag rith? *Fabhtcheartú*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Síneadh atá as dáta"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Do Síneadh atá as dáta. Le do thoil a thabhairt cothrom le dáta sé a fháil ar a gnéithe is déanaí trí é a íoslódáil ón ár suíomh."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Práinneach a thabhairt cothrom le dáta"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "D'eisíomar nuashonrú práinneach don síneadh. Déan é a nuashonrú le do thoil chun leanúint ar aghaidh ag úsáid PreMiD."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Tá an feidhmchlár as dáta"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "Tá an t-iarratas PreMiD suiteáilte reatha as dáta! Nuashonraigh le do thoil chun leanúint ar aghaidh ag úsáid PreMiD."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Creidmheasanna"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Socruithe"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Críochnaithe"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Láithreacht Lódálaim"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Bainistigh"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Níl aon Láithreachtaí curtha leis"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Seoladh uathoibríoch"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Cumasaithe"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Rialuithe Meáin"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Barra Teidil"
-  }
+	"popup.navigation.settings": {
+		"message": "Socruithe",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "Creidmheasanna",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "Socruithe",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "Ginearálta",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "Cur síos",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "Cumasaithe",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Rialuithe Meáin",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "Barra Teidil",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "Seoladh uathoibríoch",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Láithreachtaí",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "Bainistigh",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "Níl aon Láithreachtaí curtha leis",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "Críochnaithe",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Láithreacht Lódálaim",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Stór Láithreachta",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Teastaionn Cabhair?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Ó níl!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "Tharla earráid agus creidmheasanna á lódáil",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Níl sé nasctha",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "Ní raibh PreMiD in ann ceangal lena chur i bhfeidhm! An bhfuil sé suiteáilte agus ag rith? *Fabhtcheartú*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Tá an feidhmchlár as dáta",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Tá an t-iarratas PreMiD suiteáilte reatha as dáta! Nuashonraigh le do thoil chun leanúint ar aghaidh ag úsáid PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Síneadh atá as dáta",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Do Síneadh atá as dáta. Le do thoil a thabhairt cothrom le dáta sé a fháil ar a gnéithe is déanaí trí é a íoslódáil ón ár suíomh.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Práinneach a thabhairt cothrom le dáta",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "D'eisíomar nuashonrú práinneach don síneadh. Déan é a nuashonrú le do thoil chun leanúint ar aghaidh ag úsáid PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Aon nasc idirlín!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Dealraíonn sé cosúil nach bhfuil tú bhfuil nasc idirlín! PreMiD ní bheidh a bheith in ann a thaispeáint presences i láthair na huaire.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Gan aon nasc Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "Ní raibh PreMiD in ann ceangal chun d’iarratas Discord! An bhfuil sé suiteáilte agus ag rith? *Fabhtcheartú*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "Gach",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Anime",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Ceol",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Cluichí",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Sóisialta",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Físeáin agus Sruthanna",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Eile",
+		"description": "Category name shown when you open tags"
+	}
 }
