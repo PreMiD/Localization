@@ -1,366 +1,366 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Göz atıyor..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Birlikte Dinle"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Makaleyi Oku"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Albümü Görüntüle"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Sanatçıyı Görüntüle"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Kanalı Görüntüle"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Bölümü İzle"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Filmi Görüntüle"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Sayfayı Görüntüle"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Oynatma Listesini Görüntüle"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Podcast'i Görüntüle"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Profili Görüntüle"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Seriyi Göster"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Şarkıyı Görüntüle"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Filmi İzle"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Yayını İzle"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Videoyu İzle"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Arıyor"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Bölüm"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Çerez Politikası"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Düzenliyor:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Bölüm"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Forum"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Tür"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Aramada..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Hata geçmişi"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Bir olaya bakıyor"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Dil"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Dinleyiciler"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Müzik dinliyor"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "{1} dinliyor"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Canlı"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Mağaza"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Sayfa"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Duraklatıldı"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Oynatılıyor"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Gizlilik Politikası"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Okuyor"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Okuyor:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Şu gönderiyi okuyor:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Şu kanalda okuyor:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Şu kişi ile mesajlaşıyor:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Gönderi okuyor:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Konu okuyor:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Döngüde oynatılıyor"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Tüm şarkılar döngüde"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Arıyor"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Arıyor:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Bir şeyler arıyor..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Sezon"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Alışveriş sepeti"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Mağaza"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Kullanım Koşulları"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Şu kanala yazıyor:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Şu kişiye mesaj yazıyor:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Çalışma süres geçmişi"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Hesabına bakıyor"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Şu animeye bakıyor:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Şu kategoriye bakıyor:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Şu kanala bakıyor:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Şu bölüme bakıyor:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Şu türe bakıyor:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Ana sayfaya bakıyor"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Şunun listesine bakıyor:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Şu mangaya bakıyor:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Şu kullanıcıya bakıyor:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Şu filme bakıyor:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Bir sayfayı görüntülüyor:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Şu oynatma listesine bakıyor:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Şu ürüne bakıyor:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Şunun profiline bakıyor:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Dizilere bakıyor:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Şu diziye bakıyor:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Şu konuya bakıyor:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Şu kullanıcıya bakıyor:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Bakıyor:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Canlı yayının başlamasını bekliyor"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Canlı yayının başlamasını bekliyor"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Bir videonun ilk gösterimini bekliyor"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Videonun ilk gösterimini bekliyor"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Şunu izliyor:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Bir yayın izliyor"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Bir film izliyor"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Bir seri izliyor"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Bir dizi izliyor"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Bir video izliyor"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "İstek listesi:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Yazıyor"
-  }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Göz atıyor...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Bölüm",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Düzenliyor:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Bölüm",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Sezon",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Tür",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Dil",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Müzik dinliyor",
+		"description": ""
+	},
+	"general.listeningTo": {
+		"message": "{1} dinliyor",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc."
+	},
+	"general.listeners": {
+		"message": "Dinleyiciler",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Canlı",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Mağaza",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Sayfa",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Duraklatıldı",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Oynatılıyor",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Şu kişi ile mesajlaşıyor:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Okuyor:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Şu gönderiyi okuyor:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Şu kanalda okuyor:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Gönderi okuyor:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Konu okuyor:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Okuyor",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Arıyor:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Bir şeyler arıyor...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Arıyor",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Yazıyor",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Arıyor",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Aramada...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Alışveriş sepeti",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Mağaza",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Şu kişiye mesaj yazıyor:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Şu kanala yazıyor:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Şu animeye bakıyor:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Şu kategoriye bakıyor:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Şu kanala bakıyor:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Şu bölüme bakıyor:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Şu türe bakıyor:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Ana sayfaya bakıyor",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Şunun listesine bakıyor:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Şu mangaya bakıyor:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Şu kullanıcıya bakıyor:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Şu filme bakıyor:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Şu oynatma listesine bakıyor:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Şu ürüne bakıyor:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Şunun profiline bakıyor:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Dizilere bakıyor:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Şu diziye bakıyor:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Hesabına bakıyor",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Şu konuya bakıyor:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Şu kullanıcıya bakıyor:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Bakıyor:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Bir sayfayı görüntülüyor:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Bir film izliyor",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Bir seri izliyor",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Bir dizi izliyor",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Bir video izliyor",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Bir videonun ilk gösterimini bekliyor",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Videonun ilk gösterimini bekliyor",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Bir yayın izliyor",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Canlı yayının başlamasını bekliyor",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Canlı yayının başlamasını bekliyor",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Şunu izliyor:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "İstek listesi:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Gizlilik Politikası",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Kullanım Koşulları",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Çerez Politikası",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Tüm şarkılar döngüde",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Döngüde oynatılıyor",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Bir olaya bakıyor",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Hata geçmişi",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Çalışma süres geçmişi",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Seriyi Göster",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Filmi Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Bölümü İzle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Filmi İzle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Videoyu İzle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Yayını İzle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Kanalı Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Birlikte Dinle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Sayfayı Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Şarkıyı Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Albümü Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Profili Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Sanatçıyı Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Oynatma Listesini Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Podcast'i Görüntüle",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Makaleyi Oku",
+		"description": "Used as the title for the button in Discord."
+	}
 }
