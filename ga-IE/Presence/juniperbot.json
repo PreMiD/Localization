@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Ag féachaint ar liosta na n-orduithe"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "Ag léamh faoi fhianáin an láithreáin"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "Ag léamh faisnéise faoi na pleananna síntiús"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "Ag féachaint ar chlár ceannais an fhreastalaí:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Príomhleathanach"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "Sa phainéal"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Pobal: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Freastalaí a roghnú"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Ag féachaint ar staitisticí bot"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "Cárta céim a shaincheapadh"
-  }
+    "juniperbot.mainpage": {
+        "message": "Príomhleathanach",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Ag féachaint ar chlár ceannais an fhreastalaí:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Sa phainéal",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Pobal: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Ag léamh faisnéise faoi na pleananna síntiús",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Freastalaí a roghnú",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Ag féachaint ar liosta na n-orduithe",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Ag féachaint ar staitisticí bot",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Cárta céim a shaincheapadh",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Ag léamh faoi fhianáin an láithreáin",
+        "description": "Reading about the site's cookies"
+    }
 }
