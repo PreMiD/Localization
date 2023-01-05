@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "DMを閲覧中"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "ゲーム一覧を表示中"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "スタッフ一覧を閲覧中"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "閲覧したフォーラム一覧を表示中"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "閲覧したスレッド一覧を表示中"
-  }
+    "hypixel.staff": {
+        "message": "スタッフ一覧を閲覧中",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "閲覧したスレッド一覧を表示中",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "閲覧したフォーラム一覧を表示中",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "DMを閲覧中",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "ゲーム一覧を表示中",
+        "description": ""
+    }
 }
