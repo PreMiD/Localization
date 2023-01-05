@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Järjehoidjad"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Avasta"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Teavitused"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Tweeti lugemine:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Mõne sätte muutmine..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Nende DM-de vaatamine"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Meeldimiste vaatamine:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Nimekirja vaatamine:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Meediumite vaatamine:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Tweeti vaatamine:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Tweeti (koos vastustega) vaatamine:"
-  }
+	"twitter.readTweet": {
+		"message": "Tweeti lugemine:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Nende DM-de vaatamine",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Tweeti vaatamine:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Tweeti (koos vastustega) vaatamine:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Meediumite vaatamine:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Meeldimiste vaatamine:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Nimekirja vaatamine:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Järjehoidjad",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Teavitused",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Avasta",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Mõne sätte muutmine...",
+		"description": ""
+	}
 }
