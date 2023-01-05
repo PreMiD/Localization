@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Melihat daftar perintah"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "Membaca cookies situs"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "Membaca informasi tentang rencana donasi"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "Melihat papan peringkat server:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Halaman utama"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "Dashboard"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Guild: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Memilih server"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Melihat statistik bot"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "Menyesuaikan rank card"
-  }
+    "juniperbot.mainpage": {
+        "message": "Halaman utama",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Melihat papan peringkat server:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Dashboard",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Guild: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Membaca informasi tentang rencana donasi",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Memilih server",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Melihat daftar perintah",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Melihat statistik bot",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Menyesuaikan rank card",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Membaca cookies situs",
+        "description": "Reading about the site's cookies"
+    }
 }
