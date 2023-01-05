@@ -1,246 +1,246 @@
 {
-  "partners.apply.button": {
-    "description": "Button to apply for partner.",
-    "message": "Hemen başvurun!"
-  },
-  "partners.apply.disclaimer": {
-    "description": "Disclaimer located above the apply button.",
-    "message": "Hadi birlikte cennete gidelim!"
-  },
-  "partners.apply.error1": {
-    "description": "Error when a field isn't filled.",
-    "message": "Lütfen tüm alanları doldurun."
-  },
-  "partners.apply.error2": {
-    "description": "Error when description exceeds character limit.",
-    "message": "Açıklama en fazla 150 karakter olabilir."
-  },
-  "partners.apply.error3": {
-    "description": "Error when image link is entered wrong.",
-    "message": "Lütfen \"https://\" ile başlayıp \".png\" ile biten bir bağlantı girin."
-  },
-  "partners.apply.error4": {
-    "description": "Error when already applied.",
-    "message": "Partnerlik için zaten başvuru yaptınız."
-  },
-  "partners.apply.form.button.apply": {
-    "description": "Modal apply button.",
-    "message": "Başvur"
-  },
-  "partners.apply.form.button.close": {
-    "description": "Modal close button.",
-    "message": "İptal"
-  },
-  "partners.apply.form.description": {
-    "description": "Description field.",
-    "message": "Açıklama: (En fazla 150 karakter)"
-  },
-  "partners.apply.form.description.placeholder": {
-    "description": "Description field's placeholder.",
-    "message": "Öne çıkarılma için açıklama"
-  },
-  "partners.apply.form.imageLink": {
-    "description": "Do not change the sizes.",
-    "message": "Resim bağlantısı: (550x300, sadece PNG)"
-  },
-  "partners.apply.form.imageLink.placeholder": {
-    "description": "Image link field's placeholder. Do not change the image URL.",
-    "message": "Örn: https://i.imgur.com/clun1ID.png"
-  },
-  "partners.apply.form.link": {
-    "description": "Link field.",
-    "message": "Bağlantı"
-  },
-  "partners.apply.form.link.placeholder": {
-    "description": "Link filed's placeholder.",
-    "message": "Örn: https://premid.app"
-  },
-  "partners.apply.form.name": {
-    "description": "Name filed.",
-    "message": "İsim"
-  },
-  "partners.apply.form.name.placeholder": {
-    "description": "Name field's placeholder.",
-    "message": "Örn: PreMiD"
-  },
-  "partners.apply.jobs": {
-    "description": "Hint located under the button.",
-    "message": "Eğer PreMiD'de bir iş arıyorsanız, **iş sayfamıza** göz atın."
-  },
-  "partners.apply.loggedUser": {
-    "description": "{0} will be replaced with user account.",
-    "message": "{0} olarak giriş yapıldı"
-  },
-  "partners.apply.notYou": {
-    "description": "Account switcher on the modal, just like Discord's!",
-    "message": "Sen değil misin?"
-  },
-  "partners.apply.select.default": {
-    "description": "Select default placeholder.",
-    "message": "Lütfen birini seçin"
-  },
-  "partners.apply.select.other": {
-    "description": "Select 'Other' category.",
-    "message": "Diğer"
-  },
-  "partners.apply.select.website": {
-    "description": "Select 'Website' category.",
-    "message": "İnternet sitesi"
-  },
-  "partners.apply.success": {
-    "description": "Success message when applying.",
-    "message": "Başvuru yaptığınız için teşekkürler!"
-  },
-  "partners.apply.title": {
-    "description": "Partnership application modal title.",
-    "message": "Partnerliğe başvur"
-  },
-  "partners.header.description": {
-    "description": "Description for page.",
-    "message": "Partnerimiz olun ve diğerlerine ne kadar havalı ve \"kuul\" olduğunuzu gösterin."
-  },
-  "partners.header.title": {
-    "description": "Heading for page.",
-    "message": "Partnerler"
-  },
-  "partners.partner.aniFlix": {
-    "description": "Description for AniFlix.",
-    "message": "Anime izlemenin yolu."
-  },
-  "partners.partner.arenaOfKings": {
-    "description": "Description for Arena of Kings.",
-    "message": "Arena of Kings tarayıcınızdan oynayabileceğiniz, ileri seviye, hızlı PvP Arena Kapışması oyunudur."
-  },
-  "partners.partner.bitRock": {
-    "description": "Description for BitRock.",
-    "message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır."
-  },
-  "partners.partner.crowdin": {
-    "description": "Description for Crowdin.",
-    "message": "Projeleriniz için çeviri sistemi oluşturma aracı."
-  },
-  "partners.partner.discordTemplates": {
-    "description": "Description for DiscordTemplates.",
-    "message": "Sitemizdeki ücretsiz şablonlarla kendi topluluğunuzu kurun ve eğlenin."
-  },
-  "partners.partner.erisly": {
-    "description": "Description for Erisly.",
-    "message": "Eğlenceli bir Discord Botu olarak oynayan bir tanrıça!"
-  },
-  "partners.partner.fastly": {
-    "description": "Description for Fastly.",
-    "message": "İnternetin en iyilerinin arkasında."
-  },
-  "partners.partner.onlyhit": {
-    "description": "Description for OnlyHit.",
-    "message": "OnlyHit müzik ufkunuzu açan, gün boyu en sevilen şarkıları 7/24 çalan çevrimiçi bir müzik radyosudur."
-  },
-  "partners.partner.packageCloud": {
-    "description": "Description for PackageCloud.",
-    "message": "Tüm eserleriniz için birleşik, geliştirici dostu arayüz."
-  },
-  "partners.partner.rNetflix": {
-    "description": "Description for r/Netflix.",
-    "message": "r/Netflix, Netflix ile ilgili en büyük Discord sunucusudur. Burada diğer insanlarla sevdiğiniz diziler veya filmler hakkında konuşabilirsin."
-  },
-  "partners.partner.reyfm": {
-    "description": "Description for REYFM.",
-    "message": "REYFM, ücretsiz olarak 15'den fazla müzik yayınını bedava ve kesintisiz dinleyebileceğiniz sizin için en iyi ve en yeni müzikleri yayınlayan bir platformdur!"
-  },
-  "partners.partner.simLiveRadio": {
-    "description": "Description for SimLoveRadio.",
-    "message": "SimLiveRadio simülasyon oyunlarında Almanya, Avusturya ve İsviçrede bulunan oyuncuların dinlediği en popüler radyolardan biridir."
-  },
-  "partners.partner.statusPage": {
-    "description": "Description for StatusPage.",
-    "message": "Servisinizin anlık durumunu kullanıcılara sunabileceğiniz platform."
-  },
-  "partners.partner.taigaBot": {
-    "description": "Description for taigabot.",
-    "message": "taiga size gereken her özelliği, anında sunmaya çalışan bir Discord Botudur!"
-  },
-  "partners.partner.upBeat": {
-    "description": "Description for UpBeatRadio.",
-    "message": "UpBeat Radio bir topluluk-destekli çevrimiçi radyo, 7/24 reklamsız radyo eğlencesi, günlük haber makaleleri ve çok daha fazlasıdır!"
-  },
-  "partners.partner.wikijs": {
-    "description": "Description for WikiJS.",
-    "message": "En güçlü ve en gelişmiş Viki yazılımı."
-  },
-  "partners.requirements.first.description": {
-    "description": "Description for the first requirement.",
-    "message": "İnternet üzerinde potansiyel gösteren topluluklar ve heyecan verici şeyleri takip ediyoruz. Kısacası, partner programı için sizin de PreMiD'i kullanıyor olmanız ve internet üzerinde yayılmamıza yardım etmeniz gerekiyor. Program, nitelikli incelemeler ve bir çok madde onayından geçtiği için az sayıda katılımcıların bu programa katılacağını düşünüyoruz."
-  },
-  "partners.requirements.first.title": {
-    "description": "Heading for the first requirement.",
-    "message": "Neler arıyoruz?"
-  },
-  "partners.requirements.second.description": {
-    "description": "Description for the second requirement.",
-    "message": "Partnerlik programımızda şimdilik bu şekilde belli başlı gereksinimlere bakıyoruz. Başvuru yapan herkes incelenme hakkına sahiptir. Twitch yayıncıları en az 500 takipçili olmalı ve 10 adet aktif izleyicisi olmalıdır. Bunun yanı sıra haftada en az 1 kere yayın yapmalıdırlar."
-  },
-  "partners.requirements.second.title": {
-    "description": "Heading for the second requirement.",
-    "message": "Güvenlik duvarımız"
-  },
-  "partners.requirements.title": {
-    "description": "Heading for the requirements.",
-    "message": "Gereksinimler"
-  },
-  "partners.slideshow.description": {
-    "description": "Description for slideshow.",
-    "message": "Bunlar hâli hazırda bizimle partner"
-  },
-  "partners.sponsors.description": {
-    "description": "Description for sponsors.",
-    "message": "Bu inanılmaz kişiler olmasaydı, PreMiD'de bugün burada olmazdı."
-  },
-  "partners.sponsors.title": {
-    "description": "Heading for sponsors.",
-    "message": "Sponsorlar"
-  },
-  "partners.why.benefit1.description": {
-    "description": "Description for the first benefit.",
-    "message": "Ekibimiz sizin projenize özel bir Servis hazırlayacak."
-  },
-  "partners.why.benefit1.title": {
-    "description": "Heading for the first benefit.",
-    "message": "Ücretsiz Servis'iniz"
-  },
-  "partners.why.benefit2.description": {
-    "description": "Description for the second benefit.",
-    "message": "Discord sunucumuzda sahip olacağınız özel bir rol ve statü."
-  },
-  "partners.why.benefit2.title": {
-    "description": "Heading for the second benefit.",
-    "message": "Onaylı olun"
-  },
-  "partners.why.benefit3.description": {
-    "description": "Description for the third benefit.",
-    "message": "Bir kullanıcı sizin sitenizi ziyaret ettiğinde otomatik olarak sizin servisinizi çalıştırır."
-  },
-  "partners.why.benefit3.title": {
-    "description": "Heading for the third benefit.",
-    "message": "Meta etiket entegrasyonu"
-  },
-  "partners.why.benefit4.description": {
-    "description": "Description for the fourth benefit.",
-    "message": "Partner sayfamızda güzel bir yere sahip olun."
-  },
-  "partners.why.benefit4.title": {
-    "description": "Heading for the fourth benefit.",
-    "message": "Ölümsüz olun"
-  },
-  "partners.why.benefit5.description": {
-    "description": "Description for the fifth benefit.",
-    "message": "Sosyal medya hesaplarımızda öne çıkın."
-  },
-  "partners.why.benefit5.title": {
-    "description": "Heading for the fifth benefit.",
-    "message": "Ünlü olun"
-  },
-  "partners.why.title": {
-    "description": "Heading for benefits.",
-    "message": "Cehennem yerine cennete gitmeye ne dersiniz?"
-  }
+	"partners.header.title": {
+		"message": "Partnerler",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Partnerimiz olun ve diğerlerine ne kadar havalı ve \"kuul\" olduğunuzu gösterin.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Bunlar hâli hazırda bizimle partner",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Cehennem yerine cennete gitmeye ne dersiniz?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Ücretsiz Servis'iniz",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Ekibimiz sizin projenize özel bir Servis hazırlayacak.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Onaylı olun",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Discord sunucumuzda sahip olacağınız özel bir rol ve statü.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta etiket entegrasyonu",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Bir kullanıcı sizin sitenizi ziyaret ettiğinde otomatik olarak sizin servisinizi çalıştırır.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Ölümsüz olun",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Partner sayfamızda güzel bir yere sahip olun.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Ünlü olun",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Sosyal medya hesaplarımızda öne çıkın.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Gereksinimler",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Neler arıyoruz?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "İnternet üzerinde potansiyel gösteren topluluklar ve heyecan verici şeyleri takip ediyoruz. Kısacası, partner programı için sizin de PreMiD'i kullanıyor olmanız ve internet üzerinde yayılmamıza yardım etmeniz gerekiyor. Program, nitelikli incelemeler ve bir çok madde onayından geçtiği için az sayıda katılımcıların bu programa katılacağını düşünüyoruz.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Güvenlik duvarımız",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Partnerlik programımızda şimdilik bu şekilde belli başlı gereksinimlere bakıyoruz. Başvuru yapan herkes incelenme hakkına sahiptir. Twitch yayıncıları en az 500 takipçili olmalı ve 10 adet aktif izleyicisi olmalıdır. Bunun yanı sıra haftada en az 1 kere yayın yapmalıdırlar.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Hemen başvurun!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Hadi birlikte cennete gidelim!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Eğer PreMiD'de bir iş arıyorsanız, **iş sayfamıza** göz atın.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsorlar",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "Bu inanılmaz kişiler olmasaydı, PreMiD'de bugün burada olmazdı.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Anime izlemenin yolu.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings tarayıcınızdan oynayabileceğiniz, ileri seviye, hızlı PvP Arena Kapışması oyunudur.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat Radio bir topluluk-destekli çevrimiçi radyo, 7/24 reklamsız radyo eğlencesi, günlük haber makaleleri ve çok daha fazlasıdır!",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio simülasyon oyunlarında Almanya, Avusturya ve İsviçrede bulunan oyuncuların dinlediği en popüler radyolardan biridir.",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Sitemizdeki ücretsiz şablonlarla kendi topluluğunuzu kurun ve eğlenin.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga size gereken her özelliği, anında sunmaya çalışan bir Discord Botudur!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Güçlü ve kullanımı kolay, çoklu platform destekleyen yükleyici oluşturma aracıdır.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Servisinizin anlık durumunu kullanıcılara sunabileceğiniz platform.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Eğlenceli bir Discord Botu olarak oynayan bir tanrıça!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM, ücretsiz olarak 15'den fazla müzik yayınını bedava ve kesintisiz dinleyebileceğiniz sizin için en iyi ve en yeni müzikleri yayınlayan bir platformdur!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Projeleriniz için çeviri sistemi oluşturma aracı.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "En güçlü ve en gelişmiş Viki yazılımı.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Tüm eserleriniz için birleşik, geliştirici dostu arayüz.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "İnternetin en iyilerinin arkasında.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit müzik ufkunuzu açan, gün boyu en sevilen şarkıları 7/24 çalan çevrimiçi bir müzik radyosudur.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix, Netflix ile ilgili en büyük Discord sunucusudur. Burada diğer insanlarla sevdiğiniz diziler veya filmler hakkında konuşabilirsin.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "Partnerliğe başvur",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "{0} olarak giriş yapıldı",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Sen değil misin?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Lütfen birini seçin",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "İnternet sitesi",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Diğer",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "İsim",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Örn: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Bağlantı",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Örn: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Açıklama: (En fazla 150 karakter)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Öne çıkarılma için açıklama",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Resim bağlantısı: (550x300, sadece PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Örn: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "İptal",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Başvur",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Başvuru yaptığınız için teşekkürler!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Lütfen tüm alanları doldurun.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Açıklama en fazla 150 karakter olabilir.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Lütfen \"https://\" ile başlayıp \".png\" ile biten bir bağlantı girin.",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Partnerlik için zaten başvuru yaptınız.",
+		"description": "Error when already applied."
+	}
 }
