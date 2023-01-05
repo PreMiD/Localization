@@ -1,246 +1,246 @@
 {
-  "partners.apply.button": {
-    "description": "Button to apply for partner.",
-    "message": "지금 신청하세요!"
-  },
-  "partners.apply.disclaimer": {
-    "description": "Disclaimer located above the apply button.",
-    "message": "이제 파트너 신청을 진행해 보아요!"
-  },
-  "partners.apply.error1": {
-    "description": "Error when a field isn't filled.",
-    "message": "모든 입력란을 완성해 주세요."
-  },
-  "partners.apply.error2": {
-    "description": "Error when description exceeds character limit.",
-    "message": "최대 150자로 설명해야 해요."
-  },
-  "partners.apply.error3": {
-    "description": "Error when image link is entered wrong.",
-    "message": "링크를 추가해 주세요. (https://로 시작하고 .png로 끝나야 해요)"
-  },
-  "partners.apply.error4": {
-    "description": "Error when already applied.",
-    "message": "이미 파트너에 신청하셨어요."
-  },
-  "partners.apply.form.button.apply": {
-    "description": "Modal apply button.",
-    "message": "신청하기"
-  },
-  "partners.apply.form.button.close": {
-    "description": "Modal close button.",
-    "message": "닫기"
-  },
-  "partners.apply.form.description": {
-    "description": "Description field.",
-    "message": "설명: (최대 150자)"
-  },
-  "partners.apply.form.description.placeholder": {
-    "description": "Description field's placeholder.",
-    "message": "추천 사유에 대한 설명"
-  },
-  "partners.apply.form.imageLink": {
-    "description": "Do not change the sizes.",
-    "message": "사진 링크: (550x300, PNG 파일)"
-  },
-  "partners.apply.form.imageLink.placeholder": {
-    "description": "Image link field's placeholder. Do not change the image URL.",
-    "message": "예: https://i.imgur.com/clun1ID.png"
-  },
-  "partners.apply.form.link": {
-    "description": "Link field.",
-    "message": "링크"
-  },
-  "partners.apply.form.link.placeholder": {
-    "description": "Link filed's placeholder.",
-    "message": "예: https://premid.app"
-  },
-  "partners.apply.form.name": {
-    "description": "Name filed.",
-    "message": "이름"
-  },
-  "partners.apply.form.name.placeholder": {
-    "description": "Name field's placeholder.",
-    "message": "예: PreMiD"
-  },
-  "partners.apply.jobs": {
-    "description": "Hint located under the button.",
-    "message": "PreMiD의 직접 채용에 관심이 있으시다면, **채용 광고**를 확인해 보세요."
-  },
-  "partners.apply.loggedUser": {
-    "description": "{0} will be replaced with user account.",
-    "message": "{0}으(로) 로그인함"
-  },
-  "partners.apply.notYou": {
-    "description": "Account switcher on the modal, just like Discord's!",
-    "message": "다른 사용자인가요?"
-  },
-  "partners.apply.select.default": {
-    "description": "Select default placeholder.",
-    "message": "하나를 선택해 주세요"
-  },
-  "partners.apply.select.other": {
-    "description": "Select 'Other' category.",
-    "message": "기타"
-  },
-  "partners.apply.select.website": {
-    "description": "Select 'Website' category.",
-    "message": "웹사이트"
-  },
-  "partners.apply.success": {
-    "description": "Success message when applying.",
-    "message": "신청해 주셔서 감사드려요!"
-  },
-  "partners.apply.title": {
-    "description": "Partnership application modal title.",
-    "message": "파트너로 신청하기"
-  },
-  "partners.header.description": {
-    "description": "Description for page.",
-    "message": "파트너에 소속돼서 나의 스타일을 뽐내는 파트너 전용 혜택을 받아보세요."
-  },
-  "partners.header.title": {
-    "description": "Heading for page.",
-    "message": "파트너"
-  },
-  "partners.partner.aniFlix": {
-    "description": "Description for AniFlix.",
-    "message": "여러분이 애니메이션을 시청하는 방법이죠."
-  },
-  "partners.partner.arenaOfKings": {
-    "description": "Description for Arena of Kings.",
-    "message": "Arena of Kings는 브라우저에서 플레이하는 차세대 빠른 속도의 PvP 아레나 게임이에요."
-  },
-  "partners.partner.bitRock": {
-    "description": "Description for BitRock.",
-    "message": "강력하고 사용하기 쉬운 크로스 플랫폼 설치 프로그램 작성 도구예요."
-  },
-  "partners.partner.crowdin": {
-    "description": "Description for Crowdin.",
-    "message": "기술 기업을 위한 민첩한 현지화를 해보세요."
-  },
-  "partners.partner.discordTemplates": {
-    "description": "Description for DiscordTemplates.",
-    "message": "저희의 멋진 템플릿으로 나만의 커뮤니티 생성을 시작해 보세요. 나만의 왕국을 지어보세요."
-  },
-  "partners.partner.erisly": {
-    "description": "Description for Erisly.",
-    "message": "재밌는 Discord 봇을 구동하는 여신이에요!"
-  },
-  "partners.partner.fastly": {
-    "description": "Description for Fastly.",
-    "message": "웹의 최고 속에 숨겨져 있죠."
-  },
-  "partners.partner.onlyhit": {
-    "description": "Description for OnlyHit.",
-    "message": "OnlyHit은 연중무휴 나만의 온라인 음악 라디오를 재생할 수 있고 내 취향에 맞는 걸 발견하도록 해줘요."
-  },
-  "partners.partner.packageCloud": {
-    "description": "Description for PackageCloud.",
-    "message": "나의 모든 아티팩트에 대한 통합된 개발자 친화적인 인터페이스가 있어요."
-  },
-  "partners.partner.rNetflix": {
-    "description": "Description for r/Netflix.",
-    "message": "r/Netflix는 가장 거대한 Discord 서버예요. 여기에서 같은 생각을 가진 분과 좋아하는 시리즈나 영화에 대해 논의해 보세요."
-  },
-  "partners.partner.reyfm": {
-    "description": "Description for REYFM.",
-    "message": "REYFM는 연속적으로 15개 이상의 음악 스트림을 무료로 청취할 수 있게 해줘요. 나만을 위한 최신화된 최고의 음악이죠!"
-  },
-  "partners.partner.simLiveRadio": {
-    "description": "Description for SimLoveRadio.",
-    "message": "SimLiveRadio는 독일, 오스트리아, 스위스에서 시뮬레이션 게임을 위한 인포테이먼트 라디오예요!"
-  },
-  "partners.partner.statusPage": {
-    "description": "Description for StatusPage.",
-    "message": "내 고객에게 실시간 상태를 쉽게 전달해 보세요."
-  },
-  "partners.partner.taigaBot": {
-    "description": "Description for taigabot.",
-    "message": "Taiga는 내가 필요로 할 수 있는 모든 기능을 한 번에 제공하려고 노력하는 Discord 봇이에요!"
-  },
-  "partners.partner.upBeat": {
-    "description": "Description for UpBeatRadio.",
-    "message": "UpBeat Raido는 커뮤니티 기반 온라인 라디오로, 연중무휴 광고 없는 라디오 엔터테이먼트를 제공하고, 일간 소식과 많은 게 있어요!"
-  },
-  "partners.partner.wikijs": {
-    "description": "Description for WikiJS.",
-    "message": "가장 강력하고 확장 가능한 오픈 소스 위키 소프트웨어예요."
-  },
-  "partners.requirements.first.description": {
-    "description": "Description for the first requirement.",
-    "message": "저희는 성장 커뮤니티와 인터넷 주변 흥미로운 걸 주시하고 있어요. 요약하자면 PreMiD를 이미 사용하고 있어야 하고 인터넷 사용자분께 전달할 준비가 돼야 해요. 프로그램 수락은 매우 질적이여서 후보마다 다를 거예요."
-  },
-  "partners.requirements.first.title": {
-    "description": "Heading for the first requirement.",
-    "message": "저희가 찾고 있는 방향성"
-  },
-  "partners.requirements.second.description": {
-    "description": "Description for the second requirement.",
-    "message": "저희는 현재 다양한 종류의 노력을 파트너십 프로그램에서 받고 있어요. 누구든지 주목을 받을 기회가 있어야 하니까요. Twitch 스트리머는 최소 팔로워 500명과 동시 시청자 10명을 확보해야 하고, 일주일에 한 번 이상 방송해야 해요."
-  },
-  "partners.requirements.second.title": {
-    "description": "Heading for the second requirement.",
-    "message": "필수 요건"
-  },
-  "partners.requirements.title": {
-    "description": "Heading for the requirements.",
-    "message": "요구 사항"
-  },
-  "partners.slideshow.description": {
-    "description": "Description for slideshow.",
-    "message": "아래는 소속된 파트너예요"
-  },
-  "partners.sponsors.description": {
-    "description": "Description for sponsors.",
-    "message": "이러한 놀라운 분이 없었더라면, PreMiD는 불가능했을 거예요."
-  },
-  "partners.sponsors.title": {
-    "description": "Heading for sponsors.",
-    "message": "스폰서"
-  },
-  "partners.why.benefit1.description": {
-    "description": "Description for the first benefit.",
-    "message": "저희 팀이 내 서비스의 Presence를 제공해 줄 거예요."
-  },
-  "partners.why.benefit1.title": {
-    "description": "Heading for the first benefit.",
-    "message": "나만의 무료 Presence"
-  },
-  "partners.why.benefit2.description": {
-    "description": "Description for the second benefit.",
-    "message": "저희 Discord 서버에서 특별한 역할과 큰 영광이 주어질 거예요."
-  },
-  "partners.why.benefit2.title": {
-    "description": "Heading for the second benefit.",
-    "message": "인증되기"
-  },
-  "partners.why.benefit3.description": {
-    "description": "Description for the third benefit.",
-    "message": "누군가 내 웹사이트를 방문할 때 자동으로 나만의 Presence를 사용해요."
-  },
-  "partners.why.benefit3.title": {
-    "description": "Heading for the third benefit.",
-    "message": "메타 태그 통합"
-  },
-  "partners.why.benefit4.description": {
-    "description": "Description for the fourth benefit.",
-    "message": "저희 파트너 페이지에 있는 끔찍한 곳이죠."
-  },
-  "partners.why.benefit4.title": {
-    "description": "Heading for the fourth benefit.",
-    "message": "박제되기"
-  },
-  "partners.why.benefit5.description": {
-    "description": "Description for the fifth benefit.",
-    "message": "저희 소셜 미디어에서 추천을 받게 돼요."
-  },
-  "partners.why.benefit5.title": {
-    "description": "Heading for the fifth benefit.",
-    "message": "유명해지기"
-  },
-  "partners.why.title": {
-    "description": "Heading for benefits.",
-    "message": "저희의 파트너가 되어보시는 건 어떠신가요?"
-  }
+	"partners.header.title": {
+		"message": "파트너",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "파트너에 소속돼서 나의 스타일을 뽐내는 파트너 전용 혜택을 받아보세요.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "아래는 소속된 파트너예요",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "저희의 파트너가 되어보시는 건 어떠신가요?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "나만의 무료 Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "저희 팀이 내 서비스의 Presence를 제공해 줄 거예요.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "인증되기",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "저희 Discord 서버에서 특별한 역할과 큰 영광이 주어질 거예요.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "메타 태그 통합",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "누군가 내 웹사이트를 방문할 때 자동으로 나만의 Presence를 사용해요.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "박제되기",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "저희 파트너 페이지에 있는 끔찍한 곳이죠.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "유명해지기",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "저희 소셜 미디어에서 추천을 받게 돼요.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "요구 사항",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "저희가 찾고 있는 방향성",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "저희는 성장 커뮤니티와 인터넷 주변 흥미로운 걸 주시하고 있어요. 요약하자면 PreMiD를 이미 사용하고 있어야 하고 인터넷 사용자분께 전달할 준비가 돼야 해요. 프로그램 수락은 매우 질적이여서 후보마다 다를 거예요.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "필수 요건",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "저희는 현재 다양한 종류의 노력을 파트너십 프로그램에서 받고 있어요. 누구든지 주목을 받을 기회가 있어야 하니까요. Twitch 스트리머는 최소 팔로워 500명과 동시 시청자 10명을 확보해야 하고, 일주일에 한 번 이상 방송해야 해요.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "지금 신청하세요!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "이제 파트너 신청을 진행해 보아요!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "PreMiD의 직접 채용에 관심이 있으시다면, **채용 광고**를 확인해 보세요.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "스폰서",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "이러한 놀라운 분이 없었더라면, PreMiD는 불가능했을 거예요.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "여러분이 애니메이션을 시청하는 방법이죠.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings는 브라우저에서 플레이하는 차세대 빠른 속도의 PvP 아레나 게임이에요.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat Raido는 커뮤니티 기반 온라인 라디오로, 연중무휴 광고 없는 라디오 엔터테이먼트를 제공하고, 일간 소식과 많은 게 있어요!",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio는 독일, 오스트리아, 스위스에서 시뮬레이션 게임을 위한 인포테이먼트 라디오예요!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "저희의 멋진 템플릿으로 나만의 커뮤니티 생성을 시작해 보세요. 나만의 왕국을 지어보세요.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "Taiga는 내가 필요로 할 수 있는 모든 기능을 한 번에 제공하려고 노력하는 Discord 봇이에요!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "강력하고 사용하기 쉬운 크로스 플랫폼 설치 프로그램 작성 도구예요.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "내 고객에게 실시간 상태를 쉽게 전달해 보세요.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "재밌는 Discord 봇을 구동하는 여신이에요!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM는 연속적으로 15개 이상의 음악 스트림을 무료로 청취할 수 있게 해줘요. 나만을 위한 최신화된 최고의 음악이죠!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "기술 기업을 위한 민첩한 현지화를 해보세요.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "가장 강력하고 확장 가능한 오픈 소스 위키 소프트웨어예요.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "나의 모든 아티팩트에 대한 통합된 개발자 친화적인 인터페이스가 있어요.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "웹의 최고 속에 숨겨져 있죠.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit은 연중무휴 나만의 온라인 음악 라디오를 재생할 수 있고 내 취향에 맞는 걸 발견하도록 해줘요.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix는 가장 거대한 Discord 서버예요. 여기에서 같은 생각을 가진 분과 좋아하는 시리즈나 영화에 대해 논의해 보세요.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "파트너로 신청하기",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "{0}으(로) 로그인함",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "다른 사용자인가요?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "하나를 선택해 주세요",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "웹사이트",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "기타",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "이름",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "예: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "링크",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "예: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "설명: (최대 150자)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "추천 사유에 대한 설명",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "사진 링크: (550x300, PNG 파일)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "예: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "닫기",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "신청하기",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "신청해 주셔서 감사드려요!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "모든 입력란을 완성해 주세요.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "최대 150자로 설명해야 해요.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "링크를 추가해 주세요. (https://로 시작하고 .png로 끝나야 해요)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "이미 파트너에 신청하셨어요.",
+		"description": "Error when already applied."
+	}
 }
