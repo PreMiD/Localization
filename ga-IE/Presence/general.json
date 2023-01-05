@@ -1,362 +1,362 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Ag brabhsáil..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Éist Chomh maith"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Léigh an tAirteagal"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar an Albam"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar Ealaíontóra"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar Mhuir nIocht"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar Eipeasóid"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar an Scannán"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar an Leathanach"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar Seinmliosta"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar Podchraoladh"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar Phróifíl"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar an Sraith"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach Amhrán"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar an Scannán"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach ar an Sruth"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Féach Físeán"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Ag glaoch"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Caibidil"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Beartas Fianán"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Eagarthóireacht:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Eachtra"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Fóraim"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Seánra"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "I nglao..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Stair na dteagmhas"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Ag féachaint ar eachtra"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Teanga"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Éisteoirí"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Ag éisteacht le ceoil"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Beo"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Earraí Ceannaíochta"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Leathanach"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Sos"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Ag imirt"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Beartas Príobháideachais"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Léitheoireacht"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Ag léamh faoi:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Alt léitheoireachta:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Léitheoireacht sa chainéal:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "DManna a léamh ó:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Phost léitheoireachta:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Snáithe léitheoireachta:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Ar lúb"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Lúb gach amhrán"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Cuardach"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Ag cuardach:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Ag cuardach rud éigin..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Séasúr"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Cart siopadóireacht"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Stór"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Téarmaí Seirbhísí"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Clóscríobh sa chainéal:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Clóscríobh DManna chuig:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Stair na haimsire"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Ag féachaint ar a gcuntas"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Anime féachana:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Catagóir féachana:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Cainéal féachana:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Ag féachaint ar eipeasóid:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Seánra féachana:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Ag féachaint ar leathanach baile"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Liosta féachana de:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Breathnú ar manga:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Ball féachana:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Ag féachaint ar scannán:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Leathanach féachana:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Seinmliosta ag breathnú:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Ag féachaint ar tháirge:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Próifíl féachana de:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Sraith féachana:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Seó féachana:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Snáithe féachana:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Úsáideoir féachana:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Breathnú:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Ag fanacht le sruth beo a thosú"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Ag fanacht go dtosóidh an sruth beo"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Ag fanacht le físeán a chéad taibhiú"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Ag fanacht leis an bhfíseán a chéad taibhiú"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Breathnú:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Ag féachaint ar shruth beo"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Ag féachaint ar scannán"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Ag féachaint ar shraith"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Ag féachaint ar thaispeántas"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Ag féachaint ar fhíseán"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Liosta Mianta:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Scríbhneoireacht"
-  }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Ag brabhsáil...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Caibidil",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Eagarthóireacht:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Eachtra",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Séasúr",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Fóraim",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Seánra",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Teanga",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Ag éisteacht le ceoil",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Éisteoirí",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Beo",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Earraí Ceannaíochta",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Leathanach",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Sos",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Ag imirt",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "DManna a léamh ó:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Ag léamh faoi:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Alt léitheoireachta:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Léitheoireacht sa chainéal:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Phost léitheoireachta:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Snáithe léitheoireachta:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Léitheoireacht",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Ag cuardach:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Ag cuardach rud éigin...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Cuardach",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Scríbhneoireacht",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Ag glaoch",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "I nglao...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Cart siopadóireacht",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Stór",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Clóscríobh DManna chuig:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Clóscríobh sa chainéal:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Anime féachana:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Catagóir féachana:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Cainéal féachana:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Ag féachaint ar eipeasóid:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Seánra féachana:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Ag féachaint ar leathanach baile",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Liosta féachana de:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Breathnú ar manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Ball féachana:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Ag féachaint ar scannán:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Seinmliosta ag breathnú:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Ag féachaint ar tháirge:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Próifíl féachana de:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Sraith féachana:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Seó féachana:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Ag féachaint ar a gcuntas",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Snáithe féachana:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Úsáideoir féachana:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Breathnú:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Leathanach féachana:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Ag féachaint ar scannán",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Ag féachaint ar shraith",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Ag féachaint ar thaispeántas",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Ag féachaint ar fhíseán",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Ag fanacht le físeán a chéad taibhiú",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Ag fanacht leis an bhfíseán a chéad taibhiú",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Ag féachaint ar shruth beo",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Ag fanacht le sruth beo a thosú",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Ag fanacht go dtosóidh an sruth beo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Breathnú:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Liosta Mianta:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Beartas Príobháideachais",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Téarmaí Seirbhísí",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Beartas Fianán",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Lúb gach amhrán",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Ar lúb",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Ag féachaint ar eachtra",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Stair na dteagmhas",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Stair na haimsire",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Féach ar an Sraith",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Féach ar an Scannán",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Féach ar Eipeasóid",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Féach ar an Scannán",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Féach Físeán",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Féach ar an Sruth",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Féach ar Mhuir nIocht",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Éist Chomh maith",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Féach ar an Leathanach",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Féach Amhrán",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Féach ar an Albam",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Féach ar Phróifíl",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Féach ar Ealaíontóra",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Féach ar Seinmliosta",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Féach ar Podchraoladh",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Léigh an tAirteagal",
+		"description": "Used as the title for the button in Discord."
+	}
 }
