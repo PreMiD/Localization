@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "albumele care îi plac"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "artiștii care îi plac"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Cele mai bune podcasturi"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Se uită la"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Se uită la chart-uri"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Descoperă melodii noi"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Descărcând Spotify"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Melodii recomandate"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Se uită la genurile muzicale"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Se uită la cele mai recente lansări"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Recomandări\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "playlist-urile sale"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "podcast-uri care le plac"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "melodiile care îi plac"
-  }
+	"spotify.featured": {
+		"message": "Melodii recomandate",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Cele mai bune podcasturi",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Se uită la chart-uri",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Se uită la genurile muzicale",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Se uită la cele mai recente lansări",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Descoperă melodii noi",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Se uită la",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcast-uri care le plac",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artiștii care îi plac",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albumele care îi plac",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "melodiile care îi plac",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Recomandări\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "playlist-urile sale",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Descărcând Spotify",
+		"description": ""
+	}
 }
