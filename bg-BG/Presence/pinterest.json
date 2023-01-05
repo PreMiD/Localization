@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Гледа табло:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Гледа тяхно следване"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Редактиране на началната им страница"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Гледа пин"
-  }
+    "pinterest.board": {
+        "message": "Гледа табло:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Гледа пин",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Гледа тяхно следване",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Редактиране на началната им страница",
+        "description": ""
+    }
 }
