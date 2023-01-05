@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "درحال نگاه کردن به تخته:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "درحال مشاهده دنبال کرده هایشان"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "درحال ویرایش صفحه اصلی شان"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "نگاه کردن یک پین"
-  }
+    "pinterest.board": {
+        "message": "درحال نگاه کردن به تخته:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "نگاه کردن یک پین",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "درحال مشاهده دنبال کرده هایشان",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "درحال ویرایش صفحه اصلی شان",
+        "description": ""
+    }
 }
