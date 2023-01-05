@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Közreműködők"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Letöltések"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Magyar"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Nyelv váltása"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Nem, kösz"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Az oldal le lett fordítva a nyelvedre. Ez segíthet, ha nem beszéled jól az Angol nyelvet."
+    "message": "Magyar",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "Ez az oldal elérhető a Te nyelveden is, váltani akarsz?"
+    "message": "Ez az oldal elérhető a Te nyelveden is, váltani akarsz?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Bejelentkezve mint"
+  "header.languageNotification.text": {
+    "message": "Az oldal le lett fordítva a nyelvedre. Ez segíthet, ha nem beszéled jól az Angol nyelvet.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nem, kösz",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Nyelv váltása",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Palacsinták megsütése...;Konténerek elhelyezése...;IP cím elemzése...;UwU;Szabályok megsértése..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Bejelentkezés"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Kijelentkezés"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Hiba jelentése"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Irányítópult"
+    "message": "Palacsinták megsütése...;Konténerek elhelyezése...;IP cím elemzése...;UwU;Szabályok megsértése...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Áruház"
+    "message": "Áruház",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Letöltések",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Közreműködők",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Bejelentkezés",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Bejelentkezve mint",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Hiba jelentése",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Irányítópult",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Kijelentkezés",
+    "description": "Logout button"
   }
 }
