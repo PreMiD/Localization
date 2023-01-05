@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Onlangs toegevoegd"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Bladert door:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "In gesprek met:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Opgeslagen video's"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Leest over gebruiker:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Bekijkt de community van gebruiker:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Bekijkt de vrienden van gebruiker:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "iemand... (Gebruiker verborgen)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Bekijkt de foto's van gebruiker:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Bekijkt de berichten van gebruiker:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Bekijkt de winkel van gebruiker:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Bekijkt de video's van gebruiker:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "In een videogesprek met:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Bekijkt het weer van vandaag"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Stelt een bericht op"
-  }
+    "facebook.call": {
+        "message": "In gesprek met:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "In een videogesprek met:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "iemand... (Gebruiker verborgen)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Stelt een bericht op",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Leest over gebruiker:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Bekijkt de community van gebruiker:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Bekijkt de foto's van gebruiker:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Bekijkt de berichten van gebruiker:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Bekijkt de winkel van gebruiker:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Bekijkt de vrienden van gebruiker:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Bekijkt de video's van gebruiker:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Bladert door:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Opgeslagen video's",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Onlangs toegevoegd",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Bekijkt het weer van vandaag",
+        "description": ""
+    }
 }
