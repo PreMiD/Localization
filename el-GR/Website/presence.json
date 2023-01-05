@@ -1,46 +1,46 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "Κώδικας Πηγής"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "Αρχείο αλλαγών"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "Περιγραφή"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "Συγγραφέας"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "Συνεισφέροντες"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "Μου αρέσει"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "Υποστηριζόμενα URL"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "Ετικέτες"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "Πληροφορίες"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "Χρήστες"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "Έκδοση"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "Κώδικας Πηγής",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Περιγραφή",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Αρχείο αλλαγών",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Πληροφορίες",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Συγγραφέας",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Έκδοση",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Μου αρέσει",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Χρήστες",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Ετικέτες",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "Υποστηριζόμενα URL",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Συνεισφέροντες",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
