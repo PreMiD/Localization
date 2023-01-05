@@ -1,30 +1,30 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Pregledavanje..."
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Jezik"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Uživo"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Čitanje"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Pretraživanje"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Trgovina"
-  }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Pregledavanje...",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Jezik",
+		"description": "For choosing a language"
+	},
+	"general.live": {
+		"message": "Uživo",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Čitanje",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Pretraživanje",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Trgovina",
+		"description": ""
+	}
 }
