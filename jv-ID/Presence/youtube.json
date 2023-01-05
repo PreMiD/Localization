@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Ndheleng iklan"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Njelajah playlist"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Nggoleki"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Njelajah video"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "riwayat"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "pustaka"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "saluran:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "pembelian"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Maca tentang saluran:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Ndheleng riwayat laporan"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Nggoleki liwat saluran: {0} kanggo:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "halaman artis"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "analisis saluran"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "komentar saluran"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "terjemahan saluran"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Ndheleng dasbor"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Edit video:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Ndheleng analitik video:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Ndheleng komentar video:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Ndheleng terjemahan video:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Ndeleng"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Ndheleng video"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "langganan"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Deleng apa sing lagi tren"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Ngunggah..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Ndheleng kabeh daftar putar"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Ndheleng pustaka audio"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Ndheleng dasbor langsung"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Ndheleng live event"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Ndheleng pos komunitas"
-  }
+    "youtube.ad": {
+        "message": "Ndheleng iklan",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Njelajah video",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Njelajah playlist",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Ndheleng pos komunitas",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "saluran:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Maca tentang saluran:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Nggoleki liwat saluran: {0} kanggo:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Deleng apa sing lagi tren",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Nggoleki",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "langganan",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "pustaka",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "riwayat",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "pembelian",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Ndheleng riwayat laporan",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Ngunggah...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Ndheleng kabeh daftar putar",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Ndheleng live event",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Ndheleng dasbor langsung",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Ndheleng pustaka audio",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Ndheleng video",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Edit video:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Ndheleng analitik video:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Ndheleng komentar video:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Ndheleng terjemahan video:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Ndeleng",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "analisis saluran",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "komentar saluran",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "terjemahan saluran",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "halaman artis",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Ndheleng dasbor",
+        "description": ""
+    }
 }
