@@ -1,186 +1,186 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "بلاگ دیسکورد"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه نام تجاری"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "گشتن در"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهده لینک دعوت"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "درحال خواندن در کانال:{0}{1} (سرور: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "درحال نوشتن در کانال:{0}{1} (سرور: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه همکاران"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه درباره"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "گشتن در برنامه‌هایشان"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "درحال ویرایش برنامه: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "درحال خواندن مستندات"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "درگاه توسعه دهندگان"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "درحال گشتن در سرور هایشان"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "مشاهده دورنمای سرور: {0}"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "گشتن در تیم هایشان"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "درحال ویرایش تیم: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "درحال خواندن DM در گروه:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "درحال نوشتن DM در گروه:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "خواندن DM ها از:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "نوشتن DM به:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه دانلود"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "مشاهده دوستان..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه الهامات"
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "درحال مشاهده لینک دعوت:{0}{1} (سرور: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "درحال مشاهده لینک دعوت:{0}سرور: {1}"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه شغل‌ها"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "لوازم و تزیینات دیسکورد"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "نگاه کردن مجموعه:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه مدیریت"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه اتاق خبری"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "درحال خواندن درباره نیترو..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه منبع باز"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه همکاری"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "ضوابط و سیاست ها"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه Rich Presence"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "مرکز ایمنی"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه امنیت"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "درحال مشاهده تنظیمات{0}سرور: {1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "مشاهده تنظیمات‌..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "وضعیت دیسکورد"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه بسته استریم"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "مرکز راهنمایی"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه تائیدیه"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "متصل شده به کانال صوتی:{0}{1} (سرور:{2})"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "متصل شده به کانال صوتی:{0}{1}"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "صفحه \"چرا دیسکورد؟\""
-  }
+	"discord.channelReading": {
+		"message": "درحال خواندن در کانال:{0}{1} (سرور: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "درحال نوشتن در کانال:{0}{1} (سرور: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "خواندن DM ها از:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "نوشتن DM به:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "درحال خواندن DM در گروه:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "درحال نوشتن DM در گروه:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "مشاهده دوستان...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "درحال خواندن درباره نیترو...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "متصل شده به کانال صوتی:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "متصل شده به کانال صوتی:{0}{1} (سرور:{2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "مشاهده تنظیمات‌...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "درحال مشاهده تنظیمات{0}سرور: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "درحال مشاهده لینک دعوت:{0}{1} (سرور: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "درحال مشاهده لینک دعوت:{0}سرور: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "مشاهده لینک دعوت",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "گشتن در",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "صفحه دانلود",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "صفحه \"چرا دیسکورد؟\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "مرکز ایمنی",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "صفحه شغل‌ها",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "صفحه درباره",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "صفحه نام تجاری",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "صفحه الهامات",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "صفحه همکاران",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "صفحه اتاق خبری",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "صفحه همکاری",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "صفحه تائیدیه",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "صفحه بسته استریم",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "صفحه منبع باز",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "صفحه امنیت",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "صفحه مدیریت",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "صفحه Rich Presence",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "ضوابط و سیاست ها",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "درگاه توسعه دهندگان",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "گشتن در برنامه‌هایشان",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "درحال ویرایش برنامه: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "گشتن در تیم هایشان",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "درحال ویرایش تیم: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "درحال گشتن در سرور هایشان",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "مشاهده دورنمای سرور: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "درحال خواندن مستندات",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "وضعیت دیسکورد",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "مرکز راهنمایی",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "بلاگ دیسکورد",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "لوازم و تزیینات دیسکورد",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "نگاه کردن مجموعه:",
+		"description": ""
+	}
 }
