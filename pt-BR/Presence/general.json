@@ -1,346 +1,346 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Navegando..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ouvir junto"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ler artigo"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver álbum"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver Artista"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver canal"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Assistir episódio"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver página"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver Playlist"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver Podcast"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver perfil"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver série"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Visualizar música"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Assistir filme"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Assistir transmissão"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Assistir vídeo"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Ligando"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Capítulo"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Política de cookies"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Editando:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Episódio"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Fóruns"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Gênero"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Em uma ligação..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Histórico de incidentes"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Vendo um incidente"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Idioma"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Ouvintes"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Ouvindo música"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Ao vivo"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Mangá"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Produtos"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Página"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Pausado(a)"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Reproduzindo"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Política de Privacidade"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Lendo"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Lendo sobre:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Lendo o artigo:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Lendo no canal:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Lendo mensagens de:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Lendo post:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Lendo tópico:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Em repetição"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Repetindo todas as músicas"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Pesquisando"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Procurando por:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Procurando por algo..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Temporada"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Carrinho de compras"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Loja"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Termos de Serviço"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Escrevendo no canal:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Escrevendo uma mensagem para:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Histórico de atividade"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Vendo a sua conta"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Vendo anime:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Vendo a categoria:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Vendo o canal:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Vendo episódio:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Vendo o gênero:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Vendo página inicial"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Vendo lista de:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Vendo mangá:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Vendo membro:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Vendo filme:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Vendo página:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Vendo playlist:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Vendo produto:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Vendo o perfil de:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Vendo série:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Vendo tópico:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Vendo usuário:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Vendo:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Aguardando o início de uma transmissão ao vivo"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Aguardando o início da transmissão ao vivo"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Assistindo:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Assistindo uma transmissão ao vivo"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Assistindo um filme"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Assistindo uma série"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Assistindo um show"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Assistindo um vídeo"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Lista de Desejos:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Escrevendo"
-  }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Navegando...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Capítulo",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Editando:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Episódio",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Temporada",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Fóruns",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Gênero",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Idioma",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Ouvindo música",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Ouvintes",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Ao vivo",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Mangá",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Produtos",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Página",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Pausado(a)",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Reproduzindo",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Lendo mensagens de:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Lendo sobre:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Lendo o artigo:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Lendo no canal:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Lendo post:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Lendo tópico:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Lendo",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Procurando por:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Procurando por algo...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Pesquisando",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Escrevendo",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Ligando",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Em uma ligação...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Carrinho de compras",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Loja",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Escrevendo uma mensagem para:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Escrevendo no canal:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Vendo anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Vendo a categoria:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Vendo o canal:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Vendo episódio:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Vendo o gênero:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Vendo página inicial",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Vendo lista de:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Vendo mangá:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Vendo membro:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Vendo filme:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Vendo playlist:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Vendo produto:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Vendo o perfil de:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Vendo série:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Vendo a sua conta",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Vendo tópico:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Vendo usuário:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Vendo:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Vendo página:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Assistindo um filme",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Assistindo uma série",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Assistindo um show",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Assistindo um vídeo",
+		"description": ""
+	},
+	"general.watchingLive": {
+		"message": "Assistindo uma transmissão ao vivo",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Aguardando o início de uma transmissão ao vivo",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Aguardando o início da transmissão ao vivo",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Assistindo:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Lista de Desejos:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Política de Privacidade",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Termos de Serviço",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Política de cookies",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Repetindo todas as músicas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Em repetição",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Vendo um incidente",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Histórico de incidentes",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Histórico de atividade",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Ver série",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Assistir episódio",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Assistir filme",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Assistir vídeo",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Assistir transmissão",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Ver canal",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Ouvir junto",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Ver página",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Visualizar música",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Ver álbum",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Ver perfil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Ver Artista",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Ver Playlist",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Ver Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Ler artigo",
+		"description": "Used as the title for the button in Discord."
+	}
 }
