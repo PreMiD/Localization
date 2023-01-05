@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Visualizzando i propri indirizzi"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Visualizzando le proprie preferenze pubblicitarie"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Visualizzando il proprio saldo"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "carrello"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Visualizzando tutte le categorie"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "buoni regalo"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Visualizzando la propria cronologia"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "dettagli dell'ordine"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "cronologia degli ordini"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Visualizzando i metodi di pagamento"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Visualizzando i propri animali domestici"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Visualizzando Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Visualizzando Prime Video:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Visualizzando i suggerimenti"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Visualizzando il negozio:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Visualizzando i propri abbonamenti"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Visualizzando i propri"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "lista dei desideri"
-  }
+    "amazon.subscriptions": {
+        "message": "Visualizzando i propri abbonamenti",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Visualizzando le proprie preferenze pubblicitarie",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Visualizzando il proprio saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Visualizzando i metodi di pagamento",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Visualizzando i propri indirizzi",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Visualizzando i propri animali domestici",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Visualizzando tutte le categorie",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Visualizzando Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Visualizzando i propri",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "cronologia degli ordini",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "dettagli dell'ordine",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "carrello",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "lista dei desideri",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "buoni regalo",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Visualizzando i suggerimenti",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Visualizzando la propria cronologia",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Visualizzando il negozio:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Visualizzando Prime Video:",
+        "description": ""
+    }
 }
