@@ -1,90 +1,90 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "게임 하는 중"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "살펴보는 중..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "실시간"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "시청 중"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} 남음"
-  },
-  "home.examples.timestamp2": {
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} 지남"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "이러한 기능을 좋아하실 거예요!"
-  },
-  "home.features.presencesystem.button": {
-    "description": "Features section button",
-    "message": "스토어 방문"
-  },
-  "home.features.presencesystem.description": {
-    "description": "Features section description",
-    "message": "다른 분이 제작한 Presence를 추가하고 사용해서 확장 프로그램에서 관리할 수 있는 방법으로 확장 프로그램을 만들었어요!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "**나만의** Presence 찾기"
-  },
-  "home.features.quickSupport.button": {
-    "description": "Features section button",
-    "message": "Discord 참가"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "무언가 문제가 있어, 수많은 오류를 뿜어내거나 그냥 작동하지 않나요? Discord 서버에서 저런 오류를 해결할 수 있도록 도와드릴게요. 또한 문제가 최대한 해결될 수 있도록 자체 지원 시스템을 구축했어요."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "빠른 지원"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "복잡한 사용자 인터페이스에 지치셨나요? 이게 바로 다음과 같은 중요한 기능으로 최대한 UI를 간단하고 유용하게 만들고 유지하려고 한 이유예요."
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "앱과 확장 프로그램 설정"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Presence 관리"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "카테고리로 정렬"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "단순한 사용자 인터페이스"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "다운로드"
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "기능"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "**PreMiD**는 내가 웹에서 무엇을 하고 있는지 Discord의 게임 하는 중 상태에서 보여주게 해주는 간단하고, 구성 가능한 유틸리티 프로그램이에요."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "웹사이트 언어"
-  }
+	"home.introduction.paragraph": {
+		"message": "**PreMiD**는 내가 웹에서 무엇을 하고 있는지 Discord의 게임 하는 중 상태에서 보여주게 해주는 간단하고, 구성 가능한 유틸리티 프로그램이에요.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "기능",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "다운로드",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "게임 하는 중",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} 남음",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} 지남",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "시청 중",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "실시간",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "살펴보는 중...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "이러한 기능을 좋아하실 거예요!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "**나만의** Presence 찾기",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "다른 분이 제작한 Presence를 추가하고 사용해서 확장 프로그램에서 관리할 수 있는 방법으로 확장 프로그램을 만들었어요!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "스토어 방문",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "단순한 사용자 인터페이스",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "복잡한 사용자 인터페이스에 지치셨나요? 이게 바로 다음과 같은 중요한 기능으로 최대한 UI를 간단하고 유용하게 만들고 유지하려고 한 이유예요.",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "앱과 확장 프로그램 설정",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence 관리",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "카테고리로 정렬",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "빠른 지원",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "무언가 문제가 있어, 수많은 오류를 뿜어내거나 그냥 작동하지 않나요? Discord 서버에서 저런 오류를 해결할 수 있도록 도와드릴게요. 또한 문제가 최대한 해결될 수 있도록 자체 지원 시스템을 구축했어요.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Discord 참가",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "웹사이트 언어",
+		"description": "Tippy content of the language selector."
+	}
 }
