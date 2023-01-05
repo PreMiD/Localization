@@ -1,10 +1,10 @@
 {
-  "pinterest.home": {
-    "description": "",
-    "message": "Főoldalát szerkeszti"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Kitűzést néz"
-  }
+    "pinterest.pin": {
+        "message": "Kitűzést néz",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Főoldalát szerkeszti",
+        "description": ""
+    }
 }
