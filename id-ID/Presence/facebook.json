@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Baru ditambahkan"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Menelusuri:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Dalam panggilan dengan:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Video yang disimpan"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Membaca tentang pengguna:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Melihat komunitas dari pengguna:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Melihat teman pengguna:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "seseorang... (Pengguna disembunyikan)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Melihat foto oleh pengguna:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Melihat posting oleh pengguna:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Melihat toko dari pengguna:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Melihat video oleh pengguna:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Dalam panggilan video dengan:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Melihat cuaca hari ini"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Menulis pesan"
-  }
+    "facebook.call": {
+        "message": "Dalam panggilan dengan:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Dalam panggilan video dengan:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "seseorang... (Pengguna disembunyikan)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Menulis pesan",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Membaca tentang pengguna:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Melihat komunitas dari pengguna:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Melihat foto oleh pengguna:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Melihat posting oleh pengguna:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Melihat toko dari pengguna:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Melihat teman pengguna:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Melihat video oleh pengguna:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Menelusuri:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Video yang disimpan",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Baru ditambahkan",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Melihat cuaca hari ini",
+        "description": ""
+    }
 }
