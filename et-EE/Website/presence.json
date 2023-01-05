@@ -1,46 +1,46 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "Lähtekood"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "Muutuste loend"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "Kirjeldus"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "Autor"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "Abilised"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "Meeldimised"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "Toetatud saidid"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "Märkmed"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "Informatsioon"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "Kasutajad"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "Versioon"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "Lähtekood",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Kirjeldus",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Muutuste loend",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Informatsioon",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Autor",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Versioon",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Meeldimised",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Kasutajad",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Märkmed",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "Toetatud saidid",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Abilised",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
