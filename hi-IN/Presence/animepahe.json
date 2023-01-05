@@ -1,22 +1,22 @@
 {
   "animepahe.latestRelease": {
-    "description": "Recently released content, can be new or old anime, its just new to the site",
-    "message": "नवीनतम रिलीज़"
+    "message": "नवीनतम रिलीज़",
+    "description": "Recently released content, can be new or old anime, its just new to the site"
   },
   "animepahe.season": {
-    "description": "TV show/series season eg. Season 5 of The Flash",
-    "message": "सीज़न"
+    "message": "सीज़न",
+    "description": "TV show/series season eg. Season 5 of The Flash"
   },
   "animepahe.special": {
-    "description": "A type of related content; a special release episode not included in the original release often with differing style",
-    "message": "विशेष"
-  },
-  "animepahe.timeSeason": {
-    "description": "Time Season eg. The season is now Winter",
-    "message": "सीज़न"
+    "message": "विशेष",
+    "description": "A type of related content; a special release episode not included in the original release often with differing style"
   },
   "animepahe.view": {
-    "description": "{0} will be replaced by \"Pahe\" or \"AniList\"",
-    "message": "{0} पर देखें"
+    "message": "{0} पर देखें",
+    "description": "{0} will be replaced by \"Pahe\" or \"AniList\""
+  },
+  "animepahe.timeSeason": {
+    "message": "सीज़न",
+    "description": "Time Season eg. The season is now Winter"
   }
 }
