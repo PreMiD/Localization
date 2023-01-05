@@ -1,122 +1,122 @@
 {
-  "gmail.accountSetting": {
-    "description": "Displayed when the user is modifying their account's settings",
-    "message": "Hesaplar ve İçe Aktarma İşlemi ayarlarını yapılandırıyor"
-  },
-  "gmail.addonsSettings": {
-    "description": "Displayed when the user is modifying their add-ons",
-    "message": "Eklentileri yapılandırıyor"
-  },
-  "gmail.advancedSettings": {
-    "description": "Displayed when the user is modifying their advanced settings",
-    "message": "Gelişmiş ayarları yapılandırıyor"
-  },
-  "gmail.categoryForum": {
-    "description": "Displayed when viewing emails in the forums category.",
-    "message": "Forumlar kategorisini görüntülüyor"
-  },
   "gmail.categoryPrimary": {
-    "description": "Displayed when viewing emails in the primary category.",
-    "message": "Birincil kategorisini görüntülüyor"
-  },
-  "gmail.categoryPromotions": {
-    "description": "Displayed when viewing emails in the promotions category.",
-    "message": "Tanıtımlar kategorisini görüntülüyor"
+    "message": "Birincil kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the primary category."
   },
   "gmail.categorySocial": {
-    "description": "Displayed when viewing emails in the social category.",
-    "message": "Sosyal kategorisini görüntülüyor"
+    "message": "Sosyal kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the social category."
   },
   "gmail.categoryUpdates": {
-    "description": "Displayed when viewing emails in the updates category.",
-    "message": "Güncellemeler kategorisini görüntülüyor"
+    "message": "Güncellemeler kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the updates category."
   },
-  "gmail.chatSettings": {
-    "description": "Displayed when the user is modifying their chat settings",
-    "message": "Sohbet ve Toplantı ayarlarını yapılandırıyor"
+  "gmail.categoryPromotions": {
+    "message": "Tanıtımlar kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the promotions category."
   },
-  "gmail.composingEmail": {
-    "description": "Displayed when the user is composing an email",
-    "message": "Bir eposta oluşturuyor"
-  },
-  "gmail.filterSettings": {
-    "description": "Displayed when the user is modifying their filters and blocked addresses",
-    "message": "Filtreler ve Engellenen Adresleri yapılandırıyor"
-  },
-  "gmail.fwdAndPOPSettings": {
-    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
-    "message": "Yönlendirme ve POP/IMAP ayarlarını yapılandırıyor"
-  },
-  "gmail.generalSettings": {
-    "description": "Displayed when the user is modifying their settings",
-    "message": "Genel ayarları yapılandırıyor"
+  "gmail.categoryForum": {
+    "message": "Forumlar kategorisini görüntülüyor",
+    "description": "Displayed when viewing emails in the forums category."
   },
   "gmail.inLabel": {
-    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
-    "message": "Etiket görüntülüyor"
+    "message": "Etiket görüntülüyor",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
   },
-  "gmail.inboxSettings": {
-    "description": "Displayed when the user is modifying their inbox settings",
-    "message": "Gelen Kutusu ayarlarını yapılandırıyor"
+  "gmail.generalSettings": {
+    "message": "Genel ayarları yapılandırıyor",
+    "description": "Displayed when the user is modifying their settings"
   },
   "gmail.labelSettings": {
-    "description": "Displayed when the user is modifying their labels",
-    "message": "Etiket ayarlarını yapılandırıyor"
+    "message": "Etiket ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their labels"
   },
-  "gmail.lookingForEmail": {
-    "description": "Displayed when the user is searching for an email",
-    "message": "Bir eposta arıyor"
+  "gmail.inboxSettings": {
+    "message": "Gelen Kutusu ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "Hesaplar ve İçe Aktarma İşlemi ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "Filtreler ve Engellenen Adresleri yapılandırıyor",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "Yönlendirme ve POP/IMAP ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "Eklentileri yapılandırıyor",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "Sohbet ve Toplantı ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "Gelişmiş ayarları yapılandırıyor",
+    "description": "Displayed when the user is modifying their advanced settings"
   },
   "gmail.offlineSettings": {
-    "description": "Displayed when the user is modifying their offline settings",
-    "message": "Çevrimdışı ayarlarını yapılandırıyor"
+    "message": "Çevrimdışı ayarlarını yapılandırıyor",
+    "description": "Displayed when the user is modifying their offline settings"
   },
   "gmail.themesSettings": {
-    "description": "Displayed when the user is modifying their theme in the settings",
-    "message": "Bir tema seçiyor"
+    "message": "Bir tema seçiyor",
+    "description": "Displayed when the user is modifying their theme in the settings"
   },
-  "gmail.viewingAllEmails": {
-    "description": "Displayed when the user is viewing all their emails",
-    "message": "Tüm epostaları görüntülüyor"
-  },
-  "gmail.viewingChats": {
-    "description": "Displayed when the user is viewing their chats",
-    "message": "Sohbetleri görüntülüyor"
-  },
-  "gmail.viewingDrafts": {
-    "description": "Displayed when the user is viewing their drafts",
-    "message": "Taslakları görüntülüyor"
+  "gmail.lookingForEmail": {
+    "message": "Bir eposta arıyor",
+    "description": "Displayed when the user is searching for an email"
   },
   "gmail.viewingEmail": {
-    "description": "Displayed when the user is viewing an email",
-    "message": "Bir eposta görüntülüyor"
-  },
-  "gmail.viewingImportantEmails": {
-    "description": "Displayed when the user is viewing emails marked as important",
-    "message": "Önemli epostaları görüntülüyor"
-  },
-  "gmail.viewingScheduled": {
-    "description": "Displayed when the user is viewing their scheduled emails",
-    "message": "Zamanlanmış epostaları görüntülüyor"
-  },
-  "gmail.viewingSentEmails": {
-    "description": "Displayed when the user is viewing the emails they have sent",
-    "message": "Gönderilmiş postaları görüntülüyor"
-  },
-  "gmail.viewingSnoozedEmails": {
-    "description": "Displayed when the user is viewing their snoozed emails",
-    "message": "Ertelenen epostaları görüntülüyor"
-  },
-  "gmail.viewingSpam": {
-    "description": "Displayed when the user is viewing their spam",
-    "message": "Spam epostaları görüntülüyor"
+    "message": "Bir eposta görüntülüyor",
+    "description": "Displayed when the user is viewing an email"
   },
   "gmail.viewingStarredEmails": {
-    "description": "Displayed when the user is viewing emails marked with a star",
-    "message": "Yıldızlı postaları görüntülüyor"
+    "message": "Yıldızlı postaları görüntülüyor",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "Gönderilmiş postaları görüntülüyor",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "Ertelenen epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "Taslakları görüntülüyor",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "Önemli epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing emails marked as important"
   },
   "gmail.viewingTrash": {
-    "description": "Displayed when the user is viewing their trash",
-    "message": "Çöp kutusunu görüntülüyor"
+    "message": "Çöp kutusunu görüntülüyor",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "Sohbetleri görüntülüyor",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "Zamanlanmış epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "Spam epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "Tüm epostaları görüntülüyor",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "Bir eposta oluşturuyor",
+    "description": "Displayed when the user is composing an email"
   }
 }
