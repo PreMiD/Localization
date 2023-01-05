@@ -1,14 +1,14 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Main Trivia"
-  },
-  "watchmojo.trivia": {
-    "description": "{0} will be replaced with the name of the Trivia game",
-    "message": "Main Trivia: {0}"
-  },
-  "watchmojo.triviaGame": {
-    "description": "The round and score of the Trivia game the user is playing.",
-    "message": "Babak {0} saka {1} (Skor: {2}/{3})"
-  }
+	"watchmojo.triviaGame": {
+		"message": "Babak {0} saka {1} (Skor: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "Main Trivia: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "Main Trivia",
+		"description": "Used as the title for the button in Discord."
+	}
 }
