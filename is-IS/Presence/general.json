@@ -1,34 +1,34 @@
 {
-  "general.browsing": {
-    "description": "",
-    "message": "Skoðar..."
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Vafraköku Upplýsingar"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Tungumál"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Útsending"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Lestur"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Leitar"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Verslun"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Skoðar síðu:"
-  }
+	"general.browsing": {
+		"message": "Skoðar...",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Tungumál",
+		"description": "For choosing a language"
+	},
+	"general.live": {
+		"message": "Útsending",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Lestur",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Leitar",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Verslun",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Skoðar síðu:",
+		"description": ""
+	},
+	"general.cookie": {
+		"message": "Vafraköku Upplýsingar",
+		"description": "A page name"
+	}
 }
