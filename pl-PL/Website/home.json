@@ -1,90 +1,90 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "W grze"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Przeglądanie..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Na żywo"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Odtwarzanie"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "Pozostało {0}"
-  },
-  "home.examples.timestamp2": {
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "Upłynęło {0}"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "Pokochasz te funkcje!"
-  },
-  "home.features.presencesystem.button": {
-    "description": "Features section button",
-    "message": "Odwiedź sklep"
-  },
-  "home.features.presencesystem.description": {
-    "description": "Features section description",
-    "message": "Stworzyliśmy nasze rozszerzenie, które pozwala ci na używanie Presence stworzonych przez innych użytkowników i zarządzania nimi w naszej aplikacji!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "Znajdź **swoje** Presence"
-  },
-  "home.features.quickSupport.button": {
-    "description": "Features section button",
-    "message": "Dołącz na nasz serwer Discord"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "Coś jest zepsute, wysyła Ci mnóstwo błędów lub po prostu nie działa? Pomożemy Ci pozbyć się tych problemów na naszym serwerze Discord, stworzyliśmy również nasz własny system wsparcia, który zapewni, że problem zostanie rozwiązany tak szybko, jak to możliwe."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "Szybkie wsparcie"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "Masz dość skomplikowanych interfejsów? Dlatego stworzyliśmy i staramy się, aby nasz interfejs był tak prosty i użyteczny, jak to możliwe, dzięki ważnym funkcjom, takim jak:"
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "Ustawienia Aplikacji i Dodatku"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Zarządzanie aktywnością"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "Sortuj według kategorii"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "Prosty interfejs"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "Pobierz"
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "Funkcje"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "**PreMiD** to proste, konfigurowalne narzędzie pozwalające pokazać, co teraz robisz w sieci na twoim statusie w Discordzie."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "Język strony"
-  }
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** to proste, konfigurowalne narzędzie pozwalające pokazać, co teraz robisz w sieci na twoim statusie w Discordzie.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funkcje",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Pobierz",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "W grze",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "Pozostało {0}",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "Upłynęło {0}",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Odtwarzanie",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Na żywo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Przeglądanie...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Pokochasz te funkcje!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Znajdź **swoje** Presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Stworzyliśmy nasze rozszerzenie, które pozwala ci na używanie Presence stworzonych przez innych użytkowników i zarządzania nimi w naszej aplikacji!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Odwiedź sklep",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Prosty interfejs",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Masz dość skomplikowanych interfejsów? Dlatego stworzyliśmy i staramy się, aby nasz interfejs był tak prosty i użyteczny, jak to możliwe, dzięki ważnym funkcjom, takim jak:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Ustawienia Aplikacji i Dodatku",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Zarządzanie aktywnością",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortuj według kategorii",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Szybkie wsparcie",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Coś jest zepsute, wysyła Ci mnóstwo błędów lub po prostu nie działa? Pomożemy Ci pozbyć się tych problemów na naszym serwerze Discord, stworzyliśmy również nasz własny system wsparcia, który zapewni, że problem zostanie rozwiązany tak szybko, jak to możliwe.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Dołącz na nasz serwer Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Język strony",
+		"description": "Tippy content of the language selector."
+	}
 }
