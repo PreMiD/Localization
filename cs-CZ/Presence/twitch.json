@@ -1,198 +1,198 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Prohlášení o přístupnosti"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Úspěchy"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Aktivita Komunity"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Možnosti pro reklamu"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "Čte si Značce Twitch..."
-  },
-  "twitch.brandReal": {
-    "description": "Page name",
-    "message": "Keeping Twitch real"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "Tvůrčí Tábor"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "Úvod do Twiche"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "Budování komunity"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "Branding a analýza"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "Živá Výuka"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Hudba na Twitchi"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Vydělávejte na svém obsahu"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "Nastavuje svůj stream"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Analýza Kanálu"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Nastavení Kanálu"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Klipy"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Kolekce"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "Řídící Panel Tvůrce"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "Spravuje svůj stream..."
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Stáhnout"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Nastavení Drops"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Sleduje E-sporty..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "Prohlíží Rozšíření"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Seznam sledujících"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "Pokyny pro komunitu"
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Domovská stránka"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Kariéra"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "Spravuje role své komunity..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "Moderuje streamera:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Nastavení Moderace"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partneři"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "Pro média"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "Ve Videoprodukci..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Uplatňuje kód..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Bezpečnost"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "Sleduje Týmové Vysílání..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Přehled vysílání"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Prohlíží svá předplatná..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "Prohlíží Vysílací Nástroje"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Turbo"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "Prohlíží aktivní Drops kampaně..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "Prohlíží svůj inventář Drops..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Prohlíží seznam lidí, které sleduje..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Prohlížení jejich přátel..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Zobrazuji jejich nastavení..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Prohlíží tým:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Prohlíží"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Prohlíží svou peněženku..."
-  }
+	"twitch.downloads": {
+		"message": "Stáhnout",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Kariéra",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partneři",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Pro média",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Bezpečnost",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Prohlášení o přístupnosti",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Možnosti pro reklamu",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Pokyny pro komunitu",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Domovská stránka",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Prohlíží svou peněženku...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Sleduje E-sporty...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Prohlíží seznam lidí, které sleduje...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Prohlíží tým:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Prohlíží svůj inventář Drops...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Prohlíží aktivní Drops kampaně...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Zobrazuji jejich nastavení...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Prohlížení jejich přátel...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Prohlíží svá předplatná...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Sleduje Týmové Vysílání...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderuje streamera:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Uplatňuje kód...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Tvůrčí Tábor",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Úvod do Twiche",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Nastavuje svůj stream",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Branding a analýza",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Budování komunity",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Vydělávejte na svém obsahu",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Hudba na Twitchi",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Živá Výuka",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Řídící Panel Tvůrce",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Spravuje svůj stream...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Spravuje role své komunity...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "Ve Videoprodukci...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Prohlíží",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Analýza Kanálu",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Přehled vysílání",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Úspěchy",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Aktivita Komunity",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Seznam sledujících",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Kolekce",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Klipy",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Nastavení Kanálu",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Nastavení Moderace",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Nastavení Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Prohlíží Vysílací Nástroje",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Prohlíží Rozšíření",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Čte si Značce Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Keeping Twitch real",
+		"description": "Page name"
+	}
 }
