@@ -1,46 +1,46 @@
 {
-  "error.code.4": {
-    "description": "Error (4) message",
-    "message": "削除されたか、もしくは存在しないプレゼンスです。"
-  },
-  "error.code.404": {
-    "description": "Error (404) message",
-    "message": "ページが見つかりませんでした。"
-  },
-  "error.code.500": {
-    "description": "Error (500) message",
-    "message": "内部サーバーでエラーが発生しました。"
-  },
-  "error.page.button": {
-    "description": "Button on the error page",
-    "message": "ホームページに戻る"
-  },
-  "error.page.details": {
-    "description": "'Details' text on error page container",
-    "message": "詳細"
-  },
-  "store.search.notFound": {
-    "description": "Search result text when nothing's found",
-    "message": "プレゼンスが見つかりませんでした。"
-  },
-  "user.notFound.heading": {
-    "description": "Error when user couldn't be found.",
-    "message": "ユーザーを見つけられませんでした。以下のことを確認してみてください。"
-  },
-  "user.notFound.message1": {
-    "description": "Check user ID message.",
-    "message": "探しているユーザーIDは合っています。"
-  },
-  "user.notFound.message2": {
-    "description": "Check the presence amount of the developer created message.",
-    "message": "ユーザーが十分なプレゼンスを作成し、Discordサーバーでプレゼンス開発者の役割を持っていること。"
-  },
-  "user.notFound.message3": {
-    "description": "Check if the error is also happening to others message.",
-    "message": "PreMiDのDiscordサーバーで他の人に同じ現象が起こっているかを確認してください。"
-  },
-  "user.notFound.message4": {
-    "description": "Bottom line for the error page. Do not edit brackets.",
-    "message": "これがバグである場合、[PreMiDのDiscordサーバー] から報告してください"
-  }
+	"store.search.notFound": {
+		"message": "プレゼンスが見つかりませんでした。",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "ページが見つかりませんでした。",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "削除されたか、もしくは存在しないプレゼンスです。",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "内部サーバーでエラーが発生しました。",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "詳細",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "ホームページに戻る",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "ユーザーを見つけられませんでした。以下のことを確認してみてください。",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "探しているユーザーIDは合っています。",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "ユーザーが十分なプレゼンスを作成し、Discordサーバーでプレゼンス開発者の役割を持っていること。",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "PreMiDのDiscordサーバーで他の人に同じ現象が起こっているかを確認してください。",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "これがバグである場合、[PreMiDのDiscordサーバー] から報告してください",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
 }
