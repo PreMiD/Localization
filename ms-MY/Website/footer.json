@@ -1,110 +1,110 @@
 {
-  "footer.copyright.line1": {
-    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
-    "message": "{0} oleh {1}"
-  },
-  "footer.copyright.line2": {
-    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
-    "message": "Laman sesawang diselenggara oleh {0}"
-  },
-  "footer.developers.documentation": {
-    "description": "Documentation -> redirects to docs.premid.app",
-    "message": "Pendokumenan"
-  },
-  "footer.developers.heading": {
-    "description": "Developer section",
-    "message": "Para Pembangun"
-  },
-  "footer.developers.richpresence": {
-    "description": "Rich Presence -> redirects to discord.com/rich-presence",
-    "message": "Rich Presence"
-  },
-  "footer.followUs.heading": {
-    "description": "Follow Us section",
-    "message": "Ikuti Kami"
-  },
-  "footer.help.getsupport": {
-    "description": "Get Support -> redirects to Discord invite",
-    "message": "Dapatkan Bantuan"
-  },
-  "footer.help.heading": {
-    "description": "Help section",
-    "message": "Bantuan"
-  },
-  "footer.help.information": {
-    "description": "Information section",
-    "message": "Maklumat"
-  },
-  "footer.help.information.cookies": {
-    "description": "meant to be 'Cookie Policy'",
-    "message": "Kuki"
-  },
-  "footer.help.information.privacy": {
-    "description": "meant to be 'Privacy Policy'",
-    "message": "Privasi"
-  },
-  "footer.help.information.terms": {
-    "description": "meant to be 'Terms of Service'",
-    "message": "Terma-terma"
-  },
-  "footer.help.troubleshooting": {
-    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
-    "message": "Selesaikan masalah"
-  },
-  "footer.language": {
-    "description": "You know how to translate that word? I hope you do :D",
-    "message": "Bahasa"
-  },
-  "footer.more.heading": {
-    "description": "More section",
-    "message": "Lebih lagi"
-  },
-  "footer.more.status": {
-    "description": "Status -> redirects to status.premid.app",
-    "message": "Status"
-  },
-  "footer.more.wiki": {
-    "description": "Wiki -> redirects to wiki.premid.app",
-    "message": "Wiki"
-  },
-  "footer.partners.heading": {
-    "description": "Partner section",
-    "message": "Rakan Kongsi"
-  },
-  "footer.partners.more": {
-    "description": "Button next to all listed partners on the footer.",
-    "message": "Klik sini untuk melihat rakan kongsi & penaja kami yang lainnya."
-  },
-  "footer.supportus.contribute": {
-    "description": "Contribute -> redirects to github.com/premid",
-    "message": "Sumbang"
-  },
-  "footer.supportus.donate": {
-    "description": "Donate -> redirects to patreon.com/timeraa",
-    "message": "Derma"
-  },
-  "footer.supportus.heading": {
-    "description": "Support us section",
-    "message": "Sokong kami"
-  },
-  "footer.supportus.jobs": {
-    "description": "Work for us! -> redirects to /jobs page",
-    "message": "Kerja dengan kami!"
-  },
-  "footer.supportus.translate": {
-    "description": "Translate -> redirects to locilazation page",
-    "message": "Terjemah"
-  },
-  "footer.usercount.button": {
-    "description": "Install button under the promotional message",
-    "message": "Pasang"
-  },
-  "footer.usercount.heading": {
-    "description": "Promotional heading",
-    "message": "Sedia untuk gunakan PreMiD?"
-  },
-  "footer.usercount.message": {
-    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
-    "message": "Sertai {0} pengguna hari ini!"
-  }
+	"footer.language": {
+		"message": "Bahasa",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Sedia untuk gunakan PreMiD?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Sertai {0} pengguna hari ini!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Pasang",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Rakan Kongsi",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Ikuti Kami",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "Para Pembangun",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "Pendokumenan",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "Sokong kami",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "Derma",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "Sumbang",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "Terjemah",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Kerja dengan kami!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "Bantuan",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "Selesaikan masalah",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "Dapatkan Bantuan",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "Maklumat",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "Kuki",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "Privasi",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "Terma-terma",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "Lebih lagi",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "Status",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "Wiki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} oleh {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "Laman sesawang diselenggara oleh {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Klik sini untuk melihat rakan kongsi & penaja kami yang lainnya.",
+		"description": "Button next to all listed partners on the footer."
+	}
 }
