@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Abilised"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Allalaadimised"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Eesti keel"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Vaheta keelt"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Ei, tänan"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Meie veebisait on tõlgitud eesti keelde. See võib aidata, kui sa ei räägi/saa aru inglise keelest väga hästi."
+    "message": "Eesti keel",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "Me toetame su keelt, soovid vahetada?"
+    "message": "Me toetame su keelt, soovid vahetada?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Logitud sisse kui"
+  "header.languageNotification.text": {
+    "message": "Meie veebisait on tõlgitud eesti keelde. See võib aidata, kui sa ei räägi/saa aru inglise keelest väga hästi.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Ei, tänan",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Vaheta keelt",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Küpsetan pannkooke...;Lisan konteinerisse...;Vaatan su IP addressi üle...;UwU;Rikun reegleid..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Sisselogimine"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Logi välja"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Teatage veast"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Armatuurlaud"
+    "message": "Küpsetan pannkooke...;Lisan konteinerisse...;Vaatan su IP addressi üle...;UwU;Rikun reegleid...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Pood"
+    "message": "Pood",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Allalaadimised",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Abilised",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Sisselogimine",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Logitud sisse kui",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Teatage veast",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Armatuurlaud",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Logi välja",
+    "description": "Logout button"
   }
 }
