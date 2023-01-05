@@ -1,98 +1,98 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Durchstöbert"
-  },
-  "v live.channelBoard": {
-    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
-    "message": "Schaut sich das {0}"
-  },
-  "v live.channelHome": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Schaut sich die Homepage"
-  },
-  "v live.channelList": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "die Liste der Channels"
-  },
-  "v live.channelMy": {
-    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
-    "message": "Schaut sich My Page"
-  },
-  "v live.channelSchedule": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Schaut sich den Zeitplan"
-  },
-  "v live.channelStore": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Schaut sich den Shop"
-  },
-  "v live.charts": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "die Charts-Seite"
-  },
-  "v live.coins": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "Coin-Guthaben"
-  },
-  "v live.devices": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "Verbundene Geräte"
-  },
-  "v live.events": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "die Event-Seite"
-  },
-  "v live.followed": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "Gefolgte Channels"
-  },
-  "v live.newVid": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "die Neuheiten"
-  },
-  "v live.ofChannel": {
-    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
-    "message": "von {0} an"
-  },
-  "v live.policies": {
-    "description": "",
-    "message": "Liest die Nutzerbedingungen durch"
-  },
-  "v live.product": {
-    "description": "{0} will be replaced with the name of the publisher of the product",
-    "message": "Schaut sich das Produkt von {0} an"
-  },
-  "v live.profile": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "Profil"
-  },
-  "v live.profileEdit": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Bearbeitet das{0}eigene Profil"
-  },
-  "v live.purchases": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "Letzten Einkäufe"
-  },
-  "v live.recentUploads": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Durchstöbert die neusten{0}Follower-Uploads"
-  },
-  "v live.store": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "den Shop"
-  },
-  "v live.upcoming": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "den Sendeplan"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "Betrachtet auf My Page:"
-  },
-  "v live.watched": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "Videoverlauf"
-  }
+	"v live.browseThrough": {
+		"message": "Durchstöbert",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "die Neuheiten",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "die Charts-Seite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "den Sendeplan",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "die Liste der Channels",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "die Event-Seite",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "den Shop",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Durchstöbert die neusten{0}Follower-Uploads",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "von {0} an",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Schaut sich die Homepage",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Schaut sich den Zeitplan",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Schaut sich My Page",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Schaut sich den Shop",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "Schaut sich das {0}",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "Schaut sich das Produkt von {0} an",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.profileEdit": {
+		"message": "Bearbeitet das{0}eigene Profil",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.viewTheir": {
+		"message": "Betrachtet auf My Page:",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "Profil",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "Videoverlauf",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "Letzten Einkäufe",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "Coin-Guthaben",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "Verbundene Geräte",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "Gefolgte Channels",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Liest die Nutzerbedingungen durch",
+		"description": ""
+	}
 }
