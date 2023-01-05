@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "อัลบั้มที่เขาถูกใจ"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "ศิลปินที่เขาถูกใจ"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "พอดแคสต์ที่ดีที่สุด"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "กำลังเรียกดู"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "กำลังเรียกดูชาร์ตเพลงฮิต"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "กำลังค้นพบเพลงใหม่ๆ"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "กำลังดาวน์โหลด Spotify"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "เพลงที่แนะนำ"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "กำลังเรียกดูแนวเพลง"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "กำลังเรียกดูเพลงล่าสุด"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"จัดทำขึ้นเพื่อคุณ\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "เพลย์ลิสต์ของเขา"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "พอดแคสต์ที่เขาถูกใจ"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "เพลงที่เขาถูกใจ"
-  }
+	"spotify.featured": {
+		"message": "เพลงที่แนะนำ",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "พอดแคสต์ที่ดีที่สุด",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "กำลังเรียกดูชาร์ตเพลงฮิต",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "กำลังเรียกดูแนวเพลง",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "กำลังเรียกดูเพลงล่าสุด",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "กำลังค้นพบเพลงใหม่ๆ",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "กำลังเรียกดู",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "พอดแคสต์ที่เขาถูกใจ",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "ศิลปินที่เขาถูกใจ",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "อัลบั้มที่เขาถูกใจ",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "เพลงที่เขาถูกใจ",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"จัดทำขึ้นเพื่อคุณ\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "เพลย์ลิสต์ของเขา",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "กำลังดาวน์โหลด Spotify",
+		"description": ""
+	}
 }
