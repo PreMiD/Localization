@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Aadressi vaatamine"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Kupongide vaatamine"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "kustutatud tellimused"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "AliExpressi tagasiside"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "AliExpressi abikeskus"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Sõnumikeskus"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Tellimuste vaatamine"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "Vaadates nende hiljuti"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "vaadatud tooted"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Tagasimaksed ja vaidlused"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Sirvimine läbi müügi"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "AliExpressi müügikeskus"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Poe vaatamine:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "AliExpressi profiili vaatamine"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "AliExpressi kaubanduskeskus"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Vaatamine"
-  }
+    "aliexpress.store": {
+        "message": "Poe vaatamine:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Sõnumikeskus",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Sirvimine läbi müügi",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Vaadates nende hiljuti",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "vaadatud tooted",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "AliExpressi profiili vaatamine",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpressi tagasiside",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Tellimuste vaatamine",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Vaatamine",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Tagasimaksed ja vaidlused",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "kustutatud tellimused",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpressi kaubanduskeskus",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Kupongide vaatamine",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Aadressi vaatamine",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpressi abikeskus",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpressi müügikeskus",
+        "description": ""
+    }
 }
