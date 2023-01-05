@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Bekijkt bord:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Bekijkt zijn/haar volgers"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Bewerkt zijn/haar homepagina"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Bekijkt een pin"
-  }
+    "pinterest.board": {
+        "message": "Bekijkt bord:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Bekijkt een pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Bekijkt zijn/haar volgers",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Bewerkt zijn/haar homepagina",
+        "description": ""
+    }
 }
