@@ -1,34 +1,34 @@
 {
-  "google docs.browsingDoc": {
-    "description": "Displayed when the user is browsing their Google Documents",
-    "message": "Dokumentumokat böngészik"
-  },
-  "google docs.browsingPresentation": {
-    "description": "Displayed when the user is browsing their Google presentation",
-    "message": "Prezentációkat böngészik"
-  },
-  "google docs.editingDoc": {
-    "description": "Displayed when the user is editing a Google Document",
-    "message": "Dokumentumot szerkeszt"
-  },
-  "google docs.editingPresentation": {
-    "description": "Displayed when the user is editing a Google presentation",
-    "message": "Prezentációt szerkeszt"
-  },
-  "google docs.viewingDoc": {
-    "description": "Displayed when the user is viewing a Google Document",
-    "message": "Dokumentumot néz"
-  },
-  "google docs.viewingForm": {
-    "description": "Displayed when the user is viewing a Google Form",
-    "message": "Űrlapot néz"
-  },
-  "google docs.viewingPresentation": {
-    "description": "Displayed when the user is viewing a Google presentation",
-    "message": "Prezentációt néz"
-  },
-  "google docs.viewingSheet": {
-    "description": "Displayed when the user is viewing a Google Sheet",
-    "message": "Táblázatot néz"
-  }
+	"google docs.editingDoc": {
+		"message": "Dokumentumot szerkeszt",
+		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.viewingDoc": {
+		"message": "Dokumentumot néz",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Dokumentumokat böngészik",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.viewingForm": {
+		"message": "Űrlapot néz",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.viewingSheet": {
+		"message": "Táblázatot néz",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.editingPresentation": {
+		"message": "Prezentációt szerkeszt",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Prezentációt néz",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Prezentációkat böngészik",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
 }
