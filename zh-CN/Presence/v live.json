@@ -1,10 +1,10 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "浏览中"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "查看他们的"
-  }
+	"v live.browseThrough": {
+		"message": "浏览中",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "查看他们的",
+		"description": "The first part of the next 6 strings"
+	}
 }
