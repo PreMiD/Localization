@@ -1,22 +1,22 @@
 {
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "最好的Podcast"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "遊覽中"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "精選歌曲"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "遊覽不同類型的音樂"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "正看最新發佈"
-  }
+	"spotify.featured": {
+		"message": "精選歌曲",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "最好的Podcast",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "遊覽不同類型的音樂",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "正看最新發佈",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "遊覽中",
+		"description": "First section of the next 6 strings"
+	}
 }
