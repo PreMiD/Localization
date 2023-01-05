@@ -1,42 +1,42 @@
 {
-  "google classroom.assignment": {
-    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class",
-    "message": "Đang xem nhiệm vụ được giao trong:"
-  },
-  "google classroom.assignmentPrivate": {
-    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Đang xem nhiệm vụ được giao"
-  },
   "google classroom.calendar": {
-    "description": "Displayed when the user viewing their calendar",
-    "message": "Đang xem lịch của họ"
-  },
-  "google classroom.class": {
-    "description": "Displayed when a user is viewing a class",
-    "message": "Đang xem lớp học"
-  },
-  "google classroom.classmembers": {
-    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class",
-    "message": "Đang xem các thành viên trong lớp của:"
-  },
-  "google classroom.classmembersPrivate": {
-    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Đang xem các thành viên trong lớp học"
-  },
-  "google classroom.classwork": {
-    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class",
-    "message": "Đang xem công việc trên lớp của:"
-  },
-  "google classroom.classworkPrivate": {
-    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Đang xem công việc trên lớp"
-  },
-  "google classroom.settings": {
-    "description": "Displayed when a user is viewing their Google Classroom settings",
-    "message": "Đang tinh chỉnh cài đặt"
+    "message": "Đang xem lịch của họ",
+    "description": "Displayed when the user viewing their calendar"
   },
   "google classroom.todo": {
-    "description": "Displayed when the user is viewing their to-do list",
-    "message": "Đang xem danh sách cần làm của họ"
+    "message": "Đang xem danh sách cần làm của họ",
+    "description": "Displayed when the user is viewing their to-do list"
+  },
+  "google classroom.assignmentPrivate": {
+    "message": "Đang xem nhiệm vụ được giao",
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.assignment": {
+    "message": "Đang xem nhiệm vụ được giao trong:",
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"
+  },
+  "google classroom.class": {
+    "message": "Đang xem lớp học",
+    "description": "Displayed when a user is viewing a class"
+  },
+  "google classroom.classworkPrivate": {
+    "message": "Đang xem công việc trên lớp",
+    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classwork": {
+    "message": "Đang xem công việc trên lớp của:",
+    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class"
+  },
+  "google classroom.classmembersPrivate": {
+    "message": "Đang xem các thành viên trong lớp học",
+    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classmembers": {
+    "message": "Đang xem các thành viên trong lớp của:",
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
+  },
+  "google classroom.settings": {
+    "message": "Đang tinh chỉnh cài đặt",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
   }
 }
