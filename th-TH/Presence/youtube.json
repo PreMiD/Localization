@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "กำลังดูโฆษณา"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "การเรียกดูผ่านเพลย์ลิสต์ที่จะเล่น"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "กำลังเรียกดู"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "การเรียกดูผ่านวิดีโอ"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "ประวัติการรับชมของเขา"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "คลังของเขา"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "ของช่อง:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "ประวัติการซื้อของเขา"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "กำลังอ่านเกี่ยวกับช่อง:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "กำลังดูประวัติการรายงานของเขา"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "การค้นหาผ่านช่อง: {0} สำหรับ:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "หน้าศิลปิน"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "การวิเคราะห์ของช่อง"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "ความคิดเห็นของช่อง"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "การแปลภาษาของช่อง"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "กำลังดูแดชบอร์ดของเขา"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "กำลังแก้ไขวีดีโอ:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "กำลังดูการวิเคราะห์วิดีโอ:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "กำลังดูช่องความคิดเห็นของวิดีโอ:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "กำลังดูการแปลภาษาของวิดีโอ:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "กําลังดู"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "กำลังดูวิดีโอทั้งหมดของเขา"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "การติดตามของเขา"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "กำลังดูสิ่งที่เป็นที่นิยม"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "กำลังอัปโหลดอะไรบางอย่าง..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "กำลังดูเพลย์ลิสทั้งหมดของเขา"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "กำลังดูคลังเพลงและเสียง"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "กำลังดูข้อมูลแดชบอร์ดของไลฟ์สด"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "กำลังดูกิจกรรมแบบสดของเขา"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "กำลังดูโพสต์ชุมชน"
-  }
+    "youtube.ad": {
+        "message": "กำลังดูโฆษณา",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "การเรียกดูผ่านวิดีโอ",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "การเรียกดูผ่านเพลย์ลิสต์ที่จะเล่น",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "กำลังดูโพสต์ชุมชน",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "ของช่อง:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "กำลังอ่านเกี่ยวกับช่อง:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "การค้นหาผ่านช่อง: {0} สำหรับ:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "กำลังดูสิ่งที่เป็นที่นิยม",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "กำลังเรียกดู",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "การติดตามของเขา",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "คลังของเขา",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "ประวัติการรับชมของเขา",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "ประวัติการซื้อของเขา",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "กำลังดูประวัติการรายงานของเขา",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "กำลังอัปโหลดอะไรบางอย่าง...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "กำลังดูเพลย์ลิสทั้งหมดของเขา",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "กำลังดูกิจกรรมแบบสดของเขา",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "กำลังดูข้อมูลแดชบอร์ดของไลฟ์สด",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "กำลังดูคลังเพลงและเสียง",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "กำลังดูวิดีโอทั้งหมดของเขา",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "กำลังแก้ไขวีดีโอ:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "กำลังดูการวิเคราะห์วิดีโอ:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "กำลังดูช่องความคิดเห็นของวิดีโอ:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "กำลังดูการแปลภาษาของวิดีโอ:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "กําลังดู",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "การวิเคราะห์ของช่อง",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "ความคิดเห็นของช่อง",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "การแปลภาษาของช่อง",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "หน้าศิลปิน",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "กำลังดูแดชบอร์ดของเขา",
+        "description": ""
+    }
 }
