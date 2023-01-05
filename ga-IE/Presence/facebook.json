@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Leis Le Déanaí"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Ag brabhsáil tríd:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "I nglao le:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Físeáin shábháil"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Ag léamh faoin úsáideoir:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Pobal úsáideora an úsáideora:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Ag féachaint ar chairde an úsáideora:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "duine éigin... (Úsáideoir i bhfolach)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Ag féachaint ar ghrianghraif de réir úsáideora:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Ag féachaint ar phoist de réir úsáideora:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Siopa úsáideora an úsáideora:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Ag féachaint ar fhíseáin de réir úsáideora:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "I bhfíseán le:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Ag féachaint ar aimsir an lae inniu"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Teachtaireacht a chumadh"
-  }
+    "facebook.call": {
+        "message": "I nglao le:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "I bhfíseán le:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "duine éigin... (Úsáideoir i bhfolach)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Teachtaireacht a chumadh",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Ag léamh faoin úsáideoir:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Pobal úsáideora an úsáideora:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Ag féachaint ar ghrianghraif de réir úsáideora:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Ag féachaint ar phoist de réir úsáideora:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Siopa úsáideora an úsáideora:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Ag féachaint ar chairde an úsáideora:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Ag féachaint ar fhíseáin de réir úsáideora:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Ag brabhsáil tríd:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Físeáin shábháil",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Leis Le Déanaí",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Ag féachaint ar aimsir an lae inniu",
+        "description": ""
+    }
 }
