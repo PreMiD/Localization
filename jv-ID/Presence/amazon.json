@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Ndeleng alamat"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Ndeleng pilihan iklan"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Ndeleng saldo"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "keranjang belanja"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Ndeleng kabeh kategori"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "kartu hadiah"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Ndeleng riwayat"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "detail pesanan"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "riwayat pesenan"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Ndeleng metode pembayaran"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Ndeleng peliharaan"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Ndeleng Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Ndeleng Prime Video:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Ndeleng rekomendasi"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Ndeleng toko:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Ndeleng Langganan"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Ndeleng"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "daftar keinginan"
-  }
+    "amazon.subscriptions": {
+        "message": "Ndeleng Langganan",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Ndeleng pilihan iklan",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Ndeleng saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Ndeleng metode pembayaran",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Ndeleng alamat",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Ndeleng peliharaan",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Ndeleng kabeh kategori",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Ndeleng Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Ndeleng",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "riwayat pesenan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "detail pesanan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "keranjang belanja",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "daftar keinginan",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "kartu hadiah",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Ndeleng rekomendasi",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ndeleng riwayat",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Ndeleng toko:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Ndeleng Prime Video:",
+        "description": ""
+    }
 }
