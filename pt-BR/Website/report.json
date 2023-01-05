@@ -1,14 +1,14 @@
 {
-  "report.bugcount": {
-    "description": "Amount of bug reports user can send",
-    "message": "{count}/3 Reportes restantes"
-  },
-  "report.button": {
-    "description": "Button to send the information inputed.",
-    "message": "Reportar"
-  },
-  "report.title": {
-    "description": "Text to indicate the page.",
-    "message": "Reportar um Bug"
-  }
+	"report.title": {
+		"message": "Reportar um Bug",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Reportes restantes",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.button": {
+		"message": "Reportar",
+		"description": "Button to send the information inputed."
+	}
 }
