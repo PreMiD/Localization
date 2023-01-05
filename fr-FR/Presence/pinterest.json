@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Visualisation du tableau:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "En train de regarder ce qui suit"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Modifier leur page d'accueil"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Visualisation d'une broche"
-  }
+    "pinterest.board": {
+        "message": "Visualisation du tableau:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Visualisation d'une broche",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "En train de regarder ce qui suit",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Modifier leur page d'accueil",
+        "description": ""
+    }
 }
