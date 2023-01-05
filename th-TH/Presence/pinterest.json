@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "กำลังดูบอร์ด:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "กำลังดูผู้ติดตามของพวกเขา"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "แก้ไขในหน้าแรกของพวกเขา"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "กำลังดูปักหมุด:"
-  }
+    "pinterest.board": {
+        "message": "กำลังดูบอร์ด:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "กำลังดูปักหมุด:",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "กำลังดูผู้ติดตามของพวกเขา",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "แก้ไขในหน้าแรกของพวกเขา",
+        "description": ""
+    }
 }
