@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Dấu trang"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Khám phá"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Thông báo"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Đang đọc tweet của:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Đang thay đổi cài đặt..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Đang xem DMs"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Đang xem lượt thích bởi:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Đang xem danh sách:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Đang xem media của:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Đang xem tweet của:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Đang xem tweet (với trả lời) của:"
-  }
+	"twitter.readTweet": {
+		"message": "Đang đọc tweet của:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Đang xem DMs",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Đang xem tweet của:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Đang xem tweet (với trả lời) của:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Đang xem media của:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Đang xem lượt thích bởi:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Đang xem danh sách:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Dấu trang",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Thông báo",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Khám phá",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Đang thay đổi cài đặt...",
+		"description": ""
+	}
 }
