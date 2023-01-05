@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "กำลังดูรายการคำสั่งทั้งหมด"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "กำลังอ่านเกี่ยวกับคุกกี้ของไซต์"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "การอ่านข้อมูลเกี่ยวกับสนับสนุน"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "กําลังดูการจัดอันดับของเซิฟเวอร์"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "หน้าหลัก"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "อยู่ในแดชบอร์ด"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "เซิร์ฟเวอร์: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "กำลังเลือกเซิร์ฟเวอร์"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "กำลังดูสถิติของบอท"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "ปรับเเต่งเเรงค์การ์ด"
-  }
+    "juniperbot.mainpage": {
+        "message": "หน้าหลัก",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "กําลังดูการจัดอันดับของเซิฟเวอร์",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "อยู่ในแดชบอร์ด",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "เซิร์ฟเวอร์: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "การอ่านข้อมูลเกี่ยวกับสนับสนุน",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "กำลังเลือกเซิร์ฟเวอร์",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "กำลังดูรายการคำสั่งทั้งหมด",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "กำลังดูสถิติของบอท",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "ปรับเเต่งเเรงค์การ์ด",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "กำลังอ่านเกี่ยวกับคุกกี้ของไซต์",
+        "description": "Reading about the site's cookies"
+    }
 }
