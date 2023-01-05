@@ -1,186 +1,186 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Discord ব্লগ"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "ব্র্যান্ডিং পেজ"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "ব্রাউজ করছে"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখছে ইনভাইট লিংক"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "পড়ছে যে চ্যানেলে:{0}{1} (সার্ভার: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "টাইপ করছে যে চ্যানেলে:{0}{1} (সার্ভার: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "কলেজ পেজ"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "পরিচিতি পেজ"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "ব্রাউজ করছে তার অ্যাপগুলো"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "এডিট করছে যে অ্যাপ: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "পড়ছে ডকুমেন্টেশনটি"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "ডেভেলপার পোর্টাল"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "ব্রাউজ করছে তার সার্ভারগুলো"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "দেখছে পরিজ্ঞান যে সার্ভারের: {0}"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "ব্রাউজ করছে তার টিমগুলো"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "এডিট করছে যে টিম: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "পড়ছে গ্রুপ DM এ:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "টাইপ করছে গ্রুপ DM এ:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "পড়ছে DMs যার থেকে:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "টাইপ করছে DMs এ যাকে:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "ডাউনলোড পেজ"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "দেখছে তার বন্ধুদের..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "অনুপ্রেরণা পেজ"
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "দেখছে ইনভাইট লিংক:{0}{1} (সার্ভার: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "দেখছে ইনভাইট লিংক{0}যে সার্ভারের: {1}"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "চাকরি পেজ"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discord মার্চেন্ডাইজ"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "দেখছে কালেকশন:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "মডারেশন পেজ"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "নিউজরুম পেজ"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "পড়ছে নাইট্রো সম্বন্ধে..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "ওপেন সোর্স পেজ"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "পার্টনার পেজ"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "নীতি"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Rich Presence পেজ"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "নিরাপত্তা সেন্টার"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "সুরক্ষা পেজ"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "দেখছে সেটিংস{0}যে সার্ভারের: {1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "দেখছে তার সেটিংস..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Discord স্ট্যাটাস"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "স্ট্রিমকিট পেজ"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "সাহায্য কেন্দ্র"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "ভেরিফিকেশন পেজ"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "ভয়েস কানেক্টেড হয়েছে যে চ্যানেলে:{0}{1} (সার্ভার: {2})"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "ভয়েস কানেক্টেড হয়েছে যার সাথে:{0}{1}"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "\"কেন Discord?\" পেজ"
-  }
+	"discord.channelReading": {
+		"message": "পড়ছে যে চ্যানেলে:{0}{1} (সার্ভার: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "টাইপ করছে যে চ্যানেলে:{0}{1} (সার্ভার: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "পড়ছে DMs যার থেকে:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "টাইপ করছে DMs এ যাকে:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "পড়ছে গ্রুপ DM এ:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "টাইপ করছে গ্রুপ DM এ:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "দেখছে তার বন্ধুদের...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "পড়ছে নাইট্রো সম্বন্ধে...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "ভয়েস কানেক্টেড হয়েছে যার সাথে:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "ভয়েস কানেক্টেড হয়েছে যে চ্যানেলে:{0}{1} (সার্ভার: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "দেখছে তার সেটিংস...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "দেখছে সেটিংস{0}যে সার্ভারের: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "দেখছে ইনভাইট লিংক:{0}{1} (সার্ভার: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "দেখছে ইনভাইট লিংক{0}যে সার্ভারের: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "দেখছে ইনভাইট লিংক",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "ব্রাউজ করছে",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "ডাউনলোড পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "\"কেন Discord?\" পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "নিরাপত্তা সেন্টার",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "চাকরি পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "পরিচিতি পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "ব্র্যান্ডিং পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "অনুপ্রেরণা পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "কলেজ পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "নিউজরুম পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "পার্টনার পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "ভেরিফিকেশন পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "স্ট্রিমকিট পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "ওপেন সোর্স পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "সুরক্ষা পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "মডারেশন পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "Rich Presence পেজ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "নীতি",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "ডেভেলপার পোর্টাল",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "ব্রাউজ করছে তার অ্যাপগুলো",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "এডিট করছে যে অ্যাপ: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "ব্রাউজ করছে তার টিমগুলো",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "এডিট করছে যে টিম: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "ব্রাউজ করছে তার সার্ভারগুলো",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "দেখছে পরিজ্ঞান যে সার্ভারের: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "পড়ছে ডকুমেন্টেশনটি",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discord স্ট্যাটাস",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "সাহায্য কেন্দ্র",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord ব্লগ",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord মার্চেন্ডাইজ",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "দেখছে কালেকশন:",
+		"description": ""
+	}
 }
