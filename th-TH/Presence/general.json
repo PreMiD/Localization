@@ -1,362 +1,362 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "อนิเมะ"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "กำลังเรียกดู..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ฟังไปพร้อมกัน"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "อ่านบทความ"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูอัลบั้ม"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูศิลปิน"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูช่อง"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูตอน"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูภาพยนตร์"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูหน้า"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูเพลย์ลิสต์"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูพ็อดคาสท์"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูโปรไฟล์"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูซีรี่ย์"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูเพลง"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูภาพยนตร์"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูสตรีม"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูวิดีโอ"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "กำลังโทร"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "บท"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "นโยบายเกี่ยวกับคุกกี้"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "กำลังแก้ไข:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "ตอน"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "กระทู้"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "ประเภท"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "อยู่ในสาย..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "ประวัติเหตุการณ์"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "กำลังดูเหตุการณ์"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "ภาษา"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "ผู้ฟัง"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "กำลังฟังเพลง"
-  },
-  "general.live": {
-    "description": "",
-    "message": "ไลฟ์"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "มังงะ"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "สินค้า"
-  },
-  "general.page": {
-    "description": "",
-    "message": "หน้า"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "หยุดชั่วคราว"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "กำลังเล่น"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "นโยบายความเป็นส่วนตัว"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "กำลังอ่าน..."
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "กำลังอ่านเกี่ยวกับ:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "กำลังอ่านบทความ:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "กำลังอ่านในช่อง:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "กำลังอ่านข้อความส่วนตัวจาก:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "กำลังอ่านโพสต์:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "กำลังอ่านเธรด:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "วนซ้ำ"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "วนซ้ำเพลงทั้งหมด"
-  },
-  "general.search": {
-    "description": "",
-    "message": "กำลังค้นหา..."
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "กำลังค้นหา:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "กำลังค้นหาอะไรบางอย่าง..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "ซีซัน"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "ตะกร้าสินค้า"
-  },
-  "general.store": {
-    "description": "",
-    "message": "ร้านค้า"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "เงื่อนไขการใช้บริการ"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "กำลังพิมพ์ในช่อง:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "กำลังพิมพ์ข้อความส่วนตัวไปหา:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "ประวัติการทำงาน"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "กำลังดูแอคเคาท์ของเขาเอง"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "กำลังดูอนิเมะ:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "กำลังดูหมวดหมู่:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "กำลังดูช่อง:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "กำลังดูตอน:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "กำลังดูหมวดหมู่:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "กำลังดูหน้าหลัก"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "กำลังดูลิสต์ของ:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "กำลังดูมังงะ:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "กำลังดูสมาชิก:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "กำลังดูภาพยนตร์:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "กำลังดูเพจในส่วน:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "กำลังดูเพลย์ลิสต์:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "กำลังดูสินค้า:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "กำลังดูโปรไฟล์ของ:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "กำลังดูซีรี่ย์:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "กำลังดูโชว์:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "กำลังอ่านเธรด:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "กำลังดูผู้ใช้:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "กำลังดู:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "กำลังรอให้สตรีมแบบสดเริ่มต้นขึ้น"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "กำลังรอการถ่ายทอดสด"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "กำลังรอให้วิดีโอเปิดตัว"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "กำลังรอให้วิดีโอเปิดตัว"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "กำลังดู:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "กำลังดูถ่ายทอดสด:"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "กำลังดูหนัง"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "กำลังดูซีรี่ย์"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "กำลังดูการแสดง"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "กำลังดูวีดีโอ"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "สิ่งที่อยากได้:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "กำลังเขียน"
-  }
+	"general.anime": {
+		"message": "อนิเมะ",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "กำลังเรียกดู...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "บท",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "กำลังแก้ไข:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "ตอน",
+		"description": ""
+	},
+	"general.season": {
+		"message": "ซีซัน",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "กระทู้",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "ประเภท",
+		"description": ""
+	},
+	"general.language": {
+		"message": "ภาษา",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "กำลังฟังเพลง",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "ผู้ฟัง",
+		"description": ""
+	},
+	"general.live": {
+		"message": "ไลฟ์",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "มังงะ",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "สินค้า",
+		"description": ""
+	},
+	"general.page": {
+		"message": "หน้า",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "หยุดชั่วคราว",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "กำลังเล่น",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "กำลังอ่านข้อความส่วนตัวจาก:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "กำลังอ่านเกี่ยวกับ:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "กำลังอ่านบทความ:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "กำลังอ่านในช่อง:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "กำลังอ่านโพสต์:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "กำลังอ่านเธรด:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "กำลังอ่าน...",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "กำลังค้นหา:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "กำลังค้นหาอะไรบางอย่าง...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "กำลังค้นหา...",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "กำลังเขียน",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "กำลังโทร",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "อยู่ในสาย...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "ตะกร้าสินค้า",
+		"description": ""
+	},
+	"general.store": {
+		"message": "ร้านค้า",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "กำลังพิมพ์ข้อความส่วนตัวไปหา:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "กำลังพิมพ์ในช่อง:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "กำลังดูอนิเมะ:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "กำลังดูหมวดหมู่:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "กำลังดูช่อง:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "กำลังดูตอน:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "กำลังดูหมวดหมู่:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "กำลังดูหน้าหลัก",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "กำลังดูลิสต์ของ:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "กำลังดูมังงะ:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "กำลังดูสมาชิก:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "กำลังดูภาพยนตร์:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "กำลังดูเพลย์ลิสต์:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "กำลังดูสินค้า:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "กำลังดูโปรไฟล์ของ:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "กำลังดูซีรี่ย์:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "กำลังดูโชว์:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "กำลังดูแอคเคาท์ของเขาเอง",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "กำลังอ่านเธรด:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "กำลังดูผู้ใช้:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "กำลังดู:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "กำลังดูเพจในส่วน:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "กำลังดูหนัง",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "กำลังดูซีรี่ย์",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "กำลังดูการแสดง",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "กำลังดูวีดีโอ",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "กำลังรอให้วิดีโอเปิดตัว",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "กำลังรอให้วิดีโอเปิดตัว",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "กำลังดูถ่ายทอดสด:",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "กำลังรอให้สตรีมแบบสดเริ่มต้นขึ้น",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "กำลังรอการถ่ายทอดสด",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "กำลังดู:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "สิ่งที่อยากได้:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "นโยบายความเป็นส่วนตัว",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "เงื่อนไขการใช้บริการ",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "นโยบายเกี่ยวกับคุกกี้",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "วนซ้ำเพลงทั้งหมด",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "วนซ้ำ",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "กำลังดูเหตุการณ์",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "ประวัติเหตุการณ์",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "ประวัติการทำงาน",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "ดูซีรี่ย์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "ดูภาพยนตร์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "ดูตอน",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "ดูภาพยนตร์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "ดูวิดีโอ",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "ดูสตรีม",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "ดูช่อง",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "ฟังไปพร้อมกัน",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "ดูหน้า",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "ดูเพลง",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "ดูอัลบั้ม",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "ดูโปรไฟล์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "ดูศิลปิน",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "ดูเพลย์ลิสต์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "ดูพ็อดคาสท์",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "อ่านบทความ",
+		"description": "Used as the title for the button in Discord."
+	}
 }
