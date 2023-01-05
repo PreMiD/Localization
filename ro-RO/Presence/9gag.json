@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Citește totul despre 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Se uită la colecția:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Se uită la ce e fresh"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Se uită la un gag:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Se uită la ce e popular"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Se uită la pagina magazinului"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Se uită la eticheta:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Se uită la ce e în treding"
-  }
+    "9gag.gag": {
+        "message": "Se uită la un gag:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Se uită la ce e popular",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Se uită la ce e în treding",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Se uită la ce e fresh",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Se uită la eticheta:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Citește totul despre 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Se uită la pagina magazinului",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Se uită la colecția:",
+        "description": ""
+    }
 }
