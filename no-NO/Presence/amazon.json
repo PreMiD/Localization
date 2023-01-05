@@ -1,26 +1,26 @@
 {
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "handlekurv"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "gavekort"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ordredetaljer"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ordrehistorikk"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Ser på Amazon Prime"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ønskeliste"
-  }
+    "amazon.prime": {
+        "message": "Ser på Amazon Prime",
+        "description": ""
+    },
+    "amazon.orderHistory": {
+        "message": "ordrehistorikk",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "ordredetaljer",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "handlekurv",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "ønskeliste",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "gavekort",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
 }
