@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Последно добавени"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Търси в:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "В разговор с:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Записани видеа"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Чете за потребител:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Гледа общност на потребител:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Гледа приятели на потребител:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "някой... (Името е скрито)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Гледа снимки на потребител:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Гледа постове на потребител:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Гледа магазин на потребител:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Гледа видеа от потребител:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "В видео разговор с:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Гледа днескашното време"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Пише съобщение"
-  }
+    "facebook.call": {
+        "message": "В разговор с:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "В видео разговор с:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "някой... (Името е скрито)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Пише съобщение",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Чете за потребител:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Гледа общност на потребител:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Гледа снимки на потребител:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Гледа постове на потребител:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Гледа магазин на потребител:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Гледа приятели на потребител:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Гледа видеа от потребител:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Търси в:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Записани видеа",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Последно добавени",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Гледа днескашното време",
+        "description": ""
+    }
 }
