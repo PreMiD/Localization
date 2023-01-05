@@ -1,26 +1,26 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Allalaadimised"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "Abikeskus"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partnerid"
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Sõprade vaatamine..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Seadete vaatamine..."
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Vaatamine"
-  }
+	"twitch.downloads": {
+		"message": "Allalaadimised",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerid",
+		"description": "Page name"
+	},
+	"twitch.viewSettings": {
+		"message": "Seadete vaatamine...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Sõprade vaatamine...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Vaatamine",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.help": {
+		"message": "Abikeskus",
+		"description": "Page name"
+	}
 }
