@@ -1,106 +1,106 @@
 {
-  "kahoot.buttonJoinGame": {
-    "description": "Used as the title for the button in Discord. {0} is the Game ID",
-    "message": "게임 참여: {0}"
-  },
-  "kahoot.correctAnswer": {
-    "description": "Used when the user anwered correct on a question",
-    "message": "정답"
-  },
-  "kahoot.drumRoll": {
-    "description": "Used when a player is waiting to receive their final ranking",
-    "message": "최종 순위를 기다리는 중..."
-  },
-  "kahoot.firstPlace": {
-    "description": "Used to display who was first place in a game. {0} is a player name",
-    "message": "1등: {0}"
-  },
-  "kahoot.gameCreate": {
-    "description": "Used when a Kahoot Host is creating a Game",
-    "message": "게임 생성 중..."
-  },
-  "kahoot.gameOver": {
-    "description": "Used when the Game is finished",
-    "message": "게임 종료"
-  },
-  "kahoot.gameStarting": {
-    "description": "Used when a Kahoot Game is starting",
-    "message": "게임 시작!"
-  },
-  "kahoot.incorrectAnswer": {
-    "description": "Used when the user answered incorrectly on a question",
-    "message": "오답"
-  },
-  "kahoot.joiningGame": {
-    "description": "Used when a user is joining a Kahoot Game.",
-    "message": "게임 참여 중..."
-  },
-  "kahoot.loadingPage": {
-    "description": "Used when a page is loading",
-    "message": "페이지 불러오는 중..."
-  },
-  "kahoot.ndPlace": {
-    "description": "Used in the context of 2nd place",
-    "message": "2등"
-  },
-  "kahoot.of": {
-    "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
-    "message": "{0}/{1}"
-  },
-  "kahoot.onPodium": {
-    "description": "Used in the context of a player/team being withing the top 3",
-    "message": "상위 3등"
-  },
-  "kahoot.playing": {
-    "description": "Used as the first line when a user is answering a question",
-    "message": "플레이 중..."
-  },
-  "kahoot.points": {
-    "description": "Used to display how many points a user has. {0} is the number of points",
-    "message": "점수: {0}"
-  },
-  "kahoot.position": {
-    "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
-    "message": "순위: {0}"
-  },
-  "kahoot.questionLoading": {
-    "description": "Used when the next question is loading",
-    "message": "다음 질문 불러오는 중..."
-  },
-  "kahoot.questionNumber": {
-    "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of",
-    "message": "질문: {0}"
-  },
-  "kahoot.questionShowing": {
-    "description": "Used when the host is showing a question",
-    "message": "질문 보여주는 중:"
-  },
-  "kahoot.questionsCorrect": {
-    "description": "Used to display how many questions a user got correct",
-    "message": "맞힌 질문 수: {0}"
-  },
-  "kahoot.rdPlace": {
-    "description": "Used in the context of 3rd place",
-    "message": "3등"
-  },
-  "kahoot.resultsQuestion": {
-    "description": "Used when a user is looking at the results of the question they just answered",
-    "message": "결과 확인 중:"
-  },
-  "kahoot.slideShowing": {
-    "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz",
-    "message": "콘텐츠 슬라이드 표시 중"
-  },
-  "kahoot.stPlace": {
-    "description": "Used in the context of 1st place",
-    "message": "1등"
-  },
-  "kahoot.topX": {
-    "description": "Used in the context of Top 5",
-    "message": "{0}등"
-  },
-  "kahoot.waiting": {
-    "description": "Used when the user is waiting for a Kahoot Game to start",
-    "message": "시작 대기 중..."
-  }
+    "kahoot.buttonJoinGame": {
+        "message": "게임 참여: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.joiningGame": {
+        "message": "게임 참여 중...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.waiting": {
+        "message": "시작 대기 중...",
+        "description": "Used when the user is waiting for a Kahoot Game to start"
+    },
+    "kahoot.gameStarting": {
+        "message": "게임 시작!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "플레이 중...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.questionLoading": {
+        "message": "다음 질문 불러오는 중...",
+        "description": "Used when the next question is loading"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "오답",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "정답",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.resultsQuestion": {
+        "message": "결과 확인 중:",
+        "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.gameOver": {
+        "message": "게임 종료",
+        "description": "Used when the Game is finished"
+    },
+    "kahoot.gameCreate": {
+        "message": "게임 생성 중...",
+        "description": "Used when a Kahoot Host is creating a Game"
+    },
+    "kahoot.loadingPage": {
+        "message": "페이지 불러오는 중...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "1등: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.points": {
+        "message": "점수: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "맞힌 질문 수: {0}",
+        "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "콘텐츠 슬라이드 표시 중",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
+    },
+    "kahoot.questionNumber": {
+        "message": "질문: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.questionShowing": {
+        "message": "질문 보여주는 중:",
+        "description": "Used when the host is showing a question"
+    },
+    "kahoot.stPlace": {
+        "message": "1등",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2등",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3등",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "{0}등",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{0}/{1}",
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.onPodium": {
+        "message": "상위 3등",
+        "description": "Used in the context of a player/team being withing the top 3"
+    },
+    "kahoot.drumRoll": {
+        "message": "최종 순위를 기다리는 중...",
+        "description": "Used when a player is waiting to receive their final ranking"
+    },
+    "kahoot.position": {
+        "message": "순위: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    }
 }
