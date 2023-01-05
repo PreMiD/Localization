@@ -1,262 +1,262 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Inrochtaineacht"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Éachtaí"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Gníomhaíocht Pobail"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Roghanna Ad"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "Clár Affiliate Twitch"
-  },
-  "twitch.blogArchive": {
-    "description": "{0} will be replaced with the year",
-    "message": "Ag féachaint ar an gCartlann Blag {0}"
-  },
-  "twitch.blogBrowse": {
-    "description": "",
-    "message": "Ag brabhsáil trí na blagálacha is déanaí..."
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "Blaganna Twitch"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "Ag léamh faoin Twitch Brand..."
-  },
-  "twitch.brandExpression": {
-    "description": "Page name",
-    "message": "Ag uasmhéadú ár slonn"
-  },
-  "twitch.brandMadness": {
-    "description": "Page name",
-    "message": "Modh a thabhairt chuig ár buile (amháin)"
-  },
-  "twitch.brandReal": {
-    "description": "Page name",
-    "message": "Twitch a choinneáil fíor"
-  },
-  "twitch.brandTogether": {
-    "description": "Page name",
-    "message": "Ag tabhairt gach rud le chéile"
-  },
-  "twitch.brandWatch": {
-    "description": "Watching as in watching a video",
-    "message": "Breathnú ar éabhlóid bhranda Twitch"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "Campa Cruthaitheora"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "Foghlaim na Buneilimintí"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "Ceangail agus Dul i nGníomh"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "Ardaigh Leibhéal"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "Foghlaim Bheo"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Ceol ar Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Faigh Luaíocht"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "Do Shruth a Shocrú"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Anailísíocht Cainéil"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Socruithe Cainéal"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Gearrthóga"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Bailiúcháin Físe"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "Painéal an Chruthaitheora"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "A sruth a bhainistiú..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "Forbróirí Twitch"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "Doiciméadú Forbróra Twitch"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "Táirgí Forbróra Twitch"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "Scéalta rathúla ón bpobal"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "Acmhainní Cabhracha"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Íoslódálacha"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Drops Socruithe"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Ag Breathnú ar Esports..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "Ag Breathnú ar na Síntí"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Liosta Leantóirí"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "Treoirlínte Pobail"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "Ionad Cabhrach"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "Ábhar féachana:"
-  },
-  "twitch.helpTopicCatalog": {
-    "description": "",
-    "message": "Ag brabhsáil tríd an gcatalóg ábhair..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Leathanach baile"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Poist"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "A róil phobail a bhainistiú..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "Sruthán measartha:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Socruithe Modhnóireachta"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Comhpháirtithe"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "Ionad Preasa"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "Sa Léiritheoir Físe..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Cód a fhuascailt..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Slándáil"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "Scuad Faire..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Achoimre Sruth"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Ag féachaint ar a gcuid síntiúis..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "Ag Breathnú ar na hUirlisí Sruthlaithe"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Turbo"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "Ag féachaint ar fheachtais ghníomhacha Drops..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "Ag féachaint ar a bhfardal Drops..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Ag Breathnú ar Dhaoine a Leanaim..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Ag amharc ar a gcairde..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Ag féachaint ar a gcuid socruithe..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Foireann féachana:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Ag féachaint ar a gcuid"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Ag féachaint ar sparán..."
-  }
+	"twitch.downloads": {
+		"message": "Íoslódálacha",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Poist",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Comhpháirtithe",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Ionad Preasa",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Slándáil",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Inrochtaineacht",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Roghanna Ad",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Treoirlínte Pobail",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Leathanach baile",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Ag féachaint ar sparán...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Ag Breathnú ar Esports...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Ag Breathnú ar Dhaoine a Leanaim...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Foireann féachana:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Ag féachaint ar a bhfardal Drops...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Ag féachaint ar fheachtais ghníomhacha Drops...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Ag féachaint ar a gcuid socruithe...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Ag amharc ar a gcairde...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Ag féachaint ar a gcuid síntiúis...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Scuad Faire...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Sruthán measartha:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Cód a fhuascailt...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Campa Cruthaitheora",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Foghlaim na Buneilimintí",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Do Shruth a Shocrú",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Ardaigh Leibhéal",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Ceangail agus Dul i nGníomh",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Faigh Luaíocht",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Ceol ar Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Foghlaim Bheo",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Painéal an Chruthaitheora",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "A sruth a bhainistiú...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "A róil phobail a bhainistiú...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "Sa Léiritheoir Físe...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Ag féachaint ar a gcuid",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Anailísíocht Cainéil",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Achoimre Sruth",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Éachtaí",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Gníomhaíocht Pobail",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Liosta Leantóirí",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Bailiúcháin Físe",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Gearrthóga",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Socruithe Cainéal",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Socruithe Modhnóireachta",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Drops Socruithe",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Ag Breathnú ar na hUirlisí Sruthlaithe",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Ag Breathnú ar na Síntí",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Ag léamh faoin Twitch Brand...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Twitch a choinneáil fíor",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Modh a thabhairt chuig ár buile (amháin)",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Ag uasmhéadú ár slonn",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Ag tabhairt gach rud le chéile",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Breathnú ar éabhlóid bhranda Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Blaganna Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Ag féachaint ar an gCartlann Blag {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Ag brabhsáil trí na blagálacha is déanaí...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Ionad Cabhrach",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Ábhar féachana:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Ag brabhsáil tríd an gcatalóg ábhair...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Clár Affiliate Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Forbróirí Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Doiciméadú Forbróra Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Táirgí Forbróra Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Scéalta rathúla ón bpobal",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Acmhainní Cabhracha",
+		"description": "Page name"
+	}
 }
