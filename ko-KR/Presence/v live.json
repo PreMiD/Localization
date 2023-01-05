@@ -1,6 +1,6 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "살펴보는 중:"
-  }
+	"v live.browseThrough": {
+		"message": "살펴보는 중:",
+		"description": "The first part of the next 6 strings"
+	}
 }
