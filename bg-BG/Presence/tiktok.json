@@ -1,18 +1,18 @@
 {
-  "tiktok.buttonViewTikTok": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Вижте TikTok"
-  },
-  "tiktok.following": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Преглед на {0} последователната им страница"
-  },
-  "tiktok.forYou": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Преглед на страницата им {0} За вас"
-  },
-  "tiktok.viewing": {
-    "description": "Name of the user will be after the \":\"",
-    "message": "Преглед на TikTok на:"
-  }
+	"tiktok.forYou": {
+		"message": "Преглед на страницата им {0} За вас",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"tiktok.following": {
+		"message": "Преглед на {0} последователната им страница",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"tiktok.viewing": {
+		"message": "Преглед на TikTok на:",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "Вижте TikTok",
+		"description": "Used as the title for the button in Discord."
+	}
 }
