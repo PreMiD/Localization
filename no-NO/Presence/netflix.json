@@ -1,10 +1,10 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Ser på hva som er nytt og{0}populært på Netflix"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "Ser på listen deres"
-  }
+	"netflix.viewList": {
+		"message": "Ser på listen deres",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.latest": {
+		"message": "Ser på hva som er nytt og{0}populært på Netflix",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
