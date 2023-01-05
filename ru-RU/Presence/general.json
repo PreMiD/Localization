@@ -1,366 +1,366 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Аниме"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Смотрит..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Слушать вместе"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Прочитать статью"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть альбом"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть исполнителя"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть канал"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть серию"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть кино"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть страницу"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть плейлист"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть подкаст"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Просмотреть профиль"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть сериал"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Послушать песню"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Смотреть фильм"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть трансляцию"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Посмотреть видео"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Звонит"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Раздел"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Политика куки"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Редактирует:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Серия"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Форумы"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Жанр"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Звонит..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "История происшествий"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Смотрит происшествие"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Язык"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Слушатели"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Слушает музыку"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "Слушает{0}{1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Прямой эфир"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Манга"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Мерч"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Страница"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Приостановлено"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Играет"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Политика конфиденциальности"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Читает"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Читает о:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Читает статью:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Читает в канале:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Читает ЛС от:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Читает пост:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Читает тему:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "В цикле"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Зацикливание всех песен"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Ищет"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Ищет:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Что-то ищет..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Сезон"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Корзина покупок"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Магазин"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Пользовательское соглашение"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Печатает в канале:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Печатает ЛС:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "История бесперебойной работы"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Смотрит свою учётную запись"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Смотрит аниме:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Смотрит категорию:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Смотрит канал:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Смотрит серию:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Смотрит жанр:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Смотрит главную страницу"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Смотрит список:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Смотрит манга:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Смотрит участника:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Смотрит кино:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Смотрит страницу:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Смотрит плейлист:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Смотрит продукт:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Смотрит профиль:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Смотрит сериал:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Смотрит шоу:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Смотрит тему:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Смотрит пользователя:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Смотрит:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "В ожидании начала трансляции"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "В ожидании начала трансляции"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "В ожидании премьеры видео"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "В ожидании премьеры видео"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Смотрит:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Смотрит трансляцию"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Смотрит фильм"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Смотрит сериал"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Cмотрит шоу"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Смотрит видео"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Избранное:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Пишет"
-  }
+	"general.anime": {
+		"message": "Аниме",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Смотрит...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Раздел",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Редактирует:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Серия",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Сезон",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Форумы",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Жанр",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Язык",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Слушает музыку",
+		"description": ""
+	},
+	"general.listeningTo": {
+		"message": "Слушает{0}{1}",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc."
+	},
+	"general.listeners": {
+		"message": "Слушатели",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Прямой эфир",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Манга",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Мерч",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Страница",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Приостановлено",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Играет",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Читает ЛС от:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Читает о:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Читает статью:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Читает в канале:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Читает пост:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Читает тему:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Читает",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Ищет:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Что-то ищет...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Ищет",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Пишет",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Звонит",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Звонит...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Корзина покупок",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Магазин",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Печатает ЛС:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Печатает в канале:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Смотрит аниме:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Смотрит категорию:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Смотрит канал:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Смотрит серию:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Смотрит жанр:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Смотрит главную страницу",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Смотрит список:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Смотрит манга:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Смотрит участника:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Смотрит кино:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Смотрит плейлист:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Смотрит продукт:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Смотрит профиль:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Смотрит сериал:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Смотрит шоу:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Смотрит свою учётную запись",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Смотрит тему:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Смотрит пользователя:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Смотрит:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Смотрит страницу:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Смотрит фильм",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Смотрит сериал",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Cмотрит шоу",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Смотрит видео",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "В ожидании премьеры видео",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "В ожидании премьеры видео",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Смотрит трансляцию",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "В ожидании начала трансляции",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "В ожидании начала трансляции",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Смотрит:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Избранное:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Политика конфиденциальности",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Пользовательское соглашение",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Политика куки",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Зацикливание всех песен",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "В цикле",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Смотрит происшествие",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "История происшествий",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "История бесперебойной работы",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Посмотреть сериал",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Посмотреть кино",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Посмотреть серию",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Смотреть фильм",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Посмотреть видео",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Посмотреть трансляцию",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Посмотреть канал",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Слушать вместе",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Посмотреть страницу",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Послушать песню",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Посмотреть альбом",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Просмотреть профиль",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Посмотреть исполнителя",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Посмотреть плейлист",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Посмотреть подкаст",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Прочитать статью",
+		"description": "Used as the title for the button in Discord."
+	}
 }
