@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Branje vse o 9GAG-u"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Ogledovanje zbirko:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Ogledovanje kar je sveže"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Ogledovanje gag-a:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Ogledovanje kar je vroče"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Ogledovanje stran trgovine"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Ogledovanje oznako:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Ogledovanje, kar je popularno"
-  }
+    "9gag.gag": {
+        "message": "Ogledovanje gag-a:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Ogledovanje kar je vroče",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Ogledovanje, kar je popularno",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Ogledovanje kar je sveže",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Ogledovanje oznako:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Branje vse o 9GAG-u",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Ogledovanje stran trgovine",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Ogledovanje zbirko:",
+        "description": ""
+    }
 }
