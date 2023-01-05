@@ -1,6 +1,6 @@
 {
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ønskeliste"
-  }
+    "amazon.wishlist": {
+        "message": "ønskeliste",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
 }
