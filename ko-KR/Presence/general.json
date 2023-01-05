@@ -1,366 +1,366 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "애니메이션"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "살펴보는 중..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "같이 듣기"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "기사 읽기"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "앨범 보기"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "아티스트 보기"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "채널 보기"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "에피소드 보기"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "영화 보기"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "페이지 보기"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "플레이리스트 보기"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "팟캐스트 보기"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "프로필 보기"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "시리즈 보기"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "노래 보기"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "영화 시청"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "방송 시청"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "동영상 시청"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "전화 중"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "챕터"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "쿠키 정책"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "편집 중:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "에피소드"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "포럼"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "장르"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "통화 중..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "사고 기록"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "사고 보는 중"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "언어"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "청취자"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "음악 청취 중"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "{1}에서 청취 중"
-  },
-  "general.live": {
-    "description": "",
-    "message": "실시간"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "만화"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "상품"
-  },
-  "general.page": {
-    "description": "",
-    "message": "페이지"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "일시 중지됨"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "재생 중"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "개인정보 보호 정책"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "읽는 중"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "읽는 중:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "문서 읽는 중:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "채널 보는 중:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "DM 읽는 중:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "포스트 읽는 중:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "스레드 읽는 중:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "반복 중"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "전체 곡 반복 재생 중"
-  },
-  "general.search": {
-    "description": "",
-    "message": "검색 중"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "찾는 중:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "무언가 검색 중..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "시즌"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "장바구니"
-  },
-  "general.store": {
-    "description": "",
-    "message": "상점"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "이용 약관"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "채널에서 입력 중:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "DM 입력 중:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "가동 시간 기록"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "계정 보는 중"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "애니메이션 시청 중:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "카테고리 보는 중:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "채널 보는 중:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "에피소드 보는 중:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "장르 보는 중:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "홈페이지 보는 중"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "목록 보는 중:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "만화 보는 중:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "멤버 보는 중:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "영화 보는 중:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "페이지 보는 중:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "플레이리스트 보는 중:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "제품 보는 중:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "프로필 보는 중:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "시리즈 보는 중:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "공연 보는 중:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "스레드 보는 중:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "사용자 보는 중:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "보는 중:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "생방송 시작 대기 중"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "생방송 시작 대기 중"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "동영상 최초 공개 대기 중"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "동영상 최초 공개 대기 중"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "시청 중:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "실시간 시청 중"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "영화 시청 중"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "시리즈 시청 중"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "공연 시청 중"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "동영상 시청 중"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "위시리스트:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "작성 중"
-  }
+	"general.anime": {
+		"message": "애니메이션",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "살펴보는 중...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "챕터",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "편집 중:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "에피소드",
+		"description": ""
+	},
+	"general.season": {
+		"message": "시즌",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "포럼",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "장르",
+		"description": ""
+	},
+	"general.language": {
+		"message": "언어",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "음악 청취 중",
+		"description": ""
+	},
+	"general.listeningTo": {
+		"message": "{1}에서 청취 중",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc."
+	},
+	"general.listeners": {
+		"message": "청취자",
+		"description": ""
+	},
+	"general.live": {
+		"message": "실시간",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "만화",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "상품",
+		"description": ""
+	},
+	"general.page": {
+		"message": "페이지",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "일시 중지됨",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "재생 중",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "DM 읽는 중:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "읽는 중:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "문서 읽는 중:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "채널 보는 중:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "포스트 읽는 중:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "스레드 읽는 중:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "읽는 중",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "찾는 중:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "무언가 검색 중...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "검색 중",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "작성 중",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "전화 중",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "통화 중...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "장바구니",
+		"description": ""
+	},
+	"general.store": {
+		"message": "상점",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "DM 입력 중:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "채널에서 입력 중:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "애니메이션 시청 중:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "카테고리 보는 중:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "채널 보는 중:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "에피소드 보는 중:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "장르 보는 중:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "홈페이지 보는 중",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "목록 보는 중:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "만화 보는 중:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "멤버 보는 중:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "영화 보는 중:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "플레이리스트 보는 중:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "제품 보는 중:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "프로필 보는 중:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "시리즈 보는 중:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "공연 보는 중:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "계정 보는 중",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "스레드 보는 중:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "사용자 보는 중:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "보는 중:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "페이지 보는 중:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "영화 시청 중",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "시리즈 시청 중",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "공연 시청 중",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "동영상 시청 중",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "동영상 최초 공개 대기 중",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "동영상 최초 공개 대기 중",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "실시간 시청 중",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "생방송 시작 대기 중",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "생방송 시작 대기 중",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "시청 중:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "위시리스트:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "개인정보 보호 정책",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "이용 약관",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "쿠키 정책",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "전체 곡 반복 재생 중",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "반복 중",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "사고 보는 중",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "사고 기록",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "가동 시간 기록",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "시리즈 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "영화 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "에피소드 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "영화 시청",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "동영상 시청",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "방송 시청",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "채널 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "같이 듣기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "페이지 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "노래 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "앨범 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "프로필 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "아티스트 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "플레이리스트 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "팟캐스트 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "기사 읽기",
+		"description": "Used as the title for the button in Discord."
+	}
 }
