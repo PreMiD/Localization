@@ -1,30 +1,30 @@
 {
-  "contributors.cards.copyUserId": {
-    "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "תלחץ כאן בשביל להעתיק את הID של האיש."
-  },
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "צוות"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "תומכים"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "מתרגמים"
-  },
-  "contributors.roles.booster": {
-    "description": "'Booster' title for contributors page and user pages.",
-    "message": "מאיץ"
-  },
-  "contributors.roles.donator": {
-    "description": "'Donator' title for contributors page.",
-    "message": "תורם"
-  },
-  "contributors.roles.translator": {
-    "description": "'Translator' title for contributors page.",
-    "message": "מתרגם"
-  }
+	"contributors.headings.staff": {
+		"message": "צוות",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "תומכים",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.translators": {
+		"message": "מתרגמים",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "תורם",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "מאיץ",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "מתרגם",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "תלחץ כאן בשביל להעתיק את הID של האיש.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	}
 }
