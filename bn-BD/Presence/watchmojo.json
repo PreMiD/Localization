@@ -1,18 +1,18 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "খেলো ট্রিভিয়াটি"
-  },
-  "watchmojo.playingTrivia": {
-    "description": "For privacy mode, \"a\" as in unspecified.",
-    "message": "খেলছে একটি ট্রিভিয়া গেম"
-  },
-  "watchmojo.trivia": {
-    "description": "{0} will be replaced with the name of the Trivia game",
-    "message": "খেলছে ট্রিভিয়া: {0}"
-  },
-  "watchmojo.triviaGame": {
-    "description": "The round and score of the Trivia game the user is playing.",
-    "message": "{1} রাউন্ড এর {0} নম্বর রাউন্ড (স্কোর: {2}/{3})"
-  }
+	"watchmojo.triviaGame": {
+		"message": "{1} রাউন্ড এর {0} নম্বর রাউন্ড (স্কোর: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "খেলছে ট্রিভিয়া: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.playingTrivia": {
+		"message": "খেলছে একটি ট্রিভিয়া গেম",
+		"description": "For privacy mode, \"a\" as in unspecified."
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "খেলো ট্রিভিয়াটি",
+		"description": "Used as the title for the button in Discord."
+	}
 }
