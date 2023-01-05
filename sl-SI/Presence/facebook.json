@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Nedavno dodano"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Brskanje po:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "V klicu s:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Shranjenih videoposnetkov"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Branje o uporabniku:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Ogledovanje skupnost od uporabnika:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Ogledovanje prijateljev od uporabnika:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "nekdo... (Uporabnik skrit)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Ogledovanje fotografij od uporabnika:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Ogledovanje objavo od uporabnika:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Ogledovanje trgovino od uporabnika:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Ogledovanje videja od uporabnika:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "V video klicu s:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Ogledovanje današnjega vremena"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Sestavljajo sporočilo"
-  }
+    "facebook.call": {
+        "message": "V klicu s:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "V video klicu s:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "nekdo... (Uporabnik skrit)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Sestavljajo sporočilo",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Branje o uporabniku:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Ogledovanje skupnost od uporabnika:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Ogledovanje fotografij od uporabnika:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Ogledovanje objavo od uporabnika:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Ogledovanje trgovino od uporabnika:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Ogledovanje prijateljev od uporabnika:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Ogledovanje videja od uporabnika:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Brskanje po:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Shranjenih videoposnetkov",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nedavno dodano",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Ogledovanje današnjega vremena",
+        "description": ""
+    }
 }
