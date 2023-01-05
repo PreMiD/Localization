@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Their पते देखना"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Their adprefs देखना"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Their बैलेंस देखना"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "शॉपिंग कार्ट"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "सभी श्रेणियां देखना"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "गिफ्ट कार्ड"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Their इतिहास देखना"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ऑर्डर का विवरण"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "आदेश इतिहास"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "भुगतान के तरीके देखना"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Their पालतू जानवरों को देखना"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "अमेज़न प्राइम देखना"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "प्राइम वीडियो देखना:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "देखने की सिफारिश"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "देखने store:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Their सदस्यता देखना"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Their देखना"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "इच्छा-सूची"
-  }
+    "amazon.subscriptions": {
+        "message": "Their सदस्यता देखना",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Their adprefs देखना",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Their बैलेंस देखना",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "भुगतान के तरीके देखना",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Their पते देखना",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Their पालतू जानवरों को देखना",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "सभी श्रेणियां देखना",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "अमेज़न प्राइम देखना",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Their देखना",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "आदेश इतिहास",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "ऑर्डर का विवरण",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "शॉपिंग कार्ट",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "इच्छा-सूची",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "गिफ्ट कार्ड",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "देखने की सिफारिश",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Their इतिहास देखना",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "देखने store:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "प्राइम वीडियो देखना:",
+        "description": ""
+    }
 }
