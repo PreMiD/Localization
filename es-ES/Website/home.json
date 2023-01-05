@@ -1,90 +1,90 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "Jugando a un juego"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Navegando..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "En vivo"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Reproduciendo"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} restante"
-  },
-  "home.examples.timestamp2": {
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "Tiempo transcurrido: {0}"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "¡Te encantarán estas características!"
-  },
-  "home.features.presencesystem.button": {
-    "description": "Features section button",
-    "message": "Visitar la tienda"
-  },
-  "home.features.presencesystem.description": {
-    "description": "Features section description",
-    "message": "¡Desarrollamos nuestra extensión de forma que te permita añadir y usar Presences creadas por otros usuarios y gestionarlas en nuestra extensión!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "Encuentra **tu** presence"
-  },
-  "home.features.quickSupport.button": {
-    "description": "Features section button",
-    "message": "Únete a nuestro Discord"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "¿Algo está mal, mostrándote montón de errores o simplemente no funciona? Te ayudaremos a deshacerte de esos errores en nuestro servidor de Discord donde hemos creado nuestro propio sistema de soporte que asegurará que tu problema sea resuelto lo más pronto posible."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "Soporte rápido"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "¿Cansado de las complicadas interfaces de usuario? Es por eso que hemos creado e intentado de mantener nuestra IU simple y lo más útil posible con características importantes como:"
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "Ajustes de Aplicación y Extensión"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Gestión de Presences"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "Ordenar por categorias"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "Interfaz de usuario simple"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "Descargas"
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "Características"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "**PreMiD** es una utilidad simple y configurable que te permite mostrar lo que estás haciendo en la web como estado en tu Discord."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "Idioma del sitio web"
-  }
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** es una utilidad simple y configurable que te permite mostrar lo que estás haciendo en la web como estado en tu Discord.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Características",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Descargas",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Jugando a un juego",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} restante",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "Tiempo transcurrido: {0}",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Reproduciendo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "En vivo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Navegando...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "¡Te encantarán estas características!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Encuentra **tu** presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "¡Desarrollamos nuestra extensión de forma que te permita añadir y usar Presences creadas por otros usuarios y gestionarlas en nuestra extensión!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Visitar la tienda",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Interfaz de usuario simple",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "¿Cansado de las complicadas interfaces de usuario? Es por eso que hemos creado e intentado de mantener nuestra IU simple y lo más útil posible con características importantes como:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Ajustes de Aplicación y Extensión",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Gestión de Presences",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Ordenar por categorias",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Soporte rápido",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "¿Algo está mal, mostrándote montón de errores o simplemente no funciona? Te ayudaremos a deshacerte de esos errores en nuestro servidor de Discord donde hemos creado nuestro propio sistema de soporte que asegurará que tu problema sea resuelto lo más pronto posible.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Únete a nuestro Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Idioma del sitio web",
+		"description": "Tippy content of the language selector."
+	}
 }
