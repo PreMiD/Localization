@@ -1,6 +1,6 @@
 {
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Κύρια σελίδα"
-  }
+    "juniperbot.mainpage": {
+        "message": "Κύρια σελίδα",
+        "description": "Home page of the site"
+    }
 }
