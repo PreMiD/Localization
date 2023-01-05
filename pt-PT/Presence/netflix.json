@@ -1,18 +1,18 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "A ver o que há de novo e{0}popular na Netflix"
-  },
-  "netflix.profile": {
-    "description": "",
-    "message": "A gerir os seus perfis"
-  },
-  "netflix.referral": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "A obter o seu{0}link de referência"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "A ver a sua lista"
-  }
+	"netflix.viewList": {
+		"message": "A ver a sua lista",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "A gerir os seus perfis",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "A ver o que há de novo e{0}popular na Netflix",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"netflix.referral": {
+		"message": "A obter o seu{0}link de referência",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
