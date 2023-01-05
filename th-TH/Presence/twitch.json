@@ -1,262 +1,262 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "การเข้าถึง"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "รางวัลความสำเร็จของเขา"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "กิจกรรมของชุมชน"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "ตัวเลือกโฆษณา"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "โปรแกรมพาร์ทเนอร์ Twitch"
-  },
-  "twitch.blogArchive": {
-    "description": "{0} will be replaced with the year",
-    "message": "กำลังดูคลังบล็อก {0}"
-  },
-  "twitch.blogBrowse": {
-    "description": "",
-    "message": "กำลังเรียกดูโพสต์บล็อกล่าสุด..."
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "บล็อก Twitch"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "กำลังอ่านเกี่ยวกับแบรนด์ของ Twitch..."
-  },
-  "twitch.brandExpression": {
-    "description": "Page name",
-    "message": "เพิ่มการแสดงออกให้เต็มที่"
-  },
-  "twitch.brandMadness": {
-    "description": "Page name",
-    "message": "กำลังนำเข้าสู่ความบ้าคลั่ง (อันเป็นที่รัก)"
-  },
-  "twitch.brandReal": {
-    "description": "Page name",
-    "message": "Keeping Twitch real"
-  },
-  "twitch.brandTogether": {
-    "description": "Page name",
-    "message": "รวมทุกอย่างไว้ด้วยกัน"
-  },
-  "twitch.brandWatch": {
-    "description": "Watching as in watching a video",
-    "message": "กำลังดูวัฒนาการแบรนด์ของ Twitch"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "ครีเอเตอร์แคมป์"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "เรียนรู้พื้นฐาน"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "เชื่อมต่อและมีส่วนร่วม"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "เลื่อนขั้น"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "การเรียนรู้สด"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "เพลงบน Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "รับรางวัล"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "ตั้งค่าสตรีม"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "สถิติของช่อง"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "กำตั้งค่าช่องของเขา"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "คลิป"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "คอลเลกชันวิดีโอ"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "แดชบอร์ดของครีเอเตอร์"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "กำลังจัดการสตรีมอยู่..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "นักพัฒนา Twitch"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "เอกสารประกอบสำหรับนักพัฒนา Twitch"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "โปรดักส์ของผู้พัฒนา Twitch"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "เรื่องราวความสำเร็จจากชุมชน"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "ข้อมูลที่เป็นประโยชน์"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "ดาวน์โหลด"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "การตั้งค่า Drops"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "กำลังดูอีสปอร์ต..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "กำลังดูส่วนขยาย"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "รายชื่อผู้ติดตาม"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "หลักเกณฑ์ของชุมชน"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "ศูนย์ช่วยเหลือ"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "กำลังดูหัวข้อ:"
-  },
-  "twitch.helpTopicCatalog": {
-    "description": "",
-    "message": "กำลังเรียกดูรายการหัวข้อ..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "หน้าหลัก"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "ตำแหน่งงาน"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "กำลังจัดการบทบาทชุมชนของเขาอยู่..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "กำลังควบคุมดูแลสตรีมเมอร์:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "การตั้งค่าการดูแล"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "พันธมิตร"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "สื่อมวลชน"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "กำลังอยู่ใน Video Producer..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "กำลังแลกรหัส..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "ความปลอดภัย"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "กำลังรับชม Squad..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "สรุปสตรีม"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "ดูสถานะการสมัครเป็นสมาชิก..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "กำลังดูเครื่องมือในการถ่ายทอดสด"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "เทอร์โบ"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "กำลังดูแคมเปญ Drops ที่กำลังดำเนินอยู่..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "กำลังดูคลัง Drops ของเขา..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "กำลังดูคนที่เราติดตาม..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "กำลังดูเพื่อนของเขา..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "กำลังดูการตั้งค่าของเขา..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "กำลังดูทึม:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "กําลังเรียกดู"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "กำลังดูวอลเล็ท..."
-  }
+	"twitch.downloads": {
+		"message": "ดาวน์โหลด",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "ตำแหน่งงาน",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "เทอร์โบ",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "พันธมิตร",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "สื่อมวลชน",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "ความปลอดภัย",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "การเข้าถึง",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "ตัวเลือกโฆษณา",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "หลักเกณฑ์ของชุมชน",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "หน้าหลัก",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "กำลังดูวอลเล็ท...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "กำลังดูอีสปอร์ต...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "กำลังดูคนที่เราติดตาม...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "กำลังดูทึม:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "กำลังดูคลัง Drops ของเขา...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "กำลังดูแคมเปญ Drops ที่กำลังดำเนินอยู่...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "กำลังดูการตั้งค่าของเขา...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "กำลังดูเพื่อนของเขา...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "ดูสถานะการสมัครเป็นสมาชิก...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "กำลังรับชม Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "กำลังควบคุมดูแลสตรีมเมอร์:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "กำลังแลกรหัส...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "ครีเอเตอร์แคมป์",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "เรียนรู้พื้นฐาน",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "ตั้งค่าสตรีม",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "เลื่อนขั้น",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "เชื่อมต่อและมีส่วนร่วม",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "รับรางวัล",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "เพลงบน Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "การเรียนรู้สด",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "แดชบอร์ดของครีเอเตอร์",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "กำลังจัดการสตรีมอยู่...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "กำลังจัดการบทบาทชุมชนของเขาอยู่...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "กำลังอยู่ใน Video Producer...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "กําลังเรียกดู",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "สถิติของช่อง",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "สรุปสตรีม",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "รางวัลความสำเร็จของเขา",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "กิจกรรมของชุมชน",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "รายชื่อผู้ติดตาม",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "คอลเลกชันวิดีโอ",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "คลิป",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "กำตั้งค่าช่องของเขา",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "การตั้งค่าการดูแล",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "การตั้งค่า Drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "กำลังดูเครื่องมือในการถ่ายทอดสด",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "กำลังดูส่วนขยาย",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "กำลังอ่านเกี่ยวกับแบรนด์ของ Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Keeping Twitch real",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "กำลังนำเข้าสู่ความบ้าคลั่ง (อันเป็นที่รัก)",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "เพิ่มการแสดงออกให้เต็มที่",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "รวมทุกอย่างไว้ด้วยกัน",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "กำลังดูวัฒนาการแบรนด์ของ Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "บล็อก Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "กำลังดูคลังบล็อก {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "กำลังเรียกดูโพสต์บล็อกล่าสุด...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "ศูนย์ช่วยเหลือ",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "กำลังดูหัวข้อ:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "กำลังเรียกดูรายการหัวข้อ...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "โปรแกรมพาร์ทเนอร์ Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "นักพัฒนา Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "เอกสารประกอบสำหรับนักพัฒนา Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "โปรดักส์ของผู้พัฒนา Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "เรื่องราวความสำเร็จจากชุมชน",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "ข้อมูลที่เป็นประโยชน์",
+		"description": "Page name"
+	}
 }
