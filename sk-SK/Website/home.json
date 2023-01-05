@@ -1,90 +1,90 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "Hrá hru"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Prehľadáva..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Naživo"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Prehráva"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "ostáva {0}"
-  },
-  "home.examples.timestamp2": {
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "Uplynulo {0}"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "Tieto funkcie sa ti budú páčiť!"
-  },
-  "home.features.presencesystem.button": {
-    "description": "Features section button",
-    "message": "Navštíviť obchod"
-  },
-  "home.features.presencesystem.description": {
-    "description": "Features section description",
-    "message": "Naše rozšírenie sme vytvorili spôsobom, ktorý vám umožňuje pridávať a používať Prítomnosti vytvorené ostatnými a spravovať ich v našom rozšírení!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "Nájdite **svoju** prítomnosť"
-  },
-  "home.features.quickSupport.button": {
-    "description": "Features section button",
-    "message": "Pripoj sa na náš discord"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "Niečo je poškodené, posielajú vám veľa chýb alebo jednoducho nefunguje? Pomôžeme vám zbaviť sa týchto problémov na našom Discord serveri. Vytvorili sme tiež náš vlastný systém podpory, ktorý zabezpečí, že váš problém bude vyriešený čo najskôr."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "Rýchla podpora"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "Unavujú vás komplikované používateľské rozhrania? Preto sme vytvorili a snažíme sa udržiavať naše používateľské rozhranie čo najjednoduchšie a najužitočnejšie s dôležitými funkciami, ako sú:"
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "Nastavenia Aplikácií a Rozšírení"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Spravovanie prítomnosti"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "Zoradiť podľa kategórie"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "Jednoduché užívateľské rozhranie"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "Stiahnuť "
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "Vlastnosti"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "**PreMiD je jednoduchý konfigurovateľný nástroj ktorý vám umožní ukázať čo sledujete/počúvate vo vašom Discord statuse."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "Jazyk webovej stránky"
-  }
+	"home.introduction.paragraph": {
+		"message": "**PreMiD je jednoduchý konfigurovateľný nástroj ktorý vám umožní ukázať čo sledujete/počúvate vo vašom Discord statuse.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Vlastnosti",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Stiahnuť ",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Hrá hru",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "ostáva {0}",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "Uplynulo {0}",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Prehráva",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Naživo",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Prehľadáva...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Tieto funkcie sa ti budú páčiť!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Nájdite **svoju** prítomnosť",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Naše rozšírenie sme vytvorili spôsobom, ktorý vám umožňuje pridávať a používať Prítomnosti vytvorené ostatnými a spravovať ich v našom rozšírení!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Navštíviť obchod",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Jednoduché užívateľské rozhranie",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Unavujú vás komplikované používateľské rozhrania? Preto sme vytvorili a snažíme sa udržiavať naše používateľské rozhranie čo najjednoduchšie a najužitočnejšie s dôležitými funkciami, ako sú:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Nastavenia Aplikácií a Rozšírení",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Spravovanie prítomnosti",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Zoradiť podľa kategórie",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Rýchla podpora",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Niečo je poškodené, posielajú vám veľa chýb alebo jednoducho nefunguje? Pomôžeme vám zbaviť sa týchto problémov na našom Discord serveri. Vytvorili sme tiež náš vlastný systém podpory, ktorý zabezpečí, že váš problém bude vyriešený čo najskôr.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Pripoj sa na náš discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Jazyk webovej stránky",
+		"description": "Tippy content of the language selector."
+	}
 }
