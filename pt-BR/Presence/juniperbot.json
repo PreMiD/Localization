@@ -1,22 +1,22 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Olhando a lista de comandos"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Página principal"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Servidor: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Selecionando servidor"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Vendo as estatísticas do bot"
-  }
+    "juniperbot.mainpage": {
+        "message": "Página principal",
+        "description": "Home page of the site"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Servidor: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.servers": {
+        "message": "Selecionando servidor",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Olhando a lista de comandos",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Vendo as estatísticas do bot",
+        "description": "Page with bot's statistics"
+    }
 }
