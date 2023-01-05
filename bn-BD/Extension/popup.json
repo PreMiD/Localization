@@ -1,150 +1,150 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "সাহায্য প্রয়োজন?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Presence স্টোর"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "সব"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "অ্যানিমে"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "গেমস"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "মিউজিক"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "অন্যান্য"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "সোশ্যাল"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "ভিডিও & স্ট্রিম"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "আরে না!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "কৃতিত্ব লোড হওয়ার সময় ত্রুটি"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "ডেসক্রিপশন"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "সাধারণ"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Presences"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "সেটিংস"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "ইন্টারনেট কানেকশন নেই!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "মনে হচ্ছে তোমার ইন্টারনেট কানেকশন নেই! PreMiD এই মুহূর্তে Presences দেখাতে পারবে না।"
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "কানেক্টেড নয়"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD তার অ্যাপ্লিকেশন এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Discord কানেকশন নেই!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD তোমার Discord অ্যাপ্লিকেশন এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "আউটডেটেড এক্সটেনশন"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "তোমার এক্সটেনশনটি আউটডেটেড। এটাকে আপডেট করো লেটেস্ট ফিচার পাওয়ার জন্যে, আমাদের ওয়েবসাইট থেকে এটিকে ডাউনলোড করে।"
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "জরুরি আপডেট"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "আমরা এক্সটেনশনটির জন্য জরুরি আপডেট বের করেছি। এটিকে আপডেট করো PreMiD ব্যবহার করতে থাকার জন্যে।"
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "আউটডেটেড অ্যাপ"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "তোমার PreMiD অ্যাপটি আউটডেটেড। এটিকে আপডেট করো PreMiD এর ব্যবহার চালিয়ে যাওয়ার জন্যে।"
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "কৃতিত্ব"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "সেটিংস"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "সম্পন্ন"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Presence লোড করাও"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "ম্যানেজ"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "কোনো Presences যোগ করা নেই"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "অটো স্টার্টআপ"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "অ্যাক্টিভ"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "মিডিয়া কন্ট্রোলগুলো"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "টাইটেল মেনুবার"
-  }
+	"popup.navigation.settings": {
+		"message": "সেটিংস",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "কৃতিত্ব",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "সেটিংস",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "সাধারণ",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "ডেসক্রিপশন",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "অ্যাক্টিভ",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "মিডিয়া কন্ট্রোলগুলো",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "টাইটেল মেনুবার",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "অটো স্টার্টআপ",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Presences",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "ম্যানেজ",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "কোনো Presences যোগ করা নেই",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "সম্পন্ন",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Presence লোড করাও",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Presence স্টোর",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "সাহায্য প্রয়োজন?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "আরে না!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "কৃতিত্ব লোড হওয়ার সময় ত্রুটি",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "কানেক্টেড নয়",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD তার অ্যাপ্লিকেশন এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "আউটডেটেড অ্যাপ",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "তোমার PreMiD অ্যাপটি আউটডেটেড। এটিকে আপডেট করো PreMiD এর ব্যবহার চালিয়ে যাওয়ার জন্যে।",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "আউটডেটেড এক্সটেনশন",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "তোমার এক্সটেনশনটি আউটডেটেড। এটাকে আপডেট করো লেটেস্ট ফিচার পাওয়ার জন্যে, আমাদের ওয়েবসাইট থেকে এটিকে ডাউনলোড করে।",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "জরুরি আপডেট",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "আমরা এক্সটেনশনটির জন্য জরুরি আপডেট বের করেছি। এটিকে আপডেট করো PreMiD ব্যবহার করতে থাকার জন্যে।",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "ইন্টারনেট কানেকশন নেই!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "মনে হচ্ছে তোমার ইন্টারনেট কানেকশন নেই! PreMiD এই মুহূর্তে Presences দেখাতে পারবে না।",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Discord কানেকশন নেই!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD তোমার Discord অ্যাপ্লিকেশন এর সাথে কানেক্ট হতে পারেনি! এটা কি ইন্সটল করা হয়েছে এবং চলছে তো? *সমস্যা সমাধান*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "সব",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "অ্যানিমে",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "মিউজিক",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "গেমস",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "সোশ্যাল",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "ভিডিও & স্ট্রিম",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "অন্যান্য",
+		"description": "Category name shown when you open tags"
+	}
 }
