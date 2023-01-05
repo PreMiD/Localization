@@ -1,58 +1,58 @@
 {
-  "report.activebugs": {
-    "description": "Lists users active bugs",
-    "message": "Aktive Fehler"
-  },
-  "report.browser": {
-    "description": "Select Box for the user to select their browser",
-    "message": "Wähle deinen Browser und die Version aus - Du kannst die Version herausfinden indem du about:support in Firefox oder chrome://help in Chromium öffnest"
-  },
-  "report.bugcount": {
-    "description": "Amount of bug reports user can send",
-    "message": "{count}/3 Fehlermeldungen übrig"
-  },
-  "report.button": {
-    "description": "Button to send the information inputed.",
-    "message": "Melden"
-  },
-  "report.description": {
-    "description": "Text for the user to write information about the bug.",
-    "message": "Gebe uns einen Link zu einem Live-Beispiel oder eine Schritt-für-Schritt Erklärung, wie man diesen Fehler reproduzieren kann."
-  },
-  "report.error": {
-    "description": "User needs to input more notification",
-    "message": "Weitere Informationen benötigt"
-  },
-  "report.error.unauth": {
-    "description": "Users Discord not verified",
-    "message": "Dein Discord-Konto muss verifiziert sein"
-  },
-  "report.info": {
-    "description": "Tells the user about submitting a bug",
-    "message": "Melde Fehler innerhalb der PreMiD-Website und des PreMiD Discord-Servers. Fehler für eine Presence sollten an den Ersteller der jeweiligen Presence gemeldet werden. Bitte melde Bugs nur auf Englisch."
-  },
-  "report.os": {
-    "description": "Select Box for the user to select their operating system",
-    "message": "Wähle dein Betriebssystem und die Version aus"
-  },
-  "report.overview": {
-    "description": "Text for the user to write a brief of the bug information.",
-    "message": "Gebe uns eine klare und präzise Beschreibung des Fehlers."
-  },
-  "report.success": {
-    "description": "Success notification",
-    "message": "Fehler gemeldet"
-  },
-  "report.title": {
-    "description": "Text to indicate the page.",
-    "message": "Melde einen Fehler"
-  },
-  "report.toomany": {
-    "description": "User has too many active reports",
-    "message": "Du hast zu viele aktive Berichte. Warte, bis deine eingereichten Berichte überprüft werden. Berichte werden wöchentlich überprüft, bitte habe Geduld."
-  },
-  "report.toomany.alert": {
-    "description": "User has too many active reports",
-    "message": "Du hast zu viele aktive Meldungen."
-  }
+	"report.title": {
+		"message": "Melde einen Fehler",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Fehlermeldungen übrig",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Melde Fehler innerhalb der PreMiD-Website und des PreMiD Discord-Servers. Fehler für eine Presence sollten an den Ersteller der jeweiligen Presence gemeldet werden. Bitte melde Bugs nur auf Englisch.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Gebe uns eine klare und präzise Beschreibung des Fehlers.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Wähle dein Betriebssystem und die Version aus",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Wähle deinen Browser und die Version aus - Du kannst die Version herausfinden indem du about:support in Firefox oder chrome://help in Chromium öffnest",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Gebe uns einen Link zu einem Live-Beispiel oder eine Schritt-für-Schritt Erklärung, wie man diesen Fehler reproduzieren kann.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Melden",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Du hast zu viele aktive Berichte. Warte, bis deine eingereichten Berichte überprüft werden. Berichte werden wöchentlich überprüft, bitte habe Geduld.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Du hast zu viele aktive Meldungen.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Fehler gemeldet",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Weitere Informationen benötigt",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Dein Discord-Konto muss verifiziert sein",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktive Fehler",
+		"description": "Lists users active bugs"
+	}
 }
