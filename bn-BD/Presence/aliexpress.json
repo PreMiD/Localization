@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "দেখছে তার ঠিকানা"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "দেখছে তার কুপনগুলো"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "ডিলিট করা অর্ডারগুলো"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "AliExpress ফিডব্যাক"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "AliExpress সাহায্য কেন্দ্র"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "মেসেজ সেন্টার"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "দেখছে তার অর্ডারগুলো"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "দেখছে তার সম্প্রতিগুলো"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "দেখছে পণ্যগুলো"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "ফেরত এবং বিরোধগুলো"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "ব্রাউজ করছে ছাড়গুলো"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "AliExpress বিক্রয় কেন্দ্র"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "দেখছে স্টোর:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "দেখছে তার AliExpress"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "AliExpress ট্রেড সেন্টার"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "দেখছে তার"
-  }
+    "aliexpress.store": {
+        "message": "দেখছে স্টোর:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "মেসেজ সেন্টার",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "ব্রাউজ করছে ছাড়গুলো",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "দেখছে তার সম্প্রতিগুলো",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "দেখছে পণ্যগুলো",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "দেখছে তার AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress ফিডব্যাক",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "দেখছে তার অর্ডারগুলো",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "দেখছে তার",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "ফেরত এবং বিরোধগুলো",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "ডিলিট করা অর্ডারগুলো",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress ট্রেড সেন্টার",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "দেখছে তার কুপনগুলো",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "দেখছে তার ঠিকানা",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress সাহায্য কেন্দ্র",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress বিক্রয় কেন্দ্র",
+        "description": ""
+    }
 }
