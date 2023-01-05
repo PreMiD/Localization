@@ -1,246 +1,246 @@
 {
-  "partners.apply.button": {
-    "description": "Button to apply for partner.",
-    "message": "Подать заявку прямо сейчас!"
-  },
-  "partners.apply.disclaimer": {
-    "description": "Disclaimer located above the apply button.",
-    "message": "Давай вместе отправимся в рай!"
-  },
-  "partners.apply.error1": {
-    "description": "Error when a field isn't filled.",
-    "message": "Пожалуйста, заполните все поля."
-  },
-  "partners.apply.error2": {
-    "description": "Error when description exceeds character limit.",
-    "message": "В описании максимум 150 символов."
-  },
-  "partners.apply.error3": {
-    "description": "Error when image link is entered wrong.",
-    "message": "Пожалуйста, добавьте ссылку (должна начинаться с https:// и заканчиваться .png)"
-  },
-  "partners.apply.error4": {
-    "description": "Error when already applied.",
-    "message": "Вы уже подали заявку на партнерство."
-  },
-  "partners.apply.form.button.apply": {
-    "description": "Modal apply button.",
-    "message": "Применить"
-  },
-  "partners.apply.form.button.close": {
-    "description": "Modal close button.",
-    "message": "Закрыть"
-  },
-  "partners.apply.form.description": {
-    "description": "Description field.",
-    "message": "Описание: (максимум 150 символов)"
-  },
-  "partners.apply.form.description.placeholder": {
-    "description": "Description field's placeholder.",
-    "message": "Описание избранного"
-  },
-  "partners.apply.form.imageLink": {
-    "description": "Do not change the sizes.",
-    "message": "Ссылка на изображение: (только 550x300, PNG)"
-  },
-  "partners.apply.form.imageLink.placeholder": {
-    "description": "Image link field's placeholder. Do not change the image URL.",
-    "message": "Старый: https://i.imgur.com/clun1ID.png"
-  },
-  "partners.apply.form.link": {
-    "description": "Link field.",
-    "message": "Ссылка"
-  },
-  "partners.apply.form.link.placeholder": {
-    "description": "Link filed's placeholder.",
-    "message": "Старый: https://premid.app"
-  },
-  "partners.apply.form.name": {
-    "description": "Name filed.",
-    "message": "Имя"
-  },
-  "partners.apply.form.name.placeholder": {
-    "description": "Name field's placeholder.",
-    "message": "Старый: PreMiD"
-  },
-  "partners.apply.jobs": {
-    "description": "Hint located under the button.",
-    "message": "Если вы заинтересованы в прямой работе в PreMiD, тогда посмотрите на наши **вакансии**."
-  },
-  "partners.apply.loggedUser": {
-    "description": "{0} will be replaced with user account.",
-    "message": "Вы вошли как {0}"
-  },
-  "partners.apply.notYou": {
-    "description": "Account switcher on the modal, just like Discord's!",
-    "message": "Это не вы?"
-  },
-  "partners.apply.select.default": {
-    "description": "Select default placeholder.",
-    "message": "Пожалуйста, выберите один из"
-  },
-  "partners.apply.select.other": {
-    "description": "Select 'Other' category.",
-    "message": "Прочее"
-  },
-  "partners.apply.select.website": {
-    "description": "Select 'Website' category.",
-    "message": "Сайт"
-  },
-  "partners.apply.success": {
-    "description": "Success message when applying.",
-    "message": "Спасибо, что подали заявку!"
-  },
-  "partners.apply.title": {
-    "description": "Partnership application modal title.",
-    "message": "Подать заявку на партнерство"
-  },
-  "partners.header.description": {
-    "description": "Description for page.",
-    "message": "Присоединяйтесь к семье и получите некоторые преимущества, доступные только для партнеров, чтобы показать, на сколько вы круты."
-  },
-  "partners.header.title": {
-    "description": "Heading for page.",
-    "message": "Партнеры"
-  },
-  "partners.partner.aniFlix": {
-    "description": "Description for AniFlix.",
-    "message": "Вот как вы смотрите аниме."
-  },
-  "partners.partner.arenaOfKings": {
-    "description": "Description for Arena of Kings.",
-    "message": "Arena of Kings-это быстро развивающаяся PvP-арена следующего поколения, в которую можно играть в браузере."
-  },
-  "partners.partner.bitRock": {
-    "description": "Description for BitRock.",
-    "message": "Мощный и простой в использовании кросс-платформенный инструмент для создания установщика."
-  },
-  "partners.partner.crowdin": {
-    "description": "Description for Crowdin.",
-    "message": "Гибкая локализация для технологических компаний."
-  },
-  "partners.partner.discordTemplates": {
-    "description": "Description for DiscordTemplates.",
-    "message": "Начните создавать свое собственное сообщество с нашими замечательными шаблонами. Постройте свое собственное королевство."
-  },
-  "partners.partner.erisly": {
-    "description": "Description for Erisly.",
-    "message": "Богиня, которая играет в качестве веселого бота Discord!"
-  },
-  "partners.partner.fastly": {
-    "description": "Description for Fastly.",
-    "message": "За лучшим в сети."
-  },
-  "partners.partner.onlyhit": {
-    "description": "Description for OnlyHit.",
-    "message": "OnlyHit- это ваша онлайн-музыкальная радиостанция, созданная для воспроизведения ваших лучших песен 24/7 и для того, чтобы вы сначала открыли свои будущие хиты."
-  },
-  "partners.partner.packageCloud": {
-    "description": "Description for PackageCloud.",
-    "message": "Единый, дружественный для разработчиков интерфейс для всех ваших артефактов."
-  },
-  "partners.partner.rNetflix": {
-    "description": "Description for r/Netflix.",
-    "message": "r/Netflix — это крупнейший Discord сервер, связанный с Netflix. Обсудите свои любимые сериалы или фильмы с единомышленниками здесь."
-  },
-  "partners.partner.reyfm": {
-    "description": "Description for REYFM.",
-    "message": "REYFM - это платформа, которая транслирует для вас лучшую и новейшую музыку, где вы можете слушать более 15 музыкальных потоков бесплатно и без перерыва!"
-  },
-  "partners.partner.simLiveRadio": {
-    "description": "Description for SimLoveRadio.",
-    "message": "SimLiveRadio - это самое успешное информационно-развлекательное радио для симуляторов игр в Германии, Австрии и Швейцарии!"
-  },
-  "partners.partner.statusPage": {
-    "description": "Description for StatusPage.",
-    "message": "Легко сообщать своим пользователям о состоянии в реальном времени."
-  },
-  "partners.partner.taigaBot": {
-    "description": "Description for taigabot.",
-    "message": "taiga — это бот Discord, который пытается предложить все функции, которые вам могут понадобиться сразу!"
-  },
-  "partners.partner.upBeat": {
-    "description": "Description for UpBeatRadio.",
-    "message": "UpBeat Radio – это онлайн-радио, работающее от сообщества, которое круглосуточно и без выходных предлагает развлекательные радиопрограммы без рекламы, ежедневные новостные статьи и многое другое!"
-  },
-  "partners.partner.wikijs": {
-    "description": "Description for WikiJS.",
-    "message": "Самое мощное и расширяемое программное обеспечение с открытым исходным кодом Вики."
-  },
-  "partners.requirements.first.description": {
-    "description": "Description for the first requirement.",
-    "message": "Мы следим за растущими сообществами и интересными вещами в интернете. Если кратко, вы уже должны использовать PreMiD и быть готовы распространить его на ещё большее количество фанатов интернета. Прием в программу чрезвычайно качественный и будет изменяться от одного кандидата к другому."
-  },
-  "partners.requirements.first.title": {
-    "description": "Heading for the first requirement.",
-    "message": "Что мы ищем?"
-  },
-  "partners.requirements.second.description": {
-    "description": "Description for the second requirement.",
-    "message": "В настоящее время мы принимаем в нашу партнерскую программу людей и сервисов из разных сфер деятельности. У каждого должен быть шанс быть замеченным. Стримеры на Twitch должны иметь не менее 500 подписчиков и не менее 10 зрителей на трансляциях. Вы должны транслировать по крайней мере 1 раз в неделю."
-  },
-  "partners.requirements.second.title": {
-    "description": "Heading for the second requirement.",
-    "message": "Наш межсетевой экран"
-  },
-  "partners.requirements.title": {
-    "description": "Heading for the requirements.",
-    "message": "Требования"
-  },
-  "partners.slideshow.description": {
-    "description": "Description for slideshow.",
-    "message": "Они уже c нами"
-  },
-  "partners.sponsors.description": {
-    "description": "Description for sponsors.",
-    "message": "PreMiD был бы невозможен без этих удивительных людей."
-  },
-  "partners.sponsors.title": {
-    "description": "Heading for sponsors.",
-    "message": "Спонсоры"
-  },
-  "partners.why.benefit1.description": {
-    "description": "Description for the first benefit.",
-    "message": "Наша команда предоставит презенс для вашего сервиса."
-  },
-  "partners.why.benefit1.title": {
-    "description": "Heading for the first benefit.",
-    "message": "Получите презенс бесплатно"
-  },
-  "partners.why.benefit2.description": {
-    "description": "Description for the second benefit.",
-    "message": "Специальная роль и огромное уважение будут даны вам на нашем Discord сервере."
-  },
-  "partners.why.benefit2.title": {
-    "description": "Heading for the second benefit.",
-    "message": "Получите верификацию"
-  },
-  "partners.why.benefit3.description": {
-    "description": "Description for the third benefit.",
-    "message": "Автоматическое использование вашего Presence, когда кто-то посещает ваш сайт."
-  },
-  "partners.why.benefit3.title": {
-    "description": "Heading for the third benefit.",
-    "message": "Интеграция по метатегам"
-  },
-  "partners.why.benefit4.description": {
-    "description": "Description for the fourth benefit.",
-    "message": "Неприятное место на нашей партнерской странице."
-  },
-  "partners.why.benefit4.title": {
-    "description": "Heading for the fourth benefit.",
-    "message": "Войдёте в список партнёров"
-  },
-  "partners.why.benefit5.description": {
-    "description": "Description for the fifth benefit.",
-    "message": "Избранные на наших социальных сетях."
-  },
-  "partners.why.benefit5.title": {
-    "description": "Heading for the fifth benefit.",
-    "message": "Будете известным"
-  },
-  "partners.why.title": {
-    "description": "Heading for benefits.",
-    "message": "Как насчет того, чтобы отправиться в рай вместо ада?"
-  }
+	"partners.header.title": {
+		"message": "Партнеры",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Присоединяйтесь к семье и получите некоторые преимущества, доступные только для партнеров, чтобы показать, на сколько вы круты.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Они уже c нами",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Как насчет того, чтобы отправиться в рай вместо ада?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Получите презенс бесплатно",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Наша команда предоставит презенс для вашего сервиса.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Получите верификацию",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Специальная роль и огромное уважение будут даны вам на нашем Discord сервере.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Интеграция по метатегам",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Автоматическое использование вашего Presence, когда кто-то посещает ваш сайт.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Войдёте в список партнёров",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Неприятное место на нашей партнерской странице.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Будете известным",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Избранные на наших социальных сетях.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Требования",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Что мы ищем?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Мы следим за растущими сообществами и интересными вещами в интернете. Если кратко, вы уже должны использовать PreMiD и быть готовы распространить его на ещё большее количество фанатов интернета. Прием в программу чрезвычайно качественный и будет изменяться от одного кандидата к другому.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Наш межсетевой экран",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "В настоящее время мы принимаем в нашу партнерскую программу людей и сервисов из разных сфер деятельности. У каждого должен быть шанс быть замеченным. Стримеры на Twitch должны иметь не менее 500 подписчиков и не менее 10 зрителей на трансляциях. Вы должны транслировать по крайней мере 1 раз в неделю.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Подать заявку прямо сейчас!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "Давай вместе отправимся в рай!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Если вы заинтересованы в прямой работе в PreMiD, тогда посмотрите на наши **вакансии**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Спонсоры",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD был бы невозможен без этих удивительных людей.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Вот как вы смотрите аниме.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings-это быстро развивающаяся PvP-арена следующего поколения, в которую можно играть в браузере.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.upBeat": {
+		"message": "UpBeat Radio – это онлайн-радио, работающее от сообщества, которое круглосуточно и без выходных предлагает развлекательные радиопрограммы без рекламы, ежедневные новостные статьи и многое другое!",
+		"description": "Description for UpBeatRadio."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio - это самое успешное информационно-развлекательное радио для симуляторов игр в Германии, Австрии и Швейцарии!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Начните создавать свое собственное сообщество с нашими замечательными шаблонами. Постройте свое собственное королевство.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga — это бот Discord, который пытается предложить все функции, которые вам могут понадобиться сразу!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Мощный и простой в использовании кросс-платформенный инструмент для создания установщика.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Легко сообщать своим пользователям о состоянии в реальном времени.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "Богиня, которая играет в качестве веселого бота Discord!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM - это платформа, которая транслирует для вас лучшую и новейшую музыку, где вы можете слушать более 15 музыкальных потоков бесплатно и без перерыва!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Гибкая локализация для технологических компаний.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Самое мощное и расширяемое программное обеспечение с открытым исходным кодом Вики.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Единый, дружественный для разработчиков интерфейс для всех ваших артефактов.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "За лучшим в сети.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit- это ваша онлайн-музыкальная радиостанция, созданная для воспроизведения ваших лучших песен 24/7 и для того, чтобы вы сначала открыли свои будущие хиты.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix — это крупнейший Discord сервер, связанный с Netflix. Обсудите свои любимые сериалы или фильмы с единомышленниками здесь.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "Подать заявку на партнерство",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Вы вошли как {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Это не вы?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Пожалуйста, выберите один из",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Сайт",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Прочее",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Имя",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Старый: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Ссылка",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Старый: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Описание: (максимум 150 символов)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Описание избранного",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Ссылка на изображение: (только 550x300, PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Старый: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Закрыть",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Применить",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Спасибо, что подали заявку!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Пожалуйста, заполните все поля.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "В описании максимум 150 символов.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Пожалуйста, добавьте ссылку (должна начинаться с https:// и заканчиваться .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Вы уже подали заявку на партнерство.",
+		"description": "Error when already applied."
+	}
 }
