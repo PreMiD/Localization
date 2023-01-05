@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Đã thêm gần đây"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Đang duyệt qua:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Đang trong cuộc gọi với:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Video đã lưu"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Đang đọc về:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Đang xem cộng đồng của:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Đang xem danh sách bạn bè của:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "ai đó... (Tên đã ẩn)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Đang xem ảnh của:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Đang xem bài viết của:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Đang xem cửa hàng của:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Đang xem video của:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Đang trong gọi video với:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Đang xem thời tiết ngày hôm nay"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Đang soạn tin nhắn"
-  }
+    "facebook.call": {
+        "message": "Đang trong cuộc gọi với:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Đang trong gọi video với:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "ai đó... (Tên đã ẩn)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Đang soạn tin nhắn",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Đang đọc về:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Đang xem cộng đồng của:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Đang xem ảnh của:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Đang xem bài viết của:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Đang xem cửa hàng của:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Đang xem danh sách bạn bè của:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Đang xem video của:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Đang duyệt qua:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Video đã lưu",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Đã thêm gần đây",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Đang xem thời tiết ngày hôm nay",
+        "description": ""
+    }
 }
