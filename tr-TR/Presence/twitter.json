@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Yer imleri"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Keşfet"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Bildirimler"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Tweet'i okuyor:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Bazı ayarlar değiştiriliyor..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "DM'lerine Bakıyor"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Beğendiğine bakıyor:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Listeye bakıyor:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Medyasına bakıyor:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Tweet'lerine bakıyor:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "(Cevaplı) Tweet'lerine bakıyor:"
-  }
+	"twitter.readTweet": {
+		"message": "Tweet'i okuyor:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "DM'lerine Bakıyor",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Tweet'lerine bakıyor:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "(Cevaplı) Tweet'lerine bakıyor:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Medyasına bakıyor:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Beğendiğine bakıyor:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Listeye bakıyor:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Yer imleri",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Bildirimler",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Keşfet",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Bazı ayarlar değiştiriliyor...",
+		"description": ""
+	}
 }
