@@ -1,46 +1,46 @@
 {
-  "facebook.call": {
-    "description": "",
-    "message": "Em uma chamada com:"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Lendo sobre o usuário:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Vendo a comunidade de:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Vendo amigos de:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "alguém... (Usuário Anônimo)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Vendo fotos de:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Vendo publicações de:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Vendo a loja de:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Vendo vídeos de:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Em uma chamada de video com:"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Escrevendo uma mensagem"
-  }
+    "facebook.call": {
+        "message": "Em uma chamada com:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Em uma chamada de video com:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "alguém... (Usuário Anônimo)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Escrevendo uma mensagem",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Lendo sobre o usuário:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Vendo a comunidade de:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Vendo fotos de:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Vendo publicações de:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Vendo a loja de:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Vendo amigos de:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Vendo vídeos de:",
+        "description": ""
+    }
 }
