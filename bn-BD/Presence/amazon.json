@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "দেখছে তার ঠিকানাগুলো"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "দেখছে তার অ্যাড সেটিংস"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "দেখছে তার ব্যালেন্স"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "শপিং কার্ট"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "দেখছে সব ক্যাটাগরিগুলো"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "গিফট কার্ডগুলো"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "দেখছে তার ইতিহাস"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "অর্ডারের বিবরণ"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "অর্ডারের ইতিহাস"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "দেখছে পেমেন্টের পদ্ধতিগুলো"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "দেখছে তার পোষা প্রাণীগুলো"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "দেখছে অ্যামাজন প্রাইম"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "দেখছে প্রাইম ভিডিও:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "দেখছে যা পরামর্শিত"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "দেখছে স্টোর:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "দেখছে তার সাবস্ক্রিবশনগুলো"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "দেখছে তার"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "উইশলিস্ট"
-  }
+    "amazon.subscriptions": {
+        "message": "দেখছে তার সাবস্ক্রিবশনগুলো",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "দেখছে তার অ্যাড সেটিংস",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "দেখছে তার ব্যালেন্স",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "দেখছে পেমেন্টের পদ্ধতিগুলো",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "দেখছে তার ঠিকানাগুলো",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "দেখছে তার পোষা প্রাণীগুলো",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "দেখছে সব ক্যাটাগরিগুলো",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "দেখছে অ্যামাজন প্রাইম",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "দেখছে তার",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "অর্ডারের ইতিহাস",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "অর্ডারের বিবরণ",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "শপিং কার্ট",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "উইশলিস্ট",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "গিফট কার্ডগুলো",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "দেখছে যা পরামর্শিত",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "দেখছে তার ইতিহাস",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "দেখছে স্টোর:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "দেখছে প্রাইম ভিডিও:",
+        "description": ""
+    }
 }
