@@ -1,98 +1,98 @@
 {
-  "apple.appStoreCon": {
-    "description": "Connecting to the App Store",
-    "message": "Conectando..."
-  },
-  "apple.btnViewApp": {
-    "description": "e.g. \"View App\"",
-    "message": "Ver aplicativo"
-  },
-  "apple.btnViewDeveloper": {
-    "description": "View the developer of an app",
-    "message": "Ver desenvolvedor"
-  },
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "Ver evento"
-  },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "Ver produto"
-  },
-  "apple.btnViewProfile": {
-    "description": "View a forum profile of a user",
-    "message": "Ver o perfil de {0}"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "Ver serviço"
-  },
-  "apple.contact": {
-    "description": "Contact support",
-    "message": "Contatando suporte"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Documentação"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Recursos"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Jogos"
-  },
-  "apple.devNews": {
-    "description": "News and updates (that matter) for developers",
-    "message": "Notícias e atualizações"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Calendário"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Contatos"
-  },
-  "apple.iCloudKeynoteWait": {
-    "description": "Before the keynote begins, you'll be in the waiting room",
-    "message": "Sala de espera"
-  },
-  "apple.iCloudMail": {
-    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Mail"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Notas"
-  },
-  "apple.iCloudPagesCreate": {
-    "description": "Creating a new Pages document",
-    "message": "Criando..."
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Fotos"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Lembretes"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Outros"
-  },
-  "apple.shopAccessories": {
-    "description": "Accessories for Apple products (e.g iPhone case)",
-    "message": "Acessórios da Apple"
-  },
-  "apple.shopBagSummary": {
-    "description": "The total price of the items in your bag (shopping cart)",
-    "message": "Total: {0}"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "Favoritos"
-  }
+    "apple.contact": {
+        "message": "Contatando suporte",
+        "description": "Contact support"
+    },
+    "apple.other": {
+        "message": "Outros",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopAccessories": {
+        "message": "Acessórios da Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopFavorites": {
+        "message": "Favoritos",
+        "description": "Favorite products"
+    },
+    "apple.shopBagSummary": {
+        "message": "Total: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.appStoreCon": {
+        "message": "Conectando...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Mail",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Contatos",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Calendário",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Fotos",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Notas",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Lembretes",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Criando...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Sala de espera",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devDocs": {
+        "message": "Documentação",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "Recursos",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Jogos",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.devNews": {
+        "message": "Notícias e atualizações",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.btnViewProduct": {
+        "message": "Ver produto",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Ver serviço",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Ver evento",
+        "description": "Button text"
+    },
+    "apple.btnViewApp": {
+        "message": "Ver aplicativo",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Ver desenvolvedor",
+        "description": "View the developer of an app"
+    },
+    "apple.btnViewProfile": {
+        "message": "Ver o perfil de {0}",
+        "description": "View a forum profile of a user"
+    }
 }
