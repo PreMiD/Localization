@@ -1,42 +1,42 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Закладки"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Досліджує"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Сповіщення"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Змінює деякі налаштування..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Переглядає приватні повідомлення"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Переглядає вподобане "
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Переглядає список "
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Переглядає медіа "
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Переглядає твіти "
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Переглядає твіти (з відповідями) "
-  }
+	"twitter.viewDms": {
+		"message": "Переглядає приватні повідомлення",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Переглядає твіти ",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Переглядає твіти (з відповідями) ",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Переглядає медіа ",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Переглядає вподобане ",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Переглядає список ",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Закладки",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Сповіщення",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Досліджує",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Змінює деякі налаштування...",
+		"description": ""
+	}
 }
