@@ -1,18 +1,18 @@
 {
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "καλάθι αγορών"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "δωροκάρτες"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Προβολή τρόπων πληρωμής"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "λίστα επιθυμιών"
-  }
+    "amazon.payment": {
+        "message": "Προβολή τρόπων πληρωμής",
+        "description": ""
+    },
+    "amazon.cart": {
+        "message": "καλάθι αγορών",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "λίστα επιθυμιών",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "δωροκάρτες",
+        "description": "Part 2 of the string: \"Viewing their\""
+    }
 }
