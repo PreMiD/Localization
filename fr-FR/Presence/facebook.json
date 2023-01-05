@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Récemment ajouté"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Parcourir :"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Dans un appel avec :"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Vidéos enregistrées"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Lecture à propos de l'utilisateur:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Visualisation de la communauté d'utilisateurs:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Visualisation des amis de l'utilisateur:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "quelqu'un... (Utilisateur masqué)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Visualisation des photos de l'utilisateur:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Visualisation des posts de l'utilisateur :"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Visualisation de la boutique de l'utilisateur:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Visualisation des vidéos par l'utilisateur:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "En appel vidéo avec :"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Affichage de la météo d'aujourd'hui"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Composition d'un message"
-  }
+    "facebook.call": {
+        "message": "Dans un appel avec :",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "En appel vidéo avec :",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "quelqu'un... (Utilisateur masqué)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Composition d'un message",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Lecture à propos de l'utilisateur:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Visualisation de la communauté d'utilisateurs:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Visualisation des photos de l'utilisateur:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Visualisation des posts de l'utilisateur :",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Visualisation de la boutique de l'utilisateur:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Visualisation des amis de l'utilisateur:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Visualisation des vidéos par l'utilisateur:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Parcourir :",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Vidéos enregistrées",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Récemment ajouté",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Affichage de la météo d'aujourd'hui",
+        "description": ""
+    }
 }
