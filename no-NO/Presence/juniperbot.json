@@ -1,26 +1,26 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Ser på listen over kommandoer"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "Leser om nettsidens informasjonskapsler"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Hovedside"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Guild: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Velger server"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Ser på botens statistikk"
-  }
+    "juniperbot.mainpage": {
+        "message": "Hovedside",
+        "description": "Home page of the site"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Guild: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.servers": {
+        "message": "Velger server",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Ser på listen over kommandoer",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Ser på botens statistikk",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.cookies": {
+        "message": "Leser om nettsidens informasjonskapsler",
+        "description": "Reading about the site's cookies"
+    }
 }
