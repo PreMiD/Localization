@@ -1,262 +1,262 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Toegankelijkheid"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Prestaties"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Community activiteit"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Advertentie keuzes"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "Twitch Affiliate-programma"
-  },
-  "twitch.blogArchive": {
-    "description": "{0} will be replaced with the year",
-    "message": "Bekijkt het {0} blog archief"
-  },
-  "twitch.blogBrowse": {
-    "description": "",
-    "message": "Bladert door de laatste blogposts..."
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "Twitch blogs"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "Leest over het Twitch-merk..."
-  },
-  "twitch.brandExpression": {
-    "description": "Page name",
-    "message": "Onze expressie uitputten"
-  },
-  "twitch.brandMadness": {
-    "description": "Page name",
-    "message": "Methode naar onze (geliefde) waanzin brengen"
-  },
-  "twitch.brandReal": {
-    "description": "Page name",
-    "message": "Twitch reëel houden"
-  },
-  "twitch.brandTogether": {
-    "description": "Page name",
-    "message": "Alles bij elkaar brengen"
-  },
-  "twitch.brandWatch": {
-    "description": "Watching as in watching a video",
-    "message": "Bekijkt de merkevolutie van Twitch"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "Creator Kamp"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "Leer de basis"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "Verbind en neem deel"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "Niveau omhoog"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "Live leren"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Muziek op Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Krijg beloningen"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "Uw stream opzetten"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Kanaal statistieken"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Kanaal instellingen"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Clips"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Video collecties"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "Creatordashboard"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "Beheert zijn/haar stream..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "Twitch ontwikkelaars"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "Twitch ontwikkelaar documentatie"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "Producten voor Twitch-ontwikkelaars"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "Goeie verhalen uit de community"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "Nuttige Bronnen"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Downloads"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Drops instellingen"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Bekijkt Esports..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "Bekijkt de extensies"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Lijst met volgers"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "Community Richtlijnen"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "Hulpcentrum"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "Bekijkt onderwerp:"
-  },
-  "twitch.helpTopicCatalog": {
-    "description": "",
-    "message": "Bladert door de onderwerpcatalogus..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Startpagina"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Banen"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "Beheert zijn/haar community rollen..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "Modereert streamer:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Moderatie Instellingen"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partners"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "Pers Centrum"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "In de videoproducer..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Een code aan het innen..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Beveiliging"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "Bekijkt Squad..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Stream samenvatting"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Bekijkt zijn/haar abonnementen..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "Bekijkt de Streaming Tools"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Turbo"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "Bekijkt de actieve Drops campagnes..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "Bekijkt zijn/haar Drops inventaris..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Bekijkt mensen die hem/haar volgt..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Bekijkt zijn/haar vrienden..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Bekijkt zijn/haar instellingen..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Bekijkt team:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Bekijkt zijn/haar"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Bekijkt portemonnee..."
-  }
+	"twitch.downloads": {
+		"message": "Downloads",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Banen",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partners",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Pers Centrum",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Beveiliging",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Toegankelijkheid",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Advertentie keuzes",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Community Richtlijnen",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Startpagina",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Bekijkt portemonnee...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Bekijkt Esports...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Bekijkt mensen die hem/haar volgt...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Bekijkt team:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Bekijkt zijn/haar Drops inventaris...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Bekijkt de actieve Drops campagnes...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Bekijkt zijn/haar instellingen...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Bekijkt zijn/haar vrienden...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Bekijkt zijn/haar abonnementen...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Bekijkt Squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Modereert streamer:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Een code aan het innen...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Creator Kamp",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Leer de basis",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Uw stream opzetten",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Niveau omhoog",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Verbind en neem deel",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Krijg beloningen",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Muziek op Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Live leren",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Creatordashboard",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Beheert zijn/haar stream...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Beheert zijn/haar community rollen...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "In de videoproducer...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Bekijkt zijn/haar",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Kanaal statistieken",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Stream samenvatting",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Prestaties",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Community activiteit",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Lijst met volgers",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Video collecties",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clips",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Kanaal instellingen",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Moderatie Instellingen",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Drops instellingen",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Bekijkt de Streaming Tools",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Bekijkt de extensies",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Leest over het Twitch-merk...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Twitch reëel houden",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Methode naar onze (geliefde) waanzin brengen",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Onze expressie uitputten",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Alles bij elkaar brengen",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Bekijkt de merkevolutie van Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Twitch blogs",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Bekijkt het {0} blog archief",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Bladert door de laatste blogposts...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Hulpcentrum",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Bekijkt onderwerp:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Bladert door de onderwerpcatalogus...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Twitch Affiliate-programma",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Twitch ontwikkelaars",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Twitch ontwikkelaar documentatie",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Producten voor Twitch-ontwikkelaars",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Goeie verhalen uit de community",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Nuttige Bronnen",
+		"description": "Page name"
+	}
 }
