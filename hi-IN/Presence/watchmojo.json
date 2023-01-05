@@ -1,18 +1,18 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "सामान्य ज्ञान खेलें"
-  },
-  "watchmojo.playingTrivia": {
-    "description": "For privacy mode, \"a\" as in unspecified.",
-    "message": "ट्रिविया गेम खेलना"
-  },
-  "watchmojo.trivia": {
-    "description": "{0} will be replaced with the name of the Trivia game",
-    "message": "सामान्य ज्ञान खेलना: {0}"
-  },
-  "watchmojo.triviaGame": {
-    "description": "The round and score of the Trivia game the user is playing.",
-    "message": "{1} का राउंड {0} (स्कोर: {2}/{3})"
-  }
+	"watchmojo.triviaGame": {
+		"message": "{1} का राउंड {0} (स्कोर: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "सामान्य ज्ञान खेलना: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.playingTrivia": {
+		"message": "ट्रिविया गेम खेलना",
+		"description": "For privacy mode, \"a\" as in unspecified."
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "सामान्य ज्ञान खेलें",
+		"description": "Used as the title for the button in Discord."
+	}
 }
