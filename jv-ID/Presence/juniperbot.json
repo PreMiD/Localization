@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Ndeleng dhaptar perintah"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "Maca cookies situs"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "Maca informasi tentang rencana sumbangan"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "Bdekebg papan peringkat server:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Halaman utama"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "Ing dashboard"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Guild: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Milih server"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Ndeleng statistik bot"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "Ngatur kertu peringkat"
-  }
+    "juniperbot.mainpage": {
+        "message": "Halaman utama",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Bdekebg papan peringkat server:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Ing dashboard",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Guild: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Maca informasi tentang rencana sumbangan",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Milih server",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Ndeleng dhaptar perintah",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Ndeleng statistik bot",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Ngatur kertu peringkat",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Maca cookies situs",
+        "description": "Reading about the site's cookies"
+    }
 }
