@@ -1,22 +1,22 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "명령어 목록 보는 중"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "사이트의 쿠키에 관해 읽는 중"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "서버: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "서버 선택 중"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "봇의 통계 보는 중"
-  }
+    "juniperbot.serverdashname": {
+        "message": "서버: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.servers": {
+        "message": "서버 선택 중",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "명령어 목록 보는 중",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "봇의 통계 보는 중",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.cookies": {
+        "message": "사이트의 쿠키에 관해 읽는 중",
+        "description": "Reading about the site's cookies"
+    }
 }
