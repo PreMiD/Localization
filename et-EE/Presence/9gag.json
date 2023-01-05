@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Lugedes kõike 9GAG-i kohta"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Kollektsiooni vaatamine:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Värske vaatamine"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Nalja vaatamine:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Kuuma vaatamine"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Poe lehe vaatamine"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Sildi vaatamine:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Trendide vaatamine"
-  }
+    "9gag.gag": {
+        "message": "Nalja vaatamine:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Kuuma vaatamine",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Trendide vaatamine",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Värske vaatamine",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Sildi vaatamine:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Lugedes kõike 9GAG-i kohta",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Poe lehe vaatamine",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Kollektsiooni vaatamine:",
+        "description": ""
+    }
 }
