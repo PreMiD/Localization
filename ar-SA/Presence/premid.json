@@ -1,94 +1,94 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "المستندات"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "حول PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageApiVersion": {
-    "description": "A page name // {0} will be replaced with the version number.",
-    "message": "من ال API{0} فهم نسخة الـ"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "المساهمون"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "التحميلات"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "الصفحة الرئيسية"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "Iframe فهم"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "الثبيت"
-  },
-  "premid.pageInstallFor": {
-    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
-    "message": "{0} التثبيت لـ"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "Metadata.json تعديل"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Presence فئة الـ"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Presence تطوير الـ"
-  },
-  "premid.pagePresenceGuide": {
-    "description": "A page name",
-    "message": "Presence قوانين الـ"
-  },
-  "premid.pageSlideshowClass": {
-    "description": "A page name",
-    "message": "فئة عرض الشرائح"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "البدء"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "المتجر"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "متطلبات النظام"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "استكشاف الأخطاء"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "TypeScript تعديل الـ"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "الشركاء"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "يشاهد الصفحة:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "يشاهد الـ presence:"
-  }
+	"premid.viewPage": {
+		"message": "يشاهد الصفحة:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "المستندات",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "يشاهد الـ presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "الصفحة الرئيسية",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "المساهمون",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "التحميلات",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "المتجر",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "الشركاء",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "حول PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "متطلبات النظام",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "الثبيت",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "{0} التثبيت لـ",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "استكشاف الأخطاء",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "البدء",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "من ال API{0} فهم نسخة الـ",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence تطوير الـ",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Presence قوانين الـ",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence فئة الـ",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "فئة عرض الشرائح",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Iframe فهم",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Metadata.json تعديل",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScript تعديل الـ",
+		"description": "A page name"
+	}
 }
