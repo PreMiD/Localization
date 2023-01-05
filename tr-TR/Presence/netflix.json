@@ -1,18 +1,18 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Netflix'de neyin yeni ve{0}popüler olduğuna bakıyor"
-  },
-  "netflix.profile": {
-    "description": "",
-    "message": "Profilini yönetiyor"
-  },
-  "netflix.referral": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Referans bağlantısını{0}alıyor"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "Listesine göz atıyor"
-  }
+	"netflix.viewList": {
+		"message": "Listesine göz atıyor",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Profilini yönetiyor",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Netflix'de neyin yeni ve{0}popüler olduğuna bakıyor",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"netflix.referral": {
+		"message": "Referans bağlantısını{0}alıyor",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
