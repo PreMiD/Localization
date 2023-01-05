@@ -1,110 +1,110 @@
 {
-  "jobs.benefit1.description": {
-    "description": "Benefit card description.",
-    "message": "PreMiD'in arkasındaki kişilerle iletişime geçin."
-  },
-  "jobs.benefit1.title": {
-    "description": "Benefit card title.",
-    "message": "Bizimle tanışın"
-  },
-  "jobs.benefit2.description": {
-    "description": "Benefit card description.",
-    "message": "Geliştirme ve Pazarlama kısmımıza göz atın."
-  },
-  "jobs.benefit2.title": {
-    "description": "Benefit card title.",
-    "message": "Gizli İşler"
-  },
-  "jobs.benefit3.description": {
-    "description": "Benefit card description.",
-    "message": "Özel Discord yetkileri ve renkli bir rol."
-  },
-  "jobs.benefit3.title": {
-    "description": "Benefit card title.",
-    "message": "Onur"
-  },
-  "jobs.benefit4.description": {
-    "description": "Benefit card description.",
-    "message": "Katkınız ile projeyi devam ettirmemiz mümkün."
-  },
-  "jobs.benefit4.title": {
-    "description": "Benefit card title.",
-    "message": "PreMiD'i Destekle"
-  },
-  "jobs.benefit5.description": {
-    "description": "Benefit card description.",
-    "message": "Kendini yorma. Bu bir gönüllülük işi."
-  },
-  "jobs.benefit5.title": {
-    "description": "Benefit card title.",
-    "message": "Zaman aşımı"
-  },
-  "jobs.benefit6.description": {
-    "description": "Benefit card description.",
-    "message": "Yeni özellikleri herkesten önce test et."
-  },
-  "jobs.benefit6.title": {
-    "description": "Benefit card title.",
-    "message": "Erken Erişim"
-  },
-  "jobs.benefits.title": {
-    "description": "Text before the benefits cards.",
-    "message": "Üst Düzey Faydalar"
-  },
-  "jobs.errors.alreadyApplied": {
-    "description": "Notification when you applied already.",
-    "message": "Zaten önceden onaylanmışsın!"
-  },
-  "jobs.guild.explanation": {
-    "description": "Explanation why users should be in Discord server to perform job application.",
-    "message": "Başvurabilmek için Discord sunucumuza katılmış olmanız gerekir. Aksi takdirde, seçilmeniz durumunda sizinle iletişime geçemeyiz!"
-  },
-  "jobs.guild.required": {
-    "description": "Title of the modal the user will see if it's not in Discord server.",
-    "message": "Discord'umuza Katıl"
-  },
-  "jobs.header.description": {
-    "description": "The second part of the jobs page.",
-    "message": "En büyük RPC kütüphanesine yardım etmeye hazır mısın?"
-  },
-  "jobs.header.title": {
-    "description": "First part of the jobs page.",
-    "message": "PreMiD'de Çalışın"
-  },
-  "jobs.modal.buttons.cancel": {
-    "description": "Cancel, button in the modal.",
-    "message": "Vazgeç"
-  },
-  "jobs.modal.buttons.join": {
-    "description": "Join Discord button in the modal.",
-    "message": "Katıl"
-  },
-  "jobs.modal.buttons.next": {
-    "description": "Next button in the modal.",
-    "message": "Sonraki"
-  },
-  "jobs.modal.error": {
-    "description": "Error when user did not fill all the fields.",
-    "message": "Lütfen tüm alanları doldurun"
-  },
-  "jobs.modal.notice": {
-    "description": "Notice for applicants.",
-    "message": "PreMiD, açık-kaynak bir projedir, yani ekibimiz işini para karşılığında yapmamaktadır, Patreon üzerinden gelen tüm bağışlar direkt olarak üretime yatırılmakta ve programa katkıda bulunmaktadır. PreMiD'e iş başvurusu yaparak, gönüllü iş yapacağınızı kabul etmiş sayılırsınız, bu iş için herhangi bir ödeme almayacaksınız."
-  },
-  "jobs.modal.step": {
-    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
-    "message": "Adım {0}/2"
-  },
-  "jobs.modal.title": {
-    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
-    "message": "{0} pozisyonuna başvur"
-  },
-  "jobs.openings.title": {
-    "description": "Text before the available job positions cards.",
-    "message": "İş Alımları"
-  },
-  "jobs.success.applied": {
-    "description": "Notification when applying.",
-    "message": "Onayladığınız için teşekkürler!"
-  }
+	"jobs.modal.title": {
+		"message": "{0} pozisyonuna başvur",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Adım {0}/2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Sonraki",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Katıl",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Vazgeç",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Lütfen tüm alanları doldurun",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD, açık-kaynak bir projedir, yani ekibimiz işini para karşılığında yapmamaktadır, Patreon üzerinden gelen tüm bağışlar direkt olarak üretime yatırılmakta ve programa katkıda bulunmaktadır. PreMiD'e iş başvurusu yaparak, gönüllü iş yapacağınızı kabul etmiş sayılırsınız, bu iş için herhangi bir ödeme almayacaksınız.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Discord'umuza Katıl",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Başvurabilmek için Discord sunucumuza katılmış olmanız gerekir. Aksi takdirde, seçilmeniz durumunda sizinle iletişime geçemeyiz!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "PreMiD'de Çalışın",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "En büyük RPC kütüphanesine yardım etmeye hazır mısın?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "İş Alımları",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Üst Düzey Faydalar",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Bizimle tanışın",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "PreMiD'in arkasındaki kişilerle iletişime geçin.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Gizli İşler",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Geliştirme ve Pazarlama kısmımıza göz atın.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Onur",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Özel Discord yetkileri ve renkli bir rol.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "PreMiD'i Destekle",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Katkınız ile projeyi devam ettirmemiz mümkün.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Zaman aşımı",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Kendini yorma. Bu bir gönüllülük işi.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Erken Erişim",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Yeni özellikleri herkesten önce test et.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Onayladığınız için teşekkürler!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Zaten önceden onaylanmışsın!",
+		"description": "Notification when you applied already."
+	}
 }
