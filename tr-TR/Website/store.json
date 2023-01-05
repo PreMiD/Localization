@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "Servisi ekle"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "Bu servis, sitesini ziyaret ettikten sonra otomatik olarak etkinleştirilir."
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "Servisi kaldır"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "Yapımcı"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "Bu servisin çalışabilmesi için ekstra ayarlamalar gerekmektedir, ayrıntılar için servisin sayfasını ziyaret edin."
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "Partner Servisi"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "Bu servis kullanıcılarımız tarafından çok tutuluyor."
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Tümü"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "Yetişkin içeriklileri göster"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "Filtreler"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "Sadece beğenilen servisler"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "En popülerler başta"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "Oyun"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "Kategoriler"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "Müzik"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "Diğer"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "Sosyal"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "Video & Yayın"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "Ekli olanları göster"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "Servis ara"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "Eklenti bağlı değil."
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Ara"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "Enter"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "Filtreyi kaldırmak için tıkla"
-  }
+	"store.message.error": {
+		"message": "Eklenti bağlı değil.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "Yapımcı",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Bu servis kullanıcılarımız tarafından çok tutuluyor.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Partner Servisi",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Bu servisin çalışabilmesi için ekstra ayarlamalar gerekmektedir, ayrıntılar için servisin sayfasını ziyaret edin.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Servis ara",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Servisi ekle",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Servisi kaldır",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Bu servis, sitesini ziyaret ettikten sonra otomatik olarak etkinleştirilir.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Filtreler",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "En popülerler başta",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Yetişkin içeriklileri göster",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Sadece beğenilen servisler",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Ekli olanları göster",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Kategoriler",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Tümü",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Oyun",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Müzik",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sosyal",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Video & Yayın",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Diğer",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Ara",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Filtreyi kaldırmak için tıkla",
+		"description": "Remove message for active search filters."
+	}
 }
