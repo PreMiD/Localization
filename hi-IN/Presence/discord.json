@@ -1,186 +1,186 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "डिस्कॉर्ड् ब्लॉग"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "ब्रांडिंग पेज"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "के माध्यम से ब्राउज़िंग"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "आमंत्रण लिंक देखें"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "चैनल में पढ़ना:{0}{1} (सर्वर: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "चैनल में टंकण:{0}{1} (सर्वर: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "कॉलेज पेज"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "पेज के बारे में"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "Their ऐप्स के माध्यम से ब्राउज़ करना"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "संपादन ऐप: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "प्रलेखन पढ़ना"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "डेवलपर पोर्टल"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "उनके सर्वर के माध्यम से ब्राउज़ करना"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "सर्वर की अंतर्दृष्टि देखना: {0}"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "उनकी टीमों के माध्यम से ब्राउज़िंग"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "संपादन टीम: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "समूह DM में पढ़ना:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "समूह DM में टंकण:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "यहां से डीएम पढ़ना:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "डीएम में टाइप करना:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "डाउनलोड पेज"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "उनके दोस्तों को देख..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "प्रेरणा पृष्ठ"
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "आमंत्रण लिंक देखना:{0}{1} (सर्वर: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "सर्वर का आमंत्रण लिंक देखना{0}: {1}"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "रक्षा केंद्र"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "डिस्कॉर्ड् मर्चेंडाइस"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "संग्रह देखें"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "मॉडरेशन पेज"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "न्यूज़रूम पेज"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "नाइट्रो के बारे में पढ़ना..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "ओपन सोर्स पेज"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "पार्टनर पेज"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "नीतियां"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "rich Presence पेज"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "सुरक्षा केंद्र"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "सुरक्षा पृष्ठ"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "सर्वर की{0}सेटिंग्स देखना: {1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "उनकी सेटिंग देखी जा रही हैं..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "डिस्कॉर्ड् की स्थिति"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "स्ट्रीमकिट पेज"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "सहायता केंद्र"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "सत्यापन पृष्ठ"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "आवाज इससे जुड़ी है:{0}{1} (सर्वर: {2})"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "आवाज इससे जुड़ी है:{0}{1}"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "\"क्यों Discord?\" पृष्ठ"
-  }
+	"discord.channelReading": {
+		"message": "चैनल में पढ़ना:{0}{1} (सर्वर: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "चैनल में टंकण:{0}{1} (सर्वर: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "यहां से डीएम पढ़ना:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "डीएम में टाइप करना:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "समूह DM में पढ़ना:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "समूह DM में टंकण:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "उनके दोस्तों को देख...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "नाइट्रो के बारे में पढ़ना...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "आवाज इससे जुड़ी है:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "आवाज इससे जुड़ी है:{0}{1} (सर्वर: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "उनकी सेटिंग देखी जा रही हैं...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "सर्वर की{0}सेटिंग्स देखना: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "आमंत्रण लिंक देखना:{0}{1} (सर्वर: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "सर्वर का आमंत्रण लिंक देखना{0}: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "आमंत्रण लिंक देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "के माध्यम से ब्राउज़िंग",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "डाउनलोड पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "\"क्यों Discord?\" पृष्ठ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "सुरक्षा केंद्र",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "रक्षा केंद्र",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "पेज के बारे में",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "ब्रांडिंग पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "प्रेरणा पृष्ठ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "कॉलेज पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "न्यूज़रूम पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "पार्टनर पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "सत्यापन पृष्ठ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "स्ट्रीमकिट पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "ओपन सोर्स पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "सुरक्षा पृष्ठ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "मॉडरेशन पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "rich Presence पेज",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "नीतियां",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "डेवलपर पोर्टल",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Their ऐप्स के माध्यम से ब्राउज़ करना",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "संपादन ऐप: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "उनकी टीमों के माध्यम से ब्राउज़िंग",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "संपादन टीम: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "उनके सर्वर के माध्यम से ब्राउज़ करना",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "सर्वर की अंतर्दृष्टि देखना: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "प्रलेखन पढ़ना",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "डिस्कॉर्ड् की स्थिति",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "सहायता केंद्र",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "डिस्कॉर्ड् ब्लॉग",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "डिस्कॉर्ड् मर्चेंडाइस",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "संग्रह देखें",
+		"description": ""
+	}
 }
