@@ -1,10 +1,10 @@
 {
-  "facebook.call": {
-    "description": "",
-    "message": "V hovore s:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Vo videohovore s:"
-  }
+    "facebook.call": {
+        "message": "V hovore s:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Vo videohovore s:",
+        "description": ""
+    }
 }
