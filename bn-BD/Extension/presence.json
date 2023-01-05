@@ -1,30 +1,30 @@
 {
-  "presence.activity.browsing": {
-    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence",
-    "message": "ব্রাউজ করছে..."
-  },
-  "presence.activity.live": {
-    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence",
-    "message": "লাইভ"
-  },
-  "presence.activity.reading": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "পড়ছে"
-  },
-  "presence.activity.searching": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "সার্চ করছে"
-  },
-  "presence.media.info.episode": {
-    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated",
-    "message": "এপিসোড \n{0}"
+  "presence.playback.playing": {
+    "message": "প্লেয়িং ব্যাক",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence",
-    "message": "প্লেব্যাক থামানো হয়েছে"
+    "message": "প্লেব্যাক থামানো হয়েছে",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
-  "presence.playback.playing": {
-    "description": "Shows when you hover over the little play icon at your Discord Rich Presence",
-    "message": "প্লেয়িং ব্যাক"
+  "presence.activity.browsing": {
+    "message": "ব্রাউজ করছে...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "লাইভ",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "পড়ছে",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "সার্চ করছে",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "এপিসোড \n{0}",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
