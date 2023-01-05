@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "Regarde les paroles de:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Regarde l'album:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Regarde la page d'accueil"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Regarder les paroles"
-  }
+	"genius.lyrics": {
+		"message": "Regarde les paroles de:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Regarder les paroles",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Regarde la page d'accueil",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Regarde l'album:",
+		"description": "Album of a song"
+	}
 }
