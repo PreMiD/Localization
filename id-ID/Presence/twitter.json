@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Bookmark"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Jelajahi"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Notifikasi"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Membaca tweet dari:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Mengubah beberapa pengaturan..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Melihat DM mereka"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Melihat disukai oleh:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Melihat daftar:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Melihat media dari:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Melihat tweet dari:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Melihat tweet (dengan balasan) dari:"
-  }
+	"twitter.readTweet": {
+		"message": "Membaca tweet dari:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Melihat DM mereka",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Melihat tweet dari:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Melihat tweet (dengan balasan) dari:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Melihat media dari:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Melihat disukai oleh:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Melihat daftar:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Bookmark",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Notifikasi",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Jelajahi",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Mengubah beberapa pengaturan...",
+		"description": ""
+	}
 }
