@@ -1,6 +1,6 @@
 {
-  "user.notFound.heading": {
-    "description": "Error when user couldn't be found.",
-    "message": "To vartotojo nepavyko rasti. Pabandykite įsitikinti"
-  }
+	"user.notFound.heading": {
+		"message": "To vartotojo nepavyko rasti. Pabandykite įsitikinti",
+		"description": "Error when user couldn't be found."
+	}
 }
