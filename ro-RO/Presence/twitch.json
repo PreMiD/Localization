@@ -1,262 +1,262 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Accesibilitate"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Realizări"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Activitatea comunității"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Alegeri reclame"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "Program de afiliere Twitch"
-  },
-  "twitch.blogArchive": {
-    "description": "{0} will be replaced with the year",
-    "message": "Se uită la arhiva blog-urilor din {0}"
-  },
-  "twitch.blogBrowse": {
-    "description": "",
-    "message": "Se uită la ultimele postări de pe blog..."
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "Blog-uri Twitch"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "Citește despre marca Twitch..."
-  },
-  "twitch.brandExpression": {
-    "description": "Page name",
-    "message": "Maximalizând expresia noastră"
-  },
-  "twitch.brandMadness": {
-    "description": "Page name",
-    "message": "Aducând metoda la nebunia noastră"
-  },
-  "twitch.brandReal": {
-    "description": "Page name",
-    "message": "Păstrând Twitch-ul real"
-  },
-  "twitch.brandTogether": {
-    "description": "Page name",
-    "message": "Să recapitulăm ce am învățat"
-  },
-  "twitch.brandWatch": {
-    "description": "Watching as in watching a video",
-    "message": "Urmărind evoluția brand-ului Twitch"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "Tabăra creatorilor de conținut"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "Învață elementele fundamentale"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "Conectare și antrenare"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "Treci la un nivel mai înalt"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "Învățare live"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Muzica pe Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Obține recompense"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "Configurarea propriului tău stream"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Analiticele canalului"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Setările canalului"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Clipuri"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Colecții video"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "Panoul de control pentru creatori"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "Gestionează stream-ul său..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "Developeri Twitch"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "Documentație pentru developeri"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "Produse pentru developeri Twitch"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "Povești cu succes din comunitate"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "Resurse utile"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Descărcări"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Setări drop-uri"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Se uită la Esports..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "Se uită la extensii"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Lista urmăritorilor"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "Regulamentul Comunității"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "Centrul de Ajutor"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "Se uită la un topic:"
-  },
-  "twitch.helpTopicCatalog": {
-    "description": "",
-    "message": "Se uită prin catalogul cu topic-uri..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Pagina principală"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Job-uri"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "Gestionează rolurile comunității sale..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "Moderează un steamer:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Setări de moderare"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Parteneri"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "Centru de presă"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "În editorul video..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Utilizează un cod..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Securitate"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "Se uită la un squad..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Rezumatul stream-urilor"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Se uită la abonamentelor lor..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "Se uită la instrumentele pentru streaming"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Turbo"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "Se uită la campaniile de drops active..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "Se uită la inventarul său cu drop-uri..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Se uită la persoanele pe care le urmărește..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Se uită la prietenii săi..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Se uită la setărilor lor..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Se uită la echipa:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Se uită la"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Se uită la wallet..."
-  }
+	"twitch.downloads": {
+		"message": "Descărcări",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Job-uri",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Parteneri",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Centru de presă",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Securitate",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Accesibilitate",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Alegeri reclame",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Regulamentul Comunității",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Pagina principală",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Se uită la wallet...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Se uită la Esports...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Se uită la persoanele pe care le urmărește...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Se uită la echipa:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Se uită la inventarul său cu drop-uri...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Se uită la campaniile de drops active...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Se uită la setărilor lor...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Se uită la prietenii săi...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Se uită la abonamentelor lor...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Se uită la un squad...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderează un steamer:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Utilizează un cod...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Tabăra creatorilor de conținut",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Învață elementele fundamentale",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Configurarea propriului tău stream",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Treci la un nivel mai înalt",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Conectare și antrenare",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Obține recompense",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Muzica pe Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Învățare live",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Panoul de control pentru creatori",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Gestionează stream-ul său...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Gestionează rolurile comunității sale...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "În editorul video...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Se uită la",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Analiticele canalului",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Rezumatul stream-urilor",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Realizări",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Activitatea comunității",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Lista urmăritorilor",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Colecții video",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clipuri",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Setările canalului",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Setări de moderare",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Setări drop-uri",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Se uită la instrumentele pentru streaming",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Se uită la extensii",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Citește despre marca Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Păstrând Twitch-ul real",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Aducând metoda la nebunia noastră",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Maximalizând expresia noastră",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Să recapitulăm ce am învățat",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Urmărind evoluția brand-ului Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Blog-uri Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Se uită la arhiva blog-urilor din {0}",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Se uită la ultimele postări de pe blog...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Centrul de Ajutor",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Se uită la un topic:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Se uită prin catalogul cu topic-uri...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Program de afiliere Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Developeri Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Documentație pentru developeri",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produse pentru developeri Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Povești cu succes din comunitate",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Resurse utile",
+		"description": "Page name"
+	}
 }
