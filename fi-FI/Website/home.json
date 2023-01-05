@@ -1,90 +1,90 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "Pelaa peliä"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Selaa..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Suora"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Toistaa"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} jäljellä"
-  },
-  "home.examples.timestamp2": {
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} kulunut"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "Tulet rakastamaan näitä ominaisuuksia!"
-  },
-  "home.features.presencesystem.button": {
-    "description": "Features section button",
-    "message": "Vieraile kaupassa"
-  },
-  "home.features.presencesystem.description": {
-    "description": "Features section description",
-    "message": "Kehittämämme laajennuksen avulla voit käyttää muiden luomia Presencejä ja hallita niitä!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "Löydä **oma** presencesi"
-  },
-  "home.features.quickSupport.button": {
-    "description": "Features section button",
-    "message": "Liity Discordiimme"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "Onko jokin vialla, saatko jatkuvasti virheilmoituksia, eikä mikään yksinkertaisesti toimi? Autamme sinua pääsemään eroon näistä ongelmista Discord-palvelimellamme. Olemme myös luoneet oman tukijärjestelmämme, joka varmistaa, että ongelmasi saadaan ratkaistua mahdollisimman pian."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "Nopea tuki"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "Oletko kyllästynyt monimutkaisiin käyttöliittymiin? Siksi luomamme ja ylläpitämämme käyttöliittymä on mahdollisimman yksinkertainen ja hyödyllinen sisältäen tärkeitä ominaisuuksia, kuten:"
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "Sovellus- ja laajennusasetukset"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Presencen hallinta"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "Luokan mukaan lajittelu"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "Yksinkertainen käyttöliittymä"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "Lataukset"
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "Ominaisuudet"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "**PreMiD** on yksinkertainen ja helposti muokattava apuohjelma, jonka avulla voit näyttää Discordin pelitilassa, mitä teet verkossa."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "Sivuston kieli"
-  }
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** on yksinkertainen ja helposti muokattava apuohjelma, jonka avulla voit näyttää Discordin pelitilassa, mitä teet verkossa.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Ominaisuudet",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Lataukset",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Pelaa peliä",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} jäljellä",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} kulunut",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Toistaa",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Suora",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Selaa...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Tulet rakastamaan näitä ominaisuuksia!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Löydä **oma** presencesi",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Kehittämämme laajennuksen avulla voit käyttää muiden luomia Presencejä ja hallita niitä!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Vieraile kaupassa",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Yksinkertainen käyttöliittymä",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Oletko kyllästynyt monimutkaisiin käyttöliittymiin? Siksi luomamme ja ylläpitämämme käyttöliittymä on mahdollisimman yksinkertainen ja hyödyllinen sisältäen tärkeitä ominaisuuksia, kuten:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Sovellus- ja laajennusasetukset",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presencen hallinta",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Luokan mukaan lajittelu",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Nopea tuki",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Onko jokin vialla, saatko jatkuvasti virheilmoituksia, eikä mikään yksinkertaisesti toimi? Autamme sinua pääsemään eroon näistä ongelmista Discord-palvelimellamme. Olemme myös luoneet oman tukijärjestelmämme, joka varmistaa, että ongelmasi saadaan ratkaistua mahdollisimman pian.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Liity Discordiimme",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Sivuston kieli",
+		"description": "Tippy content of the language selector."
+	}
 }
