@@ -1,6 +1,6 @@
 {
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Προβάλει των DMs τους"
-  }
+	"twitter.viewDms": {
+		"message": "Προβάλει των DMs τους",
+		"description": ""
+	}
 }
