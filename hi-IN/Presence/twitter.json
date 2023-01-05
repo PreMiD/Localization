@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "बुकमार्क्स"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "खोजिये"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "सूचनाएँ"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "का ट्वीट पढ़ना:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "कुछ सेटिंग बदली जा रही हैं..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Their डीएम देखना"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "द्वारा पसंद किया गया देखना:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "देखने की सूची:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Viewing media of:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "के ट्वीट देखना:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "इनके ट्वीट देखना (जवाबों के साथ):"
-  }
+	"twitter.readTweet": {
+		"message": "का ट्वीट पढ़ना:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Their डीएम देखना",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "के ट्वीट देखना:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "इनके ट्वीट देखना (जवाबों के साथ):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Viewing media of:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "द्वारा पसंद किया गया देखना:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "देखने की सूची:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "बुकमार्क्स",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "सूचनाएँ",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "खोजिये",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "कुछ सेटिंग बदली जा रही हैं...",
+		"description": ""
+	}
 }
