@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Betrachtet PNs"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Betrachtet Spiel:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Schaut sich die Teammitgliederliste an"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Betrachtet beobachtete Foren"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Betrachtet eigene Threads"
-  }
+    "hypixel.staff": {
+        "message": "Schaut sich die Teammitgliederliste an",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Betrachtet eigene Threads",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Betrachtet beobachtete Foren",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Betrachtet PNs",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Betrachtet Spiel:",
+        "description": ""
+    }
 }
