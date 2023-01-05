@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "곡의 가사 보는 중:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "앨범 보는 중:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "홈페이지 보는 중"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "가사 보기"
-  }
+	"genius.lyrics": {
+		"message": "곡의 가사 보는 중:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "가사 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "홈페이지 보는 중",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "앨범 보는 중:",
+		"description": "Album of a song"
+	}
 }
