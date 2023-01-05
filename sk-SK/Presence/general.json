@@ -1,30 +1,30 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Prehľadáva..."
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Jazyk"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Naživo"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Číta"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Hľadá"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Obchod"
-  }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Prehľadáva...",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Jazyk",
+		"description": "For choosing a language"
+	},
+	"general.live": {
+		"message": "Naživo",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Číta",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Hľadá",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Obchod",
+		"description": ""
+	}
 }
