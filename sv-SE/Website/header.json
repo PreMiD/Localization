@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Medverkande"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Hämtningar"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Svenska"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Ändra språk"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Nej, tack"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well."
+    "message": "Svenska",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "Vi stödjer ditt språk, vill du byta?"
+    "message": "Vi stödjer ditt språk, vill du byta?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Inloggad som"
+  "header.languageNotification.text": {
+    "message": "Our website has been translated into your language. It might help you in case you don't speak English very well.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nej, tack",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Ändra språk",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Bakar pannkakor...;Placerar behållare...;Tolkar din IP...;UwU;Bryter mot regler..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Logga in"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Logga ut"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Rapportera en bug"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Panel"
+    "message": "Bakar pannkakor...;Placerar behållare...;Tolkar din IP...;UwU;Bryter mot regler...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Butik"
+    "message": "Butik",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Hämtningar",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Medverkande",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Logga in",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Inloggad som",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Rapportera en bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Panel",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Logga ut",
+    "description": "Logout button"
   }
 }
