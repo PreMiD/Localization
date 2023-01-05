@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Vendo o quadro:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Vendo os seus seguidores"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Editando a sua página inicial"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Vendo um pin"
-  }
+    "pinterest.board": {
+        "message": "Vendo o quadro:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Vendo um pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Vendo os seus seguidores",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Editando a sua página inicial",
+        "description": ""
+    }
 }
