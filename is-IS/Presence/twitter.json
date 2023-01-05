@@ -1,38 +1,38 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Bókamerki"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Skoðar"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Tilkynningar"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Breytir stillingum..."
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Skoðar manns sem líkaði við:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Skoðar lista:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Skoðar fjölmiðlun af:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Skoðar tweet af:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Skoðar tweets (með svörum) af:"
-  }
+	"twitter.viewTweets": {
+		"message": "Skoðar tweet af:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Skoðar tweets (með svörum) af:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Skoðar fjölmiðlun af:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Skoðar manns sem líkaði við:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Skoðar lista:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Bókamerki",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Tilkynningar",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Skoðar",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Breytir stillingum...",
+		"description": ""
+	}
 }
