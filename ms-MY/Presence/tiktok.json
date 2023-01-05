@@ -1,18 +1,18 @@
 {
-  "tiktok.buttonViewTikTok": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Melihat TikTok"
-  },
-  "tiktok.following": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Melihat halaman{0}pengikut mereka"
-  },
-  "tiktok.forYou": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Melihat halaman{0}Untuk Anda"
-  },
-  "tiktok.viewing": {
-    "description": "Name of the user will be after the \":\"",
-    "message": "Melihat TikTok bagi:"
-  }
+	"tiktok.forYou": {
+		"message": "Melihat halaman{0}Untuk Anda",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"tiktok.following": {
+		"message": "Melihat halaman{0}pengikut mereka",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"tiktok.viewing": {
+		"message": "Melihat TikTok bagi:",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "Melihat TikTok",
+		"description": "Used as the title for the button in Discord."
+	}
 }
