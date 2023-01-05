@@ -1,102 +1,102 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Ιστολόγιο Discord"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Εμπορικά Σήματα"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Περιήγηση μέσα"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Προβολή Πρόσκλησης Σύνδεσμος"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Ανάγνωση στο κανάλι:{0}{1} (Διακομιστής: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Σχολή"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Σχετικά"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "Επεξεργασία εφαρμογής: {0}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Λήψη"
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Έμπνευση"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Θέσεις Εργασίας"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Εμπορεύματα Discord"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Διαχείριση"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Aíθουσα σύνταξης"
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Ανοικτός Κώδικας"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "τη σελίδα Συνεργάτες"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "τις πολιτικές"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Rich Presence"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "το Κέντρο Ασφαλείας"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Ασφάλεια"
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Κατάσταση Discord"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Εργαλειοθήκη Streaming"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Κέντρο Βοήθειας"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "η σελίδα Επαλήθευση"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "το \"Γιατί τη Discord?\" σελίδα"
-  }
+	"discord.channelReading": {
+		"message": "Ανάγνωση στο κανάλι:{0}{1} (Διακομιστής: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Προβολή Πρόσκλησης Σύνδεσμος",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Περιήγηση μέσα",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "η σελίδα Λήψη",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "το \"Γιατί τη Discord?\" σελίδα",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "το Κέντρο Ασφαλείας",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "η σελίδα Θέσεις Εργασίας",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "η σελίδα Σχετικά",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "η σελίδα Εμπορικά Σήματα",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "η σελίδα Έμπνευση",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "η σελίδα Σχολή",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "η σελίδα Aíθουσα σύνταξης",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "τη σελίδα Συνεργάτες",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "η σελίδα Επαλήθευση",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "η σελίδα Εργαλειοθήκη Streaming",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "η σελίδα Ανοικτός Κώδικας",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "η σελίδα Ασφάλεια",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "η σελίδα Διαχείριση",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "η σελίδα Rich Presence",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "τις πολιτικές",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.appsEdit": {
+		"message": "Επεξεργασία εφαρμογής: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.status": {
+		"message": "Κατάσταση Discord",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Κέντρο Βοήθειας",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Ιστολόγιο Discord",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Εμπορεύματα Discord",
+		"description": ""
+	}
 }
