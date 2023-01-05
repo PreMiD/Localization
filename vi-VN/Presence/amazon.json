@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Đang xem địa chỉ"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Đang xem quảng cáo của họ"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Đang xem số dư"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "giỏ hàng"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Đang xem tất cả các chuyên mục"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "thẻ quà tặng"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Đang xem lịch sử của họ"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "chi tiết đơn hàng"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "lịch sử đơn hàng"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Đang xem phương thức thanh toán"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Đang xem thú nuôi của họ"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Đang xem Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Đang xem Prime Video:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Đang xem đề xuất"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Đang xem cửa hàng:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Đang xem dịch vụ đã đăng ký"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Đang xem"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "danh sách mong muốn"
-  }
+    "amazon.subscriptions": {
+        "message": "Đang xem dịch vụ đã đăng ký",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Đang xem quảng cáo của họ",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Đang xem số dư",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Đang xem phương thức thanh toán",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Đang xem địa chỉ",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Đang xem thú nuôi của họ",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Đang xem tất cả các chuyên mục",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Đang xem Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Đang xem",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "lịch sử đơn hàng",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "chi tiết đơn hàng",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "giỏ hàng",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "danh sách mong muốn",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "thẻ quà tặng",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Đang xem đề xuất",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Đang xem lịch sử của họ",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Đang xem cửa hàng:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Đang xem Prime Video:",
+        "description": ""
+    }
 }
