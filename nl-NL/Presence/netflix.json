@@ -1,18 +1,18 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Bekijkt wat nieuw en{0}populair is op Netflix"
-  },
-  "netflix.profile": {
-    "description": "",
-    "message": "Zijn/haar profiel aan het beheren"
-  },
-  "netflix.referral": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Zijn/haar referral link{0}aan het ophalen"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "Bekijkt zijn/haar lijst"
-  }
+	"netflix.viewList": {
+		"message": "Bekijkt zijn/haar lijst",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Zijn/haar profiel aan het beheren",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Bekijkt wat nieuw en{0}populair is op Netflix",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"netflix.referral": {
+		"message": "Zijn/haar referral link{0}aan het ophalen",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
