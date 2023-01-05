@@ -1,186 +1,186 @@
 {
-  "kahoot.buttonJoinGame": {
-    "description": "Used as the title for the button in Discord. {0} is the Game ID",
-    "message": "Oyuna Katıl: {0}"
-  },
-  "kahoot.correctAnswer": {
-    "description": "Used when the user anwered correct on a question",
-    "message": "Doğru Cevap"
-  },
-  "kahoot.createHome": {
-    "description": "Used when the user is viewing the create.kahoot.it home page",
-    "message": "Ana sayfayı görüntülüyor"
-  },
-  "kahoot.discover": {
-    "description": "Used when the user is viewing the discover page",
-    "message": "\"Keşfet\" sayfasını görüntülüyor"
-  },
-  "kahoot.drumRoll": {
-    "description": "Used when a player is waiting to receive their final ranking",
-    "message": "Son sıralamayı bekliyor..."
-  },
-  "kahoot.editingCourse": {
-    "description": "Used when the user is editing a course. The name of the course will be displayed below.",
-    "message": "Kursu düzenliyor:"
-  },
-  "kahoot.editingKahoot": {
-    "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below.",
-    "message": "Kahoot'u düzenliyor:"
-  },
-  "kahoot.feedback": {
-    "description": "Used when a player is providing feedback about the quiz to the host",
-    "message": "Geri bildirim sağlıyor"
-  },
-  "kahoot.firstPlace": {
-    "description": "Used to display who was first place in a game. {0} is a player name",
-    "message": "Birincilik: {0}"
-  },
-  "kahoot.gameCreate": {
-    "description": "Used when a Kahoot Host is creating a Game",
-    "message": "Bir Oyun Oluşturuluyor..."
-  },
-  "kahoot.gameOver": {
-    "description": "Used when the Game is finished",
-    "message": "Oyun Bitti"
-  },
-  "kahoot.gameStarting": {
-    "description": "Used when a Kahoot Game is starting",
-    "message": "Oyun Başlıyor!"
-  },
-  "kahoot.gameSummary": {
-    "description": "Used when the host is viewing the summary of a game",
-    "message": "Oyun özetine bakıyor"
-  },
-  "kahoot.incorrectAnswer": {
-    "description": "Used when the user answered incorrectly on a question",
-    "message": "Yanlış Cevap"
-  },
-  "kahoot.joiningGame": {
-    "description": "Used when a user is joining a Kahoot Game.",
-    "message": "Oyuna Katılıyor..."
-  },
-  "kahoot.kahootDetails": {
-    "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below.",
-    "message": "Kahoot'un ayrıntılarını görüntülüyor:"
-  },
-  "kahoot.kahootProfile": {
-    "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below.",
-    "message": "Kahoot profilini görüntülüyor:"
-  },
-  "kahoot.liveCourse": {
-    "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time.",
-    "message": "Bir canlı kurs yönetiyor"
-  },
-  "kahoot.liveCourseActivity": {
-    "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name.",
-    "message": "Aktivite #{0}: {1}"
-  },
-  "kahoot.loadingPage": {
-    "description": "Used when a page is loading",
-    "message": "Sayfa Yükleniyor..."
-  },
-  "kahoot.login": {
-    "description": "Used when a user is logging in",
-    "message": "Giriş yapıyor"
-  },
-  "kahoot.myCourses": {
-    "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities.",
-    "message": "Kurslarını görüntülüyor"
-  },
-  "kahoot.myKahoots": {
-    "description": "Used when the user is viewing their own kahoots",
-    "message": "Kahoot'larını görüntülüyor"
-  },
-  "kahoot.ndPlace": {
-    "description": "Used in the context of 2nd place",
-    "message": "2. sıra"
-  },
-  "kahoot.of": {
-    "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
-    "message": "{0}/{1}"
-  },
-  "kahoot.onPodium": {
-    "description": "Used in the context of a player/team being withing the top 3",
-    "message": "Podyumda"
-  },
-  "kahoot.playing": {
-    "description": "Used as the first line when a user is answering a question",
-    "message": "Oynuyor..."
-  },
-  "kahoot.points": {
-    "description": "Used to display how many points a user has. {0} is the number of points",
-    "message": "Puan: {0}"
-  },
-  "kahoot.position": {
-    "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
-    "message": "Pozisyon: {0}"
-  },
-  "kahoot.previewingKahoot": {
-    "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below.",
-    "message": "Kahoot'u önizliyor:"
-  },
-  "kahoot.questionLoading": {
-    "description": "Used when the next question is loading",
-    "message": "Sonraki Soru Yükleniyor..."
-  },
-  "kahoot.questionNumber": {
-    "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of",
-    "message": "Soru: {0}"
-  },
-  "kahoot.questionShowing": {
-    "description": "Used when the host is showing a question",
-    "message": "Gösterilen Soru:"
-  },
-  "kahoot.questionsCorrect": {
-    "description": "Used to display how many questions a user got correct",
-    "message": "Doğru Soru: {0}"
-  },
-  "kahoot.rdPlace": {
-    "description": "Used in the context of 3rd place",
-    "message": "3. sıra"
-  },
-  "kahoot.resultsQuestion": {
-    "description": "Used when a user is looking at the results of the question they just answered",
-    "message": "Sonuçlara Bakıyor:"
-  },
-  "kahoot.searchKahoots": {
-    "description": "Used when the user is searching for Kahoots. The search query will be displayed below.",
-    "message": "Kahoot arıyor:"
-  },
-  "kahoot.slideShowing": {
-    "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz",
-    "message": "Şu İçerikli Slaydı Gösteriyor"
-  },
-  "kahoot.slideViewing": {
-    "description": "Used when a user is looking at a slide with content in a Kahoot",
-    "message": "Şu İçerikli Slayda Bakıyor"
-  },
-  "kahoot.stPlace": {
-    "description": "Used in the context of 1st place",
-    "message": "1. sıra"
-  },
-  "kahoot.teamTalk": {
-    "description": "Used when a player is talking to their team during team talk time",
-    "message": "Ekiple tartışıyor"
-  },
-  "kahoot.topX": {
-    "description": "Used in the context of Top 5",
-    "message": "En İyi {0}"
-  },
-  "kahoot.userReports": {
-    "description": "Used when the user is viewing their own game reports",
-    "message": "Oyun raporlarını görüntülüyor"
-  },
-  "kahoot.viewingCourse": {
-    "description": "Used when the user is viewing a course. The name of the course will be displayed below.",
-    "message": "Kursu görüntülüyor:"
-  },
-  "kahoot.waiting": {
-    "description": "Used when the user is waiting for a Kahoot Game to start",
-    "message": "Başlamasını Bekliyor..."
-  },
-  "kahoot.waitingAnswer": {
-    "description": "Used when a player is waiting for the question results",
-    "message": "Sonuçları bekliyor..."
-  }
+    "kahoot.buttonJoinGame": {
+        "message": "Oyuna Katıl: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.joiningGame": {
+        "message": "Oyuna Katılıyor...",
+        "description": "Used when a user is joining a Kahoot Game."
+    },
+    "kahoot.waiting": {
+        "message": "Başlamasını Bekliyor...",
+        "description": "Used when the user is waiting for a Kahoot Game to start"
+    },
+    "kahoot.gameStarting": {
+        "message": "Oyun Başlıyor!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "Oynuyor...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.questionLoading": {
+        "message": "Sonraki Soru Yükleniyor...",
+        "description": "Used when the next question is loading"
+    },
+    "kahoot.incorrectAnswer": {
+        "message": "Yanlış Cevap",
+        "description": "Used when the user answered incorrectly on a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "Doğru Cevap",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.resultsQuestion": {
+        "message": "Sonuçlara Bakıyor:",
+        "description": "Used when a user is looking at the results of the question they just answered"
+    },
+    "kahoot.slideViewing": {
+        "message": "Şu İçerikli Slayda Bakıyor",
+        "description": "Used when a user is looking at a slide with content in a Kahoot"
+    },
+    "kahoot.gameOver": {
+        "message": "Oyun Bitti",
+        "description": "Used when the Game is finished"
+    },
+    "kahoot.gameCreate": {
+        "message": "Bir Oyun Oluşturuluyor...",
+        "description": "Used when a Kahoot Host is creating a Game"
+    },
+    "kahoot.loadingPage": {
+        "message": "Sayfa Yükleniyor...",
+        "description": "Used when a page is loading"
+    },
+    "kahoot.firstPlace": {
+        "message": "Birincilik: {0}",
+        "description": "Used to display who was first place in a game. {0} is a player name"
+    },
+    "kahoot.points": {
+        "message": "Puan: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionsCorrect": {
+        "message": "Doğru Soru: {0}",
+        "description": "Used to display how many questions a user got correct"
+    },
+    "kahoot.slideShowing": {
+        "message": "Şu İçerikli Slaydı Gösteriyor",
+        "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz"
+    },
+    "kahoot.questionNumber": {
+        "message": "Soru: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.questionShowing": {
+        "message": "Gösterilen Soru:",
+        "description": "Used when the host is showing a question"
+    },
+    "kahoot.stPlace": {
+        "message": "1. sıra",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "2. sıra",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "3. sıra",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "En İyi {0}",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{0}/{1}",
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.onPodium": {
+        "message": "Podyumda",
+        "description": "Used in the context of a player/team being withing the top 3"
+    },
+    "kahoot.drumRoll": {
+        "message": "Son sıralamayı bekliyor...",
+        "description": "Used when a player is waiting to receive their final ranking"
+    },
+    "kahoot.position": {
+        "message": "Pozisyon: {0}",
+        "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\""
+    },
+    "kahoot.teamTalk": {
+        "message": "Ekiple tartışıyor",
+        "description": "Used when a player is talking to their team during team talk time"
+    },
+    "kahoot.gameSummary": {
+        "message": "Oyun özetine bakıyor",
+        "description": "Used when the host is viewing the summary of a game"
+    },
+    "kahoot.login": {
+        "message": "Giriş yapıyor",
+        "description": "Used when a user is logging in"
+    },
+    "kahoot.createHome": {
+        "message": "Ana sayfayı görüntülüyor",
+        "description": "Used when the user is viewing the create.kahoot.it home page"
+    },
+    "kahoot.discover": {
+        "message": "\"Keşfet\" sayfasını görüntülüyor",
+        "description": "Used when the user is viewing the discover page"
+    },
+    "kahoot.searchKahoots": {
+        "message": "Kahoot arıyor:",
+        "description": "Used when the user is searching for Kahoots. The search query will be displayed below."
+    },
+    "kahoot.kahootDetails": {
+        "message": "Kahoot'un ayrıntılarını görüntülüyor:",
+        "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.kahootProfile": {
+        "message": "Kahoot profilini görüntülüyor:",
+        "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below."
+    },
+    "kahoot.myKahoots": {
+        "message": "Kahoot'larını görüntülüyor",
+        "description": "Used when the user is viewing their own kahoots"
+    },
+    "kahoot.userReports": {
+        "message": "Oyun raporlarını görüntülüyor",
+        "description": "Used when the user is viewing their own game reports"
+    },
+    "kahoot.myCourses": {
+        "message": "Kurslarını görüntülüyor",
+        "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities."
+    },
+    "kahoot.editingCourse": {
+        "message": "Kursu düzenliyor:",
+        "description": "Used when the user is editing a course. The name of the course will be displayed below."
+    },
+    "kahoot.viewingCourse": {
+        "message": "Kursu görüntülüyor:",
+        "description": "Used when the user is viewing a course. The name of the course will be displayed below."
+    },
+    "kahoot.editingKahoot": {
+        "message": "Kahoot'u düzenliyor:",
+        "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.previewingKahoot": {
+        "message": "Kahoot'u önizliyor:",
+        "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below."
+    },
+    "kahoot.liveCourse": {
+        "message": "Bir canlı kurs yönetiyor",
+        "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time."
+    },
+    "kahoot.liveCourseActivity": {
+        "message": "Aktivite #{0}: {1}",
+        "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name."
+    },
+    "kahoot.feedback": {
+        "message": "Geri bildirim sağlıyor",
+        "description": "Used when a player is providing feedback about the quiz to the host"
+    },
+    "kahoot.waitingAnswer": {
+        "message": "Sonuçları bekliyor...",
+        "description": "Used when a player is waiting for the question results"
+    }
 }
