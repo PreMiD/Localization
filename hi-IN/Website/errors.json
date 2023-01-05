@@ -1,46 +1,46 @@
 {
-  "error.code.4": {
-    "description": "Error (4) message",
-    "message": "आप एक गैर-मौजूद या हटाए गए Presence की तलाश कर रहे हैं।"
-  },
-  "error.code.404": {
-    "description": "Error (404) message",
-    "message": "क्षमा करें, लेकिन हम इस पृष्ठ नहीं मिल सकता है"
-  },
-  "error.code.500": {
-    "description": "Error (500) message",
-    "message": "आंतरिक सर्वर त्रुटि हुई है।"
-  },
-  "error.page.button": {
-    "description": "Button on the error page",
-    "message": "होमपेज पर जाएँ"
-  },
-  "error.page.details": {
-    "description": "'Details' text on error page container",
-    "message": "विवरण"
-  },
-  "store.search.notFound": {
-    "description": "Search result text when nothing's found",
-    "message": "इस उपयोगकर्ता द्वारा बनाई गई Presence दिखाने के लिए यहां क्लिक करें।"
-  },
-  "user.notFound.heading": {
-    "description": "Error when user couldn't be found.",
-    "message": "वह उपयोगकर्ता नहीं मिला। सुनिश्चित करने का प्रयास करें"
-  },
-  "user.notFound.message1": {
-    "description": "Check user ID message.",
-    "message": "उपयोगकर्ता की आईडी जिसे आप ढूंढ रहे हैं वह सही है।"
-  },
-  "user.notFound.message2": {
-    "description": "Check the presence amount of the developer created message.",
-    "message": "उपयोगकर्ता ने पर्याप्त Presences बनाई है और हमारे Discord सर्वर में Presence डेवलपर की भूमिका है।"
-  },
-  "user.notFound.message3": {
-    "description": "Check if the error is also happening to others message.",
-    "message": "यदि अन्य लोग हमारे Discord सर्वर पर एक ही समस्या का सामना कर रहे हैं।"
-  },
-  "user.notFound.message4": {
-    "description": "Bottom line for the error page. Do not edit brackets.",
-    "message": "यदि आपको लगता है कि यह एक गलती थी, तो कृपया हमसे संपर्क करें [हमारे Discord सर्वर]।"
-  }
+	"store.search.notFound": {
+		"message": "इस उपयोगकर्ता द्वारा बनाई गई Presence दिखाने के लिए यहां क्लिक करें।",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "क्षमा करें, लेकिन हम इस पृष्ठ नहीं मिल सकता है",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "आप एक गैर-मौजूद या हटाए गए Presence की तलाश कर रहे हैं।",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "आंतरिक सर्वर त्रुटि हुई है।",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "विवरण",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "होमपेज पर जाएँ",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "वह उपयोगकर्ता नहीं मिला। सुनिश्चित करने का प्रयास करें",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "उपयोगकर्ता की आईडी जिसे आप ढूंढ रहे हैं वह सही है।",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "उपयोगकर्ता ने पर्याप्त Presences बनाई है और हमारे Discord सर्वर में Presence डेवलपर की भूमिका है।",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "यदि अन्य लोग हमारे Discord सर्वर पर एक ही समस्या का सामना कर रहे हैं।",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "यदि आपको लगता है कि यह एक गलती थी, तो कृपया हमसे संपर्क करें [हमारे Discord सर्वर]।",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
 }
