@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Kontributor"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Unduhan"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Basa Jawa"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Ganti basa"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Ora, matur suwun"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Situs web kita wis diterjemahake menyang basa sampeyan. Iki bisa mbantu sampeyan yen sampeyan ora bisa basa Inggris."
+    "message": "Basa Jawa",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "Kita ndhukung basa sampeyan, ngganti basa?"
+    "message": "Kita ndhukung basa sampeyan, ngganti basa?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Mlebu sebagai"
+  "header.languageNotification.text": {
+    "message": "Situs web kita wis diterjemahake menyang basa sampeyan. Iki bisa mbantu sampeyan yen sampeyan ora bisa basa Inggris.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Ora, matur suwun",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Ganti basa",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Masak pancake...; nyelehake kontainer...;Ngolah alamat IP sampeyan...; UwU;Nglanggar aturan..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Login"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Metu"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Loporne bug"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Dashboard"
+    "message": "Masak pancake...; nyelehake kontainer...;Ngolah alamat IP sampeyan...; UwU;Nglanggar aturan...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Toko"
+    "message": "Toko",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Unduhan",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Kontributor",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Login",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Mlebu sebagai",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Loporne bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Metu",
+    "description": "Logout button"
   }
 }
