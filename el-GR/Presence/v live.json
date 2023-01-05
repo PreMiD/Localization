@@ -1,6 +1,6 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Περιήγηση μέσα"
-  }
+	"v live.browseThrough": {
+		"message": "Περιήγηση μέσα",
+		"description": "The first part of the next 6 strings"
+	}
 }
