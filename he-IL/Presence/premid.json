@@ -1,22 +1,22 @@
 {
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "תורמים"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "הורדות"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "חנות"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "פתרון תקלות"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "שותפים"
-  }
+	"premid.pageContributors": {
+		"message": "תורמים",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "הורדות",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "חנות",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "שותפים",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "פתרון תקלות",
+		"description": "A page name"
+	}
 }
