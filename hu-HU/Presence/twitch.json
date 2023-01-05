@@ -1,186 +1,186 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Kisegitő lehetőségek"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Eredményeket"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Közösségi tevékenységet"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Reklám lehetőségek"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "Twitch Érdekelt Program"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "Tanulás élőben"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Zene a Twitchen"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Legyél jutalmazva"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "Stream beállitása"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Csatornaelemzést"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Csatorna beállításokat"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Klippeket"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Videógyűjteményeket"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "Tartalomkészítő Irányítópult"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "Streamjét kezeli..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "Twitch Fejlesztők"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "Twitch Fejlesztői Dokumentáció"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "Twitch Fejleszőti Termékek"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "Sikeres történetek a közösségből"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "Segítőkész erőforrások"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Letöltések"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Drop beállitásokat"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Esports-ot néz..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "Bővitményeket néz"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Követők listáját"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "Közösségi irányelvek"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "Témát néz:"
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Főoldal"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Álláslehetőségek"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "Szerepköreit kezeli..."
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Moderációs beállításokat"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partnerek"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "Press Center"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "Videókészitőben..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Kódot vált be..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Biztonság"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "Squadot néz..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Közvetítés összefoglalását"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Feliratkozásait nézi..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "Közvetítési eszközöket néz"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Turbó"
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Barátait nézi..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Beállításait nézi..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Nézi ezt a csapatot:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Nézi a(z)"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Nézi a pénztárcáját..."
-  }
+	"twitch.downloads": {
+		"message": "Letöltések",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Álláslehetőségek",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbó",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnerek",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Press Center",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Biztonság",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Kisegitő lehetőségek",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Reklám lehetőségek",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Közösségi irányelvek",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Főoldal",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Nézi a pénztárcáját...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Esports-ot néz...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Nézi ezt a csapatot:",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Beállításait nézi...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Barátait nézi...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Feliratkozásait nézi...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Squadot néz...",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Kódot vált be...",
+		"description": ""
+	},
+	"twitch.campSetup": {
+		"message": "Stream beállitása",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Legyél jutalmazva",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Zene a Twitchen",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Tanulás élőben",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Tartalomkészítő Irányítópult",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Streamjét kezeli...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Szerepköreit kezeli...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "Videókészitőben...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Nézi a(z)",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Csatornaelemzést",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Közvetítés összefoglalását",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Eredményeket",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Közösségi tevékenységet",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Követők listáját",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Videógyűjteményeket",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Klippeket",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Csatorna beállításokat",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Moderációs beállításokat",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Drop beállitásokat",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Közvetítési eszközöket néz",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Bővitményeket néz",
+		"description": ""
+	},
+	"twitch.helpTopic": {
+		"message": "Témát néz:",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Twitch Érdekelt Program",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Twitch Fejlesztők",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Twitch Fejlesztői Dokumentáció",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Twitch Fejleszőti Termékek",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Sikeres történetek a közösségből",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Segítőkész erőforrások",
+		"description": "Page name"
+	}
 }
