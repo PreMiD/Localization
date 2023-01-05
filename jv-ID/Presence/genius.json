@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "Ndeleng lirik:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Ndeleng album:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Ndeleng halaman beranda"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ndeleng Lirik"
-  }
+	"genius.lyrics": {
+		"message": "Ndeleng lirik:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Ndeleng Lirik",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Ndeleng halaman beranda",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Ndeleng album:",
+		"description": "Album of a song"
+	}
 }
