@@ -1,58 +1,58 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "אנא השבת את חסימת המודעות שלך"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "תודה רבה!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "יישום"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "בוצע"
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "תוסף"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "התחל"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "הורד את PreMiD"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "אני לא מעוניין לתמוך."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "האם אתה בטוח?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "באמת?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "ב-בבקשה תמוך :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "אני צריך אותך :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "בסדר, בסדר..."
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} אין התקנה עבור מערכת ההפעלה שלך. זה אומר שאין שום תמיכה מקצועית בשביל זה."
-  }
+	"downloads.instructions.heading": {
+		"message": "התחל",
+		"description": "Displayed at Downloads page above steps"
+	},
+	"downloads.instructions.step_1": {
+		"message": "הורד את PreMiD",
+		"description": "Heading for installing the application"
+	},
+	"downloads.appdownloading.header": {
+		"message": "יישום",
+		"description": "Header above application download buttons."
+	},
+	"downloads.extdownloading.header": {
+		"message": "תוסף",
+		"description": "Header above extension download buttons."
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"message": "{0} אין התקנה עבור מערכת ההפעלה שלך. זה אומר שאין שום תמיכה מקצועית בשביל זה.",
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`"
+	},
+	"downloads.button.done": {
+		"message": "בוצע",
+		"description": "Button on the page when trying to download with adblocker on."
+	},
+	"downloads.adsbox.thankyou.title": {
+		"message": "תודה רבה!",
+		"description": "Title of the advertisement section box."
+	},
+	"downloads.adsbox.disableAdblock": {
+		"message": "אנא השבת את חסימת המודעות שלך",
+		"description": "Message next to pepe."
+	},
+	"downloads.skipanyway.message1": {
+		"message": "אני לא מעוניין לתמוך.",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message2": {
+		"message": "האם אתה בטוח?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message3": {
+		"message": "באמת?",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message4": {
+		"message": "ב-בבקשה תמוך :(",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message5": {
+		"message": "אני צריך אותך :<",
+		"description": "Skip anyway messages (changes everytime you click it)."
+	},
+	"downloads.skipanyway.message6": {
+		"message": "בסדר, בסדר...",
+		"description": "Last message of the skip anyway messages (changes everytime you click it)."
+	}
 }
