@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Гледа реклама"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Търси плейлисти"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Търси в"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Търси видеа"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "тяхната история"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "тяхната библиотека"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "от канал:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "тяхните покупки"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Чете за канал:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Гледа своята доладвана история"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Търси през канал: {0} за:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "страница за артисти"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "анализ на канала"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "коментари на канала"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "преводи на канала"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Гледа своето контролно табло"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Обработва видео:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Гледа анализи на видео:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Гледа коментари на видео:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Гледа преводи на видео:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Гледа своите"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Гледа своите видеа"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "техните абонаменти"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Гледа какво се покачва"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Качва нещо..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Гледа своите плейлисти"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Гледа библиотека с аудиота"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Гледа своето контролно табло на живо"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Гледа своите събития на живо"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Гледа постове в общноста"
-  }
+    "youtube.ad": {
+        "message": "Гледа реклама",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Търси видеа",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Търси плейлисти",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Гледа постове в общноста",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "от канал:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Чете за канал:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Търси през канал: {0} за:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Гледа какво се покачва",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Търси в",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "техните абонаменти",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "тяхната библиотека",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "тяхната история",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "тяхните покупки",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Гледа своята доладвана история",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Качва нещо...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Гледа своите плейлисти",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Гледа своите събития на живо",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Гледа своето контролно табло на живо",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Гледа библиотека с аудиота",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Гледа своите видеа",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Обработва видео:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Гледа анализи на видео:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Гледа коментари на видео:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Гледа преводи на видео:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Гледа своите",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "анализ на канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "коментари на канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "преводи на канала",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "страница за артисти",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Гледа своето контролно табло",
+        "description": ""
+    }
 }
