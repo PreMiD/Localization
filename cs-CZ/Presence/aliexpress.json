@@ -1,6 +1,6 @@
 {
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "smazané objednávky"
-  }
+    "aliexpress.deletedOrders": {
+        "message": "smazané objednávky",
+        "description": "Part 2 of \"Viewing their\""
+    }
 }
