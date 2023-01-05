@@ -1,10 +1,10 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Hämtningar"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partners"
-  }
+	"twitch.downloads": {
+		"message": "Hämtningar",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partners",
+		"description": "Page name"
+	}
 }
