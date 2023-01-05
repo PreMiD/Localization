@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "পড়ছে 9GAG সম্পর্কে সবকিছু"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "দেখছে কালেকশন:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "দেখছে কী নতুন"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "দেখছে গ্যাগ:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "দেখছে কী গরমে"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "দেখছে স্টোর পেজ"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "দেখছে ট্যাগ:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "দেখছে কী ট্রেন্ডিং এ"
-  }
+    "9gag.gag": {
+        "message": "দেখছে গ্যাগ:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "দেখছে কী গরমে",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "দেখছে কী ট্রেন্ডিং এ",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "দেখছে কী নতুন",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "দেখছে ট্যাগ:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "পড়ছে 9GAG সম্পর্কে সবকিছু",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "দেখছে স্টোর পেজ",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "দেখছে কালেকশন:",
+        "description": ""
+    }
 }
