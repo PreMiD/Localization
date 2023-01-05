@@ -1,42 +1,42 @@
 {
-  "google classroom.assignment": {
-    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class",
-    "message": "Şu sınıftaki ödeve bakıyor:"
-  },
-  "google classroom.assignmentPrivate": {
-    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Bir ödeve bakıyor"
-  },
   "google classroom.calendar": {
-    "description": "Displayed when the user viewing their calendar",
-    "message": "Takvimine bakıyor"
-  },
-  "google classroom.class": {
-    "description": "Displayed when a user is viewing a class",
-    "message": "Sınıfa bakıyor"
-  },
-  "google classroom.classmembers": {
-    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class",
-    "message": "Şu sınıfın üyelerine bakıyor:"
-  },
-  "google classroom.classmembersPrivate": {
-    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Sınıf üyelerine bakıyor"
-  },
-  "google classroom.classwork": {
-    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class",
-    "message": "Şu sınıfın çalışmasına bakıyor:"
-  },
-  "google classroom.classworkPrivate": {
-    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Sınıf çalışmasına bakıyor"
-  },
-  "google classroom.settings": {
-    "description": "Displayed when a user is viewing their Google Classroom settings",
-    "message": "Ayarları yapılandırıyor"
+    "message": "Takvimine bakıyor",
+    "description": "Displayed when the user viewing their calendar"
   },
   "google classroom.todo": {
-    "description": "Displayed when the user is viewing their to-do list",
-    "message": "Yapılacak listesine bakıyor"
+    "message": "Yapılacak listesine bakıyor",
+    "description": "Displayed when the user is viewing their to-do list"
+  },
+  "google classroom.assignmentPrivate": {
+    "message": "Bir ödeve bakıyor",
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.assignment": {
+    "message": "Şu sınıftaki ödeve bakıyor:",
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"
+  },
+  "google classroom.class": {
+    "message": "Sınıfa bakıyor",
+    "description": "Displayed when a user is viewing a class"
+  },
+  "google classroom.classworkPrivate": {
+    "message": "Sınıf çalışmasına bakıyor",
+    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classwork": {
+    "message": "Şu sınıfın çalışmasına bakıyor:",
+    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class"
+  },
+  "google classroom.classmembersPrivate": {
+    "message": "Sınıf üyelerine bakıyor",
+    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classmembers": {
+    "message": "Şu sınıfın üyelerine bakıyor:",
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
+  },
+  "google classroom.settings": {
+    "message": "Ayarları yapılandırıyor",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
   }
 }
