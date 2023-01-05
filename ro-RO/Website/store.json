@@ -1,38 +1,38 @@
 {
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "Autor"
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Toate"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "Jocuri"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "Categorii"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "Muzică"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "Altele"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "Sociale"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "Video & Stream-uri"
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Caută"
-  }
+	"store.cards.creator": {
+		"message": "Autor",
+		"description": "Creator of a presence"
+	},
+	"store.category.heading": {
+		"message": "Categorii",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Toate",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Jocuri",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Muzică",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sociale",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Video & Stream-uri",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Altele",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Caută",
+		"description": "Placeholder for presence search"
+	}
 }
