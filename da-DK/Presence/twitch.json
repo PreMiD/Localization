@@ -1,10 +1,10 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Installationer"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partnere"
-  }
+	"twitch.downloads": {
+		"message": "Installationer",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnere",
+		"description": "Page name"
+	}
 }
