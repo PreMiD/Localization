@@ -1,6 +1,6 @@
 {
-  "netflix.profile": {
-    "description": "",
-    "message": "プロフィールの管理中"
-  }
+	"netflix.profile": {
+		"message": "プロフィールの管理中",
+		"description": ""
+	}
 }
