@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Nemrég hozzáadott"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Böngészi:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Hivásban vele:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Mentett videók"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Felhasználóról olvas:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Az ő közösségét nézi:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Az ő ismerőseit nézi:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "valaki... (Felhasználó elrejtve)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Az ő fotóját nézi:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Az ő bejegyzését nézi:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Az ő boltját nézi:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Az ő videóját nézi:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Videóhívásban vele:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "A mai időjárást nézi"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Üzenetet ír"
-  }
+    "facebook.call": {
+        "message": "Hivásban vele:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Videóhívásban vele:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "valaki... (Felhasználó elrejtve)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Üzenetet ír",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Felhasználóról olvas:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Az ő közösségét nézi:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Az ő fotóját nézi:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Az ő bejegyzését nézi:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Az ő boltját nézi:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Az ő ismerőseit nézi:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Az ő videóját nézi:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Böngészi:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Mentett videók",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nemrég hozzáadott",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "A mai időjárást nézi",
+        "description": ""
+    }
 }
