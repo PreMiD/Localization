@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Đang xem danh sách các lệnh"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "Đang đọc về các cookie của trang web"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "Đang đọc thông tin về các kế hoạch đóng góp"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "Đang xem bảng xếp hạng của máy chủ:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Trang chủ"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "Đang trong bảng điều khiển"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Hội: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Đang chọn máy chủ"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Đang xem thống kê của các máy"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "Đang chỉnh sửa thẻ hạng"
-  }
+    "juniperbot.mainpage": {
+        "message": "Trang chủ",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Đang xem bảng xếp hạng của máy chủ:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Đang trong bảng điều khiển",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Hội: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Đang đọc thông tin về các kế hoạch đóng góp",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Đang chọn máy chủ",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Đang xem danh sách các lệnh",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Đang xem thống kê của các máy",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Đang chỉnh sửa thẻ hạng",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Đang đọc về các cookie của trang web",
+        "description": "Reading about the site's cookies"
+    }
 }
