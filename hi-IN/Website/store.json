@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "लोड Presence"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "यह Presence अपनी साइट पर आने पर स्वचालित रूप से सक्षम है।"
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "हटाना Presence"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "लेखक"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "इस presence के लिए अतिरिक्त चरणों की आवश्यकता होती है, कृपया अधिक जानकारी के लिए इसके पृष्ठ की जाँच करें।"
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "भागीदारी Presence"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "यह Presence उपयोगकर्ताओं के आसपास बहुत लोकप्रिय है।"
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "सभी"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "NSFW दिखाएं"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "फ़िल्टर"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "केवल पसंद किया Presences"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "ज्यादातर इस्तेमाल किए जाने वाले ऐप"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "खेल"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "श्रेणियाँ"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "संगीत"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "अन्य"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "सामाजिक"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "वीडियो और स्ट्रीम"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "शो जोड़ा गया Presences"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "तलाश Presence"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "एक्सटेंशन कनेक्ट नहीं है"
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "तलाश"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "दर्ज करें"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "फिल्टर को रिमूव के लिए क्लिक करे"
-  }
+	"store.message.error": {
+		"message": "एक्सटेंशन कनेक्ट नहीं है",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "लेखक",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "यह Presence उपयोगकर्ताओं के आसपास बहुत लोकप्रिय है।",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "भागीदारी Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "इस presence के लिए अतिरिक्त चरणों की आवश्यकता होती है, कृपया अधिक जानकारी के लिए इसके पृष्ठ की जाँच करें।",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "तलाश Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "लोड Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "हटाना Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "यह Presence अपनी साइट पर आने पर स्वचालित रूप से सक्षम है।",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "फ़िल्टर",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "ज्यादातर इस्तेमाल किए जाने वाले ऐप",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "NSFW दिखाएं",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "केवल पसंद किया Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "शो जोड़ा गया Presences",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "श्रेणियाँ",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "सभी",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "खेल",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "संगीत",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "सामाजिक",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "वीडियो और स्ट्रीम",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "अन्य",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "तलाश",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "दर्ज करें",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "फिल्टर को रिमूव के लिए क्लिक करे",
+		"description": "Remove message for active search filters."
+	}
 }
