@@ -1,22 +1,22 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Nedávno přidané"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Při hovoru s:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Uložená videa"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "někdo... (Uživatel skrytý)"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Při videohovoru s:"
-  }
+    "facebook.call": {
+        "message": "Při hovoru s:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Při videohovoru s:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "někdo... (Uživatel skrytý)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.savedVids": {
+        "message": "Uložená videa",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Nedávno přidané",
+        "description": ""
+    }
 }
