@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "Alben die ihm gefallen"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "Künstler die ihm gefallen"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Beste Podcasts"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Durchstöbert"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Betrachtet Charts"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Entdeckt neue Songs"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Spotify herunterladen"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Ausgewählte Songs"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Durchstöbert Genres"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Betrachtet die letzten Veröffentlichungen"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Erstellt für dich\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "seine Playlisten"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "Podcasts die ihm gefallen"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "Lieder die ihm gefallen"
-  }
+	"spotify.featured": {
+		"message": "Ausgewählte Songs",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Beste Podcasts",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Betrachtet Charts",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Durchstöbert Genres",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Betrachtet die letzten Veröffentlichungen",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Entdeckt neue Songs",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Durchstöbert",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "Podcasts die ihm gefallen",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "Künstler die ihm gefallen",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "Alben die ihm gefallen",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "Lieder die ihm gefallen",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Erstellt für dich\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "seine Playlisten",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify herunterladen",
+		"description": ""
+	}
 }
