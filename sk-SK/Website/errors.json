@@ -1,46 +1,46 @@
 {
-  "error.code.4": {
-    "description": "Error (4) message",
-    "message": "Hľadáte neexistujúcu alebo odstránený výzor."
-  },
-  "error.code.404": {
-    "description": "Error (404) message",
-    "message": "Je nám ľúto, ale túto stránku sme nenašli."
-  },
-  "error.code.500": {
-    "description": "Error (500) message",
-    "message": "Vyskytla sa interná chyba servera."
-  },
-  "error.page.button": {
-    "description": "Button on the error page",
-    "message": "Späť na domovskú stránku"
-  },
-  "error.page.details": {
-    "description": "'Details' text on error page container",
-    "message": "Detaily"
-  },
-  "store.search.notFound": {
-    "description": "Search result text when nothing's found",
-    "message": "Tento výzor sme nenašli..."
-  },
-  "user.notFound.heading": {
-    "description": "Error when user couldn't be found.",
-    "message": "Tohto užívateľa sa nepodarilo nájsť. Uistite sa že"
-  },
-  "user.notFound.message1": {
-    "description": "Check user ID message.",
-    "message": "že hľadané ID používateľa je správne."
-  },
-  "user.notFound.message2": {
-    "description": "Check the presence amount of the developer created message.",
-    "message": "tento používateľ vytvoril dostatok výzorov a má na našom serveri Discord úlohu vývojára výzorov."
-  },
-  "user.notFound.message3": {
-    "description": "Check if the error is also happening to others message.",
-    "message": "ak majú iní na našom serveri Discord rovnaký problém."
-  },
-  "user.notFound.message4": {
-    "description": "Bottom line for the error page. Do not edit brackets.",
-    "message": "Ak si myslíte, že išlo o chybu, kontaktujte nás na [našom serveri Discord]."
-  }
+	"store.search.notFound": {
+		"message": "Tento výzor sme nenašli...",
+		"description": "Search result text when nothing's found"
+	},
+	"error.code.404": {
+		"message": "Je nám ľúto, ale túto stránku sme nenašli.",
+		"description": "Error (404) message"
+	},
+	"error.code.4": {
+		"message": "Hľadáte neexistujúcu alebo odstránený výzor.",
+		"description": "Error (4) message"
+	},
+	"error.code.500": {
+		"message": "Vyskytla sa interná chyba servera.",
+		"description": "Error (500) message"
+	},
+	"error.page.details": {
+		"message": "Detaily",
+		"description": "'Details' text on error page container"
+	},
+	"error.page.button": {
+		"message": "Späť na domovskú stránku",
+		"description": "Button on the error page"
+	},
+	"user.notFound.heading": {
+		"message": "Tohto užívateľa sa nepodarilo nájsť. Uistite sa že",
+		"description": "Error when user couldn't be found."
+	},
+	"user.notFound.message1": {
+		"message": "že hľadané ID používateľa je správne.",
+		"description": "Check user ID message."
+	},
+	"user.notFound.message2": {
+		"message": "tento používateľ vytvoril dostatok výzorov a má na našom serveri Discord úlohu vývojára výzorov.",
+		"description": "Check the presence amount of the developer created message."
+	},
+	"user.notFound.message3": {
+		"message": "ak majú iní na našom serveri Discord rovnaký problém.",
+		"description": "Check if the error is also happening to others message."
+	},
+	"user.notFound.message4": {
+		"message": "Ak si myslíte, že išlo o chybu, kontaktujte nás na [našom serveri Discord].",
+		"description": "Bottom line for the error page. Do not edit brackets."
+	}
 }
