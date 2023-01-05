@@ -1,10 +1,10 @@
 {
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "يشاهد الألبوم:"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض الكلمات"
-  }
+	"genius.viewLyrics": {
+		"message": "عرض الكلمات",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewAlbum": {
+		"message": "يشاهد الألبوم:",
+		"description": "Album of a song"
+	}
 }
