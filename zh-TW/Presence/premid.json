@@ -1,26 +1,26 @@
 {
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "關於 PreMiD"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "貢獻者"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "下載"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "開始使用"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "疑難排解"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "合作夥伴"
-  }
+	"premid.pageContributors": {
+		"message": "貢獻者",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "下載",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "合作夥伴",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "關於 PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "疑難排解",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "開始使用",
+		"description": "A page name"
+	}
 }
