@@ -1,30 +1,30 @@
 {
-  "presence.activity.browsing": {
-    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence",
-    "message": "Navegando..."
-  },
-  "presence.activity.live": {
-    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence",
-    "message": "En vivo"
-  },
-  "presence.activity.reading": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "Leyendo"
-  },
-  "presence.activity.searching": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "Buscando"
-  },
-  "presence.media.info.episode": {
-    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated",
-    "message": "Episodio {0}"
+  "presence.playback.playing": {
+    "message": "Reproduciendo",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence",
-    "message": "Reproducción en pausa"
+    "message": "Reproducción en pausa",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
-  "presence.playback.playing": {
-    "description": "Shows when you hover over the little play icon at your Discord Rich Presence",
-    "message": "Reproduciendo"
+  "presence.activity.browsing": {
+    "message": "Navegando...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "En vivo",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "Leyendo",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "Buscando",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "Episodio {0}",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
