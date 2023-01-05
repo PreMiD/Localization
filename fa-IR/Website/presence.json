@@ -1,46 +1,46 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "سورس کد"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "لیست تغییرات"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "شرح"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "سازنده"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "مشارکت کننده‌ها"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "پسندیده ها"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "URL های پشتیبانی"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "تگ‌ها"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "اطلاعات"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "کاربران"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "نسخه"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "سورس کد",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "شرح",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "لیست تغییرات",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "اطلاعات",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "سازنده",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "نسخه",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "پسندیده ها",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "کاربران",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "تگ‌ها",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "URL های پشتیبانی",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "مشارکت کننده‌ها",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
