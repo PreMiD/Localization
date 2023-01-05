@@ -1,54 +1,54 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Er að horfa á auglýsingu"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Skoðar playlista"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Skoðar í gegn"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Skoðar myndbönd"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "sögu þeirra"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "safn þeirra"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "af rás:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "kaup þeirra"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Lesa um rás:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Skoðar skýrsluferil þeirra"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Leitar í gegnum rás: {0} fyrir:"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "áskriftir þeirra"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Skoðar samfélagsinnlegg"
-  }
+    "youtube.ad": {
+        "message": "Er að horfa á auglýsingu",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Skoðar myndbönd",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Skoðar playlista",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Skoðar samfélagsinnlegg",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "af rás:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Lesa um rás:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "Leitar í gegnum rás: {0} fyrir:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.browsingThrough": {
+        "message": "Skoðar í gegn",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "áskriftir þeirra",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "safn þeirra",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "sögu þeirra",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "kaup þeirra",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Skoðar skýrsluferil þeirra",
+        "description": ""
+    }
 }
