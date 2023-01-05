@@ -1,62 +1,62 @@
 {
   "contributors.cards.copyUserId": {
-    "message": "Κάντε κλικ για να αντιγράψετε το ID του χρήστη.",
-    "description": "Tippy message when you hover on the avatar of a credit card."
+    "description": "Tippy message when you hover on the avatar of a credit card.",
+    "message": "Κάντε κλικ για να αντιγράψετε το ID του χρήστη."
   },
   "contributors.cards.userIdCopied": {
-    "message": "Το ID χρήστη αντιγράφηκε!",
-    "description": "Notification after user ID was copied."
+    "description": "Notification after user ID was copied.",
+    "message": "Το ID χρήστη αντιγράφηκε!"
   },
   "contributors.headings.staff": {
-    "message": "Προσωπικό",
-    "description": "Heading for group of users."
+    "description": "Heading for group of users.",
+    "message": "Προσωπικό"
   },
   "contributors.headings.supporters": {
-    "message": "Υποστηρικτές",
-    "description": "Heading for group of users."
+    "description": "Heading for group of users.",
+    "message": "Υποστηρικτές"
   },
   "contributors.headings.translators": {
-    "message": "Μεταφραστές",
-    "description": "Heading for group of users."
+    "description": "Heading for group of users.",
+    "message": "Μεταφραστές"
   },
   "contributors.roles.booster": {
-    "message": "Ενισχυτής",
-    "description": "'Booster' title for contributors page and user pages."
+    "description": "'Booster' title for contributors page and user pages.",
+    "message": "Ενισχυτής"
   },
   "contributors.roles.communityManager": {
-    "message": "Διαχειριστής κοινότητας",
-    "description": "'Community Manager' title for contributors and user pages."
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Διαχειριστής κοινότητας"
   },
   "contributors.roles.discordModerator": {
-    "message": "Συντονιστής Discord",
-    "description": "'Discord Moderator' title for contributors and user pages."
+    "description": "'Discord Moderator' title for contributors and user pages.",
+    "message": "Συντονιστής Discord"
   },
   "contributors.roles.donator": {
-    "message": "Δωρητής",
-    "description": "'Donator' title for contributors page."
+    "description": "'Donator' title for contributors page.",
+    "message": "Δωρητής"
   },
   "contributors.roles.humanResources": {
-    "message": "Ανθρώπινο δυναμικό",
-    "description": "'Human Resources' title for contributors and user pages."
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Ανθρώπινο δυναμικό"
   },
   "contributors.roles.localizationManager": {
-    "message": "Διευθυντής εντοπισμού",
-    "description": "'Localization Manager' title for contributors and user pages."
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "Διευθυντής εντοπισμού"
   },
   "contributors.roles.projectManagement": {
-    "message": "Διαχείριση έργων",
-    "description": "'Project Management' title for contributors and user pages."
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Διαχείριση έργων"
   },
   "contributors.roles.proofreader": {
-    "message": "Επιμελητής",
-    "description": "'Proofreader' title for contributors and user pages."
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "Επιμελητής"
   },
   "contributors.roles.technicalSupport": {
-    "message": "Τεχνική υποστήριξη",
-    "description": "'Technical Support' title for contributors and user pages."
+    "description": "'Technical Support' title for contributors and user pages.",
+    "message": "Τεχνική υποστήριξη"
   },
   "contributors.roles.translator": {
-    "message": "Μεταφραστής",
-    "description": "'Translator' title for contributors page."
+    "description": "'Translator' title for contributors page.",
+    "message": "Μεταφραστής"
   }
 }
