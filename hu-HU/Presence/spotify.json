@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "a kedvelt albumait"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "a kedvelt előadóit"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Legjobb podcastok"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Böngészi"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Nézi a listákat"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Új számokat fedez fel"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Spotify-t tölti le"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Kiemelt számok"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Műfajokat böngészi"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Nézi a legújabb megjelenéseket"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "a \"Neked készült\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "a kedvelt lejátszási listáit"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "a kedvelt podcast-jeit"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "a kedvelt számait"
-  }
+	"spotify.featured": {
+		"message": "Kiemelt számok",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Legjobb podcastok",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Nézi a listákat",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Műfajokat böngészi",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Nézi a legújabb megjelenéseket",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Új számokat fedez fel",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Böngészi",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "a kedvelt podcast-jeit",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "a kedvelt előadóit",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "a kedvelt albumait",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "a kedvelt számait",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "a \"Neked készült\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "a kedvelt lejátszási listáit",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify-t tölti le",
+		"description": ""
+	}
 }
