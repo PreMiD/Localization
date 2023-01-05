@@ -1,50 +1,50 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "Código Fuente"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "Historial de cambios"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "Descripción"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "Autor"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "Contribuidores"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "Likes"
-  },
-  "presence.sections.information.moreurls": {
-    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
-    "message": "Esta presence soporta más URLs de las que aparecen a continuación a través del uso de expresiones regulares (RegExp). Mantén el cursor sobre este texto para ver el patrón"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "URLs Soportadas"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "Etiquetas"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "Información"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "Usuarios"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "Versión"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "Código Fuente",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Descripción",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Historial de cambios",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Información",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Autor",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Versión",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Likes",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Usuarios",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Etiquetas",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "URLs Soportadas",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.moreurls": {
+		"message": "Esta presence soporta más URLs de las que aparecen a continuación a través del uso de expresiones regulares (RegExp). Mantén el cursor sobre este texto para ver el patrón",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Contribuidores",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
