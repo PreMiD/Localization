@@ -1,110 +1,110 @@
 {
-  "footer.copyright.line1": {
-    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
-    "message": "{1} kullanıcısından {0}"
-  },
-  "footer.copyright.line2": {
-    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
-    "message": "Site {0} tarafından yönetilmektedir"
-  },
-  "footer.developers.documentation": {
-    "description": "Documentation -> redirects to docs.premid.app",
-    "message": "Dokümantasyon"
-  },
-  "footer.developers.heading": {
-    "description": "Developer section",
-    "message": "Geliştiriciler"
-  },
-  "footer.developers.richpresence": {
-    "description": "Rich Presence -> redirects to discord.com/rich-presence",
-    "message": "Zengin İçerik"
-  },
-  "footer.followUs.heading": {
-    "description": "Follow Us section",
-    "message": "Bizi Takip Edin"
-  },
-  "footer.help.getsupport": {
-    "description": "Get Support -> redirects to Discord invite",
-    "message": "Yardım Al‮"
-  },
-  "footer.help.heading": {
-    "description": "Help section",
-    "message": "Yardım"
-  },
-  "footer.help.information": {
-    "description": "Information section",
-    "message": "Bilgi"
-  },
-  "footer.help.information.cookies": {
-    "description": "meant to be 'Cookie Policy'",
-    "message": "Çerezler"
-  },
-  "footer.help.information.privacy": {
-    "description": "meant to be 'Privacy Policy'",
-    "message": "Gizlilik"
-  },
-  "footer.help.information.terms": {
-    "description": "meant to be 'Terms of Service'",
-    "message": "Şartlar"
-  },
-  "footer.help.troubleshooting": {
-    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
-    "message": "Sorun Giderme"
-  },
-  "footer.language": {
-    "description": "You know how to translate that word? I hope you do :D",
-    "message": "Dil"
-  },
-  "footer.more.heading": {
-    "description": "More section",
-    "message": "Dahası"
-  },
-  "footer.more.status": {
-    "description": "Status -> redirects to status.premid.app",
-    "message": "PreMiD Durumu"
-  },
-  "footer.more.wiki": {
-    "description": "Wiki -> redirects to wiki.premid.app",
-    "message": "Viki"
-  },
-  "footer.partners.heading": {
-    "description": "Partner section",
-    "message": "Partnerler"
-  },
-  "footer.partners.more": {
-    "description": "Button next to all listed partners on the footer.",
-    "message": "Ortak & partnerlerin geri kalanını görmek için tıklayın."
-  },
-  "footer.supportus.contribute": {
-    "description": "Contribute -> redirects to github.com/premid",
-    "message": "Katkıda Bulun"
-  },
-  "footer.supportus.donate": {
-    "description": "Donate -> redirects to patreon.com/timeraa",
-    "message": "Bağış Yap"
-  },
-  "footer.supportus.heading": {
-    "description": "Support us section",
-    "message": "Destek ol"
-  },
-  "footer.supportus.jobs": {
-    "description": "Work for us! -> redirects to /jobs page",
-    "message": "Bizimle çalış!"
-  },
-  "footer.supportus.translate": {
-    "description": "Translate -> redirects to locilazation page",
-    "message": "Çeviri"
-  },
-  "footer.usercount.button": {
-    "description": "Install button under the promotional message",
-    "message": "Yükle"
-  },
-  "footer.usercount.heading": {
-    "description": "Promotional heading",
-    "message": "PreMiD'i denemeye hazır mısın?"
-  },
-  "footer.usercount.message": {
-    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
-    "message": "Diğer {0} kullanıcının arasına katıl!"
-  }
+	"footer.language": {
+		"message": "Dil",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "PreMiD'i denemeye hazır mısın?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Diğer {0} kullanıcının arasına katıl!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Yükle",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Partnerler",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Bizi Takip Edin",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "Geliştiriciler",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "Dokümantasyon",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Zengin İçerik",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "Destek ol",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "Bağış Yap",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "Katkıda Bulun",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "Çeviri",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Bizimle çalış!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "Yardım",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "Sorun Giderme",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "Yardım Al‮",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "Bilgi",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "Çerezler",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "Gizlilik",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "Şartlar",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "Dahası",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "PreMiD Durumu",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "Viki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{1} kullanıcısından {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "Site {0} tarafından yönetilmektedir",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Ortak & partnerlerin geri kalanını görmek için tıklayın.",
+		"description": "Button next to all listed partners on the footer."
+	}
 }
