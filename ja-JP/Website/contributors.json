@@ -1,38 +1,38 @@
 {
-  "contributors.cards.copyUserId": {
-    "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "クリックでユーザー名をコピー"
-  },
-  "contributors.cards.userIdCopied": {
-    "description": "Notification after user ID was copied.",
-    "message": "コピーした！"
-  },
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "スタッフ"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "サポーター"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "翻訳者"
-  },
-  "contributors.roles.booster": {
-    "description": "'Booster' title for contributors page and user pages.",
-    "message": "Nitroブースター"
-  },
-  "contributors.roles.donator": {
-    "description": "'Donator' title for contributors page.",
-    "message": "寄付者"
-  },
-  "contributors.roles.proofreader": {
-    "description": "'Proofreader' title for contributors and user pages.",
-    "message": "校正者"
-  },
-  "contributors.roles.translator": {
-    "description": "'Translator' title for contributors page.",
-    "message": "翻訳者"
-  }
+	"contributors.headings.staff": {
+		"message": "スタッフ",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "サポーター",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.proofreader": {
+		"message": "校正者",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "翻訳者",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "寄付者",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Nitroブースター",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "翻訳者",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "クリックでユーザー名をコピー",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "コピーした！",
+		"description": "Notification after user ID was copied."
+	}
 }
