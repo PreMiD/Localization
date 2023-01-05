@@ -1,6 +1,6 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Prezerá si"
-  }
+	"discord.browseThrough": {
+		"message": "Prezerá si",
+		"description": "The first part of the next 17 strings"
+	}
 }
