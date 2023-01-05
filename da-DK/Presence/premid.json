@@ -1,26 +1,26 @@
 {
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Bidragere"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Installationer"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Tilstedeværelse Klasse"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Butik"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Fejlfinding"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partnere"
-  }
+	"premid.pageContributors": {
+		"message": "Bidragere",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Installationer",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Butik",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnere",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Fejlfinding",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Tilstedeværelse Klasse",
+		"description": "A page name"
+	}
 }
