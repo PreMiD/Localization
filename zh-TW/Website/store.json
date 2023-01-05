@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "新增 Presence"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "瀏覽有關網站時，這個 Presence 會自動啟用。"
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "移除 Presence"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "作者"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "這個 Presence 需要額外的步驟才能運作，請查看其頁面以獲取更多信息。"
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "合作的Presence"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "這個Presence非常受我們用戶歡迎"
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "全部"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "顯示 NSFW"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "篩選器"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "只顯示已讚好的 Presences"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "按熱門排序"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "遊戲"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "類別"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "音樂"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "其它"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "社交"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "視訊或直播"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "顯示已新增的 Presences"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "搜尋 Presence"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "擴充程式尚未連接"
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "搜尋"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "Enter"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "點選以移除篩選器。"
-  }
+	"store.message.error": {
+		"message": "擴充程式尚未連接",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "作者",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "這個Presence非常受我們用戶歡迎",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "合作的Presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "這個 Presence 需要額外的步驟才能運作，請查看其頁面以獲取更多信息。",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "搜尋 Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "新增 Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "移除 Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "瀏覽有關網站時，這個 Presence 會自動啟用。",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "篩選器",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "按熱門排序",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "顯示 NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "只顯示已讚好的 Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "顯示已新增的 Presences",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "類別",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "全部",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "遊戲",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "音樂",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "社交",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "視訊或直播",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "其它",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "搜尋",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "點選以移除篩選器。",
+		"description": "Remove message for active search filters."
+	}
 }
