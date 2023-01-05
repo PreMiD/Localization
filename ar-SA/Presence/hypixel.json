@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "يشاهد الرسائل المباشرة الخاصة بهم"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "يشاهد اللعبة:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "جاري رؤية قائمة الطاقم"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "يشاهد منتدياتهم المشاهدة"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "يشاهد مواضيعهم المشاهدة"
-  }
+    "hypixel.staff": {
+        "message": "جاري رؤية قائمة الطاقم",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "يشاهد مواضيعهم المشاهدة",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "يشاهد منتدياتهم المشاهدة",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "يشاهد الرسائل المباشرة الخاصة بهم",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "يشاهد اللعبة:",
+        "description": ""
+    }
 }
