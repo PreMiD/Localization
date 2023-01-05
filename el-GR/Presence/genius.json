@@ -1,10 +1,10 @@
 {
-  "genius.viewHome": {
-    "description": "",
-    "message": "Προβάλει την αρχική σελίδα"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Προβολή στίχων"
-  }
+	"genius.viewLyrics": {
+		"message": "Προβολή στίχων",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Προβάλει την αρχική σελίδα",
+		"description": ""
+	}
 }
