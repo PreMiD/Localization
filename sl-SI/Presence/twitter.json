@@ -1,42 +1,42 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Zaznamki"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Razišči"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Obvestila"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Spreminjanje nekaterih nastavitev..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Ogledovanje njegovih DM-jev"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Ogledovanje všečkanje od:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Ogledovanje list-a:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Ogledovanje medijev od:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Ogledovanje tweet-a od:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Ogledovanje tweet-a (z odgovori) od:"
-  }
+	"twitter.viewDms": {
+		"message": "Ogledovanje njegovih DM-jev",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Ogledovanje tweet-a od:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Ogledovanje tweet-a (z odgovori) od:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Ogledovanje medijev od:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Ogledovanje všečkanje od:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Ogledovanje list-a:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Zaznamki",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Obvestila",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Razišči",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Spreminjanje nekaterih nastavitev...",
+		"description": ""
+	}
 }
