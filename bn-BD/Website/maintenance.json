@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "আরে না!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Discord সার্ভার"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "দুর্ভাগ্যবশত আমরা কিছু প্রযুক্তিগত সমস্যা ভোগ করছি। আমরা শীঘ্রই ফিরে আসব। \nঅসুবিধার জন্য দুঃখিত।"
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "পরে ফিরে এসো আরো তথ্যের জন্যে।"
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "যতক্ষণ পর্যন্ত না আমাদের বিশেষ ডেভেলপাররা এটাকে ঠিক করছে, এখানে একবার নির্দ্বিধায় দেখো!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "স্ট্যাটাস পেজ"
-  }
+	"maintenance.big": {
+		"message": "আরে না!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "দুর্ভাগ্যবশত আমরা কিছু প্রযুক্তিগত সমস্যা ভোগ করছি। আমরা শীঘ্রই ফিরে আসব। \nঅসুবিধার জন্য দুঃখিত।",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "পরে ফিরে এসো আরো তথ্যের জন্যে।",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "যতক্ষণ পর্যন্ত না আমাদের বিশেষ ডেভেলপাররা এটাকে ঠিক করছে, এখানে একবার নির্দ্বিধায় দেখো!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "স্ট্যাটাস পেজ",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord সার্ভার",
+		"description": "Discord Server link on maintenance page"
+	}
 }
