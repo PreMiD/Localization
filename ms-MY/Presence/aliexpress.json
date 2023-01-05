@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Melihat alamat miliknya"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Melihat kupon miliknya"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "pesanan yang telah dipadam"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "Maklum Balas AliExpress"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "Pusat Bantuan AliExpress"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Pusat Mesej"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Melihat pesanan miliknya"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "Melihat yang baru-baru ini"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "produknya dilihat"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Pembayaran Semula & Pertikaian"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Melayari jualan"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "Pusat Jualan AliExpress"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Melihat kedai:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "Melihat AliExpress miliknya"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "Pusat Dagangan AliExpress"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Melihat"
-  }
+    "aliexpress.store": {
+        "message": "Melihat kedai:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Pusat Mesej",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Melayari jualan",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Melihat yang baru-baru ini",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "produknya dilihat",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Melihat AliExpress miliknya",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "Maklum Balas AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Melihat pesanan miliknya",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Melihat",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Pembayaran Semula & Pertikaian",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "pesanan yang telah dipadam",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "Pusat Dagangan AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Melihat kupon miliknya",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Melihat alamat miliknya",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Pusat Bantuan AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Pusat Jualan AliExpress",
+        "description": ""
+    }
 }
