@@ -1,34 +1,34 @@
 {
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Σχετικά με PreMiD"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Συνεισφέροντες"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Λήψεις"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Εγκατάσταση"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Τάξη Παρουσίας"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Κατάστημα"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Αντιμετώπιση προβλημάτων"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Συνεργάτες"
-  }
+	"premid.pageContributors": {
+		"message": "Συνεισφέροντες",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Λήψεις",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Κατάστημα",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Συνεργάτες",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Σχετικά με PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Εγκατάσταση",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Αντιμετώπιση προβλημάτων",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Τάξη Παρουσίας",
+		"description": "A page name"
+	}
 }
