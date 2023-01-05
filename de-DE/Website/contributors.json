@@ -1,42 +1,42 @@
 {
-  "contributors.cards.copyUserId": {
-    "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "Klicken, um Benutzer-ID zu kopieren."
-  },
-  "contributors.cards.userIdCopied": {
-    "description": "Notification after user ID was copied.",
-    "message": "Nutzer-ID kopiert!"
-  },
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "Team"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Unterstützer"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "Übersetzer"
-  },
-  "contributors.roles.booster": {
-    "description": "'Booster' title for contributors page and user pages.",
-    "message": "Booster"
-  },
-  "contributors.roles.donator": {
-    "description": "'Donator' title for contributors page.",
-    "message": "Spender*in"
-  },
-  "contributors.roles.localizationManager": {
-    "description": "'Localization Manager' title for contributors and user pages.",
-    "message": "Lokalisierungsmanager"
-  },
-  "contributors.roles.proofreader": {
-    "description": "'Proofreader' title for contributors and user pages.",
-    "message": "Korrekturleser*in"
-  },
-  "contributors.roles.translator": {
-    "description": "'Translator' title for contributors page.",
-    "message": "Übersetzer*in"
-  }
+	"contributors.headings.staff": {
+		"message": "Team",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Unterstützer",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Lokalisierungsmanager",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Korrekturleser*in",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Übersetzer",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Spender*in",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Übersetzer*in",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Klicken, um Benutzer-ID zu kopieren.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Nutzer-ID kopiert!",
+		"description": "Notification after user ID was copied."
+	}
 }
