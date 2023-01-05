@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "กําลังดูที่อยู่"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "กําลังดูคูปอง"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "ลบการสั่งซื้อ"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "ข้อเสนอเเนะ AliExpress"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "AliExpress ศูนย์การช่วยเหลือ"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "ศูนย์ข้อความ"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "กําลังดูคําสั่งซื้อ"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "กําลังดูล่าสุด"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "สินค้าที่เคยดูแล้ว"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "การคืนเงินและข้อพิพาท"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "มองหาของลดราคา"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "AliExpress ศูนย์การขาย"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "กำลังดูสินค้า:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "กําลังดู AliExpress"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "AliExpress ศูนย์การเเลกเปลี่ยน"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "กําลังดูไฟล์"
-  }
+    "aliexpress.store": {
+        "message": "กำลังดูสินค้า:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "ศูนย์ข้อความ",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "มองหาของลดราคา",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "กําลังดูล่าสุด",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "สินค้าที่เคยดูแล้ว",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "กําลังดู AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "ข้อเสนอเเนะ AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "กําลังดูคําสั่งซื้อ",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "กําลังดูไฟล์",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "การคืนเงินและข้อพิพาท",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "ลบการสั่งซื้อ",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress ศูนย์การเเลกเปลี่ยน",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "กําลังดูคูปอง",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "กําลังดูที่อยู่",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress ศูนย์การช่วยเหลือ",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress ศูนย์การขาย",
+        "description": ""
+    }
 }
