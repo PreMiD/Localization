@@ -1,50 +1,50 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "Broncode"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "Wijzigingen"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "Beschrijving"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "Auteur"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "Bijdragers"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "Favorieten"
-  },
-  "presence.sections.information.moreurls": {
-    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
-    "message": "Deze presence werkt op meer URLs dan hieronder aangegeven dankzij het gebruik van RegExp. Wijs aan om het patroon te zien"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "Ondersteunde URL's"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "Tags"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "Informatie"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "Gebruikers"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "Versie"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "Broncode",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Beschrijving",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Wijzigingen",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Informatie",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Auteur",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Versie",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Favorieten",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Gebruikers",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Tags",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "Ondersteunde URL's",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.moreurls": {
+		"message": "Deze presence werkt op meer URLs dan hieronder aangegeven dankzij het gebruik van RegExp. Wijs aan om het patroon te zien",
+		"description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Bijdragers",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
