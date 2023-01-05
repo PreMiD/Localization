@@ -1,10 +1,10 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Brskanje po"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "Ogledovanje njihovih"
-  }
+	"v live.browseThrough": {
+		"message": "Brskanje po",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "Ogledovanje njihovih",
+		"description": "The first part of the next 6 strings"
+	}
 }
