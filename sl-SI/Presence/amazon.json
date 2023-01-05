@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Ogledovanje njegovih naslovov"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Ogledovanje njegovih oglaševalskih nastavitvih"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Ogledovanje njegovega stanja"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "nakupovalni voziček"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Ogledovanje vseh kategorijah"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "darilne kartice"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Ogledovanje njegovih zgodovin"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "podrobnosti naročila"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "zgodovina naročil"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Ogledovanje način plačila"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Ogledovanje njegovih hišnih žival"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Ogledovanje Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Ogledovanje Prime Videja:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Ogledovanje priporočljivo"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Ogledovanje trgovine:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Ogledovanje naročnin"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Ogledovanje njihovih"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "seznam želja"
-  }
+    "amazon.subscriptions": {
+        "message": "Ogledovanje naročnin",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Ogledovanje njegovih oglaševalskih nastavitvih",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Ogledovanje njegovega stanja",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Ogledovanje način plačila",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Ogledovanje njegovih naslovov",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Ogledovanje njegovih hišnih žival",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Ogledovanje vseh kategorijah",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Ogledovanje Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Ogledovanje njihovih",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "zgodovina naročil",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "podrobnosti naročila",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "nakupovalni voziček",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "seznam želja",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "darilne kartice",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Ogledovanje priporočljivo",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ogledovanje njegovih zgodovin",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Ogledovanje trgovine:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Ogledovanje Prime Videja:",
+        "description": ""
+    }
 }
