@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Bekijkt de commandolijst"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "Leest over de cookies van de website"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "Leest informatie over de donatieplannen"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "Bekijkt de server's leiderbord:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Hoofdpagina"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "In dashboard"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Guild: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Server aan het selecteren"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Bekijkt botstatistieken"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "Rangkaart aan het aanpassen"
-  }
+    "juniperbot.mainpage": {
+        "message": "Hoofdpagina",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Bekijkt de server's leiderbord:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "In dashboard",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Guild: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Leest informatie over de donatieplannen",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Server aan het selecteren",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Bekijkt de commandolijst",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Bekijkt botstatistieken",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Rangkaart aan het aanpassen",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Leest over de cookies van de website",
+        "description": "Reading about the site's cookies"
+    }
 }
