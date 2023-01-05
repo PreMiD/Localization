@@ -1,38 +1,38 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "접근성"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "광고 선택"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "다운로드"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "커뮤니티 가이드라인"
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "홈페이지"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "인재 채용"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "파트너"
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "보안"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "터보"
-  }
+	"twitch.downloads": {
+		"message": "다운로드",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "인재 채용",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "터보",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "파트너",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "보안",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "접근성",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "광고 선택",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "커뮤니티 가이드라인",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "홈페이지",
+		"description": "Page name"
+	}
 }
