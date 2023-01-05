@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "Халепа!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Discord сервер"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "На жаль, ми зіткнулися з деякими технічними труднощами. Ми повернемося незабаром. Вибачте за незручності."
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "Будь ласка, поверніться пізніше для отримання додаткової інформації."
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "Поки наші спеціальні розробники не виправлять це, ви можете сміливо заглянути сюди!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "Сторінка стану"
-  }
+	"maintenance.big": {
+		"message": "Халепа!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "На жаль, ми зіткнулися з деякими технічними труднощами. Ми повернемося незабаром. Вибачте за незручності.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Будь ласка, поверніться пізніше для отримання додаткової інформації.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Поки наші спеціальні розробники не виправлять це, ви можете сміливо заглянути сюди!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Сторінка стану",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord сервер",
+		"description": "Discord Server link on maintenance page"
+	}
 }
