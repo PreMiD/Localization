@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Se uită la un board:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Se uită la persoanele urmărite"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Editează pagina home"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Vizualizează un pin"
-  }
+    "pinterest.board": {
+        "message": "Se uită la un board:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Vizualizează un pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Se uită la persoanele urmărite",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Editează pagina home",
+        "description": ""
+    }
 }
