@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Недавно добавлено"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Смотрит через:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "В звонке:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Сохраненные видео"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Читает о пользователе:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Смотрит сообщества пользователя:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Смотрит друзей пользователя:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "кого-нибудь... (Пользователь скрыт)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Смотрит фото пользователя:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Смотрит посты пользователя:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Смотрит магазина пользователя:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Смотрит видео пользователя:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Видеозвонок с:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Смотрит текущей погоды"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Создает сообщение"
-  }
+    "facebook.call": {
+        "message": "В звонке:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Видеозвонок с:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "кого-нибудь... (Пользователь скрыт)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Создает сообщение",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Читает о пользователе:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Смотрит сообщества пользователя:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Смотрит фото пользователя:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Смотрит посты пользователя:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Смотрит магазина пользователя:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Смотрит друзей пользователя:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Смотрит видео пользователя:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Смотрит через:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Сохраненные видео",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Недавно добавлено",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Смотрит текущей погоды",
+        "description": ""
+    }
 }
