@@ -1,14 +1,14 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "O, ne!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Discord Server"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "Stranica Statusa"
-  }
+	"maintenance.big": {
+		"message": "O, ne!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Stranica Statusa",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord Server",
+		"description": "Discord Server link on maintenance page"
+	}
 }
