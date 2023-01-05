@@ -1,10 +1,10 @@
 {
-  "beta.description.1": {
-    "description": "Section description",
-    "message": "**PreMiD Beta** er núna til fyrir alla!"
-  },
-  "beta.title": {
-    "description": "Beta page title",
-    "message": "Viltu nýja eiginleika?"
-  }
+	"beta.title": {
+		"message": "Viltu nýja eiginleika?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** er núna til fyrir alla!",
+		"description": "Section description"
+	}
 }
