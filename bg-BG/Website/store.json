@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "Добавете presence"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "Този presence е автоматично активиран при посещаване на този сайт."
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "Премахнете presence"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "Автор"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "Този presence изисква допълнителни стъпки, моля проверете неговата страница за повече информация."
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "Партниран presence"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "Този presence е много популярен сред потребителите."
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Всичко"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "Покажи NSFW"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "Филтри"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "Само харесани Presence"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "Най-използвани първо"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "Игри"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "Категории"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "Музика"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "Други"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "Социални"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "Видеоклипове и потоци"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "Покажи добавени Presence"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "Търсете presence"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "Разширението не е свързано."
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Търсене"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "Въведи"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "Щракнете, за да премахнете филтъра"
-  }
+	"store.message.error": {
+		"message": "Разширението не е свързано.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "Автор",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Този presence е много популярен сред потребителите.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Партниран presence",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Този presence изисква допълнителни стъпки, моля проверете неговата страница за повече информация.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Търсете presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Добавете presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Премахнете presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Този presence е автоматично активиран при посещаване на този сайт.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Филтри",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Най-използвани първо",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Покажи NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Само харесани Presence",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Покажи добавени Presence",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Категории",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Всичко",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Игри",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Музика",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Социални",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Видеоклипове и потоци",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Други",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Търсене",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Въведи",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Щракнете, за да премахнете филтъра",
+		"description": "Remove message for active search filters."
+	}
 }
