@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "กำลังดูเนื้อเพลงของ:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "กำลังดูอัลบั้ม:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "กำลังดูหน้าหลัก"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ดูเนื้อเพลง"
-  }
+	"genius.lyrics": {
+		"message": "กำลังดูเนื้อเพลงของ:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "ดูเนื้อเพลง",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "กำลังดูหน้าหลัก",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "กำลังดูอัลบั้ม:",
+		"description": "Album of a song"
+	}
 }
