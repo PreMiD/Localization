@@ -1,150 +1,150 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "تحتاج مساعدة؟"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "متجر Presence"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "الكل"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "أنمي"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "ألعاب"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "موسيقى"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "آخر"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "التـواصل"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "فيديوات"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "أوه لا!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "خطأ أثناء تحميل الثناء"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "الوصف"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "عام"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Presences"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "الإعدادات"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "لا يوجد اتصال بالإنترنت!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "يبدو أنه ليس لديك اتصال بالإنترنت! لن يتمكن PreMiD من إظهار presences في الوقت الحالي."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "غير متصل"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "لم يتمكن PreMiD من الاتصال بتطبيقه! هل تم تثبيته وتشغيله؟ *استكشاف الأخطاء وإصلاحها*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "أنت غير متصل بديسكورد!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "لم يتمكن PreMiD من الإتصال بديسكورد! هل هو مثبت و مشتغل؟ *استكشاف الأخطاء وإصلاحها*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "ملحق قديم"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "الملحق الخاص بك قديم. الرجاء تحديثه للحصول على أحدث الميزات عن طريق تحميله من موقعنا."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "تحديث عاجل"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "لقد أصدرنا تحديثاً عاجلاً للملحق. يرجى تحديثه لمواصلة استخدام PreMiD."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "نسخة قديمة للتطبيق"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "تطبيق PreMiD الخاص بك قديم. يرجى تحديثه من أجل متابعة استخدام PreMiD."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "المساهمون"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "الإعدادات"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "تم الإنجاز"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "تحميل Presence"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "إدارة"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "لم تتم إضافة أي Presences"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "تشغيل تلقائي"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "تم تمكين"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "ضوابط وسائل الإعلام"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "شريط عنوان القوائم"
-  }
+	"popup.navigation.settings": {
+		"message": "الإعدادات",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "المساهمون",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "الإعدادات",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "عام",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "الوصف",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "تم تمكين",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "ضوابط وسائل الإعلام",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "شريط عنوان القوائم",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "تشغيل تلقائي",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Presences",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "إدارة",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "لم تتم إضافة أي Presences",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "تم الإنجاز",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "تحميل Presence",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "متجر Presence",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "تحتاج مساعدة؟",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "أوه لا!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "خطأ أثناء تحميل الثناء",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "غير متصل",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "لم يتمكن PreMiD من الاتصال بتطبيقه! هل تم تثبيته وتشغيله؟ *استكشاف الأخطاء وإصلاحها*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "نسخة قديمة للتطبيق",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "تطبيق PreMiD الخاص بك قديم. يرجى تحديثه من أجل متابعة استخدام PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "ملحق قديم",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "الملحق الخاص بك قديم. الرجاء تحديثه للحصول على أحدث الميزات عن طريق تحميله من موقعنا.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "تحديث عاجل",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "لقد أصدرنا تحديثاً عاجلاً للملحق. يرجى تحديثه لمواصلة استخدام PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "لا يوجد اتصال بالإنترنت!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "يبدو أنه ليس لديك اتصال بالإنترنت! لن يتمكن PreMiD من إظهار presences في الوقت الحالي.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "أنت غير متصل بديسكورد!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "لم يتمكن PreMiD من الإتصال بديسكورد! هل هو مثبت و مشتغل؟ *استكشاف الأخطاء وإصلاحها*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "الكل",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "أنمي",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "موسيقى",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "ألعاب",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "التـواصل",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "فيديوات",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "آخر",
+		"description": "Category name shown when you open tags"
+	}
 }
