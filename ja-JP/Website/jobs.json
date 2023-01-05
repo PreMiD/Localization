@@ -1,110 +1,110 @@
 {
-  "jobs.benefit1.description": {
-    "description": "Benefit card description.",
-    "message": "PreMiDを支えてる人たちに出会う。"
-  },
-  "jobs.benefit1.title": {
-    "description": "Benefit card title.",
-    "message": "私たちに会う"
-  },
-  "jobs.benefit2.description": {
-    "description": "Benefit card description.",
-    "message": "開発や、マーケティング活動をのぞき見できる。"
-  },
-  "jobs.benefit2.title": {
-    "description": "Benefit card title.",
-    "message": "のぞき見"
-  },
-  "jobs.benefit3.description": {
-    "description": "Benefit card description.",
-    "message": "Discordの権限と、色鮮やかな役職。"
-  },
-  "jobs.benefit3.title": {
-    "description": "Benefit card title.",
-    "message": "名誉"
-  },
-  "jobs.benefit4.description": {
-    "description": "Benefit card description.",
-    "message": "あなたの貢献で、このプロジェクトを運営することができます。"
-  },
-  "jobs.benefit4.title": {
-    "description": "Benefit card title.",
-    "message": "PreMiDを支援する"
-  },
-  "jobs.benefit5.description": {
-    "description": "Benefit card description.",
-    "message": "ボランティアなので、暇な時にいつでもできます。"
-  },
-  "jobs.benefit5.title": {
-    "description": "Benefit card title.",
-    "message": "ノルマなし"
-  },
-  "jobs.benefit6.description": {
-    "description": "Benefit card description.",
-    "message": "他の人よりも先に新機能をテストする"
-  },
-  "jobs.benefit6.title": {
-    "description": "Benefit card title.",
-    "message": "早期アクセス"
-  },
-  "jobs.benefits.title": {
-    "description": "Text before the benefits cards.",
-    "message": "こんな特典が！"
-  },
-  "jobs.errors.alreadyApplied": {
-    "description": "Notification when you applied already.",
-    "message": "すでに申し込み済みです！"
-  },
-  "jobs.guild.explanation": {
-    "description": "Explanation why users should be in Discord server to perform job application.",
-    "message": "応募するには、Discordサーバーに参加している必要があります。そうでない場合は、採用されても連絡が取れません。"
-  },
-  "jobs.guild.required": {
-    "description": "Title of the modal the user will see if it's not in Discord server.",
-    "message": "Discordに参加する"
-  },
-  "jobs.header.description": {
-    "description": "The second part of the jobs page.",
-    "message": "私達と一緒に働いてみませんか？"
-  },
-  "jobs.header.title": {
-    "description": "First part of the jobs page.",
-    "message": "PreMiDで働く"
-  },
-  "jobs.modal.buttons.cancel": {
-    "description": "Cancel, button in the modal.",
-    "message": "戻る"
-  },
-  "jobs.modal.buttons.join": {
-    "description": "Join Discord button in the modal.",
-    "message": "参加"
-  },
-  "jobs.modal.buttons.next": {
-    "description": "Next button in the modal.",
-    "message": "次へ"
-  },
-  "jobs.modal.error": {
-    "description": "Error when user did not fill all the fields.",
-    "message": "すべての項目を入力してください。"
-  },
-  "jobs.modal.notice": {
-    "description": "Notice for applicants.",
-    "message": "PreMiDは非営利のプロジェクトであり、すべての寄付やPatreonのお金はすべてPreMiDの開発やサーバー維持費に使用されます。\nPreMiDでの求人に応募することで、ボランティアとしての活動を同意することになります。\n給料が支払われることはありません。"
-  },
-  "jobs.modal.step": {
-    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
-    "message": "ステップ {0}/2"
-  },
-  "jobs.modal.title": {
-    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
-    "message": "{0}として応募する"
-  },
-  "jobs.openings.title": {
-    "description": "Text before the available job positions cards.",
-    "message": "採用情報"
-  },
-  "jobs.success.applied": {
-    "description": "Notification when applying.",
-    "message": "応募していただき、ありがとうございます！"
-  }
+	"jobs.modal.title": {
+		"message": "{0}として応募する",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "ステップ {0}/2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "次へ",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "参加",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "戻る",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "すべての項目を入力してください。",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiDは非営利のプロジェクトであり、すべての寄付やPatreonのお金はすべてPreMiDの開発やサーバー維持費に使用されます。\nPreMiDでの求人に応募することで、ボランティアとしての活動を同意することになります。\n給料が支払われることはありません。",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Discordに参加する",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "応募するには、Discordサーバーに参加している必要があります。そうでない場合は、採用されても連絡が取れません。",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "PreMiDで働く",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "私達と一緒に働いてみませんか？",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "採用情報",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "こんな特典が！",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "私たちに会う",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "PreMiDを支えてる人たちに出会う。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "のぞき見",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "開発や、マーケティング活動をのぞき見できる。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "名誉",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Discordの権限と、色鮮やかな役職。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "PreMiDを支援する",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "あなたの貢献で、このプロジェクトを運営することができます。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "ノルマなし",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "ボランティアなので、暇な時にいつでもできます。",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "早期アクセス",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "他の人よりも先に新機能をテストする",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "応募していただき、ありがとうございます！",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "すでに申し込み済みです！",
+		"description": "Notification when you applied already."
+	}
 }
