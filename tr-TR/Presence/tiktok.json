@@ -1,18 +1,18 @@
 {
-  "tiktok.buttonViewTikTok": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "TikTok'da Bul"
-  },
-  "tiktok.following": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Takipçiler{0}Sayfasına Bakıyor"
-  },
-  "tiktok.forYou": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Sizin İçin{0}Sayfasına Bakıyor"
-  },
-  "tiktok.viewing": {
-    "description": "Name of the user will be after the \":\"",
-    "message": "Birinin TikTok'una Bakıyor:"
-  }
+	"tiktok.forYou": {
+		"message": "Sizin İçin{0}Sayfasına Bakıyor",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"tiktok.following": {
+		"message": "Takipçiler{0}Sayfasına Bakıyor",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"tiktok.viewing": {
+		"message": "Birinin TikTok'una Bakıyor:",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "TikTok'da Bul",
+		"description": "Used as the title for the button in Discord."
+	}
 }
