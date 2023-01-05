@@ -1,34 +1,34 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Dokumentacija"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Pagalbininkai"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Siuntiniai"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Pagrindinis puslapis"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Parduotuvė"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Nesklandumų sprendimas"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partneriai"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "Peržiūri puslapį:"
-  }
+	"premid.viewPage": {
+		"message": "Peržiūri puslapį:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumentacija",
+		"description": "as in documents"
+	},
+	"premid.pageHome": {
+		"message": "Pagrindinis puslapis",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Pagalbininkai",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Siuntiniai",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Parduotuvė",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partneriai",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Nesklandumų sprendimas",
+		"description": "A page name"
+	}
 }
