@@ -1,358 +1,358 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Pārlūko..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Klausīties Līdzi"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lasīt rakstu"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Albumu"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Apskatīt Mākslinieku"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Kanālu"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatās Epizodi"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Filmu"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Lapu"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Atskaņošanas Sarakstu"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Apraidi"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Profilu"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Seriālu"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīt Dziesmu"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīties Filmu"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīties Tiešraidi"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Skatīties Videoklipu"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Zvana"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Sadaļa"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Sīkdatņu Politika"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Rediģē:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Epizode"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Forums"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Žanrs"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Zvanā..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Atgadījumu vēsture"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Skatās Atgadījumu"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Valoda"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Klausītāji"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Klausās mūziku"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Tiešraide"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Preces"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Lapa"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Apstādināts"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Atskaņo"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Privātuma politika"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Lasa"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Lasa par:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Lasa rakstu:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Lasa kanālā:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Lasa DMs no:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Lasa ziņas:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Lasa pavedienu:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Atkārto"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Atkārto visas dziesmas"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Meklē"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Meklē:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Kaut ko meklē..."
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Iepirkumu grozs"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Veikals"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Pakalpojuma noteikumi"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Raksta kanālā:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Raksta DM:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Darbības vēsture"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Skatās savu kontu"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Skatās anime:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Skatās kategoriju:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Skatās kanālu:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Skatās epizodi:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Skatās žanru:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Skatās mājas lapu"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Skatās sarakstu ar:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Skatās mangu:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Skatās lietotāju:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Skatās filmu:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Skatās lapu:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Skatās atskaņošanas sarakstu:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Skatās produktu:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Skatās profilu:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Skatās seriālu:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Skatās šovu:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Skatās pavedienu:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Skatās lietotāju:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Skatās:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Gaida tiešraides sākumu"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Gaida tiešraides sākumu"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Gaida videoklipa pirmizrādi"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Gaida videoklipa pirmizrādi"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Skatās:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Skatās tiešraidi"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Skatās filmu"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Skatās seriālu"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Skatās šovu"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Skatās videoklipu"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Vēlmju saraksts:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Raksta"
-  }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Pārlūko...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Sadaļa",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Rediģē:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Epizode",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forums",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Žanrs",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Valoda",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Klausās mūziku",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "Klausītāji",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Tiešraide",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Preces",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Lapa",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Apstādināts",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Atskaņo",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Lasa DMs no:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Lasa par:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Lasa rakstu:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Lasa kanālā:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Lasa ziņas:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Lasa pavedienu:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Lasa",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Meklē:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Kaut ko meklē...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Meklē",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Raksta",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Zvana",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Zvanā...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Iepirkumu grozs",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Veikals",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Raksta DM:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Raksta kanālā:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Skatās anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Skatās kategoriju:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Skatās kanālu:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Skatās epizodi:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Skatās žanru:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Skatās mājas lapu",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Skatās sarakstu ar:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Skatās mangu:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Skatās lietotāju:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Skatās filmu:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Skatās atskaņošanas sarakstu:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Skatās produktu:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Skatās profilu:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Skatās seriālu:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Skatās šovu:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Skatās savu kontu",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Skatās pavedienu:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Skatās lietotāju:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Skatās:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Skatās lapu:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Skatās filmu",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Skatās seriālu",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Skatās šovu",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Skatās videoklipu",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Gaida videoklipa pirmizrādi",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Gaida videoklipa pirmizrādi",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Skatās tiešraidi",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Gaida tiešraides sākumu",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Gaida tiešraides sākumu",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Skatās:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Vēlmju saraksts:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Privātuma politika",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Pakalpojuma noteikumi",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Sīkdatņu Politika",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Atkārto visas dziesmas",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Atkārto",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Skatās Atgadījumu",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Atgadījumu vēsture",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Darbības vēsture",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Skatīt Seriālu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Skatīt Filmu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Skatās Epizodi",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Skatīties Filmu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Skatīties Videoklipu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Skatīties Tiešraidi",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Skatīt Kanālu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Klausīties Līdzi",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Skatīt Lapu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Skatīt Dziesmu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Skatīt Albumu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Skatīt Profilu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Apskatīt Mākslinieku",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Skatīt Atskaņošanas Sarakstu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Skatīt Apraidi",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Lasīt rakstu",
+		"description": "Used as the title for the button in Discord."
+	}
 }
