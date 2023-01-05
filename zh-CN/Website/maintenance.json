@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "哦，不！"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Discord 服务器"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "非常抱歉，我们暂时遇到了一些技术问题，很快就会恢复。给您带来的不便，请谅解。"
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "请稍后再来查看。"
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "在我们的特殊开发人员解决这个问题之前，在这里随便看看吧！"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "状态页面"
-  }
+	"maintenance.big": {
+		"message": "哦，不！",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "非常抱歉，我们暂时遇到了一些技术问题，很快就会恢复。给您带来的不便，请谅解。",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "请稍后再来查看。",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "在我们的特殊开发人员解决这个问题之前，在这里随便看看吧！",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "状态页面",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord 服务器",
+		"description": "Discord Server link on maintenance page"
+	}
 }
