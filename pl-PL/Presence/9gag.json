@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Czyta o 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Przegląda kolekcję:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Przegląda nowe treści"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Przegląda gag'a:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Przegląda to, co jest na topie"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Wyświetla stronę sklepu"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Przegląda tag:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Przegląda aktualne trendy"
-  }
+    "9gag.gag": {
+        "message": "Przegląda gag'a:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Przegląda to, co jest na topie",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Przegląda aktualne trendy",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Przegląda nowe treści",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Przegląda tag:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Czyta o 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Wyświetla stronę sklepu",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Przegląda kolekcję:",
+        "description": ""
+    }
 }
