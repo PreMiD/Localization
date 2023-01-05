@@ -1,34 +1,34 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "אנימה"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "גולש..."
-  },
-  "general.episode": {
-    "description": "",
-    "message": "פרק"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "שפה"
-  },
-  "general.live": {
-    "description": "",
-    "message": "שידור חי"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "קורא"
-  },
-  "general.search": {
-    "description": "",
-    "message": "מחפש"
-  },
-  "general.store": {
-    "description": "",
-    "message": "חנות"
-  }
+	"general.anime": {
+		"message": "אנימה",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "גולש...",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "פרק",
+		"description": ""
+	},
+	"general.language": {
+		"message": "שפה",
+		"description": "For choosing a language"
+	},
+	"general.live": {
+		"message": "שידור חי",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "קורא",
+		"description": ""
+	},
+	"general.search": {
+		"message": "מחפש",
+		"description": ""
+	},
+	"general.store": {
+		"message": "חנות",
+		"description": ""
+	}
 }
