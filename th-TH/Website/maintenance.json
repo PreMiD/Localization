@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "โอ้ไม่!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "เซิร์ฟเวอร์ดิสคอร์ด"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "น่าเสียดาย ตอนนี้เรากำลังประสบปัญหาทางเทคนิค เราจะกลับมาในไม่ช้า ขออภัยในความไม่สะดวก"
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "กรุณากลับมาภายหลังเพื่อรับข้อมูลเพิ่มเติม"
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "จนกว่าผู้พัฒนาสุดพิเศษของเราจะแก้ไขสิ่งนี้, อย่าลังเลที่จะดูที่นี่!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "หน้าสถานะ"
-  }
+	"maintenance.big": {
+		"message": "โอ้ไม่!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "น่าเสียดาย ตอนนี้เรากำลังประสบปัญหาทางเทคนิค เราจะกลับมาในไม่ช้า ขออภัยในความไม่สะดวก",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "กรุณากลับมาภายหลังเพื่อรับข้อมูลเพิ่มเติม",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "จนกว่าผู้พัฒนาสุดพิเศษของเราจะแก้ไขสิ่งนี้, อย่าลังเลที่จะดูที่นี่!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "หน้าสถานะ",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "เซิร์ฟเวอร์ดิสคอร์ด",
+		"description": "Discord Server link on maintenance page"
+	}
 }
