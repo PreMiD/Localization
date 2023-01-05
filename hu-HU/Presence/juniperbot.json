@@ -1,14 +1,14 @@
 {
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Kezdőoldal"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "Irányítópulton"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Szerver: {0}"
-  }
+    "juniperbot.mainpage": {
+        "message": "Kezdőoldal",
+        "description": "Home page of the site"
+    },
+    "juniperbot.serverdash": {
+        "message": "Irányítópulton",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Szerver: {0}",
+        "description": "Guild name"
+    }
 }
