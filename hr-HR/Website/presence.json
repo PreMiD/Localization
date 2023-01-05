@@ -1,46 +1,46 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "Izvorni kod"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "Dnevnik promjena"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "Opis"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "Autor"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "Prinosnici"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "Sviđa mi se"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "Podržani URL-ovi"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "Oznake"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "Informacije"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "Korisnici"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "Verzija"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "Izvorni kod",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Opis",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Dnevnik promjena",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Informacije",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Autor",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Verzija",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Sviđa mi se",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Korisnici",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Oznake",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "Podržani URL-ovi",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Prinosnici",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
