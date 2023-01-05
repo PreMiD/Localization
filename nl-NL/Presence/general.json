@@ -7,81 +7,69 @@
     "description": "",
     "message": "Bladeren..."
   },
-  "general.buttonBrowse": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Blader"
-  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Meeluisteren"
   },
   "general.buttonReadArticle": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Artikel Lezen"
+    "message": "Artikel lezen"
   },
   "general.buttonViewAlbum": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Album Bekijken"
-  },
-  "general.buttonViewArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Artikel Bekijken"
+    "message": "Album bekijken"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Artiest Bekijken"
+    "message": "Artiest bekijken"
   },
   "general.buttonViewChannel": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Kanaal Bekijken"
+    "message": "Kanaal bekijken"
   },
   "general.buttonViewEpisode": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Aflevering Bekijken"
+    "message": "Aflevering bekijken"
   },
   "general.buttonViewMovie": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Film Bekijken"
+    "message": "Film weergeven"
   },
   "general.buttonViewPage": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Pagina Bekijken"
+    "message": "Pagina bekijken"
   },
   "general.buttonViewPlaylist": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Afspeellijst Bekijken"
+    "message": "Afspeellijst bekijken"
   },
   "general.buttonViewPodcast": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Podcast Bekijken"
+    "message": "Podcast bekijken"
   },
   "general.buttonViewProfile": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Profiel Bekijken"
+    "message": "Profiel bekijken"
   },
   "general.buttonViewSeries": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Serie Bekijken"
-  },
-  "general.buttonViewShow": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Show Bekijken"
+    "message": "Serie bekijken"
   },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Nummer Bekijken"
+    "message": "Nummer bekijken"
   },
   "general.buttonWatchMovie": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Film Bekijken"
+    "message": "Film bekijken"
   },
   "general.buttonWatchStream": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Stream Bekijken"
+    "message": "Stream bekijken"
   },
   "general.buttonWatchVideo": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Video Bekijken"
+    "message": "Video bekijken"
   },
   "general.calling": {
     "description": "",
