@@ -1,22 +1,22 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Переглядає крізь"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Перегляд своїх друзів..."
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Переглядає колекцію"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Перегляд їх налаштувань..."
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Центр підтримки"
-  }
+	"discord.friends": {
+		"message": "Перегляд своїх друзів...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Перегляд їх налаштувань...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Переглядає крізь",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "Центр підтримки",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Переглядає колекцію",
+		"description": ""
+	}
 }
