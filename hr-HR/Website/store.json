@@ -1,58 +1,58 @@
 {
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "Autor"
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Sve"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "Pokaži NSFW"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "Filteri"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "Najčešće korišteni filteri"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "Igre"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "Kategorije"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "Glazba"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "Ostalo"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "Društvene mreže"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "Video-i i Streamovi"
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Pretraži"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "Unesi"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "Kliknite da biste uklonili filtere"
-  }
+	"store.cards.creator": {
+		"message": "Autor",
+		"description": "Creator of a presence"
+	},
+	"store.category.filters.heading": {
+		"message": "Filteri",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Najčešće korišteni filteri",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Pokaži NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.heading": {
+		"message": "Kategorije",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Sve",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Igre",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Glazba",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Društvene mreže",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Video-i i Streamovi",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Ostalo",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Pretraži",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Unesi",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Kliknite da biste uklonili filtere",
+		"description": "Remove message for active search filters."
+	}
 }
