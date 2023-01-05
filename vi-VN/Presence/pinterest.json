@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Đang xem bảng tin:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Đang xem những theo dõi"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Đang chỉnh trang chủ"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Đang xem ghim"
-  }
+    "pinterest.board": {
+        "message": "Đang xem bảng tin:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Đang xem ghim",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Đang xem những theo dõi",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Đang chỉnh trang chủ",
+        "description": ""
+    }
 }
