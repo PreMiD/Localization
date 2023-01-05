@@ -1,14 +1,14 @@
 {
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "תיעוד"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "משחקים"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "אחר"
-  }
+    "apple.other": {
+        "message": "אחר",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "תיעוד",
+        "description": "Developer documentation"
+    },
+    "apple.devGames": {
+        "message": "משחקים",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
 }
