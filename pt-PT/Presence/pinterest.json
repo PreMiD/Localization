@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "A ver o álbum"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "A ver os seus seguidos"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "A editar a sua página inicial"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "A ver um pin"
-  }
+    "pinterest.board": {
+        "message": "A ver o álbum",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "A ver um pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "A ver os seus seguidos",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "A editar a sua página inicial",
+        "description": ""
+    }
 }
