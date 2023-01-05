@@ -1,94 +1,94 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "ডকুমেন্টেশন"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "PreMiD সম্বন্ধে"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageApiVersion": {
-    "description": "A page name // {0} will be replaced with the version number.",
-    "message": "v{0} API কে বোঝা"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "অবদানকারীগণ"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "ডাউনলোড"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "হোমপেজ"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "iframe বোঝা"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "ইন্সটলেশন"
-  },
-  "premid.pageInstallFor": {
-    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
-    "message": "{0} এর জন্য ইন্সটল"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "metadata.json কে কনফিগার করা"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Presence ক্লাস"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Presence ডেভেলপমেন্ট"
-  },
-  "premid.pagePresenceGuide": {
-    "description": "A page name",
-    "message": "Presence এর বিধি"
-  },
-  "premid.pageSlideshowClass": {
-    "description": "A page name",
-    "message": "স্লাইডশো ক্লাস"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "শুরু করা যাক"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "স্টোর"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "সিস্টেম রিকোয়ারমেন্টগুলো"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "সমস্যা সমাধান"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "TypeScript কে কনফিগার করা"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "পার্টনার"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "পেজ দেখছে:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Presence দেখছে:"
-  }
+	"premid.viewPage": {
+		"message": "পেজ দেখছে:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "ডকুমেন্টেশন",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Presence দেখছে:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "হোমপেজ",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "অবদানকারীগণ",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "ডাউনলোড",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "স্টোর",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "পার্টনার",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "PreMiD সম্বন্ধে",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "সিস্টেম রিকোয়ারমেন্টগুলো",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "ইন্সটলেশন",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "{0} এর জন্য ইন্সটল",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "সমস্যা সমাধান",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "শুরু করা যাক",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "v{0} API কে বোঝা",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Presence ডেভেলপমেন্ট",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Presence এর বিধি",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence ক্লাস",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "স্লাইডশো ক্লাস",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "iframe বোঝা",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "metadata.json কে কনফিগার করা",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "TypeScript কে কনফিগার করা",
+		"description": "A page name"
+	}
 }
