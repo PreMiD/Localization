@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "Åh nej!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Discord Server"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "Tyvärr har vi just nu lite problem. Vi är tillbaka snart. Ursäkta besväret."
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "Kom tillbaka senare för mer information."
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "Tills våra utvecklare fixar detta, kolla här!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "Statussida"
-  }
+	"maintenance.big": {
+		"message": "Åh nej!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Tyvärr har vi just nu lite problem. Vi är tillbaka snart. Ursäkta besväret.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Kom tillbaka senare för mer information.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Tills våra utvecklare fixar detta, kolla här!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Statussida",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord Server",
+		"description": "Discord Server link on maintenance page"
+	}
 }
