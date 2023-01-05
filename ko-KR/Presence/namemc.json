@@ -1,74 +1,74 @@
 {
-  "namemc.buttonViewServer": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "서버 보기"
-  },
-  "namemc.capes": {
-    "description": "",
-    "message": "망토 보는 중"
-  },
-  "namemc.claim": {
-    "description": "",
-    "message": "프로필 등록 방법 보는 중"
-  },
-  "namemc.profileEdit": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "프로필 정보 수정 중"
-  },
-  "namemc.servers": {
-    "description": "",
-    "message": "서버 보는 중"
-  },
-  "namemc.skinsNew": {
-    "description": "Skins is how you appear in the game.",
-    "message": "신규 스킨 보는 중"
-  },
-  "namemc.skinsRandom": {
-    "description": "Skins is how you appear in the game.",
-    "message": "무작위 스킨 보는 중"
-  },
-  "namemc.skinsTag": {
-    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
-    "message": "{0} 태그가 포함된 스킨 보는 중"
-  },
-  "namemc.skinsTagged": {
-    "description": "Skins is how you appear in the game.",
-    "message": "태그가 지정된 스킨 보는 중"
-  },
-  "namemc.skinsTop": {
-    "description": "Skins is how you appear in the game.",
-    "message": "상위 스킨 보는 중"
-  },
-  "namemc.skinsTrending": {
-    "description": "Skins is how you appear in the game.",
-    "message": "인기있는 스킨 보는 중"
-  },
-  "namemc.upcomingNames": {
-    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
-    "message": "다가오는 이름 보는 중"
-  },
-  "namemc.viewCape": {
-    "description": "",
-    "message": "망토 보는 중:"
-  },
-  "namemc.viewEmojis": {
-    "description": "You can have an emoji next to your name, you select it here.",
-    "message": "프로필 이모지 보는 중"
-  },
-  "namemc.viewFriends": {
-    "description": "",
-    "message": "친구 보는 중"
-  },
-  "namemc.viewServer": {
-    "description": "",
-    "message": "서버 보는 중:"
-  },
-  "namemc.viewSkin": {
-    "description": "Skins is how you appear in the game.",
-    "message": "스킨 보는 중"
-  },
-  "namemc.viewSkins": {
-    "description": "",
-    "message": "스킨 보는 중"
-  }
+	"namemc.upcomingNames": {
+		"message": "다가오는 이름 보는 중",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
+	"namemc.skinsTrending": {
+		"message": "인기있는 스킨 보는 중",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTop": {
+		"message": "상위 스킨 보는 중",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsNew": {
+		"message": "신규 스킨 보는 중",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsRandom": {
+		"message": "무작위 스킨 보는 중",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTagged": {
+		"message": "태그가 지정된 스킨 보는 중",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTag": {
+		"message": "{0} 태그가 포함된 스킨 보는 중",
+		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
+	},
+	"namemc.viewSkin": {
+		"message": "스킨 보는 중",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "망토 보는 중",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "망토 보는 중:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "서버 보는 중",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "서버 보는 중:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "서버 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "프로필 등록 방법 보는 중",
+		"description": ""
+	},
+	"namemc.profileEdit": {
+		"message": "프로필 정보 수정 중",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"namemc.viewFriends": {
+		"message": "친구 보는 중",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "스킨 보는 중",
+		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "프로필 이모지 보는 중",
+		"description": "You can have an emoji next to your name, you select it here."
+	}
 }
