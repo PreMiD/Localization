@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Viendo tablero:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Viendo a quién sigue"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Editando su página de inicio"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Viendo un pin"
-  }
+    "pinterest.board": {
+        "message": "Viendo tablero:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Viendo un pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Viendo a quién sigue",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Editando su página de inicio",
+        "description": ""
+    }
 }
