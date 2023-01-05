@@ -1,122 +1,122 @@
 {
-  "gmail.accountSetting": {
-    "description": "Displayed when the user is modifying their account's settings",
-    "message": "กำลังกำหนดการตั้งค่าบัญชีและการนำเข้า"
-  },
-  "gmail.addonsSettings": {
-    "description": "Displayed when the user is modifying their add-ons",
-    "message": "กำลังกำหนดค่าส่วนเสริม"
-  },
-  "gmail.advancedSettings": {
-    "description": "Displayed when the user is modifying their advanced settings",
-    "message": "กำลังกำหนดการตั้งค่าขั้นสูง"
-  },
-  "gmail.categoryForum": {
-    "description": "Displayed when viewing emails in the forums category.",
-    "message": "กำลังดูหมวดหมู่ฟอรัม"
-  },
   "gmail.categoryPrimary": {
-    "description": "Displayed when viewing emails in the primary category.",
-    "message": "กำลังดูหมวดหมู่หลัก"
-  },
-  "gmail.categoryPromotions": {
-    "description": "Displayed when viewing emails in the promotions category.",
-    "message": "กำลังดูหมวดหมู่โปรโมชั่น"
+    "message": "กำลังดูหมวดหมู่หลัก",
+    "description": "Displayed when viewing emails in the primary category."
   },
   "gmail.categorySocial": {
-    "description": "Displayed when viewing emails in the social category.",
-    "message": "กำลังดูหมวดหมู่โซเชียล"
+    "message": "กำลังดูหมวดหมู่โซเชียล",
+    "description": "Displayed when viewing emails in the social category."
   },
   "gmail.categoryUpdates": {
-    "description": "Displayed when viewing emails in the updates category.",
-    "message": "กำลังดูหมวดอัปเดต"
+    "message": "กำลังดูหมวดอัปเดต",
+    "description": "Displayed when viewing emails in the updates category."
   },
-  "gmail.chatSettings": {
-    "description": "Displayed when the user is modifying their chat settings",
-    "message": "กำลังกำหนดการตั้งค่า Chat และ Meet"
+  "gmail.categoryPromotions": {
+    "message": "กำลังดูหมวดหมู่โปรโมชั่น",
+    "description": "Displayed when viewing emails in the promotions category."
   },
-  "gmail.composingEmail": {
-    "description": "Displayed when the user is composing an email",
-    "message": "กำลังเขียนอีเมล"
-  },
-  "gmail.filterSettings": {
-    "description": "Displayed when the user is modifying their filters and blocked addresses",
-    "message": "กำลังกำหนดค่าตัวกรองและที่อยู่ที่ถูกบล็อก"
-  },
-  "gmail.fwdAndPOPSettings": {
-    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
-    "message": "กำลังกำหนดการตั้งค่าการส่งต่อและ POP/IMAP"
-  },
-  "gmail.generalSettings": {
-    "description": "Displayed when the user is modifying their settings",
-    "message": "กำลังกำหนดการตั้งค่าทั่วไป"
+  "gmail.categoryForum": {
+    "message": "กำลังดูหมวดหมู่ฟอรัม",
+    "description": "Displayed when viewing emails in the forums category."
   },
   "gmail.inLabel": {
-    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
-    "message": "กำลังดูป้ายกำกับ"
+    "message": "กำลังดูป้ายกำกับ",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
   },
-  "gmail.inboxSettings": {
-    "description": "Displayed when the user is modifying their inbox settings",
-    "message": "กำลังกำหนดการตั้งค่ากล่องขาเข้า"
+  "gmail.generalSettings": {
+    "message": "กำลังกำหนดการตั้งค่าทั่วไป",
+    "description": "Displayed when the user is modifying their settings"
   },
   "gmail.labelSettings": {
-    "description": "Displayed when the user is modifying their labels",
-    "message": "กำลังกำหนดการตั้งค่าป้ายกํากับ"
+    "message": "กำลังกำหนดการตั้งค่าป้ายกํากับ",
+    "description": "Displayed when the user is modifying their labels"
   },
-  "gmail.lookingForEmail": {
-    "description": "Displayed when the user is searching for an email",
-    "message": "กำลังมองหาอีเมล"
+  "gmail.inboxSettings": {
+    "message": "กำลังกำหนดการตั้งค่ากล่องขาเข้า",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "กำลังกำหนดการตั้งค่าบัญชีและการนำเข้า",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "กำลังกำหนดค่าตัวกรองและที่อยู่ที่ถูกบล็อก",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "กำลังกำหนดการตั้งค่าการส่งต่อและ POP/IMAP",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "กำลังกำหนดค่าส่วนเสริม",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "กำลังกำหนดการตั้งค่า Chat และ Meet",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "กำลังกำหนดการตั้งค่าขั้นสูง",
+    "description": "Displayed when the user is modifying their advanced settings"
   },
   "gmail.offlineSettings": {
-    "description": "Displayed when the user is modifying their offline settings",
-    "message": "กำลังกำหนดการตั้งค่าออฟไลน์"
+    "message": "กำลังกำหนดการตั้งค่าออฟไลน์",
+    "description": "Displayed when the user is modifying their offline settings"
   },
   "gmail.themesSettings": {
-    "description": "Displayed when the user is modifying their theme in the settings",
-    "message": "กำลังเลือกธีม"
+    "message": "กำลังเลือกธีม",
+    "description": "Displayed when the user is modifying their theme in the settings"
   },
-  "gmail.viewingAllEmails": {
-    "description": "Displayed when the user is viewing all their emails",
-    "message": "กำลังดูอีเมลทั้งหมด"
-  },
-  "gmail.viewingChats": {
-    "description": "Displayed when the user is viewing their chats",
-    "message": "กำลังดูแชททั้งหมด"
-  },
-  "gmail.viewingDrafts": {
-    "description": "Displayed when the user is viewing their drafts",
-    "message": "กำลังดูร่างจดหมายทั้งหมด"
+  "gmail.lookingForEmail": {
+    "message": "กำลังมองหาอีเมล",
+    "description": "Displayed when the user is searching for an email"
   },
   "gmail.viewingEmail": {
-    "description": "Displayed when the user is viewing an email",
-    "message": "กำลังดูอีเมล"
-  },
-  "gmail.viewingImportantEmails": {
-    "description": "Displayed when the user is viewing emails marked as important",
-    "message": "กำลังดูอีเมลสำคัญทั้งหมด"
-  },
-  "gmail.viewingScheduled": {
-    "description": "Displayed when the user is viewing their scheduled emails",
-    "message": "กำลังดูอีเมลที่กำหนดเวลาส่งทั้งหมด"
-  },
-  "gmail.viewingSentEmails": {
-    "description": "Displayed when the user is viewing the emails they have sent",
-    "message": "กำลังดูอีเมลที่ส่งทั้งหมด"
-  },
-  "gmail.viewingSnoozedEmails": {
-    "description": "Displayed when the user is viewing their snoozed emails",
-    "message": "กำลังดูอีเมลที่เลื่อนการแจ้งเตือนทั้งหมด"
-  },
-  "gmail.viewingSpam": {
-    "description": "Displayed when the user is viewing their spam",
-    "message": "กำลังดูอีเมลขยะทั้งหมด"
+    "message": "กำลังดูอีเมล",
+    "description": "Displayed when the user is viewing an email"
   },
   "gmail.viewingStarredEmails": {
-    "description": "Displayed when the user is viewing emails marked with a star",
-    "message": "กำลังดูอีเมลที่ติดดาวทั้งหมด"
+    "message": "กำลังดูอีเมลที่ติดดาวทั้งหมด",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "กำลังดูอีเมลที่ส่งทั้งหมด",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "กำลังดูอีเมลที่เลื่อนการแจ้งเตือนทั้งหมด",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "กำลังดูร่างจดหมายทั้งหมด",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "กำลังดูอีเมลสำคัญทั้งหมด",
+    "description": "Displayed when the user is viewing emails marked as important"
   },
   "gmail.viewingTrash": {
-    "description": "Displayed when the user is viewing their trash",
-    "message": "กำลังดูถังขยะ"
+    "message": "กำลังดูถังขยะ",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "กำลังดูแชททั้งหมด",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "กำลังดูอีเมลที่กำหนดเวลาส่งทั้งหมด",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "กำลังดูอีเมลขยะทั้งหมด",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "กำลังดูอีเมลทั้งหมด",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "กำลังเขียนอีเมล",
+    "description": "Displayed when the user is composing an email"
   }
 }
