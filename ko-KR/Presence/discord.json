@@ -1,158 +1,158 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Discord Blog"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "상표 페이지"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "살펴보는 중:"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "초대 링크 보기"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "채널 읽는 중:{0}{1} (서버: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "채널에서 입력 중:{0}{1} (서버: {2})"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "소개 페이지"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "앱을 통해 살펴보는 중"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "앱 편집 중: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "문서 읽는 중"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "서버를 통해 살펴보는 중"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "서버의 인사이트 보는 중: {0}"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "팀을 통해 살펴보는 중"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "팀 편집 중: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "그룹 DM 읽는 중:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "그룹 DM에서 입력 중:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "DM 읽는 중:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "DM에서 입력 중:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "다운로드 페이지"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "친구 목록 보는 중..."
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "초대 링크 보는 중:{0}{1} (서버: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "서버 초대 링크 보는 중:{0}{1}"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "채용 페이지"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discord Merch"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "컬렉션 보는 중:"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "뉴스 페이지"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "Nitro에 관해 읽는 중..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "오픈소스 페이지"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "파트너 페이지"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Rich Presence 페이지"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "안전 센터"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "서버 설정 보는 중:{0}{1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "설정을 보는 중..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Discord 상태"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "StreamKit 페이지"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "고객 지원 센터"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "인증 프로그램 페이지"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "음성 채널에 연결됨:{0}{1} (서버: {2})"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "음성 채널에 연결 중:{0}{1}"
-  }
+	"discord.channelReading": {
+		"message": "채널 읽는 중:{0}{1} (서버: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "채널에서 입력 중:{0}{1} (서버: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "DM 읽는 중:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "DM에서 입력 중:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "그룹 DM 읽는 중:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "그룹 DM에서 입력 중:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "친구 목록 보는 중...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Nitro에 관해 읽는 중...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "음성 채널에 연결 중:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "음성 채널에 연결됨:{0}{1} (서버: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "설정을 보는 중...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "서버 설정 보는 중:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "초대 링크 보는 중:{0}{1} (서버: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "서버 초대 링크 보는 중:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "초대 링크 보기",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "살펴보는 중:",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "다운로드 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "안전 센터",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "채용 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "소개 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "상표 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "뉴스 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "파트너 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "인증 프로그램 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "StreamKit 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "오픈소스 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "Rich Presence 페이지",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.appsBrowse": {
+		"message": "앱을 통해 살펴보는 중",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "앱 편집 중: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "팀을 통해 살펴보는 중",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "팀 편집 중: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "서버를 통해 살펴보는 중",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "서버의 인사이트 보는 중: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "문서 읽는 중",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discord 상태",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "고객 지원 센터",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord Blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "컬렉션 보는 중:",
+		"description": ""
+	}
 }
