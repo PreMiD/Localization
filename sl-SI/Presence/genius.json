@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "Ogledovanje besedila od:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Ogledovanje Albuma:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Ogledovanje domače strani"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Prikaz Besedila"
-  }
+	"genius.lyrics": {
+		"message": "Ogledovanje besedila od:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Prikaz Besedila",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Ogledovanje domače strani",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Ogledovanje Albuma:",
+		"description": "Album of a song"
+	}
 }
