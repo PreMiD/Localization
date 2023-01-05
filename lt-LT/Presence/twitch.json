@@ -1,58 +1,58 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Prieinamumas"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "Kūrėjų stovykla"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Siuntiniai"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Peržiūri Esportą..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Pagrindinis puslapis"
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "Moderuoja tiesioginį srautą:"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partneriai"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "Peržiūri būrį..."
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Peržiūri savo prenumeratas..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Peržiūri žmones kuriuos aš seku..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Peržiūri savo draugus..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Peržiūri savo nustatymus..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Peržiūri komandą:"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Peržiūri piniginę..."
-  }
+	"twitch.downloads": {
+		"message": "Siuntiniai",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partneriai",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Prieinamumas",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Pagrindinis puslapis",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Peržiūri piniginę...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Peržiūri Esportą...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Peržiūri žmones kuriuos aš seku...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Peržiūri komandą:",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Peržiūri savo nustatymus...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Peržiūri savo draugus...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Peržiūri savo prenumeratas...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Peržiūri būrį...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Moderuoja tiesioginį srautą:",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Kūrėjų stovykla",
+		"description": ""
+	}
 }
