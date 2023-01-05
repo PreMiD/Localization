@@ -1,26 +1,26 @@
 {
-  "9gag.collection": {
-    "description": "",
-    "message": "Vendo a coleção:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Vendo as tendências"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Vendo o que está na moda"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Vendo a loja"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Vendo tag:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Vendo as tendências"
-  }
+    "9gag.hot": {
+        "message": "Vendo o que está na moda",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Vendo as tendências",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Vendo as tendências",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Vendo tag:",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Vendo a loja",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Vendo a coleção:",
+        "description": ""
+    }
 }
