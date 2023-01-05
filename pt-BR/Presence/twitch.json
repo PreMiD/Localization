@@ -1,158 +1,158 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Acessibilidade"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Conquistas"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Atividade da comunidade"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Preferências de anúncios"
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "Blogs da Twitch"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "Lendo sobre a Twitch..."
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Música na Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Seja recompensado"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Configurações do canal"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Clipes"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "Painel de controle do criador"
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "Desenvolvedores da Twitch"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "Produtos para desenvolvedores da Twitch"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "Histórias de sucesso da comunidade"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "Recursos úteis"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Downloads"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Configurações de drops"
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "Vendo as extensões"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Lista de seguidores"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "Diretrizes da comunidade"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "Central de ajuda"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "Vendo o tópico:"
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Página inicial"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Empregos"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Configurações da moderação"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Parceiros"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "Central de imprensa"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "No editor de vídeo..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Resgatando um código..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Segurança"
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Resumo da stream"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Vendo suas inscrições..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "Vendo as ferramentas de streaming"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Turbo"
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Vendo as pessoas que sigo..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Vendo seus amigos..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Vendo suas configurações..."
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Vendo"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Vendo a carteira..."
-  }
+	"twitch.downloads": {
+		"message": "Downloads",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Empregos",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Turbo",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Parceiros",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Central de imprensa",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Segurança",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Acessibilidade",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Preferências de anúncios",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Diretrizes da comunidade",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Página inicial",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Vendo a carteira...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Vendo as pessoas que sigo...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Vendo suas configurações...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Vendo seus amigos...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Vendo suas inscrições...",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Resgatando um código...",
+		"description": ""
+	},
+	"twitch.campReward": {
+		"message": "Seja recompensado",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Música na Twitch",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Painel de controle do criador",
+		"description": "Page name"
+	},
+	"twitch.produce": {
+		"message": "No editor de vídeo...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Vendo",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.streamSum": {
+		"message": "Resumo da stream",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Conquistas",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Atividade da comunidade",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Lista de seguidores",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Clipes",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Configurações do canal",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Configurações da moderação",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Configurações de drops",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Vendo as ferramentas de streaming",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Vendo as extensões",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Lendo sobre a Twitch...",
+		"description": ""
+	},
+	"twitch.blogs": {
+		"message": "Blogs da Twitch",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Central de ajuda",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Vendo o tópico:",
+		"description": ""
+	},
+	"twitch.dev": {
+		"message": "Desenvolvedores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Produtos para desenvolvedores da Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Histórias de sucesso da comunidade",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Recursos úteis",
+		"description": "Page name"
+	}
 }
