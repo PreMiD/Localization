@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Son eklenen"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Göz atıyor:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Şu kişi ile aramada:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Kaydedilen videolar"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Kullanıcı hakkında okuyor:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Kullanıcı topluluğuna bakıyor:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Kullanıcının arkadaşlarına göz atıyor:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "herhangi biri... (Kullanıcı gizlendi)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Kullanıcının fotoğraflarına göz atıyor:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Kullanıcının gönderilerine göz atıyor:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Kullanıcının mağazasına göz atıyor:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Kullanıcının videolarına bakıyor:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "İle görüntülü aramada:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Bugünün hava durumuna bakıyor"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Mesaj oluşturuyor"
-  }
+    "facebook.call": {
+        "message": "Şu kişi ile aramada:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "İle görüntülü aramada:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "herhangi biri... (Kullanıcı gizlendi)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Mesaj oluşturuyor",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Kullanıcı hakkında okuyor:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Kullanıcı topluluğuna bakıyor:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Kullanıcının fotoğraflarına göz atıyor:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Kullanıcının gönderilerine göz atıyor:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Kullanıcının mağazasına göz atıyor:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Kullanıcının arkadaşlarına göz atıyor:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Kullanıcının videolarına bakıyor:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Göz atıyor:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Kaydedilen videolar",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Son eklenen",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Bugünün hava durumuna bakıyor",
+        "description": ""
+    }
 }
