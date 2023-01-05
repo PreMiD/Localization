@@ -1,242 +1,242 @@
 {
-  "partners.apply.button": {
-    "description": "Button to apply for partner.",
-    "message": "Søk nå!"
-  },
-  "partners.apply.disclaimer": {
-    "description": "Disclaimer located above the apply button.",
-    "message": "La oss dra til himmelen sammen!"
-  },
-  "partners.apply.error1": {
-    "description": "Error when a field isn't filled.",
-    "message": "Vennligst fyll ut alle feltene."
-  },
-  "partners.apply.error2": {
-    "description": "Error when description exceeds character limit.",
-    "message": "Beskrivelsen kan bare være maksimalt 150 tegn."
-  },
-  "partners.apply.error3": {
-    "description": "Error when image link is entered wrong.",
-    "message": "Vennligst legg til en lenke (må starte med https:// og slutte med .png)"
-  },
-  "partners.apply.error4": {
-    "description": "Error when already applied.",
-    "message": "Du har allerede søkt om å bli en partner."
-  },
-  "partners.apply.form.button.apply": {
-    "description": "Modal apply button.",
-    "message": "Søk"
-  },
-  "partners.apply.form.button.close": {
-    "description": "Modal close button.",
-    "message": "Lukk"
-  },
-  "partners.apply.form.description": {
-    "description": "Description field.",
-    "message": "Beskrivelse (maksimum 150 tegn)"
-  },
-  "partners.apply.form.description.placeholder": {
-    "description": "Description field's placeholder.",
-    "message": "Beskrivelse for utvalgte"
-  },
-  "partners.apply.form.imageLink": {
-    "description": "Do not change the sizes.",
-    "message": "Bildelenke: (550x300, kun PNG)"
-  },
-  "partners.apply.form.imageLink.placeholder": {
-    "description": "Image link field's placeholder. Do not change the image URL.",
-    "message": "Eks.: https://i.imgur.com/clun1ID.png"
-  },
-  "partners.apply.form.link": {
-    "description": "Link field.",
-    "message": "Lenke"
-  },
-  "partners.apply.form.link.placeholder": {
-    "description": "Link filed's placeholder.",
-    "message": "Eks.: https://premid.app"
-  },
-  "partners.apply.form.name": {
-    "description": "Name filed.",
-    "message": "Navn"
-  },
-  "partners.apply.form.name.placeholder": {
-    "description": "Name field's placeholder.",
-    "message": "Eks.: PreMiD"
-  },
-  "partners.apply.jobs": {
-    "description": "Hint located under the button.",
-    "message": "Hvis du er mer interessert i en direkte jobb hos PreMiD, se på våre **jobbannonser**."
-  },
-  "partners.apply.loggedUser": {
-    "description": "{0} will be replaced with user account.",
-    "message": "Logget inn som {0}"
-  },
-  "partners.apply.notYou": {
-    "description": "Account switcher on the modal, just like Discord's!",
-    "message": "Ikke deg?"
-  },
-  "partners.apply.select.default": {
-    "description": "Select default placeholder.",
-    "message": "Vennligst velg en"
-  },
-  "partners.apply.select.other": {
-    "description": "Select 'Other' category.",
-    "message": "Andre"
-  },
-  "partners.apply.select.website": {
-    "description": "Select 'Website' category.",
-    "message": "Nettside"
-  },
-  "partners.apply.success": {
-    "description": "Success message when applying.",
-    "message": "Takk for din søknad!"
-  },
-  "partners.apply.title": {
-    "description": "Partnership application modal title.",
-    "message": "Søk om partnerskap"
-  },
-  "partners.header.description": {
-    "description": "Description for page.",
-    "message": "Bli med i familien og få noen partne fordeler som viser hvor mye swag du har."
-  },
-  "partners.header.title": {
-    "description": "Heading for page.",
-    "message": "Partnere"
-  },
-  "partners.partner.aniFlix": {
-    "description": "Description for AniFlix.",
-    "message": "Det er sånn du ser Anime."
-  },
-  "partners.partner.arenaOfKings": {
-    "description": "Description for Arena of Kings.",
-    "message": "Arena of Kings er en next-generasjon fort-kjørende PvP Arena spill som du spiller i din nettleser."
-  },
-  "partners.partner.bitRock": {
-    "description": "Description for BitRock.",
-    "message": "Et kraftig og brukervennlig verktøy for å lage installasjonsprogrammer for flere plattformer."
-  },
-  "partners.partner.crowdin": {
-    "description": "Description for Crowdin.",
-    "message": "Smidig lokalisering for teknologiselskap."
-  },
-  "partners.partner.discordTemplates": {
-    "description": "Description for DiscordTemplates.",
-    "message": "Lag ditt eget fellesskap med våre fantastiske maler. Bygg ditt eget kongerike."
-  },
-  "partners.partner.erisly": {
-    "description": "Description for Erisly.",
-    "message": "En gudinne som spiller som en morsom Discord-bot!"
-  },
-  "partners.partner.fastly": {
-    "description": "Description for Fastly.",
-    "message": "Bak det beste av nettet."
-  },
-  "partners.partner.onlyhit": {
-    "description": "Description for OnlyHit.",
-    "message": "OnlyHit er din online-musikkradiostasjon laget for å spille av dine beste hitlåter 24/7 og for å la deg oppdage dine fremtidige hitlåter først."
-  },
-  "partners.partner.packageCloud": {
-    "description": "Description for PackageCloud.",
-    "message": "Et forent, utviklervennlig grensesnitt for alle dine artefakter."
-  },
-  "partners.partner.rNetflix": {
-    "description": "Description for r/Netflix.",
-    "message": "r/Netflix er den største Netflix-relaterte Discord-serveren. Diskuter favorittseriene og -filmene dine med likesinnede mennesker."
-  },
-  "partners.partner.reyfm": {
-    "description": "Description for REYFM.",
-    "message": "REYFM lar deg lytte til 15+ musikkanaler helt gratis - nonstop. Med den beste og nyeste musikken, kun for deg!"
-  },
-  "partners.partner.simLiveRadio": {
-    "description": "Description for SimLoveRadio.",
-    "message": "SimLiveRadio er den mest suksessfulle infotainment-radioen for simulasjonsspill i Tyskland, Østerrike og Sveits!"
-  },
-  "partners.partner.statusPage": {
-    "description": "Description for StatusPage.",
-    "message": "Del statusoppdateringer enkelt til dine kunder i sanntid."
-  },
-  "partners.partner.taigaBot": {
-    "description": "Description for taigabot.",
-    "message": "taiga er en Discord-bot som prøver å tilby alle de funksjonene som du kan trenge i én bot!"
-  },
-  "partners.partner.wikijs": {
-    "description": "Description for WikiJS.",
-    "message": "Den kraftigste og mest utvidbare Wiki-programvaren med åpen kildekode."
-  },
-  "partners.requirements.first.description": {
-    "description": "Description for the first requirement.",
-    "message": "Vi holder utkikk for voksende samfunn og spennende ting rundt om internett. TL;DR du burde allerede bruke PreMiD og være klar til å spre det til flere internett brukere. Aksepterende program er ekstrem kvalitet og vil variere fra en kanditat til en annen."
-  },
-  "partners.requirements.first.title": {
-    "description": "Heading for the first requirement.",
-    "message": "Hva ser vi etter?"
-  },
-  "partners.requirements.second.description": {
-    "description": "Description for the second requirement.",
-    "message": "Vi tar for tiden in flere type søkere for vårt partnerprogram. Alle burde ha en sjanse til å bli sett. Twitch streamere burde ihvertfall ha 500 følgere og minst 10 seere. Du må streame minst 1 gang i uken."
-  },
-  "partners.requirements.second.title": {
-    "description": "Heading for the second requirement.",
-    "message": "Vår brannmur"
-  },
-  "partners.requirements.title": {
-    "description": "Heading for the requirements.",
-    "message": "Krav"
-  },
-  "partners.slideshow.description": {
-    "description": "Description for slideshow.",
-    "message": "Disse tilhører oss allerede"
-  },
-  "partners.sponsors.description": {
-    "description": "Description for sponsors.",
-    "message": "PreMiD ville ikke vært mulig uten disse fantastiske personene."
-  },
-  "partners.sponsors.title": {
-    "description": "Heading for sponsors.",
-    "message": "Sponsorer"
-  },
-  "partners.why.benefit1.description": {
-    "description": "Description for the first benefit.",
-    "message": "Vårt lag vil tilby deg en utvidelse til tjenesten du bruker."
-  },
-  "partners.why.benefit1.title": {
-    "description": "Heading for the first benefit.",
-    "message": "Din gratise utvidelse"
-  },
-  "partners.why.benefit2.description": {
-    "description": "Description for the second benefit.",
-    "message": "En spesiell rolle og stor ære vil blir gitt til deg i vår Discord server."
-  },
-  "partners.why.benefit2.title": {
-    "description": "Heading for the second benefit.",
-    "message": "Bli verifisert"
-  },
-  "partners.why.benefit3.description": {
-    "description": "Description for the third benefit.",
-    "message": "Automatisk bruker den utvidelsen når noen besøker nettsiden din."
-  },
-  "partners.why.benefit3.title": {
-    "description": "Heading for the third benefit.",
-    "message": "Meta-tag integrasjon"
-  },
-  "partners.why.benefit4.description": {
-    "description": "Description for the fourth benefit.",
-    "message": "Ett fint sted for deg på vår partner side."
-  },
-  "partners.why.benefit4.title": {
-    "description": "Heading for the fourth benefit.",
-    "message": "Bli udødelig"
-  },
-  "partners.why.benefit5.description": {
-    "description": "Description for the fifth benefit.",
-    "message": "Bli fremhevet på våre sosiale medier."
-  },
-  "partners.why.benefit5.title": {
-    "description": "Heading for the fifth benefit.",
-    "message": "Bli berømt"
-  },
-  "partners.why.title": {
-    "description": "Heading for benefits.",
-    "message": "Hva med å gå til himmelen istedenfor helvete?"
-  }
+	"partners.header.title": {
+		"message": "Partnere",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Bli med i familien og få noen partne fordeler som viser hvor mye swag du har.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Disse tilhører oss allerede",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Hva med å gå til himmelen istedenfor helvete?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Din gratise utvidelse",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Vårt lag vil tilby deg en utvidelse til tjenesten du bruker.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Bli verifisert",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "En spesiell rolle og stor ære vil blir gitt til deg i vår Discord server.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-tag integrasjon",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Automatisk bruker den utvidelsen når noen besøker nettsiden din.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Bli udødelig",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Ett fint sted for deg på vår partner side.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Bli berømt",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Bli fremhevet på våre sosiale medier.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "Krav",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "Hva ser vi etter?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "Vi holder utkikk for voksende samfunn og spennende ting rundt om internett. TL;DR du burde allerede bruke PreMiD og være klar til å spre det til flere internett brukere. Aksepterende program er ekstrem kvalitet og vil variere fra en kanditat til en annen.",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "Vår brannmur",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "Vi tar for tiden in flere type søkere for vårt partnerprogram. Alle burde ha en sjanse til å bli sett. Twitch streamere burde ihvertfall ha 500 følgere og minst 10 seere. Du må streame minst 1 gang i uken.",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "Søk nå!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "La oss dra til himmelen sammen!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "Hvis du er mer interessert i en direkte jobb hos PreMiD, se på våre **jobbannonser**.",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "Sponsorer",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD ville ikke vært mulig uten disse fantastiske personene.",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "Det er sånn du ser Anime.",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings er en next-generasjon fort-kjørende PvP Arena spill som du spiller i din nettleser.",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio er den mest suksessfulle infotainment-radioen for simulasjonsspill i Tyskland, Østerrike og Sveits!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "Lag ditt eget fellesskap med våre fantastiske maler. Bygg ditt eget kongerike.",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga er en Discord-bot som prøver å tilby alle de funksjonene som du kan trenge i én bot!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "Et kraftig og brukervennlig verktøy for å lage installasjonsprogrammer for flere plattformer.",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "Del statusoppdateringer enkelt til dine kunder i sanntid.",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "En gudinne som spiller som en morsom Discord-bot!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM lar deg lytte til 15+ musikkanaler helt gratis - nonstop. Med den beste og nyeste musikken, kun for deg!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "Smidig lokalisering for teknologiselskap.",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "Den kraftigste og mest utvidbare Wiki-programvaren med åpen kildekode.",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "Et forent, utviklervennlig grensesnitt for alle dine artefakter.",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "Bak det beste av nettet.",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit er din online-musikkradiostasjon laget for å spille av dine beste hitlåter 24/7 og for å la deg oppdage dine fremtidige hitlåter først.",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix er den største Netflix-relaterte Discord-serveren. Diskuter favorittseriene og -filmene dine med likesinnede mennesker.",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "Søk om partnerskap",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "Logget inn som {0}",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "Ikke deg?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "Vennligst velg en",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "Nettside",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "Andre",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "Navn",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "Eks.: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "Lenke",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "Eks.: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "Beskrivelse (maksimum 150 tegn)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "Beskrivelse for utvalgte",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "Bildelenke: (550x300, kun PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "Eks.: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "Lukk",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "Søk",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "Takk for din søknad!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "Vennligst fyll ut alle feltene.",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "Beskrivelsen kan bare være maksimalt 150 tegn.",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "Vennligst legg til en lenke (må starte med https:// og slutte med .png)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "Du har allerede søkt om å bli en partner.",
+		"description": "Error when already applied."
+	}
 }
