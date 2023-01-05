@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Neseniai pridėti"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Naršoma per:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Pokalbyje su:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Išsaugoti vaizdo įrašai"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Skaito apie vartotoją:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Peržiūri bendruomenės įrašus vartotojo:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Peržiūri draugus vartotojo:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "kažkas... (Vartotojas paslėptas)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Peržiūri nuotraukas vartotojo:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Peržiūri skelbimus vartotojo:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Peržiūri parduotuvę vartotojo:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Peržiūri vaizdo įrašus vartotojo:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Video pokalbyje su:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Peržiūri šiandienos orų prognozę"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Rašo žinutę"
-  }
+    "facebook.call": {
+        "message": "Pokalbyje su:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Video pokalbyje su:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "kažkas... (Vartotojas paslėptas)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Rašo žinutę",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Skaito apie vartotoją:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Peržiūri bendruomenės įrašus vartotojo:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Peržiūri nuotraukas vartotojo:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Peržiūri skelbimus vartotojo:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Peržiūri parduotuvę vartotojo:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Peržiūri draugus vartotojo:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Peržiūri vaizdo įrašus vartotojo:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Naršoma per:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Išsaugoti vaizdo įrašai",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Neseniai pridėti",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Peržiūri šiandienos orų prognozę",
+        "description": ""
+    }
 }
