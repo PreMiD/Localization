@@ -1,18 +1,18 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "দেখছে কী নতুন এবং{0}জনপ্রিয় নেটফ্লিক্সে"
-  },
-  "netflix.profile": {
-    "description": "",
-    "message": "তার প্রোফাইল ম্যানেজ করছে"
-  },
-  "netflix.referral": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "নিচ্ছে তার{0}রেফারেল লিংক"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "দেখছে তার লিস্ট"
-  }
+	"netflix.viewList": {
+		"message": "দেখছে তার লিস্ট",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "তার প্রোফাইল ম্যানেজ করছে",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "দেখছে কী নতুন এবং{0}জনপ্রিয় নেটফ্লিক্সে",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"netflix.referral": {
+		"message": "নিচ্ছে তার{0}রেফারেল লিংক",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
