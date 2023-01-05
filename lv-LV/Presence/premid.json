@@ -1,18 +1,18 @@
 {
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Ieguldītāji"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Lejupielādes"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Veikals"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partneri"
-  }
+	"premid.pageContributors": {
+		"message": "Ieguldītāji",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Lejupielādes",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Veikals",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partneri",
+		"description": "A page name"
+	}
 }
