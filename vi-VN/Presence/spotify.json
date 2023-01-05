@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "những album mà họ thích"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "những nghệ sĩ mà họ thích"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Những Podcast hay nhất"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Đang duyệt qua"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Đang xem bảng xếp hạng"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Đang khám phá những bài hát mới"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Đang tải Spotify"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Bài hát nổi bật"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Đang duyệt các thể loại"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Đang xem các bài hát mới nhất"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Dành cho bạn\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "playlists của họ"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "những podcast mà họ thích"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "những bài hát họ thích"
-  }
+	"spotify.featured": {
+		"message": "Bài hát nổi bật",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Những Podcast hay nhất",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Đang xem bảng xếp hạng",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Đang duyệt các thể loại",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Đang xem các bài hát mới nhất",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Đang khám phá những bài hát mới",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Đang duyệt qua",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "những podcast mà họ thích",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "những nghệ sĩ mà họ thích",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "những album mà họ thích",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "những bài hát họ thích",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Dành cho bạn\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "playlists của họ",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Đang tải Spotify",
+		"description": ""
+	}
 }
