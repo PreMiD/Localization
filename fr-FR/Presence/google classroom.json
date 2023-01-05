@@ -1,42 +1,42 @@
 {
-  "google classroom.assignment": {
-    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class",
-    "message": "Consule un devoir dans:"
-  },
-  "google classroom.assignmentPrivate": {
-    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Consulte un devoir"
-  },
   "google classroom.calendar": {
-    "description": "Displayed when the user viewing their calendar",
-    "message": "Consulte son calendrier"
-  },
-  "google classroom.class": {
-    "description": "Displayed when a user is viewing a class",
-    "message": "Consulte une classe"
-  },
-  "google classroom.classmembers": {
-    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class",
-    "message": "Consulte les membres de la classe de:"
-  },
-  "google classroom.classmembersPrivate": {
-    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Consulte les membres de la classe"
-  },
-  "google classroom.classwork": {
-    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class",
-    "message": "Consulte le travail de classe de:"
-  },
-  "google classroom.classworkPrivate": {
-    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Consulte le travail de classe"
-  },
-  "google classroom.settings": {
-    "description": "Displayed when a user is viewing their Google Classroom settings",
-    "message": "Configure ses paramètres"
+    "message": "Consulte son calendrier",
+    "description": "Displayed when the user viewing their calendar"
   },
   "google classroom.todo": {
-    "description": "Displayed when the user is viewing their to-do list",
-    "message": "Consulte leur liste de choses à faire"
+    "message": "Consulte leur liste de choses à faire",
+    "description": "Displayed when the user is viewing their to-do list"
+  },
+  "google classroom.assignmentPrivate": {
+    "message": "Consulte un devoir",
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.assignment": {
+    "message": "Consule un devoir dans:",
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"
+  },
+  "google classroom.class": {
+    "message": "Consulte une classe",
+    "description": "Displayed when a user is viewing a class"
+  },
+  "google classroom.classworkPrivate": {
+    "message": "Consulte le travail de classe",
+    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classwork": {
+    "message": "Consulte le travail de classe de:",
+    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class"
+  },
+  "google classroom.classmembersPrivate": {
+    "message": "Consulte les membres de la classe",
+    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classmembers": {
+    "message": "Consulte les membres de la classe de:",
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
+  },
+  "google classroom.settings": {
+    "message": "Configure ses paramètres",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
   }
 }
