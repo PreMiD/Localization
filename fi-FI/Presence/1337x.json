@@ -1,14 +1,14 @@
 {
-  "1337x.animeTorrents": {
-    "description": "",
-    "message": "Katselee Anime Torrenteja"
-  },
-  "1337x.appTorrents": {
-    "description": "",
-    "message": "Katselee sovellus Torrenteja"
-  },
-  "1337x.seriesLibrary": {
-    "description": "",
-    "message": "Tarkastelee elokuva kirjastoa"
-  }
+    "1337x.seriesLibrary": {
+        "message": "Tarkastelee elokuva kirjastoa",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Katselee Anime Torrenteja",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Katselee sovellus Torrenteja",
+        "description": ""
+    }
 }
