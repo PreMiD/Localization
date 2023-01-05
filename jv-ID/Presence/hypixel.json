@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Ndeleng DM"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Ndeleng game:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Ndeleng dhaptar staff"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Ndeleng forum sing wis dideleng"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Ndeleng kiriman sing wis dideleng"
-  }
+    "hypixel.staff": {
+        "message": "Ndeleng dhaptar staff",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Ndeleng kiriman sing wis dideleng",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Ndeleng forum sing wis dideleng",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Ndeleng DM",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Ndeleng game:",
+        "description": ""
+    }
 }
