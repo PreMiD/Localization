@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Peržiūri lentą:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Peržiūri savo sekėjus"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Redaguoja nuosavą pagrindinį puslapį"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Peržiūri smeigtuką"
-  }
+    "pinterest.board": {
+        "message": "Peržiūri lentą:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Peržiūri smeigtuką",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Peržiūri savo sekėjus",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Redaguoja nuosavą pagrindinį puslapį",
+        "description": ""
+    }
 }
