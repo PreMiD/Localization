@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Betrachtet Boards:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Betrachtet seine Follower"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Bearbeitet seine Startseite"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Betrachtet Pin"
-  }
+    "pinterest.board": {
+        "message": "Betrachtet Boards:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Betrachtet Pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Betrachtet seine Follower",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Bearbeitet seine Startseite",
+        "description": ""
+    }
 }
