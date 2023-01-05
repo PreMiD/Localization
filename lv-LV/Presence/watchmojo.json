@@ -1,18 +1,18 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Spēlēt Trivia"
-  },
-  "watchmojo.playingTrivia": {
-    "description": "For privacy mode, \"a\" as in unspecified.",
-    "message": "Spēlē Trivia spēli"
-  },
-  "watchmojo.trivia": {
-    "description": "{0} will be replaced with the name of the Trivia game",
-    "message": "Spēlē Trivia: {0}"
-  },
-  "watchmojo.triviaGame": {
-    "description": "The round and score of the Trivia game the user is playing.",
-    "message": "Raunds {0} no {1} (Rezultāts: {2}/{3})"
-  }
+	"watchmojo.triviaGame": {
+		"message": "Raunds {0} no {1} (Rezultāts: {2}/{3})",
+		"description": "The round and score of the Trivia game the user is playing."
+	},
+	"watchmojo.trivia": {
+		"message": "Spēlē Trivia: {0}",
+		"description": "{0} will be replaced with the name of the Trivia game"
+	},
+	"watchmojo.playingTrivia": {
+		"message": "Spēlē Trivia spēli",
+		"description": "For privacy mode, \"a\" as in unspecified."
+	},
+	"watchmojo.buttonPlayTrivia": {
+		"message": "Spēlēt Trivia",
+		"description": "Used as the title for the button in Discord."
+	}
 }
