@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Ser samling:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Ser på deres følgere"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Redigerer hjemmesiden sin"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Ser på en Pin"
-  }
+    "pinterest.board": {
+        "message": "Ser samling:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Ser på en Pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Ser på deres følgere",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Redigerer hjemmesiden sin",
+        "description": ""
+    }
 }
