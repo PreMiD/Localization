@@ -1,50 +1,50 @@
 {
-  "google docs.browsingDoc": {
-    "description": "Displayed when the user is browsing their Google Documents",
-    "message": "Bladert door documenten"
-  },
-  "google docs.browsingForm": {
-    "description": "Displayed when the user is browsing their Google Forms",
-    "message": "Bladert door formulieren"
-  },
-  "google docs.browsingPresentation": {
-    "description": "Displayed when the user is browsing their Google presentation",
-    "message": "Bladert door presentaties"
-  },
-  "google docs.browsingSheet": {
-    "description": "Displayed when the user is browsing their Google Sheets",
-    "message": "Bladert door spreadsheets"
-  },
-  "google docs.editingDoc": {
-    "description": "Displayed when the user is editing a Google Document",
-    "message": "Bewerkt een document"
-  },
-  "google docs.editingForm": {
-    "description": "Displayed when the user is editing a Google Form",
-    "message": "Bewerkt een formulier"
-  },
-  "google docs.editingPresentation": {
-    "description": "Displayed when the user is editing a Google presentation",
-    "message": "Bewerkt een presentatie"
-  },
-  "google docs.editingSheet": {
-    "description": "Displayed when the user is eiditng a Google Sheet",
-    "message": "Bewerkt een spreadsheet"
-  },
-  "google docs.viewingDoc": {
-    "description": "Displayed when the user is viewing a Google Document",
-    "message": "Bekijkt een document"
-  },
-  "google docs.viewingForm": {
-    "description": "Displayed when the user is viewing a Google Form",
-    "message": "Bekijkt een formulier"
-  },
-  "google docs.viewingPresentation": {
-    "description": "Displayed when the user is viewing a Google presentation",
-    "message": "Bekijkt een presentatie"
-  },
-  "google docs.viewingSheet": {
-    "description": "Displayed when the user is viewing a Google Sheet",
-    "message": "Bekijkt een spreadsheet"
-  }
+	"google docs.editingDoc": {
+		"message": "Bewerkt een document",
+		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.viewingDoc": {
+		"message": "Bekijkt een document",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Bladert door documenten",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.editingForm": {
+		"message": "Bewerkt een formulier",
+		"description": "Displayed when the user is editing a Google Form"
+	},
+	"google docs.viewingForm": {
+		"message": "Bekijkt een formulier",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "Bladert door formulieren",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.editingSheet": {
+		"message": "Bewerkt een spreadsheet",
+		"description": "Displayed when the user is eiditng a Google Sheet"
+	},
+	"google docs.viewingSheet": {
+		"message": "Bekijkt een spreadsheet",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.browsingSheet": {
+		"message": "Bladert door spreadsheets",
+		"description": "Displayed when the user is browsing their Google Sheets"
+	},
+	"google docs.editingPresentation": {
+		"message": "Bewerkt een presentatie",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Bekijkt een presentatie",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Bladert door presentaties",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
 }
