@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "आदेशों की सूची देख रहे हैं"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "साइट की कुकीज़ के बारे में पढ़ना"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "दान योजनाओं के बारे में जानकारी पढ़ना"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "सर्वर का लीडरबोर्ड देखना:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "मुख्य पेज"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "डैशबोर्ड में"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "गिल्ड: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "सर्वर का चयन"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "बॉट के आंकड़ों को देखते हुए"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "रैंक कार्ड को अनुकूलित करना"
-  }
+    "juniperbot.mainpage": {
+        "message": "मुख्य पेज",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "सर्वर का लीडरबोर्ड देखना:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "डैशबोर्ड में",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "गिल्ड: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "दान योजनाओं के बारे में जानकारी पढ़ना",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "सर्वर का चयन",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "आदेशों की सूची देख रहे हैं",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "बॉट के आंकड़ों को देखते हुए",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "रैंक कार्ड को अनुकूलित करना",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "साइट की कुकीज़ के बारे में पढ़ना",
+        "description": "Reading about the site's cookies"
+    }
 }
