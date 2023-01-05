@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "Komut listesine bakıyor"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "Site çerezleri bilgilendirmesini okuyor"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "Bağış planları bilgilendirmesini okuyor"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "Sunucunun liderlerine bakıyor:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "Ana sayfa"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "Kontrol panelinde"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "Sunucu: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "Sunucu seçiyor"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "Botun istatistiklerine bakıyor"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "Rütbe kartını özelleştiriyor"
-  }
+    "juniperbot.mainpage": {
+        "message": "Ana sayfa",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "Sunucunun liderlerine bakıyor:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "Kontrol panelinde",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "Sunucu: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "Bağış planları bilgilendirmesini okuyor",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "Sunucu seçiyor",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "Komut listesine bakıyor",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "Botun istatistiklerine bakıyor",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "Rütbe kartını özelleştiriyor",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "Site çerezleri bilgilendirmesini okuyor",
+        "description": "Reading about the site's cookies"
+    }
 }
