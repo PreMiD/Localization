@@ -1,6 +1,6 @@
 {
   "google classroom.settings": {
-    "description": "Displayed when a user is viewing their Google Classroom settings",
-    "message": "Konfigurerer innstillinger"
+    "message": "Konfigurerer innstillinger",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
   }
 }
