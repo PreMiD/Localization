@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Bord féachana:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Ag féachaint ar a leanas"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Eagarthóireacht ar a leathanach baile"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Ag féachaint ar bhioráin"
-  }
+    "pinterest.board": {
+        "message": "Bord féachana:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Ag féachaint ar bhioráin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Ag féachaint ar a leanas",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Eagarthóireacht ar a leathanach baile",
+        "description": ""
+    }
 }
