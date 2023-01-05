@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "يشاهد عناوينهم"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "يشاهد الإعلانات الخاصة بهم"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "يشاهد رصيدهم"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "عربة التسوق"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "يشاهد جميع التصنيفات"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "بطاقات هدايا"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "يشاهد التاريخ الخاص به"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "تفاصيل الطلب"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "سجل الطلبات"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "يشاهد طرق الدفع"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "يشاهد حيواناتهم الأليفة"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "يشاهد أمازون برايم"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "يشاهد الفيديو البرايم:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "يشاهد الموصى بها"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "يشاهد المتجر:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "يشاهد الاشتراكات"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "يشاهد"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "قائمة الأمنيات"
-  }
+    "amazon.subscriptions": {
+        "message": "يشاهد الاشتراكات",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "يشاهد الإعلانات الخاصة بهم",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "يشاهد رصيدهم",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "يشاهد طرق الدفع",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "يشاهد عناوينهم",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "يشاهد حيواناتهم الأليفة",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "يشاهد جميع التصنيفات",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "يشاهد أمازون برايم",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "يشاهد",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "سجل الطلبات",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "تفاصيل الطلب",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "عربة التسوق",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "قائمة الأمنيات",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "بطاقات هدايا",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "يشاهد الموصى بها",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "يشاهد التاريخ الخاص به",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "يشاهد المتجر:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "يشاهد الفيديو البرايم:",
+        "description": ""
+    }
 }
