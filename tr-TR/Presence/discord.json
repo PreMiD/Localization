@@ -1,186 +1,186 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Discord Blog"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Markalaştırma sayfası"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Göz atıyor"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Davet Bağlantısını Gör"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Bu kanalda okuyor:{0}{1} (Sunucu: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Bu kanalda yazıyor:{0}{1} (Sunucu: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Kolej sayfası"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Hakkında sayfası"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "Uygulamalarına göz atıyor"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "Uygulamayı düzenliyor: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "Dokümantasyonu okuyor"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "Geliştirici Portalı"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "Sunucularına göz atıyor"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "{0} sunucusunun istatistiklerine bakıyor"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "Takımlarına göz atıyor"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "Takımı düzenliyor: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Şu gruptaki mesajları okuyor:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Şu gruba mesaj yazıyor:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Şu kişiden gelen mesajları okuyor:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Şu kişiye mesaj yazıyor:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "İndirmeler sayfası"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Arkadaşlarına bakıyor..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "İlham sayfası"
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "Davet linkine bakıyor:{0}{1} (Sunucu: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "{1} sunucusunun davet{0}bağlantısına bakıyor"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "İşler sayfası"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discord Ürünleri"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Koleksiyona bakıyor:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Moderasyon sayfası"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Haberler sayfası"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "Nitro hakkında okuyor..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Açık Kaynak sayfası"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Partner sayfası"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "İlkeler"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Zengin İçerik sayfası"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Güvenlik Merkezi"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Güvenlik sayfası"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "{1} sunucusunun{0}ayarlarına bakıyor"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Ayarlara bakıyor..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Discord Durumu"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "StreamKit sayfası"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Yardım Merkezi"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Doğrulama sayfası"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "{2} sunucusundaki {1}{0}ses kanalına bağlı"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "Şu kişiler ile sesli sohbette:{0}{1}"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "\"Neden Discord?\" sayfası"
-  }
+	"discord.channelReading": {
+		"message": "Bu kanalda okuyor:{0}{1} (Sunucu: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Bu kanalda yazıyor:{0}{1} (Sunucu: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "Şu kişiden gelen mesajları okuyor:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Şu kişiye mesaj yazıyor:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Şu gruptaki mesajları okuyor:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Şu gruba mesaj yazıyor:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "Arkadaşlarına bakıyor...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Nitro hakkında okuyor...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "Şu kişiler ile sesli sohbette:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "{2} sunucusundaki {1}{0}ses kanalına bağlı",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "Ayarlara bakıyor...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "{1} sunucusunun{0}ayarlarına bakıyor",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "Davet linkine bakıyor:{0}{1} (Sunucu: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "{1} sunucusunun davet{0}bağlantısına bakıyor",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Davet Bağlantısını Gör",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Göz atıyor",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "İndirmeler sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "\"Neden Discord?\" sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "Güvenlik Merkezi",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "İşler sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "Hakkında sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "Markalaştırma sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "İlham sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "Kolej sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "Haberler sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "Partner sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "Doğrulama sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "StreamKit sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "Açık Kaynak sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "Güvenlik sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "Moderasyon sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "Zengin İçerik sayfası",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "İlkeler",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Geliştirici Portalı",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Uygulamalarına göz atıyor",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Uygulamayı düzenliyor: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Takımlarına göz atıyor",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Takımı düzenliyor: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Sunucularına göz atıyor",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "{0} sunucusunun istatistiklerine bakıyor",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Dokümantasyonu okuyor",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discord Durumu",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Yardım Merkezi",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord Blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Ürünleri",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Koleksiyona bakıyor:",
+		"description": ""
+	}
 }
