@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Betrachtet seine Adresse"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Betrachtet seine Gutscheine"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Gelöschte Bestellungen"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "AliExpress-Feedback"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "AliExpress Hilfe-Center"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Nachrichtencenter"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Betrachtet seine Bestellungen"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "Betrachtet seine letzten"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "angesehenen Produkte"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Rückerstattungen & Streitigkeiten"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Durchstöbert den Schlussverkauf"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "AliExpress Verkaufs-Center"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Betrachtet Store:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "Betrachtet sein AliExpress"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "AliExpress Verkaufs-Center"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Betrachtet seine"
-  }
+    "aliexpress.store": {
+        "message": "Betrachtet Store:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Nachrichtencenter",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Durchstöbert den Schlussverkauf",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Betrachtet seine letzten",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "angesehenen Produkte",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Betrachtet sein AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "AliExpress-Feedback",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Betrachtet seine Bestellungen",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Betrachtet seine",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Rückerstattungen & Streitigkeiten",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "Gelöschte Bestellungen",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "AliExpress Verkaufs-Center",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Betrachtet seine Gutscheine",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Betrachtet seine Adresse",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "AliExpress Hilfe-Center",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "AliExpress Verkaufs-Center",
+        "description": ""
+    }
 }
