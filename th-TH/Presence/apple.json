@@ -1,246 +1,246 @@
 {
-  "apple.appStoreCon": {
-    "description": "Connecting to the App Store",
-    "message": "กำลังเชื่อมต่อ..."
-  },
-  "apple.btnViewApp": {
-    "description": "e.g. \"View App\"",
-    "message": "ดูแอป"
-  },
-  "apple.btnViewDeveloper": {
-    "description": "View the developer of an app",
-    "message": "ดูผู้พัฒนา"
-  },
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "ดูอีเว้นท์"
-  },
-  "apple.btnViewOS": {
-    "description": "e.g. \"View iOS 15\"",
-    "message": "ดู {0}"
-  },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "ดูสินค้า"
-  },
-  "apple.btnViewProfile": {
-    "description": "View a forum profile of a user",
-    "message": "ดูโปรไฟล์ของ {0}"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "ดูบริการ"
-  },
-  "apple.btnViewStudio": {
-    "description": "e.g. \"View Apple Watch Studio\"",
-    "message": "ดูสตูดิโอ {0}"
-  },
-  "apple.btnViewTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "ดูแท็ก"
-  },
-  "apple.btnViewThread": {
-    "description": "View a forum thread",
-    "message": "ดูเธรด"
-  },
-  "apple.btnViewWWDC": {
-    "description": "e.g.: \"View WWDC21\"",
-    "message": "ดู {0}"
-  },
-  "apple.chooseLang": {
-    "description": "Choosing the language of the website",
-    "message": "กำลังเลือกภาษา..."
-  },
-  "apple.comparing": {
-    "description": "e.g. \"Comparing: Apple Watch\"",
-    "message": "กำลังเปรียบเทียบ:"
-  },
-  "apple.contact": {
-    "description": "Contact support",
-    "message": "กำลังติดต่อฝ่ายช่วยเหลือ"
-  },
-  "apple.devDistribution": {
-    "description": "Distribute software to the App Store",
-    "message": "จำหน่ายซอฟต์แวร์บน App Store"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "เอกสาร"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "ฟีเจอร์"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "เกม"
-  },
-  "apple.devHIG": {
-    "description": "Guidelines for designing apps for the various Apple operating systems",
-    "message": "แนวทางการออกแบบแอปพลิเคชัน"
-  },
-  "apple.devNew": {
-    "description": "List of updates",
-    "message": "มีอะไรใหม่"
-  },
-  "apple.devNews": {
-    "description": "News and updates (that matter) for developers",
-    "message": "ข่าวสารและอัปเดต"
-  },
-  "apple.devPhonePad": {
-    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
-    "message": "แอพสำหรับ iPhone และ iPad"
-  },
-  "apple.devReleases": {
-    "description": "New iOS, iPadOS etc. releases",
-    "message": "การเผยแพร่"
-  },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "แหล่งข้อมูล"
-  },
-  "apple.devSubmit": {
-    "description": "Submit iOS and iPadOS apps to the App Store",
-    "message": "วิธีส่งแอพเข้า App Store"
-  },
-  "apple.devVidTopic": {
-    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
-    "message": "กำลังสำรวจหัวข้อของวีดีโอ"
-  },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "วีดีโอ"
-  },
-  "apple.forumCreateThread": {
-    "description": "Creating a forum thread",
-    "message": "กำลังสร้างเธรด"
-  },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "การตั้งค่า"
-  },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "กำลังลงทะเบียน"
-  },
-  "apple.forumTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "ป้ายกำกับฟอรัม"
-  },
-  "apple.healthRecords": {
-    "description": "Health records of a person",
-    "message": "บันทึกสุขภาพ"
-  },
-  "apple.healthcare": {
-    "description": "The organized provision of medical care to individuals or a community",
-    "message": "บริการด้านสุขภาพ"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "ปฏิทิน"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "รายชื่อ"
-  },
-  "apple.iCloudKeynoteWait": {
-    "description": "Before the keynote begins, you'll be in the waiting room",
-    "message": "ห้องนั่งรอ"
-  },
-  "apple.iCloudMail": {
-    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "เมล"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "โน็ต"
-  },
-  "apple.iCloudPagesCreate": {
-    "description": "Creating a new Pages document",
-    "message": "กำลังสร้าง..."
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "รูปภาพ"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "เตือนความจำ"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "อื่นๆ"
-  },
-  "apple.overview": {
-    "description": "Overview of e.g. all pages of a category",
-    "message": "ภาพรวม"
-  },
-  "apple.productsPlatform": {
-    "description": "Products/platforms for companies",
-    "message": "ผลิตภัณฑ์และแพลตฟอร์ม"
-  },
-  "apple.purchasingAdvice": {
-    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
-    "message": "คำแนะนำการซื้อ"
-  },
-  "apple.shopAccessories": {
-    "description": "Accessories for Apple products (e.g iPhone case)",
-    "message": "อุปกรณ์เสริมของ Apple"
-  },
-  "apple.shopBag": {
-    "description": "Shopping cart",
-    "message": "ถุงสินค้า"
-  },
-  "apple.shopBagSummary": {
-    "description": "The total price of the items in your bag (shopping cart)",
-    "message": "รวม: {0}"
-  },
-  "apple.shopBands": {
-    "description": "Bands (Bracelets) for the Apple Watch",
-    "message": "สายนาฬิกา Apple"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "รายการโปรด"
-  },
-  "apple.shopGiftCards": {
-    "description": "Gift cards for e.g. the App Store",
-    "message": "บัตรของขวัญ"
-  },
-  "apple.shopPlanVisit": {
-    "description": "Plan your visit to the Apple Store",
-    "message": "วางแผนการวางแผนเยี่ยมชม Apple Store"
-  },
-  "apple.shopRefurbished": {
-    "description": "Used Apple products at a lower price",
-    "message": "การรับรองการปรับปรุงใหม่"
-  },
-  "apple.shopStudio": {
-    "description": "Choose your own design components for a product",
-    "message": "Apple Watch Studio"
-  },
-  "apple.storeFinder": {
-    "description": "Tool used to find the nearest store",
-    "message": "ค้นหา Apple Store"
-  },
-  "apple.supplierResp": {
-    "description": "Information on human rights, health, safety, education, etc. of employees",
-    "message": "ความรับผิดชอบของซัพพลายเออร์"
-  },
-  "apple.support": {
-    "description": "Support for products, services/apps from Apple, etc.",
-    "message": "ฝ่ายสนับสนุนของ Apple"
-  },
-  "apple.supportArticle": {
-    "description": "Support article",
-    "message": "บทความบริการช่วยเหลือของ Apple"
-  },
-  "apple.viewEvent": {
-    "description": "Viewing an event (e.g. September event)",
-    "message": "กำลังดูอีเว้นท์"
-  },
-  "apple.viewService": {
-    "description": "e.g. \"Viewing Service: Fitness+\"",
-    "message": "กำลังดูบริการ:"
-  }
+    "apple.comparing": {
+        "message": "กำลังเปรียบเทียบ:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "กำลังดูบริการ:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "บริการด้านสุขภาพ",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "ผลิตภัณฑ์และแพลตฟอร์ม",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "บันทึกสุขภาพ",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "ภาพรวม",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "คำแนะนำการซื้อ",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "ค้นหา Apple Store",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "กำลังดูอีเว้นท์",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "ความรับผิดชอบของซัพพลายเออร์",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
+    },
+    "apple.contact": {
+        "message": "กำลังติดต่อฝ่ายช่วยเหลือ",
+        "description": "Contact support"
+    },
+    "apple.chooseLang": {
+        "message": "กำลังเลือกภาษา...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "อื่นๆ",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "สายนาฬิกา Apple",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "อุปกรณ์เสริมของ Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopStudio": {
+        "message": "Apple Watch Studio",
+        "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "รายการโปรด",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "บัตรของขวัญ",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "วางแผนการวางแผนเยี่ยมชม Apple Store",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "การรับรองการปรับปรุงใหม่",
+        "description": "Used Apple products at a lower price"
+    },
+    "apple.shopBag": {
+        "message": "ถุงสินค้า",
+        "description": "Shopping cart"
+    },
+    "apple.shopBagSummary": {
+        "message": "รวม: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "ฝ่ายสนับสนุนของ Apple",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "บทความบริการช่วยเหลือของ Apple",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "กำลังเชื่อมต่อ...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "เมล",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "รายชื่อ",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "ปฏิทิน",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "รูปภาพ",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "โน็ต",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "เตือนความจำ",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "กำลังสร้าง...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "ห้องนั่งรอ",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "มีอะไรใหม่",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "วิธีส่งแอพเข้า App Store",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "แอพสำหรับ iPhone และ iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "จำหน่ายซอฟต์แวร์บน App Store",
+        "description": "Distribute software to the App Store"
+    },
+    "apple.devDocs": {
+        "message": "เอกสาร",
+        "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "แนวทางการออกแบบแอปพลิเคชัน",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
+    },
+    "apple.devResources": {
+        "message": "แหล่งข้อมูล",
+        "description": "Apple Design Resources"
+    },
+    "apple.devFeatures": {
+        "message": "ฟีเจอร์",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "เกม",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "ป้ายกำกับฟอรัม",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumPreferences": {
+        "message": "การตั้งค่า",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "กำลังสร้างเธรด",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "กำลังลงทะเบียน",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "วีดีโอ",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devVidTopic": {
+        "message": "กำลังสำรวจหัวข้อของวีดีโอ",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
+    },
+    "apple.devNews": {
+        "message": "ข่าวสารและอัปเดต",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "การเผยแพร่",
+        "description": "New iOS, iPadOS etc. releases"
+    },
+    "apple.btnViewProduct": {
+        "message": "ดูสินค้า",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "ดูบริการ",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "ดูอีเว้นท์",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "ดู {0}",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewStudio": {
+        "message": "ดูสตูดิโอ {0}",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "ดูแอป",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "ดูผู้พัฒนา",
+        "description": "View the developer of an app"
+    },
+    "apple.btnViewWWDC": {
+        "message": "ดู {0}",
+        "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "ดูเธรด",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "ดูแท็ก",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "ดูโปรไฟล์ของ {0}",
+        "description": "View a forum profile of a user"
+    }
 }
