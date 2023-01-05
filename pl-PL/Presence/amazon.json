@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Wyświetla swój adres"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Przegląda swoje preferencje reklamowe"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Przegląda swoje saldo"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "koszyk"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Przegląda wszystkie kategorie"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "karty podarunkowe"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Wyświetla swoją historię"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "szczegóły zamówienia"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "historię zamówień"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Przegląda metody płatności"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Przegląda swoje zwierzęta"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Przeglądanie Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Ogląda film premium:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Przegląda rekomendowane"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Przegląda sklep:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Przegląda swoje subskrypcje"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Przegląda swoją"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "listę życzeń"
-  }
+    "amazon.subscriptions": {
+        "message": "Przegląda swoje subskrypcje",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Przegląda swoje preferencje reklamowe",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Przegląda swoje saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Przegląda metody płatności",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Wyświetla swój adres",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Przegląda swoje zwierzęta",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Przegląda wszystkie kategorie",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Przeglądanie Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Przegląda swoją",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "historię zamówień",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "szczegóły zamówienia",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "koszyk",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "listę życzeń",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "karty podarunkowe",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Przegląda rekomendowane",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Wyświetla swoją historię",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Przegląda sklep:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Ogląda film premium:",
+        "description": ""
+    }
 }
