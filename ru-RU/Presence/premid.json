@@ -1,94 +1,94 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Документация"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "О PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageApiVersion": {
-    "description": "A page name // {0} will be replaced with the version number.",
-    "message": "Понимание v{0} API\n"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Участники"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Загрузки"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Главная страница"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "Понимание iframe"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Установка"
-  },
-  "premid.pageInstallFor": {
-    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
-    "message": "Установка для {0}"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "Настройка metadata.json"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Класс Состояния"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Разработка присутствия"
-  },
-  "premid.pagePresenceGuide": {
-    "description": "A page name",
-    "message": "Руководство по созданию Presence"
-  },
-  "premid.pageSlideshowClass": {
-    "description": "A page name",
-    "message": "Класс слайд-шоу"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Приступая к работе"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Магазин"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Системные требования"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Поиск проблемы"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "Настройка TypeScript"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Партнеры"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "Смотрит страницу:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Просматривает статус:"
-  }
+	"premid.viewPage": {
+		"message": "Смотрит страницу:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Документация",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Просматривает статус:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Главная страница",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Участники",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Загрузки",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Магазин",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Партнеры",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "О PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Системные требования",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Установка",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Установка для {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Поиск проблемы",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Приступая к работе",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "Понимание v{0} API\n",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Разработка присутствия",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Руководство по созданию Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Класс Состояния",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Класс слайд-шоу",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Понимание iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Настройка metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Настройка TypeScript",
+		"description": "A page name"
+	}
 }
