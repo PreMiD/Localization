@@ -1,242 +1,242 @@
 {
-  "partners.apply.button": {
-    "description": "Button to apply for partner.",
-    "message": "অ্যাপ্লাই করো এখনই!"
-  },
-  "partners.apply.disclaimer": {
-    "description": "Disclaimer located above the apply button.",
-    "message": "চলো আমরা একসাথে স্বর্গে যাই!"
-  },
-  "partners.apply.error1": {
-    "description": "Error when a field isn't filled.",
-    "message": "সকল স্থান পূরণ করো।"
-  },
-  "partners.apply.error2": {
-    "description": "Error when description exceeds character limit.",
-    "message": "সর্বোচ্চ 150 অক্ষর হতে হবে।"
-  },
-  "partners.apply.error3": {
-    "description": "Error when image link is entered wrong.",
-    "message": "একটি লিংক অ্যাড করো (শুরু হতে হবে https:// দিয়ে এবং শেষ হবে .png দিয়ে)"
-  },
-  "partners.apply.error4": {
-    "description": "Error when already applied.",
-    "message": "তুমি ইতিমধ্যেই অ্যাপ্লাই করেছ পার্টনারের জন্য।"
-  },
-  "partners.apply.form.button.apply": {
-    "description": "Modal apply button.",
-    "message": "অ্যাপ্লাই"
-  },
-  "partners.apply.form.button.close": {
-    "description": "Modal close button.",
-    "message": "বন্ধ করো"
-  },
-  "partners.apply.form.description": {
-    "description": "Description field.",
-    "message": "ডেসক্রিপশন: (সর্বোচ্চ 150 অক্ষর)"
-  },
-  "partners.apply.form.description.placeholder": {
-    "description": "Description field's placeholder.",
-    "message": "বৈশিষ্ট্যযুক্ত বর্ণনা লেখ"
-  },
-  "partners.apply.form.imageLink": {
-    "description": "Do not change the sizes.",
-    "message": "ছবির লিংক: (550x300, শুধুমাত্র PNG)"
-  },
-  "partners.apply.form.imageLink.placeholder": {
-    "description": "Image link field's placeholder. Do not change the image URL.",
-    "message": "উদাহরণ: https://i.imgur.com/clun1ID.png"
-  },
-  "partners.apply.form.link": {
-    "description": "Link field.",
-    "message": "লিংক"
-  },
-  "partners.apply.form.link.placeholder": {
-    "description": "Link filed's placeholder.",
-    "message": "যেমন: https://premid.app"
-  },
-  "partners.apply.form.name": {
-    "description": "Name filed.",
-    "message": "নাম"
-  },
-  "partners.apply.form.name.placeholder": {
-    "description": "Name field's placeholder.",
-    "message": "উদাহরণ: PreMiD"
-  },
-  "partners.apply.jobs": {
-    "description": "Hint located under the button.",
-    "message": "তুমি যদি বরং আগ্রহী হও PreMiD তে সরাসরি কাজের, তাহলে দেখতে পারো আমাদের **কাজের বিজ্ঞপ্তি**।"
-  },
-  "partners.apply.loggedUser": {
-    "description": "{0} will be replaced with user account.",
-    "message": "{0} হিসেবে লগইন করা হয়েছে"
-  },
-  "partners.apply.notYou": {
-    "description": "Account switcher on the modal, just like Discord's!",
-    "message": "তুমি না?"
-  },
-  "partners.apply.select.default": {
-    "description": "Select default placeholder.",
-    "message": "একটা সিলেক্ট করো"
-  },
-  "partners.apply.select.other": {
-    "description": "Select 'Other' category.",
-    "message": "অন্যান্য"
-  },
-  "partners.apply.select.website": {
-    "description": "Select 'Website' category.",
-    "message": "ওয়েবসাইট"
-  },
-  "partners.apply.success": {
-    "description": "Success message when applying.",
-    "message": "ধন্যবাদ অ্যাপ্লাই করার জন্য!"
-  },
-  "partners.apply.title": {
-    "description": "Partnership application modal title.",
-    "message": "পার্টনারের জন্য অ্যাপ্লাই করো"
-  },
-  "partners.header.description": {
-    "description": "Description for page.",
-    "message": "এই পরিবারের একজন সদস্য হও এবং কিছু পার্টনার বিশিষ্ট সুবিধা নাও।"
-  },
-  "partners.header.title": {
-    "description": "Heading for page.",
-    "message": "পার্টনার"
-  },
-  "partners.partner.aniFlix": {
-    "description": "Description for AniFlix.",
-    "message": "এইভাবে অ্যানিমে দেখতে হয়।"
-  },
-  "partners.partner.arenaOfKings": {
-    "description": "Description for Arena of Kings.",
-    "message": "Arena of Kings হচ্ছে একটি পরবর্তী প্রজন্মের PvP এরিনা গেম যা ব্রাউজারে খেলা হয়।"
-  },
-  "partners.partner.bitRock": {
-    "description": "Description for BitRock.",
-    "message": "সকল প্ল্যাটফর্মের ইন্সটলার তৈরিকারক টুল যা শক্তিশালী এবং সহজে ব্যবহার করা যায়।"
-  },
-  "partners.partner.crowdin": {
-    "description": "Description for Crowdin.",
-    "message": "টেক কোম্পানিগুলোর জন্য দ্রুত স্থানীয়করণ।"
-  },
-  "partners.partner.discordTemplates": {
-    "description": "Description for DiscordTemplates.",
-    "message": "তৈরি করা শুরু করো তোমার নিজস্ব কমিউনিটি আমাদের দারুণ সব টেম্পলেট দিয়ে। তৈরি করো তোমার নিজের রাজ্য।"
-  },
-  "partners.partner.erisly": {
-    "description": "Description for Erisly.",
-    "message": "একজন দেবী যিনি মজার Discord বট এর মতো খেলেন!"
-  },
-  "partners.partner.fastly": {
-    "description": "Description for Fastly.",
-    "message": "ওয়েবের সেরার পিছনে।"
-  },
-  "partners.partner.onlyhit": {
-    "description": "Description for OnlyHit.",
-    "message": "OnlyHit হচ্ছে তোমার অনলাইন মিউজিক রেডিও স্টেশন যা বাজায় সেরা গানগুলো 24/7 এবং আবিষ্কার করায় ভবিষ্যতের গানগুলো প্রথমে।"
-  },
-  "partners.partner.packageCloud": {
-    "description": "Description for PackageCloud.",
-    "message": "একটি সমন্বিত, সহজে ব্যবহার করা যায় এমন একটি ইন্টারফেস তোমার কাজের জন্য।"
-  },
-  "partners.partner.rNetflix": {
-    "description": "Description for r/Netflix.",
-    "message": "r/Netflix হচ্ছে একটি বড় নেটফ্লিক্স সম্পর্কিত Discord সার্ভার। তোমার প্রিয় সিরিজ অথবা ফিল্ম নিয়ে আলোচনা করো এখানকার সমমনস্ক মানুষদের সাথে।"
-  },
-  "partners.partner.reyfm": {
-    "description": "Description for REYFM.",
-    "message": "REYFM শুনতে দেয় তোমাকে 15+ মিউজিক স্ট্রিমগুলো ফ্রিতে - ননস্টপ। সেরা এবং লেটেস্ট গান শুধু তোমার জন্যে!"
-  },
-  "partners.partner.simLiveRadio": {
-    "description": "Description for SimLoveRadio.",
-    "message": "SimLiveRadio হচ্ছে জার্মানি, অস্ট্রিয়া এবং সুইজারল্যান্ডে সিমুলেশন গেমগুলোর জন্য সবচেয়ে সফল বিনোদন এবং খবরের রেডিও!"
-  },
-  "partners.partner.statusPage": {
-    "description": "Description for StatusPage.",
-    "message": "সহজে তোমার ইউজারদের দাও রিয়েল-টাইম স্ট্যাটাস।"
-  },
-  "partners.partner.taigaBot": {
-    "description": "Description for taigabot.",
-    "message": "taiga হচ্ছে একটি Discord বট চেষ্টা করছে সমস্ত ফিচারগুলো একবারে দিতে যা প্রয়োজন হতে পারে!"
-  },
-  "partners.partner.wikijs": {
-    "description": "Description for WikiJS.",
-    "message": "সবচেয়ে শক্তিশালী এবং প্রসারণসাধ্য একটি ওপেন সোর্স উইকি সফটওয়্যার।"
-  },
-  "partners.requirements.first.description": {
-    "description": "Description for the first requirement.",
-    "message": "আমরা ইন্টারনেটে চোখ রাখি বড় হওয়া কমিউনিটি এবং মজার জিনিসগুলোর প্রতি। ছোট কথায় তোমার এখনই PreMiD ব্যবহার করা উচিত এবং তৈরি হওয়া উচিত এটাকে আরো ইন্টারনেট আসক্তদের কাছে ছড়ানো। প্রোগ্রামটিতে গ্রহণযোগ্যতা অত্যন্ত গুণগত এবং এক প্রার্থী থেকে পরবর্তী প্রার্থীর মধ্যে পরিবর্তিত হবে।"
-  },
-  "partners.requirements.first.title": {
-    "description": "Heading for the first requirement.",
-    "message": "আমরা কিসের খোঁজ করছি?"
-  },
-  "partners.requirements.second.description": {
-    "description": "Description for the second requirement.",
-    "message": "আমরা বর্তমানে বিভিন্ন ধরণের কমিউনিটিদের নিচ্ছি আমাদের পার্টনার প্রোগ্রামে। যে কারোরই নজরে আসার সুযোগ থাকা উচিত। Twitch স্ট্রিমারদের কমপক্ষে 500 জন ফলোয়ার এবং কমপক্ষে 10 জন ভিউয়ার থাকতে হবে প্রত্যেক স্ট্রিমে। তোমার অবশ্যই প্রতি সপ্তাহে কমপক্ষে একবার স্ট্রিমিং করা উচিত।"
-  },
-  "partners.requirements.second.title": {
-    "description": "Heading for the second requirement.",
-    "message": "যা থাকা প্রয়োজন"
-  },
-  "partners.requirements.title": {
-    "description": "Heading for the requirements.",
-    "message": "যা প্রয়োজন"
-  },
-  "partners.slideshow.description": {
-    "description": "Description for slideshow.",
-    "message": "এগুলো আমাদেরই"
-  },
-  "partners.sponsors.description": {
-    "description": "Description for sponsors.",
-    "message": "PreMiD সম্ভব হতো না, এইসব অসাধারণ মানুষ ছাড়া।"
-  },
-  "partners.sponsors.title": {
-    "description": "Heading for sponsors.",
-    "message": "স্পন্সর"
-  },
-  "partners.why.benefit1.description": {
-    "description": "Description for the first benefit.",
-    "message": "আমাদের টিম তোমাকে দেবে তোমার সার্ভিসের একটি Presence।"
-  },
-  "partners.why.benefit1.title": {
-    "description": "Heading for the first benefit.",
-    "message": "তোমার ফ্রি Presence"
-  },
-  "partners.why.benefit2.description": {
-    "description": "Description for the second benefit.",
-    "message": "আমাদের Discord সার্ভারে তোমাকে দেওয়া হবে একটি স্পেশাল রোল এবং বড় সম্মান।"
-  },
-  "partners.why.benefit2.title": {
-    "description": "Heading for the second benefit.",
-    "message": "ভেরিফাইড হয়ে যাও"
-  },
-  "partners.why.benefit3.description": {
-    "description": "Description for the third benefit.",
-    "message": "অটোমেটিকভাবে তোমার Presence ব্যবহার করে যখন কেউ তোমার ওয়েবসাইটে যায়।"
-  },
-  "partners.why.benefit3.title": {
-    "description": "Heading for the third benefit.",
-    "message": "মেটা-ট্যাগ ইন্টেগ্রেশন"
-  },
-  "partners.why.benefit4.description": {
-    "description": "Description for the fourth benefit.",
-    "message": "আমাদের পার্টনার পেজে একটি স্থান।"
-  },
-  "partners.why.benefit4.title": {
-    "description": "Heading for the fourth benefit.",
-    "message": "অমর হয়ে যাও"
-  },
-  "partners.why.benefit5.description": {
-    "description": "Description for the fifth benefit.",
-    "message": "আমাদের সোশ্যাল মিডিয়ায় আসো।"
-  },
-  "partners.why.benefit5.title": {
-    "description": "Heading for the fifth benefit.",
-    "message": "বিখ্যাত হও"
-  },
-  "partners.why.title": {
-    "description": "Heading for benefits.",
-    "message": "কেমন হয় স্বর্গে যাওয়া?"
-  }
+	"partners.header.title": {
+		"message": "পার্টনার",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "এই পরিবারের একজন সদস্য হও এবং কিছু পার্টনার বিশিষ্ট সুবিধা নাও।",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "এগুলো আমাদেরই",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "কেমন হয় স্বর্গে যাওয়া?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "তোমার ফ্রি Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "আমাদের টিম তোমাকে দেবে তোমার সার্ভিসের একটি Presence।",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "ভেরিফাইড হয়ে যাও",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "আমাদের Discord সার্ভারে তোমাকে দেওয়া হবে একটি স্পেশাল রোল এবং বড় সম্মান।",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "মেটা-ট্যাগ ইন্টেগ্রেশন",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "অটোমেটিকভাবে তোমার Presence ব্যবহার করে যখন কেউ তোমার ওয়েবসাইটে যায়।",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "অমর হয়ে যাও",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "আমাদের পার্টনার পেজে একটি স্থান।",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "বিখ্যাত হও",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "আমাদের সোশ্যাল মিডিয়ায় আসো।",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.title": {
+		"message": "যা প্রয়োজন",
+		"description": "Heading for the requirements."
+	},
+	"partners.requirements.first.title": {
+		"message": "আমরা কিসের খোঁজ করছি?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.requirements.first.description": {
+		"message": "আমরা ইন্টারনেটে চোখ রাখি বড় হওয়া কমিউনিটি এবং মজার জিনিসগুলোর প্রতি। ছোট কথায় তোমার এখনই PreMiD ব্যবহার করা উচিত এবং তৈরি হওয়া উচিত এটাকে আরো ইন্টারনেট আসক্তদের কাছে ছড়ানো। প্রোগ্রামটিতে গ্রহণযোগ্যতা অত্যন্ত গুণগত এবং এক প্রার্থী থেকে পরবর্তী প্রার্থীর মধ্যে পরিবর্তিত হবে।",
+		"description": "Description for the first requirement."
+	},
+	"partners.requirements.second.title": {
+		"message": "যা থাকা প্রয়োজন",
+		"description": "Heading for the second requirement."
+	},
+	"partners.requirements.second.description": {
+		"message": "আমরা বর্তমানে বিভিন্ন ধরণের কমিউনিটিদের নিচ্ছি আমাদের পার্টনার প্রোগ্রামে। যে কারোরই নজরে আসার সুযোগ থাকা উচিত। Twitch স্ট্রিমারদের কমপক্ষে 500 জন ফলোয়ার এবং কমপক্ষে 10 জন ভিউয়ার থাকতে হবে প্রত্যেক স্ট্রিমে। তোমার অবশ্যই প্রতি সপ্তাহে কমপক্ষে একবার স্ট্রিমিং করা উচিত।",
+		"description": "Description for the second requirement."
+	},
+	"partners.apply.button": {
+		"message": "অ্যাপ্লাই করো এখনই!",
+		"description": "Button to apply for partner."
+	},
+	"partners.apply.disclaimer": {
+		"message": "চলো আমরা একসাথে স্বর্গে যাই!",
+		"description": "Disclaimer located above the apply button."
+	},
+	"partners.apply.jobs": {
+		"message": "তুমি যদি বরং আগ্রহী হও PreMiD তে সরাসরি কাজের, তাহলে দেখতে পারো আমাদের **কাজের বিজ্ঞপ্তি**।",
+		"description": "Hint located under the button."
+	},
+	"partners.sponsors.title": {
+		"message": "স্পন্সর",
+		"description": "Heading for sponsors."
+	},
+	"partners.sponsors.description": {
+		"message": "PreMiD সম্ভব হতো না, এইসব অসাধারণ মানুষ ছাড়া।",
+		"description": "Description for sponsors."
+	},
+	"partners.partner.aniFlix": {
+		"message": "এইভাবে অ্যানিমে দেখতে হয়।",
+		"description": "Description for AniFlix."
+	},
+	"partners.partner.arenaOfKings": {
+		"message": "Arena of Kings হচ্ছে একটি পরবর্তী প্রজন্মের PvP এরিনা গেম যা ব্রাউজারে খেলা হয়।",
+		"description": "Description for Arena of Kings."
+	},
+	"partners.partner.simLiveRadio": {
+		"message": "SimLiveRadio হচ্ছে জার্মানি, অস্ট্রিয়া এবং সুইজারল্যান্ডে সিমুলেশন গেমগুলোর জন্য সবচেয়ে সফল বিনোদন এবং খবরের রেডিও!",
+		"description": "Description for SimLoveRadio."
+	},
+	"partners.partner.discordTemplates": {
+		"message": "তৈরি করা শুরু করো তোমার নিজস্ব কমিউনিটি আমাদের দারুণ সব টেম্পলেট দিয়ে। তৈরি করো তোমার নিজের রাজ্য।",
+		"description": "Description for DiscordTemplates."
+	},
+	"partners.partner.taigaBot": {
+		"message": "taiga হচ্ছে একটি Discord বট চেষ্টা করছে সমস্ত ফিচারগুলো একবারে দিতে যা প্রয়োজন হতে পারে!",
+		"description": "Description for taigabot."
+	},
+	"partners.partner.bitRock": {
+		"message": "সকল প্ল্যাটফর্মের ইন্সটলার তৈরিকারক টুল যা শক্তিশালী এবং সহজে ব্যবহার করা যায়।",
+		"description": "Description for BitRock."
+	},
+	"partners.partner.statusPage": {
+		"message": "সহজে তোমার ইউজারদের দাও রিয়েল-টাইম স্ট্যাটাস।",
+		"description": "Description for StatusPage."
+	},
+	"partners.partner.erisly": {
+		"message": "একজন দেবী যিনি মজার Discord বট এর মতো খেলেন!",
+		"description": "Description for Erisly."
+	},
+	"partners.partner.reyfm": {
+		"message": "REYFM শুনতে দেয় তোমাকে 15+ মিউজিক স্ট্রিমগুলো ফ্রিতে - ননস্টপ। সেরা এবং লেটেস্ট গান শুধু তোমার জন্যে!",
+		"description": "Description for REYFM."
+	},
+	"partners.partner.crowdin": {
+		"message": "টেক কোম্পানিগুলোর জন্য দ্রুত স্থানীয়করণ।",
+		"description": "Description for Crowdin."
+	},
+	"partners.partner.wikijs": {
+		"message": "সবচেয়ে শক্তিশালী এবং প্রসারণসাধ্য একটি ওপেন সোর্স উইকি সফটওয়্যার।",
+		"description": "Description for WikiJS."
+	},
+	"partners.partner.packageCloud": {
+		"message": "একটি সমন্বিত, সহজে ব্যবহার করা যায় এমন একটি ইন্টারফেস তোমার কাজের জন্য।",
+		"description": "Description for PackageCloud."
+	},
+	"partners.partner.fastly": {
+		"message": "ওয়েবের সেরার পিছনে।",
+		"description": "Description for Fastly."
+	},
+	"partners.partner.onlyhit": {
+		"message": "OnlyHit হচ্ছে তোমার অনলাইন মিউজিক রেডিও স্টেশন যা বাজায় সেরা গানগুলো 24/7 এবং আবিষ্কার করায় ভবিষ্যতের গানগুলো প্রথমে।",
+		"description": "Description for OnlyHit."
+	},
+	"partners.partner.rNetflix": {
+		"message": "r/Netflix হচ্ছে একটি বড় নেটফ্লিক্স সম্পর্কিত Discord সার্ভার। তোমার প্রিয় সিরিজ অথবা ফিল্ম নিয়ে আলোচনা করো এখানকার সমমনস্ক মানুষদের সাথে।",
+		"description": "Description for r/Netflix."
+	},
+	"partners.apply.title": {
+		"message": "পার্টনারের জন্য অ্যাপ্লাই করো",
+		"description": "Partnership application modal title."
+	},
+	"partners.apply.loggedUser": {
+		"message": "{0} হিসেবে লগইন করা হয়েছে",
+		"description": "{0} will be replaced with user account."
+	},
+	"partners.apply.notYou": {
+		"message": "তুমি না?",
+		"description": "Account switcher on the modal, just like Discord's!"
+	},
+	"partners.apply.select.default": {
+		"message": "একটা সিলেক্ট করো",
+		"description": "Select default placeholder."
+	},
+	"partners.apply.select.website": {
+		"message": "ওয়েবসাইট",
+		"description": "Select 'Website' category."
+	},
+	"partners.apply.select.other": {
+		"message": "অন্যান্য",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.form.name": {
+		"message": "নাম",
+		"description": "Name filed."
+	},
+	"partners.apply.form.name.placeholder": {
+		"message": "উদাহরণ: PreMiD",
+		"description": "Name field's placeholder."
+	},
+	"partners.apply.form.link": {
+		"message": "লিংক",
+		"description": "Link field."
+	},
+	"partners.apply.form.link.placeholder": {
+		"message": "যেমন: https://premid.app",
+		"description": "Link filed's placeholder."
+	},
+	"partners.apply.form.description": {
+		"message": "ডেসক্রিপশন: (সর্বোচ্চ 150 অক্ষর)",
+		"description": "Description field."
+	},
+	"partners.apply.form.description.placeholder": {
+		"message": "বৈশিষ্ট্যযুক্ত বর্ণনা লেখ",
+		"description": "Description field's placeholder."
+	},
+	"partners.apply.form.imageLink": {
+		"message": "ছবির লিংক: (550x300, শুধুমাত্র PNG)",
+		"description": "Do not change the sizes."
+	},
+	"partners.apply.form.imageLink.placeholder": {
+		"message": "উদাহরণ: https://i.imgur.com/clun1ID.png",
+		"description": "Image link field's placeholder. Do not change the image URL."
+	},
+	"partners.apply.form.button.close": {
+		"message": "বন্ধ করো",
+		"description": "Modal close button."
+	},
+	"partners.apply.form.button.apply": {
+		"message": "অ্যাপ্লাই",
+		"description": "Modal apply button."
+	},
+	"partners.apply.success": {
+		"message": "ধন্যবাদ অ্যাপ্লাই করার জন্য!",
+		"description": "Success message when applying."
+	},
+	"partners.apply.error1": {
+		"message": "সকল স্থান পূরণ করো।",
+		"description": "Error when a field isn't filled."
+	},
+	"partners.apply.error2": {
+		"message": "সর্বোচ্চ 150 অক্ষর হতে হবে।",
+		"description": "Error when description exceeds character limit."
+	},
+	"partners.apply.error3": {
+		"message": "একটি লিংক অ্যাড করো (শুরু হতে হবে https:// দিয়ে এবং শেষ হবে .png দিয়ে)",
+		"description": "Error when image link is entered wrong."
+	},
+	"partners.apply.error4": {
+		"message": "তুমি ইতিমধ্যেই অ্যাপ্লাই করেছ পার্টনারের জন্য।",
+		"description": "Error when already applied."
+	}
 }
