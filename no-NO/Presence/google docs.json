@@ -1,50 +1,50 @@
 {
-  "google docs.browsingDoc": {
-    "description": "Displayed when the user is browsing their Google Documents",
-    "message": "Blar gjennom dokumenter"
-  },
-  "google docs.browsingForm": {
-    "description": "Displayed when the user is browsing their Google Forms",
-    "message": "Blar gjennom skjemaer"
-  },
-  "google docs.browsingPresentation": {
-    "description": "Displayed when the user is browsing their Google presentation",
-    "message": "Blar gjennom presentasjoner"
-  },
-  "google docs.browsingSheet": {
-    "description": "Displayed when the user is browsing their Google Sheets",
-    "message": "Blar gjennom regneark"
-  },
-  "google docs.editingDoc": {
-    "description": "Displayed when the user is editing a Google Document",
-    "message": "Redigerer et dokument"
-  },
-  "google docs.editingForm": {
-    "description": "Displayed when the user is editing a Google Form",
-    "message": "Redigerer et skjema"
-  },
-  "google docs.editingPresentation": {
-    "description": "Displayed when the user is editing a Google presentation",
-    "message": "Redigerer en presentasjon"
-  },
-  "google docs.editingSheet": {
-    "description": "Displayed when the user is eiditng a Google Sheet",
-    "message": "Redigerer et regneark"
-  },
-  "google docs.viewingDoc": {
-    "description": "Displayed when the user is viewing a Google Document",
-    "message": "Ser på et dokument"
-  },
-  "google docs.viewingForm": {
-    "description": "Displayed when the user is viewing a Google Form",
-    "message": "Ser på et skjema"
-  },
-  "google docs.viewingPresentation": {
-    "description": "Displayed when the user is viewing a Google presentation",
-    "message": "Ser på en presentasjon"
-  },
-  "google docs.viewingSheet": {
-    "description": "Displayed when the user is viewing a Google Sheet",
-    "message": "Ser på et regneark"
-  }
+	"google docs.editingDoc": {
+		"message": "Redigerer et dokument",
+		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.viewingDoc": {
+		"message": "Ser på et dokument",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Blar gjennom dokumenter",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.editingForm": {
+		"message": "Redigerer et skjema",
+		"description": "Displayed when the user is editing a Google Form"
+	},
+	"google docs.viewingForm": {
+		"message": "Ser på et skjema",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "Blar gjennom skjemaer",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.editingSheet": {
+		"message": "Redigerer et regneark",
+		"description": "Displayed when the user is eiditng a Google Sheet"
+	},
+	"google docs.viewingSheet": {
+		"message": "Ser på et regneark",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.browsingSheet": {
+		"message": "Blar gjennom regneark",
+		"description": "Displayed when the user is browsing their Google Sheets"
+	},
+	"google docs.editingPresentation": {
+		"message": "Redigerer en presentasjon",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Ser på en presentasjon",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Blar gjennom presentasjoner",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
 }
