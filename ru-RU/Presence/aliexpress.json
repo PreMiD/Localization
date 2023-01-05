@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Смотрит адреса"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Смотрит свои купоны"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "удалённые заказы"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "Обратная связь AliExpress"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "Справочный центр AliExpress"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Центр сообщений"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Смотрит свои заказы"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "Смотрит свои недавно"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "просмотренные товары"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Возвраты и споры"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Смотрит распродажи"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "Центр продаж AliExpress"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Смотрит магазина:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "Смотрит на AliExpress"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "Торговый центр AliExpress"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Смотрит свои"
-  }
+    "aliexpress.store": {
+        "message": "Смотрит магазина:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Центр сообщений",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Смотрит распродажи",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Смотрит свои недавно",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "просмотренные товары",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Смотрит на AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "Обратная связь AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Смотрит свои заказы",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Смотрит свои",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Возвраты и споры",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "удалённые заказы",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "Торговый центр AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Смотрит свои купоны",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Смотрит адреса",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Справочный центр AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Центр продаж AliExpress",
+        "description": ""
+    }
 }
