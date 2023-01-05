@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "বর্তমানে একটি অ্যাড দেখছে"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "ব্রাউজ করছে প্লেলিস্টগুলো"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "ব্রাউজ করছে"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "ব্রাউজ করছে ভিডিওগুলো"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "তার ইতিহাস"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "তার লাইব্রেরি"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "চ্যানেল:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "তার ক্রয়ে"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "পড়ছে চ্যানেল সম্বন্ধে:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "দেখছে তার রিপোর্ট ইতিহাস"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "সার্চ করছে চ্যানেল: {0} যার জন্য:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "আর্টিস্ট পেজ"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "চ্যানেল অ্যানালিটিক্স"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "চ্যানেল কমেন্টগুলো"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "চ্যানেল অনুবাদগুলো"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "দেখছে তার ড্যাশবোর্ড"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "এডিট করছে ভিডিও:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "দেখছে ভিডিওটির অ্যানালিটিক্স:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "দেখছে ভিডিওটির কমেন্টগুলো:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "দেখছে ভিডিওটির অনুবাদগুলো:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "দেখছে তার"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "দেখছে তার ভিডিওগুলো"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "তার সাবস্ক্রিবশনগুলো"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "দেখছে কী ট্রেন্ডিং এ"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "কিছু একটা আপলোড করছে..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "দেখছে তার সব প্লেলিস্টগুলো"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "দেখছে অডিও লাইব্রেরি"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "দেখছে তার লাইভ ড্যাশবোর্ড"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "দেখছে তার লাইভ ইভেন্টগুলো"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "দেখছে কমিউনিটি পোস্টগুলো"
-  }
+    "youtube.ad": {
+        "message": "বর্তমানে একটি অ্যাড দেখছে",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "ব্রাউজ করছে ভিডিওগুলো",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "ব্রাউজ করছে প্লেলিস্টগুলো",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "দেখছে কমিউনিটি পোস্টগুলো",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "চ্যানেল:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "পড়ছে চ্যানেল সম্বন্ধে:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "সার্চ করছে চ্যানেল: {0} যার জন্য:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "দেখছে কী ট্রেন্ডিং এ",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "ব্রাউজ করছে",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "তার সাবস্ক্রিবশনগুলো",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "তার লাইব্রেরি",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "তার ইতিহাস",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "তার ক্রয়ে",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "দেখছে তার রিপোর্ট ইতিহাস",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "কিছু একটা আপলোড করছে...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "দেখছে তার সব প্লেলিস্টগুলো",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "দেখছে তার লাইভ ইভেন্টগুলো",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "দেখছে তার লাইভ ড্যাশবোর্ড",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "দেখছে অডিও লাইব্রেরি",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "দেখছে তার ভিডিওগুলো",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "এডিট করছে ভিডিও:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "দেখছে ভিডিওটির অ্যানালিটিক্স:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "দেখছে ভিডিওটির কমেন্টগুলো:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "দেখছে ভিডিওটির অনুবাদগুলো:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "দেখছে তার",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "চ্যানেল অ্যানালিটিক্স",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "চ্যানেল কমেন্টগুলো",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "চ্যানেল অনুবাদগুলো",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "আর্টিস্ট পেজ",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "দেখছে তার ড্যাশবোর্ড",
+        "description": ""
+    }
 }
