@@ -1,6 +1,6 @@
 {
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Skatās DMs"
-  }
+	"twitter.viewDms": {
+		"message": "Skatās DMs",
+		"description": ""
+	}
 }
