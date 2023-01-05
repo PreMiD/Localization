@@ -1,150 +1,150 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "به کمک نیاز دارید?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "فروشگاه Presence ها"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "همه"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "انیمه"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "بازی‌ها"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "موسیقی"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "ديگر"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "شبکه های اجتماعی"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "ویدیو ها و پخش های زنده"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "اوه نه!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "خطا در حین بارگذاری عوامل تهیه"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "توضیحات"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "عمومی"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Presence ها"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "تنظيمات"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "اتصال اینترنتی برقرار نیست!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "به نظر میاد شما اتصالی به اینترنت ندارید! PreMiD نمی تواند presence ها را در حال حاضر نمایش دهد."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "اتصال برقرار نشده است"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD به برنامه اش متصل نشده است! آیا آن را نصب کرده اید و در حال اجراست؟ *عیب یابی*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "هیچ اتصالی با دیسکورد برقرار نشد!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD نتوانست به برنامه دیسکورد شما متصل شود! آیا آن را نصب کرده اید و درحال اجراست؟ *عیب یابی کردن*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "افزونه منسوخ شده"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "افزونه شما منسوخ شده است. لطفا با دانلود کردن آخرین نسخه از سایت‌مان برای استفاده از آخرین ویژگی های تعبیه شده، افزونه را بروزرسانی نمایید."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "بروزرسانی ضروری"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "ما یک بروزرسانی فوری برای افزونه عرضه کردیم. لطفا برای ادامه استفاده از PreMiD آن را بروزرسانی کنید."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "نسخه برنامه از کارافتاده"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "نسخه PreMiD شما از از کار افتاده. لطفا آن را بروزرسانی کنید تا بتوانید به استفاده از PreMiD ادامه دهید."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "عوامل تهیه"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "تنظیمات"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "انجام شد"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "بارگذاری Presence ها"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "مدیریت"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "هیچ Presence اضافه نشده"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "بازشدن خودکار"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "فعال شد"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "کنترل رسانه ها"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "عنوان نوار منو"
-  }
+	"popup.navigation.settings": {
+		"message": "تنظیمات",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "عوامل تهیه",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "تنظيمات",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "عمومی",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "توضیحات",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "فعال شد",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "کنترل رسانه ها",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "عنوان نوار منو",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "بازشدن خودکار",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Presence ها",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "مدیریت",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "هیچ Presence اضافه نشده",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "انجام شد",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "بارگذاری Presence ها",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "فروشگاه Presence ها",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "به کمک نیاز دارید?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "اوه نه!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "خطا در حین بارگذاری عوامل تهیه",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "اتصال برقرار نشده است",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD به برنامه اش متصل نشده است! آیا آن را نصب کرده اید و در حال اجراست؟ *عیب یابی*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "نسخه برنامه از کارافتاده",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "نسخه PreMiD شما از از کار افتاده. لطفا آن را بروزرسانی کنید تا بتوانید به استفاده از PreMiD ادامه دهید.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "افزونه منسوخ شده",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "افزونه شما منسوخ شده است. لطفا با دانلود کردن آخرین نسخه از سایت‌مان برای استفاده از آخرین ویژگی های تعبیه شده، افزونه را بروزرسانی نمایید.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "بروزرسانی ضروری",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "ما یک بروزرسانی فوری برای افزونه عرضه کردیم. لطفا برای ادامه استفاده از PreMiD آن را بروزرسانی کنید.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "اتصال اینترنتی برقرار نیست!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "به نظر میاد شما اتصالی به اینترنت ندارید! PreMiD نمی تواند presence ها را در حال حاضر نمایش دهد.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "هیچ اتصالی با دیسکورد برقرار نشد!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD نتوانست به برنامه دیسکورد شما متصل شود! آیا آن را نصب کرده اید و درحال اجراست؟ *عیب یابی کردن*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "همه",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "انیمه",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "موسیقی",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "بازی‌ها",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "شبکه های اجتماعی",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "ویدیو ها و پخش های زنده",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "ديگر",
+		"description": "Category name shown when you open tags"
+	}
 }
