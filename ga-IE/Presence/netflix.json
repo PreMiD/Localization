@@ -1,18 +1,18 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Ag féachaint ar a bhfuil nua agus {0} a bhfuil tóir air ar Netflix"
-  },
-  "netflix.profile": {
-    "description": "",
-    "message": "A gcuid próifílí a bhainistiú"
-  },
-  "netflix.referral": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "A nasc atreoraithe {0} a fháil"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "Ag féachaint ar a liosta"
-  }
+	"netflix.viewList": {
+		"message": "Ag féachaint ar a liosta",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "A gcuid próifílí a bhainistiú",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Ag féachaint ar a bhfuil nua agus {0} a bhfuil tóir air ar Netflix",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"netflix.referral": {
+		"message": "A nasc atreoraithe {0} a fháil",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
