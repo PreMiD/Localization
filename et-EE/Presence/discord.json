@@ -1,186 +1,186 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Discordi blog"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "brändingu lehe"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Sirvimine läbi"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Kuva Kutse linki"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Kanalis lugemine:{0}{1} (server: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Kanalis kirjutamine:{0}{1} (server: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "kolledži lehe"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "teabe lehe"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "Nende rakenduste sirvimine"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "Rakenduse muutmine: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "Dokumentatsiooni lugemine"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "Arendaja portaal"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "Sirvib servereid"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "Serveri statistika vaatamine: {0}"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "Sirvib meeskondi"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "Redigeerimismeeskond: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Lugemine grupi DM-ides:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Kirjutamine grupi DM-idess:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "DM-ide lugemine:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Kirjutamine DM-ides:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "allalaadimiste lehe"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Sõprade vaatamine..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "inspiratsiooni lehe"
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "Kutselingi vaatamine:{0}{1} (server: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Serveri kutselingi{0}vaatamine: {1}"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "töökoha lehe"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discordi kaup"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Kollektsiooni vaatamine:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "modereerimise lehe"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "uudisteruumi lehe"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "Nitro kohta lugemine..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "avatud lähtekoodiga lehe"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "partneri lehe"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "poliitika lehe"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "rikkaliku presence-i lehe"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "ohutuskeskuse"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "turvalisus lehe"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Serveri seadete{0}vaatamine: {1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Seadete vaatamine..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Discordi olek"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "streamKiti lehe"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Abikeskus"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "kinnituslehe"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Hääl on ühendatud:{0}{1} (server: {2})"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "Hääl ühendatud:{0}{1}"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "\"Miks discord?\" lehe"
-  }
+	"discord.channelReading": {
+		"message": "Kanalis lugemine:{0}{1} (server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Kanalis kirjutamine:{0}{1} (server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "DM-ide lugemine:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Kirjutamine DM-ides:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Lugemine grupi DM-ides:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Kirjutamine grupi DM-idess:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "Sõprade vaatamine...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Nitro kohta lugemine...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "Hääl ühendatud:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "Hääl on ühendatud:{0}{1} (server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "Seadete vaatamine...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Serveri seadete{0}vaatamine: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "Kutselingi vaatamine:{0}{1} (server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "Serveri kutselingi{0}vaatamine: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Kuva Kutse linki",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Sirvimine läbi",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "allalaadimiste lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "\"Miks discord?\" lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "ohutuskeskuse",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "töökoha lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "teabe lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "brändingu lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "inspiratsiooni lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "kolledži lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "uudisteruumi lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "partneri lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "kinnituslehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "streamKiti lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "avatud lähtekoodiga lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "turvalisus lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "modereerimise lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "rikkaliku presence-i lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "poliitika lehe",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Arendaja portaal",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Nende rakenduste sirvimine",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Rakenduse muutmine: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Sirvib meeskondi",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Redigeerimismeeskond: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Sirvib servereid",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Serveri statistika vaatamine: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Dokumentatsiooni lugemine",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discordi olek",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Abikeskus",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discordi blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discordi kaup",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Kollektsiooni vaatamine:",
+		"description": ""
+	}
 }
