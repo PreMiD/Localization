@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "نشانک ها"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "کاوش"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "اعلانات"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "درحال خواندن توییت از:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "تغییر دادن یک سری تنظیمات..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "مشاهده DM هایشان"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "مشاهده لایک شده توسط:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "درحال نگاه کردن لیست:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "درحال نگاه کردن رسانه از:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "نگاه کردن توییت های:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "نگاه کردن توییت های (با پاسخ) از:"
-  }
+	"twitter.readTweet": {
+		"message": "درحال خواندن توییت از:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "مشاهده DM هایشان",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "نگاه کردن توییت های:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "نگاه کردن توییت های (با پاسخ) از:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "درحال نگاه کردن رسانه از:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "مشاهده لایک شده توسط:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "درحال نگاه کردن لیست:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "نشانک ها",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "اعلانات",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "کاوش",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "تغییر دادن یک سری تنظیمات...",
+		"description": ""
+	}
 }
