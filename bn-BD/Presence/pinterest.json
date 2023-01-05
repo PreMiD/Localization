@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "দেখছে বোর্ড:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "দেখছে তার ফলোইং"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "তার হোমপেজ এডিট করছে"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "দেখছে একটি পিন"
-  }
+    "pinterest.board": {
+        "message": "দেখছে বোর্ড:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "দেখছে একটি পিন",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "দেখছে তার ফলোইং",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "তার হোমপেজ এডিট করছে",
+        "description": ""
+    }
 }
