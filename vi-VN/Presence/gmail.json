@@ -1,122 +1,122 @@
 {
-  "gmail.accountSetting": {
-    "description": "Displayed when the user is modifying their account's settings",
-    "message": "Đang chỉnh sửa Cài đặt tài khoản và nhập dữ liệu"
-  },
-  "gmail.addonsSettings": {
-    "description": "Displayed when the user is modifying their add-ons",
-    "message": "Đang chỉnh sửa Phần mở rộng"
-  },
-  "gmail.advancedSettings": {
-    "description": "Displayed when the user is modifying their advanced settings",
-    "message": "Đang chỉnh sửa Cài đặt nâng cao"
-  },
-  "gmail.categoryForum": {
-    "description": "Displayed when viewing emails in the forums category.",
-    "message": "Đang xem danh mục Diễn đàn"
-  },
   "gmail.categoryPrimary": {
-    "description": "Displayed when viewing emails in the primary category.",
-    "message": "Đang xem danh mục Chính"
-  },
-  "gmail.categoryPromotions": {
-    "description": "Displayed when viewing emails in the promotions category.",
-    "message": "Đang xem danh mục Quảng cáo"
+    "message": "Đang xem danh mục Chính",
+    "description": "Displayed when viewing emails in the primary category."
   },
   "gmail.categorySocial": {
-    "description": "Displayed when viewing emails in the social category.",
-    "message": "Đang xem danh mục Mạng xã hội"
+    "message": "Đang xem danh mục Mạng xã hội",
+    "description": "Displayed when viewing emails in the social category."
   },
   "gmail.categoryUpdates": {
-    "description": "Displayed when viewing emails in the updates category.",
-    "message": "Đang xem danh mục Nội dung cập nhật"
+    "message": "Đang xem danh mục Nội dung cập nhật",
+    "description": "Displayed when viewing emails in the updates category."
   },
-  "gmail.chatSettings": {
-    "description": "Displayed when the user is modifying their chat settings",
-    "message": "Đang chỉnh sửa Cài đặt trò chuyện và Meet"
+  "gmail.categoryPromotions": {
+    "message": "Đang xem danh mục Quảng cáo",
+    "description": "Displayed when viewing emails in the promotions category."
   },
-  "gmail.composingEmail": {
-    "description": "Displayed when the user is composing an email",
-    "message": "Đang viết một email"
-  },
-  "gmail.filterSettings": {
-    "description": "Displayed when the user is modifying their filters and blocked addresses",
-    "message": "Đang chỉnh sửa Bộ lọc và Địa chỉ bị chặn"
-  },
-  "gmail.fwdAndPOPSettings": {
-    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
-    "message": "Đang chỉnh sửa Cài đặt chuyển tiếp và POP/IMAP"
-  },
-  "gmail.generalSettings": {
-    "description": "Displayed when the user is modifying their settings",
-    "message": "Đang chỉnh sửa Cài đặt chung"
+  "gmail.categoryForum": {
+    "message": "Đang xem danh mục Diễn đàn",
+    "description": "Displayed when viewing emails in the forums category."
   },
   "gmail.inLabel": {
-    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
-    "message": "Đang xem nhãn"
+    "message": "Đang xem nhãn",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
   },
-  "gmail.inboxSettings": {
-    "description": "Displayed when the user is modifying their inbox settings",
-    "message": "Đang chỉnh sửa Cài đặt hộp thư đến"
+  "gmail.generalSettings": {
+    "message": "Đang chỉnh sửa Cài đặt chung",
+    "description": "Displayed when the user is modifying their settings"
   },
   "gmail.labelSettings": {
-    "description": "Displayed when the user is modifying their labels",
-    "message": "Đang chỉnh sửa Cài đặt nhãn"
+    "message": "Đang chỉnh sửa Cài đặt nhãn",
+    "description": "Displayed when the user is modifying their labels"
   },
-  "gmail.lookingForEmail": {
-    "description": "Displayed when the user is searching for an email",
-    "message": "Đang tìm email"
+  "gmail.inboxSettings": {
+    "message": "Đang chỉnh sửa Cài đặt hộp thư đến",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "Đang chỉnh sửa Cài đặt tài khoản và nhập dữ liệu",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "Đang chỉnh sửa Bộ lọc và Địa chỉ bị chặn",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "Đang chỉnh sửa Cài đặt chuyển tiếp và POP/IMAP",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "Đang chỉnh sửa Phần mở rộng",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "Đang chỉnh sửa Cài đặt trò chuyện và Meet",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "Đang chỉnh sửa Cài đặt nâng cao",
+    "description": "Displayed when the user is modifying their advanced settings"
   },
   "gmail.offlineSettings": {
-    "description": "Displayed when the user is modifying their offline settings",
-    "message": "Đang chỉnh sửa Cài đặt ngoại tuyến"
+    "message": "Đang chỉnh sửa Cài đặt ngoại tuyến",
+    "description": "Displayed when the user is modifying their offline settings"
   },
   "gmail.themesSettings": {
-    "description": "Displayed when the user is modifying their theme in the settings",
-    "message": "Đang chọn chủ đề"
+    "message": "Đang chọn chủ đề",
+    "description": "Displayed when the user is modifying their theme in the settings"
   },
-  "gmail.viewingAllEmails": {
-    "description": "Displayed when the user is viewing all their emails",
-    "message": "Đang xem tất cả email"
-  },
-  "gmail.viewingChats": {
-    "description": "Displayed when the user is viewing their chats",
-    "message": "Đang đọc tin nhắn"
-  },
-  "gmail.viewingDrafts": {
-    "description": "Displayed when the user is viewing their drafts",
-    "message": "Đang xem thư nháp"
+  "gmail.lookingForEmail": {
+    "message": "Đang tìm email",
+    "description": "Displayed when the user is searching for an email"
   },
   "gmail.viewingEmail": {
-    "description": "Displayed when the user is viewing an email",
-    "message": "Đang xem một email"
-  },
-  "gmail.viewingImportantEmails": {
-    "description": "Displayed when the user is viewing emails marked as important",
-    "message": "Đang xem email quan trọng"
-  },
-  "gmail.viewingScheduled": {
-    "description": "Displayed when the user is viewing their scheduled emails",
-    "message": "Đang đọc email đã được lên lịch"
-  },
-  "gmail.viewingSentEmails": {
-    "description": "Displayed when the user is viewing the emails they have sent",
-    "message": "Đang xem email đã gửi"
-  },
-  "gmail.viewingSnoozedEmails": {
-    "description": "Displayed when the user is viewing their snoozed emails",
-    "message": "Đang xem email đã ẩn"
-  },
-  "gmail.viewingSpam": {
-    "description": "Displayed when the user is viewing their spam",
-    "message": "Đang đọc thư rác"
+    "message": "Đang xem một email",
+    "description": "Displayed when the user is viewing an email"
   },
   "gmail.viewingStarredEmails": {
-    "description": "Displayed when the user is viewing emails marked with a star",
-    "message": "Đang xem email được gắn dấu sao"
+    "message": "Đang xem email được gắn dấu sao",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "Đang xem email đã gửi",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "Đang xem email đã ẩn",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "Đang xem thư nháp",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "Đang xem email quan trọng",
+    "description": "Displayed when the user is viewing emails marked as important"
   },
   "gmail.viewingTrash": {
-    "description": "Displayed when the user is viewing their trash",
-    "message": "Đang xem thùng rác"
+    "message": "Đang xem thùng rác",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "Đang đọc tin nhắn",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "Đang đọc email đã được lên lịch",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "Đang đọc thư rác",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "Đang xem tất cả email",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "Đang viết một email",
+    "description": "Displayed when the user is composing an email"
   }
 }
